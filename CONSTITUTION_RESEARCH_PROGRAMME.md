@@ -14,6 +14,8 @@ The guiding conjecture remains **non-additive common constitution**. GWT is a pr
 
 [The neural-timing audit](NEURAL_TIMING_CONSTITUTION_AUDIT.md) now checks primary analysis code rather than only protocol prose. It separates an intrinsic candidate boundary from its smoothed, thresholded measurement and supplies an explicit correction example. The inspected files do not identify the workspace or an episode clock, and no neural results were reproduced. This constrains M2–M3 rather than claiming to complete them.
 
+[The maintenance/distribution audit](MAINTENANCE_BROADCAST_SEPARATION.md) now provides a concrete separating-intervention design and its limits. Ordinary distribution lesions can change core feedback, and baseline replay is weaker than counterfactual preservation. An implemented closed-loop replacement matches only a declared reduced transition structure, not the full physical process. This makes the preservation premise of M2–M5 explicit rather than manufacturing a consciousness verdict.
+
 ## 1. The object to identify
 
 For a concretely realized physical process P, seek a law

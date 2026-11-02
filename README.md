@@ -15,6 +15,7 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 - [SR-inspired geometry construction](research/constitutive_geometry/REPORT.md): explicit response geometry, transformations, measurement conditions, and limitations.
 - [Workspace togetherness candidate](WORKSPACE_TOGETHERNESS_CANDIDATE.md): a local hypothesis and primary protocol assessment, not a completed episode law.
+- [Maintenance versus broadcast](MAINTENANCE_BROADCAST_SEPARATION.md): a controlled intervention comparison and the limits of trajectory replay.
 - [Neural timing audit](NEURAL_TIMING_CONSTITUTION_AUDIT.md): source-code assessment distinguishing an analysis-derived duration from an intrinsic episode clock.
 - [Realized-process candidate](REALIZED_PROCESS_CANDIDATE.md), [episode incidence](EPISODE_INCIDENCE_REFORMULATION.md), and [qualitative equivalence](QUALITATIVE_EQUIVALENCE_AUDIT.md).
 
@@ -49,9 +50,10 @@ Additional independent checks:
 ```bash
 python verification/integration_overlap.py
 python verification/cogitate_analysis_audit.py
+python verification/workspace_intervention_audit.py
 ```
 
-The latter verifies pinned source hashes and selected static/code-semantic witnesses; it does not execute the third-party neural pipeline. These checks are separate from the 1,149-test count.
+The COGITATE audit verifies pinned source hashes and selected static/code-semantic witnesses; it does not execute the third-party neural pipeline. The workspace audit checks reduced transition equivalence and replay counterexamples in the existing software model. These checks are separate from the 1,149-test count.
 
 `verification/constitutive_checks.py` additionally requires SymPy and can be run separately in an environment where that dependency is installed.
 
