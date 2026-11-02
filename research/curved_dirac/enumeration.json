@@ -1,0 +1,73 @@
+{
+  "scope": "static curved-background diagnostics; Galerkin spectra do not prove a lattice vacuum limit",
+  "parameters": {
+    "mass": 0.7,
+    "epsilon": 0.2,
+    "q": 1
+  },
+  "curvature_at_origin": -0.23148148148148148,
+  "unit_null_patch_volume": 0.7150618548580409,
+  "galerkin": {
+    "spatial_mode_indices": [
+      -1,
+      0,
+      1
+    ],
+    "eigenvalues": [
+      -1.2350873147765045,
+      -1.2217449222325194,
+      -0.6866576074560151,
+      0.6866576074560151,
+      1.2217449222325194,
+      1.2350873147765045
+    ],
+    "proved_continuum_gap_lower_bound": 0.5599999999999999,
+    "finite_minimum_abs_eigenvalue": 0.6866576074560151,
+    "projector_residual": 1.953792871141578e-15,
+    "curved_stationarity_commutator": 5.181248930707777e-16,
+    "flat_stationarity_commutator": 0.09143379052887811
+  },
+  "volume_refinement": [
+    {
+      "level": 1,
+      "summed_volume": 0.7150618548580409,
+      "parent_difference": 0.0
+    },
+    {
+      "level": 2,
+      "summed_volume": 0.7150618548580407,
+      "parent_difference": 1.1102230246251565e-16
+    },
+    {
+      "level": 3,
+      "summed_volume": 0.7150618548580412,
+      "parent_difference": 3.3306690738754696e-16
+    }
+  ],
+  "variable_walk_cauchy": [
+    {
+      "spacing": 0.1,
+      "distance_to_fine_cell_walk": 0.07531959418131742,
+      "norm_squared": 0.36691864533471313,
+      "support_sites": 15
+    },
+    {
+      "spacing": 0.05,
+      "distance_to_fine_cell_walk": 0.03770541452182927,
+      "norm_squared": 0.370478094980083,
+      "support_sites": 29
+    },
+    {
+      "spacing": 0.025,
+      "distance_to_fine_cell_walk": 0.018880634368452734,
+      "norm_squared": 0.37137993688275023,
+      "support_sites": 57
+    },
+    {
+      "spacing": 0.0125,
+      "distance_to_fine_cell_walk": 0.009655830302618379,
+      "norm_squared": 0.3716061711434315,
+      "support_sites": 113
+    }
+  ]
+}

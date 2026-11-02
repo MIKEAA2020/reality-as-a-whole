@@ -1,0 +1,29 @@
+test_01_occupation_positive (test_model.NonthermalTests.test_01_occupation_positive) ... ok
+test_02_compact_support (test_model.NonthermalTests.test_02_compact_support) ... ok
+test_03_moment1 (test_model.NonthermalTests.test_03_moment1) ... ok
+test_04_moment3 (test_model.NonthermalTests.test_04_moment3) ... ok
+test_05_moment_quadrature (test_model.NonthermalTests.test_05_moment_quadrature) ... ok
+test_06_fibre_positive (test_model.NonthermalTests.test_06_fibre_positive) ... ok
+test_07_stationarity (test_model.NonthermalTests.test_07_stationarity) ... ok
+test_08_not_thermal (test_model.NonthermalTests.test_08_not_thermal) ... ok
+test_09_ratio_bound (test_model.NonthermalTests.test_09_ratio_bound) ... ok
+test_10_energy_bound (test_model.NonthermalTests.test_10_energy_bound) ... ok
+test_11_current_limit (test_model.NonthermalTests.test_11_current_limit) ... ok
+test_12_fixed_site_factor (test_model.NonthermalTests.test_12_fixed_site_factor) ... ok
+test_13_mixed_fixed_limit (test_model.NonthermalTests.test_13_mixed_fixed_limit) ... ok
+test_14_mixed_vanishes (test_model.NonthermalTests.test_14_mixed_vanishes) ... ok
+test_15_energy_current_agree (test_model.NonthermalTests.test_15_energy_current_agree) ... ok
+test_16_equal_stress_targets (test_model.NonthermalTests.test_16_equal_stress_targets) ... ok
+test_17_different_higher_moments (test_model.NonthermalTests.test_17_different_higher_moments) ... ok
+test_18_different_states (test_model.NonthermalTests.test_18_different_states) ... ok
+test_19_finite_spacing_discriminates (test_model.NonthermalTests.test_19_finite_spacing_discriminates) ... ok
+test_20_positive_covariance (test_model.NonthermalTests.test_20_positive_covariance) ... ok
+test_21_actual_operator (test_model.NonthermalTests.test_21_actual_operator) ... ok
+test_22_zero_excitation (test_model.NonthermalTests.test_22_zero_excitation) ... ok
+test_23_refinement (test_model.NonthermalTests.test_23_refinement) ... ok
+test_24_validation (test_model.NonthermalTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.038s
+
+OK

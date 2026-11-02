@@ -1,0 +1,29 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local secrets/configuration (never add credentials)
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system clutter
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Disposable coverage output
+.coverage
+.coverage.*
+htmlcov/
+coverage/
+
+# Research results.log files and diagnostic JSON are intentional evidence
+# artifacts, not blanket-ignored application logs.

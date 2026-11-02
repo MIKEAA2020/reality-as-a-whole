@@ -1,0 +1,92 @@
+{
+  "scope": "finite periodic diagnostics; infinite-line proof uses a common core and uniform gap",
+  "regulator": "central-difference Hamiltonian, not variable Floquet walk",
+  "uniform_gap_lower_bound": 0.5599999999999999,
+  "periodic_low_mode_comparisons": [
+    {
+      "sites": 5,
+      "spacing_on_circle_2pi": 1.2566370614359172,
+      "minimum_absolute_energy": 0.6770956642464276,
+      "negative_rank": 5,
+      "fixed_low_smear_projection_error": 0.021087219999464227,
+      "two_point_error": 0.005611343454580005,
+      "wick_density_pair_error": 0.00411467675212517,
+      "reference": "continuum-circle Galerkin, 19 spatial modes"
+    },
+    {
+      "sites": 7,
+      "spacing_on_circle_2pi": 0.8975979010256552,
+      "minimum_absolute_energy": 0.6826859327491602,
+      "negative_rank": 7,
+      "fixed_low_smear_projection_error": 0.010364200287894674,
+      "two_point_error": 0.002833428735876258,
+      "wick_density_pair_error": 0.0020767739121804276,
+      "reference": "continuum-circle Galerkin, 19 spatial modes"
+    },
+    {
+      "sites": 11,
+      "spacing_on_circle_2pi": 0.5711986642890533,
+      "minimum_absolute_energy": 0.6852198309089357,
+      "negative_rank": 11,
+      "fixed_low_smear_projection_error": 0.004101765537181066,
+      "two_point_error": 0.001138890383178247,
+      "wick_density_pair_error": 0.0008345791756451462,
+      "reference": "continuum-circle Galerkin, 19 spatial modes"
+    },
+    {
+      "sites": 15,
+      "spacing_on_circle_2pi": 0.41887902047863906,
+      "minimum_absolute_energy": 0.6859218229981896,
+      "negative_rank": 15,
+      "fixed_low_smear_projection_error": 0.002189617489674991,
+      "two_point_error": 0.0006107869577788529,
+      "wick_density_pair_error": 0.0004475917013158356,
+      "reference": "continuum-circle Galerkin, 19 spatial modes"
+    }
+  ],
+  "core_derivative_diagnostics": [
+    {
+      "spacing": 0.1,
+      "centered_derivative_vs_averaged_derivative_error": 0.20454763797716655
+    },
+    {
+      "spacing": 0.05,
+      "centered_derivative_vs_averaged_derivative_error": 0.057147698692477926
+    },
+    {
+      "spacing": 0.025,
+      "centered_derivative_vs_averaged_derivative_error": 0.015041537953092807
+    },
+    {
+      "spacing": 0.0125,
+      "centered_derivative_vs_averaged_derivative_error": 0.0038537562033289837
+    }
+  ],
+  "spacelike_tail": {
+    "site_distance": 2,
+    "time_over_spacing": 0.1,
+    "massless_amplitude_abs": 0.001248958658799919
+  },
+  "doubling_projector_witness": [
+    {
+      "inverse_spacing": 20,
+      "changing_momentum": 62.781853071795865,
+      "projector_error": 0.6773613360969527
+    },
+    {
+      "inverse_spacing": 40,
+      "changing_momentum": 125.63870614359172,
+      "projector_error": 0.6923659186545986
+    },
+    {
+      "inverse_spacing": 80,
+      "changing_momentum": 251.31491228718346,
+      "projector_error": 0.6997717047963253
+    },
+    {
+      "inverse_spacing": 160,
+      "changing_momentum": 502.6485745743669,
+      "projector_error": 0.7034483729773205
+    }
+  ]
+}

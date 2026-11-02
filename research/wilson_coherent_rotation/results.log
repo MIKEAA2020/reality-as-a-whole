@@ -1,0 +1,29 @@
+test_01_rotated_covariance_projection (test_model.CoherenceTests.test_01_rotated_covariance_projection) ... ok
+test_02_covariance_trace_one (test_model.CoherenceTests.test_02_covariance_trace_one) ... ok
+test_03_relative_kernel_not_diagonal (test_model.CoherenceTests.test_03_relative_kernel_not_diagonal) ... ok
+test_04_signed_determinant (test_model.CoherenceTests.test_04_signed_determinant) ... ok
+test_05_hole_band_energy (test_model.CoherenceTests.test_05_hole_band_energy) ... ok
+test_06_compressed_positive (test_model.CoherenceTests.test_06_compressed_positive) ... ok
+test_07_fock_expectation (test_model.CoherenceTests.test_07_fock_expectation) ... ok
+test_08_kernel_hermitian (test_model.CoherenceTests.test_08_kernel_hermitian) ... ok
+test_09_gram_identity (test_model.CoherenceTests.test_09_gram_identity) ... ok
+test_10_phase_matters_locally (test_model.CoherenceTests.test_10_phase_matters_locally) ... ok
+test_11_dephasing_changes_stress (test_model.CoherenceTests.test_11_dephasing_changes_stress) ... ok
+test_12_bound (test_model.CoherenceTests.test_12_bound) ... ok
+test_13_mesoscopic_limit (test_model.CoherenceTests.test_13_mesoscopic_limit) ... ok
+test_14_fixed_site_factor (test_model.CoherenceTests.test_14_fixed_site_factor) ... ok
+test_15_local_hamiltonian_agrees (test_model.CoherenceTests.test_15_local_hamiltonian_agrees) ... ok
+test_16_total_energy (test_model.CoherenceTests.test_16_total_energy) ... ok
+test_17_total_spectral_limit (test_model.CoherenceTests.test_17_total_spectral_limit) ... ok
+test_18_vacuum_angle (test_model.CoherenceTests.test_18_vacuum_angle) ... ok
+test_19_full_swap_has_no_coherence (test_model.CoherenceTests.test_19_full_swap_has_no_coherence) ... ok
+test_20_translation (test_model.CoherenceTests.test_20_translation) ... ok
+test_21_phase_periodic (test_model.CoherenceTests.test_21_phase_periodic) ... ok
+test_22_two_point_reconstruction (test_model.CoherenceTests.test_22_two_point_reconstruction) ... ok
+test_23_refinement (test_model.CoherenceTests.test_23_refinement) ... ok
+test_24_validation (test_model.CoherenceTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.255s
+
+OK

@@ -1,0 +1,38 @@
+test_angular_chart_is_flat (test_model.GeometryTests.test_angular_chart_is_flat) ... ok
+test_bad_derivative_rejected (test_model.GeometryTests.test_bad_derivative_rejected) ... ok
+test_bad_kernel_rejected (test_model.GeometryTests.test_bad_kernel_rejected) ... ok
+test_bad_normalization_rejected (test_model.GeometryTests.test_bad_normalization_rejected) ... ok
+test_boundaries_rejected (test_model.GeometryTests.test_boundaries_rejected) ... ok
+test_coarsegrain_one_component (test_model.GeometryTests.test_coarsegrain_one_component) ... ok
+test_copy_interpretation_as_independent_is_wrong (test_model.GeometryTests.test_copy_interpretation_as_independent_is_wrong) ... ok
+test_erasure_is_null (test_model.GeometryTests.test_erasure_is_null) ... ok
+test_exact_product_metric (test_model.GeometryTests.test_exact_product_metric) ... ok
+test_faithful_copy_adds_no_information (test_model.GeometryTests.test_faithful_copy_adds_no_information) ... ok
+test_formula_over_rational_grid (test_model.GeometryTests.test_formula_over_rational_grid) ... ok
+test_fully_noisy_monitor_is_null (test_model.GeometryTests.test_fully_noisy_monitor_is_null) ... ok
+test_general_stochastic_kernel_contraction (test_model.GeometryTests.test_general_stochastic_kernel_contraction) ... ok
+test_geodesic_formula (test_model.GeometryTests.test_geodesic_formula) ... ok
+test_independent_trials_scale_information (test_model.GeometryTests.test_independent_trials_scale_information) ... ok
+test_informationally_complete_noise_not_scalar_metric (test_model.GeometryTests.test_informationally_complete_noise_not_scalar_metric) ... ok
+test_line_element_invariant (test_model.GeometryTests.test_line_element_invariant) ... ok
+test_mixed_coordinate_transform (test_model.GeometryTests.test_mixed_coordinate_transform) ... ok
+test_monitor_only_contracts (test_model.GeometryTests.test_monitor_only_contracts) ... ok
+test_noisy_copy_joint_law_adds_no_information (test_model.GeometryTests.test_noisy_copy_joint_law_adds_no_information) ... ok
+test_normalization_and_derivatives (test_model.GeometryTests.test_normalization_and_derivatives) ... ok
+test_outcome_renaming_is_invariant (test_model.GeometryTests.test_outcome_renaming_is_invariant) ... ok
+test_parity_channel_contracts (test_model.GeometryTests.test_parity_channel_contracts) ... ok
+test_reflection_symmetry_does_not_fix_quality (test_model.GeometryTests.test_reflection_symmetry_does_not_fix_quality) ... ok
+test_singular_pullback_is_not_a_chart (test_model.GeometryTests.test_singular_pullback_is_not_a_chart) ... ok
+test_singular_support_rejected (test_model.GeometryTests.test_singular_support_rejected) ... ok
+test_distribution_off_erases_action_not_report (test_model.WorkspaceTests.test_distribution_off_erases_action_not_report) ... ok
+test_monitor_intervention_does_not_change_consumers (test_model.WorkspaceTests.test_monitor_intervention_does_not_change_consumers) ... ok
+test_passive_monitor_override_has_no_action_effect (test_model.WorkspaceTests.test_passive_monitor_override_has_no_action_effect) ... ok
+test_passive_monitor_still_has_same_metric (test_model.WorkspaceTests.test_passive_monitor_still_has_same_metric) ... ok
+test_realized_action_protocol (test_model.WorkspaceTests.test_realized_action_protocol) ... ok
+test_report_off_retains_action_geometry (test_model.WorkspaceTests.test_report_off_retains_action_geometry) ... ok
+test_workspace_intervention_changes_consumers (test_model.WorkspaceTests.test_workspace_intervention_changes_consumers) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 0.018s
+
+OK

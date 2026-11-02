@@ -1,0 +1,131 @@
+{
+  "scope": "conditional symmetry obstruction to finite disjoint episode bins, not observed phenomenology",
+  "periodic_boundary_mask_checks": [
+    {
+      "bookkeeping_period": 2,
+      "masks_enumerated": 4,
+      "unit_shift_invariant_masks": [
+        [
+          false,
+          false
+        ],
+        [
+          true,
+          true
+        ]
+      ],
+      "equal_length_partition_phase_count": 2
+    },
+    {
+      "bookkeeping_period": 3,
+      "masks_enumerated": 8,
+      "unit_shift_invariant_masks": [
+        [
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true
+        ]
+      ],
+      "equal_length_partition_phase_count": 3
+    },
+    {
+      "bookkeeping_period": 4,
+      "masks_enumerated": 16,
+      "unit_shift_invariant_masks": [
+        [
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          true
+        ]
+      ],
+      "equal_length_partition_phase_count": 4
+    },
+    {
+      "bookkeeping_period": 8,
+      "masks_enumerated": 256,
+      "unit_shift_invariant_masks": [
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      ],
+      "equal_length_partition_phase_count": 8
+    }
+  ],
+  "duration_4_phase_masks": [
+    [
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true
+    ]
+  ],
+  "pair_0_1_same_episode_by_phase_L3": [
+    true,
+    false,
+    true
+  ],
+  "sliding_windows_length3": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      3
+    ],
+    [
+      2,
+      3,
+      4
+    ]
+  ]
+}

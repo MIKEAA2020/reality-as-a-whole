@@ -1,0 +1,37 @@
+test_01_normalized_cell_embedding (test_model.LocalScalingTests.test_01_normalized_cell_embedding) ... ok
+test_02_disjoint_cells_orthogonal (test_model.LocalScalingTests.test_02_disjoint_cells_orthogonal) ... ok
+test_03_cell_overlap_between_grids (test_model.LocalScalingTests.test_03_cell_overlap_between_grids) ... ok
+test_04_averaging_norm_contraction (test_model.LocalScalingTests.test_04_averaging_norm_contraction) ... ok
+test_05_projection_poincare_bound (test_model.LocalScalingTests.test_05_projection_poincare_bound) ... ok
+test_06_projection_refinement (test_model.LocalScalingTests.test_06_projection_refinement) ... ok
+test_07_exact_finite_support (test_model.LocalScalingTests.test_07_exact_finite_support) ... ok
+test_08_physical_support_buffer (test_model.LocalScalingTests.test_08_physical_support_buffer) ... ok
+test_09_inside_open_interval_for_small_cells (test_model.LocalScalingTests.test_09_inside_open_interval_for_small_cells) ... ok
+test_10_boundary_crossing_cells_are_excluded (test_model.LocalScalingTests.test_10_boundary_crossing_cells_are_excluded) ... ok
+test_11_piecewise_coin_intertwining (test_model.LocalScalingTests.test_11_piecewise_coin_intertwining) ... ok
+test_12_conditional_shift_cell_translation (test_model.LocalScalingTests.test_12_conditional_shift_cell_translation) ... ok
+test_13_signed_evolution_inverse (test_model.LocalScalingTests.test_13_signed_evolution_inverse) ... ok
+test_14_evolution_norm_preservation (test_model.LocalScalingTests.test_14_evolution_norm_preservation) ... ok
+test_15_massless_positive_time_reference (test_model.LocalScalingTests.test_15_massless_positive_time_reference) ... ok
+test_16_massless_negative_time_reference (test_model.LocalScalingTests.test_16_massless_negative_time_reference) ... ok
+test_17_massive_cauchy_bound (test_model.LocalScalingTests.test_17_massive_cauchy_bound) ... ok
+test_18_massive_refinement (test_model.LocalScalingTests.test_18_massive_refinement) ... ok
+test_19_diamond_pullback_stays_in_base (test_model.LocalScalingTests.test_19_diamond_pullback_stays_in_base) ... ok
+test_20_diamond_base_generators_present (test_model.LocalScalingTests.test_20_diamond_base_generators_present) ... ok
+test_21_compact_spacetime_source_cells (test_model.LocalScalingTests.test_21_compact_spacetime_source_cells) ... ok
+test_22_spacetime_pullback_support (test_model.LocalScalingTests.test_22_spacetime_pullback_support) ... ok
+test_23_spacetime_refinement (test_model.LocalScalingTests.test_23_spacetime_refinement) ... ok
+test_24_exact_lattice_spacelike_pairing (test_model.LocalScalingTests.test_24_exact_lattice_spacelike_pairing) ... ok
+test_25_zero_average_invisible_direction (test_model.LocalScalingTests.test_25_zero_average_invisible_direction) ... ok
+test_26_even_unit_ball_obstruction (test_model.LocalScalingTests.test_26_even_unit_ball_obstruction) ... ok
+test_27_periodic_vacuum_projector (test_model.LocalScalingTests.test_27_periodic_vacuum_projector) ... ok
+test_28_periodic_vacuum_low_band_limit (test_model.LocalScalingTests.test_28_periodic_vacuum_low_band_limit) ... ok
+test_29_covariance_intertwines_cell_embedding (test_model.LocalScalingTests.test_29_covariance_intertwines_cell_embedding) ... ok
+test_30_cell_projector_commutes_with_periodic_covariance (test_model.LocalScalingTests.test_30_cell_projector_commutes_with_periodic_covariance) ... ok
+test_31_averaging_is_not_exact_inverse_homomorphism (test_model.LocalScalingTests.test_31_averaging_is_not_exact_inverse_homomorphism) ... ok
+test_32_validation (test_model.LocalScalingTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 2.739s
+
+OK

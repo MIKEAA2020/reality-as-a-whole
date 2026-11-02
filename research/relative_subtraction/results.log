@@ -1,0 +1,37 @@
+test_01_exact_remainder_matches_split (test_model.RelativeSubtractionTests.test_01_exact_remainder_matches_split) ... ok
+test_02_coincident_remainder (test_model.RelativeSubtractionTests.test_02_coincident_remainder) ... ok
+test_03_even_remainder (test_model.RelativeSubtractionTests.test_03_even_remainder) ... ok
+test_04_real_quadratic_bound (test_model.RelativeSubtractionTests.test_04_real_quadratic_bound) ... ok
+test_05_complex_quadratic_bound (test_model.RelativeSubtractionTests.test_05_complex_quadratic_bound) ... ok
+test_06_unsafe_affine_cutoff_invents_stress (test_model.RelativeSubtractionTests.test_06_unsafe_affine_cutoff_invents_stress) ... ok
+test_07_epsilon_over_h_zero_not_sufficient (test_model.RelativeSubtractionTests.test_07_epsilon_over_h_zero_not_sufficient) ... ok
+test_08_affine_artifact_coefficient (test_model.RelativeSubtractionTests.test_08_affine_artifact_coefficient) ... ok
+test_09_unmatched_slow_regulator_diverges (test_model.RelativeSubtractionTests.test_09_unmatched_slow_regulator_diverges) ... ok
+test_10_sufficient_fast_unmatched_path (test_model.RelativeSubtractionTests.test_10_sufficient_fast_unmatched_path) ... ok
+test_11_cutoff_first_limit (test_model.RelativeSubtractionTests.test_11_cutoff_first_limit) ... ok
+test_12_coincidence_first_is_wrong_for_unmatched_cutoff (test_model.RelativeSubtractionTests.test_12_coincidence_first_is_wrong_for_unmatched_cutoff) ... ok
+test_13_correct_affine_cutoff_transport (test_model.RelativeSubtractionTests.test_13_correct_affine_cutoff_transport) ... ok
+test_14_matched_analytic_equal_scale_path (test_model.RelativeSubtractionTests.test_14_matched_analytic_equal_scale_path) ... ok
+test_15_analytic_regulator_may_dominate_separation (test_model.RelativeSubtractionTests.test_15_analytic_regulator_may_dominate_separation) ... ok
+test_16_analytic_coincidence_first (test_model.RelativeSubtractionTests.test_16_analytic_coincidence_first) ... ok
+test_17_unregulated_split_recovered (test_model.RelativeSubtractionTests.test_17_unregulated_split_recovered) ... ok
+test_18_mollifier_normalized_even (test_model.RelativeSubtractionTests.test_18_mollifier_normalized_even) ... ok
+test_19_common_mollifier_joint_limit (test_model.RelativeSubtractionTests.test_19_common_mollifier_joint_limit) ... ok
+test_20_mollifier_coincidence_first (test_model.RelativeSubtractionTests.test_20_mollifier_coincidence_first) ... ok
+test_21_mollifier_uniform_error_bound (test_model.RelativeSubtractionTests.test_21_mollifier_uniform_error_bound) ... ok
+test_22_same_linear_regulator_commutes_with_subtraction (test_model.RelativeSubtractionTests.test_22_same_linear_regulator_commutes_with_subtraction) ... ok
+test_23_relative_stress_normalization (test_model.RelativeSubtractionTests.test_23_relative_stress_normalization) ... ok
+test_24_curved_relative_trace_zero (test_model.RelativeSubtractionTests.test_24_curved_relative_trace_zero) ... ok
+test_25_relative_chiral_term_conserved (test_model.RelativeSubtractionTests.test_25_relative_chiral_term_conserved) ... ok
+test_26_relative_tensor_covariance (test_model.RelativeSubtractionTests.test_26_relative_tensor_covariance) ... ok
+test_27_cosmological_ambiguity_cancels_relatively (test_model.RelativeSubtractionTests.test_27_cosmological_ambiguity_cancels_relatively) ... ok
+test_28_full_curved_stress_limit_in_declared_scheme (test_model.RelativeSubtractionTests.test_28_full_curved_stress_limit_in_declared_scheme) ... ok
+test_29_two_common_smoothing_kernels_same_limit (test_model.RelativeSubtractionTests.test_29_two_common_smoothing_kernels_same_limit) ... ok
+test_30_real_and_analytic_regulators_same_limit (test_model.RelativeSubtractionTests.test_30_real_and_analytic_regulators_same_limit) ... ok
+test_31_stable_tiny_separation (test_model.RelativeSubtractionTests.test_31_stable_tiny_separation) ... ok
+test_32_validation (test_model.RelativeSubtractionTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.010s
+
+OK

@@ -1,0 +1,29 @@
+test_01_normalization (test_model.PacketTests.test_01_normalization) ... ok
+test_02_positive_energy_support (test_model.PacketTests.test_02_positive_energy_support) ... ok
+test_03_spinor_normalized (test_model.PacketTests.test_03_spinor_normalized) ... ok
+test_04_eigenvector (test_model.PacketTests.test_04_eigenvector) ... ok
+test_05_continuum_translation (test_model.PacketTests.test_05_continuum_translation) ... ok
+test_06_nonconstant_density (test_model.PacketTests.test_06_nonconstant_density) ... ok
+test_07_time_variation (test_model.PacketTests.test_07_time_variation) ... ok
+test_08_spinor_limit (test_model.PacketTests.test_08_spinor_limit) ... ok
+test_09_wrong_chirality_vanishes (test_model.PacketTests.test_09_wrong_chirality_vanishes) ... ok
+test_10_derivative_bound (test_model.PacketTests.test_10_derivative_bound) ... ok
+test_11_current_bound (test_model.PacketTests.test_11_current_bound) ... ok
+test_12_current_convergence (test_model.PacketTests.test_12_current_convergence) ... ok
+test_13_fixed_count_artifact (test_model.PacketTests.test_13_fixed_count_artifact) ... ok
+test_14_covariance_positive (test_model.PacketTests.test_14_covariance_positive) ... ok
+test_15_actual_fock_expectation (test_model.PacketTests.test_15_actual_fock_expectation) ... ok
+test_16_linear_weight (test_model.PacketTests.test_16_linear_weight) ... ok
+test_17_local_energy_limit (test_model.PacketTests.test_17_local_energy_limit) ... ok
+test_18_integrated_energy (test_model.PacketTests.test_18_integrated_energy) ... ok
+test_19_total_energy_limit (test_model.PacketTests.test_19_total_energy_limit) ... ok
+test_20_zero_excitation (test_model.PacketTests.test_20_zero_excitation) ... ok
+test_21_refinement (test_model.PacketTests.test_21_refinement) ... ok
+test_22_packet_not_eigenstate (test_model.PacketTests.test_22_packet_not_eigenstate) ... ok
+test_23_no_opposite_continuum_component (test_model.PacketTests.test_23_no_opposite_continuum_component) ... ok
+test_24_validation (test_model.PacketTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.086s
+
+OK

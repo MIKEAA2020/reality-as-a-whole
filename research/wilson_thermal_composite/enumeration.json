@@ -1,0 +1,104 @@
+{
+  "scope": "infinite massless Wilson Hamiltonian thermal-minus-ground expectation, not imported continuum states or absolute stress",
+  "inverse_temperature": 2.5,
+  "one_chiral_target": 0.041887902047863905,
+  "hamiltonian_energy_target": 0.08377580409572781,
+  "fixed_site_counts": [
+    {
+      "n": 1,
+      "spacing": 0.001,
+      "normalization_factor": 1.3333333333333333,
+      "raw_current": 0.05585052283447387,
+      "predicted_raw_limit": 0.05585053606381854,
+      "calibrated_current": 0.041887892125855405,
+      "mixed_current": -0.01396262960616998,
+      "predicted_mixed_limit": -0.013962634015954635
+    },
+    {
+      "n": 2,
+      "spacing": 0.001,
+      "normalization_factor": 1.0666666666666667,
+      "raw_current": 0.04468037593371585,
+      "predicted_raw_limit": 0.04468042885105483,
+      "calibrated_current": 0.04188785243785861,
+      "mixed_current": -0.0027925223934065603,
+      "predicted_mixed_limit": -0.002792526803190927
+    },
+    {
+      "n": 4,
+      "spacing": 0.001,
+      "normalization_factor": 1.0158730158730158,
+      "raw_current": 0.042552577713238206,
+      "predicted_raw_limit": 0.04255278938195698,
+      "calibrated_current": 0.041887693686468865,
+      "mixed_current": -0.0006648829243097052,
+      "predicted_mixed_limit": -0.0006648873340930778
+    }
+  ],
+  "mesoscopic": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "point_separation": 0.125,
+      "current": 0.041846253800969624,
+      "current_target_error": 4.1648246894281093e-05,
+      "bound_on_error_to_shape_times_target": 0.0006826340779078448,
+      "mixed_current": -0.00016318982927261753,
+      "hamiltonian_relative_energy": 0.08377863061956735,
+      "two_chiral_current_sum": 0.08369250760193925,
+      "energy_target_error": 2.8265238395386305e-06,
+      "omitted_ratio_tail_bound": 8.755368627985771e-17
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "point_separation": 0.0625,
+      "current": 0.04187722141429037,
+      "current_target_error": 1.0680633573532938e-05,
+      "bound_on_error_to_shape_times_target": 0.00017013705295375466,
+      "mixed_current": -4.087885718570851e-05,
+      "hamiltonian_relative_energy": 0.08377598072821538,
+      "two_chiral_current_sum": 0.08375444282858074,
+      "energy_target_error": 1.7663248756683014e-07,
+      "omitted_ratio_tail_bound": 8.755368627985771e-17
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "point_separation": 0.03125,
+      "current": 0.04188521496052115,
+      "current_target_error": 2.6870873427523034e-06,
+      "bound_on_error_to_shape_times_target": 4.25017909640998e-05,
+      "mixed_current": -1.0224830488503626e-05,
+      "hamiltonian_relative_energy": 0.08377581513515969,
+      "two_chiral_current_sum": 0.0837704299210423,
+      "energy_target_error": 1.1039431882520212e-08,
+      "omitted_ratio_tail_bound": 8.755368627985771e-17
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "point_separation": 0.015625,
+      "current": 0.041887229215701705,
+      "current_target_error": 6.728321622004318e-07,
+      "bound_on_error_to_shape_times_target": 1.0623420082070627e-05,
+      "mixed_current": -2.5565278583347276e-06,
+      "hamiltonian_relative_energy": 0.08377580478569197,
+      "two_chiral_current_sum": 0.08377445843140341,
+      "energy_target_error": 6.899641552537972e-10,
+      "omitted_ratio_tail_bound": 8.755368627985771e-17
+    }
+  ],
+  "finite_CAR_check": {
+    "spacing": 0.02,
+    "n": 2,
+    "thermal_covariance_eigenvalues": [
+      0.4151508647464992,
+      0.5848491352535008
+    ],
+    "density_trace": 1.0,
+    "actual_operator_expectation_difference": 0.044659268212399184,
+    "stable_integral_formula": 0.04465926821240938,
+    "agreement_error": 1.0193235144839718e-14
+  }
+}

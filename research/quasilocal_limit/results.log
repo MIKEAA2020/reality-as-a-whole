@@ -1,0 +1,37 @@
+test_01_one_site_pauli_relations (test_model.QuasiLocalTests.test_01_one_site_pauli_relations) ... ok
+test_02_associativity (test_model.QuasiLocalTests.test_02_associativity) ... ok
+test_03_adjoint_reverses_multiplication (test_model.QuasiLocalTests.test_03_adjoint_reverses_multiplication) ... ok
+test_04_finite_symbolic_map_matches_previous_dense_model (test_model.QuasiLocalTests.test_04_finite_symbolic_map_matches_previous_dense_model) ... ok
+test_05_cnot_conjugation_is_involution (test_model.QuasiLocalTests.test_05_cnot_conjugation_is_involution) ... ok
+test_06_each_infinite_layer_is_local_involution (test_model.QuasiLocalTests.test_06_each_infinite_layer_is_local_involution) ... ok
+test_07_automorphism_inverse (test_model.QuasiLocalTests.test_07_automorphism_inverse) ... ok
+test_08_multiplicativity (test_model.QuasiLocalTests.test_08_multiplicativity) ... ok
+test_09_adjoint_preservation (test_model.QuasiLocalTests.test_09_adjoint_preservation) ... ok
+test_10_identity_extension_preserves_operators_and_products (test_model.QuasiLocalTests.test_10_identity_extension_preserves_operators_and_products) ... ok
+test_11_invalid_embeddings_rejected (test_model.QuasiLocalTests.test_11_invalid_embeddings_rejected) ... ok
+test_12_unbuffered_boundaries_change_dynamics (test_model.QuasiLocalTests.test_12_unbuffered_boundaries_change_dynamics) ... ok
+test_13_buffered_finite_windows_reproduce_infinite_rule (test_model.QuasiLocalTests.test_13_buffered_finite_windows_reproduce_infinite_rule) ... ok
+test_14_bigger_buffered_windows_agree (test_model.QuasiLocalTests.test_14_bigger_buffered_windows_agree) ... ok
+test_15_cone_radius_bound (test_model.QuasiLocalTests.test_15_cone_radius_bound) ... ok
+test_16_one_period_cone_is_exact_for_full_site_algebra (test_model.QuasiLocalTests.test_16_one_period_cone_is_exact_for_full_site_algebra) ... ok
+test_17_arbitrary_period_support_stays_in_cone (test_model.QuasiLocalTests.test_17_arbitrary_period_support_stays_in_cone) ... ok
+test_18_translations_by_unit_cells_commute_with_dynamics (test_model.QuasiLocalTests.test_18_translations_by_unit_cells_commute_with_dynamics) ... ok
+test_19_one_site_translation_is_not_a_claimed_symmetry (test_model.QuasiLocalTests.test_19_one_site_translation_is_not_a_claimed_symmetry) ... ok
+test_20_far_operators_commute_after_transport (test_model.QuasiLocalTests.test_20_far_operators_commute_after_transport) ... ok
+test_21_product_state_agrees_with_dense_matrices (test_model.QuasiLocalTests.test_21_product_state_agrees_with_dense_matrices) ... ok
+test_22_evolved_local_state_recovers_ghz_overlap (test_model.QuasiLocalTests.test_22_evolved_local_state_recovers_ghz_overlap) ... ok
+test_23_invariant_states_do_not_make_dynamics_trivial (test_model.QuasiLocalTests.test_23_invariant_states_do_not_make_dynamics_trivial) ... ok
+test_24_contextual_parity_survives_large_support_and_time (test_model.QuasiLocalTests.test_24_contextual_parity_survives_large_support_and_time) ... ok
+test_25_commutation_is_preserved (test_model.QuasiLocalTests.test_25_commutation_is_preserved) ... ok
+test_26_integer_time_composition (test_model.QuasiLocalTests.test_26_integer_time_composition) ... ok
+test_27_product_state_restrictions_do_not_depend_on_padding (test_model.QuasiLocalTests.test_27_product_state_restrictions_do_not_depend_on_padding) ... ok
+test_28_scalar_phases_preserved (test_model.QuasiLocalTests.test_28_scalar_phases_preserved) ... ok
+test_29_invalid_states_and_parameters_rejected (test_model.QuasiLocalTests.test_29_invalid_states_and_parameters_rejected) ... ok
+test_30_signed_nonlocal_context_translation_is_not_relabeling_support (test_model.QuasiLocalTests.test_30_signed_nonlocal_context_translation_is_not_relabeling_support) ... ok
+test_31_infinite_parity_products_do_not_form_a_norm_cauchy_sequence (test_model.QuasiLocalTests.test_31_infinite_parity_products_do_not_form_a_norm_cauchy_sequence) ... ok
+test_32_fixed_period_does_not_approach_identity_by_renaming_the_clock (test_model.QuasiLocalTests.test_32_fixed_period_does_not_approach_identity_by_renaming_the_clock) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.613s
+
+OK

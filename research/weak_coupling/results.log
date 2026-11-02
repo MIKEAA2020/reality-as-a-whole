@@ -1,0 +1,29 @@
+test_01_normalized_nonnegative_kernels (test_model.WeakCouplingTests.test_01_normalized_nonnegative_kernels) ... ok
+test_02_zero_is_identity (test_model.WeakCouplingTests.test_02_zero_is_identity) ... ok
+test_03_one_is_previous_source (test_model.WeakCouplingTests.test_03_one_is_previous_source) ... ok
+test_04_one_step_distance_exactly_epsilon (test_model.WeakCouplingTests.test_04_one_step_distance_exactly_epsilon) ... ok
+test_05_cross_influences_are_epsilon (test_model.WeakCouplingTests.test_05_cross_influences_are_epsilon) ... ok
+test_06_self_influences (test_model.WeakCouplingTests.test_06_self_influences) ... ok
+test_07_zero_has_separate_components (test_model.WeakCouplingTests.test_07_zero_has_separate_components) ... ok
+test_08_any_tested_positive_coupling_merges_components (test_model.WeakCouplingTests.test_08_any_tested_positive_coupling_merges_components) ... ok
+test_09_zero_has_twenty_four_product_encodings (test_model.WeakCouplingTests.test_09_zero_has_twenty_four_product_encodings) ... ok
+test_10_positive_kernels_do_not_factor (test_model.WeakCouplingTests.test_10_positive_kernels_do_not_factor) ... ok
+test_11_uniform_stationary_distribution (test_model.WeakCouplingTests.test_11_uniform_stationary_distribution) ... ok
+test_12_zero_horizon_no_detection (test_model.WeakCouplingTests.test_12_zero_horizon_no_detection) ... ok
+test_13_path_detection_exact_small_case (test_model.WeakCouplingTests.test_13_path_detection_exact_small_case) ... ok
+test_14_union_bound (test_model.WeakCouplingTests.test_14_union_bound) ... ok
+test_15_positive_coupling_shares_null_path_probability (test_model.WeakCouplingTests.test_15_positive_coupling_shares_null_path_probability) ... ok
+test_16_endpoint_formula_matches_direct_propagation (test_model.WeakCouplingTests.test_16_endpoint_formula_matches_direct_propagation) ... ok
+test_17_endpoint_can_hide_every_intermediate_change (test_model.WeakCouplingTests.test_17_endpoint_can_hide_every_intermediate_change) ... ok
+test_18_endpoint_never_beats_full_path (test_model.WeakCouplingTests.test_18_endpoint_never_beats_full_path) ... ok
+test_19_fixed_initial_state_never_detects_coupling (test_model.WeakCouplingTests.test_19_fixed_initial_state_never_detects_coupling) ... ok
+test_20_repeated_independent_paths_use_total_exposure (test_model.WeakCouplingTests.test_20_repeated_independent_paths_use_total_exposure) ... ok
+test_21_resolution_depends_on_exposure (test_model.WeakCouplingTests.test_21_resolution_depends_on_exposure) ... ok
+test_22_two_cores_merge_with_any_admitted_reciprocal_bridge (test_model.WeakCouplingTests.test_22_two_cores_merge_with_any_admitted_reciprocal_bridge) ... ok
+test_23_threshold_changes_verdict_by_convention (test_model.WeakCouplingTests.test_23_threshold_changes_verdict_by_convention) ... ok
+test_24_invalid_protocol_parameters_rejected (test_model.WeakCouplingTests.test_24_invalid_protocol_parameters_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.032s
+
+OK

@@ -1,0 +1,29 @@
+test_01_full_content_combinability (test_model.DifferentiationUnityTests.test_01_full_content_combinability) ... ok
+test_02_resets_prepare_every_content_combination (test_model.DifferentiationUnityTests.test_02_resets_prepare_every_content_combination) ... ok
+test_03_current_content_resets_commute (test_model.DifferentiationUnityTests.test_03_current_content_resets_commute) ... ok
+test_04_reset_changes_only_selected_current_feature (test_model.DifferentiationUnityTests.test_04_reset_changes_only_selected_current_feature) ... ok
+test_05_independent_state_preparation_does_not_make_dynamics_product (test_model.DifferentiationUnityTests.test_05_independent_state_preparation_does_not_make_dynamics_product) ... ok
+test_06_identity_dynamics_do_factor (test_model.DifferentiationUnityTests.test_06_identity_dynamics_do_factor) ... ok
+test_07_uniform_distribution_is_independent (test_model.DifferentiationUnityTests.test_07_uniform_distribution_is_independent) ... ok
+test_08_irreducible_dynamics_preserve_uniform_independence (test_model.DifferentiationUnityTests.test_08_irreducible_dynamics_preserve_uniform_independence) ... ok
+test_09_product_dynamics_can_preserve_statistical_dependence (test_model.DifferentiationUnityTests.test_09_product_dynamics_can_preserve_statistical_dependence) ... ok
+test_10_inverse_is_exact (test_model.DifferentiationUnityTests.test_10_inverse_is_exact) ... ok
+test_11_four_native_and_four_transported_resets (test_model.DifferentiationUnityTests.test_11_four_native_and_four_transported_resets) ... ok
+test_12_future_transported_resets_are_not_native_local_resets (test_model.DifferentiationUnityTests.test_12_future_transported_resets_are_not_native_local_resets) ... ok
+test_13_transported_operations_remain_idempotent (test_model.DifferentiationUnityTests.test_13_transported_operations_remain_idempotent) ... ok
+test_14_original_commuting_operations_still_commute_after_transport (test_model.DifferentiationUnityTests.test_14_original_commuting_operations_still_commute_after_transport) ... ok
+test_15_eight_distinct_content_square_maps (test_model.DifferentiationUnityTests.test_15_eight_distinct_content_square_maps) ... ok
+test_16_all_maps_preserve_content_distance (test_model.DifferentiationUnityTests.test_16_all_maps_preserve_content_distance) ... ok
+test_17_temporal_structure_uniquely_selects_content_map (test_model.DifferentiationUnityTests.test_17_temporal_structure_uniquely_selects_content_map) ... ok
+test_18_identity_dynamics_leave_eight_content_maps (test_model.DifferentiationUnityTests.test_18_identity_dynamics_leave_eight_content_maps) ... ok
+test_19_incompatible_target_dynamics_reject_all_content_maps (test_model.DifferentiationUnityTests.test_19_incompatible_target_dynamics_reject_all_content_maps) ... ok
+test_20_joint_and_split_descriptions_have_same_marginals (test_model.DifferentiationUnityTests.test_20_joint_and_split_descriptions_have_same_marginals) ... ok
+test_21_incidence_distinguishes_descriptions (test_model.DifferentiationUnityTests.test_21_incidence_distinguishes_descriptions) ... ok
+test_22_unique_content_mapping_does_not_remove_incidence_ambiguity (test_model.DifferentiationUnityTests.test_22_unique_content_mapping_does_not_remove_incidence_ambiguity) ... ok
+test_23_content_tokens_preserve_time_and_run_provenance (test_model.DifferentiationUnityTests.test_23_content_tokens_preserve_time_and_run_provenance) ... ok
+test_24_invalid_probabilities_and_unknown_supports_rejected (test_model.DifferentiationUnityTests.test_24_invalid_probabilities_and_unknown_supports_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.003s
+
+OK

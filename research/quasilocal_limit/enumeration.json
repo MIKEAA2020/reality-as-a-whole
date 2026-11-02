@@ -1,0 +1,226 @@
+{
+  "scope": "Exact finite-support implementation and stated quasi-local completion proof, not physical infinity, continuum QFT, actual data, or phenomenal identity.",
+  "schedule": "Forward even CNOT layer, then odd layer; pullback reverses this order.",
+  "boundary_example": {
+    "input": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        0
+      ],
+      "support": [
+        0
+      ]
+    },
+    "open_window_0_1": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        0
+      ],
+      "support": [
+        0
+      ]
+    },
+    "infinite_rule": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        -2,
+        -1,
+        0
+      ],
+      "support": [
+        -2,
+        -1,
+        0
+      ]
+    },
+    "buffered_window_minus2_1": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        -2,
+        -1,
+        0
+      ],
+      "support": [
+        -2,
+        -1,
+        0
+      ]
+    }
+  },
+  "single_site_cones": {
+    "-2": [
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "-1": [
+      -1,
+      0,
+      1,
+      2
+    ],
+    "0": [
+      0
+    ],
+    "1": [
+      -2,
+      -1,
+      0,
+      1
+    ],
+    "2": [
+      -4,
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3
+    ],
+    "3": [
+      -6,
+      -5,
+      -4,
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "operator_examples": {
+    "X": {
+      "phase_power_of_i": 0,
+      "X_sites": [
+        0,
+        1
+      ],
+      "Z_sites": [],
+      "support": [
+        0,
+        1
+      ]
+    },
+    "Z": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        -2,
+        -1,
+        0
+      ],
+      "support": [
+        -2,
+        -1,
+        0
+      ]
+    },
+    "Y": {
+      "phase_power_of_i": 1,
+      "X_sites": [
+        0,
+        1
+      ],
+      "Z_sites": [
+        -2,
+        -1,
+        0
+      ],
+      "support": [
+        -2,
+        -1,
+        0,
+        1
+      ]
+    },
+    "XX": {
+      "phase_power_of_i": 0,
+      "X_sites": [
+        0,
+        2,
+        3
+      ],
+      "Z_sites": [],
+      "support": [
+        0,
+        2,
+        3
+      ]
+    },
+    "ZZ": {
+      "phase_power_of_i": 0,
+      "X_sites": [],
+      "Z_sites": [
+        -2,
+        -1,
+        1
+      ],
+      "support": [
+        -2,
+        -1,
+        1
+      ]
+    },
+    "YY": {
+      "phase_power_of_i": 2,
+      "X_sites": [
+        0,
+        2,
+        3
+      ],
+      "Z_sites": [
+        -2,
+        -1,
+        1
+      ],
+      "support": [
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "ghz_overlap_moments": {
+    "XII": "0",
+    "ZII": "0",
+    "XXX": "1",
+    "ZZI": "1",
+    "IZZ": "1"
+  },
+  "time_label_obstruction": {
+    "observable": "Z at site 0",
+    "exact_norm_difference": 2,
+    "witness_state": "All 0 except site -1 in 1",
+    "witness_initial_expectation": 1,
+    "witness_transformed_expectation": -1
+  },
+  "symmetries": {
+    "translation_by_two": true,
+    "translation_by_one_in_general": false
+  },
+  "contextual_parity_signs": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    -1
+  ]
+}

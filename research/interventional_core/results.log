@@ -1,0 +1,29 @@
+test_01_source_is_bijective (test_model.InterventionalCoreTests.test_01_source_is_bijective) ... ok
+test_02_source_has_order_three (test_model.InterventionalCoreTests.test_02_source_has_order_three) ... ok
+test_03_cycle_structure (test_model.InterventionalCoreTests.test_03_cycle_structure) ... ok
+test_04_monitor_matches_on_synchronous_domain (test_model.InterventionalCoreTests.test_04_monitor_matches_on_synchronous_domain) ... ok
+test_05_every_initial_state_synchronizes_in_one_tick (test_model.InterventionalCoreTests.test_05_every_initial_state_synchronizes_in_one_tick) ... ok
+test_06_source_projection_is_global_transition_abstraction (test_model.InterventionalCoreTests.test_06_source_projection_is_global_transition_abstraction) ... ok
+test_07_monitor_projection_is_not_global_transition_abstraction (test_model.InterventionalCoreTests.test_07_monitor_projection_is_not_global_transition_abstraction) ... ok
+test_08_same_monitor_state_can_have_different_futures (test_model.InterventionalCoreTests.test_08_same_monitor_state_can_have_different_futures) ... ok
+test_09_monitor_interventions_do_not_change_source_future (test_model.InterventionalCoreTests.test_09_monitor_interventions_do_not_change_source_future) ... ok
+test_10_monitor_override_is_erased_after_one_tick (test_model.InterventionalCoreTests.test_10_monitor_override_is_erased_after_one_tick) ... ok
+test_11_source_changes_propagate_to_source_and_monitor (test_model.InterventionalCoreTests.test_11_source_changes_propagate_to_source_and_monitor) ... ok
+test_12_exact_influence_graph (test_model.InterventionalCoreTests.test_12_exact_influence_graph) ... ok
+test_13_exact_strong_components (test_model.InterventionalCoreTests.test_13_exact_strong_components) ... ok
+test_14_exact_autonomous_coordinate_sets (test_model.InterventionalCoreTests.test_14_exact_autonomous_coordinate_sets) ... ok
+test_15_source_no_independent_bit_factorization_under_any_static_encoding (test_model.InterventionalCoreTests.test_15_source_no_independent_bit_factorization_under_any_static_encoding) ... ok
+test_16_square_has_same_irreducibility (test_model.InterventionalCoreTests.test_16_square_has_same_irreducibility) ... ok
+test_17_identity_has_twenty_four_encodings (test_model.InterventionalCoreTests.test_17_identity_has_twenty_four_encodings) ... ok
+test_18_three_tick_sampling_hides_integration (test_model.InterventionalCoreTests.test_18_three_tick_sampling_hides_integration) ... ok
+test_19_intermediate_intervention_is_not_inferred_from_sampled_identity (test_model.InterventionalCoreTests.test_19_intermediate_intervention_is_not_inferred_from_sampled_identity) ... ok
+test_20_coordinate_renaming_transports_causal_graph (test_model.InterventionalCoreTests.test_20_coordinate_renaming_transports_causal_graph) ... ok
+test_21_error_recoding_is_bijective (test_model.InterventionalCoreTests.test_21_error_recoding_is_bijective) ... ok
+test_22_mixed_encoding_changes_coordinate_graph (test_model.InterventionalCoreTests.test_22_mixed_encoding_changes_coordinate_graph) ... ok
+test_23_two_independent_sources_have_two_cores (test_model.InterventionalCoreTests.test_23_two_independent_sources_have_two_cores) ... ok
+test_24_time_dependent_coordinates_can_trivialize_bijective_dynamics (test_model.InterventionalCoreTests.test_24_time_dependent_coordinates_can_trivialize_bijective_dynamics) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.008s
+
+OK

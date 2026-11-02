@@ -1,0 +1,29 @@
+test_01_competitive_entry (test_model.WorkspaceTests.test_01_competitive_entry) ... ok
+test_02_auditory_can_win (test_model.WorkspaceTests.test_02_auditory_can_win) ... ok
+test_03_one_slot_capacity (test_model.WorkspaceTests.test_03_one_slot_capacity) ... ok
+test_04_deterministic_tie_rule_declared (test_model.WorkspaceTests.test_04_deterministic_tie_rule_declared) ... ok
+test_05_same_content_multiple_uses (test_model.WorkspaceTests.test_05_same_content_multiple_uses) ... ok
+test_06_task_switch_without_content_change (test_model.WorkspaceTests.test_06_task_switch_without_content_change) ... ok
+test_07_comparison_context (test_model.WorkspaceTests.test_07_comparison_context) ... ok
+test_08_maintenance (test_model.WorkspaceTests.test_08_maintenance) ... ok
+test_09_maintenance_lesion (test_model.WorkspaceTests.test_09_maintenance_lesion) ... ok
+test_10_report_lesion_preserves_other_uses (test_model.WorkspaceTests.test_10_report_lesion_preserves_other_uses) ... ok
+test_11_readout_preserved_without_distribution (test_model.WorkspaceTests.test_11_readout_preserved_without_distribution) ... ok
+test_12_local_discrimination_survives_entry_lesion (test_model.WorkspaceTests.test_12_local_discrimination_survives_entry_lesion) ... ok
+test_13_workspace_intervention_propagates (test_model.WorkspaceTests.test_13_workspace_intervention_propagates) ... ok
+test_14_passive_monitor_intervention_does_not_propagate (test_model.WorkspaceTests.test_14_passive_monitor_intervention_does_not_propagate) ... ok
+test_15_feedback_changes_later_selection (test_model.WorkspaceTests.test_15_feedback_changes_later_selection) ... ok
+test_16_feedback_lesion_changes_later_selection (test_model.WorkspaceTests.test_16_feedback_lesion_changes_later_selection) ... ok
+test_17_feedback_is_not_unlimited (test_model.WorkspaceTests.test_17_feedback_is_not_unlimited) ... ok
+test_18_action_lesion_spares_memory_and_comparison (test_model.WorkspaceTests.test_18_action_lesion_spares_memory_and_comparison) ... ok
+test_19_distribution_changes_future_feedback (test_model.WorkspaceTests.test_19_distribution_changes_future_feedback) ... ok
+test_20_both_sources_all_task_values (test_model.WorkspaceTests.test_20_both_sources_all_task_values) ... ok
+test_21_readout_alone_cannot_identify_distribution (test_model.WorkspaceTests.test_21_readout_alone_cannot_identify_distribution) ... ok
+test_22_preserved_memory_not_current_availability (test_model.WorkspaceTests.test_22_preserved_memory_not_current_availability) ... ok
+test_23_no_input_and_no_maintained_content (test_model.WorkspaceTests.test_23_no_input_and_no_maintained_content) ... ok
+test_24_validation (test_model.WorkspaceTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.003s
+
+OK

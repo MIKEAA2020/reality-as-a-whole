@@ -1,0 +1,394 @@
+{
+  "scope": "finite functional workspace architecture; no phenomenal truth labels",
+  "baseline_conditions": {
+    "normal": {
+      "state": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "memory": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual"
+      },
+      "winner": {
+        "source": "visual",
+        "value": 1
+      },
+      "monitor": {
+        "source": "visual",
+        "value": 1
+      },
+      "local": [
+        [
+          "visual",
+          1
+        ],
+        [
+          "auditory",
+          0
+        ]
+      ],
+      "action": 1,
+      "comparison": true,
+      "report": 1
+    },
+    "report_disabled": {
+      "state": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "memory": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual"
+      },
+      "winner": {
+        "source": "visual",
+        "value": 1
+      },
+      "monitor": {
+        "source": "visual",
+        "value": 1
+      },
+      "local": [
+        [
+          "visual",
+          1
+        ],
+        [
+          "auditory",
+          0
+        ]
+      ],
+      "action": 1,
+      "comparison": true,
+      "report": null
+    },
+    "distribution_disabled": {
+      "state": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "memory": null,
+        "feedback": null
+      },
+      "winner": {
+        "source": "visual",
+        "value": 1
+      },
+      "monitor": {
+        "source": "visual",
+        "value": 1
+      },
+      "local": [
+        [
+          "visual",
+          1
+        ],
+        [
+          "auditory",
+          0
+        ]
+      ],
+      "action": null,
+      "comparison": null,
+      "report": 1
+    },
+    "entry_disabled": {
+      "state": {
+        "workspace": null,
+        "memory": null,
+        "feedback": null
+      },
+      "winner": {
+        "source": "visual",
+        "value": 1
+      },
+      "monitor": null,
+      "local": [
+        [
+          "visual",
+          1
+        ],
+        [
+          "auditory",
+          0
+        ]
+      ],
+      "action": null,
+      "comparison": null,
+      "report": null
+    },
+    "action_disabled": {
+      "state": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "memory": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": null
+      },
+      "winner": {
+        "source": "visual",
+        "value": 1
+      },
+      "monitor": {
+        "source": "visual",
+        "value": 1
+      },
+      "local": [
+        [
+          "visual",
+          1
+        ],
+        [
+          "auditory",
+          0
+        ]
+      ],
+      "action": null,
+      "comparison": true,
+      "report": 1
+    }
+  },
+  "workspace_intervention": {
+    "state": {
+      "workspace": {
+        "source": "auditory",
+        "value": 0
+      },
+      "memory": {
+        "source": "auditory",
+        "value": 0
+      },
+      "feedback": "auditory"
+    },
+    "winner": {
+      "source": "visual",
+      "value": 1
+    },
+    "monitor": {
+      "source": "auditory",
+      "value": 0
+    },
+    "local": [
+      [
+        "visual",
+        1
+      ],
+      [
+        "auditory",
+        0
+      ]
+    ],
+    "action": 0,
+    "comparison": false,
+    "report": 0
+  },
+  "monitor_intervention": {
+    "state": {
+      "workspace": {
+        "source": "visual",
+        "value": 1
+      },
+      "memory": {
+        "source": "visual",
+        "value": 1
+      },
+      "feedback": "visual"
+    },
+    "winner": {
+      "source": "visual",
+      "value": 1
+    },
+    "monitor": {
+      "source": "auditory",
+      "value": 0
+    },
+    "local": [
+      [
+        "visual",
+        1
+      ],
+      [
+        "auditory",
+        0
+      ]
+    ],
+    "action": 1,
+    "comparison": true,
+    "report": 1
+  },
+  "consumer_intervention_matrix": {
+    "normal": {
+      "memory": true,
+      "action": true,
+      "comparison": true,
+      "report": true
+    },
+    "report_disabled": {
+      "memory": true,
+      "action": true,
+      "comparison": true,
+      "report": false
+    },
+    "distribution_disabled": {
+      "memory": false,
+      "action": false,
+      "comparison": false,
+      "report": true
+    },
+    "action_disabled": {
+      "memory": true,
+      "action": false,
+      "comparison": true,
+      "report": true
+    },
+    "passive_monitor": {
+      "memory": false,
+      "action": false,
+      "comparison": false,
+      "report": false
+    }
+  },
+  "feedback_sequences": {
+    "normal": {
+      "first": {
+        "state": {
+          "workspace": {
+            "source": "auditory",
+            "value": 0
+          },
+          "memory": {
+            "source": "auditory",
+            "value": 0
+          },
+          "feedback": "auditory"
+        },
+        "winner": {
+          "source": "auditory",
+          "value": 0
+        },
+        "monitor": {
+          "source": "auditory",
+          "value": 0
+        },
+        "local": [
+          [
+            "auditory",
+            0
+          ]
+        ],
+        "action": 0,
+        "comparison": false,
+        "report": 0
+      },
+      "second": {
+        "state": {
+          "workspace": {
+            "source": "auditory",
+            "value": 0
+          },
+          "memory": {
+            "source": "auditory",
+            "value": 0
+          },
+          "feedback": "auditory"
+        },
+        "winner": {
+          "source": "auditory",
+          "value": 0
+        },
+        "monitor": {
+          "source": "auditory",
+          "value": 0
+        },
+        "local": [
+          [
+            "visual",
+            1
+          ],
+          [
+            "auditory",
+            0
+          ]
+        ],
+        "action": 0,
+        "comparison": false,
+        "report": 0
+      }
+    },
+    "distribution_disabled": {
+      "first": {
+        "state": {
+          "workspace": {
+            "source": "auditory",
+            "value": 0
+          },
+          "memory": null,
+          "feedback": null
+        },
+        "winner": {
+          "source": "auditory",
+          "value": 0
+        },
+        "monitor": {
+          "source": "auditory",
+          "value": 0
+        },
+        "local": [
+          [
+            "auditory",
+            0
+          ]
+        ],
+        "action": null,
+        "comparison": null,
+        "report": 0
+      },
+      "second": {
+        "state": {
+          "workspace": {
+            "source": "visual",
+            "value": 1
+          },
+          "memory": {
+            "source": "visual",
+            "value": 1
+          },
+          "feedback": "visual"
+        },
+        "winner": {
+          "source": "visual",
+          "value": 1
+        },
+        "monitor": {
+          "source": "visual",
+          "value": 1
+        },
+        "local": [
+          [
+            "visual",
+            1
+          ],
+          [
+            "auditory",
+            0
+          ]
+        ],
+        "action": 1,
+        "comparison": true,
+        "report": 1
+      }
+    }
+  }
+}

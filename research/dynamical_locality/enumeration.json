@@ -1,0 +1,262 @@
+{
+  "scope": "Finite circuit dynamics only; not a relativistic spacetime, QFT, actual quantum experiment, or phenomenal identity.",
+  "hilbert_dimension_per_slice": 8,
+  "wire_time_event_count": 9,
+  "schedule": [
+    {
+      "from_slice": 0,
+      "to_slice": 1,
+      "control_site": 0,
+      "target_site": 1
+    },
+    {
+      "from_slice": 1,
+      "to_slice": 2,
+      "control_site": 1,
+      "target_site": 2
+    }
+  ],
+  "precedence_pairs": [
+    [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  ],
+  "causally_disconnected_pair_count": 18,
+  "final_single_site_past_cones": {
+    "0": [
+      0,
+      1
+    ],
+    "1": [
+      0,
+      1,
+      2
+    ],
+    "2": [
+      0,
+      1,
+      2
+    ]
+  },
+  "sample_final_observable_pullbacks": {
+    "XII": {
+      "sign": 1,
+      "label": "XXI"
+    },
+    "ZII": {
+      "sign": 1,
+      "label": "ZII"
+    },
+    "IXI": {
+      "sign": 1,
+      "label": "IXX"
+    },
+    "IZI": {
+      "sign": 1,
+      "label": "ZZI"
+    },
+    "IIX": {
+      "sign": 1,
+      "label": "IIX"
+    },
+    "IIZ": {
+      "sign": 1,
+      "label": "ZZZ"
+    }
+  },
+  "left_input_flip_right_Z_expectation": {
+    "1": {
+      "unperturbed": "1",
+      "perturbed": "1"
+    },
+    "2": {
+      "unperturbed": "1",
+      "perturbed": "-1"
+    }
+  },
+  "transported_mermin_context_signs": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    -1
+  ]
+}

@@ -1,0 +1,37 @@
+test_01_free_dispersion_identity (test_model.WilsonTests.test_01_free_dispersion_identity) ... ok
+test_02_wilson_mass_positive (test_model.WilsonTests.test_02_wilson_mass_positive) ... ok
+test_03_unique_free_minimum (test_model.WilsonTests.test_03_unique_free_minimum) ... ok
+test_04_edge_lifted (test_model.WilsonTests.test_04_edge_lifted) ... ok
+test_05_central_control_retains_doubler (test_model.WilsonTests.test_05_central_control_retains_doubler) ... ok
+test_06_finite_energy_window_exact (test_model.WilsonTests.test_06_finite_energy_window_exact) ... ok
+test_07_window_converges_to_continuum (test_model.WilsonTests.test_07_window_converges_to_continuum) ... ok
+test_08_free_gap_uniform (test_model.WilsonTests.test_08_free_gap_uniform) ... ok
+test_09_curved_gap_uniform_examples (test_model.WilsonTests.test_09_curved_gap_uniform_examples) ... ok
+test_10_eigensystem_residual (test_model.WilsonTests.test_10_eigensystem_residual) ... ok
+test_11_negative_projection (test_model.WilsonTests.test_11_negative_projection) ... ok
+test_12_projector_stationarity (test_model.WilsonTests.test_12_projector_stationarity) ... ok
+test_13_spectral_pairing_still_holds (test_model.WilsonTests.test_13_spectral_pairing_still_holds) ... ok
+test_14_low_momentum_wilson_term_vanishes (test_model.WilsonTests.test_14_low_momentum_wilson_term_vanishes) ... ok
+test_15_free_symbol_convergence_first_order (test_model.WilsonTests.test_15_free_symbol_convergence_first_order) ... ok
+test_16_real_space_nearest_neighbours (test_model.WilsonTests.test_16_real_space_nearest_neighbours) ... ok
+test_17_r0_recovers_central_hamiltonian (test_model.WilsonTests.test_17_r0_recovers_central_hamiltonian) ... ok
+test_18_wilson_core_difference_shrinks (test_model.WilsonTests.test_18_wilson_core_difference_shrinks) ... ok
+test_19_fixed_smear_projection_limit_diagnostic (test_model.WilsonTests.test_19_fixed_smear_projection_limit_diagnostic) ... ok
+test_20_two_point_limit_diagnostic (test_model.WilsonTests.test_20_two_point_limit_diagnostic) ... ok
+test_21_wick_limit_diagnostic (test_model.WilsonTests.test_21_wick_limit_diagnostic) ... ok
+test_22_cross_regulator_agreement (test_model.WilsonTests.test_22_cross_regulator_agreement) ... ok
+test_23_high_zone_low_energy_bound (test_model.WilsonTests.test_23_high_zone_low_energy_bound) ... ok
+test_24_bound_vanishes_with_spacing (test_model.WilsonTests.test_24_bound_vanishes_with_spacing) ... ok
+test_25_no_uniform_projector_convergence (test_model.WilsonTests.test_25_no_uniform_projector_convergence) ... ok
+test_26_massless_axial_symmetry_broken_at_finite_spacing (test_model.WilsonTests.test_26_massless_axial_symmetry_broken_at_finite_spacing) ... ok
+test_27_low_momentum_axial_breaking_vanishes (test_model.WilsonTests.test_27_low_momentum_axial_breaking_vanishes) ... ok
+test_28_continuous_time_tail_persists (test_model.WilsonTests.test_28_continuous_time_tail_persists) ... ok
+test_29_hamiltonian_not_floquet_walk (test_model.WilsonTests.test_29_hamiltonian_not_floquet_walk) ... ok
+test_30_flat_regulator_positive_excitation_energies (test_model.WilsonTests.test_30_flat_regulator_positive_excitation_energies) ... ok
+test_31_free_circle_low_energy_count_stabilizes (test_model.WilsonTests.test_31_free_circle_low_energy_count_stabilizes) ... ok
+test_32_validation (test_model.WilsonTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.516s
+
+OK

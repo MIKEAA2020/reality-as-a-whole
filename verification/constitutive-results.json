@@ -1,0 +1,30 @@
+{
+  "scope": "independent exact spot checks; not verification of release code or universal reconstruction theorems",
+  "results": {
+    "magic_square": {
+      "valuations": 512,
+      "max_contexts": 5,
+      "classical_bound": 4,
+      "quantum_value": 6
+    },
+    "real_local_tomography_counterexample": "passed: 9 product-basis statistics agree; joint effect gives 1 versus 0",
+    "rank_dimension_identities": {
+      "real": "n**2*(n - 1)**2/4",
+      "complex": "0",
+      "quaternionic": "-2*n**2*(n - 1)**2"
+    },
+    "macro_dynamics": {
+      "intertwining": "PL = LM P",
+      "eigenvalues": [
+        "0",
+        "4 epsilon",
+        "2+2 epsilon (twice)"
+      ]
+    },
+    "binary_fisher_geometry": "coordinate identity and noise contraction identity passed",
+    "rootless_recurrence": "exact iterate identity checked for k=1..8; boundedness gives unique all-ones solution",
+    "jordan_commutator_product": "16 basis pairs passed",
+    "qubit_lorentz_cone": "determinant identity passed; no spacetime identification inferred",
+    "bell_checks": "equal single-party marginals; distinct purities; partial transpose eigenvalue -1/2"
+  }
+}

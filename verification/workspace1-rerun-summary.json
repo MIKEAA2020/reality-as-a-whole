@@ -1,0 +1,32 @@
+[
+  {
+    "script": "checks.py",
+    "exit_code": 0,
+    "log_tail": ": true,\n    \"bell_global_purity\": \"1\",\n    \"mixed_global_purity\": \"1/4\",\n    \"local_purity_both_cases\": \"1/2\",\n    \"bell_ZZ_expectation\": \"1\",\n    \"mixed_ZZ_expectation\": \"0\",\n    \"scope\": \"Assumes ordinary finite-dimensional complex quantum mechanics; no claim about consciousness.\"\n  },\n  \"qualitative_label_toy_check\": {\n    \"invariant_unary_extensions\": [\n      [],\n      [\n        0,\n        1\n      ]\n    ],\n    \"singleton_label_uniquely_definable_from_this_symmetric_base\": false,\n    \"scope\": \"A toy definability constraint, not a no-go theorem for physicalism or structural theories.\"\n  }\n}\n"
+  },
+  {
+    "script": "round2_checks.py",
+    "exit_code": 0,
+    "log_tail": ",\n    \"original_individual_marginal_purities\": [\n      \"1/2\",\n      \"1/2\"\n    ],\n    \"new_factor_individual_marginal_purities\": [\n      \"1\",\n      \"1\"\n    ],\n    \"new_A_generators_in_old_coordinates\": [\n      \"Z tensor I\",\n      \"X tensor X\"\n    ],\n    \"new_B_generators_in_old_coordinates\": [\n      \"I tensor X\",\n      \"Z tensor Z\"\n    ],\n    \"cross_commutation_verified\": true,\n    \"generated_full_operator_algebra_dimension\": 16,\n    \"scope_note\": \"The comparison changes the subsystem algebras while holding the abstract state fixed, not just coordinates of the same physical bipartition.\"\n  }\n}\n"
+  },
+  {
+    "script": "round3_checks.py",
+    "exit_code": 0,
+    "log_tail": "ral_expansions\": [\n    {\n      \"abstract_order_both_worlds\": [\n        [\n          \"a\",\n          \"b\"\n        ]\n      ],\n      \"concrete_at_world_0\": [\n        \"a\"\n      ],\n      \"concrete_at_world_1\": [],\n      \"actual_concrete_existence\": true,\n      \"necessary_concrete_existence\": false\n    },\n    {\n      \"abstract_order_both_worlds\": [\n        [\n          \"a\",\n          \"b\"\n        ]\n      ],\n      \"concrete_at_world_0\": [\n        \"a\"\n      ],\n      \"concrete_at_world_1\": [\n        \"a\"\n      ],\n      \"actual_concrete_existence\": true,\n      \"necessary_concrete_existence\": true\n    }\n  ]\n}\n"
+  },
+  {
+    "script": "round4_checks.py",
+    "exit_code": 0,
+    "log_tail": "ltonians\": [\n    {\n      \"coupling_g\": 0.0,\n      \"time\": 0.7853981633974483,\n      \"reduced_purity\": 1.0,\n      \"total_state_purity\": 1.0\n    },\n    {\n      \"coupling_g\": 1.0,\n      \"time\": 0.7853981633974483,\n      \"reduced_purity\": 0.5,\n      \"total_state_purity\": 1.0\n    }\n  ],\n  \"factorization_vs_subjects\": {\n    \"whole_is_complex_matrix_factor\": \"M_4(C)\",\n    \"commuting_local_complex_factors\": [\n      \"M_2(C) tensor I\",\n      \"I tensor M_2(C)\"\n    ],\n    \"cross_commutation_verified\": true,\n    \"simplicity_alone_determines_subject_boundaries\": false\n  },\n  \"all_assertions_passed\": true\n}\n"
+  },
+  {
+    "script": "round5_checks.py",
+    "exit_code": 0,
+    "log_tail": "[0, 1, 0, 0], [-1, 0, 0, 0]])\",\n    \"all_local_product_expectation_differences\": [\n      0,\n      0,\n      0,\n      0,\n      0,\n      0,\n      0,\n      0,\n      0\n    ],\n    \"joint_effect_probabilities\": [\n      1,\n      0\n    ],\n    \"rho_plus_spectrum_with_multiplicity\": [\n      \"0\",\n      \"0\",\n      \"1/2\",\n      \"1/2\"\n    ],\n    \"rho_minus_spectrum_with_multiplicity\": [\n      \"0\",\n      \"0\",\n      \"1/2\",\n      \"1/2\"\n    ],\n    \"real_orthogonal_interaction_verified\": true,\n    \"entangled_output_reduced_purity\": \"1/2\",\n    \"local_tomography_holds\": false\n  },\n  \"all_assertions_passed\": true\n}\n"
+  },
+  {
+    "script": "round6_checks.py",
+    "exit_code": 0,
+    "log_tail": "T universal broadcasting landscape check passed.\n   Evaluated 7 model families across 6 operational properties.\n3. Local Tomography vs Holism tensor deficiency check passed.\n   Real QM deficiency: n**2*(n**2 - 2*n + 1)/4\n   Complex QM deficiency: 0\n   Quaternionic QM deficiency: 2*n**2*(-n**2 + 2*n - 1)\n4. Subsystem entanglement and proper/improper mixture check passed.\n   Evaluated 5 entanglement angles.\n5. Grounding trilemma and residue ledger check passed.\n   Compared 6 explanatory paradigms.\nRound 6 checks completed successfully. Results saved to zero_residue_research/round6_results.json.\n"
+  }
+]

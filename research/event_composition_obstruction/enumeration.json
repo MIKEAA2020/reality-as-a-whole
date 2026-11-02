@@ -1,0 +1,132 @@
+{
+  "scope": "synthetic graph obstruction to an actual-event SCC selector, not measured episode boundaries",
+  "source_mechanism": {
+    "vertices": 2,
+    "edges": 3,
+    "strong_component_sizes": [
+      2
+    ],
+    "weak_component_sizes": [
+      2
+    ]
+  },
+  "source_events_T5": {
+    "vertices": 12,
+    "edges": 15,
+    "strong_component_sizes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weak_component_sizes": [
+      12
+    ]
+  },
+  "source_monitor_mechanism": {
+    "vertices": 4,
+    "edges": 6,
+    "strong_component_sizes": [
+      1,
+      1,
+      2
+    ],
+    "weak_component_sizes": [
+      4
+    ]
+  },
+  "source_monitor_events_T5": {
+    "vertices": 24,
+    "edges": 30,
+    "strong_component_sizes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weak_component_sizes": [
+      1,
+      1,
+      22
+    ]
+  },
+  "no_update_history_T5": {
+    "vertices": 12,
+    "edges": 10,
+    "strong_component_sizes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weak_component_sizes": [
+      6,
+      6
+    ]
+  },
+  "one_update_history_T5": {
+    "vertices": 12,
+    "edges": 11,
+    "strong_component_sizes": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weak_component_sizes": [
+      12
+    ]
+  },
+  "rare_update_example": {
+    "epsilon": 0.001,
+    "ticks": 10,
+    "no_active_update_probability": 0.9900448802097482,
+    "support_strong_component_sizes": [
+      2
+    ]
+  }
+}

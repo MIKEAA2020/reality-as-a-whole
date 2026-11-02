@@ -1,0 +1,29 @@
+test_01_negative_band_spinor (test_model.ParticleHoleTests.test_01_negative_band_spinor) ... ok
+test_02_full_covariance_eigenvalues (test_model.ParticleHoleTests.test_02_full_covariance_eigenvalues) ... ok
+test_03_hole_mode_mirror (test_model.ParticleHoleTests.test_03_hole_mode_mirror) ... ok
+test_04_lower_spinor_mirror (test_model.ParticleHoleTests.test_04_lower_spinor_mirror) ... ok
+test_05_derivative_mirror (test_model.ParticleHoleTests.test_05_derivative_mirror) ... ok
+test_06_hole_chiral_energy_sign (test_model.ParticleHoleTests.test_06_hole_chiral_energy_sign) ... ok
+test_07_compressed_covariance_positive (test_model.ParticleHoleTests.test_07_compressed_covariance_positive) ... ok
+test_08_density_trace (test_model.ParticleHoleTests.test_08_density_trace) ... ok
+test_09_actual_fock (test_model.ParticleHoleTests.test_09_actual_fock) ... ok
+test_10_signed_term_negative (test_model.ParticleHoleTests.test_10_signed_term_negative) ... ok
+test_11_signed_determinant_identity (test_model.ParticleHoleTests.test_11_signed_determinant_identity) ... ok
+test_12_signed_term_bound (test_model.ParticleHoleTests.test_12_signed_term_bound) ... ok
+test_13_total_bound (test_model.ParticleHoleTests.test_13_total_bound) ... ok
+test_14_mesoscopic_limit (test_model.ParticleHoleTests.test_14_mesoscopic_limit) ... ok
+test_15_fixed_site_factor (test_model.ParticleHoleTests.test_15_fixed_site_factor) ... ok
+test_16_hole_only (test_model.ParticleHoleTests.test_16_hole_only) ... ok
+test_17_particle_only (test_model.ParticleHoleTests.test_17_particle_only) ... ok
+test_18_neutral_energy (test_model.ParticleHoleTests.test_18_neutral_energy) ... ok
+test_19_fractional_weights (test_model.ParticleHoleTests.test_19_fractional_weights) ... ok
+test_20_local_energy_limit (test_model.ParticleHoleTests.test_20_local_energy_limit) ... ok
+test_21_half_filling_restored (test_model.ParticleHoleTests.test_21_half_filling_restored) ... ok
+test_22_not_positive_update (test_model.ParticleHoleTests.test_22_not_positive_update) ... ok
+test_23_nonadditivity (test_model.ParticleHoleTests.test_23_nonadditivity) ... ok
+test_24_validation (test_model.ParticleHoleTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.098s
+
+OK

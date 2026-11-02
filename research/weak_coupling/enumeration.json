@@ -1,0 +1,110 @@
+{
+  "scope": "Rare full-strength stochastic coupling, not a general small-amplitude interaction model; no phenomenal measurements.",
+  "parameter_rows": [
+    {
+      "epsilon": "0",
+      "one_step_distance": "0",
+      "cross_influences": [
+        "0",
+        "0"
+      ],
+      "components": [
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ],
+      "product_encoding_count": 24
+    },
+    {
+      "epsilon": "1/1000000",
+      "one_step_distance": "1/1000000",
+      "cross_influences": [
+        "1/1000000",
+        "1/1000000"
+      ],
+      "components": [
+        [
+          0,
+          1
+        ]
+      ],
+      "product_encoding_count": 0
+    },
+    {
+      "epsilon": "1/1000",
+      "one_step_distance": "1/1000",
+      "cross_influences": [
+        "1/1000",
+        "1/1000"
+      ],
+      "components": [
+        [
+          0,
+          1
+        ]
+      ],
+      "product_encoding_count": 0
+    },
+    {
+      "epsilon": "1/2",
+      "one_step_distance": "1/2",
+      "cross_influences": [
+        "1/2",
+        "1/2"
+      ],
+      "components": [
+        [
+          0,
+          1
+        ]
+      ],
+      "product_encoding_count": 0
+    },
+    {
+      "epsilon": "1",
+      "one_step_distance": "1",
+      "cross_influences": [
+        "1",
+        "1"
+      ],
+      "components": [
+        [
+          0,
+          1
+        ]
+      ],
+      "product_encoding_count": 0
+    }
+  ],
+  "detection_examples": [
+    {
+      "epsilon": "1/1000",
+      "horizon": 10,
+      "full_path_tv_approx": 0.00995511979025179,
+      "full_path_tv_exact": "9955119790251790119955009999/1000000000000000000000000000000",
+      "endpoint_tv_exact": "9955000627735776761214999919/1000000000000000000000000000000"
+    },
+    {
+      "epsilon": "1/1000",
+      "horizon": 1000,
+      "full_path_tv_approx": 0.6323045752290359
+    },
+    {
+      "epsilon": "1",
+      "horizon": 3,
+      "full_path_tv_approx": 1.0,
+      "full_path_tv_exact": "1",
+      "endpoint_tv_exact": "0"
+    },
+    {
+      "epsilon": "1/2",
+      "horizon": 3,
+      "full_path_tv_approx": 0.875,
+      "full_path_tv_exact": "7/8",
+      "endpoint_tv_exact": "3/4"
+    }
+  ]
+}

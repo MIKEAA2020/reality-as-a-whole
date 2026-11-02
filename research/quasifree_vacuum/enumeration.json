@@ -1,0 +1,64 @@
+{
+  "scope": "finite diagnostics; analytic common-space proofs in REPORT.md",
+  "mass": 0.7,
+  "momentum": 1.2,
+  "scaling": [
+    {
+      "inverse_spacing": 10,
+      "projector_error": 0.03027238053125305,
+      "band_K2_bound": 0.2468642857142857,
+      "two_point_error": 0.021482306766365325,
+      "density_pair_error": 0.011568576237429833,
+      "interior_edge_projector_error": 0.6636885365922357
+    },
+    {
+      "inverse_spacing": 20,
+      "projector_error": 0.015121143041101459,
+      "band_K2_bound": 0.11171607142857144,
+      "two_point_error": 0.010717073333522443,
+      "density_pair_error": 0.00577132061511648,
+      "interior_edge_projector_error": 0.685531574233357
+    },
+    {
+      "inverse_spacing": 40,
+      "projector_error": 0.0075586918358279635,
+      "band_K2_bound": 0.05292901785714285,
+      "two_point_error": 0.005353520837402429,
+      "density_pair_error": 0.00288295920078408,
+      "interior_edge_projector_error": 0.6963765358700945
+    },
+    {
+      "inverse_spacing": 80,
+      "projector_error": 0.003779110995504315,
+      "band_K2_bound": 0.025732254464285714,
+      "two_point_error": 0.002675630772988255,
+      "density_pair_error": 0.0014408712675582568,
+      "interior_edge_projector_error": 0.7017589057720677
+    },
+    {
+      "inverse_spacing": 160,
+      "projector_error": 0.0018895261336449153,
+      "band_K2_bound": 0.01268306361607143,
+      "two_point_error": 0.0013375484356423228,
+      "density_pair_error": 0.0007202918763458973,
+      "interior_edge_projector_error": 0.7044375118740192
+    }
+  ],
+  "cutoff_energy_density": [
+    {
+      "cutoff": 10,
+      "bare_energy_per_length": -16.21597554639094,
+      "quadratic_asymptotic": -15.915494309189533
+    },
+    {
+      "cutoff": 100,
+      "bare_energy_per_length": -1592.0294341475555,
+      "quadratic_asymptotic": -1591.5494309189535
+    },
+    {
+      "cutoff": 1000,
+      "bare_energy_per_length": -159155.6026638728,
+      "quadratic_asymptotic": -159154.94309189534
+    }
+  ]
+}

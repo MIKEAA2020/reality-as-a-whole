@@ -1,0 +1,546 @@
+{
+  "scope": "Finite common construction only; not QFT, quantum gravity, actual experimental data, or phenomenal identification. Born probabilities and the preparation resources are supplied.",
+  "output_net_basis_dimensions": {
+    "empty": 1,
+    "B": 4,
+    "C": 4,
+    "BC": 16
+  },
+  "causal_events": [
+    "a",
+    "b",
+    "c"
+  ],
+  "precedence": [
+    [
+      "a",
+      "b"
+    ],
+    [
+      "a",
+      "c"
+    ]
+  ],
+  "context_count": 31,
+  "context_size_counts": {
+    "0": 1,
+    "1": 15,
+    "3": 15
+  },
+  "context_inclusion_count": 106,
+  "attempted_global_assignments": 32768,
+  "global_valuation_count": 0,
+  "mermin_row_products": [
+    1,
+    1,
+    1
+  ],
+  "mermin_column_products": [
+    1,
+    1,
+    -1
+  ],
+  "states": {
+    "Bell_plus": {
+      "expectations": {
+        "XI": "0",
+        "IX": "0",
+        "XX": "1",
+        "YY": "-1",
+        "ZZ": "1"
+      },
+      "B_and_C_half_identity": true,
+      "tomography_recovers_state": true,
+      "maximal_context_probabilities": [
+        {
+          "context": [
+            "IX",
+            "XI",
+            "XX"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "1/2"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "1/2"
+            }
+          ]
+        },
+        {
+          "context": [
+            "XX",
+            "YY",
+            "ZZ"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "1"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            }
+          ]
+        }
+      ]
+    },
+    "Bell_minus": {
+      "expectations": {
+        "XI": "0",
+        "IX": "0",
+        "XX": "-1",
+        "YY": "1",
+        "ZZ": "1"
+      },
+      "B_and_C_half_identity": true,
+      "tomography_recovers_state": true,
+      "maximal_context_probabilities": [
+        {
+          "context": [
+            "IX",
+            "XI",
+            "XX"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "1/2"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "1/2"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "0"
+            }
+          ]
+        },
+        {
+          "context": [
+            "XX",
+            "YY",
+            "ZZ"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "1"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            }
+          ]
+        }
+      ]
+    },
+    "classical_mixture": {
+      "expectations": {
+        "XI": "0",
+        "IX": "0",
+        "XX": "0",
+        "YY": "0",
+        "ZZ": "1"
+      },
+      "B_and_C_half_identity": true,
+      "tomography_recovers_state": true,
+      "maximal_context_probabilities": [
+        {
+          "context": [
+            "IX",
+            "XI",
+            "XX"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "1/4"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  -1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "1/4"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  -1
+                ],
+                [
+                  "XX",
+                  -1
+                ]
+              ],
+              "probability": "1/4"
+            },
+            {
+              "values": [
+                [
+                  "IX",
+                  1
+                ],
+                [
+                  "XI",
+                  1
+                ],
+                [
+                  "XX",
+                  1
+                ]
+              ],
+              "probability": "1/4"
+            }
+          ]
+        },
+        {
+          "context": [
+            "XX",
+            "YY",
+            "ZZ"
+          ],
+          "outcomes": [
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  -1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "1/2"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  -1
+                ],
+                [
+                  "ZZ",
+                  1
+                ]
+              ],
+              "probability": "1/2"
+            },
+            {
+              "values": [
+                [
+                  "XX",
+                  1
+                ],
+                [
+                  "YY",
+                  1
+                ],
+                [
+                  "ZZ",
+                  -1
+                ]
+              ],
+              "probability": "0"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

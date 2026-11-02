@@ -1,0 +1,37 @@
+test_01_smear_linearity (test_model.SpacetimeTests.test_01_smear_linearity) ... ok
+test_02_smear_additivity (test_model.SpacetimeTests.test_02_smear_additivity) ... ok
+test_03_norm_bound (test_model.SpacetimeTests.test_03_norm_bound) ... ok
+test_04_time_slice_right_inverse (test_model.SpacetimeTests.test_04_time_slice_right_inverse) ... ok
+test_05_time_slice_arbitrarily_thin (test_model.SpacetimeTests.test_05_time_slice_arbitrarily_thin) ... ok
+test_06_equation_of_motion_quadrature (test_model.SpacetimeTests.test_06_equation_of_motion_quadrature) ... ok
+test_07_equation_of_motion_refinement (test_model.SpacetimeTests.test_07_equation_of_motion_refinement) ... ok
+test_08_time_translation (test_model.SpacetimeTests.test_08_time_translation) ... ok
+test_09_space_translation (test_model.SpacetimeTests.test_09_space_translation) ... ok
+test_10_translation_group (test_model.SpacetimeTests.test_10_translation_group) ... ok
+test_11_covariance_time_invariant (test_model.SpacetimeTests.test_11_covariance_time_invariant) ... ok
+test_12_spacetime_car (test_model.SpacetimeTests.test_12_spacetime_car) ... ok
+test_13_diamond_shadow (test_model.SpacetimeTests.test_13_diamond_shadow) ... ok
+test_14_local_time_slice_support_budget (test_model.SpacetimeTests.test_14_local_time_slice_support_budget) ... ok
+test_15_spacelike_box_criterion (test_model.SpacetimeTests.test_15_spacelike_box_criterion) ... ok
+test_16_shadows_can_overlap_for_spacelike_boxes (test_model.SpacetimeTests.test_16_shadows_can_overlap_for_spacelike_boxes) ... ok
+test_17_inverse_walk (test_model.SpacetimeTests.test_17_inverse_walk) ... ok
+test_18_pullback_orthogonality_despite_overlap (test_model.SpacetimeTests.test_18_pullback_orthogonality_despite_overlap) ... ok
+test_19_discrete_finite_propagation (test_model.SpacetimeTests.test_19_discrete_finite_propagation) ... ok
+test_20_massless_characteristics (test_model.SpacetimeTests.test_20_massless_characteristics) ... ok
+test_21_boost_interval (test_model.SpacetimeTests.test_21_boost_interval) ... ok
+test_22_boost_energy_sign_and_shell (test_model.SpacetimeTests.test_22_boost_energy_sign_and_shell) ... ok
+test_23_boost_spinor_intertwining (test_model.SpacetimeTests.test_23_boost_spinor_intertwining) ... ok
+test_24_boost_norm_jacobian (test_model.SpacetimeTests.test_24_boost_norm_jacobian) ... ok
+test_25_boost_inverse (test_model.SpacetimeTests.test_25_boost_inverse) ... ok
+test_26_contragredient_source (test_model.SpacetimeTests.test_26_contragredient_source) ... ok
+test_27_lorentz_group (test_model.SpacetimeTests.test_27_lorentz_group) ... ok
+test_28_even_disjoint_locality (test_model.SpacetimeTests.test_28_even_disjoint_locality) ... ok
+test_29_even_union_has_extra_bilocal (test_model.SpacetimeTests.test_29_even_union_has_extra_bilocal) ... ok
+test_30_spacetime_quadrature_convergence (test_model.SpacetimeTests.test_30_spacetime_quadrature_convergence) ... ok
+test_31_walk_spacetime_approximation (test_model.SpacetimeTests.test_31_walk_spacetime_approximation) ... ok
+test_32_validation (test_model.SpacetimeTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.053s
+
+OK

@@ -1,0 +1,22 @@
+{
+  "archive": "workspace-01a169a5-eb9f-79d3-ac53-729ac277254b.zip",
+  "bytes": 679743,
+  "sha256": "b4e7b13c85205a73b2f8b657abb35beac03a40cdb3359a2cc7a2eb3d080ca0c4",
+  "python": "3.11.2",
+  "command": "python -m unittest -v test_realization_tokens.py test_intervention_selection.py test_interface_derivation.py test_operational_equivalence.py test_presentation_identifiability.py",
+  "tests": 136,
+  "exit_code": 0,
+  "scope": "Unmodified supplied unittest suites rerun; targeted implementation and test inspection, not independent proof of all claims or complete source audit.",
+  "source_hashes": {
+    "interface_derivation.py": "928c10a1e899333967142f457ab11f716b60f84e1698ea51d1f53efd1b0e1a12",
+    "intervention_selection.py": "e1da3a1f90b17d22aa5b4aba02b25f5c28bd857a4186a89af484a96fedc641cd",
+    "operational_equivalence.py": "d30ffe023bfd774137a8ba5c1505c7886bbbedf8c186152e666b77a09dfddfb1",
+    "presentation_identifiability.py": "f8630e69e63b348d784c9e82a34813820adea97537eecd1e7c1668c648477933",
+    "realization_tokens.py": "61ca0b2f748cef10be9ba4c12847e01ef8d30e6ff965622ed890749650f17a19",
+    "test_interface_derivation.py": "3c7f5090f6a71f7c19394b144858817a822d7b921e7019224b03ad4bc1a1eeb2",
+    "test_intervention_selection.py": "98f9a1193a0c899ef8f438a992034806cc0ae5e3e97ccc35e8144c300a3c8fb4",
+    "test_operational_equivalence.py": "1bd3f8538fc0c0157500396d9df7bcc034ce8bd122218bb4f1e7a8204f256833",
+    "test_presentation_identifiability.py": "e43b1b7c8dde8b7589ad06c07ecb4d8d8bee9a6789cb3e3cd705bc49989495b8",
+    "test_realization_tokens.py": "5a7766c118f8a2ca0963baa93689aed4243a0866c5ae0378e38cdc9f5474665a"
+  }
+}

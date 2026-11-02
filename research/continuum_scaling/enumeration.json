@@ -1,0 +1,101 @@
+{
+  "scope": "Distinct scaled one-particle quantum walk; not the CNOT continuum limit, quantized QFT, empirical data, or phenomenal identification. Floating-point diagnostics complement analytic bounds.",
+  "units": "c=hbar=1, spatial spacing=time step=a",
+  "fixed_band_example": {
+    "k": 1.2,
+    "mass": 0.7,
+    "time": 1,
+    "rows": [
+      {
+        "steps": 20,
+        "spacing": 0.05,
+        "error": 0.029745419112766562,
+        "analytic_bound": 0.04200000000000001
+      },
+      {
+        "steps": 40,
+        "spacing": 0.025,
+        "error": 0.01486894636061675,
+        "analytic_bound": 0.021000000000000005
+      },
+      {
+        "steps": 80,
+        "spacing": 0.0125,
+        "error": 0.00743400283811264,
+        "analytic_bound": 0.010500000000000002
+      },
+      {
+        "steps": 160,
+        "spacing": 0.00625,
+        "error": 0.003716942628073972,
+        "analytic_bound": 0.005250000000000001
+      }
+    ]
+  },
+  "zone_edge_failure": {
+    "mass": 1,
+    "time": 1,
+    "limiting_error": 0.958851077208406,
+    "rows": [
+      {
+        "steps": 20,
+        "spacing": 0.05,
+        "momentum": 62.83185307179586,
+        "error": 0.9587577871583213,
+        "interior_edge_error": 0.958837741892553,
+        "walk_Z_expectation": -0.41614683654714285,
+        "dirac_Z_expectation": 0.9999999679316679
+      },
+      {
+        "steps": 40,
+        "spacing": 0.025,
+        "momentum": 125.66370614359172,
+        "error": 0.9588277518100315,
+        "interior_edge_error": 0.9580816542278117,
+        "walk_Z_expectation": -0.4161468365471444,
+        "dirac_Z_expectation": 0.9999999979951263
+      },
+      {
+        "steps": 80,
+        "spacing": 0.0125,
+        "momentum": 251.32741228718345,
+        "error": 0.9588452456784171,
+        "interior_edge_error": 0.957687015387817,
+        "walk_Z_expectation": -0.4161468365471481,
+        "dirac_Z_expectation": 0.9999999998746859
+      },
+      {
+        "steps": 160,
+        "spacing": 0.00625,
+        "momentum": 502.6548245743669,
+        "error": 0.9588496193146274,
+        "interior_edge_error": 0.9574855893925059,
+        "walk_Z_expectation": -0.4161468365471336,
+        "dirac_Z_expectation": 0.9999999999921678
+      }
+    ]
+  },
+  "dispersion": [
+    {
+      "spacing": 0.0625,
+      "k": 0.8,
+      "mass": 0.7,
+      "quasienergy": 1.0628224435460558,
+      "dirac_energy": 1.063014581273465
+    },
+    {
+      "spacing": 0.03125,
+      "k": 0.8,
+      "mass": 0.7,
+      "quasienergy": 1.062966560695404,
+      "dirac_energy": 1.063014581273465
+    },
+    {
+      "spacing": 0.015625,
+      "k": 0.8,
+      "mass": 0.7,
+      "quasienergy": 1.0630025769946605,
+      "dirac_energy": 1.063014581273465
+    }
+  ]
+}

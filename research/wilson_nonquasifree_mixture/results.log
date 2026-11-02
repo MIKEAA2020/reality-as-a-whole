@@ -1,0 +1,29 @@
+test_01_mode_density_normalized (test_model.NonquasifreeTests.test_01_mode_density_normalized) ... ok
+test_02_mode_density_positive (test_model.NonquasifreeTests.test_02_mode_density_positive) ... ok
+test_03_same_mode_covariance (test_model.NonquasifreeTests.test_03_same_mode_covariance) ... ok
+test_04_mode_four_point_differs (test_model.NonquasifreeTests.test_04_mode_four_point_differs) ... ok
+test_05_fixed_packet_number (test_model.NonquasifreeTests.test_05_fixed_packet_number) ... ok
+test_06_phase_average_local_density (test_model.NonquasifreeTests.test_06_phase_average_local_density) ... ok
+test_07_same_local_covariance (test_model.NonquasifreeTests.test_07_same_local_covariance) ... ok
+test_08_local_density_not_wick_density (test_model.NonquasifreeTests.test_08_local_density_not_wick_density) ... ok
+test_09_actual_current (test_model.NonquasifreeTests.test_09_actual_current) ... ok
+test_10_quasifree_current (test_model.NonquasifreeTests.test_10_quasifree_current) ... ok
+test_11_connected_identity (test_model.NonquasifreeTests.test_11_connected_identity) ... ok
+test_12_connected_nonzero (test_model.NonquasifreeTests.test_12_connected_nonzero) ... ok
+test_13_connected_bound (test_model.NonquasifreeTests.test_13_connected_bound) ... ok
+test_14_connected_quadratic_decay (test_model.NonquasifreeTests.test_14_connected_quadratic_decay) ... ok
+test_15_full_bound (test_model.NonquasifreeTests.test_15_full_bound) ... ok
+test_16_limit (test_model.NonquasifreeTests.test_16_limit) ... ok
+test_17_quasifree_same_limit (test_model.NonquasifreeTests.test_17_quasifree_same_limit) ... ok
+test_18_local_energy (test_model.NonquasifreeTests.test_18_local_energy) ... ok
+test_19_mixed_not_pure (test_model.NonquasifreeTests.test_19_mixed_not_pure) ... ok
+test_20_vacuum_endpoint (test_model.NonquasifreeTests.test_20_vacuum_endpoint) ... ok
+test_21_swap_endpoint_quasifree (test_model.NonquasifreeTests.test_21_swap_endpoint_quasifree) ... ok
+test_22_transport (test_model.NonquasifreeTests.test_22_transport) ... ok
+test_23_phase_averaged_current (test_model.NonquasifreeTests.test_23_phase_averaged_current) ... ok
+test_24_validation (test_model.NonquasifreeTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.405s
+
+OK

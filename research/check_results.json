@@ -1,0 +1,776 @@
+[
+  {
+    "folder": "contrast_covariance",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 30 tests in 0.012s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "contextual_constitution",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.010s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "episodic_unity",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 1.580s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "presentation_gluing",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.008s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "episode_reconstruction",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.003s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "constitution_monitoring",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.004s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "interventional_core",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.008s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "differentiation_unity",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.003s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "weak_coupling",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.032s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "boundary_identifiability",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.008s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "framework_overlap",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 30 tests in 0.213s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "dynamical_locality",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.473s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "quasilocal_limit",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.613s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "continuum_scaling",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.010s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "fermionic_lift",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.048s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "quasifree_vacuum",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.005s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "spacetime_net",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.053s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "local_scaling",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 2.739s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "causal_geometry",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.016s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "order_reconstruction",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.088s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "refinement_completion",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.271s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "curved_dirac",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.224s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "hamiltonian_state_limit",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.360s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_regulator",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.516s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "conformal_stress",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.004s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "relative_subtraction",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.010s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "cell_current_limit",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.043s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_thermal_composite",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 32 tests in 0.043s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_nonthermal_universality",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.038s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_wavepacket_composite",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.086s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_multimode_composite",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.376s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_infinite_rank",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.087s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_ultraviolet_tails",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.358s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_particle_hole",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.098s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_coherent_rotation",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.255s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "wilson_nonquasifree_mixture",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.405s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "event_composition_obstruction",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.003s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "temporal_episode_selection",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 12 tests in 0.003s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "constitutive_relabeling",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 12 tests in 0.002s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "causal_exclusion_candidate",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 16 tests in 0.120s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "realized_workspace",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 24 tests in 0.003s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "rigorous_closures",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 16 tests in 0.002s",
+      "",
+      "OK"
+    ]
+  },
+  {
+    "folder": "constitutive_geometry",
+    "exit_code": 0,
+    "command": [
+      "/usr/bin/python",
+      "-m",
+      "unittest",
+      "-v",
+      "test_model.py"
+    ],
+    "log_tail": [
+      "",
+      "----------------------------------------------------------------------",
+      "Ran 33 tests in 0.018s",
+      "",
+      "OK"
+    ]
+  }
+]

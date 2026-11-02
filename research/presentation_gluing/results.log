@@ -1,0 +1,29 @@
+test_01_exact_agreeing_sections_have_unique_union (test_model.GluingTests.test_01_exact_agreeing_sections_have_unique_union) ... ok
+test_02_disagreeing_sections_have_no_union (test_model.GluingTests.test_02_disagreeing_sections_have_no_union) ... ok
+test_03_exact_union_need_not_be_globally_admissible (test_model.GluingTests.test_03_exact_union_need_not_be_globally_admissible) ... ok
+test_04_each_patch_can_be_individually_admissible (test_model.GluingTests.test_04_each_patch_can_be_individually_admissible) ... ok
+test_05_partial_cover_can_leave_global_extensions_ambiguous (test_model.GluingTests.test_05_partial_cover_can_leave_global_extensions_ambiguous) ... ok
+test_06_full_exact_cover_with_no_additional_constraints_is_unique (test_model.GluingTests.test_06_full_exact_cover_with_no_additional_constraints_is_unique) ... ok
+test_07_frustrated_triangle_has_consistent_single_marginals (test_model.GluingTests.test_07_frustrated_triangle_has_consistent_single_marginals) ... ok
+test_08_frustrated_triangle_has_no_global_support (test_model.GluingTests.test_08_frustrated_triangle_has_no_global_support) ... ok
+test_09_every_deterministic_triple_satisfies_at_most_two_anticorrelations (test_model.GluingTests.test_09_every_deterministic_triple_satisfies_at_most_two_anticorrelations) ... ok
+test_10_parity_family_is_normalized_and_nonnegative (test_model.GluingTests.test_10_parity_family_is_normalized_and_nonnegative) ... ok
+test_11_all_pair_marginals_identical_throughout_family (test_model.GluingTests.test_11_all_pair_marginals_identical_throughout_family) ... ok
+test_12_all_single_marginals_identical_throughout_family (test_model.GluingTests.test_12_all_single_marginals_identical_throughout_family) ... ok
+test_13_even_and_odd_joint_supports_are_disjoint (test_model.GluingTests.test_13_even_and_odd_joint_supports_are_disjoint) ... ok
+test_14_triple_correlation_exactly_recovers_free_parameter (test_model.GluingTests.test_14_triple_correlation_exactly_recovers_free_parameter) ... ok
+test_15_pair_constraint_matrix_has_rank_seven (test_model.GluingTests.test_15_pair_constraint_matrix_has_rank_seven) ... ok
+test_16_parity_direction_spans_remaining_nullity (test_model.GluingTests.test_16_parity_direction_spans_remaining_nullity) ... ok
+test_17_triple_constraint_closes_rank (test_model.GluingTests.test_17_triple_constraint_closes_rank) ... ok
+test_18_independence_selects_zero_correlation_as_extra_assumption (test_model.GluingTests.test_18_independence_selects_zero_correlation_as_extra_assumption) ... ok
+test_19_maximum_entropy_selection_is_not_marginal_entailment (test_model.GluingTests.test_19_maximum_entropy_selection_is_not_marginal_entailment) ... ok
+test_20_physical_parity_readout_distinguishes_joint_models (test_model.GluingTests.test_20_physical_parity_readout_distinguishes_joint_models) ... ok
+test_21_unique_joint_description_does_not_fix_occurrence_multiplicity (test_model.GluingTests.test_21_unique_joint_description_does_not_fix_occurrence_multiplicity) ... ok
+test_22_glued_value_tuple_does_not_choose_episode_assignment (test_model.GluingTests.test_22_glued_value_tuple_does_not_choose_episode_assignment) ... ok
+test_23_passive_coordinate_permutation_preserves_uniform_pair_data (test_model.GluingTests.test_23_passive_coordinate_permutation_preserves_uniform_pair_data) ... ok
+test_24_inconsistent_parameter_is_rejected (test_model.GluingTests.test_24_inconsistent_parameter_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.008s
+
+OK

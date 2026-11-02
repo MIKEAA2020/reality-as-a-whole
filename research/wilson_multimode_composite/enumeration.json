@@ -1,0 +1,186 @@
+{
+  "scope": "fixed finite-rank positive-energy quasifree excitations; executable two-mode witness",
+  "occupation_numbers": [
+    1,
+    1
+  ],
+  "overlap_matrix": [
+    [
+      1.0000000000097666,
+      -3.262834157950293e-17
+    ],
+    [
+      -3.262834157950293e-17,
+      1.000000000205078
+    ]
+  ],
+  "examples": [
+    {
+      "midpoint": 0,
+      "time": 0,
+      "target": 0.5305164769729858,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "linear_contribution": 0.5260410833732143,
+          "gram_contribution": 0.0009656657804642014,
+          "gram_bound": 0.0543986621896129,
+          "current": 0.5270067491536785,
+          "target_error": 0.003509727819307251,
+          "total_error_bound": 0.07070798385055087,
+          "independent_local_hamiltonian_energy": 0.5304923001488207
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "linear_contribution": 0.5294026343991629,
+          "gram_contribution": 0.00024168890535182112,
+          "gram_bound": 0.013599665547403226,
+          "current": 0.5296443233045147,
+          "target_error": 0.0008721536684710429,
+          "total_error_bound": 0.0176513747460013,
+          "independent_local_hamiltonian_energy": 0.5305149659004365
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "linear_contribution": 0.5302383333312506,
+          "gram_contribution": 6.0437867698365644e-05,
+          "gram_bound": 0.0033999163868508064,
+          "current": 0.530298771198949,
+          "target_error": 0.0002177057740367916,
+          "total_error_bound": 0.0044112482261236974,
+          "independent_local_hamiltonian_energy": 0.5305163825308702
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "linear_contribution": 0.5304469609398011,
+          "gram_contribution": 1.5110422800849362e-05,
+          "gram_bound": 0.0008499790967127016,
+          "current": 0.530462071362602,
+          "target_error": 5.440561038372316e-05,
+          "total_error_bound": 0.0011027124315559182,
+          "independent_local_hamiltonian_energy": 0.5305164710703514
+        }
+      ]
+    },
+    {
+      "midpoint": 0.7,
+      "time": 0.3,
+      "target": 0.537000315306984,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "linear_contribution": 0.5324909238774131,
+          "gram_contribution": 0.0009309647561477257,
+          "gram_bound": 0.0543986621896129,
+          "current": 0.5334218886335609,
+          "target_error": 0.0035784266734231185,
+          "total_error_bound": 0.07077524296744203,
+          "independent_local_hamiltonian_energy": 0.5369766414887536
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "linear_contribution": 0.5358778540970198,
+          "gram_contribution": 0.0002330069145685369,
+          "gram_bound": 0.013599665547403226,
+          "current": 0.5361108610115883,
+          "target_error": 0.0008894542953956641,
+          "total_error_bound": 0.01765556611325625,
+          "independent_local_hamiltonian_energy": 0.536998835676484
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "linear_contribution": 0.5367200095350597,
+          "gram_contribution": 5.826692681333936e-05,
+          "gram_bound": 0.0033999163868508064,
+          "current": 0.536778276461873,
+          "target_error": 0.00022203884511096117,
+          "total_error_bound": 0.004411509994664712,
+          "independent_local_hamiltonian_energy": 0.5370002228300106
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "linear_contribution": 0.536930258273927,
+          "gram_contribution": 1.4567659531817446e-05,
+          "gram_bound": 0.0008499790967127016,
+          "current": 0.5369448259334588,
+          "target_error": 5.548937352517491e-05,
+          "total_error_bound": 0.0011027287890938455,
+          "independent_local_hamiltonian_energy": 0.5370003095271719
+        }
+      ]
+    },
+    {
+      "midpoint": 2,
+      "time": 1,
+      "target": 0.5616944328503092,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "linear_contribution": 0.5570656269688561,
+          "gram_contribution": 0.0007679971179654571,
+          "gram_bound": 0.0543986621896129,
+          "current": 0.5578336240868216,
+          "target_error": 0.0038608087634876,
+          "total_error_bound": 0.07093218090685471,
+          "independent_local_hamiltonian_energy": 0.5616717861615337
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "linear_contribution": 0.5605418118954154,
+          "gram_contribution": 0.00019223460099769812,
+          "gram_bound": 0.013599665547403226,
+          "current": 0.5607340464964131,
+          "target_error": 0.0009603863538960589,
+          "total_error_bound": 0.01766534597018446,
+          "independent_local_hamiltonian_energy": 0.5616930174651018
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "linear_contribution": 0.5614065680820213,
+          "gram_contribution": 4.807175676819538e-05,
+          "gram_bound": 0.0033999163868508064,
+          "current": 0.5614546398387895,
+          "target_error": 0.00023979301151966226,
+          "total_error_bound": 0.004412120787927078,
+          "independent_local_hamiltonian_energy": 0.5616943443888597
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "linear_contribution": 0.5616224848781486,
+          "gram_contribution": 1.2018733297330143e-05,
+          "gram_bound": 0.0008499790967127016,
+          "current": 0.561634503611446,
+          "target_error": 5.99292388632211e-05,
+          "total_error_bound": 0.0011027669566823428,
+          "independent_local_hamiltonian_energy": 0.5616944273214678
+        }
+      ]
+    }
+  ],
+  "finite_CAR": {
+    "covariance_eigenvalues": [
+      0.4206849843767877,
+      0.5899330382840045
+    ],
+    "density_trace": 1.0,
+    "actual_relative_expectation": 0.5656564128770469,
+    "formula": 0.565656412877083,
+    "agreement_error": 3.608224830031759e-14,
+    "linear_and_gram_terms": [
+      0.5655576443827958,
+      9.876849428727997e-05
+    ]
+  }
+}

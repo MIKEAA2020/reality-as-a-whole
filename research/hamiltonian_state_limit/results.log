@@ -1,0 +1,37 @@
+test_01_free_gap (test_model.HamiltonianStateTests.test_01_free_gap) ... ok
+test_02_perturbation_norm (test_model.HamiltonianStateTests.test_02_perturbation_norm) ... ok
+test_03_uniform_gap_examples (test_model.HamiltonianStateTests.test_03_uniform_gap_examples) ... ok
+test_04_sign_symmetry (test_model.HamiltonianStateTests.test_04_sign_symmetry) ... ok
+test_05_eigensystem_residual (test_model.HamiltonianStateTests.test_05_eigensystem_residual) ... ok
+test_06_projection (test_model.HamiltonianStateTests.test_06_projection) ... ok
+test_07_stationarity (test_model.HamiltonianStateTests.test_07_stationarity) ... ok
+test_08_common_complement_choice (test_model.HamiltonianStateTests.test_08_common_complement_choice) ... ok
+test_09_centered_derivative_consistency_bound (test_model.HamiltonianStateTests.test_09_centered_derivative_consistency_bound) ... ok
+test_10_cell_projection_converges (test_model.HamiltonianStateTests.test_10_cell_projection_converges) ... ok
+test_11_derivative_core_consistency (test_model.HamiltonianStateTests.test_11_derivative_core_consistency) ... ok
+test_12_sampled_mass_bound (test_model.HamiltonianStateTests.test_12_sampled_mass_bound) ... ok
+test_13_resolvent_bound (test_model.HamiltonianStateTests.test_13_resolvent_bound) ... ok
+test_14_negative_sign_integral (test_model.HamiltonianStateTests.test_14_negative_sign_integral) ... ok
+test_15_integral_projection_reconstruction (test_model.HamiltonianStateTests.test_15_integral_projection_reconstruction) ... ok
+test_16_fixed_smear_circle_convergence (test_model.HamiltonianStateTests.test_16_fixed_smear_circle_convergence) ... ok
+test_17_two_point_circle_convergence (test_model.HamiltonianStateTests.test_17_two_point_circle_convergence) ... ok
+test_18_wick_circle_convergence (test_model.HamiltonianStateTests.test_18_wick_circle_convergence) ... ok
+test_19_flat_projection_not_stationary (test_model.HamiltonianStateTests.test_19_flat_projection_not_stationary) ... ok
+test_20_time_correlation_circle_convergence (test_model.HamiltonianStateTests.test_20_time_correlation_circle_convergence) ... ok
+test_21_no_strict_continuous_time_lattice_cone (test_model.HamiltonianStateTests.test_21_no_strict_continuous_time_lattice_cone) ... ok
+test_22_nearest_neighbour_generator (test_model.HamiltonianStateTests.test_22_nearest_neighbour_generator) ... ok
+test_23_not_floquet_logarithm (test_model.HamiltonianStateTests.test_23_not_floquet_logarithm) ... ok
+test_24_nonuniform_projector_limit (test_model.HamiltonianStateTests.test_24_nonuniform_projector_limit) ... ok
+test_25_uv_changes_with_spacing (test_model.HamiltonianStateTests.test_25_uv_changes_with_spacing) ... ok
+test_26_free_doubling (test_model.HamiltonianStateTests.test_26_free_doubling) ... ok
+test_27_tail_choice_vanishes_on_fixed_smear (test_model.HamiltonianStateTests.test_27_tail_choice_vanishes_on_fixed_smear) ... ok
+test_28_positive_finite_excitation_energies (test_model.HamiltonianStateTests.test_28_positive_finite_excitation_energies) ... ok
+test_29_ring_mass_wrap_not_galerkin (test_model.HamiltonianStateTests.test_29_ring_mass_wrap_not_galerkin) ... ok
+test_30_uv_norm_grows_but_gap_stays_open (test_model.HamiltonianStateTests.test_30_uv_norm_grows_but_gap_stays_open) ... ok
+test_31_low_momentum_second_order_symbol_error (test_model.HamiltonianStateTests.test_31_low_momentum_second_order_symbol_error) ... ok
+test_32_validation (test_model.HamiltonianStateTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.360s
+
+OK

@@ -1,0 +1,29 @@
+test_01_first_mode_normalization (test_model.MultimodeTests.test_01_first_mode_normalization) ... ok
+test_02_second_mode_normalization (test_model.MultimodeTests.test_02_second_mode_normalization) ... ok
+test_03_orthogonality (test_model.MultimodeTests.test_03_orthogonality) ... ok
+test_04_packet_formula (test_model.MultimodeTests.test_04_packet_formula) ... ok
+test_05_continuum_translation (test_model.MultimodeTests.test_05_continuum_translation) ... ok
+test_06_partial_occupations_positive (test_model.MultimodeTests.test_06_partial_occupations_positive) ... ok
+test_07_density_normalized (test_model.MultimodeTests.test_07_density_normalized) ... ok
+test_08_actual_fock_expectation (test_model.MultimodeTests.test_08_actual_fock_expectation) ... ok
+test_09_gram_determinant (test_model.MultimodeTests.test_09_gram_determinant) ... ok
+test_10_exchange_nonzero (test_model.MultimodeTests.test_10_exchange_nonzero) ... ok
+test_11_exchange_bound (test_model.MultimodeTests.test_11_exchange_bound) ... ok
+test_12_exchange_quadratic_decay (test_model.MultimodeTests.test_12_exchange_quadratic_decay) ... ok
+test_13_total_error_bound (test_model.MultimodeTests.test_13_total_error_bound) ... ok
+test_14_mesoscopic_limit (test_model.MultimodeTests.test_14_mesoscopic_limit) ... ok
+test_15_fixed_count_factor (test_model.MultimodeTests.test_15_fixed_count_factor) ... ok
+test_16_local_energy_limit (test_model.MultimodeTests.test_16_local_energy_limit) ... ok
+test_17_total_energy_four (test_model.MultimodeTests.test_17_total_energy_four) ... ok
+test_18_single_mode_reduction (test_model.MultimodeTests.test_18_single_mode_reduction) ... ok
+test_19_vacuum_reduction (test_model.MultimodeTests.test_19_vacuum_reduction) ... ok
+test_20_not_linear_in_both_occupations (test_model.MultimodeTests.test_20_not_linear_in_both_occupations) ... ok
+test_21_exchange_weight_product (test_model.MultimodeTests.test_21_exchange_weight_product) ... ok
+test_22_derivative_bound_second_mode (test_model.MultimodeTests.test_22_derivative_bound_second_mode) ... ok
+test_23_two_point_reconstruction (test_model.MultimodeTests.test_23_two_point_reconstruction) ... ok
+test_24_validation (test_model.MultimodeTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.376s
+
+OK

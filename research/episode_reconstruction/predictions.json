@@ -1,0 +1,830 @@
+{
+  "baseline": {
+    "persistent": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    },
+    "sequential": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    },
+    "late_replay": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    }
+  },
+  "clear_workspace_before_C": {
+    "persistent": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    },
+    "sequential": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    },
+    "late_replay": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input",
+        "C@input"
+      ]
+    }
+  },
+  "clear_record_before_C": {
+    "persistent": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "report": [
+        "C@input"
+      ]
+    },
+    "sequential": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "report": [
+        "C@input"
+      ]
+    },
+    "late_replay": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "C@input"
+        ]
+      ],
+      "report": [
+        "C@input"
+      ]
+    }
+  },
+  "skip_record_C": {
+    "persistent": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input"
+      ]
+    },
+    "sequential": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input"
+      ]
+    },
+    "late_replay": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ]
+      ],
+      "report": [
+        "A@input",
+        "B@input"
+      ]
+    }
+  },
+  "suppress_emission": {
+    "persistent": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": null
+    },
+    "sequential": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        []
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": null
+    },
+    "late_replay": {
+      "candidate_presentations": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "workspace": [
+        [
+          "A@input"
+        ],
+        [
+          "B@input"
+        ],
+        [
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "record": [
+        [
+          "A@input"
+        ],
+        [
+          "A@input",
+          "B@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ],
+        [
+          "A@input",
+          "B@input",
+          "C@input"
+        ]
+      ],
+      "report": null
+    }
+  },
+  "scope": "Synthetic candidate predictions; not measured phenomenal data or a derived observer population.",
+  "minimal_baseline_temporal_designs": [
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      3
+    ]
+  ]
+}

@@ -1,0 +1,37 @@
+test_01_smallest_grid (test_model.ReconstructionTests.test_01_smallest_grid) ... ok
+test_02_rectangular_shape (test_model.ReconstructionTests.test_02_rectangular_shape) ... ok
+test_03_all_small_shapes (test_model.ReconstructionTests.test_03_all_small_shapes) ... ok
+test_04_order_reflected (test_model.ReconstructionTests.test_04_order_reflected) ... ok
+test_05_meet_join_coordinates (test_model.ReconstructionTests.test_05_meet_join_coordinates) ... ok
+test_06_opaque_relabelling (test_model.ReconstructionTests.test_06_opaque_relabelling) ... ok
+test_07_input_enumeration_only_swaps_axes (test_model.ReconstructionTests.test_07_input_enumeration_only_swaps_axes) ... ok
+test_08_axis_exchange (test_model.ReconstructionTests.test_08_axis_exchange) ... ok
+test_09_nonreflexive_rejected (test_model.ReconstructionTests.test_09_nonreflexive_rejected) ... ok
+test_10_nontransitive_rejected (test_model.ReconstructionTests.test_10_nontransitive_rejected) ... ok
+test_11_antisymmetry_required (test_model.ReconstructionTests.test_11_antisymmetry_required) ... ok
+test_12_antichain_not_lattice (test_model.ReconstructionTests.test_12_antichain_not_lattice) ... ok
+test_13_M3_nondistributive_rejected (test_model.ReconstructionTests.test_13_M3_nondistributive_rejected) ... ok
+test_14_three_axis_boolean_lattice_rejected (test_model.ReconstructionTests.test_14_three_axis_boolean_lattice_rejected) ... ok
+test_15_chain_not_two_dimensional_grid (test_model.ReconstructionTests.test_15_chain_not_two_dimensional_grid) ... ok
+test_16_missing_point_does_not_get_filled_silently (test_model.ReconstructionTests.test_16_missing_point_does_not_get_filled_silently) ... ok
+test_17_positive_valuation_recovery (test_model.ReconstructionTests.test_17_positive_valuation_recovery) ... ok
+test_18_additivity_violation_rejected (test_model.ReconstructionTests.test_18_additivity_violation_rejected) ... ok
+test_19_null_valuation_violation_rejected (test_model.ReconstructionTests.test_19_null_valuation_violation_rejected) ... ok
+test_20_zero_atom_rejected (test_model.ReconstructionTests.test_20_zero_atom_rejected) ... ok
+test_21_flat_factorization_exact (test_model.ReconstructionTests.test_21_flat_factorization_exact) ... ok
+test_22_boost_factor_gauge (test_model.ReconstructionTests.test_22_boost_factor_gauge) ... ok
+test_23_nonrankone_excludes_flat_null_grid (test_model.ReconstructionTests.test_23_nonrankone_excludes_flat_null_grid) ... ok
+test_24_proper_interval_from_flat_valuation (test_model.ReconstructionTests.test_24_proper_interval_from_flat_valuation) ... ok
+test_25_uncalibrated_volume_scale (test_model.ReconstructionTests.test_25_uncalibrated_volume_scale) ... ok
+test_26_refine_coarsen_exact (test_model.ReconstructionTests.test_26_refine_coarsen_exact) ... ok
+test_27_rankone_refinement (test_model.ReconstructionTests.test_27_rankone_refinement) ... ok
+test_28_nonflat_refinement_hidden_by_coarse_values (test_model.ReconstructionTests.test_28_nonflat_refinement_hidden_by_coarse_values) ... ok
+test_29_covers_not_intrinsically_null (test_model.ReconstructionTests.test_29_covers_not_intrinsically_null) ... ok
+test_30_refinement_embedding_preserves_order (test_model.ReconstructionTests.test_30_refinement_embedding_preserves_order) ... ok
+test_31_noise_can_destroy_exact_rankone (test_model.ReconstructionTests.test_31_noise_can_destroy_exact_rankone) ... ok
+test_32_validation (test_model.ReconstructionTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.088s
+
+OK

@@ -1,0 +1,59 @@
+{
+  "scope": "formal qualitative-map sufficiency audit, not actual phenomenal measurements",
+  "candidate_bijection_count": 24,
+  "anchors": {
+    "0": "a",
+    "1": "b"
+  },
+  "survivors": [
+    {
+      "0": "a",
+      "1": "b",
+      "2": "c",
+      "3": "d"
+    },
+    {
+      "0": "a",
+      "1": "b",
+      "2": "d",
+      "3": "c"
+    }
+  ],
+  "distinct_physical_prediction_tables": 1,
+  "shared_physical_intervention_table": [
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      2,
+      2,
+      3
+    ],
+    [
+      3,
+      3,
+      0
+    ]
+  ],
+  "implemented_target_c_interventions": [
+    {
+      "physical_state": 2,
+      "physical_report": 2,
+      "target_annotation": "c"
+    },
+    {
+      "physical_state": 3,
+      "physical_report": 3,
+      "target_annotation": "c"
+    }
+  ],
+  "survivor_count_with_third_anchor": 1,
+  "macro_causal_relevance_is_not_proven_phenomenal_efficacy": true
+}

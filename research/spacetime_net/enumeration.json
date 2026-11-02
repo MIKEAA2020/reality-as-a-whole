@@ -1,0 +1,65 @@
+{
+  "scope": "finite quadrature and finite walk/boost diagnostics; continuum proofs are in REPORT.md",
+  "eom_quadrature": [
+    {
+      "inverse_step": 10,
+      "Q_PF_norm": 0.0019230555768576761
+    },
+    {
+      "inverse_step": 20,
+      "Q_PF_norm": 5.1722709594255503e-05
+    },
+    {
+      "inverse_step": 40,
+      "Q_PF_norm": 2.9265854915730814e-06
+    },
+    {
+      "inverse_step": 80,
+      "Q_PF_norm": 5.040931590965662e-09
+    }
+  ],
+  "boost_checks": [
+    {
+      "branch": -1,
+      "energy_prime": -2.4108852131650482,
+      "momentum_prime": 2.307025684958423,
+      "jacobian": 1.735393149683326,
+      "spinor_norm_squared": 1.7353931496833268,
+      "mass_shell_residual": -2.3869795029440866e-15
+    },
+    {
+      "branch": 1,
+      "energy_prime": 0.8829166160092695,
+      "momentum_prime": 0.5380908388230191,
+      "jacobian": 0.6355372868012092,
+      "spinor_norm_squared": 0.6355372868012096,
+      "mass_shell_residual": -3.885780586188048e-16
+    }
+  ],
+  "walk_spacetime_errors": [
+    {
+      "inverse_spacing": 20,
+      "error_to_fine_continuum_quadrature": 2.4100909549303207e-05
+    },
+    {
+      "inverse_spacing": 40,
+      "error_to_fine_continuum_quadrature": 5.888954449577073e-06
+    },
+    {
+      "inverse_spacing": 80,
+      "error_to_fine_continuum_quadrature": 1.4721695837031927e-06
+    },
+    {
+      "inverse_spacing": 160,
+      "error_to_fine_continuum_quadrature": 3.6803645194418386e-07
+    }
+  ],
+  "overlapping_shadow_example": {
+    "shared_sites": [
+      -2,
+      0,
+      2
+    ],
+    "inner_product_abs": 3.469446951953614e-18
+  }
+}

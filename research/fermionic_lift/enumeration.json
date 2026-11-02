@@ -1,0 +1,30 @@
+{
+  "status": "finite numerical diagnostics; analytic infinite-dimensional proofs are in REPORT.md",
+  "ring_sites": 3,
+  "one_particle_modes": 6,
+  "fock_dimension": 64,
+  "frobenius_unitarity_error": 3.4234982680163237e-15,
+  "maximum_generator_pullback_frobenius_error": 1.83085361001077e-15,
+  "fixed_band_samples": [
+    {
+      "steps": 10,
+      "smear_vector_error": 0.11152454814595066,
+      "analytic_band_bound": 0.20729457301145146
+    },
+    {
+      "steps": 20,
+      "smear_vector_error": 0.05572660973001752,
+      "analytic_band_bound": 0.10364728650572573
+    },
+    {
+      "steps": 40,
+      "smear_vector_error": 0.02785884797548741,
+      "analytic_band_bound": 0.051823643252862865
+    },
+    {
+      "steps": 80,
+      "smear_vector_error": 0.013928866912842607,
+      "analytic_band_bound": 0.025911821626431433
+    }
+  ]
+}
