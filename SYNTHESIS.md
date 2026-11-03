@@ -42,6 +42,8 @@ A sufficiently justified dissolution of a question can count as explanatory prog
 
 ## 2. The basic turn: from descriptions to occurrences
 
+**Governing perspectival reading:** the appropriation of the earlier hypothesis is not literal simulation. Finite experience is limited disclosure within the one perfect absolute, not a created or executed world. The distinctions below constrain concrete description and organization; they do not posit a programmer, world-copy, or process producing the absolute. The probability analysis remains a separate conditional correspondence case, not the ontology of finite perspective.
+
 The durable advance beyond simulation is to distinguish four things:
 
 1. **An abstract specification:** what a process would be like if realized.

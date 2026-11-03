@@ -1,8 +1,10 @@
-# Simulation, plenitude, and one complete actuality
+# Perspective, plenitude, and one complete actuality
 
 ## 1. Surviving whole-account position
 
-> **A complete self-knowing experiential absolute can contain real finite perspectives and actual simulated implementations without being one member of an external ensemble. Modal plenitude, internal multiplicity, realization, and self-locating probability are different claims. A complete account must explain their warranted relations; none follows merely from the others.**
+> **Reality is the one perfect complete absolute. Finite experience is to be understood through limited perspective or appearance within that same actuality—not as a created or executed world, a copy of a more real original, or the output of a simulator. Plenitude concerns its intelligible fullness; perspective concerns how that actuality is finitely disclosed.**
+
+**Interpretive scope:** the later user clarification rejects literal simulation as the adopted framework. The useful appropriation is perspectival, not computational or productive. Sections 2–6 retain bounded distinctions from the source argument; their literal simulation models and conditional probabilities are comparison cases only, not ingredients or commitments of the absolute account. Nothing in that appropriation requires a programmer, a processor, a creation event, an execution, or a hierarchy of worlds.
 
 This consolidates the [supplied discussion](sources/uploads/simulation-neither-plenitude-nor-one-world.md) within the [governing framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md). It is not a new ontology or implementation queue. Later user corrections govern earlier assistant statements, especially the correction concerning singleton modal plenitude.
 
@@ -86,27 +88,23 @@ The last is the preferred integrative route under the governing requirements. It
 
 An assumption in a conditional model is **not yet explained by that model**. It is not thereby proved **ultimately brute**. Likewise, no supplied scenario has demonstrated zero-residue completion; that does not prove none can be embedded in a completed account. This corrects the source's stronger claims that retaining multiple real subjects and nontrivial probabilities necessarily prevents full intelligibility.
 
-## 7. Absorption without erasure
+## 7. Perspective without production
 
-Simulation does not explain ultimate actuality by moving the processor outside the target; every actual processor belongs within reality. A whole-account can therefore absorb simulation narratives as internal implementation cases.
+The adopted insight is not that the absolute performs the role of a cosmic simulator. It is that finite awareness need not disclose the full actuality to which it belongs. The absolute is not an original world copied into a lesser world; there is no second ontological product to generate or execute.
 
-But this absorption must preserve distinctions:
+**Appearance** means finite disclosure of the real, not a second substance or the nonexistence of experience. **Perspective** means the bounded manner of that disclosure, not an independently created observer placed inside a manufactured environment. **Privation** identifies limitation relative to completeness; it must not equate every distinction with a defect or every finite experience with suffering.
 
-- A genuine simulated implementation is not merely a metaphor for restricted awareness.
-- A finite perspective need not be a computer simulation merely because it has limited access.
-- Consciousness of a simulated implementation requires the same warranted constitutive law as any other realization.
-- Local simulation probabilities may remain meaningful even if simulation is not the ultimate ontology.
-- Physical conservation, a complete history, or absolute knowledge does not itself establish local survival, continuity of personal identity, or a recoverable archive.
+No external temporal process is needed to bring the absolute or its perspectives into existence. Local experienced succession and the physical dynamics that describe internal order remain explananda; their occurrence does not make the absolute an entity running a cosmic process. Stronger claims abolishing every internal temporal distinction still require justification and cannot erase experienced succession by terminology.
 
-**Convergence by internal constitution** is therefore more precise than convergence by deleting the probabilistic structure. Derive what is warranted; dissolve only what is shown to be spurious.
+The missing constructive task is the intrinsic relation of complete self-knowledge to determinate finite awareness: why this content and limitation obtain, how distinct perspectives are grounded, and why their reality is neither independent of nor an addition to the absolute. A “filter” whose selection is unexplained is not an answer.
 
 ## 8. Implementation delta within W1–W6
 
-- **W1:** distinguish one all-inclusive actuality from one metaphysically possible totality; justify the necessary determining constitution rather than infer it from the plenitude schema.
-- **W2:** derive local subject incidence, evidence access, and ownership before claiming that one absolute dissolves self-location. Use actual tokens, not coordinates or encodings, as the realization target.
-- **W3:** specify any proposed simulated implementation's state, dynamics, interventions, localization, and token correspondence. Abstract emulation or matched traces do not establish full physical or constitutive equivalence.
-- **W4:** keep subject-membership hypotheses and evidence about consciousness separate from demographic counting. Do not use a preferred simulation probability to validate a phenomenal law.
-- **W5:** preserve local welfare, standing, and claims irrespective of simulated status or a shared ground. Ontological dependence is not disposability.
-- **W6:** for every probabilistic claim supply its domain, evidence relation, measure, normalization, and independent warrant; for every claimed dissolution state which question disappears and which local facts remain. If these are unavailable, leave a delimited identification set rather than invent exact odds.
+- **W1:** articulate the absolute as intrinsically actual and complete, not a productive cause manufacturing a second reality. The singleton-plenitude correction remains valid, but is not an existence proof.
+- **W2:** make finite disclosure, ownership, qualitative content, and limitation the direct target. Do not assume execution, computational implementation, or a separately assigned observer as its mechanism.
+- **W3:** recover mathematical–physical order as the organization of the same actuality. Process descriptions may model internal dynamics without becoming an ultimate production story.
+- **W4:** distinguish locally accessible content from complete self-knowledge; do not import a simulation demographic or lottery to establish subject incidence.
+- **W5:** preserve real experience, welfare, standing, and due regard. Appearance is not unreality, and ontological non-independence is not disposability.
+- **W6:** no simulator, world-copy, execution, creation event, or simulation measure is a default explanatory primitive. Conditional computational or probabilistic analyses remain separate tools where an independently warranted question calls for them.
 
-**Consolidated result:** singleton universal plenitude is logically compatible with one possible world; internal abundance requires separate content; and the complete absolute can contain real local distinctions and conditional probabilities. The task is one necessary experiential constitution that explains these where warranted, not an observer-count shortcut to the absolute or a unity slogan that makes its finite manifestations disappear.
+**Consolidated result:** adopt the perspectival insight wholly within the one perfect absolute and discard unnecessary simulation machinery. The task is to explain complete actuality and finite disclosure through one intrinsic constitution, not to preserve a literal simulation hypothesis under a new name.

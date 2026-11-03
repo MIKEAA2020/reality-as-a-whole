@@ -246,7 +246,7 @@ If a justified ground G and connection G -> P are both necessary, P is necessary
 
 ## 12. Realization, simulation, identity, and evidence: inherited constraints
 
-**Internal constitution, not erasure:** absorbing simulation into the absolute means explaining actual implementations as internal cases. It does not make all perspectives computer simulations, make real simulations mere appearances, or abolish local self-location probabilities. Complete global knowledge is not identical with local accessible evidence. A conditional model's unproved assumptions are open explanatory dependencies, not automatically ultimately brute facts.
+**Perspective, not production:** the adopted account is not a literal simulation ontology with the absolute substituted for a programmer. Finite awareness is limited disclosure of the same perfect actuality, not a created copy, an executed environment, or an ontologically separate product. No simulation population or probability is required to express this insight. Literal computational and probabilistic models remain separate conditional tools where warranted. Appearance does not deny the reality of experience; local succession remains to be explained without imposing an external becoming on the absolute.
 
 The whole-account retains the earlier inquiry's strongest distinctions:
 
@@ -258,7 +258,7 @@ The whole-account retains the earlier inquiry's strongest distinctions:
 - **Copies / tokens / lineage:** separate actual implementations remain separate tokens even if isomorphic. Memories, reconstructions, or duplicate outputs are not automatically the original occurrence; lineage and numerical identity require their own criteria.
 - **Physical difference / access / records:** in-principle physical differences need not be observed, permanently archived, or recoverable. Lack of access is not absence. Unitary dynamics do not establish a conveniently readable archive or the persistence of a subject.
 - **Observer populations / probabilities:** counting descriptions or encodings does not count observers. Bostrom-style inference requires justified realizations, populations, evidence classes, and weights; the absolute does not automatically furnish any of these.
-- **Simulation reinterpretation:** replacing an alien simulator with the absolute is not itself a new implementation theory. Any useful appearance/interface account must specify the perspective relation and recover physical laws. A simulated subject would not be unreal or disposable merely because simulated.
+- **Perspectival appropriation:** discard simulator, creation, execution, and world-copy machinery from the adopted ontology. Explain finite disclosure and recover physical organization within the one absolute. Do not make “appearance” mean unreal experience or use unexplained filters to manufacture perspectives.
 - **Geometry / constitution:** the Fisher construction depends on protocol; identifying observations can yield nonproportional metrics. A fixed-protocol bridge can remain a hypothesis, but covariance and calibration do not establish occurrence, absolute quality, or episode boundaries. Fisher geometry is not Lorentzian geometry by analogy.
 - **Access / togetherness:** workspace access is a serious mechanistic hypothesis. Recurrence, global availability, connectedness, successful report, or common decoding do not independently establish phenomenal unity.
 
@@ -300,7 +300,7 @@ Retain `F(P) = (Gamma(P), chi_P)`, with `Gamma = (E, I, L)`: actual episode occu
 
 **Next package:** assemble the successful claims and their dependencies, including laws, states, parameters, temporal organization, qualitative identity, subject incidence, and value authority. Map every named framework to a mathematical or physical role, a demonstrated bridge, an open bridge, or an explicitly nonphysical formal domain.
 
-**Pass:** no unexplained selector or foundation is excused; all genuine distinctions and empirical constraints survive. Any local simulation probability supplies its candidate population, phenomenal membership, evidence relation, measure, normalization, and warrant, or explicitly remains undetermined. Any dissolution preserves local incidence and evidence rather than relying on “one subject” as a shortcut. A contradiction in the joint requirements would require revisiting their claimed joint satisfiability rather than indefinitely protecting the programme through revised terminology. Local success alone is not whole-account completion.
+**Pass:** no unexplained selector or foundation is excused; all genuine distinctions and empirical constraints survive. If a separate conditional population-probability question is investigated, it supplies its candidate population, phenomenal membership, evidence relation, measure, normalization, and warrant, or explicitly remains undetermined; no such question is required by the perspectival account. Any dissolution preserves local incidence and evidence rather than relying on “one subject” as a shortcut. A contradiction in the joint requirements would require revisiting their claimed joint satisfiability rather than indefinitely protecting the programme through revised terminology. Local success alone is not whole-account completion.
 
 ### Definition of a genuine advance
 
