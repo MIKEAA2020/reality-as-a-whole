@@ -26,6 +26,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Worked reported-content reference](REPORTED_CONTENT_REFERENCE_CASE.md): primary-author face-rivalry event log and content dictionary inspected; exact report/unresolved-time accounting without a neural decoder, invented cross-source calibration, or an identity claim.
+
 - [Primary OKN measurement qualification](OKN_SOURCE_QUALIFICATION.md): pinned primary-author code and a 121,021-sample eye trace audited; generated labels distinguished from independent perceptual evidence. Explicit motion-content H_Q2 branch, not a silent revision of face/object H_Q1.
 
 - [Pursuing a warranted qualitative identity](QUALITATIVE_IDENTITY_PURSUIT.md): H_Q1, bounded rivalry-source screening, latent-state/reference audit, calibration requirements, and the distinction between correspondence and identity.

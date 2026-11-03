@@ -89,6 +89,8 @@ These are warrant boundaries, not a refutation of H_Q1, H_Q2, the published meth
 
 ## 6. The now-specific empirical gate
 
+[The separate worked report-reference case](REPORTED_CONTENT_REFERENCE_CASE.md) now supplies actual source-designated percept reports for face rivalry. It has no paired gaze data and is not the same motion experiment, so it cannot calibrate this demo. It demonstrates a feasible reference route, not a justified join between the two records.
+
 The next admissible motion-branch evidence is a documented validation/calibration record with synchronized ocular signals, independently anchored direction judgments (including mixed/uncertain/missing cases), stimulus conditions and timestamps, and the provenance/terms needed for analysis. If it also contains neural observations, define the candidate maintaining organization independently of the labels and distinguish input, maintenance, and monitoring pathways before inspecting target outcomes.
 
 The decisive comparison is **not simply a higher OKN classification score**. First establish a bounded evidence relation in held-out participants/blocks or conditions without temporal leakage. Report delay, gaps, mixed percepts, and agreement failures remain explicit. Then assess transport to a report-reduced condition; do not learn calibration solely in that condition from the same neural feature being claimed as the constitution. A replay condition can help constrain an assay's physical behavior but does not, just by fixing the stimulus, guarantee identical rivalrous experience. Only after these steps can a maintenance-sensitive intervention support the qualitative correspondence; identity still requires the constitutive argument.

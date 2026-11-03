@@ -1,0 +1,44 @@
+{
+  "repository": "https://github.com/tomsalomon/BinocularRivalry",
+  "commit": "fb86674524005027e8e9eb77b66f695d1df6d25f",
+  "retrieval_date": "2026-11-04",
+  "tree_entries": 27130,
+  "tree_truncated": false,
+  "selection": "Lexicographically first BR_Celebrities/BR_Data/**/rivalry_pair_01_sess_1.xlsx; then matching-directory BR_params_default.xlsx; rule fixed before opening event values",
+  "eligible_first_trial_files": 26,
+  "files": [
+    {
+      "local_path": "LICENSE",
+      "upstream_path": "LICENSE",
+      "bytes": 1068,
+      "sha256": "e56593de13bff05c5bc03b722a3318831c0c5239147f13b6c7b403be5711ed78"
+    },
+    {
+      "local_path": "README.md",
+      "upstream_path": "README.md",
+      "bytes": 4044,
+      "sha256": "15a31ad083c2788641654f2864530b08ee9e4a451b64793e4fd1d6207bff25fb"
+    },
+    {
+      "local_path": "Script1_merge_BR_data.m",
+      "upstream_path": "analysis/Script1_merge_BR_data.m",
+      "bytes": 14045,
+      "sha256": "d0a7213493d88959c30a9168fe5502e576cef5f13895610237ee9f06e070a9bc"
+    },
+    {
+      "local_path": "rivalry_pair_01_sess_1.xlsx",
+      "upstream_path": "BR_Celebrities/BR_Data/subject_020/subject_020-02-may-2016-11-23-37/from laptop/rivalry_pair_01_sess_1.xlsx",
+      "bytes": 9031,
+      "sha256": "d72f651363cb007539e064c2b7dde82345aefdd058cadf3ff5bfca5346861352"
+    },
+    {
+      "local_path": "BR_params_default.xlsx",
+      "upstream_path": "BR_Celebrities/BR_Data/subject_020/subject_020-02-may-2016-11-23-37/from laptop/BR_params_default.xlsx",
+      "bytes": 20697,
+      "sha256": "61b4a1aa276cd560a2440c210e64d53606758c4f2d3af4d592e268e2c12575f1"
+    }
+  ],
+  "coverage": "README, LICENSE, merger script, first selected trial and same-directory parameter workbook only; no demographics, ratings, images, neural data or full task implementation fetched",
+  "rights": "Upstream MIT license retained; README explicitly permits data/script reuse and requests academic credit; privacy/consent documentation not independently inspected",
+  "sampling_limit": "Convenience schema/reference case, not random sampling, validated-subject selection, recruitment audit, or paper reproduction"
+}
