@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Complete awareness and finite disclosure](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md): active nonproductive candidate, worked local-awareness case, finite logical witness, and perfection–privation stress test.
+
 - [Perspective, plenitude, and one complete actuality](SIMULATION_PLENITUDE_CONSOLIDATION.md): finite disclosure without a simulator, creation, or execution; literal simulation models are separate conditional comparisons.
 
 - [Six-criterion physics/consciousness integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md): the updated C5–C6 requirements, candidate roles, invalid identity shortcuts, and integration tests within the existing programme.
