@@ -287,6 +287,8 @@ The second connection has conditional mathematical support. The first remains th
 
 ## 11. Probability: preserve Bostrom conditionally, not compulsorily
 
+[The simulation/plenitude consolidation](SIMULATION_PLENITUDE_CONSOLIDATION.md) retains the later correction: universal actualization of all possible worlds is compatible with a singleton possible-world domain. Neither that schema nor a single absolute determines internal observer multiplicity, conscious membership, or weights. Local conditional probability can survive complete global knowledge; assumptions of a partial model need not be ultimately brute.
+
 Given an established realization population \(O_E\), a simulated subset \(S_E\), and a justified measure \(w\), a finite or otherwise well-defined self-location problem may support
 
 \[

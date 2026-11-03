@@ -107,6 +107,8 @@ At minimum, evaluate: (i) two distinct matching implementations; (ii) a passive 
 
 ## 6. Time, change, necessity, and plenitude
 
+**Modal and simulation clarification:** [The simulation/plenitude consolidation](SIMULATION_PLENITUDE_CONSOLIDATION.md) preserves the user's correction: “all possible worlds are actual” is compatible with exactly one possible world; only an additional plurality claim conflicts with it. This schema does not derive actuality, uniqueness, internal abundance, or an observer measure. One all-inclusive actuality and one metaphysically possible totality must not be silently equated.
+
 The absolute need not occupy an external time. An eternally complete actuality may contain genuine temporal relations and locally experienced succession. Complete nonsuccessive knowledge of a process does not show that the process contains no succession. An unchanging mathematical function can assign different values to different times.
 
 Distinguish **no external becoming of the whole**, **internal temporal differentiation**, and **local acquisition of knowledge**. Whether a stronger no-change thesis is defensible remains to be established. Experience cannot be dismissed merely to secure timelessness.
@@ -244,6 +246,8 @@ If a justified ground G and connection G -> P are both necessary, P is necessary
 
 ## 12. Realization, simulation, identity, and evidence: inherited constraints
 
+**Internal constitution, not erasure:** absorbing simulation into the absolute means explaining actual implementations as internal cases. It does not make all perspectives computer simulations, make real simulations mere appearances, or abolish local self-location probabilities. Complete global knowledge is not identical with local accessible evidence. A conditional model's unproved assumptions are open explanatory dependencies, not automatically ultimately brute facts.
+
 The whole-account retains the earlier inquiry's strongest distinctions:
 
 - **Specification / occurrence / implementation / explanation:** a description is not an execution, an execution is not automatically conscious, and inclusion in a whole is not explanation. An actual process needs no further external processor merely because it is computationally describable.
@@ -296,7 +300,7 @@ Retain `F(P) = (Gamma(P), chi_P)`, with `Gamma = (E, I, L)`: actual episode occu
 
 **Next package:** assemble the successful claims and their dependencies, including laws, states, parameters, temporal organization, qualitative identity, subject incidence, and value authority. Map every named framework to a mathematical or physical role, a demonstrated bridge, an open bridge, or an explicitly nonphysical formal domain.
 
-**Pass:** no unexplained selector or foundation is excused; all genuine distinctions and empirical constraints survive. A contradiction in the joint requirements would require revisiting their claimed joint satisfiability rather than indefinitely protecting the programme through revised terminology. Local success alone is not whole-account completion.
+**Pass:** no unexplained selector or foundation is excused; all genuine distinctions and empirical constraints survive. Any local simulation probability supplies its candidate population, phenomenal membership, evidence relation, measure, normalization, and warrant, or explicitly remains undetermined. Any dissolution preserves local incidence and evidence rather than relying on “one subject” as a shortcut. A contradiction in the joint requirements would require revisiting their claimed joint satisfiability rather than indefinitely protecting the programme through revised terminology. Local success alone is not whole-account completion.
 
 ### Definition of a genuine advance
 

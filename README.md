@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Simulation, plenitude, and one complete actuality](SIMULATION_PLENITUDE_CONSOLIDATION.md): singleton modal plenitude, internal realization, and the conditions under which local simulation probabilities survive.
+
 - [Six-criterion physics/consciousness integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md): the updated C5–C6 requirements, candidate roles, invalid identity shortcuts, and integration tests within the existing programme.
 
 - [Governing absolute-constitution framework and implementation plan](ABSOLUTE_CONSTITUTION_FRAMEWORK.md): strongest joint requirements, consolidated positive account, and parallel foundational, physical, phenomenal, and evaluative workstreams.

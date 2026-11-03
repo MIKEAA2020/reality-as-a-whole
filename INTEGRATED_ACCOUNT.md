@@ -24,6 +24,8 @@ The full explanatory objective remains in force. The stages below distinguish ac
 
 ### Step 1. Fix the scope of “all”
 
+“Every possible world is actual” need not mean a plurality of possible worlds; a singleton satisfies the universal schema. This does not make every coherent mathematical framework an actual internal implementation. [The simulation/plenitude consolidation](SIMULATION_PLENITUDE_CONSOLIDATION.md) separates total actuality, modal alternatives, physical domains, and simulated environments.
+
 The immediate scope is all the resources discussed: quantum information and computation, AQFT, causal sets, twistor constructions, topos methods, Langlands-type correspondences, fractals and scaling, computation and programming, complexity science, and systems science.
 
 A correct account might incorporate every one of these. It need not make every mathematical structure physically actual or every interpretation of a framework true.
