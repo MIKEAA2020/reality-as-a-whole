@@ -26,6 +26,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Pursuing a warranted qualitative identity](QUALITATIVE_IDENTITY_PURSUIT.md): H_Q1, bounded rivalry-source screening, latent-state/reference audit, calibration requirements, and the distinction between correspondence and identity.
+
 - [Demonstrated workspace/algebra/channel bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md): exact finite observable embedding, controlled reduction, state correspondence, CP/TP extension, and explicit loss/non-equivalence witnesses.
 
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.

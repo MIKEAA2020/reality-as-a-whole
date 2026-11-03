@@ -175,6 +175,8 @@ The endpoint is the absolute's complete constitution. Local research is a constr
 
 ### Operational work register
 
+**Active qualitative-identity pursuit:** [H_Q1 and the anchor/reference audit](QUALITATIVE_IDENTITY_PURSUIT.md) selects a bounded visual-content target, screens a pinned exploratory rivalry-analysis README, and separates latent-state re-presentation from independently anchored quality. Exact illustrative checks show how informative calibration could select a correspondence but not by itself warrant identity. No neural data were analyzed and no qualitative or subject identity has been obtained.
+
 **Active bounded contrast:** [H_M1 versus H_D1](MAINTAINED_DISCLOSURE_CANDIDATE.md) now freezes maintenance sufficiency versus additional distribution necessity, lists shared and rival premises, works a one-slot case, and checks preservation/observation conditions. The finite audit preserves only a declared reduced core and exposes identical direct reports; it does not identify actual episodes or select either rival.
 
 The six work items share the five delivery gates in section 13. The following register identifies concrete starting assets and the next bounded artifact. “Specified” means the task is ready to attempt, not that its acceptance criterion has been met. These artifact names are intended contents of subsequent research, not assertions that files already exist.

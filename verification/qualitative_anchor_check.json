@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "scope": "exact illustrative likelihood and conditional reference constraints",
+  "observed_sequences_checked": 510,
+  "maximum_sequence_length": 8,
+  "state_renaming_likelihood_invariance": true,
+  "analytic_invariance_for_all_lengths": "bijection on hidden paths, proved in report",
+  "unrestricted_assignment_count": 2,
+  "calibrated_example_assignments": [
+    [
+      "A",
+      "B"
+    ]
+  ],
+  "renamed_calibrated_example_assignments": [
+    [
+      "B",
+      "A"
+    ]
+  ],
+  "calibration_numbers_are_observed": false,
+  "phenomenal_identity_established": false,
+  "subject_incidence_established": false,
+  "neural_data_analyzed": false,
+  "research_suite_count_changed": false
+}

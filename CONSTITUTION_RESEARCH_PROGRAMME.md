@@ -12,6 +12,8 @@ The guiding conjecture remains **non-additive common constitution**. GWT is a pr
 
 ## Active first candidate and evidence status
 
+**Reference-anchored identity pursuit:** [H_Q1](QUALITATIVE_IDENTITY_PURSUIT.md) targets a coarse visual-content identity, not all qualia or subject boundaries. A screened rivalry-analysis README does not yet supply warranted percept labels, a constitutive intervention, or analyzed observations. The exact latent-state/anchor audit distinguishes gauge invariance, anchored correspondence, and identity; the remaining milestones require actual independent evidence rather than latent-coordinate labels.
+
 **Observation identifiability:** [The calibrated-channel analysis](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) derives a separating-error criterion and exact interval projection for the frozen rival contrast. Unrestricted assay parameters can fit either experiential consequence; bounded condition-valid errors can separate predictions. No error bounds for actual experience or intervention-valid neural assay are established. This advances the evidence contract for M1–M2 without claiming M3–M5 are solved.
 
 **Frozen local rival comparison:** [H_M1 versus H_D1](MAINTAINED_DISCLOSURE_CANDIDATE.md) now states restricted maintenance sufficiency and additional-distribution necessity, their shared independent premises, a worked one-slot contrast, predictions, and rejection conditions. Its executable 16-row audit supplies no phenomenal labels and confirms that matching direct report cannot decide the rivals without a warranted observation relation. Actual domain, temporal boundaries, full preservation, and experiential evidence remain open.

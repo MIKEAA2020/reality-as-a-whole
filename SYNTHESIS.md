@@ -694,3 +694,7 @@ The perfection–privation test yields a substantive constraint: complete knowle
 ## Demonstrated finite algebra/channel bridge
 
 [The workspace/algebra bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) implements an exact observable embedding C(15) into C(75), controlled intertwining for reference and feedback replacement, and a Kraus channel extension reproducing the classical sector. The full maps differ in some controls, and the quantum extension discards coherence. This establishes a concrete mathematical connection in the programme, not phenomenal sufficiency, realistic neural reduction, or independent evidence for the absolute.
+
+## Active pursuit of a warranted qualitative identity
+
+[H_Q1 and its reference-sensitive audit](QUALITATIVE_IDENTITY_PURSUIT.md) freeze a bounded face/object visual-content target and its input-encoding and monitoring rivals. Exploratory rivalry-analysis source screening is not a neural result; no recordings or primary experimental article were analyzed. A finite hidden-state permutation proof and exact checks show that unanchored latent dynamics do not identify particular qualities. Independently calibrated anchors can constrain a correspondence within a declared candidate class, but identity still requires physical individuation, causal discrimination, and a constitutive argument. Subject incidence and full qualitative character remain separate targets.

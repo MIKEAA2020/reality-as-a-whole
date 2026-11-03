@@ -191,3 +191,7 @@ The advance is from “one whole can have distinctions” to **one complete natu
 ## Active bounded test
 
 [The maintained-disclosure candidate](MAINTAINED_DISCLOSURE_CANDIDATE.md) freezes one possible scope-constitution claim and its additional-distribution rival. The one-slot case is deliberately narrower than a two-content unity claim. Its reduced-state and observation audits constrain the test contract; they do not supply chi, Gamma, or a physical-to-experiential identity. The next evidence-design bottleneck is establishing relevant preservation, genuine removal of the extra feature, and independent phenomenal warrant together.
+
+## Reference-sensitive empirical pursuit
+
+[The H_Q1 dossier](QUALITATIVE_IDENTITY_PURSUIT.md) pursues the particular-quality obligation through a bounded visual-content target, primary-source qualification, and a latent-state reference audit. Pure state renaming is not another experience; exchange of anchored qualitative assignments is not harmless notation by fiat. No independently calibrated experiential anchors or neural identity were supplied by the screened exploratory README. The no-independent-selector condition remains a completion requirement, not a theorem that a fitted physical coordinate is a quality.
