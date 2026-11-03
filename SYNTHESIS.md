@@ -690,3 +690,7 @@ The perfection–privation test yields a substantive constraint: complete knowle
 ## Leibniz comparison: dependence is not substance identity
 
 [The primary-text audit](LEIBNIZ_CREATION_AND_APPEARANCE.md) retains continuous dependence and perspectival expression while rejecting an unsupported inference to monads as modes of one divine subject. The supplied Monadology explicitly affirms creation (§6), derivative monads and continual fulgurations (§47), and harmony among substances (§78). Our nonproductive finite-disclosure account may adopt Leibnizian resources but must justify its departure from genuinely distinct created substances. Neither dependence nor one represented universe by itself determines one experiencing subject.
+
+## Demonstrated finite algebra/channel bridge
+
+[The workspace/algebra bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) implements an exact observable embedding C(15) into C(75), controlled intertwining for reference and feedback replacement, and a Kraus channel extension reproducing the classical sector. The full maps differ in some controls, and the quantum extension discards coherence. This establishes a concrete mathematical connection in the programme, not phenomenal sufficiency, realistic neural reduction, or independent evidence for the absolute.

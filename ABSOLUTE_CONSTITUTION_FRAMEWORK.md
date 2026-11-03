@@ -151,6 +151,8 @@ Do not silently assimilate Leibniz to this programme. He maintains created monad
 
 ## 9. Mathematical and physical realization
 
+**Demonstrated finite bridge:** [The workspace/algebra/channel construction](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) realizes C(15) inside C(75), proves controlled dynamical intertwining for reference and replacement, and gives an explicit CP/TP channel extension. The extension loses quantum coherence; the reduced equivalence is not full physical or phenomenal equivalence. This is a bounded W3 result, not a realistic micro-to-neural reduction.
+
 Use the [existing unified map](UNIFIED_CONSTITUTION_MAP.md), not a replacement metaphysical vocabulary. The interface remains a realized process net with local observable algebras, state, dynamics, admissible interventions, and token realization:
 
     P = ({A(O)}, alpha, omega, I, R).

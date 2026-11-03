@@ -3,6 +3,8 @@
 
 ### Direct answer
 
+**New bounded bridge:** [Maintained dynamics to observable algebras and channels](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) is now implemented with exact controlled reduction, state/observable duality, and an explicit Kraus extension. It preserves a classical effective sector, not arbitrary quantum coherence or a selected phenomenal target.
+
 **Current constitutive articulation:** [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md) requires the same intrinsic nature to ground qualitative specificity, finite scope, and their organization. Mathematical equivalence alone does not identify anchored qualities or subjects; a complete law cannot leave an independently adjustable choice of their assignment. The account fixes noncomposite unity rather than strict undifferentiation and retains the full physical atlas.
 
 **Current scientific scope:** [The six-criterion integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) adds explicit assessment of quantum-information, emergent-geometry, relational-time, variational, and thermodynamic proposals, together with rival consciousness mechanisms. These supplement the atlas rather than replace AQFT, causal sets, twistors, topos, Langlands-type mathematics, scaling, or computation with a single fashionable narrative.

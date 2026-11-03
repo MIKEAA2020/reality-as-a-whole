@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "full_classical_states": 75,
+  "reduced_classical_states": 15,
+  "control_settings": 864,
+  "statewise_controlled_intertwinings": 64800,
+  "control_settings_with_distinct_full_maps": 644,
+  "same_core_distinct_full_map_witness": {
+    "source_index": 0,
+    "normal_target": 18,
+    "replacement_target": 15,
+    "normal_core": 3,
+    "replacement_core": 3
+  },
+  "observable_embedding": "unital injective *-homomorphism C(15) -> C(75)",
+  "dynamics": "R T = t R for reference and replacement in declared family",
+  "quantum_extension": "measure-and-prepare Kraus channel on M_75",
+  "quantum_coherence_loss_witness": true,
+  "neural_microphysical_reduction_established": false,
+  "phenomenal_identity_or_subject_selector_established": false,
+  "scope": "exact finite mathematics; CP/TP proof is analytic in report, not inferred from sampling"
+}

@@ -26,6 +26,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Demonstrated workspace/algebra/channel bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md): exact finite observable embedding, controlled reduction, state correspondence, CP/TP extension, and explicit loss/non-equivalence witnesses.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.
