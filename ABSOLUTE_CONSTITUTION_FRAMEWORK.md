@@ -20,7 +20,7 @@ This document governs the whole-account interpretation of the [cumulative synthe
 
 These are aspects of one proposed constitution, not seven independent ingredients or a completed deduction. The central constructive question is what makes their unity necessary and sufficient while preserving every warranted distinction.
 
-## 2. The four simultaneous requirements
+## 2. The six simultaneous requirements
 
 | Requirement | Strongest surviving demand | Unacceptable substitute |
 |---|---|---|
@@ -28,6 +28,10 @@ These are aspects of one proposed constitution, not seven independent ingredient
 | Maximum elegance and parsimony | No dispensable independent explanatory commitments; preserve all warranted content through maximum integration. | One long axiom disguised as one principle; zero-bit rhetoric; deleting genuine differences for simplicity. |
 | Experience as datum | Account for actual quality, unity, duration, agency, joy, suffering, and perspective; distinguish experience from its reports and interpretations. | Replacing experience with behavioral labels or treating every experiential interpretation as infallible. |
 | Beauty and perfection | Unsurpassable completeness and fulfillment, with no ultimately arbitrary defect and no finite subject discarded for an attractive global story. | Aesthetic rhetoric, numerical optimization without a justified value standard, or declaring every harm justified. |
+| Modern/future physics | Recover established predictions and limits; assess serious frontier proposals through their actual domains, assumptions, and evidence. | Treating holography, quantum reference frames, or a universal state as a proved derivation of idealism, subjecthood, or perfection. |
+| Best consciousness theories | Account for warranted qualitative and empirical contrasts; integrate compatible mechanisms and discriminate rival constitutive predictions. | Declaring IIT, GWT, active inference, self-modeling, and symmetry-valence hypotheses jointly verified or automatically compatible. |
+
+C1–C4 govern the complete-absolute endpoint; the added C5–C6 make physical and consciousness-theoretic adequacy explicit joint obligations. [The six-criterion source audit](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) preserves the new scientific proposals while separating established content, frontier hypotheses, and missing identity/individuation arguments. The updated transcript does not override later user corrections by repeating earlier claims of deductive closure.
 
 The requirements are conjunctive. Success on one cannot purchase failure on another. Maximum means joint adequacy, not independently adding incompatible superlatives. Complete intelligibility does not require a consistent effective arithmetic calculus deciding every truth; mathematical incompleteness is not automatically an ontological brute remainder.
 
@@ -172,6 +176,12 @@ The six work items share the five delivery gates in section 13. The following re
 
 **Execution priority:** start W1 and W2 as the conceptual bottleneck; advance W3–W5 in parallel where their evidence permits; use W6 continuously to prevent silent debts. No numerical completion percentage is warranted. A task can fail informatively, but a failed task is not marked as a completed explanatory gate.
 
+### Added C5–C6 integration rules
+
+For W3, document the empirical domain and assumptions of each quantum, variational, holographic, relational-time, and thermodynamic proposal; recover successful physics without treating speculative extrapolation as necessity. For W4, compare separate predictions for quality, unity, duration, access, and self-awareness rather than fuse consciousness theories by name. For W5, distinguish valence from variational free energy, thermodynamic free energy, prediction error, action, and geometric symmetry. A proposed relation needs a model and independent warrant.
+
+A Markov blanket is not already a subject boundary or quantum reference frame. A Phi-structure is not already an independently warranted qualitative identity. GWT remains the preferred coordinated-access mechanism, not a demonstrated winner or complete phenomenal law. Unitarity is not personal survival or moral redemption. The [audit's integration protocol](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md#5-integration-and-discrimination-protocol) specifies these obligations within W1–W6.
+
 ### Common artifact contract
 
 Every future candidate or implementation report must provide:
@@ -295,6 +305,8 @@ A revision earns promotion by supplying at least one warranted identity, an inde
 ## 14. Current state and provenance
 
 This consolidation is conceptual/documentary, not a new numerical or empirical result. No warranted complete Gamma–chi law, intrinsic subject selector, realistic micro-to-neural reduction, or perfection–privation reconciliation has been obtained. Existing test totals are not new discoveries and were not increased by this document.
+
+The [updated six-criterion source](sources/uploads/four-criteria-whole-account-updated.md) is preserved alongside the earlier source; its scientific continuation is audited in [the C5–C6 integration document](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md). This update is not a fresh primary-literature ranking of frontier physics or consciousness theories.
 
 Sources are the evolving repository and the recent conversation, interpreted contextually with later user corrections governing earlier assistant formulations. [The four-criteria source](sources/uploads/four-criteria-whole-account.md), [Russellian discussion](sources/uploads/russellian-absolute-discussion.md), and [supplied Monadology](sources/uploads/leibniz-monadology-latta.pdf) are preserved. The Russellian source is a discussion, not an independently verified scholarly or scientific authority; this consolidation uses its user proposals and relevant argument passages rather than endorsing its historical and physics assertions. The Leibniz references above are section-based readings of the supplied translation, not an audit of his complete corpus. Third-party authorship and rights remain with their holders.
 

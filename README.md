@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Six-criterion physics/consciousness integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md): the updated C5–C6 requirements, candidate roles, invalid identity shortcuts, and integration tests within the existing programme.
+
 - [Governing absolute-constitution framework and implementation plan](ABSOLUTE_CONSTITUTION_FRAMEWORK.md): strongest joint requirements, consolidated positive account, and parallel foundational, physical, phenomenal, and evaluative workstreams.
 
 - [Cumulative synthesis](SYNTHESIS.md): consolidated surviving account and its qualifications.

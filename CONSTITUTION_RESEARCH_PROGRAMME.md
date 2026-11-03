@@ -12,6 +12,8 @@ The guiding conjecture remains **non-additive common constitution**. GWT is a pr
 
 ## Active first candidate and evidence status
 
+**Expanded scientific adequacy:** [C5–C6](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) require current and future physical/consciousness candidates to be evaluated on their actual assumptions, evidence, and rival predictions. Compare blanket-based boundaries, IIT-style composition, GWT access, predictive organization, higher-order/self-model mechanisms, and valence hypotheses without stipulating that their constitutive claims agree. A blanket or model-evidence objective is not a supplied Gamma or chi. No new empirical theory ranking is claimed by this integration.
+
 [Common recurrent access](WORKSPACE_TOGETHERNESS_CANDIDATE.md) is now an explicit local togetherness hypothesis, not an established Gamma. Its boundary tests leave workspace and temporal selection open. Primary COGITATE protocol documentation has been inspected and pinned to define a content/task/report comparison; no participant recordings or empirical outcomes were analyzed. This is a move from generic planning to a specified hypothesis and evidence target, not a claim that the missing identity has been found.
 
 [The neural-timing audit](NEURAL_TIMING_CONSTITUTION_AUDIT.md) now checks primary analysis code rather than only protocol prose. It separates an intrinsic candidate boundary from its smoothed, thresholded measurement and supplies an explicit correction example. The inspected files do not identify the workspace or an episode clock, and no neural results were reproduced. This constrains M2–M3 rather than claiming to complete them.

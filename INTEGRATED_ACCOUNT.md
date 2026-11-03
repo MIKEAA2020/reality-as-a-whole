@@ -3,6 +3,8 @@
 
 ### Direct answer
 
+**Current scientific scope:** [The six-criterion integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) adds explicit assessment of quantum-information, emergent-geometry, relational-time, variational, and thermodynamic proposals, together with rival consciousness mechanisms. These supplement the atlas rather than replace AQFT, causal sets, twistors, topos, Langlands-type mathematics, scaling, or computation with a single fashionable narrative.
+
 **Governing whole-account:** [The absolute-constitution framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) fixes the endpoint under the four strongest joint requirements: reality is the perfect complete absolute. The atlas below implements its mathematical/physical obligations; it does not replace that endpoint with a merely compatible plurality of formalisms. Its concrete experiential, perspectival, and evaluative articulation remains a constructive task.
 
 No verified correct account incorporating all the frameworks discussed has been established in this inquiry. I cannot honestly supply one as a finished result. But neither has their joint incorporation been ruled out.
