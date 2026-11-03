@@ -137,6 +137,8 @@ Finitude is not identical with suffering. Some goods require adversity, but that
 
 ## 8. Leibniz: retained insights and deliberate departures
 
+[The creation/appearance audit](LEIBNIZ_CREATION_AND_APPEARANCE.md) distinguishes continuous dependence from identity with God. The supplied text affirms created, genuinely distinct monads; continual fulgurations do not establish that monads are modes of one divine subject. The perspectival, nonproductive absolute framework is our reconstruction, not a doctrine to attribute to Leibniz without further evidence.
+
 The supplied *Monadology*, Robert Latta translation, supplies precise precedents:
 
 - §§32, 36–41: sufficient reason, necessary ground, unity, and absolute perfection.
@@ -145,7 +147,7 @@ The supplied *Monadology*, Robert Latta translation, supplies precise precedents
 - §§43–48: eternal truths, necessary being, and perfect power, knowledge, and will.
 - §§53–60: the best world, unity in variety, and limitation through modes of knowing one universe.
 
-Do not silently assimilate Leibniz to this programme. He maintains created monads, contingency (§33), alternative possible universes (§53), and pre-established harmony (§§78–81). The present preferred account instead seeks internal constitution rather than independent created substances coordinated by a further mechanism. Leibniz's inferences from necessity to perfection and from possibility to existence require examination, not citation as discharged proofs. His biological preformation claims are not adopted.
+Do not silently assimilate Leibniz to this programme. He maintains created monads, contingency (§33), alternative possible universes (§53), and pre-established harmony (§§78–81). The present preferred account instead seeks internal constitution rather than genuinely distinct created substances coordinated through pre-established harmony. Leibniz's monads are dependent on God; their substantial distinctness must not be confused with ultimate independence. Leibniz's inferences from necessity to perfection and from possibility to existence require examination, not citation as discharged proofs. His biological preformation claims are not adopted.
 
 ## 9. Mathematical and physical realization
 

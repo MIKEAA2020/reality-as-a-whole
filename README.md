@@ -38,6 +38,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Axiology and ultimate explanation
 
+- [Leibniz: creation, appearance, and perspective](LEIBNIZ_CREATION_AND_APPEARANCE.md): primary-text distinction between continuously dependent substances and modes of one divine subject.
+
 - [Consolidated axiological assessment](AXIOLOGY_STATUS.md).
 - [Privation and the Good](PRIVATION_AND_AXIARCHIC_GOOD.md).
 - [Constitutive-value development](CONSTITUTIVE_VALUE_PRINCIPLE.md).
