@@ -2,11 +2,13 @@
 
 ## Decision
 
+**Whole-account scope:** this local programme is a workstream within [the consolidated absolute-constitution framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md). Under the four strongest joint requirements, the endpoint is the perfect complete absolute, not an optionally perfected physical foundation. Its self-knowing experiential articulation must explain actual finite subjects and physical structure without arbitrary bridges. The governing conditional commitment does not by itself supply the local law below.
+
 **Yes: pursue the full constitution, not an indefinite sequence of analogy extensions.** The aim is a justified account that determines phenomenal occurrence, qualitative character, togetherness, temporal extent, and token individuation from an independently specified concrete nature, while explaining why that nature constitutes experience rather than merely correlating with it.
 
 No existing construction in this repository meets that aim. This is an adopted research objective, not a claim that success is guaranteed or that the leading conjecture has become established.
 
-The guiding conjecture remains **non-additive common constitution**. GWT is a preferred mechanistic candidate for coordinated access, not a stipulation that access exhausts experience. Intrinsic value and axiarchism remain possible extensions; they must not decide the consciousness law by assumption.
+The guiding conjecture remains **non-additive common constitution**. GWT is a preferred mechanistic candidate for coordinated access, not a stipulation that access exhausts experience. Beauty/perfection and evaluative intelligibility are governing whole-account obligations. Qualitative-relational fulfillment is their preferred articulation; a particular value identity or axiarchic actualization mechanism remains to be justified and must not decide the local consciousness law by assumption.
 
 ## Active first candidate and evidence status
 
@@ -118,7 +120,7 @@ Compare the integrated account with non-independent realization, correlation-onl
 
 ### M6 — Physical scope and ultimate foundation
 
-Extend only where justified: realistic neural organization, alternative realizations, quantum/algebraic and relativistic constraints, and correspondences among mathematical presentations. Then integrate the foundation into the complete-intelligibility objective rather than exempting the final law as brute.
+Extend only where justified: realistic neural organization, alternative realizations, quantum/algebraic and relativistic constraints, and correspondences among mathematical presentations. Throughout, pursue the parallel foundational and evaluative tracks in the governing framework; neither the absolute nor the final local law is exempt from explanation. Broader physical extension is staged, but ultimate integration is not postponed until after an isolated brain theory.
 
 **Success:** the domains and correspondences are actually established. Compatibility with a mathematical framework is not a derivation of physics, and a successful local identity is not yet a whole-account explanation.
 
@@ -142,6 +144,6 @@ The actual programme must not be reported as already having selected the correct
 
 ## 8. Current commitment
 
-**Pursue the complete constitution.** Treat non-additive common constitution as the leading architecture, workspace access as a promising mechanism, and the local Fisher construction as a constrained calibration tool. Seek a justified Gamma–chi law rather than another name for it.
+**Pursue the complete constitution.** Treat the complete absolute as the conditional whole-account endpoint, non-additive experiential constitution as its preferred articulation, workspace access as a promising mechanism, and the local Fisher construction as a constrained calibration tool. Seek a justified Gamma–chi law rather than another name for it.
 
 The full no-brute-facts requirement remains the endpoint. No guarantee of discovery, completed theory, or empirical finding is claimed.

@@ -2,6 +2,8 @@
 
 ## Governing proposal
 
+**Governing continuation:** [The absolute-constitution framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) incorporates the subsequent user clarification. Within the inquiry conditioned on the strongest four requirements, the perfect complete absolute is the endpoint, not merely one option beside deficient foundations. The self-knowing experiential account is its preferred positive articulation; the detailed constitution and an independent demonstration that reality satisfies the requirements remain unpaid. The distinctions below constrain that articulation rather than weakening the endpoint.
+
 Conditioned jointly on complete intelligibility, maximum elegance and parsimony, experience as valid datum, and beauty/perfection, the leading direction remains **one intrinsically articulated concrete actuality whose physical, phenomenal, and evaluative dimensions are internally constituted rather than connected by arbitrary external additions**.
 
 This is a substantive common-constitution conjecture, not merely a warning about proof. It is stronger than compatibility among four unrelated theories. It is not yet a demonstrated unique solution, a proof of consistency, or a completed physical–phenomenal law.

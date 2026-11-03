@@ -1,5 +1,7 @@
 # Axiology: consolidated argument, rival accounts, and next decisive work
 
+**Governing scope:** under the four strongest joint requirements, the [absolute-constitution framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) makes perfect goodness and completeness whole-account obligations, not optional additions. The evaluations below distinguish that conditional endpoint from particular proposals for intrinsic worth, due regard, privation, and actualization, which still require constructive justification.
+
 ## Executive assessment
 
 The privation proposal deserves serious conjectural standing. Its strongest current content is that actual powers are positive and their wrongness can consist in missing due integration, rather than an additional opposing substance. The corrected empathy example is an improvement: destructive direction names an outcome, while missing due regard identifies the proposed privation.

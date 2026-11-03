@@ -1,5 +1,7 @@
 # The leading conjecture about reality as a whole
 
+**Current governing framework:** [The complete absolute and implementation plan](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) incorporates the later clarification: conditioned on all four strongest requirements, reality is the perfect complete absolute. The comparative proposals below concern how to articulate that actuality; an incomplete ultimate foundation is not an equally adequate endpoint.
+
 ## Epistemic correction
 
 An unpaid explanatory debt does not by itself make an account likely false. It may mark an unfinished explanation, an under-specified hypothesis, or a genuinely unsuccessful proposal. Those statuses must be distinguished.

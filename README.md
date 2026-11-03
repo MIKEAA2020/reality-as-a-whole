@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Governing absolute-constitution framework and implementation plan](ABSOLUTE_CONSTITUTION_FRAMEWORK.md): strongest joint requirements, consolidated positive account, and parallel foundational, physical, phenomenal, and evaluative workstreams.
+
 - [Cumulative synthesis](SYNTHESIS.md): consolidated surviving account and its qualifications.
 - [Integrated account](INTEGRATED_ACCOUNT.md): relationships among the physical, mathematical, and constitutive projects.
 - [Unified constitution map](UNIFIED_CONSTITUTION_MAP.md): how the phenomenal law must fit AQFT, quantum information, geometry, contextual methods, and effective scales.
