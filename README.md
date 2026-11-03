@@ -26,6 +26,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.
+
 - [SR-inspired geometry construction](research/constitutive_geometry/REPORT.md): explicit response geometry, transformations, measurement conditions, and limitations.
 - [Workspace togetherness candidate](WORKSPACE_TOGETHERNESS_CANDIDATE.md): a local hypothesis and primary protocol assessment, not a completed episode law.
 - [Maintenance versus broadcast](MAINTENANCE_BROADCAST_SEPARATION.md): a controlled intervention comparison and the limits of trajectory replay.

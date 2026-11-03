@@ -678,3 +678,7 @@ The perfection–privation test yields a substantive constraint: complete knowle
 ## Necessary articulation and privative absence
 
 [The intrinsic-articulation development](NECESSARY_ARTICULATED_UNITY.md) advances the complete-awareness candidate without importing a production story. Local missing due consideration is not a positive ingredient of badness, and its true absence does not by itself establish a defect in the whole. The relevant distinction is among determinacy, finite scope, and absence of justified due integration; none may be silently substituted for another. The account still owes particular constitutive identities and their necessity, not merely a vocabulary of perspectives.
+
+## Frozen maintained-disclosure comparison
+
+[H_M1/H_D1](MAINTAINED_DISCLOSURE_CANDIDATE.md) is now a bounded active contrast: preserved intrinsic maintenance is proposed sufficient, while a rival requires additional consumer distribution. Independent domain, preservation, removal, and observation premises are separated from the constitutive disagreement. The model supports one content slot and cannot establish simultaneous qualitative unity. The physical audit preserves only a reduced controlled core and retains identical direct reports, so it selects neither experiential rival. This supplies a concrete comparison rather than another general constitution slogan; it does not pass the empirical or constitutive completion gates.

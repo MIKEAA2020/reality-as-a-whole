@@ -187,3 +187,7 @@ Thus positive intrinsic articulation is not an escape from physical specificity.
 **Next test, within the existing W1–W6 queue:** freeze a bounded realized basis and independently warranted qualitative/incidence contrasts; state the constitutive premise that excludes the strongest surviving alternative; show why that premise follows from the proposed intrinsic nature or revise the nature openly. If two anchored assignments survive, identify the missing relation rather than declare their difference unreal. In parallel, justify what makes regard due in one concrete practical case without assuming that all absence is defect.
 
 The advance is from “one whole can have distinctions” to **one complete nature must ground determinacy, local scope, and their organization without independently adjustable selectors**. This makes the task more explanatory and testable without pretending that specifying its obligations already completes it.
+
+## Active bounded test
+
+[The maintained-disclosure candidate](MAINTAINED_DISCLOSURE_CANDIDATE.md) freezes one possible scope-constitution claim and its additional-distribution rival. The one-slot case is deliberately narrower than a two-content unity claim. Its reduced-state and observation audits constrain the test contract; they do not supply chi, Gamma, or a physical-to-experiential identity. The next evidence-design bottleneck is establishing relevant preservation, genuine removal of the extra feature, and independent phenomenal warrant together.

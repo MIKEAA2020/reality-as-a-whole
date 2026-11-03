@@ -12,6 +12,8 @@ The guiding conjecture remains **non-additive common constitution**. GWT is a pr
 
 ## Active first candidate and evidence status
 
+**Frozen local rival comparison:** [H_M1 versus H_D1](MAINTAINED_DISCLOSURE_CANDIDATE.md) now states restricted maintenance sufficiency and additional-distribution necessity, their shared independent premises, a worked one-slot contrast, predictions, and rejection conditions. Its executable 16-row audit supplies no phenomenal labels and confirms that matching direct report cannot decide the rivals without a warranted observation relation. Actual domain, temporal boundaries, full preservation, and experiential evidence remain open.
+
 **Whole/local awareness:** [The scope-indexed disclosure candidate](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) supplies a philosophical account and a worked knowledge distinction, not an intrinsic incidence rule. Its finite checks do not identify neural subjects or phenomenal qualities. M3–M5 must explain what grounds local scope rather than assume an information restriction constitutes a subject. The accompanying privation test distinguishes global knowledge from actual fulfillment.
 
 **Expanded scientific adequacy:** [C5–C6](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) require current and future physical/consciousness candidates to be evaluated on their actual assumptions, evidence, and rival predictions. Compare blanket-based boundaries, IIT-style composition, GWT access, predictive organization, higher-order/self-model mechanisms, and valence hypotheses without stipulating that their constitutive claims agree. A blanket or model-evidence objective is not a supplied Gamma or chi. No new empirical theory ranking is claimed by this integration.
