@@ -63,6 +63,8 @@ An internally articulated whole can contain genuine distinctions. The standard e
 
 ## 3. The leading candidate: intrinsic qualitative-relational constitution
 
+**Necessary articulated unity:** complete actuality and complete self-knowledge require an intrinsic ground for genuine distinctions. Simplicity means noncomposition and independence from an outside, not absence of every grounded difference. [The active constitutive proposal](NECESSARY_ARTICULATED_UNITY.md) treats qualities as determinate self-presence, finite perspectives as actually bounded disclosure, and physical/practical relations as internal determinations. It requires a warranted law rather than independently adjustable qualitative or subject assignments. Necessity of articulation does not yet derive the particular quality space or episode structure.
+
 A useful name for the common constructive direction is **occurrence-first qualitative-relational constitutivism**.
 
 The name summarizes a proposal, not a proof:
@@ -672,3 +674,7 @@ The SR analogy now has explicit mathematical measurement and transformation cont
 [The explicit disclosure account](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) proposes one nonseparable actuality with scope-dependent acquaintance: the whole's complete self-presence includes each actual local experience and its limitation without transferring every truth into local knowledge. This is not a simulator, creation process, arbitrary coordinate change, or a second copy of the experience. The relation must be grounded in actual experiential organization; the finite scope witness supplies no intrinsic subject selector.
 
 The perfection–privation test yields a substantive constraint: complete knowledge of an unfulfilled legitimate claim is not its fulfillment. Ordinary boundedness is not automatically a defect; real due shortfall, however, cannot be erased by global awareness or shared identity. A strict no-shortfall-anywhere reading of perfection conflicts with such shortfall. The working unsurpassable/non-gratuitous-whole reading instead owes an independently justified account of admissibility and fulfillment; no reconciliation of every actual harm is claimed. Gate 1 is advanced, not passed.
+
+## Necessary articulation and privative absence
+
+[The intrinsic-articulation development](NECESSARY_ARTICULATED_UNITY.md) advances the complete-awareness candidate without importing a production story. Local missing due consideration is not a positive ingredient of badness, and its true absence does not by itself establish a defect in the whole. The relevant distinction is among determinacy, finite scope, and absence of justified due integration; none may be silently substituted for another. The account still owes particular constitutive identities and their necessity, not merely a vocabulary of perspectives.

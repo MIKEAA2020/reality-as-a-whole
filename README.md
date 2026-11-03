@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md): active constitutive proposal for qualities, finite perspectives, and their relations; fixed simplicity, privative absence, and the no-independent-selector requirement.
+
 - [Complete awareness and finite disclosure](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md): active nonproductive candidate, worked local-awareness case, finite logical witness, and perfection–privation stress test.
 
 - [Perspective, plenitude, and one complete actuality](SIMULATION_PLENITUDE_CONSOLIDATION.md): finite disclosure without a simulator, creation, or execution; literal simulation models are separate conditional comparisons.

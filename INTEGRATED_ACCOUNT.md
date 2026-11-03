@@ -3,6 +3,8 @@
 
 ### Direct answer
 
+**Current constitutive articulation:** [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md) requires the same intrinsic nature to ground qualitative specificity, finite scope, and their organization. Mathematical equivalence alone does not identify anchored qualities or subjects; a complete law cannot leave an independently adjustable choice of their assignment. The account fixes noncomposite unity rather than strict undifferentiation and retains the full physical atlas.
+
 **Current scientific scope:** [The six-criterion integration](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) adds explicit assessment of quantum-information, emergent-geometry, relational-time, variational, and thermodynamic proposals, together with rival consciousness mechanisms. These supplement the atlas rather than replace AQFT, causal sets, twistors, topos, Langlands-type mathematics, scaling, or computation with a single fashionable narrative.
 
 **Governing whole-account:** [The absolute-constitution framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) fixes the endpoint under the four strongest joint requirements: reality is the perfect complete absolute. The atlas below implements its mathematical/physical obligations; it does not replace that endpoint with a merely compatible plurality of formalisms. Its concrete experiential, perspectival, and evaluative articulation remains a constructive task.

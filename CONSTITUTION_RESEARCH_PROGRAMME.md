@@ -73,6 +73,8 @@ The exact rational witness is checked in the existing geometry suite. This is a 
 
 ## 4. Candidate architecture to develop
 
+**Intrinsic-articulation refinement:** [The active account](NECESSARY_ARTICULATED_UNITY.md) makes determinate articulation necessary under completeness while preserving noncompositional unity. M3–M5 must exclude inequivalent, independently anchored chi/Gamma assignments from a fixed basis through warranted constitution constraints; neither symbol quotienting nor an input subject boundary meets this condition. This is not a claim that the existing realized-process basis has been proved sufficient.
+
 > A phenomenal occurrence is a non-independent mode of an actual organized process. Its qualitative differentiation, togetherness, and causal role must be explained by the same specified constitution, rather than separately selected through a report channel, material label, or arbitrary metric.
 
 This is the leading architecture, not yet a frozen complete law. It deliberately leaves the key unknown visible: what physical or intrinsic relation is togetherness, and why does its realized differentiation have qualitative character?

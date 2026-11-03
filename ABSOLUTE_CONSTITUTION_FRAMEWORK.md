@@ -81,11 +81,13 @@ The positive identity sought is not **an extra experience variable attached to d
 
 ### Simplicity is not blankness
 
+**Governing refinement:** [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md) fixes the meaning of simplicity: completeness requires an intrinsic ground for every genuine distinction; absoluteness excludes independent ultimate parts. Strict absence of every grounded distinction is not an interchangeable or coequal reading. The active intrinsic-articulation hypothesis addresses qualities, finite scopes, and their physical/practical relations, while exposing the missing particular identity laws.
+
 A distinction is not automatically a deficiency. Three is not defective for not being four. Privation concerns an absent appropriate or due fulfillment, not every nonidentity. Complete knowledge must distinguish its contents accurately.
 
 Thus absolute unity excludes separable ultimate foundations, external dependence, and deficient integration; it does not by definition exclude every intelligible distinction. A single act of knowing may have differentiated content without being an aggregate of independent knowers.
 
-**Working architecture:** positive immanent articulation without independently ultimate parts. Stronger claims of absolutely no real internal differentiation remain a hypothesis with a burden: explain determinate content and finite reality without smuggling differentiation into a filter, perspective, or operation. White light and marble are analogies, not proofs; both possess physical structure.
+**Working architecture:** necessary positive immanent articulation without independently ultimate parts. The completeness argument requires a sufficient intrinsic ground for determinate content; it does not yet derive the necessity of each particular quality, scope, or relation. A virtual-containment formulation is acceptable only if it explains that same determinacy without covert selectors. White light and marble are analogies, not proofs; both possess physical structure.
 
 ### The finite-perspective obligation
 
@@ -121,7 +123,7 @@ Plenitude means no arbitrary omission of the fullness required for completion, n
 
 ## 7. Goodness, privation, and local standing
 
-**Disclosure stress test:** [The candidate account](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md#7-the-exact-perfection-dilemma) distinguishes no due shortfall anywhere from an unsurpassable non-gratuitous whole containing real local shortfalls. The former conflicts with actual due shortfall; the latter is the working perfection claim but remains to be justified. Complete awareness cannot substitute for payment, empathy in action, repair, or other due fulfillment. These two meanings of perfection must not be exchanged to evade the test.
+**Privation clarification:** [The articulation account](NECESSARY_ARTICULATED_UNITY.md#8-completeness-perfection-and-privation-without-equivocation) governs the interpretation of the earlier disclosure test. Local missing due integration is not an independently actual ingredient of evil. Its true absence does not reify it or by itself establish a deficiency in the absolute. Knowing that payment or regard is absent does not fulfill it, but this conditional distinction neither refutes privation nor proves global imperfection. The remaining task is to explain particular local limitations and missing due integration within complete actuality, not accommodate a second positive principle.
 
 The surviving privation thesis distinguishes actual powers from defects in their exercise: cruelty involves real agency and capacities, while wrongness concerns missing appropriate empathy, regard, or fulfillment. Money and power are not inherently bad aims. Neglect of others' needs and shares may be the relevant defect.
 
@@ -174,7 +176,7 @@ The six work items share the five delivery gates in section 13. The following re
 | Work item | Starting asset | Next artifact and bounded scope | Current status / dependencies |
 |---|---|---|---|
 | W1 — Necessary constitution | Section 11 and [actuality audit](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) | A premise-by-premise account of why the proposed nature is actual and sufficiently determines its content; include the strongest countermodel to each claimed inference. | Joint dependency argument supplied; [disclosure account](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) distinguishes awareness from fulfillment. Necessary actuality and actual constitutive explanation remain open. First priority; no empirical prerequisite for beginning. |
-| W2 — Perspective constitution | Sections 5 and 11; [episode-incidence reformulation](EPISODE_INCIDENCE_REFORMULATION.md) | One candidate rule for local content, incidence, extent, and lineage, with whole/local knowledge relations and duplicate/overlap cases. | [Scope-indexed candidate and worked case](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) supplied; intrinsic selection of incidence and quality remains open. Develop alongside W1 and W4, not after declaring a cosmic subject sufficient. |
+| W2 — Perspective constitution | Sections 5 and 11; [episode-incidence reformulation](EPISODE_INCIDENCE_REFORMULATION.md) | One intrinsically grounded rule for local content, incidence, extent, and lineage, with whole/local knowledge relations and duplicate/overlap cases; it must exclude independently anchored alternative assignments. | [Scope-indexed candidate and worked case](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) supplied; intrinsic selection of incidence and quality remains open. Develop alongside W1 and W4, not after declaring a cosmic subject sufficient. |
 | W3 — Algebraic bridge | [Finite overlap](research/framework_overlap/REPORT.md), [free net](research/spacetime_net/REPORT.md), [unified map](UNIFIED_CONSTITUTION_MAP.md) | One explicit correspondence preserving observables, states, dynamics, interventions, and token reference; separately state a proposed effective reduction and lost distinctions. | Bounded finite/free constructions exist; realistic micro-to-neural bridge open. Exact algebraic work can proceed before W2; phenomenal adequacy depends on its target. |
 | W4 — Rival-discriminating contrast | [Workspace candidate](WORKSPACE_TOGETHERNESS_CANDIDATE.md), [maintenance/broadcast audit](MAINTENANCE_BROADCAST_SEPARATION.md), [timing audit](NEURAL_TIMING_CONSTITUTION_AUDIT.md) | One contrast sheet: candidate laws, different predicted incidence/quality, preservation assumptions, evidence channel, confounds, and falsification condition. | Mechanism and intervention constraints available; empirical discrimination and warranted Gamma–chi law open. Design now; execution requires admissible evidence. |
 | W5 — Fulfillment identity | [Standing and actual fulfillment](ACTUAL_FULFILLMENT_AND_STANDING.md), [due-regard foundation](FOUNDATION_OF_DUE_REGARD.md) | One explicit account of why qualitative-relational fulfillment gives reasons; test payment, induced satisfaction, exploitation, and bounded pleasant experience. | Preferred account and conditional cases available; normative grounding and global harm reconciliation open. Parallel with W1–W4. |
@@ -207,7 +209,7 @@ This contract is not itself a test of metaphysical truth. It prevents assertions
 
 Begin with W1 and W2; advance W3–W5 wherever mathematical work or admissible evidence is available; maintain W6 throughout. In the local programme, retain the narrow-target, intrinsic-basis, and togetherness priorities of M1–M3. Use the existing maintenance/distribution and timing audits to constrain preservation and observation assumptions rather than generate consciousness verdicts.
 
-The [Gate 1 disclosure candidate](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) now supplies explicit commitments, a worked finite-perspective case, and a perfection–privation stress test. It does not supply a complete intrinsic constitution: scope selection, qualitative identity, necessary actuality, and the goodness–harm reconciliation remain open. The next substantive task is to justify a proposed incidence/fulfillment relation from actual organization rather than stipulate it. Gate 1 is advanced, not passed; the finite checks validate neither metaphysical completion nor a consciousness assignment.
+The [Gate 1 disclosure candidate](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) and [intrinsic-articulation development](NECESSARY_ARTICULATED_UNITY.md) supply explicit commitments, worked perspective/privation cases, and the no-independent-selector condition. It does not supply a complete intrinsic constitution: scope selection, qualitative identity, necessary actuality, and the goodness–harm reconciliation remain open. The next substantive task is to justify a proposed incidence/fulfillment relation from actual organization rather than stipulate it. Gate 1 is advanced, not passed; the finite checks validate neither metaphysical completion nor a consciousness assignment.
 
 ### Decision and evidence rules
 
@@ -274,7 +276,7 @@ This is the operational backlog for the existing programme, not a second competi
 
 ### Gate 1 — Foundation and perspective specification
 
-**Next package:** a candidate constitution statement, its independent premises, and a worked account of one finite perspective. Compare (a) real non-partitive articulation and (b) strict absence of real intrinsic differentiation with virtual containment.
+**Next package:** refine the [intrinsic-articulation candidate](NECESSARY_ARTICULATED_UNITY.md) into a determinate basis and a warranted rule for particular quality and incidence. Necessary noncomposite articulation is the governing commitment; a virtual-containment alternative must meet the same determinacy requirement, not deny every grounded distinction and then borrow unexplained perspectives.
 
 Required fields: what is actual; what is necessary; what grounds the concrete content; what differentiates a local subject; which limitation belongs locally; how global knowledge relates to local ignorance; what each account would fail to explain. Do not choose a winner solely because its vocabulary sounds simpler.
 

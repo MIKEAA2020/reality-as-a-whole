@@ -3,13 +3,15 @@
 
 ## 1. Result and positive proposal
 
+**Governing continuation:** [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md) develops this account under the later clarification that distinction is required by completeness, not merely permitted. It fixes noncompositional simplicity, distinguishes necessary articulation from the still-undemonstrated necessity of particular contents, and interprets privation as missing due integration rather than a positive evil constituent. The finite logical and practical checks below retain their limited scope; they do not establish a deficiency in the absolute.
+
 > **The absolute's awareness is intrinsically articulated without being divided into independently existing owners. A finite experience is a real, determinate mode of that same actuality: its content is present under a locally bounded form of acquaintance, while the mode, its content, and its limitation are completely self-present to the whole. Local limitation is not a loss of the whole's knowledge, an executed copy, or an event in which an unlimited subject becomes ignorant.**
 
 Call this **nonseparable, scope-indexed disclosure**. “Scope-indexed” distinguishes the respect in which something is disclosed; it does not turn a perspective into a coordinate label. The candidate is that concrete experiential organization itself grounds the scope. The indices in the description refer to that organization; they do not create it.
 
 This develops Gate 1 / W1–W2 of the [governing framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md). It is a philosophical account form with explicit commitments and a finite logical witness, not a completed intrinsic constitution, an existence proof, or an identified Gamma–chi law.
 
-**Stress-test result:** complete knowledge and locally limited knowledge need not contradict one another. But complete awareness of a privation does not fulfill the missing good. The candidate makes the perfection–privation burden more exact; it does not yet reconcile every actual harm with perfect goodness.
+**Stress-test result:** complete knowledge and locally limited knowledge need not contradict one another. Awareness of a missing due relation is not its actual fulfillment. This is a local distinction, not a refutation of privation or proof that the absolute lacks anything. The remaining burden is to explain particular finite limitations and missing integration without treating absence as a positive constituent or dismissing experience.
 
 ## 2. Ontological commitments, without a production story
 
