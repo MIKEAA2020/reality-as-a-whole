@@ -13,6 +13,9 @@ This is **occurrence-first constitution with constrained plurality of presentati
 
 The full explanatory objective remains in force. The stages below distinguish actual constructions from proposed connections and ultimate explanatory debts.
 
+**Connection to the current constitution research:** [The unified constitution map](UNIFIED_CONSTITUTION_MAP.md) makes the physical–phenomenal law part of this same account. A correct law must respect faithful algebraic, causal, geometric, and computational re-presentations and justify any coarse-graining used to reach neural models. It cannot be constructed as a separate brain theory and later attached to AQFT or the other frameworks. The map gives explicit state/channel and cross-scale requirements and distinguishes constructed bridges from outstanding ones.
+
+
 ## Part I — State what incorporation would mean
 
 ### Step 1. Fix the scope of “all”
@@ -412,15 +415,15 @@ Nothing in this document establishes that all seven have been achieved. They sta
 
 | Resource | A possible place in one account | Status in this project |
 |---|---|---|
-| Quantum information | Operational states, transformations, correlations | Exact finite operator-algebra overlap can be stated; ultimate inputs not derived |
+| Quantum information | Operational states, transformations, correlations | Explicit finite operator-algebra/channel/context overlap constructed; ultimate inputs not derived |
 | Quantum computation | Physically implemented quantum transformations and resources | Accommodated as physical processing, not a consciousness criterion |
-| AQFT | Relativistic organization of local observables | A serious physical framework; actual unifying net not constructed here |
-| Causal sets | Discrete causal structure and possible continuum recovery | Candidate role; required general integration not demonstrated |
+| AQFT | Relativistic organization of local observables | A specified free 1+1-dimensional CAR/even net is constructed; realistic interacting unification and phenomenal identity are not |
+| Causal sets | Discrete causal structure and possible continuum recovery | Controlled order/reconstruction/refinement examples exist; general integration with the same quantum net remains open |
 | Twistors | Geometric/field presentation in defined regimes | Particular bridges known in mathematics; proposed total integration open |
 | Topos methods | Contextual/logical organization of descriptions | Formal role possible; no phenomenal identity derived |
 | Langlands-type mathematics | Specific correspondences between presentations | No universal-glue role established |
 | Fractals and scaling | Multiscale patterns and effective regimes | Applicable where dynamics warrant them, not imposed everywhere |
-| Complexity and systems science | Persistence, coupling, maintenance, organizational boundaries | Useful physical hypotheses; subject bridge remains open |
+| Complexity and systems science | Persistence, coupling, maintenance, organizational boundaries | Workspace and intervention distinctions implemented; intrinsic subject and temporal selection remain open |
 | Computation and programming | Specification, implementation, abstraction, verification | Exact distinctions useful; no software ontology or phenomenal sufficiency assumed |
 
 These roles are compatible as an architecture. They are not evidence that this exact architecture is the true final theory. Unification might rearrange them or require a deeper framework.

@@ -8,6 +8,7 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 - [Cumulative synthesis](SYNTHESIS.md): consolidated surviving account and its qualifications.
 - [Integrated account](INTEGRATED_ACCOUNT.md): relationships among the physical, mathematical, and constitutive projects.
+- [Unified constitution map](UNIFIED_CONSTITUTION_MAP.md): how the phenomenal law must fit AQFT, quantum information, geometry, contextual methods, and effective scales.
 - [Leading conjectural whole-account](CONJECTURAL_WHOLE_ACCOUNT.md): positive comparative assessment, distinguished from proof status.
 - [Complete constitution research programme](CONSTITUTION_RESEARCH_PROGRAMME.md): the Gamma–chi target and criteria for genuine progress.
 

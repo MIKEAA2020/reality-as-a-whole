@@ -75,6 +75,13 @@ There is presently no justified answer in the repository. The conditional causal
 
 ## 5. Milestones and their success criteria
 
+### M0 — Cross-framework and physical adequacy throughout
+
+[The unified constitution map](UNIFIED_CONSTITUTION_MAP.md) states the integration requirement: the candidate must be expressible on a physically justified realized-process basis and invariant under faithful changes of presentation. Any effective neural or computational reduction needs a justified microphysical relation; equal physical summaries do not automatically imply equal phenomenal facts. AQFT, quantum information, causal geometry, contextual logic, scaling, and implementation constrain the law from the outset, not only after a standalone brain theory is finished. Broader extension is staged, but physical compatibility is never postponed or waived.
+
+**Success:** a candidate identifies its physical domain, exact presentation equivalences, and which coarse-grainings preserve its targets. A correct overall account must additionally account for the domains and correspondences of twistors, topos methods, Langlands-type structures, fractals, and the other mathematical resources without using their names as unexplained glue.
+
+
 ### M1 — A warranted narrow target
 
 Start with an explicitly delimited, ordinary human qualitative contrast, such as two consciously discriminated visual orientations, without assuming that the stimuli or reports are the experience. This is a proposed target domain, not newly collected evidence.

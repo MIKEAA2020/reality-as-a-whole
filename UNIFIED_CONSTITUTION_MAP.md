@@ -1,0 +1,183 @@
+# How phenomenal constitution belongs to the unified mathematical account
+
+## Direct answer
+
+**The physical–phenomenal constitution is a missing part of the unified account, not a separate theory that can later be attached to it.** The correct theory must accommodate the mathematical frameworks, recover their warranted physical domains, explain their correspondences, and identify the qualitative occurrences of the same concrete reality where those occur.
+
+Recent workspace and measurement audits address a small effective-process layer of that task. They do not replace the quantum, algebraic, geometric, or multiscale work. The overall question remains: what one concrete constitution explains the physical presentations, their realized organizations, phenomenal incidence and character, and its own actuality?
+
+The word accommodate needs precision without weakening the objective. Every valid mathematical framework must have an intelligible place, but incompatible mathematical models need not all describe the same actual physical system. Some frameworks may be exact presentations, some effective descriptions, some tools for expressing contextuality or correspondence, and some abstract possibilities. Their status and relation must be explained, not assigned by name.
+
+## 1. One target, several kinds of presentation
+
+The intended architecture is:
+
+    one concrete constitution C
+      ├─ observable/state/dynamics presentations
+      │    ├─ quantum information and computation
+      │    └─ AQFT and local physical processes
+      ├─ causal/geometric presentations
+      │    ├─ spacetime and continuum descriptions
+      │    ├─ causal-order/discrete descriptions
+      │    └─ twistor presentations where applicable
+      ├─ logical/categorical/correspondence presentations
+      │    ├─ contextual and topos methods
+      │    └─ specific Langlands-type correspondences
+      ├─ multiscale organizations and actual implementations
+      │    ├─ renormalization, scaling, and applicable fractal regimes
+      │    └─ systems, control, complexity, and computation
+      └─ qualitative character and episode incidence where present.
+
+This is not a claim that these branches have all been constructed from a known C. It is the required explanatory architecture. The branches must constrain one another through demonstrated relations. C is still the nature sought, not an explanation produced by naming a symbol.
+
+## 2. Where the current constitution work sits
+
+The local target is a justified law
+
+    F(P) = (Gamma(P), chi_P),
+
+with Gamma specifying episodes, incidence, temporal extent, and lineage, and chi specifying qualitative character.
+
+But P cannot ultimately be an arbitrary finite state machine detached from physics. The proposed [realized-process basis](REALIZED_PROCESS_CANDIDATE.md) is
+
+    P = ({A(O)}, dynamics, state, localized interventions, realization/token relations).
+
+A(O) supplies local observable organization; the state supplies correlations; dynamics supplies evolution; interventions specify actual causal powers; realization distinguishes concrete tokens from their mathematical descriptions.
+
+This is the point of contact with algebraic physics. The candidate phenomenal law is supposed to concern such an actual process, possibly through a justified effective description—not a second agent receiving signals from an otherwise complete physical system.
+
+No current AQFT construction in this repository is a realistic theory of a brain or a selected phenomenal basis.
+
+## 3. The finite workspace already has an algebraic presentation
+
+For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
+
+    omega_mu(f) = sum_x mu(x) f(x).
+
+For deterministic evolution x -> T(x), the observable-side evolution is
+
+    beta(f) = f composed with T.
+
+For a Markov kernel K,
+
+    beta(f)(x) = sum_y K(y|x) f(y).
+
+This is a positive unital map; in the commutative setting it is completely positive. A deterministic update gives a unital *-homomorphism, not necessarily an automorphism if the update is irreversible. Interventions have corresponding state-update and observable-pullback descriptions.
+
+Thus the workspace's state-machine and observable-algebra formulations can describe the same specified model. Its causal equations are not a rival substance to algebraic physics.
+
+The recent maintenance/broadcast audit preserves the transition structure of only a declared reduced state (W,F). In algebraic terms it preserves predictions for a selected effective observable sector under the declared controls. It does not establish equivalence of the full physical process, omitted consumer observables, or neural constitution. This explains its relevance to unification: it tests **which structures a proposed effective equivalence actually preserves**.
+
+This exact finite reformulation does not prove that the model is a valid neural coarse-graining or that its states are experiential.
+
+## 4. The missing microphysical-to-effective bridge
+
+Suppose a local physical theory supplies an algebra A(O) and an effective neural or workspace theory supplies B_W. A proposed Heisenberg-picture channel
+
+    iota_W: B_W -> A(O)
+
+can relate effective observables to physical observables. If it is an exact *-embedding, it preserves algebraic products. A more general unital completely positive map is an operational channel, not necessarily a literal subalgebra inclusion.
+
+The effective state would be
+
+    omega_W(b) = omega(iota_W(b)).
+
+Dynamics also needs a bridge. For a specified state class S, time range, and observable b, an approximate statement could be
+
+    sup over omega in S of
+      |omega(alpha_t(iota_W(b))) - omega(iota_W(beta_t(b)))|
+        <= epsilon(b,t).
+
+Intervention correspondence and physically justified time/localization relations are additional requirements. Open effective dynamics may be irreversible or non-Markovian; it must not be assumed to be a closed unitary or Markov semigroup without justification.
+
+These equations specify a bridge to construct, not an existing derivation of the workspace from the actual microphysics. Realistic material, thermal, biochemical, and environmental processes must be accounted for. The free 1+1-dimensional field model already constructed is not that derivation.
+
+## 5. Exact presentation changes must preserve the constitution
+
+Suppose T_ij is an exact faithful translation between presentations of the same actual process, preserving the relevant state, dynamics, localization, interventions, and token provenance. The constitutive law must satisfy
+
+    F_j(T_ij(P_i)) is equivalent to F_i(P_i).
+
+The equivalence must transport actual episode/content incidence and qualitative reference, not merely match a scalar. A change of coordinates, algebraic representation, or programming notation cannot create another observer or change an anchored experience.
+
+For two different but constitutively equivalent physical implementations, phenomenal organization may be equivalent if the sufficiency hypothesis is true; their episode tokens remain numerically distinct. Exact re-presentation and multiple realization must not be conflated.
+
+Not every arrow is an exact translation. A lossy measurement, a state restriction, or a physical lesion can omit or change relevant facts. The same invariance cannot simply be demanded of all such arrows.
+
+## 6. Coarse-graining is the central cross-scale test
+
+Let R map a fine physical specification to an effective one. An exact phenomenal law at that effective level exists only if, within the declared domain and justified output equivalence, F is constant on the fibers of R:
+
+    R(P_1) = R(P_2) -> F(P_1) = F(P_2).
+
+If so, one can define F_eff by
+
+    F = F_eff composed with R.
+
+This is the standard factorization criterion proved in [the rigorous closures](research/rigorous_closures/REPORT.md). It does not establish that a proposed neural, computational, or field-theoretic reduction actually satisfies the criterion.
+
+This condition has concrete consequences:
+
+- Preserving reports does not establish preservation of phenomenal incidence.
+- Preserving an effective transition table does not establish preservation of every intrinsic power.
+- Equal two-point functions do not establish equal full physical states.
+- Equal stress-energy limits do not establish equal qualitative constitution.
+- Physical universality under coarse-graining does not automatically imply phenomenal universality.
+
+An approximate physical error bound does not by itself bound a qualitative or discrete subject-boundary error. Such a conclusion needs a justified regularity relation for F and a meaningful error criterion. The unknown phenotype must not be smuggled into the coarse-graining criterion and then reported as derived.
+
+## 7. What AQFT adds—and does not add
+
+AQFT organizes local observables, causal localization, dynamics, states, and correlations in a relativistically disciplined way. This constrains the admissible physical basis of any purported constitution.
+
+It does not say that each region or restricted state is a subject. Spacelike commutativity does not imply an uncorrelated state; entanglement does not automatically identify a single episode. Arbitrary region choices cannot serve as an unargued subject selector.
+
+In many physically relevant relativistic models, local algebras are not ordinary finite tensor-factor matrix algebras and can be type III. A local density matrix with a canonical trace cannot simply be presumed. Tensor-factor approximations or split constructions require stated hypotheses. The finite classical and qubit models must therefore be connected to the relevant continuum theory rather than silently substituted for it.
+
+The [free Dirac net](research/spacetime_net/REPORT.md) establishes conditional net properties in a specific 1+1-dimensional model: isotony, graded/even locality, a diamond time-slice property, proper-orthochronous Poincare covariance, and an invariant positive-energy vacuum representation. That is real mathematical progress. It is not the Standard Model, quantum gravity, actual brain dynamics, or a phenomenal identification.
+
+## 8. The roles of the other frameworks
+
+| Framework | Required role in a unified account | Relevance to constitution | Status here |
+|---|---|---|---|
+| Quantum information/computation | States, channels, instruments, correlations, physical implementation | Constrains which information transformations are actually possible; copying a basis is not arbitrary cloning | Explicit finite overlaps exist; phenomenal sufficiency is open |
+| Causal sets/order methods | Relate event order and volume to spacetime under warranted hypotheses | Constrains localization and temporal extent without a privileged coordinate slicing | Controlled reconstruction examples exist; no general causal-set/AQFT equivalence established |
+| Twistors | Geometric/field presentations in suitable domains, especially null/conformal structures | A constitution law must survive a faithful applicable re-presentation | No joint twistor–field–phenomenal construction here |
+| Topos/contextual methods | Organize contexts, local descriptions, and their compatibility | Helps discipline consistency and gluing; mathematical internality is not phenomenal interiority | A finite context construction exists; no subject identity follows |
+| Langlands-type mathematics | Specific arithmetic/geometric/representation or gauge-theoretic correspondences | Could constrain alternative presentations in domains where the correspondence is established | No universal linking role or phenomenal bridge constructed |
+| Renormalization/scaling | Controlled relations among resolutions and effective theories | Tests which distinctions a proposed phenomenal basis may discard | Substantial specified free-field/lattice work; no phenomenal preservation theorem |
+| Fractal mathematics | Describe derived scale-invariant or self-similar regimes | May characterize organization where actually present | No claim that all reality or consciousness is an exact fractal |
+| Complexity/systems/control | Explain maintained organizations, feedback, adaptation, and effective boundaries | Supplies candidate mechanisms and intervention structure, not subjecthood by itself | Workspace and intervention distinctions implemented; identity remains open |
+| Programming/computation | Distinguish specifications, executions, interfaces, and implementations | Prevents confusing copied traces with the realized powers claimed to constitute experience | Exact finite checks; no conclusion that arbitrary software is sufficient or impossible |
+
+The frameworks need not have equal fundamentality. Their domains and relations must be justified. A mathematically valid alternative can be accommodated as an abstract possibility even if it is not the actual physical realization. A complete account must also explain the place of mathematical truth, representation, and mathematical practice, rather than postulate an unexplained extra realm as a final answer.
+
+## 9. What has already been unified, and what has not
+
+[Step 11](research/framework_overlap/REPORT.md) gives one finite process presented through quantum states/channels, local observable algebras, causal order, and contextual probability structure. Its bridges are explicit. In particular, channel pullbacks need not preserve multiplication, and a global quantum state need not supply a global deterministic valuation of every context.
+
+Later work supplies dynamics, continuum and localization constructions, a free CAR net, specified state limits, and controlled composite/stress calculations. The [nonquasifree example](research/wilson_nonquasifree_mixture/REPORT.md) demonstrates why matching selected summaries cannot identify the whole state.
+
+However, the entire chain is not one completed reconstruction: extraction of the causal geometry from the same quantum net, general continuum equivalence, realistic interacting physical matter, and the neural reduction remain incomplete. Twistor, general topos, and Langlands-type bridges have not been constructed here. Most importantly, none of those calculations yields chi or Gamma.
+
+The neuroscience protocol/code audits concern evidence about effective content and timing. They do not establish the missing microphysical bridge or the physical–phenomenal identity.
+
+## 10. The joint completion criterion
+
+A genuinely complete theory must accomplish all of the following together:
+
+1. **Physical adequacy:** recover the relevant established phenomena and the frameworks' warranted physical domains, including states and dynamics rather than algebra alone.
+2. **Mathematical integration:** supply exact bridges or controlled approximations, with consistent overlaps and declared limitations.
+3. **Realization and scale adequacy:** explain how actual neural and other organizations arise and which effective descriptions retain constitutive facts.
+4. **Phenomenal adequacy:** determine qualitative character, incidence, temporal extent, and token identity, with independent evidence and constitutive justification.
+5. **Ultimate intelligibility:** explain the constitution, actuality, and explanatory principles without a brute foundation. Any axiological extension must meet the same requirement.
+
+Success in one item does not compensate for omitting another. A correct local identity law can be a milestone without being the complete whole-account.
+
+## Conclusion
+
+**The intended result is one reality with algebraic, quantum, causal, geometric, contextual, computational, multiscale, and—where present—phenomenal presentations.** Its explanatory bridges must come from the nature of the same actuality, not from attaching a separate observer to a completed physical picture.
+
+The recent constitution work belongs inside this architecture. Its role is to identify which physically realized organizations have qualitative and episodic character while respecting the full physical and mathematical account. It is not a replacement for that account, and it has not yet delivered its missing constitutive law.
+
+No new numerical tests, empirical findings, universal framework equivalence, or completed constitution are claimed by this map.

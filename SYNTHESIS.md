@@ -9,6 +9,9 @@ This is the strongest **integrated candidate architecture** supported by the inq
 
 The proposed unification has not yet been demonstrated. That qualification limits the claim of success; it does not weaken the objective.
 
+**The constitution task is part of the mathematical unification, not a separate addition.** [The unified constitution map](UNIFIED_CONSTITUTION_MAP.md) connects the Gamma–chi target to the actual local observable/state/dynamics/intervention basis, quantum channels, causal geometry, contextual descriptions, scaling, and realized computation. Exact re-presentations must preserve the same occurrence and phenomenal facts. A noninvertible effective description is constitutively sufficient only if it retains the relevant distinctions; physical approximation or universality alone does not prove phenomenal preservation. All named frameworks must be accounted for in their proper domains, without declaring every incompatible abstract model to be the same actual physics.
+
+
 ---
 
 ## 1. The governing standard
