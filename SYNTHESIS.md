@@ -268,7 +268,7 @@ Likewise:
 - No-broadcasting does not select complex quantum theory, and phenomenal privacy is not operational no-broadcasting.
 - Contextuality is a specific constraint on value assignments, not a consequence of phenomenal co-presence alone.
 
-A future account may incorporate AQFT, causal sets, twistor constructions, quantum information, topos methods, and Langlands-type correspondences in different roles. They should neither be stacked as independently achieved foundations nor ruled out as necessarily incompatible competitors. Integration requires explicit domains, mappings or limits, prediction agreement, and occurrence interpretation. A shared mathematical vocabulary does not derive an experiential inside, concrete actuality, or the necessity of the laws.
+The whole-account must accommodate AQFT, causal sets, twistor constructions, quantum information, topos methods, and Langlands-type correspondences in their warranted, potentially different roles. They should neither be stacked as independently achieved foundations nor ruled out as necessarily incompatible competitors. Integration requires explicit domains, mappings or limits, prediction agreement, and occurrence interpretation. A shared mathematical vocabulary does not derive an experiential inside, concrete actuality, or the necessity of the laws.
 
 Likewise, decoherence and redundant records do not alone settle definite outcomes or Born weighting; self-location introduces further justified assumptions rather than removing them automatically. Gödel, Turing, and Lawvere impose precise formal constraints, not a theorem identifying the phenomenal explanatory gap or refuting complete ontological intelligibility.
 
@@ -339,9 +339,9 @@ Fixed-point equations and recursion theorems can support coherent self-reference
 
 These results are useful precisely when their scope remains explicit. They should not replace Bostrom’s weighting assumptions with a different unexplained prior while claiming the measure problem has disappeared.
 
-## 13. The ultimate-ground alternatives: retain the common demand, not a premature merger
+## 13. Articulating the absolute: comparisons, not alternative incomplete endpoints
 
-The inquiry contains several distinct global candidates. They share an aspiration toward internal explanation but cannot all be affirmed as the same completed ontology.
+The governing endpoint is the perfect complete absolute under the four strongest joint requirements. The following proposals compare ways of explaining its concrete actuality and intrinsic articulation, or diagnose rival explanations. They are not permission to stop at an incomplete foundation and cannot all be affirmed as the same ontology.
 
 ### A. Explanatory necessary constitution
 
@@ -373,7 +373,7 @@ An endless constraint network can uniquely determine its values; the bounded rec
 
 That does not establish instantiation or ultimate explanation. But it prevents dismissing every rootless proposal as a tautology without examining it.
 
-**Best present choice:** adopt the occurrence-first constitutive architecture as the common research framework, while keeping these global completions as explicitly competing hypotheses. No supplied argument warrants selecting one as the uniquely achieved answer. Their next test is explanatory work, not another metaphysical label.
+**Current commitment:** the perfect complete absolute is the conditional endpoint; its self-knowing experiential constitution is the preferred positive articulation. Neutral, plenitudinous, and non-well-founded accounts remain disciplined comparisons for testing explanatory sufficiency, not equally acceptable brute stopping points. No completed articulation has yet been established. Their next test is concrete explanatory work under the same requirements.
 
 ## 14. Suspension without retreat
 

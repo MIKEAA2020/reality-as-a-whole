@@ -14,6 +14,12 @@ Three levels remain distinct:
 
 This document governs the whole-account interpretation of the [cumulative synthesis](SYNTHESIS.md), [mathematical atlas](INTEGRATED_ACCOUNT.md), [unified constitution map](UNIFIED_CONSTITUTION_MAP.md), and [local constitution programme](CONSTITUTION_RESEARCH_PROGRAMME.md). It supersedes readings that treat ultimate perfection as optional within the four-criterion inquiry. It does not turn an unconstructed physical or phenomenal law into an established result.
 
+### The account in one view
+
+**Being:** one unconditioned concrete actuality, not an abstract pattern awaiting execution. **Intrinsic nature:** the preferred articulation is complete self-knowing experiential being. **Mathematics and physics:** intelligible organization of that actuality, not an external framework imposed on it. **Finite minds:** real internally constituted perspectives, neither independent substances nor mere coordinate descriptions. **Time and process:** genuine internal order and local succession, without requiring an external clock or creation of the whole. **Goodness:** positive actuality and realized qualitative-relational fulfillment; defects concern missing due fulfillment, not every distinction. **Closure:** the actuality, content, and authority of the account's own explanatory principles remain included in the demand.
+
+These are aspects of one proposed constitution, not seven independent ingredients or a completed deduction. The central constructive question is what makes their unity necessary and sufficient while preserving every warranted distinction.
+
 ## 2. The four simultaneous requirements
 
 | Requirement | Strongest surviving demand | Unacceptable substitute |
@@ -39,7 +45,7 @@ The strongest experiential articulation requires no ignorance of the absolute's 
 
 ### C. All-powerful
 
-No actual power has an independent external source, and no external actuality constrains the absolute. Omnipotence does not mean actualizing contradictions or mutually exclusive total arrangements. It need not mean arbitrary deviation from its own perfect nature. How finite counterfactual powers and interventions belong to unconditioned self-actualization must be explained.
+No actual power has an independent external source, and no external actuality constrains the absolute. The strongest account must also exclude an unexplained incapacity for any genuine power compatible with complete perfection; merely collecting all powers that happen to occur would not establish omnipotence. Omnipotence does not mean actualizing contradictions or mutually exclusive total arrangements. It need not mean arbitrary deviation from its own perfect nature. How finite counterfactual powers and interventions belong to unconditioned self-actualization must be explained.
 
 ### D. All-good and complete
 
@@ -105,7 +111,7 @@ Actual fulfillment includes legitimate relations, not only pleasant feeling: ind
 
 Finitude is not identical with suffering. Some goods require adversity, but that does not justify each actual instance, severity, or distribution of harm. Common ontological identity does not cancel a harmed subject's standing. Perfect global integration must account for that subject, not substitute another subject's benefit for their reality.
 
-**Completion test:** explain why no less harmful admissible constitution could fulfill the same complete requirements, or supply a warranted account that dissolves the comparison without erasing suffering. No such demonstration is currently supplied. Prevention, repair, and due regard must belong to the complete order rather than become pointless because the whole is necessary.
+**Completion test:** explain why no less harmful admissible constitution could fulfill the same complete requirements, or supply a warranted account that dissolves the comparison without erasing suffering. The admissibility standard must be justified independently; defining every alternative out of the domain because the actual world is assumed perfect is circular. No such demonstration is currently supplied. Prevention, repair, and due regard must belong to the complete order rather than become pointless because the whole is necessary.
 
 ## 8. Leibniz: retained insights and deliberate departures
 
@@ -147,6 +153,36 @@ The endpoint is the absolute's complete constitution. Local research is a constr
 | D — Phenomenal constitution | Pursue M1–M5 in the local programme: warranted contrast, intrinsic basis, Gamma, chi, and constitution argument. | Excludes serious rivals using independent evidence; no supplied consciousness labels or report definitions doing the explanatory work. |
 | E — Fulfillment and privation | Ground due regard and analyze actual welfare/entitlement contrasts; explicitly address the perfection–harm tension. | Does not confuse absence with defect, pleasure with discharged claims, or global identity with permission to harm. |
 | F — Global closure | Assemble dependencies and cross-track constraints into a single explanatory account. | Every genuine distinction preserved; no brute external selector, unexplained law, realization bridge, subject boundary, or value standard. |
+
+### Operational work register
+
+The six tracks above share the five delivery gates in section 13. The following register identifies concrete starting assets and the next bounded artifact. “Specified” means the task is ready to attempt, not that its acceptance criterion has been met. These artifact names are intended contents of subsequent research, not assertions that files already exist.
+
+| Work item | Starting asset | Next artifact and bounded scope | Current status / dependencies |
+|---|---|---|---|
+| W1 — Necessary constitution | Section 11 and [actuality audit](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) | A premise-by-premise account of why the proposed nature is actual and sufficiently determines its content; include the strongest countermodel to each claimed inference. | Joint dependency argument supplied; actual constitutive explanation open. First priority; no empirical prerequisite for beginning. |
+| W2 — Perspective constitution | Sections 5 and 11; [episode-incidence reformulation](EPISODE_INCIDENCE_REFORMULATION.md) | One candidate rule for local content, incidence, extent, and lineage, with whole/local knowledge relations and duplicate/overlap cases. | Requirements specified; rule open. Develop alongside W1 and W4, not after declaring a cosmic subject sufficient. |
+| W3 — Algebraic bridge | [Finite overlap](research/framework_overlap/REPORT.md), [free net](research/spacetime_net/REPORT.md), [unified map](UNIFIED_CONSTITUTION_MAP.md) | One explicit correspondence preserving observables, states, dynamics, interventions, and token reference; separately state a proposed effective reduction and lost distinctions. | Bounded finite/free constructions exist; realistic micro-to-neural bridge open. Exact algebraic work can proceed before W2; phenomenal adequacy depends on its target. |
+| W4 — Rival-discriminating contrast | [Workspace candidate](WORKSPACE_TOGETHERNESS_CANDIDATE.md), [maintenance/broadcast audit](MAINTENANCE_BROADCAST_SEPARATION.md), [timing audit](NEURAL_TIMING_CONSTITUTION_AUDIT.md) | One contrast sheet: candidate laws, different predicted incidence/quality, preservation assumptions, evidence channel, confounds, and falsification condition. | Mechanism and intervention constraints available; empirical discrimination and warranted Gamma–chi law open. Design now; execution requires admissible evidence. |
+| W5 — Fulfillment identity | [Standing and actual fulfillment](ACTUAL_FULFILLMENT_AND_STANDING.md), [due-regard foundation](FOUNDATION_OF_DUE_REGARD.md) | One explicit account of why qualitative-relational fulfillment gives reasons; test payment, induced satisfaction, exploitation, and bounded pleasant experience. | Preferred account and conditional cases available; normative grounding and global harm reconciliation open. Parallel with W1–W4. |
+| W6 — Whole-account closure | This framework and [mathematical atlas](INTEGRATED_ACCOUNT.md) | One closure matrix linking every claimed result to its assumptions, target, evidence, unresolved dependencies, and consequences for the other tracks. | Integration requirements specified; completion blocked by outstanding W1–W5 obligations, not by a shortage of framework names. |
+
+**Execution priority:** start W1 and W2 as the conceptual bottleneck; advance W3–W5 in parallel where their evidence permits; use W6 continuously to prevent silent debts. No numerical completion percentage is warranted. A task can fail informatively, but a failed task is not marked as a completed explanatory gate.
+
+### Common artifact contract
+
+Every future candidate or implementation report must provide:
+
+1. **Claim and status:** conditional requirement, conjecture, theorem, physical hypothesis, evidence design, or observed result.
+2. **Independent inputs:** what is assumed or measured, and whether any input already contains the desired answer.
+3. **Domain and reference:** actual tokens, time range, admissible interventions, qualitative anchors, and output equivalence.
+4. **Construction or argument:** enough detail to reproduce a mathematical check or inspect each explanatory inference.
+5. **Serious rival:** what differs, what observation or argument discriminates it, and what remains shared.
+6. **Preservation:** what a translation, reduction, or intervention preserves and what it changes or discards.
+7. **Failure condition:** a counterexample that would revise or reject the stated claim without retrospective relabeling.
+8. **Cross-track consequence:** which dependency has actually been discharged and which remain open.
+
+This contract is not itself a test of metaphysical truth. It prevents assertions, synthetic assignments, empirical findings, and conditional demonstrations from being reported as interchangeable achievements.
 
 ### Immediate execution order
 

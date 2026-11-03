@@ -136,6 +136,8 @@ Extend only where justified: realistic neural organization, alternative realizat
 
 ## 7. What can be done now
 
+Use W2–W4 of the governing [operational work register](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#operational-work-register) and its common artifact contract for the next local report. The register is the implementation queue; the milestones below define adequacy rather than a separate competing schedule.
+
 The governing framework now supplies [ordered delivery gates](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#13-ordered-delivery-and-completion-gates) and a dependency ledger. This programme implements Gate 2 in parallel with foundational Gate 1 and physical Gate 3. Its deliverable must identify candidate rivals, what the interventions preserve, independent phenomenal warrant, and the conditions for rejection; a proposed experimental contrast is not an observed discrimination.
 
 The workspace supports mathematical construction, adversarial analysis, and evidence-protocol design. Literature-grounded empirical assessment and any new observations must be distinguished from those activities. The existing uploads and synthetic models are not newly collected neurophenomenological evidence.

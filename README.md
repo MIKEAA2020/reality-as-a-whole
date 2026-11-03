@@ -14,6 +14,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 - [Leading conjectural whole-account](CONJECTURAL_WHOLE_ACCOUNT.md): positive comparative assessment, distinguished from proof status.
 - [Complete constitution research programme](CONSTITUTION_RESEARCH_PROGRAMME.md): the Gamma–chi target and criteria for genuine progress.
 
+The governing framework contains the joint argument, dependency ledger, operational W1–W6 work register, and five completion gates. `SYNTHESIS.md` consolidates the surviving thesis; `CONSTITUTION_RESEARCH_PROGRAMME.md` specifies the local research milestones; the atlas and unified map supply cross-framework constraints. These are complementary views of one programme, not separate ontological proposals.
+
 ## Current physical–phenomenal work
 
 - [SR-inspired geometry construction](research/constitutive_geometry/REPORT.md): explicit response geometry, transformations, measurement conditions, and limitations.
