@@ -136,6 +136,8 @@ Extend only where justified: realistic neural organization, alternative realizat
 
 ## 7. What can be done now
 
+The governing framework now supplies [ordered delivery gates](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#13-ordered-delivery-and-completion-gates) and a dependency ledger. This programme implements Gate 2 in parallel with foundational Gate 1 and physical Gate 3. Its deliverable must identify candidate rivals, what the interventions preserve, independent phenomenal warrant, and the conditions for rejection; a proposed experimental contrast is not an observed discrimination.
+
 The workspace supports mathematical construction, adversarial analysis, and evidence-protocol design. Literature-grounded empirical assessment and any new observations must be distinguished from those activities. The existing uploads and synthetic models are not newly collected neurophenomenological evidence.
 
 The immediate priority is the conjunction of M1–M3: a narrow warranted contrast, an intrinsic causal basis, and an explicit proposed togetherness relation. More metric calculations should occur only if they constrain that joint problem.

@@ -53,7 +53,7 @@ The whole includes every real implementation, observer, law-bearing process, and
 
 > **Nothing outside the whole is not the same achievement as nothing unexplained within it.**
 
-A constitutive account asks what actuality is such that its determinations follow from its nature. It need not be a temporal story in which reality produces itself. Nor need it be a single substance, an undifferentiated One, or a cosmic person.
+A constitutive account asks what actuality is such that its determinations follow from its nature. It need not be a temporal story in which reality produces itself. Under the governing four-criterion specification, the whole is the single complete absolute; whether its unity is adequately expressed through substance language, and how its self-knowledge constitutes distinct subjects, remain constructive questions. Its unity must not be equated with blank identity.
 
 An internally articulated whole can contain genuine distinctions. The standard excludes **unexplained differences**, not differences as such. Erasing plurality, change, or finite experience by calling them illusions merely relocates the burden unless their occurrence is explained.
 
@@ -70,7 +70,7 @@ The name summarizes a proposal, not a proof:
 
 The minimal commitment is that reality includes both physical organization and phenomenal occurrence. The stronger candidate is that, in conscious episodes, the public process and the phenomenal occurrence are **one concrete event**, available under different descriptions or modes of acquaintance. A local identity with a particular brain-process token does not imply that every possible conscious realization is biological: another episode could be identical with a different concrete realization. Sharing a phenomenal kind is not sharing numerical token identity.
 
-That stronger claim is not forced by the minimal one. Nor does it establish that every occurrence is experiential. The architecture leaves open whether the ultimate nature is experiential, neutral, or otherwise internally explanatory; those alternatives cannot be merged merely by calling them aspects of one whole.
+That local identity claim is not forced by the minimal physical–phenomenal commitment and does not establish that every local occurrence is a distinct experiencer. At the whole-account level, the preferred articulation is now the self-knowing experiential absolute. Neutral and nonexperiential alternatives remain explicit comparisons for justifying this articulation, not equally adequate unexplained stopping points. They cannot be merged merely by calling them aspects of one whole.
 
 The positive aspiration is precise:
 
@@ -79,6 +79,8 @@ The positive aspiration is precise:
 This is more demanding than saying “everything is consciousness” or “experience is information from inside.” It asks for consequences that were not already inserted into those descriptions.
 
 ## 4. The required explanatory connections
+
+The [governing dependency ledger](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#11-joint-argument-and-dependency-ledger) separates starting data, conditional requirements, preferred articulations, and outstanding bridges. Its ordered completion gates consolidate the realization, identity, observer-weighting, phenomenal, and evaluative obligations below into one implementation plan.
 
 Let \(C\) denote the proposed complete concrete constitution. A successful account needs justified connections such as
 
