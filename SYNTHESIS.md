@@ -16,6 +16,8 @@ The proposed unification has not yet been demonstrated. That qualification limit
 
 ## 1. The governing standard
 
+**Four joint completion conditions:** complete intelligibility, maximum explanatory elegance and parsimony, full fidelity to experience, and beauty/perfection. These constrain one account simultaneously; none licenses sacrificing another. [The four-criteria consolidation](FOUR_CRITERIA_CONSOLIDATION.md) preserves their strongest jointly coherent reading without treating self-reference as awareness, one reality as one subject, or optimality as an explanation of actuality.
+
 The target is a completely intelligible account of reality **as a whole**: nothing genuinely explanatory is left unpaid merely because it is called fundamental, necessary, intrinsic, mathematical, experiential, or self-grounding.
 
 The settled methodological ordering is:
