@@ -69,6 +69,8 @@ If the new controller realizes the supposedly removed feature, P4 fails. If the 
 
 ## 5. Observation audit: why the present example does not decide the rivals
 
+**Next identification result:** [The observation-bound derivation](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) now specifies the missing calibration contract. For deterministic preservation/nonpreservation predictions and intervention-valid false-positive/false-negative bounds alpha and beta, the projected observation probabilities separate exactly when alpha + beta < 1. No real assay bounds or target observations are supplied by the finite model. The shared physical premises still have to hold.
+
 In the model, direct report is computed from W, independently of the distribution gate. Therefore reference and replacement can have identical reports while memory/action/comparison differ. Report-disabled comparisons retain the reduced match but provide no affirmative phenomenal evidence.
 
 The new [contrast-contract check](verification/maintained_disclosure_contrast.py) records the two input payloads, content perturbations, report-on/off conditions, lesion/replay witnesses, and the status of the missing premises. It reuses the existing transition model; it assigns no experience to any condition.
@@ -109,6 +111,6 @@ The same discipline applies at both levels: actual knowledge or representation o
 
 **Delivered:** one restricted candidate, an explicit rival, an independent-premise ledger, a worked one-slot physical contrast, frozen conditional predictions, rejection conditions, and an executable observation/preservation audit.
 
-**Open:** independently grounded domain and intervals; full constitutive preservation; genuine absence of the extra feature in a real implementation; warranted experiential evidence under intervention; qualitative identity. The model's stipulated reduced C is not a discovered subject.
+**Open:** independently grounded domain and intervals; full preservation of the declared candidate basis (not identity of the entire changed physical system); genuine absence of the extra feature in a real implementation; warranted experiential evidence under intervention; qualitative identity. The model's stipulated reduced C is not a discovered subject.
 
 The next useful decision is whether a real candidate basis can support P3–P4 and a warranted P6 **at the same time**. If not, the intervention must be redesigned or the comparison reported unresolved. More toy labels cannot close that gap. This advances W2–W4 and the delivery specification for Gate 2; it does not pass Gate 1 or Gate 2, select either rival, or complete the absolute's constitution.

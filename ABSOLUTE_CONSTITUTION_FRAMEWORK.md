@@ -286,6 +286,8 @@ Required fields: what is actual; what is necessary; what grounds the concrete co
 
 ### Gate 2 — One physical–phenomenal discriminator
 
+[Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) makes the evidential contract explicit: under deterministic rival target predictions, intervention-valid error bounds alpha,beta give disjoint observation-probability intervals iff alpha+beta<1. Sampling uncertainty and graded predictions require the corresponding set comparison. This is a mathematical requirement, not a measured calibration. Physical preservation and target-valid evidence are separate contracts; neither implies the other.
+
 [The frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md) supplies the candidate/rival ledger and finite case. Gate 2 remains open: reduced transition equality is not full constitutive preservation, and the direct report does not independently adjudicate the two experiential consequences.
 
 **Next package:** select one narrow contrast and serious rival predictions using the existing workspace, maintenance/distribution, and timing work. State what evidence could independently warrant that contrast, what interventions preserve, and which changes are confounds.

@@ -26,6 +26,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
+
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.
 
 - [SR-inspired geometry construction](research/constitutive_geometry/REPORT.md): explicit response geometry, transformations, measurement conditions, and limitations.

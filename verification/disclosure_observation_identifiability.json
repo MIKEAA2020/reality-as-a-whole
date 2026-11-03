@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "scope": "exact rational observation-set projection only",
+  "unrestricted_q_grid_cases": 11,
+  "deterministic_error_bound_pairs": 121,
+  "deterministic_separation_criterion": "alpha + beta < 1",
+  "interior_witness_checks": 81,
+  "box_examples": [
+    {
+      "target_probability": [
+        "4/5",
+        "1"
+      ],
+      "sensitivity": [
+        "4/5",
+        "1"
+      ],
+      "false_positive": [
+        "0",
+        "1/5"
+      ],
+      "projected_observation_probability": [
+        "16/25",
+        "1"
+      ]
+    },
+    {
+      "target_probability": [
+        "0",
+        "1/5"
+      ],
+      "sensitivity": [
+        "4/5",
+        "1"
+      ],
+      "false_positive": [
+        "0",
+        "1/5"
+      ],
+      "projected_observation_probability": [
+        "0",
+        "9/25"
+      ]
+    },
+    {
+      "target_probability": [
+        "1/4",
+        "3/4"
+      ],
+      "sensitivity": [
+        "1/5",
+        "3/5"
+      ],
+      "false_positive": [
+        "2/5",
+        "4/5"
+      ],
+      "projected_observation_probability": [
+        "1/4",
+        "3/4"
+      ]
+    }
+  ],
+  "invalid_intervals_rejected": 4,
+  "touching_endpoints_count_as_overlap": true,
+  "sampling_model_assumed": false,
+  "calibration_empirically_warranted": false,
+  "physical_preservation_established": false,
+  "consciousness_assignments": false,
+  "rival_selected": null,
+  "core_research_count_changed": false
+}

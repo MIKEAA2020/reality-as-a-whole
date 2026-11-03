@@ -12,6 +12,8 @@ The guiding conjecture remains **non-additive common constitution**. GWT is a pr
 
 ## Active first candidate and evidence status
 
+**Observation identifiability:** [The calibrated-channel analysis](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) derives a separating-error criterion and exact interval projection for the frozen rival contrast. Unrestricted assay parameters can fit either experiential consequence; bounded condition-valid errors can separate predictions. No error bounds for actual experience or intervention-valid neural assay are established. This advances the evidence contract for M1–M2 without claiming M3–M5 are solved.
+
 **Frozen local rival comparison:** [H_M1 versus H_D1](MAINTAINED_DISCLOSURE_CANDIDATE.md) now states restricted maintenance sufficiency and additional-distribution necessity, their shared independent premises, a worked one-slot contrast, predictions, and rejection conditions. Its executable 16-row audit supplies no phenomenal labels and confirms that matching direct report cannot decide the rivals without a warranted observation relation. Actual domain, temporal boundaries, full preservation, and experiential evidence remain open.
 
 **Whole/local awareness:** [The scope-indexed disclosure candidate](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) supplies a philosophical account and a worked knowledge distinction, not an intrinsic incidence rule. Its finite checks do not identify neural subjects or phenomenal qualities. M3–M5 must explain what grounds local scope rather than assume an information restriction constitutes a subject. The accompanying privation test distinguishes global knowledge from actual fulfillment.
