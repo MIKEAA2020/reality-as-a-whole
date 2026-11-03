@@ -1,0 +1,74 @@
+{
+  "repository": "https://github.com/cognitive-biology/Cumulative-smooth-pursuit-analysis-of-BR-OKN",
+  "commit": "e97626c304e378123219f9dd5e002b503db23e37",
+  "tree_truncated": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 9694,
+      "sha256": "ca5997c795647903078fb4b3a0a28a5fb4641b5c7b2f9624b7bfd5693d875082"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 19122,
+      "sha256": "e1395cf689f1f17df97c563bf4a0872ab2100d0e97917437ba9ecc348299ae2a"
+    },
+    {
+      "path": "demo.mat",
+      "bytes": 274251,
+      "sha256": "df1fb9347be17c2b59bcf8cc5d8e3c5d852e821412dabf91fb084d9190dafed6"
+    },
+    {
+      "path": "Functions/extractPursuit.m",
+      "bytes": 865,
+      "sha256": "29fc49de5ac97dbd2f3045da170dde0b50b915b76fc75829d51e8af9ee88ec13"
+    },
+    {
+      "path": "Functions/filterEMT.m",
+      "bytes": 569,
+      "sha256": "b3d7cf9104e23592c4f52e110db4f11a2b5993b5fb2a904013cc893525f18b03"
+    },
+    {
+      "path": "Functions/fitOffset.m",
+      "bytes": 316,
+      "sha256": "62470cfb47745e20c1e6c1b97d77ce7323706876aca56a538c763eccf47d7096"
+    },
+    {
+      "path": "Functions/getReversals.m",
+      "bytes": 3076,
+      "sha256": "495d315d9747ed7a330b4512db3b1a83a5625d346712050262ee5fedd4902008"
+    },
+    {
+      "path": "Functions/getVelocity.m",
+      "bytes": 322,
+      "sha256": "a33230a83b9ddc7dca4d909f92ccf35c3d9ce37d41335ad8641730c9ce2dbbe4"
+    },
+    {
+      "path": "Functions/idx2intervals.m",
+      "bytes": 679,
+      "sha256": "bb6288332932c735315178b01dffefe632a2d886b7ddfeb8108eb681d9dea803"
+    },
+    {
+      "path": "Functions/intervals2idx.m",
+      "bytes": 875,
+      "sha256": "7dfb4763cdcdc9e3e0dab86234e870fe6cea08ea2a4ae25c26b46123f110783f"
+    },
+    {
+      "path": "Functions/removeOffscale.m",
+      "bytes": 620,
+      "sha256": "ca5cc2a25df86eeeab4d01dd877787873661511d1e5e37e727f63041b0d7c7af"
+    },
+    {
+      "path": "Functions/shiftPursuits.m",
+      "bytes": 1098,
+      "sha256": "7ee5c2fc162b3d2d68ba60fce52ff9b348878733f79d0a6f20ad2c576ae66f8e"
+    },
+    {
+      "path": "Functions/splineEMT.m",
+      "bytes": 775,
+      "sha256": "d217caf74b602879e1a497fc0c7397f9d3cbf0c49337352bcc156079421afb10"
+    }
+  ],
+  "scope": "Pinned primary-author README, license, demo eye trace, and all .m functions except backup files; no images, primary article or full participant data fetched; MATLAB not executed",
+  "rights": "Upstream authors and LICENSE govern these files; root license does not replace upstream terms"
+}

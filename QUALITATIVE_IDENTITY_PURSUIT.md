@@ -76,7 +76,7 @@ A warranted identity requires more than a uniquely fitting decoder:
 |---|---|---|
 | Qualitative reference | Independently fixed A/B experiential contrast with limitations and mixed cases stated | Proposed target; no new phenomenological observations |
 | Physical individuation | P_A/P_B selected by actual state, dynamics, localization, and interventions, not chosen merely to maximize fit to A/B labels | Not supplied by the screened README |
-| Robust correspondence | Held-out prediction with input, report, attention, history, and measurement confounds addressed | No participant/model analysis performed here |
+| Robust correspondence | Held-out prediction with input, report, attention, history, and measurement confounds addressed | No calibrated percept/neural correspondence analysis; see the separate eye-trace audit below |
 | Causal discrimination | Target changes or persists under interventions that separate maintaining organization from input encoding and downstream monitoring | Evidence and preservation premises open |
 | Identity argument | Explain why the qualitative contrast is intrinsic to this concrete occurrence rather than an additional matched property | Preferred common-constitution direction; argument incomplete |
 | Whole-account closure | Explain the nature's actuality, scope, and necessity without an independent selector | Governing objective, not a result of the finite HMM audit |
@@ -108,3 +108,9 @@ Run:
 **Actual advance:** the candidate now has a specific empirical route, screened source provenance, a reference/gauge test, and an explicit distinction between selecting an anchored correspondence and warranting identity. An unanchored inferred neural state or latent geometry cannot serve as the particular qualitative identity merely because its dynamics look organized.
 
 **Remaining bottleneck:** independent experiential anchors and a physically discriminating intervention in a declared real domain. No warranted Gamma–chi law has been discovered in this update. The next move is primary-evidence qualification and bounded causal analysis, not another free assignment of experiential labels to a synthetic process.
+
+## 9. Primary measurement qualification and explicit target branch
+
+[The primary OKN qualification](OKN_SOURCE_QUALIFICATION.md) inspects the Aleshin et al. supplementary measurement code, license, and 121,021-sample eye-position demo. This is an actual recorded-value audit, not another synthetic latent-state demonstration. All 13 copied upstream files are hash-checked. The demo contains only `gx`; `Percept` is produced by the analysis, not supplied as independently validated experience. No primary article result or MATLAB execution is claimed.
+
+This admits a concrete non-volitional evidence route, but not a calibrated phenomenal anchor or an independently individuated neural maintaining organization. The source addresses opposite-motion rivalry, so **H_Q2 is an explicit distinct motion-content branch**; H_Q1 remains the face/object target. Resampling confidence in eye velocity is not a measured error bound for experience. The next admissible evidence is synchronized independent validation and its protocol/terms, followed by intervention-valid calibration; no qualitative or subject identity has yet been warranted.
