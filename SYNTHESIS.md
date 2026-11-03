@@ -397,6 +397,8 @@ This is the appropriate combination of ambition and restraint:
 
 ## 15. The remaining work, consolidated rather than counted
 
+The single active implementation queue is [W1–W6 in the governing framework](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#operational-work-register). The five delivery gates define completion criteria, while the target inventory here explains their scope. The next substantive package is a candidate constitution with a worked finite-perspective case, not another layer of planning terminology.
+
 No justified “three residues,” universal residue score, or optimality ranking emerges from the material. Several burdens overlap and may have a common solution. The useful object is a dependency graph:
 
 | Explanatory target | What has been earned | What remains to establish |

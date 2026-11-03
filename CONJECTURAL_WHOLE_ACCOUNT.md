@@ -14,11 +14,11 @@ The judgments below are comparative philosophical assessments under the user's g
 
 ## 1. The leading account
 
-> **Reality is one concrete, internally articulated actuality whose constitution explains both its public causal organization and, where experience occurs, its intrinsic qualitative character. Finite minds are real, dynamically organized perspectives within that actuality, not separate substances or observers attached to representations. Physical laws, states, realization conditions, perspective incidence, and their probabilistic structure ultimately belong to the same explanation; none is exempted as a brute foundation.**
+> **Under the four strongest joint requirements, reality is the perfect complete absolute: one unconditioned actuality, fully self-knowing, unlimited in genuine power compatible with perfection, and perfectly good. The preferred constructive account makes physical organization, finite experience, and qualitative-relational fulfillment internal articulations of its own concrete nature. Finite minds are genuine perspectives, not independent ultimate substances or observers attached to abstract representations. No law, state, realization condition, perspective boundary, or value standard is exempted as brute.**
 
 A concise label is **self-explanatory qualitative process monism**. “Process” here emphasizes actual organization and occurrence rather than a merely possible specification. It does not pretend to have settled fundamental becoming versus a block description, or to have derived time simply from the word process.
 
-This is my leading **account form**, not a completed set of constitutive equations. It is more specific than “everything is connected” and less committal than saying that one cosmic person experiences every event. Its defining proposal is non-additive constitution: physics and experience are to be understood through the nature of the same realized processes, rather than as independently complete realms joined by an arbitrary law.
+This is my leading **account form**, not a completed set of constitutive equations. It is more specific than “everything is connected.” Complete self-knowledge is part of the preferred absolute articulation; its relation to distinct local subjecthood must be constructed rather than inferred from the image of a human-like cosmic person. Its defining proposal is non-additive constitution: physics and experience are to be understood through the nature of the same realized processes, rather than as independently complete realms joined by an arbitrary law.
 
 A theory sometimes called physicalist, neutral-monist, dual-aspect, or organizational could instantiate this account if its actual content supplies the explanation. Labels should not disqualify a successful constitution theory or count as explanatory achievements.
 
@@ -74,7 +74,7 @@ An external creator, simulator, unexplained law, or intrinsic nature cannot term
 
 A global account may involve mutually constraining features rather than one temporally prior first cause. Such mutual determination must be demonstrated, not inferred from a circular diagram or the phrase “self-grounding.”
 
-## 3. Stronger conjectures worth retaining, but not at the same confidence level
+## 3. Constructive articulations and their outstanding obligations
 
 ### Global explanatory determination or necessitarianism
 
@@ -84,7 +84,7 @@ However, an explanation is not automatically a proof of metaphysical necessity. 
 
 ### An experiential intrinsic nature extending beyond familiar finite minds
 
-This is a serious monist conjecture: experience may not be an ontological novelty introduced by an otherwise entirely nonqualitative foundation. A common nature might account for both familiar experience and the wider physical order.
+The current preferred articulation is the self-knowing experiential absolute, not a nonqualitative foundation to which experience is externally attached. Its common nature must account for familiar experience and the wider physical order. The outstanding obligation concerns the content and warrant of that constitution, not whether an unexplained nonqualitative stopping point is equally adequate.
 
 That conjecture does not require treating every microprocess as a little subject. Nor is it established by saying physics has a vacant categorical slot. The relevant intrinsic nature and its modes must be specified.
 
@@ -92,7 +92,7 @@ That conjecture does not require treating every microprocess as a little subject
 
 This deserves retention as a serious possible completion, not dismissal merely because decombination is unfinished. It offers a way of avoiding the picture in which independent micro-subjects must be assembled into a larger subject, and a candidate setting for finite perspectives as internal differentiations.
 
-But a common constitutive nature and one phenomenal subject are distinct hypotheses. The former can also support multiple real episodes without an encompassing subject. Consequently cosmopsychism is not yet as strongly supported as non-additive monism itself.
+But a common constitutive nature and one phenomenal subject are distinct hypotheses. The former can also support multiple real episodes without an encompassing subject. Consequently the governing self-knowing absolute must not be treated as already supplying a particular phenomenal containment or subject-identity law. Whole-priority is the preferred development here; its detailed subject architecture remains to be justified.
 
 If adopted as the maximal working conjecture, it should be stated openly: the whole has fundamental qualitative unity and finite subjects are real internal articulations. That is a substantive hypothesis, not a deduction from physical connectedness. Its decombination debt is an unfinished explanatory task, while the absence of a selection argument between it and non-cosmopsychist monism is a separate uncertainty.
 
@@ -114,15 +114,13 @@ The tested proxy has precise limitations; those are genuine reasons against acce
 
 Likewise, a categorical claim that ordinary computers cannot be conscious, or that every implementation of a selected software abstraction must be conscious, currently lacks a validated constitutive basis. Neither should inherit high confidence from a broader monist conjecture.
 
-## 5. The most committed version I would pursue
+## 5. The committed version to develop
 
-The maximal candidate worth developing is:
+> **Reality is the perfect complete absolute under the adopted joint requirements. Develop it as one self-knowing experiential actuality whose intrinsic constitution explains its physical organization, finite perspectives, powers, temporal relations, and qualitative-relational fulfillment. Realization may vary in material where the constitutive powers are preserved; coordinated access may involve workspaces, while qualitative character and subject incidence require the deeper warranted constitution.**
 
-> **One globally self-explanatory qualitative actuality, internally realized as causal process and finite perspective. Its laws and modes are grounded in its constitution rather than imposed from outside; experienced and publicly described organization are non-additive presentations of that same actuality. Realization can vary in material where the constitutive powers are preserved. Finite conscious access may be organized through workspaces, while subject incidence and qualitative differentiation follow from a deeper law of that actuality.**
+The absolute's completeness and goodness are not optional extensions within this inquiry. The exact identity of value with being, an axiarchic actualization mechanism, a particular all-inclusive phenomenal field, and the necessity of every detailed physical arrangement remain constructive claims requiring justification. A separate cosmic observer, a privileged integration score, a literal simulator hierarchy, and actuality of all consistent mathematical structures are not assumed.
 
-A cosmopsychist version adds that the whole itself has fundamental phenomenal unity. A necessitarian version adds that the constitution entails the actuality with the required modal force. Both deserve serious conjectural development. Neither needs to be declared false merely because the present inquiry cannot yet supply the entailment or differentiation law.
-
-I would not yet make axiarchic normative Good, an independently existing cosmic observer, a particular integration score, or a literal simulator hierarchy essential to this candidate. Nor would I treat all consistent mathematical structures as actual merely to avoid selection.
+The governing [implementation queue](ABSOLUTE_CONSTITUTION_FRAMEWORK.md#operational-work-register) is W1–W6. This assessment supplies comparative motivation; it is not a separate ontology or implementation schedule.
 
 ## 6. What promoting the account to conjecture changes
 
@@ -138,11 +136,9 @@ The candidate still needs a constitution precise enough to recover physical laws
 
 ## 7. Bottom line
 
-The strongest present judgment is not that every unproved metaphysical claim is equally unsupported. **A non-additive, occurrence-first, qualitatively constituted process monism has positive comparative appeal under the stated requirements and deserves to be the leading working conjecture.**
+**The perfect complete absolute is the conditional endpoint; self-knowing experiential common constitution is its preferred positive articulation.** The non-additive, occurrence-first results and constraints provide substantive support for developing it. Its incomplete constitutive explanation does not by itself make it likely false, and adopting its requirements does not establish that the explanation has been supplied.
 
-Whole-priority/cosmopsychist and necessitarian developments are serious stronger conjectures. Their incompleteness alone does not make them likely wrong. But the particular claim of one cosmic subject and the axiarchic Good currently have less warrant than the underlying common-constitution programme, and should be marked accordingly.
-
-This preserves the ambition of the previous exchange without converting its uncompleted steps into established facts. No new empirical evidence, numerical probability assignment, or executable theorem is claimed by this assessment.
+The power of the whole-account must be earned by its actual treatment of physical organization, finite differentiation, quality, due regard, and actuality. No new empirical evidence, numerical probability assignment, or executable theorem is claimed here.
 
 ## A more articulated axiarchic extension: privation
 

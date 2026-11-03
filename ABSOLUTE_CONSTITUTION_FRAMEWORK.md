@@ -31,6 +31,8 @@ These are aspects of one proposed constitution, not seven independent ingredient
 
 The requirements are conjunctive. Success on one cannot purchase failure on another. Maximum means joint adequacy, not independently adding incompatible superlatives. Complete intelligibility does not require a consistent effective arithmetic calculus deciding every truth; mathematical incompleteness is not automatically an ontological brute remainder.
 
+All free choices in an ultimate account require explanation: laws, constants, state/history selection, permissible models, intervention structure, and the logic or modality used in the explanation. Effective parameters and finite knowledge can remain at a local level if their place in the complete constitution is explained. “Parameter-free” does not mean denying measurable quantities or hiding choices in a coding language. Reflective closure requires an account of the adequacy of reasoning and representation, not an earlier temporal cause for every logical truth.
+
 The Wheeler aspiration—an insight so simple and beautiful that we ask how it could have been otherwise—is an appropriate completion ideal. It is not evidence for a particular theory. The quotation and page reference supplied in the conversation have not been independently bibliographically verified here.
 
 ## 3. What the absolute means
@@ -91,6 +93,14 @@ For each genuinely bounded subject, explain:
 
 “Privation,” “pinhole,” and “whirlpool” propose a relation to the whole; they do not implement it. A filtering map with unexplained selection rules relocates the explanatory debt. Merely renaming one event in several coordinates does not produce several subjects; genuinely distinct matching implementations must not be collapsed into one token.
 
+### Minimum consistency conditions on the whole–perspective relation
+
+A candidate must distinguish **what the whole knows**, **what is phenomenally present for a local subject**, and **what can causally be used or reported by that subject**. These are distinct proposed relations, not three independent substances. A bounded subject's ignorance of a fact is not the whole's ignorance of the fact that the subject is ignorant. Conversely, complete knowledge of the subject does not by definition make that fact locally present to the subject.
+
+This distinction removes a verbal contradiction; it does not yet construct the relations. A successful account must determine their incidence from the same nature rather than index already stipulated minds. It must explain whether local awareness is contained, represented, constituted, or otherwise related to absolute self-knowledge; these terms are not interchangeable. Knowing another's experience is not automatically being numerically that local subject. A claim of absolute subject identity must still explain real differences in local ownership and access.
+
+At minimum, evaluate: (i) two distinct matching implementations; (ii) a passive monitor versus an active source; (iii) continued organization through replacement or moving storage; (iv) proposed overlap, branching, or merging without assuming they are physically or phenomenally possible; and (v) a change of coordinates with no physical change. A model that returns the same answer to every case solely because “all is one” has not explained finite differentiation.
+
 ## 6. Time, change, necessity, and plenitude
 
 The absolute need not occupy an external time. An eternally complete actuality may contain genuine temporal relations and locally experienced succession. Complete nonsuccessive knowledge of a process does not show that the process contains no succession. An unchanging mathematical function can assign different values to different times.
@@ -145,18 +155,11 @@ Black holes, holography, and quantum information must be treated as physics, not
 
 The endpoint is the absolute's complete constitution. Local research is a constrained route toward it, not a replacement endpoint. Foundational and empirical work proceed together; ultimate integration is not postponed until after a standalone neuroscience theory.
 
-| Track | Next concrete deliverable | Acceptance criterion |
-|---|---|---|
-| A — Foundational closure | Dependency argument for actuality, necessity, self-knowledge, power, goodness, and their common constitution; identify every independent premise. | No transition from identity to existence, consistency to actuality, or optimality to instantiation without warrant; no explanatory circle disguised by terminology. |
-| B — Unity and modes | Compare internally articulated unity with strict no-differentiation; specify a candidate local-perspective relation and what fixes it. | Preserves determinate content, real local limitation, global completeness, and distinct subject standing without unexplained filters. |
-| C — Physical atlas | Extend the existing algebra/state/dynamics/intervention interface and a declared micro-to-effective bridge. | Demonstrated domain-specific correspondences and error assumptions; distinguish exact changes of presentation from physical changes or lossy channels. |
-| D — Phenomenal constitution | Pursue M1–M5 in the local programme: warranted contrast, intrinsic basis, Gamma, chi, and constitution argument. | Excludes serious rivals using independent evidence; no supplied consciousness labels or report definitions doing the explanatory work. |
-| E — Fulfillment and privation | Ground due regard and analyze actual welfare/entitlement contrasts; explicitly address the perfection–harm tension. | Does not confuse absence with defect, pleasure with discharged claims, or global identity with permission to harm. |
-| F — Global closure | Assemble dependencies and cross-track constraints into a single explanatory account. | Every genuine distinction preserved; no brute external selector, unexplained law, realization bridge, subject boundary, or value standard. |
+**One implementation queue:** W1–W6 below are the work items; section 11 records their explanatory dependencies; section 13 defines their acceptance gates. The local M0–M6 milestones supply domain-specific tests, not a second schedule. The mathematical atlas supplies framework coverage, not a second ontology.
 
 ### Operational work register
 
-The six tracks above share the five delivery gates in section 13. The following register identifies concrete starting assets and the next bounded artifact. “Specified” means the task is ready to attempt, not that its acceptance criterion has been met. These artifact names are intended contents of subsequent research, not assertions that files already exist.
+The six work items share the five delivery gates in section 13. The following register identifies concrete starting assets and the next bounded artifact. “Specified” means the task is ready to attempt, not that its acceptance criterion has been met. These artifact names are intended contents of subsequent research, not assertions that files already exist.
 
 | Work item | Starting asset | Next artifact and bounded scope | Current status / dependencies |
 |---|---|---|---|
@@ -173,7 +176,7 @@ The six tracks above share the five delivery gates in section 13. The following 
 
 Every future candidate or implementation report must provide:
 
-1. **Claim and status:** conditional requirement, conjecture, theorem, physical hypothesis, evidence design, or observed result.
+1. **Claim and status:** conditional requirement, conjecture, theorem, physical hypothesis, evidence design, or observed result. A governing requirement is not evidence that a particular implementation meets it.
 2. **Independent inputs:** what is assumed or measured, and whether any input already contains the desired answer.
 3. **Domain and reference:** actual tokens, time range, admissible interventions, qualitative anchors, and output equivalence.
 4. **Construction or argument:** enough detail to reproduce a mathematical check or inspect each explanatory inference.
@@ -184,14 +187,11 @@ Every future candidate or implementation report must provide:
 
 This contract is not itself a test of metaphysical truth. It prevents assertions, synthetic assignments, empirical findings, and conditional demonstrations from being reported as interchangeable achievements.
 
-### Immediate execution order
+### Execution policy
 
-1. Use the joint argument and dependency ledger in section 11 to construct the foundation-and-perspective package specified at Gate 1 in section 13. The ledger is supplied; the candidate constitution and its explanatory warrant are not yet supplied.
-2. In parallel, retain the local M1–M3 priority: a warranted narrow qualitative contrast, an interventionally adequate physical basis, and an explicit togetherness proposal. GWT remains a preferred coordinated-access mechanism, not stipulated phenomenal sufficiency.
-3. Use the maintenance/broadcast distinction to design candidate-discriminating contrasts. Reduced closed-loop preservation is not full physical or phenomenal preservation; baseline replay is weaker than counterfactual preservation.
-4. Keep intrinsic episode boundaries separate from analysis-dependent timing estimates. The static COGITATE audits are not participant-data reproductions or evidence of a discovered episode clock.
-5. Advance the physical atlas only through concrete bridges. More metrics, more framework names, or more synthetic tests count as progress only when they discharge an identified obligation.
-6. Review each proposed advance against all four requirements and the complete-absolute endpoint, recording its remaining dependencies without reverting the endpoint to an optional preference.
+Begin with W1 and W2; advance W3–W5 wherever mathematical work or admissible evidence is available; maintain W6 throughout. In the local programme, retain the narrow-target, intrinsic-basis, and togetherness priorities of M1–M3. Use the existing maintenance/distribution and timing audits to constrain preservation and observation assumptions rather than generate consciousness verdicts.
+
+The next substantive deliverable is **the Gate 1 foundation-and-perspective package**, not a further restatement of this plan. It must name one actual candidate constitution, expose its independent premises, and work through at least one finite-perspective case. If no such candidate can be supplied, report exactly which constitutive relation is missing; do not mark the task complete or substitute an additional glossary. All gates remain open until their own acceptance criteria are met.
 
 ### Decision and evidence rules
 
@@ -240,6 +240,7 @@ The whole-account retains the earlier inquiry's strongest distinctions:
 - **Constitution / determination / identity:** uniquely fixing a phenomenal profile, being the same concrete occurrence, and explaining that identity are different achievements. Necessary co-occurrence alone does not establish identity.
 - **Non-additive efficacy:** under warranted physical completeness, experiential efficacy, and rejection of independent causal duplication, experience must be causally relevant through a non-independent relation. This does not select strict identity over all realization accounts or establish abstract functional sufficiency.
 - **Brain anchoring / substrate exclusivity:** actual human dependence on neural organization motivates the local investigation. It neither proves that every matching algorithm is conscious nor establishes that all nonbiological realizations are impossible.
+- **Effective organization / hidden implementation:** stable macro-laws, predictive minimization, and shared control can reveal useful organization while omitting hidden copies, counterfactual powers, or token distinctions. A sufficient predictive statistic is not automatically a complete constitutive basis.
 - **Copies / tokens / lineage:** separate actual implementations remain separate tokens even if isomorphic. Memories, reconstructions, or duplicate outputs are not automatically the original occurrence; lineage and numerical identity require their own criteria.
 - **Physical difference / access / records:** in-principle physical differences need not be observed, permanently archived, or recoverable. Lack of access is not absence. Unitary dynamics do not establish a conveniently readable archive or the persistence of a subject.
 - **Observer populations / probabilities:** counting descriptions or encodings does not count observers. Bostrom-style inference requires justified realizations, populations, evidence classes, and weights; the absolute does not automatically furnish any of these.
