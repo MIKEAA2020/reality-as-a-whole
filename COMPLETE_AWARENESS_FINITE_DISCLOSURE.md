@@ -63,6 +63,8 @@ Use distinct relations:
 
 For truths p concerning the whole, complete propositional knowledge requires `True(p) -> K(A,p)`, and knowledge is factive. This schematic requirement applies to an adequate domain of contents and truths; it is not a claim to have supplied an unrestricted self-referential truth predicate or a formal calculus proving every truth.
 
+[Complete self-knowledge](COMPLETE_SELF_KNOWLEDGE.md) now gives the qualification an explicit argument: factivity and truth-completeness cannot coexist with a bivalent proposition L satisfying `L iff not K(A,L)`. A separate compositional interpretation permits arbitrarily iterated knowledge of knowledge without that fixed point. This is not a proof of an actual knower, a complete semantics of all facts, or a reason to dismiss the unresolved constitution questions as meaningless.
+
 The candidate requires:
 
     Occ(c) -> Self(A,c).

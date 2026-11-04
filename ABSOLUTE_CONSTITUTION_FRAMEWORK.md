@@ -47,6 +47,8 @@ There is no independently ultimate plurality and no external actuality on which 
 
 ### B. Completely self-knowing
 
+**Semantic specification:** [The self-knowledge argument](COMPLETE_SELF_KNOWLEDGE.md) distinguishes complete factive knowledge from a semantically total self-model. The former conflicts with an unrestricted negative epistemic fixed point, not with every form of iterated self-knowledge. Its constructive interpretation establishes only the stated logical compatibility; it does not derive qualitative acquaintance, necessary existence, or complete semantic adequacy. The account must explain its semantic distinctions internally rather than impose arbitrary exceptions.
+
 The strongest experiential articulation requires no ignorance of the absolute's own actuality. Every finite experience and limitation must be fully comprehended. Whether this is one all-inclusive phenomenal field, one undivided act with differentiated contents, or another warranted form of self-knowledge remains a constructive question. “One absolute” alone does not derive its subject architecture.
 
 ### C. All-powerful

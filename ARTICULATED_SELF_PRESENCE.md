@@ -51,6 +51,8 @@ This separates the preferred self-presence claim from both primitive bare happen
 
 ## 4. Why the absolute cannot be inferred merely by enlarging the local datum
 
+**Self-knowledge specification:** [The semantic continuation](COMPLETE_SELF_KNOWLEDGE.md) rules out requiring complete awareness to be a semantically total classical self-model supporting unrestricted negative epistemic fixed points. It does not prove that awareness is nonrepresentational; typed or otherwise restricted representational accounts remain possible. The positive local claim in this document still rests on the qualitative datum, not on a theorem that logical self-reference generates experience.
+
 An actual finite experience warrants the occurrence of some qualitative actuality. It does not entail that every concrete occurrence is qualitative, that all experiences have one owner, or that a universal experiential field exists necessarily.
 
 The strongest whole-account extension is nevertheless positively motivated:
