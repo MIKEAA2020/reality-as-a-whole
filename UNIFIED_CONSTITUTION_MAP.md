@@ -50,6 +50,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 ## 3. The finite workspace already has an algebraic presentation
 
+**Probability is now reconstructed:** [The effect-to-state derivation](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md) obtains the positive normalized functional from effect probability, normalization and consistent coarse-graining, including the finite Born form. It works for general unital C*-algebras without assuming a finite local density matrix. Normality, event-algebra selection, state preparation and actual instruments need separate warrant. Equal effects do not determine equal postmeasurement dynamics, as the explicit instrument pair demonstrates.
+
 **Now executable:** [The explicit algebra/channel bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) instantiates the full 75-state workspace and 15-state reduced core, including states, controlled pullbacks, exact reduction, and a measure-and-prepare quantum extension. Preservation holds on the reduced observable subalgebra; full maps can differ and off-diagonal quantum information is lost.
 
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state

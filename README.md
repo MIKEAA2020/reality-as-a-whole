@@ -30,6 +30,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Probability and updating reconstructed](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md): positive derivation from effect/refinement premises to algebraic states and the finite Born form; exact qubit obstruction and same-readout/different-instrument witness. General-algebra scope, not a consciousness or zero-residue proof.
+
 - [Common constitution and explanatory closure](COMMON_CONSTITUTION_CLOSURE.md): exact target-factorization criterion, a recorded-report application, and the distinction between sufficiency, constitutive identity, and zero-residue explanation.
 
 - [Worked reported-content reference](REPORTED_CONTENT_REFERENCE_CASE.md): primary-author face-rivalry event log and content dictionary inspected; exact report/unresolved-time accounting without a neural decoder, invented cross-source calibration, or an identity claim.

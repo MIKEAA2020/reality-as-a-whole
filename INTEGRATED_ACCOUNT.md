@@ -3,6 +3,8 @@
 
 ### Direct answer
 
+**Reconstructed probability bridge:** [From effects to states and physical updating](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md) derives the general positive-functional representation and finite Born form from declared refinement/noncontextuality premises. An exact pair of equal-effect instruments has different sequential predictions. This supplies an operative probability/state/channel connection without deriving the event algebra, actual state, or experiential law by assertion.
+
 **New bounded bridge:** [Maintained dynamics to observable algebras and channels](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) is now implemented with exact controlled reduction, state/observable duality, and an explicit Kraus extension. It preserves a classical effective sector, not arbitrary quantum coherence or a selected phenomenal target.
 
 **Current constitutive articulation:** [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md) requires the same intrinsic nature to ground qualitative specificity, finite scope, and their organization. Mathematical equivalence alone does not identify anchored qualities or subjects; a complete law cannot leave an independently adjustable choice of their assignment. The account fixes noncomposite unity rather than strict undifferentiation and retains the full physical atlas.
