@@ -75,6 +75,8 @@ Thus actual data illustrate the precise middle task: identify a basis that deter
 
 ## 4. Why unique determination still leaves residue
 
+[The complete-intelligibility audit](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) applies this distinction to the supplied rival accounts: a proposed identity of being with determinacy is not justified merely by ruling out brute coextension, since explained common grounding need not be property identity. Nor is an explained discriminating constitution ruled out by the requirement to explain all distinctions.
+
 The factorization proof is about a fixed triple (D,p,e). It does not select that triple, justify the causal relevance of p, or establish what e is. Its uniqueness conclusion is therefore not the no-independent-selector result we ultimately need.
 
 Three notions of uniqueness must remain separate:

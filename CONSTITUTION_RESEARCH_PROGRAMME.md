@@ -130,6 +130,8 @@ Specify chi on the candidate domain. Use independent anchors, qualitative relati
 
 ### M5 — A constitutive justification
 
+**No exclusion by incomplete survey:** [The complete-intelligibility comparison audit](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) shows why no-brute-facts does not by itself select plenitude or identify structure with experience. Grounded distinctions are permissible; explanatory direction does not follow from implication or covariance. The occurrence/determination/adequacy obligations remain within W1–W6, not a new competing queue.
+
 [The closure argument](COMMON_CONSTITUTION_CLOSURE.md) distinguishes uniqueness given a fixed basis/target from an explanation of why that determination belongs to the concrete nature. Token identity, property identity, and explanatory unification are distinct; neither declaring identity nor naming a dependence relation removes residue.
 
 Compare the integrated account with non-independent realization, correlation-only, and enlarged-intrinsic-nature rivals. Explain why its powers, qualities, and incidence belong to this one occurrence rather than being linked by an unexplained dictionary.

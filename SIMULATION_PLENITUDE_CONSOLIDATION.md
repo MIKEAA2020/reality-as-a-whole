@@ -33,6 +33,8 @@ A narrative and a probability calculation converge locally when the narrative sp
 
 ## 4. The user's modal correction is decisive
 
+[The complete-intelligibility comparison](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) also distinguishes explanatory restriction from brute restriction. Formal coherence does not independently establish concrete realizability or possibility as an entire world. Unrestricted inclusion does not avoid explaining actuality, and the absence of a presently supplied unique constitution is not a proof that none can explain its determinations.
+
 Let W be a proposed collection of possible total worlds and A the members counted actual in the stated interpretation. Consider:
 
     Every possible world is actual: W is a subset of A.

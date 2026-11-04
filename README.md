@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- [Complete-intelligibility argument audit](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md): full side-by-side transcript audit; grounded distinctions versus brute selection, necessity versus explanation, and corrections to claimed mathematical/scientific closure.
+
 - [Decombination, articulation, and privation](DECOMBINATION_PRIVATION_CONSOLIDATION.md): contextual audit of the supplied dialogue; finite appearances preserve experience, while positive constitution—not freestanding absence—must ground their scope.
 
 - [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md): active constitutive proposal for qualities, finite perspectives, and their relations; fixed simplicity, privative absence, and the no-independent-selector requirement.

@@ -8,6 +8,8 @@ This audit sharpens the target of an intrinsically concrete constitution. It doe
 
 ## 1. Test of self-support
 
+[The complete-intelligibility comparison audit](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) examines a full supplied two-stream deduction. Its contraposition argument does not establish reversed grounding; its being/determinacy identity and nondiscriminating-autonomy criterion remain unproved. Rejecting those shortcuts does not establish that all intrinsically determining explanation is impossible.
+
 Consider the abstract Boolean condition x = x. Both x = 0 and x = 1 satisfy it. If 1 is interpreted as occurrence and 0 as nonoccurrence, self-consistency alone does not select occurrence.
 
 By contrast, x = 1 has a unique solution, but the positive condition is now explicitly supplied. This does not establish why it applies to concrete reality. The contradictory Boolean condition x = 1 - x has no solution; excluding inconsistency does not select a concrete instantiation of some other consistent condition.
