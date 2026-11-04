@@ -60,6 +60,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Constraint/clock bridge:** [Relational dynamics](RELATIONAL_TIME_CONSTRUCTION.md) now supplies a positive propagation constraint, a holonomy classification of its coherent kernel, and a faithful constraint-commuting copy of the observable algebra in the flat case. Its general unital C*-algebra version uses no finite global density matrix. Circuit history, alternative directed routes, and algebraic clock conditioning are connected explicitly; continuum covariance, gravitational constraints, clock selection, and qualitative passage are not derived.
 
+**Instrument/record bridge:** [The sequential construction](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) now gives an explicit algebraic unitary for each finite inner Kraus family and derives the full recorded multi-time distribution inside a stationary constraint history. Feedback, persistence, record transport, and restricted clock refinement are handled without identifying records with the events they record. Cross-outcome eraser experiments require coherent implementation data beyond an abstract CP instrument.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

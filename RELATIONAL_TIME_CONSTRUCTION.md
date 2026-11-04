@@ -205,8 +205,10 @@ The executable also verifies a causal-diamond graph: its undirected loop can hav
 
 ## 9. Position reached and remaining work
 
+**Sequential continuation:** [Interventions and records](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) now supplies the missing sequential statistics for finite inner instruments: an explicit algebraic unitary completion, selective updates, feedback, persistent constraint-commuting record observables, and clock-refinement invariance. It distinguishes classical-record predictions from coherent implementation data needed for eraser experiments. The underlying clock/state/transport choices remain supplied.
+
 **Constructed:** clock-relative unitary change inside one zero-constraint state; a faithful algebra of Dirac observables in the flat case; a holonomy classification in the general finite case; gauge covariance; a general C*-algebra extension; and a unique, gapped finite preparation built from the preceding AKLT law. Exact rational checks cover nontrivial changing correlations and coherence, not experience labels.
 
-**Not derived:** why these transports, graph, clock, or preparation are actual or necessary; a continuum clock or arrow of time; sequential measurement-instrument statistics; arbitrary physical clock changes; the gravitational hypersurface-deformation constraint algebra; spacetime geometry; or finite qualitative ownership. A one-clock history does not by itself solve these additional problems.
+**Not derived:** why these transports, graph, clock, or preparation are actual or necessary; a continuum clock or arrow of time; unrestricted non-inner or unmodelled-memory instrument processes; arbitrary physical clock changes; the gravitational hypersurface-deformation constraint algebra; spacetime geometry; or finite qualitative ownership. A one-clock history does not by itself solve these additional problems.
 
 This is a constructive result within physical adequacy M0 and the existing W1-W6 programme, not a new rival programme. The noncommutative observable algebra and its conditional predictions are preserved rather than replaced by a classical valuation. Normative and experiential obligations remain jointly binding.

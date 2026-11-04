@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational; no random sampling",
+  "canonical_unitary": "projective and nonprojective inner instruments; U*=U and U^2=I",
+  "joint_record_probabilities": [
+    [
+      "81/625",
+      "144/625"
+    ],
+    [
+      "256/625",
+      "144/625"
+    ]
+  ],
+  "second_outcome_after_coarse_graining": [
+    "337/625",
+    "288/625"
+  ],
+  "second_outcome_if_first_intervention_omitted": [
+    "49/625",
+    "576/625"
+  ],
+  "adaptive_joint": [
+    [
+      "81/625",
+      "144/625"
+    ],
+    [
+      "0",
+      "16/25"
+    ]
+  ],
+  "dirac_record_observables": "commute with constraint and reproduce joint probabilities",
+  "persistence": "exact after writing, not asserted before writing",
+  "clock_refinement": "same endpoint effects; clock reading weights 1/4 versus 1/5",
+  "eraser_plus_joint": [
+    "49/1250",
+    "288/625"
+  ],
+  "same_instrument_phase_variant_eraser_plus_joint": [
+    "1/2",
+    "0"
+  ],
+  "reversible_reset": "blank visible memory, unchanged joint distribution in environment",
+  "aklt_sequential_joint": [
+    [
+      "3/25",
+      "0",
+      "16/75"
+    ],
+    [
+      "0",
+      "1/3",
+      "0"
+    ],
+    [
+      "16/75",
+      "0",
+      "3/25"
+    ]
+  ],
+  "aklt_neighbor_conditioned_on_first_record": [
+    [
+      "3/7",
+      "2/7",
+      "2/7"
+    ],
+    [
+      "2/7",
+      "3/7",
+      "2/7"
+    ],
+    [
+      "2/7",
+      "2/7",
+      "3/7"
+    ]
+  ],
+  "limitations": [
+    "general C*-algebra theorem assumes finite inner Kraus families",
+    "fresh memories and nondemolition of prior outcomes are supplied",
+    "no selected unique outcome, phenomenal ownership, or fundamental arrow is derived"
+  ]
+}
