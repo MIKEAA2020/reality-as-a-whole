@@ -52,6 +52,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Explicit infinite coherence construction](INFINITE_COHERENCE_CONSTRUCTION.md): a stated AKLT local projector law, all-size ground-space solution, unique periodic ground states and controlled infinite limit, quasi-local state and GNS construction, exact entanglement spectra and correlations. Includes a standard-library exact-arithmetic implementation; no experiential identity is assigned by definition.
 
+- [Relational time construction](RELATIONAL_TIME_CONSTRUCTION.md): stationary constraints with changing clock-conditioned states; holonomy kernel theorem, faithful Dirac-observable embedding, general C*-algebra extension, unique finite preparation and gap bound, and exact AKLT-history example. Resolves the specified frozen-formalism obstruction, not the full gravitational problem of time.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

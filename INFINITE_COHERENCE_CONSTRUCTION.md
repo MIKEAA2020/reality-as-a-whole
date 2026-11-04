@@ -224,6 +224,8 @@ Here C(0)=2/3 and C(-d)=C(d). The series is absolutely convergent. Cutting at |d
 
 ## 10. What has and has not been constructed
 
+**Relational-dynamics continuation:** [The clock-constraint construction](RELATIONAL_TIME_CONSTRUCTION.md) now uses this state as the input to a single stationary history with changing conditional correlations. It proves a constraint-commuting observable embedding for general C*-algebras, classifies path consistency by holonomy, and separates state preparation from the gauge constraint. It does not infer time from the static AKLT state alone.
+
 **Constructed:** a fixed positive local law, its all-size ground-space solution, periodic uniqueness, a controlled infinite limit, compatible noncommutative restrictions, a unique global state extension and cyclic carrier, explicit entanglement, block spectra, and correlation functions. Finite exact computations check the formulas and rank statements; they do not replace the proofs.
 
 **Supplied choices:** the integer adjacency, three-dimensional site space, Pauli auxiliary algebra, zero-energy coherence law, and periodic finite approximants. The construction does not establish why these are the actual or necessary choices. Other Hamiltonians can share ground states. No universality or complete physical foundation is claimed.

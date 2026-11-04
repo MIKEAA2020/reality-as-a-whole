@@ -58,6 +58,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Infinite construction:** [The AKLT coherence construction](INFINITE_COHERENCE_CONSTRUCTION.md) extends the mathematical work to a genuinely infinite quasi-local system. A fixed local projector law determines unique periodic ground states and a controlled local thermodynamic limit; compatible finite states extend uniquely to the specified C*-algebra, with a cyclic GNS carrier unique up to unitary equivalence. This is a spin-chain construction, not a relativistic AQFT net, a neural embedding, or an identification of algebraic restrictions with phenomenal owners.
 
+**Constraint/clock bridge:** [Relational dynamics](RELATIONAL_TIME_CONSTRUCTION.md) now supplies a positive propagation constraint, a holonomy classification of its coherent kernel, and a faithful constraint-commuting copy of the observable algebra in the flat case. Its general unital C*-algebra version uses no finite global density matrix. Circuit history, alternative directed routes, and algebraic clock conditioning are connected explicitly; continuum covariance, gravitational constraints, clock selection, and qualitative passage are not derived.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
