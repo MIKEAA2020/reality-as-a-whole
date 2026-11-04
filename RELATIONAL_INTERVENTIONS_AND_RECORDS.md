@@ -201,6 +201,8 @@ This distinction prevents the construction from claiming more determination than
 
 ## 10. Position reached
 
+**Countable extension:** [The infinite-clock construction](INFINITE_RELATIONAL_CLOCK.md) now extends compatible persistent records to a unique normalized probability measure on countably many record strings. It uses stabilized finite event effects and cylinder consistency, without an infinite product unitary or a normalized global clock-time distribution. Coherent clock data are retained separately by a finite-core functional and physical quotient; incompatible readout protocols do not receive one universal classical measure.
+
 We now have a general finite-inner-instrument construction of sequential Born weights, state updates, feedback, persistent internal records, constraint-commuting joint record observables, and a precisely delimited clock-refinement invariance. It is a continuation of the general C*-algebra framework, not an assumption that all systems have finite global density matrices.
 
 What remains supplied includes the system algebra and state, instrument families, coherent implementations where tested, initial blank resources, clock graph, and record identification. The construction does not derive a fundamental arrow from reversible dynamics, arbitrary clock equivalence, gravitational constraints, a selected measurement outcome, qualitative identity, or absolute perfection. Operational probabilities are derived within quantum theory, not an explanation of why the entire quantum constitution is necessary.

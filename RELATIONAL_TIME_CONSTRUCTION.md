@@ -205,6 +205,8 @@ The executable also verifies a causal-diamond graph: its undirected loop can hav
 
 ## 9. Position reached and remaining work
 
+**Infinite-clock continuation:** [The integer-clock construction](INFINITE_RELATIONAL_CLOCK.md) now proves the normal-state obstruction and constructs a group-averaged physical Hilbert space with coherent finite-corner states and window-independent relational probabilities. The coherent functional is not a normal weight; the original first-order transport conditions must be retained. This removes a global clock prior from the specified predictions, not the supplied clock structure or physical state.
+
 **Sequential continuation:** [Interventions and records](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) now supplies the missing sequential statistics for finite inner instruments: an explicit algebraic unitary completion, selective updates, feedback, persistent constraint-commuting record observables, and clock-refinement invariance. It distinguishes classical-record predictions from coherent implementation data needed for eraser experiments. The underlying clock/state/transport choices remain supplied.
 
 **Constructed:** clock-relative unitary change inside one zero-constraint state; a faithful algebra of Dirac observables in the flat case; a holonomy classification in the general finite case; gauge covariance; a general C*-algebra extension; and a unique, gapped finite preparation built from the preceding AKLT law. Exact rational checks cover nontrivial changing correlations and coherence, not experience labels.

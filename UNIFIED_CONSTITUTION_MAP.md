@@ -62,6 +62,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Instrument/record bridge:** [The sequential construction](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) now gives an explicit algebraic unitary for each finite inner Kraus family and derives the full recorded multi-time distribution inside a stationary constraint history. Feedback, persistence, record transport, and restricted clock refinement are handled without identifying records with the events they record. Cross-outcome eraser experiments require coherent implementation data beyond an abstract CP instrument.
 
+**Unbounded-clock bridge:** [The infinite-clock construction](INFINITE_RELATIONAL_CLOCK.md) connects the algebraic system state to an explicit group-averaged physical space, coherent finite-window states, and normalized probabilities on infinite persistent-record strings. No global clock prior or infinite product evolution is required for those predictions. A normal invariant joint clock state and a normal coherent clock weight are excluded in the specified regular representation; generalized histories and first-order transport conditions are used openly instead.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

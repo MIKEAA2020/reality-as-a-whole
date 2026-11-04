@@ -1,0 +1,95 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational; finite cores only",
+  "rigging": "group average, quotient null vectors, shift invariance and Dirac intertwining",
+  "second_order_warning": "affine distribution solves C but is not shift invariant",
+  "coherent_core": "positive; left/right Ward identities; conditional corner consistency",
+  "coherence_not_diagonal_weight": {
+    "off_diagonal_history": "1",
+    "off_diagonal_counting": "0"
+  },
+  "finite_window_boundary": [
+    {
+      "length": 1,
+      "constraint_energy": "2",
+      "squared_constraint_residual": "6"
+    },
+    {
+      "length": 2,
+      "constraint_energy": "1",
+      "squared_constraint_residual": "2"
+    },
+    {
+      "length": 3,
+      "constraint_energy": "2/3",
+      "squared_constraint_residual": "4/3"
+    },
+    {
+      "length": 8,
+      "constraint_energy": "1/4",
+      "squared_constraint_residual": "1/2"
+    },
+    {
+      "length": 16,
+      "constraint_energy": "1/8",
+      "squared_constraint_residual": "1/4"
+    },
+    {
+      "length": 32,
+      "constraint_energy": "1/16",
+      "squared_constraint_residual": "1/8"
+    }
+  ],
+  "normal_weight_nonclosability_witness": [
+    {
+      "length": 1,
+      "l2_norm_squared": "1",
+      "history_form": "1"
+    },
+    {
+      "length": 2,
+      "l2_norm_squared": "1/2",
+      "history_form": "1"
+    },
+    {
+      "length": 8,
+      "l2_norm_squared": "1/8",
+      "history_form": "1"
+    },
+    {
+      "length": 64,
+      "l2_norm_squared": "1/64",
+      "history_form": "1"
+    },
+    {
+      "length": 512,
+      "l2_norm_squared": "1/512",
+      "history_form": "1"
+    }
+  ],
+  "record_process": {
+    "first_two_events": [
+      [
+        "81/625",
+        "144/625"
+      ],
+      [
+        "256/625",
+        "144/625"
+      ]
+    ],
+    "tail_scalar_kraus_probabilities": [
+      "9/25",
+      "16/25"
+    ],
+    "prefix_normalization_and_consistency_through_length": 7,
+    "infinite_extension": "analytic cylinder-algebra / Kolmogorov theorem"
+  },
+  "relational_event_probabilities": "independent of every tested nonempty window",
+  "not_claimed": [
+    "a normalized stationary normal state of the infinite clock",
+    "a normal coherent clock weight",
+    "a derived clock or physical arrow",
+    "full gravitational time, outcome selection, or phenomenal ownership"
+  ]
+}
