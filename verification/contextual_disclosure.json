@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational complex; no floating point",
+  "contextuality": {
+    "contexts": 6,
+    "local_joint_outcome_probabilities_checked": 48,
+    "nonzero_outcomes_per_context": 4,
+    "each_nonzero_probability": "1/4",
+    "shared_observable_marginals_agree": true,
+    "one_common_quantum_state": "I_4/4",
+    "context_product_signs": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      -1
+    ],
+    "noncontextual_value_assignments_exhausted": 512,
+    "assignments_satisfying_all_six_constraints": 0,
+    "maximum_constraints_satisfied": 5
+  },
+  "records": {
+    "specified_dynamics": "CNOT(S,A) followed by CNOT(A,B)",
+    "joint_record_probabilities": {
+      "00": "1/2",
+      "01": "0",
+      "10": "0",
+      "11": "1/2"
+    },
+    "each_record_Z_expectation": "0",
+    "record_agreement_ZA_ZB_expectation": "1",
+    "conditional_matching_record_probability": "1",
+    "global_XXX_coherence_before_pinching": "1",
+    "global_XXX_coherence_after_pinching": "0",
+    "record_statistics_preserved_by_pinching": true,
+    "global_state_preserved_by_pinching": false,
+    "actual_outcome_selected": false,
+    "decoherence_or_long_term_record_robustness_modelled": false
+  },
+  "scope": {
+    "standard_quantum_results_not_novel_theorems": true,
+    "physical_subject_boundary_derived": false,
+    "phenomenal_character_derived": false,
+    "absolute_awareness_proved": false,
+    "physical_laws_or_initial_state_derived": false,
+    "zero_residue_constitution_supplied": false
+  }
+}

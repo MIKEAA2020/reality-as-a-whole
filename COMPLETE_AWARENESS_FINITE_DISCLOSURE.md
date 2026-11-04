@@ -84,6 +84,8 @@ A strong thesis identifying the absolute and every mode as one identical subject
 
 ## 4. A worked finite-disclosure case
 
+**Quantum continuation:** [Contextual disclosure](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) replaces part of the stipulated access mask below with a specified unitary record interaction. It derives compatible record statistics and conditional agreement without deleting global coherence. A Peres–Mermin witness also shows why the Boolean example below cannot be generalized to context-independent definite values for every quantum observable. Neither construction identifies physical readout with acquaintance, selects an actual outcome, or proves absolute awareness. The philosophical scope proposal remains a conjecture.
+
 Consider two actual local occurrences. One mode has direct access to a visual orientation p but no access to a second occurrence's tone q. Another has access to q but not p. The example supplies these scopes provisionally to examine consistency; it does not discover two subjects from physical data.
 
 The whole completely knows both occurrences, their qualities, their owners, and the fact that neither local mode has the other's access. Neither local ignorance subtracts a truth from the whole. The first occurrence's local organization does not contain the tone merely because the whole comprehends both.
