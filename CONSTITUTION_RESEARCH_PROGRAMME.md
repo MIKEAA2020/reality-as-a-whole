@@ -116,6 +116,8 @@ Specify candidate physical state variables and transitions, not just externally 
 
 ### M3 — A concrete composition law
 
+**Positive lineage calculation:** [The channel-based transport construction](CAUSAL_RECORD_LINEAGE.md) replaces a supplied tracking table for an operational target with an interventionally derived relation. Four CPTP channels share one background state but have different exact response matrices. Symmetric routing shows why a unique label-independent bijection may require extra physical information; enlarging the realization to include relevant environmental records is not excluded. This separates carrier continuity, information transport, and experiential continuation. The D>0 support relation is not a subject-boundary or phenomenal-lineage law and does not pass M3.
+
 Propose a rule for togetherness, temporal extent, and continuation before seeing its preferred answer. State whether it permits overlap, multiple episodes, or a continuity structure other than a partition.
 
 **Success:** the rule survives the existing weak-link, copying, temporal-origin, realized-token, and event-versus-mechanism tests, and has independently warranted phenomenal consequences. Whole connectivity, report convergence, or recurrence alone is not sufficient warrant.

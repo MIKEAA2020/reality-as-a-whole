@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational complex; no floating point",
+  "channel_action_matrix_basis_checks": 64,
+  "background_frames_identical_for_all_four_channels": true,
+  "background": "I_4/4",
+  "channels": {
+    "identity": {
+      "trace_distance_response_output_by_input": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "causal_support_input_to_output": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "exact_intervention_response_checks": 84
+    },
+    "swap": {
+      "trace_distance_response_output_by_input": [
+        [
+          "0",
+          "1"
+        ],
+        [
+          "1",
+          "0"
+        ]
+      ],
+      "causal_support_input_to_output": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "exact_intervention_response_checks": 84
+    },
+    "symmetric_routing": {
+      "trace_distance_response_output_by_input": [
+        [
+          "1/2",
+          "1/2"
+        ],
+        [
+          "1/2",
+          "1/2"
+        ]
+      ],
+      "causal_support_input_to_output": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "exact_intervention_response_checks": 84
+    },
+    "reset": {
+      "trace_distance_response_output_by_input": [
+        [
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "causal_support_input_to_output": [],
+      "exact_intervention_response_checks": 84
+    }
+  },
+  "symmetric_channel_independent_input_output_permutation_symmetry": true,
+  "deterministic_bijective_continuations_invariant_under_these_symmetries": 0,
+  "many_to_many_causal_support_covariant": true,
+  "static_correlation_distinguished_from_interventional_dependence": true,
+  "scope": {
+    "transport_relation_derived_from_channels_not_identity_markers": true,
+    "tensor_factors_and_interventions_supplied": true,
+    "channels_or_quantum_laws_derived_from_absolute": false,
+    "physical_carrier_identity_derived": false,
+    "subject_continuity_derived": false,
+    "phenomenal_character_derived": false,
+    "full_environment_or_unique_channel_dilation_identified": false,
+    "standard_mathematics_not_metaphysical_breakthrough": true
+  }
+}

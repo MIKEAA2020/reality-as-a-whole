@@ -30,6 +30,8 @@ It does not follow that subject fusion or fission is possible, or that identity 
 
 ## 2. A less presumptive output for Γ
 
+**Worked physical continuation:** [Causal record lineage](CAUSAL_RECORD_LINEAGE.md) now derives transport relations from specified quantum channels rather than an input entity-continuation table. Identical background states support straight, exchanged, both-to-both, or absent operational transport; a symmetric effective channel admits no deterministic bijective continuation covariant under its independent input/output swap symmetries. This concerns information transport on the declared basis, not subject identity, physical carrier persistence, or a proof that no richer realization can ground continuation. It gives an explicit reason not to assume that L must be a bijection, but does not identify L with causal support.
+
 For a realized process P, let a candidate output consist of:
 
 \[

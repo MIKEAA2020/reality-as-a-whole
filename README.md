@@ -30,6 +30,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 ## Current physical–phenomenal work
 
+- [Causal record lineage derived from channels](CAUSAL_RECORD_LINEAGE.md): identical background states with four different operational transport relations; intervention-based routing, correlation control, and a symmetry obstruction to unique bijective tracking. Distinguishes carrier, content, and experiential continuity; does not derive subjecthood.
+
 - [Contextual disclosure: a worked quantum record constitution](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md): one quantum state with compatible local contexts but no global noncontextual valuation; physically generated record agreement and bounded readout without global subtraction. Exact standard mathematics, not a subject/quality derivation or proof of an aware absolute.
 
 - [Probability and updating reconstructed](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md): positive derivation from effect/refinement premises to algebraic states and the finite Born form; exact qubit obstruction and same-readout/different-instrument witness. General-algebra scope, not a consciousness or zero-residue proof.
