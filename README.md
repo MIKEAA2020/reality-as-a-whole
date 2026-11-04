@@ -50,6 +50,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Demonstrated workspace/algebra/channel bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md): exact finite observable embedding, controlled reduction, state correspondence, CP/TP extension, and explicit loss/non-equivalence witnesses.
 
+- [Explicit infinite coherence construction](INFINITE_COHERENCE_CONSTRUCTION.md): a stated AKLT local projector law, all-size ground-space solution, unique periodic ground states and controlled infinite limit, quasi-local state and GNS construction, exact entanglement spectra and correlations. Includes a standard-library exact-arithmetic implementation; no experiential identity is assigned by definition.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

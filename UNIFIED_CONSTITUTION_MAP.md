@@ -56,6 +56,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Now executable:** [The explicit algebra/channel bridge](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) instantiates the full 75-state workspace and 15-state reduced core, including states, controlled pullbacks, exact reduction, and a measure-and-prepare quantum extension. Preservation holds on the reduced observable subalgebra; full maps can differ and off-diagonal quantum information is lost.
 
+**Infinite construction:** [The AKLT coherence construction](INFINITE_COHERENCE_CONSTRUCTION.md) extends the mathematical work to a genuinely infinite quasi-local system. A fixed local projector law determines unique periodic ground states and a controlled local thermodynamic limit; compatible finite states extend uniquely to the specified C*-algebra, with a cyclic GNS carrier unique up to unitary equivalence. This is a spin-chain construction, not a relativistic AQFT net, a neural embedding, or an identification of algebraic restrictions with phenomenal owners.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
