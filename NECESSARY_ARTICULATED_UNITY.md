@@ -148,6 +148,8 @@ This supplies a concrete schema linking quality, local scope, physical action, a
 
 ## 8. Completeness, perfection, and privation without equivocation
 
+[The decombination/privation consolidation](DECOMBINATION_PRIVATION_CONSOLIDATION.md) strengthens the dependence direction: positive constitution must ground actual scope, while non-disclosure and missing due fulfillment are understood relative to it. The dependence of lack on positive actuality does not imply that fullness needs an actual defect for self-knowledge. Modes and appearances preserve the experiential datum without automatically settling subject incidence.
+
 The recent clarification governs the stress test: **badness is not a positive rival ingredient to be accommodated alongside the absolute**. A real absence is not a positively existing constituent. Darkness can be truly present as a condition of absent illumination without a second substance of darkness; similarly, lack of due regard need not be another power.
 
 Distinguish:

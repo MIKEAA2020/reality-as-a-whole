@@ -10,6 +10,8 @@ This is a conceptual comparison, not an empirical test, a complete theory of pai
 
 ## 1. The candidate stated without switching meanings
 
+**Constitutional clarification:** [The decombination/privation audit](DECOMBINATION_PRIVATION_CONSOLIDATION.md) distinguishes the dependent description of a lack from the positive constitution of its bearer. Privation does not supply a subject boundary or prove that actual deficiency is necessary for absolute self-knowledge. A locally missing due fulfillment neither automatically makes the whole deficient nor becomes fulfilled merely because the whole comprehends it.
+
 Distinguish two predicates:
 
 - **Positive actuality:** a being or occurrence has actual constitution and powers.

@@ -15,6 +15,8 @@ This develops Gate 1 / W1–W2 of the [governing framework](ABSOLUTE_CONSTITUTIO
 
 ## 2. Ontological commitments, without a production story
 
+**Appearance and privation clarification:** [The supplied-dialogue consolidation](DECOMBINATION_PRIVATION_CONSOLIDATION.md) distinguishes real appearing from independently substantial ownership. Rejecting literal cosmic fission does not remove the local-scope constitution task. The local mode is positive actuality, not an absence; its non-disclosure is a limitation relative to that actuality, not a power that produces it. A deficiency is not shown necessary merely by invoking contrast in self-knowledge.
+
 ### C1 — One actuality, not an aggregate
 
 All genuine experience and organization belong to the one absolute. A finite mode is not another independently actual substance, an external observer, or a manufactured lesser world. The whole is not formed by adding its local modes together.
