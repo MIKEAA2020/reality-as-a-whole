@@ -12,6 +12,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 - [Necessary articulated unity](NECESSARY_ARTICULATED_UNITY.md): active constitutive proposal for qualities, finite perspectives, and their relations; fixed simplicity, privative absence, and the no-independent-selector requirement.
 
+- [Articulated self-presence](ARTICULATED_SELF_PRESENCE.md): positive local reference for qualitative unity without an added inner observer; an explicit composition argument against selecting finite subjects by maximal content inclusion inside an encompassing field. Philosophical development, not a completed essence or physical–phenomenal derivation.
+
 - [Complete awareness and finite disclosure](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md): active nonproductive candidate, worked local-awareness case, finite logical witness, and perfection–privation stress test.
 
 - [Perspective, plenitude, and one complete actuality](SIMULATION_PLENITUDE_CONSOLIDATION.md): finite disclosure without a simulator, creation, or execution; literal simulation models are separate conditional comparisons.

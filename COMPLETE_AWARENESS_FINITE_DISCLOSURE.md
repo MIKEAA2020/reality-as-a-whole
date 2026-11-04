@@ -41,6 +41,8 @@ This candidate does not posit two copies of the pain, one local and one global. 
 
 ### C5 — No automatic transfer of access
 
+**Composition consequence:** [The self-presence argument](ARTICULATED_SELF_PRESENCE.md#5-a-composition-consequence-maximal-content-containment-cannot-individuate-finite-modes-inside-an-encompassing-field) shows why maximality under content inclusion cannot select proper finite subjects if one encompassing field contains every candidate. This concerns that specific containment order, not every causal exclusion rule. The present mode-dependent proposal must therefore supply a positive acquaintance/ownership constitution, rather than treat finite subjects as maximal subsets or infer their independence from the difficulty.
+
 Non-independent reality does not mean unrestricted local access. A truth about one mode may be globally known while unavailable to another mode. Full self-presence of a local content does not automatically become local memory, inference, report, or the contents of every other perspective.
 
 The relation must ultimately be grounded in actual organization, not in an unexplained masking operation. There is no temporal step in which complete awareness is first present locally and then removed.

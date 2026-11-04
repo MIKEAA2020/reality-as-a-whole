@@ -11,6 +11,8 @@ The proposal is substantive in three ways: it excludes strict undifferentiation 
 
 ## 2. What completeness requires—and what remains to be determined
 
+**Positive experiential reference:** [Articulated self-presence](ARTICULATED_SELF_PRESENCE.md) starts from jointly experienced qualitative differentiation, rather than bare occurrence or an added reflective observer. This is local first-person warrant, not proof of a universal subject or necessary actuality. Its composition argument shows that if the whole is an encompassing qualitative field, maximality under content inclusion cannot also select proper finite subjects. A positive mode-dependent constitution remains necessary; neither subset selection nor extra scope indices supply it.
+
 The argument for articulation is:
 
 1. Actual experience has determinate differences: pain is not joy, one local disclosure is not another, and an appearance of a difference is itself a determinate occurrence.

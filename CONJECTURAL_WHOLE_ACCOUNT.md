@@ -90,6 +90,8 @@ That conjecture does not require treating every microprocess as a little subject
 
 ### Cosmopsychism or whole-priority qualitative unity
 
+**Local warrant and a composition constraint:** [Articulated self-presence](ARTICULATED_SELF_PRESENCE.md) distinguishes actual jointly present qualitative differences from a global metaphysical extrapolation. Its argument against content-maximality individuation inside an encompassing field sharpens the whole-priority candidate: local ownership needs an intrinsically grounded relation beyond mere content containment. This is a philosophical refinement, not a derivation of the absolute or a discovered phenomenal identity law.
+
 This deserves retention as a serious possible completion, not dismissal merely because decombination is unfinished. It offers a way of avoiding the picture in which independent micro-subjects must be assembled into a larger subject, and a candidate setting for finite perspectives as internal differentiations.
 
 But a common constitutive nature and one phenomenal subject are distinct hypotheses. The former can also support multiple real episodes without an encompassing subject. Consequently the governing self-knowing absolute must not be treated as already supplying a particular phenomenal containment or subject-identity law. Whole-priority is the preferred development here; its detailed subject architecture remains to be justified.
