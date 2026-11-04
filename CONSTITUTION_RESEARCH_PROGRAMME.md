@@ -122,11 +122,15 @@ GWT can contribute a mechanism and proposed constraints here, but “globally av
 
 ### M4 — A qualitative law with independent constraints
 
+**Exact sufficiency condition:** [Target factorization](COMMON_CONSTITUTION_CLOSURE.md#2-an-exact-sufficiency-criterion) requires the anchored target to be constant on the proposed basis fibers. This is necessary and sufficient for a map on the realized support, not for its constitutive warrant. Circular report codes and unique timestamps show why sufficiency alone is weak; the actual recorded-onset check establishes no experiential identity.
+
 Specify chi on the candidate domain. Use independent anchors, qualitative relations, and interventions; reserve target conditions for predictions rather than fitting every case. Distinguish the calibration of a map from explaining its identity.
 
 **Success:** the law excludes serious alternative identifications and predicts held-out contrasts without changing its parameters or equivalence relation to protect itself. Geometry covariance alone is not success.
 
 ### M5 — A constitutive justification
+
+[The closure argument](COMMON_CONSTITUTION_CLOSURE.md) distinguishes uniqueness given a fixed basis/target from an explanation of why that determination belongs to the concrete nature. Token identity, property identity, and explanatory unification are distinct; neither declaring identity nor naming a dependence relation removes residue.
 
 Compare the integrated account with non-independent realization, correlation-only, and enlarged-intrinsic-nature rivals. Explain why its powers, qualities, and incidence belong to this one occurrence rather than being linked by an unexplained dictionary.
 

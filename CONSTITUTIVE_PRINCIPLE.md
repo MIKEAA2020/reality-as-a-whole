@@ -25,6 +25,8 @@ Thus the missing inference is not another link from a lattice current to an ener
 
 ## 2. A precise schema, with the missing content exposed
 
+[Common-constitution closure](COMMON_CONSTITUTION_CLOSURE.md) now states the exact fiber criterion for a target to factor through a proposed physical description, applies it to recorded reports, and separates representational sufficiency from intrinsic determination. A physically proven reduction preserves a phenomenal target only with the further independently warranted target-preservation premise.
+
 Let X denote a fully specified candidate **concrete realization**, not just an abstract program, a Hamiltonian formula, or an observable summary. Its candidate specification must state its actual history, constitution, relevant dynamics, and realization relations; whether a particular feature is relevant is itself to be justified.
 
 Seek a unified constitutive theory C with two explanatory presentations:
