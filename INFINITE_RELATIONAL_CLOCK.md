@@ -196,3 +196,8 @@ For records it continues the previous correlated two-event qubit experiment, the
 **Still supplied:** A, omega, the clock group Z, the transports and instruments, blank resources, and the interpretation of this clock. Clock selection, a continuum metric, an entropy arrow, arbitrary-clock equivalence, gravitational constraints, actual outcome selection, qualitative ownership, and the necessary actuality and perfection of the whole remain open. The unboundedness of the clock is not a proof that it is fundamental.
 
 This is a constructive infinite-clock extension and an obstruction theorem within M0/W1-W6, not a completed zero-residue account or a new independent programme.
+
+
+## Continuation: selecting transport from modular structure
+
+[Modular clock selection](MODULAR_CLOCK_SELECTION.md) constructs a proper half-sided algebra inclusion whose two modular logarithms determine a positive translation generator. This addresses the previously supplied transport, conditional on a declared localization/state pair. Its faithful normal modular input is the vacuum state on the local algebra, **not** the non-normal coherent clock functional W above. The continuation also handles implementers outside the local algebra and gives explicit two-event record predictions.

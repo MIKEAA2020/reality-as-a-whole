@@ -58,6 +58,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Infinite relational clock](INFINITE_RELATIONAL_CLOCK.md): normal-state obstruction, explicit group-averaged physical space, a positive coherent finite-core functional, window-independent event probabilities, boundary estimates, and a normalized infinite persistent-record measure. The generalized clock history is not misidentified as a normal state or normal weight.
 
+- [Modular clock selection](MODULAR_CLOCK_SELECTION.md): explicit proper half-sided modular inclusion, positive translation recovered from two modular logarithms, AKLT finite-block obstruction, state-dependent cocycles, and Weyl-order record predictions. Localization, state, orientation and scale inputs are audited rather than called derived physical time.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

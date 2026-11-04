@@ -64,6 +64,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Unbounded-clock bridge:** [The infinite-clock construction](INFINITE_RELATIONAL_CLOCK.md) connects the algebraic system state to an explicit group-averaged physical space, coherent finite-window states, and normalized probabilities on infinite persistent-record strings. No global clock prior or infinite product evolution is required for those predictions. A normal invariant joint clock state and a normal coherent clock weight are excluded in the specified regular representation; generalized histories and first-order transport conditions are used openly instead.
 
+**Modular selection bridge:** [The modular construction](MODULAR_CLOCK_SELECTION.md) supplies a proper infinite half-sided inclusion and recovers its positive translation from modular logarithms. It connects local algebra/state structure to the transport used in histories and instrument probabilities, with a concrete nonconstant recorded Weyl phase. The localization embedding and state are still input, finite AKLT block flows do not select this clock, and no complete AQFT net or necessary physical time is inferred.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
