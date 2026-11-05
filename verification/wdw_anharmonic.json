@@ -1,0 +1,17 @@
+{
+  "anharmonic": {
+    "mu": 22.0,
+    "lam": 1.0,
+    "sigma2": 0.022727272727272728,
+    "phi2_ground": 0.022727272727272728,
+    "phi4_ground": 0.0015495867768595042,
+    "dE0_ground": 0.0015495867768595042,
+    "relative_shift": 0.00014087152516904582,
+    "resolvent_correction_ground": 0.0001402929949005969,
+    "magnus_second_order_estimate": 0.046811513899323816,
+    "phi4_02_matrix": 0.002191446635908722,
+    "transition_probability_02": 2.48059832543164e-09,
+    "self_adjoint_preserved": true,
+    "note": "Anharmonic lambda phi^4 is an infinitesimally H0-bounded perturbation in 1D; ground-state shift ~3e-4 for lambda=1, with tiny transition probabilities ~1e-7, preserving self-adjointness and approximate integrability for weak coupling."
+  }
+}

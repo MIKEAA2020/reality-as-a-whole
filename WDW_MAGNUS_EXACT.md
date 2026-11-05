@@ -75,9 +75,9 @@ This completes the quadratic-sector chain:
 Limitations:
 
 - Commuting-Hamiltonians integrability relies on the dressing being a pure
-  frequency scaling. Anharmonic perturbations (e.g. \(\phi^4\)) or mode-mixing
-  (angular tensor coupling) break this commutativity and generate non-zero
-  Magnus corrections.
+  frequency scaling. [WdW anharmonic self-interaction](WDW_ANHARMONIC.md)
+  quantifies the small corrections from \(\lambda\phi^4\); mode-mixing from
+  angular tensor coupling is treated in [WdW angular coupling](WDW_ANGULAR_COUPLING.md).
 - Weak-field regime only; strong-field collapse introduces horizon/singularity
   structure that invalidates the simple quadratic reduction.
 - Phenomenal constitution remains open.
