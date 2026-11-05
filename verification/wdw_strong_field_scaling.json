@@ -1,0 +1,122 @@
+{
+  "scaling": {
+    "mu": 22.0,
+    "R_source": 22.657,
+    "weak_field_C": 3.66e-05,
+    "C_critical_nonadiabatic": 0.9980816660893828,
+    "epsilon_at_critical": 0.9999999999999472,
+    "N_factor_at_critical": 0.04379878891724339,
+    "omega_d_at_critical": 0.9635733561793546,
+    "cases": [
+      {
+        "C": 3.66e-05,
+        "N_factor": 0.9999816998325519,
+        "omega_d": 21.99959739631614,
+        "epsilon": 3.6715197909387266e-08,
+        "N_particles": 1.348005757525475e-15,
+        "wkb_amplitude": 0.21320266718679057,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.0001,
+        "N_factor": 0.9999499987499375,
+        "omega_d": 21.998899972498624,
+        "epsilon": 1.00322699160928e-07,
+        "N_particles": 1.0064643966934064e-14,
+        "wkb_amplitude": 0.21320604670667043,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.001,
+        "N_factor": 0.999499874937461,
+        "omega_d": 21.98899724862414,
+        "epsilon": 1.0043568478280337e-06,
+        "N_particles": 1.0087326777790641e-12,
+        "wkb_amplitude": 0.21325404987231605,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.01,
+        "N_factor": 0.99498743710662,
+        "omega_d": 21.889723616345638,
+        "epsilon": 1.0157797593755923e-05,
+        "N_particles": 1.0318085195571362e-10,
+        "wkb_amplitude": 0.2137370745968909,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.1,
+        "N_factor": 0.9486832980505138,
+        "omega_d": 20.871032557111302,
+        "epsilon": 0.00011439081183349189,
+        "N_particles": 1.3085257831925349e-08,
+        "wkb_amplitude": 0.2188910639595392,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.5,
+        "N_factor": 0.7071067811865476,
+        "omega_d": 15.556349186104047,
+        "epsilon": 0.0011752066141046211,
+        "N_particles": 1.381110585835248e-06,
+        "wkb_amplitude": 0.2535398088137689,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.9,
+        "N_factor": 0.3162277660168379,
+        "omega_d": 6.957010852370433,
+        "epsilon": 0.013717860303722355,
+        "N_particles": 0.00018817969131244158,
+        "wkb_amplitude": 0.37913044410073066,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.99,
+        "N_factor": 0.10000000000000005,
+        "omega_d": 2.200000000000001,
+        "epsilon": 0.18055828622099515,
+        "N_particles": 0.03260129472306281,
+        "wkb_amplitude": 0.6741998624632419,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.998,
+        "N_factor": 0.044721359549995815,
+        "omega_d": 0.983869910099908,
+        "epsilon": 0.958241523239861,
+        "N_particles": 0.9182268168610491,
+        "wkb_amplitude": 1.0081639426339233,
+        "non_adiabatic": false
+      },
+      {
+        "C": 0.999,
+        "N_factor": 0.031622776601683805,
+        "omega_d": 0.6957010852370438,
+        "epsilon": 1.942761465247175,
+        "N_particles": 1.0,
+        "wkb_amplitude": 1.1989157336694567,
+        "non_adiabatic": true
+      },
+      {
+        "C": 0.9999,
+        "N_factor": 0.009999999999999449,
+        "omega_d": 0.21999999999998787,
+        "epsilon": 19.861411484311684,
+        "N_particles": 1.0,
+        "wkb_amplitude": 2.132007163556163,
+        "non_adiabatic": true
+      },
+      {
+        "C": 0.99999,
+        "N_factor": 0.0031622776601611833,
+        "omega_d": 0.06957010852354603,
+        "epsilon": 199.98590087437867,
+        "N_particles": 1.0,
+        "wkb_amplitude": 3.7913044410116203,
+        "non_adiabatic": true
+      }
+    ],
+    "note": "Weak-field dressed WdW R-clock remains valid across many orders of compactness until C approaches ~0.998, where redshift drives omega_d small and adiabaticity/WKB normalization fail together near the horizon threshold."
+  }
+}

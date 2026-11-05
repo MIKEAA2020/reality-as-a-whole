@@ -54,4 +54,7 @@ Limitations:
 - 1D quantum-mechanical perturbation (homogeneous mode); multi-mode \(\phi^4\)
   can drive mode–mode energy transfer in higher dimensions, though suppressed
   by the same \(\lambda/\mu^2\) factor per mode.
-- Strong-field collapse and phenomenal constitution remain open.
+
+[WdW strong-field scaling](WDW_STRONG_FIELD_SCALING.md) maps the compactness
+threshold where weak-field adiabaticity fails near the horizon (\(C\approx0.998\)).
+Sub-horizon singularity resolution and phenomenal constitution remain open.
