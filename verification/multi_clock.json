@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational Fourier moments and Gaussian rational matrices",
+  "zero_curvature_checks": 4,
+  "two_route_endpoint_transport_checks": 256,
+  "structure_function_at_test_point": "6/17",
+  "raw_update_endpoints_y": [
+    "10/17",
+    "1/2"
+  ],
+  "compensated_parameter": "16/17",
+  "naive_rigging_gh_hg": [
+    "3/10",
+    "0"
+  ],
+  "jacobian_corrected_rigging_gram": [
+    [
+      "1",
+      "0",
+      "1"
+    ],
+    [
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0",
+      "1"
+    ]
+  ],
+  "anchored_record_probabilities_both_routes": [
+    [
+      "2816208/3570125",
+      "19557/142805"
+    ],
+    [
+      "1568/142805",
+      "225792/3570125"
+    ]
+  ],
+  "incompatible_constant_generator_probabilities": [
+    [
+      "364176/714025",
+      "2529/28561"
+    ],
+    [
+      "1696/28561",
+      "244224/714025"
+    ]
+  ],
+  "analytic_not_finite_discretization": [
+    "self-adjoint noncommuting D1,D2 and common test core",
+    "[D1,D2]=-i beta(x) D2",
+    "positive corrected averaging P1 f P2=P2 f P1",
+    "physical quotient and strong selected Dirac algebra"
+  ],
+  "not_claimed": [
+    "gravitational hypersurface-deformation algebra",
+    "unique rigging for the full kinematic commutant",
+    "autonomous clocks or event triggers",
+    "physical clock selection"
+  ]
+}

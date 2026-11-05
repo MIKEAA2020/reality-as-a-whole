@@ -80,6 +80,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Coupled-rate time bridge:** [The interacting-rate construction](INTERACTING_CLOCK_RATE.md) replaces scalar clock velocity by a positive system operator noncommuting with the system term. Exact spectral group averaging derives a physical flux metric and unitary dressed dynamics; a full spectral transform supplies strong constraint-commuting observables and invariant intervention records. Bare conditional normalization is a distinct filtering prescription. This does not solve rate zeros or gravitational refoliation.
 
+**Multiple-constraint time bridge:** [Two-clock closure and averaging](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) gives an explicit noncommuting first-class pair with a nonconstant structure function. The physical quotient and strong selected observables support endpoint-consistent records. An averaging counterexample and exact Jacobian correction connect clock choice to the physical measure. No gravitational hypersurface-deformation algebra or general refoliation theorem is inferred.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

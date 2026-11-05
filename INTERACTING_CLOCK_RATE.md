@@ -158,3 +158,8 @@ This model therefore extends the direct time construction beyond uncoupled scala
 It does not establish refoliation invariance. There is one constraint, so no nontrivial algebra of multiple local lapses or gravitational structure functions has been solved. N and H are supplied finite matrices, time independent; rate zeros/sign changes, unbounded matter generators, realistic clock resources and gravitational back-reaction remain open. No preferred actual clock or phenomenal passage is inferred.
 
 The construction remains within M0/W1-W6 and the common no-residue objective. It supplies a further explicit constrained-time result, not completion of that objective.
+
+
+## Continuation: more than one constraint
+
+[The two-clock construction](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) supplies a noncommuting self-adjoint constraint pair with a nonconstant structure function, consistent endpoint transport and a corrected positive averaging measure. It exhibits why a naive product of constraint averages fails. This addresses a specific multiple-clock consistency problem, not the gravitational constraint algebra.
