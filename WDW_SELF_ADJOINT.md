@@ -62,9 +62,10 @@ Limitations:
 - One-/multi-mode radial Hamiltonians, not full 3+1 quantum gravity.
 
 [WdW angular coupling](WDW_ANGULAR_COUPLING.md) treats non-spherical/angular
-sectors (tensor GW coupling) at multipole level, finding strong suppression in
-weak field. Strong-field singularity resolution and phenomenal constitution
-remain open.
+sectors at multipole level, finding strong suppression in weak field, and
+[WdW exact Magnus propagator](WDW_MAGNUS_EXACT.md) proves the quadratic dressed
+flow is exactly the integrated phase with no non-adiabatic corrections. Strong-field
+singularity resolution and phenomenal constitution remain open.
 
 ## 5. Verification
 
