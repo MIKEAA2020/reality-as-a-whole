@@ -1,0 +1,45 @@
+{
+  "relational_perspective": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "omega0": 22.0,
+    "omegad": 21.9995974,
+    "sigma": 0.15075567228888181,
+    "A0": 0.21320071635561041,
+    "Ad": 0.21320266716894004,
+    "phase_Phi": 498.4494391459,
+    "conditional_norm0": 0.9999999990434898,
+    "conditional_normd": 0.999999999043165,
+    "ground_state_overlap_different_omega": 0.9999999980657257,
+    "probability_within_sigma": 0.6826854592782375,
+    "expected_gaussian": 0.6826894921370859,
+    "coherent_state_overlaps": [
+      {
+        "T": 0,
+        "overlap_ground": 1.0,
+        "overlap_coh_alpha1": 1.0
+      },
+      {
+        "T": 5.66425,
+        "overlap_ground": 0.9999999980657257,
+        "overlap_coh_alpha1": 0.6049510239248302
+      },
+      {
+        "T": 11.3285,
+        "overlap_ground": 0.9999999980657257,
+        "overlap_coh_alpha1": 0.2219724615578075
+      },
+      {
+        "T": 16.99275,
+        "overlap_ground": 0.9999999980657257,
+        "overlap_coh_alpha1": 0.13534079583245662
+      },
+      {
+        "T": 22.657,
+        "overlap_ground": 0.9999999980657257,
+        "overlap_coh_alpha1": 0.22547590533326384
+      }
+    ],
+    "note": "Conditioning the global WdW wavefunction on areal clock reading R yields the normalized positive-frequency scalar wavefunction via KG conservation; relational probabilities reproduce the Born rule and give finite temporal perspectives without external time."
+  }
+}

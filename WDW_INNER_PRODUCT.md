@@ -66,6 +66,10 @@ Negative-frequency solutions carry negative Klein–Gordon norm, as expected in 
 WdW/KG framework; positive-frequency projection gives the one-particle Hilbert
 space of the dressed scalar without external time.
 
+[Relational temporal perspectives](RELATIONAL_PERSPECTIVE.md) uses these
+conserved-norm states to construct conditional experienced states at clock
+reading \(R\) via Page–Wootters/relational-QM conditioning.
+
 ## 4. Significance
 
 This is the first rigorous physical-inner-product statement on the quantum
