@@ -1,0 +1,33 @@
+{
+  "cases": [
+    {
+      "name": "nonlinear_binding_24",
+      "epsilon": 0.001,
+      "mu": 22.0,
+      "kappa": 484.0,
+      "picard_iterations": 14,
+      "picard_residual": 1.9984014443252818e-15,
+      "m_asymptotic_ADM": 23.680539372385038,
+      "max_compactness_2mR": 0.048507241543530366,
+      "horizon_present": false,
+      "max_hamiltonian_constraint_residual": 0.07377531571350504,
+      "static_lapse_recovered": "e^nu = sqrt(1-2m/R) recovers Birkhoff static Schwarzschild lapse in areal coordinates.",
+      "relational_clock_variable": "Areal radius R and Misner-Sharp mass m are Dirac observables in spherical midisuperspace."
+    },
+    {
+      "name": "weak_backreaction",
+      "epsilon": 3e-05,
+      "mu": 22.0,
+      "kappa": 484.0,
+      "picard_iterations": 4,
+      "picard_residual": 2.220446049250313e-16,
+      "m_asymptotic_ADM": 0.019408446377168636,
+      "max_compactness_2mR": 4.0550500078673224e-05,
+      "horizon_present": false,
+      "max_hamiltonian_constraint_residual": 6.0467112050317825e-05,
+      "static_lapse_recovered": "e^nu = sqrt(1-2m/R) recovers Birkhoff static Schwarzschild lapse in areal coordinates.",
+      "relational_clock_variable": "Areal radius R and Misner-Sharp mass m are Dirac observables in spherical midisuperspace."
+    }
+  ],
+  "summary": "Non-static spherical midisuperspace: transforms conformally-flat isotropic initial data to areal (Misner-Sharp) coordinates, checks Einstein Hamiltonian constraint residual, and identifies R, m as relational variables that remain valid beyond the static Killing assumption. Static-lapse recovery is exact for phi_t=0."
+}

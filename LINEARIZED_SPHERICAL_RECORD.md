@@ -152,6 +152,10 @@ Still not supplied in the classical spherical analysis:
   possible.
 - Strong-field collapse beyond the linear/dynamical-time estimate.
 
+[The non-static midisuperspace continuation](NONSTATIC_SPHERICAL_MIDISUPERSPACE.md)
+identifies the relational variables (areal radius, Misner–Sharp mass) that
+remain valid beyond the static Birkhoff/Killing assumption.
+
 [The quantum static spherical continuation](QUANTUM_STATIC_SPHERICAL_CLOCK.md)
 constructs a symmetry-reduced physical Hilbert-space/Hamiltonian pair and
 proves a quantum relational bound in that sector; full quantum Einstein
