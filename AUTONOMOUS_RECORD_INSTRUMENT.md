@@ -270,3 +270,5 @@ Next substantive obligations are:
 4. Continue toward genuine gravitational constraints; no laboratory-clock construction substitutes for the refoliation problem.
 
 The gain is a finite-time recording instrument derived from an autonomous bounded-below Hamiltonian, with explicit passage/retention errors and a concrete reuse obstruction. It is neither a complete autonomous timekeeping apparatus nor the complete physical–phenomenal constitution.
+
+**Multi-event continuation:** [The one-clock record tape](AUTONOMOUS_RECORD_TAPE.md) now supplies a finite discrete observation sequence, derived write-angle errors and a global bound with explicit initial tape resources. It does not replace the outstanding continuous-time reservoir limit, reset engine or internal first-arrival problem.

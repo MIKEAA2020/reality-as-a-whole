@@ -68,6 +68,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Multiple clock constraints and measure](MULTI_CLOCK_CONSTRAINT_CLOSURE.md): exact self-adjoint noncommuting constraint pair with a nonconstant structure function, common physical quotient, strong selected Dirac algebra and consistent clock-update routes. An explicit non-Hermitian naive average is repaired by its clock Jacobian. This is not the gravitational hypersurface-deformation algebra.
 
+- [One-clock autonomous noisy record tape](AUTONOMOUS_RECORD_TAPE.md): a finite multi-event Hamiltonian with explicit blank/thermal tape resources, a derived noisy quantum instrument and hidden-state observation law, and a single full-tape physical-clock error bound. A sufficient accuracy/resource design covers any finite tape length; no continuous-time reservoir limit, internal first arrival or indefinite reuse is claimed.
+
 - [Autonomous finite-time detector–memory registration](AUTONOMOUS_RECORD_INSTRUMENT.md): one bounded-below, time-independent Hamiltonian derives a redundant record instrument with explicit passage/retention bounds, a finite thermal environment, a controlled entropy estimate and a same-environment reuse obstruction. An operational recording model, not a macroscopic cyclic clock or gravitational solution.
 
 - [Classical tick extraction and finite-time event clocks](CLASSICAL_TICK_READOUT.md): full Wadhia et al. paper/supplement audit; exact finite-time activity-clock variance, equilibrium integer accumulator, bounded processed-rate comparison and readout-error composition. Apparatus dissipation is not a universal per-tick lower bound; raw-data and RF energy reproduction remain unsupplied.
