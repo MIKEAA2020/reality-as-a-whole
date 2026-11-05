@@ -221,9 +221,9 @@ This supplies the promised worked **Hamiltonian clock–detector model with a qu
 
 What remains is consequential:
 
-- The system's free Hamiltonian is zero here. A noncommuting system Hamiltonian introduces energy-changing channels and needs a new coupled-channel analysis, not substitution into these degenerate-channel formulas.
+- The system's free Hamiltonian is zero here. [The energy-exchange extension](ENERGY_EXCHANGE_CLOCK.md) now supplies the required coupled-channel analysis and bounds; it is not obtained by substituting into these degenerate-channel formulas.
 - The readout is an asymptotic passage detector. A finite-time first-arrival detector with storage/decoherence needs its own model; it is not silently included.
 - The Hamiltonian, spatial geometry, mass, coupling and preparation are supplied. Stationarizing their dynamics does not derive them or solve refoliation.
 - The cold-atom tables still do not fix this coupling, incoming packet, image-level entropy or covariance. Their observed path-clock stalls motivate retaining missed events, but do not validate this detector Hamiltonian.
 
-The next substantive extension is energy exchange with a noncommuting system Hamiltonian while preserving the same complete outgoing instrument and controlled approximation. This remains direct M0/W1-W6 time work, not a derivation of consciousness, the Gamma/chi law or the necessary absolute.
+[The energy-exchange construction](ENERGY_EXCHANGE_CLOCK.md) supplies that noncommuting extension, including product-clock preparation, coherent outgoing channels and a controlled full-instrument limit. Finite-time detector delivery/storage remains a separate task. This remains direct M0/W1-W6 time work, not a derivation of consciousness, the Gamma/chi law or the necessary absolute.
