@@ -165,3 +165,8 @@ Thus the modular work has not selected physical time merely by providing automor
 **Not resolved:** generic interacting/gravitational clock choices, global monotonicity and turning points, continuum Hamiltonian-constraint/refoliation algebra, state/localization selection, metric calibration or a preferred physical time. The event order and finite clock-system split remain supplied. A two-reading quantum reference frame is not yet a realistic autonomous clock.
 
 This is direct problem-of-time progress within M0/W1-W6, using established constrained-system and quantum-reference-frame mathematics. It is not a solution of quantum gravity, phenomenal passage, necessary actuality or the full no-residue account.
+
+
+## Continuation: clocks with turning points
+
+[The turning-clock atlas](TURNING_CLOCK_ATLAS.md) replaces a single global reading by orientation-resolved cosine/sine charts of a continuum periodic constrained history. It derives the coordinate weights, regular transitions and recorded probabilities through a turn, and distinguishes orientation loss from a coordinate singularity. Recurrence remains a separate global clock limitation.

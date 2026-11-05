@@ -62,6 +62,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Clock-choice equivalence](CLOCK_CHOICE_EQUIVALENCE.md): direct problem-of-time continuation comparing noncommuting clock readings of one fixed constraint. Ideal-frame criterion, weighted constraint transformation, invariant anchored intervention records, lossy-clock counterexample and probabilistic inversion of an imperfect reading. Not a solution of gravitational refoliation or selection of physical time.
 
+- [Turning-clock atlas](TURNING_CLOCK_ATLAS.md): continuum periodic constraint, genuinely turning cosine readings, regular orientation-resolved cosine/sine charts, Jacobian-correct measures and invariant event records across a turn. Discarding orientation loses information; full-cycle gluing does not supply an unbounded winding counter.
+
 - [Modular local observable net](MODULAR_LOCAL_NET.md): bounded-interval algebras from the same modular translation orbit; explicit noncommuting local observables, locality, affine covariance, positive energy and global vacuum cyclicity, plus localized instruments and no-signaling. No independent derivation of the initial localization pair or four-dimensional spacetime is claimed.
 
 - [Local preparation and access cost](LOCAL_PREPARATION_AND_ACCESS.md): direct bounded-interval vacuum cyclicity proof, local conditional approximation to arbitrary vectors, and a Gaussian-tail bound forcing success probability to vanish for increasingly accurate preparation of a fixed disjoint Weyl target. No-signaling and local modular existence are established in the same net; algebraic density is not unrestricted operational access.

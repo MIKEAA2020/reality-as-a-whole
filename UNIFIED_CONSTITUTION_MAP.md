@@ -76,6 +76,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Direct clock-choice bridge:** [The same-constraint clock comparison](CLOCK_CHOICE_EQUIVALENCE.md) constructs noncommuting ideal clock frames with different reduced transports and identical anchored intervention records. It keeps the physical space and inner product fixed, transforms the weighted constraint, and exhibits both lossy and invertibly imperfect readings. This is direct constrained-time work; the intervening access-cost results support it but do not solve time by themselves.
 
+**Non-global clock bridge:** [The turning-clock atlas](TURNING_CLOCK_ATLAS.md) extends the direct time work to a continuum periodic constraint. Oriented cosine/sine charts yield consistent local generators, measures and event records across actual turning readings. Unoriented conditioning can lose information; patching resolves coordinate failure but does not supply a cycle counter, autonomous detector schedule or gravitational refoliation.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
