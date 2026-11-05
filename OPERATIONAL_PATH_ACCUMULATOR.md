@@ -221,6 +221,8 @@ For the autonomous model, a K-state modular counter initially at zero avoids wra
 
 We have supplied the missing **reversible counter rule**, its constrained-history embedding, and an explicit event-conversion instrument rather than simply assuming a clock-frame unitary. We can now state exactly when classical arrival conditioning loses information, when coherent records preserve it, when equal-rate reduction is unitary, and where finite resolution prevents a clock from resolving all events.
 
+[The finite-mass Hamiltonian detector](HAMILTONIAN_CLOCK_DETECTOR.md) now supplies a continuous-time, bounded-below alternative with real reflection/backaction and a quantitative ideal-instrument bound. It is not a Hamiltonian implementation of this particular discrete walk, nor a finite-time first-arrival storage mechanism.
+
 For the cold-atom system, the remaining physical task is to derive and calibrate an admissible accumulator/detector from its actual variables and couplings, including stalling, noise, backaction and image-derived ensemble inputs. The completed clock T uses the specified two-displacement engine law; applying it to unrelated measured displacements would not reproduce its identity. This walk does not reconstruct the paper's whole-cloud entropy, validate its effective Hamiltonian, or implement its atom cloud. Those are not consequences of reversible arithmetic.
 
 The construction remains direct M0/W1-W6 problem-of-time work. It does not settle refoliation, gravitational constraints, phenomenal passage, the Gamma/chi constitution law or necessary actuality. The motion/update law, preparation and record architecture are specified premises, not a zero-residue derivation of them.
