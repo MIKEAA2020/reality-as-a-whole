@@ -108,13 +108,15 @@ static-Killing construction to a relational midisuperspace one:
 
 What this does not yet do:
 
-- integrate the non-static Einstein–scalar equations in time;
+- integrate the non-static Einstein–scalar equations beyond the causal pre-signal window;
 - identify a fully reduced Hamiltonian without coordinate gauge fixing beyond
   areal radius;
 - give a quantum constraint solution on midisuperspace;
 - address non-spherical gravity or phenomenal constitution.
 
-It is the minimal next step beyond the static Birkhoff clock.
+[The non-static causality continuation](NONSTATIC_SPHERICAL_CAUSALITY.md) gives
+the controlled pre-signal window during which the static dressed clock remains
+valid. It is the minimal next step beyond the static Birkhoff clock.
 
 ## 5. Verification
 
