@@ -1,0 +1,43 @@
+{
+  "cases": [
+    {
+      "name": "weak_backreaction_alpha01",
+      "epsilon": 3e-05,
+      "alpha": 0.01,
+      "T_obs": 10.0,
+      "mu": 22.0,
+      "M_total": 0.01940637786870873,
+      "R_phys_avg": 22.5680543779155,
+      "T_dyn": 1053.6814731146164,
+      "omega_mech": 0.005963078470580757,
+      "Q0": 0.07344508712333288,
+      "Q_over_MR2": 0.007430705130743014,
+      "dEdt": -3.637809111563044e-17,
+      "deltaE": 3.6378091115630443e-16,
+      "dM_fraction": 1.8745430683531766e-14,
+      "redshift_dephasing_drift": 3.546242804727729e-15,
+      "Shapiro_drift": 4.538766832371366e-15,
+      "Shapiro_drift_ticks": 1.5892077892095832e-14
+    },
+    {
+      "name": "very_small_alpha001_long",
+      "epsilon": 3e-05,
+      "alpha": 0.001,
+      "T_obs": 100.0,
+      "mu": 22.0,
+      "M_total": 0.01940637786870873,
+      "R_phys_avg": 22.5680543779155,
+      "T_dyn": 1053.6814731146164,
+      "omega_mech": 0.005963078470580757,
+      "Q0": 0.007344508712333274,
+      "Q_over_MR2": 0.0007430705130743,
+      "dEdt": -3.6378091115630314e-19,
+      "deltaE": 3.637809111563031e-17,
+      "dM_fraction": 1.87454306835317e-15,
+      "redshift_dephasing_drift": 3.5462428047277165e-15,
+      "Shapiro_drift": 4.53876683237135e-16,
+      "Shapiro_drift_ticks": 1.5892077892095774e-15
+    }
+  ],
+  "summary": "Weak aspherical quadrupole loss on the spherical static background: radiation occurs at the mechanical pulsation frequency ~ 1/T_dyn, not scalar rest mass; bounds integrated mass/redshift/echo drift."
+}

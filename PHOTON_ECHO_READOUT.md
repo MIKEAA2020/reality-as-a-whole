@@ -111,11 +111,13 @@ This gives an explicit operational readout:
   finite cloud’s Shapiro spread exceeds a tick and therefore requires
   sub-ensemble or sharper localization, which is physically correct.
 
-This remains a spherical-symmetry result. It does not supply:
+This remains a spherical-symmetry readout. [The weak aspherical continuation](ASPHERICAL_QUADRUPOLE_LOSS.md)
+adds leading quadrupole radiation-reaction bounds for small axisymmetric pulsations.
+Still open:
 
-- angular structure or non-spherical scattering;
+- strong angular structure or non-spherical photon scattering;
 - full quantum electrodynamics of photon detection;
-- quantum Einstein constraints beyond the static spherical sector;
+- quantum Einstein constraints beyond the static sector;
 - phenomenal constitution.
 
 ## 5. Verification
