@@ -199,3 +199,8 @@ This follows by moving the canonical modular unitaries to the left of the chrono
 Thus the stopping rule is respected: time has not been derived from absence of temporal structure. A free transport sequence has been replaced by a transport generator determined by a declared localization/state pair. Which pair is actual, why its localization is appropriate, and whether it selects a distinguished physical clock remain open.
 
 The example provides an infinite von Neumann-algebra inclusion, not a complete field theory, a derivation of Lorentzian geometry, a gravitational constraint algebra, or a theorem about brains. No factor-type classification, complete AQFT net, experiential ownership, or necessary actuality is claimed. This develops M0 within W1-W6 while retaining the full experiential and axiological completion requirements.
+
+
+## Continuation: localization from the same translation orbit
+
+[The modular local net](MODULAR_LOCAL_NET.md) constructs A((a,b))=M_a intersect M_b' on the same Fock space. It proves that every interval contains noncommuting observables, establishes locality and affine covariance, and gives localized record instruments and a no-signaling theorem. No bounded-interval cyclicity or complete conformal-net reconstruction is inferred from these results.

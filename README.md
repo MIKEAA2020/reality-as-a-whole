@@ -60,6 +60,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Modular clock selection](MODULAR_CLOCK_SELECTION.md): explicit proper half-sided modular inclusion, positive translation recovered from two modular logarithms, AKLT finite-block obstruction, state-dependent cocycles, and Weyl-order record predictions. Localization, state, orientation and scale inputs are audited rather than called derived physical time.
 
+- [Modular local observable net](MODULAR_LOCAL_NET.md): bounded-interval algebras from the same modular translation orbit; explicit noncommuting local observables, locality, affine covariance, positive energy and global vacuum cyclicity, plus localized instruments and no-signaling. No independent derivation of the initial localization pair or four-dimensional spacetime is claimed.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

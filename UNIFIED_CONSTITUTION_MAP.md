@@ -66,6 +66,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Modular selection bridge:** [The modular construction](MODULAR_CLOCK_SELECTION.md) supplies a proper infinite half-sided inclusion and recovers its positive translation from modular logarithms. It connects local algebra/state structure to the transport used in histories and instrument probabilities, with a concrete nonconstant recorded Weyl phase. The localization embedding and state are still input, finite AKLT block flows do not select this clock, and no complete AQFT net or necessary physical time is inferred.
 
+**Same-model localization bridge:** [The local-net continuation](MODULAR_LOCAL_NET.md) defines bounded-region algebras by intersections of translated half-line algebras and their commutants. Explicit compact smears prove each intersection nonabelian; the same modular translations implement localization covariance. Disjoint locality, positive energy, global vacuum cyclicity, localized recorded interventions and unconditioned no-signaling now coexist in one Fock model. The initial localization embedding remains supplied; full conformal-net and higher-dimensional spacetime reconstruction are not claimed.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
