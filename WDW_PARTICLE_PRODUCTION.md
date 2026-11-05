@@ -67,8 +67,9 @@ Hawking/cosmological radiation, which remains open.
 
 Limitations:
 
-- Only the homogeneous monopole mode is treated; inhomogeneous/S-modes and
-  angular multipoles contribute separate Bogoliubov channels.
+- The homogeneous monopole mode was treated first; [WdW radial modes](WDW_RADIAL_MODES.md)
+  extends to inhomogeneous radial standing waves (20 modes, all adiabatic).
+  Angular multipoles (l>=1) contribute separate Bogoliubov channels.
 - Massive scalar suppresses low-\(k\) particle production.
 - Strong-field, non-adiabatic collapse and phenomenal constitution remain open.
 
