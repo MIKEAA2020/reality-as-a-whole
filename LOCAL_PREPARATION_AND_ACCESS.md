@@ -162,3 +162,8 @@ No local region is thereby a conscious subject, no algebraic cyclic vector is id
 ## 8. Completion boundary
 
 This result strengthens the same M0 construction within W1-W6. It establishes interval standardness and local modular existence, conditional preparation and a quantitative access-cost obstruction. The locality/state pair remains supplied; realistic matter, physical reference-state selection, intrinsic qualitative nature, Gamma/chi and necessary actuality remain to be constructed or justified. These unfinished tasks are not declared impossible by the preparation theorem.
+
+
+## Continuation: general state-order steering optimum
+
+[Commutant steering and preparation cost](COMMUTANT_STEERING_AND_COST.md) generalizes the projection bound to all positive observables: p*phi<=omega is necessary and sufficient for a full-commutant success contraction, with exact optimum exp(-D_max). It derives smoothed accuracy bounds and distinguishes full-commutant sufficiency from bounded-region availability. The Gaussian target above has infinite D_max, so its exact restricted state cannot be prepared with positive probability even in the full commutant.

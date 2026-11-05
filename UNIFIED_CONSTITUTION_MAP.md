@@ -70,6 +70,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Local/global access bridge:** [The interval-cyclicity continuation](LOCAL_PREPARATION_AND_ACCESS.md) proves local vacuum cyclicity and standardness in that same net. It converts density into normalized conditional preparation instruments, while no-signaling and Gaussian tails force the success rate to vanish for arbitrarily accurate preparation of a fixed disjoint displacement target. Local mathematical density and finite operational access are thereby separated quantitatively; no experiential incidence is assigned.
 
+**State-order preparation bridge:** [The commutant-cost theorem](COMMUTANT_STEERING_AND_COST.md) identifies the exact full-commutant success optimum as exp(-D_max), using standard-form vectors rather than assumed local density matrices. This explains the Gaussian exact-preparation obstruction and extends it to general normal target states. A bounded distant interval may not attain the commutant optimum; matching finite readouts does not identify the full target state.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

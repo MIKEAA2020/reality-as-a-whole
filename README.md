@@ -64,6 +64,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Local preparation and access cost](LOCAL_PREPARATION_AND_ACCESS.md): direct bounded-interval vacuum cyclicity proof, local conditional approximation to arbitrary vectors, and a Gaussian-tail bound forcing success probability to vanish for increasingly accurate preparation of a fixed disjoint Weyl target. No-signaling and local modular existence are established in the same net; algebraic density is not unrestricted operational access.
 
+- [Commutant steering and preparation cost](COMMUTANT_STEERING_AND_COST.md): exact full-commutant success optimum exp(-D_max), proved by state domination and standard-form implementation without local density matrices; smoothed error bounds, finite-readout relaxations and exact Schmidt-filter examples. Bounded-region attainability and full global-state preparation are explicitly distinguished.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

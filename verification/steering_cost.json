@@ -1,0 +1,152 @@
+{
+  "status": "passed",
+  "exact_arithmetic": "rational matrices and filter effects",
+  "pure_target_optimal_filters": [
+    {
+      "target_vector": [
+        "1",
+        "0"
+      ],
+      "D_max": "log(25/9)",
+      "optimal_probability": "9/25",
+      "filter_norm_squared": "25/9"
+    },
+    {
+      "target_vector": [
+        "0",
+        "1"
+      ],
+      "D_max": "log(25/16)",
+      "optimal_probability": "16/25",
+      "filter_norm_squared": "25/16"
+    },
+    {
+      "target_vector": [
+        "3/5",
+        "4/5"
+      ],
+      "D_max": "log(2)",
+      "optimal_probability": "1/2",
+      "filter_norm_squared": "2"
+    },
+    {
+      "target_vector": [
+        "5/13",
+        "12/13"
+      ],
+      "D_max": "log(2650/1521)",
+      "optimal_probability": "1521/2650",
+      "filter_norm_squared": "2650/1521"
+    }
+  ],
+  "finite_readout_relaxations": [
+    {
+      "prior": [
+        "1/2",
+        "1/3",
+        "1/6"
+      ],
+      "target": [
+        "1/3",
+        "1/3",
+        "1/3"
+      ],
+      "relaxed_optimum": "1/2",
+      "success_effects": [
+        "1/3",
+        "1/2",
+        "1"
+      ]
+    },
+    {
+      "prior": [
+        "1/2",
+        "1/2"
+      ],
+      "target": [
+        "1/2",
+        "1/2"
+      ],
+      "relaxed_optimum": "1",
+      "success_effects": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "prior": [
+        "1/2",
+        "1/4",
+        "1/4"
+      ],
+      "target": [
+        "1/2",
+        "0",
+        "1/2"
+      ],
+      "relaxed_optimum": "1/2",
+      "success_effects": [
+        "1/2",
+        "0",
+        "1"
+      ]
+    },
+    {
+      "prior": [
+        "1/5",
+        "4/5"
+      ],
+      "target": [
+        "1",
+        "0"
+      ],
+      "relaxed_optimum": "1/5",
+      "success_effects": [
+        "1",
+        "0"
+      ]
+    }
+  ],
+  "gaussian_binary_examples_floating_point": [
+    {
+      "threshold": 2.0,
+      "reference_tail": 0.02275013194817922,
+      "target_tail": 0.15865525393145707,
+      "binary_readout_relaxed_probability": 0.14339349869880658,
+      "binary_D_max": 1.942162688672768
+    },
+    {
+      "threshold": 4.0,
+      "reference_tail": 3.1671241833119965e-05,
+      "target_tail": 0.0013498980316300957,
+      "binary_readout_relaxed_probability": 0.0234619512667003,
+      "binary_D_max": 3.7523752650169406
+    },
+    {
+      "threshold": 6.0,
+      "reference_tail": 9.865876450377012e-10,
+      "target_tail": 2.866515718791946e-07,
+      "binary_readout_relaxed_probability": 0.0034417660387136657,
+      "binary_D_max": 5.6717705559859795
+    },
+    {
+      "threshold": 8.0,
+      "reference_tail": 6.220960574271819e-16,
+      "target_tail": 1.279812543885835e-12,
+      "binary_readout_relaxed_probability": 0.0004860837318708729,
+      "binary_D_max": 7.629129661103469
+    }
+  ],
+  "analytic_not_finite_tests": [
+    "standard-form implementing vector theorem invoked",
+    "p phi <= omega iff a commutant contraction prepares phi",
+    "full-commutant optimum exp(-D_max)",
+    "smoothed supremum and bounded-region upper bound"
+  ],
+  "not_inferred": [
+    "commutant optimum attained in any specified disjoint interval",
+    "remote-state preparation fixes all global correlations",
+    "finite readout filtering is a distant implementation",
+    "finite density matrix for a field interval algebra"
+  ]
+}
