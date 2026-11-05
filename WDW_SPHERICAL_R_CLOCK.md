@@ -70,10 +70,12 @@ does **not** rely on asymptotic Killing time being given in advance:
 Limitations:
 
 - This is a reduced midisuperspace model, not full 3+1 quantum gravity.
-- The WKB approximation is used; a rigorous solution of the WdW equation with
-  self-adjoint physical inner product is not yet supplied.
-- Singularity resolution, unitarity across non-symmetric foliations, and
-  phenomenal constitution remain open.
+- The WKB approximation is used; non-semiclassical WdW solutions are not yet supplied.
+
+[The WdW physical inner product](WDW_INNER_PRODUCT.md) establishes conservation
+of the positive-frequency Klein–Gordon probability across dressing in this WKB
+sector. Singularity resolution, unitarity across non-symmetric foliations, and
+phenomenal constitution remain open.
 
 ## 4. Verification
 

@@ -1,0 +1,17 @@
+{
+  "weak_backreaction": {
+    "phi_width": 0.15075567228888181,
+    "gaussian_L2_before_WKB": 1.0000000000000049,
+    "H_center": 22.0,
+    "H_Rm": 21.9995974,
+    "R_m": 22.657,
+    "prob_norm_center": 1.0000000000000036,
+    "prob_norm_Rm": 1.0000000000000036,
+    "norm_drift": 0.0,
+    "mixed_pos_neg_norm": 0.9998000066665778,
+    "positive_norm_positive": true,
+    "negative_norm_sign": -1,
+    "conserved_to_numerics": true,
+    "interpretation": "With A=1/sqrt(H), Klein-Gordon probability equals the L2 norm of the scalar wavefunction and is conserved across gravitational dressing."
+  }
+}
