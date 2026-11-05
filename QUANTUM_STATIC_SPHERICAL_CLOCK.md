@@ -136,7 +136,9 @@ This does **not** prove:
 - phenomenal constitution or derivation of the prepared state from the absolute.
 
 It is a constructive existence proof for a symmetry-reduced quantum
-gravitational relational clock, not the final theory.
+gravitational relational clock, not the final theory. [The asymptotic photon-echo
+readout](PHOTON_ECHO_READOUT.md) adds a concrete operational record using radial
+null geodesics in the dressed geometry.
 
 ## 5. Verification
 
