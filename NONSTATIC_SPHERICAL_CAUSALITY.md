@@ -76,10 +76,14 @@ more rapid error growth), as expected.
 
 Not supplied:
 
-- the post-causal scalar waveform/Bondi loss;
+- detailed scalar waveform tails beyond energy conservation;
 - strong-field collapse;
 - quantum midisuperspace constraints;
 - phenomenal constitution.
+
+[The spherical scalar radiation continuation](SPHERICAL_SCALAR_RADIATION.md) gives
+the leading post-causal Bondi mass loss and post-burst drifts from scalar
+monopole radiation.
 
 ## 5. Verification
 

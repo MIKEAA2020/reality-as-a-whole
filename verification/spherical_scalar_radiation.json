@@ -1,0 +1,29 @@
+{
+  "weak_backreaction": [
+    {
+      "Pi_amplitude": 1e-06,
+      "initial_scalar_kinetic_energy": 7.875054654974564e-09,
+      "radiated_Bondi_mass_loss": 7.875054654974564e-09,
+      "pulse_width": 20.0,
+      "peak_outgoing_flux": 3.9375273274872823e-10,
+      "T_causal": 54.87033674914164,
+      "T_obs_post_burst": 114.87033674914164,
+      "redshift_dephasing_post_burst": 8.805939806622177e-07,
+      "Shapiro_drift_post_burst": 9.247969955517934e-08,
+      "Shapiro_drift_ticks": 3.238092290369232e-07
+    },
+    {
+      "Pi_amplitude": 1e-05,
+      "initial_scalar_kinetic_energy": 7.875054654974565e-07,
+      "radiated_Bondi_mass_loss": 7.875054654974565e-07,
+      "pulse_width": 20.0,
+      "peak_outgoing_flux": 3.9375273274872824e-08,
+      "T_causal": 54.87033674914164,
+      "T_obs_post_burst": 114.87033674914164,
+      "redshift_dephasing_post_burst": 8.805939806622177e-05,
+      "Shapiro_drift_post_burst": 9.247969955517936e-06,
+      "Shapiro_drift_ticks": 3.238092290369233e-05
+    }
+  ],
+  "summary": "Spherical scalar radiation (no GW in spherical symmetry): small Pi pulses radiate scalar energy, causing Bondi mass loss bounded by initial scalar kinetic energy. Post-burst redshift and Shapiro drifts are computed from this radiated mass."
+}
