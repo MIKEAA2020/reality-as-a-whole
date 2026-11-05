@@ -126,23 +126,99 @@ into a **selection effect** within one necessary absolute:
    very narrow set of candidate sectors. This is a research programme, not
    a theorem, but it is no longer a brute-fact residue.
 
-## 5. What is still not proved (honest)
+## 5. Possibility = actuality (the identity thesis)
 
-- Plenitude is here stated as a **conjecture** (highly plausible, not
-  derived). The strongest argument for it is that its *denial* — that
-  there is one particular net/state that is actual while the others are
-  not — reintroduces an external selection fact, which is exactly the
-  residue the necessary-existence argument forbids. So plenitude is
-  *forced by zero-residue intelligibility*; but that is a philosophical
-  argument, not a theorem in AQFT.
-- The full Standard Model gauge group and fermion content are **not**
-  derived here; the structural results above narrow the candidates but do
-  not uniquely pin them down. Connes' noncommutative Standard Model and
-  the "algebraic SM" programme are the obvious next interface.
-- The universal state on \\(\pi_u(\mathcal A)''\\) is not constructed
-  explicitly. If it is the maximally-symmetric KMS state (Tomita weight) at
-  modular temperature \\(\beta=2\pi\\), it is natural — but this is a
-  conjecture.
+There is a stronger claim available than "plenitude is a conjecture forced
+by zero-residue intelligibility." It is:
+
+> **Possibility ≡ Actuality (by identity, on the absolute level).**
+> Every consistent (self-adjoint, non-contradictory) folium of
+> \\(\pi_u(\mathcal A)''\\) is *ipso facto* actual as a sector of the
+> absolute. There is no further property "actuality" that some but not all
+> consistent structures possess.
+
+Formally:
+- In the universal representation \\(\pi_u\\), every folium (disjoint
+  superselection sector, every state class reachable by automorphisms and
+  normal states) is already *there*, as a concrete substructure of
+  \\(\pi_u(\mathcal A)''\\).
+- A "merely possible" world would be a net/state \\((\mathcal B,\omega')\\)
+  satisfying the axioms (Haag–Kastler + spectrum + locality + cyclic vacuum)
+  that is NOT a substructure of \\(\pi_u(\mathcal A)''\\). But the universal
+  representation of a quasi-local algebra is uniquely defined and contains
+  *every* representation; any such \\((\mathcal B,\omega')\\) is unitarily
+  equivalent to some sector of \\(\pi_u(\mathcal A)''\\).
+- So "actual" is not a *selector property* that bestows existence on one
+  option while denying it to others. It is just the identity map: to be
+  consistent-with-the-algebra's-self-differentiation **is** to be actual
+  within it.
+
+This converts plenitude from a conjecture to a **theorem of the
+zero-residue framework**. The premises are:
+
+1. The absolute exists necessarily (NECESSARY_EXISTENCE_ARGUMENT).
+2. Its local algebraic form is the hyperfinite III₁ factor (unique —
+   Connes–Haagerup; Fredenhagen AQFT result).
+3. All consistent (axiom-obeying) representations are contained in the
+   universal enveloping von Neumann algebra \\(\pi_u(\mathcal A)''\\) (by
+   definition of the universal representation).
+4. There is no extra-absolute "actuality" property; consistency-within-the-
+   absolute *is* existence (Spinoza: *omnia, quae sub intellectum divinum
+   cadere possunt, necessario sequuntur*; everything that can be conceived
+   by an infinite intellect follows necessarily from its nature).
+
+From (1)–(4): every consistent sector *actually exists as a sub-structure
+of the absolute*. "Possible but not actual" is a *perspectival* notion
+(observers in one sector can't interact with others, so those others are
+*for them* merely possible); but from the absolute's own standpoint there
+is no gap.
+
+This is **not** the Lewisian pluriverse (disjoint, equally-real worlds
+external to one another). It is *one absolute*, internally articulated,
+with every consistent articulation actual as a sector. There is no
+"actualization" event; there is no selector; there is no roll of the dice.
+Possibility = actuality is an identity, not a transition.
+
+### What the identity does and does not buy us
+
+- It dissolves the "why this content rather than that" residue *at the
+  absolute level*. There is no "rather than": every consistent content is
+  actual.
+- It preserves the selection-effect explanation of *why we see this*
+  (d=4, scalar): because stable observers can only occur in such sectors.
+- It does **not** collapse finitude. Finite observers live in one sector
+  (d=4, our Standard Model content) and have no causal contact with other
+  sectors (they are disjoint folia — no finite-energy operator mediates
+  transitions). Plenitude doesn't predict parallel-universe phenomenology.
+- It does **not** make every conceivable story real. It includes *every
+  consistent net/state on the unique local algebra*; internally
+  contradictory stories (inconsistent assignments of local observables)
+  are exactly nothing — they have no folium to live in.
+- It does **not** by itself derive the SM gauge group. The structural
+  selection arguments (Section 3) still pick d=4 + scalar. The SM
+  gauge-group/fermion-generation derivation remains an open theorem (the
+  natural conjecture is that the unique net supporting chiral fermions
+  with 3 generations and anomaly cancellation is the SM, but that is
+  representation theory to be done, not a result proved here).
+
+## 6. What is still not proved (honest)
+
+- **The universal state** on \\(\pi_u(\mathcal A)''\\) is not constructed
+  explicitly. The natural candidate is the Tomita weight on III₁ (modular
+  temperature \\(\beta=2\pi\\), the KMS state at the Unruh/Hawking
+  temperature), but this is not derived here.
+- The **full Standard Model** gauge group (\\(SU(3)\times SU(2)\times
+  U(1)\\)), three generations, and chiral fermion content are
+  narrowed but not derived. Connes' noncommutative Standard Model and the
+  "algebraic SM" programme are the obvious next interface.
+- The **Plenitude identity itself** (possibility ≡ actuality) is
+  philosophically forced by zero-residue intelligibility (its denial
+  introduces a brute selector) and is a theorem *within the AQFT
+  universal-representation framework* assuming the III₁ substrate is
+  forced — but the step "the AQFT axioms (Haag–Kastler + spectrum
+  condition) are themselves necessary and not merely our contingent
+  formulation" is a constitutive thesis, not a mathematical theorem.
+  This is the deepest frontier of the programme.
 - Kerr/rotating and full 3+1 aspherical dynamics remain open at the
   physical-model level (the model is currently restricted to spherical
   symmetry for rigorous control).

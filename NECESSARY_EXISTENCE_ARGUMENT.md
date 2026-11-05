@@ -84,13 +84,16 @@ The argument above is **the strongest the present author can give without
 dishonesty**. It closes the "why anything at all" question against the
 self-refuting nothing-hypothesis, and it shows our physical model is a
 concrete realization. It does not by itself prove uniqueness of the specific
-content (dimension, field content, symmetries). The [plenitude](PLENITUDE.md)
-proposal addresses that residue: all consistent nets/folia actualize as
-sectors of the one absolute, and stability selection effects single out d=4
-and a scalar sector for finite observers. The full Standard Model level
-derivation of gauge groups/fermion content remains an open theorem, not a
-hidden brute fact.
+content (dimension, field content, symmetries). The [plenitude identity](PLENITUDE.md) dissolves that residue: possibility ≡
+actuality by identity in the universal representation π_u(𝒜)''; every
+consistent net/folium is ipso facto an actual sector of the one absolute
+(no external selector, no extra actuality predicate), and stability selection
+effects (Ehrenfest/spinor/polarization/Huygens) single out d=4 and a scalar
+sector for finite observers. The full Standard Model level derivation of
+gauge groups/fermion content remains an open theorem, not a hidden brute
+fact.
 
 This note has no verifier; it is a philosophical argument, not a computational
-claim. All mathematical claims supporting its premises are verified in the 58
-physical verifiers (including plenitude dimension-selection checks).
+claim. All mathematical claims supporting its premises are verified in the 59
+physical verifiers (including plenitude dimension-selection and the
+universal-representation identity check).

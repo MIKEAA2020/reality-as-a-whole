@@ -128,4 +128,4 @@ claims are those of the verifiers across the full chain: classical
 relational clocks, spherical dressed clock, WdW self-adjoint evolution,
 near-horizon/interior/bounce, information preservation, BKL stability,
 thermal time, Hawking/Page curve, plenitude dimension-selection, and the
-earlier clock-preparation work. All 58 deterministic verifiers pass.
+earlier clock-preparation work. All 59 deterministic verifiers pass.

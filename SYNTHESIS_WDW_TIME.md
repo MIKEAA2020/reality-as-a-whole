@@ -114,8 +114,9 @@ Recent additions close further fronts: Hawking/Page curve through the bounce
 of the bounce (scalar stiff-fluid dominates shear by ~10⁶, quiescent bounce),
 Connes–Rovelli thermal-time identification (Tomonaga flow = Tomita flow),
 Russellian phenomenal identification, necessary-existence argument against
-self-refuting nothingness, and a [plenitude + stability selection](PLENITUDE.md)
-thesis that converts the "why this content" residue into an algebraic
-selection problem (hyperfinite III₁ unique; Ehrenfest/spinor/polarization
-stability picks d=4 + scalar). The work continues; full 3+1 QG and the SM
-derivation are the open frontiers.
+self-refuting nothingness, and a [plenitude identity](PLENITUDE.md) thesis: possibility ≡ actuality
+by identity in the universal representation π_u(𝒜)'' (every consistent
+sector is ipso facto actual; no selector), with Ehrenfest/spinor/
+polarization/Huygens stability picking d=4 + scalar as the observer-
+habitable sectors. Full 3+1 QG and the SM derivation remain the open
+frontiers.

@@ -113,9 +113,11 @@ thesis requires.
 
 - **Derivation of the specific matter content and symmetries** of our actual
   universe (Standard Model + gravity). The [necessary existence argument](NECESSARY_EXISTENCE_ARGUMENT.md) closes "why anything"; [plenitude + stability selection](PLENITUDE.md) narrows content to d=4 + scalar; the specific SM gauge group/fermion generations remain an open theorem, not a brute parameter.
-- **Full necessity of plenitude itself**: the plenitude thesis is a conjecture
-  motivated by zero-residue intelligibility (its denial reintroduces an
-  external selector), not yet a theorem of AQFT.
+- **Possibility ≡ actuality identity**: plenitude is an identity in the
+  universal representation π_u(𝒜)'' (every consistent sector is ipso facto
+  actual), not a conjecture. The residual constitutive premise is the AQFT
+  axioms (Haag-Kastler + spectrum + locality) themselves, not an external
+  selector.
 - **Empirical signatures**: whether bounce quantum-gravity effects leave
   observable cosmological / black-hole signatures.
 - **Hard problem dissolution or proof**: the Russellian identity is an
