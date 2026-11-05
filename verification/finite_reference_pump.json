@@ -1,0 +1,227 @@
+{
+  "status": "passed",
+  "partial_exchange": {
+    "pump_dimension": 5,
+    "minimum_universal_pump_dimension": 5,
+    "cases": [
+      {
+        "exchange": "identity",
+        "formula_matrix_entries": 100,
+        "unitarity_column_pairs_checked": 625,
+        "energy_commutator_entries_checked": 625,
+        "omitted_commutator_max_entry_error": 3.184528986116163e-17,
+        "reset_decoupling_error_upper": 1.0,
+        "working_energy": 0.4287850155955998,
+        "pump_energy": 0.4,
+        "exact_full_correlation_transport": false
+      },
+      {
+        "exchange": "partial",
+        "formula_matrix_entries": 100,
+        "unitarity_column_pairs_checked": 625,
+        "energy_commutator_entries_checked": 625,
+        "omitted_commutator_max_entry_error": 0.029030899603173926,
+        "reset_decoupling_error_upper": 1.0,
+        "working_energy": 0.41376545377698404,
+        "pump_energy": 0.4150195618186158,
+        "exact_full_correlation_transport": false
+      },
+      {
+        "exchange": "half",
+        "formula_matrix_entries": 100,
+        "unitarity_column_pairs_checked": 625,
+        "energy_commutator_entries_checked": 625,
+        "omitted_commutator_max_entry_error": 0.043054159955315696,
+        "reset_decoupling_error_upper": 1.0,
+        "working_energy": 0.39770013008101135,
+        "pump_energy": 0.4310848855145885,
+        "exact_full_correlation_transport": false
+      },
+      {
+        "exchange": "full",
+        "formula_matrix_entries": 100,
+        "unitarity_column_pairs_checked": 625,
+        "energy_commutator_entries_checked": 625,
+        "omitted_commutator_max_entry_error": 5.551115123125783e-17,
+        "reset_decoupling_error_upper": 0.0,
+        "working_energy": 0.4,
+        "pump_energy": 0.4287850155955998,
+        "exact_full_correlation_transport": true
+      }
+    ]
+  },
+  "partial_ground_replenishment": {
+    "ladder_maximum": 12,
+    "ground_readouts_before_pump": 2,
+    "old_mean_energy": 1.0,
+    "partially_replenished_mean_energy": 1.1,
+    "restored_energy_fraction": 0.5,
+    "adjacent_coherence_real": 0.9510565162951535,
+    "adjacent_coherence_imaginary": -0.07095106619348962,
+    "phase_bias_radians": -0.0744644260576872
+  },
+  "two_readout_channel_tests": [
+    {
+      "exchange": "none",
+      "joint_matrix_unit_outcome_checks": 64,
+      "factorized_channel_max_entry_difference": 0.0412326388888889,
+      "record_error_covariance_on_product_inputs": 0.010416666666666661
+    },
+    {
+      "exchange": "partial",
+      "joint_matrix_unit_outcome_checks": 64,
+      "factorized_channel_max_entry_difference": 0.020616319444444434,
+      "record_error_covariance_on_product_inputs": 0.00520833333333333
+    },
+    {
+      "exchange": "full",
+      "joint_matrix_unit_outcome_checks": 64,
+      "factorized_channel_max_entry_difference": 2.7755575615628914e-17,
+      "record_error_covariance_on_product_inputs": 1.734723475976807e-18
+    }
+  ],
+  "cases": [
+    {
+      "readouts": 8,
+      "readouts_per_block": 8,
+      "initial_reference_packets": 1,
+      "precharged_pumps": 0,
+      "each_ladder_maximum": 512,
+      "each_ladder_dimension": 513,
+      "exact_full_exchange_pump_gates": 0,
+      "per_block_reference_error_bound": 0.0062843352845218334,
+      "completed_all_block_instrument_error_bound": 0.0062843352845218334,
+      "ghz_wrong_parity_probability": 0.000629892355355155,
+      "total_initial_reference_mean_energy": 51.2,
+      "total_initial_reference_max_energy": 102.4,
+      "restored_working_reference_energy_per_ground_block": 0.8,
+      "energy_lost_by_each_used_pump_on_ground_blocks": 0.8,
+      "total_ground_input_reference_energy_depletion": 0.8,
+      "remaining_reference_mean_energy_after_ground_readouts": 50.400000000000006,
+      "necessary_ground_input_use_capacity_at_error_point01": 522.4489795918367,
+      "source_clock_positions": 524288,
+      "program_length": 57,
+      "source_clock_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.00023605301979276724,
+      "complete_operation_error_bound": 0.006518904867993299,
+      "source_pending_probability_bound": 3.725290420532227e-09,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "fixed_system_frequency": 0.1,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 5491.829835852544,
+      "total_energy_upper_bound": 5595.892335852544,
+      "gravitational_margin": 213.41648455219,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 4961431563698438132994146304
+    },
+    {
+      "readouts": 8,
+      "readouts_per_block": 4,
+      "initial_reference_packets": 2,
+      "precharged_pumps": 1,
+      "each_ladder_maximum": 512,
+      "each_ladder_dimension": 513,
+      "exact_full_exchange_pump_gates": 1,
+      "per_block_reference_error_bound": 0.0015217981552908921,
+      "completed_all_block_instrument_error_bound": 0.0030435963105817842,
+      "ghz_wrong_parity_probability": 0.0003067953103639831,
+      "total_initial_reference_mean_energy": 102.4,
+      "total_initial_reference_max_energy": 204.8,
+      "restored_working_reference_energy_per_ground_block": 0.4,
+      "energy_lost_by_each_used_pump_on_ground_blocks": 0.4,
+      "total_ground_input_reference_energy_depletion": 0.8,
+      "remaining_reference_mean_energy_after_ground_readouts": 101.60000000000001,
+      "necessary_ground_input_use_capacity_at_error_point01": 1044.8979591836735,
+      "source_clock_positions": 524288,
+      "program_length": 58,
+      "source_clock_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.0002485848963575982,
+      "complete_operation_error_bound": 0.0032914246148659622,
+      "source_pending_probability_bound": 3.725290420532227e-09,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "fixed_system_frequency": 0.1,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 5491.829835852544,
+      "total_energy_upper_bound": 5698.292335852545,
+      "gravitational_margin": 213.41648455219,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 2545214392177298762225997053952
+    },
+    {
+      "readouts": 8,
+      "readouts_per_block": 2,
+      "initial_reference_packets": 4,
+      "precharged_pumps": 3,
+      "each_ladder_maximum": 512,
+      "each_ladder_dimension": 513,
+      "exact_full_exchange_pump_gates": 3,
+      "per_block_reference_error_bound": 0.00037450512499414727,
+      "completed_all_block_instrument_error_bound": 0.001498020499976589,
+      "ghz_wrong_parity_probability": 0.00015146495368029145,
+      "total_initial_reference_mean_energy": 204.8,
+      "total_initial_reference_max_energy": 409.6,
+      "restored_working_reference_energy_per_ground_block": 0.2,
+      "energy_lost_by_each_used_pump_on_ground_blocks": 0.2,
+      "total_ground_input_reference_energy_depletion": 0.8,
+      "remaining_reference_mean_energy_after_ground_readouts": 204.0,
+      "necessary_ground_input_use_capacity_at_error_point01": 2089.795918367347,
+      "source_clock_positions": 524288,
+      "program_length": 60,
+      "source_clock_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.0002749636769626379,
+      "complete_operation_error_bound": 0.001772572275714388,
+      "source_pending_probability_bound": 3.725290420532227e-09,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "fixed_system_frequency": 0.1,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 5491.829835852544,
+      "total_energy_upper_bound": 5903.092335852545,
+      "gravitational_margin": 213.41648455219,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 669821526374907537956253418691493888
+    }
+  ],
+  "equal_mean_energy_comparison": {
+    "equal_initial_reference_mean_energy": 204.8,
+    "one_large_shared_reference_ghz_error": 3.8070614967244953e-05,
+    "four_packet_pump_scheme_ghz_error": 0.00015146495368029145,
+    "one_large_shared_reference_upper": 0.000376718970205969,
+    "four_packet_pump_scheme_upper": 0.001498020499976589,
+    "optimized_energy_efficiency_claimed": false
+  },
+  "scope": [
+    "Explicit finite coherent pumps, physical unitary exchanges and all final pump states retained.",
+    "Full exchange moves old correlations to pump and exactly decouples working reference.",
+    "Channel factorization across blocks does not imply independent outcomes on entangled inputs.",
+    "Partial energy restoration can leave quantum memory and introduce reference phase bias.",
+    "All pumps enter one gravitational constraint and one finite source/clock program.",
+    "No pump regeneration, free cycle, optimal pump cost, adaptive protocol or completed phenomenal constitution."
+  ]
+}
