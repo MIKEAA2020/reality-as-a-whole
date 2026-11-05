@@ -95,7 +95,7 @@ Limitations:
 - QG curvature threshold set to \(\mu^4\) (scalar Compton scale); with the true
   Planck scale \(l_p\) the corresponding \(\tau_{\mathrm{qg}}\) is the standard
   ~Planck-time answer.
-- No actual resolution (bounce, fuzzball, firewalls, etc.) is derived.
+- One candidate resolution is constructed in [WdW bounce](WDW_BOUNCE.md) (polymer-style holonomy regularization with universal curvature cap). Other resolutions are not ruled out; we present the bounce as a unitarity-preserving existence proof.
 
 ## 5. Verification
 

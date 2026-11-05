@@ -1,0 +1,57 @@
+{
+  "bounce": {
+    "mu": 22.0,
+    "model": "Polymer-style regularization f_reg(R) = (2M/R-1)(1-(Rb/R)^6), bounce at R=Rb=R_qg",
+    "cases": [
+      {
+        "M": 0.1,
+        "R_s": 0.2,
+        "R_qg": 0.11270030352226384,
+        "R_bounce": 0.11270030352226384,
+        "K_max_at_bounce": 234260.5763060326,
+        "tau_classical_to_singularity": 0.13333333333333333,
+        "tau_through_bounce": 0.5580567813002084,
+        "bounce_adds": 0.29139011463354175,
+        "omega_at_bounce": 13.971685383592883,
+        "singularity_resolved": true
+      },
+      {
+        "M": 1,
+        "R_s": 2,
+        "R_qg": 0.24280544348548772,
+        "R_bounce": 0.24280544348548772,
+        "K_max_at_bounce": 234260.5763060326,
+        "tau_classical_to_singularity": 1.3333333333333333,
+        "tau_through_bounce": 6.1613612619681435,
+        "bounce_adds": 3.494694595301477,
+        "omega_at_bounce": 9.51879844321487,
+        "singularity_resolved": true
+      },
+      {
+        "M": 10,
+        "R_s": 20,
+        "R_qg": 0.5231084703737108,
+        "R_bounce": 0.5231084703737108,
+        "K_max_at_bounce": 234260.5763060326,
+        "tau_classical_to_singularity": 13.333333333333332,
+        "tau_through_bounce": 62.224390750100554,
+        "bounce_adds": 35.55772408343389,
+        "omega_at_bounce": 6.4850818863235595,
+        "singularity_resolved": true
+      },
+      {
+        "M": 22.0,
+        "R_s": 44.0,
+        "R_qg": 0.6803504023435604,
+        "R_bounce": 0.6803504023435604,
+        "K_max_at_bounce": 234260.5763060326,
+        "tau_classical_to_singularity": 29.333333333333332,
+        "tau_through_bounce": 136.97384504388387,
+        "bounce_adds": 78.30717837721721,
+        "omega_at_bounce": 5.686499658928617,
+        "singularity_resolved": true
+      }
+    ],
+    "note": "A simple holonomy/inverse-volume bounce regularizes the Schwarzschild singularity at R_qg, yielding finite curvature ~mu^4, finite proper time through the neck, and bounded scalar frequency. The universe exits the bounce as a Kantowski-Sachs white-hole/baby-universe expansion, with total proper time through the bounce O(1/mu) added to the classical infall."
+  }
+}
