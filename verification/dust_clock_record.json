@@ -1,0 +1,126 @@
+{
+  "status": "passed",
+  "radial_gravitational_eigenmode_checks": 64,
+  "cases": [
+    {
+      "resources": {
+        "scale": 1,
+        "pulse_width": 0.02,
+        "gap": 0.005,
+        "proper_protocol_duration": 0.095,
+        "peak_control_energy": 314.1592653589793,
+        "apparatus_energy_upper_bound": 315.25926535897935,
+        "scalar_momentum_half_band": 0.1,
+        "subcritical_limit": 0.30618621784789724,
+        "gravitational_frequency": 0.75,
+        "nu_minimum": 0.47258156262526085,
+        "gravitational_level_minimum": 211,
+        "gravitational_level_count": 3,
+        "gravitational_energy_minimum": 317.6044361719689,
+        "gravitational_energy_maximum": 320.625,
+        "relational_dust_energy_lower_bound": 2.345170812989579,
+        "relational_dust_energy_upper_bound": 319.725,
+        "uniform_instrument_half_diamond_bound": 0.002,
+        "exact_final_not_completed_probability": 0,
+        "scope": "Ideal dust reference and exact calibrated controls; not a normalizable clock packet or macroscopic noise budget."
+      },
+      "complete_register_channel_matrix_units_checked": 4,
+      "proper_dust_energy_gain_on_Xplus_input": 0.09999993958213657,
+      "numerical_first_pulse_operator_error": 0.0019999996666666834,
+      "midpoint_256_512_max_kraus_difference": 5.205909476180444e-09,
+      "detector_probabilities_on_Z_inputs": [
+        [
+          0.9999988489559517,
+          1.151044045286834e-06
+        ],
+        [
+          1.1510440452868344e-06,
+          0.9999988489559519
+        ]
+      ]
+    },
+    {
+      "resources": {
+        "scale": 10,
+        "pulse_width": 0.002,
+        "gap": 0.0005,
+        "proper_protocol_duration": 0.0095,
+        "peak_control_energy": 3141.592653589793,
+        "apparatus_energy_upper_bound": 3142.692653589793,
+        "scalar_momentum_half_band": 0.1,
+        "subcritical_limit": 0.30618621784789724,
+        "gravitational_frequency": 0.75,
+        "nu_minimum": 0.47258156262526085,
+        "gravitational_level_minimum": 2096,
+        "gravitational_level_count": 3,
+        "gravitational_energy_minimum": 3145.1044361719687,
+        "gravitational_energy_maximum": 3148.125,
+        "relational_dust_energy_lower_bound": 2.4117825821758743,
+        "relational_dust_energy_upper_bound": 3147.225,
+        "uniform_instrument_half_diamond_bound": 0.0002,
+        "exact_final_not_completed_probability": 0,
+        "scope": "Ideal dust reference and exact calibrated controls; not a normalizable clock packet or macroscopic noise budget."
+      },
+      "complete_register_channel_matrix_units_checked": 4,
+      "proper_dust_energy_gain_on_Xplus_input": 0.09999999939582108,
+      "numerical_first_pulse_operator_error": 0.0001999999996666667,
+      "midpoint_256_512_max_kraus_difference": 5.205911887080157e-10,
+      "detector_probabilities_on_Z_inputs": [
+        [
+          0.9999999884895515,
+          1.1510446912613907e-08
+        ],
+        [
+          1.1510446912613878e-08,
+          0.999999988489552
+        ]
+      ]
+    },
+    {
+      "resources": {
+        "scale": 100,
+        "pulse_width": 0.0002,
+        "gap": 5e-05,
+        "proper_protocol_duration": 0.0009500000000000001,
+        "peak_control_energy": 31415.92653589793,
+        "apparatus_energy_upper_bound": 31417.026535897927,
+        "scalar_momentum_half_band": 0.1,
+        "subcritical_limit": 0.30618621784789724,
+        "gravitational_frequency": 0.75,
+        "nu_minimum": 0.47258156262526085,
+        "gravitational_level_minimum": 20945,
+        "gravitational_level_count": 3,
+        "gravitational_energy_minimum": 31418.60443617197,
+        "gravitational_energy_maximum": 31421.625,
+        "relational_dust_energy_lower_bound": 1.5779002740418946,
+        "relational_dust_energy_upper_bound": 31420.725,
+        "uniform_instrument_half_diamond_bound": 2e-05,
+        "exact_final_not_completed_probability": 0,
+        "scope": "Ideal dust reference and exact calibrated controls; not a normalizable clock packet or macroscopic noise budget."
+      },
+      "complete_register_channel_matrix_units_checked": 4,
+      "proper_dust_energy_gain_on_Xplus_input": 0.09999999999395831,
+      "numerical_first_pulse_operator_error": 1.9999999999666667e-05,
+      "midpoint_256_512_max_kraus_difference": 5.2059119125927897e-11,
+      "detector_probabilities_on_Z_inputs": [
+        [
+          0.9999999998848966,
+          1.1510446977211419e-10
+        ],
+        [
+          1.1510446977211363e-10,
+          0.9999999998848964
+        ]
+      ]
+    }
+  ],
+  "exact_completion_flag_check": true,
+  "massless_scalar_retained_in_action": true,
+  "scope": [
+    "Einstein-scalar action extended by proper dust and a finite register, not passive re-labelling.",
+    "Friedrichs boundary condition and subcritical scalar-momentum band are declared.",
+    "Positive relational dust-energy code; no assertion of a positive bare-momentum kinematic projection.",
+    "Exact calibrated finite completion and memory retention in the ideal reference model; first pulse instrument error bounded.",
+    "No finite-packet dust clock, readout/reset engine, inhomogeneous refoliation or singularity resolution."
+  ]
+}
