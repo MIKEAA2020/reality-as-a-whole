@@ -1,0 +1,42 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational real and imaginary parts",
+  "system_clock_rate_noncommutes_with_H": true,
+  "spectral_zero_slope": "8/5",
+  "spectral_rigging_gram_checks": 9,
+  "off_constraint_spectral_family_checks": 6,
+  "ordinary_norms_at_sample_phases": [
+    "13/25",
+    "409/625",
+    "73/100",
+    "409/625",
+    "13/25"
+  ],
+  "all_flux_norms": "1",
+  "two_event_flux_and_bare_metric_probabilities": [
+    [
+      "5392/15625",
+      "3033/15625"
+    ],
+    [
+      "2592/15625",
+      "4608/15625"
+    ]
+  ],
+  "unweighted_bare_branch_sum_not_physical": "39577/62500",
+  "metric_effect_completeness": true,
+  "filter_and_recovery_joint_success": "1/4",
+  "analytic_not_finite_discretization": [
+    "self-adjoint C=N p_t+H on real clock line",
+    "spectral slopes and group-average rigging metric",
+    "no normalizable kinematic zero vector",
+    "full spectral transform and strong kinematic Dirac representatives",
+    "physical unitarity and anchored records in flux metric"
+  ],
+  "not_solved": [
+    "clock-rate zeros and sign changes",
+    "general unbounded matter",
+    "multiple gravitational constraints and refoliation",
+    "physical clock selection"
+  ]
+}

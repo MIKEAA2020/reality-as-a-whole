@@ -78,6 +78,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Non-global clock bridge:** [The turning-clock atlas](TURNING_CLOCK_ATLAS.md) extends the direct time work to a continuum periodic constraint. Oriented cosine/sine charts yield consistent local generators, measures and event records across actual turning readings. Unoriented conditioning can lose information; patching resolves coordinate failure but does not supply a cycle counter, autonomous detector schedule or gravitational refoliation.
 
+**Coupled-rate time bridge:** [The interacting-rate construction](INTERACTING_CLOCK_RATE.md) replaces scalar clock velocity by a positive system operator noncommuting with the system term. Exact spectral group averaging derives a physical flux metric and unitary dressed dynamics; a full spectral transform supplies strong constraint-commuting observables and invariant intervention records. Bare conditional normalization is a distinct filtering prescription. This does not solve rate zeros or gravitational refoliation.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

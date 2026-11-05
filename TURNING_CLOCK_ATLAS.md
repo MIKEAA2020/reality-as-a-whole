@@ -157,3 +157,8 @@ We have gone beyond globally valid finite ideal frames: there is now a continuum
 What remains includes clocks whose velocity depends on the system, genuinely different deparametrizations of interacting constraints, and gravitational constraints with multiple local lapses/refoliations. The present atlas uses a supplied good periodic phase and a bounded noninteracting h; it is not a proof that every quantum clock admits this construction.
 
 This remains direct problem-of-time work within M0/W1-W6. It neither derives a preferred actual time nor settles phenomenal passage or necessary actuality.
+
+
+## Continuation: operator-valued clock velocity
+
+[The coupled-rate construction](INTERACTING_CLOCK_RATE.md) addresses the next interaction issue with a positive system-dependent rate, not another scalar reparametrization. It derives the physical metric from spectral group averaging, constructs strong kinematic Dirac representatives and checks recorded probabilities. Positivity excludes turning/rate-zero points in that model; combining noncommuting rate dependence with such zeros remains open.

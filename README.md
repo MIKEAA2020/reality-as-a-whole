@@ -64,6 +64,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Turning-clock atlas](TURNING_CLOCK_ATLAS.md): continuum periodic constraint, genuinely turning cosine readings, regular orientation-resolved cosine/sine charts, Jacobian-correct measures and invariant event records across a turn. Discarding orientation loses information; full-cycle gluing does not supply an unbounded winding counter.
 
+- [System-dependent clock rate](INTERACTING_CLOCK_RATE.md): positive operator-valued rate coupled noncommutatively to the system, self-adjoint real-clock constraint, spectral group averaging and derived flux inner product. Includes strong kinematic Dirac representatives, invariant event records, and an explicit distinction between bare conditioning and physical reduction. No gravitational refoliation or rate-zero solution is claimed.
+
 - [Modular local observable net](MODULAR_LOCAL_NET.md): bounded-interval algebras from the same modular translation orbit; explicit noncommuting local observables, locality, affine covariance, positive energy and global vacuum cyclicity, plus localized instruments and no-signaling. No independent derivation of the initial localization pair or four-dimensional spacetime is claimed.
 
 - [Local preparation and access cost](LOCAL_PREPARATION_AND_ACCESS.md): direct bounded-interval vacuum cyclicity proof, local conditional approximation to arbitrary vectors, and a Gaussian-tail bound forcing success probability to vanish for increasingly accurate preparation of a fixed disjoint Weyl target. No-signaling and local modular existence are established in the same net; algebraic density is not unrestricted operational access.
