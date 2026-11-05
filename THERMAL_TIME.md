@@ -87,6 +87,14 @@ This tightens the absolute-as-perspectives story in
 thermal-time flow is the missing structural step from "one timeless global
 state" to "observer experiences time."
 
+State-independence of physical time (response to the "which state?"
+objection): the [Connes–Rovelli cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md)
+shows modular groups for any two faithful normal states differ only by an
+inner automorphism (a unitary cocycle u_t), so they define one and the same
+outer automorphism class α_t ∈ Out(M) — state-independent physical time.
+Each observer's state-relative modular flow is the same physical time
+conjugated by their personal unitary "gauge."
+
 Limitations:
 
 - The modular flow identification is exact for Gibbs states on our quadratic
@@ -94,7 +102,9 @@ Limitations:
   exactly Gibbs, but Tomita theory still applies.
 - We use Gibbs states rather than the physical KMS state of the full
   gravitational+scalar system; the complete modular group of full quantum
-  gravity is not constructed.
+  gravity is not constructed. The cocycle construction is exhibited
+  numerically for bounce-neck states; the general theorem holds for all
+  faithful normal states by Connes' result.
 - Phenomenal constitution (why *this* modular flow feels like anything) is
   still the hard problem.
 
