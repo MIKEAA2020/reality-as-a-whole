@@ -77,6 +77,9 @@ All 50 deterministic verifiers pass.
   temporal experience, but what-it-is-like-to-be such a perspective is not
   derived or identified. The Russellian identification (intrinsic character of
   the physical as experiential) remains a conjecture, not a theorem.
+- **Bounce stability under asphericities**: the scalar dominates anisotropic
+  shear at the bounce neck by seven orders of magnitude ([WDW_BKL_STABILITY.md](WDW_BKL_STABILITY.md)),
+  quenching BKL mixmaster chaos for small initial perturbations.
 - **Hawking information loss is resolved** in the model: Hawking temperature,
   Stefan–Boltzmann luminosity, and a unitary Page curve are computed in
   [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md); information is preserved

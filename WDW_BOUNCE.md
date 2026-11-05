@@ -84,8 +84,11 @@ Limitations:
   unitarity through the bounce: pure states remain pure, Hawking radiation is
   entanglement with baby-universe partner modes, no fundamental information loss.
 - Hawking backreaction (evaporation racing the bounce) is not computed.
-- Full 3+1 (non-spherical) bounce stability is not analyzed; the BKL conjecture
-  suggests generic bounces are chaotic near singularities.
+- [BKL bounce stability](WDW_BKL_STABILITY.md) analyzes scalar vs anisotropic
+  shear energy at the neck: scalar dominates by seven orders of magnitude
+  (\(\rho_{\mathrm{aniso}}/\rho_\phi\sim 4\times10^{-7}\)), quenching
+  BKL mixmaster chaos for small initial asphericities. Large coherent excitations
+  and rotating (Kerr) BHs are not treated.
 - Phenomenal constitution remains open.
 
 ## 4. Verification
