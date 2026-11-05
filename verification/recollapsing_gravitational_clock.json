@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "classical_constraint_checks": 45,
+  "gamma_modulus_and_recurrence_checks": 8,
+  "bessel_ode_checks": 16,
+  "small_volume_asymptotic_checks": 4,
+  "largest_small_volume_mode_discrepancy": 2.844052385819751e-07,
+  "asymptotic_phase_delay_examples": [
+    {
+      "k": 10,
+      "quantum_asymptotic_intercept_sum": 5.993132888448827,
+      "classical_asymptotic_intercept_sum": 5.991464547107982
+    },
+    {
+      "k": 30,
+      "quantum_asymptotic_intercept_sum": 8.18887433027271,
+      "classical_asymptotic_intercept_sum": 8.1886891244442
+    },
+    {
+      "k": 100,
+      "quantum_asymptotic_intercept_sum": 10.596651401328927,
+      "classical_asymptotic_intercept_sum": 10.596634733096073
+    }
+  ],
+  "completed_record_branch_transport_checks": 15,
+  "untransported_event_probability_error_witness": 0.5878125500518161,
+  "complete_instrument_including_failure": true,
+  "rigging_jacobian_check": true,
+  "scope": [
+    "Actual flat FLRW Einstein-massless-scalar model with negative cosmological constant.",
+    "Declared densitization and factor ordering; one Hamiltonian constraint, no full refoliation algebra.",
+    "KL continuum identities/domains analytic; finite matrix controls are not KL discretization.",
+    "Completed instrument transport is exact passive representation, not a new gravity-coupled detector Hamiltonian.",
+    "No transplanted nongravitational detector error, singularity resolution or phenomenal constitution claim."
+  ]
+}
