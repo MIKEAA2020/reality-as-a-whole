@@ -91,21 +91,21 @@ For the example \(D=12\), \(m_0=20\), program eigenvalue \(22\), \(R_0=20\),
 - \(\psi(0)=1.0268539009\)
 - \(N(0)=0.9483806523\)
 - \(E_{ADM}=23.6776572000\)
-- \(E_{\mathrm{proper}}=21.5606444944\)
-- binding \(E_{ADM}-E_{\mathrm{proper}}=2.1170127056\)
+- \(E_{\mathrm{proper}}=24.1265757846\)
+- binding \(E_{ADM}-E_{\mathrm{proper}}=-0.4489185846\)
 - classical charge \(=1.0966586189\)
 - \(\max(1-N)=0.0516193477\)
 - \(\langle 1-N\rangle_m=0.0368515043\)
-- \(\delta_{\mathrm{curv}}=0.0366601699\)
-- total error slope \(\mu[\langle 1-N\rangle_m+\delta_{\mathrm{curv}}]
-  =1.6172568327\)
+- \(\delta_{\mathrm{curv}}=0.0777725260\)
+- total averaged error slope \(\mu[\langle 1-N\rangle_m+\delta_{\mathrm{curv}}]
+  =2.5217286666\)
 
 For a \(1\%\) relational record budget this gives
 \[
-  T_{\mathrm{rel}}\lesssim 0.0061833098
+  T_{\mathrm{rel}}\lesssim 0.0039655337
 \]
-using the averaged bound, or \(0.0051489345\) using the central bound. The
-nonlinear self-gravitating configuration has a few-percent dressing, so a
+using the averaged bound, or \(0.0035129366\) using the central worst-case bound.
+The nonlinear self-gravitating configuration has a few-percent dressing, so a
 percent-level record budget lasts only a short asymptotic time. That is
 physically correct: gravity is not negligible in this family.
 
@@ -116,17 +116,17 @@ For the same profile with \(\epsilon=3\times10^{-5}\), \(b=4\times10^{-5}\):
 - \(\psi(0)=1.0000217819\)
 - \(N(0)=0.9999564376\)
 - \(E_{ADM}=0.0194060790\)
-- \(E_{\mathrm{proper}}=0.0194045846\)
-- binding \(=1.4944027900\times10^{-6}\)
+- \(E_{\mathrm{proper}}=0.0194063779\)
+- binding \(=-2.9889399\times10^{-7}\)
 - \(\langle 1-N\rangle_m=3.0803546460\times10^{-5}\)
-- \(\delta_{\mathrm{curv}}=3.0803591100\times10^{-5}\)
-- total error slope \(=0.0013553570\)
+- \(\delta_{\mathrm{curv}}=6.1609566571\times10^{-5}\)
+- total averaged error slope \(=0.0020330885\)
 
 For a \(0.1\%\) relational budget,
 \[
-  T_{\mathrm{rel}}\lesssim 0.7378129752,
+  T_{\mathrm{rel}}\lesssim 0.4918625070,
 \]
-with the central bound \(0.6112275202\).
+with the central bound \(0.4321925634\).
 
 These are not “tiny” merely by numerology; they are the times over which the
 asymptotic observer can treat the dressed clock record as approximately faithful
@@ -150,10 +150,12 @@ Not supplied:
 - A quantum Einstein-constraint physical Hilbert space.
 - A derivation of the prepared state from the absolute constitution.
 
-The bound is valid only while the geometry remains within the strip around the
-constructed quasistatic configuration. It is a real step beyond the flat bound:
-the self-gravitating clock is not falsely treated as equivalent to a flat clock,
-and the gravitational dressing enters the record error explicitly.
+The bound is valid while the geometry remains within the dressing strip around
+the constructed initial data. The [linearized spherical continuation](LINEARIZED_SPHERICAL_RECORD.md)
+replaces the hand-frozen geometry assumption by Birkhoff’s theorem for spherical
+data, giving a static exterior Schwarzschild metric and an explicit dynamical-time
+interior correction. The self-gravitating clock is not falsely treated as
+equivalent to a flat clock.
 
 ## 5. Verification
 

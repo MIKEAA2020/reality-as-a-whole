@@ -386,9 +386,9 @@ and phenomenal constitution. Initial-data existence alone does not make a
 reliable self-gravitating clock, and fixed-background AQFT does not supply a
 quantization of refoliations.
 
-[Weak-backreaction relational records](WEAK_BACKREACTION_RECORD.md) now give
-that bound for a quasistatic dressing regime: record error is measured against
-asymptotic proper time, with explicit lapse-redshift and spatial-curvature
-terms. This is not a global non-perturbative evolution theorem. The next direct
-target remains control through genuinely nonlinear coupled Einstein–multiplet
-evolution, plus a quantum Einstein-constraint physical norm.
+[Weak-backreaction relational records](WEAK_BACKREACTION_RECORD.md) give the
+quasistatic dressing bound, and [linearized spherical records](LINEARIZED_SPHERICAL_RECORD.md)
+use Birkhoff’s theorem and Misner–Sharp areal compactness to justify a static
+exterior Schwarzschild metric with zero linear-order spherical radiation loss.
+Non-spherical/non-perturbative coupled evolution and a quantum
+Einstein-constraint physical norm remain open.
