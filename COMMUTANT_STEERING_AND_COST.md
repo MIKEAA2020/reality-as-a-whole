@@ -153,3 +153,8 @@ The physical bridge now has a general accuracy/probability criterion compatible 
 It also prevents three conflations: conditional approximation with deterministic control, full-commutant access with bounded-region access, and finite recorded statistics with identity of a full state. These distinctions constrain any proposed account of finite disclosure; they do not independently determine experiential quality or ownership.
 
 The initial modular/localization pair, actual reference state, realistic matter and constitutive Gamma/chi remain open. This is a further M0 construction within W1-W6, not a derivation of necessary actuality or a completed no-residue account.
+
+
+## Continuation: the actual control algebra
+
+[Localized preparation](LOCALIZED_PREPARATION_CRITERION.md) supplies the stronger exact criterion for a specified bounded control algebra and fixed global vector. It tests the target on the full control commutant, not merely a chosen distant readout algebra. It also gives the extension optimization for restricted targets and an exact correlated-environment example where the local optimum is strictly below the target-only bound.

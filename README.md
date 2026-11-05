@@ -66,6 +66,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Commutant steering and preparation cost](COMMUTANT_STEERING_AND_COST.md): exact full-commutant success optimum exp(-D_max), proved by state domination and standard-form implementation without local density matrices; smoothed error bounds, finite-readout relaxations and exact Schmidt-filter examples. Bounded-region attainability and full global-state preparation are explicitly distinguished.
 
+- [Localized preparation criterion](LOCALIZED_PREPARATION_CRITERION.md): necessary-and-sufficient complementary-state domination for a bounded local operator to prepare a fixed global vector, vector smoothing and regional monotonicity, plus an exact inaccessible-environment example with success optimum 9/50 rather than the target-only 1/2. Restricted targets require an extension optimization.
+
 - [Observation identifiability](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md): the reliability bounds needed to distinguish frozen experiential predictions, with exact rational checks and no claimed empirical calibration.
 
 - [Frozen maintained-disclosure contrast](MAINTAINED_DISCLOSURE_CANDIDATE.md): H_M1/H_D1, independent premises, a one-slot worked case, rejection conditions, and an executable preservation/observation audit.

@@ -72,6 +72,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **State-order preparation bridge:** [The commutant-cost theorem](COMMUTANT_STEERING_AND_COST.md) identifies the exact full-commutant success optimum as exp(-D_max), using standard-form vectors rather than assumed local density matrices. This explains the Gaussian exact-preparation obstruction and extends it to general normal target states. A bounded distant interval may not attain the commutant optimum; matching finite readouts does not identify the full target state.
 
+**Regional feasibility bridge:** [Localized preparation](LOCALIZED_PREPARATION_CRITERION.md) tests the complete complementary state of the specified control algebra, yielding an exact bounded-local-operator criterion for pure-vector targets. A finite correlated-environment example attains 9/50 where target-only access predicts 1/2. The field criterion uses commutants rather than assumed regional tensor factors; restricted-state targets require extension optimization.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).
