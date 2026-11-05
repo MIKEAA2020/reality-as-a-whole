@@ -68,6 +68,9 @@ Limitations:
 - Non-perturbative solutions, singularity resolution, and phenomenal
   constitution remain open.
 
+[WdW particle production](WDW_PARTICLE_PRODUCTION.md) quantifies
+cosmological-style Bogoliubov pair creation from R-clock "expansion."
+
 ## 4. Verification
 
 Run:
