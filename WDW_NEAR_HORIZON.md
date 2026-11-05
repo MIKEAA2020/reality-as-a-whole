@@ -73,11 +73,12 @@ catastrophe at the "breakdown" point:
 - The dressed quadratic theory transitions into a massless/super-horizon regime
   where particle production is real, not an error.
 
-What remains genuinely open: behavior *at* the horizon, trans-horizon structure,
-and singularity resolution inside (\(R<2M\)). The areal \(R\) remains timelike
-inside (signature change), which is the genuine quantum-gravity event-horizon/
-singularity problem—not a failure of our formalism but the point where new
-physics is required.
+Behavior *at* the horizon is standard curved-QFT mode-freezing (above).
+[WdW interior continuation](WDW_INTERIOR.md) shows \(R\) remains timelike
+(Kantowski–Sachs cosmological time) all the way through the interior, with
+quantum gravity required only in a universal short proper-time window before
+\(R=0\). Trans-Planckian singularity resolution (bounce/remnant/fuzzball/…) is
+the genuine remaining QG problem.
 
 ## 5. Verification
 
