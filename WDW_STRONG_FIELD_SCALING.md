@@ -59,8 +59,11 @@ Critical compactness (root search for \(\epsilon=1\)):
   [exact propagator](WDW_MAGNUS_EXACT.md), [radial/angular/anharmonic
   corrections](WDW_RADIAL_MODES.md)–[WDW_ANHARMONIC.md](WDW_ANHARMONIC.md))
   apply with quantitatively controlled errors.
-- Beyond \(C_{\mathrm{crit}}\) the theory needs genuine strong-field quantum
-  gravity (singularity/horizon resolution). This remains open.
+- The non-adiabatic threshold corresponds to horizon-exit of scalar rest-mass
+  modes, not a theory bug; [WdW near-horizon conformal structure](WDW_NEAR_HORIZON.md)
+  shows \(R\) remains well-defined as conformal time up to the horizon.
+- Beyond \(C=1\) (inside horizon, signature change) the theory needs genuine
+  trans-horizon quantum gravity. This remains open.
 
 ## 4. Verification
 

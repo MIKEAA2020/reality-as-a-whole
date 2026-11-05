@@ -1,0 +1,85 @@
+{
+  "near_horizon": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "C_weak": 3.66e-05,
+    "conformal_time_simplification": "eta = \u222b N dl = \u222b sqrt(1-C) * dR/sqrt(1-C) = R; areal R is conformal time for scalar in Schwarzschild (areal) gauge.",
+    "proper_length_cases": [
+      {
+        "C_target": 3.66e-05,
+        "proper_length": 22.657207315343886,
+        "avg_omega": 21.999798698772032,
+        "L_div_from_flat": 1.0000091501674486
+      },
+      {
+        "C_target": 0.5,
+        "proper_length": 26.54432652674371,
+        "avg_omega": 18.962433899661608,
+        "L_div_from_flat": 1.1715728704922854
+      },
+      {
+        "C_target": 0.9,
+        "proper_length": 34.427168981850585,
+        "avg_omega": 15.780962382068424,
+        "L_div_from_flat": 1.519493709751979
+      },
+      {
+        "C_target": 0.99,
+        "proper_length": 41.194428777491225,
+        "avg_omega": 14.800001020876708,
+        "L_div_from_flat": 1.8181766684685186
+      },
+      {
+        "C_target": 0.998,
+        "proper_length": 43.37293696632136,
+        "avg_omega": 14.694746768026329,
+        "L_div_from_flat": 1.9143283297136144
+      },
+      {
+        "C_target": 0.999,
+        "proper_length": 43.92133564036625,
+        "avg_omega": 14.680887236283136,
+        "L_div_from_flat": 1.938532711319515
+      }
+    ],
+    "horizon_exit_modes": {
+      "0.5": {
+        "a": 1.414213562373095,
+        "H_R": 0.022068234982566094,
+        "k_exit": 0.03120919720998135,
+        "k_compared_to_mu": 0.0014185998731809704
+      },
+      "0.9": {
+        "a": 3.16227766016838,
+        "H_R": 0.19861411484309488,
+        "k_exit": 0.628072978362436,
+        "k_compared_to_mu": 0.028548771743747092
+      },
+      "0.99": {
+        "a": 9.999999999999995,
+        "H_R": 2.1847552632740412,
+        "k_exit": 21.8475526327404,
+        "k_compared_to_mu": 0.9930705742154727
+      },
+      "0.998": {
+        "a": 22.360679774997887,
+        "H_R": 11.01204925630047,
+        "k_exit": 246.23690708663844,
+        "k_compared_to_mu": 11.192586685756293
+      },
+      "0.999": {
+        "a": 31.622776601683782,
+        "H_R": 22.04616674758351,
+        "k_exit": 697.1610059823029,
+        "k_compared_to_mu": 31.689136635559223
+      },
+      "0.9999": {
+        "a": 100.00000000000551,
+        "H_R": 220.66028159070268,
+        "k_exit": 22066.028159071484,
+        "k_compared_to_mu": 1003.0012799577947
+      }
+    },
+    "note": "Approaching C->1 the quadratic dressed theory's gap closes, but areal R remains a well-defined conformal coordinate with massless KG form; horizon-crossing modes are governed by k_exit = a H_R. Singularity resolution (what happens at C=1 and inside) remains the genuine open problem, not a mathematical bug."
+  }
+}
