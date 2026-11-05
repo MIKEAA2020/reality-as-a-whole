@@ -58,6 +58,8 @@ Limitations:
   derived; this is an information-theoretic skeleton for finitude, not an
   answer to the hard problem.
 
+[Synthesis](SYNTHESIS_WDW_TIME.md) consolidates the completed chain.
+
 ## 4. Verification
 
     python verification/perspectival_finitude.py
