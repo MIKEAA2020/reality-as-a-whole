@@ -108,11 +108,13 @@ static-Killing construction to a relational midisuperspace one:
 
 What this does not yet do:
 
-- integrate the non-static Einstein–scalar equations beyond the causal pre-signal window;
-- identify a fully reduced Hamiltonian without coordinate gauge fixing beyond
-  areal radius;
-- give a quantum constraint solution on midisuperspace;
+- integrate fully the non-static Einstein–scalar equations beyond the causal/burst regime;
+- identify a fully reduced non-semiclassical Hamiltonian beyond areal gauge fixing;
+- give a rigorous self-adjoint WdW physical Hilbert space on midisuperspace;
 - address non-spherical gravity or phenomenal constitution.
+
+[The WdW spherical R-clock](WDW_SPHERICAL_R_CLOCK.md) gives a semiclassical WKB
+internal-clock result using areal radius.
 
 [The non-static causality continuation](NONSTATIC_SPHERICAL_CAUSALITY.md) gives
 the controlled pre-signal window during which the static dressed clock remains
