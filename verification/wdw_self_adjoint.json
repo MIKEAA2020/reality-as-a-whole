@@ -1,0 +1,44 @@
+{
+  "weak_backreaction": {
+    "omega0": 22.0,
+    "omega_d": 21.99864469,
+    "V_op": 0.0013553100000000002,
+    "E0_0": 11.0,
+    "E0_d": 10.999322345,
+    "ground_state_positive": true,
+    "resolvent_norm_zj_undressed": 0.09053574604251853,
+    "resolvent_norm_zj_dressed": 0.09054127811692536,
+    "V_phi_coefficient": 0.05963364000000001,
+    "relative_Kato_bound": 6.1605e-05,
+    "resolvent_difference_bound": 5.5545491803278695e-06,
+    "spectrum_undressed_first11": [
+      11.0,
+      33.0,
+      55.0,
+      77.0,
+      99.0,
+      121.0,
+      143.0,
+      165.0,
+      187.0,
+      209.0,
+      231.0
+    ],
+    "spectrum_dressed_first11": [
+      10.999322345,
+      32.997967035,
+      54.996611724999994,
+      76.995256415,
+      98.99390110499999,
+      120.992545795,
+      142.991190485,
+      164.989835175,
+      186.988479865,
+      208.98712455499998,
+      230.985769245
+    ],
+    "essentially_selfadjoint": true,
+    "resolvent_convergent": true,
+    "note": "Kato-Rellich/Nelson analytic-vector theorem gives essential self-adjointness; dressed theory is a norm-resolvent perturbation of the undressed HO; Stone's theorem gives unique unitary Tomonaga flow in internal R-time."
+  }
+}

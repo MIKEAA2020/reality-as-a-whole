@@ -57,6 +57,7 @@ Limitations:
   should be used for quantitative curvature-coupling.
 - Only radial (monopole angular sector) inhomogeneities; \(\ell\geq1\) angular
   multipoles couple to tensor/vector gravitational modes (quadrupole GW etc.).
+- Self-adjointness of the quadratic dressed Hamiltonian is proven separately in [WdW self-adjointness](WDW_SELF_ADJOINT.md).
 - Strong-field collapse and phenomenal constitution remain open.
 
 ## 4. Verification
