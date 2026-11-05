@@ -68,6 +68,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Multiple clock constraints and measure](MULTI_CLOCK_CONSTRAINT_CLOSURE.md): exact self-adjoint noncommuting constraint pair with a nonconstant structure function, common physical quotient, strong selected Dirac algebra and consistent clock-update routes. An explicit non-Hermitian naive average is repaired by its clock Jacobian. This is not the gravitational hypersurface-deformation algebra.
 
+- [Classical tick extraction and finite-time event clocks](CLASSICAL_TICK_READOUT.md): full Wadhia et al. paper/supplement audit; exact finite-time activity-clock variance, equilibrium integer accumulator, bounded processed-rate comparison and readout-error composition. Apparatus dissipation is not a universal per-tick lower bound; raw-data and RF energy reproduction remain unsupplied.
+
 - [Energy-exchanging clock and coherence budget](ENERGY_EXCHANGE_CLOCK.md): the noncommuting-system extension, with unequal channel velocities, exact recoil/reflection and a product-preparation instrument retaining energy coherences. A disjoint-band lower bound and explicit full-output upper bound distinguish energy coherence from relative velocity accuracy; an energy-growing family converges to the ideal instrument.
 
 - [Finite-mass Hamiltonian clock and detector](HAMILTONIAN_CLOCK_DETECTOR.md): a bounded-below kinetic-plus-local-interaction model with exact transmission/reflection, a complete pointer instrument, auxiliary-time rigging and flux-normalized position descriptions. An analytic uniform error bound includes finite momentum bandwidth and spatial calibration; localization and detector-length costs are explicit. Not an atom-cloud calibration or finite-time arrival detector.
