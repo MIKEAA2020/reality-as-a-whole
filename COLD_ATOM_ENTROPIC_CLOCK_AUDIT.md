@@ -15,6 +15,8 @@ The other three experimental traces, the numerical width trace and the large num
 
 Reproducible check: [cold_atom_clock.py](verification/cold_atom_clock.py), [results](verification/cold_atom_clock.json). Its [attributed source subset](verification/sources/barontini_2026_clock_subset.json) is a manual decimal-preserving transcription of the two t/tau columns plus selected tied readouts, **not an original-byte download**. Listed original MD5 values are source metadata, not independently verified file hashes. The script hashes our transcription separately. Figure-like tables synthesized by PDF extraction were not treated as experimental data.
 
+**Full-data continuation:** [The five-trace comparison](COLD_ATOM_CLOCK_COMPARISON.md) now analyzes all 272 released experimental observations. It recovers and verifies all original-format sizes/MD5 values, gives uncertainty-box ordering witnesses and compares clock descriptions on common held-out rows. The bounded coverage and initial unverified-byte status described above belong to this first-pass audit, not the later complete normalized source archive.
+
 ## 2. What the experiment contributes
 
 The reported platform is an approximately isolated 87Rb condensate oscillating in a conservative trap, partitioned by an optical barrier into bright and dark sectors. The bright sector expands and recollapses while exchanging atoms with the dark sector. The main text follows 120 ms of evolution with absorption images at nominal 2 ms sampling, then constructs an internal ordering parameter from measured quantities. It reports broadly laboratory-compatible ordering across cycles and reproduces a measured width trace using an effective equation with an experimentally inferred entropy-dependent coefficient.
@@ -135,7 +137,7 @@ The article acknowledges its positive kinetic form versus the indefinite Wheeler
 5. **Keep entropic and modular time distinct.** A coarse-grained path accumulator is not automatically the state/algebra modular flow. Their equivalence would require an explicit map and matching observable predictions; the article itself leaves a possible limiting connection for future work.
 6. **Held-out validation:** an experimentally inferred pump reproducing a trace is valuable but not automatically an independent prediction. Test on withheld cycles, repeats or barrier settings with calibration fixed in advance.
 
-This paper changes the immediate opportunity: the time programme now has a concrete experimental target. Our exact constructions supply consistency and measure tests, but are not thereby experimentally verified. The next data step is the remaining released traces and uncertainty-aware clock comparison; full entropy reconstruction needs the atom-number/entropy or image-level inputs absent from the inspected columns.
+This paper changes the immediate opportunity: the time programme now has a concrete experimental target. Our exact constructions supply consistency and measure tests, but are not thereby experimentally verified. The [full five-trace comparison](COLD_ATOM_CLOCK_COMPARISON.md) supplies the next processed-data step, including order-calibration feasibility and held-out readout checks; full entropy reconstruction still needs the atom-number/entropy or image-level inputs absent from the released columns.
 
 ## 8. Scope
 
