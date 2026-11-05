@@ -81,10 +81,9 @@ spherical midisuperspace:
 Limitations:
 
 - This is a minisuperspace/homogeneous-mode reduction.
-- The WKB approximation is used; backreaction of \(\psi\) on the metric is not
-  quantized self-consistently.
-- Non-spherical modes, strong-field singularities, and phenomenal constitution
-  remain open.
+- The WKB approximation is used for amplitude normalization; non-WKB evolution is treated separately. Backreaction of \(\psi\) on the metric is not quantized self-consistently.
+
+[Non-semiclassical WdW harmonic evolution](WDW_HARMONIC_EVOLUTION.md) propagates quadratic-dressed Gaussian states exactly without WKB. Non-spherical modes, strong-field singularities, and phenomenal constitution remain open.
 
 ## 5. Verification
 
