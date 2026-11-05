@@ -64,8 +64,10 @@ All 50 deterministic verifiers pass.
   identifies the threshold as standard horizon-exit of rest-mass modes;
   [WdW interior continuation](WDW_INTERIOR.md) shows \(R\) remains timelike
   inside the horizon (Kantowski–Sachs) and only the final ~\(0.06\mu^{-1}\)
-  proper-time window needs trans-Planckian QG. An explicit bounce/resolution
-  is not supplied.
+  proper-time window needs trans-Planckian QG. [WdW bounce regularization](WDW_BOUNCE.md)
+  supplies one concrete unitary, finite-curvature candidate resolution (polymer
+  holonomy bounce with universal curvature cap); this is a toy mechanism, not a
+  first-principles derivation.
 - **Full 3+1 quantum gravity**: the spherical reduction and angular multipole
   estimates are a symmetry-reduced sector, not a completion of quantum GR.
 - **Phenomenal constitution (the hard problem)**: conditional states and
