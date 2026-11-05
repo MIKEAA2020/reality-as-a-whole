@@ -329,19 +329,17 @@ it does not evolve a numerical spacetime or solve Einstein's equations.
 spatial constraint closure including mixed terms, a conditional quantum dressing
 preservation theorem, and a joint quantum-motion/program error bound.
 
-**Not supplied:** a finite-size stress-energy completion of the point body,
+**Not supplied in the point-body model:** a finite-size stress-energy completion,
 its self-gravitating constrained solutions, an anomaly-free quantum baseline,
 physical relational local record probabilities in that baseline, or a derivation
 of prepared sources or phenomenal constitution. These are omissions, not proofs
 that the larger account is false.
 
-The next direct target is a **covariant finite-body completion**: regulate the
-localized source through additional dynamical matter rather than a fixed
-coordinate smearing. A prescribed spatial profile can spoil (1)–(3); a regulator
-must transport with the body and include its own stress-energy and constraints.
-A concrete candidate is a dynamical complex scalar multiplet with mass matrix
-(m_0+A)^2. Smooth field data then give a nonsingular local matter source, but
-localization, wavepacket spreading and recovery of the carried-record bounds
-must be derived rather than inherited from the worldline approximation.
-The point-body bracket result cannot be promoted to full local quantum gravity
-by ignoring that step.
+[Smooth dynamical clock matter](SMOOTH_FIELD_CLOCK.md) now provides the
+scalar-multiplet continuation: a covariant action and classical spatial closure,
+a contraction proof of smooth self-gravitating initial data, normalizable
+Gaussian flat-limit program bounds, and a region-preserving local field-algebra
+isomorphism. It is a smooth finite-energy field model, not a stable bound
+apparatus. The next direct target is relational record control through actual
+coupled gravitational evolution; neither the point-body result nor its smooth
+completion supplies a quantum Einstein constraint baseline.
