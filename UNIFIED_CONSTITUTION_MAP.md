@@ -68,6 +68,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Same-model localization bridge:** [The local-net continuation](MODULAR_LOCAL_NET.md) defines bounded-region algebras by intersections of translated half-line algebras and their commutants. Explicit compact smears prove each intersection nonabelian; the same modular translations implement localization covariance. Disjoint locality, positive energy, global vacuum cyclicity, localized recorded interventions and unconditioned no-signaling now coexist in one Fock model. The initial localization embedding remains supplied; full conformal-net and higher-dimensional spacetime reconstruction are not claimed.
 
+**Local/global access bridge:** [The interval-cyclicity continuation](LOCAL_PREPARATION_AND_ACCESS.md) proves local vacuum cyclicity and standardness in that same net. It converts density into normalized conditional preparation instruments, while no-signaling and Gaussian tails force the success rate to vanish for arbitrarily accurate preparation of a fixed disjoint displacement target. Local mathematical density and finite operational access are thereby separated quantitatively; no experiential incidence is assigned.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

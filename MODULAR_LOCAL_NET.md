@@ -186,3 +186,8 @@ What remains input is substantial: the original standard real subspace and inclu
 There is no derivation here of a second light-ray direction, a Lorentzian metric in higher dimension, realistic interacting matter, a gravitational constraint algebra, finite phenomenal ownership or necessary actuality. The local net is nevertheless a genuine additional construction: the same modular data now support bounded nonabelian localization, positive transport, causal commutation and intervention records, rather than separate models for each.
 
 This continues M0 within W1-W6. It strengthens the physical/mathematical bridge without substituting that bridge for the experiential, constitutive or no-brute-facts completion requirements.
+
+
+## Continuation: interval standardness and the cost of conditional access
+
+[Local preparation and access cost](LOCAL_PREPARATION_AND_ACCESS.md) supplies the bounded-interval cyclicity proof deliberately left open above. Together with separation this establishes interval modular existence. It constructs complete local preparation instruments and proves a vanishing-success bound for increasingly accurate preparation of a fixed disjoint target. The conditional global reach does not evade unconditioned no-signaling.
