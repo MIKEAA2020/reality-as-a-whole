@@ -112,8 +112,8 @@ thesis requires.
 ## 5. What remains open
 
 - **Derivation of the specific matter content and symmetries** of our actual
-  universe (Standard Model + gravity). Our model uses a single massive scalar
-  in spherical symmetry.
+  universe (Standard Model + gravity); see the open uniqueness problem in
+  [Necessary existence argument](NECESSARY_EXISTENCE_ARGUMENT.md).
 - **Necessary existence proof**: why there is anything at all, and why this
   rather than nothing. Mathematics shows consistency and closure, not
   necessity.
