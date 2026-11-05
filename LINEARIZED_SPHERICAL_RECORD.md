@@ -146,13 +146,16 @@ The improvement over the earlier quasistatic bound is conceptual and structural:
 - Horizon checks use the **Misner–Sharp/areal-radius compactness**, not a naive
   coordinate-radius ratio.
 
-Still not supplied:
+Still not supplied in the classical spherical analysis:
 
 - Non-spherical data, where quadrupole radiation and angular momentum are
   possible.
 - Strong-field collapse beyond the linear/dynamical-time estimate.
-- Quantum Einstein constraints or a physical Hilbert space for quantum gravity.
-- A derivation of the prepared field state from the absolute constitution.
+
+[The quantum static spherical continuation](QUANTUM_STATIC_SPHERICAL_CLOCK.md)
+constructs a symmetry-reduced physical Hilbert-space/Hamiltonian pair and
+proves a quantum relational bound in that sector; full quantum Einstein
+closure and phenomenal constitution remain open.
 
 ## 5. Verification
 
