@@ -284,8 +284,10 @@ this conditional theorem.
 
 Source fidelities still require a preparation model or a sampling protocol with
 stated statistical assumptions; swap agreement cannot supply them unaided.
-Rather than indefinitely extending the ancillary-hardware chain, the next direct
-problem-of-time target is **spatial constraint consistency**: localize a reference/
-record coupling and test Hamiltonian–diffeomorphism constraint closure. The
-homogeneous clock's successful relational evolution cannot by itself establish
-refoliation consistency or anomaly-free local quantum gravity.
+[The localized carried-clock construction](LOCALIZED_CONSTRAINT_CLOCK.md) now
+addresses this spatial target: the full program contributes to a covariant body
+mass, its classical matter/mixed ADM brackets close, and internal unitary dressing
+preserves any supplied quantum baseline algebra. The explicit quantum motion
+check is on a fixed flat background. A finite-body/self-gravity completion and
+an anomaly-free quantum Einstein baseline remain unsupplied; homogeneous
+relational evolution alone cannot establish them.

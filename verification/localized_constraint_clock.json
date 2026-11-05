@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "classical_local_algebra": {
+    "spatial_dimension": 3,
+    "metric_lapse_shift_jet_cases": 240,
+    "bracket_identity_checks": 720,
+    "maximum_bracket_residual": 7.105427357601002e-15,
+    "maximum_gravity_matter_cross_residual": 0.0,
+    "maximum_error_if_metric_shift_action_is_omitted": 1.151077201977337,
+    "scope": "Matter-sector and mixed local identities on smooth ADM kinematic data, not a discretized Einstein evolution."
+  },
+  "finite_carried_program": {
+    "hilbert_dimension": 12,
+    "clock_sites": 3,
+    "register_bits": 2,
+    "hopping": 0.05,
+    "internal_source_offset": 2.0,
+    "additional_rest_mass": 20.0,
+    "minimum_total_mass": 21.929289321881345,
+    "maximum_total_mass": 22.070710678118655,
+    "rest_copy_proper_duration": 44.428829381583654,
+    "exact_rest_copy": true,
+    "full_register_basis_copy_checks": 4,
+    "relativistic_mass_functional_calculus_checks": 4,
+    "maximum_mass_functional_calculus_residual": 2.2737367544323206e-13,
+    "initial_internal_energy": 1.9999999999999996,
+    "final_internal_energy": 1.9999999999999991,
+    "finite_clock_recurrence_proper_duration": 88.85765876316731,
+    "moving_body_fixed_flat_background_cases": [
+      {
+        "momentum_center": 0.0,
+        "momentum_half_width": 0.0,
+        "coordinate_duration": 44.428829381583654,
+        "nominal_proper_duration": 44.428829381583654,
+        "uniform_joint_half_diamond_error_bound": 0.0,
+        "uniform_raw_unitary_operator_error_bound": 0.0,
+        "sampled_maximum_operator_error": 6.661338147750939e-15,
+        "sampled_maximum_full_state_trace_distance": 4.802009392837411e-15
+      },
+      {
+        "momentum_center": 11.0,
+        "momentum_half_width": 0.0,
+        "coordinate_duration": 49.6729413289805,
+        "nominal_proper_duration": 44.428829381583654,
+        "uniform_joint_half_diamond_error_bound": 0.0010175728874390257,
+        "uniform_raw_unitary_operator_error_bound": 0.0010175728874390257,
+        "sampled_maximum_operator_error": 0.0010123487093238934,
+        "sampled_maximum_full_state_trace_distance": 0.0005048795070652646
+      },
+      {
+        "momentum_center": 11.0,
+        "momentum_half_width": 0.01,
+        "coordinate_duration": 49.6729413289805,
+        "nominal_proper_duration": 44.428829381583654,
+        "uniform_joint_half_diamond_error_bound": 0.0015901673675074624,
+        "uniform_raw_unitary_operator_error_bound": 0.0015901673675074624,
+        "sampled_maximum_operator_error": 0.0015849383363794947,
+        "sampled_maximum_full_state_trace_distance": 0.0006482517428043542
+      },
+      {
+        "momentum_center": 11.0,
+        "momentum_half_width": 0.1,
+        "coordinate_duration": 49.6729413289805,
+        "nominal_proper_duration": 44.428829381583654,
+        "uniform_joint_half_diamond_error_bound": 0.006752755459690306,
+        "uniform_raw_unitary_operator_error_bound": 0.006752755459690306,
+        "sampled_maximum_operator_error": 0.0067474715339174785,
+        "sampled_maximum_full_state_trace_distance": 0.0040802611627162155
+      }
+    ]
+  },
+  "scope": [
+    "Localized worldline matter with an internal finite Hamiltonian.",
+    "Classical hypersurface-deformation identities include the metric transformation and dynamical particle position.",
+    "Point-source self-gravity needs a regularization or finite-body completion.",
+    "The quantum calculation is on a fixed flat background; no anomaly-free quantum Einstein algebra is claimed.",
+    "Moving mass superpositions need not run at one sharp proper-time rate.",
+    "No source synthesis, singularity resolution, permanent latch or phenomenal constitution."
+  ]
+}
