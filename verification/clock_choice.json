@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rationals; common unitary square roots canceled",
+  "same_constraint_noncommuting_clocks": true,
+  "old_reading_weights": [
+    "1/2",
+    "1/2"
+  ],
+  "new_reading_weights": [
+    "4/5",
+    "1/5"
+  ],
+  "weighted_transformed_constraint_verified": true,
+  "naive_equal_weight_replacement_changes_kernel": true,
+  "anchored_two_event_probabilities_all_frames": [
+    [
+      "81/625",
+      "144/625"
+    ],
+    [
+      "256/625",
+      "144/625"
+    ]
+  ],
+  "moving_frame_record_probabilities_verified": true,
+  "bad_clock_erases_two_orthogonal_physical_states": true,
+  "invertible_filter_joint_recovery_probability": "9/25",
+  "pulled_back_metric_self_adjointness_verified": true,
+  "analytic_not_just_finite_checks": [
+    "ideal evaluation criterion E_c^* E_c=w_c I",
+    "frame composition and anchored instrument equivalence",
+    "probabilistic inverse-filter recovery formula"
+  ],
+  "not_solved": [
+    "global monotonic clock or turning points",
+    "gravitational refoliation algebra",
+    "physical clock/state/localization selection",
+    "unique physical time"
+  ]
+}

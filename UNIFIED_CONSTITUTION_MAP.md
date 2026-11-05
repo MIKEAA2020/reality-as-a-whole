@@ -74,6 +74,8 @@ No current AQFT construction in this repository is a realistic theory of a brain
 
 **Regional feasibility bridge:** [Localized preparation](LOCALIZED_PREPARATION_CRITERION.md) tests the complete complementary state of the specified control algebra, yielding an exact bounded-local-operator criterion for pure-vector targets. A finite correlated-environment example attains 9/50 where target-only access predicts 1/2. The field criterion uses commutants rather than assumed regional tensor factors; restricted-state targets require extension optimization.
 
+**Direct clock-choice bridge:** [The same-constraint clock comparison](CLOCK_CHOICE_EQUIVALENCE.md) constructs noncommuting ideal clock frames with different reduced transports and identical anchored intervention records. It keeps the physical space and inner product fixed, transforms the weighted constraint, and exhibits both lossy and invertibly imperfect readings. This is direct constrained-time work; the intervening access-cost results support it but do not solve time by themselves.
+
 For a finite physical model with state set X, let C(X) be the commutative algebra of complex-valued functions on X. A probability distribution mu defines the state
 
     omega_mu(f) = sum_x mu(x) f(x).

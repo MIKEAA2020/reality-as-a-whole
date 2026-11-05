@@ -204,3 +204,8 @@ The example provides an infinite von Neumann-algebra inclusion, not a complete f
 ## Continuation: localization from the same translation orbit
 
 [The modular local net](MODULAR_LOCAL_NET.md) constructs A((a,b))=M_a intersect M_b' on the same Fock space. It proves that every interval contains noncommuting observables, establishes locality and affine covariance, and gives localized record instruments and a no-signaling theorem. No bounded-interval cyclicity or complete conformal-net reconstruction is inferred from these results.
+
+
+## Direct time continuation: testing clock equivalence
+
+[The clock-choice construction](CLOCK_CHOICE_EQUIVALENCE.md) returns to the unresolved problem of when different clocks describe one physical constrained system. Its ideal-evaluation and anchored-event tests also apply to a proposed modular clock. Separate modular flows or a Connes cocycle alone do not establish that they reduce the same constraint.

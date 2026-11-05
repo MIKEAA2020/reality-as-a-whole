@@ -214,3 +214,8 @@ The executable also verifies a causal-diamond graph: its undirected loop can hav
 **Not derived:** why these transports, graph, clock, or preparation are actual or necessary; a continuum clock or arrow of time; unrestricted non-inner or unmodelled-memory instrument processes; arbitrary physical clock changes; the gravitational hypersurface-deformation constraint algebra; spacetime geometry; or finite qualitative ownership. A one-clock history does not by itself solve these additional problems.
 
 This is a constructive result within physical adequacy M0 and the existing W1-W6 programme, not a new rival programme. The noncommutative observable algebra and its conditional predictions are preserved rather than replaced by a classical valuation. Normative and experiential obligations remain jointly binding.
+
+
+## Clock-choice continuation
+
+[Clock-choice equivalence](CLOCK_CHOICE_EQUIVALENCE.md) compares two noncommuting readings of the same constrained history. It proves when evaluations give unitary physical frames, checks the weighted transformed constraint and anchored record probabilities, and distinguishes failed clock conditioning from a genuine equivalent reduction. This addresses clock choice within the model, not gravitational refoliation.
