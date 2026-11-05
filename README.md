@@ -68,6 +68,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Multiple clock constraints and measure](MULTI_CLOCK_CONSTRAINT_CLOSURE.md): exact self-adjoint noncommuting constraint pair with a nonconstant structure function, common physical quotient, strong selected Dirac algebra and consistent clock-update routes. An explicit non-Hermitian naive average is repaired by its clock Jacobian. This is not the gravitational hypersurface-deformation algebra.
 
+- [A gravitating proper-time clock](GRAVITATING_PROPER_TIME_CLOCK.md): a lapse-coupled comoving oscillator changes the Einstein–scalar constraint to an exactly solvable Morse problem. Conditional reflection derives a complete Ramsey instrument, gravitationally dressed record effects and a proper-time response with classical limit. Negative auxiliary bound modes are handled by the constraint; finite-time readout hardware and full refoliation remain open.
+
 - [Recollapsing Einstein–scalar clocks](RECOLLAPSING_GRAVITATIONAL_CLOCK.md): derive an actual FLRW gravitational constraint, its scalar-time physical norm and exact quantum reflection between oriented geometric asymptotes. Completed event instruments transform on the common physical space, including failure; finite-volume detector backreaction and full refoliation remain open.
 
 - [Finite completion and controlled future escape](FINITE_COMPLETION_CLOCK.md): one recorder/stopping-pointer/completion-flag Hamiltonian supplies a complete finite-time instrument, a uniform all-future record bound and an explicit comparison to conserved outgoing records. A Cook escape estimate controls late recrossing amplitudes; no continuous first-click monitoring, noise-proof permanence or gravitational solution is claimed.

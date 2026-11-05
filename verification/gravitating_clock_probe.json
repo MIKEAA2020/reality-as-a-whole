@@ -1,0 +1,138 @@
+{
+  "status": "passed",
+  "classical_backreacted_constraints": 120,
+  "whittaker_mode_ode_checks": 64,
+  "zero_probe_bessel_checks": 16,
+  "negative_bound_mode_ode_checks": 21,
+  "phase_response_checks": 12,
+  "detector_frequency": 0.6,
+  "detector_energies": [
+    0.3,
+    0.8999999999999999
+  ],
+  "morse_parameters": [
+    0.19999999999999998,
+    0.6
+  ],
+  "detector_record_examples": [
+    {
+      "k": 0.4,
+      "probability_plus": 0.20253525351222382,
+      "probability_minus": 0.7974647464877763
+    },
+    {
+      "k": 0.7,
+      "probability_plus": 0.4101847968662521,
+      "probability_minus": 0.5898152031337479
+    },
+    {
+      "k": 1,
+      "probability_plus": 0.4919405301920478,
+      "probability_minus": 0.5080594698079521
+    },
+    {
+      "k": 2,
+      "probability_plus": 0.5764069666950062,
+      "probability_minus": 0.4235930333049938
+    },
+    {
+      "k": 4,
+      "probability_plus": 0.6159712227635057,
+      "probability_minus": 0.3840287772364943
+    },
+    {
+      "k": 8,
+      "probability_plus": 0.6353638082606765,
+      "probability_minus": 0.36463619173932343
+    }
+  ],
+  "proper_time_classical_limit": [
+    {
+      "k": 10,
+      "kappa": 0.2,
+      "quantum_response": 2.1210804970566586,
+      "classical_proper_duration": 2.121058214357396
+    },
+    {
+      "k": 30,
+      "kappa": 0.2,
+      "quantum_response": 2.103284682890749,
+      "classical_proper_duration": 2.1032838595983527
+    },
+    {
+      "k": 100,
+      "kappa": 0.2,
+      "quantum_response": 2.0970617877271374,
+      "classical_proper_duration": 2.097061765504315
+    },
+    {
+      "k": 10,
+      "kappa": 0.6,
+      "quantum_response": 2.17436572945297,
+      "classical_proper_duration": 2.1742993092214724
+    },
+    {
+      "k": 30,
+      "kappa": 0.6,
+      "quantum_response": 2.121060682478217,
+      "classical_proper_duration": 2.121058214357396
+    },
+    {
+      "k": 100,
+      "kappa": 0.6,
+      "quantum_response": 2.102395073059469,
+      "classical_proper_duration": 2.1023950063952688
+    },
+    {
+      "k": 10,
+      "kappa": 1.2,
+      "quantum_response": 2.2537636827799474,
+      "classical_proper_duration": 2.2536336704176465
+    },
+    {
+      "k": 30,
+      "kappa": 1.2,
+      "quantum_response": 2.147704942971372,
+      "classical_proper_duration": 2.147700018557582
+    },
+    {
+      "k": 100,
+      "kappa": 1.2,
+      "quantum_response": 2.110394467759149,
+      "classical_proper_duration": 2.1103943344595435
+    }
+  ],
+  "ignored_detector_geometry_purity_witness": 0.9843970985129054,
+  "weak_probe_examples": [
+    {
+      "oscillator_frequency": 0.03,
+      "analytic_minus_probability_bound": 0.05423624305141014,
+      "sampled_minus_probability": 0.0010075035182382233
+    },
+    {
+      "oscillator_frequency": 0.01,
+      "analytic_minus_probability_bound": 0.005849770441969773,
+      "sampled_minus_probability": 0.00011013344930827568
+    },
+    {
+      "oscillator_frequency": 0.003,
+      "analytic_minus_probability_bound": 0.0005211031508314817,
+      "sampled_minus_probability": 9.88229672010232e-06
+    },
+    {
+      "oscillator_frequency": 0.001,
+      "analytic_minus_probability_bound": 5.77315521648604e-05,
+      "sampled_minus_probability": 1.097083300046659e-06
+    }
+  ],
+  "excited_channel_negative_auxiliary_levels": [
+    -0.009999999999999995
+  ],
+  "scope": [
+    "Action-derived homogeneous comoving oscillator energy in the gravitational constraint.",
+    "Gravitational Ramsey/phase clock, not the old arrival/completion apparatus coupled by assertion.",
+    "Negative auxiliary bound modes removed by the real-spectrum constraint, not an unjustified square root.",
+    "Incoming-channel product preparation; finite-volume wavefunction is not assumed factorized.",
+    "No inhomogeneous refoliation, fully modelled preparation/readout engine, finite completion guarantee or singularity resolution."
+  ]
+}
