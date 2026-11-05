@@ -1,0 +1,215 @@
+{
+  "status": "passed",
+  "later_detector_transport_matrix_units": 4,
+  "cases": [
+    {
+      "reference": {
+        "ladder_maximum_level": 32,
+        "ladder_dimension": 33,
+        "reservoir_mean_initial_energy": 3.2,
+        "reservoir_maximum_energy": 6.4,
+        "reservoir_initial_energy_variance": 1.338262621603651,
+        "adjacent_shift_overlap": 0.9951847266721969,
+        "opposite_shift_overlap": 0.9813857403906295,
+        "full_output_isometry_error_bound": 0.06939217050794039,
+        "reduced_complete_instrument_half_diamond_bound": 0.007061201566244152,
+        "eigeninput_wrong_record_probability": 0.0024076366639015356,
+        "energy_charge_involution_checks": 66,
+        "instrument_matrix_unit_outcome_checks": 8,
+        "free_evolution_covariance_checks": 12,
+        "wrong_record_probabilities": [
+          0.0024076366639015565,
+          0.0024076366639015565
+        ],
+        "energy_exchange_witnesses": [
+          {
+            "input_energy_level": 0,
+            "system_energy_change": 0.1,
+            "reservoir_energy_change": -0.10000000000000009,
+            "reference_fidelity_after_use": 0.9951963201008076
+          },
+          {
+            "input_energy_level": 1,
+            "system_energy_change": -0.1,
+            "reservoir_energy_change": 0.10000000000000053,
+            "reference_fidelity_after_use": 0.9951963201008076
+          }
+        ]
+      },
+      "clock_positions": 4096,
+      "program_length": 8,
+      "physical_root_dimension": 34603008,
+      "fixed_system_frequency": 0.1,
+      "fixed_system_energy_gap": 0.2,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 1373.1652714631362,
+      "gravitational_frequency": 1024.0,
+      "cosmological_constant": -1398101.3333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "gravitational_radial_level": 0,
+      "total_matter_energy_lower_bound": 1373.0340214631362,
+      "total_matter_energy_upper_bound": 1379.6965214631362,
+      "gravitational_center": 1424.3652714631362,
+      "gravitational_half_width": 104.76193363804765,
+      "gravitational_spectral_margin": 53.43068363804764,
+      "mean_total_initial_energy_for_zero_system_mean": 1376.3652714631362,
+      "initial_clock_hopping_energy_std": 0.015625,
+      "initial_total_energy_variance_upper_bound": 1.348506762228651,
+      "readout_window": [
+        8192.0,
+        16384.0
+      ],
+      "source_pending_probability_bound": 6.1035156265625e-05,
+      "clock_incomplete_probability_bound": 0.012451171875223172,
+      "complete_record_half_diamond_bound": 0.019424453207120423,
+      "conditional_complete_record_half_diamond_bound": 0.007061201566244152,
+      "gravitational_spectrum_inverse_checks": 15,
+      "no_omega_times_duration_term": true
+    },
+    {
+      "reference": {
+        "ladder_maximum_level": 128,
+        "ladder_dimension": 129,
+        "reservoir_mean_initial_energy": 12.8,
+        "reservoir_maximum_energy": 25.6,
+        "reservoir_initial_energy_variance": 21.412407074144834,
+        "adjacent_shift_overlap": 0.9996988186962044,
+        "opposite_shift_overlap": 0.9988048667035694,
+        "full_output_isometry_error_bound": 0.01735457587484174,
+        "reduced_complete_instrument_half_diamond_bound": 0.0004493739760054738,
+        "eigeninput_wrong_record_probability": 0.0001505906518978195,
+        "energy_charge_involution_checks": 258,
+        "instrument_matrix_unit_outcome_checks": 8,
+        "free_evolution_covariance_checks": 12,
+        "wrong_record_probabilities": [
+          0.00015059065189788992,
+          0.00015059065189788992
+        ],
+        "energy_exchange_witnesses": [
+          {
+            "input_energy_level": 0,
+            "system_energy_change": 0.1,
+            "reservoir_energy_change": -0.09999999999999609,
+            "reference_fidelity_after_use": 0.9996988640512932
+          },
+          {
+            "input_energy_level": 1,
+            "system_energy_change": -0.1,
+            "reservoir_energy_change": 0.10000000000000675,
+            "reference_fidelity_after_use": 0.9996988640512932
+          }
+        ]
+      },
+      "clock_positions": 16384,
+      "program_length": 8,
+      "physical_root_dimension": 541065216,
+      "fixed_system_frequency": 0.1,
+      "fixed_system_energy_gap": 0.2,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 1373.1652714631362,
+      "gravitational_frequency": 1024.0,
+      "cosmological_constant": -1398101.3333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "gravitational_radial_level": 0,
+      "total_matter_energy_lower_bound": 1373.0340214631362,
+      "total_matter_energy_upper_bound": 1398.896521463136,
+      "gravitational_center": 1424.3652714631362,
+      "gravitational_half_width": 104.76193363804765,
+      "gravitational_spectral_margin": 53.43068363804764,
+      "mean_total_initial_energy_for_zero_system_mean": 1385.965271463136,
+      "initial_clock_hopping_energy_std": 0.015625,
+      "initial_total_energy_variance_upper_bound": 21.422651214769836,
+      "readout_window": [
+        32768.0,
+        65536.0
+      ],
+      "source_pending_probability_bound": 3.81469726953125e-06,
+      "clock_incomplete_probability_bound": 0.0007781982422432924,
+      "complete_record_half_diamond_bound": 0.0012272225162105288,
+      "conditional_complete_record_half_diamond_bound": 0.0004493739760054738,
+      "gravitational_spectrum_inverse_checks": 15,
+      "no_omega_times_duration_term": true
+    },
+    {
+      "reference": {
+        "ladder_maximum_level": 512,
+        "ladder_dimension": 513,
+        "reservoir_mean_initial_energy": 51.2,
+        "reservoir_maximum_energy": 102.4,
+        "reservoir_initial_energy_variance": 342.59852598839353,
+        "adjacent_shift_overlap": 0.999981175282601,
+        "opposite_shift_overlap": 0.9999248489058652,
+        "full_output_isometry_error_bound": 0.0043387460629774055,
+        "reduced_complete_instrument_half_diamond_bound": 2.8200132233202613e-05,
+        "eigeninput_wrong_record_probability": 9.412358699500967e-06,
+        "energy_charge_involution_checks": 1026,
+        "instrument_matrix_unit_outcome_checks": 8,
+        "free_evolution_covariance_checks": 12,
+        "wrong_record_probabilities": [
+          9.412358699428666e-06,
+          9.412358699428666e-06
+        ],
+        "energy_exchange_witnesses": [
+          {
+            "input_energy_level": 0,
+            "system_energy_change": 0.1,
+            "reservoir_energy_change": -0.10000000000002984,
+            "reference_fidelity_after_use": 0.999981175459786
+          },
+          {
+            "input_energy_level": 1,
+            "system_energy_change": -0.1,
+            "reservoir_energy_change": 0.0999999999999801,
+            "reference_fidelity_after_use": 0.999981175459786
+          }
+        ]
+      },
+      "clock_positions": 65536,
+      "program_length": 8,
+      "physical_root_dimension": 8606711808,
+      "fixed_system_frequency": 0.1,
+      "fixed_system_energy_gap": 0.2,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 1373.1652714631362,
+      "gravitational_frequency": 1024.0,
+      "cosmological_constant": -1398101.3333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "gravitational_radial_level": 0,
+      "total_matter_energy_lower_bound": 1373.0340214631362,
+      "total_matter_energy_upper_bound": 1475.6965214631362,
+      "gravitational_center": 1424.3652714631362,
+      "gravitational_half_width": 104.76193363804765,
+      "gravitational_spectral_margin": 53.43068363804764,
+      "mean_total_initial_energy_for_zero_system_mean": 1424.3652714631362,
+      "initial_clock_hopping_energy_std": 0.015625,
+      "initial_total_energy_variance_upper_bound": 342.6087701290185,
+      "readout_window": [
+        131072.0,
+        262144.0
+      ],
+      "source_pending_probability_bound": 2.38418580078125e-07,
+      "clock_incomplete_probability_bound": 4.863739015066686e-05,
+      "complete_record_half_diamond_bound": 7.683615080303574e-05,
+      "conditional_complete_record_half_diamond_bound": 2.8200132233202613e-05,
+      "gravitational_spectrum_inverse_checks": 15,
+      "no_omega_times_duration_term": true
+    }
+  ],
+  "scope": [
+    "Fixed H_S=0.1 X_S is retained at every clock site.",
+    "Finite reservoir energy and coherence are counted; every programmed gate conserves H_S+H_B.",
+    "Uniform-in-duration reference error, but finite-clock completion window and recurrences remain.",
+    "Target is initial S Z relative to the finite reservoir phase, with exact subsequent free S rotation.",
+    "Reduced instrument and full reservoir-output errors are different; no free repeated reservoir reuse.",
+    "Reservoir/source initial preparation, extraction/reset, local gravity and phenomenal constitution remain open."
+  ]
+}
