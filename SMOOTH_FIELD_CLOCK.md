@@ -386,7 +386,9 @@ and phenomenal constitution. Initial-data existence alone does not make a
 reliable self-gravitating clock, and fixed-background AQFT does not supply a
 quantization of refoliations.
 
-The next direct target is a **weak-backreaction relational record bound**:
-control the internal program along the genuinely evolving self-gravitating
-field, with a relationally specified interrogation, rather than importing the
-flat-space coordinate-duration bound into a dynamic geometry without proof.
+[Weak-backreaction relational records](WEAK_BACKREACTION_RECORD.md) now give
+that bound for a quasistatic dressing regime: record error is measured against
+asymptotic proper time, with explicit lapse-redshift and spatial-curvature
+terms. This is not a global non-perturbative evolution theorem. The next direct
+target remains control through genuinely nonlinear coupled Einstein–multiplet
+evolution, plus a quantum Einstein-constraint physical norm.
