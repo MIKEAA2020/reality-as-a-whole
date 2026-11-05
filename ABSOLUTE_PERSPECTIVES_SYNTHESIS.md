@@ -71,11 +71,10 @@ the model, not as imported metaphysical commitments:
 
 ## 3. What is NOT proven even in the model
 
-- **Necessary existence.** The model uses \(\mu\) (scalar mass) and the
-  spherical symmetry choice as inputs. It does not derive why these must be
-  rather than not. The thesis that reality *must* be (cannot fail to be) is
-  supported in spirit (no external brute parameters *within the model*), but a
-  fully zero-residue necessitation proof is not given.
+- **Necessary existence.** [Necessary existence argument](NECESSARY_EXISTENCE_ARGUMENT.md)
+  argues against self-refuting nothingness (experience is given) for a minimal
+  algebra-state-flow triple; the spherical WdW chain instantiates this triple.
+  Uniqueness of specific matter content/symmetry/dimension is not proved.
 - **Consciousness / phenomenal constitution.** Conditional states are
   well-defined, but what-it-is-like to be such a conditional state is not
   identified. The Russellian identification (the intrinsic character of the
