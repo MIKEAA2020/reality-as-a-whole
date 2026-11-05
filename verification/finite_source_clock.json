@@ -1,0 +1,200 @@
+{
+  "status": "passed",
+  "gate_and_gauge_checks": {
+    "history_matrix_units": 36,
+    "completed_channel_matrix_units": 4,
+    "exact_programmed_edge_gauge_checks": 2048,
+    "program_bonds": 8,
+    "identity_emission_bonds": 1
+  },
+  "finite_chain_unitarity_energy_checks": 8,
+  "cases": [
+    {
+      "clock_positions_including_source": 4096,
+      "physical_clock_sites": 4095,
+      "program_length": 8,
+      "gravitational_radial_level": 0,
+      "gravitational_frequency": 1.0,
+      "cosmological_constant": -1.3333333333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "source_excitation_energy": 1.390981710413219,
+      "clock_hopping": 0.015625,
+      "total_source_energy_lower_bound": 1.359731710413219,
+      "total_source_energy_upper_bound": 1.422231710413219,
+      "gravitational_half_window": 0.10230657581840591,
+      "spectral_margin": 0.07105657581840591,
+      "degenerate_model_initial_total_energy_variance": 0.000244140625,
+      "source_only_initial_state": true,
+      "minimum_readout_epoch": 8192.0,
+      "maximum_readout_epoch": 16384.0,
+      "scaled_minimum_epoch": 128,
+      "finite_boundary_log_norm_bound": -4420.699407540047,
+      "certified_positive_boundary_norm_cap": 1e-12,
+      "uniform_window_source_not_depleted_probability_bound": 6.1035156265625e-05,
+      "uniform_window_incomplete_program_probability_bound": 0.012451171875223172,
+      "uniform_window_complete_instrument_half_diamond_bound": 0.012451171875223172,
+      "degenerate_model_completed_conditional_record_error": 0,
+      "noncommuting_system_frequency": 1e-12,
+      "noncommuting_model_uniform_vector_comparison_bound": 1.6384e-08,
+      "noncommuting_model_uniform_complete_instrument_error_bound": 0.012451188259223173,
+      "noncommuting_model_uniform_incomplete_probability_bound": 0.012451175531634797,
+      "noncommuting_model_uniform_source_pending_probability_bound": 6.103541226589348e-05,
+      "spectral_inverse_checks": 5,
+      "samples": [
+        {
+          "scaled_epoch": 128.0,
+          "source_excitation_probability": 7.007831139981787e-08,
+          "incomplete_program_probability": 1.4952081319590274e-05,
+          "emitted_excitation_probability": 0.9999999299216886,
+          "source_energy_depletion": 1.3909816129355694
+        },
+        {
+          "scaled_epoch": 192.0,
+          "source_excitation_probability": 1.5491709637857505e-10,
+          "incomplete_program_probability": 5.3960421124154374e-06,
+          "emitted_excitation_probability": 0.9999999998450829,
+          "source_energy_depletion": 1.3909817101977322
+        },
+        {
+          "scaled_epoch": 256.0,
+          "source_excitation_probability": 1.0976574553313345e-08,
+          "incomplete_program_probability": 1.9281983701562007e-06,
+          "emitted_excitation_probability": 0.9999999890234255,
+          "source_energy_depletion": 1.3909816951450045
+        }
+      ]
+    },
+    {
+      "clock_positions_including_source": 16384,
+      "physical_clock_sites": 16383,
+      "program_length": 8,
+      "gravitational_radial_level": 0,
+      "gravitational_frequency": 1.0,
+      "cosmological_constant": -1.3333333333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "source_excitation_energy": 1.390981710413219,
+      "clock_hopping": 0.015625,
+      "total_source_energy_lower_bound": 1.359731710413219,
+      "total_source_energy_upper_bound": 1.422231710413219,
+      "gravitational_half_window": 0.10230657581840591,
+      "spectral_margin": 0.07105657581840591,
+      "degenerate_model_initial_total_energy_variance": 0.000244140625,
+      "source_only_initial_state": true,
+      "minimum_readout_epoch": 32768.0,
+      "maximum_readout_epoch": 65536.0,
+      "scaled_minimum_epoch": 512,
+      "finite_boundary_log_norm_bound": -17684.87707170187,
+      "certified_positive_boundary_norm_cap": 1e-12,
+      "uniform_window_source_not_depleted_probability_bound": 3.81469726953125e-06,
+      "uniform_window_incomplete_program_probability_bound": 0.0007781982422432924,
+      "uniform_window_complete_instrument_half_diamond_bound": 0.0007781982422432924,
+      "degenerate_model_completed_conditional_record_error": 0,
+      "noncommuting_system_frequency": 1e-12,
+      "noncommuting_model_uniform_vector_comparison_bound": 6.5536e-08,
+      "noncommuting_model_uniform_complete_instrument_error_bound": 0.0007782637782432924,
+      "noncommuting_model_uniform_incomplete_probability_bound": 0.0007782018986589429,
+      "noncommuting_model_uniform_source_pending_probability_bound": 3.8149532738263485e-06,
+      "spectral_inverse_checks": 5,
+      "samples": [
+        {
+          "scaled_epoch": 512.0,
+          "source_excitation_probability": 1.5561943230909934e-09,
+          "incomplete_program_probability": 2.313736161463995e-07,
+          "emitted_excitation_probability": 0.9999999984438057,
+          "source_energy_depletion": 1.3909817082485811
+        },
+        {
+          "scaled_epoch": 768.0,
+          "source_excitation_probability": 5.12696030717876e-10,
+          "incomplete_program_probability": 6.638466718193252e-08,
+          "emitted_excitation_probability": 0.999999999487304,
+          "source_energy_depletion": 1.3909817097000683
+        },
+        {
+          "scaled_epoch": 1024.0,
+          "source_excitation_probability": 2.363215304177441e-10,
+          "incomplete_program_probability": 2.7214931044630527e-08,
+          "emitted_excitation_probability": 0.9999999997636785,
+          "source_energy_depletion": 1.3909817100845001
+        }
+      ]
+    },
+    {
+      "clock_positions_including_source": 65536,
+      "physical_clock_sites": 65535,
+      "program_length": 8,
+      "gravitational_radial_level": 0,
+      "gravitational_frequency": 1.0,
+      "cosmological_constant": -1.3333333333333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "source_excitation_energy": 1.390981710413219,
+      "clock_hopping": 0.015625,
+      "total_source_energy_lower_bound": 1.359731710413219,
+      "total_source_energy_upper_bound": 1.422231710413219,
+      "gravitational_half_window": 0.10230657581840591,
+      "spectral_margin": 0.07105657581840591,
+      "degenerate_model_initial_total_energy_variance": 0.000244140625,
+      "source_only_initial_state": true,
+      "minimum_readout_epoch": 131072.0,
+      "maximum_readout_epoch": 262144.0,
+      "scaled_minimum_epoch": 2048,
+      "finite_boundary_log_norm_bound": -70741.58772834916,
+      "certified_positive_boundary_norm_cap": 1e-12,
+      "uniform_window_source_not_depleted_probability_bound": 2.38418580078125e-07,
+      "uniform_window_incomplete_program_probability_bound": 4.863739015066686e-05,
+      "uniform_window_complete_instrument_half_diamond_bound": 4.863739015066686e-05,
+      "degenerate_model_completed_conditional_record_error": 0,
+      "noncommuting_system_frequency": 1e-12,
+      "noncommuting_model_uniform_vector_comparison_bound": 2.62144e-07,
+      "noncommuting_model_uniform_complete_instrument_error_bound": 4.889953415066686e-05,
+      "noncommuting_model_uniform_incomplete_probability_bound": 4.864104663074228e-05,
+      "noncommuting_model_uniform_source_pending_probability_bound": 2.38674648798126e-07,
+      "spectral_inverse_checks": 5,
+      "samples": [
+        {
+          "scaled_epoch": 2048.0,
+          "source_excitation_probability": 3.6243127933641295e-11,
+          "incomplete_program_probability": 3.145419960868777e-09,
+          "emitted_excitation_probability": 0.9999999999637569,
+          "source_energy_depletion": 1.3909817103628055
+        },
+        {
+          "scaled_epoch": 3072.0,
+          "source_excitation_probability": 1.0666171180872295e-11,
+          "incomplete_program_probability": 9.328322269287216e-10,
+          "emitted_excitation_probability": 0.9999999999893339,
+          "source_energy_depletion": 1.3909817103983826
+        },
+        {
+          "scaled_epoch": 4096.0,
+          "source_excitation_probability": 3.6130075851370592e-12,
+          "incomplete_program_probability": 4.2518550967442643e-10,
+          "emitted_excitation_probability": 0.999999999996387,
+          "source_energy_depletion": 1.3909817104081934
+        }
+      ]
+    }
+  ],
+  "recurrence_witness": {
+    "clock_positions": 3,
+    "scaled_recurrence_epoch": 4.442882938158366,
+    "returned_source_probability": 1.0
+  },
+  "scope": [
+    "Finite two-level excited source, finite lattice clock and finite register.",
+    "Different apparatus model: exact degenerate program plus controlled noncommuting-system perturbation, not the prior two-carrier packet Hamiltonian.",
+    "Entire finite spectrum lies in gravitational window; no polar or incoming packet encoding.",
+    "Autonomous source emission and gate execution; all incomplete/source-pending outcomes retained.",
+    "Finite readout window only: closed finite clock recurs, not a permanent latch.",
+    "Initial physical source state and final extraction/reset are not derived from nothing."
+  ]
+}
