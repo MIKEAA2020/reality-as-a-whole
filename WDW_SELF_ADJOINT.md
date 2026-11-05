@@ -60,8 +60,11 @@ Limitations:
   treated (Kato–Rellich covers bounded/semibounded polynomial perturbations
   under mild conditions).
 - One-/multi-mode radial Hamiltonians, not full 3+1 quantum gravity.
-- Non-spherical/angular sectors (tensor GW coupling), strong-field singularity
-  resolution, and phenomenal constitution remain open.
+
+[WdW angular coupling](WDW_ANGULAR_COUPLING.md) treats non-spherical/angular
+sectors (tensor GW coupling) at multipole level, finding strong suppression in
+weak field. Strong-field singularity resolution and phenomenal constitution
+remain open.
 
 ## 5. Verification
 

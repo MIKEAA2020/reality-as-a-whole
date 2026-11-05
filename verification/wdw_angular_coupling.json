@@ -1,0 +1,136 @@
+{
+  "weak_backreaction": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "redshift": 0.9999817,
+    "compactness": 3.66e-05,
+    "V_op_monopole": 0.0004026000000005858,
+    "Lmax": 10,
+    "modes": [
+      {
+        "l": 0,
+        "centrifugal_k": 0.0,
+        "omega0": 22.0,
+        "omega_d": 21.9995974,
+        "delta_omega": 0.0004026000000010299,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 0.0,
+        "adiabatic_eps": 3.671351819836297e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 1,
+        "centrifugal_k": 0.06241839441996271,
+        "omega0": 22.000088546548216,
+        "omega_d": 21.99968594816864,
+        "delta_omega": 0.0004025983795763466,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 1.2004329412097719e-08,
+        "adiabatic_eps": 3.671307490080157e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 2,
+        "centrifugal_k": 0.1081118304622491,
+        "omega0": 22.000265638575502,
+        "omega_d": 21.999863043436715,
+        "delta_omega": 0.00040259513878737607,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 2.174033910738192e-10,
+        "adiabatic_eps": 3.6712188332596194e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 3,
+        "centrifugal_k": 0.1528932168926934,
+        "omega0": 22.000531273943633,
+        "omega_d": 22.000128683665885,
+        "delta_omega": 0.0004025902777478052,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 3.937265700386732e-12,
+        "adiabatic_eps": 3.67108585469305e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 4,
+        "centrifugal_k": 0.1973842942578267,
+        "omega0": 22.00088544944543,
+        "omega_d": 22.0004828656488,
+        "delta_omega": 0.00040258379663171695,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 7.130551698790248e-14,
+        "adiabatic_eps": 3.6709085623895927e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 5,
+        "centrifugal_k": 0.24174540208552153,
+        "omega0": 22.001328160804963,
+        "omega_d": 22.000925585109282,
+        "delta_omega": 0.00040257569568069584,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 1.2913725259671029e-15,
+        "adiabatic_eps": 3.670686967112979e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 6,
+        "centrifugal_k": 0.28603701718708835,
+        "omega0": 22.001859402677795,
+        "omega_d": 22.00145683670261,
+        "delta_omega": 0.0004025659751860644,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 2.3387292754718882e-17,
+        "adiabatic_eps": 3.6704210822182684e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 7,
+        "centrifugal_k": 0.3302870977423261,
+        "omega0": 22.002479168651316,
+        "omega_d": 22.002076614015817,
+        "delta_omega": 0.0004025546354995413,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 4.2355358457491306e-19,
+        "adiabatic_eps": 3.670110923747415e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 8,
+        "centrifugal_k": 0.3745103665197762,
+        "omega0": 22.00318745124512,
+        "omega_d": 22.002784909568096,
+        "delta_omega": 0.00040254167702613586,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 7.670731319257152e-21,
+        "adiabatic_eps": 3.669756510362555e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 9,
+        "centrifugal_k": 0.4187153189082905,
+        "omega0": 22.003984241911475,
+        "omega_d": 22.00358171481123,
+        "delta_omega": 0.00040252710024546445,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 1.389201298609849e-22,
+        "adiabatic_eps": 3.669357863538083e-08,
+        "adiabatic": true
+      },
+      {
+        "l": 10,
+        "centrifugal_k": 0.4629072022642678,
+        "omega0": 22.00486953103581,
+        "omega_d": 22.004467020130136,
+        "delta_omega": 0.00040251090567267056,
+        "v_over_c": 0.13457494306851123,
+        "radiation_loss_fraction": 2.515901245575349e-24,
+        "adiabatic_eps": 3.6689150072018004e-08,
+        "adiabatic": true
+      }
+    ],
+    "l2_quadrupole_loss_fraction": 2.174033910738192e-10,
+    "all_angular_adiabatic": true,
+    "note": "Angular scalar modes l=0..10 experience centrifugal barriers and couple weakly to tensor gravitational radiation via multipole suppression (compactness*(omega R)^{2l+2}). Even l=2 quadrupole losses are ~1e-5 compactness*(omega R)^6, small in the weak-field cloud; all angular modes remain adiabatic in the dressed regime."
+  }
+}
