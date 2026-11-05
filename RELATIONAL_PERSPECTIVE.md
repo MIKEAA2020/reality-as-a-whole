@@ -79,6 +79,10 @@ Limitations:
   problem.
 - Single-clock (spherical R) model; multi-clock/observer situations require
   relational conditioning on joint systems (extendable via Page–Wootters).
+
+[Thermal time / Tomita flow](THERMAL_TIME.md) identifies this relational
+conditional evolution with the Tomita-Takesaki modular automorphism (Connes–Rovelli
+thermal time), giving an algebraic derivation of experienced time from the state.
 - Strong-field breakdown of the dressed theory ([WDW_STRONG_FIELD_SCALING.md](WDW_STRONG_FIELD_SCALING.md))
   also bounds the regime of these simple relational perspectives.
 
