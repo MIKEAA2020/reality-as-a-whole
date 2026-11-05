@@ -1,0 +1,373 @@
+{
+  "status": "passed",
+  "smooth_cutoff_samples": 201,
+  "cutoff_derivative_checks": 94,
+  "incoming_phase_checks": 81,
+  "gate_channels": {
+    "gate_permutations_checked": 7,
+    "full_basis_states_per_gate": 256,
+    "late_matrix_units": 4,
+    "early_matrix_units": 4,
+    "late_success_probability": 1,
+    "early_invalid_probability": 1,
+    "early_completed_reader_flag_probability": 1
+  },
+  "cases": [
+    {
+      "scale": 100,
+      "schedule": "late",
+      "radial_level": 0,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.630888596602131e+17,
+      "spectral_support_margin": 1.0230657578209702e+27,
+      "carrier_X": {
+        "momentum_half_band": 1813799364234217.8,
+        "momentum_half_band_fraction": 0.0018137993642342177,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.81862006357657,
+        "incoming_tail_constant": 8.816196909886131e-05,
+        "incoming_integrated_constant": 0.003203973835729297,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 0.003203973835729297
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1813799364234217.8,
+        "momentum_half_band_fraction": 0.0018137993642342177,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.81862006357657,
+        "incoming_tail_constant": 8.816196909886131e-05,
+        "incoming_integrated_constant": 0.003203973835729297,
+        "initial_upstream_distance": 4.101,
+        "finite_upstream_dressing_norm_bound": 0.0015821369604520211
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 0.0047861107961813185,
+      "total_preparation_comparison_cost": 0.004786110804181318,
+      "all_future_record_channel_error": 0.02524338832406349,
+      "expected_flag_pattern_deviation_probability_bound": 0.000637228654079465,
+      "outgoing_record_channel_error": 0.025243388324078138,
+      "outside_joint_right_outgoing_sector_probability_bound": 0.0006372286540794719,
+      "common_late_comparison_epoch": 0.05900999999999999,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.40134589452985237,
+          "certified_ready_packet_norm_error": 0.0009821261560389375
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 4113.63063664861,
+          "certified_ready_packet_norm_error": 9.999981120025564e-06
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 41136406.538177446,
+          "certified_ready_packet_norm_error": 9.999999998111992e-08
+        }
+      ]
+    },
+    {
+      "scale": 1000,
+      "schedule": "late",
+      "radial_level": 0,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.6275987317583036e+19,
+      "spectral_support_margin": 1.0230657219080717e+27,
+      "carrier_X": {
+        "momentum_half_band": 1.813799364234218e+17,
+        "momentum_half_band_fraction": 1.8137993642342177e-09,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999981862007,
+        "incoming_tail_constant": 8.81619690988611e-08,
+        "incoming_integrated_constant": 3.1981624758238454e-05,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 3.1981624758238454e-05
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1.813799364234218e+17,
+        "momentum_half_band_fraction": 1.8137993642342177e-09,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999981862007,
+        "incoming_tail_constant": 8.81619690988611e-08,
+        "incoming_integrated_constant": 3.1981624758238454e-05,
+        "initial_upstream_distance": 3.1100100000000004,
+        "finite_upstream_dressing_norm_bound": 1.8135086468225587e-05
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 5.011671122646404e-05,
+      "total_preparation_comparison_cost": 5.011671922646404e-05,
+      "all_future_record_channel_error": 0.00036096598743560267,
+      "expected_flag_pattern_deviation_probability_bound": 1.3029644408535965e-07,
+      "outgoing_record_channel_error": 0.00036096598743560267,
+      "outside_joint_right_outgoing_sector_probability_bound": 1.3029644408535965e-07,
+      "common_late_comparison_epoch": 0.04190010000000001,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 5.011671122646404e-05
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 0.39912972959464954,
+          "certified_ready_packet_norm_error": 9.875849190666597e-06
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 4091.287296127858,
+          "certified_ready_packet_norm_error": 9.999987106767794e-08
+        }
+      ]
+    },
+    {
+      "scale": 10000,
+      "schedule": "late",
+      "radial_level": 50000000,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.627598728468439e+21,
+      "spectral_support_margin": 1.0230621305853305e+27,
+      "carrier_X": {
+        "momentum_half_band": 1.813799364234218e+19,
+        "momentum_half_band_fraction": 1.813799364234218e-15,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999999999983,
+        "incoming_tail_constant": 8.816196909886107e-11,
+        "incoming_integrated_constant": 3.198162470023025e-07,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 3.198162470023025e-07
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1.813799364234218e+19,
+        "momentum_half_band_fraction": 1.813799364234218e-15,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999999999983,
+        "incoming_tail_constant": 8.816196909886107e-11,
+        "incoming_integrated_constant": 3.198162470023025e-07,
+        "initial_upstream_distance": 3.0110000999999995,
+        "finite_upstream_dressing_norm_bound": 1.8430840366570304e-07
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 5.041246506680056e-07,
+      "total_preparation_comparison_cost": 5.041326506680056e-07,
+      "all_future_record_channel_error": 1.3521298798142948e-05,
+      "expected_flag_pattern_deviation_probability_bound": 1.8282552118866193e-10,
+      "outgoing_record_channel_error": 1.3521298798142948e-05,
+      "outside_joint_right_outgoing_sector_probability_bound": 1.8282552118866193e-10,
+      "common_late_comparison_epoch": 0.040190000999999996,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 5.041246506680056e-07
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 5.041246506680056e-07
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 0.39912972738655184,
+          "certified_ready_packet_norm_error": 9.881469351221003e-08
+        }
+      ]
+    },
+    {
+      "scale": 100,
+      "schedule": "early",
+      "radial_level": 0,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.630888596602131e+17,
+      "spectral_support_margin": 1.0230657578209702e+27,
+      "carrier_X": {
+        "momentum_half_band": 1813799364234217.8,
+        "momentum_half_band_fraction": 0.0018137993642342177,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.81862006357657,
+        "incoming_tail_constant": 8.816196909886131e-05,
+        "incoming_integrated_constant": 0.003203973835729297,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 0.003203973835729297
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1813799364234217.8,
+        "momentum_half_band_fraction": 0.0018137993642342177,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.81862006357657,
+        "incoming_tail_constant": 8.816196909886131e-05,
+        "incoming_integrated_constant": 0.003203973835729297,
+        "initial_upstream_distance": 0.101,
+        "finite_upstream_dressing_norm_bound": 0.010081572415879028
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 0.013285546251608325,
+      "total_preparation_comparison_cost": 0.013285546259608325,
+      "all_future_record_channel_error": 0.03580795979803872,
+      "expected_flag_pattern_deviation_probability_bound": 0.0012822099848979571,
+      "outgoing_record_channel_error": 0.03580795979805338,
+      "outside_joint_right_outgoing_sector_probability_bound": 0.001282209984897968,
+      "common_late_comparison_epoch": 0.030999999999999996,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.41035223021579365,
+          "certified_ready_packet_norm_error": 0.000994614809286953
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 4113.639642984295,
+          "certified_ready_packet_norm_error": 9.999994526551021e-06
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 41136406.54718378,
+          "certified_ready_packet_norm_error": 9.999999999452655e-08
+        }
+      ]
+    },
+    {
+      "scale": 1000,
+      "schedule": "early",
+      "radial_level": 0,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.6275987317583036e+19,
+      "spectral_support_margin": 1.0230657219080717e+27,
+      "carrier_X": {
+        "momentum_half_band": 1.813799364234218e+17,
+        "momentum_half_band_fraction": 1.8137993642342177e-09,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999981862007,
+        "incoming_tail_constant": 8.81619690988611e-08,
+        "incoming_integrated_constant": 3.1981624758238454e-05,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 3.1981624758238454e-05
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1.813799364234218e+17,
+        "momentum_half_band_fraction": 1.8137993642342177e-09,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999981862007,
+        "incoming_tail_constant": 8.81619690988611e-08,
+        "incoming_integrated_constant": 3.1981624758238454e-05,
+        "initial_upstream_distance": 0.10001,
+        "finite_upstream_dressing_norm_bound": 0.00010112972114921378
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 0.00013311134590745222,
+      "total_preparation_comparison_cost": 0.00013311135390745222,
+      "all_future_record_channel_error": 0.0004631516000428349,
+      "expected_flag_pattern_deviation_probability_bound": 2.145094046222381e-07,
+      "outgoing_record_channel_error": 0.00046315160004283483,
+      "outside_joint_right_outgoing_sector_probability_bound": 2.1450940462223804e-07,
+      "common_late_comparison_epoch": 0.0211,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 0.00013311134590745222
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 0.40812962961097354,
+          "certified_ready_packet_norm_error": 9.945896819006197e-06
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 4091.296296027874,
+          "certified_ready_packet_norm_error": 9.99999450059204e-08
+        }
+      ]
+    },
+    {
+      "scale": 10000,
+      "schedule": "early",
+      "radial_level": 50000000,
+      "gravitational_frequency": 1e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "free_energy_support_offset_bound": 3.627598728468439e+21,
+      "spectral_support_margin": 1.0230621305853305e+27,
+      "carrier_X": {
+        "momentum_half_band": 1.813799364234218e+19,
+        "momentum_half_band_fraction": 1.813799364234218e-15,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999999999983,
+        "incoming_tail_constant": 8.816196909886107e-11,
+        "incoming_integrated_constant": 3.198162470023025e-07,
+        "initial_upstream_distance": 1.0,
+        "finite_upstream_dressing_norm_bound": 3.198162470023025e-07
+      },
+      "carrier_Q": {
+        "momentum_half_band": 1.813799364234218e+19,
+        "momentum_half_band_fraction": 1.813799364234218e-15,
+        "removed_packet_norm_bound": 2e-12,
+        "normalized_packet_error_bound": 4e-12,
+        "cutoff_normalization_lower_bound": 0.999999999998,
+        "minimum_incoming_velocity": 99.99999999999983,
+        "incoming_tail_constant": 8.816196909886107e-11,
+        "incoming_integrated_constant": 3.198162470023025e-07,
+        "initial_upstream_distance": 0.10000010000000001,
+        "finite_upstream_dressing_norm_bound": 1.0113472675807662e-06
+      },
+      "product_band_preparation_error_bound": 8e-12,
+      "incoming_dressing_error_at_reference_origin": 1.3311635145830687e-06,
+      "total_preparation_comparison_cost": 1.3311715145830687e-06,
+      "all_future_record_channel_error": 1.4538081067998342e-05,
+      "expected_flag_pattern_deviation_probability_bound": 2.1135580113969181e-10,
+      "outgoing_record_channel_error": 1.4538081067998342e-05,
+      "outside_joint_right_outgoing_sector_probability_bound": 2.1135580113969181e-10,
+      "common_late_comparison_epoch": 0.020109999999999996,
+      "finite_past_readiness_certificates": [
+        {
+          "target_norm_error": 0.001,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 1.3311635145830687e-06
+        },
+        {
+          "target_norm_error": 1e-05,
+          "finite_past_duration": 0.0,
+          "certified_ready_packet_norm_error": 1.3311635145830687e-06
+        },
+        {
+          "target_norm_error": 1e-07,
+          "finite_past_duration": 0.4081297263865518,
+          "certified_ready_packet_norm_error": 9.945896233296479e-08
+        }
+      ]
+    }
+  ],
+  "scope": [
+    "Physical incoming free seeds already satisfy the free gravitational constraint.",
+    "Wave operator intertwines free/interacting constraints; no polar encoding or off-shell projection.",
+    "Smooth finite momentum bands give normalizable finite-energy source packets.",
+    "Finite-past readiness is an error certificate, not exact finite-time state synthesis.",
+    "All outgoing failures retained; no ideal clock controller, time prior or omitted pulse energy.",
+    "Boundary/source state selection, reset, inhomogeneous gravity and phenomenal constitution remain open."
+  ]
+}
