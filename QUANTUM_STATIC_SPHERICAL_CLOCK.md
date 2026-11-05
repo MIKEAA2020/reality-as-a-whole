@@ -138,7 +138,8 @@ This does **not** prove:
 It is a constructive existence proof for a symmetry-reduced quantum
 gravitational relational clock, not the final theory. [The asymptotic photon-echo
 readout](PHOTON_ECHO_READOUT.md) adds a concrete operational record using radial
-null geodesics in the dressed geometry.
+null geodesics in the dressed geometry. [The Page-Wootters synthesis](PAGE_WOOTTERS_STATIC_CLOCK.md)
+connects this derived Killing Hamiltonian to PaW magnetic-clock and black-hole-clock models.
 
 ## 5. Verification
 
