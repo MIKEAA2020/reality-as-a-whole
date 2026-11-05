@@ -109,6 +109,13 @@ articulated unity:
   further identification of such states with phenomenal experience is the
   remaining hard step.
 
-The work continues; the physics chain is rigorous and complete in the spherical
-weak-to-strong-field dressed sector, and the metaphysical/constitutive side is
-sharply delimited rather than hand-waved.
+Recent additions close further fronts: Hawking/Page curve through the bounce
+(no firewalls/replicas, partners traverse the neck), BKL/mixmaster stability
+of the bounce (scalar stiff-fluid dominates shear by ~10⁶, quiescent bounce),
+Connes–Rovelli thermal-time identification (Tomonaga flow = Tomita flow),
+Russellian phenomenal identification, necessary-existence argument against
+self-refuting nothingness, and a [plenitude + stability selection](PLENITUDE.md)
+thesis that converts the "why this content" residue into an algebraic
+selection problem (hyperfinite III₁ unique; Ehrenfest/spinor/polarization
+stability picks d=4 + scalar). The work continues; full 3+1 QG and the SM
+derivation are the open frontiers.

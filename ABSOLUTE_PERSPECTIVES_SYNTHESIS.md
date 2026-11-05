@@ -108,11 +108,14 @@ the following specific sense:
 
 What residue remains:
 
-1. Necessity of the specific matter content (scalar mass \(\mu\), presence of
-   the scalar field itself).
-2. The hard problem of consciousness (identifying the intrinsic nature of
-   the physical).
-3. Extrapolation beyond spherical symmetry.
+1. Full SM-level derivation of gauge groups/fermion content (dimension and
+   scalar sector are selected by [plenitude + stability](PLENITUDE.md):
+   hyperfinite III₁ factor is unique; Ehrenfest/spinor/polarization/Huygens
+   stability picks d=4 and a scalar; the specific SM gauge group and
+   generations remain an open theorem, not a brute parameter).
+2. The hard problem of consciousness (see [phenomenal identity](PHENOMENAL_IDENTITY_THESIS.md),
+   identification not theorem).
+3. Extrapolation beyond spherical symmetry (Kerr / full 3+1 QG).
 
 These are not residues in the sense of "unexplained things added by hand";
 they are questions the model does not pretend to answer. Within its domain
@@ -121,6 +124,8 @@ the account is closed.
 ## 5. Verification
 
 This document is a conceptual synthesis; it has no separate verifier. Its
-claims are those of the verifiers in the 23 files of the WdW chain plus the
-15 earlier classical/relational-clock files. All 54 deterministic verifiers
-pass.
+claims are those of the verifiers across the full chain: classical
+relational clocks, spherical dressed clock, WdW self-adjoint evolution,
+near-horizon/interior/bounce, information preservation, BKL stability,
+thermal time, Hawking/Page curve, plenitude dimension-selection, and the
+earlier clock-preparation work. All 58 deterministic verifiers pass.

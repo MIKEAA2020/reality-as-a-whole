@@ -112,11 +112,10 @@ thesis requires.
 ## 5. What remains open
 
 - **Derivation of the specific matter content and symmetries** of our actual
-  universe (Standard Model + gravity); see the open uniqueness problem in
-  [Necessary existence argument](NECESSARY_EXISTENCE_ARGUMENT.md).
-- **Necessary existence proof**: why there is anything at all, and why this
-  rather than nothing. Mathematics shows consistency and closure, not
-  necessity.
+  universe (Standard Model + gravity). The [necessary existence argument](NECESSARY_EXISTENCE_ARGUMENT.md) closes "why anything"; [plenitude + stability selection](PLENITUDE.md) narrows content to d=4 + scalar; the specific SM gauge group/fermion generations remain an open theorem, not a brute parameter.
+- **Full necessity of plenitude itself**: the plenitude thesis is a conjecture
+  motivated by zero-residue intelligibility (its denial reintroduces an
+  external selector), not yet a theorem of AQFT.
 - **Empirical signatures**: whether bounce quantum-gravity effects leave
   observable cosmological / black-hole signatures.
 - **Hard problem dissolution or proof**: the Russellian identity is an
