@@ -1,0 +1,142 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "scale": 100,
+      "carrier_mass": 10000000000000000,
+      "carrier_mean_momentum": 1e+18,
+      "mean_velocity": 100.0,
+      "packet_half_width": 0.001,
+      "region_length": 0.2,
+      "gap": 0.1,
+      "device_end": 1.1,
+      "completion_epoch": 0.021019999999999997,
+      "clearance_epoch": 0.030999999999999996,
+      "kinetic_center": 5e+19,
+      "register_rest_energy": 1.3909817054132189e+28,
+      "gravitational_frequency": 1e+28,
+      "cosmological_constant": -1.3333333333333332e+56,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "spectral_center": 1.390981710413219e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "scaled_half_width": 0.10230657581840591,
+      "nu_midpoint": 0.39098171041321883,
+      "initial_energy_deviation_norm_bound": 181380.03642342208,
+      "rejected_spectral_norm_bound": 1.7729069218910377e-22,
+      "preparation_isometry_error_bound": 3.5458138437820754e-22,
+      "preprojection_completion_vector_bound": 0.0011030000060524953,
+      "preprojection_clearance_vector_bound": 0.0011030000088959064,
+      "low_momentum_norm_bound": 3.6275987284684355e-15,
+      "cook_future_norm_bound": 0.012792649880033171,
+      "all_future_record_half_diamond_bound": 0.013895649888936332,
+      "all_future_not_completed_probability_bound": 0.0001930890858358963,
+      "outgoing_record_error_bound": 0.013895649888943635,
+      "outside_right_outgoing_sector_probability_bound": 0.0001930890858358976
+    },
+    {
+      "scale": 1000,
+      "carrier_mass": 1000000000000000000000000,
+      "carrier_mean_momentum": 1e+26,
+      "mean_velocity": 100.0,
+      "packet_half_width": 1e-05,
+      "region_length": 0.02,
+      "gap": 0.01,
+      "device_end": 0.11,
+      "completion_epoch": 0.0111002,
+      "clearance_epoch": 0.0211,
+      "kinetic_center": 5e+27,
+      "register_rest_energy": 8.90981710413219e+27,
+      "gravitational_frequency": 1e+28,
+      "cosmological_constant": -1.3333333333333332e+56,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "spectral_center": 1.390981710413219e+28,
+      "spectral_half_width": 1.023065758184059e+27,
+      "scaled_half_width": 0.10230657581840591,
+      "nu_midpoint": 0.39098171041321883,
+      "initial_energy_deviation_norm_bound": 18137993.742342178,
+      "rejected_spectral_norm_bound": 1.7729059542113014e-20,
+      "preparation_isometry_error_bound": 3.545811908422603e-20,
+      "preprojection_completion_vector_bound": 0.00011003000000031618,
+      "preprojection_clearance_vector_bound": 0.00011003000000060108,
+      "low_momentum_norm_bound": 3.627598728468436e-21,
+      "cook_future_norm_bound": 0.00012792649880032935,
+      "all_future_record_half_diamond_bound": 0.0002379564988009305,
+      "all_future_not_completed_probability_bound": 5.6623295321597236e-08,
+      "outgoing_record_error_bound": 0.0002379564988009305,
+      "outside_right_outgoing_sector_probability_bound": 5.6623295321597236e-08
+    },
+    {
+      "scale": 10000,
+      "carrier_mass": 100000000000000000000000000000000,
+      "carrier_mean_momentum": 1.0000000000000001e+34,
+      "mean_velocity": 100.0,
+      "packet_half_width": 1e-07,
+      "region_length": 0.002,
+      "gap": 0.001,
+      "device_end": 0.011,
+      "completion_epoch": 0.010110001999999998,
+      "clearance_epoch": 0.020109999999999996,
+      "kinetic_center": 5e+35,
+      "register_rest_energy": 1.390981710120271e+28,
+      "gravitational_frequency": 1e+28,
+      "cosmological_constant": -1.3333333333333332e+56,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 25000000,
+      "spectral_center": 5.000000139098171e+35,
+      "spectral_half_width": 1.023065758184059e+27,
+      "scaled_half_width": 0.10230657581840591,
+      "nu_midpoint": 0.39098171041321883,
+      "initial_energy_deviation_norm_bound": 1813799364.334218,
+      "rejected_spectral_norm_bound": 1.7729059445345043e-18,
+      "preparation_isometry_error_bound": 3.5458118890690086e-18,
+      "preprojection_completion_vector_bound": 1.100029999999977e-05,
+      "preprojection_clearance_vector_bound": 1.1000299999999799e-05,
+      "low_momentum_norm_bound": 3.6275987284684355e-27,
+      "cook_future_norm_bound": 1.2792649880032929e-06,
+      "all_future_record_half_diamond_bound": 1.2279564988006638e-05,
+      "all_future_not_completed_probability_bound": 1.5078771629467847e-10,
+      "outgoing_record_error_bound": 1.2279564988006638e-05,
+      "outside_right_outgoing_sector_probability_bound": 1.5078771629467847e-10
+    }
+  ],
+  "spectral_inverse_and_rigging_checks": 117,
+  "polar_isometry_checks": 5,
+  "inherited_record_matrix_units": 4,
+  "finite_band_phase_overlaps": [
+    {
+      "scaled_epoch_difference": 0,
+      "normalized_overlap": 1.0
+    },
+    {
+      "scaled_epoch_difference": 0.1,
+      "normalized_overlap": 0.9983341664682815
+    },
+    {
+      "scaled_epoch_difference": 1,
+      "normalized_overlap": 0.8414709848078965
+    },
+    {
+      "scaled_epoch_difference": 3.141592653589793,
+      "normalized_overlap": 3.8981718325193755e-17
+    }
+  ],
+  "scope": [
+    "No dust or canonical external time field in the action.",
+    "Finite normalizable carrier; projected preparation is correlated, not an unchanged product.",
+    "Declared subcritical scalar sector, Friedrichs domain and one fixed negative Lambda.",
+    "Finite-time local record POVM; conserved outgoing instrument includes failure.",
+    "Single late interrogation, not continuous monitoring or repeated-read stability.",
+    "Spectral phase-reference POVM is nonorthogonal; its physical readout/reset engine is not derived."
+  ]
+}

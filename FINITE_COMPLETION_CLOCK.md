@@ -288,3 +288,7 @@ This supplies the requested finite registration-and-stop bridge with a completio
 The next direct time obligation is to compare internal clock descriptions using these completed event instruments—not sharp coordinate substitutions—and then carry the record algebra into a genuinely gravitational constraint model. The present C_aux is a relational-history constraint for specified nongravitational dynamics, not that gravitational model or the complete physical–phenomenal constitution.
 
 **Gravitational continuation:** [The recollapsing Einstein–scalar model](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) now supplies an action-derived gravitational constraint, a common quantized physical space and exact oriented representation/record transport. The present apparatus and its numerical error are not automatically a detector coupled to that cosmology; deriving its gravitational energy contribution remains required.
+
+## Gravitational finite-reference extension
+
+[The dust-free carrier construction](FINITE_REFERENCE_GRAVITY.md) derives an autonomous apparatus in the actual homogeneous gravitational lapse constraint, rather than C_aux=P_T+H. Its rigging Jacobian and gravitational spectral encoding are supplied explicitly. It rederives the completion/escape constants without this report's stopped pointer and includes the preparation cost; the numerical error bounds above are not transferred unchanged. The gravitational–scalar phase POVM, boundary assumptions and missing readout engine delimit that extension.
