@@ -82,6 +82,9 @@ Limitations:
 - Strong-field breakdown of the dressed theory ([WDW_STRONG_FIELD_SCALING.md](WDW_STRONG_FIELD_SCALING.md))
   also bounds the regime of these simple relational perspectives.
 
+[Perspectival finitude](PERSPECTIVAL_FINITUDE.md) quantifies the
+information-theoretic finitude of such conditional perspectives.
+
 ## 4. Verification
 
     python verification/relational_perspective.py

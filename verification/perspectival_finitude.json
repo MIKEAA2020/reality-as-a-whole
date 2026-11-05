@@ -1,0 +1,18 @@
+{
+  "perspectival_finitude": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "observer_energy_E_obs": 231.0,
+    "ground_state_energy": 11.0,
+    "level_spacing": 22.0,
+    "clock_width_sigma_R": 0.0455,
+    "phase_resolution": 1.001,
+    "margolus_levitin_orthogonalization_time": 0.006799984098679206,
+    "n_distinguishable_ticks_in_Rm": 3331,
+    "n_accessible_levels": 11,
+    "max_entropy_accessible": 2.3978952727983707,
+    "n_unobserved_modes": 220,
+    "entropy_unobserved_coarse": 152.49237972318795,
+    "note": "A finite-energy observer sees finitely many distinguishable ticks and accessible levels, with bounded phase resolution and an entropy of unobserved modes corresponding to ignored DOF; the global pure state has zero entropy, but finite perspectives necessarily have coarse-grained finitude."
+  }
+}
