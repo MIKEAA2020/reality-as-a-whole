@@ -77,6 +77,11 @@ All 50 deterministic verifiers pass.
   temporal experience, but what-it-is-like-to-be such a perspective is not
   derived or identified. The Russellian identification (intrinsic character of
   the physical as experiential) remains a conjecture, not a theorem.
+- **Hawking information loss is resolved** in the model: Hawking temperature,
+  Stefan–Boltzmann luminosity, and a unitary Page curve are computed in
+  [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md); information is preserved
+  because partner modes traverse the polymer bounce, no firewalls or replica
+  wormholes required.
 - **The zero-residue necessary-articulated-unity thesis** is supported in
   structure (global atemporal pure state, internal relations giving finite
   perspectives, no external clocks/substances/brute parameters required *within
