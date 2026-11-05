@@ -241,3 +241,5 @@ The complete outgoing instrument is derived, not fitted to the cold-atom observa
 This directly extends the physical-clock work within M0/W1-W6. It does not derive the supplied Hamiltonian, phenomenal passage, a Gamma/chi constitution law or the necessary absolute. The surviving gain is a correct interacting-clock instrument with explicit coherence requirements and a quantitatively controlled route to ideal-clock behavior.
 
 **Downstream record qualification:** [The classical tick readout bridge](CLASSICAL_TICK_READOUT.md) audits the Wadhia et al. experiment and supplies a separate nondemolition label-readout error composition bound. The less-than-1% example above bounds the stipulated quantum instrument, not physical sensor dissipation, classical record retention or sustained reuse.
+
+**Finite-time detector/memory continuation:** [The autonomous registration model](AUTONOMOUS_RECORD_INSTRUMENT.md) supplies a different Hamiltonian/preparation with a derived redundant-record channel and explicit finite-time/retention errors. Its compact-position packet and transport bound are not the scattering preparation or numerical bound of this report.

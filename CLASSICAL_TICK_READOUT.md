@@ -225,10 +225,12 @@ This sharpens rather than replaces our direct problem-of-time work:
 - Constraint/clock-choice constructions address compatible relational descriptions.
 - The energy-exchange construction addresses physical clock preparation, recoil and measurement accuracy.
 - This event-clock bridge supplies exact finite-time statistical calibration in a stipulated open Markov model, plus explicit record/readout qualifications.
-- A unified autonomous Hamiltonian for clockwork, detector, bath and finite memory, with controlled reductions and sustained-use error/entropy bounds, is **not yet supplied**. Neither is the gravitational constraint/refoliation problem solved by this paper.
+- A unified autonomous Hamiltonian that also derives this calibrated multi-event clockwork and its detector/reservoir limit, with sustained-use error/entropy bounds, is **not yet supplied**. The [finite-time registration construction](AUTONOMOUS_RECORD_INSTRUMENT.md) supplies a one-event Hamiltonian bridge, not that complete multi-event apparatus. Neither is the gravitational constraint/refoliation problem solved by this paper.
 
 For the whole-account objective, operational records do not constitute phenomenal awareness merely by being classical or dissipative. Necessary atemporal articulation remains compatible with these effective temporal descriptions, but this experiment does not establish that metaphysical constitution. The concrete gain is an explicit, testable distinction between microscopic change, calibrated event time, readable labels and durable records—not a replacement of the zero-residue objective by an entropy slogan.
 
 ## Verification
 
 Run `python verification/tick_readout.py` or `python -m verification.tick_readout`. Deterministic output is saved in [tick_readout.json](verification/tick_readout.json). Exact identities certify the specified mathematical models; source checks certify the small archived files and arithmetic, not the experimental modelling assumptions or unresolved RF energy pipeline.
+
+**Constructive continuation:** [Autonomous finite-time registration](AUTONOMOUS_RECORD_INSTRUMENT.md) now derives a detector–memory instrument and finite retention-window bound from a bounded-below time-independent Hamiltonian with a finite thermal environment. It does not yet supply a calibrated multi-event Markov detector or sustained-use reservoir; the same-environment reuse witness makes that limitation explicit.
