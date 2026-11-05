@@ -247,4 +247,4 @@ This returns directly to the problem of time: the final outgoing record effects 
 
 The verifier checks 48 independent boundary/flux cases, normalization, exact asymptotic moment formulas and their convergence, reflection and timing bounds for four finite resource cases. The CP completeness proof is Parseval plus exact flux conservation; sampled numerical checks do not replace it.
 
-**Next exact target:** a finite-time registration-and-stop device with a retained completion flag and a controlled comparison between its finite-window instrument and these conserved outgoing record effects. That would connect the two existing controlled regimes rather than label an asymptotic sojourn-clock observable a completed first-arrival detector.
+**Finite combined continuation:** [Finite completion and controlled future escape](FINITE_COMPLETION_CLOCK.md) now supplies a single smooth-stop recorder/flag Hamiltonian with finite-time and uniform future bounds plus a comparison to its own conserved outgoing effects. This is not the old sharp-step preparation with an added error number, and does not promote the sojourn-clock reading to a universal first-entry time.
