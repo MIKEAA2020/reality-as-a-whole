@@ -68,6 +68,8 @@ The governing framework contains the joint argument, dependency ledger, operatio
 
 - [Multiple clock constraints and measure](MULTI_CLOCK_CONSTRAINT_CLOSURE.md): exact self-adjoint noncommuting constraint pair with a nonconstant structure function, common physical quotient, strong selected Dirac algebra and consistent clock-update routes. An explicit non-Hermitian naive average is repaired by its clock Jacobian. This is not the gravitational hypersurface-deformation algebra.
 
+- [Cold-atom entropic-clock source audit](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md): complete paper/supplement reading and a bounded two-trace audit of Barontini's 2026 experiment. Distinguishes the whole-cloud Shannon estimator, accumulated path clock and instantaneous readings; tests central-value ordering/ties and records equation checks needed before importing the effective dynamics. Not an experimental replication or gravitational-time solution.
+
 - [Modular local observable net](MODULAR_LOCAL_NET.md): bounded-interval algebras from the same modular translation orbit; explicit noncommuting local observables, locality, affine covariance, positive energy and global vacuum cyclicity, plus localized instruments and no-signaling. No independent derivation of the initial localization pair or four-dimensional spacetime is claimed.
 
 - [Local preparation and access cost](LOCAL_PREPARATION_AND_ACCESS.md): direct bounded-interval vacuum cyclicity proof, local conditional approximation to arbitrary vectors, and a Gaussian-tail bound forcing success probability to vanish for increasingly accurate preparation of a fixed disjoint Weyl target. No-signaling and local modular existence are established in the same net; algebraic density is not unrestricted operational access.

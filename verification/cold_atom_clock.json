@@ -1,0 +1,214 @@
+{
+  "status": "passed",
+  "source_subset_sha256": "dede4276105e2be6ce0d7b7fd085630078d674cfcf10718045799d614a294822",
+  "scope": "two processed traces; manual column transcription, not raw-image or full-data replication",
+  "trace_audits": {
+    "V0": {
+      "rows": 56,
+      "file_order": "nondecreasing tau, not chronological t",
+      "chronological_adjacent_decreases": 3,
+      "decreases": [
+        {
+          "from_t": 58,
+          "to_t": 60,
+          "drop": "12860346833/250000000",
+          "relative_percent": 0.03657716862004548
+        },
+        {
+          "from_t": 98,
+          "to_t": 100,
+          "drop": "29762447261/62500000",
+          "relative_percent": 0.22338018241829227
+        },
+        {
+          "from_t": 100,
+          "to_t": 102,
+          "drop": "638869903633/1000000000",
+          "relative_percent": 0.30035831705586924
+        }
+      ],
+      "chronological_equal_tau_neighbors": [
+        [
+          20,
+          22
+        ],
+        [
+          22,
+          24
+        ],
+        [
+          66,
+          68
+        ],
+        [
+          68,
+          70
+        ]
+      ],
+      "selected_equal_tau_distinct_central_readouts": [
+        {
+          "times": [
+            20,
+            22
+          ],
+          "delta_phi_m": "1959321086411/10000000000000000000",
+          "delta_width_m": "319108803707/1000000000000000000"
+        },
+        {
+          "times": [
+            20,
+            24
+          ],
+          "delta_phi_m": "9929817257399/10000000000000000000",
+          "delta_width_m": "14755391469697/25000000000000000000"
+        },
+        {
+          "times": [
+            22,
+            24
+          ],
+          "delta_phi_m": "1188913834381/1000000000000000000",
+          "delta_width_m": "3388835688511/12500000000000000000"
+        },
+        {
+          "times": [
+            66,
+            68
+          ],
+          "delta_phi_m": "91497749253/1000000000000000000",
+          "delta_width_m": "53783441211179/50000000000000000000"
+        },
+        {
+          "times": [
+            66,
+            70
+          ],
+          "delta_phi_m": "436384239657/200000000000000000",
+          "delta_width_m": "45988350214337/50000000000000000000"
+        },
+        {
+          "times": [
+            68,
+            70
+          ],
+          "delta_phi_m": "1136709473769/500000000000000000",
+          "delta_width_m": "3897545498421/25000000000000000000"
+        }
+      ],
+      "uncertainty_significance": "not established; no per-row covariance/error model in this subset"
+    },
+    "V1": {
+      "rows": 53,
+      "file_order": "nondecreasing tau, not chronological t",
+      "chronological_adjacent_decreases": 7,
+      "decreases": [
+        {
+          "from_t": 76,
+          "to_t": 78,
+          "drop": "276065652503/10000000000",
+          "relative_percent": 0.07054309703912114
+        },
+        {
+          "from_t": 78,
+          "to_t": 82,
+          "drop": "292676323503/2000000000",
+          "relative_percent": 0.37420209503686813
+        },
+        {
+          "from_t": 98,
+          "to_t": 100,
+          "drop": "158862968997/2500000000",
+          "relative_percent": 0.15461544768039845
+        },
+        {
+          "from_t": 100,
+          "to_t": 102,
+          "drop": "4795611977959/10000000000",
+          "relative_percent": 1.1686548300655504
+        },
+        {
+          "from_t": 114,
+          "to_t": 116,
+          "drop": "130290527191/5000000000",
+          "relative_percent": 0.06282258800632055
+        },
+        {
+          "from_t": 116,
+          "to_t": 118,
+          "drop": "588298374063/1000000000",
+          "relative_percent": 1.4191998455782036
+        },
+        {
+          "from_t": 118,
+          "to_t": 120,
+          "drop": "3554040733/156250000",
+          "relative_percent": 0.05566163296115452
+        }
+      ],
+      "chronological_equal_tau_neighbors": [
+        [
+          18,
+          20
+        ],
+        [
+          20,
+          22
+        ],
+        [
+          72,
+          74
+        ],
+        [
+          74,
+          76
+        ]
+      ],
+      "selected_equal_tau_distinct_central_readouts": [
+        {
+          "times": [
+            18,
+            20
+          ],
+          "delta_phi_m": "1443747616641/100000000000000000000",
+          "delta_width_m": "20016320361793/500000000000000000000"
+        },
+        {
+          "times": [
+            18,
+            22
+          ],
+          "delta_phi_m": "62605034045179/100000000000000000000",
+          "delta_width_m": "37498014560131/500000000000000000000"
+        },
+        {
+          "times": [
+            20,
+            22
+          ],
+          "delta_phi_m": "30580643214269/50000000000000000000",
+          "delta_width_m": "8740847099169/250000000000000000000"
+        }
+      ],
+      "uncertainty_significance": "not established; no per-row covariance/error model in this subset"
+    }
+  },
+  "synthetic_closed_trajectory": {
+    "instantaneous_state_returns": true,
+    "entropic_path_increment_sigma_units": "8",
+    "interpretation": "path memory needed; not an experiment on the paper data"
+  },
+  "real_time_dependent_H_is_Hermitian": true,
+  "frozen_printed_equation_sign_probe_residual": "1",
+  "analytic_not_established_from_samples": [
+    "clock descent iff retained state is constant on clock fibers",
+    "path derivative tau_dot=(sigma/k_B) S_dot sign(phi_dot)",
+    "unitarity of Eq6 under real coefficients and self-adjoint Hgeom"
+  ],
+  "not_claimed": [
+    "statistically significant clock reversal",
+    "failure of measured cold-atom evolution",
+    "independent recomputation of entropy or tau",
+    "verification of original file MD5 bytes",
+    "general solution of gravitational time"
+  ]
+}
