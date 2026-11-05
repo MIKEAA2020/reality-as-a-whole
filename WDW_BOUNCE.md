@@ -80,9 +80,10 @@ Limitations:
   here.
 - Back-reaction of quantum scalar fluctuations on the bounce neck is not
   computed.
-- Information-loss / Hawking evaporation is not resolved (the bounce yields a
-  baby-universe branch; information is preserved in the global pure state, but
-  asymptotic observers may still see apparent Hawking radiation).
+- [WdW information preservation](WDW_INFORMATION_PRESERVATION.md) analyzes
+  unitarity through the bounce: pure states remain pure, Hawking radiation is
+  entanglement with baby-universe partner modes, no fundamental information loss.
+- Hawking backreaction (evaporation racing the bounce) is not computed.
 - Full 3+1 (non-spherical) bounce stability is not analyzed; the BKL conjecture
   suggests generic bounces are chaotic near singularities.
 - Phenomenal constitution remains open.
