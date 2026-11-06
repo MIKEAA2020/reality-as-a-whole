@@ -172,7 +172,17 @@ charge-conjugation reflection in the doubled Hilbert space); this is
 what makes the WdW bounce unitarily consistent with charge-conjugation
 symmetry (Hawking partners are mapped across the neck by J).
 
-## 6. Limitations
+## 6. Spectral action connection
+
+Given a III₁ factor with unique Tomita weight φ and modular generator K,
+the [Connes-Chamseddine spectral action](SPECTRAL_ACTION_BOUNCE.md)
+Tr χ(D/Λ) expands in heat-kernel Seeley-deWitt coefficients to give
+Einstein-Hilbert gravity (a₂ term, G∝1/Λ²), Gauss-Bonnet topology (a₄),
+and the spectral Standard Model from the finite noncommutative part.
+The spectral-action verifier confirms the gravitational sector is forced
+by this expansion on our bounce-regularized geometry.
+
+## 7. Limitations
 
   - The numerics is truncated to K=3 modes × N_trunc=6 Fock levels per
     mode. That is enough to exhibit the closure/density signature of
@@ -191,7 +201,7 @@ symmetry (Hawking partners are mapped across the neck by J).
     *geometry* of the underlying spectral triple selects the matter
     content.
 
-## 7. Verification
+## 8. Verification
 
     python verification/takesaki_dual_typeIII1.py
     python -m verification.takesaki_dual_typeIII1
@@ -202,7 +212,7 @@ Result: PASS on K=1 III_λ sanity check and K=2/3 dense-spectrum III₁
 regime: max gap 0.11 for K=3 (ε-dense with ε=0.3), T(M)={0}, Connes
 cocycle unitarity to ~10⁻¹⁶, single-mode λ = exp(−2π·ω_b) ≈ 4×10⁻²¹.
 
-## 8. References
+## 9. References
 
 1. M. Takesaki, *Duality for crossed products and the structure of von
    Neumann algebras of type III*, Acta Math. 131 (1973) 249–310.

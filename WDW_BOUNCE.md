@@ -93,7 +93,16 @@ Limitations:
   and rotating (Kerr) BHs are not treated.
 - Phenomenal constitution remains open.
 
-## 4. Verification
+## 4. Spectral action connection
+
+The [spectral action on the bounce](SPECTRAL_ACTION_BOUNCE.md) takes
+the finite-curvature polymer-regularized geometry constructed here and
+feeds it into the Connes-Chamseddine spectral action Tr χ(D/Λ),
+verifying the Seeley-deWitt a₀ (4-volume), a₂ (Einstein-Hilbert, G∝1/Λ²),
+and a₄ (Gauss-Bonnet) coefficients are all finite through the neck thanks
+to the μ⁴ curvature cap.
+
+## 5. Verification
 
     python verification/wdw_bounce.py
     python -m verification.wdw_bounce

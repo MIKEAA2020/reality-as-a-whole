@@ -1,0 +1,87 @@
+{
+  "mu": 22.0,
+  "M": 1.0,
+  "Rb": 0.24280544348548772,
+  "Rmax": 2.0,
+  "seeley_analytic": {
+    "a0_4D_volume": 97.80079199904206,
+    "a2_EinsteinHilbert": 20.178300454435636,
+    "a2_coefficient_scalar_Lichnerowicz": 0.16666666666666666,
+    "a2_coefficient_Dirac_spinor": 0.08333333333333333,
+    "a4_Euler_topological_part": 35.30838013294015,
+    "Kretschmann_integral": 12711.016847858455,
+    "R_vol_integral": 121.06980272661389
+  },
+  "spectral_action_couplings": {
+    "sharp cutoff chi=1_{[0,1]}": {
+      "f0": 1,
+      "f2": 0.5,
+      "f4": 0.25,
+      "G_propto_1over_Lambda2": 0.05066059182116889
+    },
+    "Gaussian chi(x)=exp(-x)": {
+      "f0": 1,
+      "f2": 1,
+      "f4": 2,
+      "G_propto_1over_Lambda2": 0.025330295910584444
+    },
+    "Heaviside smooth": {
+      "f0": 1,
+      "f2": 0.5,
+      "f4": 0.3333333333333333,
+      "G_propto_1over_Lambda2": 0.05066059182116889
+    }
+  },
+  "curvature_regularization": {
+    "K_class_at_Rb_divergent": 234255.99999999983,
+    "K_bounce_cap": 234256.0,
+    "regularization_factor": 1.0000000000000007
+  },
+  "radial_laplacian_s_lwave": {
+    "lowest_eigenvalue": 1.1195675246929795,
+    "gap_lowest_to_next": 3.3972300389844072,
+    "spectrum_bounded_below": true
+  },
+  "topological_invariance_check": [
+    {
+      "delta": 0.0,
+      "Rb_pert": 0.24280544348548772,
+      "E4_int": 12711.016847858455,
+      "E4_rel_change": 0.0,
+      "K_int": 12711.016847858455,
+      "K_rel_change": 0.0
+    },
+    {
+      "delta": 0.02,
+      "Rb_pert": 0.24766155235519746,
+      "E4_int": 13135.77274585879,
+      "E4_rel_change": 0.0334163586662147,
+      "K_int": 13135.77274585879,
+      "K_rel_change": 0.0334163586662147
+    },
+    {
+      "delta": 0.05,
+      "Rb_pert": 0.2549457156597621,
+      "E4_int": 13857.758584299287,
+      "E4_rel_change": 0.09021636507657013,
+      "K_int": 13857.758584299287,
+      "K_rel_change": 0.09021636507657013
+    },
+    {
+      "delta": 0.1,
+      "Rb_pert": 0.26708598783403653,
+      "E4_int": 15288.200552826062,
+      "E4_rel_change": 0.20275196987106578,
+      "K_int": 15288.200552826062,
+      "K_rel_change": 0.20275196987106578
+    }
+  ],
+  "checks": {
+    "a0_positive_finite": true,
+    "a2_EinsteinHilbert_finite_positive": true,
+    "Euler_finite_at_bounce": true,
+    "classical_K_capped_at_mu4": true,
+    "Euler_deformation_insensitive": true,
+    "spectrum_bounded_below": true
+  }
+}

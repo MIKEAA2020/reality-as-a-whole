@@ -136,5 +136,9 @@ a* ≈ 1.3 super-extremal, quiescent bounce rotationally stable), and a
 [Takesaki duality / III₁ universal weight](TAKESAKI_DUAL_TYPEIII1.md)
 verifying the quasi-local factor is type III₁ (S=R_+, T={0}) so the
 Tomita weight exists uniquely across all radii/sectors, closing the
-state-selection problem. The Connes–Chamseddine spectral action (SM gauge
-content / generations) remains the principal open frontier.
+state-selection problem; and a [spectral action verification](SPECTRAL_ACTION_BOUNCE.md)
+showing Einstein-Hilbert gravity (with G ∝ 1/Λ²) and the Gauss-Bonnet
+topological term are forced as the Λ² and Λ⁰ heat-kernel terms of
+Tr χ(D/Λ) on the bounce geometry. The Connes–Chamseddine finite
+noncommutative algebra (SM gauge group U(1)×SU(2)×SU(3) and 3 generations)
+remains the principal open frontier.

@@ -94,7 +94,7 @@ gauge groups/fermion content remains an open theorem, not a hidden brute
 fact.
 
 This note has no verifier; it is a philosophical argument, not a computational
-claim. All mathematical claims supporting its premises are verified in the 65
+claim. All mathematical claims supporting its premises are verified in the 66
 physical verifiers (including plenitude dimension-selection, the
 universal-representation identity check, the Connes–Rovelli cocycle
 verifying state-independent physical time, the canonical β=2π KMS
@@ -104,4 +104,5 @@ bounce geometry, the Tolman cocycle verifying the Tolman-Ehrenfest law
 and Hawking temperature, and the BKL rotational stability bound showing
 the bounce is stable against Kerr rotation for all sub-extremal spins,
 and the Takesaki-duality III₁ universal-weight proof closing the
-state-selection problem).
+state-selection problem, and the spectral action deriving Einstein-
+Hilbert gravity from the heat-kernel expansion of the Dirac trace).
