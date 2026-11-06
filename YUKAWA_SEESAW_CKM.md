@@ -159,3 +159,6 @@ ALL CHECKS PASS           : verifier #71
 3. CCvS book §13 (finite space structure, order-0, D_F) and §18 (phenomenology).
 4. M. Kobayashi & T. Maskawa, "CP Violation in the Renormalizable Theory of Weak Interaction," *Prog. Theor. Phys.* **49** (1973) 652–657.
 5. P. Minkowski, "μ → eγ at a Rate of One Out of 10⁹ Muon Decays?," *Phys. Lett.* **B67** (1977) 421–428 (see-saw).
+
+
+For the numerical top Yukawa and Higgs mass prediction from the spectral action's UV boundary condition λ(Λ)~y_t(Λ)²/8 via 1-loop SM RGEs, see [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) (verifier #76).

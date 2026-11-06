@@ -135,3 +135,6 @@ ALL CHECKS PASS                 : verifier #75
 3. T. P. Cheng, E. Eichten & L.-F. Li, "Higgs Phenomena in Asymptotically Free Gauge Theories," *Phys. Rev.* **D9** (1974) 2259 (SM β-functions).
 4. A. H. Chamseddine & A. Connes, "Why the Standard Model," *J. Geom. Phys.* **58** (2008) 38 (Higgs mass from spectral action).
 5. D. Buttazzo *et al.*, "Investigating the Near-Criticality of the Higgs Boson," *JHEP* **1312** (2013) 089 (Higgs quartic running to near-zero at high scale).
+
+
+For the Higgs/top mass prediction from spectral boundary conditions, see [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) (verifier #76).
