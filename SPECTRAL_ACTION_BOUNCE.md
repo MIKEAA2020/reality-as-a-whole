@@ -122,7 +122,15 @@ effective action of the unique Dirac operator on the unique III₁ factor,
 expanded at the unique β=2π Tomita weight through the finite-curvature
 bounce.
 
-## 5. Honest limitations
+## 5. Matter sector
+
+The [finite noncommutative SM algebra](SPECTRAL_ACTION_FINITE_SM.md)
+completes the spectral-action picture: the finite part A_F = C ⊕ H ⊕ M_3(C)
+is the unique KO-6 real even spectral triple on 32-dim H_F per generation
+satisfying the order-1 condition, giving the SM gauge group U(1)×SU(2)×SU(3)
+with 12 gauge bosons.
+
+## 6. Honest limitations
 
   - We use the scalar Lichnerowicz heat-kernel coefficients (a₂ = (1/6)∫ R√g
     for scalars vs. (1/12) · dim(S) for spinors); the O(1) spinor
@@ -140,7 +148,7 @@ bounce.
     manifold part, not the finite noncommutative part that yields the SM.
   - Weyl² terms (a₄ non-topological pieces) are not checked here.
 
-## 6. Verification
+## 7. Verification
 
     python verification/spectral_action_bounce.py
     python -m verification.spectral_action_bounce
@@ -152,7 +160,7 @@ bounce curvature); Euler integral finite (classical divergence capped at
 μ⁴=2.34×10⁵); K_class(R_b)=μ⁴ exactly; E₄ deformation-insensitive;
 radial Laplacian spectrum bounded below (lowest eigenvalue ≈ 1.1).
 
-## 7. References
+## 8. References
 
 1. A. Connes, *Gravity coupled with matter and foundation of non-commutative
    geometry*, Commun. Math. Phys. 182 (1996) 155–176, arXiv:hep-th/9603053.

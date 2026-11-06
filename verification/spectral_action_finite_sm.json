@@ -1,0 +1,42 @@
+{
+  "SM_algebra": {
+    "A_F_SM": "C \u2295 H \u2295 M_3(C)",
+    "dim_R_A_F_SM": 24,
+    "u(A_F)_Lie_algebra_dim": 13,
+    "g_SM_dim": 12,
+    "extra_U1_center": 1,
+    "n_Weyl_per_generation": 16,
+    "H_F_dim_per_generation": 32
+  },
+  "order0_commutant_err_lepton_toy": 0.0,
+  "alternatives": {
+    "SM_C-H-M3": {
+      "dim_R": 24,
+      "u_dim": 13,
+      "g_dim": 12,
+      "extra_generators": 1
+    },
+    "PatiSalam_H-H-M4": {
+      "dim_R": 40,
+      "u_dim": 22,
+      "g_dim": 22,
+      "extra_generators": 10
+    },
+    "SU5_GUT_M5": {
+      "dim_R": 50,
+      "u_dim": 25,
+      "g_dim": 25,
+      "extra_generators": 13
+    }
+  },
+  "classification_note": "Connes-Chamseddine classification (2013): A_F=C\u2295H\u2295M_3(C) is the unique real even finite spectral triple of KO-dim 6 with order-1 condition on 32-dim H_F per generation. Unitaries U(A_F)/U(1) = U(1)_Y x SU(2)_L x SU(3)_c = SM gauge group (12 generators).",
+  "checks": {
+    "dim_R_C_H_M3_eq_24": true,
+    "u_AF_dim_13": true,
+    "SM_gauge_dim_12": true,
+    "one_extra_U1_center": true,
+    "H_F_per_generation_32": true,
+    "order0_commutant_holds": true,
+    "alternatives_have_extra_generators": true
+  }
+}

@@ -139,5 +139,5 @@ state-selection problem (unique Tomita weight on the type-III₁
 quasi-local factor), the [spectral action on the
 bounce](SPECTRAL_ACTION_BOUNCE.md) showing Einstein-Hilbert gravity
 (G∝1/Λ²) is forced as the Λ² heat-kernel term, and plenitude
-dimension-selection. All 66 deterministic verifiers
+dimension-selection. All 67 deterministic verifiers
 pass.

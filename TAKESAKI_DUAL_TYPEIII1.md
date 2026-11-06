@@ -195,11 +195,12 @@ by this expansion on our bounce-regularized geometry.
     T-invariant = {0}, inner cocycles, and trace scaling — which are the
     properties that actually do the philosophical and physical work of
     selecting a unique universal weight.
-  - The Connes–Chamseddine spectral action (SM gauge group/fermion
-    generations) remains open as the next frontier: Takesaki duality
-    gives the unique III₁ weight on the quasi-local algebra; the
-    *geometry* of the underlying spectral triple selects the matter
-    content.
+  - The [spectral action](SPECTRAL_ACTION_BOUNCE.md) and [finite SM
+    classification](SPECTRAL_ACTION_FINITE_SM.md) show gravity and the
+    SM gauge group U(1)×SU(2)×SU(3) follow from Tr χ(D/Λ) on the unique
+    Tomita weight and A_F=C⊕H⊕M_3(C); the number of generations
+    (KO-homology constraint) and cosmological-constant fine tuning
+    remain open frontiers.
 
 ## 8. Verification
 

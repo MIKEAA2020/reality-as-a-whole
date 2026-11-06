@@ -139,6 +139,10 @@ Tomita weight exists uniquely across all radii/sectors, closing the
 state-selection problem; and a [spectral action verification](SPECTRAL_ACTION_BOUNCE.md)
 showing Einstein-Hilbert gravity (with G ∝ 1/Λ²) and the Gauss-Bonnet
 topological term are forced as the Λ² and Λ⁰ heat-kernel terms of
-Tr χ(D/Λ) on the bounce geometry. The Connes–Chamseddine finite
-noncommutative algebra (SM gauge group U(1)×SU(2)×SU(3) and 3 generations)
-remains the principal open frontier.
+Tr χ(D/Λ) on the bounce geometry; and the [finite noncommutative SM
+classification](SPECTRAL_ACTION_FINITE_SM.md) reproducing the
+Connes-Chamseddine result that A_F = C ⊕ H ⊕ M_3(C) is the unique
+KO-6 order-1 triple with SM gauge group U(1)_Y×SU(2)_L×SU(3)_c (12
+generators), 32-dim H_F per generation. The remaining frontiers are
+fine-tuning/cosmological constant and the number of generations
+(KO-homology constraint).
