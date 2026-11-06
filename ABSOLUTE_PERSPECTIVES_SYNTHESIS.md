@@ -130,4 +130,5 @@ near-horizon/interior/bounce, information preservation, BKL stability,
 thermal time, Hawking/Page curve, the [Hawking backreaction bound](HAWKING_BACKREACTION_BOUND.md)
 (ΔM/M < 5×10⁻⁷ during the bounce neck), plenitude dimension-selection,
 the Connes–Rovelli cocycle (state-independent time), and the canonical
-β=2π KMS/Tomita-weight identification. All 62 deterministic verifiers pass.
+β=2π KMS/Tomita-weight identification, and the Tolman cocycle verifying
+Tolman-Ehrenfest and Hawking T_H. All 63 deterministic verifiers pass.
