@@ -127,8 +127,10 @@ temperature, with our dressed Tomonaga Hamiltonian identified as the BW
 boost generator; and a [Hawking backreaction bound](HAWKING_BACKREACTION_BOUND.md)
 verifies that evaporation during the bounce-neck proper time is negligible
 (ΔM/M < 5×10⁻⁷ for M=1), confirming the fixed-mass bounce geometry is
-self-consistent, and a [Tolman cocycle construction](TOLMAN_COCYCLE.md)
+self-consistent, a [Tolman cocycle construction](TOLMAN_COCYCLE.md)
 verifying the redshift-invariance of the modular generator (β_local H_local
-= β_∞ H_eff), trivial cocycle in equilibrium, and Hawking temperature as
-the Tolman-redshifted near-horizon Unruh effect. Full 3+1 QG and the SM
-derivation remain the open frontiers.
+= β_∞ H_eff, trivial equilibrium cocycle, T_H=κ/2π), and a [BKL rotational
+stability bound](WDW_BKL_ROTATIONAL_STABILITY.md) showing scalar stiff-fluid
+energy dominates Kerr rotational shear for all sub-extremal spins (critical
+a* ≈ 1.3 super-extremal, quiescent bounce rotationally stable). Full 3+1 QG
+and the SM derivation remain the open frontiers.

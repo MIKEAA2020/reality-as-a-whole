@@ -71,7 +71,7 @@ Caveats:
 - Full 3D BKL mixmaster dynamics in the presence of a scalar require numerical
   relativity beyond our symmetry-reduced model; existing literature supports
   quiescence with a scalar.
-- Rotating (Kerr) BHs introduce frame-dragging and ergoregions not treated here.
+- Rotating (Kerr) BHs are treated in the [BKL rotational stability analysis](WDW_BKL_ROTATIONAL_STABILITY.md), which shows scalar dominates Kerr rotational shear for all sub-extremal spins (critical a* ≈ 1.3 super-extremal; quiescent bounce stable).
 
 ## 4. Verification
 

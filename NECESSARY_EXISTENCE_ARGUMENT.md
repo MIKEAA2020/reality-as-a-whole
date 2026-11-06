@@ -94,10 +94,12 @@ gauge groups/fermion content remains an open theorem, not a hidden brute
 fact.
 
 This note has no verifier; it is a philosophical argument, not a computational
-claim. All mathematical claims supporting its premises are verified in the 63
+claim. All mathematical claims supporting its premises are verified in the 64
 physical verifiers (including plenitude dimension-selection, the
 universal-representation identity check, the Connes–Rovelli cocycle
-verifying state-independent physical time, and the canonical β=2π KMS
-verification identifying the universal Tomita weight, and the Hawking
+verifying state-independent physical time, the canonical β=2π KMS
+verification identifying the universal Tomita weight, the Hawking
 backreaction bound confirming negligible radiative correction to the
-bounce geometry).
+bounce geometry, the Tolman cocycle verifying the Tolman-Ehrenfest law
+and Hawking temperature, and the BKL rotational stability bound showing
+the bounce is stable against Kerr rotation for all sub-extremal spins).
