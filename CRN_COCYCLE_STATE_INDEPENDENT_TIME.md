@@ -103,13 +103,15 @@ the state-independence of physical time exhibited at the operator level.
    for the cold reference state; the Unruh/Hawking state at
    \\(\beta=2\pi\\) generates the same flow up to inner conjugation.
    There is no further "true clock" to seek.
-3. **Consistency with Tolman/Unruh/Hawking.** The cocycle respects the
-   Tolman law \\(T_{\text{local}}=T_\infty/\sqrt{1-C(R)}\\): observers at
-   different gravitational redshifts see different KMS temperatures,
-   hence different \\(\rho_\phi\\), hence different \\(u_t\\); but these
-   differences are exactly the inner unitaries relating different
-   observers' flows to the same underlying outer time.
-4. **No privileged frame, no absolute rest, but one physical time.** The
+3. **Consistency with Tolman/Unruh/Hawking and canonical β=2π.** The
+   [β=2π canonical-temperature result](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md)
+   fixes the global/asymptotic modular temperature at \(T_\infty=1/(2\pi)\)
+   (Bisognano–Wichmann / Unruh / Hawking all agree). Local observers see
+   redshifted Tolman temperatures \(T_{\text{local}} = T_\infty / \sqrt{1-C(R)}\)
+   and correspondingly different KMS states \(\rho_\phi\); the cocycle
+   \(u_t\) conjugating different observers' flows is exactly the unitary
+   implementing these local-redshift rescalings of the same underlying
+   outer time.
    principle of relativity (no preferred observer state) is respected
    because the state-dependent "gauge" lives in \\(\operatorname{Inn}(M)\\),
    while physical time lives invariantly in \\(\operatorname{Out}(M)\\).

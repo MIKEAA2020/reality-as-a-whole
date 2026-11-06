@@ -92,8 +92,10 @@ objection): the [Connes–Rovelli cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md
 shows modular groups for any two faithful normal states differ only by an
 inner automorphism (a unitary cocycle u_t), so they define one and the same
 outer automorphism class α_t ∈ Out(M) — state-independent physical time.
-Each observer's state-relative modular flow is the same physical time
-conjugated by their personal unitary "gauge."
+The canonical [β=2π modular temperature](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md)
+is fixed by the Bisognano–Wichmann theorem (the dressed Tomonaga
+Hamiltonian IS the BW boost generator), Unruh T=a/(2π), and Hawking
+T=κ/(2π); the universal Tomita weight on III₁ is the KMS state.
 
 Limitations:
 
