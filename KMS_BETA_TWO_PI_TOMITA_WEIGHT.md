@@ -181,12 +181,14 @@ generator.
 
 ## 6. What remains open
 
-- The universal Tomita weight is *identified* here at the conceptual
-  level and verified in the bounce-neck oscillator sector; the full
-  construction on the quasi-local algebra of the dressed scalar across
-  all radii is not done (it follows from Takesaki duality on III₁ but
-  is not constructed explicitly as a global state on our WdW
-  midisuperspace).
+- The universal Tomita weight is identified here at the conceptual
+  level and verified in the bounce-neck oscillator sector. The
+  [Tolman cocycle](TOLMAN_COCYCLE.md) extends this to a family of local
+  KMS states at each radius, verifying the Tolman-Ehrenfest law
+  β_local(r)=β_∞√(1-C(r)) and the redshift-invariance of βH. A fully
+  global state on the quasi-local algebra across all radii follows from
+  Takesaki duality on III₁ but is not constructed as an explicit
+  density matrix on our WdW midisuperspace.
 - The SM gauge group / 3-generation content remains open (Connes'
   spectral action is the natural interface).
 - Full 3+1 (Kerr, aspherical) dynamics remain open.

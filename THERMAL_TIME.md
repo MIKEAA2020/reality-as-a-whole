@@ -95,7 +95,11 @@ outer automorphism class α_t ∈ Out(M) — state-independent physical time.
 The canonical [β=2π modular temperature](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md)
 is fixed by the Bisognano–Wichmann theorem (the dressed Tomonaga
 Hamiltonian IS the BW boost generator), Unruh T=a/(2π), and Hawking
-T=κ/(2π); the universal Tomita weight on III₁ is the KMS state.
+T=κ/(2π); the universal Tomita weight on III₁ is the KMS state. The
+[Tolman cocycle](TOLMAN_COCYCLE.md) verifies the redshift law
+β_local(r)=β_∞√(1-2M/r) and shows the cocycle between observers at
+different radii is the identity in global equilibrium (one KMS state,
+many proper-time parameterizations).
 
 Limitations:
 

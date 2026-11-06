@@ -111,7 +111,10 @@ the state-independence of physical time exhibited at the operator level.
    and correspondingly different KMS states \(\rho_\phi\); the cocycle
    \(u_t\) conjugating different observers' flows is exactly the unitary
    implementing these local-redshift rescalings of the same underlying
-   outer time.
+   outer time. The [Tolman cocycle construction](TOLMAN_COCYCLE.md) makes
+   this explicit: β_local H_local = β_∞ H_eff (redshift-invariant
+   generator), the cocycle between radii is the identity in Hartle-Hawking
+   equilibrium, and the horizon limit gives κ=1/(4M) → T_H=1/(8πM).
    principle of relativity (no preferred observer state) is respected
    because the state-dependent "gauge" lives in \\(\operatorname{Inn}(M)\\),
    while physical time lives invariantly in \\(\operatorname{Out}(M)\\).
