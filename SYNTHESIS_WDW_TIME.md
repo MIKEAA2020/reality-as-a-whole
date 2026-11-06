@@ -124,5 +124,8 @@ outer-automorphism level (all observers share one physical time); and the
 [canonical β=2π KMS state](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md) (Bisognano–
 Wichmann/Unruh/Hawking Tomita weight) fixes the universal modular
 temperature, with our dressed Tomonaga Hamiltonian identified as the BW
-boost generator. Full 3+1 QG and the SM derivation remain the open
+boost generator; and a [Hawking backreaction bound](HAWKING_BACKREACTION_BOUND.md)
+verifies that evaporation during the bounce-neck proper time is negligible
+(ΔM/M < 5×10⁻⁷ for M=1), confirming the fixed-mass bounce geometry is
+self-consistent. Full 3+1 QG and the SM derivation remain the open
 frontiers.
