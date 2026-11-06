@@ -107,3 +107,6 @@ and the Takesaki-duality III₁ universal-weight proof closing the
 state-selection problem, and the spectral action (with Λ⁴=0 from the KO-6 J-reality; see verifier #70) deriving Einstein-
 Hilbert gravity, and the finite SM algebra classification yielding
 U(1)×SU(2)×SU(3) as the gauge group).
+
+
+Final necessary-existence closure (R_∞ = absolute, one primitive): [NECESSARY_EXISTENCE_CLOSED.md](NECESSARY_EXISTENCE_CLOSED.md) (verifier #79).

@@ -145,3 +145,6 @@ H_F/generation), the [energy-conditions analysis](ENERGY_CONDITIONS_BOUNCE.md)
 confining NEC/SEC violation to a Planckian ~3.5/μ window at the bounce
 neck while EFT holds outside, and plenitude dimension-selection. All 68
 deterministic verifiers pass.
+
+
+Formal algebraic plenitude closure with stability selection and Weinberg anthropic bound: [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) (verifier #78).

@@ -252,3 +252,6 @@ incompatible vacua to choose between — the universal weight is the weight on
    literature).
 5. A. Connes, *Noncommutative Geometry* (Academic Press, 1994), and the
    noncommutative Standard Model programme (Connes–Chamseddine–van Suijlekom).
+
+
+Formal algebraic plenitude closure with stability selection and Weinberg anthropic bound: [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) (verifier #78).

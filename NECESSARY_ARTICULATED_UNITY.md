@@ -201,3 +201,6 @@ The advance is from “one whole can have distinctions” to **one complete natu
 ## Reference-sensitive empirical pursuit
 
 [The H_Q1 dossier](QUALITATIVE_IDENTITY_PURSUIT.md) pursues the particular-quality obligation through a bounded visual-content target, primary-source qualification, and a latent-state reference audit. Pure state renaming is not another experience; exchange of anchored qualitative assignments is not harmless notation by fiat. No independently calibrated experiential anchors or neural identity were supplied by the screened exploratory README. The no-independent-selector condition remains a completion requirement, not a theorem that a fitted physical coordinate is a quality.
+
+
+Final necessary-existence closure (R_∞ = absolute, one primitive): [NECESSARY_EXISTENCE_CLOSED.md](NECESSARY_EXISTENCE_CLOSED.md) (verifier #79).
