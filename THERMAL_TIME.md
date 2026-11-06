@@ -87,7 +87,11 @@ This tightens the absolute-as-perspectives story in
 thermal-time flow is the missing structural step from "one timeless global
 state" to "observer experiences time."
 
-State-independence of physical time (response to the "which state?"
+The [Takesaki duality / III₁ universal weight](TAKESAKI_DUAL_TYPEIII1.md)
+verifies the quasi-local dressed-WdW factor is type III₁ (S=R_+, T={0}),
+which strengthens state-independence to *weight uniqueness*: the Tomita
+weight exists uniquely (up to inner perturbation) across all radii and
+sectors. State-independence of physical time (response to the "which state?"
 objection): the [Connes–Rovelli cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md)
 shows modular groups for any two faithful normal states differ only by an
 inner automorphism (a unitary cocycle u_t), so they define one and the same

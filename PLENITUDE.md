@@ -228,6 +228,15 @@ Possibility = actuality is an identity, not a transition.
   physical-model level (the model is currently restricted to spherical
   symmetry for rigorous control).
 
+## 5a. Consistency with Takesaki duality
+
+The [Takesaki duality / III₁ analysis](TAKESAKI_DUAL_TYPEIII1.md) provides
+the von-Neumann-algebraic foundation for plenitude: every folium/representation
+of the quasi-local algebra is a sector inside the one III₁ factor in the
+GNS representation of the unique Tomita weight. There is no multiplicity of
+incompatible vacua to choose between — the universal weight is the weight on
+π_u(𝒜)'', and every sector restricts consistently to it.
+
 ## 6. References
 
 1. A. Connes, *Classification of injective factors*, Ann. Math. 104 (1976)

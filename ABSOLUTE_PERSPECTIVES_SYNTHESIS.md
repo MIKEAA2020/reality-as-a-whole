@@ -131,7 +131,10 @@ thermal time, Hawking/Page curve, the [Hawking backreaction bound](HAWKING_BACKR
 (ΔM/M < 5×10⁻⁷ during the bounce neck), plenitude dimension-selection,
 the Connes–Rovelli cocycle (state-independent time), and the canonical
 β=2π KMS/Tomita-weight identification, the Tolman cocycle verifying
-Tolman-Ehrenfest and Hawking T_H, and the [BKL rotational stability
+Tolman-Ehrenfest and Hawking T_H, the [BKL rotational stability
 bound](WDW_BKL_ROTATIONAL_STABILITY.md) showing scalar dominates Kerr
-rotational shear for all sub-extremal spins. All 64 deterministic verifiers
+rotational shear for all sub-extremal spins, the [Takesaki duality /
+III₁ universal weight](TAKESAKI_DUAL_TYPEIII1.md) closing the
+state-selection problem (unique Tomita weight on the type-III₁
+quasi-local factor), and plenitude dimension-selection. All 65 deterministic verifiers
 pass.

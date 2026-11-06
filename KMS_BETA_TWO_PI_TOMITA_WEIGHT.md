@@ -185,10 +185,11 @@ generator.
   level and verified in the bounce-neck oscillator sector. The
   [Tolman cocycle](TOLMAN_COCYCLE.md) extends this to a family of local
   KMS states at each radius, verifying the Tolman-Ehrenfest law
-  β_local(r)=β_∞√(1-C(r)) and the redshift-invariance of βH. A fully
-  global state on the quasi-local algebra across all radii follows from
-  Takesaki duality on III₁ but is not constructed as an explicit
-  density matrix on our WdW midisuperspace.
+  β_local(r)=β_∞√(1-C(r)) and the redshift-invariance of βH. The
+  [Takesaki duality / III₁ construction](TAKESAKI_DUAL_TYPEIII1.md)
+  completes the global-existence step: the quasi-local dressed-WdW
+  factor is type III₁ (S=R_+, T={0}), so the Takesaki dual II_∞ trace
+  and dual weight exist uniquely, closing the state-selection problem.
 - The SM gauge group / 3-generation content remains open (Connes'
   spectral action is the natural interface).
 - Full 3+1 (Kerr, aspherical) dynamics remain open.

@@ -141,7 +141,16 @@ the state-independence of physical time exhibited at the operator level.
 - The derivation does not by itself pick out the SM gauge group; it
   complements plenitude + stability selection rather than replacing it.
 
-## 6. Where this sits in the chain
+## 6. Takesaki duality and III₁
+
+The [Takesaki duality / III₁ analysis](TAKESAKI_DUAL_TYPEIII1.md) strengthens
+the state-independence conclusion: on a type III₁ factor every faithful normal
+state is an inner perturbation of the Tomita weight (the cocycle takes values
+in the unitary group of M itself), so state-independence is not just an
+outer-class statement but a uniqueness-of-weight result. The β=2π BW weight is
+canonical.
+
+## 7. Where this sits in the chain
 
 The complete time/necessity chain is now:
 
@@ -166,7 +175,7 @@ The complete time/necessity chain is now:
 13. [Necessary existence](NECESSARY_EXISTENCE_ARGUMENT.md) ("nothing"
     self-refutes; algebra-state-flow triple required)
 
-## 7. References
+## 8. References
 
 1. A. Connes, *Une classification des facteurs de type III*, Ann. Sci.
    École Norm. Sup. 6 (1973) 133–252. (The cocycle theorem.)

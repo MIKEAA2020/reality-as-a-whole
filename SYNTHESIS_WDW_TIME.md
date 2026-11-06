@@ -129,8 +129,12 @@ verifies that evaporation during the bounce-neck proper time is negligible
 (ΔM/M < 5×10⁻⁷ for M=1), confirming the fixed-mass bounce geometry is
 self-consistent, a [Tolman cocycle construction](TOLMAN_COCYCLE.md)
 verifying the redshift-invariance of the modular generator (β_local H_local
-= β_∞ H_eff, trivial equilibrium cocycle, T_H=κ/2π), and a [BKL rotational
+= β_∞ H_eff, trivial equilibrium cocycle, T_H=κ/2π), a [BKL rotational
 stability bound](WDW_BKL_ROTATIONAL_STABILITY.md) showing scalar stiff-fluid
 energy dominates Kerr rotational shear for all sub-extremal spins (critical
-a* ≈ 1.3 super-extremal, quiescent bounce rotationally stable). Full 3+1 QG
-and the SM derivation remain the open frontiers.
+a* ≈ 1.3 super-extremal, quiescent bounce rotationally stable), and a
+[Takesaki duality / III₁ universal weight](TAKESAKI_DUAL_TYPEIII1.md)
+verifying the quasi-local factor is type III₁ (S=R_+, T={0}) so the
+Tomita weight exists uniquely across all radii/sectors, closing the
+state-selection problem. The Connes–Chamseddine spectral action (SM gauge
+content / generations) remains the principal open frontier.

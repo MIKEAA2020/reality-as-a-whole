@@ -204,3 +204,30 @@ The time/thermal chain is now:
   geometry rather than fixed Schwarzschild) is not treated; the
   [backreaction bound](HAWKING_BACKREACTION_BOUND.md) shows this is
   \\(\Delta M/M < 10^{-6}\\) during the neck.
+
+## 9. Takesaki-duality context
+
+The local KMS states constructed here at each radius fit into the one global
+Tomita weight whose existence and uniqueness is established by the
+[Takesaki duality / III₁ analysis](TAKESAKI_DUAL_TYPEIII1.md). The equilibrium
+cocycle identity (Dφ_r:Dφ_∞)_t = I verified above is exactly the condition
+that all local β_local states are restrictions of this one universal weight.
+
+## 10. References
+
+1. R. C. Tolman, *On the weight of heat and thermal equilibrium in general
+   relativity*, Phys. Rev. 35 (1930) 904.
+2. P. Ehrenfest and T. Ehrenfest, *Begriffliche Grundlagen der statistischen
+   Auffassung in der Mechanik* (Encykl. Math. Wiss. IV.2.II, 1911);
+   Tolman-Ehrenfest law T√g₀₀ = const.
+3. R. Haag, N. Hugenholtz, M. Winnink, *On the equilibrium states in
+   quantum statistical mechanics*, Commun. Math. Phys. 5 (1967) 215–236.
+4. A. Connes and C. Rovelli, *Von Neumann algebra automorphisms and time
+   thermodynamics relation in general covariant quantum theories*,
+   Class. Quantum Grav. 11 (1994) 2899, arXiv:gr-qc/9406019.
+5. W. G. Unruh, *Notes on black-hole evaporation*, Phys. Rev. D 14
+   (1976) 870–892.
+6. S. W. Hawking, *Particle creation by black holes*, Commun. Math.
+   Phys. 43 (1975) 199–220.
+7. M. Takesaki, *Duality for crossed products and the structure of von
+   Neumann algebras of type III*, Acta Math. 131 (1973) 249–310.

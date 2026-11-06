@@ -1,0 +1,93 @@
+{
+  "omega_b": 7.48,
+  "beta_formal_2pi": 6.283185307179586,
+  "beta_eff_dense_spectrum": 0.1336898395721925,
+  "delta_incommensurate": 0.3,
+  "N_trunc_per_mode": 6,
+  "bisognano_wichmann_note": "At the formal beta=2pi BW/Unruh/Hawking temperature the modular operator Delta=exp(-2pi K) has CONTINUOUS spectrum over R_+^* because the Rindler boost K has continuous spectrum; this gives S(M)=R_+^* and type III_1 directly (Haag V.6, Bisognano-Wichmann). In a truncated discrete-mode model we expose the structural mechanism: rationally-independent frequencies make the discrete Bohr-difference set epsilon-dense in an interval, closing S to R_+^* and T to {0} as the truncation is removed.",
+  "modes": {
+    "K=1_beta2pi": {
+      "beta": 6.283185307179586,
+      "frequencies": [
+        9.724
+      ],
+      "dim": 6,
+      "n_occupied_states": 1,
+      "E_min": 0.0,
+      "E_max": 48.620000000000005,
+      "log_Delta_spectrum_size": 1,
+      "log_Delta_min": -0.0,
+      "log_Delta_max": -0.0,
+      "epsilon_density_check": 10.0,
+      "density_interval": [
+        -0.0,
+        0.0
+      ],
+      "max_gap_within_interval": 0.0,
+      "T_invariant_min_nonzero": 0.10283833813245578,
+      "expected_single_mode_period": 0.10283833813245578,
+      "cocycle_generator_norm": 0.07177771250997649,
+      "cocycle_unitarity_err": 2.220446049250313e-16,
+      "tau_H_phi": 2.8408847839128705e-26
+    },
+    "K=2_beta_eff": {
+      "beta": 0.1336898395721925,
+      "frequencies": [
+        9.724,
+        21.306990467930454
+      ],
+      "dim": 36,
+      "n_occupied_states": 15,
+      "E_min": 0.0,
+      "E_max": 155.15495233965228,
+      "log_Delta_spectrum_size": 87,
+      "log_Delta_min": -8.545584412271571,
+      "log_Delta_max": 8.545584412271571,
+      "epsilon_density_check": 0.6,
+      "density_interval": [
+        -6.8364675298172575,
+        6.8364675298172575
+      ],
+      "max_gap_within_interval": 0.2635324701827422,
+      "T_invariant_min_nonzero": 0.0,
+      "expected_single_mode_period": null,
+      "cocycle_generator_norm": 0.09941858055100916,
+      "cocycle_unitarity_err": 2.220446049250313e-16,
+      "tau_H_phi": 4.929190203669886
+    },
+    "K=3_beta_eff": {
+      "beta": 0.1336898395721925,
+      "frequencies": [
+        9.724,
+        21.306990467930454,
+        34.10016603655368
+      ],
+      "dim": 216,
+      "n_occupied_states": 22,
+      "E_min": 0.0,
+      "E_max": 325.6557825224207,
+      "log_Delta_spectrum_size": 231,
+      "log_Delta_min": -9.117691453623978,
+      "log_Delta_max": 9.117691453623978,
+      "epsilon_density_check": 0.3,
+      "density_interval": [
+        -7.294153162899183,
+        7.294153162899183
+      ],
+      "max_gap_within_interval": 0.10584683710081677,
+      "T_invariant_min_nonzero": 0.0,
+      "expected_single_mode_period": null,
+      "cocycle_generator_norm": 0.09864563771541755,
+      "cocycle_unitarity_err": 4.440892098500626e-16,
+      "tau_H_phi": 5.290140832482086
+    }
+  },
+  "checks": {
+    "K1_has_discrete_period_III_lambda": true,
+    "K1_period_matches_2pi_over_betaOmega": true,
+    "K3_T_invariant_is_zero_III1": true,
+    "K3_log_spectrum_epsilon_dense": true,
+    "cocycle_unitarity_inner_K3": true,
+    "single_mode_lambda_formal": 3.8808758207948276e-21
+  }
+}
