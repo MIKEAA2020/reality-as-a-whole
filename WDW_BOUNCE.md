@@ -83,7 +83,9 @@ Limitations:
 - [WdW information preservation](WDW_INFORMATION_PRESERVATION.md) analyzes
   unitarity through the bounce: pure states remain pure, Hawking radiation is
   entanglement with baby-universe partner modes, no fundamental information loss.
-- Hawking backreaction (evaporation racing the bounce) is not computed.
+- Hawking-evaporation backreaction is bounded by the [Hawking backreaction
+  result](HAWKING_BACKREACTION_BOUND.md): ΔM/M < 5×10⁻⁷ during the bounce
+  neck for M≥1, so the fixed-mass bounce geometry is self-consistent.
 - [BKL bounce stability](WDW_BKL_STABILITY.md) analyzes scalar vs anisotropic
   shear energy at the neck: scalar dominates by seven orders of magnitude
   (\(\rho_{\mathrm{aniso}}/\rho_\phi\sim 4\times10^{-7}\)), quenching

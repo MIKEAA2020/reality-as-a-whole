@@ -88,8 +88,11 @@ Limitations:
 - "Late-time correlations" with baby-universe partners are asserted via
   unitarity; an explicit S-matrix is not computed.
 - The late-time evaporation process itself must be studied in a dynamical
-  spacetime that includes backreaction on the metric, which is beyond the
-  static/kinematic setup.
+  spacetime, but the early-bounce backreaction is now bounded by the
+  [Hawking backreaction result](HAWKING_BACKREACTION_BOUND.md):
+  ΔM/M < 5×10⁻⁷ during the bounce neck for M≥1, so the fixed-mass bounce
+  geometry is self-consistent for early times; late-time evaporation (near
+  Page time) still requires a dynamical treatment.
 
 ## 5. Verification
 
