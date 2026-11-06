@@ -102,6 +102,11 @@ PASS: NEC and SEC violated at neck (ρ+p < 0, ρ+3p < 0); WEC/DEC/SEC/NEC
 hold in the mid-interior and post-bounce; NEC-violation proper-time
 thickness ≈ 0.16 ≈ 3.5/μ (Planckian confinement).
 
+
+## 6b. Extension to Kerr (rotating)
+
+BKL rotational decoupling extends this result to all sub-extremal rotating (Kerr) black holes: near the bounce neck (α→-∞) the rotational potential is suppressed as e^{10α} relative to Kasner walls, making the bounce locally spherical. See **KERR_BOUNCE_ROTATIONAL.md** (verifier #72).
+
 ## 7. References
 
 1. R. Penrose, *Gravitational collapse and space-time singularities*,

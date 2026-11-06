@@ -155,6 +155,11 @@ slow-to-moderate Kerr.
   sub-extremal spins within the perturbative framework, scalar
   dominates and AVTD holds, so the bounce is stable.
 
+
+## 6b. Kerr bounce application
+
+The BKL rotational decoupling derived here (rotational off-diagonal terms decaying in AVTD limit) is the key input to the Kerr bounce analysis: it guarantees that rotating black holes bounce with the same Planckian NEC-violating neck as Schwarzschild, with J conserved. See KERR_BOUNCE_ROTATIONAL.md (verifier #72).
+
 ## 7. Where this sits in the chain
 
 Adding this result, the closed chain is now:

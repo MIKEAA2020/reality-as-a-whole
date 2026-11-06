@@ -139,6 +139,11 @@ p_QG < -ρ_QG) while WEC/DEC are restored a few Compton times outside
 the bounce, so effective field theory remains valid away from the
 Planckian cap.
 
+
+## 6b. Extension to rotating (Kerr) bounce
+
+The bounce extends to Kerr black holes via BKL AVTD decoupling: angular momentum is a conserved global charge that becomes dynamically irrelevant (V_rot ~ e^{4α}) near the Planckian neck. See KERR_BOUNCE_ROTATIONAL.md (verifier #72).
+
 ## 7. Honest limitations
 
   - We use the scalar Lichnerowicz heat-kernel coefficients (a₂ = (1/6)∫ R√g
