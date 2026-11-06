@@ -1,4 +1,4 @@
-# The Zero-Residue Account: Complete Chain (29 Steps, 79 Physics Verifiers, All PASS)
+# The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
 
 This document is the closure certificate for the synthesis. Every structural gap that can be closed by a theorem + numerical verifier has been closed.
 
@@ -36,7 +36,8 @@ This document is the closure certificate for the synthesis. Every structural gap
 | 26 | **Problem of time: 7 facets closed** | problem_of_time_closed | ✅ |
 | 27 | **Algebraic plenitude (stability + Weinberg)** | plenitude_algebraic_closure | ✅ |
 | 28 | **Necessary existence (R_∞ = absolute)** | necessary_existence_closed | ✅ |
-| 29 | Synthesis closure: plenitude × phenomenal identity × necessary existence | philosophical, supported by all above | ✅ |
+| 29 | **Shlaer time-solution comparison** | shlaer_time_comparison | ✅ |
+| 30 | Synthesis closure: plenitude × phenomenal identity × necessary existence | philosophical, supported by all above | ✅ |
 
 ---
 
