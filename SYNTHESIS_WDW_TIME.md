@@ -147,5 +147,7 @@ generators), 32-dim H_F per generation; and an [energy conditions
 analysis](ENERGY_CONDITIONS_BOUNCE.md) showing NEC/SEC violation is
 confined to a Planckian ~3.5/μ window at the bounce neck (quantum
 repulsion) while EFT energy conditions hold in the semi-classical
-regions. The remaining frontiers are the cosmological constant and
-the number of generations (KO-homology).
+regions, and the [KO-dimension-6 analysis](KO_DIMENSION6_SM.md) fixing
+the CPT/Minkowski/spin-statistics signature and KO₆ Z/2 parity that
+forces 3 generations. The remaining frontier is the cosmological-constant
+fine tuning.

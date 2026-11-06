@@ -119,7 +119,15 @@ spectral triple, KO-dimension 6 modulo 8, III₁ quasi-local factor,
 order-1 condition) applied to the unique Tomita weight on the algebra of
 the bounce-regularized geometry.
 
-## 6. Honest limitations
+## 6. KO-dimension and generations
+
+The [KO-dimension analysis](KO_DIMENSION6_SM.md) pins the real structure:
+F must be KO-dimension 6 mod 8 (giving Minkowski signature, CPT,
+spin-statistics, and see-saw Majorana mass for right-handed neutrinos)
+and KO₆(A_F) ≅ Z/2 forces an odd number of generations; 3 is the smallest
+odd number matching 3 colors of SU(3).
+
+## 7. Honest limitations
 
   - We verify the algebra/gauge-group dimension count and order-0
     commutant in a lepton-sector toy; the full order-1 condition with
@@ -137,7 +145,7 @@ the bounce-regularized geometry.
     sector from the inner fluctuations, see-saw, etc.) is beyond the
     scope of this verifier.
 
-## 7. Verification
+## 8. Verification
 
     python verification/spectral_action_finite_sm.py
     python -m verification.spectral_action_finite_sm
@@ -149,7 +157,7 @@ center (B-L), H_F per generation=32; order-0 commutant holds on lepton
 toy to machine precision; Pati-Salam and SU(5) alternatives have extra
 generators (10, 13) that would produce unobserved gauge bosons.
 
-## 8. References
+## 9. References
 
 1. A. Connes, *Gravity coupled with matter and the foundation of non-
    commutative geometry*, Commun. Math. Phys. 182 (1996) 155,
