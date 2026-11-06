@@ -2,6 +2,10 @@
 
 Working record of a project that asks whether a complete, "zero-residue" account of reality as a whole — one that leaves no brute fact — can be constructed, and what remains when the attempt is pushed as far as it will go. The material consists of audited chat transcripts, constructive research rounds with reproducible checks, and formal work packages. Nothing here claims to have reached zero residue; the recurring result is a shrinking, explicitly named residue.
 
+## Start here
+
+**[`Surviving_Thesis_Consolidated.md`](Surviving_Thesis_Consolidated.md)** — the project's position stated at full strength and consolidated from everything below: the thesis, the criteria in their final defensible forms, the architecture, the best argument for each component, objections and replies, standing exclusions, the typed residue, the improvement programme with success/failure conditions, the stability profile of each component across all passes, and a graded claims register. It is written to be read on its own; the material below is its evidence base.
+
 ## Contents
 
 ### 1. `workspace-01a16ed6-0438-7924-a01c-89f6870cc3b0.zip` — first chat audit and research rounds 1–6
