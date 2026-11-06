@@ -140,7 +140,14 @@ Key takeaways:
   Hamiltonian, is stable against radiative corrections during the
   bounce.
 
-## 6. Limitations
+## 6. Consistency with Tolman cocycle
+
+The [Tolman cocycle](TOLMAN_COCYCLE.md) closes the complementary
+direction: Hawking/Unruh temperatures at different radii are related by
+inner automorphisms with β_local H_local invariant, consistent with the
+global KMS state used to derive the Hawking luminosity here.
+
+## 7. Limitations
 
 - The bounds are computed in Schwarzschild proper time with the
   Page-style Stefan–Boltzmann luminosity and a greybody factor \\(g=1\\)
