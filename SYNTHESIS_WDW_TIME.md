@@ -118,5 +118,7 @@ self-refuting nothingness, and a [plenitude identity](PLENITUDE.md) thesis: poss
 by identity in the universal representation π_u(𝒜)'' (every consistent
 sector is ipso facto actual; no selector), with Ehrenfest/spinor/
 polarization/Huygens stability picking d=4 + scalar as the observer-
-habitable sectors. Full 3+1 QG and the SM derivation remain the open
+habitable sectors; and a [Connes–Rovelli cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) proves that the thermal/modular time flow is
+state-independent at the outer-automorphism level — all observers share
+one physical time. Full 3+1 QG and the SM derivation remain the open
 frontiers.

@@ -206,7 +206,10 @@ Possibility = actuality is an identity, not a transition.
 - **The universal state** on \\(\pi_u(\mathcal A)''\\) is not constructed
   explicitly. The natural candidate is the Tomita weight on III₁ (modular
   temperature \\(\beta=2\pi\\), the KMS state at the Unruh/Hawking
-  temperature), but this is not derived here.
+  temperature), but this is not derived here. The [Connes–Rovelli
+  cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) shows that the *outer*
+  time flow is state-independent regardless of which state picks the
+  modular generator.
 - The **full Standard Model** gauge group (\\(SU(3)\times SU(2)\times
   U(1)\\)), three generations, and chiral fermion content are
   narrowed but not derived. Connes' noncommutative Standard Model and the
