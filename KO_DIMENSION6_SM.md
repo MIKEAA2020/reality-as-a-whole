@@ -86,7 +86,11 @@ The finite SM is now pinned on three independent structural axes:
   - Yukawa couplings, mixing angles, and the CC fine-tuning remain free
     parameters, as in the SM itself.
 
-## 6. References
+## 6. Consequences for flavor
+
+The KO-dim-6 real structure is a prerequisite for the Majorana see-saw: J_F^2=+I makes M_R real symmetric (Majorana mass in the J_F basis), and combined with the order-0 condition it forces the D_F block structure (4 Yukawa + 1 Majorana). This yields eV-scale light neutrinos via type-I see-saw, with CKM and PMNS mixing matrices automatic from bi-unitary diagonalization. See **YUKAWA_SEESAW_CKM.md** (verifier #71).
+
+## 7. References
 
 1. A. Connes, *Noncommutative geometry and reality*, J. Math. Phys. 36
    (1995) 6194.

@@ -150,7 +150,7 @@ The cancellation closes the "cosmological constant fine-tuning" gap identified i
 
 The verifier closes the Λ⁴-divergence frontier.  Three substantive frontiers remain:
 
-1. **Yukawa / CKM / PMNS values (verifier #71 target):** derive the Yukawa coupling matrices from the geometry of the finite Dirac operator D_F (the see-saw/Majorana structure), compute RG running to low scales, and verify that the dimensional transmutation from Weyl² yields the correct observed CC scale.
+1. **Yukawa / CKM / PMNS numerical values:** block structure and parameter count closed (verifier #71, YUKAWA_SEESAW_CKM.md); specific numerical masses/mixings from higher-order condition on D_F plus RG running remain. derive the Yukawa coupling matrices from the geometry of the finite Dirac operator D_F (the see-saw/Majorana structure), compute RG running to low scales, and verify that the dimensional transmutation from Weyl² yields the correct observed CC scale.
 
 2. **Non-perturbative Kerr bounce (verifier #72+ target):** extend the bounce analysis (verifiers #63, #65, #68) from spherically symmetric to rotating (Kerr) with BKL aspherical/rotational decoupling.
 
