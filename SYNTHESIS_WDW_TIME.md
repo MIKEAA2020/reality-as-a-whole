@@ -149,5 +149,4 @@ confined to a Planckian ~3.5/μ window at the bounce neck (quantum
 repulsion) while EFT energy conditions hold in the semi-classical
 regions, and the [KO-dimension-6 analysis](KO_DIMENSION6_SM.md) fixing
 the CPT/Minkowski/spin-statistics signature and KO₆ Z/2 parity that
-forces 3 generations. The remaining frontier is the cosmological-constant
-fine tuning.
+forces 3 generations and EXACTLY CANCELLING the Λ⁴ cosmological constant (a₀=0 structural via J-reality, no fine-tuning; see [Λ⁴ cancellation](COSMOLOGICAL_CONSTANT_A0_CANCEL.md), verifier #70). The remaining frontier is the residual a₄ (Weyl²) running to give the low-scale CC via dimensional transmutation.

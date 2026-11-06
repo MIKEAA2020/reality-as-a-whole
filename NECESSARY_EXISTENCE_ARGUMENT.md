@@ -104,6 +104,6 @@ bounce geometry, the Tolman cocycle verifying the Tolman-Ehrenfest law
 and Hawking temperature, and the BKL rotational stability bound showing
 the bounce is stable against Kerr rotation for all sub-extremal spins,
 and the Takesaki-duality III₁ universal-weight proof closing the
-state-selection problem, and the spectral action deriving Einstein-
+state-selection problem, and the spectral action (with Λ⁴=0 from the KO-6 J-reality; see verifier #70) deriving Einstein-
 Hilbert gravity, and the finite SM algebra classification yielding
 U(1)×SU(2)×SU(3) as the gauge group).

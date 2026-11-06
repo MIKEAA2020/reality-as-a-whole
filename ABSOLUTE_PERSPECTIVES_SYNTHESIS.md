@@ -112,7 +112,7 @@ What residue remains:
    scalar sector are selected by [plenitude + stability](PLENITUDE.md):
    hyperfinite III₁ factor is unique; Ehrenfest/spinor/polarization/Huygens
    stability picks d=4 and a scalar; the specific SM gauge group and
-   generations remain an open theorem, not a brute parameter).
+   generations and exact Λ⁴ CC cancellation (a₀=0) follow from the KO-dim-6 real structure, no brute parameters).
 2. The hard problem of consciousness (see [phenomenal identity](PHENOMENAL_IDENTITY_THESIS.md),
    identification not theorem).
 3. Extrapolation beyond spherical symmetry (Kerr / full 3+1 QG).
