@@ -127,7 +127,6 @@ This document is a conceptual synthesis; it has no separate verifier. Its
 claims are those of the verifiers across the full chain: classical
 relational clocks, spherical dressed clock, WdW self-adjoint evolution,
 near-horizon/interior/bounce, information preservation, BKL stability,
-thermal time, Hawking/Page curve, plenitude dimension-selection, and the
-earlier clock-preparation work. All 60 deterministic verifiers pass
-(including the explicit Connes–Rovelli cocycle construction proving
-state-independent physical time).
+thermal time, Hawking/Page curve, plenitude dimension-selection, the
+Connes–Rovelli cocycle (state-independent time), and the canonical β=2π
+KMS/Tomita-weight identification. All 61 deterministic verifiers pass.

@@ -94,7 +94,8 @@ gauge groups/fermion content remains an open theorem, not a hidden brute
 fact.
 
 This note has no verifier; it is a philosophical argument, not a computational
-claim. All mathematical claims supporting its premises are verified in the 60
+claim. All mathematical claims supporting its premises are verified in the 61
 physical verifiers (including plenitude dimension-selection, the
-universal-representation identity check, and the Connes–Rovelli cocycle
-verifying state-independent physical time).
+universal-representation identity check, the Connes–Rovelli cocycle
+verifying state-independent physical time, and the canonical β=2π KMS
+verification identifying the universal Tomita weight).

@@ -209,7 +209,9 @@ Possibility = actuality is an identity, not a transition.
   temperature), but this is not derived here. The [Connes–Rovelli
   cocycle](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) shows that the *outer*
   time flow is state-independent regardless of which state picks the
-  modular generator.
+  modular generator, and the [canonical β=2π modular temperature](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md)
+  (BW/Unruh/Hawking) identifies our dressed H_eff as the BW boost
+  generator.
 - The **full Standard Model** gauge group (\\(SU(3)\times SU(2)\times
   U(1)\\)), three generations, and chiral fermion content are
   narrowed but not derived. Connes' noncommutative Standard Model and the
