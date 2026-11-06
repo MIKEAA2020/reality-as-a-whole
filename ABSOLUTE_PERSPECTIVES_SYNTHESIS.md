@@ -138,6 +138,10 @@ III₁ universal weight](TAKESAKI_DUAL_TYPEIII1.md) closing the
 state-selection problem (unique Tomita weight on the type-III₁
 quasi-local factor), the [spectral action on the
 bounce](SPECTRAL_ACTION_BOUNCE.md) showing Einstein-Hilbert gravity
-(G∝1/Λ²) is forced as the Λ² heat-kernel term, and plenitude
-dimension-selection. All 67 deterministic verifiers
-pass.
+(G∝1/Λ²) is forced as the Λ² heat-kernel term, the [finite SM noncommutative
+algebra](SPECTRAL_ACTION_FINITE_SM.md) classifying A_F=C⊕H⊕M_3(C) as the
+unique gauge-sector triple (U(1)×SU(2)×SU(3), 12 gauged bosons, 32-dim
+H_F/generation), the [energy-conditions analysis](ENERGY_CONDITIONS_BOUNCE.md)
+confining NEC/SEC violation to a Planckian ~3.5/μ window at the bounce
+neck while EFT holds outside, and plenitude dimension-selection. All 68
+deterministic verifiers pass.

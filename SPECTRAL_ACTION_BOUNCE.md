@@ -130,7 +130,16 @@ is the unique KO-6 real even spectral triple on 32-dim H_F per generation
 satisfying the order-1 condition, giving the SM gauge group U(1)×SU(2)×SU(3)
 with 12 gauge bosons.
 
-## 6. Honest limitations
+## 6. Energy conditions at the bounce
+
+The [energy conditions analysis](ENERGY_CONDITIONS_BOUNCE.md) shows
+that NEC and SEC are violated in a narrow ~3.5/μ proper-time window
+at the neck (quantum-geometry repulsion from the holonomy correction,
+p_QG < -ρ_QG) while WEC/DEC are restored a few Compton times outside
+the bounce, so effective field theory remains valid away from the
+Planckian cap.
+
+## 7. Honest limitations
 
   - We use the scalar Lichnerowicz heat-kernel coefficients (a₂ = (1/6)∫ R√g
     for scalars vs. (1/12) · dim(S) for spinors); the O(1) spinor
@@ -148,7 +157,7 @@ with 12 gauge bosons.
     manifold part, not the finite noncommutative part that yields the SM.
   - Weyl² terms (a₄ non-topological pieces) are not checked here.
 
-## 7. Verification
+## 8. Verification
 
     python verification/spectral_action_bounce.py
     python -m verification.spectral_action_bounce
@@ -160,7 +169,7 @@ bounce curvature); Euler integral finite (classical divergence capped at
 μ⁴=2.34×10⁵); K_class(R_b)=μ⁴ exactly; E₄ deformation-insensitive;
 radial Laplacian spectrum bounded below (lowest eigenvalue ≈ 1.1).
 
-## 8. References
+## 9. References
 
 1. A. Connes, *Gravity coupled with matter and foundation of non-commutative
    geometry*, Commun. Math. Phys. 182 (1996) 155–176, arXiv:hep-th/9603053.

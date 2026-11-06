@@ -143,6 +143,9 @@ Tr χ(D/Λ) on the bounce geometry; and the [finite noncommutative SM
 classification](SPECTRAL_ACTION_FINITE_SM.md) reproducing the
 Connes-Chamseddine result that A_F = C ⊕ H ⊕ M_3(C) is the unique
 KO-6 order-1 triple with SM gauge group U(1)_Y×SU(2)_L×SU(3)_c (12
-generators), 32-dim H_F per generation. The remaining frontiers are
-fine-tuning/cosmological constant and the number of generations
-(KO-homology constraint).
+generators), 32-dim H_F per generation; and an [energy conditions
+analysis](ENERGY_CONDITIONS_BOUNCE.md) showing NEC/SEC violation is
+confined to a Planckian ~3.5/μ window at the bounce neck (quantum
+repulsion) while EFT energy conditions hold in the semi-classical
+regions. The remaining frontiers are the cosmological constant and
+the number of generations (KO-homology).

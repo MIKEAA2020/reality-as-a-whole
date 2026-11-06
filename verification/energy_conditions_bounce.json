@@ -1,0 +1,93 @@
+{
+  "mu": 22.0,
+  "M": 1.0,
+  "Rb": 0.24280544348548772,
+  "rho_s0": 12427.666782978346,
+  "rho_QG0": 74566.00069787007,
+  "regions": [
+    {
+      "region": "bounce_neck",
+      "R": 0.24304824892897317,
+      "rho": 86919.06350336016,
+      "p": -99495.04345169275,
+      "NEC": false,
+      "WEC": false,
+      "DEC": false,
+      "SEC": false
+    },
+    {
+      "region": "near_bounce",
+      "R": 0.26708598783403653,
+      "rho": 78657.31990072488,
+      "p": -99043.6791443923,
+      "NEC": false,
+      "WEC": false,
+      "DEC": false,
+      "SEC": false
+    },
+    {
+      "region": "QG_shoulder",
+      "R": 0.3642081652282316,
+      "rho": 28522.342115833224,
+      "p": -31385.96063054427,
+      "NEC": false,
+      "WEC": false,
+      "DEC": false,
+      "SEC": false
+    },
+    {
+      "region": "far_QG_tail",
+      "R": 0.7284163304564631,
+      "rho": 17.055945184032346,
+      "p": 17.039162587726885,
+      "NEC": true,
+      "WEC": true,
+      "DEC": true,
+      "SEC": true
+    },
+    {
+      "region": "interior_mid",
+      "R": 1.0,
+      "rho": 2.546479089471278,
+      "p": 2.5464790894693765,
+      "NEC": true,
+      "WEC": true,
+      "DEC": true,
+      "SEC": true
+    },
+    {
+      "region": "near_horizon_interior",
+      "R": 1.9,
+      "rho": 0.054127567288416376,
+      "p": 0.054127567288416376,
+      "NEC": true,
+      "WEC": true,
+      "DEC": true,
+      "SEC": true
+    },
+    {
+      "region": "post_bounce_semiclassical",
+      "R": 3.0,
+      "rho": 0.0034931126055834406,
+      "p": 0.0034931126055834406,
+      "NEC": true,
+      "WEC": true,
+      "DEC": true,
+      "SEC": true
+    }
+  ],
+  "violation_window": {
+    "R_in": 0.2428056862909312,
+    "R_out": 0.4014321297140304,
+    "proper_time_thickness": 0.15710334896640746,
+    "1_over_mu": 0.045454545454545456,
+    "window_Planckian": true
+  },
+  "checks": {
+    "neck_NEC_violated": true,
+    "neck_SEC_violated": true,
+    "post_bounce_WEC_holds": true,
+    "interior_mid_WEC_holds": true,
+    "violation_window_planckian": true
+  }
+}

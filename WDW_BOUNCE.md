@@ -100,7 +100,9 @@ the finite-curvature polymer-regularized geometry constructed here and
 feeds it into the Connes-Chamseddine spectral action Tr χ(D/Λ),
 verifying the Seeley-deWitt a₀ (4-volume), a₂ (Einstein-Hilbert, G∝1/Λ²),
 and a₄ (Gauss-Bonnet) coefficients are all finite through the neck thanks
-to the μ⁴ curvature cap.
+to the μ⁴ curvature cap. The [energy conditions analysis](ENERGY_CONDITIONS_BOUNCE.md)
+shows NEC/SEC are violated only in a Planckian window ~3.5/μ at the neck,
+providing the quantum repulsion for the bounce while EFT holds outside.
 
 ## 5. Verification
 
