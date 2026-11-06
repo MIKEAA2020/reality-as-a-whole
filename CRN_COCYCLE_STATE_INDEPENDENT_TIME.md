@@ -188,3 +188,6 @@ The complete time/necessity chain is now:
    Class. Quantum Grav. 11 (1994) 2899, [arXiv:gr-qc/9406019](https://arxiv.org/abs/gr-qc/9406019).
 4. K. Fredenhagen, *On the modular structure of local algebras of
    observables*, Commun. Math. Phys. 97 (1985) 79–89.
+
+
+Synthesis: all facets of the problem of time are resolved in [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) (verifier #77).

@@ -231,3 +231,6 @@ that all local β_local states are restrictions of this one universal weight.
    Phys. 43 (1975) 199–220.
 7. M. Takesaki, *Duality for crossed products and the structure of von
    Neumann algebras of type III*, Acta Math. 131 (1973) 249–310.
+
+
+Synthesis: all facets of the problem of time are resolved in [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) (verifier #77).

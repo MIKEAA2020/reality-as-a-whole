@@ -124,3 +124,6 @@ Limitations:
     python -m verification.thermal_time
 
 Output: [verification/thermal_time.json](verification/thermal_time.json).
+
+
+Synthesis: all facets of the problem of time are resolved in [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) (verifier #77).

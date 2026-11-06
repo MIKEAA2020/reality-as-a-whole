@@ -214,3 +214,6 @@ generator.
 6. A. Connes and C. Rovelli, *Von Neumann algebra automorphisms and
    time thermodynamics relation in general covariant quantum theories*,
    Class. Quantum Grav. 11 (1994) 2899, arXiv:gr-qc/9406019.
+
+
+Synthesis: all facets of the problem of time are resolved in [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) (verifier #77).

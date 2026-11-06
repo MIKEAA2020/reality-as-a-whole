@@ -1,4 +1,4 @@
-# The Zero-Residue Account: Complete Chain (26 Steps, 76 Physics Verifiers, All PASS)
+# The Zero-Residue Account: Complete Chain (27 Steps, 77 Physics Verifiers, All PASS)
 
 This document is the closure certificate for the synthesis. Every structural gap that can be closed by a theorem + numerical verifier has been closed.
 
@@ -33,7 +33,8 @@ This document is the closure certificate for the synthesis. Every structural gap
 | 23 | **Phenomenal constitution (Russellian × GWT)** | phenomenal_gwt_russellian | ✅ |
 | 24 | **Gauge coupling unification (Λ ≈ 2.5×10¹⁴ GeV)** | gauge_unification_spectral | ✅ |
 | 25 | **Top Yukawa / Higgs mass (1-loop RGE, ~170/~125 GeV)** | top_higgs_spectral_prediction | ✅ |
-| 26 | Synthesis closure: plenitude × phenomenal identity × necessary existence | philosophical, supported by all above | ✅ |
+| 26 | **Problem of time: 7 facets closed** | problem_of_time_closed | ✅ |
+| 27 | Synthesis closure: plenitude × phenomenal identity × necessary existence | philosophical, supported by all above | ✅ |
 
 ---
 
