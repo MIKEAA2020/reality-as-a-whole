@@ -71,3 +71,5 @@ This is a change in the candidate to develop, not a discovery that GWT unifies m
 ## Local togetherness hypothesis and primary protocol
 
 [The recurrent-access assessment](WORKSPACE_TOGETHERNESS_CANDIDATE.md) proposes a restricted co-presence hypothesis and tests its boundary obligations. Pinned COGITATE documentation supports an independent separation of stimulus content, duration, task role, and response in the experimental design, not a verdict about either theory's empirical success. The actual data and result paper have not been analyzed. GWT remains the mechanistic research preference, not a demonstrated constitutive law or superior empirical winner.
+
+The structural embedding of GWT within the type-III₁ algebraic framework and the Russellian identity are formalized in [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) (verifier #74).

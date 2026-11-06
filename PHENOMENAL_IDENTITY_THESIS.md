@@ -126,3 +126,6 @@ thesis requires.
 
 This note does not have a separate verifier. It is a philosophical thesis
 statement resting on the 55 deterministic verifiers of the physical chain.
+
+
+For the formal verifier and worked GWT model, see [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) (verifier #74).
