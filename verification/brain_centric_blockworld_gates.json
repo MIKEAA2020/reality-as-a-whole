@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "ordinary_unselected_bob_state": "I/2 in both bases",
+  "hypothetical_biased_remote_ensemble": [
+    {
+      "epsilon": "-1/2",
+      "bob_z0_after_z_setting": "0",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "-1/2"
+    },
+    {
+      "epsilon": "-1/4",
+      "bob_z0_after_z_setting": "1/4",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "-1/4"
+    },
+    {
+      "epsilon": "-1/10",
+      "bob_z0_after_z_setting": "2/5",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "-1/10"
+    },
+    {
+      "epsilon": "0",
+      "bob_z0_after_z_setting": "1/2",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "0"
+    },
+    {
+      "epsilon": "1/10",
+      "bob_z0_after_z_setting": "3/5",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "1/10"
+    },
+    {
+      "epsilon": "1/4",
+      "bob_z0_after_z_setting": "3/4",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "1/4"
+    },
+    {
+      "epsilon": "1/2",
+      "bob_z0_after_z_setting": "1",
+      "bob_z0_after_x_setting": "1/2",
+      "difference": "1/2"
+    }
+  ],
+  "interference_control": {
+    "initial_state": "|+>",
+    "final_X_plus_coherent": "1",
+    "final_X_plus_after_unread_Z_record": "1/2"
+  },
+  "scope": "Exact finite qubit arithmetic, not an experiment or a complete theory. Signalling requires controllable spacelike choices, actual altered objective ensemble weights, conditional remote states as stipulated, and accessible Bob records. Subjective conditioning, ordinary postselection with communication, and unspecified BC-MBWI are not shown to signal. The unread record control does not refute all blockworld or definite-event ontologies."
+}

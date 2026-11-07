@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 256,
-  "bytes": 3438263,
-  "line_count": 40723,
-  "document_count_with_risk_phrases": 240,
+  "document_count": 257,
+  "bytes": 3451775,
+  "line_count": 40826,
+  "document_count_with_risk_phrases": 241,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -445,6 +445,40 @@
       ]
     },
     {
+      "path": "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
+      "sha256": "a2ccec80e5174b0f930333cb5915dccc83e7cf79a1033fe41531934502ed3dda",
+      "bytes": 13349,
+      "lines": 103,
+      "title": "Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates",
+      "headings": [
+        "Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates",
+        "Source and scope",
+        "What the article proposes",
+        "1. Why WdW does not yet give us many experienced blockworlds",
+        "2. The first gate: histories must preserve interference",
+        "3. “Piloting” has at least three distinct meanings",
+        "4. Meaningful experiments require distinguishable predictions",
+        "5. A disciplined synthesis for our project"
+      ],
+      "local_links": [
+        "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "verification/brain_centric_blockworld_gates.py",
+        "verification/brain_centric_blockworld_gates.json",
+        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        35,
+        37,
+        46,
+        67,
+        69,
+        85,
+        103
+      ]
+    },
+    {
       "path": "CAUSAL_RECORD_LINEAGE.md",
       "sha256": "0caf10c85b00274f500e445b730507dfe0cf5bd45b93a480916051e5b3153590",
       "bytes": 12796,
@@ -522,8 +556,8 @@
     },
     {
       "path": "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
-      "sha256": "0152a95f098c1f15ba5e20de06eeb98237d389d1c86266dfab13b280b1fbd9ff",
-      "bytes": 16891,
+      "sha256": "8597964060a3bde53c6993f0bf34855a89d3a21632cca67e03187054f56c03bb",
+      "bytes": 17054,
       "lines": 109,
       "title": "Cicurel's *Brain-centric*: an audit for the experiential and quantum program",
       "headings": [
@@ -537,6 +571,7 @@
         "5. Revised position and next steps"
       ],
       "local_links": [
+        "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
