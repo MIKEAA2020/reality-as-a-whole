@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f172ee06712ce5b7f784a5d4cf8f567d11234ed1",
-  "file_count": 849,
+  "base_head": "ba095ecef761a7cf4c7688350c5b21c273461c70",
+  "file_count": 850,
   "files": [
     {
       "path": ".gitattributes",
@@ -220,8 +220,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 30238,
-      "sha256": "b729cd561cf54a7232abae9b2e7865ee79c6a1549657079782d531e057092862"
+      "bytes": 24131,
+      "sha256": "be6443432fee63f7c9a54efb96da8d9f5f8aee36aabf522a35ac9988d3330aa2"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -375,8 +375,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 57477,
-      "sha256": "0a32dc37d1c8e4c5728f7720199ff1fc08a4f8a8f7b2f01ae41ddea8d42c8006"
+      "bytes": 57589,
+      "sha256": "9ff35c1a948c6ecbfd30747316a531d124ffed9e0935bb40a7c222b2592b61f4"
+    },
+    {
+      "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
+      "bytes": 30088,
+      "sha256": "446a66cbace3e7b8128a6636512926527c8649f2293198b1d00dadd9487f07c6"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -3540,8 +3545,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 345662,
-      "sha256": "c02cd20de036ef3ca639dbfcfc1629de711f1dd8a583839e754ee50879580d83"
+      "bytes": 346538,
+      "sha256": "7bab29a823165eed12ea7ada97f562bb5cf83506a2144e2683827036522d0ee4"
     },
     {
       "path": "verification/project_inventory.py",

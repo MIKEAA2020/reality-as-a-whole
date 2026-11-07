@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 228 root Markdown documents including this register; 43 research Markdown documents.
+- 229 root Markdown documents including this register; 43 research Markdown documents.
 - 20 original uploaded files, including provenance metadata; 168 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -54,7 +54,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CRN_COCYCLE_STATE_INDEPENDENT_TIME.md](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) — Connes–Rovelli cocycle: state-independent physical time
 - [CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md](CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md) — A cross-framework test: a cutoff can fabricate a causal record
 - [CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md](CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md) — Constraining emergent gravity across frameworks
-- [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Current framework: self-existent experiential plenitude
+- [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
 - [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
 - [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
@@ -85,6 +85,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
 - [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
+- [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
 - [FRICTION_AND_UNPLEASANTNESS_AUDIT.md](FRICTION_AND_UNPLEASANTNESS_AUDIT.md) — Can intrinsic friction explain unpleasantness?
 - [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching
 - [FRW_INTERNAL_POVM.md](FRW_INTERNAL_POVM.md) — An unregulated internal-clock POVM in one FRW branch
