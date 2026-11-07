@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "source_commit": "98391cb29e965cc7338acf5852f6b95b15c27f3c",
+  "sharp_sector_comparisons": [
+    {
+      "V": 960,
+      "m": 320,
+      "v": 240,
+      "q": 80,
+      "half_trace_distance_float": 0.9370046777381305,
+      "exact_rational_inside_source_interval": true
+    },
+    {
+      "V": 3840,
+      "m": 1280,
+      "v": 960,
+      "q": 320,
+      "half_trace_distance_float": 0.9684712224900525,
+      "exact_rational_inside_source_interval": true
+    },
+    {
+      "V": 15360,
+      "m": 5120,
+      "v": 3840,
+      "q": 1280,
+      "half_trace_distance_float": 0.9842317192747705,
+      "exact_rational_inside_source_interval": true
+    }
+  ],
+  "fixed_window_product_comparisons": [
+    {
+      "V": 24,
+      "v": 8,
+      "half_trace_distance": "16748984/178719453",
+      "distance_float": 0.09371662524056629,
+      "bound": "1"
+    },
+    {
+      "V": 96,
+      "v": 8,
+      "half_trace_distance": "237108032/11298052935",
+      "distance_float": 0.02098662781668052,
+      "bound": "7/24"
+    },
+    {
+      "V": 960,
+      "v": 8,
+      "half_trace_distance": "12699751075424/6243513174200997",
+      "distance_float": 0.002034071318676961,
+      "bound": "7/240"
+    }
+  ],
+  "scope": "Independent arithmetic only for stated diagonal hypergeometric states. Not a replay of the native source program or Lean, not validation of OPH physical premises, continuous QFT, subject incidence, phenomenal identity, a physical cosmological capacity, or an observer measure."
+}

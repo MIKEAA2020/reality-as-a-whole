@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 268,
-  "bytes": 3609869,
-  "line_count": 42139,
-  "document_count_with_risk_phrases": 252,
+  "document_count": 269,
+  "bytes": 3624690,
+  "line_count": 42231,
+  "document_count_with_risk_phrases": 253,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2460,6 +2460,45 @@
         204,
         231,
         233
+      ]
+    },
+    {
+      "path": "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
+      "sha256": "9e1af46e7163c3825b4fb816e87c82a824d56aa3307a0b5f2af178e7c6f4288f",
+      "bytes": 14656,
+      "lines": 92,
+      "title": "Can FloatingPragma reduce the framework's remaining gaps?",
+      "headings": [
+        "Can FloatingPragma reduce the framework's remaining gaps?",
+        "Scope and version",
+        "Gap-by-gap decision",
+        "1. Actuality and the experiential bridge",
+        "2. A concrete useful result: capacity restriction and the cutoff problem",
+        "3. New physics interfaces: real progress, conditional scope",
+        "4. Value and the user's non-optimality constraint",
+        "5. How to use OPH in the battery run"
+      ],
+      "local_links": [
+        "OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md",
+        "OPH_BOOK_EXPERIENCE_ALIGNMENT_AUDIT.md",
+        "OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "verification/oph_capacity_restriction_current_check.py",
+        "verification/oph_capacity_restriction_current_check.json",
+        "OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md",
+        "OPH_BOOK_EXPERIENCE_ALIGNMENT_AUDIT.md",
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        18,
+        19,
+        24,
+        26,
+        54,
+        64,
+        87,
+        92
       ]
     },
     {
@@ -5594,8 +5633,8 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "0a5be6a6e88975700bab61192774944d3b564f7d919d0f8ee45c687fa6628567",
-      "bytes": 10051,
+      "sha256": "b6815f801115212acc291e6dfe450f9b05b88bbcd45fc701f6e33defea65e847",
+      "bytes": 10216,
       "lines": 82,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
@@ -5610,6 +5649,7 @@
       ],
       "local_links": [
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "verification/self_existing_plenitude_centers.py",
