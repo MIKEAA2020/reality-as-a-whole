@@ -1,0 +1,22 @@
+{
+  "static_spherical_PaW": {
+    "clock_subsystem": "Asymptotic Schwarzschild ADM Killing-energy generator (ideal continuous clock).",
+    "system_subsystem": "Dressed scalar one-body sector on static spherical background.",
+    "Omega_clock": 1.0,
+    "Omega_system": 22.0,
+    "V_grav_averaged": 0.0020330884866825503,
+    "V_grav_central": 0.0023137834491975245,
+    "T_rel_budget": 0.4918625069938442,
+    "record_budget": 0.001,
+    "magnetic_clock_analog": "Spin-J magnetic clock with H_C = B J_0/J gives conditioning error ~ Omega_Gamma^2/(4 J B^2).",
+    "J_required_for_budget": 121000.0,
+    "ideal_ADM_clock_error": 0.0,
+    "gravitational_dressing_error_at_T_rel": 0.001,
+    "comment": "Our construction has an actual physical Hamiltonian from symmetry reduction, not an a priori non-interacting bipartite ansatz; PaW is the conditional-state reading of that Hamiltonian."
+  },
+  "source_mapping": {
+    "Coppo2024": "arXiv:2310.13386 / PRA 109 052212 (magnetic clock + harmonic oscillator, non-interacting PaW, generalized coherent states, classical limit).",
+    "Coppo2026": "arXiv:2601.07437 (black holes as clocks with Hawking modes; uses same PaW conditions).",
+    "this_work": "Symmetry-reduced physical ADM Hamiltonian on dressed self-gravitating spherical fields, with photon-echo readout and aspherical quadrupole robustness."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "cases": 21840,
+  "zero_local_remainder_positive_seam_sum": 3404,
+  "of_which_nonzero_aggregate_field": 1644,
+  "matching_aggregate_no_conflict": {
+    "x": [
+      1,
+      0
+    ],
+    "inputs": [
+      [
+        1,
+        0
+      ]
+    ],
+    "field": [
+      1,
+      0
+    ],
+    "alignment_remainder": 0.0,
+    "seam_sum": 0,
+    "best_achievable_seam_sum": 0.0
+  },
+  "matching_aggregate_conflict": {
+    "x": [
+      1,
+      0
+    ],
+    "inputs": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        -1,
+        0
+      ]
+    ],
+    "field": [
+      1,
+      0
+    ],
+    "alignment_remainder": 0.0,
+    "seam_sum": 2,
+    "best_achievable_seam_sum": 2.0
+  },
+  "scope": "Toy vector seam score with freely chosen unit x and fixed unit target vectors; not a simulation of OPH native dynamics, consciousness, or clinical experience. Enumeration is a control, not proof of the general identity."
+}

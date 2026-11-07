@@ -1,0 +1,24 @@
+{
+  "model": "finite three-level path-history clock; faithful Gibbs system marginal",
+  "energies": [
+    0.0,
+    1.0,
+    2.0
+  ],
+  "beta": 1.0,
+  "clock_times": [
+    0.0,
+    2.0943951023931953,
+    4.1887902047863905
+  ],
+  "gibbs_probabilities": [
+    0.6652409557748218,
+    0.24472847105479764,
+    0.09003057317038046
+  ],
+  "tests_run": 5,
+  "failures": 0,
+  "errors": 0,
+  "all_pass": true,
+  "scope": "Finite-dimensional example and analytic statement only; not a proof of quantum-gravitational time or Shlaer equivalence."
+}

@@ -1,0 +1,29 @@
+test_01_no_data_full_parameter_domain (test_model.BoundaryIdentificationTests.test_01_no_data_full_parameter_domain) ... ok
+test_02_no_changes_preserves_zero_and_arbitrarily_small_positive (test_model.BoundaryIdentificationTests.test_02_no_changes_preserves_zero_and_arbitrarily_small_positive) ... ok
+test_03_ideal_changes_exclude_zero (test_model.BoundaryIdentificationTests.test_03_ideal_changes_exclude_zero) ... ok
+test_04_all_changes_allow_one (test_model.BoundaryIdentificationTests.test_04_all_changes_allow_one) ... ok
+test_05_support_agrees_with_exact_likelihood (test_model.BoundaryIdentificationTests.test_05_support_agrees_with_exact_likelihood) ... ok
+test_06_non_detection_does_not_identify_exact_boundary (test_model.BoundaryIdentificationTests.test_06_non_detection_does_not_identify_exact_boundary) ... ok
+test_07_ideal_positive_detection_identifies_physical_merged_boundary (test_model.BoundaryIdentificationTests.test_07_ideal_positive_detection_identifies_physical_merged_boundary) ... ok
+test_08_known_positive_noise_preserves_zero_after_detections (test_model.BoundaryIdentificationTests.test_08_known_positive_noise_preserves_zero_after_detections) ... ok
+test_09_half_noise_erases_parameter_information (test_model.BoundaryIdentificationTests.test_09_half_noise_erases_parameter_information) ... ok
+test_10_structural_calibration_can_supply_exact_separation (test_model.BoundaryIdentificationTests.test_10_structural_calibration_can_supply_exact_separation) ... ok
+test_11_positive_lower_bound_supplies_merged_core (test_model.BoundaryIdentificationTests.test_11_positive_lower_bound_supplies_merged_core) ... ok
+test_12_inconsistent_model_rejected (test_model.BoundaryIdentificationTests.test_12_inconsistent_model_rejected) ... ok
+test_13_likelihood_inequality_does_not_change_positive_support (test_model.BoundaryIdentificationTests.test_13_likelihood_inequality_does_not_change_positive_support) ... ok
+test_14_ambiguous_boundary_has_different_must_and_may_links (test_model.BoundaryIdentificationTests.test_14_ambiguous_boundary_has_different_must_and_may_links) ... ok
+test_15_possible_links_need_not_be_transitive (test_model.BoundaryIdentificationTests.test_15_possible_links_need_not_be_transitive) ... ok
+test_16_neither_link_summary_need_be_a_compatible_partition (test_model.BoundaryIdentificationTests.test_16_neither_link_summary_need_be_a_compatible_partition) ... ok
+test_17_singleton_model_has_identical_link_bounds (test_model.BoundaryIdentificationTests.test_17_singleton_model_has_identical_link_bounds) ... ok
+test_18_prior_zero_mass_cannot_be_created_by_non_detection (test_model.BoundaryIdentificationTests.test_18_prior_zero_mass_cannot_be_created_by_non_detection) ... ok
+test_19_zero_atom_prior_yields_positive_posterior (test_model.BoundaryIdentificationTests.test_19_zero_atom_prior_yields_positive_posterior) ... ok
+test_20_prior_choice_changes_boundary_probability (test_model.BoundaryIdentificationTests.test_20_prior_choice_changes_boundary_probability) ... ok
+test_21_ideal_detection_removes_zero_prior_atom (test_model.BoundaryIdentificationTests.test_21_ideal_detection_removes_zero_prior_atom) ... ok
+test_22_noisy_detection_need_not_remove_zero_prior_atom (test_model.BoundaryIdentificationTests.test_22_noisy_detection_need_not_remove_zero_prior_atom) ... ok
+test_23_interval_intersections_respect_open_endpoints (test_model.BoundaryIdentificationTests.test_23_interval_intersections_respect_open_endpoints) ... ok
+test_24_invalid_inputs_and_incompatible_domains_rejected (test_model.BoundaryIdentificationTests.test_24_invalid_inputs_and_incompatible_domains_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.008s
+
+OK

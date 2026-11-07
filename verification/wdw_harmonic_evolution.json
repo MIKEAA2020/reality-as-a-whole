@@ -1,0 +1,37 @@
+{
+  "weak_backreaction": {
+    "mu": 22.0,
+    "V_operator": 0.0013553832544029385,
+    "omega0": 22.0,
+    "omega_d": 21.998644616745597,
+    "sigma0": 0.15075567228888181,
+    "sigma_d": 0.15076031640605483,
+    "propagation": [
+      {
+        "T": 0.4918625,
+        "overlap": 0.9999999997627611,
+        "phase_diff": 0.00033333109798431253,
+        "vector_error": 0.0003333310964016786,
+        "duhamel_bound": 0.0006666621959687654,
+        "within_bound": true
+      },
+      {
+        "T": 5.0,
+        "overlap": 0.9999999997627611,
+        "phase_diff": 0.0033884581360066335,
+        "vector_error": 0.003388456514559712,
+        "duhamel_bound": 0.006776916272014693,
+        "within_bound": true
+      },
+      {
+        "T": 22.657,
+        "overlap": 0.9999999997627611,
+        "phase_diff": 0.01535445919750046,
+        "vector_error": 0.015354308364525617,
+        "duhamel_bound": 0.03070891839500738,
+        "within_bound": true
+      }
+    ],
+    "conclusion": "The WdW-positive-frequency Tomonaga-Schwinger equation with dressed quadratic Hamiltonian evolves Gaussian states exactly; errors match Duhamel bound without WKB assumption."
+  }
+}

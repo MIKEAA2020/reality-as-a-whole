@@ -1,0 +1,52 @@
+{
+  "information": {
+    "mu": 22.0,
+    "note": "Across the polymer bounce, omega_eff stays >0, self-adjointness holds, the Tomonaga propagator remains unitary, pure states remain pure (S=0 preserved), and Klein-Gordon normalization stays finite. Hawking radiation in asymptotic view is entanglement with bounce/baby-universe partner modes\u2014no information loss at the fundamental level.",
+    "cases": [
+      {
+        "M": 0.1,
+        "Rb": 0.11270030352226384,
+        "omega_min_at_bounce": 0.22611886608109252,
+        "omega_max_exterior": 12.415959221534056,
+        "max_WKB_amplitude": 2.102962849176126,
+        "unitarity_preserved": true,
+        "s_matrix_unitary": true,
+        "von_Neumann_entropy_change": 0.0,
+        "information_preserved": true
+      },
+      {
+        "M": 1,
+        "Rb": 0.24280544348548772,
+        "omega_min_at_bounce": 0.32608782742111453,
+        "omega_max_exterior": 45.401019410034976,
+        "max_WKB_amplitude": 1.75118773304399,
+        "unitarity_preserved": true,
+        "s_matrix_unitary": true,
+        "von_Neumann_entropy_change": 0.0,
+        "information_preserved": true
+      },
+      {
+        "M": 10,
+        "Rb": 0.5231084703737108,
+        "omega_min_at_bounce": 0.34331310174151336,
+        "omega_max_exterior": 105.13572372319108,
+        "max_WKB_amplitude": 1.70669065775811,
+        "unitarity_preserved": true,
+        "s_matrix_unitary": true,
+        "von_Neumann_entropy_change": 0.0,
+        "information_preserved": true
+      },
+      {
+        "M": 22.0,
+        "Rb": 0.6803504023435604,
+        "omega_min_at_bounce": 0.345193226308964,
+        "omega_max_exterior": 137.76174394493728,
+        "max_WKB_amplitude": 1.7020364931219074,
+        "unitarity_preserved": true,
+        "s_matrix_unitary": true,
+        "von_Neumann_entropy_change": 0.0,
+        "information_preserved": true
+      }
+    ]
+  }
+}

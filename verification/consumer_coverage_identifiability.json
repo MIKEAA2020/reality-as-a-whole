@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "models": [
+    {
+      "retained_fraction_p": "0",
+      "measured_R_tv": "0",
+      "full_joint_causal_tv": "0",
+      "conditional_hidden_tv": "0"
+    },
+    {
+      "retained_fraction_p": "1/4",
+      "measured_R_tv": "0",
+      "full_joint_causal_tv": "1/4",
+      "conditional_hidden_tv": "1/4"
+    },
+    {
+      "retained_fraction_p": "1/2",
+      "measured_R_tv": "0",
+      "full_joint_causal_tv": "1/2",
+      "conditional_hidden_tv": "1/2"
+    },
+    {
+      "retained_fraction_p": "3/4",
+      "measured_R_tv": "0",
+      "full_joint_causal_tv": "3/4",
+      "conditional_hidden_tv": "3/4"
+    },
+    {
+      "retained_fraction_p": "1",
+      "measured_R_tv": "0",
+      "full_joint_causal_tv": "1",
+      "conditional_hidden_tv": "1"
+    }
+  ],
+  "observed_joint_law_identical_for_all_p": true,
+  "generic_bound_exhaustive_pairs": 1225,
+  "scope": "synthetic binary causal models; conditional coverage term is not observed or bounded by the example"
+}

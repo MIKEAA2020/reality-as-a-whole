@@ -1,0 +1,198 @@
+{
+  "status": "passed",
+  "basis_unitarity_checks": 18,
+  "arrival_instrument_completeness_thresholds": 8,
+  "rate_matrix": [
+    [
+      "41/25",
+      "12/25"
+    ],
+    [
+      "12/25",
+      "34/25"
+    ]
+  ],
+  "position_return_counter": 4,
+  "completed_internal_clock": "T=(Q+3*A)/4; U* T U=T+I",
+  "arrival_label_coherently_uncomputable_from_output": "n=(q+3*a)/4, r=a-B on prepared support",
+  "fixed_tick_2_coin_one_probability": "288/625",
+  "first_arrival_2_coin_one_probability": "544/625",
+  "verified_experimental_table_register_replays": {
+    "V0": {
+      "1/10": {
+        "counter_units": 1432,
+        "counter_bits_for_this_observed_run": 11,
+        "quantized_path_length_um": 143.2,
+        "exact_sampled_path_length_um": 143.4522978495655,
+        "absolute_length_discrepancy_um": 0.2522978495655,
+        "worst_case_quantization_bound_um": 5.5,
+        "stalled_adjacent_observation_pairs": 0
+      },
+      "1/2": {
+        "counter_units": 287,
+        "counter_bits_for_this_observed_run": 9,
+        "quantized_path_length_um": 143.5,
+        "exact_sampled_path_length_um": 143.4522978495655,
+        "absolute_length_discrepancy_um": 0.0477021504345,
+        "worst_case_quantization_bound_um": 27.5,
+        "stalled_adjacent_observation_pairs": 3
+      },
+      "1": {
+        "counter_units": 140,
+        "counter_bits_for_this_observed_run": 8,
+        "quantized_path_length_um": 140.0,
+        "exact_sampled_path_length_um": 143.4522978495655,
+        "absolute_length_discrepancy_um": 3.4522978495655,
+        "worst_case_quantization_bound_um": 55.0,
+        "stalled_adjacent_observation_pairs": 5
+      }
+    },
+    "V03": {
+      "1/10": {
+        "counter_units": 1436,
+        "counter_bits_for_this_observed_run": 11,
+        "quantized_path_length_um": 143.6,
+        "exact_sampled_path_length_um": 143.58956682133413,
+        "absolute_length_discrepancy_um": 0.01043317866587,
+        "worst_case_quantization_bound_um": 5.5,
+        "stalled_adjacent_observation_pairs": 0
+      },
+      "1/2": {
+        "counter_units": 286,
+        "counter_bits_for_this_observed_run": 9,
+        "quantized_path_length_um": 143.0,
+        "exact_sampled_path_length_um": 143.58956682133413,
+        "absolute_length_discrepancy_um": 0.58956682133413,
+        "worst_case_quantization_bound_um": 27.5,
+        "stalled_adjacent_observation_pairs": 2
+      },
+      "1": {
+        "counter_units": 143,
+        "counter_bits_for_this_observed_run": 8,
+        "quantized_path_length_um": 143.0,
+        "exact_sampled_path_length_um": 143.58956682133413,
+        "absolute_length_discrepancy_um": 0.58956682133413,
+        "worst_case_quantization_bound_um": 55.0,
+        "stalled_adjacent_observation_pairs": 6
+      }
+    },
+    "V06": {
+      "1/10": {
+        "counter_units": 1410,
+        "counter_bits_for_this_observed_run": 11,
+        "quantized_path_length_um": 141.0,
+        "exact_sampled_path_length_um": 141.27853331734417,
+        "absolute_length_discrepancy_um": 0.27853331734416,
+        "worst_case_quantization_bound_um": 5.2,
+        "stalled_adjacent_observation_pairs": 2
+      },
+      "1/2": {
+        "counter_units": 282,
+        "counter_bits_for_this_observed_run": 9,
+        "quantized_path_length_um": 141.0,
+        "exact_sampled_path_length_um": 141.27853331734417,
+        "absolute_length_discrepancy_um": 0.27853331734416,
+        "worst_case_quantization_bound_um": 26.0,
+        "stalled_adjacent_observation_pairs": 7
+      },
+      "1": {
+        "counter_units": 141,
+        "counter_bits_for_this_observed_run": 8,
+        "quantized_path_length_um": 141.0,
+        "exact_sampled_path_length_um": 141.27853331734417,
+        "absolute_length_discrepancy_um": 0.27853331734416,
+        "worst_case_quantization_bound_um": 52.0,
+        "stalled_adjacent_observation_pairs": 10
+      }
+    },
+    "V09": {
+      "1/10": {
+        "counter_units": 493,
+        "counter_bits_for_this_observed_run": 9,
+        "quantized_path_length_um": 49.3,
+        "exact_sampled_path_length_um": 49.54616960534975,
+        "absolute_length_discrepancy_um": 0.24616960534975,
+        "worst_case_quantization_bound_um": 5.3,
+        "stalled_adjacent_observation_pairs": 6
+      },
+      "1/2": {
+        "counter_units": 97,
+        "counter_bits_for_this_observed_run": 7,
+        "quantized_path_length_um": 48.5,
+        "exact_sampled_path_length_um": 49.54616960534975,
+        "absolute_length_discrepancy_um": 1.04616960534975,
+        "worst_case_quantization_bound_um": 26.5,
+        "stalled_adjacent_observation_pairs": 25
+      },
+      "1": {
+        "counter_units": 50,
+        "counter_bits_for_this_observed_run": 6,
+        "quantized_path_length_um": 50.0,
+        "exact_sampled_path_length_um": 49.54616960534975,
+        "absolute_length_discrepancy_um": 0.45383039465025,
+        "worst_case_quantization_bound_um": 53.0,
+        "stalled_adjacent_observation_pairs": 31
+      }
+    },
+    "V1": {
+      "1/10": {
+        "counter_units": 174,
+        "counter_bits_for_this_observed_run": 8,
+        "quantized_path_length_um": 17.4,
+        "exact_sampled_path_length_um": 17.39003221397743,
+        "absolute_length_discrepancy_um": 0.00996778602257,
+        "worst_case_quantization_bound_um": 5.2,
+        "stalled_adjacent_observation_pairs": 8
+      },
+      "1/2": {
+        "counter_units": 35,
+        "counter_bits_for_this_observed_run": 6,
+        "quantized_path_length_um": 17.5,
+        "exact_sampled_path_length_um": 17.39003221397743,
+        "absolute_length_discrepancy_um": 0.10996778602257,
+        "worst_case_quantization_bound_um": 26.0,
+        "stalled_adjacent_observation_pairs": 26
+      },
+      "1": {
+        "counter_units": 20,
+        "counter_bits_for_this_observed_run": 5,
+        "quantized_path_length_um": 20.0,
+        "exact_sampled_path_length_um": 17.39003221397743,
+        "absolute_length_discrepancy_um": 2.60996778602257,
+        "worst_case_quantization_bound_um": 52.0,
+        "stalled_adjacent_observation_pairs": 33
+      }
+    }
+  },
+  "threshold_2_arrival_probabilities": {
+    "(1, 0)": "16/25",
+    "(2, 0)": "81/625",
+    "(2, 1)": "144/625"
+  },
+  "threshold_2_joint_arrival_overshoot_coin": {
+    "(1, 0, 0)": "0",
+    "(1, 0, 1)": "16/25",
+    "(2, 0, 0)": "81/625",
+    "(2, 0, 1)": "0",
+    "(2, 1, 0)": "0",
+    "(2, 1, 1)": "144/625"
+  },
+  "arrival_reduced_output_purity_coin0": "187297/390625",
+  "one_tick_counter_backaction_purity": "337/625",
+  "orthogonal_inputs_identified_by_reduced_clock_channel": true,
+  "coherent_record_isometry_preserves_orthogonality": true,
+  "dephased_classical_arrival_records_do_not_restore_the_phase": true,
+  "independent_coin_word_enumeration_thresholds": 8,
+  "explicit_coherent_converter_unitary_dimension": 5,
+  "dirac_effect_intertwining_checked": true,
+  "equal_speed_control_thresholds": 6,
+  "rigging_group": "integers; finite sums on finite history support",
+  "finite_counter_no_wrap_sufficient_and_worst_case_necessary": "K >= 2*N+1 from counter 0",
+  "limits": [
+    "autonomous discrete update law supplied, not derived from cold-atom dynamics",
+    "first-arrival detector is an explicit monitored instrument, not an undisturbed position trajectory",
+    "coherent storage differs from retaining a dephased classical arrival label",
+    "rigging uses the first-order unitary constraint; a formal second-order kernel is not identified with it",
+    "no gravitational constraint algebra, physical engine derivation or entropy-clock reconstruction"
+  ]
+}

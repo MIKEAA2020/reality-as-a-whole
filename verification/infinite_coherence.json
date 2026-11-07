@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "model": "standard spin-1 AKLT / Pauli finitely correlated state",
+  "arithmetic": "integers, fractions, Gaussian rationals; no floating-point checks",
+  "local_state": "I3/3",
+  "two_site_partial_transpose_witness": "-1/9",
+  "open_ground_dimensions": {
+    "2": 4,
+    "3": 4,
+    "4": 4
+  },
+  "four_site_ring_ground_dimension": 1,
+  "finite_ring_reductions": [
+    {
+      "ring_sites": 4,
+      "block_sites": 1,
+      "trace_norm_error": "0",
+      "max_entry_error": "0"
+    },
+    {
+      "ring_sites": 4,
+      "block_sites": 2,
+      "trace_norm_error": "4/21",
+      "max_entry_error": "2/63"
+    },
+    {
+      "ring_sites": 4,
+      "block_sites": 3,
+      "trace_norm_error": "4/9",
+      "max_entry_error": "1/27"
+    },
+    {
+      "ring_sites": 5,
+      "block_sites": 1,
+      "trace_norm_error": "0",
+      "max_entry_error": "0"
+    },
+    {
+      "ring_sites": 5,
+      "block_sites": 2,
+      "trace_norm_error": "1/15",
+      "max_entry_error": "1/90"
+    },
+    {
+      "ring_sites": 5,
+      "block_sites": 3,
+      "trace_norm_error": "7/45",
+      "max_entry_error": "7/540"
+    },
+    {
+      "ring_sites": 6,
+      "block_sites": 1,
+      "trace_norm_error": "0",
+      "max_entry_error": "0"
+    },
+    {
+      "ring_sites": 6,
+      "block_sites": 2,
+      "trace_norm_error": "4/183",
+      "max_entry_error": "2/549"
+    },
+    {
+      "ring_sites": 6,
+      "block_sites": 3,
+      "trace_norm_error": "28/549",
+      "max_entry_error": "7/1647"
+    },
+    {
+      "ring_sites": 7,
+      "block_sites": 1,
+      "trace_norm_error": "0",
+      "max_entry_error": "0"
+    },
+    {
+      "ring_sites": 7,
+      "block_sites": 2,
+      "trace_norm_error": "2/273",
+      "max_entry_error": "1/819"
+    },
+    {
+      "ring_sites": 7,
+      "block_sites": 3,
+      "trace_norm_error": "2/117",
+      "max_entry_error": "1/702"
+    },
+    {
+      "ring_sites": 8,
+      "block_sites": 1,
+      "trace_norm_error": "0",
+      "max_entry_error": "0"
+    },
+    {
+      "ring_sites": 8,
+      "block_sites": 2,
+      "trace_norm_error": "4/1641",
+      "max_entry_error": "2/4923"
+    },
+    {
+      "ring_sites": 8,
+      "block_sites": 3,
+      "trace_norm_error": "28/4923",
+      "max_entry_error": "7/14769"
+    }
+  ],
+  "spin_correlations_distances_1_to_12": [
+    "-4/9",
+    "4/27",
+    "-4/81",
+    "4/243",
+    "-4/729",
+    "4/2187",
+    "-4/6561",
+    "4/19683",
+    "-4/59049",
+    "4/177147",
+    "-4/531441",
+    "4/1594323"
+  ],
+  "structure_factor": {
+    "0": "0",
+    "pi": "2",
+    "pi/2": "2/5"
+  },
+  "proofs_not_replaced_by_checks": [
+    "all-size positivity and consistency",
+    "open-chain kernel dimension for every N>=2",
+    "periodic uniqueness for every N>=4",
+    "unique quasi-local state extension and periodic thermodynamic limit"
+  ],
+  "not_derived": [
+    "local dimension and lattice",
+    "why the parent law is actual or necessary",
+    "physical spacetime, constants, or brain organization",
+    "qualitative identities, subject incidence, value, or absolute actuality"
+  ]
+}

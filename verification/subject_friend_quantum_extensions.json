@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "scope": "One-friend, two-setting, exact rational toy circuit and constructed probability extensions; no consciousness, physical realization, dynamics, or complete interpretation established.",
+  "three_qubit_circuit_correlators": {
+    "1,1": "3/5",
+    "1,2": "3/5",
+    "2,1": "4/5",
+    "2,2": "-4/5"
+  },
+  "CHSH_value": "14/5",
+  "sharp_witness_joint_ac_correlators": [
+    "2/5",
+    "-2/5"
+  ],
+  "sharp_minimum_hidden_joint_total_variation": "2/5",
+  "white_noise_visibility_threshold": "5/7",
+  "tight_minimum_joint_tv_over_this_isotropic_family": "max(0, 7*visibility/5 - 1)",
+  "visibility_points_checked": 102,
+  "limitations": "Lower bound assumes read agreement c=a for x=1 and (b,c) independent of x. It concerns the unobserved joint (a,c), not operational signalling or a necessary change in every component of Local Agency."
+}

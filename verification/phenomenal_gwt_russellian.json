@@ -1,0 +1,29 @@
+{
+  "verifier": "phenomenal_gwt_russellian",
+  "number": 74,
+  "all_pass": true,
+  "checks": {
+    "P1_typeIII1_homogeneous": true,
+    "P2_finite_workspace_capacity": true,
+    "P2_ignition_attractor": true,
+    "P3_modular_present": true,
+    "P3_specious_tau_KMS": 6.283185307179586,
+    "P4_russellian_forced_unique": true,
+    "P5_micro_no_ignition": true,
+    "P5_macro_ignition": true,
+    "P5_ignition_micro_d2": 0.9848799373601489,
+    "P5_ignition_meso_d8": 0.9591598421661756,
+    "P5_ignition_macro_d64": 0.8792003345622428,
+    "P6_privation_reduces_broadcast": true,
+    "P6_ig_full_feedback": 0.8792003345622428,
+    "P6_ig_partial": 0.9792416894341777,
+    "P6_ig_severed": 1.0
+  },
+  "parameters": {
+    "n_peripheral_modules": 8,
+    "d_peripheral_module": 16,
+    "d_workspace": 64,
+    "beta_KMS": 6.283185307179586
+  },
+  "conclusion": "The hyperfinite type III\u2081 factor (physics side, verifier #65) forces a unique zero-residue Russellian identification: the intrinsic nature of the states in the Tomita flow is experiential (what-it-is-like), and finite phenomenal perspectives correspond to finite-capacity global-workspace broadcasts (attractor states of a tensor-network-like fan-out topology) embedded in the algebra. Individual micro-events lack the capacity, feedback, and persistence for integrated experience (no micro-psychism); integrated thalamo-cortical-scale broadcasts do ignite (entropy reduction at d_gw=64 vs maximal entropy at d_gw=1). Privation/evil corresponds to reduced integration (fewer peripheral modules broadcast \u2192 higher entropy, less content \u2014 an absence, not a positive force). The modular Tomita flow (\u03b2=2\u03c0 KMS, CRN cocycle state-independent) gives an intrinsic 'present' structure that does not depend on contingent biology."
+}

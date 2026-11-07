@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational; no numerical eigensolvers",
+  "diamond_graph": {
+    "flat": {
+      "zero_constraint_dimension": 2,
+      "holonomy_fixed_dimension": 2
+    },
+    "fixed_sector": {
+      "zero_constraint_dimension": 1,
+      "holonomy_fixed_dimension": 1
+    },
+    "phase_obstruction": {
+      "zero_constraint_dimension": 0,
+      "holonomy_fixed_dimension": 0
+    }
+  },
+  "flat_dirac_observables": "commutators, products, adjoints, unit and conditioning verified",
+  "gauge_covariance": true,
+  "preparation_is_not_the_gauge_constraint": true,
+  "aklt_input_sites": 4,
+  "clock_vertices": 3,
+  "aklt_conditional_spin_correlations": [
+    "-10/21",
+    "-2/7",
+    "2/15"
+  ],
+  "clock_probability_each_vertex": "1/3",
+  "clock_reduced_purity": "9739/16875",
+  "coherent_clock_interference": "22/45",
+  "clock_dephased_interference": "0",
+  "clock_dephased_constraint_expectation": "4/3",
+  "proof_scope": [
+    "finite-graph kernel and holonomy theorem",
+    "general unital C*-algebra state and Dirac embedding in flat case",
+    "unique preparation and finite spectral-gap lower bound"
+  ],
+  "not_claimed": [
+    "full general-relativistic problem of time",
+    "derived clock, causal order, arrow, or spacetime metric",
+    "necessary actuality, phenomenal identity, or subject selection"
+  ]
+}

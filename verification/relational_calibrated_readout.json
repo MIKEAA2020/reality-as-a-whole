@@ -1,0 +1,74 @@
+{
+  "status": "passed",
+  "scope": "linear-amplitude classical fields on reference FLRW background, plus a distinct abstract two-qubit instrument",
+  "parameters": {
+    "lambda": 0.01,
+    "g": 0.01,
+    "reference_amplitude": 1,
+    "n": 10,
+    "steps": 3200,
+    "readout_window": [
+      0.42,
+      0.62
+    ]
+  },
+  "field_evolution": {
+    "0.4": {
+      "detector_mean": 0.009999864637240702,
+      "readout_mean": 0.0,
+      "readout_clock_slope": 0.0,
+      "scale": 1.1487864686054252
+    },
+    "0.42": {
+      "detector_mean": 0.009999867105983551,
+      "readout_mean": 0.0,
+      "readout_clock_slope": 0.0,
+      "scale": 1.1571778039628127
+    },
+    "0.62": {
+      "detector_mean": 0.009999410529059971,
+      "readout_mean": 9.999857618558382e-05,
+      "readout_clock_slope": -1.2343702882844719e-09,
+      "scale": 1.2475301284465623
+    },
+    "0.7": {
+      "detector_mean": 0.009998635397789135,
+      "readout_mean": 9.99984774359599e-05,
+      "readout_clock_slope": -1.2343702882844719e-09,
+      "scale": 1.2874483474049894
+    },
+    "0.8": {
+      "detector_mean": 0.00999766648370059,
+      "readout_mean": 9.999835399892998e-05,
+      "readout_clock_slope": -1.2343702882844719e-09,
+      "scale": 1.3410117168949152
+    }
+  },
+  "joint_sign_and_reference_flip_control": "unchanged",
+  "single_sign_flip_control": "changes sign",
+  "zero_readout_coupling_control": "zero",
+  "readout_ratio_halving_both_couplings": 3.9999572854337573,
+  "coarse_difference_t0_8": -6.69494841509799e-18,
+  "abstract_instrument": {
+    "reference_polarization": "3/5",
+    "independent_memory_flip_probability": "1/10",
+    "joint_probabilities": {
+      "1": {
+        "00": "13/20",
+        "01": "9/100",
+        "10": "9/100",
+        "11": "17/100"
+      },
+      "-1": {
+        "00": "17/100",
+        "01": "9/100",
+        "10": "9/100",
+        "11": "13/20"
+      }
+    },
+    "total_variation": "12/25",
+    "optimal_equal_prior_success": "37/50",
+    "unpolarized_reference_total_variation": "0",
+    "interpretation": "This instrument is not derived by quantizing the field model."
+  }
+}

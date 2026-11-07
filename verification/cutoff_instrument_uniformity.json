@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "scope": "one prescribed threshold-readout instrument, ideal records, N-dependent squeezed Gaussian states",
+  "rows": [
+    {
+      "N": 4,
+      "kappa": 0.07900677794452476,
+      "Q_h_sigma": 0.009875847243065596,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 834.1948302292417
+    },
+    {
+      "N": 8,
+      "kappa": 0.011653398553436538,
+      "Q_h_sigma": 0.0014566748191795673,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 48023.917260373564
+    },
+    {
+      "N": 16,
+      "kappa": -1.5096315771989432e-05,
+      "Q_h_sigma": 1.887039471498679e-06,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 29166603658.457024
+    },
+    {
+      "N": 32,
+      "kappa": -1.063260755385729e-06,
+      "Q_h_sigma": 1.3290759442321612e-07,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 5894364466705.675
+    },
+    {
+      "N": 64,
+      "kappa": -2.981229609360069e-08,
+      "Q_h_sigma": 3.7265370117000865e-09,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 7500537291213511.0
+    },
+    {
+      "N": 128,
+      "kappa": 3.3282951729673987e-08,
+      "Q_h_sigma": 4.160368966209248e-09,
+      "ideal_record_order_tv": 0.9999366575163338,
+      "lower_bound_input_kinetic_energy": 6018133815134360.0
+    }
+  ],
+  "conclusion": "For every nonzero kappa, supremum over unrestricted input states of ideal record-order TV is one; the corresponding channel diamond distance is two.",
+  "gaussian_energy_bound": {
+    "E_kin_max": 100.0,
+    "bit_flip_probability": 0.1,
+    "tv_target": 0.0001,
+    "sufficient_N": 247,
+    "conservative_tv_at_N": 9.957561803917672e-05
+  },
+  "limitations": "Counterexample energy diverges as kappa tends to zero; bounded-energy result covers only Gaussian inputs and classical record marginals, not general complete-instrument convergence."
+}

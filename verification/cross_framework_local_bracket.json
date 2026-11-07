@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "speeds": [
+    1.0,
+    0.5
+  ],
+  "continuum_bracket": 3.9269908169872414,
+  "continuum_total_momentum": 6.283185307179586,
+  "continuum_mismatch": -2.356194490192345,
+  "mismatch_cases": [
+    {
+      "n": 32,
+      "bracket": 3.8767835748142816,
+      "discrete_total_momentum": 6.083667624778981,
+      "mismatch": -2.206884049964699,
+      "single_velocity_bracket": 3.101426859851425
+    },
+    {
+      "n": 64,
+      "bracket": 3.91439053305675,
+      "discrete_total_momentum": 6.232866676365304,
+      "mismatch": -2.318476143308554,
+      "single_velocity_bracket": 3.1315124264453997
+    },
+    {
+      "n": 128,
+      "bracket": 3.923837708587141,
+      "discrete_total_momentum": 6.270578038757362,
+      "mismatch": -2.346740330170221,
+      "single_velocity_bracket": 3.139070166869713
+    },
+    {
+      "n": 256,
+      "bracket": 3.926202349926063,
+      "discrete_total_momentum": 6.280031761893354,
+      "mismatch": -2.3538294119672907,
+      "single_velocity_bracket": 3.1409618799408507
+    },
+    {
+      "n": 512,
+      "bracket": 3.926793688347459,
+      "discrete_total_momentum": 6.2823968128074705,
+      "mismatch": -2.3556031244600115,
+      "single_velocity_bracket": 3.1414349506779673
+    },
+    {
+      "n": 1024,
+      "bracket": 3.9269415340851155,
+      "discrete_total_momentum": 6.282988176832784,
+      "mismatch": -2.356046642747669,
+      "single_velocity_bracket": 3.1415532272680924
+    },
+    {
+      "n": 2048,
+      "bracket": 3.9269784962153236,
+      "discrete_total_momentum": 6.283136024170769,
+      "mismatch": -2.3561575279554456,
+      "single_velocity_bracket": 3.141582796972259
+    }
+  ],
+  "equal_speed_control": {
+    "n": 2048,
+    "bracket": 6.283165593944518,
+    "discrete_total_momentum": 6.283136024170769,
+    "mismatch": 2.9569773748683303e-05,
+    "single_velocity_bracket": 3.141582796972259
+  },
+  "scope": "Classical fixed-background matter; no claim of a quantum GR anomaly."
+}

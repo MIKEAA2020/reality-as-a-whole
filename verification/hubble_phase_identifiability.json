@@ -1,0 +1,29 @@
+{
+  "warning": "Synthetic signals, illustrative 50 Hz; not an experimental fit or uncertainty interval.",
+  "examples": [
+    {
+      "source_file": "data/expansions/PhnRuns_2021-02-24_0827-0946.mat",
+      "sample_time_slices": 40,
+      "unsampled_interval_ms_relative_to_ramp_start": [
+        4.000000000000001,
+        6.000000000000001
+      ],
+      "max_sample_signal_difference": 0.0,
+      "max_sample_signal_derivative_difference_per_s": 0.0,
+      "synthetic_midpoint_phase_difference_rad": 0.20000000000000018,
+      "analytic_phase_rate_lower_bound_rad_per_s": 157.07963267948966
+    },
+    {
+      "source_file": "data/contractions/PhnRuns_2021-02-20_0115-0234.mat",
+      "sample_time_slices": 40,
+      "unsampled_interval_ms_relative_to_ramp_start": [
+        3.9999999999999964,
+        5.999999999999998
+      ],
+      "max_sample_signal_difference": 0.0,
+      "max_sample_signal_derivative_difference_per_s": 0.0,
+      "synthetic_midpoint_phase_difference_rad": 0.20000000000000018,
+      "analytic_phase_rate_lower_bound_rad_per_s": 157.0796326794898
+    }
+  ]
+}

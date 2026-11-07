@@ -1,0 +1,35 @@
+{
+  "clock_vertices": 20,
+  "counter_states": 7,
+  "flag_bits": 1,
+  "counter_initial_offset_probabilities": [
+    "1/2",
+    "1/2"
+  ],
+  "slip_probability": "1/10",
+  "erasure_probability": "1/5",
+  "instrument_outcome_probability_sum": "1",
+  "total_erasure_probability": "1/5",
+  "phase0_reported_zero_probability": "1/25",
+  "ideal_comparison_probability": "334177/390625",
+  "noisy_conditional_probability": "621334959941/762939453125",
+  "noisy_conditional_decimal": 0.8143961586938675,
+  "bias": "-31354493184/762939453125",
+  "bias_decimal": -0.04109696130613248,
+  "uniform_offset_prior_bias_bound": "40658986368/762939453125",
+  "parameter_sweep_cases": 72,
+  "nonselective_offset_populations": [
+    "1/2",
+    "1/2"
+  ],
+  "nonselective_offset_trace_distance_from_coherent_input": "1/2",
+  "single_wrap_flagged": [
+    0,
+    1
+  ],
+  "two_wrap_flag_not_latched": [
+    6,
+    0
+  ],
+  "scope": "specific finite history and declared instrument; no independent hardware or gravitational claim"
+}

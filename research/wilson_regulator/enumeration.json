@@ -1,0 +1,108 @@
+{
+  "scope": "finite diagnostics; common-core/gap state proof and UV bounds in REPORT.md",
+  "regulator": "Wilson r=1 Hamiltonian, not a Floquet walk",
+  "uniform_curved_gap_lower_bound": 0.5599999999999999,
+  "fixed_mode_comparisons": [
+    {
+      "sites": 7,
+      "spacing": 0.8975979010256552,
+      "minimum_absolute_energy": 0.6884608196262367,
+      "fixed_low_smear_projection_error": 0.04435887078782272,
+      "two_point_error": 0.01075942578523732,
+      "wick_pair_error": 0.007415072049202876,
+      "central_vs_wilson_two_point_difference": 0.007936858597174717,
+      "reference": "19-mode continuum-circle Galerkin, not infinite-line exact solution"
+    },
+    {
+      "sites": 13,
+      "spacing": 0.483321946706122,
+      "minimum_absolute_energy": 0.6880189550167841,
+      "fixed_low_smear_projection_error": 0.023950158578086314,
+      "two_point_error": 0.006223163970784717,
+      "wick_pair_error": 0.00413858341003646,
+      "central_vs_wilson_two_point_difference": 0.005411940059906969,
+      "reference": "19-mode continuum-circle Galerkin, not infinite-line exact solution"
+    },
+    {
+      "sites": 21,
+      "spacing": 0.2991993003418851,
+      "minimum_absolute_energy": 0.6876473543572035,
+      "fixed_low_smear_projection_error": 0.014818990088299098,
+      "two_point_error": 0.00396000151191287,
+      "wick_pair_error": 0.0025893730584911085,
+      "central_vs_wilson_two_point_difference": 0.0036499361804390694,
+      "reference": "19-mode continuum-circle Galerkin, not infinite-line exact solution"
+    }
+  ],
+  "high_zone_low_energy": [
+    {
+      "sites": 9,
+      "energy_window": [
+        -1.5,
+        1.5
+      ],
+      "zone_angle_threshold": 1.5707963267948966,
+      "observed_operator_norm": 0.0018466108876562775,
+      "analytic_upper_bound": 0.6635348750086495
+    },
+    {
+      "sites": 15,
+      "energy_window": [
+        -1.5,
+        1.5
+      ],
+      "zone_angle_threshold": 1.5707963267948966,
+      "observed_operator_norm": 1.396218925637185e-05,
+      "analytic_upper_bound": 0.4271516025619473
+    },
+    {
+      "sites": 21,
+      "energy_window": [
+        -1.5,
+        1.5
+      ],
+      "zone_angle_threshold": 1.5707963267948966,
+      "observed_operator_norm": 3.046109123810492e-09,
+      "analytic_upper_bound": 0.3154985355900373
+    }
+  ],
+  "free_dispersion": [
+    {
+      "spacing": 0.1,
+      "central_zone_edge_energy": 0.7,
+      "wilson_zone_edge_energy": 20.7,
+      "finite_energy_1p5_momentum_cutoff": 1.2834014989261568,
+      "continuum_cutoff": 1.3266499161421599,
+      "changing_UV_projector_error": 0.6974321860855776
+    },
+    {
+      "spacing": 0.05,
+      "central_zone_edge_energy": 0.7,
+      "wilson_zone_edge_energy": 40.7,
+      "finite_energy_1p5_momentum_cutoff": 1.3042568225101947,
+      "continuum_cutoff": 1.3266499161421599,
+      "changing_UV_projector_error": 0.7027170690111514
+    },
+    {
+      "spacing": 0.025,
+      "central_zone_edge_energy": 0.7,
+      "wilson_zone_edge_energy": 80.7,
+      "finite_energy_1p5_momentum_cutoff": 1.3152511485275409,
+      "continuum_cutoff": 1.3266499161421599,
+      "changing_UV_projector_error": 0.7050243863802548
+    },
+    {
+      "spacing": 0.0125,
+      "central_zone_edge_energy": 0.7,
+      "wilson_zone_edge_energy": 160.7,
+      "finite_energy_1p5_momentum_cutoff": 1.3208986407982863,
+      "continuum_cutoff": 1.3266499161421599,
+      "changing_UV_projector_error": 0.7060937885248545
+    }
+  ],
+  "continuous_time_tail": {
+    "sites_away": 2,
+    "t_over_a": 0.1,
+    "spinor_amplitude_norm": 0.00012053450746764127
+  }
+}

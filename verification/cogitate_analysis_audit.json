@@ -1,0 +1,115 @@
+{
+  "status": "static source/configuration audit, not an executed neural analysis",
+  "commit": "e60764df21ab63d39ffa726a0dd38c2b6f1e3e9a",
+  "hashes_verified": 6,
+  "configs": {
+    "ti": {
+      "conditions": [
+        "stimulus onset/1000ms/Irrelevant/face",
+        "stimulus onset/1500ms/Irrelevant/face"
+      ],
+      "roi_keys": [
+        "iit"
+      ],
+      "roi_entry_count": 34,
+      "roi_unique_entry_count": 30,
+      "threshold_condition": "1500ms",
+      "baseline": [
+        -0.5,
+        -0.2
+      ],
+      "activation": [
+        1.2,
+        1.5
+      ],
+      "moving_average_ms": 300,
+      "fast_track": true,
+      "inaccuracy_threshold_seconds": 0.15,
+      "permutations": 1000,
+      "fdr_method": null,
+      "configured_data_phase": "phase_2"
+    },
+    "tr": {
+      "conditions": [
+        "stimulus onset/1000ms/Relevant non-target/face",
+        "stimulus onset/1500ms/Relevant non-target/face"
+      ],
+      "roi_keys": [
+        "iit"
+      ],
+      "roi_entry_count": 34,
+      "roi_unique_entry_count": 30,
+      "threshold_condition": "1500ms",
+      "baseline": [
+        -0.5,
+        -0.2
+      ],
+      "activation": [
+        1.2,
+        1.5
+      ],
+      "moving_average_ms": 300,
+      "fast_track": true,
+      "inaccuracy_threshold_seconds": 0.15,
+      "permutations": 1000,
+      "fdr_method": null,
+      "configured_data_phase": "phase_2"
+    }
+  },
+  "helper_function_range": [
+    88,
+    207
+  ],
+  "argmax_call_lines": [
+    148,
+    184
+  ],
+  "boolean_semantics_witnesses": [
+    {
+      "case": "never_below",
+      "mask": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "first_argmax_index": 0,
+      "first_actual_below_index_or_none": null
+    },
+    {
+      "case": "initially_below",
+      "mask": [
+        true,
+        false,
+        false,
+        false,
+        true
+      ],
+      "first_argmax_index": 0,
+      "first_actual_below_index_or_none": 0
+    },
+    {
+      "case": "later_below",
+      "mask": [
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "first_argmax_index": 3,
+      "first_actual_below_index_or_none": 3
+    }
+  ],
+  "illustrative_trailing_filter": {
+    "not_claimed_to_be_source_implementation": true,
+    "duration_seconds": "1",
+    "width_seconds": "3/10",
+    "half_height_seconds": "23/20",
+    "corrected_endpoint_seconds": "1"
+  },
+  "results_reproduced": false,
+  "effect_on_published_inference_established": false,
+  "research_suite_test_count_changed": false
+}

@@ -1,0 +1,963 @@
+{
+  "source": "https://github.com/JQIamo/hubFrct_2021",
+  "expected_commit": "88c8a87aed5961f589db66a7e7e4e97f161ad51c",
+  "note": "Expected commit is not verified by this script. Columns include phonon and normalization runs and must not be treated as independent time series.",
+  "files": 42,
+  "files_by_directory": {
+    "expansions": 18,
+    "contractions": 24
+  },
+  "distinct_file_hashes": 42,
+  "duplicate_file_groups": [],
+  "same_filename_numeric_comparisons": [
+    {
+      "filename": "PhnRuns_2021-02-19_0351-0440.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-19_0441-0530.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-19_0651-0740.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-19_0741-0830.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-19_0831-0920.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-19_0921-1010.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    },
+    {
+      "filename": "PhnRuns_2021-02-20_0042-0101.mat",
+      "arrays_equal": {
+        "Runs": true,
+        "time": true,
+        "AN": true,
+        "n1Ds": true
+      }
+    }
+  ],
+  "all_shapes_aligned": true,
+  "all_contain_phonondata_opaque_object": true,
+  "records": [
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0351-0440.mat",
+      "sha256": "eddd5a886702f8823be3158d978da05b99f98662ba7ecb9cc69486a51b26efd3",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0441-0530.mat",
+      "sha256": "b8261aa6bb9a6eb1fe0e83e817f4cb7936a63b11a1de2134ce9f6a5ebac699e9",
+      "columns": 89,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.12,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0651-0740.mat",
+      "sha256": "d3194f12f1093ea79fd9b18629b1802ab6e8de949540f04308a7ec45480c8baa",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.091,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0741-0830.mat",
+      "sha256": "7ccd6e841da0109cdcfdeb4cb994ce5811dbce21f3a7283a3164478003778c16",
+      "columns": 89,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.062,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0831-0920.mat",
+      "sha256": "c7930118d7383c591f5b46866b58b59e6d329ccebe97ea62cb3c2073163e80b5",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.0765,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0921-1010.mat",
+      "sha256": "d6ffe81a83a862d396dfb7c3003d2f0f9db9ac7d9cb1b80d5ca3ca504abc76b3",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.149,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-20_0042-0101.mat",
+      "sha256": "d41cd7a0f6fc3a8097dd6ec67d7d4afd2f19b5cbe28c71c76e0c80cd01676c95",
+      "columns": 60,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0163-0282.mat",
+      "sha256": "12f6547301f2cb3d4307f1070225d73cdced57c3821abe32921a62a0350ba752",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.156,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0299-0418.mat",
+      "sha256": "f3264f4155a451063538c3f55e8c25be457540c9d103829360ca48b092cbcd47",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.162,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0432-0551.mat",
+      "sha256": "03d35c9d22c0a10614e97d27973b925fd3c4b7fc8922da6107de54e759c65503",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 59,
+      "time_min_s": 0.004,
+      "time_max_s": 0.159,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0564-0683.mat",
+      "sha256": "6f1e85cd4138c6008a49f96e5bda9edb1347fa77038601e41f9483c5868cdeb7",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.1575,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0708-0827.mat",
+      "sha256": "2b2e6e511bbbbee760597432ace5daa7d3779faa81ef01174c98d5ce765df8c7",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 68,
+      "time_min_s": 0.004,
+      "time_max_s": 0.1605,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0100-0219.mat",
+      "sha256": "58871ff39edde75433f5ead196ffa1b857a375972cf542ced7ea4566a4f60673",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 62,
+      "time_min_s": 0.004,
+      "time_max_s": 0.165,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0299-0418.mat",
+      "sha256": "1819210610dd255643781e93f9fcd98cfd343cb48559b1387770629dc41a29a1",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.168,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0431-0550.mat",
+      "sha256": "72b60bb787b637926cf8fb91beacd448d988d4c0e2a96ab6ae64b84dd3f68244",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 68,
+      "time_min_s": 0.004,
+      "time_max_s": 0.1545,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0563-0682.mat",
+      "sha256": "bfac65730354a1578d8597e85515fdedea84894a8a75165279d003bfa28aea4f",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 67,
+      "time_min_s": 0.004,
+      "time_max_s": 0.1665,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0695-0814.mat",
+      "sha256": "47a6fa7cbcf4adc1bd5eb1bc8e08c47a849a14072d7d2af2dc3035b4dbbb6873",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 62,
+      "time_min_s": 0.004,
+      "time_max_s": 0.153,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0827-0946.mat",
+      "sha256": "689720a0a2329adf02acc74f657ce0f493d991e454e7abdb09653221595c584a",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 68,
+      "time_min_s": 0.004,
+      "time_max_s": 0.1515,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0351-0440.mat",
+      "sha256": "c32e96c1364190a03d3316a9edf7f02c1353a4f141e4f3adbf30a9c66a1354c8",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0441-0530.mat",
+      "sha256": "ee1eccd7f7c065cb0c62799b97315a3400360d68132ea92ec1f8dc6f5ab3f3e0",
+      "columns": 89,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.12,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0651-0740.mat",
+      "sha256": "8490b367d6d351ab481d90cb2de087e2b020eb68048053ba565c70d0770f57dc",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.091,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0741-0830.mat",
+      "sha256": "c1d5fbcdbebfa07c781a89e19cdec150feb8258c0bb85cf03cd3726b00f5c6da",
+      "columns": 89,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.062,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0831-0920.mat",
+      "sha256": "8f61418b860ba6bf47382dc91818d137e70ca9596de575088dbaf7700eff376a",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.0765,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0921-1010.mat",
+      "sha256": "7561562cd4dedf43825c1941ab5589a8493730a511051910f98b669005c70ca2",
+      "columns": 90,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.149,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0042-0101.mat",
+      "sha256": "325dd2d27f454b81b58ca9a661ac88fcfc105b364d334b262739b1dbd35fdd94",
+      "columns": 60,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 30,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0115-0234.mat",
+      "sha256": "5c398ecd4b6f42bebae75d3c1a6887e87e5421ff99a774debe8973a4e6f42c12",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0247-0366.mat",
+      "sha256": "f157c46b0e6d59d43d44099228d7c28d7cd0fade7512de040bd086c0c9325035",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0379-0498.mat",
+      "sha256": "f33a5dec313ed658c3833495ee62b86dc33b00995ee7a8b467b4c80812c9a160",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0511-0630.mat",
+      "sha256": "1c1d583a4d11019e76323ff690083411f37e25fba4142e0508422bcffbb8e2c7",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 62,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0649-0768.mat",
+      "sha256": "1695f907441981e4c7a21b0677aa842132ac259be0adc4eeca8e149bef77ff73",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 61,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0103-0222.mat",
+      "sha256": "ab4ed159f151dd146ed237b6493574c2f29b69c8d2304f37c1b64fe55480f030",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0433-0558.mat",
+      "sha256": "6382bd36e5ec58dfd63076bb0fb1e72302616f1bdf17c31f2b36f12308bc7366",
+      "columns": 197,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 71,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0571-0696.mat",
+      "sha256": "a47e014182fb5ea4d4fb671d0662d26cc295c012ae2d87de7df2b5c98bf5c463",
+      "columns": 196,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 64,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0709-0834.mat",
+      "sha256": "a149090b3492703590e6dec390de7bcdcfe5e98770f9812a9b1c9f7f1e6614b3",
+      "columns": 198,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 63,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0847-0966.mat",
+      "sha256": "490d4b501543941d98611f00fb63bbbd0d1d583fbba745363cf2d3dcab0482b8",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0980-1099.mat",
+      "sha256": "851edeb0926cef32746b8d369e764e12c9d19e1c4f039bb8fef933402382934f",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0113-0232.mat",
+      "sha256": "3db2f10e54ff0bde466a5f12e332fdfbb254c02a2658ea044cd8608b0eb12610",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0245-0364.mat",
+      "sha256": "eac81b56b7c612ce75c8433f098b26519522339bf25c39bce1354d1e8fc7faf5",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0377-0496.mat",
+      "sha256": "f15e9c154eda7bd159b37dab03a8ebf154815138d1333a3695348d8db44f7cc5",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0509-0628.mat",
+      "sha256": "17c7b8de83231f121b5e0e78285f5e22b61bffae32ab4780b1a3a659efb87766",
+      "columns": 191,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0641-0760.mat",
+      "sha256": "06d8021176410ce5bd402b03219171f01e4855987cd25f5d3bca69127e2a9857",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0776-0895.mat",
+      "sha256": "05e08c596f9c7247d7778077e276e0aebbf892bb56a3368000d07c43f06b7cb7",
+      "columns": 192,
+      "angular_bins": 100,
+      "unique_time_values_rounded_1ns": 69,
+      "time_min_s": 0.004,
+      "time_max_s": 0.236,
+      "nonfinite_time": 0,
+      "nonfinite_n1d": 0,
+      "opaque_classes": [
+        "PhononData"
+      ],
+      "top_level_variables": [
+        "AN",
+        "None",
+        "Runs",
+        "n1Ds",
+        "time"
+      ]
+    }
+  ]
+}

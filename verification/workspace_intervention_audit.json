@@ -1,0 +1,73 @@
+{
+  "scope": "controlled reduced-state comparisons; not neural or phenomenal evidence",
+  "reduced_core": [
+    "workspace",
+    "feedback"
+  ],
+  "excluded_from_core": [
+    "consumer memory",
+    "action",
+    "comparison",
+    "report",
+    "physical feedback pathway"
+  ],
+  "lesion_witness": {
+    "current_workspace_and_report_match": true,
+    "next_equal_competition_normal_winner": "auditory",
+    "next_equal_competition_cut_winner": "visual"
+  },
+  "fixed_replay_witness": {
+    "baseline_reduced_state_matches": true,
+    "under_forced_visual_content_normal_feedback": "visual",
+    "under_forced_visual_content_replay_feedback": "auditory"
+  },
+  "closed_loop_replacement": {
+    "one_step_comparisons": 64800,
+    "prepared_states": 75,
+    "input_sets": 9,
+    "configurations": 16,
+    "workspace_interventions_including_natural": 6,
+    "reduced_updates_all_match": true,
+    "consumer_outputs_can_differ": true,
+    "full_physical_equivalence_claimed": false,
+    "matching_report_off_trajectory": [
+      {
+        "workspace": [
+          "auditory",
+          1
+        ],
+        "feedback": "auditory"
+      },
+      {
+        "workspace": [
+          "auditory",
+          1
+        ],
+        "feedback": "auditory"
+      },
+      {
+        "workspace": [
+          "auditory",
+          1
+        ],
+        "feedback": "auditory"
+      },
+      {
+        "workspace": [
+          "visual",
+          1
+        ],
+        "feedback": "visual"
+      },
+      {
+        "workspace": [
+          "visual",
+          0
+        ],
+        "feedback": "visual"
+      }
+    ]
+  },
+  "consciousness_assignment_supplied": false,
+  "research_suite_count_changed": false
+}

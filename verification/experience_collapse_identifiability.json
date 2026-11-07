@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "scope": "One declared finite dephasing slot, with interventions outside the slot and observed environment inaccessible. No actual subject, consciousness, experimental or general physical law established.",
+  "channel_composition_pairs_checked": 121,
+  "trigger_strength_prevalence_pairs_checked": 121,
+  "equal_choi_action_example": {
+    "coherence": "3/4",
+    "fixed_setting_CHSH": "12/5",
+    "scenario_a": {
+      "s": "1",
+      "p": "1/6",
+      "q": "1/10"
+    },
+    "scenario_b": {
+      "s": "1/2",
+      "p": "1/3",
+      "q": "1/10"
+    },
+    "scenario_c": {
+      "s": "0",
+      "p": "1",
+      "q": "1/4"
+    }
+  },
+  "confounded_noise_trigger_pairs_for_same_channel": 101,
+  "illustrative_intervals": {
+    "background_retention": [
+      "22/25",
+      "23/25"
+    ],
+    "observed_retention": [
+      "37/50",
+      "19/25"
+    ],
+    "effective_trigger_probability": [
+      "3/22",
+      "9/46"
+    ],
+    "strength_if_s_at_least_half": [
+      "3/22",
+      "9/23"
+    ]
+  },
+  "limitations": "The intervals are stipulated examples, not confidence intervals or empirical values. Stronger models, temporal probes, environmental access and independent subject calibration can change identifiability."
+}

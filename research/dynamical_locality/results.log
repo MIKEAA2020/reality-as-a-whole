@@ -1,0 +1,37 @@
+test_01_gates_and_interval_maps_unitary (test_model.DynamicalLocalityTests.test_01_gates_and_interval_maps_unitary) ... ok
+test_02_unitary_composition (test_model.DynamicalLocalityTests.test_02_unitary_composition) ... ok
+test_03_state_evolution_composes (test_model.DynamicalLocalityTests.test_03_state_evolution_composes) ... ok
+test_04_observable_pullback_composes_contravariantly (test_model.DynamicalLocalityTests.test_04_observable_pullback_composes_contravariantly) ... ok
+test_05_predictions_agree_across_every_interval (test_model.DynamicalLocalityTests.test_05_predictions_agree_across_every_interval) ... ok
+test_06_closed_evolution_preserves_products (test_model.DynamicalLocalityTests.test_06_closed_evolution_preserves_products) ... ok
+test_07_adjoint_and_identity_preserved (test_model.DynamicalLocalityTests.test_07_adjoint_and_identity_preserved) ... ok
+test_08_slice_net_dimensions (test_model.DynamicalLocalityTests.test_08_slice_net_dimensions) ... ok
+test_09_slice_net_isotony (test_model.DynamicalLocalityTests.test_09_slice_net_isotony) ... ok
+test_10_event_order_transitive_and_strict (test_model.DynamicalLocalityTests.test_10_event_order_transitive_and_strict) ... ok
+test_11_declared_causal_relations (test_model.DynamicalLocalityTests.test_11_declared_causal_relations) ... ok
+test_12_exact_two_tick_cones (test_model.DynamicalLocalityTests.test_12_exact_two_tick_cones) ... ok
+test_13_all_transported_observables_stay_within_cones (test_model.DynamicalLocalityTests.test_13_all_transported_observables_stay_within_cones) ... ok
+test_14_local_algebra_support_fills_declared_cone (test_model.DynamicalLocalityTests.test_14_local_algebra_support_fills_declared_cone) ... ok
+test_15_disconnected_event_observables_commute (test_model.DynamicalLocalityTests.test_15_disconnected_event_observables_commute) ... ok
+test_16_timelike_cross_site_observables_need_not_commute (test_model.DynamicalLocalityTests.test_16_timelike_cross_site_observables_need_not_commute) ... ok
+test_17_same_wire_at_different_times_not_an_independent_copy (test_model.DynamicalLocalityTests.test_17_same_wire_at_different_times_not_an_independent_copy) ... ok
+test_18_whole_slice_map_is_a_basis_bijection (test_model.DynamicalLocalityTests.test_18_whole_slice_map_is_a_basis_bijection) ... ok
+test_19_local_reset_is_trace_preserving (test_model.DynamicalLocalityTests.test_19_local_reset_is_trace_preserving) ... ok
+test_20_unitaries_outside_input_cone_do_not_change_predictions (test_model.DynamicalLocalityTests.test_20_unitaries_outside_input_cone_do_not_change_predictions) ... ok
+test_21_resets_outside_cone_do_not_change_predictions (test_model.DynamicalLocalityTests.test_21_resets_outside_cone_do_not_change_predictions) ... ok
+test_22_influence_propagates_only_after_second_gate (test_model.DynamicalLocalityTests.test_22_influence_propagates_only_after_second_gate) ... ok
+test_23_quantum_phase_can_influence_classical_control_wire (test_model.DynamicalLocalityTests.test_23_quantum_phase_can_influence_classical_control_wire) ... ok
+test_24_ghz_preparation (test_model.DynamicalLocalityTests.test_24_ghz_preparation) ... ok
+test_25_partial_trace_preserves_local_predictions (test_model.DynamicalLocalityTests.test_25_partial_trace_preserves_local_predictions) ... ok
+test_26_reduced_state_does_not_close_neighbor_dependent_dynamics (test_model.DynamicalLocalityTests.test_26_reduced_state_does_not_close_neighbor_dependent_dynamics) ... ok
+test_27_intervention_time_changes_history (test_model.DynamicalLocalityTests.test_27_intervention_time_changes_history) ... ok
+test_28_contextual_parity_obstruction_is_transport_invariant (test_model.DynamicalLocalityTests.test_28_contextual_parity_obstruction_is_transport_invariant) ... ok
+test_29_transport_preserves_context_commutation (test_model.DynamicalLocalityTests.test_29_transport_preserves_context_commutation) ... ok
+test_30_signed_pauli_transport_retains_minus_signs (test_model.DynamicalLocalityTests.test_30_signed_pauli_transport_retains_minus_signs) ... ok
+test_31_first_slice_recovers_previous_bell_construction (test_model.DynamicalLocalityTests.test_31_first_slice_recovers_previous_bell_construction) ... ok
+test_32_invalid_domains_rejected (test_model.DynamicalLocalityTests.test_32_invalid_domains_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.372s
+
+OK

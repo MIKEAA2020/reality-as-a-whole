@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "exact_finite_cases": 2500,
+  "same_feature_different_decoders": {
+    "first_accuracy": "63/100",
+    "second_accuracy": "59/100",
+    "true_conditional_tv": "0"
+  },
+  "same_fixed_decoder_accuracy_different_features": {
+    "both_accuracies": "1",
+    "each_conditional_tv": "1"
+  },
+  "synthetic_decoder_witness": {
+    "accuracy": "3/5",
+    "consumer_statistical_tv_lower_bound": "1/5"
+  },
+  "scope": "ideal balanced binary-label probability distributions; no real-data reanalysis or causal-channel identification"
+}

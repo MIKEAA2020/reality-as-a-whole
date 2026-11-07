@@ -1,0 +1,64 @@
+{
+  "event_count": 15,
+  "event_counts_by_code": {
+    "1": 1,
+    "12": 4,
+    "22": 3,
+    "11": 3,
+    "21": 3,
+    "2": 1
+  },
+  "first_timestamp": "0.0010876511223614216",
+  "last_timestamp": "30.001389855751768",
+  "recorded_span": "30.0003022046294065784",
+  "durations_in_recorded_time_units": {
+    "A_report": "14.8479272471740848",
+    "B_report": "5.0205020131543285",
+    "other_unresolved": "10.1318729443009932784"
+  },
+  "dominance_report_onset_sequence": [
+    "B",
+    "A",
+    "B",
+    "A",
+    "B",
+    "A",
+    "B"
+  ],
+  "changes_between_successive_dominance_reports": 6,
+  "active_report_at_trial_end": "B",
+  "unresolved_is_not_assumed_entirely_mixed_experience": true,
+  "status": "passed",
+  "commit": "fb86674524005027e8e9eb77b66f695d1df6d25f",
+  "source_hashes_checked": 5,
+  "pair_1_stimulus_names": {
+    "A": "Tom_Hanks",
+    "B": "Justin_Bieber"
+  },
+  "selected_TTL_descriptions": {
+    "1": "images on",
+    "2": "images off",
+    "11": "<StimA> percept",
+    "12": "<StimB> percept",
+    "21": "<StimA> to <StimB> piecemeal",
+    "22": "<StimB> to <StimA> piecemeal",
+    "31": "<StimA> on",
+    "32": "<StimB> on"
+  },
+  "source_parameters_Sessions": [
+    {
+      "A": "Session Type"
+    },
+    {
+      "A": "Passive"
+    }
+  ],
+  "clock_unit_independently_calibrated": false,
+  "runtime_stimulus_frames_available": false,
+  "motor_to_experience_error_calibrated": false,
+  "paired_OKN_trace_available_in_selected_files": false,
+  "neural_recordings_available_in_selected_files": false,
+  "phenomenal_identity_established": false,
+  "paper_or_MATLAB_analysis_reproduced": false,
+  "scope": "one source-selected trial; report-reference and event accounting, not a population or constitutive result"
+}

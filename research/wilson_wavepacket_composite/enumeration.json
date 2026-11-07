@@ -1,0 +1,147 @@
+{
+  "scope": "positive-energy rank-one nonstationary excitation, relative upper-component current",
+  "packet_norm": 1.0000000000097666,
+  "continuum_total_energy": 2.000000000019531,
+  "examples": [
+    {
+      "midpoint": 0,
+      "time": 0,
+      "continuum_local_energy": 0.5305164769729858,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "current": 0.5266194037201329,
+          "error": 0.003897073252852823,
+          "analytic_error_bound": 0.008080190704206552,
+          "independent_local_hamiltonian_energy": 0.5304900336647072,
+          "total_hamiltonian_energy": 1.9999099018661302
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "current": 0.5295475812976311,
+          "error": 0.0009688956753546307,
+          "analytic_error_bound": 0.002007438847127778,
+          "independent_local_hamiltonian_energy": 0.5305148242377499,
+          "total_hamiltonian_energy": 1.9999943688050812
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "current": 0.5302745919147838,
+          "error": 0.00024188505820199602,
+          "analytic_error_bound": 0.0005010745466108612,
+          "independent_local_hamiltonian_energy": 0.5305163736769217,
+          "total_hamiltonian_energy": 1.9999996480683173
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "current": 0.5304560269351611,
+          "error": 6.0450037824621994e-05,
+          "analytic_error_bound": 0.00012521960875976914,
+          "independent_local_hamiltonian_energy": 0.5305164705169803,
+          "total_hamiltonian_energy": 1.9999999780225763
+        }
+      ]
+    },
+    {
+      "midpoint": 0.7,
+      "time": 0.3,
+      "continuum_local_energy": 0.513770940603924,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "current": 0.5099881583406054,
+          "error": 0.003782782263318629,
+          "analytic_error_bound": 0.008112117356685196,
+          "independent_local_hamiltonian_energy": 0.5137422502136282,
+          "total_hamiltonian_energy": 1.9999099018661302
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "current": 0.5128310371444511,
+          "error": 0.0009399034594729239,
+          "analytic_error_bound": 0.002009428411248514,
+          "independent_local_hamiltonian_energy": 0.5137691474205761,
+          "total_hamiltonian_energy": 1.9999943688050812
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "current": 0.5135363299956469,
+          "error": 0.00023461060827711933,
+          "analytic_error_bound": 0.0005011988032711489,
+          "independent_local_hamiltonian_energy": 0.5137708285298321,
+          "total_hamiltonian_energy": 1.9999996480683173
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "current": 0.5137123108311147,
+          "error": 5.862977280934878e-05,
+          "analytic_error_bound": 0.0001252273733789457,
+          "independent_local_hamiltonian_energy": 0.5137709335992929,
+          "total_hamiltonian_energy": 1.9999999780225763
+        }
+      ]
+    },
+    {
+      "midpoint": 2,
+      "time": 1,
+      "continuum_local_energy": 0.43307288615800044,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "current": 0.4298375470579723,
+          "error": 0.003235339100028156,
+          "analytic_error_bound": 0.008186612879135365,
+          "independent_local_hamiltonian_energy": 0.43302885394345003,
+          "total_hamiltonian_energy": 1.9999099018661302
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "current": 0.43227269715742817,
+          "error": 0.0008001890005722712,
+          "analytic_error_bound": 0.0020140707275302333,
+          "independent_local_hamiltonian_energy": 0.43307013407131145,
+          "total_hamiltonian_energy": 1.9999943688050812
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "current": 0.4328733837679496,
+          "error": 0.00019950239005084303,
+          "analytic_error_bound": 0.000501488735478487,
+          "independent_local_hamiltonian_energy": 0.43307271415229653,
+          "total_hamiltonian_energy": 1.9999996480683173
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "current": 0.43302304468436975,
+          "error": 4.984147363068514e-05,
+          "analytic_error_bound": 0.000125245490823691,
+          "independent_local_hamiltonian_energy": 0.4330728754076428,
+          "total_hamiltonian_energy": 1.9999999780225763
+        }
+      ]
+    }
+  ],
+  "finite_CAR": {
+    "covariance_eigenvalues": [
+      0.4206692984678047,
+      0.589917846161222
+    ],
+    "density_trace": 1.0,
+    "actual_relative_expectation": 0.5640425791266352,
+    "formula": 0.56404257912647,
+    "agreement_error": 1.652011860642233e-13,
+    "all_two_point_functions_reconstructed": true
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "scope": "pure quasifree finite-rank coherent sea rotation; not a phase-averaged nonquasifree state",
+  "angle": 0.7853981633974483,
+  "relative_number": 0,
+  "continuum_total_energy": 2.500000000024414,
+  "phase_comparison": [
+    {
+      "phase": 0,
+      "local_continuum_energy": 0.6956647136672574,
+      "local_lattice_hamiltonian_energy_at_a_0_001": 0.6956644347858231,
+      "total_continuum_energy": 2.500000000024414
+    },
+    {
+      "phase": 0.3,
+      "local_continuum_energy": 0.7277919902954917,
+      "local_lattice_hamiltonian_energy_at_a_0_001": 0.7277916497480148,
+      "total_continuum_energy": 2.500000000024414
+    },
+    {
+      "phase": 3.141592653589793,
+      "local_continuum_energy": 0.588762637845893,
+      "local_lattice_hamiltonian_energy_at_a_0_001": 0.5887624391523016,
+      "total_continuum_energy": 2.500000000024414
+    },
+    {
+      "phase": 6.283185307179586,
+      "local_continuum_energy": 0.6956647136672574,
+      "local_lattice_hamiltonian_energy_at_a_0_001": 0.695664434785823,
+      "total_continuum_energy": 2.500000000024414
+    }
+  ],
+  "mesoscopic": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "linear": 0.7182634977508742,
+      "determinant": -0.0391189749040501,
+      "current": 0.679144522846824,
+      "target": 0.7277919902954917,
+      "observed_error": 0.04864746744866766,
+      "error_bound": 0.0727007395598118,
+      "independent_local_hamiltonian_energy": 0.7277088504148528,
+      "total_spectral_energy": 2.499811086746711
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "linear": 0.7254158455491448,
+      "determinant": -0.010036529541283288,
+      "current": 0.7153793160078615,
+      "target": 0.7277919902954917,
+      "observed_error": 0.012412674287630154,
+      "error_bound": 0.018094813047658736,
+      "independent_local_hamiltonian_energy": 0.7277867939592172,
+      "total_spectral_energy": 2.499988192647895
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "linear": 0.7271983423177617,
+      "determinant": -0.0025252935255295774,
+      "current": 0.7246730487922322,
+      "target": 0.7277919902954917,
+      "observed_error": 0.0031189415032595313,
+      "error_bound": 0.0045186984219183395,
+      "independent_local_hamiltonian_energy": 0.7277916655241092,
+      "total_spectral_energy": 2.4999992620622256
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "linear": 0.7276436027925242,
+      "determinant": -0.0006323351735938231,
+      "current": 0.7270112676189303,
+      "target": 0.7277919902954917,
+      "observed_error": 0.000780722676561374,
+      "error_bound": 0.0011293620893765173,
+      "independent_local_hamiltonian_energy": 0.727791969997279,
+      "total_spectral_energy": 2.49999995390177
+    },
+    {
+      "n": 128,
+      "spacing": 6.103515625e-05,
+      "linear": 0.7277548949540534,
+      "determinant": -0.00015814705718435494,
+      "current": 0.7275967478968691,
+      "target": 0.7277919902954917,
+      "observed_error": 0.00019524239862256376,
+      "error_bound": 0.0002823209945583402,
+      "independent_local_hamiltonian_energy": 0.7277919890268535,
+      "total_spectral_energy": 2.499999997141749
+    }
+  ],
+  "finite_CAR": {
+    "covariance_eigenvalues": [
+      0.4191595148875106,
+      0.588179168791008
+    ],
+    "density_trace": 1.0,
+    "actual_relative_expectation": 0.6017341067925486,
+    "formula": 0.6017341067924398,
+    "agreement_error": 1.0880185641326534e-13
+  }
+}

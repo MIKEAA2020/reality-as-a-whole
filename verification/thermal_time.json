@@ -1,0 +1,46 @@
+{
+  "thermal_time": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "C_weak": 3.66e-05,
+    "kappa_surface_weak_cloud": 0.022067427285165732,
+    "T_Unruh_weak_cloud": 0.0035121401337550907,
+    "hawking_temperatures": [
+      {
+        "M": 0.1,
+        "R_s": 0.2,
+        "T_H": 0.3978873577297384,
+        "kappa_surface": 2.5
+      },
+      {
+        "M": 1,
+        "R_s": 2,
+        "T_H": 0.039788735772973836,
+        "kappa_surface": 0.25
+      },
+      {
+        "M": 10,
+        "R_s": 20,
+        "T_H": 0.0039788735772973835,
+        "kappa_surface": 0.025
+      },
+      {
+        "M": 22,
+        "R_s": 44,
+        "T_H": 0.0018085788987715382,
+        "kappa_surface": 0.011363636363636364
+      },
+      {
+        "M": 0.039788735772973836,
+        "R_s": 0.07957747154594767,
+        "T_H": 1.0,
+        "kappa_surface": 6.283185307179586
+      }
+    ],
+    "T_local_at_R_surface_for_M1": 0.041670404658840594,
+    "tolman_law": "T_local(R) = T_infinity / sqrt(1-C(R))",
+    "modular_group_matches_Tomonaga": true,
+    "beta_KMS": 6.283185307179586,
+    "note": "The Tomonaga-Schr\u00f6dinger flow U(l) = exp(-i \u222b H_eff dl) is exactly the Tomita-Takesaki modular automorphism group of the Gibbs thermal state w.r.t. H_eff. Thermal time identifies physical time with this modular flow; redshift implements the Tolman law, Unruh/Hawking temperatures appear as the KMS temperatures of the appropriate accelerated/eternal observers. The Cocycle Radon-Nikodym theorem provides a state-independent outer automorphism (absolute modular time), while thermal time is state/perspective-dependent."
+  }
+}

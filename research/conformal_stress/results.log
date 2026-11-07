@@ -1,0 +1,37 @@
+test_01_identity_subtraction (test_model.StressTests.test_01_identity_subtraction) ... ok
+test_02_affine_subtraction (test_model.StressTests.test_02_affine_subtraction) ... ok
+test_03_mobius_subtraction (test_model.StressTests.test_03_mobius_subtraction) ... ok
+test_04_cubic_schwarzian (test_model.StressTests.test_04_cubic_schwarzian) ... ok
+test_05_point_split_limit (test_model.StressTests.test_05_point_split_limit) ... ok
+test_06_symmetric_split_second_order (test_model.StressTests.test_06_symmetric_split_second_order) ... ok
+test_07_schwarzian_chain_rule (test_model.StressTests.test_07_schwarzian_chain_rule) ... ok
+test_08_kernel_composition (test_model.StressTests.test_08_kernel_composition) ... ok
+test_09_exponential_schwarzian (test_model.StressTests.test_09_exponential_schwarzian) ... ok
+test_10_exponential_stress (test_model.StressTests.test_10_exponential_stress) ... ok
+test_11_thermal_two_chiralities (test_model.StressTests.test_11_thermal_two_chiralities) ... ok
+test_12_fermion_current_kernel_relation (test_model.StressTests.test_12_fermion_current_kernel_relation) ... ok
+test_13_flat_normalized_vacuum_stress_zero (test_model.StressTests.test_13_flat_normalized_vacuum_stress_zero) ... ok
+test_14_trace_anomaly (test_model.StressTests.test_14_trace_anomaly) ... ok
+test_15_conservation_u (test_model.StressTests.test_15_conservation_u) ... ok
+test_16_conservation_v (test_model.StressTests.test_16_conservation_v) ... ok
+test_17_static_energy_component (test_model.StressTests.test_17_static_energy_component) ... ok
+test_18_static_pressure_component (test_model.StressTests.test_18_static_pressure_component) ... ok
+test_19_finite_cosmological_shift (test_model.StressTests.test_19_finite_cosmological_shift) ... ok
+test_20_cosmological_shift_conserved (test_model.StressTests.test_20_cosmological_shift_conserved) ... ok
+test_21_flat_normalization_fixes_shift (test_model.StressTests.test_21_flat_normalization_fixes_shift) ... ok
+test_22_state_dependence_leaves_anomaly (test_model.StressTests.test_22_state_dependence_leaves_anomaly) ... ok
+test_23_nonchiral_integration_functions_fail_conservation (test_model.StressTests.test_23_nonchiral_integration_functions_fail_conservation) ... ok
+test_24_tensor_covariance_uu (test_model.StressTests.test_24_tensor_covariance_uu) ... ok
+test_25_tensor_covariance_vv (test_model.StressTests.test_25_tensor_covariance_vv) ... ok
+test_26_tensor_covariance_uv_and_scalar_curvature (test_model.StressTests.test_26_tensor_covariance_uv_and_scalar_curvature) ... ok
+test_27_state_function_not_a_tensor_alone (test_model.StressTests.test_27_state_function_not_a_tensor_alone) ... ok
+test_28_same_flat_vacuum_coordinate_cancellation (test_model.StressTests.test_28_same_flat_vacuum_coordinate_cancellation) ... ok
+test_29_affine_density_curvature_and_conservation (test_model.StressTests.test_29_affine_density_curvature_and_conservation) ... ok
+test_30_central_charge_linearity (test_model.StressTests.test_30_central_charge_linearity) ... ok
+test_31_polyakov_weyl_variation_density (test_model.StressTests.test_31_polyakov_weyl_variation_density) ... ok
+test_32_validation (test_model.StressTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.002s
+
+OK

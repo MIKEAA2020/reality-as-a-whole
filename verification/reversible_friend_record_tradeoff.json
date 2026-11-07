@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "scope": "Pure four-qubit controlled-record circuit; unconditional measurements, E outside reversal unless explicitly recovered; not a subject, consciousness, general measurement or gravity model.",
+  "rational_environment_cases": 90,
+  "fixed_angle_score": "6/5 + 8*r/5",
+  "fixed_angle_violation_condition": "r > 1/2",
+  "optimized_symmetric_angle_score": "2*sqrt(1+r^2)",
+  "witness": {
+    "overlap": "3/5",
+    "trace_distance": "4/5",
+    "optimal_environment_guess_probability": "9/10",
+    "fixed_angles_correlations": [
+      "3/5",
+      "3/5",
+      "12/25",
+      "-12/25"
+    ],
+    "fixed_angles_CHSH": "54/25",
+    "score_after_coherent_environment_recovery": "14/5"
+  },
+  "limitations": "Record-guess probabilities refer to explicitly prepared branch states; all-label-recovery, arbitrary channels, nonideal noise, and temporal experience supervenience are not established."
+}

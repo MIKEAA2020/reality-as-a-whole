@@ -1,0 +1,57 @@
+{
+  "original_source": "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt",
+  "extended_source": "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt",
+  "original_sha256": "8ac38fcfe1584ffd4dc2ea0d61917f80a25110a3f346d80057d69290702aa490",
+  "extended_sha256": "e01371d283093174a14b150db79476d28da33335b6e9f0bbfb8827a9a72907f5",
+  "extended_copy_matches_upload": true,
+  "original_bytes": 103386,
+  "extended_bytes": 111783,
+  "original_logical_lines": 1506,
+  "extended_logical_lines": 1649,
+  "comparison": [
+    {
+      "operation": "delete",
+      "old_zero_based_half_open": [
+        0,
+        4
+      ],
+      "new_zero_based_half_open": [
+        0,
+        0
+      ]
+    },
+    {
+      "operation": "equal",
+      "old_zero_based_half_open": [
+        4,
+        1505
+      ],
+      "new_zero_based_half_open": [
+        0,
+        1501
+      ]
+    },
+    {
+      "operation": "replace",
+      "old_zero_based_half_open": [
+        1505,
+        1506
+      ],
+      "new_zero_based_half_open": [
+        1501,
+        1649
+      ]
+    }
+  ],
+  "reading_scope": "Previously audited unchanged body, proven identical by line comparison; all appended exchanges reviewed, with the preceding synthesis in context. No claim of a new independent reread of the entire unchanged body.",
+  "additional_exchange_anchors": [
+    1503,
+    1551,
+    1588
+  ],
+  "updated_reports": [
+    "identity-and-whole-thesis.md",
+    "SYNTHESIS.md"
+  ],
+  "verification_limit": "Logical and contextual audit; no new empirical consciousness evidence or externally verified bibliography."
+}

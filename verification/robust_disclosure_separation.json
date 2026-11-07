@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "exhaustive_parameter_grid_cases": 625,
+  "separated_cases": 60,
+  "overlapping_or_touching_cases": 565,
+  "grid_witnesses_checked": 19800,
+  "illustration_only": {
+    "alpha": "1/10",
+    "beta": "1/10",
+    "each_gate_failure_upper_bound": "3/25",
+    "maintenance_positive_probability_lower_bound": "99/125",
+    "distribution_positive_probability_upper_bound": "26/125",
+    "separation_gap": "73/125",
+    "threshold": "1/2",
+    "independent_bernoulli_sample_size_hoeffding": 22,
+    "bound_for_each_error_probability": 0.023479771869950497,
+    "target_each_error_probability": 0.025
+  },
+  "indistinguishable_overlap_example": {
+    "gate_failure_upper_bound_each": "1/2",
+    "maintenance_minimum": "9/20",
+    "distribution_maximum": "11/20",
+    "observed_positive_probability_both": "1/2",
+    "maintenance_joint_G_Y": {
+      "G=0,Y=0": "5/11",
+      "G=0,Y=1": "1/22",
+      "G=1,Y=0": "1/22",
+      "G=1,Y=1": "5/11"
+    },
+    "distribution_joint_G_Y": {
+      "G=0,Y=0": "1/22",
+      "G=0,Y=1": "5/11",
+      "G=1,Y=0": "5/11",
+      "G=1,Y=1": "1/22"
+    }
+  },
+  "limitations": "The gate and calibration bounds, subject-specific target, independence, and choice of experimental domain are assumptions, not observed facts. This does not identify the whole ontology or establish a phenomenal mapping."
+}

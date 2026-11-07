@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational polynomial integration",
+  "noncommuting_interval_phase": "1/1260",
+  "rescaled_g_phase": "1",
+  "affine_symplectic_checks": 9,
+  "translated_same_smear_phases": [
+    {
+      "translation": "-2",
+      "symplectic_phase": "0"
+    },
+    {
+      "translation": "-1",
+      "symplectic_phase": "0"
+    },
+    {
+      "translation": "-1/2",
+      "symplectic_phase": "-41/17920"
+    },
+    {
+      "translation": "-1/4",
+      "symplectic_phase": "-15201/4587520"
+    },
+    {
+      "translation": "0",
+      "symplectic_phase": "0"
+    },
+    {
+      "translation": "1/4",
+      "symplectic_phase": "15201/4587520"
+    },
+    {
+      "translation": "1/2",
+      "symplectic_phase": "41/17920"
+    },
+    {
+      "translation": "1",
+      "symplectic_phase": "0"
+    },
+    {
+      "translation": "2",
+      "symplectic_phase": "0"
+    }
+  ],
+  "localized_instrument_completeness": true,
+  "local_three_level_record_completion_unitary": true,
+  "vacuum_record_before": "(1+exp(-norm(F_f)^2/2))/2",
+  "vacuum_record_after_local_Wg": "(1+exp(-norm(F_f)^2/2)*cos(sigma(f,g)))/2",
+  "analytic_proofs_not_finite_tests": [
+    "compact-smear Hardy-strip membership and interval-algebra membership",
+    "nontriviality, isotony, locality and affine covariance of intersections",
+    "positive energy, unique translation-invariant vacuum and global cyclicity",
+    "no signaling for arbitrary complete instruments in disjoint intervals"
+  ],
+  "not_claimed": [
+    "bounded-interval vacuum cyclicity",
+    "Haag duality or conformal completion",
+    "four-dimensional causal geometry",
+    "independent selection of the modular pair"
+  ]
+}

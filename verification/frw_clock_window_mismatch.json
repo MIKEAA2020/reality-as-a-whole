@@ -1,0 +1,46 @@
+{
+  "examples": [
+    {
+      "fraction_of_period": 0.125,
+      "width": 1.923824745242796,
+      "min_eigenvalue": 6.253610085264589e-07,
+      "witness_mismatch": 0.7685259624516079,
+      "analytic_lower_bound": 0.5650890271717068
+    },
+    {
+      "fraction_of_period": 0.25,
+      "width": 3.847649490485592,
+      "min_eigenvalue": 4.1867798264556e-05,
+      "witness_mismatch": 0.6054291446892739,
+      "analytic_lower_bound": 0.4823336551294649
+    },
+    {
+      "fraction_of_period": 0.5,
+      "width": 7.695298980971184,
+      "min_eigenvalue": 0.0030085389173811813,
+      "witness_mismatch": 0.30271457234463683,
+      "analytic_lower_bound": 0.24116682756473254
+    },
+    {
+      "fraction_of_period": 0.75,
+      "width": 11.542948471456775,
+      "min_eigenvalue": 0.028124374929533062,
+      "witness_mismatch": 0.06726990496547491,
+      "analytic_lower_bound": 0.05359262834771834
+    },
+    {
+      "fraction_of_period": 1.0,
+      "width": 15.390597961942367,
+      "min_eigenvalue": 0.05008973887229718,
+      "witness_mismatch": 0.0,
+      "analytic_lower_bound": 9.042307722343322e-34
+    }
+  ],
+  "beta": 2.0,
+  "omega": 0.4082482904638631,
+  "tests_run": 5,
+  "failures": 0,
+  "errors": 0,
+  "all_pass": true,
+  "scope": "Finite regulated, selected-state window model only; no general gravity or novelty claim."
+}

@@ -1,0 +1,24 @@
+{
+  "model": "regulated massless-scalar flat FRW branch, periodic log-scale and scalar clock",
+  "N_system_modes": 4,
+  "M_clock_readings": 5,
+  "kappa": 0.4082482904638631,
+  "beta": 2.0,
+  "energies": [
+    0.4082482904638631,
+    0.8164965809277261,
+    1.2247448713915892,
+    1.6329931618554523
+  ],
+  "system_marginal_probabilities": [
+    0.5801611541727744,
+    0.2564181052982051,
+    0.11333100165672363,
+    0.050089738872297174
+  ],
+  "tests_run": 5,
+  "failures": 0,
+  "errors": 0,
+  "all_pass": true,
+  "scope": "Regulated minisuperspace calculation only; no full GR, normal continuum Gibbs state, Shlaer mapping, or UV-completion claim."
+}

@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "energy_constraint": 100.0,
+  "unhalved_diamond_tolerance": 0.01,
+  "sufficient_N_for_conservative_instrument_order_bound": 722,
+  "bound_at_N": 0.00999680235753022,
+  "bound_at_N_minus_one": 0.010017607353066216,
+  "controls": [
+    {
+      "N": 4,
+      "gaussian_record_trace_distance": 1.6678491756577474,
+      "instrument_bound_using_actual_kappa_and_B": 2.0,
+      "instrument_bound_using_tails": 2.0
+    },
+    {
+      "N": 8,
+      "gaussian_record_trace_distance": 0.289664359473693,
+      "instrument_bound_using_actual_kappa_and_B": 1.708935184893677,
+      "instrument_bound_using_tails": 2.0
+    },
+    {
+      "N": 16,
+      "gaussian_record_trace_distance": 0.00037375508881529374,
+      "instrument_bound_using_actual_kappa_and_B": 0.06121650372170166,
+      "instrument_bound_using_tails": 2.0
+    },
+    {
+      "N": 32,
+      "gaussian_record_trace_distance": 2.6291269406195953e-05,
+      "instrument_bound_using_actual_kappa_and_B": 0.01623606347271324,
+      "instrument_bound_using_tails": 1.071376052660934
+    },
+    {
+      "N": 64,
+      "gaussian_record_trace_distance": 7.370277861080478e-07,
+      "instrument_bound_using_actual_kappa_and_B": 0.002718422106919518,
+      "instrument_bound_using_tails": 0.378788636018711
+    },
+    {
+      "N": 128,
+      "gaussian_record_trace_distance": 8.228091799103361e-07,
+      "instrument_bound_using_actual_kappa_and_B": 0.002872265137475498,
+      "instrument_bound_using_tails": 0.13392200658261674
+    },
+    {
+      "N": 256,
+      "gaussian_record_trace_distance": 3.936367954454739e-07,
+      "instrument_bound_using_actual_kappa_and_B": 0.0019866566098838264,
+      "instrument_bound_using_tails": 0.047348579502338874
+    }
+  ],
+  "scope": "same finite-N threshold instruments, all field inputs and arbitrary ancillas with system kinetic-energy bound; not a continuum comparison or local probe"
+}

@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "lattices": [
+    {
+      "n": 7,
+      "sites": 343,
+      "origin_constraint_checks": 1029,
+      "independent_constraints_by_mode_count": 1368,
+      "reduced_canonical_pairs_by_mode_count": 690,
+      "bare_metric_witness": "1/2",
+      "curvature_coefficient_terms": 15,
+      "tt_max_hamiltonian_constraint_residual": 0.0,
+      "tt_curvature_at_origin": 0.30563023348907864,
+      "tt_expected": 0.3056302334890786
+    },
+    {
+      "n": 9,
+      "sites": 729,
+      "origin_constraint_checks": 2187,
+      "independent_constraints_by_mode_count": 2912,
+      "reduced_canonical_pairs_by_mode_count": 1462,
+      "bare_metric_witness": "1/2",
+      "curvature_coefficient_terms": 15,
+      "tt_max_hamiltonian_constraint_residual": 0.0,
+      "tt_curvature_at_origin": 0.20658795558326742,
+      "tt_expected": 0.20658795558326737
+    }
+  ],
+  "scope": "Linearized canonical lattice gravity; no nonlinear or continuum refoliation proof."
+}

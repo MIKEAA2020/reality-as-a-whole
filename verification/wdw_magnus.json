@@ -1,0 +1,19 @@
+{
+  "weak_backreaction": {
+    "mu": 22.0,
+    "R_m": 22.657,
+    "omega0": 22.0,
+    "omegad": 21.9995974,
+    "omega_prime": -1.7769342808007677e-05,
+    "commutator_vanishes": true,
+    "magnus_second_order": 0.0,
+    "off_diagonal_dHdl_max": 0.0,
+    "exact_phase_Phi": 498.4494391459,
+    "static_Killing_phase": 498.454,
+    "constant_dressed_phase": 498.44487829179997,
+    "phase_error_vs_static": 0.004560854100020606,
+    "transition_probability_exact": 0.0,
+    "exact_propagator": "U = exp(-i \u222b omega(l) (n+1/2) dl) with no Magnus corrections",
+    "note": "For pure frequency-shift dressing, [H(l1),H(l2)]=0 identically; the Tomonaga propagator is exactly the integrated phase, justifying WKB/dressed-phase formulae non-perturbatively."
+  }
+}

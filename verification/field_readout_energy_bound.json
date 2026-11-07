@@ -1,0 +1,103 @@
+{
+  "status": "passed",
+  "scope": "finite-mode quadratic Gaussian field model, fixed cosmology; initial energy budget proxy, not GR backreaction",
+  "reference_background_classical_energy": 372.0753201635978,
+  "reference_polarization": 0.6,
+  "memory_bit_flip_probability": 0.1,
+  "weak_coupling": {
+    "lambda": 0.01,
+    "g": 0.01,
+    "transfer": 0.0001414190284402813,
+    "readout_q_coefficient": 0.999775244311321,
+    "other_mode_variance": 0.00010072798242573289,
+    "budgets": [
+      {
+        "budget_over_reference_energy": 0.01,
+        "budget": 3.720753201635978,
+        "gaussian_upper": 0.5002015661279644,
+        "signal_energy": 1.8617696180151697,
+        "readout_kinetic_energy": 1.8589835836208082,
+        "signal_displacement": 1.9296474382721678,
+        "readout_q_variance": 1.1249924569799248,
+        "readout_p_variance": 3.7179671672416164,
+        "readout_qp_covariance": -1.9830998508511457,
+        "readout_final_variance": 0.06731155140931297,
+        "success": 0.5002014151988574
+      },
+      {
+        "budget_over_reference_energy": 0.1,
+        "budget": 37.20753201635978,
+        "gaussian_upper": 0.502015624430539,
+        "signal_energy": 18.74122260423674,
+        "readout_kinetic_energy": 18.46630941212304,
+        "signal_displacement": 6.122290846445755,
+        "readout_q_variance": 10.51399734301112,
+        "readout_p_variance": 36.93261882424608,
+        "readout_qp_covariance": -19.69922476110585,
+        "readout_final_variance": 0.006866769566793166,
+        "success": 0.5020007322439952
+      },
+      {
+        "budget_over_reference_energy": 1.0,
+        "budget": 372.0753201635978,
+        "gaussian_upper": 0.5201194563556704,
+        "signal_energy": 198.22124559607343,
+        "readout_kinetic_energy": 173.85407456752435,
+        "signal_displacement": 19.91086364757056,
+        "readout_q_variance": 98.92272904290881,
+        "readout_p_variance": 347.7081491350487,
+        "readout_qp_covariance": -185.4615567251007,
+        "readout_final_variance": 0.0008193986129705031,
+        "success": 0.5188062285687256
+      },
+      {
+        "budget_over_reference_energy": 10.0,
+        "budget": 3720.753201635978,
+        "gaussian_upper": 0.6697949449412214,
+        "signal_energy": 2480.4628490088344,
+        "readout_kinetic_energy": 1240.2903526271432,
+        "signal_displacement": 70.43383915432744,
+        "readout_q_variance": 705.7184742613763,
+        "readout_p_variance": 2480.5807052542864,
+        "readout_qp_covariance": -1323.0991575064447,
+        "readout_final_variance": 0.0002014655372471247,
+        "success": 0.6241211290702288
+      }
+    ],
+    "necessary_for_70_percent": 4888.60412404489,
+    "family_optimal_for_70_percent": 9705.254379762222,
+    "necessary_over_reference": 13.138748686409569,
+    "family_optimal_over_reference": 26.08411215098846
+  },
+  "strong_candidate": {
+    "lambda": 0.2,
+    "g": 0.2,
+    "modes": "0 through 4",
+    "steps": 1600,
+    "transfer": 0.05619638369487279,
+    "readout_q_coefficient": 0.9101086214897223,
+    "other_mode_variance": 0.054557448273975864,
+    "symplectic_defect": 2.7469693186787936e-13,
+    "budget_over_reference": 0.1,
+    "preparation": {
+      "budget": 37.20753201635978,
+      "gaussian_upper": 0.7399989609002001,
+      "signal_energy": 30.490619848731846,
+      "readout_kinetic_energy": 6.71691216762793,
+      "signal_displacement": 7.809048578249702,
+      "readout_q_variance": 4.157757497992186,
+      "readout_p_variance": 13.43382433525586,
+      "readout_qp_covariance": -7.456848118113976,
+      "readout_final_variance": 0.06997185451896691,
+      "success": 0.7166919170864745
+    },
+    "initial_bare_total_retained_field_energy": 52.45753201635978,
+    "initial_bare_total_over_reference_energy": 0.1409863250088577,
+    "final_bare_free_field_energy": 195.16645030777343,
+    "final_clock_rod_energy_on_fixed_background": 240.45560671778222,
+    "final_bare_fields_over_clock_rods": 0.8116527327925286,
+    "coarse_success": 0.7166919170735109,
+    "six_mode_cutoff_success": 0.7166919170864745
+  },
+  "limitations": "Fixed reference cosmology; QND sign qubit; field interactions quadratic; initial energy proxy excludes reference and memory, switching costs, discarded modes, renormalization and nonlinear gravitational response."
+}

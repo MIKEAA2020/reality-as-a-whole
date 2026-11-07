@@ -1,0 +1,168 @@
+{
+  "status": "passed",
+  "arithmetic": "rational and Gaussian rational; symbolic exponential functions",
+  "core_generator_cases": 81,
+  "generator_recovery": "(log Delta_N - log Delta_M)/(2*pi*a) = positive translation P",
+  "affine_covariance": "D(s) T(a) D(-s) = T(exp(s)*a)",
+  "aklt_supported_modular_frequencies": [
+    {
+      "block_sites": 2,
+      "lambda_scalar": "1/3",
+      "lambda_other": "2/9",
+      "frequency": "log(3/2)",
+      "absolute_frequency_bound": "2/3"
+    },
+    {
+      "block_sites": 3,
+      "lambda_scalar": "2/9",
+      "lambda_other": "7/27",
+      "frequency": "log(6/7)",
+      "absolute_frequency_bound": "2/9"
+    },
+    {
+      "block_sites": 4,
+      "lambda_scalar": "7/27",
+      "lambda_other": "20/81",
+      "frequency": "log(21/20)",
+      "absolute_frequency_bound": "2/27"
+    },
+    {
+      "block_sites": 5,
+      "lambda_scalar": "20/81",
+      "lambda_other": "61/243",
+      "frequency": "log(60/61)",
+      "absolute_frequency_bound": "2/81"
+    },
+    {
+      "block_sites": 6,
+      "lambda_scalar": "61/243",
+      "lambda_other": "182/729",
+      "frequency": "log(183/182)",
+      "absolute_frequency_bound": "2/243"
+    },
+    {
+      "block_sites": 7,
+      "lambda_scalar": "182/729",
+      "lambda_other": "547/2187",
+      "frequency": "log(546/547)",
+      "absolute_frequency_bound": "2/729"
+    },
+    {
+      "block_sites": 8,
+      "lambda_scalar": "547/2187",
+      "lambda_other": "1640/6561",
+      "frequency": "log(1641/1640)",
+      "absolute_frequency_bound": "2/2187"
+    },
+    {
+      "block_sites": 9,
+      "lambda_scalar": "1640/6561",
+      "lambda_other": "4921/19683",
+      "frequency": "log(4920/4921)",
+      "absolute_frequency_bound": "2/6561"
+    },
+    {
+      "block_sites": 10,
+      "lambda_scalar": "4921/19683",
+      "lambda_other": "14762/59049",
+      "frequency": "log(14763/14762)",
+      "absolute_frequency_bound": "2/19683"
+    },
+    {
+      "block_sites": 11,
+      "lambda_scalar": "14762/59049",
+      "lambda_other": "44287/177147",
+      "frequency": "log(44286/44287)",
+      "absolute_frequency_bound": "2/59049"
+    },
+    {
+      "block_sites": 12,
+      "lambda_scalar": "44287/177147",
+      "lambda_other": "132860/531441",
+      "frequency": "log(132861/132860)",
+      "absolute_frequency_bound": "2/177147"
+    }
+  ],
+  "finite_cocycle": {
+    "test_time": "pi/log(2)",
+    "ordinary_group_law": false,
+    "twisted_cocycle_law": true,
+    "fixed_sigma_state_X_before": "8/25",
+    "fixed_sigma_state_X_after_rho_flow": "-8/25"
+  },
+  "weyl_operational_phases": [
+    {
+      "lambda": "1",
+      "dilation_r": "1/2",
+      "symplectic_phase": "2/27"
+    },
+    {
+      "lambda": "1",
+      "dilation_r": "1",
+      "symplectic_phase": "0"
+    },
+    {
+      "lambda": "1",
+      "dilation_r": "2",
+      "symplectic_phase": "-2/27"
+    },
+    {
+      "lambda": "1",
+      "dilation_r": "3",
+      "symplectic_phase": "-3/32"
+    },
+    {
+      "lambda": "2",
+      "dilation_r": "1/2",
+      "symplectic_phase": "1/54"
+    },
+    {
+      "lambda": "2",
+      "dilation_r": "1",
+      "symplectic_phase": "0"
+    },
+    {
+      "lambda": "2",
+      "dilation_r": "2",
+      "symplectic_phase": "-1/54"
+    },
+    {
+      "lambda": "2",
+      "dilation_r": "3",
+      "symplectic_phase": "-3/128"
+    },
+    {
+      "lambda": "3/2",
+      "dilation_r": "1/2",
+      "symplectic_phase": "8/243"
+    },
+    {
+      "lambda": "3/2",
+      "dilation_r": "1",
+      "symplectic_phase": "0"
+    },
+    {
+      "lambda": "3/2",
+      "dilation_r": "2",
+      "symplectic_phase": "-8/243"
+    },
+    {
+      "lambda": "3/2",
+      "dilation_r": "3",
+      "symplectic_phase": "-1/24"
+    }
+  ],
+  "ramsey_record_formula": "p_plus=(1+cos(symplectic_phase))/2",
+  "analytic_not_numerical": [
+    "standard real subspace and proper Hardy-strip inclusion",
+    "Fock modular identification via standard CCR theorem",
+    "half-sided modular inclusion and positive generator closure",
+    "finite-dimensional obstruction and all-block frequency bound"
+  ],
+  "not_derived": [
+    "which state/localization pair is actual",
+    "unique physical clock or metric scale",
+    "complete AQFT net or gravitational time",
+    "phenomenal ownership or absolute necessity"
+  ]
+}

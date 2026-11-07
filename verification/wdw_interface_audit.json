@@ -1,0 +1,39 @@
+{
+  "basis_frequency": 2.0,
+  "quartic_02": {
+    "ladder_calculation": 0.5303300858899107,
+    "correct": 0.5303300858899107,
+    "historical_claim": 0.26516504294495535
+  },
+  "quartic_norm_ratios": [
+    {
+      "n": 0,
+      "expectation": 0.1875,
+      "norm_over_H_plus_one": 0.3202172114362375
+    },
+    {
+      "n": 5,
+      "expectation": 11.4375,
+      "norm_over_H_plus_one": 1.3927301481712098
+    },
+    {
+      "n": 20,
+      "expectation": 157.6875,
+      "norm_over_H_plus_one": 5.253988882891514
+    },
+    {
+      "n": 60,
+      "expectation": 1372.6875,
+      "norm_over_H_plus_one": 15.695946370795522
+    }
+  ],
+  "different_frequency_commutator_20": {
+    "ladder_calculation": 1.2445079348883237,
+    "expected": 1.2445079348883237
+  },
+  "sqrt_vs_linear_energy_ratio": {
+    "square_root": 1.7320508075688772,
+    "number_operator": 3
+  },
+  "scope": "finite low-state checks; no gravitational or self-adjointness proof"
+}

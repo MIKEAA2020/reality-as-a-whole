@@ -1,0 +1,37 @@
+test_01_vertex_embeddings (test_model.CompletionTests.test_01_vertex_embeddings) ... ok
+test_02_product_order_refinement (test_model.CompletionTests.test_02_product_order_refinement) ... ok
+test_03_direct_limit_identification (test_model.CompletionTests.test_03_direct_limit_identification) ... ok
+test_04_rank_midpoint_not_metric_midpoint (test_model.CompletionTests.test_04_rank_midpoint_not_metric_midpoint) ... ok
+test_05_cut_brackets_shrink (test_model.CompletionTests.test_05_cut_brackets_shrink) ... ok
+test_06_binary_endpoint_identification (test_model.CompletionTests.test_06_binary_endpoint_identification) ... ok
+test_07_same_point_distinct_address_limits (test_model.CompletionTests.test_07_same_point_distinct_address_limits) ... ok
+test_08_prefix_cylinders_are_disjoint (test_model.CompletionTests.test_08_prefix_cylinders_are_disjoint) ... ok
+test_09_uniform_consistency (test_model.CompletionTests.test_09_uniform_consistency) ... ok
+test_10_affine_consistency (test_model.CompletionTests.test_10_affine_consistency) ... ok
+test_11_biased_consistency (test_model.CompletionTests.test_11_biased_consistency) ... ok
+test_12_late_bias_matches_every_observed_prefix (test_model.CompletionTests.test_12_late_bias_matches_every_observed_prefix) ... ok
+test_13_unobserved_tail_can_differ (test_model.CompletionTests.test_13_unobserved_tail_can_differ) ... ok
+test_14_inconsistent_values_detected (test_model.CompletionTests.test_14_inconsistent_values_detected) ... ok
+test_15_boundary_address_positivity_consistency (test_model.CompletionTests.test_15_boundary_address_positivity_consistency) ... ok
+test_16_cell_decay_not_sufficient_for_strip_decay (test_model.CompletionTests.test_16_cell_decay_not_sufficient_for_strip_decay) ... ok
+test_17_nested_halfopen_strips_empty_with_positive_mass (test_model.CompletionTests.test_17_nested_halfopen_strips_empty_with_positive_mass) ... ok
+test_18_uniform_strip_decay (test_model.CompletionTests.test_18_uniform_strip_decay) ... ok
+test_19_biased_strip_decay (test_model.CompletionTests.test_19_biased_strip_decay) ... ok
+test_20_affine_density_bounds (test_model.CompletionTests.test_20_affine_density_bounds) ... ok
+test_21_affine_neighbour_modulus (test_model.CompletionTests.test_21_affine_neighbour_modulus) ... ok
+test_22_affine_uniform_error_bound (test_model.CompletionTests.test_22_affine_uniform_error_bound) ... ok
+test_23_affine_completion_is_curved (test_model.CompletionTests.test_23_affine_completion_is_curved) ... ok
+test_24_jump_density_is_bounded_and_consistent (test_model.CompletionTests.test_24_jump_density_is_bounded_and_consistent) ... ok
+test_25_uniform_cauchy_does_not_imply_continuity (test_model.CompletionTests.test_25_uniform_cauchy_does_not_imply_continuity) ... ok
+test_26_biased_density_bounds_fail (test_model.CompletionTests.test_26_biased_density_bounds_fail) ... ok
+test_27_quantile_refinement_coherence (test_model.CompletionTests.test_27_quantile_refinement_coherence) ... ok
+test_28_product_quantile_rectangle_measure (test_model.CompletionTests.test_28_product_quantile_rectangle_measure) ... ok
+test_29_quantiles_strictly_increasing (test_model.CompletionTests.test_29_quantiles_strictly_increasing) ... ok
+test_30_affine_coarse_weights_not_rankone (test_model.CompletionTests.test_30_affine_coarse_weights_not_rankone) ... ok
+test_31_total_mass_preserved (test_model.CompletionTests.test_31_total_mass_preserved) ... ok
+test_32_validation (test_model.CompletionTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.216s
+
+OK

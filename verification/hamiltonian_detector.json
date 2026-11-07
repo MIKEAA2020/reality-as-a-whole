@@ -1,0 +1,186 @@
+{
+  "status": "passed",
+  "units": "hbar=1",
+  "scalar_scattering_checks": 243,
+  "max_independent_boundary_matching_discrepancy": 4.0174581539464866e-16,
+  "hamiltonian": "P^2/(2m) + g 1_[0,L](X) (|1><1|_S tensor Y_D)",
+  "free_system_and_detector_hamiltonians": "zero (degenerate baseline)",
+  "detector_ready_state": "|0>_D",
+  "ideal_pointer_instrument": [
+    "P0",
+    "P1"
+  ],
+  "clock_packet": "cos(pi*(p-p0)/(2*Delta))/sqrt(Delta), compact positive momentum band",
+  "parameter_cases": [
+    {
+      "mass": 1,
+      "p0": 10,
+      "g": 1,
+      "momentum_half_band": 0.1,
+      "nominal_length": 15.707963267948966,
+      "length_calibration_half_band": 0.0,
+      "ideal_detector_angle": 1.5707963267948966,
+      "nominal_length_weak_coupling_bandwidth_failure_limit_numerical": 3.224891139071848e-05,
+      "clock_mean_free_energy": 50.00065345483024,
+      "packet_position_standard_deviation": 15.707963267948966,
+      "packet_momentum_standard_deviation": 0.0361512055191328,
+      "uniform_analytic_bounds": {
+        "delta_max": 0.020406081012141617,
+        "impedance_amplitude_bound": 5.313388943682358e-05,
+        "phase_curvature_bound": 0.00834862928282079,
+        "momentum_spread_phase_bound": 0.015866629563584814,
+        "spatial_calibration_phase_bound": 0.0,
+        "reflection_probability_bound": 0.00010627060208385385,
+        "transmitted_operator_error_bound": 0.02426839273584243,
+        "outgoing_vector_error_bound": 0.02636712893101832,
+        "any_event_probability_error_bound": 0.02636712893101832,
+        "wrong_pointer_or_reflection_bound_for_system_1": 0.0006952254880649433
+      },
+      "packet_numerical_witnesses": [
+        {
+          "actual_length": 15.707963267948966,
+          "quadrature_512_1024_max_difference": 5.076477432863769e-13,
+          "reflection": 7.500629952126171e-05,
+          "wrong_transmitted_pointer": 3.226947398581163e-05,
+          "normalization": 0.9999999999999999,
+          "plus_input_full_outgoing_trace_distance": 0.008310591451094763,
+          "wrong_pointer_or_reflection_system_1": 0.00010727577350707334
+        }
+      ]
+    },
+    {
+      "mass": 1,
+      "p0": 10,
+      "g": 0.1,
+      "momentum_half_band": 0.1,
+      "nominal_length": 157.07963267948963,
+      "length_calibration_half_band": 0.0,
+      "ideal_detector_angle": 1.5707963267948966,
+      "nominal_length_weak_coupling_bandwidth_failure_limit_numerical": 3.224891139071848e-05,
+      "clock_mean_free_energy": 50.00065345483024,
+      "packet_position_standard_deviation": 15.707963267948966,
+      "packet_momentum_standard_deviation": 0.0361512055191328,
+      "uniform_analytic_bounds": {
+        "delta_max": 0.002040608101214162,
+        "impedance_amplitude_bound": 5.215743709870814e-07,
+        "phase_curvature_bound": 0.0008119232782145004,
+        "momentum_spread_phase_bound": 0.015866629563584814,
+        "spatial_calibration_phase_bound": 0.0,
+        "reflection_probability_bound": 1.0431490140139872e-06,
+        "transmitted_operator_error_bound": 0.0166790744161703,
+        "outgoing_vector_error_bound": 0.016710316346322134,
+        "any_event_probability_error_bound": 0.016710316346322134,
+        "wrong_pointer_or_reflection_bound_for_system_1": 0.0002792346723941607
+      },
+      "packet_numerical_witnesses": [
+        {
+          "actual_length": 157.07963267948963,
+          "quadrature_512_1024_max_difference": 1.1469245692063978e-12,
+          "reflection": 5.000669350143602e-07,
+          "wrong_transmitted_pointer": 3.224908941629778e-05,
+          "normalization": 0.9999999999999999,
+          "plus_input_full_outgoing_trace_distance": 0.0040655994671206465,
+          "wrong_pointer_or_reflection_system_1": 3.274915635131214e-05
+        }
+      ]
+    },
+    {
+      "mass": 1,
+      "p0": 10,
+      "g": 0.1,
+      "momentum_half_band": 0.02,
+      "nominal_length": 157.07963267948963,
+      "length_calibration_half_band": 0.0,
+      "ideal_detector_angle": 1.5707963267948966,
+      "nominal_length_weak_coupling_bandwidth_failure_limit_numerical": 1.2898716668199311e-06,
+      "clock_mean_free_energy": 50.000026138193206,
+      "packet_position_standard_deviation": 78.53981633974483,
+      "packet_momentum_standard_deviation": 0.007230241103826559,
+      "uniform_analytic_bounds": {
+        "delta_max": 0.0020080240641603847,
+        "impedance_amplitude_bound": 5.050340735802437e-07,
+        "phase_curvature_bound": 0.0007925153510665683,
+        "momentum_spread_phase_bound": 0.0031478884304506935,
+        "spatial_calibration_phase_bound": 0.0,
+        "reflection_probability_bound": 1.0100684022199027e-06,
+        "transmitted_operator_error_bound": 0.003940908815590842,
+        "outgoing_vector_error_bound": 0.004067042008022725,
+        "any_event_probability_error_bound": 0.004067042008022725,
+        "wrong_pointer_or_reflection_bound_for_system_1": 1.6540830695021516e-05
+      },
+      "packet_numerical_witnesses": [
+        {
+          "actual_length": 157.07963267948963,
+          "quadrature_512_1024_max_difference": 2.167803696967452e-13,
+          "reflection": 5.000026949776221e-07,
+          "wrong_transmitted_pointer": 1.2898801280622572e-06,
+          "normalization": 0.9999999999999996,
+          "plus_input_full_outgoing_trace_distance": 0.0010242836430418409,
+          "wrong_pointer_or_reflection_system_1": 1.7898828230398792e-06
+        }
+      ]
+    },
+    {
+      "mass": 1,
+      "p0": 10,
+      "g": 0.1,
+      "momentum_half_band": 0.1,
+      "nominal_length": 157.07963267948963,
+      "length_calibration_half_band": 1.5707963267948963,
+      "ideal_detector_angle": 1.5707963267948966,
+      "nominal_length_weak_coupling_bandwidth_failure_limit_numerical": 3.224891139071848e-05,
+      "clock_mean_free_energy": 50.00065345483024,
+      "packet_position_standard_deviation": 15.707963267948966,
+      "packet_momentum_standard_deviation": 0.0361512055191328,
+      "uniform_analytic_bounds": {
+        "delta_max": 0.002040608101214162,
+        "impedance_amplitude_bound": 5.215743709870814e-07,
+        "phase_curvature_bound": 0.0008200425109966453,
+        "momentum_spread_phase_bound": 0.015866629563584814,
+        "spatial_calibration_phase_bound": 0.015866629563584814,
+        "reflection_probability_bound": 1.0431490140139872e-06,
+        "transmitted_operator_error_bound": 0.03255382321253726,
+        "outgoing_vector_error_bound": 0.032569841184248105,
+        "any_event_probability_error_bound": 0.032569841184248105,
+        "wrong_pointer_or_reflection_bound_for_system_1": 0.001060794554767144
+      },
+      "packet_numerical_witnesses": [
+        {
+          "actual_length": 155.50883635269474,
+          "quadrature_512_1024_max_difference": 4.1399002281838904e-13,
+          "reflection": 5.001181466224805e-07,
+          "wrong_transmitted_pointer": 0.0002776487185711764,
+          "normalization": 0.9999999999999999,
+          "plus_input_full_outgoing_trace_distance": 0.011799766099347315,
+          "wrong_pointer_or_reflection_system_1": 0.00027814883671779887
+        },
+        {
+          "actual_length": 157.07963267948963,
+          "quadrature_512_1024_max_difference": 1.1469245692063978e-12,
+          "reflection": 5.000669350143602e-07,
+          "wrong_transmitted_pointer": 3.224908941629778e-05,
+          "normalization": 0.9999999999999999,
+          "plus_input_full_outgoing_trace_distance": 0.0040655994671206465,
+          "wrong_pointer_or_reflection_system_1": 3.274915635131214e-05
+        },
+        {
+          "actual_length": 158.65042900628453,
+          "quadrature_512_1024_max_difference": 2.996665415810895e-13,
+          "reflection": 5.000187351800696e-07,
+          "wrong_transmitted_pointer": 0.0002802768519521933,
+          "normalization": 0.9999999999999999,
+          "plus_input_full_outgoing_trace_distance": 0.011855589313406883,
+          "wrong_pointer_or_reflection_system_1": 0.0002807768706873734
+        }
+      ]
+    }
+  ],
+  "interpretation": [
+    "analytic inequalities, not grid sampling, provide the uniform model bound",
+    "quadratures and boundary comparisons are floating-point witnesses, not interval certificates",
+    "preparation is an asymptotic incoming scattering state; bound states are excluded from that preparation, not from H",
+    "position description retains reflected orientation and flux; no single-branch first-order reduction is claimed",
+    "auxiliary T-constraint rigging and matched-event equivalence are derived analytically in the report",
+    "not calibrated to the released cold-atom images, and not a gravitational constraint model"
+  ]
+}

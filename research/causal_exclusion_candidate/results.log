@@ -1,0 +1,21 @@
+test_01_stochastic_kernels (test_model.CausalExclusionTests.test_01_stochastic_kernels) ... ok
+test_02_source_score_derived (test_model.CausalExclusionTests.test_02_source_score_derived) ... ok
+test_03_independent_whole_factorizes (test_model.CausalExclusionTests.test_03_independent_whole_factorizes) ... ok
+test_04_independent_cores_selected (test_model.CausalExclusionTests.test_04_independent_cores_selected) ... ok
+test_05_source_excludes_its_monitor_in_fixture (test_model.CausalExclusionTests.test_05_source_excludes_its_monitor_in_fixture) ... ok
+test_06_monitor_only_score_zero (test_model.CausalExclusionTests.test_06_monitor_only_score_zero) ... ok
+test_07_weak_bridge_does_not_merge (test_model.CausalExclusionTests.test_07_weak_bridge_does_not_merge) ... ok
+test_08_weak_bridge_whole_score_positive (test_model.CausalExclusionTests.test_08_weak_bridge_whole_score_positive) ... ok
+test_09_strong_bridge_whole_selected (test_model.CausalExclusionTests.test_09_strong_bridge_whole_selected) ... ok
+test_10_boundary_switch_is_comparison_not_positive_support (test_model.CausalExclusionTests.test_10_boundary_switch_is_comparison_not_positive_support) ... ok
+test_11_score_bounds (test_model.CausalExclusionTests.test_11_score_bounds) ... ok
+test_12_physical_coordinate_permutation_covariance (test_model.CausalExclusionTests.test_12_physical_coordinate_permutation_covariance) ... ok
+test_13_temporal_grain_counterexample (test_model.CausalExclusionTests.test_13_temporal_grain_counterexample) ... ok
+test_14_feedforward_counterexample (test_model.CausalExclusionTests.test_14_feedforward_counterexample) ... ok
+test_15_identity_kernel_not_integrated (test_model.CausalExclusionTests.test_15_identity_kernel_not_integrated) ... ok
+test_16_validation (test_model.CausalExclusionTests.test_16_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.082s
+
+OK

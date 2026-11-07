@@ -1,0 +1,160 @@
+{
+  "scope": "finite spatial CAR composite in pulled-back conformal states, not Wilson ground states",
+  "alpha": 0.2,
+  "midpoint": 0.4,
+  "continuum_relative_stress": -0.010705584509218278,
+  "fixed_counts": [
+    {
+      "cells_between_centers": 2,
+      "shape_factor": 1.0464962875290957,
+      "predicted_raw_limit": -0.011203354444725923,
+      "values": [
+        {
+          "spacing": 0.02,
+          "point_separation": 0.04,
+          "raw_stress": -0.011203728193683265,
+          "calibrated_stress": -0.010705941652346061,
+          "calibrated_error": 3.5714312778337143e-07
+        },
+        {
+          "spacing": 0.01,
+          "point_separation": 0.02,
+          "raw_stress": -0.011203447931420106,
+          "calibrated_stress": -0.01070567384225777,
+          "calibrated_error": 8.93330394918096e-08
+        },
+        {
+          "spacing": 0.005,
+          "point_separation": 0.01,
+          "raw_stress": -0.011203377819491272,
+          "calibrated_stress": -0.010705606845432583,
+          "calibrated_error": 2.2336214305224145e-08
+        },
+        {
+          "spacing": 0.001,
+          "point_separation": 0.002,
+          "raw_stress": -0.011203355379756117,
+          "calibrated_stress": -0.01070558540270467,
+          "calibrated_error": 8.934863925114112e-10
+        }
+      ]
+    },
+    {
+      "cells_between_centers": 4,
+      "shape_factor": 1.010686156862824,
+      "predicted_raw_limit": -0.010819986064592004,
+      "values": [
+        {
+          "spacing": 0.02,
+          "point_separation": 0.08,
+          "raw_stress": -0.010822034888495643,
+          "calibrated_stress": -0.010707611670557856,
+          "calibrated_error": 2.0271613395787813e-06
+        },
+        {
+          "spacing": 0.01,
+          "point_separation": 0.04,
+          "raw_stress": -0.010820498771036581,
+          "calibrated_stress": -0.0107060917947303,
+          "calibrated_error": 5.072855120222958e-07
+        },
+        {
+          "spacing": 0.005,
+          "point_separation": 0.02,
+          "raw_stress": -0.010820114272502871,
+          "calibrated_stress": -0.01070571136156507,
+          "calibrated_error": 1.268523467917032e-07
+        },
+        {
+          "spacing": 0.001,
+          "point_separation": 0.004,
+          "raw_stress": -0.01081999119330915,
+          "calibrated_stress": -0.010705589583708625,
+          "calibrated_error": 5.074490347020677e-09
+        }
+      ]
+    },
+    {
+      "cells_between_centers": 8,
+      "shape_factor": 1.002620580286342,
+      "predicted_raw_limit": -0.010733639352936903,
+      "values": [
+        {
+          "spacing": 0.02,
+          "point_separation": 0.16,
+          "raw_stress": -0.010742339841918155,
+          "calibrated_stress": -0.01071426225746355,
+          "calibrated_error": 8.677748245271635e-06
+        },
+        {
+          "spacing": 0.01,
+          "point_separation": 0.08,
+          "raw_stress": -0.010735821432872251,
+          "calibrated_stress": -0.010707760885784103,
+          "calibrated_error": 2.176376565824964e-06
+        },
+        {
+          "spacing": 0.005,
+          "point_separation": 0.04,
+          "raw_stress": -0.010734185308673238,
+          "calibrated_stress": -0.010706129037973293,
+          "calibrated_error": 5.445287550153582e-07
+        },
+        {
+          "spacing": 0.001,
+          "point_separation": 0.008,
+          "raw_stress": -0.01073366119674703,
+          "calibrated_stress": -0.010705606295934566,
+          "calibrated_error": 2.1786716288690888e-08
+        }
+      ]
+    }
+  ],
+  "mesoscopic": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "separation": 0.125,
+      "raw_stress": -0.010738958528034729,
+      "error": 3.337401881645108e-05,
+      "a_over_h": 0.125
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "separation": 0.0625,
+      "raw_stress": -0.010713917700883775,
+      "error": 8.333191665496967e-06,
+      "a_over_h": 0.0625
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "separation": 0.03125,
+      "raw_stress": -0.010707667168574204,
+      "error": 2.0826593559262335e-06,
+      "a_over_h": 0.03125
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "separation": 0.015625,
+      "raw_stress": -0.010706105134239346,
+      "error": 5.206250210682689e-07,
+      "a_over_h": 0.015625
+    }
+  ],
+  "finite_fock_check": {
+    "spacing": 0.02,
+    "n": 4,
+    "covariance_eigenvalues": [
+      0.45976894702433296,
+      0.5402310529756671
+    ],
+    "density_trace": 1.0,
+    "operator_expectation_difference": -0.010822034888406051,
+    "stable_kernel_expression": -0.010822034888495643,
+    "difference": 8.959152864029818e-14,
+    "current_product_diagonal_norm": 1963.4954084936207
+  }
+}

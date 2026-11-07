@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "scope": "fixed triangular-smear, Gaussian state and two-memory instrument; 1D regulated free field",
+  "requirements": {
+    "two_record_ordering_tv_max": 0.0001,
+    "source_energy_error_max": 0.1
+  },
+  "certified_minimum_N_for_these_sufficient_bounds": 995,
+  "separate_bound_minima": {
+    "ordering": 81,
+    "energy": 995
+  },
+  "at_N": {
+    "ordering_tv_bound": 5.385544697533621e-08,
+    "energy_error_bound": 0.0999716979220448,
+    "actual_computed_ordering_tv": 3.7969351571015837e-11,
+    "actual_computed_energy_error": 0.0375761362957423,
+    "signal_energy": 15.587423863704254
+  },
+  "limitations": "Sufficient bounds only; does not prove smaller cutoff fails, detector correctness, quantum gravity or full stress-energy control."
+}

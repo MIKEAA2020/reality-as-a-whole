@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "enumerated_setting_quadruples": 20736,
+  "pair_dot_classes": {
+    "same_or_opposite": 24,
+    "distinct_axes": 120
+  },
+  "singlet_max": 2.341640786499874,
+  "singlet_maximizers": 960,
+  "all_score_magnitudes": {
+    "2.3416407865": 960,
+    "2.0": 1536,
+    "1.788854382": 960,
+    "1.4472135955": 2880,
+    "0.894427191": 7680,
+    "0.5527864045": 2880,
+    "0.3416407865": 960,
+    "0.0": 2880
+  },
+  "any_two_qubit_state_max": 2.6832815729997477,
+  "witness_expected_value": 2.683281572999747,
+  "friend_gate_comparator": 2.8,
+  "friend_gate_gap": 0.11671842700025215,
+  "visibility_threshold_for_friend_gate_family": 0.9583148474999099,
+  "scope": "Ideal dichotomic qubit Pauli observables chosen from 12 vertices on each side, arbitrary bipartite quantum state for the general bound; singlet bound additionally assumes aligned frames and singlet correlations. Not an OPH-wide prediction or an experimental data comparison."
+}

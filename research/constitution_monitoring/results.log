@@ -1,0 +1,29 @@
+test_01_sixteen_binary_candidates (test_model.MonitoringAuditTests.test_01_sixteen_binary_candidates) ... ok
+test_02_thirty_six_interventions (test_model.MonitoringAuditTests.test_02_thirty_six_interventions) ... ok
+test_03_all_public_signatures_identical (test_model.MonitoringAuditTests.test_03_all_public_signatures_identical) ... ok
+test_04_default_monitor_copies_source (test_model.MonitoringAuditTests.test_04_default_monitor_copies_source) ... ok
+test_05_monitor_intervention_preserves_source_and_report (test_model.MonitoringAuditTests.test_05_monitor_intervention_preserves_source_and_report) ... ok
+test_06_source_intervention_changes_default_monitor_and_report (test_model.MonitoringAuditTests.test_06_source_intervention_changes_default_monitor_and_report) ... ok
+test_07_monitor_clamp_cuts_copy_edge (test_model.MonitoringAuditTests.test_07_monitor_clamp_cuts_copy_edge) ... ok
+test_08_baseline_leaves_four_candidates (test_model.MonitoringAuditTests.test_08_baseline_leaves_four_candidates) ... ok
+test_09_baseline_does_not_select_source (test_model.MonitoringAuditTests.test_09_baseline_does_not_select_source) ... ok
+test_10_one_discordant_contrast_leaves_two (test_model.MonitoringAuditTests.test_10_one_discordant_contrast_leaves_two) ... ok
+test_11_other_discordant_contrast_leaves_two (test_model.MonitoringAuditTests.test_11_other_discordant_contrast_leaves_two) ... ok
+test_12_both_contrasts_select_source_conditionally (test_model.MonitoringAuditTests.test_12_both_contrasts_select_source_conditionally) ... ok
+test_13_opposite_evidence_selects_monitor (test_model.MonitoringAuditTests.test_13_opposite_evidence_selects_monitor) ... ok
+test_14_zero_discordants_select_conjunction (test_model.MonitoringAuditTests.test_14_zero_discordants_select_conjunction) ... ok
+test_15_one_discordants_select_disjunction (test_model.MonitoringAuditTests.test_15_one_discordants_select_disjunction) ... ok
+test_16_exact_minimal_design (test_model.MonitoringAuditTests.test_16_exact_minimal_design) ... ok
+test_17_all_candidates_need_all_four_states (test_model.MonitoringAuditTests.test_17_all_candidates_need_all_four_states) ... ok
+test_18_assuming_report_faithfulness_selects_source (test_model.MonitoringAuditTests.test_18_assuming_report_faithfulness_selects_source) ... ok
+test_19_no_report_does_not_select_an_annotation (test_model.MonitoringAuditTests.test_19_no_report_does_not_select_an_annotation) ... ok
+test_20_ambiguous_evidence_preserves_candidates (test_model.MonitoringAuditTests.test_20_ambiguous_evidence_preserves_candidates) ... ok
+test_21_inconsistent_evidence_rejects_all (test_model.MonitoringAuditTests.test_21_inconsistent_evidence_rejects_all) ... ok
+test_22_coordinate_support_is_target_relative (test_model.MonitoringAuditTests.test_22_coordinate_support_is_target_relative) ... ok
+test_23_restricted_interventions_hide_off_diagonal_differences (test_model.MonitoringAuditTests.test_23_restricted_interventions_hide_off_diagonal_differences) ... ok
+test_24_repeated_simulation_does_not_add_information (test_model.MonitoringAuditTests.test_24_repeated_simulation_does_not_add_information) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.003s
+
+OK

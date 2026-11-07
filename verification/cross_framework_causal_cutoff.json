@@ -1,0 +1,197 @@
+{
+  "status": "passed",
+  "model": "one-dimensional cosine-mode sector at a=1; separate sine-inclusive control",
+  "triangular_smearing_halfwidth": 0.4,
+  "centre_separation": 1.5707963267948966,
+  "source_displacement": 1.0,
+  "memory_bit_flip_probability": 0.1,
+  "continuum_energy": 15.624999999999996,
+  "cosine_modes": [
+    {
+      "nmax": 4,
+      "commutator_overlap": 0.07900677794452476,
+      "readout_variance": 0.2563641357808279,
+      "ideal_sign_contrast": 0.12399844421021207,
+      "two_noisy_record_tv_between_signals": 0.09919875536816966,
+      "equal_prior_success": 0.5495993776840848,
+      "two_record_ordering_tv": 0.04959937768408483,
+      "signal_energy": 3.496626737519204,
+      "analytic_overlap_tail_bound": 1.0361649940878601,
+      "analytic_energy_tail_bound": 24.867959858108645
+    },
+    {
+      "nmax": 8,
+      "commutator_overlap": 0.011653398553436538,
+      "readout_variance": 0.2690480033106946,
+      "ideal_sign_contrast": 0.01792426024755892,
+      "two_noisy_record_tv_between_signals": 0.014339408198047136,
+      "equal_prior_success": 0.5071697040990236,
+      "two_record_ordering_tv": 0.007169704099023568,
+      "signal_energy": 11.042680550277202,
+      "analytic_overlap_tail_bound": 0.12952062426098251,
+      "analytic_energy_tail_bound": 12.433979929054322
+    },
+    {
+      "nmax": 16,
+      "commutator_overlap": -1.5096315771989432e-05,
+      "readout_variance": 0.2698135718888133,
+      "ideal_sign_contrast": 2.318884604483293e-05,
+      "two_noisy_record_tv_between_signals": 1.8551076835866343e-05,
+      "equal_prior_success": 0.5000092755384179,
+      "two_record_ordering_tv": 9.275538417933171e-06,
+      "signal_energy": 13.370428562040447,
+      "analytic_overlap_tail_bound": 0.016190078032622814,
+      "analytic_energy_tail_bound": 6.216989964527161
+    },
+    {
+      "nmax": 32,
+      "commutator_overlap": -1.063260755385729e-06,
+      "readout_variance": 0.26985996024613695,
+      "ideal_sign_contrast": 1.6330918820045878e-06,
+      "two_noisy_record_tv_between_signals": 1.3064735056036703e-06,
+      "equal_prior_success": 0.5000006532367528,
+      "two_record_ordering_tv": 6.532367528018351e-07,
+      "signal_energy": 14.455178180737448,
+      "analytic_overlap_tail_bound": 0.002023759754077852,
+      "analytic_energy_tail_bound": 3.1084949822635806
+    },
+    {
+      "nmax": 64,
+      "commutator_overlap": -2.981229609360069e-08,
+      "readout_variance": 0.2698638520183908,
+      "ideal_sign_contrast": 4.578920780122354e-08,
+      "two_noisy_record_tv_between_signals": 3.663136624097884e-08,
+      "equal_prior_success": 0.5000000183156831,
+      "two_record_ordering_tv": 1.831568312048942e-08,
+      "signal_energy": 15.033695702606549,
+      "analytic_overlap_tail_bound": 0.0002529699692597315,
+      "analytic_energy_tail_bound": 1.5542474911317903
+    },
+    {
+      "nmax": 128,
+      "commutator_overlap": 3.3282951729673987e-08,
+      "readout_variance": 0.2698641214232761,
+      "ideal_sign_contrast": 5.111982074442762e-08,
+      "two_noisy_record_tv_between_signals": 4.0895856595542094e-08,
+      "equal_prior_success": 0.5000000204479284,
+      "two_record_ordering_tv": 2.0447928297771047e-08,
+      "signal_energy": 15.32873288048499,
+      "analytic_overlap_tail_bound": 3.1621246157466434e-05,
+      "analytic_energy_tail_bound": 0.7771237455658951
+    },
+    {
+      "nmax": 256,
+      "commutator_overlap": 1.5922813622952032e-08,
+      "readout_variance": 0.26986413869930725,
+      "ideal_sign_contrast": 2.445610469615638e-08,
+      "two_noisy_record_tv_between_signals": 1.9564883756925105e-08,
+      "equal_prior_success": 0.5000000097824419,
+      "two_record_ordering_tv": 9.782441878462553e-09,
+      "signal_energy": 15.477683273620897,
+      "analytic_overlap_tail_bound": 3.952655769683304e-06,
+      "analytic_energy_tail_bound": 0.38856187278294757
+    }
+  ],
+  "sine_inclusive_control": [
+    {
+      "nmax": 4,
+      "commutator_overlap": 0.07900677794452476,
+      "readout_variance": 0.4529345857771124,
+      "ideal_sign_contrast": 0.09345231311362057,
+      "two_noisy_record_tv_between_signals": 0.07476185049089645,
+      "equal_prior_success": 0.5373809252454482,
+      "two_record_ordering_tv": 0.03738092524544823,
+      "signal_energy": 3.496626737519204,
+      "analytic_overlap_tail_bound": 1.0361649940878601,
+      "analytic_energy_tail_bound": 24.867959858108645
+    },
+    {
+      "nmax": 8,
+      "commutator_overlap": 0.011653398553436538,
+      "readout_variance": 0.4871589517217549,
+      "ideal_sign_contrast": 0.013321009577803323,
+      "two_noisy_record_tv_between_signals": 0.010656807662242659,
+      "equal_prior_success": 0.5053284038311213,
+      "two_record_ordering_tv": 0.0053284038311213295,
+      "signal_energy": 11.042680550277202,
+      "analytic_overlap_tail_bound": 0.12952062426098251,
+      "analytic_energy_tail_bound": 12.433979929054322
+    },
+    {
+      "nmax": 16,
+      "commutator_overlap": -1.5096315771989432e-05,
+      "readout_variance": 0.48972253345849354,
+      "ideal_sign_contrast": 1.7212184358672802e-05,
+      "two_noisy_record_tv_between_signals": 1.3769747486938242e-05,
+      "equal_prior_success": 0.5000068848737435,
+      "two_record_ordering_tv": 6.884873743469121e-06,
+      "signal_energy": 13.370428562040447,
+      "analytic_overlap_tail_bound": 0.016190078032622814,
+      "analytic_energy_tail_bound": 6.216989964527161
+    },
+    {
+      "nmax": 32,
+      "commutator_overlap": -1.063260755385729e-06,
+      "readout_variance": 0.48981528496892407,
+      "ideal_sign_contrast": 1.2121704126144973e-06,
+      "two_noisy_record_tv_between_signals": 9.697363300915978e-07,
+      "equal_prior_success": 0.5000004848681651,
+      "two_record_ordering_tv": 4.848681650457989e-07,
+      "signal_energy": 14.455178180737448,
+      "analytic_overlap_tail_bound": 0.002023759754077852,
+      "analytic_energy_tail_bound": 3.1084949822635806
+    },
+    {
+      "nmax": 64,
+      "commutator_overlap": -2.981229609360069e-08,
+      "readout_variance": 0.489823068023622,
+      "ideal_sign_contrast": 3.3987237813603433e-08,
+      "two_noisy_record_tv_between_signals": 2.7189790250882748e-08,
+      "equal_prior_success": 0.5000000135948951,
+      "two_record_ordering_tv": 1.3594895125441374e-08,
+      "signal_energy": 15.033695702606549,
+      "analytic_overlap_tail_bound": 0.0002529699692597315,
+      "analytic_energy_tail_bound": 1.5542474911317903
+    },
+    {
+      "nmax": 128,
+      "commutator_overlap": 3.3282951729673987e-08,
+      "readout_variance": 0.4898236070125775,
+      "ideal_sign_contrast": 3.794390642218545e-08,
+      "two_noisy_record_tv_between_signals": 3.035512513774836e-08,
+      "equal_prior_success": 0.5000000151775625,
+      "two_record_ordering_tv": 1.517756256887418e-08,
+      "signal_energy": 15.32873288048499,
+      "analytic_overlap_tail_bound": 3.1621246157466434e-05,
+      "analytic_energy_tail_bound": 0.7771237455658951
+    },
+    {
+      "nmax": 256,
+      "commutator_overlap": 1.5922813622952032e-08,
+      "readout_variance": 0.48982364164398307,
+      "ideal_sign_contrast": 1.8152648648360378e-08,
+      "two_noisy_record_tv_between_signals": 1.4522118918688302e-08,
+      "equal_prior_success": 0.5000000072610594,
+      "two_record_ordering_tv": 7.261059459344151e-09,
+      "signal_energy": 15.477683273620897,
+      "analytic_overlap_tail_bound": 3.952655769683304e-06,
+      "analytic_energy_tail_bound": 0.38856187278294757
+    }
+  ],
+  "two_bit_order_comparison_n4": {
+    "source_before_readout": {
+      "00": 0.4595993776840848,
+      "01": 0.09,
+      "10": 0.09,
+      "11": 0.36040062231591524
+    },
+    "readout_before_source": {
+      "00": 0.41000000000000003,
+      "01": 0.09000000000000001,
+      "10": 0.09000000000000001,
+      "11": 0.41000000000000003
+    },
+    "tv": 0.0495993776840848
+  },
+  "scope": "Regulator artifact; not superluminal signalling in a local continuum theory or a nonlinear GR refoliation test."
+}

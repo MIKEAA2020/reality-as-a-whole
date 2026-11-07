@@ -1,0 +1,178 @@
+{
+  "status": "passed",
+  "scope": "finite descriptive evidence and stipulated fulfillment only",
+  "factivity_checks": 192,
+  "complete_truth_equivalence_checks": 64,
+  "assignment_witnesses": [
+    {
+      "actual_assignment": [
+        false,
+        false
+      ],
+      "complete_evidence": [
+        [
+          false,
+          false
+        ]
+      ],
+      "first_evidence": [
+        [
+          false,
+          false
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "second_evidence": [
+        [
+          false,
+          false
+        ],
+        [
+          true,
+          false
+        ]
+      ],
+      "complete_knows_omitted_actual_literals": true,
+      "local_omitted_literals_undecided": true,
+      "complete_knows_local_ignorance": true
+    },
+    {
+      "actual_assignment": [
+        false,
+        true
+      ],
+      "complete_evidence": [
+        [
+          false,
+          true
+        ]
+      ],
+      "first_evidence": [
+        [
+          false,
+          false
+        ],
+        [
+          false,
+          true
+        ]
+      ],
+      "second_evidence": [
+        [
+          false,
+          true
+        ],
+        [
+          true,
+          true
+        ]
+      ],
+      "complete_knows_omitted_actual_literals": true,
+      "local_omitted_literals_undecided": true,
+      "complete_knows_local_ignorance": true
+    },
+    {
+      "actual_assignment": [
+        true,
+        false
+      ],
+      "complete_evidence": [
+        [
+          true,
+          false
+        ]
+      ],
+      "first_evidence": [
+        [
+          true,
+          false
+        ],
+        [
+          true,
+          true
+        ]
+      ],
+      "second_evidence": [
+        [
+          false,
+          false
+        ],
+        [
+          true,
+          false
+        ]
+      ],
+      "complete_knows_omitted_actual_literals": true,
+      "local_omitted_literals_undecided": true,
+      "complete_knows_local_ignorance": true
+    },
+    {
+      "actual_assignment": [
+        true,
+        true
+      ],
+      "complete_evidence": [
+        [
+          true,
+          true
+        ]
+      ],
+      "first_evidence": [
+        [
+          true,
+          false
+        ],
+        [
+          true,
+          true
+        ]
+      ],
+      "second_evidence": [
+        [
+          false,
+          true
+        ],
+        [
+          true,
+          true
+        ]
+      ],
+      "complete_knows_omitted_actual_literals": true,
+      "local_omitted_literals_undecided": true,
+      "complete_knows_local_ignorance": true
+    }
+  ],
+  "fulfillment_witness": {
+    "stipulated_due": [
+      1,
+      1
+    ],
+    "shortfall_profile": [
+      1,
+      0
+    ],
+    "fulfilled_profile": [
+      1,
+      1
+    ],
+    "shortfall": [
+      0,
+      1
+    ],
+    "fulfilled_shortfall": [
+      0,
+      0
+    ],
+    "epistemic_completeness_alone_does_not_select_fulfillment": true
+  },
+  "limitations": [
+    "No intrinsic perspective selection or phenomenal identity is modeled.",
+    "Finite propositional completeness is not a proof of absolute omniscience.",
+    "No metaphysical admissibility of a less harmful universe is established.",
+    "Due standards and comparison are supplied, not normatively grounded.",
+    "No actuality, perfect goodness, or personal-survival claim is established."
+  ]
+}

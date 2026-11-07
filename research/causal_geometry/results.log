@@ -1,0 +1,37 @@
+test_01_null_roundtrip (test_model.GeometryTests.test_01_null_roundtrip) ... ok
+test_02_causal_order_criterion (test_model.GeometryTests.test_02_causal_order_criterion) ... ok
+test_03_transitivity (test_model.GeometryTests.test_03_transitivity) ... ok
+test_04_antisymmetry (test_model.GeometryTests.test_04_antisymmetry) ... ok
+test_05_null_is_not_chronological (test_model.GeometryTests.test_05_null_is_not_chronological) ... ok
+test_06_nonlinear_order_isomorphism (test_model.GeometryTests.test_06_nonlinear_order_isomorphism) ... ok
+test_07_spacelike_preservation (test_model.GeometryTests.test_07_spacelike_preservation) ... ok
+test_08_diamond_membership_preserved (test_model.GeometryTests.test_08_diamond_membership_preserved) ... ok
+test_09_order_does_not_fix_interval (test_model.GeometryTests.test_09_order_does_not_fix_interval) ... ok
+test_10_positive_conformal_factor_preserves_cones (test_model.GeometryTests.test_10_positive_conformal_factor_preserves_cones) ... ok
+test_11_same_causality_curved_metric (test_model.GeometryTests.test_11_same_causality_curved_metric) ... ok
+test_12_flat_volume_interval_identity (test_model.GeometryTests.test_12_flat_volume_interval_identity) ... ok
+test_13_local_density_reconstruction (test_model.GeometryTests.test_13_local_density_reconstruction) ... ok
+test_14_identifiable_three_parameter_family (test_model.GeometryTests.test_14_identifiable_three_parameter_family) ... ok
+test_15_calibrated_volume_fixes_constant_scale (test_model.GeometryTests.test_15_calibrated_volume_fixes_constant_scale) ... ok
+test_16_volume_ratios_do_not_fix_scale (test_model.GeometryTests.test_16_volume_ratios_do_not_fix_scale) ... ok
+test_17_same_finite_order_different_volumes (test_model.GeometryTests.test_17_same_finite_order_different_volumes) ... ok
+test_18_integer_diamond_measure_aliasing (test_model.GeometryTests.test_18_integer_diamond_measure_aliasing) ... ok
+test_19_coarse_volume_does_not_fix_curvature (test_model.GeometryTests.test_19_coarse_volume_does_not_fix_curvature) ... ok
+test_20_fine_volume_sees_hidden_density (test_model.GeometryTests.test_20_fine_volume_sees_hidden_density) ... ok
+test_21_count_mean_scaling (test_model.GeometryTests.test_21_count_mean_scaling) ... ok
+test_22_poisson_law_scaling (test_model.GeometryTests.test_22_poisson_law_scaling) ... ok
+test_23_mass_dispersion_dilation (test_model.GeometryTests.test_23_mass_dispersion_dilation) ... ok
+test_24_polarization_dilation (test_model.GeometryTests.test_24_polarization_dilation) ... ok
+test_25_dynamics_dilation (test_model.GeometryTests.test_25_dynamics_dilation) ... ok
+test_26_spacetime_source_dilation (test_model.GeometryTests.test_26_spacetime_source_dilation) ... ok
+test_27_dimensionless_vacuum_pairing (test_model.GeometryTests.test_27_dimensionless_vacuum_pairing) ... ok
+test_28_bare_car_allows_nonlocal_mode_permutation (test_model.GeometryTests.test_28_bare_car_allows_nonlocal_mode_permutation) ... ok
+test_29_covariance_without_localization (test_model.GeometryTests.test_29_covariance_without_localization) ... ok
+test_30_timelike_commutation_is_not_causal_independence (test_model.GeometryTests.test_30_timelike_commutation_is_not_causal_independence) ... ok
+test_31_inverse_stability_within_family (test_model.GeometryTests.test_31_inverse_stability_within_family) ... ok
+test_32_validation (test_model.GeometryTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.012s
+
+OK

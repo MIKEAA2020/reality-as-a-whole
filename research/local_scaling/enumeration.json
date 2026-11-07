@@ -1,0 +1,68 @@
+{
+  "scope": "exact cell integrals and finite walk/DFT diagnostics; continuum proofs in REPORT.md",
+  "embedding": "normalized compact cell indicators, distinct from Fourier/sinc embedding",
+  "mass": 0.7,
+  "time": 0.2,
+  "projection_and_massive_cauchy": [
+    {
+      "spacing": 0.1,
+      "nonzero_initial_sites": 15,
+      "projection_error": 0.07135506270117654,
+      "projection_bound": 0.2481007635382741,
+      "massive_distance_to_fine_cell_walk": 0.07729872816746781,
+      "analytic_two_grid_bound": 0.2872541652841579
+    },
+    {
+      "spacing": 0.05,
+      "nonzero_initial_sites": 29,
+      "projection_error": 0.035776821833822255,
+      "projection_bound": 0.12405038176913705,
+      "massive_distance_to_fine_cell_walk": 0.038661393426930014,
+      "analytic_two_grid_bound": 0.1458367300673417
+    },
+    {
+      "spacing": 0.025,
+      "nonzero_initial_sites": 57,
+      "projection_error": 0.017900944980326513,
+      "projection_bound": 0.062025190884568523,
+      "massive_distance_to_fine_cell_walk": 0.01930207537455817,
+      "analytic_two_grid_bound": 0.07512801245893361
+    },
+    {
+      "spacing": 0.0125,
+      "nonzero_initial_sites": 113,
+      "projection_error": 0.00895204183970855,
+      "projection_bound": 0.031012595442284262,
+      "massive_distance_to_fine_cell_walk": 0.009666753048356423,
+      "analytic_two_grid_bound": 0.03977365365472956
+    }
+  ],
+  "spacetime": [
+    {
+      "spacing": 0.05,
+      "source_cell_labels": 91,
+      "all_source_cells_inside_unit_diamond": true,
+      "pullback_sites": 19,
+      "all_pullback_cells_inside_base": true,
+      "distance_to_fine_cell_spacetime_smear": 0.00786973797574775
+    },
+    {
+      "spacing": 0.025,
+      "source_cell_labels": 375,
+      "all_source_cells_inside_unit_diamond": true,
+      "pullback_sites": 39,
+      "all_pullback_cells_inside_base": true,
+      "distance_to_fine_cell_spacetime_smear": 0.003991483329297899
+    },
+    {
+      "spacing": 0.0125,
+      "source_cell_labels": 1519,
+      "all_source_cells_inside_unit_diamond": true,
+      "pullback_sites": 79,
+      "all_pullback_cells_inside_base": true,
+      "distance_to_fine_cell_spacetime_smear": 0.0020859607484891443
+    }
+  ],
+  "even_unit_ball_distance_obstruction": 0.5,
+  "finite_circle_covariance_intertwining_squared_error": 1.9920615638526326e-30
+}

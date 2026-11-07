@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational matrices; common square roots factored out",
+  "target": "pure plus state on R",
+  "complementary_prior": [
+    "9/20",
+    "1/20",
+    "1/20",
+    "9/20"
+  ],
+  "target_only_optimum": "1/2",
+  "actual_control_optimum": "9/50",
+  "overestimate_factor": "25/9",
+  "fixed_global_target_cost": "50/9",
+  "per_environment_success_capacity": [
+    "9/100",
+    "9/100"
+  ],
+  "control_filter_effect_projection": true,
+  "failure_completion": true,
+  "finite_complementary_SDP_feasible_solution": true,
+  "full_commutant_filter_uses_inaccessible_E": true,
+  "analytic_not_finite_tests": [
+    "complete complementary-state domination iff bounded local success operator exists",
+    "exact local pure-vector success optimum 1/c_M",
+    "vector smoothing and algebra-inclusion monotonicity",
+    "restricted target requires optimization over global extensions"
+  ],
+  "not_inferred": [
+    "field-region tensor factorization",
+    "efficient optimal filter synthesis",
+    "single-vector formula covers unresolved mixed success ensembles",
+    "phenomenal ownership or necessary actuality"
+  ]
+}

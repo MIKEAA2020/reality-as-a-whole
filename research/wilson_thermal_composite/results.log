@@ -1,0 +1,37 @@
+test_01_massless_wilson_dispersion (test_model.WilsonThermalTests.test_01_massless_wilson_dispersion) ... ok
+test_02_unique_low_energy_zero (test_model.WilsonThermalTests.test_02_unique_low_energy_zero) ... ok
+test_03_fermi_covariance_eigenvalues (test_model.WilsonThermalTests.test_03_fermi_covariance_eigenvalues) ... ok
+test_04_covariance_commutes_with_hamiltonian (test_model.WilsonThermalTests.test_04_covariance_commutes_with_hamiltonian) ... ok
+test_05_detailed_balance (test_model.WilsonThermalTests.test_05_detailed_balance) ... ok
+test_06_ground_same_chirality_kernel (test_model.WilsonThermalTests.test_06_ground_same_chirality_kernel) ... ok
+test_07_ground_mixed_kernel (test_model.WilsonThermalTests.test_07_ground_mixed_kernel) ... ok
+test_08_thermal_change_of_variable (test_model.WilsonThermalTests.test_08_thermal_change_of_variable) ... ok
+test_09_fermi_moment1 (test_model.WilsonThermalTests.test_09_fermi_moment1) ... ok
+test_10_fermi_moment3 (test_model.WilsonThermalTests.test_10_fermi_moment3) ... ok
+test_11_ratio_error_bound (test_model.WilsonThermalTests.test_11_ratio_error_bound) ... ok
+test_12_current_error_bound (test_model.WilsonThermalTests.test_12_current_error_bound) ... ok
+test_13_fixed_count_calibrated_limit (test_model.WilsonThermalTests.test_13_fixed_count_calibrated_limit) ... ok
+test_14_fixed_count_uncalibrated_bias (test_model.WilsonThermalTests.test_14_fixed_count_uncalibrated_bias) ... ok
+test_15_mesoscopic_raw_limit (test_model.WilsonThermalTests.test_15_mesoscopic_raw_limit) ... ok
+test_16_fixed_count_mixed_artifact (test_model.WilsonThermalTests.test_16_fixed_count_mixed_artifact) ... ok
+test_17_mixed_mesoscopic_limit (test_model.WilsonThermalTests.test_17_mixed_mesoscopic_limit) ... ok
+test_18_independent_hamiltonian_energy_limit (test_model.WilsonThermalTests.test_18_independent_hamiltonian_energy_limit) ... ok
+test_19_current_energy_agreement (test_model.WilsonThermalTests.test_19_current_energy_agreement) ... ok
+test_20_positive_cell_covariances (test_model.WilsonThermalTests.test_20_positive_cell_covariances) ... ok
+test_21_positive_density_normalized (test_model.WilsonThermalTests.test_21_positive_density_normalized) ... ok
+test_22_actual_current_operator_expectation (test_model.WilsonThermalTests.test_22_actual_current_operator_expectation) ... ok
+test_23_actual_mixed_operator_expectation (test_model.WilsonThermalTests.test_23_actual_mixed_operator_expectation) ... ok
+test_24_thermal_truncation_control (test_model.WilsonThermalTests.test_24_thermal_truncation_control) ... ok
+test_25_simpson_refinement (test_model.WilsonThermalTests.test_25_simpson_refinement) ... ok
+test_26_observable_norm_diverges (test_model.WilsonThermalTests.test_26_observable_norm_diverges) ... ok
+test_27_chiral_sectors_not_independent_at_finite_spacing (test_model.WilsonThermalTests.test_27_chiral_sectors_not_independent_at_finite_spacing) ... ok
+test_28_relative_curved_trace (test_model.WilsonThermalTests.test_28_relative_curved_trace) ... ok
+test_29_tolman_relative_energy (test_model.WilsonThermalTests.test_29_tolman_relative_energy) ... ok
+test_30_no_mass_gap_assumption (test_model.WilsonThermalTests.test_30_no_mass_gap_assumption) ... ok
+test_31_central_ground_parity_control (test_model.WilsonThermalTests.test_31_central_ground_parity_control) ... ok
+test_32_validation (test_model.WilsonThermalTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.028s
+
+OK

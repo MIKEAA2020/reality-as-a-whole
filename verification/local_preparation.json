@@ -1,0 +1,239 @@
+{
+  "status": "passed",
+  "exact_rational_checks": 16,
+  "saturated_finite_example": {
+    "success_probability": "13/25",
+    "remote_prior_Q": "9/25",
+    "remote_conditional_Q": "9/13"
+  },
+  "gaussian_samples_floating_point_only": [
+    {
+      "variance": 0.5,
+      "mean_shift": 0.5,
+      "threshold": 1.9142135623730951,
+      "accuracy_threshold": 0.0056875329870447995,
+      "probability_upper_bound": 0.29833858856284695,
+      "analytic_envelope": 0.3786790063102576
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 0.5,
+      "threshold": 3.3284271247461903,
+      "accuracy_threshold": 7.917810458279971e-06,
+      "probability_upper_bound": 0.0793329522409036,
+      "analytic_envelope": 0.09206320341294301
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 0.5,
+      "threshold": 4.742640687119286,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 0.020121982993843376,
+      "analytic_envelope": 0.022382105375307503
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 1.0,
+      "threshold": 2.414213562373095,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 0.028116942154268593,
+      "analytic_envelope": 0.04348757803046673
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 1.0,
+      "threshold": 3.8284271247461903,
+      "accuracy_threshold": 7.917810458279971e-06,
+      "probability_upper_bound": 0.0019436768474961712,
+      "analytic_envelope": 0.002570365765662061
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 1.0,
+      "threshold": 5.242640687119286,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 0.00012401192227320894,
+      "analytic_envelope": 0.00015192338751675026
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 2.0,
+      "threshold": 3.414213562373095,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 6.04900565837476e-05,
+      "analytic_envelope": 0.0001279709761054341
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 2.0,
+      "threshold": 4.82842712474619,
+      "accuracy_threshold": 7.917810458279991e-06,
+      "probability_upper_bound": 2.7106818750802367e-07,
+      "analytic_envelope": 4.470652327462815e-07
+    },
+    {
+      "variance": 0.5,
+      "mean_shift": 2.0,
+      "threshold": 6.242640687119286,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 1.0760116059341143e-09,
+      "analytic_envelope": 1.561817596560468e-09
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 0.5,
+      "threshold": 2.5,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 0.5459014778393954,
+      "analytic_envelope": 0.6493049347166995
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 0.5,
+      "threshold": 4.5,
+      "accuracy_threshold": 7.917810458279991e-06,
+      "probability_upper_bound": 0.2145588823218779,
+      "analytic_envelope": 0.23886593653343924
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 0.5,
+      "threshold": 6.5,
+      "accuracy_threshold": 2.466469112594253e-10,
+      "probability_upper_bound": 0.08141193748084406,
+      "analytic_envelope": 0.08787386724681484
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 1.0,
+      "threshold": 3.0,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 0.11867166614285357,
+      "analytic_envelope": 0.1641699972477976
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 1.0,
+      "threshold": 5.0,
+      "accuracy_threshold": 7.917810458279991e-06,
+      "probability_upper_bound": 0.018101694489253077,
+      "analytic_envelope": 0.022217993076484612
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 1.0,
+      "threshold": 7.0,
+      "accuracy_threshold": 2.466469112594253e-10,
+      "probability_upper_bound": 0.0025944224019487463,
+      "analytic_envelope": 0.0030068783859551447
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 2.0,
+      "threshold": 4.0,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 0.0027842688477817588,
+      "analytic_envelope": 0.004957504353332717
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 2.0,
+      "threshold": 6.0,
+      "accuracy_threshold": 7.917810458279991e-06,
+      "probability_upper_bound": 6.230179733628155e-05,
+      "analytic_envelope": 9.079985952496971e-05
+    },
+    {
+      "variance": 1.0,
+      "mean_shift": 2.0,
+      "threshold": 8.0,
+      "accuracy_threshold": 2.466469112594253e-10,
+      "probability_upper_bound": 1.2611065231886405e-06,
+      "analytic_envelope": 1.6630574382071358e-06
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 0.5,
+      "threshold": 3.3284271247461903,
+      "accuracy_threshold": 0.0056875329870447995,
+      "probability_upper_bound": 0.8173551399373028,
+      "analytic_envelope": 0.9263903391220694
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 0.5,
+      "threshold": 6.156854249492381,
+      "accuracy_threshold": 7.917810458279971e-06,
+      "probability_upper_bound": 0.42293401246625406,
+      "analytic_envelope": 0.45677407223211114
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 0.5,
+      "threshold": 8.985281374238571,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 0.21325739905304425,
+      "analytic_envelope": 0.22522099405876173
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 1.0,
+      "threshold": 3.8284271247461903,
+      "accuracy_threshold": 0.0056875329870447995,
+      "probability_upper_bound": 0.29833858856284695,
+      "analytic_envelope": 0.3786790063102576
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 1.0,
+      "threshold": 6.656854249492381,
+      "accuracy_threshold": 7.917810458279971e-06,
+      "probability_upper_bound": 0.0793329522409036,
+      "analytic_envelope": 0.09206320341294301
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 1.0,
+      "threshold": 9.485281374238571,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 0.020121982993843376,
+      "analytic_envelope": 0.022382105375307503
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 2.0,
+      "threshold": 4.82842712474619,
+      "accuracy_threshold": 0.005687532987044805,
+      "probability_upper_bound": 0.028116942154268593,
+      "analytic_envelope": 0.04348757803046673
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 2.0,
+      "threshold": 7.656854249492381,
+      "accuracy_threshold": 7.917810458279971e-06,
+      "probability_upper_bound": 0.0019436768474961712,
+      "analytic_envelope": 0.002570365765662061
+    },
+    {
+      "variance": 2.0,
+      "mean_shift": 2.0,
+      "threshold": 10.485281374238571,
+      "accuracy_threshold": 2.4664691125942344e-10,
+      "probability_upper_bound": 0.00012401192227320894,
+      "analytic_envelope": 0.00015192338751675026
+    }
+  ],
+  "analytic_not_computational": [
+    "interval one-particle density from positive-energy boundary uniqueness",
+    "Fock local cyclicity via standard CCR exponential-vector theorem",
+    "local conditional approximation to every target vector",
+    "p <= q_R/(q_target_R-2*epsilon)",
+    "fixed disjoint Weyl target forces p to zero as epsilon tends to zero"
+  ],
+  "not_established": [
+    "efficient preparation algorithm",
+    "universal success rate",
+    "phenomenal scope or intrinsic qualitative identity"
+  ]
+}

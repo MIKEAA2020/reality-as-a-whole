@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "scope": "quantum cutoff field Hamiltonian on classical FLRW; separate ideal reference qubit and memories; not constrained quantum gravity",
+  "fine": {
+    "nmax": 4,
+    "steps": 1600,
+    "scale": 1.3410117168949145,
+    "transfer": 0.0001414190284402813,
+    "variance": 1.0707436104569437,
+    "readout_q_coefficient": 0.999775244311321,
+    "readout_p_coefficient": 0.5332629495352409,
+    "other_mode_variance": 0.00010072798242573289,
+    "symplectic_defect": 3.064215547965432e-14
+  },
+  "coarse": {
+    "nmax": 3,
+    "steps": 800,
+    "scale": 1.34101171689491,
+    "transfer": 0.00014141902844027024,
+    "variance": 1.0707436104600456,
+    "readout_q_coefficient": 0.9997752443128045,
+    "readout_p_coefficient": 0.5332629495357499,
+    "other_mode_variance": 0.00010072798242567738,
+    "symplectic_defect": 2.120525977034049e-14
+  },
+  "g_zero": {
+    "nmax": 3,
+    "steps": 800,
+    "scale": 1.34101171689491,
+    "transfer": 0.0,
+    "variance": 1.0711111111111102,
+    "readout_q_coefficient": 1.0,
+    "readout_p_coefficient": 0.53333333333333,
+    "other_mode_variance": 1.3877787807814457e-17,
+    "symplectic_defect": 2.142730437526552e-14
+  },
+  "signal_amplitude_1_reference_0_6_noise_0_1": {
+    "amplitude": 1.0,
+    "reference_polarization": 0.6,
+    "memory_flip_probability": 0.1,
+    "single_readout_contrast": 6.542691064141466e-05,
+    "probabilities": {
+      "1": {
+        "00": 0.4100261707642566,
+        "01": 0.09,
+        "10": 0.09,
+        "11": 0.40997382923574344
+      },
+      "-1": {
+        "00": 0.4099738292357435,
+        "01": 0.09,
+        "10": 0.09,
+        "11": 0.4100261707642565
+      }
+    },
+    "total_variation": 5.2341528513105695e-05,
+    "success": 0.5000261707642566
+  },
+  "ideal_reference_and_memories": {
+    "amplitude": 1.0,
+    "reference_polarization": 1.0,
+    "memory_flip_probability": 0.0,
+    "single_readout_contrast": 0.00010904485106902444,
+    "probabilities": {
+      "1": {
+        "00": 0.5000545224255345,
+        "01": 0.0,
+        "10": 0.0,
+        "11": 0.4999454775744655
+      },
+      "-1": {
+        "00": 0.4999454775744655,
+        "01": 0.0,
+        "10": 0.0,
+        "11": 0.5000545224255345
+      }
+    },
+    "total_variation": 0.00010904485106899564,
+    "success": 0.5000545224255345
+  },
+  "unpolarized_reference": {
+    "amplitude": 1.0,
+    "reference_polarization": 0.0,
+    "memory_flip_probability": 0.1,
+    "single_readout_contrast": 0.0,
+    "probabilities": {
+      "1": {
+        "00": 0.41000000000000003,
+        "01": 0.09000000000000001,
+        "10": 0.09000000000000001,
+        "11": 0.41000000000000003
+      },
+      "-1": {
+        "00": 0.41000000000000003,
+        "01": 0.09000000000000001,
+        "10": 0.09000000000000001,
+        "11": 0.41000000000000003
+      }
+    },
+    "total_variation": 0.0,
+    "success": 0.5
+  },
+  "initial_signal_plus_reference_helstrom_bound": {
+    "trace_distance": 0.5579240970193162,
+    "maximum_success_before_memory_noise": 0.7789620485096581,
+    "note": "Benchmark for the stipulated Gaussian preparations and reference qubit; not a proven local gravitational measurement."
+  },
+  "fixed_background_extrapolation_to_70_percent": {
+    "amplitude": 10119.410934506643,
+    "initial_signal_coherent_energy": 51201238.8307063,
+    "initial_clock_rod_classical_energy": 372.0753201635978,
+    "signal_to_background_energy_ratio": 137609.87643091628,
+    "warning": "Bare energy ratio at cutoff; neither a backreaction estimate nor a valid self-consistent strong-signal calculation."
+  },
+  "limitations": "fixed clock/rod background; ideal QND reference qubit; pointer Gaussian and classical noise supplied; no nonlinear gravity or field-reference embedding."
+}

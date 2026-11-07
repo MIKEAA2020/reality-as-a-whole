@@ -1,0 +1,105 @@
+{
+  "scope": "stationary homogeneous particle/hole symmetric quasifree excitations; not a nonstationary or absolute stress theorem",
+  "states": [
+    {
+      "amplitude": 0.5,
+      "cutoff": 1,
+      "moment1": 0.16666666666666666,
+      "moment3": 0.05,
+      "chiral_target": 0.02652582384864922,
+      "finite_spacing_energy_at_a_0_1": 0.053071559849631036,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "current": 0.02657464570724408,
+          "mixed": -0.00010391442116912142,
+          "energy": 0.053052133410227194,
+          "ratio_error": 0.0001296531611041929,
+          "ratio_error_bound": 0.0005056767037809215,
+          "energy_error_bound": 9.71404681957369e-07
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "current": 0.02653794160855916,
+          "mixed": -2.592269317585851e-05,
+          "energy": 0.053051678053736125,
+          "ratio_error": 3.251729635014855e-05,
+          "ratio_error_bound": 0.00012622844108194913,
+          "energy_error_bound": 6.071279262233556e-08
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "current": 0.026528847818792785,
+          "mixed": -6.4771909271723155e-06,
+          "energy": 0.05305164959457335,
+          "ratio_error": 8.135845254969576e-06,
+          "ratio_error_bound": 3.15451893415322e-05,
+          "energy_error_bound": 3.794549538895973e-09
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "current": 0.026526579499502247,
+          "mixed": -1.6190802728114966e-06,
+          "energy": 0.053051647815878226,
+          "ratio_error": 2.034369212894349e-06,
+          "ratio_error_bound": 7.885552277323359e-06,
+          "energy_error_bound": 2.371593461809983e-10
+        }
+      ]
+    },
+    {
+      "amplitude": 0.125,
+      "cutoff": 2,
+      "moment1": 0.16666666666666666,
+      "moment3": 0.2,
+      "chiral_target": 0.02652582384864922,
+      "finite_spacing_energy_at_a_0_1": 0.05313151076361586,
+      "mesoscopic": [
+        {
+          "n": 8,
+          "spacing": 0.015625,
+          "current": 0.026512747960059306,
+          "mixed": -0.00010318617116210222,
+          "energy": 0.053053590676081924,
+          "ratio_error": 0.0005180545306423257,
+          "ratio_error_bound": 0.002022706815123686,
+          "energy_error_bound": 3.885618727829476e-06
+        },
+        {
+          "n": 16,
+          "spacing": 0.00390625,
+          "current": 0.026522416395575298,
+          "mixed": -2.5877164001957868e-05,
+          "energy": 0.0530517691235454,
+          "ratio_error": 0.00013003321894794473,
+          "ratio_error_bound": 0.0005049137643277965,
+          "energy_error_bound": 2.4285117048934225e-07
+        },
+        {
+          "n": 32,
+          "spacing": 0.0009765625,
+          "current": 0.02652496328289903,
+          "mixed": -6.474345102363919e-06,
+          "energy": 0.053051655286400226,
+          "ratio_error": 3.2541116062045905e-05,
+          "ratio_error_bound": 0.0001261807573661288,
+          "energy_error_bound": 1.517819815558389e-08
+        },
+        {
+          "n": 64,
+          "spacing": 0.000244140625,
+          "current": 0.026525608162559437,
+          "mixed": -1.6189024046769876e-06,
+          "energy": 0.05305164817161726,
+          "ratio_error": 8.137335024777093e-06,
+          "ratio_error_bound": 3.1542209109293436e-05,
+          "energy_error_bound": 9.486373847239932e-10
+        }
+      ]
+    }
+  ]
+}

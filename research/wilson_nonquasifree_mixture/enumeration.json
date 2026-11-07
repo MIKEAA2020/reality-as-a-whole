@@ -1,0 +1,82 @@
+{
+  "scope": "actual phase-averaged nonquasifree mixture versus quasifree state with identical covariance",
+  "mixture_swap_probability": 0.4999999999999999,
+  "mode_four_point": {
+    "actual_mixture": 0.0,
+    "covariance_matched_quasifree": 0.25
+  },
+  "packet_number_variance": {
+    "actual_mixture": 0.0,
+    "covariance_matched_quasifree": 0.5
+  },
+  "mesoscopic": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "actual_mixture_current": 0.593352981098244,
+      "quasifree_current": 0.612912468550269,
+      "connected_difference": -0.019559487452025057,
+      "connected_absolute_bound": 0.021586770710163836,
+      "shared_target": 0.6422136757565752,
+      "actual_target_error": 0.048860694658331205,
+      "actual_error_bound": 0.05859380497583273,
+      "shared_local_hamiltonian_energy": 0.642155379911726
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "actual_mixture_current": 0.6297481519271908,
+      "quasifree_current": 0.6347664166978325,
+      "connected_difference": -0.005018264770641646,
+      "connected_absolute_bound": 0.005396692677540959,
+      "shared_target": 0.6422136757565752,
+      "actual_target_error": 0.012465523829384373,
+      "actual_error_bound": 0.014606564656167914,
+      "shared_local_hamiltonian_energy": 0.6422100321552038
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "actual_mixture_current": 0.6390815504128066,
+      "quasifree_current": 0.6403441971755713,
+      "connected_difference": -0.0012626467627647891,
+      "connected_absolute_bound": 0.0013491731693852397,
+      "shared_target": 0.6422136757565752,
+      "actual_target_error": 0.0031321253437686103,
+      "actual_error_bound": 0.0036490328417253678,
+      "shared_local_hamiltonian_energy": 0.6422134480310565
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "actual_mixture_current": 0.6414296589030732,
+      "quasifree_current": 0.6417458264898702,
+      "connected_difference": -0.0003161675867969116,
+      "connected_absolute_bound": 0.00033729329234630993,
+      "shared_target": 0.6422136757565752,
+      "actual_target_error": 0.0007840168535019343,
+      "actual_error_bound": 0.000912095339545055,
+      "shared_local_hamiltonian_energy": 0.6422136615237288
+    },
+    {
+      "n": 128,
+      "spacing": 6.103515625e-05,
+      "actual_mixture_current": 0.6420176099251298,
+      "quasifree_current": 0.642096683453722,
+      "connected_difference": -7.907352859217748e-05,
+      "connected_absolute_bound": 8.432332308657748e-05,
+      "shared_target": 0.6422136757565752,
+      "actual_target_error": 0.00019606583144538003,
+      "actual_error_bound": 0.00022801365778579588,
+      "shared_local_hamiltonian_energy": 0.6422136748670224
+    }
+  ],
+  "finite_CAR": {
+    "actual_mixture_fock_expectation": 0.7000486854434484,
+    "actual_formula": 0.7000486854433551,
+    "quasifree_fock_expectation": 0.7022418902357686,
+    "quasifree_formula": 0.7022418902355199,
+    "connected_difference": -0.002193204792164778,
+    "density_frobenius_distance": 5.58495014263416e-07
+  }
+}

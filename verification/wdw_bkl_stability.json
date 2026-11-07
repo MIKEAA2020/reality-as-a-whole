@@ -1,0 +1,50 @@
+{
+  "bkl": {
+    "mu": 22.0,
+    "omega_bounce": 7.48,
+    "phi_rms_at_bounce": 0.2585438449975096,
+    "rho_scalar_kinetic": 3.74,
+    "rho_scalar_potential": 16.176470588235297,
+    "rho_scalar_total": 19.9164705882353,
+    "eps_aspherical_initial": 3e-05,
+    "rho_aniso_bound": 8.675614588235295e-06,
+    "ratio_aniso_to_scalar": 4.3559999999999996e-07,
+    "H_bounce_neck": 0.0,
+    "quiescent_velocity_dominated": true,
+    "BKL_oscillations_quenched_by_scalar": true,
+    "stable_bounce": true,
+    "cases": [
+      {
+        "M": 1,
+        "Rb": 0.24280544348548772,
+        "rho_scalar": 19.9164705882353,
+        "rho_aniso_bound": 8.675614588235295e-06,
+        "ratio_aniso_scalar": 4.3559999999999996e-07,
+        "quiescent": true,
+        "stable_bounce": true,
+        "note": "Stiff scalar dominates anisotropic shear at the bounce neck, BKL oscillations are quenched, bounce is stable."
+      },
+      {
+        "M": 10,
+        "Rb": 0.5231084703737108,
+        "rho_scalar": 19.9164705882353,
+        "rho_aniso_bound": 8.675614588235295e-06,
+        "ratio_aniso_scalar": 4.3559999999999996e-07,
+        "quiescent": true,
+        "stable_bounce": true,
+        "note": "Stiff scalar dominates anisotropic shear at the bounce neck, BKL oscillations are quenched, bounce is stable."
+      },
+      {
+        "M": 22,
+        "Rb": 0.6803504023435604,
+        "rho_scalar": 19.9164705882353,
+        "rho_aniso_bound": 8.675614588235295e-06,
+        "ratio_aniso_scalar": 4.3559999999999996e-07,
+        "quiescent": true,
+        "stable_bounce": true,
+        "note": "Stiff scalar dominates anisotropic shear at the bounce neck, BKL oscillations are quenched, bounce is stable."
+      }
+    ],
+    "note": "A massive scalar acts as a stiff fluid that dominates anisotropic shear near the bounce, quenching BKL mixmaster oscillations and yielding a stable, isotropic-to-good-approximation bounce. Initial aspherical perturbations of 3e-5 produce shear energy ~1e-9 of scalar energy at bounce."
+  }
+}

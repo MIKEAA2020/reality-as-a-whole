@@ -1,0 +1,35 @@
+test_01_isometry (test_model.FrameworkOverlapTests.test_01_isometry) ... ok
+test_02_preparations_are_normalized_projectors (test_model.FrameworkOverlapTests.test_02_preparations_are_normalized_projectors) ... ok
+test_03_channel_linearity_on_mixture (test_model.FrameworkOverlapTests.test_03_channel_linearity_on_mixture) ... ok
+test_04_state_observable_duality (test_model.FrameworkOverlapTests.test_04_state_observable_duality) ... ok
+test_05_pullback_is_unital (test_model.FrameworkOverlapTests.test_05_pullback_is_unital) ... ok
+test_06_pullback_not_multiplicative (test_model.FrameworkOverlapTests.test_06_pullback_not_multiplicative) ... ok
+test_07_net_dimensions (test_model.FrameworkOverlapTests.test_07_net_dimensions) ... ok
+test_08_net_isotony (test_model.FrameworkOverlapTests.test_08_net_isotony) ... ok
+test_09_separate_output_algebras_commute (test_model.FrameworkOverlapTests.test_09_separate_output_algebras_commute) ... ok
+test_10_causal_fork_is_strict_partial_order (test_model.FrameworkOverlapTests.test_10_causal_fork_is_strict_partial_order) ... ok
+test_11_classical_basis_copying (test_model.FrameworkOverlapTests.test_11_classical_basis_copying) ... ok
+test_12_not_general_cloning_or_broadcasting (test_model.FrameworkOverlapTests.test_12_not_general_cloning_or_broadcasting) ... ok
+test_13_same_reduced_states_do_not_determine_joint_state (test_model.FrameworkOverlapTests.test_13_same_reduced_states_do_not_determine_joint_state) ... ok
+test_14_joint_correlations_distinguish_states (test_model.FrameworkOverlapTests.test_14_joint_correlations_distinguish_states) ... ok
+test_15_product_observables_reconstruct_joint_state (test_model.FrameworkOverlapTests.test_15_product_observables_reconstruct_joint_state) ... ok
+test_16_context_counts (test_model.FrameworkOverlapTests.test_16_context_counts) ... ok
+test_17_all_contexts_commute (test_model.FrameworkOverlapTests.test_17_all_contexts_commute) ... ok
+test_18_character_counts (test_model.FrameworkOverlapTests.test_18_character_counts) ... ok
+test_19_projectors_are_orthogonal_and_complete (test_model.FrameworkOverlapTests.test_19_projectors_are_orthogonal_and_complete) ... ok
+test_20_characters_match_projector_eigenvalues (test_model.FrameworkOverlapTests.test_20_characters_match_projector_eigenvalues) ... ok
+test_21_restrictions_are_valid_characters (test_model.FrameworkOverlapTests.test_21_restrictions_are_valid_characters) ... ok
+test_22_presheaf_identity_and_composition (test_model.FrameworkOverlapTests.test_22_presheaf_identity_and_composition) ... ok
+test_23_probabilities_nonnegative_and_normalized (test_model.FrameworkOverlapTests.test_23_probabilities_nonnegative_and_normalized) ... ok
+test_24_probabilities_agree_under_restriction (test_model.FrameworkOverlapTests.test_24_probabilities_agree_under_restriction) ... ok
+test_25_mermin_contexts_are_available (test_model.FrameworkOverlapTests.test_25_mermin_contexts_are_available) ... ok
+test_26_mermin_parity_products (test_model.FrameworkOverlapTests.test_26_mermin_parity_products) ... ok
+test_27_no_global_deterministic_valuation (test_model.FrameworkOverlapTests.test_27_no_global_deterministic_valuation) ... ok
+test_28_local_reset_does_not_signal_to_other_output (test_model.FrameworkOverlapTests.test_28_local_reset_does_not_signal_to_other_output) ... ok
+test_29_selective_conditioning_not_outward_signaling (test_model.FrameworkOverlapTests.test_29_selective_conditioning_not_outward_signaling) ... ok
+test_30_invalid_domains_not_silently_identified (test_model.FrameworkOverlapTests.test_30_invalid_domains_not_silently_identified) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.160s
+
+OK

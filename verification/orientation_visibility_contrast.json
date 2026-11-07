@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "synthetic_mixture_not_data": {
+    "nothing_probability_in_coarse_unseen": "1/2",
+    "something_probability_in_coarse_unseen": "1/2",
+    "nothing_accuracy": "1/2",
+    "something_accuracy": "4/5",
+    "coarse_unseen_accuracy": "13/20",
+    "interpretation": "A coarse report can mix experience categories and show above-chance accuracy even when the no-stimulus category is at chance."
+  },
+  "published_model_summary_monotone_transform_only": {
+    "source": "https://doi.org/10.1016/j.neuroscience.2021.08.025",
+    "published_nothing_logit_median": 0.096,
+    "published_nothing_logit_90_percent_credible_interval": [
+      -0.18,
+      0.37
+    ],
+    "transformed_fixed_effect_median": 0.5239815849711044,
+    "transformed_90_percent_credible_interval": [
+      0.45512110762641994,
+      0.5914589784327801
+    ],
+    "binary_unseen_comparison_model_logit_median": 0.61,
+    "binary_unseen_comparison_model_transformed_median": 0.6479408020806503
+  },
+  "scope": "Hypothetical model is not fitted to the article; logit transformation is a calculation on rounded published coefficients, not trial-level data. Between-subject scale groups cannot identify this mixture directly."
+}

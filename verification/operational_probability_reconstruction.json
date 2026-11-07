@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational complex; no floating point",
+  "states_checked": 9,
+  "projector_directions_checked": 6,
+  "three_outcome_POVM_contexts": 1350,
+  "outcome_probabilities_checked": 4050,
+  "nonlinear_projective_assignment_same_effect_values": [
+    "101/250",
+    "1/2"
+  ],
+  "same_first_readout_effects_for_both_instruments": true,
+  "postselection_sequential_joint_probabilities": {
+    "luders": "9/50",
+    "reset": "1/2"
+  },
+  "coherent_vs_dephased_future_test_probabilities": [
+    "1",
+    "1/2"
+  ],
+  "general_Cstar_extension_proved_in_report_not_by_finite_enumeration": true,
+  "normality_not_assumed_or_proved_by_finite_checks": true,
+  "quantum_algebra_derived_from_metaphysics": false,
+  "specific_physical_state_derived": false,
+  "cosmic_observer_measure_derived": false,
+  "phenomenal_identity_established": false,
+  "scope": "positive mathematical reconstruction and exact instrument distinction; not experimental data or zero-residue completion"
+}

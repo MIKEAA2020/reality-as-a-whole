@@ -1,0 +1,29 @@
+test_01_single_and_pair_profiles_do_not_determine_triple (test_model.UnityTests.test_01_single_and_pair_profiles_do_not_determine_triple) ... ok
+test_02_maximality_does_not_remove_counterexample (test_model.UnityTests.test_02_maximality_does_not_remove_counterexample) ... ok
+test_03_exact_enumeration_three_occurrence_families (test_model.UnityTests.test_03_exact_enumeration_three_occurrence_families) ... ok
+test_04_two_maximal_families_match_complete_pair_data (test_model.UnityTests.test_04_two_maximal_families_match_complete_pair_data) ... ok
+test_05_triple_witness_selects_maximal_support_in_this_class (test_model.UnityTests.test_05_triple_witness_selects_maximal_support_in_this_class) ... ok
+test_06_full_joint_profile_recovers_only_maximal_supports (test_model.UnityTests.test_06_full_joint_profile_recovers_only_maximal_supports) ... ok
+test_07_full_joint_profile_does_not_count_nested_episode_witnesses (test_model.UnityTests.test_07_full_joint_profile_does_not_count_nested_episode_witnesses) ... ok
+test_08_pairwise_existence_relation_need_not_be_transitive (test_model.UnityTests.test_08_pairwise_existence_relation_need_not_be_transitive) ... ok
+test_09_pairwise_clique_does_not_imply_joint_episode (test_model.UnityTests.test_09_pairwise_clique_does_not_imply_joint_episode) ... ok
+test_10_transitive_partition_rule_is_an_additional_assumption (test_model.UnityTests.test_10_transitive_partition_rule_is_an_additional_assumption) ... ok
+test_11_partition_assumption_makes_pair_data_identifying (test_model.UnityTests.test_11_partition_assumption_makes_pair_data_identifying) ... ok
+test_12_amalgamation_fails_for_pair_triangle (test_model.UnityTests.test_12_amalgamation_fails_for_pair_triangle) ... ok
+test_13_enforcing_amalgamation_manufactures_joint_support (test_model.UnityTests.test_13_enforcing_amalgamation_manufactures_joint_support) ... ok
+test_14_amalgamation_theorem_checked_on_all_three_vertex_families (test_model.UnityTests.test_14_amalgamation_theorem_checked_on_all_three_vertex_families) ... ok
+test_15_amalgamation_theorem_checked_on_four_vertex_families (test_model.UnityTests.test_15_amalgamation_theorem_checked_on_four_vertex_families) ... ok
+test_16_every_partition_obeys_amalgamation (test_model.UnityTests.test_16_every_partition_obeys_amalgamation) ... ok
+test_17_common_controller_can_force_false_amalgamation (test_model.UnityTests.test_17_common_controller_can_force_false_amalgamation) ... ok
+test_18_distinct_occurrences_with_same_types_are_not_renamings (test_model.UnityTests.test_18_distinct_occurrences_with_same_types_are_not_renamings) ... ok
+test_19_duplicate_episodes_survive_occurrence_provenance (test_model.UnityTests.test_19_duplicate_episodes_survive_occurrence_provenance) ... ok
+test_20_joint_report_does_not_depend_on_episode_interpretation (test_model.UnityTests.test_20_joint_report_does_not_depend_on_episode_interpretation) ... ok
+test_21_passive_renaming_preserves_joint_profile (test_model.UnityTests.test_21_passive_renaming_preserves_joint_profile) ... ok
+test_22_adding_unobserved_episode_does_not_change_selected_profile (test_model.UnityTests.test_22_adding_unobserved_episode_does_not_change_selected_profile) ... ok
+test_23_time_indexing_prevents_false_shared_content_occurrence (test_model.UnityTests.test_23_time_indexing_prevents_false_shared_content_occurrence) ... ok
+test_24_pair_data_do_not_supply_probability_weights (test_model.UnityTests.test_24_pair_data_do_not_supply_probability_weights) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 1.094s
+
+OK

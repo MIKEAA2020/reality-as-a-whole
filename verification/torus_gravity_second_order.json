@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "calculation": "Continuum ADM gravity + free massless scalar, periodic 2pi torus; through O(epsilon^2)",
+  "ansatz": "h_xy=cos z; pi^ij=epsilon alpha delta^ij; phi=epsilon beta cos z; scalar momentum=0; metric second order u delta^ij with u=(7-beta^2)cos(2z)/32",
+  "zero_mode_hamiltonian_obstruction": "1/4 + beta^2/4 - 3 alpha^2/2",
+  "condition": "alpha^2=(1+beta^2)/6",
+  "pointwise_hamiltonian_constraint_through_order_2": "zero under condition",
+  "pointwise_momentum_constraints_through_order_2": "zero",
+  "time_symmetric_vacuum_zero_mode": "1/4 (nonzero)",
+  "translation_of_linear_curvature": "-epsilon sin(z)/2",
+  "limits": "Formal truncated constraint solution; no exact spacetime, physical detector, quantum model or discrete refinement established."
+}

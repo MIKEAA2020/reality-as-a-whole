@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "scope": "Four-qubit circuit and one fixed projector-based histories family. No proof about consciousness, all possible history families, hidden-variable models or universal time.",
+  "rational_environment_cases": 90,
+  "read_family_off_diagonals": "0",
+  "reverse_family_matching_final_outcomes_off_diagonals": "a*b*sign(y)*r/10",
+  "reverse_unconditioned_distribution_TV_from_dephased": "2*r/5",
+  "unit_overlap_plus_plus_example": {
+    "history_c_plus": "1/5",
+    "history_c_minus": "1/20",
+    "off_diagonal": "1/10",
+    "coarse_grained_probability": "9/20"
+  },
+  "fixed_settings_CHSH_coherent": "(6+8*r)/5",
+  "fixed_settings_CHSH_projective_history_mixture": "6/5",
+  "notes": "Sequential Born weights equal the statistics of an actual unread projective intervention. Non-additivity rejects that particular probability assignment for the coherent protocol, not every possible ontology of experiences."
+}

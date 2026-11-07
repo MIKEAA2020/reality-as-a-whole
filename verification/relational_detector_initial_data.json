@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "f": "1/2",
+  "clock_momentum_tau": "3/2",
+  "alpha0": "1",
+  "pointer_momentum_amplitude_p": "1",
+  "signal_amplitude_b": "2",
+  "mean_matter_perturbation_energy": "7/4",
+  "mean_curvature_momentum_correction_a": "7/12",
+  "psi_correction": "cos(z)/23 - 3 cos(2z)/188",
+  "hamiltonian_coefficients_eps0_and_eps2": "0 pointwise",
+  "relational_acceleration_coefficient_without_lambda_epsilon_W_cos": "-8/9",
+  "full_constraint_residual_on_truncated_data": {
+    "eps_0_04": 4.113445546696138e-05,
+    "eps_0_02": 2.570877911904572e-06,
+    "ratio": 16.000159041581217,
+    "samples": 512,
+    "kappa": 1
+  },
+  "scope": "Second-order initial constraints and analytical leading response; not a quantum-record simulation."
+}

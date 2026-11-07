@@ -1,0 +1,404 @@
+{
+  "status": "passed",
+  "independent_matrix_matching_checks": 108,
+  "full_coherent_energy_shift_commutator_identity_checked": true,
+  "hamiltonian": "P^2/(2m) + omega X_S + g 1_[-L/2,L/2](X) P1_Z tensor Y_D",
+  "energy_basis": "X_S eigenstates, energies +omega,-omega",
+  "energy_exchange_quanta": "plus or minus 2*omega; outgoing momenta depend on system energy",
+  "prepared_clock": "product incoming cosine momentum packet and arbitrary system state; ready pointer |0>",
+  "target_event": "Z-system outcome 1 at free reference epoch T=0, packet focused at detector center",
+  "cases": [
+    {
+      "p0": 10,
+      "g": 1,
+      "omega": 0.1,
+      "momentum_half_band": 0.002,
+      "length": 15.707963267948966,
+      "clock_mean_kinetic_energy": 50.000000261381935,
+      "minimum_free_packet_position_spread": 785.3981633974482,
+      "analytic_bounds": {
+        "total_energy_min": 49.88000199999999,
+        "total_energy_max": 50.12000200000001,
+        "interface_reflection_amplitude_rho": 0.011027804025627223,
+        "interface_transmission_deviation_eta": 0.01627514554347255,
+        "slab_interface_error_bound": 0.03267191833996238,
+        "reflection_probability_bound": 0.0004865681848238279,
+        "matrix_phase_curvature_bound": 0.009943562271972739,
+        "noncommuting_free_dynamics_bound": 0.3145369301155749,
+        "angle_bandwidth_bound": 0.001888323782977805,
+        "transmitted_operator_error_bound": 0.3590407345104878,
+        "per_energy_scattering_isometry_error_bound": 0.35971769100595313,
+        "coherence_penalty_upper_bound": 0.5,
+        "full_coherent_energy_shift_error_bound": 1,
+        "full_outgoing_event_error_upper_bound": 1,
+        "worst_case_pointer_event_error_upper_bound": 0.8597176910059532,
+        "disjoint_incoming_energy_bands": true,
+        "exact_coherence_lower_bound_when_disjoint": 0.5
+      },
+      "quadrature_128_256_discrepancy": 2.453592884421596e-14,
+      "numerical_effect": {
+        "effect": [
+          [
+            [
+              0.5007763617549592,
+              0.0
+            ],
+            [
+              0.0,
+              0.0
+            ]
+          ],
+          [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              0.4992187115049061,
+              0.0
+            ]
+          ]
+        ],
+        "full_outgoing_trace_distances_for_energy_plus_Z0_Z1_complex_inputs": [
+          0.8645882658400666,
+          0.865075989459579,
+          0.8650687549030326,
+          0.8650759608022165
+        ],
+        "worst_case_pointer_event_error": 0.5000030699382748,
+        "energy_overlap_visibility": 0.0,
+        "coherence_error_floor": 0.5,
+        "incoming_energy_norms": [
+          0.9999999999999736,
+          0.9999999999999736
+        ],
+        "energy_transition_probabilities_plus_to_minus_and_reverse": [
+          0.49499282680645984,
+          0.4965324184943718
+        ],
+        "T1_unnormalized_energy_frame_offdiag_for_energy_plus_input": [
+          -0.25012678271899536,
+          0.010594229109074822
+        ],
+        "physical_reduced_offdiag_for_same_event_if_bands_disjoint": 0,
+        "click_probability_on_Z0": 0.4999975366299326,
+        "click_probability_on_Z1": 0.4999975366299326
+      }
+    },
+    {
+      "p0": 10,
+      "g": 1,
+      "omega": 0.1,
+      "momentum_half_band": 0.1,
+      "length": 15.707963267948966,
+      "clock_mean_kinetic_energy": 50.00065345483024,
+      "minimum_free_packet_position_spread": 15.707963267948966,
+      "analytic_bounds": {
+        "total_energy_min": 48.905,
+        "total_energy_max": 51.105,
+        "interface_reflection_amplitude_rho": 0.011247716616317275,
+        "interface_transmission_deviation_eta": 0.0166045257928429,
+        "slab_interface_error_bound": 0.03333557872185764,
+        "reflection_probability_bound": 0.0005061725811520962,
+        "matrix_phase_curvature_bound": 0.010249312496316866,
+        "noncommuting_free_dynamics_bound": 0.31765686336864113,
+        "angle_bandwidth_bound": 0.017487990048309032,
+        "transmitted_operator_error_bound": 0.37872974463512465,
+        "per_energy_scattering_isometry_error_bound": 0.37939740649158216,
+        "coherence_penalty_upper_bound": 0.02533714149002336,
+        "full_coherent_energy_shift_error_bound": 0.22510949109277184,
+        "full_outgoing_event_error_upper_bound": 0.6045068975843539,
+        "worst_case_pointer_event_error_upper_bound": 0.4047345479816055,
+        "disjoint_incoming_energy_bands": false,
+        "exact_coherence_lower_bound_when_disjoint": null
+      },
+      "quadrature_128_256_discrepancy": 1.9590556954440785e-09,
+      "numerical_effect": {
+        "effect": [
+          [
+            [
+              0.500760445668101,
+              0.0
+            ],
+            [
+              -0.47669126415314494,
+              -0.020293677953778202
+            ]
+          ],
+          [
+            [
+              -0.47669126415314494,
+              0.020293677953778205
+            ],
+            [
+              0.49920243461865693,
+              0.0
+            ]
+          ]
+        ],
+        "full_outgoing_trace_distances_for_energy_plus_Z0_Z1_complex_inputs": [
+          0.21152973415731502,
+          0.21421985907602908,
+          0.21444706561670948,
+          0.2143808972668659
+        ],
+        "worst_case_pointer_event_error": 0.030933562384158984,
+        "energy_overlap_visibility": 0.9543104454121456,
+        "coherence_error_floor": 0.0228447772939272,
+        "incoming_energy_norms": [
+          1.000000000119978,
+          1.000000000128282
+        ],
+        "energy_transition_probabilities_plus_to_minus_and_reverse": [
+          0.4950023914120676,
+          0.4965422825425608
+        ],
+        "T1_unnormalized_energy_frame_offdiag_for_energy_plus_input": [
+          -0.2501247360507883,
+          0.010595402131473175
+        ],
+        "physical_reduced_offdiag_for_same_event_if_bands_disjoint": null,
+        "click_probability_on_Z0": 0.023290175990234058,
+        "click_probability_on_Z1": 0.9766727042965239
+      }
+    },
+    {
+      "p0": 40,
+      "g": 4,
+      "omega": 0.1,
+      "momentum_half_band": 0.1,
+      "length": 15.707963267948966,
+      "clock_mean_kinetic_energy": 800.0006534548303,
+      "minimum_free_packet_position_spread": 15.707963267948966,
+      "analytic_bounds": {
+        "total_energy_min": 795.905,
+        "total_energy_max": 804.1050000000001,
+        "interface_reflection_amplitude_rho": 0.002575701371629706,
+        "interface_transmission_deviation_eta": 0.0038452813882185344,
+        "slab_interface_error_bound": 0.007697197058006284,
+        "reflection_probability_bound": 2.653730233162812e-05,
+        "matrix_phase_curvature_bound": 0.002096252142763204,
+        "noncommuting_free_dynamics_bound": 0.07874160418965316,
+        "angle_bandwidth_bound": 0.004035756998166764,
+        "transmitted_operator_error_bound": 0.0925708103885894,
+        "per_energy_scattering_isometry_error_bound": 0.09271403474303014,
+        "coherence_penalty_upper_bound": 0.0015523391834934895,
+        "full_coherent_energy_shift_error_bound": 0.055719640765056797,
+        "full_outgoing_event_error_upper_bound": 0.14843367550808695,
+        "worst_case_pointer_event_error_upper_bound": 0.09426637392652362,
+        "disjoint_incoming_energy_bands": false,
+        "exact_coherence_lower_bound_when_disjoint": null
+      },
+      "quadrature_128_256_discrepancy": 6.832305832205066e-10,
+      "numerical_effect": {
+        "effect": [
+          [
+            [
+              0.5000480449942358,
+              0.0
+            ],
+            [
+              -0.4984546060284074,
+              -0.0053457398538393095
+            ]
+          ],
+          [
+            [
+              -0.4984546060284074,
+              0.005345739853839308
+            ],
+            [
+              0.4999499203927215,
+              0.0
+            ]
+          ]
+        ],
+        "full_outgoing_trace_distances_for_energy_plus_Z0_Z1_complex_inputs": [
+          0.054884560021534474,
+          0.055549491418484614,
+          0.055609366623191096,
+          0.05558897907429641
+        ],
+        "worst_case_pointer_event_error": 0.005565869885136167,
+        "energy_overlap_visibility": 0.9969686869408134,
+        "coherence_error_floor": 0.00151565652959329,
+        "incoming_energy_norms": [
+          1.000000000044868,
+          1.000000000045922
+        ],
+        "energy_transition_probabilities_plus_to_minus_and_reverse": [
+          0.4996858751146941,
+          0.49978392858763676
+        ],
+        "T1_unnormalized_energy_frame_offdiag_for_energy_plus_input": [
+          -0.2500084332745218,
+          0.00268040098579685
+        ],
+        "physical_reduced_offdiag_for_same_event_if_bands_disjoint": null,
+        "click_probability_on_Z0": 0.0015443766650712343,
+        "click_probability_on_Z1": 0.998453588721886
+      }
+    },
+    {
+      "p0": 160,
+      "g": 16,
+      "omega": 0.1,
+      "momentum_half_band": 0.1,
+      "length": 15.707963267948966,
+      "clock_mean_kinetic_energy": 12800.00065345483,
+      "minimum_free_packet_position_spread": 15.707963267948966,
+      "analytic_bounds": {
+        "total_energy_min": 12783.905,
+        "total_energy_max": 12816.105,
+        "interface_reflection_amplitude_rho": 0.0006296982957856787,
+        "interface_transmission_deviation_eta": 0.0009433829333805974,
+        "slab_interface_error_bound": 0.0018871623868621384,
+        "reflection_probability_bound": 1.5860810326868266e-06,
+        "matrix_phase_curvature_bound": 0.00049892932692798,
+        "noncommuting_free_dynamics_bound": 0.019647310449420783,
+        "angle_bandwidth_bound": 0.0009885091587659251,
+        "transmitted_operator_error_bound": 0.023021911321976826,
+        "per_energy_scattering_isometry_error_bound": 0.0230563327949102,
+        "coherence_penalty_upper_bound": 9.654187243086465e-05,
+        "full_coherent_energy_shift_error_bound": 0.013895457706089761,
+        "full_outgoing_event_error_upper_bound": 0.03695179050099996,
+        "worst_case_pointer_event_error_upper_bound": 0.023152874667341065,
+        "disjoint_incoming_energy_bands": false,
+        "exact_coherence_lower_bound_when_disjoint": null
+      },
+      "quadrature_128_256_discrepancy": 1.843938335355233e-10,
+      "numerical_effect": {
+        "effect": [
+          [
+            [
+              0.5000030048502511,
+              0.0
+            ],
+            [
+              -0.4999021600382609,
+              -0.0013409563284283812
+            ]
+          ],
+          [
+            [
+              -0.4999021600382609,
+              0.0013409563284283812
+            ],
+            [
+              0.4999968691231568,
+              0.0
+            ]
+          ]
+        ],
+        "full_outgoing_trace_distances_for_energy_plus_Z0_Z1_complex_inputs": [
+          0.013818288676659666,
+          0.013983628040841183,
+          0.013998592520424711,
+          0.013993321398713773
+        ],
+        "worst_case_pointer_event_error": 0.0013445874439599425,
+        "energy_overlap_visibility": 0.9998080435728096,
+        "coherence_error_floor": 9.597821359519365e-05,
+        "incoming_energy_norms": [
+          1.0000000000122653,
+          1.0000000000123292
+        ],
+        "energy_transition_probabilities_plus_to_minus_and_reverse": [
+          0.4999803602341281,
+          0.49998649568336223
+        ],
+        "T1_unnormalized_energy_frame_offdiag_for_energy_plus_input": [
+          -0.25000052959213975,
+          0.000670597566411525
+        ],
+        "physical_reduced_offdiag_for_same_event_if_bands_disjoint": null,
+        "click_probability_on_Z0": 9.777694844306795e-05,
+        "click_probability_on_Z1": 0.9999020970249648
+      }
+    },
+    {
+      "p0": 640,
+      "g": 64,
+      "omega": 0.1,
+      "momentum_half_band": 0.1,
+      "length": 15.707963267948966,
+      "clock_mean_kinetic_energy": 204800.00065345483,
+      "minimum_free_packet_position_spread": 15.707963267948966,
+      "analytic_bounds": {
+        "total_energy_min": 204735.90499999997,
+        "total_energy_max": 204864.105,
+        "interface_reflection_amplitude_rho": 0.00015654313680555504,
+        "interface_transmission_deviation_eta": 0.00023474157761904174,
+        "slab_interface_error_bound": 0.00046950766099236493,
+        "reflection_probability_bound": 9.802301952794676e-08,
+        "matrix_phase_curvature_bound": 0.00012321823240855065,
+        "noncommuting_free_dynamics_bound": 0.004909506830473838,
+        "angle_bandwidth_bound": 0.0002458589567315711,
+        "transmitted_operator_error_bound": 0.005748091680606325,
+        "per_energy_scattering_isometry_error_bound": 0.005756611936563346,
+        "coherence_penalty_upper_bound": 6.0264108935292965e-06,
+        "full_coherent_energy_shift_error_bound": 0.0034717174117515092,
+        "full_outgoing_event_error_upper_bound": 0.009228329348314855,
+        "worst_case_pointer_event_error_upper_bound": 0.005762638347456875,
+        "disjoint_incoming_energy_bands": false,
+        "exact_coherence_lower_bound_when_disjoint": null
+      },
+      "quadrature_128_256_discrepancy": 4.699940436836414e-11,
+      "numerical_effect": {
+        "effect": [
+          [
+            [
+              0.5000001878122525,
+              0.0
+            ],
+            [
+              -0.4999938659880234,
+              -0.00033531058876063764
+            ]
+          ],
+          [
+            [
+              -0.4999938659880234,
+              0.00033531058876063764
+            ],
+            [
+              0.4999998043178433,
+              0.0
+            ]
+          ]
+        ],
+        "full_outgoing_trace_distances_for_energy_plus_Z0_Z1_complex_inputs": [
+          0.003460169811711433,
+          0.003501442645897899,
+          0.003505179470013241,
+          0.0035038524191357443
+        ],
+        "worst_case_pointer_event_error": 0.00033537068018023915,
+        "energy_overlap_visibility": 0.999987964719874,
+        "coherence_error_floor": 6.017640063027407e-06,
+        "incoming_energy_norms": [
+          1.0000000000030982,
+          1.000000000003142
+        ],
+        "energy_transition_probabilities_plus_to_minus_and_reverse": [
+          0.49999877248862146,
+          0.499999155981989
+        ],
+        "T1_unnormalized_energy_frame_offdiag_for_energy_plus_input": [
+          -0.25000003310990165,
+          0.00016765716646437645
+        ],
+        "physical_reduced_offdiag_for_same_event_if_bands_disjoint": null,
+        "click_probability_on_Z0": 6.130077024490976e-06,
+        "click_probability_on_Z1": 0.9999938620530713
+      }
+    }
+  ],
+  "limits": [
+    "analytic formulas provide model bounds; reported floating evaluations are not interval-certified",
+    "energy quadrature computes pointer effects, not a post-system channel obtained by wrongly tracing total energy",
+    "complete instrument retains outgoing energy coherences and maps back to physical momentum as derived in report",
+    "asymptotic readout, not finite-time first arrival or a cold-atom calibration",
+    "no gravitational refoliation or derivation of the supplied Hamiltonian"
+  ]
+}

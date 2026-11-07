@@ -1,0 +1,231 @@
+{
+  "status": "passed",
+  "guarded_joint_instrument_checks": [
+    {
+      "ladder_maximum": 12,
+      "uses": 2,
+      "initial_guard": 2,
+      "matrix_unit_outcome_checks": 64,
+      "maximum_shared_phase_formula_difference": 0.0,
+      "actual_ghz_wrong_parity_probability": 0.08594235253127362,
+      "shared_reference_correlations": {
+        "single_wrong_probability": 0.02447174185242321,
+        "joint_wrong_probability": 0.0029861537196048003,
+        "fresh_reference_product_prediction": 0.0005988661492916419,
+        "actual_error_covariance": 0.0023872875703131583
+      }
+    },
+    {
+      "ladder_maximum": 18,
+      "uses": 3,
+      "initial_guard": 3,
+      "matrix_unit_outcome_checks": 512,
+      "maximum_shared_phase_formula_difference": 0.0,
+      "actual_ghz_wrong_parity_probability": 0.09529165664357123,
+      "shared_reference_correlations": null
+    }
+  ],
+  "unguarded_boundary_counterexample": {
+    "ladder_maximum": 8,
+    "uses": 2,
+    "initial_guard": 1,
+    "matrix_unit_outcome_checks": 64,
+    "maximum_shared_phase_formula_difference": 0.006864684815940297,
+    "actual_ghz_wrong_parity_probability": 0.12814078323088543,
+    "shared_reference_correlations": null
+  },
+  "exact_updated_reservoir_checks": [
+    {
+      "ladder_maximum": 12,
+      "planned_uses": 2,
+      "updates": [
+        {
+          "use": 1,
+          "reservoir_mean_energy": 1.1,
+          "energy_variance": 0.1405572809000084,
+          "adjacent_coherence": 0.9510565162951535,
+          "fidelity_with_initial_reference": 0.9522542485937365
+        },
+        {
+          "use": 2,
+          "reservoir_mean_energy": 1.0,
+          "energy_variance": 0.15055728090000844,
+          "adjacent_coherence": 0.9510565162951534,
+          "fidelity_with_initial_reference": 0.8736979840210732
+        }
+      ],
+      "bottom_population_after_planned_uses": 0.004774575140626314,
+      "next_ground_readout_zero_label_bias": 0.002387287570313157,
+      "next_ground_readout_system_energy_gain": 0.09952254248593738
+    },
+    {
+      "ladder_maximum": 18,
+      "planned_uses": 3,
+      "updates": [
+        {
+          "use": 1,
+          "reservoir_mean_energy": 1.7,
+          "energy_variance": 0.2660866128382156,
+          "adjacent_coherence": 0.9749279121818234,
+          "fidelity_with_initial_reference": 0.9752422169756043
+        },
+        {
+          "use": 2,
+          "reservoir_mean_energy": 1.5999999999999999,
+          "energy_variance": 0.2760866128382156,
+          "adjacent_coherence": 0.9749279121818234,
+          "fidelity_with_initial_reference": 0.9313775215961733
+        },
+        {
+          "use": 3,
+          "reservoir_mean_energy": 1.5000000000000002,
+          "energy_variance": 0.2860866128382156,
+          "adjacent_coherence": 0.9749279121818235,
+          "fidelity_with_initial_reference": 0.8725290412537093
+        }
+      ],
+      "bottom_population_after_planned_uses": 0.0008842065365855432,
+      "next_ground_readout_zero_label_bias": 0.0004421032682927716,
+      "next_ground_readout_system_energy_gain": 0.09991157934634146
+    }
+  ],
+  "cases": [
+    {
+      "ladder_maximum_level": 128,
+      "ladder_dimension": 129,
+      "readouts": 2,
+      "guard": 2,
+      "effective_sine_denominator": 126,
+      "adjacent_coherence": 0.9996891820008165,
+      "ghz_parity_overlap": 0.9987667869235343,
+      "completed_joint_instrument_error_upper": 0.006135301385359161,
+      "fresh_reference_sum_of_one_use_error_bounds": 0.0009274245374163992,
+      "fresh_reference_ghz_wrong_parity_probability": 0.0003107696952692196,
+      "completed_joint_instrument_error_lower": 0.0006166065382328667,
+      "clock_positions": 32768,
+      "program_length": 15,
+      "clock_readout_window": [
+        65536.0,
+        131072.0
+      ],
+      "clock_boundary_log_norm_bound": -35370.4472905843,
+      "clock_noncompletion_probability_bound": 0.0011825561524125266,
+      "source_pending_probability_bound": 9.53674318359375e-07,
+      "complete_joint_record_error_upper": 0.0073106021993715265,
+      "reservoir_initial_mean_energy": 12.8,
+      "reservoir_maximum_energy": 25.6,
+      "all_ground_input_mean_reservoir_depletion": 0.2,
+      "all_ground_input_reservoir_fidelity_after_uses": 0.9990730039701208,
+      "necessary_ground_input_use_capacity_at_marginal_error_point01": 130.6122448979592,
+      "fixed_system_frequency": 0.1,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "gravitational_radial_level": 0,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "total_matter_energy_lower_bound": 5492.429835852545,
+      "total_matter_energy_upper_bound": 5518.492335852545,
+      "gravitational_margin": 214.01648455219038,
+      "physical_root_dimension": 277025390592,
+      "gravitational_inverse_checks": 12
+    },
+    {
+      "ladder_maximum_level": 512,
+      "ladder_dimension": 513,
+      "readouts": 4,
+      "guard": 4,
+      "effective_sine_denominator": 506,
+      "adjacent_coherence": 0.9999807262012052,
+      "ghz_parity_overlap": 0.999693157613511,
+      "completed_joint_instrument_error_upper": 0.0015217981552908921,
+      "fresh_reference_sum_of_one_use_error_bounds": 0.000115489689237247,
+      "fresh_reference_ghz_wrong_parity_probability": 3.854648316603537e-05,
+      "completed_joint_instrument_error_lower": 0.00015342119324451842,
+      "clock_positions": 131072,
+      "program_length": 29,
+      "clock_readout_window": [
+        262144.0,
+        524288.0
+      ],
+      "clock_boundary_log_norm_bound": -141483.86860387886,
+      "clock_noncompletion_probability_bound": 0.0005099177360986293,
+      "source_pending_probability_bound": 5.960464526367187e-08,
+      "complete_joint_record_error_upper": 0.0020309398995193764,
+      "reservoir_initial_mean_energy": 51.2,
+      "reservoir_maximum_energy": 102.4,
+      "all_ground_input_mean_reservoir_depletion": 0.4,
+      "all_ground_input_reservoir_fidelity_after_uses": 0.9998078917498433,
+      "necessary_ground_input_use_capacity_at_marginal_error_point01": 522.4489795918367,
+      "fixed_system_frequency": 0.1,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "gravitational_radial_level": 0,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "total_matter_energy_lower_bound": 5492.229835852545,
+      "total_matter_energy_upper_bound": 5595.492335852544,
+      "gravitational_margin": 213.81648455219056,
+      "physical_root_dimension": 288793326105133056,
+      "gravitational_inverse_checks": 12
+    },
+    {
+      "ladder_maximum_level": 2048,
+      "ladder_dimension": 2049,
+      "readouts": 8,
+      "guard": 8,
+      "effective_sine_denominator": 2034,
+      "adjacent_coherence": 0.9999988071996262,
+      "ghz_parity_overlap": 0.9999238587700655,
+      "completed_joint_instrument_error_upper": 0.000376718970205969,
+      "fresh_reference_sum_of_one_use_error_bounds": 1.430890734366308e-05,
+      "fresh_reference_ghz_wrong_parity_probability": 4.7711815764350796e-06,
+      "completed_joint_instrument_error_lower": 3.8070614967244953e-05,
+      "clock_positions": 524288,
+      "program_length": 57,
+      "clock_readout_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_boundary_log_norm_bound": -565937.5538570571,
+      "clock_noncompletion_probability_bound": 0.00023605301979276724,
+      "source_pending_probability_bound": 3.725290420532227e-09,
+      "complete_joint_record_error_upper": 0.000612683064348206,
+      "reservoir_initial_mean_energy": 204.8,
+      "reservoir_maximum_energy": 409.6,
+      "all_ground_input_mean_reservoir_depletion": 0.8,
+      "all_ground_input_reservoir_fidelity_after_uses": 0.9999571257263234,
+      "necessary_ground_input_use_capacity_at_marginal_error_point01": 2089.795918367347,
+      "fixed_system_frequency": 0.1,
+      "fixed_clock_hopping": 0.015625,
+      "fixed_source_excitation_energy": 5492.661085852545,
+      "gravitational_frequency": 4096.0,
+      "cosmological_constant": -22369621.333333332,
+      "gravitational_radial_level": 0,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "total_matter_energy_lower_bound": 5491.829835852544,
+      "total_matter_energy_upper_bound": 5903.092335852545,
+      "gravitational_margin": 213.41648455219,
+      "physical_root_dimension": 19816712035123001431783636992,
+      "gravitational_inverse_checks": 12
+    }
+  ],
+  "scope": [
+    "Same finite reservoir reused, full outcome histories retained; no fresh-state replacement.",
+    "Exact guarded common-phase channel identity is not a prior over interrogation times.",
+    "Joint entangled-input error and explicit error correlations differ from marginal visibility.",
+    "Planned-use guard has a real initial preparation cost; unguarded boundary dynamics are retained.",
+    "One source/clock program executes all readouts without reset; finite retention window only.",
+    "No arbitrary adaptive reuse, source/refill pump, reset engine or completed phenomenal constitution."
+  ]
+}

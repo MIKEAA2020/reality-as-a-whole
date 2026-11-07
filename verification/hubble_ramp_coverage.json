@@ -1,0 +1,1624 @@
+{
+  "source": "https://github.com/JQIamo/hubFrct_2021",
+  "expected_source_commit": "88c8a87aed5961f589db66a7e7e4e97f161ad51c",
+  "note": "Source commit is not verified here. Verify per-file hashes against the pinned inventory. Mean-radius gaps do not include systematic uncertainties.",
+  "timestamp_tolerance_seconds": 1e-09,
+  "max_atom_number_mean_error": 0.0,
+  "max_normalized_profile_error": 2.9103830456733704e-11,
+  "profile_slices_checked": 1490,
+  "profile_endpoint_slices_excluded": 56,
+  "summary": {
+    "expansions": {
+      "dynamic_protocols": 11,
+      "static_files_in_directory": 7,
+      "interior_samples_per_protocol": [
+        4
+      ],
+      "core_samples_per_protocol": [
+        2
+      ],
+      "interior_samples_with_mean_radius_20_to_30_um_inclusive": 0,
+      "core_radius_um_min": 19.76687990457177,
+      "core_radius_um_max": 35.714424218737214,
+      "nearest_mean_radius_below_25_um": 19.95028853669704,
+      "nearest_mean_radius_above_25_um": 35.27436949275887
+    },
+    "contractions": {
+      "dynamic_protocols": 17,
+      "static_files_in_directory": 7,
+      "interior_samples_per_protocol": [
+        4
+      ],
+      "core_samples_per_protocol": [
+        2
+      ],
+      "interior_samples_with_mean_radius_20_to_30_um_inclusive": 0,
+      "core_radius_um_min": 14.81358733024345,
+      "core_radius_um_max": 30.593060508667648,
+      "nearest_mean_radius_below_25_um": 15.084316786944905,
+      "nearest_mean_radius_above_25_um": 30.199979690574647
+    }
+  },
+  "records": [
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0351-0440.mat",
+      "sha256": "eddd5a886702f8823be3158d978da05b99f98662ba7ecb9cc69486a51b26efd3",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 43.20324220377386,
+      "static_fitted_frequency_hz": 16.262750616834253,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0441-0530.mat",
+      "sha256": "b8261aa6bb9a6eb1fe0e83e817f4cb7936a63b11a1de2134ce9f6a5ebac699e9",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 23.958210913792335,
+      "static_fitted_frequency_hz": 32.907678559683305,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0651-0740.mat",
+      "sha256": "d3194f12f1093ea79fd9b18629b1802ab6e8de949540f04308a7ec45480c8baa",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 16.740528188749902,
+      "static_fitted_frequency_hz": 50.77629469301518,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0741-0830.mat",
+      "sha256": "7ccd6e841da0109cdcfdeb4cb994ce5811dbce21f3a7283a3164478003778c16",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 11.92146414074528,
+      "static_fitted_frequency_hz": 78.69317301585554,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0831-0920.mat",
+      "sha256": "c7930118d7383c591f5b46866b58b59e6d329ccebe97ea62cb3c2073163e80b5",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 14.270599455224295,
+      "static_fitted_frequency_hz": 60.73083718795864,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-19_0921-1010.mat",
+      "sha256": "d6ffe81a83a862d396dfb7c3003d2f0f9db9ac7d9cb1b80d5ca3ca504abc76b3",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 31.172404798864942,
+      "static_fitted_frequency_hz": 24.469307136672963,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-20_0042-0101.mat",
+      "sha256": "d41cd7a0f6fc3a8097dd6ec67d7d4afd2f19b5cbe28c71c76e0c80cd01676c95",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.9103830456733704e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 38.37490819027195,
+      "static_fitted_frequency_hz": 19.984613435396202,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0163-0282.mat",
+      "sha256": "12f6547301f2cb3d4307f1070225d73cdced57c3821abe32921a62a0350ba752",
+      "ring_type": "All",
+      "start_ms": 11.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.546585164964199e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0,
+          "radius_um": 12.446756550083746,
+          "radius_dev_um": 0.028191512481182242,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.903945874884524,
+          "radius_dev_um": 0.05861791041484437,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000002,
+          "radius_um": 35.43493109460704,
+          "radius_dev_um": 0.03971786660405609,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.38722851501014,
+          "radius_dev_um": 0.04651007998406648,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0299-0418.mat",
+      "sha256": "f3264f4155a451063538c3f55e8c25be457540c9d103829360ca48b092cbcd47",
+      "ring_type": "All",
+      "start_ms": 17.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.9999999999999982,
+          "radius_um": 12.50149538451745,
+          "radius_dev_um": 0.012456302943905807,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.809865516228253,
+          "radius_dev_um": 0.07265193055405549,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 35.714424218737214,
+          "radius_dev_um": 0.36596067005809846,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.44786075679126,
+          "radius_dev_um": 0.03524411028187012,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0432-0551.mat",
+      "sha256": "03d35c9d22c0a10614e97d27973b925fd3c4b7fc8922da6107de54e759c65503",
+      "ring_type": "All",
+      "start_ms": 14.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0,
+          "radius_um": 12.382269132939898,
+          "radius_dev_um": 0.039241149047644745,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999982,
+          "radius_um": 19.88847828024907,
+          "radius_dev_um": 0.0843029855357508,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.0,
+          "radius_um": 35.401581109076695,
+          "radius_dev_um": 0.13413792610084338,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999998,
+          "radius_um": 38.38404833681444,
+          "radius_dev_um": 0.09798080565541507,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0564-0683.mat",
+      "sha256": "6f1e85cd4138c6008a49f96e5bda9edb1347fa77038601e41f9483c5868cdeb7",
+      "ring_type": "All",
+      "start_ms": 12.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0,
+          "radius_um": 12.430175714641587,
+          "radius_dev_um": 0.036237628777606994,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.807151815951247,
+          "radius_dev_um": 0.08788289356487744,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 35.484570836478575,
+          "radius_dev_um": 0.054993055676862274,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.36864119071546,
+          "radius_dev_um": 0.061469505287648184,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-23_0708-0827.mat",
+      "sha256": "2b2e6e511bbbbee760597432ace5daa7d3779faa81ef01174c98d5ce765df8c7",
+      "ring_type": "All",
+      "start_ms": 15.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.0913936421275139e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 12.467944165622816,
+          "radius_dev_um": 0.0361206415629246,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.76687990457177,
+          "radius_dev_um": 0.13412712123709516,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 35.59874023564284,
+          "radius_dev_um": 0.10450430498431018,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.36506469146971,
+          "radius_dev_um": 0.06416313749507101,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0100-0219.mat",
+      "sha256": "58871ff39edde75433f5ead196ffa1b857a375972cf542ced7ea4566a4f60673",
+      "ring_type": "All",
+      "start_ms": 20.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.9999999999999982,
+          "radius_um": 12.403777686895744,
+          "radius_dev_um": 0.02782012956580153,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.805867016859953,
+          "radius_dev_um": 0.10291329656973983,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 35.387105390397004,
+          "radius_dev_um": 0.04949362590362506,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.39613075545473,
+          "radius_dev_um": 0.05571820077183127,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0299-0418.mat",
+      "sha256": "1819210610dd255643781e93f9fcd98cfd343cb48559b1387770629dc41a29a1",
+      "ring_type": "All",
+      "start_ms": 23.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 12.374963998196149,
+          "radius_dev_um": 0.014861581193983989,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.88147712745015,
+          "radius_dev_um": 0.046423522829543144,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000002,
+          "radius_um": 35.381767511166665,
+          "radius_dev_um": 0.12457523751574627,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.37363305534411,
+          "radius_dev_um": 0.012154349526281638,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0431-0550.mat",
+      "sha256": "72b60bb787b637926cf8fb91beacd448d988d4c0e2a96ab6ae64b84dd3f68244",
+      "ring_type": "All",
+      "start_ms": 9.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0,
+          "radius_um": 12.392290772571386,
+          "radius_dev_um": 0.09146319732092503,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.80668261447752,
+          "radius_dev_um": 0.0636480152863873,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.0,
+          "radius_um": 35.27436949275887,
+          "radius_dev_um": 0.1636857813651325,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.000000000000002,
+          "radius_um": 38.3137132591653,
+          "radius_dev_um": 0.012119917463561081,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0563-0682.mat",
+      "sha256": "bfac65730354a1578d8597e85515fdedea84894a8a75165279d003bfa28aea4f",
+      "ring_type": "All",
+      "start_ms": 21.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 12.367878771330012,
+          "radius_dev_um": 0.06491227192633704,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.889941521088847,
+          "radius_dev_um": 0.05803473534784435,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000002,
+          "radius_um": 35.4740623402568,
+          "radius_dev_um": 0.05612351094063352,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.443488538356185,
+          "radius_dev_um": 0.07055152293654593,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0695-0814.mat",
+      "sha256": "47a6fa7cbcf4adc1bd5eb1bc8e08c47a849a14072d7d2af2dc3035b4dbbb6873",
+      "ring_type": "All",
+      "start_ms": 8.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0,
+          "radius_um": 12.422939006513753,
+          "radius_dev_um": 0.034604000556264634,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 19.83426923494765,
+          "radius_dev_um": 0.13385608092078763,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.0,
+          "radius_um": 35.402749157686124,
+          "radius_dev_um": 0.1644890482315738,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.33546731733611,
+          "radius_dev_um": 0.016743437956244858,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/expansions/PhnRuns_2021-02-24_0827-0946.mat",
+      "sha256": "689720a0a2329adf02acc74f657ce0f493d991e454e7abdb09653221595c584a",
+      "ring_type": "All",
+      "start_ms": 6.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.000000000000001,
+          "radius_um": 12.26093013303773,
+          "radius_dev_um": 0.08558965932221302,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.000000000000001,
+          "radius_um": 19.95028853669704,
+          "radius_dev_um": 0.12185978085141926,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000001,
+          "radius_um": 35.59196727693125,
+          "radius_dev_um": 0.04292916827295425,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 38.351030508692595,
+          "radius_dev_um": 0.02003695390826282,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0351-0440.mat",
+      "sha256": "c32e96c1364190a03d3316a9edf7f02c1353a4f141e4f3adbf30a9c66a1354c8",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 43.20324220377386,
+      "static_fitted_frequency_hz": 16.262750616834253,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0441-0530.mat",
+      "sha256": "ee1eccd7f7c065cb0c62799b97315a3400360d68132ea92ec1f8dc6f5ab3f3e0",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 23.958210913792335,
+      "static_fitted_frequency_hz": 32.907678559683305,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0651-0740.mat",
+      "sha256": "8490b367d6d351ab481d90cb2de087e2b020eb68048053ba565c70d0770f57dc",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 16.740528188749902,
+      "static_fitted_frequency_hz": 50.77629469301518,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0741-0830.mat",
+      "sha256": "c1d5fbcdbebfa07c781a89e19cdec150feb8258c0bb85cf03cd3726b00f5c6da",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 11.92146414074528,
+      "static_fitted_frequency_hz": 78.69317301585554,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0831-0920.mat",
+      "sha256": "8f61418b860ba6bf47382dc91818d137e70ca9596de575088dbaf7700eff376a",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 14.270599455224295,
+      "static_fitted_frequency_hz": 60.73083718795864,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-19_0921-1010.mat",
+      "sha256": "7561562cd4dedf43825c1941ab5589a8493730a511051910f98b669005c70ca2",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 31.172404798864942,
+      "static_fitted_frequency_hz": 24.469307136672963,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0042-0101.mat",
+      "sha256": "325dd2d27f454b81b58ca9a661ac88fcfc105b364d334b262739b1dbd35fdd94",
+      "ring_type": "Initial",
+      "start_ms": 1000.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 30,
+      "phonon_preparations_per_slice": [
+        2
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.9103830456733704e-11,
+      "profile_slices_checked": 30,
+      "profile_endpoint_slices_excluded": 0,
+      "static_mean_radius_um": 38.37490819027195,
+      "static_fitted_frequency_hz": 19.984613435396202,
+      "interior_ramp_samples": []
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0115-0234.mat",
+      "sha256": "5c398ecd4b6f42bebae75d3c1a6887e87e5421ff99a774debe8973a4e6f42c12",
+      "ring_type": "All",
+      "start_ms": 55.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.546585164964199e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.90147558853611,
+          "radius_dev_um": 0.10900595081354043,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.337520249822443,
+          "radius_dev_um": 0.12201115084106796,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.846455901455954,
+          "radius_dev_um": 0.02448126552648051,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.083509469014421,
+          "radius_dev_um": 0.14322354056733838,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0247-0366.mat",
+      "sha256": "f157c46b0e6d59d43d44099228d7c28d7cd0fade7512de040bd086c0c9325035",
+      "ring_type": "All",
+      "start_ms": 35.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.999999999999995,
+          "radius_um": 37.8884463922142,
+          "radius_dev_um": 0.06906034778384411,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.434370677097075,
+          "radius_dev_um": 0.07816550379537003,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.90868093203926,
+          "radius_dev_um": 0.058175825778184635,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.163236718253193,
+          "radius_dev_um": 0.021149264139739787,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0379-0498.mat",
+      "sha256": "f33a5dec313ed658c3833495ee62b86dc33b00995ee7a8b467b4c80812c9a160",
+      "ring_type": "All",
+      "start_ms": 42.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.999999999999995,
+          "radius_um": 37.98407414592927,
+          "radius_dev_um": 0.02824012610558823,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.345413016517977,
+          "radius_dev_um": 0.17411032037932025,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.86146688234188,
+          "radius_dev_um": 0.031771877504762194,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.169677513974989,
+          "radius_dev_um": 0.11371540817152322,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0511-0630.mat",
+      "sha256": "1c1d583a4d11019e76323ff690083411f37e25fba4142e0508422bcffbb8e2c7",
+      "ring_type": "All",
+      "start_ms": 30.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.90426072834069,
+          "radius_dev_um": 0.01938531231581752,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.42957563649667,
+          "radius_dev_um": 0.06185136878262437,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.886483117354755,
+          "radius_dev_um": 0.10883689643934487,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.115179434037428,
+          "radius_dev_um": 0.05038153732361574,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-20_0649-0768.mat",
+      "sha256": "1695f907441981e4c7a21b0677aa842132ac259be0adc4eeca8e149bef77ff73",
+      "ring_type": "All",
+      "start_ms": 50.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.999999999999995,
+          "radius_um": 37.89855732900688,
+          "radius_dev_um": 0.06971986427598499,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.304905933892456,
+          "radius_dev_um": 0.0724116833245712,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.908713953909661,
+          "radius_dev_um": 0.16528130766579102,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.139514094419988,
+          "radius_dev_um": 0.05220785465033309,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0103-0222.mat",
+      "sha256": "ab4ed159f151dd146ed237b6493574c2f29b69c8d2304f37c1b64fe55480f030",
+      "ring_type": "All",
+      "start_ms": 38.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.546585164964199e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.93793657698286,
+          "radius_dev_um": 0.05181735900748986,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.36519639292403,
+          "radius_dev_um": 0.06041690594074247,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.941416693629881,
+          "radius_dev_um": 0.06418166938641273,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.029095384734708,
+          "radius_dev_um": 0.04085683054573036,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0433-0558.mat",
+      "sha256": "6382bd36e5ec58dfd63076bb0fb1e72302616f1bdf17c31f2b36f12308bc7366",
+      "ring_type": "All",
+      "start_ms": 65.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 42,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.546585164964199e-11,
+      "profile_slices_checked": 40,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.91367158961837,
+          "radius_dev_um": 0.03493666466638296,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.485371950854628,
+          "radius_dev_um": 0.09733434996213532,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999991,
+          "radius_um": 15.044277835603628,
+          "radius_dev_um": 0.05850103414402859,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.00793823436284,
+          "radius_dev_um": 0.08808469732761295,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0571-0696.mat",
+      "sha256": "a47e014182fb5ea4d4fb671d0662d26cc295c012ae2d87de7df2b5c98bf5c463",
+      "ring_type": "All",
+      "start_ms": 70.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 42,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.546585164964199e-11,
+      "profile_slices_checked": 40,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.999999999999988,
+          "radius_um": 37.93194127644156,
+          "radius_dev_um": 0.018210957791126112,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.99999999999999,
+          "radius_um": 30.3377090966798,
+          "radius_dev_um": 0.11330679185830529,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999991,
+          "radius_um": 15.084316786944905,
+          "radius_dev_um": 0.05370835535717589,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.083323024811412,
+          "radius_dev_um": 0.07704783223810738,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0709-0834.mat",
+      "sha256": "a149090b3492703590e6dec390de7bcdcfe5e98770f9812a9b1c9f7f1e6614b3",
+      "ring_type": "All",
+      "start_ms": 60.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 42,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 40,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.94461246744492,
+          "radius_dev_um": 0.07657952802581847,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.5620340394408,
+          "radius_dev_um": 0.21285381525439462,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000005,
+          "radius_um": 15.07985154339012,
+          "radius_dev_um": 0.1201344209711036,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.000000000000007,
+          "radius_um": 12.043041405133932,
+          "radius_dev_um": 0.03430245808543195,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0847-0966.mat",
+      "sha256": "490d4b501543941d98611f00fb63bbbd0d1d583fbba745363cf2d3dcab0482b8",
+      "ring_type": "All",
+      "start_ms": 36.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.907420794926814,
+          "radius_dev_um": 0.03560662356420255,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.416941985173555,
+          "radius_dev_um": 0.13805112492853905,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000005,
+          "radius_um": 14.941795278982646,
+          "radius_dev_um": 0.02851665023386732,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.121918336366017,
+          "radius_dev_um": 0.12733547289954467,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-22_0980-1099.mat",
+      "sha256": "851edeb0926cef32746b8d369e764e12c9d19e1c4f039bb8fef933402382934f",
+      "ring_type": "All",
+      "start_ms": 32.5,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.942548954666144,
+          "radius_dev_um": 0.025213715262971666,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.47623702871506,
+          "radius_dev_um": 0.13910091436350333,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.948811554633316,
+          "radius_dev_um": 0.02824762758109226,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.082194110555522,
+          "radius_dev_um": 0.045843081936570496,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0113-0232.mat",
+      "sha256": "3db2f10e54ff0bde466a5f12e332fdfbb254c02a2658ea044cd8608b0eb12610",
+      "ring_type": "All",
+      "start_ms": 31.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.88389782570351,
+          "radius_dev_um": 0.050594405379420504,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.302835141359935,
+          "radius_dev_um": 0.1019150924190559,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.918753846467192,
+          "radius_dev_um": 0.05892822449573585,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.0,
+          "radius_um": 12.095099345314628,
+          "radius_dev_um": 0.09082904415960465,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0245-0364.mat",
+      "sha256": "eac81b56b7c612ce75c8433f098b26519522339bf25c39bce1354d1e8fc7faf5",
+      "ring_type": "All",
+      "start_ms": 27.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.0913936421275139e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.94591170166823,
+          "radius_dev_um": 0.018150142491084424,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0,
+          "radius_um": 30.593060508667648,
+          "radius_dev_um": 0.08847017644690668,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000002,
+          "radius_um": 14.920495738284766,
+          "radius_dev_um": 0.02161533051130992,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.000000000000004,
+          "radius_um": 11.976765563441228,
+          "radius_dev_um": 0.08094810326985129,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0377-0496.mat",
+      "sha256": "f15e9c154eda7bd159b37dab03a8ebf154815138d1333a3695348d8db44f7cc5",
+      "ring_type": "All",
+      "start_ms": 35.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.1827872842550278e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 1.999999999999995,
+          "radius_um": 37.80398764567115,
+          "radius_dev_um": 0.03338022389459682,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.9999999999999964,
+          "radius_um": 30.312626905276023,
+          "radius_dev_um": 0.05551888798052278,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999998,
+          "radius_um": 14.949747775656911,
+          "radius_dev_um": 0.09278678374419322,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.057429571171133,
+          "radius_dev_um": 0.03397874273692901,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0509-0628.mat",
+      "sha256": "17c7b8de83231f121b5e0e78285f5e22b61bffae32ab4780b1a3a659efb87766",
+      "ring_type": "All",
+      "start_ms": 59.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        2,
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.8189894035458565e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 38.06718663423788,
+          "radius_dev_um": 0.07651876687716329,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.199979690574647,
+          "radius_dev_um": 0.03516294131190852,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000005,
+          "radius_um": 14.939727701054963,
+          "radius_dev_um": 0.13686779491121354,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 8.000000000000007,
+          "radius_um": 12.035755129061068,
+          "radius_dev_um": 0.0829991903060533,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0641-0760.mat",
+      "sha256": "06d8021176410ce5bd402b03219171f01e4855987cd25f5d3bca69127e2a9857",
+      "ring_type": "All",
+      "start_ms": 63.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 1.4551915228366852e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.93683169755841,
+          "radius_dev_um": 0.06369841100989082,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 4.0000000000000036,
+          "radius_um": 30.437654401941472,
+          "radius_dev_um": 0.15420525623400516,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 6.000000000000005,
+          "radius_um": 14.895174120941109,
+          "radius_dev_um": 0.14753126306733538,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.09020138321538,
+          "radius_dev_um": 0.058199452351517654,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    },
+    {
+      "path": "data/contractions/PhnRuns_2021-02-25_0776-0895.mat",
+      "sha256": "05e08c596f9c7247d7778077e276e0aebbf892bb56a3368000d07c43f06b7cb7",
+      "ring_type": "All",
+      "start_ms": 67.0,
+      "programmed_duration_ms": 10.0,
+      "time_slices": 40,
+      "phonon_preparations_per_slice": [
+        3
+      ],
+      "max_atom_number_mean_error": 0.0,
+      "max_normalized_profile_error": 2.9103830456733704e-11,
+      "profile_slices_checked": 38,
+      "profile_endpoint_slices_excluded": 2,
+      "static_mean_radius_um": null,
+      "static_fitted_frequency_hz": null,
+      "interior_ramp_samples": [
+        {
+          "offset_ms": 2.0000000000000018,
+          "radius_um": 37.88867564273345,
+          "radius_dev_um": 0.07298253667718879,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        },
+        {
+          "offset_ms": 3.99999999999999,
+          "radius_um": 30.27228073786416,
+          "radius_dev_um": 0.14350362631653182,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 5.999999999999991,
+          "radius_um": 14.81358733024345,
+          "radius_dev_um": 0.16502080657569415,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": true
+        },
+        {
+          "offset_ms": 7.999999999999993,
+          "radius_um": 12.00920758512027,
+          "radius_dev_um": 0.05398323191040319,
+          "phonon_preparations": 3,
+          "in_3_6ms_center_window": false
+        }
+      ]
+    }
+  ]
+}

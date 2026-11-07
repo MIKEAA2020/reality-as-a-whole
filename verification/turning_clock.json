@@ -1,0 +1,103 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational real and imaginary parts",
+  "regular_atlas_cycle": [
+    {
+      "q": "1",
+      "r": "0",
+      "regular_chart": "r, orientation 1"
+    },
+    {
+      "q": "3/5",
+      "r": "4/5",
+      "regular_chart": "q, orientation 1"
+    },
+    {
+      "q": "0",
+      "r": "1",
+      "regular_chart": "q, orientation 1"
+    },
+    {
+      "q": "-3/5",
+      "r": "4/5",
+      "regular_chart": "q, orientation 1"
+    },
+    {
+      "q": "-1",
+      "r": "0",
+      "regular_chart": "r, orientation -1"
+    },
+    {
+      "q": "-3/5",
+      "r": "-4/5",
+      "regular_chart": "q, orientation -1"
+    },
+    {
+      "q": "0",
+      "r": "-1",
+      "regular_chart": "q, orientation -1"
+    },
+    {
+      "q": "3/5",
+      "r": "-4/5",
+      "regular_chart": "q, orientation -1"
+    },
+    {
+      "q": "1",
+      "r": "0",
+      "regular_chart": "r, orientation 1"
+    }
+  ],
+  "overlap_chain_rule_checks": 4,
+  "full_cycle_transport": "identity",
+  "three_event_records_crossing_q_turn": [
+    {
+      "record": "000",
+      "probability": "2/125"
+    },
+    {
+      "record": "001",
+      "probability": "18/125"
+    },
+    {
+      "record": "010",
+      "probability": "72/125"
+    },
+    {
+      "record": "011",
+      "probability": "8/125"
+    },
+    {
+      "record": "100",
+      "probability": "2/125"
+    },
+    {
+      "record": "101",
+      "probability": "18/125"
+    },
+    {
+      "record": "110",
+      "probability": "9/250"
+    },
+    {
+      "record": "111",
+      "probability": "1/250"
+    }
+  ],
+  "record_normalization_and_all_prefixes": true,
+  "same_unoriented_reading_wrong_frame_changes_records": true,
+  "folded_clock_offdiagonal_factor": "q",
+  "q_zero_erases_plus_minus_distinction": true,
+  "analytic_not_finite_discretization": [
+    "periodic self-adjoint constraint and exact physical kernel",
+    "Jacobian-correct arcsine clock measure",
+    "regular q/r atlas and integrable turning singularity",
+    "density connection for half-density amplitudes"
+  ],
+  "not_supplied": [
+    "autonomous winding counter",
+    "unbounded physical time",
+    "interacting clock-matter deparametrization",
+    "gravitational refoliation"
+  ]
+}

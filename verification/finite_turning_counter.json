@@ -1,0 +1,46 @@
+{
+  "clock_vertices": 13,
+  "memory_dimension": 6,
+  "constraint_kernel_dimension": 6,
+  "valid_decoded_tau_over_a": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "overflow_counter_flag": [
+    2,
+    1
+  ],
+  "overflow_detected_probability": "4/5",
+  "overflow_erased_probability": "1/5",
+  "same_event_probabilities_frame_0_and_4": [
+    "1",
+    "1"
+  ],
+  "incorrect_same_matrix_probability_frame_0": "0",
+  "readout_probabilities_for_counter_0_1_erasure": [
+    "2/5",
+    "2/5",
+    "1/5"
+  ],
+  "joint_probabilities_counter_0_1_erasure_then_plus": [
+    "1/5",
+    "1/5",
+    "1/10"
+  ],
+  "discarded_readout_trace_distance_for_chosen_superposition": "1/2",
+  "basis_vectors_checked_for_dirac_commutator": 78,
+  "cyclic_clock_blank_history_constraint_expectation": "1/2",
+  "cyclic_clock_uniform_counter_is_zero_mode": true,
+  "cyclic_counter_fixed_subspace_dimension_with_flag": 2,
+  "scope": "finite engineered history; no physical laboratory, gravity or phenomenal claim"
+}

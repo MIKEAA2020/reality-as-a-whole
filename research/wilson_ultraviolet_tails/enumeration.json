@@ -1,0 +1,100 @@
+{
+  "scope": "unbounded continuum excitation support; explicit low-angle Wilson preparations; numerical mode sums with analytic tails",
+  "infinite_expected_number": 1,
+  "infinite_continuum_total_energy": 2.5,
+  "weighted_raw_moment_bounds": [
+    1,
+    3,
+    11,
+    51,
+    299
+  ],
+  "position": 0.7,
+  "time": 0.3,
+  "target_40_modes": 0.32892929234670093,
+  "omitted_target_bound_40_modes": 6.224274832631181e-12,
+  "joint_cutoff_spacing": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "retained_modes": 6,
+      "largest_retained_physical_momentum": 7,
+      "largest_retained_angle": 0.109375,
+      "current": 0.30487152238964305,
+      "linear_and_gram": [
+        0.3037197691496529,
+        0.0011517532399901989
+      ],
+      "observed_error_to_40_mode_target": 0.024057769957057884,
+      "analytic_error_bound_to_infinite_target": 0.0732449187091387,
+      "omitted_continuum_target_bound": 0.02238116387229778,
+      "independent_local_hamiltonian_energy": 0.311417965768513,
+      "independent_total_hamiltonian_energy": 2.366919040968185,
+      "total_energy_error_bound": 0.141143798828125
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "retained_modes": 8,
+      "largest_retained_physical_momentum": 9,
+      "largest_retained_angle": 0.03515625,
+      "current": 0.3214814158297889,
+      "linear_and_gram": [
+        0.32111491130916964,
+        0.0003665045206192825
+      ],
+      "observed_error_to_40_mode_target": 0.007447876516912033,
+      "analytic_error_bound_to_infinite_target": 0.019459634380023134,
+      "omitted_continuum_target_bound": 0.006838688960979878,
+      "independent_local_hamiltonian_energy": 0.32352999086218226,
+      "independent_total_hamiltonian_energy": 2.458963968438555,
+      "total_energy_error_bound": 0.04300117492675781
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "retained_modes": 10,
+      "largest_retained_physical_momentum": 11,
+      "largest_retained_angle": 0.0107421875,
+      "current": 0.3267587854371103,
+      "linear_and_gram": [
+        0.3266581254922221,
+        0.00010065994488814952
+      ],
+      "observed_error_to_40_mode_target": 0.0021705069095906415,
+      "analytic_error_bound_to_infinite_target": 0.00516984276014482,
+      "omitted_continuum_target_bound": 0.0020205217384713274,
+      "independent_local_hamiltonian_energy": 0.32732300173224294,
+      "independent_total_hamiltonian_energy": 2.4877915817708423,
+      "total_energy_error_bound": 0.012697339057922363
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "retained_modes": 12,
+      "largest_retained_physical_momentum": 13,
+      "largest_retained_angle": 0.003173828125,
+      "current": 0.32831671708820664,
+      "linear_and_gram": [
+        0.3282906539823095,
+        2.6063105897128988e-05
+      ],
+      "observed_error_to_40_mode_target": 0.0006125752584942856,
+      "analytic_error_bound_to_infinite_target": 0.0013698036947735652,
+      "omitted_continuum_target_bound": 0.0005828428091744215,
+      "independent_local_hamiltonian_energy": 0.3284635110108685,
+      "independent_total_hamiltonian_energy": 2.496459871243282,
+      "total_energy_error_bound": 0.0036622360348701477
+    }
+  ],
+  "finite_CAR": {
+    "covariance_eigenvalues": [
+      0.4179768073499299,
+      0.5873038387455485
+    ],
+    "density_trace": 1.0,
+    "actual_relative_expectation": 0.34653623165593217,
+    "formula": 0.3465362316560336,
+    "agreement_error": 1.0141887329950805e-13
+  }
+}

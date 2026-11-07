@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "scope": "first-order field amplitude on exact homogeneous clock-and-rod FLRW background; coupled linear scalar fields, finite-mode RK4",
+  "parameters": {
+    "f": 0.5,
+    "tau": 1.5,
+    "pulse_end_clock": 0.4,
+    "end_clock": 0.6,
+    "lambda": 0.01,
+    "fourier_modes": 12,
+    "rk4_steps": 2400
+  },
+  "bump_normalization": 0.0070298584066096565,
+  "balanced": {
+    "0.4": {
+      "scale_factor": 1.1487864686054252,
+      "reference_signal": 0.9573471227958064,
+      "detector_zero_mode": 0.009999864637240702,
+      "detector_zero_mode_clock_slope": 1.2343714572916042e-07,
+      "detector_mode1": 0.019730948904146964
+    },
+    "0.5": {
+      "scale_factor": 1.191849794956427,
+      "reference_signal": 0.9301872709104588,
+      "detector_zero_mode": 0.009999876980954947,
+      "detector_zero_mode_clock_slope": 1.2343714572916042e-07,
+      "detector_mode1": 0.019385721956331307
+    },
+    "0.6": {
+      "scale_factor": 1.2379174440674403,
+      "reference_signal": 0.8946799474195373,
+      "detector_zero_mode": 0.009999889324669192,
+      "detector_zero_mode_clock_slope": 1.2343714572916042e-07,
+      "detector_mode1": 0.018866478700639382
+    }
+  },
+  "half_lambda": {
+    "0.4": {
+      "scale_factor": 1.1487864686054252,
+      "reference_signal": 0.9573471227958064,
+      "detector_zero_mode": 0.004999983079643549,
+      "detector_zero_mode_clock_slope": 1.5429671860424678e-08,
+      "detector_mode1": 0.009865561766709477
+    },
+    "0.5": {
+      "scale_factor": 1.191849794956427,
+      "reference_signal": 0.9301872709104588,
+      "detector_zero_mode": 0.004999984622610692,
+      "detector_zero_mode_clock_slope": 1.5429671860424678e-08,
+      "detector_mode1": 0.009692938974533752
+    },
+    "0.6": {
+      "scale_factor": 1.2379174440674403,
+      "reference_signal": 0.8946799474195373,
+      "detector_zero_mode": 0.004999986165577835,
+      "detector_zero_mode_clock_slope": 1.5429671860424678e-08,
+      "detector_mode1": 0.009433307330059525
+    }
+  },
+  "unbalanced_positive_pulse": {
+    "0.4": {
+      "scale_factor": 1.1487864686054252,
+      "reference_signal": 0.9573471227958064,
+      "detector_zero_mode": -0.00025805393315117136,
+      "detector_zero_mode_clock_slope": -0.0013303772789526524,
+      "detector_mode1": -0.0005134668779649346
+    },
+    "0.5": {
+      "scale_factor": 1.191849794956427,
+      "reference_signal": 0.9301872709104588,
+      "detector_zero_mode": -0.0003910916610464275,
+      "detector_zero_mode_clock_slope": -0.0013303772789526524,
+      "detector_mode1": -0.0007733253849752448
+    },
+    "0.6": {
+      "scale_factor": 1.2379174440674403,
+      "reference_signal": 0.8946799474195373,
+      "detector_zero_mode": -0.0005241293889416894,
+      "detector_zero_mode_clock_slope": -0.0013303772789526524,
+      "detector_mode1": -0.001026180849746293
+    }
+  },
+  "uniform_coupling_control": {
+    "0.4": {
+      "scale_factor": 1.1487864686054268,
+      "reference_signal": 0.9573471227958035,
+      "detector_zero_mode": 0.0,
+      "detector_zero_mode_clock_slope": 0.0,
+      "detector_mode1": 0.01973111007315968
+    },
+    "0.5": {
+      "scale_factor": 1.1918497949564293,
+      "reference_signal": 0.9301872709104564,
+      "detector_zero_mode": 0.0,
+      "detector_zero_mode_clock_slope": 0.0,
+      "detector_mode1": 0.019385865923289534
+    },
+    "0.6": {
+      "scale_factor": 1.2379174440674394,
+      "reference_signal": 0.8946799474195354,
+      "detector_zero_mode": 0.0,
+      "detector_zero_mode_clock_slope": 0.0,
+      "detector_mode1": 0.018866604176498773
+    }
+  },
+  "endpoint_error_ratio_halving_lambda": 7.999994544450609,
+  "post_pulse_slope_ratio_halving_lambda": 7.999985148469839,
+  "coarse_endpoint_difference": -7.216449660063518e-16,
+  "time_only_refinement_difference": -7.216449660063518e-16,
+  "mode_only_refinement_difference": 0.0,
+  "limitations": "No nonlinear inhomogeneous Einstein evolution, POVM, readout, noise or persistence theorem."
+}

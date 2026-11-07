@@ -1,0 +1,44 @@
+{
+  "verifier": "kerr_bounce_rotational",
+  "number": 72,
+  "all_pass": true,
+  "checks": {
+    "K1_BKL_rotational_decouple": true,
+    "K1_Vrot_over_Vcurv_deep_collapse": 4.0507493961115775e-42,
+    "K1_kasner_sum_check": true,
+    "K2_bounce_exists_sub_extremal": true,
+    "K2_neck_Planckian": true,
+    "K2_neck_radii": {
+      "0.0": {
+        "R_neck": 0.049707,
+        "R_horizon": 19.949873
+      },
+      "0.5": {
+        "R_neck": 1.838762,
+        "R_horizon": 18.598122
+      },
+      "0.8": {
+        "R_neck": 4.373773,
+        "R_horizon": 15.89463
+      }
+    },
+    "K3_NEC_violation_at_neck": true,
+    "K3_NEC_restored_outside": true,
+    "K3_violation_width_Planck": 3.5,
+    "K4_angular_momentum_conserved": true,
+    "K5_over_extremal_no_bounce": true,
+    "K6_Hawking_T_positive_schw": true,
+    "K6_T_zero_at_extremality": true,
+    "K6_T_schwarzschild": 0.0039788735772973835,
+    "K6_T_extremal": 0.0
+  },
+  "parameters": {
+    "M_Planck_units": 10.0,
+    "mu": 1.0,
+    "T_Schwarzschild_expected": 0.0039788735772973835,
+    "T_Thorne_limit": 0.0004731318894418021,
+    "neck_scale_Planck": 4.373773,
+    "L_max_extremal": 10.0
+  },
+  "physics_conclusion": "Rotating (Kerr) black holes undergo a polymer/spectral-action bounce mirroring the Schwarzschild case. BKL rotational decoupling guarantees that near the would-be singularity (\u03b1\u2192-\u221e in Misner coordinates) the angular-momentum potential is exponentially suppressed relative to the Kasner centrifugal walls (V_rot/V_curv < 10^{-10} at \u03b1=-10), reducing near-neck dynamics to an AVTD Kasner bounce with rotation as a conserved charge. A finite bounce neck exists for all sub-extremal Kerr (a < M); angular momentum J is strictly conserved (axial Killing vector survives quantum corrections); NEC violation is confined to a Planckian ~3.5/\u03bc window (same as spherical); and Hawking temperature correctly goes to zero at extremality (third law of black hole mechanics), eliminating naked singularities in the over-extremal regime (a > M has no trapped neck because over-extremal Kerr is not formed from physical collapse)."
+}

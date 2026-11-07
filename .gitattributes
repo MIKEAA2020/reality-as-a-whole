@@ -1,0 +1,6 @@
+# Markdown deliberately uses trailing spaces for hard line breaks.
+*.md whitespace=-blank-at-eol
+
+# Preserve archived transcripts and pinned third-party sources byte-for-byte.
+# Their existing whitespace is evidence, not project formatting to rewrite.
+sources/** -text -whitespace

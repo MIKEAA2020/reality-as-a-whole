@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "declared_actual_history": [
+    1,
+    0,
+    0
+  ],
+  "cases": [
+    {
+      "noise_q": "0",
+      "global_support_size": 4,
+      "A_class_size": 2,
+      "B_class_size": 1,
+      "joint_record_class_size": 1,
+      "B_knows_x_in_this_model": true,
+      "B_guess_x_from_message_success": "1",
+      "tv_B_under_do_x": "1",
+      "tv_A_under_do_y": "0",
+      "I_x_message_given_y_bits": 1.0
+    },
+    {
+      "noise_q": "1/10",
+      "global_support_size": 8,
+      "A_class_size": 4,
+      "B_class_size": 2,
+      "joint_record_class_size": 1,
+      "B_knows_x_in_this_model": false,
+      "B_guess_x_from_message_success": "9/10",
+      "tv_B_under_do_x": "4/5",
+      "tv_A_under_do_y": "0",
+      "I_x_message_given_y_bits": 0.5310044064107188
+    },
+    {
+      "noise_q": "1/2",
+      "global_support_size": 8,
+      "A_class_size": 4,
+      "B_class_size": 2,
+      "joint_record_class_size": 1,
+      "B_knows_x_in_this_model": false,
+      "B_guess_x_from_message_success": "1/2",
+      "tv_B_under_do_x": "0",
+      "tv_A_under_do_y": "0",
+      "I_x_message_given_y_bits": 0.0
+    }
+  ],
+  "scope": "finite classical stochastic causal model and local-record indistinguishability",
+  "limitations": "No phenomenal acquaintance, identity of subject, neuroscience, spacetime emergence, or physical intervention demonstrated."
+}

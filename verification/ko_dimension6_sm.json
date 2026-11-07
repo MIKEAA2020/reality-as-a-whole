@@ -1,0 +1,81 @@
+{
+  "KO_table": {
+    "0": [
+      1,
+      1,
+      1
+    ],
+    "2": [
+      -1,
+      -1,
+      1
+    ],
+    "4": [
+      -1,
+      1,
+      -1
+    ],
+    "6": [
+      1,
+      -1,
+      -1
+    ]
+  },
+  "lepton_sector_dim": 4,
+  "KO6_residuals": {
+    "J2=+I": 0.0,
+    "JD=-DJ_residual": 0.5,
+    "Jgamma=-gammaJ": 0.0
+  },
+  "other_KO_residuals": {
+    "0": {
+      "J2_err": 0.0,
+      "JD_err": 0.5,
+      "Jg_err": 2.0,
+      "max_sign_violation": 2.0
+    },
+    "2": {
+      "J2_err": 2.0,
+      "JD_err": 0.5,
+      "Jg_err": 2.0,
+      "max_sign_violation": 2.0
+    },
+    "4": {
+      "J2_err": 2.0,
+      "JD_err": 0.5,
+      "Jg_err": 0.0,
+      "max_sign_violation": 2.0
+    }
+  },
+  "chirality": {
+    "gamma2_err": 0.0,
+    "gammaD_anticommute": 0.0
+  },
+  "order0_lepton_err": 0.0,
+  "KO6_Z2": {
+    "group": "Z/2",
+    "constraint": "odd generations (Majorana Pfaffian in KO_6)",
+    "odd_candidates": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "even_rejected": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "three_matches_three_colors": true,
+    "n_generations": 3
+  },
+  "checks": {
+    "KO6_J2_sign_holds": true,
+    "KO6_Jgamma_sign_holds": true,
+    "chirality_holds": true,
+    "order0_holds": true,
+    "other_KO_violate_signs": true,
+    "KO6_parity_odd_3compat": true
+  }
+}

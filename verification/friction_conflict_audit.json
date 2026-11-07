@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "scope": "Exact finite control-proxy arithmetic only; no human data, experience, or validated pain marker.",
+  "grid_cases": 81,
+  "positive_gap_cases": 18,
+  "opposed_objectives": {
+    "conflict_gap": "1/2",
+    "aggregate_loss": [
+      "1/2",
+      "1/2"
+    ]
+  },
+  "merged_same_aggregate": {
+    "conflict_gap": "0",
+    "aggregate_loss": [
+      "1/2",
+      "1/2"
+    ]
+  },
+  "aligned_objectives": {
+    "conflict_gap": "0",
+    "aggregate_loss": [
+      "0",
+      "1"
+    ]
+  },
+  "one_fully_blocked_objective": {
+    "conflict_gap": "0",
+    "aggregate_loss": [
+      "1",
+      "1"
+    ]
+  }
+}

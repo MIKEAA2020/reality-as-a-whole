@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "agreement_counterexample": {
+    "overall_agreement": "93/100",
+    "target_prevalence": "93/100",
+    "false_positive": "1",
+    "false_negative": "0"
+  },
+  "hypothetical_balanced_calibration": {
+    "ocular_report_disagreement_max": "1/10",
+    "reference_target_error_max": "1/10",
+    "prevalence": "1/2",
+    "ocular_total_error_max": "1/5",
+    "false_positive_plus_false_negative_max": "2/5"
+  },
+  "iid_majority_example": {
+    "class_error_bounds": "1/5 each",
+    "per_arm_error_target": "1/40",
+    "smallest_odd_n": 9,
+    "each_worst_case_error_exact": "7649/390625",
+    "each_worst_case_error_float": 0.01958144
+  },
+  "shared_error_example": {
+    "any_n_majority_error": "1/5"
+  },
+  "limitations": "All numeric calibration/independence assumptions are hypothetical; neither true target errors nor intervention validity have been measured."
+}

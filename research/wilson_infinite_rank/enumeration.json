@@ -1,0 +1,124 @@
+{
+  "scope": "trace-class compact-band infinite-rank excitation; finite numerical sums with analytic omitted-mode bounds",
+  "infinite_expected_number": 1,
+  "infinite_continuum_total_energy": 1.5,
+  "position": 0.7,
+  "time": 0.3,
+  "cutoff_checks": [
+    {
+      "mode_count": 2,
+      "expected_number": 0.75,
+      "continuum_total_energy": 1.21875,
+      "wilson_total_energy_at_spacing_0_02": 1.2186940788438845,
+      "continuum_local_target": 0.06930140586207098,
+      "target_omitted_mode_bound": 0.006631455962162306,
+      "current_at_spacing_0_02_n4": 0.07018056105003327,
+      "current_omitted_mode_bound": 0.006793305592121365
+    },
+    {
+      "mode_count": 4,
+      "expected_number": 0.9375,
+      "continuum_total_energy": 1.435546875,
+      "wilson_total_energy_at_spacing_0_02": 1.4354860976647572,
+      "continuum_local_target": 0.07232862515151006,
+      "target_omitted_mode_bound": 0.00041446599763514413,
+      "current_at_spacing_0_02_n4": 0.07325183404443,
+      "current_omitted_mode_bound": 0.00042458159950758533
+    },
+    {
+      "mode_count": 8,
+      "expected_number": 0.99609375,
+      "continuum_total_energy": 1.4960861206054688,
+      "wilson_total_energy_at_spacing_0_02": 1.4960242654032272,
+      "continuum_local_target": 0.07250758051320214,
+      "target_omitted_mode_bound": 1.6190078032622818e-06,
+      "current_at_spacing_0_02_n4": 0.07343347617425942,
+      "current_omitted_mode_bound": 1.6585218730765052e-06
+    },
+    {
+      "mode_count": 12,
+      "expected_number": 0.999755859375,
+      "continuum_total_energy": 1.4997558295726776,
+      "wilson_total_energy_at_spacing_0_02": 1.4996939129552083,
+      "continuum_local_target": 0.07250825415824823,
+      "target_omitted_mode_bound": 6.324249231493288e-09,
+      "current_at_spacing_0_02_n4": 0.07343416002774245,
+      "current_omitted_mode_bound": 6.4786010667050984e-09
+    },
+    {
+      "mode_count": 16,
+      "expected_number": 0.9999847412109375,
+      "continuum_total_energy": 1.4999847410945222,
+      "wilson_total_energy_at_spacing_0_02": 1.4999228206609259,
+      "continuum_local_target": 0.07250825678347217,
+      "target_omitted_mode_bound": 2.4704098560520657e-11,
+      "current_at_spacing_0_02_n4": 0.07343416269277239,
+      "current_omitted_mode_bound": 2.530703541681679e-11
+    }
+  ],
+  "joint_rank_spacing": [
+    {
+      "n": 8,
+      "spacing": 0.015625,
+      "mode_count": 3,
+      "current": 0.0715124829417861,
+      "target_20_modes": 0.07250825679372544,
+      "observed_difference": 0.0009957738519393439,
+      "bound_including_both_mode_tails": 0.004341517780684187,
+      "linear_and_gram": [
+        0.07150949674350182,
+        2.986198284272401e-06
+      ]
+    },
+    {
+      "n": 16,
+      "spacing": 0.00390625,
+      "mode_count": 4,
+      "current": 0.07226699260455158,
+      "target_20_modes": 0.07250825679372544,
+      "observed_difference": 0.00024126418917386205,
+      "bound_including_both_mode_tails": 0.0010743683029819393,
+      "linear_and_gram": [
+        0.07226615094667511,
+        8.416578764618454e-07
+      ]
+    },
+    {
+      "n": 32,
+      "spacing": 0.0009765625,
+      "mode_count": 5,
+      "current": 0.07244885746547165,
+      "target_20_modes": 0.07250825679372544,
+      "observed_difference": 5.939932825378691e-05,
+      "bound_including_both_mode_tails": 0.0002679049176845412,
+      "linear_and_gram": [
+        0.07244864016430787,
+        2.17301163779019e-07
+      ]
+    },
+    {
+      "n": 64,
+      "spacing": 0.000244140625,
+      "mode_count": 6,
+      "current": 0.07249351855232539,
+      "target_20_modes": 0.07250825679372544,
+      "observed_difference": 1.4738241400052976e-05,
+      "bound_including_both_mode_tails": 6.693329827057446e-05,
+      "linear_and_gram": [
+        0.07249346376536886,
+        5.4786956533156404e-08
+      ]
+    }
+  ],
+  "finite_CAR": {
+    "mode_count": 8,
+    "covariance_eigenvalues": [
+      0.41605485504164014,
+      0.585713200801552
+    ],
+    "density_trace": 1.0,
+    "actual_relative_expectation": 0.07740006041319702,
+    "formula": 0.07740006041313546,
+    "agreement_error": 6.156186671546493e-14
+  }
+}

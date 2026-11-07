@@ -1,0 +1,18 @@
+{
+  "rigging_group_average_exact": true,
+  "rigging_invariant_under_shift": true,
+  "rigging_test_inner_product": "18359/87500",
+  "counter_offset_conserved_on_sampled_edges": true,
+  "frame_change_and_inverse_exact": true,
+  "bare_system_P0_at_w0_phase0": "1",
+  "bare_system_P0_at_m0_phase0": "334177/390625",
+  "offset_uncertainty_calibration_curve": {
+    "0": "1",
+    "1/4": "362401/390625",
+    "1/2": "334177/390625",
+    "1": "277729/390625"
+  },
+  "same_anchored_event_in_m_frame": "1",
+  "unwrapped_parent_clock_supplied": true,
+  "scope": "finite-support rational checks of a specified infinite idealization; not a lab or gravity result"
+}

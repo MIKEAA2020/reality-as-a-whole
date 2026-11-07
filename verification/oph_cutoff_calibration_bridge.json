@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "scope": "Illustrative OPH finite-probe sample-size arithmetic, two-level tail control and finite orthogonality analogues; no validation of laboratory calibration or infinite-dimensional field dynamics.",
+  "target_half_diamond": "1/10",
+  "familywise_alpha": 0.05,
+  "sample_size_examples": [
+    {
+      "input_dimension": 4,
+      "settings": 5,
+      "per_setting_failure_allowance": "1/25600",
+      "trials_per_setting_zero_failures": 117891,
+      "total_trials": 589455
+    },
+    {
+      "input_dimension": 16,
+      "settings": 17,
+      "per_setting_failure_allowance": "1/230400",
+      "trials_per_setting_zero_failures": 1342987,
+      "total_trials": 22830779
+    },
+    {
+      "input_dimension": 64,
+      "settings": 65,
+      "per_setting_failure_allowance": "1/2560000",
+      "trials_per_setting_zero_failures": 18355503,
+      "total_trials": 1193107695
+    }
+  ],
+  "two_level_control": {
+    "low_subspace_error": "0",
+    "tail_probability": "25/169",
+    "actual_half_trace_distance": "5/13",
+    "declared_upper_bound": "2*sqrt(t)+t"
+  },
+  "finite_low_energy_orthogonality_examples": 150,
+  "limitations": "Zero-failure sample sizes are sufficient under iid calibration and trusted finite probes; finite analogues do not prove the infinite-dimensional no-finite-rank statement."
+}

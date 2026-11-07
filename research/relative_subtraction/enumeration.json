@@ -1,0 +1,125 @@
+{
+  "scope": "continuum massless relative stress regulator; not Wilson lattice composite convergence",
+  "cubic": {
+    "alpha": 0.2,
+    "midpoint": 0.4,
+    "smooth_coincidence_remainder": 0.1345303425861793,
+    "relative_stress": -0.010705584509218276,
+    "quadratic_bound_radius1": 0.03206319202343325
+  },
+  "common_regulators": [
+    {
+      "h": 0.1,
+      "epsilon": 0.1,
+      "mollified_remainder": 0.13458087581933859,
+      "mollifier_error": 5.0533233159288926e-05,
+      "analytic_remainder_real_imag": [
+        0.13453061425698973,
+        -8.750214869834174e-05
+      ],
+      "analytic_error": 8.750257042999336e-05,
+      "shared_error_bound": 0.0006412638404686651
+    },
+    {
+      "h": 0.05,
+      "epsilon": 0.05,
+      "mollified_remainder": 0.13454300133301955,
+      "mollifier_error": 1.265874684025503e-05,
+      "analytic_remainder_real_imag": [
+        0.13453035956563694,
+        -2.1875636292938352e-05
+      ],
+      "analytic_error": 2.187564288250527e-05,
+      "shared_error_bound": 0.00016031596011716628
+    },
+    {
+      "h": 0.025,
+      "epsilon": 0.025,
+      "mollified_remainder": 0.13453350886522714,
+      "mollifier_error": 3.166279047839282e-06,
+      "analytic_remainder_real_imag": [
+        0.13453034364739552,
+        -5.4689106219612e-06
+      ],
+      "analytic_error": 5.468910724923192e-06,
+      "shared_error_bound": 4.007899002929157e-05
+    },
+    {
+      "h": 0.01,
+      "epsilon": 0.01,
+      "mollified_remainder": 0.13453084926219153,
+      "mollifier_error": 5.066760122296454e-07,
+      "analytic_remainder_real_imag": [
+        0.13453034261334643,
+        -8.750257156106384e-07
+      ],
+      "analytic_error": 8.750257160323705e-07,
+      "shared_error_bound": 6.412638404686651e-06
+    },
+    {
+      "h": 0.001,
+      "epsilon": 0.001,
+      "mollified_remainder": 0.13453034765307406,
+      "mollifier_error": 5.066894764871321e-09,
+      "analytic_remainder_real_imag": [
+        0.13453034258618202,
+        -8.750257160335025e-09
+      ],
+      "analytic_error": 8.750257160335449e-09,
+      "shared_error_bound": 6.412638404686651e-08
+    }
+  ],
+  "unsafe_affine": [
+    {
+      "h": ".1",
+      "epsilon": "0.01",
+      "epsilon_over_h": "0.1",
+      "fake_real_kernel_remainder": "2.203805206263976474099449151360640534525872805838655243460828794029480151244180",
+      "false_stress_if_misidentified_as_renormalized": -0.17537324609428293,
+      "correct_relative_stress": 0.0,
+      "predicted_fake_remainder_limit": 2.25
+    },
+    {
+      "h": ".01",
+      "epsilon": "0.0001",
+      "epsilon_over_h": "0.01",
+      "fake_real_kernel_remainder": "2.2495313188972862550458279856659385744689335461705438003852465519751565448735",
+      "false_stress_if_misidentified_as_renormalized": -0.17901201452126692,
+      "correct_relative_stress": 0.0,
+      "predicted_fake_remainder_limit": 2.25
+    },
+    {
+      "h": ".001",
+      "epsilon": "0.000001",
+      "epsilon_over_h": "0.001",
+      "fake_real_kernel_remainder": "2.24999531250689061603516723924481568882719247293464932058329498025516093244",
+      "false_stress_if_misidentified_as_renormalized": -0.17904893795953275,
+      "correct_relative_stress": 0.0,
+      "predicted_fake_remainder_limit": 2.25
+    },
+    {
+      "h": ".0001",
+      "epsilon": "1E-8",
+      "epsilon_over_h": "0.0001",
+      "fake_real_kernel_remainder": "2.249999953125000689062491035156359892576825317397811584302658845894133355",
+      "false_stress_if_misidentified_as_renormalized": -0.17904930724818832,
+      "correct_relative_stress": 0.0,
+      "predicted_fake_remainder_limit": 2.25
+    },
+    {
+      "h": ".00001",
+      "epsilon": "1E-10",
+      "epsilon_over_h": "0.00001",
+      "fake_real_kernel_remainder": "2.2499999995312500000689062499910351562510989257811200317382962490844711",
+      "false_stress_if_misidentified_as_renormalized": -0.17904931094108031,
+      "correct_relative_stress": 0.0,
+      "predicted_fake_remainder_limit": 2.25
+    }
+  ],
+  "curved_relative": {
+    "Delta_Tuu": -0.012779202859439476,
+    "Delta_Tuv": 0.0,
+    "Delta_Tvv": 0.0,
+    "trace_difference": 0.0
+  }
+}

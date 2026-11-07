@@ -1,0 +1,29 @@
+test_01_source_type_feedback (test_model.CompositionTests.test_01_source_type_feedback) ... ok
+test_02_source_type_self_loop (test_model.CompositionTests.test_02_source_type_self_loop) ... ok
+test_03_event_edges_forward (test_model.CompositionTests.test_03_event_edges_forward) ... ok
+test_04_event_components_singletons (test_model.CompositionTests.test_04_event_components_singletons) ... ok
+test_05_no_return_to_same_occurrence (test_model.CompositionTests.test_05_no_return_to_same_occurrence) ... ok
+test_06_later_return_is_not_same_event (test_model.CompositionTests.test_06_later_return_is_not_same_event) ... ok
+test_07_occurrence_count (test_model.CompositionTests.test_07_occurrence_count) ... ok
+test_08_type_quotient_creates_cycle (test_model.CompositionTests.test_08_type_quotient_creates_cycle) ... ok
+test_09_quotient_not_injective (test_model.CompositionTests.test_09_quotient_not_injective) ... ok
+test_10_monitor_type_no_feedback (test_model.CompositionTests.test_10_monitor_type_no_feedback) ... ok
+test_11_source_monitor_type_components (test_model.CompositionTests.test_11_source_monitor_type_components) ... ok
+test_12_monitor_event_singletons (test_model.CompositionTests.test_12_monitor_event_singletons) ... ok
+test_13_weak_rule_includes_copy (test_model.CompositionTests.test_13_weak_rule_includes_copy) ... ok
+test_14_directed_rule_distinguishes_roles (test_model.CompositionTests.test_14_directed_rule_distinguishes_roles) ... ok
+test_15_weak_rule_spans_window (test_model.CompositionTests.test_15_weak_rule_spans_window) ... ok
+test_16_window_extends_complex (test_model.CompositionTests.test_16_window_extends_complex) ... ok
+test_17_inactive_history_still_singletons (test_model.CompositionTests.test_17_inactive_history_still_singletons) ... ok
+test_18_inactive_weak_two_chains (test_model.CompositionTests.test_18_inactive_weak_two_chains) ... ok
+test_19_one_active_update_merges_weak_chains (test_model.CompositionTests.test_19_one_active_update_merges_weak_chains) ... ok
+test_20_positive_support_merges_types (test_model.CompositionTests.test_20_positive_support_merges_types) ... ok
+test_21_zero_support_separates_types (test_model.CompositionTests.test_21_zero_support_separates_types) ... ok
+test_22_positive_support_allows_no_actual_update (test_model.CompositionTests.test_22_positive_support_allows_no_actual_update) ... ok
+test_23_relabel_preserves_component_sizes (test_model.CompositionTests.test_23_relabel_preserves_component_sizes) ... ok
+test_24_validation (test_model.CompositionTests.test_24_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.003s
+
+OK

@@ -1,0 +1,37 @@
+test_01_coin_is_unitary (test_model.ContinuumScalingTests.test_01_coin_is_unitary) ... ok
+test_02_shift_is_unitary (test_model.ContinuumScalingTests.test_02_shift_is_unitary) ... ok
+test_03_walk_is_unitary (test_model.ContinuumScalingTests.test_03_walk_is_unitary) ... ok
+test_04_operator_norm_formula (test_model.ContinuumScalingTests.test_04_operator_norm_formula) ... ok
+test_05_zero_parameters (test_model.ContinuumScalingTests.test_05_zero_parameters) ... ok
+test_06_massless_evolution_is_exact_in_momentum_representation (test_model.ContinuumScalingTests.test_06_massless_evolution_is_exact_in_momentum_representation) ... ok
+test_07_zero_momentum_mass_evolution_is_exact (test_model.ContinuumScalingTests.test_07_zero_momentum_mass_evolution_is_exact) ... ok
+test_08_commutator_norm (test_model.ContinuumScalingTests.test_08_commutator_norm) ... ok
+test_09_one_step_error_bound (test_model.ContinuumScalingTests.test_09_one_step_error_bound) ... ok
+test_10_fixed_time_error_bound (test_model.ContinuumScalingTests.test_10_fixed_time_error_bound) ... ok
+test_11_uniform_fixed_band_bound (test_model.ContinuumScalingTests.test_11_uniform_fixed_band_bound) ... ok
+test_12_observed_first_order_fixed_time_convergence (test_model.ContinuumScalingTests.test_12_observed_first_order_fixed_time_convergence) ... ok
+test_13_discrete_composition_and_inverse (test_model.ContinuumScalingTests.test_13_discrete_composition_and_inverse) ... ok
+test_14_zone_edge_does_not_share_the_uniform_low_band_limit (test_model.ContinuumScalingTests.test_14_zone_edge_does_not_share_the_uniform_low_band_limit) ... ok
+test_15_zone_edge_failure_changes_an_observable_not_just_global_phase (test_model.ContinuumScalingTests.test_15_zone_edge_failure_changes_an_observable_not_just_global_phase) ... ok
+test_16_exact_dispersion_trace_identity (test_model.ContinuumScalingTests.test_16_exact_dispersion_trace_identity) ... ok
+test_17_low_band_quasienergy_converges (test_model.ContinuumScalingTests.test_17_low_band_quasienergy_converges) ... ok
+test_18_zone_edge_dispersion_is_not_globally_relativistic (test_model.ContinuumScalingTests.test_18_zone_edge_dispersion_is_not_globally_relativistic) ... ok
+test_19_lattice_support_is_finite_and_has_correct_parity (test_model.ContinuumScalingTests.test_19_lattice_support_is_finite_and_has_correct_parity) ... ok
+test_20_physical_lattice_cone_speed_is_one_in_declared_units (test_model.ContinuumScalingTests.test_20_physical_lattice_cone_speed_is_one_in_declared_units) ... ok
+test_21_real_space_norm_is_preserved (test_model.ContinuumScalingTests.test_21_real_space_norm_is_preserved) ... ok
+test_22_real_space_and_fourier_symbol_agree (test_model.ContinuumScalingTests.test_22_real_space_and_fourier_symbol_agree) ... ok
+test_23_parseval_on_sufficient_finite_fourier_grid (test_model.ContinuumScalingTests.test_23_parseval_on_sufficient_finite_fourier_grid) ... ok
+test_24_ordering_matters_at_finite_step (test_model.ContinuumScalingTests.test_24_ordering_matters_at_finite_step) ... ok
+test_25_opposite_order_has_same_restricted_limit_bound (test_model.ContinuumScalingTests.test_25_opposite_order_has_same_restricted_limit_bound) ... ok
+test_26_clifford_relations (test_model.ContinuumScalingTests.test_26_clifford_relations) ... ok
+test_27_spinor_boost_covariance_of_gamma_matrices (test_model.ContinuumScalingTests.test_27_spinor_boost_covariance_of_gamma_matrices) ... ok
+test_28_mass_shell_is_lorentz_invariant (test_model.ContinuumScalingTests.test_28_mass_shell_is_lorentz_invariant) ... ok
+test_29_dirac_hamiltonian_squares_to_mass_shell (test_model.ContinuumScalingTests.test_29_dirac_hamiltonian_squares_to_mass_shell) ... ok
+test_30_continuum_current_bound (test_model.ContinuumScalingTests.test_30_continuum_current_bound) ... ok
+test_31_scaled_coin_approaches_identity (test_model.ContinuumScalingTests.test_31_scaled_coin_approaches_identity) ... ok
+test_32_invalid_parameters_rejected (test_model.ContinuumScalingTests.test_32_invalid_parameters_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.011s
+
+OK

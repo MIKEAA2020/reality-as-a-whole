@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "commit": "e97626c304e378123219f9dd5e002b503db23e37",
+  "source_hashes_checked": 13,
+  "data_variables": [
+    "gx"
+  ],
+  "gx_shape": [
+    1,
+    121021
+  ],
+  "gx_dtype": "float64",
+  "samples": 121021,
+  "finite_samples": 121021,
+  "minimum_position": 197.39999389648438,
+  "maximum_position": 100000000.0,
+  "README_sampling_rate_hz": 1000,
+  "timebase_in_mat_file": false,
+  "nominal_first_to_last_span_seconds": 121.02,
+  "diagnostic_display_interval": [
+    0,
+    1200
+  ],
+  "outside_interval_samples": 131,
+  "outside_interval_runs": 3,
+  "independent_50_sample_expansion_union_count": 431,
+  "Percept_is_algorithmic_output_not_demo_ground_truth": true,
+  "source_uses_random_subsampling_pchip_and_velocity_quantiles": true,
+  "local_rng_seed_found_in_spline_function": false,
+  "independent_subjective_labels_in_demo": false,
+  "stimulus_events_in_demo": false,
+  "neural_recordings_in_demo": false,
+  "MATLAB_pipeline_executed": false,
+  "MATLAB_pipeline_reproduced": false,
+  "source_modified": false,
+  "phenomenal_identity_established": false,
+  "subject_incidence_established": false,
+  "scope": "source and demo-schema/data diagnostics only; not reproduction of paper findings"
+}

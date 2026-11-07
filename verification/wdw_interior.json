@@ -1,0 +1,63 @@
+{
+  "interior": {
+    "mu": 22.0,
+    "note": "Inside the Schwarzschild horizon (R<2M), areal R is timelike; the WdW/KG equation continues as an evolution in R, but curvature diverges at R=0 leaving a proper-time quantum-gravity regime tau_qg before the classical singularity.",
+    "masses": [
+      {
+        "M": 0.01,
+        "R_s": 0.02,
+        "tau_infall_marginally_bound": 0.013333333333333332,
+        "K_horizon": 75000000.0,
+        "R_qg_where_K_sim_mu4": 0.05231084703737108,
+        "tau_qg_regime": 0.05640029449103635,
+        "tau_R_proper_interior": 0.030811104041636863,
+        "avg_omega_interior": 14.28056584422938,
+        "qg_covers_horizon": true
+      },
+      {
+        "M": 0.1,
+        "R_s": 0.2,
+        "tau_infall_marginally_bound": 0.13333333333333333,
+        "K_horizon": 7499.999999999998,
+        "R_qg_where_K_sim_mu4": 0.11270030352226384,
+        "tau_qg_regime": 0.05640029449103635,
+        "tau_R_proper_interior": 0.3081110404163683,
+        "avg_omega_interior": 14.280565844229544,
+        "qg_covers_horizon": false
+      },
+      {
+        "M": 1,
+        "R_s": 2,
+        "tau_infall_marginally_bound": 1.3333333333333333,
+        "K_horizon": 0.75,
+        "R_qg_where_K_sim_mu4": 0.24280544348548772,
+        "tau_qg_regime": 0.05640029449103634,
+        "tau_R_proper_interior": 3.0811104041636814,
+        "avg_omega_interior": 14.280565844229438,
+        "qg_covers_horizon": false
+      },
+      {
+        "M": 10,
+        "R_s": 20,
+        "tau_infall_marginally_bound": 13.333333333333332,
+        "K_horizon": 7.5e-05,
+        "R_qg_where_K_sim_mu4": 0.5231084703737108,
+        "tau_qg_regime": 0.05640029449103634,
+        "tau_R_proper_interior": 30.811104041636987,
+        "avg_omega_interior": 14.280565844229507,
+        "qg_covers_horizon": false
+      },
+      {
+        "M": 22.0,
+        "R_s": 44.0,
+        "tau_infall_marginally_bound": 29.333333333333332,
+        "K_horizon": 3.201625572023769e-06,
+        "R_qg_where_K_sim_mu4": 0.6803504023435604,
+        "tau_qg_regime": 0.05640029449103635,
+        "tau_R_proper_interior": 67.784428891601,
+        "avg_omega_interior": 14.280565844229395,
+        "qg_covers_horizon": false
+      }
+    ]
+  }
+}

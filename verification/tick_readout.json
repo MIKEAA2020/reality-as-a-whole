@@ -1,0 +1,93 @@
+{
+  "equilibrium_witness": {
+    "activity_precision_per_second": 2.5714285714285716,
+    "activity_variance_rate_seconds": 0.3888888888888889,
+    "exact_precision_per_second": "18/7",
+    "exact_variance_rate_seconds": "7/18",
+    "exit_rates_per_second": [
+      2.0,
+      3.0,
+      6.0
+    ],
+    "fitted_path_entropy_rate_in_kB_per_second": 0.0,
+    "integer_tick_seconds": "1/6",
+    "paths_checked": 1533,
+    "signed_current_per_second": 0.0,
+    "signed_current_precision_per_second": 0.0,
+    "signed_current_variance_rate_per_second": 0.3333333333333333,
+    "stationary_probability": [
+      0.5,
+      0.3333333333333333,
+      0.16666666666666666
+    ]
+  },
+  "finite_horizon_register": {
+    "bits": 9,
+    "capacity": 298,
+    "duration_seconds": 10,
+    "overflow_chernoff_upper_bound": 1.5378157852215834e-05,
+    "provisioned_departures": 99,
+    "uniformization_poisson_mean": 60.0
+  },
+  "ideal_marked_thinning": [
+    {
+      "efficiency": 1.0,
+      "precision_per_second": 2.5714285714285716
+    },
+    {
+      "efficiency": 0.5,
+      "precision_per_second": 1.2857142857142858
+    },
+    {
+      "efficiency": 0.1,
+      "precision_per_second": 0.2571428571428571
+    }
+  ],
+  "processed_samples": [
+    {
+      "activity_precision_per_second": 9.12287752435715,
+      "activity_variance_rate_seconds": 0.10961453744502238,
+      "exit_rates_per_second": [
+        9.755117354898386,
+        12.585141393071659,
+        6.785947273780532
+      ],
+      "fitted_path_entropy_rate_in_kB_per_second": 0.0007531772633771125,
+      "max_diagonal_normalization_per_second": 6e-16,
+      "scope": "Central processed fit only; errors archived, not propagated; no exact-equilibrium claim.",
+      "signed_current_per_second": -0.010229449802551518,
+      "signed_current_precision_per_second": 0.0003764647794401783,
+      "signed_current_variance_rate_per_second": 0.2779586537113208,
+      "source_path": "data/+0.005 bias/5187/B-V-K3/M.npy",
+      "stationary_probability": [
+        0.4757257370591508,
+        0.24167836601606138,
+        0.28259589692478787
+      ]
+    },
+    {
+      "activity_precision_per_second": 9.574197868999972,
+      "activity_variance_rate_seconds": 0.104447392218399,
+      "exit_rates_per_second": [
+        11.432454603347622,
+        11.412532560702502,
+        6.855696909091915
+      ],
+      "fitted_path_entropy_rate_in_kB_per_second": 0.0037369484345307303,
+      "max_diagonal_normalization_per_second": 2e-15,
+      "scope": "Central processed fit only; errors archived, not propagated; no exact-equilibrium claim.",
+      "signed_current_per_second": 0.029061315644958202,
+      "signed_current_precision_per_second": 0.001867019749906931,
+      "signed_current_variance_rate_per_second": 0.4523573288702452,
+      "source_path": "data/+0.005 bias/5187/PCA--K3/M.npy",
+      "stationary_probability": [
+        0.4167671824565482,
+        0.29326486772114607,
+        0.2899679498223057
+      ]
+    }
+  ],
+  "processed_source_commit": "3738ca280fff50a8e3a1d02cea26d3e143f234a7",
+  "scope": "Exact specified-model identities plus processed-generator arithmetic; not raw-data or RF/DC energy replication.",
+  "status": "PASS"
+}

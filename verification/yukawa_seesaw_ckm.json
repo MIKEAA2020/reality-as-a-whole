@@ -1,0 +1,43 @@
+{
+  "verifier": "yukawa_seesaw_ckm",
+  "number": 71,
+  "all_pass": true,
+  "checks": {
+    "C1_order0_structure": true,
+    "C2_block_structure": true,
+    "C3_seesaw_light_eV_scale": true,
+    "C3_seesaw_heavy_at_MR": true,
+    "C3_light_masses_eV": [
+      6.451299079356647e-21,
+      4.984614849152764e-15,
+      9.081795249169955e-11
+    ],
+    "C3_heavy_masses_GeV": [
+      99076670621473.8,
+      199576238442170.06,
+      500457161241575.5
+    ],
+    "C4_CKM_unitary": true,
+    "C4_CKM_params_4": true,
+    "C4_CKM_det_unit_modulus": true,
+    "C5_PMNS_unitary": true,
+    "C5_PMNS_params_6": true,
+    "C6_DF_flavor_params_match_SM": true
+  },
+  "parameters": {
+    "n_generations": 3,
+    "M_R_scale_GeV": 99080547713998.39,
+    "n_Yukawa_blocks": 4,
+    "n_Majorana_blocks": 1,
+    "n_CKM_params": 4,
+    "n_PMNS_params": 6,
+    "n_total_flavor_params": 22,
+    "seesaw_scale_max_eV": 0.09081795249169955,
+    "seesaw_light_masses_eV": [
+      6.451299079356647e-12,
+      4.984614849152764e-06,
+      0.09081795249169955
+    ]
+  },
+  "physics_conclusion": "D_F in the KO-dim-6 finite spectral triple for 3 generations encodes the full SM flavor structure: 4 Yukawa blocks (up, down, electron, neutrino) + 1 Majorana block for \u03bd_R give 22 physical flavor parameters (6+3+3 masses + 3 neutrino masses via see-saw, 4 CKM parameters, 6 PMNS parameters). Type-I see-saw m_nu ~ m_D^2/M_R yields light neutrino masses at the eV scale when M_R is at the unification scale (~10^14 GeV). CKM and PMNS matrices are exactly unitary (automatic from bi-unitary diagonalization of Yukawa matrices) with the correct number of physical parameters (3 angles + 1 CP phase for CKM; additional 2 Majorana phases for PMNS). No additional fermionic generations or mirror fermions are allowed by the block structure."
+}

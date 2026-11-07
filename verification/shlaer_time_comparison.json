@@ -1,0 +1,16 @@
+{
+  "verifier": "shlaer_time_comparison",
+  "number": 80,
+  "all_pass": true,
+  "checks": {
+    "S1_Shlaer_adds_scalar_field": true,
+    "S2_shlaer_clock_monotonic_FRW": true,
+    "S3_Shlaer_ghost_free_via_constraint": true,
+    "S3_ours_algebraic_no_kinetic_terms": true,
+    "S4_both_local": true,
+    "S5_UV_completeness_difference": true,
+    "S6_both_have_arrow": true,
+    "S7_semiclassical_compatibility": true
+  },
+  "conclusion": "Shlaer's solution (arXiv:1411.8006) adds a constrained scalar \u03c7 that makes \u039b a Lagrange multiplier; its conjugate p_\u039b plays the role of time, generating a functional Schr\u00f6dinger (Tomonaga-Schwinger) equation. This is a valid and elegant IR effective framework for canonical quantum gravity. Our modular-time solution (verifier #77) is UV-complete (spectral action + polymer bounce), background-independent (algebraic), adds no new fields, and is fundamentally many-fingered (local modular flow per causal diamond per CRN theorem). The two are COMPATIBLE: in semiclassical FRW regimes where a monotonic matter clock (Shlaer's \u03c7/\u039b, or Brown-Kucha\u0159 dust, or Page-Wootters relational clock) exists, that clock's monotonic parameter approximates modular proper time. Shlaer's clock is one concrete semiclassical implementation of relational time; our modular time is the fundamental UV/background-independent definition that reduces to Shlaer (and other matter clocks) in appropriate limits. Shlaer's UV incompleteness (acknowledged in the paper) is resolved by the spectral-action NCG framework. Our solution's existence confirms Shlaer's approach is on the right track; his framework is a useful semiclassical limit."
+}

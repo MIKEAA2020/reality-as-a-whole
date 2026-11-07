@@ -1,0 +1,240 @@
+{
+  "status": "passed",
+  "source_certificates": {
+    "verification_rejection_witness": {
+      "rejection_probability": 0.010828560927517605,
+      "joint_target_defect": 0.02,
+      "sum_local_defects": 0.042486123275165995
+    },
+    "entangled_sqrt_error_witnesses": [
+      {
+        "marginal_infidelity": 1e-06,
+        "actual_decoupling_distance": 0.0010004996249999296,
+        "certified_upper": 0.001001
+      },
+      {
+        "marginal_infidelity": 0.001,
+        "actual_decoupling_distance": 0.03211091583614749,
+        "certified_upper": 0.03262277660168379
+      },
+      {
+        "marginal_infidelity": 0.1,
+        "actual_decoupling_distance": 0.354138126514911,
+        "certified_upper": 0.416227766016838
+      }
+    ],
+    "three_source_joint_checks": [
+      {
+        "actual_joint_source_defect": 0.0001,
+        "sum_of_local_infidelities": 0.00018619657728296272,
+        "source_product_distance": 0.0074264716389488405,
+        "source_rest_decoupling_distance": 0.010022390901735928
+      },
+      {
+        "actual_joint_source_defect": 0.01,
+        "sum_of_local_infidelities": 0.018619657728296272,
+        "source_product_distance": 0.07632264107166781,
+        "source_rest_decoupling_distance": 0.10205906434895595
+      },
+      {
+        "actual_joint_source_defect": 0.1,
+        "sum_of_local_infidelities": 0.18619657728296274,
+        "source_product_distance": 0.2577406041062066,
+        "source_rest_decoupling_distance": 0.33243033262840893
+      }
+    ],
+    "correlated_preparation_channel_witnesses": [
+      {
+        "uniform_source_infidelity_bound": 0.001,
+        "actual_system_preparation_half_diamond_error": 0.0002500625312695237,
+        "source_system_distance_from_intended_input": 0.02236207797297794
+      },
+      {
+        "uniform_source_infidelity_bound": 0.1,
+        "actual_system_preparation_half_diamond_error": 0.025658350974743116,
+        "source_system_distance_from_intended_input": 0.22507410107505282
+      }
+    ]
+  },
+  "equal_marginal_counterexample": {
+    "ladder_maximum": 8,
+    "phase_offsets": [
+      -0.4,
+      0.4
+    ],
+    "identical_full_pump_marginals": true,
+    "identical_energy_statistics": true,
+    "pure_target_fidelity_of_each_marginal": 0.828066540049265,
+    "unknown_correlated_anchor_swap_pass_probability": 0.9999999999999999,
+    "correlated_source_record_probabilities": [
+      0.2784337459987028,
+      0.2215662540012968,
+      0.2215662540012968,
+      0.2784337459987028
+    ],
+    "independent_source_record_probabilities": [
+      0.2499999999999998,
+      0.24999999999999983,
+      0.2499999999999998,
+      0.2499999999999998
+    ],
+    "correlated_record_covariance": 0.028433745998702797,
+    "independent_record_covariance": -1.942890293094024e-16,
+    "record_distribution_total_variation": 0.056867491997406025
+  },
+  "complete_swap_test": {
+    "initial_source_target_fidelity": 0.07546969843434503,
+    "cases": [
+      {
+        "sign": 1,
+        "probability": 0.5377348492171724,
+        "formula_matrix_entries": 100,
+        "conditional_old_record_max_entry_change": 0.027460934761274203
+      },
+      {
+        "sign": -1,
+        "probability": 0.4622651507828273,
+        "formula_matrix_entries": 100,
+        "conditional_old_record_max_entry_change": 0.031944224192997306
+      }
+    ],
+    "nonselective_source_state_change": 0.13648066428733732,
+    "complete_energy_conservation": true
+  },
+  "cases": [
+    {
+      "readouts": 8,
+      "blocks": 1,
+      "working_and_pump_ladders": 1,
+      "verification_anchor_ladders": 1,
+      "precharged_pumps": 0,
+      "total_reference_anchor_factors": 2,
+      "each_ladder_dimension": 513,
+      "each_target_infidelity_upper": 1e-08,
+      "total_local_infidelity_upper": 2e-08,
+      "source_product_distance_upper": 0.0001414213562373095,
+      "source_rest_decoupling_distance_upper": 0.0001414413562373095,
+      "ideal_completed_reference_error_bound": 0.0062843352845218334,
+      "all_verification_flags_retained": true,
+      "verification_rejection_probability_upper": 2e-08,
+      "pending_or_verification_failure_upper": 0.0002615726266563035,
+      "source_clock_positions": 524288,
+      "program_length_with_tests": 59,
+      "readout_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.00026155263188735615,
+      "source_independent_complete_instrument_error_bound": 0.006685628599085241,
+      "correlated_state_error_against_actual_system_marginal": 0.006685648593854188,
+      "ideal_initial_reference_anchor_mean_energy": 102.4,
+      "initial_reference_anchor_mean_energy_deviation_upper": 0.02048,
+      "initial_reference_anchor_maximum_energy": 204.8,
+      "fixed_source_excitation_energy": 10985.32217170509,
+      "gravitational_frequency": 8192.0,
+      "cosmological_constant": -89478485.33333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 10984.49092170509,
+      "total_energy_upper_bound": 11190.953421705088,
+      "gravitational_margin": 427.6642191043811,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 5090428784354597524451994107904
+    },
+    {
+      "readouts": 8,
+      "blocks": 2,
+      "working_and_pump_ladders": 2,
+      "verification_anchor_ladders": 2,
+      "precharged_pumps": 1,
+      "total_reference_anchor_factors": 4,
+      "each_ladder_dimension": 513,
+      "each_target_infidelity_upper": 1e-08,
+      "total_local_infidelity_upper": 4e-08,
+      "source_product_distance_upper": 0.0002,
+      "source_rest_decoupling_distance_upper": 0.00020004000000000002,
+      "ideal_completed_reference_error_bound": 0.0030435963105817842,
+      "all_verification_flags_retained": true,
+      "verification_rejection_probability_upper": 4e-08,
+      "pending_or_verification_failure_upper": 0.0003031854859463405,
+      "source_clock_positions": 524288,
+      "program_length_with_tests": 62,
+      "readout_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.0003031454980721604,
+      "source_independent_complete_instrument_error_bound": 0.003545758527034828,
+      "correlated_state_error_against_actual_system_marginal": 0.003545798514909008,
+      "ideal_initial_reference_anchor_mean_energy": 204.8,
+      "initial_reference_anchor_mean_energy_deviation_upper": 0.04096,
+      "initial_reference_anchor_maximum_energy": 409.6,
+      "fixed_source_excitation_energy": 10985.32217170509,
+      "gravitational_frequency": 8192.0,
+      "cosmological_constant": -89478485.33333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 10984.49092170509,
+      "total_energy_upper_bound": 11395.753421705089,
+      "gravitational_margin": 427.6642191043811,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 2679286105499630151825013674765975552
+    },
+    {
+      "readouts": 8,
+      "blocks": 4,
+      "working_and_pump_ladders": 4,
+      "verification_anchor_ladders": 4,
+      "precharged_pumps": 3,
+      "total_reference_anchor_factors": 8,
+      "each_ladder_dimension": 513,
+      "each_target_infidelity_upper": 1e-08,
+      "total_local_infidelity_upper": 8e-08,
+      "source_product_distance_upper": 0.000282842712474619,
+      "source_rest_decoupling_distance_upper": 0.00028292271247461903,
+      "ideal_completed_reference_error_bound": 0.001498020499976589,
+      "all_verification_flags_retained": true,
+      "verification_rejection_probability_upper": 8e-08,
+      "pending_or_verification_failure_upper": 0.0003991852189469538,
+      "source_clock_positions": 524288,
+      "program_length_with_tests": 68,
+      "readout_window": [
+        1048576.0,
+        2097152.0
+      ],
+      "clock_noncompletion_probability_bound": 0.0003991052508753739,
+      "source_independent_complete_instrument_error_bound": 0.002179257711467402,
+      "correlated_state_error_against_actual_system_marginal": 0.002179337679538982,
+      "ideal_initial_reference_anchor_mean_energy": 409.6,
+      "initial_reference_anchor_mean_energy_deviation_upper": 0.08192,
+      "initial_reference_anchor_maximum_energy": 819.2,
+      "fixed_source_excitation_energy": 10985.32217170509,
+      "gravitational_frequency": 8192.0,
+      "cosmological_constant": -89478485.33333333,
+      "scalar_positive_band": [
+        0.05,
+        0.25
+      ],
+      "radial_level": 0,
+      "total_energy_lower_bound": 10984.49092170509,
+      "total_energy_upper_bound": 11805.35342170509,
+      "gravitational_margin": 427.6642191043811,
+      "gravitational_inverse_checks": 12,
+      "physical_root_dimension": 742247158453826645076949879638831898312140914688
+    }
+  ],
+  "scope": [
+    "Marginal fidelities to pure finite targets certify the whole batch without source-source independence.",
+    "System-correlated source statements preserve the actual system marginal; diamond claims need a CP initialization map.",
+    "Exact local marginals/energy statistics alone do not justify independent mixed sources.",
+    "Finite-anchor verification has backaction and retained pass/fail flags, not free noninvasive certification.",
+    "All reference/anchor energies and extra test gates enter the gravitational/source-clock budget.",
+    "No unmodelled finite-data guarantee, ideal phase anchor, pump regeneration or phenomenal constitution."
+  ]
+}

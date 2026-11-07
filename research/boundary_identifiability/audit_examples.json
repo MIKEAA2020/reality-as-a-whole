@@ -1,0 +1,271 @@
+{
+  "scope": "Synthetic examples only; positive-likelihood support, not confidence intervals; exact-core partitions are not established phenomenal boundaries.",
+  "cases": [
+    {
+      "name": "no_data",
+      "synthetic": true,
+      "changes": 0,
+      "ticks": 0,
+      "known_noise": "0",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "exact_core_boundary_set": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "nondetection",
+      "synthetic": true,
+      "changes": 0,
+      "ticks": 1000,
+      "known_noise": "0",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": false
+      },
+      "exact_core_boundary_set": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "ideal_detection",
+      "synthetic": true,
+      "changes": 1,
+      "ticks": 10,
+      "known_noise": "0",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": false,
+        "closed_hi": false
+      },
+      "exact_core_boundary_set": [
+        [
+          [
+            0,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "noisy_detection",
+      "synthetic": true,
+      "changes": 1,
+      "ticks": 10,
+      "known_noise": "1/100",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": {
+        "lo": "0",
+        "hi": "1",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "exact_core_boundary_set": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "structural_zero",
+      "synthetic": true,
+      "changes": 0,
+      "ticks": 10,
+      "known_noise": "0",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "0",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": {
+        "lo": "0",
+        "hi": "0",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "exact_core_boundary_set": [
+        [
+          [
+            0
+          ],
+          [
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "inconsistent_ideal_detection",
+      "synthetic": true,
+      "changes": 1,
+      "ticks": 10,
+      "known_noise": "0",
+      "external_calibration": {
+        "lo": "0",
+        "hi": "0",
+        "closed_lo": true,
+        "closed_hi": true
+      },
+      "calibration_warrant": "Stipulated illustration, not measured or independently verified.",
+      "parameter_support": null,
+      "exact_core_boundary_set": []
+    }
+  ],
+  "alternative_model_link_example": {
+    "compatible_partitions": [
+      [
+        [
+          0
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          2
+        ]
+      ]
+    ],
+    "must_links": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "may_links": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "may_transitive": false,
+    "invented_links_if_closed": [
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "illustrative_two_hypothesis_posterior": {
+    "prior_zero": "1/2",
+    "alternative_epsilon": "1/2",
+    "changes": 0,
+    "ticks": 10,
+    "posterior_zero": "1024/1025"
+  }
+}

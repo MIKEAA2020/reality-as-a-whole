@@ -1,0 +1,217 @@
+{
+  "scope": "finite exact certificates; infinite hypotheses/proofs stated separately in REPORT.md",
+  "completion_patch": "ordered square; interior, not all spacetime",
+  "levels": [
+    {
+      "level": 0,
+      "cells_per_axis": 1,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "0",
+      "affine_neighbour_bound": "1/2",
+      "boundary_max_cell": "1",
+      "boundary_max_strips": [
+        "1",
+        "1"
+      ],
+      "biased_max_strips": [
+        "1",
+        "1"
+      ],
+      "biased_density_range": [
+        "1",
+        "1"
+      ],
+      "cut_5_over13_bracket": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "level": 1,
+      "cells_per_axis": 2,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/4",
+      "affine_neighbour_bound": "1/4",
+      "boundary_max_cell": "5/16",
+      "boundary_max_strips": [
+        "5/8",
+        "1/2"
+      ],
+      "biased_max_strips": [
+        "2/3",
+        "2/3"
+      ],
+      "biased_density_range": [
+        "4/9",
+        "16/9"
+      ],
+      "cut_5_over13_bracket": [
+        "0",
+        "1/2"
+      ],
+      "incompatible_nested_strip": [
+        "0",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/2"
+    },
+    {
+      "level": 2,
+      "cells_per_axis": 4,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/8",
+      "affine_neighbour_bound": "1/8",
+      "boundary_max_cell": "7/64",
+      "boundary_max_strips": [
+        "7/16",
+        "1/4"
+      ],
+      "biased_max_strips": [
+        "4/9",
+        "4/9"
+      ],
+      "biased_density_range": [
+        "16/81",
+        "256/81"
+      ],
+      "cut_5_over13_bracket": [
+        "1/4",
+        "1/2"
+      ],
+      "incompatible_nested_strip": [
+        "1/4",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/4"
+    },
+    {
+      "level": 3,
+      "cells_per_axis": 8,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/16",
+      "affine_neighbour_bound": "1/16",
+      "boundary_max_cell": "11/256",
+      "boundary_max_strips": [
+        "11/32",
+        "1/8"
+      ],
+      "biased_max_strips": [
+        "8/27",
+        "8/27"
+      ],
+      "biased_density_range": [
+        "64/729",
+        "4096/729"
+      ],
+      "cut_5_over13_bracket": [
+        "3/8",
+        "1/2"
+      ],
+      "incompatible_nested_strip": [
+        "3/8",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/8"
+    },
+    {
+      "level": 4,
+      "cells_per_axis": 16,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/32",
+      "affine_neighbour_bound": "1/32",
+      "boundary_max_cell": "19/1024",
+      "boundary_max_strips": [
+        "19/64",
+        "1/16"
+      ],
+      "biased_max_strips": [
+        "16/81",
+        "16/81"
+      ],
+      "biased_density_range": [
+        "256/6561",
+        "65536/6561"
+      ],
+      "cut_5_over13_bracket": [
+        "3/8",
+        "7/16"
+      ],
+      "incompatible_nested_strip": [
+        "7/16",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/16"
+    },
+    {
+      "level": 5,
+      "cells_per_axis": 32,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/64",
+      "affine_neighbour_bound": "1/64",
+      "boundary_max_cell": "35/4096",
+      "boundary_max_strips": [
+        "35/128",
+        "1/32"
+      ],
+      "biased_max_strips": [
+        "32/243",
+        "32/243"
+      ],
+      "biased_density_range": [
+        "1024/59049",
+        "1048576/59049"
+      ],
+      "cut_5_over13_bracket": [
+        "3/8",
+        "13/32"
+      ],
+      "incompatible_nested_strip": [
+        "15/32",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/32"
+    },
+    {
+      "level": 6,
+      "cells_per_axis": 64,
+      "affine_total": "17/12",
+      "affine_neighbour_jump": "1/128",
+      "affine_neighbour_bound": "1/128",
+      "boundary_max_cell": "67/16384",
+      "boundary_max_strips": [
+        "67/256",
+        "1/64"
+      ],
+      "biased_max_strips": [
+        "64/729",
+        "64/729"
+      ],
+      "biased_density_range": [
+        "4096/531441",
+        "16777216/531441"
+      ],
+      "cut_5_over13_bracket": [
+        "3/8",
+        "25/64"
+      ],
+      "incompatible_nested_strip": [
+        "31/64",
+        "1/2 (excluded)"
+      ],
+      "binary_endpoint_prefix_gap": "1/64"
+    }
+  ],
+  "quantile_midpoint": {
+    "rank_midpoint": "1/2",
+    "biased_volume_quantile": "1/3"
+  },
+  "curved_affine_example": {
+    "total_mass": "17/12",
+    "curvature_origin": "1/3"
+  },
+  "late_bias": {
+    "uniform_prefix_levels": 3,
+    "agrees_through_level3": true,
+    "differs_at_level4": true
+  }
+}

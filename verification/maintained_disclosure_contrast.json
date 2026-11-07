@@ -1,0 +1,467 @@
+{
+  "status": "passed",
+  "scope": "one-slot physical contrast and observation contract only",
+  "comparison_rows": 16,
+  "rows": [
+    {
+      "input_value": 0,
+      "report_enabled": false,
+      "workspace_intervention": "unforced",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": false,
+      "workspace_intervention": "cleared",
+      "reference": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      },
+      "replacement": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": false,
+      "workspace_intervention": "visual_zero",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": false,
+      "workspace_intervention": "auditory_one",
+      "reference": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": {
+          "source": "auditory",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": true,
+      "workspace_intervention": "unforced",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": 0
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 0
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": true,
+      "workspace_intervention": "cleared",
+      "reference": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      },
+      "replacement": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": true,
+      "workspace_intervention": "visual_zero",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": 0
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 0
+      }
+    },
+    {
+      "input_value": 0,
+      "report_enabled": true,
+      "workspace_intervention": "auditory_one",
+      "reference": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": {
+          "source": "auditory",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": 1
+      },
+      "replacement": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 1
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": false,
+      "workspace_intervention": "unforced",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": false,
+      "workspace_intervention": "cleared",
+      "reference": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      },
+      "replacement": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": false,
+      "workspace_intervention": "visual_zero",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": false,
+      "workspace_intervention": "auditory_one",
+      "reference": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": {
+          "source": "auditory",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": null
+      },
+      "replacement": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": true,
+      "workspace_intervention": "unforced",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": 1
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 1
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 1
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": true,
+      "workspace_intervention": "cleared",
+      "reference": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      },
+      "replacement": {
+        "workspace": null,
+        "feedback": null,
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": null
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": true,
+      "workspace_intervention": "visual_zero",
+      "reference": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": {
+          "source": "visual",
+          "value": 0
+        },
+        "action": 0,
+        "comparison": false,
+        "report": 0
+      },
+      "replacement": {
+        "workspace": {
+          "source": "visual",
+          "value": 0
+        },
+        "feedback": "visual",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 0
+      }
+    },
+    {
+      "input_value": 1,
+      "report_enabled": true,
+      "workspace_intervention": "auditory_one",
+      "reference": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": {
+          "source": "auditory",
+          "value": 1
+        },
+        "action": 1,
+        "comparison": true,
+        "report": 1
+      },
+      "replacement": {
+        "workspace": {
+          "source": "auditory",
+          "value": 1
+        },
+        "feedback": "auditory",
+        "memory": null,
+        "action": null,
+        "comparison": null,
+        "report": 1
+      }
+    }
+  ],
+  "lesion_changes_reduced_feedback": true,
+  "fixed_replay_fails_forced_content_counterfactual": true,
+  "direct_report_equal_for_reference_and_replacement": true,
+  "one_slot_not_a_two_quality_unity_model": true,
+  "premise_status": {
+    "P1_independently_warranted_qualitative_domain": "not supplied",
+    "P2_physical_basis_and_interval": "reduced core stipulated; neural boundary/interval open",
+    "P3_preservation": "reduced controlled update only; full constitutive preservation open",
+    "P4_distribution_absence": "original consumers disconnected in model; full physical replacement audit open",
+    "P5_constitution_or_necessity": "neither rival validated",
+    "P6_observation_relation": "physical report rule known; phenomenal reliability not supplied"
+  },
+  "consciousness_assignments": false,
+  "rival_selected": null,
+  "empirical_evidence_generated": false,
+  "research_suite_count_changed": false
+}

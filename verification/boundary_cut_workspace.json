@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "finite_cut_contraction_checks": 11664,
+  "workspace_fixed_environment_cases": 120,
+  "cut_with_direct_report_exposes_current_bit": true,
+  "cut_without_direct_report_blocks_current_bit_in_checked_outputs_when_prior_fixed": true,
+  "retained_consumer_memory_after_cut_for_past_bits": [
+    0,
+    1
+  ],
+  "intervening_current_source_does_not_erase_prior_record": true,
+  "scope": "existing discrete workspace and finite probability kernels; no clinical or experiential claim"
+}

@@ -1,0 +1,65 @@
+{
+  "sources": [
+    {
+      "repository": "Cogitate-consortium/cogitate-data",
+      "commit": "6eb5d9daa664211ad3573e2a369b340979e9e926",
+      "path": "docs/03_cogdataset.md",
+      "local_path": "sources/external/cogitate_protocol/03_cogdataset.md",
+      "sha256": "fc2e48aa48fe3952e37ba465a59d2728b5754e835ef1b05022360b18815f6f0e",
+      "bytes": 78287,
+      "source_url": "https://github.com/Cogitate-consortium/cogitate-data/blob/6eb5d9daa664211ad3573e2a369b340979e9e926/docs/03_cogdataset.md",
+      "explicit_read_ranges": [
+        [
+          175,
+          201
+        ],
+        [
+          243,
+          295
+        ]
+      ],
+      "full_document_read_claimed": false,
+      "line_count": 820
+    },
+    {
+      "repository": "Cogitate-consortium/cogitate-data",
+      "commit": "6eb5d9daa664211ad3573e2a369b340979e9e926",
+      "path": "docs/02_overview.md",
+      "local_path": "sources/external/cogitate_protocol/02_overview.md",
+      "sha256": "e9e3f6e0a10f2a4225ad818884d2e6bfb98afcba4eff84d7db83e6e835d9922a",
+      "bytes": 8640,
+      "source_url": "https://github.com/Cogitate-consortium/cogitate-data/blob/6eb5d9daa664211ad3573e2a369b340979e9e926/docs/02_overview.md",
+      "explicit_read_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "full_document_read_claimed": true,
+      "line_count": 91
+    },
+    {
+      "repository": "Cogitate-consortium/cogitate-data",
+      "commit": "6eb5d9daa664211ad3573e2a369b340979e9e926",
+      "path": "docs/05_access.md",
+      "local_path": "sources/external/cogitate_protocol/05_access.md",
+      "sha256": "8a57f873e435668662f7bb7f122555dffa48554e2035450b4a724195c8afb948",
+      "bytes": 10342,
+      "source_url": "https://github.com/Cogitate-consortium/cogitate-data/blob/6eb5d9daa664211ad3573e2a369b340979e9e926/docs/05_access.md",
+      "explicit_read_ranges": [
+        [
+          1,
+          27
+        ],
+        [
+          78,
+          118
+        ]
+      ],
+      "full_document_read_claimed": false,
+      "line_count": 154
+    }
+  ],
+  "scope": "Pinned public documentation only; full overview and specified dataset/access ranges inspected. No participant recordings, result paper, or preregistration retrieved.",
+  "assessment": "WORKSPACE_TOGETHERNESS_CANDIDATE.md"
+}

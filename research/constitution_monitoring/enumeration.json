@@ -1,0 +1,228 @@
+{
+  "scope": "Synthetic finite identification audit; not phenomenal measurements.",
+  "candidate_count": 16,
+  "intervention_count": 36,
+  "distinct_public_signatures": 1,
+  "baseline_survivors": [
+    [
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "minimal_target_contrast_designs": [
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ]
+  ],
+  "candidate_tables": [
+    {
+      "table": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "essential_coordinates": []
+    },
+    {
+      "table": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "essential_coordinates": [
+        "C"
+      ]
+    },
+    {
+      "table": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "essential_coordinates": [
+        "M"
+      ]
+    },
+    {
+      "table": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "essential_coordinates": [
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "essential_coordinates": [
+        "C"
+      ]
+    },
+    {
+      "table": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "essential_coordinates": [
+        "C",
+        "M"
+      ]
+    },
+    {
+      "table": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "essential_coordinates": []
+    }
+  ]
+}

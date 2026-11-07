@@ -1,0 +1,37 @@
+test_01_car_cells (test_model.CellCurrentTests.test_01_car_cells) ... ok
+test_02_covariance_hermitian (test_model.CellCurrentTests.test_02_covariance_hermitian) ... ok
+test_03_positive_contraction (test_model.CellCurrentTests.test_03_positive_contraction) ... ok
+test_04_density_trace_one (test_model.CellCurrentTests.test_04_density_trace_one) ... ok
+test_05_density_positive (test_model.CellCurrentTests.test_05_density_positive) ... ok
+test_06_density_realizes_covariance (test_model.CellCurrentTests.test_06_density_realizes_covariance) ... ok
+test_07_centered_current_mean_zero (test_model.CellCurrentTests.test_07_centered_current_mean_zero) ... ok
+test_08_current_wick_identity (test_model.CellCurrentTests.test_08_current_wick_identity) ... ok
+test_09_actual_lattice_operator_difference (test_model.CellCurrentTests.test_09_actual_lattice_operator_difference) ... ok
+test_10_current_product_selfadjoint (test_model.CellCurrentTests.test_10_current_product_selfadjoint) ... ok
+test_11_observable_norm_diverges (test_model.CellCurrentTests.test_11_observable_norm_diverges) ... ok
+test_12_smooth_relative_fermion_formula (test_model.CellCurrentTests.test_12_smooth_relative_fermion_formula) ... ok
+test_13_relative_fermion_regular_at_zero (test_model.CellCurrentTests.test_13_relative_fermion_regular_at_zero) ... ok
+test_14_flat_cell_integral_exact (test_model.CellCurrentTests.test_14_flat_cell_integral_exact) ... ok
+test_15_cell_shape_independent_of_scale (test_model.CellCurrentTests.test_15_cell_shape_independent_of_scale) ... ok
+test_16_shape_error_bound (test_model.CellCurrentTests.test_16_shape_error_bound) ... ok
+test_17_shape_approaches_one (test_model.CellCurrentTests.test_17_shape_approaches_one) ... ok
+test_18_fixed_cell_count_limit (test_model.CellCurrentTests.test_18_fixed_cell_count_limit) ... ok
+test_19_uncalibrated_bias_persists (test_model.CellCurrentTests.test_19_uncalibrated_bias_persists) ... ok
+test_20_fixed_count_calibrated_limit (test_model.CellCurrentTests.test_20_fixed_count_calibrated_limit) ... ok
+test_21_mesoscopic_limit_without_calibration (test_model.CellCurrentTests.test_21_mesoscopic_limit_without_calibration) ... ok
+test_22_smooth_quadrature_refinement (test_model.CellCurrentTests.test_22_smooth_quadrature_refinement) ... ok
+test_23_mesoscopic_scale_relation (test_model.CellCurrentTests.test_23_mesoscopic_scale_relation) ... ok
+test_24_cell_support_shrinks_to_midpoint (test_model.CellCurrentTests.test_24_cell_support_shrinks_to_midpoint) ... ok
+test_25_small_state_difference_does_not_fix_composite (test_model.CellCurrentTests.test_25_small_state_difference_does_not_fix_composite) ... ok
+test_26_compressed_state_is_mixed (test_model.CellCurrentTests.test_26_compressed_state_is_mixed) ... ok
+test_27_common_identity_counterterm_cancels (test_model.CellCurrentTests.test_27_common_identity_counterterm_cancels) ... ok
+test_28_relative_curved_trace_unchanged (test_model.CellCurrentTests.test_28_relative_curved_trace_unchanged) ... ok
+test_29_relative_chiral_conservation (test_model.CellCurrentTests.test_29_relative_chiral_conservation) ... ok
+test_30_reference_state_subtraction_zero (test_model.CellCurrentTests.test_30_reference_state_subtraction_zero) ... ok
+test_31_both_chiralities_in_fixed_curved_prescription (test_model.CellCurrentTests.test_31_both_chiralities_in_fixed_curved_prescription) ... ok
+test_32_validation (test_model.CellCurrentTests.test_32_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.028s
+
+OK
