@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ba095ecef761a7cf4c7688350c5b21c273461c70",
-  "file_count": 850,
+  "base_head": "42927f7debe04cf61c6da1fa6fd30501b5f4a0fb",
+  "file_count": 853,
   "files": [
     {
       "path": ".gitattributes",
@@ -364,6 +364,11 @@
       "sha256": "9e1af46e7163c3825b4fb816e87c82a824d56aa3307a0b5f2af178e7c6f4288f"
     },
     {
+      "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+      "bytes": 6429,
+      "sha256": "a87a4650602ac2c6e7454f70955f2becc8c952713002c35dde621822b304bc6f"
+    },
+    {
       "path": "FOUNDATION_OF_DUE_REGARD.md",
       "bytes": 10598,
       "sha256": "fda908d9c9bb474bb150ba97d4127719ec6af1ed17188a4bdd19ce34ee4fc167"
@@ -375,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 57589,
-      "sha256": "9ff35c1a948c6ecbfd30747316a531d124ffed9e0935bb40a7c222b2592b61f4"
+      "bytes": 57849,
+      "sha256": "071aa9d2f234009c44aad2d42e52286004e16095759416c68c59ee8a17f087e3"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30088,
-      "sha256": "446a66cbace3e7b8128a6636512926527c8649f2293198b1d00dadd9487f07c6"
+      "bytes": 30243,
+      "sha256": "aa268fba4b36aa569133edae705d406d299ec0690b8c5d639a6d57b135132f0e"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -2924,6 +2929,16 @@
       "sha256": "ec5c9f716c7f8d8582ad85b96cdc3772f6aab34cd5495493cd9a896efbb733ca"
     },
     {
+      "path": "verification/foundation_battery_report_spotcheck.json",
+      "bytes": 1398,
+      "sha256": "2f4226ad874e30fb427b6030780c190603532e2674b4ebbfd012417eb11a3fa1"
+    },
+    {
+      "path": "verification/foundation_battery_report_spotcheck.py",
+      "bytes": 4006,
+      "sha256": "fee83c87613d9fbe3a54cdf8e89fb16984c2f0d75261d62eb10a6a2d5ab507dd"
+    },
+    {
       "path": "verification/framework_battery.json",
       "bytes": 3849,
       "sha256": "fc67a5ddf78e6418655cf6a430f2f08598833539220a309ea106c0c1c8a7f06d"
@@ -3545,8 +3560,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 346538,
-      "sha256": "7bab29a823165eed12ea7ada97f562bb5cf83506a2144e2683827036522d0ee4"
+      "bytes": 347482,
+      "sha256": "2e35c5d1b2d82f65569ee9f63769be28e029246afa73f49e968b359ab96a6226"
     },
     {
       "path": "verification/project_inventory.py",

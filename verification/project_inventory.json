@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 272,
-  "bytes": 3737978,
-  "line_count": 43144,
-  "document_count_with_risk_phrases": 256,
+  "document_count": 273,
+  "bytes": 3744822,
+  "line_count": 43197,
+  "document_count_with_risk_phrases": 257,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2528,6 +2528,30 @@
       ]
     },
     {
+      "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+      "sha256": "a87a4650602ac2c6e7454f70955f2becc8c952713002c35dde621822b304bc6f",
+      "bytes": 6429,
+      "lines": 51,
+      "title": "Assessment of the SEEP foundation battery, v1",
+      "headings": [
+        "Assessment of the SEEP foundation battery, v1",
+        "Scope and source identity",
+        "Findings",
+        "Modal truth-table scope",
+        "Independent finite illustrations",
+        "Consequence for further development"
+      ],
+      "local_links": [
+        "verification/foundation_battery_report_spotcheck.py",
+        "verification/foundation_battery_report_spotcheck.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        49
+      ]
+    },
+    {
       "path": "FOUNDATION_OF_DUE_REGARD.md",
       "sha256": "fda908d9c9bb474bb150ba97d4127719ec6af1ed17188a4bdd19ce34ee4fc167",
       "bytes": 10598,
@@ -2582,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9ff35c1a948c6ecbfd30747316a531d124ffed9e0935bb40a7c222b2592b61f4",
-      "bytes": 57589,
-      "lines": 493,
+      "sha256": "071aa9d2f234009c44aad2d42e52286004e16095759416c68c59ee8a17f087e3",
+      "bytes": 57849,
+      "lines": 495,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2669,6 +2693,7 @@
         "FINITE_WINDING_READOUT.md",
         "FIXED_GAP_SOURCE_CLOCK.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
+        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FOUNDATION_OF_DUE_REGARD.md",
         "FOUR_CRITERIA_CONSOLIDATION.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2932,6 +2957,7 @@
         "verification/finite_turning_counter.py",
         "verification/finite_winding_noise.py",
         "verification/fixed_gap_source_clock.py",
+        "verification/foundation_battery_report_spotcheck.py",
         "verification/framework_battery.py",
         "verification/friction_conflict_audit.py",
         "verification/friend_history_selector_gate.py",
@@ -3067,23 +3093,23 @@
         30,
         34,
         39,
-        124,
-        154,
-        166,
-        181,
-        221,
-        233,
-        269,
-        278,
-        281,
-        284,
-        313
+        125,
+        155,
+        167,
+        182,
+        222,
+        234,
+        270,
+        279,
+        282,
+        285,
+        314
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "446a66cbace3e7b8128a6636512926527c8649f2293198b1d00dadd9487f07c6",
-      "bytes": 30088,
+      "sha256": "aa268fba4b36aa569133edae705d406d299ec0690b8c5d639a6d57b135132f0e",
+      "bytes": 30243,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3098,6 +3124,7 @@
       ],
       "local_links": [
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",

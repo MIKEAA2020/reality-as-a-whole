@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 229 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 168 verification Python scripts.
+- 230 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 169 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -83,6 +83,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
+- [FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md](FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md) — Assessment of the SEEP foundation battery, v1
 - [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
 - [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
@@ -360,6 +361,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/finite_turning_counter.py](verification/finite_turning_counter.py)
 - [verification/finite_winding_noise.py](verification/finite_winding_noise.py)
 - [verification/fixed_gap_source_clock.py](verification/fixed_gap_source_clock.py)
+- [verification/foundation_battery_report_spotcheck.py](verification/foundation_battery_report_spotcheck.py)
 - [verification/framework_battery.py](verification/framework_battery.py)
 - [verification/friction_conflict_audit.py](verification/friction_conflict_audit.py)
 - [verification/friend_history_selector_gate.py](verification/friend_history_selector_gate.py)
