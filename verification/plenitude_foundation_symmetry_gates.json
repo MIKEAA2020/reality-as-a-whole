@@ -1,0 +1,309 @@
+{
+  "status": "passed",
+  "one_world_models": [
+    {
+      "experience_atom": false,
+      "experience_atom_necessary": false,
+      "strong_schema_holds": true
+    },
+    {
+      "experience_atom": true,
+      "experience_atom_necessary": true,
+      "strong_schema_holds": true
+    }
+  ],
+  "two_world_proposition_valuations": [
+    {
+      "q": [
+        false,
+        false
+      ],
+      "schema_q_and_not_q": true
+    },
+    {
+      "q": [
+        false,
+        true
+      ],
+      "schema_q_and_not_q": false
+    },
+    {
+      "q": [
+        true,
+        false
+      ],
+      "schema_q_and_not_q": false
+    },
+    {
+      "q": [
+        true,
+        true
+      ],
+      "schema_q_and_not_q": true
+    }
+  ],
+  "graph": "unpointed triangle plus isolated vertex",
+  "automorphism_count": 6,
+  "invariant_subject_selectors_bits": [
+    "0000",
+    "0001",
+    "1110",
+    "1111"
+  ],
+  "rival_subject_partition_counts": [
+    4,
+    2
+  ],
+  "identical_report_interventions_checked": 16,
+  "rival_partition_report_table": [
+    {
+      "intervention": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "reports": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "reports": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "reports": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "reports": [
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "reports": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "reports": [
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "reports": [
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "reports": [
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "reports": [
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "reports": [
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "reports": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "reports": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "reports": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "reports": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "reports": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "intervention": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "reports": [
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "invariant_binary_valence_assignments": [
+    "0000",
+    "0001",
+    "1110",
+    "1111"
+  ],
+  "mixed_valence_assignments": [
+    "0001",
+    "1110"
+  ],
+  "two_strictly_positive_invariant_measures": [
+    [
+      "1/4",
+      "1/4",
+      "1/4",
+      "1/4"
+    ],
+    [
+      "1/6",
+      "1/6",
+      "1/6",
+      "1/2"
+    ]
+  ],
+  "scope": "Toy modal semantics and finite graph only. Experiential atoms, subject boundaries, empirical valences, metaphysical necessity, actual possibility and probability measures are stipulated, not established. Invariance under these graph automorphisms is a limited assumed constraint, not a theorem that no further laws or data can determine these quantities."
+}

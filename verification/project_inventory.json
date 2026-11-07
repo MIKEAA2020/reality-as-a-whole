@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 264,
-  "bytes": 3553083,
-  "line_count": 41663,
-  "document_count_with_risk_phrases": 248,
+  "document_count": 265,
+  "bytes": 3572443,
+  "line_count": 41805,
+  "document_count_with_risk_phrases": 249,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3878,9 +3878,9 @@
     },
     {
       "path": "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
-      "sha256": "eba2cb8327683ca62234fb4f9ebc8af9fc019e5a3c683279c3fd615dc3de673c",
-      "bytes": 10505,
-      "lines": 62,
+      "sha256": "b02bdb3708a3320147cacbc21870c630ed6178b9deb3bb8fa408695d7318f7c5",
+      "bytes": 11099,
+      "lines": 64,
       "title": "Revising the whole-account for a non-optimal world",
       "headings": [
         "Revising the whole-account for a non-optimal world",
@@ -3892,6 +3892,8 @@
         "5. Concrete next steps"
       ],
       "local_links": [
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
         "CONJECTURAL_WHOLE_ACCOUNT.md",
         "COMPLETE_AWARENESS_FINITE_DISCLOSURE.md",
@@ -3899,7 +3901,8 @@
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md"
       ],
       "risk_phrase_lines": [
-        18
+        3,
+        20
       ]
     },
     {
@@ -4523,6 +4526,50 @@
         87,
         104,
         114
+      ]
+    },
+    {
+      "path": "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+      "sha256": "432064679a3a496a83934ae0155433761cecffa35e7ba041fdb6c790e220b679",
+      "bytes": 18549,
+      "lines": 138,
+      "title": "Necessary experiential plenitude: narrowing the foundational gaps",
+      "headings": [
+        "Necessary experiential plenitude: narrowing the foundational gaps",
+        "1. The target and the questions it must answer",
+        "2. Strong possibility = actuality: what it really buys",
+        "3. What can plenitude include without contradiction?",
+        "4. A common symmetry gate for subject, quality and measure",
+        "5. How the other work bears on these gates",
+        "6. Dependency-driven next steps"
+      ],
+      "local_links": [
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "verification/plenitude_foundation_symmetry_gates.py",
+        "verification/plenitude_foundation_symmetry_gates.json",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "TIME_RESEARCH_ROADMAP.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "CUTOFF_INSTRUMENT_UNIFORMITY.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        60,
+        70,
+        77,
+        95,
+        99,
+        107,
+        135,
+        136,
+        138
       ]
     },
     {
@@ -5484,9 +5531,9 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "7a45bc5ea643ed8baae447e57a9cdb8befb59420eb472fadf2b289ac8475260f",
-      "bytes": 9834,
-      "lines": 80,
+      "sha256": "0a5be6a6e88975700bab61192774944d3b564f7d919d0f8ee45c687fa6628567",
+      "bytes": 10051,
+      "lines": 82,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -5499,13 +5546,14 @@
         "Verification and status"
       ],
       "local_links": [
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "verification/self_existing_plenitude_centers.py",
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
-        23
+        25
       ]
     },
     {

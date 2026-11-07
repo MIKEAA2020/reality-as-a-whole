@@ -1,5 +1,7 @@
 # Revising the whole-account for a non-optimal world
 
+> **Historical revision, not the current complete framework.** Later user clarifications provisionally replace the universal-subject target with plural subjects and explicitly adopt the bridge from a perfect whole to a best universe, making the whole non-perfect under the user's premises. They also reject literal simulations as the point of the Bostrom adaptation. See the [current self-existent-plenitude candidate](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) and its [foundational gap analysis](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md). Neither is a completed zero-residue account.
+
 ## Governing change
 
 The user's stance that our world is not best or optimal is a substantive constraint, not a difficulty to be explained away. The prior formulations that made a **perfectly good, unsurpassable absolute** a governing requirement are withdrawn as such. Completeness of explanation, self-sufficiency, universal consciousness, and moral optimality are distinct claims. We retain the first three as goals, not established facts, but do not build in the last.

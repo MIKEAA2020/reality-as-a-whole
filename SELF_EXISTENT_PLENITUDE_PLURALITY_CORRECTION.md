@@ -2,6 +2,8 @@
 
 ## The correction
 
+For the next conditional necessity and symmetry results, and the linked dependency-driven gap plan, see [Necessary experiential plenitude: narrowing the foundational gaps](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md).
+
 The user clarified that Bostrom's simulation hypothesis is a **starting point for the question of actuality**, not a request to posit aliens, computer simulations, simulated people or a creator within the framework. The previous [necessary-plenitude construction](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) got this wrong by adopting an actual internal simulation as a candidate premise. **Its N6 and its simulated/nonsimulated population are withdrawn as components of the user's framework.** Its arithmetic remains a conditional illustration of a different, literal scenario; it is not the intended reconstruction.
 
 The relevant question is instead: **Why is there actual reality at all, rather than only something describable as possible—or nothing?** A creator outside the universe would move that question to the creator and whatever supports the creator. Taken as an explanation of reality *as a whole*, an external creator does not by itself eliminate the ultimate question.
