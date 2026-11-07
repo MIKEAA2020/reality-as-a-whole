@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 279,
-  "bytes": 3849524,
-  "line_count": 43903,
-  "document_count_with_risk_phrases": 263,
+  "document_count": 280,
+  "bytes": 3868247,
+  "line_count": 44004,
+  "document_count_with_risk_phrases": 264,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "dc7135d7b934fe4cbd582101ba876d3f7cf3c3a97f0682d91354472518c4c494",
-      "bytes": 59522,
-      "lines": 507,
+      "sha256": "63e920889817d6b4ef829cbd8477443176f1bc83e98254d67d0b2c4c066f1e2b",
+      "bytes": 59813,
+      "lines": 509,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2709,6 +2709,7 @@
         "HAMILTONIAN_CLOCK_DETECTOR.md",
         "HAWKING_BACKREACTION_BOUND.md",
         "HAWKING_PAGE_CURVE.md",
+        "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
         "INCOMING_CONSTRAINT_PREPARATION.md",
         "INFINITE_COHERENCE_CONSTRUCTION.md",
         "INFINITE_RELATIONAL_CLOCK.md",
@@ -2976,6 +2977,7 @@
         "verification/gravity_clock_complementarity.py",
         "verification/hamiltonian_detector.py",
         "verification/hawking_backreaction_bound.py",
+        "verification/hemispherotomy_spectral_translation_gate.py",
         "verification/hubble_data_inventory.py",
         "verification/hubble_heldout.py",
         "verification/hubble_phase_identifiability.py",
@@ -3105,23 +3107,23 @@
         30,
         34,
         39,
-        126,
-        156,
-        168,
-        183,
-        227,
-        240,
-        276,
-        285,
-        288,
-        291,
-        320
+        127,
+        157,
+        169,
+        184,
+        228,
+        241,
+        277,
+        286,
+        289,
+        292,
+        321
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "cf6f4a39640de6745962c7d66ac0191b340f17ff692d8243e8e425d03ccd281e",
-      "bytes": 30923,
+      "sha256": "d8d9800275ca90e67cd52dc46e7dc2cc513a34cee13dfbd101b7449caae9f9d8",
+      "bytes": 31087,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3143,6 +3145,7 @@
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+        "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -3561,6 +3564,34 @@
         "verification/wdw_page_curve.json"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
+      "sha256": "fd4ca0490e69f803c63b08a791f300759564779ebb752dc769232f21e0ed2761",
+      "bytes": 18268,
+      "lines": 99,
+      "title": "Isolated cortex, anesthesia, and the boundary of a subject",
+      "headings": [
+        "Isolated cortex, anesthesia, and the boundary of a subject",
+        "Result and scope",
+        "1. Which disconnection?",
+        "2. The empirical evidence",
+        "3. A specific code-reproducibility check",
+        "4. The decision gate: what would a finding actually decide?",
+        "5. Practical research path, not a clinical protocol",
+        "Sources and limits"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+        "verification/hemispherotomy_spectral_translation_gate.py",
+        "verification/hemispherotomy_spectral_translation_gate.json",
+        "verification/requirements-spectral-translation.txt",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        12,
+        81
+      ]
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",

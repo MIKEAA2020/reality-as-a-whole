@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 236 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 175 verification Python scripts.
+- 237 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 176 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -99,6 +99,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
 - [HAWKING_BACKREACTION_BOUND.md](HAWKING_BACKREACTION_BOUND.md) — Hawking backreaction bound: the bounce geometry is self-consistent
 - [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md) — Hawking temperature, evaporation, and Page curve for bouncing black holes
+- [HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md](HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md) — Isolated cortex, anesthesia, and the boundary of a subject
 - [INCOMING_CONSTRAINT_PREPARATION.md](INCOMING_CONSTRAINT_PREPARATION.md) — On-shell incoming preparation without a polar controller
 - [INFINITE_COHERENCE_CONSTRUCTION.md](INFINITE_COHERENCE_CONSTRUCTION.md) — An explicit infinite coherence construction
 - [INFINITE_RELATIONAL_CLOCK.md](INFINITE_RELATIONAL_CLOCK.md) — An infinite relational clock without a global clock distribution
@@ -380,6 +381,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
 - [verification/hamiltonian_detector.py](verification/hamiltonian_detector.py)
 - [verification/hawking_backreaction_bound.py](verification/hawking_backreaction_bound.py)
+- [verification/hemispherotomy_spectral_translation_gate.py](verification/hemispherotomy_spectral_translation_gate.py)
 - [verification/hubble_data_inventory.py](verification/hubble_data_inventory.py)
 - [verification/hubble_heldout.py](verification/hubble_heldout.py)
 - [verification/hubble_phase_identifiability.py](verification/hubble_phase_identifiability.py)

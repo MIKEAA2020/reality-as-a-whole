@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "088ae16fd826179ff1e3ef365224bf0a3803b605",
-  "file_count": 871,
+  "base_head": "32ffa23fff5540c53c30b0db2d088fc264cfa979",
+  "file_count": 875,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 59522,
-      "sha256": "dc7135d7b934fe4cbd582101ba876d3f7cf3c3a97f0682d91354472518c4c494"
+      "bytes": 59813,
+      "sha256": "63e920889817d6b4ef829cbd8477443176f1bc83e98254d67d0b2c4c066f1e2b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30923,
-      "sha256": "cf6f4a39640de6745962c7d66ac0191b340f17ff692d8243e8e425d03ccd281e"
+      "bytes": 31087,
+      "sha256": "d8d9800275ca90e67cd52dc46e7dc2cc513a34cee13dfbd101b7449caae9f9d8"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -447,6 +447,11 @@
       "path": "HAWKING_PAGE_CURVE.md",
       "bytes": 5282,
       "sha256": "0ae039e344166bc1561024427e3324cf609659eab71b5cab9d1472a4e35bf46d"
+    },
+    {
+      "path": "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
+      "bytes": 18268,
+      "sha256": "fd4ca0490e69f803c63b08a791f300759564779ebb752dc769232f21e0ed2761"
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",
@@ -3084,6 +3089,16 @@
       "sha256": "bb4946025d3f3dfce1d2601f2753c7ddaeba2dda8d128fccb73bf5e3bdd7d64f"
     },
     {
+      "path": "verification/hemispherotomy_spectral_translation_gate.json",
+      "bytes": 774,
+      "sha256": "e2d2101c96f4e68a3c542d0682f37819d8afe5e9d1f0ebb05245896353c59538"
+    },
+    {
+      "path": "verification/hemispherotomy_spectral_translation_gate.py",
+      "bytes": 3491,
+      "sha256": "8191df663310c5bda18aaa95562851ffe9178a1c0780d0a354a431bb5f6ff3ff"
+    },
+    {
       "path": "verification/hubble_data_inventory.json",
       "bytes": 24372,
       "sha256": "d5a0389b4f70c6cf176cb8a510c6d91d4a759ba7b27e1d40c8e9de3cbfc3232b"
@@ -3610,8 +3625,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 355850,
-      "sha256": "db35cf3e84cad12e754028a92f1b84ebd12edfe69a8a326751233e7689e6c826"
+      "bytes": 357149,
+      "sha256": "d141e02a8dc994c891e930f3869de752764328e469abc83adfd258299a48d58a"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3787,6 +3802,11 @@
       "path": "verification/requirements-rivalry-okn.txt",
       "bytes": 105,
       "sha256": "961c7b308ed1365cb61b8ebb8e003d432a4be8c95a327104cbc64d9d3e6aa434"
+    },
+    {
+      "path": "verification/requirements-spectral-translation.txt",
+      "bytes": 46,
+      "sha256": "d611cac7d00621d18811221b8c8fe261b8540063dd4a3fcec203cb427c3827ab"
     },
     {
       "path": "verification/reused_reference_clock.json",
