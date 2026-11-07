@@ -1,0 +1,23 @@
+{
+  "kind": "synthetic design witness; no participant data",
+  "tr_s": 2.2,
+  "n_samples": 124,
+  "event_onsets_s": [
+    20.0,
+    45.0,
+    70.0,
+    95.0,
+    120.0,
+    145.0,
+    170.0,
+    195.0,
+    220.0,
+    245.0
+  ],
+  "shift_s": 1.142,
+  "hrf": "exp(-t)*(t**5/5! - t**15/(6*15!)) for t>=0; zero otherwise",
+  "centered_regressor_correlation": 0.907794751127555,
+  "ols_variance_inflation_for_one_coefficient": 5.684767483592504,
+  "assumptions": "intercept, two regressors, iid equal-variance errors; no filtering or nuisance regressors",
+  "warning": "The 1.142 s published cross-to-button mean is not the GLM cross-to-mixing-midpoint delay. This is not the actual design."
+}

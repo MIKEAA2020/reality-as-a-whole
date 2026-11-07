@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "30611695c6debbba8aa631ecff56774e08872a95",
-  "file_count": 878,
+  "base_head": "aeb06409b189530f3073af97e18b020a97751b1a",
+  "file_count": 881,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 60110,
-      "sha256": "00d1ab549869b33ad58720f634f1ee3ab203bba5e0633da47438b5d69d10ddfd"
+      "bytes": 60376,
+      "sha256": "750265fe9bdf7fa6a01f0bee7c5950fbd38a3c01ae548f3268809e1fbda9355d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -832,6 +832,11 @@
       "path": "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
       "bytes": 11793,
       "sha256": "bc61ae107b8392cbd11f55662f48daae279868edc630e301d2241dcd7d83247d"
+    },
+    {
+      "path": "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+      "bytes": 17382,
+      "sha256": "151929c38f5f55af1eaf17bf1710e768ead85940649df3971c9dc6f9b87a01b7"
     },
     {
       "path": "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
@@ -3640,8 +3645,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 359088,
-      "sha256": "cce6c9e287804a4b2917f77e420211eed5a7710c9c59b7322c87d3915e3ee2aa"
+      "bytes": 360382,
+      "sha256": "af3bee90ca68c338f8549a1a0f7319aa4faa06d228ff25af14c36460f299d035"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3842,6 +3847,16 @@
       "path": "verification/reversible_friend_record_tradeoff.py",
       "bytes": 5051,
       "sha256": "3b9c2e6a976423561ec2babdd679c0f168a65aa106d60a49da04b8a3ef6624b6"
+    },
+    {
+      "path": "verification/rivalry_hrf_timing_witness.json",
+      "bytes": 689,
+      "sha256": "891d8c44e9e4071e20dd7a4947dab8af7cc7db16578da227d069acf23ee25cab"
+    },
+    {
+      "path": "verification/rivalry_hrf_timing_witness.py",
+      "bytes": 2456,
+      "sha256": "acb14f92ee6e59df10771851ee001ae7045688f638d52af8cd5553722fe418c1"
     },
     {
       "path": "verification/rivalry_okn_source_audit.json",

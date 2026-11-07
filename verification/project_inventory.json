@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 281,
-  "bytes": 3892006,
-  "line_count": 44159,
-  "document_count_with_risk_phrases": 265,
+  "document_count": 282,
+  "bytes": 3909654,
+  "line_count": 44229,
+  "document_count_with_risk_phrases": 266,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "00d1ab549869b33ad58720f634f1ee3ab203bba5e0633da47438b5d69d10ddfd",
-      "bytes": 60110,
-      "lines": 511,
+      "sha256": "750265fe9bdf7fa6a01f0bee7c5950fbd38a3c01ae548f3268809e1fbda9355d",
+      "bytes": 60376,
+      "lines": 513,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2832,6 +2832,7 @@
         "REPORTED_CONTENT_REFERENCE_CASE.md",
         "REUSED_REFERENCE_CLOCK.md",
         "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
+        "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -3098,6 +3099,7 @@
         "verification/reported_rivalry_case_audit.py",
         "verification/reused_reference_clock.py",
         "verification/reversible_friend_record_tradeoff.py",
+        "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
         "verification/self_existing_plenitude_centers.py",
@@ -3159,14 +3161,14 @@
         128,
         158,
         170,
-        185,
-        229,
-        242,
-        278,
-        287,
-        290,
-        293,
-        322
+        186,
+        230,
+        243,
+        279,
+        288,
+        291,
+        294,
+        323
       ]
     },
     {
@@ -6328,6 +6330,35 @@
       "risk_phrase_lines": [
         13,
         21,
+        40
+      ]
+    },
+    {
+      "path": "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+      "sha256": "151929c38f5f55af1eaf17bf1710e768ead85940649df3971c9dc6f9b87a01b7",
+      "bytes": 17382,
+      "lines": 68,
+      "title": "Can an EEG–fMRI rivalry dataset test the experience bridge?",
+      "headings": [
+        "Can an EEG–fMRI rivalry dataset test the experience bridge?",
+        "Decision",
+        "1. Existing experiment and what was already found",
+        "2. Exactly what is accessible and what is not",
+        "3. Reconstruction hazards to resolve from files or authors",
+        "4. Why distinguishable event times may still be difficult to separate in BOLD",
+        "5. A concrete retrospective EEG–report test",
+        "6. Relation to the framework's actual decision gate"
+      ],
+      "local_links": [
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "verification/rivalry_hrf_timing_witness.py",
+        "verification/rivalry_hrf_timing_witness.json",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        28,
         40
       ]
     },

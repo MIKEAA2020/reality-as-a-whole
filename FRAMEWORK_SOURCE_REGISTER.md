@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 238 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 177 verification Python scripts.
+- 239 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 178 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -175,6 +175,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [REPORTED_CONTENT_REFERENCE_CASE.md](REPORTED_CONTENT_REFERENCE_CASE.md) — A worked reported-content reference case
 - [REUSED_REFERENCE_CLOCK.md](REUSED_REFERENCE_CLOCK.md) — Reusing one finite reference: joint records, correlations and a finite capacity
 - [REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md](REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md) — Does a subject's experience need an indelible physical record?
+- [RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md](RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md) — Can an EEG–fMRI rivalry dataset test the experience bridge?
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
@@ -455,6 +456,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/reported_rivalry_case_audit.py](verification/reported_rivalry_case_audit.py)
 - [verification/reused_reference_clock.py](verification/reused_reference_clock.py)
 - [verification/reversible_friend_record_tradeoff.py](verification/reversible_friend_record_tradeoff.py)
+- [verification/rivalry_hrf_timing_witness.py](verification/rivalry_hrf_timing_witness.py)
 - [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
 - [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
