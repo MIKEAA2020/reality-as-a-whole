@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+For the next step using interventional causal influence and a maximal-cohesion benchmark instead of an arbitrary numerical cutoff, see [From coupled dynamics to candidate subject boundaries](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md).
+
 This advances the [previous symmetry gate](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md): the rival subject rules are now applied to the **same explicitly specified interacting stochastic dynamics**, not merely an unchanging graph and a stipulated XOR report. In one weak-coupling regime the rules disagree on whether there is one subject or two. Their physical dynamics and operational reports are nevertheless exactly identical by construction. We then identify what an additional, testable bridge would have to do to discriminate them.
 
 This is a finite classical **diagnostic**, not a brain, a theory of consciousness, a simulated observer, or an account of the whole. Subject incidence is hypothesized, never inferred from a spin. Local update steps are an internal ordering used to describe the toy; they do not posit an external universal clock or a process by which possibility becomes actuality.

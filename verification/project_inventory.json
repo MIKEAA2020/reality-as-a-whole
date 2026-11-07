@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 266,
-  "bytes": 3585202,
-  "line_count": 41910,
-  "document_count_with_risk_phrases": 250,
+  "document_count": 267,
+  "bytes": 3597317,
+  "line_count": 42029,
+  "document_count_with_risk_phrases": 251,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -477,6 +477,36 @@
         69,
         85,
         103
+      ]
+    },
+    {
+      "path": "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+      "sha256": "98bda182e3d74233dabcaa7fa6afc32c1962a390e7c2320cff9ea81fffefd2c4",
+      "bytes": 11875,
+      "lines": 117,
+      "title": "From coupled dynamics to candidate subject boundaries",
+      "headings": [
+        "From coupled dynamics to candidate subject boundaries",
+        "1. Objective and status",
+        "2. Make the structural inputs interventional",
+        "3. Two subject-constitution proposals",
+        "4. Can the influences be measured well enough?",
+        "5. What would make the subject disagreement empirically meaningful?",
+        "6. Position in the larger account"
+      ],
+      "local_links": [
+        "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
+        "verification/causal_influence_subject_gate.py",
+        "verification/causal_influence_subject_gate.json",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        28,
+        36,
+        53,
+        68,
+        80,
+        88
       ]
     },
     {
@@ -1443,9 +1473,9 @@
     },
     {
       "path": "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
-      "sha256": "4c55ffcb12285979ecf18dd4c10379c29e43c534a6a84a5e85f5d62e2dc08513",
-      "bytes": 12566,
-      "lines": 103,
+      "sha256": "f5eccd07928badb4a6ce206bc39441db36853996a5e3892fa58eba84b1abe222",
+      "bytes": 12806,
+      "lines": 105,
       "title": "Subject boundaries in one coupled physical dynamics",
       "headings": [
         "Subject boundaries in one coupled physical dynamics",
@@ -1458,17 +1488,18 @@
         "Verification"
       ],
       "local_links": [
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "verification/coupled_subject_boundary_gate.json"
       ],
       "risk_phrase_lines": [
-        5,
-        26,
-        45,
+        7,
+        28,
         47,
-        62,
-        103
+        49,
+        64,
+        105
       ]
     },
     {

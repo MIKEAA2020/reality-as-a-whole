@@ -1,0 +1,151 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "cross_tanh": "0",
+      "directed_influences": {
+        "1->0": "1/2",
+        "0->1": "1/2",
+        "3->2": "1/2",
+        "2->3": "1/2"
+      },
+      "symmetric_edge_weights": {
+        "0-1": "1/2",
+        "1-2": "0",
+        "2-3": "1/2"
+      },
+      "maximum_cut_score": "1/2",
+      "maximizing_subsets": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "cross_tanh": "1/4",
+      "directed_influences": {
+        "1->0": "1/2",
+        "0->1": "10/21",
+        "2->1": "4/21",
+        "1->2": "4/21",
+        "3->2": "10/21",
+        "2->3": "1/2"
+      },
+      "symmetric_edge_weights": {
+        "0-1": "10/21",
+        "1-2": "4/21",
+        "2-3": "10/21"
+      },
+      "maximum_cut_score": "10/21",
+      "maximizing_subsets": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "cross_tanh": "1/2",
+      "directed_influences": {
+        "1->0": "1/2",
+        "0->1": "2/5",
+        "2->1": "2/5",
+        "1->2": "2/5",
+        "3->2": "2/5",
+        "2->3": "1/2"
+      },
+      "symmetric_edge_weights": {
+        "0-1": "2/5",
+        "1-2": "2/5",
+        "2-3": "2/5"
+      },
+      "maximum_cut_score": "2/5",
+      "maximizing_subsets": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "cross_tanh": "3/4",
+      "directed_influences": {
+        "1->0": "1/2",
+        "0->1": "14/55",
+        "2->1": "36/55",
+        "1->2": "36/55",
+        "3->2": "14/55",
+        "2->3": "1/2"
+      },
+      "symmetric_edge_weights": {
+        "0-1": "14/55",
+        "1-2": "36/55",
+        "2-3": "14/55"
+      },
+      "maximum_cut_score": "36/55",
+      "maximizing_subsets": [
+        [
+          1,
+          2
+        ]
+      ]
+    }
+  ],
+  "relabelings_checked_per_case": 24,
+  "weak_regime_internal_minus_cross_influence": "2/7",
+  "calibration_bound": {
+    "independent_trials_per_direction_input_cell": 2421,
+    "number_of_cells": 12,
+    "simultaneous_error_bound": 0.049888409496924566,
+    "mean_tolerance": "1/28",
+    "influence_tolerance": "1/14"
+  },
+  "hypothetical_phenomenal_bridge": {
+    "one_subject_experience_minimum": "4/5",
+    "two_subject_experience_maximum": "1/5",
+    "report_error_bounds": [
+      "1/10",
+      "1/10"
+    ],
+    "operational_probability_lower_and_upper": [
+      "7/10",
+      "3/10"
+    ],
+    "independent_trials": 47,
+    "each_hoeffding_error_bound": 0.02328374037489699
+  },
+  "scope": "Toy one-update interventional probabilities and an invented unnormalized cut score. No brain, real subject, conscious quality, measure, metaphysical necessity or IIT 4.0 value is derived. Causal sufficiency and fully controllable spin-neighbor clamps are assumed."
+}
