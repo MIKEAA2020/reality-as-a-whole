@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 237 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 176 verification Python scripts.
+- 238 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 177 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -37,6 +37,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md) — Cold-atom entropic time: source audit and connection to our time work
 - [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination
 - [COMMUTANT_STEERING_AND_COST.md](COMMUTANT_STEERING_AND_COST.md) — An exact preparation-cost law without local density matrices
+- [COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md](COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md) — Competing rules for subjects: an explicit construction and locality test
 - [COMPLETE_AWARENESS_FINITE_DISCLOSURE.md](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) — Complete awareness and finite disclosure
 - [COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) — Complete intelligibility: grounded determination, not an exemption from explanation
 - [COMPLETE_SELF_KNOWLEDGE.md](COMPLETE_SELF_KNOWLEDGE.md) — Complete self-knowledge without a semantically total self-model
@@ -342,6 +343,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)
 - [verification/cold_atom_clock.py](verification/cold_atom_clock.py)
 - [verification/cold_atom_comparison.py](verification/cold_atom_comparison.py)
+- [verification/competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)

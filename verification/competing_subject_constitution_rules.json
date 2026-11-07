@@ -1,0 +1,294 @@
+{
+  "status": "passed",
+  "scope": "Stipulated toy experiential rules and classical four-spin system, not patient data, physical validation, IIT, or proof of experience.",
+  "full_active_cases": [
+    {
+      "coupling_tanh": "1/2",
+      "rule_C": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "rule_M": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "M_unresolved_overlap": false,
+      "endpoint_match_probability": "9/16",
+      "endpoint_togetherness_C": true,
+      "endpoint_togetherness_M": true,
+      "report_yes_probability_both_rules": "3/4",
+      "report_error_C": "1/4",
+      "report_error_M": "1/4"
+    },
+    {
+      "coupling_tanh": "1/4",
+      "rule_C": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "rule_M": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "M_unresolved_overlap": false,
+      "endpoint_match_probability": "17/32",
+      "endpoint_togetherness_C": true,
+      "endpoint_togetherness_M": false,
+      "report_yes_probability_both_rules": "3/4",
+      "report_error_C": "1/4",
+      "report_error_M": "3/4"
+    },
+    {
+      "coupling_tanh": "0",
+      "rule_C": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "rule_M": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "M_unresolved_overlap": false,
+      "endpoint_match_probability": "1/2",
+      "endpoint_togetherness_C": false,
+      "endpoint_togetherness_M": false,
+      "report_yes_probability_both_rules": "3/4",
+      "report_error_C": "3/4",
+      "report_error_M": "3/4"
+    },
+    {
+      "coupling_tanh": "3/4",
+      "rule_C": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "rule_M": [
+        [
+          1,
+          2
+        ]
+      ],
+      "M_unresolved_overlap": false,
+      "endpoint_match_probability": "19/32",
+      "endpoint_togetherness_C": true,
+      "endpoint_togetherness_M": false,
+      "report_yes_probability_both_rules": "3/4",
+      "report_error_C": "1/4",
+      "report_error_M": "3/4"
+    }
+  ],
+  "active_right_pair_only": [
+    [
+      2,
+      3
+    ]
+  ],
+  "no_active_units": [],
+  "disconnected_stronger_left": {
+    "edges_01_and_23": [
+      "3/5",
+      "1/2"
+    ],
+    "C": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "M": [
+      [
+        0,
+        1
+      ]
+    ],
+    "componentwise_M": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "relabelings_checked": 24
+  },
+  "componentwise_M_weak_links": [
+    {
+      "edge_12": "1/100",
+      "componentwise_M": [
+        [
+          0,
+          1
+        ]
+      ],
+      "overlap_local_winners": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "edge_12": "1/10000",
+      "componentwise_M": [
+        [
+          0,
+          1
+        ]
+      ],
+      "overlap_local_winners": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    }
+  ],
+  "overlap_local_half_coupling": {
+    "strict_winners": [],
+    "unresolved_ties": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "relabelings_checked": 24
+  },
+  "initial_to_weak_C_lineage": {
+    "strict": [
+      [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    ],
+    "overlap": [
+      [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    ]
+  },
+  "initial_to_weak_M_lineage": {
+    "strict": [],
+    "overlap": [
+      [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    ]
+  },
+  "permutation_rule_checks": 1536,
+  "fission_relabelings_checked": 24,
+  "report_identity": "For complementary joint-label predictions Z_C=1 and Z_M=0, any binary report R has P(R!=Z_C)+P(R!=Z_M)=1."
+}
