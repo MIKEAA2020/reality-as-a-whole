@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 257,
-  "bytes": 3451775,
-  "line_count": 40826,
-  "document_count_with_risk_phrases": 241,
+  "document_count": 258,
+  "bytes": 3464340,
+  "line_count": 40946,
+  "document_count_with_risk_phrases": 242,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -446,8 +446,8 @@
     },
     {
       "path": "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
-      "sha256": "a2ccec80e5174b0f930333cb5915dccc83e7cf79a1033fe41531934502ed3dda",
-      "bytes": 13349,
+      "sha256": "4aad2307c40651bcc95644aab786cd8fef53078fbb116f2cb4c9c29275e2d60f",
+      "bytes": 13426,
       "lines": 103,
       "title": "Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates",
       "headings": [
@@ -466,7 +466,8 @@
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "verification/brain_centric_blockworld_gates.py",
         "verification/brain_centric_blockworld_gates.json",
-        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md"
+        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md"
       ],
       "risk_phrase_lines": [
         35,
@@ -6427,6 +6428,42 @@
       ],
       "risk_phrase_lines": [
         20
+      ]
+    },
+    {
+      "path": "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+      "sha256": "3b3fb1403bee145b6f9ba23526dc581c3110a04c0fbe3de5ec8a625219fe25ff",
+      "bytes": 12488,
+      "lines": 120,
+      "title": "A two-subject, reversible-record selector: first finite model",
+      "headings": [
+        "A two-subject, reversible-record selector: first finite model",
+        "Purpose and status",
+        "1. The physical circuit",
+        "2. A stipulated two-subject extension",
+        "3. The exact extra premise: conditional Born probabilities",
+        "4. Why experience cannot simply be replaced by a projective intervention",
+        "5. What the model narrows down",
+        "6. Next dependency: from a table to a lawful subject selector"
+      ],
+      "local_links": [
+        "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
+        "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "verification/two_subject_reversible_selector.json",
+        "verification/friend_history_selector_gate.py",
+        "verification/reversible_friend_record_tradeoff.py",
+        "verification/subject_friend_quantum_extensions.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        52,
+        58,
+        70,
+        99,
+        104,
+        120
       ]
     },
     {

@@ -96,7 +96,7 @@ A conservative candidate worth exploring is:
 
 This is a research sketch, not a completed model or a claim of literature novelty. Histories and many-minds antecedents include Griffiths, Gell-Mann–Hartle and Donald's [history-oriented many-minds proposal](https://arxiv.org/html/quant-ph/9703008). It does not derive the user's `possibility = actuality` identity: nonzero amplitude in a specified quantum model is not automatically every genuine possibility in the user's strongest metaphysical sense. Nor does it infer that one consciousness underlies all subjects. Under the user's adopted perfection premise and non-best-universe premise, the whole is non-perfect; the article does not resolve that question.
 
-**Next micro-step:** ask whether the intended pilot is purely perspectival, ordinary embodied control, or an additional physical selection mechanism; then specify one finite subject–record–history model, its Born weights and its reverse-interference behavior before attempting the WdW/relativity limit. This keeps the global goal visible while isolating the missing join.
+**Next micro-step:** distinguish purely perspectival, ordinary embodied control, and additional physical selection mechanisms, then specify a finite subject–record–history model before attempting the WdW/relativity limit. The subsequent [two-subject reversible-selector model](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) does this for two restricted protocols and exposes its additional conditional response law; it is not a complete physical theory.
 
 ## Reproduction
 

@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "coherent_preparation": "(|000>+|111>)/sqrt(2) on S,F,G",
+  "branch_read_probabilities": {
+    "00": "1/2",
+    "11": "1/2"
+  },
+  "subject_slots": "two stipulatively distinct labels F and G; experiences both equal lambda",
+  "selector_rule": "lambda=0 or 1, each probability 1/2, sampled as an extra postulate",
+  "read_joint": [
+    {
+      "sF": 0,
+      "sG": 0,
+      "Fread": 0,
+      "Gread": 0,
+      "p": "1/2"
+    },
+    {
+      "sF": 1,
+      "sG": 1,
+      "Fread": 1,
+      "Gread": 1,
+      "p": "1/2"
+    }
+  ],
+  "reverse_joint": [
+    {
+      "sF": 0,
+      "sG": 0,
+      "X": "+",
+      "p": "1/2"
+    },
+    {
+      "sF": 1,
+      "sG": 1,
+      "X": "+",
+      "p": "1/2"
+    }
+  ],
+  "coherent_X_plus": "1",
+  "physical_projective_intervention_X_plus": "1/2",
+  "same_unconditioned_state_deterministic_single_output_can_generate_both_labels": false,
+  "agreement_if_Born_rule_also_holds_conditionally_on_lambda": "1/2",
+  "scope": "Finite, context-specific probability extension for one coherent GHZ preparation and two protocols. The quantum state is unchanged and lambda is an additional ontic/stochastic postulate. The read response is lambda-dependent; the conditional Born rule for the same pure state is not imposed. Lambda is not inferred from the unconditioned quantum state, and no quantum channel physically measuring it without backaction is constructed. The subjective slots are not real observers; no derivation of consciousness, identity, all measurements, locality, contextuality, relativity or gravity."
+}
