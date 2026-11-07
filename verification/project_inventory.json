@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 267,
-  "bytes": 3597317,
-  "line_count": 42029,
-  "document_count_with_risk_phrases": 251,
+  "document_count": 268,
+  "bytes": 3609869,
+  "line_count": 42139,
+  "document_count_with_risk_phrases": 252,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -481,9 +481,9 @@
     },
     {
       "path": "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
-      "sha256": "98bda182e3d74233dabcaa7fa6afc32c1962a390e7c2320cff9ea81fffefd2c4",
-      "bytes": 11875,
-      "lines": 117,
+      "sha256": "782dadee6d838e37659c117209b1ef78eb2f6aa116f7cf3c7440798788780e53",
+      "bytes": 12135,
+      "lines": 119,
       "title": "From coupled dynamics to candidate subject boundaries",
       "headings": [
         "From coupled dynamics to candidate subject boundaries",
@@ -495,18 +495,19 @@
         "6. Position in the larger account"
       ],
       "local_links": [
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
         "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
         "verification/causal_influence_subject_gate.py",
         "verification/causal_influence_subject_gate.json",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        28,
-        36,
-        53,
-        68,
-        80,
-        88
+        30,
+        38,
+        55,
+        70,
+        82,
+        90
       ]
     },
     {
@@ -6069,6 +6070,41 @@
         18,
         37,
         48
+      ]
+    },
+    {
+      "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+      "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71",
+      "bytes": 12292,
+      "lines": 108,
+      "title": "Subject constitution: ties, persistence and redescriptions",
+      "headings": [
+        "Subject constitution: ties, persistence and redescriptions",
+        "1. Prior art: IIT already addresses ties",
+        "2. One tie can be resolved—but the choice has consequences",
+        "3. A symmetry obstruction for a different tie rule",
+        "4. Persistence: symmetry and strict numerical identity",
+        "5. Equivalent descriptions require mapped interventions",
+        "6. Where this leaves the framework",
+        "Verification"
+      ],
+      "local_links": [
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "verification/subject_cohesion_identity_redescription.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11,
+        15,
+        25,
+        27,
+        49,
+        67,
+        83,
+        89,
+        98,
+        102,
+        108
       ]
     },
     {

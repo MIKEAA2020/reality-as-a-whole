@@ -2,6 +2,8 @@
 
 ## 1. Objective and status
 
+For the follow-up treatment of ties, subject persistence and physically admissible redescriptions—including IIT 4.0's existing tie procedure—see [Subject constitution: ties, persistence and redescriptions](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md).
+
 The previous [coupled-dynamics gate](COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md) compared positive connectivity against an arbitrary coupling threshold. Here we take a constructive next step: define a **measurable causal-influence score** and an independently motivated *maximal causal cohesion* subject rule, then compare it with the positive-connectivity rule on the same dynamics.
 
 The score is an elementary, invented diagnostic—not integrated information, an IIT 4.0 calculation, or an established measure of consciousness. The model is a four-spin classical system, not a brain. Attribution of subjects to subsets remains a hypothesis; we do not infer conscious experience from a graph. The underlying [Glauber dynamics](https://doi.org/10.1063/1.1703954) and the strategy of comparing integration across partitions are established prior ideas. [IIT 4.0](https://doi.org/10.1371/journal.pcbi.1011465) contains specific intrinsic-information, state, partition and exclusion definitions that our simple pairwise minimum-cut score does **not** implement. Hoel, Albantakis and Tononi's [causal emergence](https://doi.org/10.1073/pnas.1314922110) is an important warning that results can depend on causal grain.

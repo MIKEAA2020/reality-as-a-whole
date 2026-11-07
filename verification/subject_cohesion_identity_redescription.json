@@ -1,0 +1,91 @@
+{
+  "status": "passed",
+  "four_spin_max_cardinality_rule": [
+    {
+      "t": "511/1024",
+      "score": "524970/1311061",
+      "selected": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "t": "1/2",
+      "score": "2/5",
+      "selected": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "t": "513/1024",
+      "score": "1575936/3931135",
+      "selected": [
+        [
+          1,
+          2
+        ]
+      ]
+    }
+  ],
+  "endpoint_snapshot_tv": "1/1024",
+  "iid_full_snapshot_count": 100,
+  "one_sample_kl_nats": 2.544237818144241e-06,
+  "equal_prior_pinsker_error_lower_bound": 0.49436058755482426,
+  "three_spin_normalized_cut_maxima": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "three_spin_max_score": "1/5",
+  "unique_lower_full_score": "2/15",
+  "nonempty_reflection_invariant_disjoint_top_selections": 0,
+  "one_to_one_persistence_matchings": [
+    "empty",
+    "A-to-U",
+    "B-to-U"
+  ],
+  "reflection_invariant_matchings": [
+    "empty"
+  ],
+  "encoded_valid_states": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "independent_clamp_state": [
+    1,
+    0
+  ],
+  "off_diagonal_outputs": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "scope": "Finite diagnostic only. Maximal cohesion is not IIT and no real subject, consciousness, physically valid independent clamp, universal uniqueness, full dynamics or metaphysical actuality is established. Identity no-go assumes distinct prior subjects, a single successor, one-to-one strict identity, and exact reflection symmetry."
+}
