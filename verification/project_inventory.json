@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 274,
-  "bytes": 3762910,
-  "line_count": 43352,
-  "document_count_with_risk_phrases": 258,
+  "document_count": 275,
+  "bytes": 3779970,
+  "line_count": 43498,
+  "document_count_with_risk_phrases": 259,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5cc76fc123363a1185b682244ab2395101e829b6c13d0bf1f7f4e82a14109587",
-      "bytes": 58128,
-      "lines": 497,
+      "sha256": "c0541584dfef4a4ba3137a07de37e359ba24fbd3522b8e29292164e408d6522d",
+      "bytes": 58419,
+      "lines": 499,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2838,6 +2838,7 @@
         "WDW_SPHERICAL_R_CLOCK.md",
         "WDW_STRONG_FIELD_SCALING.md",
         "WEAK_BACKREACTION_RECORD.md",
+        "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "WEYL2_CONFORMAL_ANOMALY_CC.md",
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
@@ -3083,6 +3084,7 @@
         "verification/wdw_spherical_clock.py",
         "verification/wdw_strong_field_scaling.py",
         "verification/weak_backreaction_record.py",
+        "verification/weak_coupling_partial_observation_gate.py",
         "verification/weyl2_conformal_anomaly_cc.py",
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
@@ -3100,18 +3102,18 @@
         167,
         182,
         223,
-        235,
-        271,
-        280,
-        283,
-        286,
-        315
+        236,
+        272,
+        281,
+        284,
+        287,
+        316
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "c8799494d5954943f7d0031626d18d7523b4aa2df87683dd204c79ab84527cd4",
-      "bytes": 30436,
+      "sha256": "d89407d12e2488504ceb8b71df096c8848059abfb40e7b9b0d1004e5bf9930ce",
+      "bytes": 30542,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3128,6 +3130,7 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -8228,6 +8231,45 @@
       "risk_phrase_lines": [
         4,
         75
+      ]
+    },
+    {
+      "path": "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
+      "sha256": "f8df5ff91f82bd398a5e9a4fcc2ccef7416ddf78d3074d8bd12ae302f8fc2b6c",
+      "bytes": 16663,
+      "lines": 144,
+      "title": "Weak coupling and partial observation: a subject-constitution gate",
+      "headings": [
+        "Weak coupling and partial observation: a subject-constitution gate",
+        "Result",
+        "1. Previous work and what is new here",
+        "2. Weakly coupled dynamics",
+        "3. What calibrated partial observation can recover",
+        "4. What a fully hidden component prevents",
+        "5. A targeted way to break the hidden-state ambiguity",
+        "6. Consequences for the framework"
+      ],
+      "local_links": [
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "verification/weak_coupling_partial_observation_gate.json",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        7,
+        9,
+        15,
+        44,
+        48,
+        52,
+        58,
+        77,
+        87,
+        89,
+        97,
+        122,
+        126,
+        144
       ]
     },
     {

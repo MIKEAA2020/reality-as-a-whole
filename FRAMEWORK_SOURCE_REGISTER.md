@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 231 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 170 verification Python scripts.
+- 232 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 171 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -228,6 +228,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WDW_SPHERICAL_R_CLOCK.md](WDW_SPHERICAL_R_CLOCK.md) — Wheeler–DeWitt spherical R-clock: areal radius as internal quantum time
 - [WDW_STRONG_FIELD_SCALING.md](WDW_STRONG_FIELD_SCALING.md) — Strong-field compactness scaling: where the dressed R-clock breaks down
 - [WEAK_BACKREACTION_RECORD.md](WEAK_BACKREACTION_RECORD.md) — Weak-backreaction relational records for the smooth self-gravitating field clock
+- [WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md](WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md) — Weak coupling and partial observation: a subject-constitution gate
 - [WEYL2_CONFORMAL_ANOMALY_CC.md](WEYL2_CONFORMAL_ANOMALY_CC.md) — Conformal Anomaly, Weyl² Running, and the Low-Scale Cosmological Constant
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
@@ -487,6 +488,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/wdw_spherical_clock.py](verification/wdw_spherical_clock.py)
 - [verification/wdw_strong_field_scaling.py](verification/wdw_strong_field_scaling.py)
 - [verification/weak_backreaction_record.py](verification/weak_backreaction_record.py)
+- [verification/weak_coupling_partial_observation_gate.py](verification/weak_coupling_partial_observation_gate.py)
 - [verification/weyl2_conformal_anomaly_cc.py](verification/weyl2_conformal_anomaly_cc.py)
 - [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)

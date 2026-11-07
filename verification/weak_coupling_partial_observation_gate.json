@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "weak_coupling_parameter": "1/16",
+  "one_step_conditional_y_flip_difference": "1/48",
+  "factor_defects_weak_kernel": {
+    "XY": "1/48",
+    "XZ": "1/8",
+    "YZ": "527/2304"
+  },
+  "unique_minimum_defect_gap": "5/48",
+  "maximum_row_tv_error_for_guaranteed_unique_minimum_exclusive": "5/288",
+  "readout_bit_flip_error": "1/8",
+  "inverse_l1_operator_norm": "16/9",
+  "known_channel_estimated_frequency_tv_error": "1/512",
+  "upper_bound_on_postprojection_row_tv_error": "1/144",
+  "sufficient_n_per_prepared_state_for_joint_factor_and_coupling_margin": 3387671,
+  "sampling_union_failure_upper_bound": 0.04999992630431245,
+  "one_deterministic_perturbation_reconstruction_tv_error": "1/288",
+  "occasional_y_readout_rate": "1/4",
+  "partial_readout_binary_contrast": "1/256",
+  "partial_readout_two_arm_sufficient_n_per_arm": 967018,
+  "partial_readout_two_arm_per_hypothesis_error_bound": 0.024999963342621376,
+  "hidden_completion_factor_defects": {
+    "XY": "1/8",
+    "XZ": "1/48",
+    "YZ": "527/2304"
+  },
+  "adaptive_deterministic_policies_checked_three_steps": 2187,
+  "scope": "Exact finite diagnostics, strong full-state preparation and known independent readout assumed for recovery; hidden-state no-go only for specified x-only operations. No actual subjects, human data, quantum or gravity result."
+}

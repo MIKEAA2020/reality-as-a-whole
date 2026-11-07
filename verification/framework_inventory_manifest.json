@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "cc7524574dd0bdc9d8eb1ce1a67f8c3bf9f78086",
-  "file_count": 856,
+  "base_head": "f6027ee4f11cea79088ca1bf1bcfded7d033ba91",
+  "file_count": 859,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 58128,
-      "sha256": "5cc76fc123363a1185b682244ab2395101e829b6c13d0bf1f7f4e82a14109587"
+      "bytes": 58419,
+      "sha256": "c0541584dfef4a4ba3137a07de37e359ba24fbd3522b8e29292164e408d6522d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30436,
-      "sha256": "c8799494d5954943f7d0031626d18d7523b4aa2df87683dd204c79ab84527cd4"
+      "bytes": 30542,
+      "sha256": "d89407d12e2488504ceb8b71df096c8848059abfb40e7b9b0d1004e5bf9930ce"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -1097,6 +1097,11 @@
       "path": "WEAK_BACKREACTION_RECORD.md",
       "bytes": 6717,
       "sha256": "139b7945d70264d9008c6bd64a1b7b108e2d45e2f177d0d8bdae093806c1820e"
+    },
+    {
+      "path": "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
+      "bytes": 16663,
+      "sha256": "f8df5ff91f82bd398a5e9a4fcc2ccef7416ddf78d3074d8bd12ae302f8fc2b6c"
     },
     {
       "path": "WEYL2_CONFORMAL_ANOMALY_CC.md",
@@ -3565,8 +3570,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 348933,
-      "sha256": "0a48c74ace3b870a241fe805c6215530f0d5baef577e6b1774146228ead64c4c"
+      "bytes": 350265,
+      "sha256": "1a475a4deafab42f422e6f2aa0469fa470f283978bbc253e268fdf7eb6a03cb3"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4232,6 +4237,16 @@
       "path": "verification/weak_backreaction_record.py",
       "bytes": 5595,
       "sha256": "8e2b1c6893061db753d3207dd15756d23dad61910a1170aa52b95c12599f4b91"
+    },
+    {
+      "path": "verification/weak_coupling_partial_observation_gate.json",
+      "bytes": 1345,
+      "sha256": "31b1a5c96d3fd23483d1413996a9b1591fa2ae6b622fccf3d3720b877a1fa24e"
+    },
+    {
+      "path": "verification/weak_coupling_partial_observation_gate.py",
+      "bytes": 7784,
+      "sha256": "173bd2d265ac3ba9ff82d590a5aad781df12e55afd6a83f4a7397e3f7b631f55"
     },
     {
       "path": "verification/weyl2_conformal_anomaly_cc.json",
