@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 273,
-  "bytes": 3744822,
-  "line_count": 43197,
-  "document_count_with_risk_phrases": 257,
+  "document_count": 274,
+  "bytes": 3762910,
+  "line_count": 43352,
+  "document_count_with_risk_phrases": 258,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "071aa9d2f234009c44aad2d42e52286004e16095759416c68c59ee8a17f087e3",
-      "bytes": 57849,
-      "lines": 495,
+      "sha256": "5cc76fc123363a1185b682244ab2395101e829b6c13d0bf1f7f4e82a14109587",
+      "bytes": 58128,
+      "lines": 497,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2797,6 +2797,7 @@
         "SPECTRAL_ACTION_FINITE_SM.md",
         "SPHERICAL_SCALAR_RADIATION.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
@@ -3051,6 +3052,7 @@
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
         "verification/subject_cohesion_identity_redescription.py",
+        "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/thermal_time.py",
@@ -3097,19 +3099,19 @@
         155,
         167,
         182,
-        222,
-        234,
-        270,
-        279,
-        282,
-        285,
-        314
+        223,
+        235,
+        271,
+        280,
+        283,
+        286,
+        315
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "aa268fba4b36aa569133edae705d406d299ec0690b8c5d639a6d57b135132f0e",
-      "bytes": 30243,
+      "sha256": "c8799494d5954943f7d0031626d18d7523b4aa2df87683dd204c79ab84527cd4",
+      "bytes": 30436,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3125,6 +3127,7 @@
       "local_links": [
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -6672,6 +6675,47 @@
         17,
         31,
         35
+      ]
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+      "sha256": "d1455f704624f6355a0a3b863354bc5254f754ff199388390e32edd1ae9a63c2",
+      "bytes": 17616,
+      "lines": 153,
+      "title": "Subject constitution: factorization, representation and symmetry",
+      "headings": [
+        "Subject constitution: factorization, representation and symmetry",
+        "1. The step forward",
+        "2. Input, candidates and a precise diagnostic",
+        "3. A constructive redescription check",
+        "4. Approximate recovery under an explicit error budget",
+        "5. The symmetry obstruction: a finite no-go",
+        "6. Two rivals on one model",
+        "7. Acceptance criteria and next dependencies"
+      ],
+      "local_links": [
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "verification/subject_factorization_redescription_gate.json",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        17,
+        23,
+        33,
+        47,
+        77,
+        82,
+        90,
+        92,
+        94,
+        103,
+        108,
+        113,
+        149,
+        153
       ]
     },
     {

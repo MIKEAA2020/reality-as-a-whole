@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "states": 4,
+  "balanced_binary_observables_up_to_complement": 3,
+  "complete_two_factor_decompositions": 3,
+  "state_permutations": 24,
+  "all_deterministic_state_operations": 256,
+  "permutation_operation_equivariance_cases": 6144,
+  "uniform_kernel_factorizations_passing": 3,
+  "uniform_kernel_invariant_factorization_selection_sizes": [
+    0,
+    3
+  ],
+  "generic_kernel_factorizations_passing": 1,
+  "generic_factorization_defects": {
+    "XY": "0",
+    "XZ": "1/8",
+    "YZ": "2/9"
+  },
+  "sampling_bound_n_per_starting_state": 119098,
+  "sampling_failure_union_bound": 0.04999940708509027,
+  "generic_old_coordinates_factors": [
+    "x",
+    "y"
+  ],
+  "generic_encoded_factors": [
+    "u",
+    "u XOR v"
+  ],
+  "old_coordinate_clamp_state_cases": 36,
+  "encoded_joint_flip_probability": "1/6",
+  "encoded_product_of_flip_marginals": "5/48",
+  "scope": "Finite classical exact model; candidate factorization gate only. No conscious subjects, physical substrate or phenomenology established. A coordinate change transports operations; independent native coordinate clamps are not automatically equivalent."
+}

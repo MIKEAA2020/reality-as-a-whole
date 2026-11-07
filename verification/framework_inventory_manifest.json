@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "42927f7debe04cf61c6da1fa6fd30501b5f4a0fb",
-  "file_count": 853,
+  "base_head": "cc7524574dd0bdc9d8eb1ce1a67f8c3bf9f78086",
+  "file_count": 856,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 57849,
-      "sha256": "071aa9d2f234009c44aad2d42e52286004e16095759416c68c59ee8a17f087e3"
+      "bytes": 58128,
+      "sha256": "5cc76fc123363a1185b682244ab2395101e829b6c13d0bf1f7f4e82a14109587"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30243,
-      "sha256": "aa268fba4b36aa569133edae705d406d299ec0690b8c5d639a6d57b135132f0e"
+      "bytes": 30436,
+      "sha256": "c8799494d5954943f7d0031626d18d7523b4aa2df87683dd204c79ab84527cd4"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -892,6 +892,11 @@
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
       "bytes": 11897,
       "sha256": "c9184d78b8b63ad19c911cff41014349f3b20c3ae48bdada722526ef12a4f86f"
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+      "bytes": 17616,
+      "sha256": "d1455f704624f6355a0a3b863354bc5254f754ff199388390e32edd1ae9a63c2"
     },
     {
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -3560,8 +3565,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 347482,
-      "sha256": "2e35c5d1b2d82f65569ee9f63769be28e029246afa73f49e968b359ab96a6226"
+      "bytes": 348933,
+      "sha256": "0a48c74ace3b870a241fe805c6215530f0d5baef577e6b1774146228ead64c4c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3922,6 +3927,16 @@
       "path": "verification/subject_cohesion_identity_redescription.py",
       "bytes": 4976,
       "sha256": "3617f6fcbe3f0cf31f4cae1ed8638e0a64e411e7fe4c966d858a5c945406a91f"
+    },
+    {
+      "path": "verification/subject_factorization_redescription_gate.json",
+      "bytes": 1144,
+      "sha256": "43c8936c74df77269a33e9f75ef7dc69a3200d35aafd7d20f75e79efad197d92"
+    },
+    {
+      "path": "verification/subject_factorization_redescription_gate.py",
+      "bytes": 9274,
+      "sha256": "29b08529e79d6b8397ddaf9aba9da1c39d99f261ee8f1aafc05e81289ca4ea78"
     },
     {
       "path": "verification/subject_friend_quantum_extensions.json",
