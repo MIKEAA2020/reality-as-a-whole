@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "open_complete_report_distributions_match": true,
+  "open_parity_accuracy_both_models": "3/4",
+  "report_agreement_both_models": "1",
+  "marginal_leak_test_X_and_Y": "independent in each marginal",
+  "conditional_leak_information_bits": 1,
+  "fano_information_lower_bound_at_75_percent_accuracy_bits": 0.18872187554086717,
+  "blocked_common_source_accuracy_upper_bound": "11/20",
+  "blocked_joint_access_accuracy_lower_bound": "27/40",
+  "blocked_decision_threshold": "49/80",
+  "ideal_iid_blocked_trials_sufficient": 473,
+  "per_hypothesis_hoeffding_error_upper_bound": 0.024839690046348596,
+  "hypothetical_experiential_report_bounds": [
+    "19/25",
+    "6/25"
+  ],
+  "scope": "Hypothetical finite causal models and stipulated validity/report bounds. No human data, validated experiential assay, subject count or claim of experimentally established pathway isolation."
+}

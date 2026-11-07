@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 275,
-  "bytes": 3779970,
-  "line_count": 43498,
-  "document_count_with_risk_phrases": 259,
+  "document_count": 276,
+  "bytes": 3800307,
+  "line_count": 43653,
+  "document_count_with_risk_phrases": 260,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c0541584dfef4a4ba3137a07de37e359ba24fbd3522b8e29292164e408d6522d",
-      "bytes": 58419,
-      "lines": 499,
+      "sha256": "ae21a42247e42b0557b22b2cf86645334b68427606160b269181b88a92e07fcc",
+      "bytes": 58670,
+      "lines": 501,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2717,6 +2717,7 @@
         "INTERACTING_CLOCK_RATE.md",
         "INTERNAL_REFERENCE_EVENT.md",
         "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KERR_BOUNCE_ROTATIONAL.md",
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
         "KO_DIMENSION6_SM.md",
@@ -2985,6 +2986,7 @@
         "verification/integration_overlap.py",
         "verification/interacting_clock.py",
         "verification/internal_reference_event.py",
+        "verification/joint_access_common_source_gate.py",
         "verification/kerr_bounce_rotational.py",
         "verification/kms_beta_two_pi.py",
         "verification/ko_dimension6_sm.py",
@@ -3097,23 +3099,23 @@
         30,
         34,
         39,
-        125,
-        155,
-        167,
-        182,
-        223,
-        236,
-        272,
-        281,
-        284,
-        287,
-        316
+        126,
+        156,
+        168,
+        183,
+        224,
+        237,
+        273,
+        282,
+        285,
+        288,
+        317
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "d89407d12e2488504ceb8b71df096c8848059abfb40e7b9b0d1004e5bf9930ce",
-      "bytes": 30542,
+      "sha256": "88505bd991cd6dc0d49a56aabdc1007980fef2632c12e9289ba42321bcda3f3b",
+      "bytes": 30640,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3131,6 +3133,7 @@
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -3920,6 +3923,38 @@
         53,
         61,
         70
+      ]
+    },
+    {
+      "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+      "sha256": "f073a27bd1a32d5abc0ede1497f02d53c802f59540281aad7c0412170734038d",
+      "bytes": 19988,
+      "lines": 153,
+      "title": "Joint access versus a common source: a decision gate",
+      "headings": [
+        "Joint access versus a common source: a decision gate",
+        "1. The central distinction",
+        "2. Prior art and empirical context",
+        "3. Baseline: two operational rivals, identical reports",
+        "4. The joint-leakage trap",
+        "5. What successful parity performance actually implies",
+        "6. A physical route-isolation decision",
+        "7. A separately stated bridge to joint experience"
+      ],
+      "local_links": [
+        "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "verification/joint_access_common_source_gate.json",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        11,
+        53,
+        141,
+        151
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 232 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 171 verification Python scripts.
+- 233 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 172 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -107,6 +107,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
 - [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
 - [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
+- [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KERR_BOUNCE_ROTATIONAL.md](KERR_BOUNCE_ROTATIONAL.md) — Non-Perturbative Kerr Bounce via BKL Rotational Decoupling
 - [KMS_BETA_TWO_PI_TOMITA_WEIGHT.md](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md) — β = 2π as the canonical modular temperature: the universal Tomita weight
 - [KO_DIMENSION6_SM.md](KO_DIMENSION6_SM.md) — KO-dimension 6 and the 3-generation constraint
@@ -389,6 +390,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/integration_overlap.py](verification/integration_overlap.py)
 - [verification/interacting_clock.py](verification/interacting_clock.py)
 - [verification/internal_reference_event.py](verification/internal_reference_event.py)
+- [verification/joint_access_common_source_gate.py](verification/joint_access_common_source_gate.py)
 - [verification/kerr_bounce_rotational.py](verification/kerr_bounce_rotational.py)
 - [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
 - [verification/ko_dimension6_sm.py](verification/ko_dimension6_sm.py)
