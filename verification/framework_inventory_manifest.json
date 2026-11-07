@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "dbb1934f4626aafed733ad8ede276fbaf2a44a96",
-  "file_count": 868,
+  "base_head": "088ae16fd826179ff1e3ef365224bf0a3803b605",
+  "file_count": 871,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 59219,
-      "sha256": "51d0dc51cc230fb24aafbf32d01482adf6c5837532ab49af22d05925db18611b"
+      "bytes": 59522,
+      "sha256": "dc7135d7b934fe4cbd582101ba876d3f7cf3c3a97f0682d91354472518c4c494"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30825,
-      "sha256": "731ff07efe9e1681580a5e6e16d273b5ebcafd5f02386b3c3652a88de5aaea69"
+      "bytes": 30923,
+      "sha256": "cf6f4a39640de6745962c7d66ac0191b340f17ff692d8243e8e425d03ccd281e"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -900,8 +900,13 @@
     },
     {
       "path": "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
-      "bytes": 15571,
-      "sha256": "0b9a821a63a44c0c5c594de1bb2e87a296b5f76606d6d8fba41e785dd17736d7"
+      "bytes": 15739,
+      "sha256": "c18742c98b109336284f0a50d63797b073bd9e76f501cb24e67cea8a6819da3c"
+    },
+    {
+      "path": "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+      "bytes": 16020,
+      "sha256": "683cc518d1638d15ab2e3bd1d2a0c1b9a4407fabc6ef5ca9fdf03f3d7220247e"
     },
     {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
@@ -3605,8 +3610,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 354410,
-      "sha256": "97ca71532ad01e9de9c606736e0ba15816a24d808d522db03d1add010f214025"
+      "bytes": 355850,
+      "sha256": "db35cf3e84cad12e754028a92f1b84ebd12edfe69a8a326751233e7689e6c826"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3642,6 +3647,16 @@
       "path": "verification/quantum_static_spherical_clock.py",
       "bytes": 4349,
       "sha256": "a46eee0ca92dbef89ed7d9a2c92b1470908ca82037a22737345c13edf8b65b36"
+    },
+    {
+      "path": "verification/race_context_and_joint_content_gate.json",
+      "bytes": 754,
+      "sha256": "2d590fdd69a4d59390fd0b1264dcfd87ab6f092b80932644c38498ac75bbbd33"
+    },
+    {
+      "path": "verification/race_context_and_joint_content_gate.py",
+      "bytes": 4399,
+      "sha256": "f51e334bcef285e174bd93297a53bb0fb5aec318f6b89d33890ab12d849c8ea9"
     },
     {
       "path": "verification/random_audit_experience_bridge.json",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 278,
-  "bytes": 3832935,
-  "line_count": 43825,
-  "document_count_with_risk_phrases": 262,
+  "document_count": 279,
+  "bytes": 3849524,
+  "line_count": 43903,
+  "document_count_with_risk_phrases": 263,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "51d0dc51cc230fb24aafbf32d01482adf6c5837532ab49af22d05925db18611b",
-      "bytes": 59219,
-      "lines": 505,
+      "sha256": "dc7135d7b934fe4cbd582101ba876d3f7cf3c3a97f0682d91354472518c4c494",
+      "bytes": 59522,
+      "lines": 507,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2799,6 +2799,7 @@
         "SPHERICAL_SCALAR_RADIATION.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+        "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -3032,6 +3033,7 @@
         "verification/qualitative_anchor_check.py",
         "verification/quantum_relational_field_instrument.py",
         "verification/quantum_static_spherical_clock.py",
+        "verification/race_context_and_joint_content_gate.py",
         "verification/random_audit_experience_bridge.py",
         "verification/recollapsing_gravitational_clock.py",
         "verification/refinement_acceptance_budget.py",
@@ -3107,19 +3109,19 @@
         156,
         168,
         183,
-        226,
-        239,
-        275,
-        284,
-        287,
-        290,
-        319
+        227,
+        240,
+        276,
+        285,
+        288,
+        291,
+        320
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "731ff07efe9e1681580a5e6e16d273b5ebcafd5f02386b3c3652a88de5aaea69",
-      "bytes": 30825,
+      "sha256": "cf6f4a39640de6745962c7d66ac0191b340f17ff692d8243e8e425d03ccd281e",
+      "bytes": 30923,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3140,6 +3142,7 @@
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+        "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -6732,8 +6735,8 @@
     },
     {
       "path": "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
-      "sha256": "0b9a821a63a44c0c5c594de1bb2e87a296b5f76606d6d8fba41e785dd17736d7",
-      "bytes": 15571,
+      "sha256": "c18742c98b109336284f0a50d63797b073bd9e76f501cb24e67cea8a6819da3c",
+      "bytes": 15739,
       "lines": 65,
       "title": "Split-brain evidence: public data, anatomical sparing, and the limits of unity claims",
       "headings": [
@@ -6747,6 +6750,7 @@
         "5. A discriminating next study, not a solved assay"
       ],
       "local_links": [
+        "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/bekir_split_brain_public_data_audit.json",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
@@ -6759,6 +6763,36 @@
         37,
         43,
         55
+      ]
+    },
+    {
+      "path": "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+      "sha256": "683cc518d1638d15ab2e3bd1d2a0c1b9a4407fabc6ef5ca9fdf03f3d7220247e",
+      "bytes": 16020,
+      "lines": 76,
+      "title": "Split-brain research: pooled timing, visual rivalry, and what integration tests show",
+      "headings": [
+        "Split-brain research: pooled timing, visual rivalry, and what integration tests show",
+        "Executive conclusion",
+        "1. Pooled callosotomy evidence and patient overlap",
+        "2. Rivalry: dissociation and coordination can coexist",
+        "3. What redundant-target speed can and cannot tell us",
+        "4. A recent EEG lead, with lower evidential weight",
+        "5. Practical design consequence",
+        "6. Constraint on the whole-and-subject framework"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+        "verification/race_context_and_joint_content_gate.py",
+        "verification/race_context_and_joint_content_gate.json",
+        "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        50,
+        52,
+        56,
+        57,
+        64
       ]
     },
     {

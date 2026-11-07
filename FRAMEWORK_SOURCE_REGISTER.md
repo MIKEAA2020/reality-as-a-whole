@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 235 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 174 verification Python scripts.
+- 236 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 175 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -189,6 +189,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
 - [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
 - [SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) — Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
+- [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
@@ -436,6 +437,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
 - [verification/quantum_relational_field_instrument.py](verification/quantum_relational_field_instrument.py)
 - [verification/quantum_static_spherical_clock.py](verification/quantum_static_spherical_clock.py)
+- [verification/race_context_and_joint_content_gate.py](verification/race_context_and_joint_content_gate.py)
 - [verification/random_audit_experience_bridge.py](verification/random_audit_experience_bridge.py)
 - [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
 - [verification/refinement_acceptance_budget.py](verification/refinement_acceptance_budget.py)

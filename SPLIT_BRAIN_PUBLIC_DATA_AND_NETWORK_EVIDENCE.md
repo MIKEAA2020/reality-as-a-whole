@@ -1,6 +1,6 @@
 # Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
 
-Research update, 7 November 2026. This is an empirical update, not a completed theory of consciousness or a revision of the frozen framework dossier.
+Research update, 7 November 2026. This is an empirical update, not a completed theory of consciousness or a revision of the frozen framework dossier. A subsequent [pooled timing and rivalry evidence update](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) adds a case-level meta-analysis and experimental prior art.
 
 ## Bottom line
 
