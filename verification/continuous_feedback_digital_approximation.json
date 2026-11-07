@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "ode": "x_prime=y, y_prime=-x; x(0)=1, y(0)=0; T=1",
+  "algorithm": "explicit Euler with rational updates",
+  "cases": [
+    {
+      "steps": 4,
+      "error_euclidean": 0.13066074649445047,
+      "proved_upper_bound": 0.18017578125
+    },
+    {
+      "steps": 16,
+      "error_euclidean": 0.03170806524497612,
+      "proved_upper_bound": 0.05118526554270625
+    },
+    {
+      "steps": 64,
+      "error_euclidean": 0.007842561637882354,
+      "proved_upper_bound": 0.013260507441914836
+    },
+    {
+      "steps": 256,
+      "error_euclidean": 0.001955025289987177,
+      "proved_upper_bound": 0.003345686766119989
+    },
+    {
+      "steps": 1024,
+      "error_euclidean": 0.0004884003492557515,
+      "proved_upper_bound": 0.0008383572897785331
+    }
+  ],
+  "bound": "error <= ((1+1/n)^n - 1)/(2n) <= (e-1)/(2n)",
+  "scope": "A computable two-variable counterexample to a general inference from continuity or feedback to digital non-approximability. Not a biological model, consciousness test, brain simulation, universal approximation theorem or computational cost estimate for a real brain."
+}

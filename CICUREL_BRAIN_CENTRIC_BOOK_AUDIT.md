@@ -76,7 +76,7 @@ The book interprets Libet's timing as a conscious veto window and connects it to
 
 ## 4. Relevance to Ciupa's and Donald's many-minds proposals
 
-The attachment provides background for **brain-centrism**, not the precise mechanics of Ciupa's unavailable article. The previous reply found Ciupa's related remarks about brain-guided, subjective Everettian “piloting”; one should not automatically attribute those claims to Cicurel's Part One. At PDF page 240 Cicurel explicitly criticizes many-worlds as assuming an external-realist framework, so compatibility cannot simply be assumed.
+The attachment provides background for **brain-centrism**, not the precise mechanics of Ciupa's article. At the time of this audit that article was unavailable; its subsequently supplied text is assessed in [the many-blockworlds audit](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md). One should not automatically attribute Ciupa's brain-guided, subjective Everettian “piloting” to Cicurel's Part One. At PDF page 240 Cicurel explicitly criticizes many-worlds as assuming an external-realist framework, so compatibility cannot simply be assumed. The later [2015 Cicurel–Nicolelis book audit](RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md) examines their separate anti-digital-simulation argument and its bearing on Bostrom and subject plurality.
 
 For established many-minds prior art, Matthew Donald's account emphasizes histories of brain functioning rather than an instantaneous brain state and considers discrete models rather than assuming a continuum of minds [3](https://arxiv.org/html/quant-ph/9703008). This is relevant to our [temporary-record history gate](TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md). But specifying a brain history is still not, without a further bridge, a specification of which subject exists, what is felt, or whether its history is a physical record or a phenomenal event.
 
@@ -94,7 +94,7 @@ The strongest synthesis is neither “a brain makes the universe” nor “exper
 
 A useful ordered program is:
 
-1. **Read Ciupa's actual article and Cicurel's Part Two** before assigning either a detailed quantum rule.
+1. **Read Ciupa's actual article and Cicurel's Part Two** before assigning either a detailed quantum rule. Ciupa's subsequently supplied article has since been assessed; Cicurel's Part Two remains unavailable.
 2. **Define subject incidence and persistence** without assuming a universal subject or biological brains as the only possible substrates.
 3. **Model one shared experiment:** specify the brain/record states, the observable history, subject assignment, outcome weights, and treatment of reversible records on the same preparation. Compare with Donald and standard many-minds proposals.
 4. **Distinguish empirically equivalent interpretation from new physical dynamics.** Only the latter, with clear predictions and controls, supplies an experimental distinction.
