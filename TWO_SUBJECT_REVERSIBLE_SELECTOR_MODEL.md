@@ -115,6 +115,8 @@ A defensible next model must specify, *before choosing an experiment*:
 
 Those dependencies sit below, not instead of, the wider objective: an intelligible timeless basis, local physics and real experience. They do not resolve the question of one universal consciousness, and under the user's adopted `perfect whole ⇒ best universe` and `universe not best` premises they give no basis for restoring whole perfection.
 
+A subsequent [two-report circuit](TWO_REPORTS_CONSENSUS_AND_REVERSAL.md) tests the second and third dependencies for two explicit physical record architectures. It shows that perfect report consensus alone does not establish faithful reporting, and makes the interference cost of a specified retained record explicit. It still does not provide a subject-to-report law.
+
 ## Verification
 
 Run `python verification/two_subject_reversible_selector.py`. The [receipt](verification/two_subject_reversible_selector.json) checks the three-qubit read and reversal outcomes with exact rational arithmetic, the stipulated joint distributions, the unread-projective-control difference, and the conditional-Born agreement calculation. Rerun [the friend-history](verification/friend_history_selector_gate.py), [external-record](verification/reversible_friend_record_tradeoff.py), and [Local Friendliness extension](verification/subject_friend_quantum_extensions.py) checks for the separate existing gates. Passing these scripts is not a demonstration of conscious observers, a physically complete hidden-variable model, or a resolution of an open physics problem.

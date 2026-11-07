@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 258,
-  "bytes": 3464340,
-  "line_count": 40946,
-  "document_count_with_risk_phrases": 242,
+  "document_count": 259,
+  "bytes": 3476509,
+  "line_count": 41069,
+  "document_count_with_risk_phrases": 243,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -6431,10 +6431,40 @@
       ]
     },
     {
+      "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+      "sha256": "e99467d09d69d2ead6925b7c0cb2960207c99232b006edd61867ec0ed2b116d1",
+      "bytes": 11799,
+      "lines": 121,
+      "title": "Two reports: agreement, accuracy and reversible records",
+      "headings": [
+        "Two reports: agreement, accuracy and reversible records",
+        "Decision",
+        "Prior work and what is new here",
+        "1. Common experimental preparation",
+        "2. Read versus reverse",
+        "3. A concrete exact witness",
+        "4. Can an exact accessible selector preserve full interference?",
+        "5. Bridge to real subjects and empirical work"
+      ],
+      "local_links": [
+        "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "verification/shared_vs_independent_reports.py",
+        "verification/shared_vs_independent_reports.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        64,
+        79,
+        114,
+        121
+      ]
+    },
+    {
       "path": "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
-      "sha256": "3b3fb1403bee145b6f9ba23526dc581c3110a04c0fbe3de5ec8a625219fe25ff",
-      "bytes": 12488,
-      "lines": 120,
+      "sha256": "7ab68fad82291a330285d822379659a0b54bb75c8d01c3fab57d754ca30817f3",
+      "bytes": 12858,
+      "lines": 122,
       "title": "A two-subject, reversible-record selector: first finite model",
       "headings": [
         "A two-subject, reversible-record selector: first finite model",
@@ -6450,6 +6480,7 @@
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
         "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "verification/two_subject_reversible_selector.json",
         "verification/friend_history_selector_gate.py",
         "verification/reversible_friend_record_tradeoff.py",
@@ -6463,7 +6494,7 @@
         70,
         99,
         104,
-        120
+        122
       ]
     },
     {

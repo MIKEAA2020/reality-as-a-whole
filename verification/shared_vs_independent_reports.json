@@ -1,0 +1,332 @@
+{
+  "status": "passed",
+  "qubit_order": "S,F,G,P,Q",
+  "initial_normalization": "All stored amplitudes carry 1/sqrt(2).",
+  "cases": [
+    {
+      "a": "1",
+      "b": "0",
+      "single_report_accuracy": "1",
+      "shared": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "1/2"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "1/2"
+          }
+        ],
+        "P_reports_agree": "1",
+        "P_both_wrong": "0",
+        "P_X_plus_with_reports_not_reversed": "1/2",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      },
+      "independent": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "1/2"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "1/2"
+          }
+        ],
+        "P_reports_agree": "1",
+        "P_both_wrong": "0",
+        "P_X_plus_with_reports_not_reversed": "1/2",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      }
+    },
+    {
+      "a": "4/5",
+      "b": "3/5",
+      "single_report_accuracy": "16/25",
+      "shared": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "8/25"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "9/50"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "9/50"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "8/25"
+          }
+        ],
+        "P_reports_agree": "1",
+        "P_both_wrong": "9/25",
+        "P_X_plus_with_reports_not_reversed": "49/50",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      },
+      "independent": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "128/625"
+          },
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 1,
+            "probability": "72/625"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 0,
+            "probability": "72/625"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "81/1250"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "81/1250"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 1,
+            "probability": "72/625"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 0,
+            "probability": "72/625"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "128/625"
+          }
+        ],
+        "P_reports_agree": "337/625",
+        "P_both_wrong": "81/625",
+        "P_X_plus_with_reports_not_reversed": "1201/1250",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      }
+    },
+    {
+      "a": "12/13",
+      "b": "5/13",
+      "single_report_accuracy": "144/169",
+      "shared": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "72/169"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "25/338"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "25/338"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "72/169"
+          }
+        ],
+        "P_reports_agree": "1",
+        "P_both_wrong": "25/169",
+        "P_X_plus_with_reports_not_reversed": "289/338",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      },
+      "independent": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "10368/28561"
+          },
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 1,
+            "probability": "1800/28561"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 0,
+            "probability": "1800/28561"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "625/57122"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "625/57122"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 1,
+            "probability": "1800/28561"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 0,
+            "probability": "1800/28561"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "10368/28561"
+          }
+        ],
+        "P_reports_agree": "21361/28561",
+        "P_both_wrong": "625/28561",
+        "P_X_plus_with_reports_not_reversed": "42961/57122",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      }
+    },
+    {
+      "a": "15/17",
+      "b": "8/17",
+      "single_report_accuracy": "225/289",
+      "shared": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "225/578"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "32/289"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "32/289"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "225/578"
+          }
+        ],
+        "P_reports_agree": "1",
+        "P_both_wrong": "64/289",
+        "P_X_plus_with_reports_not_reversed": "529/578",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      },
+      "independent": {
+        "joint_Z_F_P_Q": [
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 0,
+            "probability": "50625/167042"
+          },
+          {
+            "F": 0,
+            "P": 0,
+            "Q": 1,
+            "probability": "7200/83521"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 0,
+            "probability": "7200/83521"
+          },
+          {
+            "F": 0,
+            "P": 1,
+            "Q": 1,
+            "probability": "2048/83521"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 0,
+            "probability": "2048/83521"
+          },
+          {
+            "F": 1,
+            "P": 0,
+            "Q": 1,
+            "probability": "7200/83521"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 0,
+            "probability": "7200/83521"
+          },
+          {
+            "F": 1,
+            "P": 1,
+            "Q": 1,
+            "probability": "50625/167042"
+          }
+        ],
+        "P_reports_agree": "54721/83521",
+        "P_both_wrong": "4096/83521",
+        "P_X_plus_with_reports_not_reversed": "141121/167042",
+        "P_X_plus_after_unmeasured_full_reversal": "1"
+      }
+    }
+  ],
+  "scope": "Finite standard-quantum circuits only. P,Q are physical registers, not conscious subjects. The recovery uses coherent reversal before reports or uncontrolled copies are read; it does not recover a retained classical outcome. Equal circuit statistics do not establish any experience theory."
+}
