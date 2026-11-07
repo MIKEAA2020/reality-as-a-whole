@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "82f65010fc813ba76c2ef1b691242cbb451844e0",
-  "file_count": 865,
+  "base_head": "dbb1934f4626aafed733ad8ede276fbaf2a44a96",
+  "file_count": 868,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 58919,
-      "sha256": "dabd86008740a58cb6f082020861fdb3060794e069306a01b0c65931e9b5544c"
+      "bytes": 59219,
+      "sha256": "51d0dc51cc230fb24aafbf32d01482adf6c5837532ab49af22d05925db18611b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30731,
-      "sha256": "1a9f5d3995e50fc6fb9bae3224ea35d0c0b65f0bd7be6aa66181d3300d376b68"
+      "bytes": 30825,
+      "sha256": "731ff07efe9e1681580a5e6e16d273b5ebcafd5f02386b3c3652a88de5aaea69"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -895,8 +895,13 @@
     },
     {
       "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
-      "bytes": 15890,
-      "sha256": "c8ef021a8a9d663224ff1403c782c1aa83c2c2e4c8532c77f9b35b67551d437f"
+      "bytes": 16053,
+      "sha256": "b92301de4c471675abb9299559b8182235614c2a66de93d335834bce39d80109"
+    },
+    {
+      "path": "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+      "bytes": 15571,
+      "sha256": "0b9a821a63a44c0c5c594de1bb2e87a296b5f76606d6d8fba41e785dd17736d7"
     },
     {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
@@ -2589,6 +2594,16 @@
       "sha256": "7cdbac7befdd2c578899626e6166cae272b38195db91e8f611bc7d617ec306e7"
     },
     {
+      "path": "verification/bekir_split_brain_public_data_audit.json",
+      "bytes": 2083,
+      "sha256": "a73c12a2be3b4d08a7140180f544b0a8fdde9a6ba9199078e1aa646f53d64992"
+    },
+    {
+      "path": "verification/bekir_split_brain_public_data_audit.py",
+      "bytes": 4613,
+      "sha256": "a5d308940ccf8ed160dee2e4e75ebbbc9ba83f26708327fcd843f53e4bb7d25a"
+    },
+    {
       "path": "verification/boundary_cut_workspace.json",
       "bytes": 505,
       "sha256": "09f5cc2b719a3d71e3868bf5c611e45842cfe54528d33a06f010c3baab65a5f7"
@@ -3590,8 +3605,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 352975,
-      "sha256": "e9ca0a4e5b40b2aeaac33fef815b36af263bd67e32730a3793bbd30a669edb93"
+      "bytes": 354410,
+      "sha256": "97ca71532ad01e9de9c606736e0ba15816a24d808d522db03d1add010f214025"
     },
     {
       "path": "verification/project_inventory.py",

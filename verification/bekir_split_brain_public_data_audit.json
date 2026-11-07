@@ -1,0 +1,63 @@
+{
+  "status": "passed",
+  "source_repository": "https://github.com/selinbekir/splitbrain-disconnection-analysis",
+  "source_commit": "fa6408b3e86a72c7a490d9cb6af461e1d8f79ee8",
+  "source_csv_sha256": "eccd45d0ac8d750d3e6574b6d2850948322a84026068d2d79cbc884783a90acd",
+  "source_csv_rows": 44,
+  "topognosis_chance_field_discrepancies": [
+    {
+      "patient": "TJ",
+      "condition": "intra_uncrossed",
+      "successes": 26,
+      "trials": 26,
+      "csv_chance": "1/5",
+      "paper_methods_chance": "1/4",
+      "p_two_sided_csv_chance": 6.7108864e-19,
+      "p_two_sided_paper_chance": 2.220446049250313e-16
+    },
+    {
+      "patient": "TJ",
+      "condition": "inter_crossed",
+      "successes": 4,
+      "trials": 30,
+      "csv_chance": "1/5",
+      "paper_methods_chance": "1/4",
+      "p_two_sided_csv_chance": 0.4944426360413622,
+      "p_two_sided_paper_chance": 0.20359772225731596
+    },
+    {
+      "patient": "LJ",
+      "condition": "intra_uncrossed",
+      "successes": 3,
+      "trials": 4,
+      "csv_chance": "1/4",
+      "paper_methods_chance": "1/5",
+      "p_two_sided_csv_chance": 0.05078125,
+      "p_two_sided_paper_chance": 0.0272
+    },
+    {
+      "patient": "LJ",
+      "condition": "inter_crossed",
+      "successes": 0,
+      "trials": 3,
+      "csv_chance": "1/4",
+      "paper_methods_chance": "1/5",
+      "p_two_sided_csv_chance": 1.0,
+      "p_two_sided_paper_chance": 1.0
+    }
+  ],
+  "tj_4_of_30_two_sided_p_by_chance": {
+    "0.20": 0.4944426360413622,
+    "0.25": 0.20359772225731596,
+    "0.50": 5.947612226009369e-05
+  },
+  "lj_3_of_4_two_sided_p_by_chance": {
+    "0.20": 0.0272,
+    "0.25": 0.05078125
+  },
+  "bt_topognosis_two_10_of_10_conditions": true,
+  "bt_10_of_10_one_sided_95pct_binomial_lower_bound": 0.7411344491069477,
+  "raw_difference_perfect_intra_at_20pct_chance": "4/5",
+  "raw_difference_perfect_intra_at_25pct_chance": "3/4",
+  "scope": "Independent calculations on aggregate CSV and paper-method entries; no patient-level trials, MRI replay, full-author pipeline or proof of causal/experiential interpretation."
+}

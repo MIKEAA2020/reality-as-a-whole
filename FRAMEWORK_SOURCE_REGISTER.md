@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 234 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 173 verification Python scripts.
+- 235 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 174 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -188,6 +188,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
 - [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
+- [SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) — Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
@@ -329,6 +330,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/autonomous_record.py](verification/autonomous_record.py)
 - [verification/autonomous_record_tape.py](verification/autonomous_record_tape.py)
 - [verification/autonomous_stop_clock.py](verification/autonomous_stop_clock.py)
+- [verification/bekir_split_brain_public_data_audit.py](verification/bekir_split_brain_public_data_audit.py)
 - [verification/boundary_cut_workspace.py](verification/boundary_cut_workspace.py)
 - [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)
 - [verification/build_framework_inventory.py](verification/build_framework_inventory.py)

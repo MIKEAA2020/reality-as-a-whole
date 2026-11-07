@@ -1,6 +1,6 @@
 # Split-brain evidence: deeper source and task audit
 
-**Scope:** literature review and exact analysis of a simplified task—not an analysis of patient-level data, a subject-count result, or a completed theory. This extends the [joint-access decision gate](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md). It also corrects an omission: the distinction between behavioral/action unity and experiential unity, and the danger of unilateral task shortcuts, have substantial prior literature. Our earlier gate is a project-specific integration of those issues, not their discovery.
+**Scope:** literature review and exact analysis of a simplified task—not an analysis of patient-level data, a subject-count result, or a completed theory. A subsequent [public-data and network-evidence update](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) adds 2025 studies and a reproducible aggregate-data audit. This extends the [joint-access decision gate](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md). It also corrects an omission: the distinction between behavioral/action unity and experiential unity, and the danger of unilateral task shortcuts, have substantial prior literature. Our earlier gate is a project-specific integration of those issues, not their discovery.
 
 ## 1. What the deeper search changes
 

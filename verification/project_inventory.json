@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 277,
-  "bytes": 3816807,
-  "line_count": 43758,
-  "document_count_with_risk_phrases": 261,
+  "document_count": 278,
+  "bytes": 3832935,
+  "line_count": 43825,
+  "document_count_with_risk_phrases": 262,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "dabd86008740a58cb6f082020861fdb3060794e069306a01b0c65931e9b5544c",
-      "bytes": 58919,
-      "lines": 503,
+      "sha256": "51d0dc51cc230fb24aafbf32d01482adf6c5837532ab49af22d05925db18611b",
+      "bytes": 59219,
+      "lines": 505,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2798,6 +2798,7 @@
         "SPECTRAL_ACTION_FINITE_SM.md",
         "SPHERICAL_SCALAR_RADIATION.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -2925,6 +2926,7 @@
         "verification/autonomous_record.py",
         "verification/autonomous_record_tape.py",
         "verification/autonomous_stop_clock.py",
+        "verification/bekir_split_brain_public_data_audit.py",
         "verification/boundary_cut_workspace.py",
         "verification/brain_centric_blockworld_gates.py",
         "verification/build_framework_inventory.py",
@@ -3105,19 +3107,19 @@
         156,
         168,
         183,
-        225,
-        238,
-        274,
-        283,
-        286,
-        289,
-        318
+        226,
+        239,
+        275,
+        284,
+        287,
+        290,
+        319
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "1a9f5d3995e50fc6fb9bae3224ea35d0c0b65f0bd7be6aa66181d3300d376b68",
-      "bytes": 30731,
+      "sha256": "731ff07efe9e1681580a5e6e16d273b5ebcafd5f02386b3c3652a88de5aaea69",
+      "bytes": 30825,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3137,6 +3139,7 @@
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -6695,8 +6698,8 @@
     },
     {
       "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
-      "sha256": "c8ef021a8a9d663224ff1403c782c1aa83c2c2e4c8532c77f9b35b67551d437f",
-      "bytes": 15890,
+      "sha256": "b92301de4c471675abb9299559b8182235614c2a66de93d335834bce39d80109",
+      "bytes": 16053,
       "lines": 103,
       "title": "Split-brain evidence: deeper source and task audit",
       "headings": [
@@ -6710,6 +6713,7 @@
         "7. Verification and remaining gap"
       ],
       "local_links": [
+        "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "verification/split_brain_query_strategy_gate.json",
@@ -6724,6 +6728,37 @@
         80,
         83,
         89
+      ]
+    },
+    {
+      "path": "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+      "sha256": "0b9a821a63a44c0c5c594de1bb2e87a296b5f76606d6d8fba41e785dd17736d7",
+      "bytes": 15571,
+      "lines": 65,
+      "title": "Split-brain evidence: public data, anatomical sparing, and the limits of unity claims",
+      "headings": [
+        "Split-brain evidence: public data, anatomical sparing, and the limits of unity claims",
+        "Bottom line",
+        "What was actually examined and reproduced",
+        "1. Behavioral and imaging studies: do not double-count patients",
+        "2. What the public data reveal",
+        "3. Why ‘no detected difference’ is not an equivalence result",
+        "4. Longitudinal and countervailing evidence",
+        "5. A discriminating next study, not a solved assay"
+      ],
+      "local_links": [
+        "verification/bekir_split_brain_public_data_audit.py",
+        "verification/bekir_split_brain_public_data_audit.json",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        30,
+        35,
+        37,
+        43,
+        55
       ]
     },
     {
