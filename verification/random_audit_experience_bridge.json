@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "single_state_cases_checked": 54,
+  "synthetic_rival_M": {
+    "gate_failure": "1/10",
+    "report_experience_disagreement": "1/20",
+    "proxy_report_disagreement": "2/25",
+    "proxy_experience_disagreement": "13/100",
+    "proxy_positive": "77/100"
+  },
+  "synthetic_rival_D": {
+    "gate_failure": "1/10",
+    "report_experience_disagreement": "1/20",
+    "proxy_report_disagreement": "2/25",
+    "proxy_experience_disagreement": "13/100",
+    "proxy_positive": "23/100"
+  },
+  "unconditional_proxy_positive_separation": "27/50",
+  "random_audit_probabilities_checked": [
+    "1/10",
+    "1/4",
+    "1/2",
+    "1"
+  ],
+  "random_audit_conditional_disagreement": "2/25",
+  "same_observed_GR_Y_can_have_report_error": [
+    "0",
+    "1"
+  ],
+  "scope": "Illustrative exact probability distributions and algebra, not a study or validated assay. Audit selection is independent after the target window and potential report consistency is assumed. Actual experience, physical gate validity and report-to-experience error are not measured or derived."
+}

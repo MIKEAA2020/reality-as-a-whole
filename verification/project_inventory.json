@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 260,
-  "bytes": 3488364,
-  "line_count": 41180,
-  "document_count_with_risk_phrases": 244,
+  "document_count": 261,
+  "bytes": 3503156,
+  "line_count": 41301,
+  "document_count_with_risk_phrases": 245,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2047,9 +2047,9 @@
     },
     {
       "path": "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
-      "sha256": "7210a6588af9db713c49cebe6b9b4e336fb7441461da57b89993fb38a96b68e5",
-      "bytes": 11516,
-      "lines": 109,
+      "sha256": "cea8cdcc86f28d98fd59ed876f1cf4a9329a0123112285857c7ff8ee004eaa38",
+      "bytes": 11864,
+      "lines": 111,
       "title": "Can multiple imperfect measures identify an experience?",
       "headings": [
         "Can multiple imperfect measures identify an experience?",
@@ -2065,6 +2065,7 @@
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "verification/latent_experience_three_probes.py",
         "verification/latent_experience_three_probes.json"
       ],
@@ -2075,7 +2076,7 @@
         34,
         57,
         59,
-        109
+        111
       ]
     },
     {
@@ -5343,6 +5344,36 @@
         13,
         21,
         40
+      ]
+    },
+    {
+      "path": "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+      "sha256": "47aefb755265a705c67e0849aca320ec3bb9d5abd1b6645363ca13b9cc2fbc1a",
+      "bytes": 14444,
+      "lines": 119,
+      "title": "A concrete subject-to-report hypothesis: randomized audits of rivalry",
+      "headings": [
+        "A concrete subject-to-report hypothesis: randomized audits of rivalry",
+        "Decision",
+        "1. Existing work—not a new experimental paradigm",
+        "2. Declare the data and target",
+        "3. A randomized audit that measures report agreement in its own context",
+        "4. From report agreement to experience: the missing independent premise",
+        "5. The physical–phenomenal separation gate",
+        "6. A falsifiable decision sequence and stopping rule"
+      ],
+      "local_links": [
+        "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "MAINTAINED_DISCLOSURE_CANDIDATE.md",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "V4_FEF_ORIENTATION_GATE.md",
+        "verification/random_audit_experience_bridge.py",
+        "verification/random_audit_experience_bridge.json"
+      ],
+      "risk_phrase_lines": [
+        13,
+        119
       ]
     },
     {

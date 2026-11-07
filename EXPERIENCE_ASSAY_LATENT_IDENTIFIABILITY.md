@@ -104,6 +104,8 @@ A candidate subject/experience test should preregister:
 
 The desired outcome is not an abstract impossibility claim but a testable narrowing of rivals, respecting both first-person evidence and physical constraints. This gate does not solve consciousness, select the intrinsic quality of discomfort, prove subject plurality or unity, or resolve the user's wider metaphysics.
 
+The subsequent [random-audit rivalry proposal](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) specifies a concrete report–decoder agreement hypothesis, its separately required first-person error premise, and quantitative sufficient bounds for a restricted physical–phenomenal contrast. It is a proposed design, not a validated experiential assay.
+
 ## Verification
 
 Run [`verification/latent_experience_three_probes.py`](verification/latent_experience_three_probes.py). Its [exact-arithmetic receipt](verification/latent_experience_three_probes.json) checks the two-reporter ambiguity, three-probe reconstruction, the two competing assignments, their common physical distribution in three specified settings, conditional dependence and differing posteriors. The construction is a toy statistical counterexample, not evidence that either assignment is true of actual conscious organisms.
