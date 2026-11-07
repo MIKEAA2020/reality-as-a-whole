@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 262,
-  "bytes": 3520424,
-  "line_count": 41411,
-  "document_count_with_risk_phrases": 246,
+  "document_count": 263,
+  "bytes": 3542628,
+  "line_count": 41581,
+  "document_count_with_risk_phrases": 247,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3781,6 +3781,46 @@
       "risk_phrase_lines": []
     },
     {
+      "path": "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
+      "sha256": "35f575ca484f1b227378bd377433a6e1657d20ab3c3691c8e9cf9a76f03d3bb4",
+      "bytes": 21884,
+      "lines": 168,
+      "title": "Necessary plenitude, plural subjects and simulation: a constructed candidate",
+      "headings": [
+        "Necessary plenitude, plural subjects and simulation: a constructed candidate",
+        "The proposal in one sentence",
+        "1. What is fundamental, and what is not",
+        "2. Possibility = actuality, without weakening it into mere conceivability",
+        "3. A subject–history constitution that can be refined",
+        "4. Bostrom incorporated as an internal case",
+        "5. Exact finite construction: plenitude and Bostrom's counting coexist",
+        "6. Plenitude does not determine the probability measure"
+      ],
+      "local_links": [
+        "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
+        "SIMULATION_PLENITUDE_CONSOLIDATION.md",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
+        "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
+        "verification/necessary_plenitude_simulation_model.py",
+        "verification/necessary_plenitude_simulation_model.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        22,
+        68,
+        86,
+        88,
+        114,
+        154,
+        156,
+        168
+      ]
+    },
+    {
       "path": "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
       "sha256": "13515745fbdacf5d4888c99d3b8a262274b7d4baed0ecc2b7821646f7322cee8",
       "bytes": 12396,
@@ -5856,9 +5896,9 @@
     },
     {
       "path": "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
-      "sha256": "55eca11cc5e657baaa2925caf12480cc451b58ee1a6d7ee385381581145cc491",
-      "bytes": 12281,
-      "lines": 46,
+      "sha256": "8ad33272bb9f32c36531c393016b8791d3b1df02346f24e25bddd3e0a8dc19c6",
+      "bytes": 12601,
+      "lines": 48,
       "title": "Subject-pluralist experiential synthesis: a provisional reassessment",
       "headings": [
         "Subject-pluralist experiential synthesis: a provisional reassessment",
@@ -5869,6 +5909,7 @@
         "Comparison and uncertainty"
       ],
       "local_links": [
+        "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
@@ -5887,9 +5928,9 @@
       ],
       "risk_phrase_lines": [
         5,
-        16,
-        35,
-        46
+        18,
+        37,
+        48
       ]
     },
     {

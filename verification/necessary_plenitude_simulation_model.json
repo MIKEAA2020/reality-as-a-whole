@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "finite_example": {
+    "base_civilizations": 10,
+    "posthuman_civilizations": 4,
+    "interested_posthuman_civilizations": 3,
+    "simulations_per_interested_civilization": 10,
+    "reference_observers_per_history": 2,
+    "base_observers": 20,
+    "simulated_observers": 60,
+    "simulations": 30,
+    "stipulated_realized_local_types": [
+      [
+        "base",
+        0
+      ],
+      [
+        "base",
+        1
+      ],
+      [
+        "simulated",
+        0
+      ],
+      [
+        "simulated",
+        1
+      ]
+    ],
+    "base_history_initial_0": [
+      0,
+      1,
+      0
+    ],
+    "base_history_initial_1": [
+      1,
+      0,
+      1
+    ],
+    "all_simulated_traces_equal_their_base_toy_histories": true,
+    "counting_fraction_and_bostrom_formula": "3/4",
+    "alternative_group_symmetric_weighted_fraction": "1/2",
+    "heterogeneous_counterexample_base_count": 7006,
+    "heterogeneous_counterexample_sim_count": 60,
+    "heterogeneous_correct_fraction": "30/3533",
+    "unchanged_simplified_formula_in_heterogeneous_case": "3/4"
+  },
+  "global_modal_schema_holds_singleton": true,
+  "global_modal_schema_holds_two_mutually_accessible_worlds": false,
+  "countably_infinite_cutoff_examples": [
+    {
+      "blocks": 1,
+      "simulation_heavy_fraction": "3/4",
+      "base_heavy_fraction": "1/4"
+    },
+    {
+      "blocks": 10,
+      "simulation_heavy_fraction": "3/4",
+      "base_heavy_fraction": "1/4"
+    },
+    {
+      "blocks": 100,
+      "simulation_heavy_fraction": "3/4",
+      "base_heavy_fraction": "1/4"
+    },
+    {
+      "blocks": 1000,
+      "simulation_heavy_fraction": "3/4",
+      "base_heavy_fraction": "1/4"
+    }
+  ],
+  "scope": "Finite labeled relational witness and conditional probability algebra only. The admissibility catalogue, concrete status, subject incidence, implementer relation, mental content and weights are postulated. No physical simulation, empirical subjects, necessary existence, universal plenitude, uniquely justified measure, quantum dynamics or cosmological prediction is established."
+}
