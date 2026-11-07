@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "inputs": "independent uniform bits, shape X and instruction Y",
+  "output_labels": [
+    "shape_0",
+    "shape_1",
+    "stop"
+  ],
+  "best_shape_only_overall_accuracy": "1/2",
+  "best_instruction_only_overall_accuracy": "3/4",
+  "best_both_inputs_overall_accuracy": "1",
+  "shape_only_query_subset_accuracy": "1",
+  "shape_only_stop_subset_accuracy": "0",
+  "fictional_example_successes": 65,
+  "fictional_example_trials": 80,
+  "fictional_exact_binomial_upper_tail_under_75_percent_null": 0.1207576421078923,
+  "illustrative_fano_at_assumed_true_68_7_percent_bits": 0.10339385484585734,
+  "nontransitive_relation_unique_owner_solutions": 0,
+  "nontransitive_relation_overlapping_owner_witness": [
+    [
+      "A"
+    ],
+    [
+      "A",
+      "B"
+    ],
+    [
+      "B"
+    ]
+  ],
+  "scope": "Ideal balanced independent-input decision task; no trial-level data, empirical confidence bound, physical localization, phenomenal subject, or evidence of an actual shortcut."
+}

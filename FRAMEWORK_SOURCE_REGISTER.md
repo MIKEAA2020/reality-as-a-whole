@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 233 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 172 verification Python scripts.
+- 234 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 173 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -187,6 +187,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
+- [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
@@ -456,6 +457,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/spectral_action_bounce.py](verification/spectral_action_bounce.py)
 - [verification/spectral_action_finite_sm.py](verification/spectral_action_finite_sm.py)
 - [verification/spherical_scalar_radiation.py](verification/spherical_scalar_radiation.py)
+- [verification/split_brain_query_strategy_gate.py](verification/split_brain_query_strategy_gate.py)
 - [verification/steering_cost.py](verification/steering_cost.py)
 - [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)

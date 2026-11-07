@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 276,
-  "bytes": 3800307,
-  "line_count": 43653,
-  "document_count_with_risk_phrases": 260,
+  "document_count": 277,
+  "bytes": 3816807,
+  "line_count": 43758,
+  "document_count_with_risk_phrases": 261,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2606,9 +2606,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ae21a42247e42b0557b22b2cf86645334b68427606160b269181b88a92e07fcc",
-      "bytes": 58670,
-      "lines": 501,
+      "sha256": "dabd86008740a58cb6f082020861fdb3060794e069306a01b0c65931e9b5544c",
+      "bytes": 58919,
+      "lines": 503,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2797,6 +2797,7 @@
         "SPECTRAL_ACTION_BOUNCE.md",
         "SPECTRAL_ACTION_FINITE_SM.md",
         "SPHERICAL_SCALAR_RADIATION.md",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -3052,6 +3053,7 @@
         "verification/spectral_action_bounce.py",
         "verification/spectral_action_finite_sm.py",
         "verification/spherical_scalar_radiation.py",
+        "verification/split_brain_query_strategy_gate.py",
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
         "verification/subject_cohesion_identity_redescription.py",
@@ -3103,19 +3105,19 @@
         156,
         168,
         183,
-        224,
-        237,
-        273,
-        282,
-        285,
-        288,
-        317
+        225,
+        238,
+        274,
+        283,
+        286,
+        289,
+        318
       ]
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "88505bd991cd6dc0d49a56aabdc1007980fef2632c12e9289ba42321bcda3f3b",
-      "bytes": 30640,
+      "sha256": "1a9f5d3995e50fc6fb9bae3224ea35d0c0b65f0bd7be6aa66181d3300d376b68",
+      "bytes": 30731,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -3134,6 +3136,7 @@
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -3927,8 +3930,8 @@
     },
     {
       "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
-      "sha256": "f073a27bd1a32d5abc0ede1497f02d53c802f59540281aad7c0412170734038d",
-      "bytes": 19988,
+      "sha256": "0ba100dcb85a88780d5aa6b83f76132b1aabdb6e6badc42d241efaf023c80e94",
+      "bytes": 20258,
       "lines": 153,
       "title": "Joint access versus a common source: a decision gate",
       "headings": [
@@ -3947,6 +3950,7 @@
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "verification/joint_access_common_source_gate.json",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
@@ -6688,6 +6692,39 @@
         "verification/spherical_scalar_radiation.json"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+      "sha256": "c8ef021a8a9d663224ff1403c782c1aa83c2c2e4c8532c77f9b35b67551d437f",
+      "bytes": 15890,
+      "lines": 103,
+      "title": "Split-brain evidence: deeper source and task audit",
+      "headings": [
+        "Split-brain evidence: deeper source and task audit",
+        "1. What the deeper search changes",
+        "2. Empirical evidence and serious alternatives",
+        "3. Theoretical distinctions are established prior art",
+        "4. An idealized baseline tailored to the 2023 query task",
+        "5. A separate subject-identity constraint",
+        "6. What a genuine next empirical step would require",
+        "7. Verification and remaining gap"
+      ],
+      "local_links": [
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "verification/split_brain_query_strategy_gate.json",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        54,
+        62,
+        68,
+        70,
+        80,
+        83,
+        89
+      ]
     },
     {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ff376b3bbf864e80ebecadb8eb156f9922e23f8c",
-  "file_count": 862,
+  "base_head": "82f65010fc813ba76c2ef1b691242cbb451844e0",
+  "file_count": 865,
   "files": [
     {
       "path": ".gitattributes",
@@ -380,13 +380,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 58670,
-      "sha256": "ae21a42247e42b0557b22b2cf86645334b68427606160b269181b88a92e07fcc"
+      "bytes": 58919,
+      "sha256": "dabd86008740a58cb6f082020861fdb3060794e069306a01b0c65931e9b5544c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 30640,
-      "sha256": "88505bd991cd6dc0d49a56aabdc1007980fef2632c12e9289ba42321bcda3f3b"
+      "bytes": 30731,
+      "sha256": "1a9f5d3995e50fc6fb9bae3224ea35d0c0b65f0bd7be6aa66181d3300d376b68"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -490,8 +490,8 @@
     },
     {
       "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
-      "bytes": 19988,
-      "sha256": "f073a27bd1a32d5abc0ede1497f02d53c802f59540281aad7c0412170734038d"
+      "bytes": 20258,
+      "sha256": "0ba100dcb85a88780d5aa6b83f76132b1aabdb6e6badc42d241efaf023c80e94"
     },
     {
       "path": "KERR_BOUNCE_ROTATIONAL.md",
@@ -892,6 +892,11 @@
       "path": "SPHERICAL_SCALAR_RADIATION.md",
       "bytes": 4025,
       "sha256": "8e07c58e8dda456494406ffa3a6aba80c552d2bad032d8a630e8ec122d51244d"
+    },
+    {
+      "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+      "bytes": 15890,
+      "sha256": "c8ef021a8a9d663224ff1403c782c1aa83c2c2e4c8532c77f9b35b67551d437f"
     },
     {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
@@ -3585,8 +3590,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 351614,
-      "sha256": "96d13ea3966fe46201b225900fd07a8c93ae55663eac54b145b3f27b05def52b"
+      "bytes": 352975,
+      "sha256": "e9ca0a4e5b40b2aeaac33fef815b36af263bd67e32730a3793bbd30a669edb93"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3917,6 +3922,16 @@
       "path": "verification/spherical_scalar_radiation.py",
       "bytes": 5284,
       "sha256": "b27490ad5e1ac651d62130d85da452ae3b9fd93b47e8eb8d1b2cec845812f852"
+    },
+    {
+      "path": "verification/split_brain_query_strategy_gate.json",
+      "bytes": 999,
+      "sha256": "7d76512c551c43fd696ccbeba2ab147e5a37acb2f08252ed9fdefb05733d8a31"
+    },
+    {
+      "path": "verification/split_brain_query_strategy_gate.py",
+      "bytes": 3546,
+      "sha256": "118bbe66ed3d48093752453fcf744f91d1a13278a952618bda8831f1b55397a2"
     },
     {
       "path": "verification/steering_cost.json",
