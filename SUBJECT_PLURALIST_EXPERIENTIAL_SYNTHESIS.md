@@ -4,7 +4,7 @@
 
 Reassess the seven criteria after the user's objection that a suboptimal universe undermines an agentive universal consciousness. The most promising **working research direction**, not an established or uniquely most probable theory, is **experiential monism with plural subjects**: one reality, genuine irreducible experiences associated with multiple finite subjects, and physical structures and experiential occurrences treated as aspects or constituents of the same reality. No universal subject, universal agent, or best-world selection is assumed.
 
-The subsequent [necessary-plenitude and simulation construction](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) makes the intended possibility–actuality commitment explicit, gives a finite subject/history and Bostrom-counting witness, and separates its postulates from unresolved physical and phenomenal bridges.
+The [self-existent plenitude correction](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) states the user's clarified aim: Bostrom guides the question of actuality, not a premise of literal simulations or creators. It supersedes the literal-simulation premise in the earlier [necessary-plenitude construction](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md); its toy numerical examples are only optional comparisons.
 
 This is a family resemblance to, not a novel replacement for, Russellian and neutral monism. See the [Stanford Encyclopedia account of Russellian monism](https://plato.stanford.edu/entries/russellian-monism/). In contrast with neutral monism in general, this candidate explicitly retains real phenomenal experience; it does not assume that every fundamental entity has a subject, or that a pile of little subjects automatically forms a bigger one.
 

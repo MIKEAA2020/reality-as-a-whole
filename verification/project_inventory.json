@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 263,
-  "bytes": 3542628,
-  "line_count": 41581,
-  "document_count_with_risk_phrases": 247,
+  "document_count": 264,
+  "bytes": 3553083,
+  "line_count": 41663,
+  "document_count_with_risk_phrases": 248,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3782,9 +3782,9 @@
     },
     {
       "path": "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
-      "sha256": "35f575ca484f1b227378bd377433a6e1657d20ab3c3691c8e9cf9a76f03d3bb4",
-      "bytes": 21884,
-      "lines": 168,
+      "sha256": "4465b305f63a174b9b94504cda17fd612c24a9b555773ad29424d2b3c18283f9",
+      "bytes": 22404,
+      "lines": 170,
       "title": "Necessary plenitude, plural subjects and simulation: a constructed candidate",
       "headings": [
         "Necessary plenitude, plural subjects and simulation: a constructed candidate",
@@ -3797,6 +3797,7 @@
         "6. Plenitude does not determine the probability measure"
       ],
       "local_links": [
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SIMULATION_PLENITUDE_CONSOLIDATION.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
@@ -3808,16 +3809,16 @@
         "verification/necessary_plenitude_simulation_model.json"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
-        22,
-        68,
-        86,
+        9,
+        13,
+        24,
+        70,
         88,
-        114,
-        154,
+        90,
+        116,
         156,
-        168
+        158,
+        170
       ]
     },
     {
@@ -5482,6 +5483,32 @@
       ]
     },
     {
+      "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+      "sha256": "7a45bc5ea643ed8baae447e57a9cdb8befb59420eb472fadf2b289ac8475260f",
+      "bytes": 9834,
+      "lines": 80,
+      "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
+      "headings": [
+        "Correction: necessary plenitude as self-existent actuality, not literal simulation",
+        "The correction",
+        "1. The corrected candidate",
+        "2. Possibility, actuality and differentiation",
+        "3. What survives from Bostrom's probability structure",
+        "4. Finite sanity check, not the solution",
+        "5. What would constitute real progress toward the user's goal?",
+        "Verification and status"
+      ],
+      "local_links": [
+        "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "verification/self_existing_plenitude_centers.py",
+        "verification/self_existing_plenitude_centers.json"
+      ],
+      "risk_phrase_lines": [
+        23
+      ]
+    },
+    {
       "path": "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
       "sha256": "ecbe3b5eaf0ffd66de9ce1f15057fc0b82029f067f7a40c8126c5d0d37dfa296",
       "bytes": 8957,
@@ -5896,8 +5923,8 @@
     },
     {
       "path": "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
-      "sha256": "8ad33272bb9f32c36531c393016b8791d3b1df02346f24e25bddd3e0a8dc19c6",
-      "bytes": 12601,
+      "sha256": "80b9479b24ee5972493e1fb43013ef1788400f3c82cbb24468523b9671c491f3",
+      "bytes": 12702,
       "lines": 48,
       "title": "Subject-pluralist experiential synthesis: a provisional reassessment",
       "headings": [
@@ -5909,6 +5936,7 @@
         "Comparison and uncertainty"
       ],
       "local_links": [
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md",

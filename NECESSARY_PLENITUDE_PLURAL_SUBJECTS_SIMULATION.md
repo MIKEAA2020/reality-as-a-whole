@@ -1,5 +1,7 @@
 # Necessary plenitude, plural subjects and simulation: a constructed candidate
 
+> **Superseded in part by the user's clarification.** The user does not seek literal simulators, simulations or simulated people as premises: Bostrom is a starting point for analyzing actuality itself. The proposed N6 and the simulated/nonsimulated population below are withdrawn from the governing framework. They remain only an optional, literal mathematical comparison. See the [current correction](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md). The finite calculations do not establish any metaphysical premise.
+
 ## The proposal in one sentence
 
 **There is one necessarily actual, intrinsically experiential whole; genuine possibility is not something awaiting actualization; the whole contains multiple finite subjects and their internally ordered histories, including simulated subjects if the relevant implementations are genuinely possible; Bostrom's probability is a conditional self-location measure over those subjects or episodes, not a creator outside the whole.**
