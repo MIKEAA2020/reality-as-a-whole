@@ -6,6 +6,8 @@ An evolving research repository investigating a unified, fully intelligible acco
 
 ## Start here
 
+- **Current battery target:** [Self-existent experiential plenitude — consolidated framework dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md). It incorporates later corrections, distinguishes hypotheses from bounded results, and records unresolved gates. Its [source register](FRAMEWORK_SOURCE_REGISTER.md) inventories prior documents and verification assets. Neither inventory nor passing code checks establishes a completed framework.
+
 - [Causality and recorded outcomes under mode cutoffs](CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md): a shared locality, intervention, record and refinement test exposes a spurious finite-cutoff dependency; not a gravitational refoliation result.
 - [Field-readout energy tradeoff](FIELD_READOUT_ENERGY_TRADEOFF.md): a fixed-coupling Gaussian uncertainty bound and stronger-coupling counterexample under an incomplete initial-energy proxy; not controlled gravitational backreaction.
 - [Quantum field readout embedding](QUANTUM_FIELD_RECORD_EMBEDDING.md): an exactly specified finite-mode Gaussian quantum instrument on a fixed reference cosmology; quantitatively weak readout, not constrained quantum gravity.
@@ -60,7 +62,7 @@ An evolving research repository investigating a unified, fully intelligible acco
 - [Leading conjectural whole-account](CONJECTURAL_WHOLE_ACCOUNT.md): positive comparative assessment, distinguished from proof status.
 - [Complete constitution research programme](CONSTITUTION_RESEARCH_PROGRAMME.md): the Gamma–chi target and criteria for genuine progress.
 
-The governing framework contains the joint argument, dependency ledger, operational W1–W6 work register, and five completion gates. `SYNTHESIS.md` consolidates the surviving thesis; `CONSTITUTION_RESEARCH_PROGRAMME.md` specifies the local research milestones; the atlas and unified map supply cross-framework constraints. These are complementary views of one programme, not separate ontological proposals.
+The documents in the preceding historical group contain prior proposals and work registers, some with superseded universal-subject, perfection or closure claims. The [current dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) is the governing statement where they conflict. Older mathematical constructions remain available only within the scope established by their corrections and assumptions.
 
 ## Current physical–phenomenal work
 

@@ -1,5 +1,7 @@
 # From what we have to what we need: dependency-driven work register
 
+> **Historical endpoint:** The universal-subject formulation below predates the plural-subject reassessment and nonliteral Bostrom clarification. The [current consolidated dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) supersedes conflicting statements; individual dependency gates remain scoped research tasks.
+
 **Purpose:** replace large jumps between demonstrations with small, checkable obligations that can be completed or failed independently. The [global coherence and decision plan](GLOBAL_COHERENCE_AND_DECISION_PLAN.md) explains how these obligations connect to one candidate, its experiential and physical interfaces, empirical constraints, failure criteria, and the intended endpoint. The user's intended endpoint remains a timeless, self-sufficient absolute, no fundamental mass or spacetime, experience as intrinsic nature, possibility/actuality and essence/existence identities, one universal consciousness, and an intelligible account of simulation without requiring an external simulator. These are goals and governing commitments, **not established conclusions**.
 
 This is a work register, not a certificate that the goals are achievable. It distinguishes established mathematics, results already checked in restricted models, claims that still require audit, and open research problems. Numerical checks validate declared computations, not their physical or experiential interpretations. [Earlier unsupported closure claims remain retracted](ZERO_RESIDUE_CLAIM_CORRECTION.md).

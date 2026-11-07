@@ -1,0 +1,133 @@
+{
+  "status": "all_selected_scripts_exited_zero",
+  "count": 21,
+  "scope": "Regression checks for selected finite models only. No pass/fail judgment on the full philosophical framework, factual truth of assumptions, human consciousness, empirical claims, or quantum gravity. Script exit codes are not independent verification of their claims. Historical closure-claim aggregators intentionally excluded.",
+  "results": [
+    {
+      "name": "modality",
+      "script": "verification/necessity_nonempty_modal_audit.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "self_location",
+      "script": "verification/self_existing_plenitude_centers.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "modal_and_symmetry",
+      "script": "verification/plenitude_foundation_symmetry_gates.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "subject_dynamics",
+      "script": "verification/coupled_subject_boundary_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "causal_subject_candidate",
+      "script": "verification/causal_influence_subject_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "subject_identity_and_representation",
+      "script": "verification/subject_cohesion_identity_redescription.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "quantum_friend",
+      "script": "verification/subject_friend_quantum_extensions.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "friend_history",
+      "script": "verification/friend_history_selector_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "friend_record_tradeoff",
+      "script": "verification/reversible_friend_record_tradeoff.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "collapse_identifiability",
+      "script": "verification/experience_collapse_identifiability.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "shared_and_independent_reports",
+      "script": "verification/shared_vs_independent_reports.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "latent_experience",
+      "script": "verification/latent_experience_three_probes.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "random_report_audit",
+      "script": "verification/random_audit_experience_bridge.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "valence_proxy",
+      "script": "verification/phase_frustration_audit.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "relational_modular_clock",
+      "script": "verification/relational_modular_clock.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "clock_choice",
+      "script": "verification/clock_choice.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "cutoff_causality",
+      "script": "verification/cross_framework_causal_cutoff.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "instrument_energy_bound",
+      "script": "verification/cutoff_instrument_uniformity.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "oph_capacity_arithmetic",
+      "script": "verification/oph_capacity_restriction_current_check.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "oph_calibration_interface",
+      "script": "verification/oph_cutoff_calibration_bridge.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "oph_koide_controls",
+      "script": "verification/oph_unification_koide_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    }
+  ]
+}

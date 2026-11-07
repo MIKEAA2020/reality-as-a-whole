@@ -1,6 +1,6 @@
 # The complete absolute: consolidated framework and implementation plan
 
-> **Later governing revision:** The user's non-optimal-world stance supersedes this document's requirement that the absolute be perfectly good or morally unsurpassable. Its earlier claims to govern on that basis are historical, not current. Self-sufficiency, intelligibility and universal consciousness remain research goals, not results; see [the non-optimal-world revision](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md).
+> **Historical framework:** Later corrections supersede its perfection requirement and relax the universal-subject target in favor of the current plural-subject candidate. Self-sufficiency and complete intelligibility remain goals, not results. See the [current consolidated dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) for governing assumptions, retractions and open gates.
 
 ## 1. Governing thesis
 

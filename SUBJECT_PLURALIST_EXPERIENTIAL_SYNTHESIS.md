@@ -1,5 +1,7 @@
 # Subject-pluralist experiential synthesis: a provisional reassessment
 
+> **Current reference:** This reassessment remains useful background, but later scope corrections and research are consolidated in the [current battery dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md), which governs where they conflict.
+
 ## Question and verdict
 
 Reassess the seven criteria after the user's objection that a suboptimal universe undermines an agentive universal consciousness. The most promising **working research direction**, not an established or uniquely most probable theory, is **experiential monism with plural subjects**: one reality, genuine irreducible experiences associated with multiple finite subjects, and physical structures and experiential occurrences treated as aspects or constituents of the same reality. No universal subject, universal agent, or best-world selection is assumed.

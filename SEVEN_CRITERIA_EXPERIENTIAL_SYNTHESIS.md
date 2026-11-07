@@ -1,5 +1,7 @@
 # Best working synthesis under the seven criteria
 
+> **Historical synthesis:** Its universal-subject target and literal-simulation discussion predate later corrections. Use the [current consolidated dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) for the plural-subject, nonliteral actuality framework and current evidence status.
+
 ## Verdict
 
 The strongest **provisional direction under the user's stated endpoint and the seven criteria** is a **non-optimal, experiential whole-first monism with an independently tested relational-physics and finite-perspective programme**. It combines:

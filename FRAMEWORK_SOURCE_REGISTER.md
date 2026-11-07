@@ -1,0 +1,492 @@
+# Framework source register and coverage
+
+> **Navigation and coverage, not scientific verification.** This register inventories files mechanically; it does not certify that their contents were read line by line, correct, current, or incorporated in their entirety. Use the [current dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) as the governing synthesis where historical claims conflict. Original uploads are historical sources, not independent evidence of their claims.
+
+## Scope
+
+- 228 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 168 verification Python scripts.
+- The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
+- [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
+
+## Authored root documents
+
+Alphabetical order is not an endorsement or a precedence rule. Titles may themselves contain historical overclaims.
+
+- [ABSOLUTE_CONSTITUTION_FRAMEWORK.md](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) — The complete absolute: consolidated framework and implementation plan
+- [ABSOLUTE_PERSPECTIVES_SYNTHESIS.md](ABSOLUTE_PERSPECTIVES_SYNTHESIS.md) — Absolute, perspectives, and the zero-residue account: synthesis with the spherical WdW chain
+- [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
+- [ARTICULATED_SELF_PRESENCE.md](ARTICULATED_SELF_PRESENCE.md) — Articulated self-presence: positive warrant and a composition consequence
+- [ASPHERICAL_QUADRUPOLE_LOSS.md](ASPHERICAL_QUADRUPOLE_LOSS.md) — Weak aspherical quadrupole losses beyond perfect spherical symmetry
+- [AUTONOMOUS_RECORD_INSTRUMENT.md](AUTONOMOUS_RECORD_INSTRUMENT.md) — Autonomous finite-time detector–memory registration
+- [AUTONOMOUS_RECORD_TAPE.md](AUTONOMOUS_RECORD_TAPE.md) — One physical clock, a finite noisy record tape
+- [AUTONOMOUS_STOP_CLOCK.md](AUTONOMOUS_STOP_CLOCK.md) — An autonomous stopped-clock event instrument
+- [AXIARCHIC_BRIDGE_AUDIT.md](AXIARCHIC_BRIDGE_AUDIT.md) — The axiarchic bridge: granting a unique Good still does not derive actuality
+- [AXIARCHIC_CONSTITUTION_CANDIDATE.md](AXIARCHIC_CONSTITUTION_CANDIDATE.md) — From goodness of being to axiarchic constitution
+- [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
+- [BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md) — Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates
+- [CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md) — From coupled dynamics to candidate subject boundaries
+- [CAUSAL_RECORD_LINEAGE.md](CAUSAL_RECORD_LINEAGE.md) — From supplied identity markers to derived causal transport
+- [CHAIN_COMPLETE.md](CHAIN_COMPLETE.md) — The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
+- [CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md) — Cicurel's *Brain-centric*: an audit for the experiential and quantum program
+- [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
+- [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
+- [CLOSURE_SYNTHESIS.md](CLOSURE_SYNTHESIS.md) — Closure synthesis: the complete zero-residue account
+- [CLUES_CROSS_PROJECT_ASSESSMENT.md](CLUES_CROSS_PROJECT_ASSESSMENT.md) — Cross-project assessment: the `arena-max--physics` clues
+- [COLD_ATOM_CLOCK_COMPARISON.md](COLD_ATOM_CLOCK_COMPARISON.md) — Comparing clocks on all five released cold-atom traces
+- [COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md) — Cold-atom entropic time: source audit and connection to our time work
+- [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination
+- [COMMUTANT_STEERING_AND_COST.md](COMMUTANT_STEERING_AND_COST.md) — An exact preparation-cost law without local density matrices
+- [COMPLETE_AWARENESS_FINITE_DISCLOSURE.md](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) — Complete awareness and finite disclosure
+- [COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) — Complete intelligibility: grounded determination, not an exemption from explanation
+- [COMPLETE_SELF_KNOWLEDGE.md](COMPLETE_SELF_KNOWLEDGE.md) — Complete self-knowledge without a semantically total self-model
+- [CONJECTURAL_WHOLE_ACCOUNT.md](CONJECTURAL_WHOLE_ACCOUNT.md) — The leading conjecture about reality as a whole
+- [CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md](CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md) — Would consciousness-triggered collapse be experimentally identifiable?
+- [CONSTITUTION_RESEARCH_PROGRAMME.md](CONSTITUTION_RESEARCH_PROGRAMME.md) — Pursuing the correct, complete physical–phenomenal constitution
+- [CONSTITUTIVE_CANDIDATE_AUDIT.md](CONSTITUTIVE_CANDIDATE_AUDIT.md) — Constitutive candidates: what can actually distinguish them?
+- [CONSTITUTIVE_PRINCIPLE.md](CONSTITUTIVE_PRINCIPLE.md) — The missing bridge: realization-sensitive qualitative constitution
+- [CONSTITUTIVE_VALUE_PRINCIPLE.md](CONSTITUTIVE_VALUE_PRINCIPLE.md) — A constitutive-value principle: positive development and explanatory limits
+- [CONSUMER_COVERAGE_IDENTIFIABILITY.md](CONSUMER_COVERAGE_IDENTIFIABILITY.md) — Can partial frontal recordings certify removal of distribution?
+- [CONTEXTUAL_DISCLOSURE_CONSTITUTION.md](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) — Contextual disclosure: a worked quantum constitution of record scope
+- [CORRELATED_PUMP_CERTIFICATION.md](CORRELATED_PUMP_CERTIFICATION.md) — Correlated finite sources: a complete-instrument robustness theorem
+- [COSMOLOGICAL_CONSTANT_A0_CANCEL.md](COSMOLOGICAL_CONSTANT_A0_CANCEL.md) — Cosmological Constant Λ⁴ Cancellation via KO-Dimension 6 Spectral Action
+- [COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md](COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md) — Subject boundaries in one coupled physical dynamics
+- [CRN_COCYCLE_STATE_INDEPENDENT_TIME.md](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) — Connes–Rovelli cocycle: state-independent physical time
+- [CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md](CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md) — A cross-framework test: a cutoff can fabricate a causal record
+- [CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md](CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md) — Constraining emergent gravity across frameworks
+- [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Current framework: self-existent experiential plenitude
+- [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
+- [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
+- [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
+- [DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) — When could the maintained-disclosure contrast be identifiable?
+- [DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md](DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md) — Cutting a distribution channel is not erasing its records
+- [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
+- [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
+- [ENERGY_CONDITIONS_BOUNCE.md](ENERGY_CONDITIONS_BOUNCE.md) — Energy conditions across the polymer bounce
+- [ENERGY_EXCHANGE_CLOCK.md](ENERGY_EXCHANGE_CLOCK.md) — An energy-exchanging physical clock: complete instrument and coherence budget
+- [EPISODE_INCIDENCE_REFORMULATION.md](EPISODE_INCIDENCE_REFORMULATION.md) — Reformulating composition: incidence, temporal extent, and persistence
+- [EXPANDING_BEC_DATA_FEASIBILITY.md](EXPANDING_BEC_DATA_FEASIBILITY.md) — Expanding-BEC clock comparison: public-data feasibility audit
+- [EXPANDING_BEC_HELDOUT_RESULTS.md](EXPANDING_BEC_HELDOUT_RESULTS.md) — Exploratory held-out ramp prediction
+- [EXPANDING_BEC_HOLDOUT_PLAN.md](EXPANDING_BEC_HOLDOUT_PLAN.md) — Preregistered-in-workspace exploratory ramp-holdout plan
+- [EXPANDING_BEC_RAMP_COVERAGE.md](EXPANDING_BEC_RAMP_COVERAGE.md) — What the public expanding-BEC data resolve during the ramp
+- [EXPANDING_BEC_REFERENCE_UNCERTAINTY.md](EXPANDING_BEC_REFERENCE_UNCERTAINTY.md) — BEC ramp holdout: shared-reference and endpoint audit
+- [EXPANDING_BEC_STATIC_CONTROL_AUDIT.md](EXPANDING_BEC_STATIC_CONTROL_AUDIT.md) — BEC static controls and shared-run covariance
+- [EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md](EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md) — Expanding BEC as a cosmological and clock analogue: source audit
+- [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
+- [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
+- [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
+- [FINITE_COMPLETION_CLOCK.md](FINITE_COMPLETION_CLOCK.md) — Finite completion, a stopped time record, and controlled future escape
+- [FINITE_REFERENCE_GRAVITY.md](FINITE_REFERENCE_GRAVITY.md) — A finite carrier clock without dust: gravitational spectral matching and completed records
+- [FINITE_REFERENCE_PUMP.md](FINITE_REFERENCE_PUMP.md) — A finite reference pump that transports, rather than erases, old correlations
+- [FINITE_SOURCE_CLOCK.md](FINITE_SOURCE_CLOCK.md) — A finite source feeding a finite gravitational program clock
+- [FINITE_TURNING_COUNTER_INSTRUMENT.md](FINITE_TURNING_COUNTER_INSTRUMENT.md) — A bounded turning-clock record in one constrained history
+- [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
+- [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
+- [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
+- [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations
+- [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
+- [FRICTION_AND_UNPLEASANTNESS_AUDIT.md](FRICTION_AND_UNPLEASANTNESS_AUDIT.md) — Can intrinsic friction explain unpleasantness?
+- [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching
+- [FRW_INTERNAL_POVM.md](FRW_INTERNAL_POVM.md) — An unregulated internal-clock POVM in one FRW branch
+- [FRW_MODULAR_CLOCK.md](FRW_MODULAR_CLOCK.md) — Scalar-clock FRW and modular flow: a regulated calculation and an obstruction
+- [GAUGE_UNIFICATION_SPECTRAL.md](GAUGE_UNIFICATION_SPECTRAL.md) — Gauge Coupling Unification from the Spectral Action
+- [GLOBAL_COHERENCE_AND_DECISION_PLAN.md](GLOBAL_COHERENCE_AND_DECISION_PLAN.md) — One global plan: from experiential actuality to recoverable physics
+- [GLOBAL_WORKSPACE_REASSESSMENT.md](GLOBAL_WORKSPACE_REASSESSMENT.md) — Global Workspace Theory as a candidate implementation
+- [GOAL_RELATIVE_VALUE_ARGUMENT.md](GOAL_RELATIVE_VALUE_ARGUMENT.md) — Goal-relative evaluation: the rigorous result and its limits
+- [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
+- [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
+- [HAWKING_BACKREACTION_BOUND.md](HAWKING_BACKREACTION_BOUND.md) — Hawking backreaction bound: the bounce geometry is self-consistent
+- [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md) — Hawking temperature, evaporation, and Page curve for bouncing black holes
+- [INCOMING_CONSTRAINT_PREPARATION.md](INCOMING_CONSTRAINT_PREPARATION.md) — On-shell incoming preparation without a polar controller
+- [INFINITE_COHERENCE_CONSTRUCTION.md](INFINITE_COHERENCE_CONSTRUCTION.md) — An explicit infinite coherence construction
+- [INFINITE_RELATIONAL_CLOCK.md](INFINITE_RELATIONAL_CLOCK.md) — An infinite relational clock without a global clock distribution
+- [INFINITE_WINDING_COUNTER.md](INFINITE_WINDING_COUNTER.md) — An infinite turning clock with a correlated cycle counter
+- [INTEGRATED_ACCOUNT.md](INTEGRATED_ACCOUNT.md) — Toward one account accommodating all the frameworks
+- [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
+- [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
+- [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
+- [KERR_BOUNCE_ROTATIONAL.md](KERR_BOUNCE_ROTATIONAL.md) — Non-Perturbative Kerr Bounce via BKL Rotational Decoupling
+- [KMS_BETA_TWO_PI_TOMITA_WEIGHT.md](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md) — β = 2π as the canonical modular temperature: the universal Tomita weight
+- [KO_DIMENSION6_SM.md](KO_DIMENSION6_SM.md) — KO-dimension 6 and the 3-generation constraint
+- [LEIBNIZ_CREATION_AND_APPEARANCE.md](LEIBNIZ_CREATION_AND_APPEARANCE.md) — Leibniz: continuous creation, distinct substances, and perspective
+- [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
+- [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation
+- [LOCALIZED_CONSTRAINT_CLOCK.md](LOCALIZED_CONSTRAINT_CLOCK.md) — A localized finite clock and the spatial constraint algebra
+- [LOCALIZED_PREPARATION_CRITERION.md](LOCALIZED_PREPARATION_CRITERION.md) — Localized preparation: the complete complementary-state criterion
+- [LOCAL_PREPARATION_AND_ACCESS.md](LOCAL_PREPARATION_AND_ACCESS.md) — Local cyclicity, conditional preparation and the cost of access
+- [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast
+- [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
+- [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
+- [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
+- [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
+- [NECESSARY_ARTICULATED_UNITY.md](NECESSARY_ARTICULATED_UNITY.md) — Necessary articulated unity
+- [NECESSARY_EXISTENCE_ARGUMENT.md](NECESSARY_EXISTENCE_ARGUMENT.md) — The necessary-existence argument: strongest form, with what is and isn't proved
+- [NECESSARY_EXISTENCE_CLOSED.md](NECESSARY_EXISTENCE_CLOSED.md) — Necessary Existence: The Closure Argument
+- [NECESSARY_OCCURRENCE_CANDIDATE.md](NECESSARY_OCCURRENCE_CANDIDATE.md) — Necessary occurrence: the essence–instance gap and an actuality-first candidate
+- [NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) — Necessary plenitude, plural subjects and simulation: a constructed candidate
+- [NEURAL_TIMING_CONSTITUTION_AUDIT.md](NEURAL_TIMING_CONSTITUTION_AUDIT.md) — Can neural activation duration supply the missing episode clock?
+- [NONADDITIVE_CONSTITUTION_ARGUMENT.md](NONADDITIVE_CONSTITUTION_ARGUMENT.md) — A substantive constitutive argument: non-additive qualitative realization
+- [NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md) — Revising the whole-account for a non-optimal world
+- [NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md](NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md) — Does a non-optimal universe affect reality as a whole?
+- [NONSTATIC_SPHERICAL_CAUSALITY.md](NONSTATIC_SPHERICAL_CAUSALITY.md) — Non-static spherical causality: before the first signal reaches infinity
+- [NONSTATIC_SPHERICAL_MIDISUPERSPACE.md](NONSTATIC_SPHERICAL_MIDISUPERSPACE.md) — Beyond Killing time: spherical Einstein–scalar midisuperspace with Misner–Sharp relational variables
+- [NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md](NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md) — Can absolute non-existence be incoherent?
+- [OKN_SOURCE_QUALIFICATION.md](OKN_SOURCE_QUALIFICATION.md) — Primary OKN evidence: a qualified measurement route, not a qualitative identity
+- [ONE_WHOLE_FINITE_ACCESS.md](ONE_WHOLE_FINITE_ACCESS.md) — One experiential whole and finite perspectives: an explicit access test
+- [OPERATIONAL_PATH_ACCUMULATOR.md](OPERATIONAL_PATH_ACCUMULATOR.md) — An operational quantum path accumulator and a clock-conversion instrument
+- [OPERATIONAL_PROBABILITY_RECONSTRUCTION.md](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md) — Positive reconstruction: probability, observable algebras, and actual updating
+- [OPH_BOOK_DEEPER_READING_AND_QUANTUM_GATES.md](OPH_BOOK_DEEPER_READING_AND_QUANTUM_GATES.md) — Deeper reading of the OPH book: records, quantum tests and time
+- [OPH_BOOK_EXPERIENCE_ALIGNMENT_AUDIT.md](OPH_BOOK_EXPERIENCE_ALIGNMENT_AUDIT.md) — OPH book: experience, misalignment and the remaining bridges
+- [OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md](OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md) — Observer Patch Holography: source audit and a cutoff-calibration bridge
+- [OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md](OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md) — OPH unification: source-chain and falsifiability audit
+- [ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md](ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md) — A concrete orientation-experience test: what existing TMS evidence can and cannot decide
+- [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
+- [PERSPECTIVAL_FINITUDE.md](PERSPECTIVAL_FINITUDE.md) — Perspectival finitude: why finite observers see limited information
+- [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) — Phenomenal Constitution: Russellian Identity × Global Workspace from the Type-III₁ Algebra
+- [PHENOMENAL_IDENTITY_THESIS.md](PHENOMENAL_IDENTITY_THESIS.md) — Russellian identity thesis: experience as the intrinsic being of modular events
+- [PHOTON_ECHO_READOUT.md](PHOTON_ECHO_READOUT.md) — Asymptotic photon-echo relational readout for the static spherical clock
+- [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
+- [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
+- [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
+- [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
+- [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
+- [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
+- [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
+- [QUALITATIVE_EQUIVALENCE_AUDIT.md](QUALITATIVE_EQUIVALENCE_AUDIT.md) — Is the remaining qualitative ambiguity substantive or representational?
+- [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
+- [QUANTUM_FIELD_RECORD_EMBEDDING.md](QUANTUM_FIELD_RECORD_EMBEDDING.md) — Quantum field readout: an explicit but gravity-limited embedding
+- [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
+- [README.md](README.md) — Reality as a Whole
+- [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
+- [RECOLLAPSING_GRAVITATIONAL_CLOCK.md](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) — A recollapsing Einstein–scalar clock and completed-event representations
+- [RELATIONAL_CALIBRATION_AND_READOUT.md](RELATIONAL_CALIBRATION_AND_READOUT.md) — Physical calibration, field readout and a separate quantum instrument
+- [RELATIONAL_INTERVENTIONS_AND_RECORDS.md](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) — Sequential interventions and persistent records in a constrained history
+- [RELATIONAL_MATTER_DETECTOR_GRAVITY.md](RELATIONAL_MATTER_DETECTOR_GRAVITY.md) — A relational matter detector with gravitational backreaction
+- [RELATIONAL_MODULAR_CLOCK.md](RELATIONAL_MODULAR_CLOCK.md) — A relational clock and modular flow: an exact finite model
+- [RELATIONAL_PERSPECTIVE.md](RELATIONAL_PERSPECTIVE.md) — Finite temporal perspectives as conditional WdW states
+- [RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md](RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md) — A sign-information no-go and a relational detector response
+- [RELATIONAL_TIME_CONSTRUCTION.md](RELATIONAL_TIME_CONSTRUCTION.md) — Relational dynamics in one stationary constrained state
+- [RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md](RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md) — Cicurel and Nicolelis: brains, simulation and subject plurality
+- [REPORTED_CONTENT_REFERENCE_CASE.md](REPORTED_CONTENT_REFERENCE_CASE.md) — A worked reported-content reference case
+- [REUSED_REFERENCE_CLOCK.md](REUSED_REFERENCE_CLOCK.md) — Reusing one finite reference: joint records, correlations and a finite capacity
+- [REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md](REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md) — Does a subject's experience need an indelible physical record?
+- [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
+- [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
+- [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
+- [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
+- [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
+- [SHLAER_TIME_COMPARISON.md](SHLAER_TIME_COMPARISON.md) — Shlaer's "Solution to the Problem of Time" (arXiv:1411.8006) and Our Modular-Time Solution: A Compatibility Analysis
+- [SIMULATION_PLENITUDE_CONSOLIDATION.md](SIMULATION_PLENITUDE_CONSOLIDATION.md) — Perspective, plenitude, and one complete actuality
+- [SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md](SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md) — Simulation to zero residue: side-by-side attachment audit
+- [SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) — Six criteria: physical and consciousness-theoretic adequacy
+- [SMOOTH_FIELD_CLOCK.md](SMOOTH_FIELD_CLOCK.md) — Smooth dynamical clock matter: constraints, backreacting initial data, and a local-algebra bridge
+- [SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md](SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md) — A concrete test: extrastriate cortex, frontal consumers, and IFG stimulation
+- [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
+- [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
+- [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
+- [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
+- [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
+- [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
+- [SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md) — Subject constitution: ties, persistence and redescriptions
+- [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
+- [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
+- [TAKESAKI_DUAL_TYPEIII1.md](TAKESAKI_DUAL_TYPEIII1.md) — Takesaki duality and the type III₁ universal Tomita weight
+- [TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md](TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md) — Temporary friend records: a selector tested against quantum histories
+- [THERMAL_TIME.md](THERMAL_TIME.md) — Thermal time hypothesis: Tomita flow as physical time in the WdW model
+- [THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md](THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md) — Thoughtful Local Friendliness and subject-first reality
+- [TIME_DECISIVE_TEST_GRAVITY_RECORD.md](TIME_DECISIVE_TEST_GRAVITY_RECORD.md) — Problem of time: a decisive test on a gravitating clock, and the remaining gap
+- [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
+- [TIME_SOLUTION_EVIDENCE_AUDIT.md](TIME_SOLUTION_EVIDENCE_AUDIT.md) — Problem of time: evidence and novelty audit
+- [TOLMAN_COCYCLE.md](TOLMAN_COCYCLE.md) — Tolman–Ehrenfest law via the Connes–Rovelli cocycle
+- [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) — Top Yukawa and Higgs Mass from the Spectral Action: 1-Loop RGE Verification
+- [TORUS_SECOND_ORDER_GRAVITY_MATTER.md](TORUS_SECOND_ORDER_GRAVITY_MATTER.md) — A second-order gravity–matter obstruction on the torus
+- [TURNING_CLOCK_ATLAS.md](TURNING_CLOCK_ATLAS.md) — A relational clock through turning points
+- [TURNING_ENTROPY_RECORD_BRIDGE.md](TURNING_ENTROPY_RECORD_BRIDGE.md) — Turning clocks, entropy paths, and the need for a retained record
+- [TWO_REPORTS_CONSENSUS_AND_REVERSAL.md](TWO_REPORTS_CONSENSUS_AND_REVERSAL.md) — Two reports: agreement, accuracy and reversible records
+- [TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) — A two-subject, reversible-record selector: first finite model
+- [UNIFIED_CONSTITUTION_MAP.md](UNIFIED_CONSTITUTION_MAP.md) — How phenomenal constitution belongs to the unified mathematical account
+- [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
+- [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
+- [WDW_ANGULAR_COUPLING.md](WDW_ANGULAR_COUPLING.md) — Angular scalar–tensor coupling: adiabatic decoupling of non-spherical modes
+- [WDW_ANHARMONIC.md](WDW_ANHARMONIC.md) — Anharmonic self-interaction as a Kato perturbation of the quadratic WdW sector
+- [WDW_BKL_ROTATIONAL_STABILITY.md](WDW_BKL_ROTATIONAL_STABILITY.md) — BKL/mixmaster stability with rotation: scalar still quenches chaos for sub-extremal Kerr
+- [WDW_BKL_STABILITY.md](WDW_BKL_STABILITY.md) — Scalar quenches BKL mixmaster chaos: polymer bounce is stable
+- [WDW_BOUNCE.md](WDW_BOUNCE.md) — Regularized bounce: singularity resolved at universal curvature cap
+- [WDW_HARMONIC_EVOLUTION.md](WDW_HARMONIC_EVOLUTION.md) — Non-semiclassical WdW evolution: dressed harmonic-oscillator Gaussian states
+- [WDW_INFORMATION_PRESERVATION.md](WDW_INFORMATION_PRESERVATION.md) — Unitarity and information preservation through the bounce
+- [WDW_INNER_PRODUCT.md](WDW_INNER_PRODUCT.md) — Wheeler–DeWitt physical inner product for the spherical R-clock
+- [WDW_INTERFACE_CORRECTIONS.md](WDW_INTERFACE_CORRECTIONS.md) — WdW oscillator interfaces: explicit corrections
+- [WDW_INTERIOR.md](WDW_INTERIOR.md) — Interior Schwarzschild: WdW R-clock continues through the horizon to a finite QG window
+- [WDW_MAGNUS_EXACT.md](WDW_MAGNUS_EXACT.md) — Exact Tomonaga propagator via Magnus integrability
+- [WDW_NEAR_HORIZON.md](WDW_NEAR_HORIZON.md) — Near-horizon conformal structure: R is conformal time
+- [WDW_PARTICLE_PRODUCTION.md](WDW_PARTICLE_PRODUCTION.md) — Particle production in spherical R-clock "expansion": adiabatic suppression
+- [WDW_RADIAL_MODES.md](WDW_RADIAL_MODES.md) — Inhomogeneous radial WdW modes: multi-mode adiabaticity on dressed background
+- [WDW_SELF_ADJOINT.md](WDW_SELF_ADJOINT.md) — Essential self-adjointness of the dressed WdW Tomonaga Hamiltonian
+- [WDW_SPHERICAL_R_CLOCK.md](WDW_SPHERICAL_R_CLOCK.md) — Wheeler–DeWitt spherical R-clock: areal radius as internal quantum time
+- [WDW_STRONG_FIELD_SCALING.md](WDW_STRONG_FIELD_SCALING.md) — Strong-field compactness scaling: where the dressed R-clock breaks down
+- [WEAK_BACKREACTION_RECORD.md](WEAK_BACKREACTION_RECORD.md) — Weak-backreaction relational records for the smooth self-gravitating field clock
+- [WEYL2_CONFORMAL_ANOMALY_CC.md](WEYL2_CONFORMAL_ANOMALY_CC.md) — Conformal Anomaly, Weyl² Running, and the Low-Scale Cosmological Constant
+- [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
+- [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
+- [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
+- [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
+- [brain-specificity-thesis.md](brain-specificity-thesis.md) — Brain specificity, organizational realization, and whole-reality intelligibility
+- [constitutive-reality-thesis.md](constitutive-reality-thesis.md) — Concrete constitution and reality as a whole
+- [identity-and-whole-thesis.md](identity-and-whole-thesis.md) — Identity, perspective, and reality as a whole
+- [plenitude-and-reality-thesis.md](plenitude-and-reality-thesis.md) — Reality as a whole: plenitude as a candidate explanation
+- [process-phenomenality-thesis.md](process-phenomenality-thesis.md) — Process, phenomenality, and self-location
+- [realization-perspective-thesis.md](realization-perspective-thesis.md) — Realization, perspective, and justified self-location
+- [simulation-reconstruction-thesis.md](simulation-reconstruction-thesis.md) — Simulation, measure, and explanatory closure
+- [substrate-independence-thesis.md](substrate-independence-thesis.md) — Substrate, constitutive identity, and the geometric form of explanation
+- [surviving-thesis.md](surviving-thesis.md) — Reality as a whole: the surviving thesis
+- [workspace1-verification-update.md](workspace1-verification-update.md) — Workspace 1: download and execution verification
+
+## Research Markdown documents
+
+These reports and notes have their own domains and dependencies; their titles are not certificates.
+
+- [research/boundary_identifiability/REPORT.md](research/boundary_identifiability/REPORT.md) — Constructive step 10: set-valued boundary identification
+- [research/causal_exclusion_candidate/REPORT.md](research/causal_exclusion_candidate/REPORT.md) — Step 40 — A concrete causal-exclusion candidate: successes and failure modes
+- [research/causal_geometry/REPORT.md](research/causal_geometry/REPORT.md) — Constructive step 19: what causal structure does—and does not—determine
+- [research/cell_current_limit/REPORT.md](research/cell_current_limit/REPORT.md) — Constructive step 27: a spatial-cell CAR composite and its relative stress limit
+- [research/conformal_stress/REPORT.md](research/conformal_stress/REPORT.md) — Constructive step 25: massless conformal point splitting and stress expectations
+- [research/constitution_monitoring/REPORT.md](research/constitution_monitoring/REPORT.md) — Constructive step 6: constitution versus monitoring
+- [research/constitutive_geometry/REPORT.md](research/constitutive_geometry/REPORT.md) — Step 43 — An explicit candidate geometry for physical–phenomenal constitution
+- [research/constitutive_relabeling/REPORT.md](research/constitutive_relabeling/REPORT.md) — Step 39 — Non-additivity and macro-causal relevance do not select a qualitative identification
+- [research/contextual_constitution/REPORT.md](research/contextual_constitution/REPORT.md) — Constructive step 2: contrast-complete constitutive scope
+- [research/continuum_scaling/REPORT.md](research/continuum_scaling/REPORT.md) — Constructive step 14: a controlled lattice-to-Dirac bridge
+- [research/contrast_covariance/REPORT.md](research/contrast_covariance/REPORT.md) — Constructive step 1: constitutive contrast covariance
+- [research/curved_dirac/REPORT.md](research/curved_dirac/REPORT.md) — Constructive step 22: Dirac dynamics on a reconstructed conformal geometry
+- [research/differentiation_unity/REPORT.md](research/differentiation_unity/REPORT.md) — Constructive step 8: differentiation is not disunity
+- [research/dynamical_locality/REPORT.md](research/dynamical_locality/REPORT.md) — Constructive step 12: dynamical locality across regions and times
+- [research/episode_reconstruction/REPORT.md](research/episode_reconstruction/REPORT.md) — Constructive step 5: episode-first paired reconstruction
+- [research/episodic_unity/REPORT.md](research/episodic_unity/REPORT.md) — Constructive step 3: joint presentation is not joint prediction
+- [research/event_composition_obstruction/REPORT.md](research/event_composition_obstruction/REPORT.md) — Step 37 — Actual-event reciprocity is not mechanism feedback
+- [research/fermionic_lift/REPORT.md](research/fermionic_lift/REPORT.md) — Constructive step 15: from the scaled walk to a CAR field algebra
+- [research/framework_overlap/REPORT.md](research/framework_overlap/REPORT.md) — Constructive step 11: one finite process, four compatible presentations
+- [research/hamiltonian_state_limit/REPORT.md](research/hamiltonian_state_limit/REPORT.md) — Constructive step 23: a gap-controlled curved-background lattice-state limit
+- [research/interventional_core/REPORT.md](research/interventional_core/REPORT.md) — Constructive step 7: an interventionally closed core versus a copied representation
+- [research/local_scaling/REPORT.md](research/local_scaling/REPORT.md) — Constructive step 18: compact-cell, region-preserving approximation
+- [research/order_reconstruction/REPORT.md](research/order_reconstruction/REPORT.md) — Constructive step 20: reconstructing a finite diamond grid from anonymous order
+- [research/presentation_gluing/REPORT.md](research/presentation_gluing/REPORT.md) — Constructive step 4: can compatible presentations be glued into one experience?
+- [research/quasifree_vacuum/REPORT.md](research/quasifree_vacuum/REPORT.md) — Constructive step 16: a declared quasifree vacuum and its continuum limit
+- [research/quasilocal_limit/REPORT.md](research/quasilocal_limit/REPORT.md) — Constructive step 13: consistent finite regions and a quasi-local completion
+- [research/realized_workspace/REPORT.md](research/realized_workspace/REPORT.md) — Step 41 — A minimal implemented global-workspace access architecture
+- [research/refinement_completion/REPORT.md](research/refinement_completion/REPORT.md) — Constructive step 21: controlled order, measure, and metric completion
+- [research/relative_subtraction/REPORT.md](research/relative_subtraction/REPORT.md) — Constructive step 26: a common-regulator limit for relative conformal stress
+- [research/rigorous_closures/REPORT.md](research/rigorous_closures/REPORT.md) — Step 42 — Which explanatory debts can actually be closed?
+- [research/spacetime_net/REPORT.md](research/spacetime_net/REPORT.md) — Constructive step 17: a spacetime-indexed free Dirac CAR net
+- [research/temporal_episode_selection/REPORT.md](research/temporal_episode_selection/REPORT.md) — Step 38 — An intrinsic duration does not select an episode phase
+- [research/weak_coupling/REPORT.md](research/weak_coupling/REPORT.md) — Constructive step 9: weak coupling, finite exposure, and the exact-core discontinuity
+- [research/wilson_coherent_rotation/REPORT.md](research/wilson_coherent_rotation/REPORT.md) — Step 35 — Coherent particle–hole rotation and local interference
+- [research/wilson_infinite_rank/REPORT.md](research/wilson_infinite_rank/REPORT.md) — Step 32 — Infinite-rank excitations with controlled local mode tails
+- [research/wilson_multimode_composite/REPORT.md](research/wilson_multimode_composite/REPORT.md) — Step 31 — Finite-rank wavepacket composites beyond exact rank-one cancellation
+- [research/wilson_nonquasifree_mixture/REPORT.md](research/wilson_nonquasifree_mixture/REPORT.md) — Step 36 — An actual nonquasifree mixture and its connected four-point term
+- [research/wilson_nonthermal_universality/REPORT.md](research/wilson_nonthermal_universality/REPORT.md) — Step 29 — Nonthermal stationary universality and state nonidentifiability
+- [research/wilson_particle_hole/REPORT.md](research/wilson_particle_hole/REPORT.md) — Step 34 — Signed particle/hole excitations and local stress
+- [research/wilson_regulator/REPORT.md](research/wilson_regulator/REPORT.md) — Constructive step 24: a Wilson regulator with controlled low-energy ultraviolet exclusion
+- [research/wilson_thermal_composite/REPORT.md](research/wilson_thermal_composite/REPORT.md) — Constructive step 28: a relative composite limit from Hamiltonian thermal states
+- [research/wilson_ultraviolet_tails/REPORT.md](research/wilson_ultraviolet_tails/REPORT.md) — Step 33 — Removing the fixed momentum band with weighted ultraviolet tails
+- [research/wilson_wavepacket_composite/REPORT.md](research/wilson_wavepacket_composite/REPORT.md) — Step 30 — A spatially varying, time-dependent Wilson wavepacket composite
+
+## Original user-supplied sources
+
+The user approved inclusion of the original uploads in this public repository. These records are not automatically endorsed; where a source disagrees with later instructions, the latest explicit correction governs.
+
+- [sources/uploads/Bostrom's simulation hypothesis.md](sources/uploads/Bostrom%27s%20simulation%20hypothesis.md)
+- [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
+- [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
+- [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
+- [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt)
+- [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt)
+- [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
+- [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
+- [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
+- [sources/uploads/decombination-export-provenance.json](sources/uploads/decombination-export-provenance.json)
+- [sources/uploads/four-criteria-whole-account-updated.md](sources/uploads/four-criteria-whole-account-updated.md)
+- [sources/uploads/four-criteria-whole-account.md](sources/uploads/four-criteria-whole-account.md)
+- [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
+- [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
+- [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
+- [sources/uploads/simulation-neither-plenitude-nor-one-world.md](sources/uploads/simulation-neither-plenitude-nor-one-world.md)
+- [sources/uploads/simulation-zero-residue-side-by-side.md](sources/uploads/simulation-zero-residue-side-by-side.md)
+- [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu-2.md)
+- [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu.md)
+- [sources/uploads/take bostrom's simulation hypothesis as starting point. what.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20as%20starting%20point.%20what.md)
+
+## Verification scripts
+
+Passing a script checks its encoded model or assertions only; historical closure aggregators and stipulated true flags are not proofs. The [selected regression battery](verification/framework_battery.py) has a narrower declared scope.
+
+- [verification/aspherical_quadrupole_loss.py](verification/aspherical_quadrupole_loss.py)
+- [verification/assay_calibration_dependence.py](verification/assay_calibration_dependence.py)
+- [verification/autonomous_record.py](verification/autonomous_record.py)
+- [verification/autonomous_record_tape.py](verification/autonomous_record_tape.py)
+- [verification/autonomous_stop_clock.py](verification/autonomous_stop_clock.py)
+- [verification/boundary_cut_workspace.py](verification/boundary_cut_workspace.py)
+- [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)
+- [verification/build_framework_inventory.py](verification/build_framework_inventory.py)
+- [verification/causal_influence_subject_gate.py](verification/causal_influence_subject_gate.py)
+- [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
+- [verification/clock_choice.py](verification/clock_choice.py)
+- [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)
+- [verification/cold_atom_clock.py](verification/cold_atom_clock.py)
+- [verification/cold_atom_comparison.py](verification/cold_atom_comparison.py)
+- [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
+- [verification/constitutive_checks.py](verification/constitutive_checks.py)
+- [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
+- [verification/contextual_disclosure.py](verification/contextual_disclosure.py)
+- [verification/continuous_feedback_digital_approximation.py](verification/continuous_feedback_digital_approximation.py)
+- [verification/correlated_pump_certification.py](verification/correlated_pump_certification.py)
+- [verification/cosmological_constant_cancel.py](verification/cosmological_constant_cancel.py)
+- [verification/coupled_subject_boundary_gate.py](verification/coupled_subject_boundary_gate.py)
+- [verification/crn_cocycle.py](verification/crn_cocycle.py)
+- [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
+- [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)
+- [verification/cutoff_instrument_uniformity.py](verification/cutoff_instrument_uniformity.py)
+- [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
+- [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)
+- [verification/dust_clock_record.py](verification/dust_clock_record.py)
+- [verification/energy_conditions_bounce.py](verification/energy_conditions_bounce.py)
+- [verification/energy_constrained_instrument_bound.py](verification/energy_constrained_instrument_bound.py)
+- [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
+- [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
+- [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
+- [verification/finite_completion_clock.py](verification/finite_completion_clock.py)
+- [verification/finite_reference_gravity.py](verification/finite_reference_gravity.py)
+- [verification/finite_reference_pump.py](verification/finite_reference_pump.py)
+- [verification/finite_source_clock.py](verification/finite_source_clock.py)
+- [verification/finite_turning_counter.py](verification/finite_turning_counter.py)
+- [verification/finite_winding_noise.py](verification/finite_winding_noise.py)
+- [verification/fixed_gap_source_clock.py](verification/fixed_gap_source_clock.py)
+- [verification/framework_battery.py](verification/framework_battery.py)
+- [verification/friction_conflict_audit.py](verification/friction_conflict_audit.py)
+- [verification/friend_history_selector_gate.py](verification/friend_history_selector_gate.py)
+- [verification/frw_clock_window_mismatch.py](verification/frw_clock_window_mismatch.py)
+- [verification/frw_internal_povm.py](verification/frw_internal_povm.py)
+- [verification/frw_modular_clock.py](verification/frw_modular_clock.py)
+- [verification/gauge_unification_spectral.py](verification/gauge_unification_spectral.py)
+- [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
+- [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
+- [verification/hamiltonian_detector.py](verification/hamiltonian_detector.py)
+- [verification/hawking_backreaction_bound.py](verification/hawking_backreaction_bound.py)
+- [verification/hubble_data_inventory.py](verification/hubble_data_inventory.py)
+- [verification/hubble_heldout.py](verification/hubble_heldout.py)
+- [verification/hubble_phase_identifiability.py](verification/hubble_phase_identifiability.py)
+- [verification/hubble_ramp_coverage.py](verification/hubble_ramp_coverage.py)
+- [verification/hubble_reference_uncertainty.py](verification/hubble_reference_uncertainty.py)
+- [verification/hubble_static_joint.py](verification/hubble_static_joint.py)
+- [verification/hubble_static_stratified.py](verification/hubble_static_stratified.py)
+- [verification/incoming_constraint_preparation.py](verification/incoming_constraint_preparation.py)
+- [verification/infinite_coherence.py](verification/infinite_coherence.py)
+- [verification/infinite_relational_clock.py](verification/infinite_relational_clock.py)
+- [verification/infinite_winding_clock.py](verification/infinite_winding_clock.py)
+- [verification/integration_overlap.py](verification/integration_overlap.py)
+- [verification/interacting_clock.py](verification/interacting_clock.py)
+- [verification/internal_reference_event.py](verification/internal_reference_event.py)
+- [verification/kerr_bounce_rotational.py](verification/kerr_bounce_rotational.py)
+- [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
+- [verification/ko_dimension6_sm.py](verification/ko_dimension6_sm.py)
+- [verification/latent_experience_three_probes.py](verification/latent_experience_three_probes.py)
+- [verification/linearized_lattice_curvature.py](verification/linearized_lattice_curvature.py)
+- [verification/linearized_spherical_record.py](verification/linearized_spherical_record.py)
+- [verification/local_preparation.py](verification/local_preparation.py)
+- [verification/localized_constraint_clock.py](verification/localized_constraint_clock.py)
+- [verification/localized_preparation.py](verification/localized_preparation.py)
+- [verification/maintained_disclosure_contrast.py](verification/maintained_disclosure_contrast.py)
+- [verification/modular_clock.py](verification/modular_clock.py)
+- [verification/modular_local_net.py](verification/modular_local_net.py)
+- [verification/multi_clock.py](verification/multi_clock.py)
+- [verification/necessary_existence_closed.py](verification/necessary_existence_closed.py)
+- [verification/necessary_plenitude_simulation_model.py](verification/necessary_plenitude_simulation_model.py)
+- [verification/necessity_nonempty_modal_audit.py](verification/necessity_nonempty_modal_audit.py)
+- [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
+- [verification/nonstatic_spherical_midisuperspace.py](verification/nonstatic_spherical_midisuperspace.py)
+- [verification/operational_accumulator.py](verification/operational_accumulator.py)
+- [verification/operational_probability_reconstruction.py](verification/operational_probability_reconstruction.py)
+- [verification/oph_book_alignment_audit.py](verification/oph_book_alignment_audit.py)
+- [verification/oph_capacity_restriction_current_check.py](verification/oph_capacity_restriction_current_check.py)
+- [verification/oph_ce_calibration_gate.py](verification/oph_ce_calibration_gate.py)
+- [verification/oph_cutoff_calibration_bridge.py](verification/oph_cutoff_calibration_bridge.py)
+- [verification/oph_icosahedral_chsh_gate.py](verification/oph_icosahedral_chsh_gate.py)
+- [verification/oph_unification_koide_gate.py](verification/oph_unification_koide_gate.py)
+- [verification/orientation_visibility_contrast.py](verification/orientation_visibility_contrast.py)
+- [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
+- [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
+- [verification/perspective_access_from_circuit.py](verification/perspective_access_from_circuit.py)
+- [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)
+- [verification/phenomenal_gwt_russellian.py](verification/phenomenal_gwt_russellian.py)
+- [verification/photon_echo_readout.py](verification/photon_echo_readout.py)
+- [verification/plenitude_algebraic_closure.py](verification/plenitude_algebraic_closure.py)
+- [verification/plenitude_dimension.py](verification/plenitude_dimension.py)
+- [verification/plenitude_foundation_symmetry_gates.py](verification/plenitude_foundation_symmetry_gates.py)
+- [verification/plenitude_identity.py](verification/plenitude_identity.py)
+- [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
+- [verification/project_inventory.py](verification/project_inventory.py)
+- [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
+- [verification/quantum_relational_field_instrument.py](verification/quantum_relational_field_instrument.py)
+- [verification/quantum_static_spherical_clock.py](verification/quantum_static_spherical_clock.py)
+- [verification/random_audit_experience_bridge.py](verification/random_audit_experience_bridge.py)
+- [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
+- [verification/refinement_acceptance_budget.py](verification/refinement_acceptance_budget.py)
+- [verification/relational_calibrated_readout.py](verification/relational_calibrated_readout.py)
+- [verification/relational_constraint.py](verification/relational_constraint.py)
+- [verification/relational_detector_initial_data.py](verification/relational_detector_initial_data.py)
+- [verification/relational_memory_pulse.py](verification/relational_memory_pulse.py)
+- [verification/relational_modular_clock.py](verification/relational_modular_clock.py)
+- [verification/relational_perspective.py](verification/relational_perspective.py)
+- [verification/relational_records.py](verification/relational_records.py)
+- [verification/reported_rivalry_case_audit.py](verification/reported_rivalry_case_audit.py)
+- [verification/reused_reference_clock.py](verification/reused_reference_clock.py)
+- [verification/reversible_friend_record_tradeoff.py](verification/reversible_friend_record_tradeoff.py)
+- [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
+- [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
+- [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
+- [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)
+- [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
+- [verification/smooth_field_clock.py](verification/smooth_field_clock.py)
+- [verification/specific_pathway_observability.py](verification/specific_pathway_observability.py)
+- [verification/spectral_action_bounce.py](verification/spectral_action_bounce.py)
+- [verification/spectral_action_finite_sm.py](verification/spectral_action_finite_sm.py)
+- [verification/spherical_scalar_radiation.py](verification/spherical_scalar_radiation.py)
+- [verification/steering_cost.py](verification/steering_cost.py)
+- [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
+- [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
+- [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
+- [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
+- [verification/thermal_time.py](verification/thermal_time.py)
+- [verification/tick_readout.py](verification/tick_readout.py)
+- [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
+- [verification/tolman_cocycle.py](verification/tolman_cocycle.py)
+- [verification/top_higgs_spectral_prediction.py](verification/top_higgs_spectral_prediction.py)
+- [verification/torus_gravity_second_order.py](verification/torus_gravity_second_order.py)
+- [verification/turning_clock.py](verification/turning_clock.py)
+- [verification/turning_entropy_bridge.py](verification/turning_entropy_bridge.py)
+- [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
+- [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)
+- [verification/wdw_anharmonic.py](verification/wdw_anharmonic.py)
+- [verification/wdw_bkl_rotational_stability.py](verification/wdw_bkl_rotational_stability.py)
+- [verification/wdw_bkl_stability.py](verification/wdw_bkl_stability.py)
+- [verification/wdw_bounce.py](verification/wdw_bounce.py)
+- [verification/wdw_harmonic_evolution.py](verification/wdw_harmonic_evolution.py)
+- [verification/wdw_information_preservation.py](verification/wdw_information_preservation.py)
+- [verification/wdw_inner_product.py](verification/wdw_inner_product.py)
+- [verification/wdw_interface_audit.py](verification/wdw_interface_audit.py)
+- [verification/wdw_interior.py](verification/wdw_interior.py)
+- [verification/wdw_magnus.py](verification/wdw_magnus.py)
+- [verification/wdw_near_horizon.py](verification/wdw_near_horizon.py)
+- [verification/wdw_page_curve.py](verification/wdw_page_curve.py)
+- [verification/wdw_particle_production.py](verification/wdw_particle_production.py)
+- [verification/wdw_radial_modes.py](verification/wdw_radial_modes.py)
+- [verification/wdw_self_adjoint.py](verification/wdw_self_adjoint.py)
+- [verification/wdw_spherical_clock.py](verification/wdw_spherical_clock.py)
+- [verification/wdw_strong_field_scaling.py](verification/wdw_strong_field_scaling.py)
+- [verification/weak_backreaction_record.py](verification/weak_backreaction_record.py)
+- [verification/weyl2_conformal_anomaly_cc.py](verification/weyl2_conformal_anomaly_cc.py)
+- [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
+- [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
+- [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
+
+## Other materials
+
+Research code, saved receipts, pinned external materials and other tracked files appear in the [file manifest](verification/framework_inventory_manifest.json). Inspect their provenance and the linked audit before treating them as evidence.
