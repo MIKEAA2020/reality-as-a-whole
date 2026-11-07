@@ -1,0 +1,156 @@
+{
+  "status": "passed",
+  "two_probes": {
+    "observable_law_equal": true,
+    "model_A_accuracies": [
+      "3/4",
+      "3/4"
+    ],
+    "model_B_accuracies": [
+      "1",
+      "5/8"
+    ],
+    "law": [
+      {
+        "x": [
+          -1,
+          -1
+        ],
+        "p": "5/16"
+      },
+      {
+        "x": [
+          -1,
+          1
+        ],
+        "p": "3/16"
+      },
+      {
+        "x": [
+          1,
+          -1
+        ],
+        "p": "3/16"
+      },
+      {
+        "x": [
+          1,
+          1
+        ],
+        "p": "5/16"
+      }
+    ]
+  },
+  "three_probes_balanced": {
+    "observable_distribution": [
+      {
+        "x": [
+          -1,
+          -1,
+          -1
+        ],
+        "p": "109/400"
+      },
+      {
+        "x": [
+          -1,
+          -1,
+          1
+        ],
+        "p": "21/400"
+      },
+      {
+        "x": [
+          -1,
+          1,
+          -1
+        ],
+        "p": "31/400"
+      },
+      {
+        "x": [
+          -1,
+          1,
+          1
+        ],
+        "p": "39/400"
+      },
+      {
+        "x": [
+          1,
+          -1,
+          -1
+        ],
+        "p": "39/400"
+      },
+      {
+        "x": [
+          1,
+          -1,
+          1
+        ],
+        "p": "31/400"
+      },
+      {
+        "x": [
+          1,
+          1,
+          -1
+        ],
+        "p": "21/400"
+      },
+      {
+        "x": [
+          1,
+          1,
+          1
+        ],
+        "p": "109/400"
+      }
+    ],
+    "correlations_12_13_23": [
+      "3/10",
+      "2/5",
+      "12/25"
+    ],
+    "reconstructed_biases_under_conditional_independence": [
+      "1/2",
+      "3/5",
+      "4/5"
+    ],
+    "model_A_accuracies": [
+      "3/4",
+      "4/5",
+      "9/10"
+    ],
+    "model_B_accuracies": [
+      "13/20",
+      "17/25",
+      "37/50"
+    ],
+    "P_Z_plus_given_all_probes_plus_model_A": "108/109",
+    "P_Z_plus_given_all_probes_plus_model_B": "433/545",
+    "model_B_conditional_covariance_X1_X2_given_Z_plus": "24/125"
+  },
+  "specified_settings": [
+    {
+      "mean_H": "-1/2",
+      "observable_joint_equal": true,
+      "P_Z_plus_model_A": "1/4",
+      "P_Z_plus_model_B": "7/20"
+    },
+    {
+      "mean_H": "0",
+      "observable_joint_equal": true,
+      "P_Z_plus_model_A": "1/2",
+      "P_Z_plus_model_B": "1/2"
+    },
+    {
+      "mean_H": "1/2",
+      "observable_joint_equal": true,
+      "P_Z_plus_model_A": "3/4",
+      "P_Z_plus_model_B": "13/20"
+    }
+  ],
+  "scope": "Abstract latent variables and hypothetical probes, not a verified model of subjective experience. Observable equivalence covers only the declared H, N and probe variables and the listed settings. Candidate Z is directly experienced only if an independent subject/experience interpretation is added. No quantum, empirical, or general impossibility claim."
+}

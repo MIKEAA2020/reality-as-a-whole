@@ -116,6 +116,8 @@ A test of an experience theory would require independently specified answers to 
 
 Even a successful engineered-qubit experiment would test the declared circuit and any added physical prediction; it would **not** establish phenomenal consciousness in those qubits. The two subject slots, their identity, the Born/self-location measure and the reality of a particular experience remain open. Likewise, nothing here settles Local Friendliness, nonlocality, relativity, emergent spacetime or the problem of time.
 
+The subsequent [experience-assay identifiability gate](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) analyzes when three imperfect indicators can determine their error rates under a latent-class model, and gives an exact common-cause countermodel when the experiential interpretation or conditional-independence premise is not established.
+
 ## Verification
 
 Run [`verification/shared_vs_independent_reports.py`](verification/shared_vs_independent_reports.py). It calculates five-qubit amplitudes using exact rational arithmetic, directly checks the joint `F,P,Q` read laws and X statistics, and verifies coherent recovery **before readout**. Its [JSON receipt](verification/shared_vs_independent_reports.json) includes all four checked rational cases. The continuum formulas follow for the specified controlled rotations; these finite checks do not prove a general theorem about observers or experience.

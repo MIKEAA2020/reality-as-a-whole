@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 259,
-  "bytes": 3476509,
-  "line_count": 41069,
-  "document_count_with_risk_phrases": 243,
+  "document_count": 260,
+  "bytes": 3488364,
+  "line_count": 41180,
+  "document_count_with_risk_phrases": 244,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2043,6 +2043,39 @@
       "risk_phrase_lines": [
         9,
         21
+      ]
+    },
+    {
+      "path": "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+      "sha256": "7210a6588af9db713c49cebe6b9b4e336fb7441461da57b89993fb38a96b68e5",
+      "bytes": 11516,
+      "lines": 109,
+      "title": "Can multiple imperfect measures identify an experience?",
+      "headings": [
+        "Can multiple imperfect measures identify an experience?",
+        "Result",
+        "Prior art and connection to our work",
+        "1. Two measures are not enough in this model",
+        "2. Three measures: identification within a restricted model",
+        "3. Exact countermodel: same physical data, different experience assignment",
+        "4. First-person data are not discarded",
+        "5. A concrete route beyond the ambiguity"
+      ],
+      "local_links": [
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "verification/latent_experience_three_probes.py",
+        "verification/latent_experience_three_probes.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        15,
+        25,
+        34,
+        57,
+        59,
+        109
       ]
     },
     {
@@ -6432,9 +6465,9 @@
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
-      "sha256": "e99467d09d69d2ead6925b7c0cb2960207c99232b006edd61867ec0ed2b116d1",
-      "bytes": 11799,
-      "lines": 121,
+      "sha256": "bd3190de1fde9ff3ce6472e77f12781fa719db281b91e58ccb02f312f183299c",
+      "bytes": 12138,
+      "lines": 123,
       "title": "Two reports: agreement, accuracy and reversible records",
       "headings": [
         "Two reports: agreement, accuracy and reversible records",
@@ -6449,6 +6482,7 @@
       "local_links": [
         "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "verification/shared_vs_independent_reports.py",
         "verification/shared_vs_independent_reports.json"
       ],
@@ -6457,7 +6491,8 @@
         64,
         79,
         114,
-        121
+        119,
+        123
       ]
     },
     {
