@@ -2,6 +2,8 @@
 
 **Status: conditional mathematical and conceptual results, not a complete account of reality.** This develops the corrected [self-existent-plenitude candidate](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md). It does not reintroduce literal simulations, aliens, a creator, or a temporal mechanism for actualizing possibilities. The user prioritizes zero-residue intelligibility over fidelity to Bostrom's original story.
 
+For the follow-up subject-boundary analysis on an explicit stochastic interacting system, see [Subject boundaries in one coupled physical dynamics](COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md).
+
 ## 1. The target and the questions it must answer
 
 The current working hypothesis is one self-sufficient, timeless whole, intrinsically experiential, differentiated into plural subjects. Genuine possibility is actuality, in the user's strongest sense: if something is genuinely possible it is actual, and if it is not actual it was not genuinely possible. Ordinary processes and time, if accounted for, are internal to the whole. On the user's adopted bridge from a perfect whole to the best universe, and their premise that our universe is not best, the whole is non-perfect.

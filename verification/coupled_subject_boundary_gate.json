@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "coupling_cases": [
+    {
+      "cross_tanh": "0",
+      "connected_edge_rule_subject_blocks": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "threshold_edge_rule_subject_blocks": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "endpoint_correlation": "0",
+      "matching_endpoint_report_probability": "1/2",
+      "hard_clamp_settings_checked": 81
+    },
+    {
+      "cross_tanh": "1/4",
+      "connected_edge_rule_subject_blocks": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "threshold_edge_rule_subject_blocks": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "endpoint_correlation": "1/16",
+      "matching_endpoint_report_probability": "17/32",
+      "hard_clamp_settings_checked": 81
+    },
+    {
+      "cross_tanh": "3/4",
+      "connected_edge_rule_subject_blocks": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "threshold_edge_rule_subject_blocks": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "endpoint_correlation": "3/16",
+      "matching_endpoint_report_probability": "19/32",
+      "hard_clamp_settings_checked": 81
+    }
+  ],
+  "exact_detailed_balance_checks": 1536,
+  "weak_cross_vs_zero_total_variation": "1/8",
+  "tiny_cross_versus_zero_iid_snapshot_test": {
+    "cross_tanh": "1/65536",
+    "snapshots": 10000,
+    "kl_one_snapshot_nats": 1.1641532183286405e-10,
+    "equal_prior_error_lower_bound_pinsker": 0.4996185302734278
+  },
+  "scope": "Four-spin ideal classical Gibbs model and explicitly stipulated subject partitions, not brains, conscious systems, a quantum-gravity model, a probability of actualization, or evidence for either subject rule. Interventions are hard spin clamps followed by equilibrium; subject rules under a clamp are not specified. The indistinguishability of subject labels is by construction, not a universal theorem."
+}

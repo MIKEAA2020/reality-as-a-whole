@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 265,
-  "bytes": 3572443,
-  "line_count": 41805,
-  "document_count_with_risk_phrases": 249,
+  "document_count": 266,
+  "bytes": 3585202,
+  "line_count": 41910,
+  "document_count_with_risk_phrases": 250,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1439,6 +1439,36 @@
         153,
         166,
         177
+      ]
+    },
+    {
+      "path": "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
+      "sha256": "4c55ffcb12285979ecf18dd4c10379c29e43c534a6a84a5e85f5d62e2dc08513",
+      "bytes": 12566,
+      "lines": 103,
+      "title": "Subject boundaries in one coupled physical dynamics",
+      "headings": [
+        "Subject boundaries in one coupled physical dynamics",
+        "Result and scope",
+        "1. One system, two subject rules",
+        "2. Controlled observations: physical access is not yet subject unity",
+        "3. An exact sharp-boundary versus finite-evidence tension",
+        "4. How to turn disagreement into a test rather than a relabeling",
+        "5. Connection back to necessary plenitude",
+        "Verification"
+      ],
+      "local_links": [
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+        "verification/coupled_subject_boundary_gate.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        26,
+        45,
+        47,
+        62,
+        103
       ]
     },
     {
@@ -4530,9 +4560,9 @@
     },
     {
       "path": "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
-      "sha256": "432064679a3a496a83934ae0155433761cecffa35e7ba041fdb6c790e220b679",
-      "bytes": 18549,
-      "lines": 138,
+      "sha256": "d19669b5e4854c4bc25c06ae66103ded59bbf5b74c8d1080a0e72af251cddb34",
+      "bytes": 18742,
+      "lines": 140,
       "title": "Necessary experiential plenitude: narrowing the foundational gaps",
       "headings": [
         "Necessary experiential plenitude: narrowing the foundational gaps",
@@ -4545,6 +4575,7 @@
       ],
       "local_links": [
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "verification/plenitude_foundation_symmetry_gates.py",
@@ -4561,15 +4592,15 @@
       ],
       "risk_phrase_lines": [
         3,
-        60,
-        70,
-        77,
-        95,
-        99,
-        107,
-        135,
-        136,
-        138
+        62,
+        72,
+        79,
+        97,
+        101,
+        109,
+        137,
+        138,
+        140
       ]
     },
     {
