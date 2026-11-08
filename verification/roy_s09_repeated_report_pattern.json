@@ -1,0 +1,30 @@
+{
+  "kind": "post-hoc same-participant trial comparison, not decoder validation",
+  "scan_a": "S09_scan4_filtered_gac_cbc.mat",
+  "sha256_a": "79dc71c6cf7d9afbcfdbfd982730e9e6e83134e35be91c01c98dd6e8bdbb114a",
+  "scan_b": "S09_scan6_filtered_gac_cbc.mat",
+  "sha256_b": "045fdfd2cb31c2f6b08f09afe892a8d6af2f9961626d99f74c2693d51c0394ac",
+  "trial_index_1_based": 4,
+  "sampling_hz": 250,
+  "assumed_trial_duration_s": 42,
+  "ordinal_event_pairs": 37,
+  "identical_codes": 18,
+  "matching_after_1_2_swap": 37,
+  "offset_a_minus_b_s": {
+    "median": 0.016,
+    "min": -0.2,
+    "max": 0.184,
+    "rms": 0.073333005732274
+  },
+  "both_pure_seconds": 33.244,
+  "match_on_both_pure_same_codes": 0.0,
+  "match_on_both_pure_after_swap": 1.0,
+  "agreement_after_swap_full_trial_counting_any_nonpure_as_disagreement": 0.7915238095238095,
+  "nonpure_either_fraction": 0.20847619047619048,
+  "limitations": [
+    "Pair and mapping selected after inspecting the data; no confirmatory score or p value.",
+    "Report time series are compared, not EEG; condition and cause of similarity are unverified.",
+    "Sampled 42-second trial windows and event carry-forward are assumptions.",
+    "Both-pure agreement excludes unknown and mixed intervals; it is not all-time performance."
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "6f80b7e1da386fd116d276de55be252ff4316142",
-  "file_count": 890,
+  "base_head": "c03ec61a2fff993d2b89c1362ffdb917e350f3fe",
+  "file_count": 898,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 60929,
-      "sha256": "10a4b084006a0baae24fce050de3f8be2cd3947f82565fc0bfbdb51e3f2b3846"
+      "bytes": 61324,
+      "sha256": "e9746a15b339353bea1195b4e4ba218ec96c15871eb6b7aa3e072dcebcf9d60f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -847,6 +847,11 @@
       "path": "ROBUST_EXPERIENTIAL_CONTRAST.md",
       "bytes": 10505,
       "sha256": "398e63301456defd22f6ec829125311f11895ca6e7da906a03b9b45792d2fbdc"
+    },
+    {
+      "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+      "bytes": 8971,
+      "sha256": "067d86dcba4204a9edf087f4fd0d6c102c6093b371a204259d69bc28d21a743d"
     },
     {
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
@@ -3655,8 +3660,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 362494,
-      "sha256": "ad4841a29027f52453a73818c50a7cde697224b4de4b2a77d45c249b40dd7e14"
+      "bytes": 363823,
+      "sha256": "4d18f498ae1d613534eac70b4c73346682259a6494bbad88d29864f275e00b59"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3889,6 +3894,21 @@
       "sha256": "447a02ccb77edca3a9eaf9d7517e835a46f331edc8751761cce5d1c28cc991c1"
     },
     {
+      "path": "verification/roy_s09_repeated_report_pattern.json",
+      "bytes": 1274,
+      "sha256": "33e666db8bbc938e15afea7d3502630fd02881c8c0a8af22344844b79b85489e"
+    },
+    {
+      "path": "verification/roy_s09_repeated_report_pattern.py",
+      "bytes": 4240,
+      "sha256": "bd467088d0059311493667e4683d66f06b243d7d5204a80f71d2b9cffab98444"
+    },
+    {
+      "path": "verification/roy_s09_repeated_report_pattern_test.py",
+      "bytes": 1427,
+      "sha256": "ba58a15292520ab76fc3da7d5e17fcf39fe14e486a28034d1725fea91a0aa1a0"
+    },
+    {
       "path": "verification/roy_s09_report_coverage.json",
       "bytes": 4279,
       "sha256": "36b7d32e63a33ae3b162fe51c79f63e779b139db4c2541f1a959d732a5ef02c6"
@@ -3902,6 +3922,21 @@
       "path": "verification/roy_s09_report_coverage_test.py",
       "bytes": 1848,
       "sha256": "5a2b0f7e449636a144f3f46201f00f504fd98eb6b9abb8dcc282dcd4d40ddf43"
+    },
+    {
+      "path": "verification/roy_s09_scan4_inspection.json",
+      "bytes": 3577,
+      "sha256": "08deeb30109364434dec3fb9c11b50a796ca80cd5aaadbb9368b09fa5d2d36e7"
+    },
+    {
+      "path": "verification/roy_s09_scan5_inspection.json",
+      "bytes": 3590,
+      "sha256": "211649e626f50ff8e8e0a178c837259e0c384596065e7e849744bf5fb3d9f22b"
+    },
+    {
+      "path": "verification/roy_s09_scan6_inspection.json",
+      "bytes": 3589,
+      "sha256": "9fdb39386cee803909ebae9af03249701178d1f845f5fd98e0430330edd5e1f9"
     },
     {
       "path": "verification/roy_s09_scan7_inspection.json",
@@ -3922,6 +3957,11 @@
       "path": "verification/roy_s09_scan_inspection.py",
       "bytes": 7311,
       "sha256": "ddc01e99bb64c12c768d900e45d13a79c6ca47c04d15b735ea6040323c744089"
+    },
+    {
+      "path": "verification/roy_s09_scans4_to6_report_coverage.json",
+      "bytes": 4272,
+      "sha256": "4db9899f374caac52cc908c3b54b3ae9a2df51c37cc4cf9e10325eabc4e08b0f"
     },
     {
       "path": "verification/self_existing_plenitude_centers.json",

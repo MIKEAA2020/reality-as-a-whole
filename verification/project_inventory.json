@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 284,
-  "bytes": 3928041,
-  "line_count": 44393,
+  "document_count": 285,
+  "bytes": 3937407,
+  "line_count": 44468,
   "document_count_with_risk_phrases": 268,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "10a4b084006a0baae24fce050de3f8be2cd3947f82565fc0bfbdb51e3f2b3846",
-      "bytes": 60929,
-      "lines": 518,
+      "sha256": "e9746a15b339353bea1195b4e4ba218ec96c15871eb6b7aa3e072dcebcf9d60f",
+      "bytes": 61324,
+      "lines": 521,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2835,6 +2835,7 @@
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -3104,6 +3105,8 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/roy_s09_repeated_report_pattern.py",
+        "verification/roy_s09_repeated_report_pattern_test.py",
         "verification/roy_s09_report_coverage.py",
         "verification/roy_s09_report_coverage_test.py",
         "verification/roy_s09_scan_inspection.py",
@@ -3166,14 +3169,14 @@
         128,
         158,
         170,
-        188,
-        232,
-        245,
-        281,
-        290,
-        293,
-        296,
-        325
+        189,
+        233,
+        246,
+        282,
+        291,
+        294,
+        297,
+        326
       ]
     },
     {
@@ -6430,6 +6433,33 @@
         88,
         92
       ]
+    },
+    {
+      "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+      "sha256": "067d86dcba4204a9edf087f4fd0d6c102c6093b371a204259d69bc28d21a743d",
+      "bytes": 8971,
+      "lines": 72,
+      "title": "Roy S09: three additional scans and a repeated report pattern",
+      "headings": [
+        "Roy S09: three additional scans and a repeated report pattern",
+        "Summary",
+        "1. File and event checks",
+        "2. Report coverage in all six inspected scans",
+        "3. A post-hoc timing match that matters for validation",
+        "4. Revised test gate",
+        "5. Reproduction"
+      ],
+      "local_links": [
+        "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+        "verification/roy_s09_scan4_inspection.json",
+        "verification/roy_s09_scan5_inspection.json",
+        "verification/roy_s09_scan6_inspection.json",
+        "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+        "verification/roy_s09_scans4_to6_report_coverage.json",
+        "verification/roy_s09_report_coverage.json",
+        "verification/roy_s09_repeated_report_pattern.json"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
