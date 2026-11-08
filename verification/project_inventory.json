@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 285,
-  "bytes": 3937407,
-  "line_count": 44468,
-  "document_count_with_risk_phrases": 268,
+  "document_count": 286,
+  "bytes": 3948280,
+  "line_count": 44548,
+  "document_count_with_risk_phrases": 269,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e9746a15b339353bea1195b4e4ba218ec96c15871eb6b7aa3e072dcebcf9d60f",
-      "bytes": 61324,
-      "lines": 521,
+      "sha256": "5b63174dbf0e4bb939a4a91cc2b2752c31b9ebc811408c00dc5e3276e36db6c9",
+      "bytes": 61921,
+      "lines": 526,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2836,6 +2836,7 @@
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+        "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
         "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -3105,6 +3106,10 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/roy_s09_descriptive_tag_report.py",
+        "verification/roy_s09_descriptive_tag_report_test.py",
+        "verification/roy_s09_event_similarity_screen.py",
+        "verification/roy_s09_event_similarity_screen_test.py",
         "verification/roy_s09_repeated_report_pattern.py",
         "verification/roy_s09_repeated_report_pattern_test.py",
         "verification/roy_s09_report_coverage.py",
@@ -3169,14 +3174,14 @@
         128,
         158,
         170,
-        189,
-        233,
-        246,
-        282,
-        291,
-        294,
-        297,
-        326
+        190,
+        234,
+        247,
+        283,
+        292,
+        295,
+        298,
+        327
       ]
     },
     {
@@ -6460,6 +6465,41 @@
         "verification/roy_s09_repeated_report_pattern.json"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
+      "sha256": "210e9771985049be5170245b963d2a1d37548e2e86b7dc005e8683af332ecf38",
+      "bytes": 10276,
+      "lines": 75,
+      "title": "Roy S09: nine scans, report coverage and a descriptive EEG contrast",
+      "headings": [
+        "Roy S09: nine scans, report coverage and a descriptive EEG contrast",
+        "Scope",
+        "1. The three additional files",
+        "2. Coverage across the available S09 scans",
+        "3. Exploratory EEG/report contrast, scans 1–3",
+        "4. What the complete set does and does not resolve",
+        "5. Reproduction and checks"
+      ],
+      "local_links": [
+        "verification/roy_s09_scan1_inspection.json",
+        "verification/roy_s09_scan2_inspection.json",
+        "verification/roy_s09_scan3_inspection.json",
+        "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+        "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+        "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+        "verification/roy_s09_scans1_to3_report_coverage.json",
+        "verification/roy_s09_scans4_to6_report_coverage.json",
+        "verification/roy_s09_report_coverage.json",
+        "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+        "verification/roy_s09_scans1_to3_descriptive_tag_report.json",
+        "verification/roy_s09_event_similarity_screen.py",
+        "verification/roy_s09_scans1_to3_event_similarity_screen.json"
+      ],
+      "risk_phrase_lines": [
+        23,
+        46
+      ]
     },
     {
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",

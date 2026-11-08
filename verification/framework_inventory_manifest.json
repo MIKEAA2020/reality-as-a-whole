@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c03ec61a2fff993d2b89c1362ffdb917e350f3fe",
-  "file_count": 898,
+  "base_head": "bef2c55c6a23a8c14a0fc91e3eb590fe1f3e6638",
+  "file_count": 909,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 61324,
-      "sha256": "e9746a15b339353bea1195b4e4ba218ec96c15871eb6b7aa3e072dcebcf9d60f"
+      "bytes": 61921,
+      "sha256": "5b63174dbf0e4bb939a4a91cc2b2752c31b9ebc811408c00dc5e3276e36db6c9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -852,6 +852,11 @@
       "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
       "bytes": 8971,
       "sha256": "067d86dcba4204a9edf087f4fd0d6c102c6093b371a204259d69bc28d21a743d"
+    },
+    {
+      "path": "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
+      "bytes": 10276,
+      "sha256": "210e9771985049be5170245b963d2a1d37548e2e86b7dc005e8683af332ecf38"
     },
     {
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
@@ -3660,8 +3665,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 363823,
-      "sha256": "4d18f498ae1d613534eac70b4c73346682259a6494bbad88d29864f275e00b59"
+      "bytes": 365677,
+      "sha256": "75de3f5b8f233bace986c6e4968a4c1bd61e4f0cb730833bfb375e3588303089"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3894,6 +3899,26 @@
       "sha256": "447a02ccb77edca3a9eaf9d7517e835a46f331edc8751761cce5d1c28cc991c1"
     },
     {
+      "path": "verification/roy_s09_descriptive_tag_report.py",
+      "bytes": 5711,
+      "sha256": "82efd20b5310587232ff37d5a55f691ea38f57243c7b3d75992c5884f9c911e9"
+    },
+    {
+      "path": "verification/roy_s09_descriptive_tag_report_test.py",
+      "bytes": 1687,
+      "sha256": "a917e332c9eae974b0d098e117644cab34abccb8aeb218411b20ad2021aff140"
+    },
+    {
+      "path": "verification/roy_s09_event_similarity_screen.py",
+      "bytes": 3243,
+      "sha256": "e1cc1c2d5bc5617c747d4d5fbfe98304d54924fcb09bc08dcd7827195850d4ed"
+    },
+    {
+      "path": "verification/roy_s09_event_similarity_screen_test.py",
+      "bytes": 1164,
+      "sha256": "6240c28f01a7e35900fd61210f719069f337bdec9d4bdb770e1326e2f1fc14a9"
+    },
+    {
       "path": "verification/roy_s09_repeated_report_pattern.json",
       "bytes": 1274,
       "sha256": "33e666db8bbc938e15afea7d3502630fd02881c8c0a8af22344844b79b85489e"
@@ -3922,6 +3947,21 @@
       "path": "verification/roy_s09_report_coverage_test.py",
       "bytes": 1848,
       "sha256": "5a2b0f7e449636a144f3f46201f00f504fd98eb6b9abb8dcc282dcd4d40ddf43"
+    },
+    {
+      "path": "verification/roy_s09_scan1_inspection.json",
+      "bytes": 3584,
+      "sha256": "025912eb02663e120a094e2c1cdd0afe9902f89842044ace82dd88d105cae5f7"
+    },
+    {
+      "path": "verification/roy_s09_scan2_inspection.json",
+      "bytes": 3587,
+      "sha256": "dab1b91e47a1211eb696fdb0f636c6ead98a5f6400eb5ba50d6c85f9039c8360"
+    },
+    {
+      "path": "verification/roy_s09_scan3_inspection.json",
+      "bytes": 3592,
+      "sha256": "50e08b06fd68a29749e79b4f2c2f51c05377fa56e9a6af75d1ed3b0c832f88d5"
     },
     {
       "path": "verification/roy_s09_scan4_inspection.json",
@@ -3957,6 +3997,21 @@
       "path": "verification/roy_s09_scan_inspection.py",
       "bytes": 7311,
       "sha256": "ddc01e99bb64c12c768d900e45d13a79c6ca47c04d15b735ea6040323c744089"
+    },
+    {
+      "path": "verification/roy_s09_scans1_to3_descriptive_tag_report.json",
+      "bytes": 6941,
+      "sha256": "8ed59db92f8c440ae275cff84ac971a6c9c054a9a4e3f8694aba3dcbd62d779a"
+    },
+    {
+      "path": "verification/roy_s09_scans1_to3_event_similarity_screen.json",
+      "bytes": 3134,
+      "sha256": "52d20b679b9b08b1e9f445d8ef7d10ec1f4d99f4836b285046192f55c8f4a4e0"
+    },
+    {
+      "path": "verification/roy_s09_scans1_to3_report_coverage.json",
+      "bytes": 4273,
+      "sha256": "19f20b2b79cd411f0dc5b50d2ec264c15844a3e873b256c4055cc46a83e53360"
     },
     {
       "path": "verification/roy_s09_scans4_to6_report_coverage.json",

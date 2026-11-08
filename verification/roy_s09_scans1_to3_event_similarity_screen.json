@@ -1,0 +1,104 @@
+{
+  "kind": "post-hoc timing screen; not a significance test",
+  "files": [
+    {
+      "name": "S09_scan1_filtered_gac_cbc.mat",
+      "sha256": "6b33288f2db8d899a8948a46de7300094c2812ba09aabb8c832b5ed8b85f56cf"
+    },
+    {
+      "name": "S09_scan2_filtered_gac_cbc.mat",
+      "sha256": "c9058648ea025ea29d316eddbd471ff7019304c232fd8acc5d688f1c86ad909c"
+    },
+    {
+      "name": "S09_scan3_filtered_gac_cbc.mat",
+      "sha256": "c4f5414be3ac09f3ad6fa2ebec3f262b1c4b7258fc993de1477e22517a4d866d"
+    }
+  ],
+  "between_scan_trial_pairs": 75,
+  "equal_nonzero_count_pairs": 7,
+  "equal_count_pairs_all_times_within_200ms": 0,
+  "equal_count_pair_summaries": [
+    {
+      "scan_a": "S09_scan1_filtered_gac_cbc.mat",
+      "trial_a": 2,
+      "scan_b": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_b": 3,
+      "event_count": 17,
+      "max_ordinal_abs_difference_s": 6.488,
+      "same_code_pairs": 8,
+      "swap_code_pairs": 17,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan1_filtered_gac_cbc.mat",
+      "trial_a": 2,
+      "scan_b": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_b": 5,
+      "event_count": 17,
+      "max_ordinal_abs_difference_s": 4.0,
+      "same_code_pairs": 16,
+      "swap_code_pairs": 9,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan1_filtered_gac_cbc.mat",
+      "trial_a": 1,
+      "scan_b": "S09_scan3_filtered_gac_cbc.mat",
+      "trial_b": 4,
+      "event_count": 23,
+      "max_ordinal_abs_difference_s": 5.008,
+      "same_code_pairs": 19,
+      "swap_code_pairs": 15,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_a": 1,
+      "scan_b": "S09_scan3_filtered_gac_cbc.mat",
+      "trial_b": 2,
+      "event_count": 19,
+      "max_ordinal_abs_difference_s": 3.144,
+      "same_code_pairs": 15,
+      "swap_code_pairs": 13,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_a": 1,
+      "scan_b": "S09_scan3_filtered_gac_cbc.mat",
+      "trial_b": 3,
+      "event_count": 19,
+      "max_ordinal_abs_difference_s": 2.3,
+      "same_code_pairs": 18,
+      "swap_code_pairs": 10,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_a": 1,
+      "scan_b": "S09_scan3_filtered_gac_cbc.mat",
+      "trial_b": 5,
+      "event_count": 19,
+      "max_ordinal_abs_difference_s": 5.876,
+      "same_code_pairs": 13,
+      "swap_code_pairs": 15,
+      "all_times_within_200ms": false
+    },
+    {
+      "scan_a": "S09_scan2_filtered_gac_cbc.mat",
+      "trial_a": 2,
+      "scan_b": "S09_scan3_filtered_gac_cbc.mat",
+      "trial_b": 1,
+      "event_count": 21,
+      "max_ordinal_abs_difference_s": 8.092,
+      "same_code_pairs": 14,
+      "swap_code_pairs": 17,
+      "all_times_within_200ms": false
+    }
+  ],
+  "limitations": [
+    "Timing threshold was motivated by earlier data-selected match.",
+    "Unequal-count sequences and non-ordinal alignments are not evaluated.",
+    "No inference that conditions or replay lineage are different."
+  ]
+}

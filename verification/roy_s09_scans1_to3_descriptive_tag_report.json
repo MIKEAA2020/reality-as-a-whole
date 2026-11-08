@@ -1,0 +1,176 @@
+{
+  "kind": "post-hoc descriptive association, not decoder accuracy or experience measurement",
+  "definition": "log10(projected power at lower tag / projected power at higher tag)",
+  "window": "2 s, nonoverlap, anchored to each assumed 42 s trial trigger; mean removal and symmetric Hann",
+  "eligibility": "all samples same pure report code 1 or 2 and no bad_epoch sample",
+  "warnings": [
+    "Observed after inspecting data; task condition and exact physical timing unverified.",
+    "Time windows within a trial and trials within one participant are not independent subjects.",
+    "Simple POz projection is not the optimized RLS method of Roy and Jamison.",
+    "No task-labeled decoder, generalization, significance test, or phenomenal error bound."
+  ],
+  "scans": [
+    {
+      "file": "S09_scan1_filtered_gac_cbc.mat",
+      "sha256": "6b33288f2db8d899a8948a46de7300094c2812ba09aabb8c832b5ed8b85f56cf",
+      "electrode": "POz",
+      "low_tag_hz": 6.666666666666667,
+      "high_tag_hz": 8.571428571428571,
+      "per_trial": [
+        {
+          "code_1_windows": 3,
+          "code_2_windows": 2,
+          "rejected_windows": 16,
+          "code_1_median_log10_ratio": 0.3339702424722452,
+          "code_2_median_log10_ratio": 0.3694556373425903,
+          "within_trial_median_difference_1_minus_2": -0.03548539487034508
+        },
+        {
+          "code_1_windows": 6,
+          "code_2_windows": 5,
+          "rejected_windows": 10,
+          "code_1_median_log10_ratio": -0.38051693689987387,
+          "code_2_median_log10_ratio": 0.4354799497365714,
+          "within_trial_median_difference_1_minus_2": -0.8159968866364453
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 4,
+          "rejected_windows": 15,
+          "code_1_median_log10_ratio": -0.4330639378186099,
+          "code_2_median_log10_ratio": 0.6425262838565626,
+          "within_trial_median_difference_1_minus_2": -1.0755902216751725
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 4,
+          "rejected_windows": 15,
+          "code_1_median_log10_ratio": -0.4806051734512358,
+          "code_2_median_log10_ratio": 0.32128389385652356,
+          "within_trial_median_difference_1_minus_2": -0.8018890673077594
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 3,
+          "rejected_windows": 16,
+          "code_1_median_log10_ratio": 0.7525780531506758,
+          "code_2_median_log10_ratio": -0.3322714977759115,
+          "within_trial_median_difference_1_minus_2": 1.0848495509265872
+        }
+      ],
+      "paired_trials": 5,
+      "mean_of_trial_median_differences": -0.32882240391262696,
+      "median_of_trial_median_differences": -0.8018890673077594,
+      "code_1_windows_total": 15,
+      "code_2_windows_total": 18
+    },
+    {
+      "file": "S09_scan2_filtered_gac_cbc.mat",
+      "sha256": "c9058648ea025ea29d316eddbd471ff7019304c232fd8acc5d688f1c86ad909c",
+      "electrode": "POz",
+      "low_tag_hz": 6.666666666666667,
+      "high_tag_hz": 8.571428571428571,
+      "per_trial": [
+        {
+          "code_1_windows": 3,
+          "code_2_windows": 5,
+          "rejected_windows": 13,
+          "code_1_median_log10_ratio": 1.1135982330925493,
+          "code_2_median_log10_ratio": 0.27960079601821514,
+          "within_trial_median_difference_1_minus_2": 0.8339974370743342
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 4,
+          "rejected_windows": 15,
+          "code_1_median_log10_ratio": 0.7738841783925792,
+          "code_2_median_log10_ratio": 0.5948368446083663,
+          "within_trial_median_difference_1_minus_2": 0.1790473337842129
+        },
+        {
+          "code_1_windows": 3,
+          "code_2_windows": 4,
+          "rejected_windows": 14,
+          "code_1_median_log10_ratio": -0.5293559136369409,
+          "code_2_median_log10_ratio": 0.789447054814821,
+          "within_trial_median_difference_1_minus_2": -1.318802968451762
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 2,
+          "rejected_windows": 17,
+          "code_1_median_log10_ratio": -1.2433349461955865,
+          "code_2_median_log10_ratio": 1.061316053332351,
+          "within_trial_median_difference_1_minus_2": -2.3046509995279374
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 3,
+          "rejected_windows": 16,
+          "code_1_median_log10_ratio": 0.29111494756582235,
+          "code_2_median_log10_ratio": -0.040270152718611923,
+          "within_trial_median_difference_1_minus_2": 0.33138510028443424
+        }
+      ],
+      "paired_trials": 5,
+      "mean_of_trial_median_differences": -0.45580481936734357,
+      "median_of_trial_median_differences": 0.1790473337842129,
+      "code_1_windows_total": 12,
+      "code_2_windows_total": 18
+    },
+    {
+      "file": "S09_scan3_filtered_gac_cbc.mat",
+      "sha256": "c4f5414be3ac09f3ad6fa2ebec3f262b1c4b7258fc993de1477e22517a4d866d",
+      "electrode": "POz",
+      "low_tag_hz": 6.666666666666667,
+      "high_tag_hz": 8.571428571428571,
+      "per_trial": [
+        {
+          "code_1_windows": 3,
+          "code_2_windows": 5,
+          "rejected_windows": 13,
+          "code_1_median_log10_ratio": 0.2316239719963973,
+          "code_2_median_log10_ratio": 0.32825416796890905,
+          "within_trial_median_difference_1_minus_2": -0.09663019597251174
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 3,
+          "rejected_windows": 16,
+          "code_1_median_log10_ratio": 0.21771013988562826,
+          "code_2_median_log10_ratio": 0.029472397600148564,
+          "within_trial_median_difference_1_minus_2": 0.1882377422854797
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 4,
+          "rejected_windows": 15,
+          "code_1_median_log10_ratio": 0.09850857477525754,
+          "code_2_median_log10_ratio": -0.49432717592684705,
+          "within_trial_median_difference_1_minus_2": 0.5928357507021046
+        },
+        {
+          "code_1_windows": 2,
+          "code_2_windows": 4,
+          "rejected_windows": 15,
+          "code_1_median_log10_ratio": 0.04322345549552145,
+          "code_2_median_log10_ratio": 0.007097991112727187,
+          "within_trial_median_difference_1_minus_2": 0.036125464382794265
+        },
+        {
+          "code_1_windows": 3,
+          "code_2_windows": 5,
+          "rejected_windows": 13,
+          "code_1_median_log10_ratio": -0.001235985464048917,
+          "code_2_median_log10_ratio": 0.03771726033986581,
+          "within_trial_median_difference_1_minus_2": -0.03895324580391473
+        }
+      ],
+      "paired_trials": 5,
+      "mean_of_trial_median_differences": 0.13632310311879042,
+      "median_of_trial_median_differences": 0.036125464382794265,
+      "code_1_windows_total": 12,
+      "code_2_windows_total": 21
+    }
+  ]
+}

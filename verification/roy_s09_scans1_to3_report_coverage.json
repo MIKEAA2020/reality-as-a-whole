@@ -1,0 +1,122 @@
+{
+  "kind": "exploratory one-person coverage; not decoder accuracy",
+  "definitions": [
+    "Sampled at 250 Hz; each trial begins at latency_trial and lasts 42 seconds.",
+    "Before first event is unknown; each subsequent code is carried to the next event or trial end.",
+    "Code 3 is mixed according to the release documentation; no experiential truth is inferred.",
+    "Fraction unknown-or-mixed is a lower bound on binary full-coverage disagreement when unresolved reports are counted as disagreements.",
+    "Bad-epoch-excluded coverage has a different denominator and is a sensitivity analysis.",
+    "The bad-epoch-or-unresolved union bounds disagreement only if the decoder abstains on every bad_epoch sample.",
+    "Trial condition, exact stimulus timing and the report-state reconstruction have not been independently validated."
+  ],
+  "scans": [
+    {
+      "file": "S09_scan1_filtered_gac_cbc.mat",
+      "sha256": "6b33288f2db8d899a8948a46de7300094c2812ba09aabb8c832b5ed8b85f56cf",
+      "sampling_hz": 250,
+      "assumed_trial_duration_seconds": 42,
+      "trial_count": 5,
+      "all_trial_samples": {
+        "samples": 52500,
+        "seconds_by_label": {
+          "unknown_before_first_event": 6.132,
+          "code_1": 73.784,
+          "code_2": 87.04,
+          "code_3_mixed": 43.044
+        },
+        "unknown_or_mixed_fraction": 0.23417142857142856,
+        "pure_fraction": 0.7658285714285714
+      },
+      "outside_bad_epoch": {
+        "samples": 49921,
+        "seconds_by_label": {
+          "unknown_before_first_event": 2.992,
+          "code_1": 70.924,
+          "code_2": 83.736,
+          "code_3_mixed": 42.032
+        },
+        "unknown_or_mixed_fraction": 0.2254762524789167,
+        "pure_fraction": 0.7745237475210833
+      },
+      "fraction_bad_epoch_or_unresolved_report": 0.2635238095238095,
+      "adjacent_pure_mixed_pure_event_patterns": {
+        "1_to_1": 3,
+        "1_to_2": 20,
+        "2_to_1": 21,
+        "2_to_2": 5
+      }
+    },
+    {
+      "file": "S09_scan2_filtered_gac_cbc.mat",
+      "sha256": "c9058648ea025ea29d316eddbd471ff7019304c232fd8acc5d688f1c86ad909c",
+      "sampling_hz": 250,
+      "assumed_trial_duration_seconds": 42,
+      "trial_count": 5,
+      "all_trial_samples": {
+        "samples": 52500,
+        "seconds_by_label": {
+          "unknown_before_first_event": 2.864,
+          "code_1": 62.968,
+          "code_2": 78.496,
+          "code_3_mixed": 65.672
+        },
+        "unknown_or_mixed_fraction": 0.32636190476190474,
+        "pure_fraction": 0.6736380952380953
+      },
+      "outside_bad_epoch": {
+        "samples": 50083,
+        "seconds_by_label": {
+          "unknown_before_first_event": 2.244,
+          "code_1": 60.604,
+          "code_2": 75.84,
+          "code_3_mixed": 61.644
+        },
+        "unknown_or_mixed_fraction": 0.31891060839007246,
+        "pure_fraction": 0.6810893916099275
+      },
+      "fraction_bad_epoch_or_unresolved_report": 0.3502666666666666,
+      "adjacent_pure_mixed_pure_event_patterns": {
+        "1_to_1": 2,
+        "1_to_2": 20,
+        "2_to_1": 20,
+        "2_to_2": 5
+      }
+    },
+    {
+      "file": "S09_scan3_filtered_gac_cbc.mat",
+      "sha256": "c4f5414be3ac09f3ad6fa2ebec3f262b1c4b7258fc993de1477e22517a4d866d",
+      "sampling_hz": 250,
+      "assumed_trial_duration_seconds": 42,
+      "trial_count": 5,
+      "all_trial_samples": {
+        "samples": 52500,
+        "seconds_by_label": {
+          "unknown_before_first_event": 3.576,
+          "code_1": 68.536,
+          "code_2": 87.968,
+          "code_3_mixed": 49.92
+        },
+        "unknown_or_mixed_fraction": 0.25474285714285716,
+        "pure_fraction": 0.7452571428571428
+      },
+      "outside_bad_epoch": {
+        "samples": 51975,
+        "seconds_by_label": {
+          "unknown_before_first_event": 3.576,
+          "code_1": 68.536,
+          "code_2": 87.1,
+          "code_3_mixed": 48.688
+        },
+        "unknown_or_mixed_fraction": 0.2513900913900914,
+        "pure_fraction": 0.7486099086099086
+      },
+      "fraction_bad_epoch_or_unresolved_report": 0.2588761904761905,
+      "adjacent_pure_mixed_pure_event_patterns": {
+        "1_to_1": 1,
+        "1_to_2": 20,
+        "2_to_1": 21,
+        "2_to_2": 6
+      }
+    }
+  ]
+}
