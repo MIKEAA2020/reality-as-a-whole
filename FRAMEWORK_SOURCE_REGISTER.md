@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 240 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 179 verification Python scripts.
+- 241 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 181 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -178,6 +178,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md](RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md) — Can an EEG–fMRI rivalry dataset test the experience bridge?
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
+- [ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md](ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md) — Roy S09: a report-coverage floor before decoding
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
@@ -460,6 +461,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/rivalry_hrf_timing_witness.py](verification/rivalry_hrf_timing_witness.py)
 - [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
+- [verification/roy_s09_report_coverage.py](verification/roy_s09_report_coverage.py)
+- [verification/roy_s09_report_coverage_test.py](verification/roy_s09_report_coverage_test.py)
 - [verification/roy_s09_scan_inspection.py](verification/roy_s09_scan_inspection.py)
 - [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ac23d9657e4979c8119ac6ec1404eb77634c3b66",
-  "file_count": 886,
+  "base_head": "6f80b7e1da386fd116d276de55be252ff4316142",
+  "file_count": 890,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 60601,
-      "sha256": "b7204584f30e10913b019bbd1c0017e1caf129a322c0bb49953d49b0729a6525"
+      "bytes": 60929,
+      "sha256": "10a4b084006a0baae24fce050de3f8be2cd3947f82565fc0bfbdb51e3f2b3846"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -847,6 +847,11 @@
       "path": "ROBUST_EXPERIENTIAL_CONTRAST.md",
       "bytes": 10505,
       "sha256": "398e63301456defd22f6ec829125311f11895ca6e7da906a03b9b45792d2fbdc"
+    },
+    {
+      "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+      "bytes": 8855,
+      "sha256": "b9ce8196a699d5bc12bbba1b14f303dd1d717edd440101355cdecb5bde5234b8"
     },
     {
       "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
@@ -3650,8 +3655,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 361490,
-      "sha256": "f8a84a72129463e0ab48e02b7e7e15dcb01a16a1dfafc124f6631f0bc816b949"
+      "bytes": 362494,
+      "sha256": "ad4841a29027f52453a73818c50a7cde697224b4de4b2a77d45c249b40dd7e14"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3882,6 +3887,21 @@
       "path": "verification/robust_disclosure_separation.py",
       "bytes": 5394,
       "sha256": "447a02ccb77edca3a9eaf9d7517e835a46f331edc8751761cce5d1c28cc991c1"
+    },
+    {
+      "path": "verification/roy_s09_report_coverage.json",
+      "bytes": 4279,
+      "sha256": "36b7d32e63a33ae3b162fe51c79f63e779b139db4c2541f1a959d732a5ef02c6"
+    },
+    {
+      "path": "verification/roy_s09_report_coverage.py",
+      "bytes": 4986,
+      "sha256": "537bc9fd40c659a999dd95faf3e4acb9f3d116ddb747546e25f530ec97918f58"
+    },
+    {
+      "path": "verification/roy_s09_report_coverage_test.py",
+      "bytes": 1848,
+      "sha256": "5a2b0f7e449636a144f3f46201f00f504fd98eb6b9abb8dcc282dcd4d40ddf43"
     },
     {
       "path": "verification/roy_s09_scan7_inspection.json",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 283,
-  "bytes": 3918858,
-  "line_count": 44306,
-  "document_count_with_risk_phrases": 267,
+  "document_count": 284,
+  "bytes": 3928041,
+  "line_count": 44393,
+  "document_count_with_risk_phrases": 268,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b7204584f30e10913b019bbd1c0017e1caf129a322c0bb49953d49b0729a6525",
-      "bytes": 60601,
-      "lines": 515,
+      "sha256": "10a4b084006a0baae24fce050de3f8be2cd3947f82565fc0bfbdb51e3f2b3846",
+      "bytes": 60929,
+      "lines": 518,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2835,6 +2835,7 @@
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -3103,6 +3104,8 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/roy_s09_report_coverage.py",
+        "verification/roy_s09_report_coverage_test.py",
         "verification/roy_s09_scan_inspection.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_vs_independent_reports.py",
@@ -3163,14 +3166,14 @@
         128,
         158,
         170,
-        187,
-        231,
-        244,
-        280,
-        289,
-        292,
-        295,
-        324
+        188,
+        232,
+        245,
+        281,
+        290,
+        293,
+        296,
+        325
       ]
     },
     {
@@ -6426,6 +6429,30 @@
         83,
         88,
         92
+      ]
+    },
+    {
+      "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+      "sha256": "b9ce8196a699d5bc12bbba1b14f303dd1d717edd440101355cdecb5bde5234b8",
+      "bytes": 8855,
+      "lines": 84,
+      "title": "Roy S09: a report-coverage floor before decoding",
+      "headings": [
+        "Roy S09: a report-coverage floor before decoding",
+        "Result and scope",
+        "1. Reconstruction and what it assumes",
+        "2. The bound and its practical effect",
+        "3. Event-pattern check",
+        "4. Implication for the experience bridge",
+        "5. Next and reproduction"
+      ],
+      "local_links": [
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+        "verification/roy_s09_report_coverage.json"
+      ],
+      "risk_phrase_lines": [
+        15
       ]
     },
     {
