@@ -1,0 +1,135 @@
+{
+  "kind": "exploratory single-scan inspection, not experience calibration",
+  "file_name": "S09_scan8_filtered_gac_cbc.mat",
+  "size_bytes": 33038187,
+  "sha256": "cadeee7e70dc1ee09fa1d6b12ab8387ea3a5195618a00fcba963f41b14802027",
+  "dropbox_content_hash": "1ce33530895be6170bd0b4a715f78ab44906a1e82ecdc8ebc3499a52292d454c",
+  "eeg": {
+    "channels": 64,
+    "samples": 70519,
+    "sampling_hz": 250,
+    "all_values_finite": true,
+    "sample_span_seconds": 282.072,
+    "tag_variables_hz": {
+      "freqtag1": 8.571428571428571,
+      "freqtag2": 6.666666666666667
+    }
+  },
+  "events": {
+    "types": {
+      "Pulse": 265,
+      "R": 265,
+      "R128": 124,
+      "S1": 50,
+      "S10": 2,
+      "S2": 53,
+      "S20": 3,
+      "S3": 97,
+      "boundary": 1
+    },
+    "tr_count": 124,
+    "tr_spacing_samples_unique": [
+      550
+    ],
+    "trial_count": 5,
+    "trial_start_samples_matlab_1_based": [
+      3000,
+      16510,
+      30013,
+      43517,
+      57020
+    ],
+    "response_alignment_by_trial": [
+      {
+        "n": 37,
+        "median_s": -0.018285050194252108,
+        "min_s": -0.019869285062304697,
+        "max_s": -0.016094034297653707
+      },
+      {
+        "n": 41,
+        "median_s": -0.04198742018852499,
+        "min_s": -0.04377264149533585,
+        "max_s": -0.03991589433868648
+      },
+      {
+        "n": 40,
+        "median_s": -0.03988033674684993,
+        "min_s": -0.042011663493933156,
+        "max_s": -0.03793964875486563
+      },
+      {
+        "n": 37,
+        "median_s": -0.04359749633073807,
+        "min_s": -0.045571194105083125,
+        "max_s": -0.04150059295305982
+      },
+      {
+        "n": 45,
+        "median_s": -0.04071120212285314,
+        "min_s": -0.04262407652408001,
+        "max_s": -0.03857400870867423
+      }
+    ],
+    "response_code_event_matches": {
+      "1": {
+        "responses": 50,
+        "event_latencies": 50,
+        "unique_nearest_events": 50
+      },
+      "2": {
+        "responses": 53,
+        "event_latencies": 53,
+        "unique_nearest_events": 53
+      },
+      "3": {
+        "responses": 97,
+        "event_latencies": 97,
+        "unique_nearest_events": 97
+      }
+    }
+  },
+  "artifact_masks": {
+    "bad_epoch_samples": 8324,
+    "bad_sample_samples": 6228,
+    "either_samples": 8324
+  },
+  "descriptive_spectrum": {
+    "Oz": {
+      "clean_four_second_windows": 47,
+      "tag_ratios": [
+        {
+          "nominal_tag_hz": 8.571428571428571,
+          "nearest_bin_hz": 8.5,
+          "power_to_sideband_median": 1.4021813410747395
+        },
+        {
+          "nominal_tag_hz": 6.666666666666667,
+          "nearest_bin_hz": 6.75,
+          "power_to_sideband_median": 1.2406637167602244
+        }
+      ]
+    },
+    "POz": {
+      "clean_four_second_windows": 47,
+      "tag_ratios": [
+        {
+          "nominal_tag_hz": 8.571428571428571,
+          "nearest_bin_hz": 8.5,
+          "power_to_sideband_median": 1.4388146184295914
+        },
+        {
+          "nominal_tag_hz": 6.666666666666667,
+          "nearest_bin_hz": 6.75,
+          "power_to_sideband_median": 1.5688033669520454
+        }
+      ]
+    }
+  },
+  "limitations": [
+    "Condition not independently verified; no color mapping inferred from freqtag1/2 order.",
+    "Nearest-event offsets may reflect timing conventions or different clocks; not automatically corrected.",
+    "Spectral ratios are exploratory, sensitive to window, artifacts and sidebands, not calibrated thresholds.",
+    "Original file may include sensitive DICOM metadata; none reproduced in this summary."
+  ]
+}

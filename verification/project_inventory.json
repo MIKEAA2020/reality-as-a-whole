@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 282,
-  "bytes": 3909654,
-  "line_count": 44229,
-  "document_count_with_risk_phrases": 266,
+  "document_count": 283,
+  "bytes": 3918858,
+  "line_count": 44306,
+  "document_count_with_risk_phrases": 267,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "750265fe9bdf7fa6a01f0bee7c5950fbd38a3c01ae548f3268809e1fbda9355d",
-      "bytes": 60376,
-      "lines": 513,
+      "sha256": "b7204584f30e10913b019bbd1c0017e1caf129a322c0bb49953d49b0729a6525",
+      "bytes": 60601,
+      "lines": 515,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2835,6 +2835,7 @@
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
@@ -3102,6 +3103,7 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/roy_s09_scan_inspection.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_vs_independent_reports.py",
         "verification/shlaer_time_comparison.py",
@@ -3161,14 +3163,14 @@
         128,
         158,
         170,
-        186,
-        230,
-        243,
-        279,
-        288,
-        291,
-        294,
-        323
+        187,
+        231,
+        244,
+        280,
+        289,
+        292,
+        295,
+        324
       ]
     },
     {
@@ -6424,6 +6426,34 @@
         83,
         88,
         92
+      ]
+    },
+    {
+      "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+      "sha256": "b34a8b864574112ad7c5d28ecca417853110975e6d4378f88ebbdc1f69045e8e",
+      "bytes": 8979,
+      "lines": 75,
+      "title": "Roy S09: first inspection of three EEG scans",
+      "headings": [
+        "Roy S09: first inspection of three EEG scans",
+        "What was done",
+        "File integrity and scope",
+        "1. Structural and timing findings",
+        "2. Two representations of button events are close, not identical",
+        "3. An exploratory spectral sanity check",
+        "4. Stop gate and next defensible analysis",
+        "5. Reproduction and data handling"
+      ],
+      "local_links": [
+        "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+        "verification/roy_s09_scan7_inspection.json",
+        "verification/roy_s09_scan8_inspection.json",
+        "verification/roy_s09_scan9_inspection.json"
+      ],
+      "risk_phrase_lines": [
+        37,
+        59,
+        63
       ]
     },
     {
