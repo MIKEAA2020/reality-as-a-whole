@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 243 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 187 verification Python scripts.
+- 244 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 189 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -181,6 +181,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern
 - [ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md](ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md) — Roy S09: nine scans, report coverage and a descriptive EEG contrast
 - [ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md](ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md) — Roy S09: a report-coverage floor before decoding
+- [ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md](ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md) — S09 scan 1: fMRI access and two-volume sample
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
@@ -463,6 +464,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/rivalry_hrf_timing_witness.py](verification/rivalry_hrf_timing_witness.py)
 - [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
+- [verification/roy_mri_pair_inventory.py](verification/roy_mri_pair_inventory.py)
+- [verification/roy_mri_pair_inventory_test.py](verification/roy_mri_pair_inventory_test.py)
 - [verification/roy_s09_descriptive_tag_report.py](verification/roy_s09_descriptive_tag_report.py)
 - [verification/roy_s09_descriptive_tag_report_test.py](verification/roy_s09_descriptive_tag_report_test.py)
 - [verification/roy_s09_event_similarity_screen.py](verification/roy_s09_event_similarity_screen.py)

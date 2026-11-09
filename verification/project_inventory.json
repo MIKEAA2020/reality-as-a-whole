@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 286,
-  "bytes": 3948280,
-  "line_count": 44548,
-  "document_count_with_risk_phrases": 269,
+  "document_count": 287,
+  "bytes": 3954019,
+  "line_count": 44584,
+  "document_count_with_risk_phrases": 270,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5b63174dbf0e4bb939a4a91cc2b2752c31b9ebc811408c00dc5e3276e36db6c9",
-      "bytes": 61921,
-      "lines": 526,
+      "sha256": "fe927517d4071ee6929cf84c99bb9b8ab2d27404baaf7f4e0841181beb848136",
+      "bytes": 62232,
+      "lines": 529,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2838,6 +2838,7 @@
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
         "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+        "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -3106,6 +3107,8 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/roy_mri_pair_inventory.py",
+        "verification/roy_mri_pair_inventory_test.py",
         "verification/roy_s09_descriptive_tag_report.py",
         "verification/roy_s09_descriptive_tag_report_test.py",
         "verification/roy_s09_event_similarity_screen.py",
@@ -3174,14 +3177,14 @@
         128,
         158,
         170,
-        190,
-        234,
-        247,
-        283,
-        292,
-        295,
-        298,
-        327
+        191,
+        235,
+        248,
+        284,
+        293,
+        296,
+        299,
+        328
       ]
     },
     {
@@ -6523,6 +6526,28 @@
       ],
       "risk_phrase_lines": [
         15
+      ]
+    },
+    {
+      "path": "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
+      "sha256": "2969af2d5759c3baec46e53bd607dae8cf29648040a2bfd8673f8ffe93109058",
+      "bytes": 5428,
+      "lines": 33,
+      "title": "S09 scan 1: fMRI access and two-volume sample",
+      "headings": [
+        "S09 scan 1: fMRI access and two-volume sample",
+        "Status: not all files inspected",
+        "1. What was actually checked",
+        "2. Volume-count issue: still open",
+        "3. Prepared sequential whole-series audit"
+      ],
+      "local_links": [
+        "verification/roy_s09_scan1_two_volume_sample.json",
+        "verification/roy_mri_pair_inventory.py",
+        "verification/roy_mri_pair_inventory_test.py"
+      ],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {
