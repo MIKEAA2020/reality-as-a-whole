@@ -1,0 +1,40 @@
+{
+  "kind": "observed data + hypothetical offset sensitivity, not inferential GLM",
+  "eeg_sha256": "c4f5414be3ac09f3ad6fa2ebec3f262b1c4b7258fc993de1477e22517a4d866d",
+  "mri_inventory_sha256": "e3a72ad4fb3ca3ee7a7a5db88b2f6f662aa4e7b71a631d0063d7fc050cebd965",
+  "volumes": 129,
+  "candidate_count": 3,
+  "whole_field_mean_across_volumes": 4527.712581785889,
+  "whole_field_mean_sample_sd": 8.045836862959952,
+  "pearson_r_range": [
+    -0.1618429701080175,
+    -0.13852884518971864
+  ],
+  "all_candidates": [
+    {
+      "first_trigger_frame": 1,
+      "pearson_r": -0.1618429701080175
+    },
+    {
+      "first_trigger_frame": 2,
+      "pearson_r": -0.1459177312525794
+    },
+    {
+      "first_trigger_frame": 3,
+      "pearson_r": -0.13852884518971864
+    }
+  ],
+  "assumptions": [
+    "Frame indices 1..129 are temporally ordered with 2.2 s spacing.",
+    "All 127 EEG triggers align to a consecutive one-to-one subset of frames.",
+    "Each trial trigger corresponds to onset of a 42 s block.",
+    "Fixed double-gamma HRF: Gamma(6,1) minus Gamma(16,1)/6.",
+    "Global mean includes all voxels, including zero-valued background."
+  ],
+  "limitations": [
+    "None of the 3 candidate offsets is established by these observations.",
+    "No prewhitening, drift, motion, design collinearity or multiple-comparison control.",
+    "Computed correlations are descriptive and do not test a rivalry, awareness or causal claim.",
+    "Do not select the most favorable alignment based on these correlations."
+  ]
+}

@@ -23,6 +23,14 @@ def sha256(path):
     return h.hexdigest()
 
 
+def sample_indices(values):
+    """Accept numerical roundoff near sample indices, never silently truncate."""
+    values = np.atleast_1d(np.asarray(values, dtype=float))
+    if not np.isfinite(values).all() or np.any(np.abs(values - np.rint(values)) > 1e-7):
+        raise ValueError('Latencies are not integer sample indices within numerical tolerance')
+    return np.rint(values).astype(np.int64)
+
+
 def candidate_starts(n_volumes, n_triggers):
     if n_volumes < 1 or n_triggers < 1 or n_triggers > n_volumes:
         raise ValueError('Invalid lengths for consecutive one-to-one mapping')
@@ -41,8 +49,8 @@ def analyze(inventory_path, eeg_path):
     eeg = d['EEG']
     if fs != float(eeg.srate) or fs <= 0:
         raise ValueError('Inconsistent sampling rates')
-    tr = np.atleast_1d(d['latency_tr']).astype(int)
-    trials = np.atleast_1d(d['latency_trial']).astype(int)
+    tr = sample_indices(d['latency_tr'])
+    trials = sample_indices(d['latency_trial'])
     if len(tr) < 2 or len(trials) < 1 or np.any(np.diff(tr) <= 0):
         raise ValueError('Missing or non-monotonic triggers')
     observed_diffs = np.diff(tr)/fs

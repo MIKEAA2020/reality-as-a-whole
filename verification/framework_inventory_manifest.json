@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9a62472ec3c15c10ea9e098277bb69cd60e6bb9a",
-  "file_count": 928,
+  "base_head": "6cf01f9b918911b71158aec6a4c44ad7d144c8c0",
+  "file_count": 932,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 63204,
-      "sha256": "54f984ae2eb80c4badcb26026cbf2af7c116ca8d0da76733c0fec2c92539a31c"
+      "bytes": 63353,
+      "sha256": "35a6dc7b4a6d5ce8b5326ee712996482aa64b3e9bf2f5e105a363fca2d2c785d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -879,9 +879,14 @@
       "sha256": "1564fe4ae4718177d133754b2389db8580b6f1367f86cde7b8307636768514c1"
     },
     {
+      "path": "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
+      "bytes": 7762,
+      "sha256": "33608fbc6958512036071b8033a1fcd5ba875693a867e0e9bb00e375e84dc0e1"
+    },
+    {
       "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
-      "bytes": 8979,
-      "sha256": "b34a8b864574112ad7c5d28ecca417853110975e6d4378f88ebbdc1f69045e8e"
+      "bytes": 9189,
+      "sha256": "23652ffd4ecc8659118cb69af97bcfd92a8ce0c9f5d84699fd44dab508b02d21"
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -3680,8 +3685,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 369248,
-      "sha256": "10ae93f144f419528fedbcc1061721bced80dad5aca74b33cdcddb7a259f758a"
+      "bytes": 370114,
+      "sha256": "ec61968973e742b53f75e1202ac1af2a639b8d26cb5f1f2f802a21370ed7317e"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3980,13 +3985,13 @@
     },
     {
       "path": "verification/roy_s09_scan1_alignment_gate.py",
-      "bytes": 4314,
-      "sha256": "7810b4bee879d7dcf122a51bfe5f0f0f6ad29d52ece12015031f9a5041f7862c"
+      "bytes": 4693,
+      "sha256": "1bd17993357fdd23151aed48ef288c7793de3dc23448bb13d0133828dc8fa1a5"
     },
     {
       "path": "verification/roy_s09_scan1_alignment_gate_test.py",
-      "bytes": 645,
-      "sha256": "4362aaafae119b57a945aa8d0231f2a2fa0e90f09ed99b44753cd05e5db4ed69"
+      "bytes": 1086,
+      "sha256": "aa2f4bca78ca709e9aa247a6055a51f1d065ff6cc1dab7f5f4d3f02eb443de17"
     },
     {
       "path": "verification/roy_s09_scan1_full_fmri_inventory.json",
@@ -4005,8 +4010,8 @@
     },
     {
       "path": "verification/roy_s09_scan1_offset_sensitivity.py",
-      "bytes": 4232,
-      "sha256": "2a778f6ead275158e665f51d4ab4b48f6c000c96dd07e1bce2ca44473d1090e6"
+      "bytes": 4280,
+      "sha256": "147ffafbc576e43a690729139887eedaacd50931b71ae1396c8769ee50a04b3b"
     },
     {
       "path": "verification/roy_s09_scan1_offset_sensitivity_test.py",
@@ -4039,9 +4044,24 @@
       "sha256": "35101f938c3d44141b691ae41a95cfacdcfbae82e8ac17ab03241f72b66d4587"
     },
     {
+      "path": "verification/roy_s09_scan3_alignment_gate.json",
+      "bytes": 1392,
+      "sha256": "432ac0c822acf78c2c8faaca586cb3b73d54f903b5cf7f087621175679de745e"
+    },
+    {
+      "path": "verification/roy_s09_scan3_full_fmri_inventory.json",
+      "bytes": 51873,
+      "sha256": "e3a72ad4fb3ca3ee7a7a5db88b2f6f662aa4e7b71a631d0063d7fc050cebd965"
+    },
+    {
       "path": "verification/roy_s09_scan3_inspection.json",
-      "bytes": 3592,
-      "sha256": "50e08b06fd68a29749e79b4f2c2f51c05377fa56e9a6af75d1ed3b0c832f88d5"
+      "bytes": 3581,
+      "sha256": "a5bad379185b027cc1e63574159525c6d9d16cdc87e9fdfcf1855930c29c9af4"
+    },
+    {
+      "path": "verification/roy_s09_scan3_offset_sensitivity.json",
+      "bytes": 1513,
+      "sha256": "5953fb368064081e4a2f0992f053986fc4a17bb29a6c22788f251667bdbc5855"
     },
     {
       "path": "verification/roy_s09_scan4_inspection.json",
@@ -4050,13 +4070,13 @@
     },
     {
       "path": "verification/roy_s09_scan5_inspection.json",
-      "bytes": 3590,
-      "sha256": "211649e626f50ff8e8e0a178c837259e0c384596065e7e849744bf5fb3d9f22b"
+      "bytes": 3579,
+      "sha256": "7e23034d33030226cf4897d13797544c4fc3e606e545d6f0f77d85cc3228ff1e"
     },
     {
       "path": "verification/roy_s09_scan6_inspection.json",
-      "bytes": 3589,
-      "sha256": "9fdb39386cee803909ebae9af03249701178d1f845f5fd98e0430330edd5e1f9"
+      "bytes": 3578,
+      "sha256": "4e63e02cc5ea792a544de14b9303288c3f815a8fb323a80221416308e4831d3a"
     },
     {
       "path": "verification/roy_s09_scan7_inspection.json",
@@ -4070,13 +4090,13 @@
     },
     {
       "path": "verification/roy_s09_scan9_inspection.json",
-      "bytes": 3586,
-      "sha256": "46273756a43b40029336caadc719ba2a98898420a39624856c89cc569af4cf74"
+      "bytes": 3575,
+      "sha256": "a7b82c520a405be7117014050bf0d76894260afa80fad5d799c13ae99f1c229d"
     },
     {
       "path": "verification/roy_s09_scan_inspection.py",
-      "bytes": 7311,
-      "sha256": "ddc01e99bb64c12c768d900e45d13a79c6ca47c04d15b735ea6040323c744089"
+      "bytes": 7439,
+      "sha256": "defff806432c10b8b523767bddc182e9e5ca2053406ac09aa3cfc400aefb4890"
     },
     {
       "path": "verification/roy_s09_scans1_to3_descriptive_tag_report.json",

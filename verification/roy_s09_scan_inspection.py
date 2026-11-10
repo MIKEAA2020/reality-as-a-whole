@@ -42,7 +42,9 @@ def inspect(path):
     if mask.shape != (data.shape[1],) or mask2.shape != mask.shape:
         raise ValueError('Bad-sample mask lengths are inconsistent; stop')
     onset = np.atleast_1d(d['latency_trial']).astype(int)
-    trs = np.atleast_1d(d['latency_tr']).astype(int)
+    # Round numerical noise only; truncation can manufacture a 551-sample gap.
+    from roy_s09_scan1_alignment_gate import sample_indices
+    trs = sample_indices(d['latency_tr'])
     responses = np.atleast_1d(d['trialResponse'])
     if len(onset) != len(responses):
         raise ValueError('Trial starts and trialResponse counts differ; stop')

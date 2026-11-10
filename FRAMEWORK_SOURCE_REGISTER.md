@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 246 root Markdown documents including this register; 43 research Markdown documents.
+- 247 root Markdown documents including this register; 43 research Markdown documents.
 - 20 original uploaded files, including provenance metadata; 195 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -184,6 +184,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md](ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md) — S09 scan 1: all 282 fMRI files read, alignment still unresolved
 - [ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md](ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md) — S09 scan 1: fMRI access and two-volume sample
 - [ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md](ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md) — S09 scan 2: complete fMRI series and timing sensitivity
+- [ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md](ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md) — S09 scan 3 and the MRI–EEG trigger-count mismatch
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish

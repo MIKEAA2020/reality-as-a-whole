@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 289,
-  "bytes": 3971836,
-  "line_count": 44701,
+  "document_count": 290,
+  "bytes": 3979957,
+  "line_count": 44746,
   "document_count_with_risk_phrases": 272,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "54f984ae2eb80c4badcb26026cbf2af7c116ca8d0da76733c0fec2c92539a31c",
-      "bytes": 63204,
-      "lines": 537,
+      "sha256": "35a6dc7b4a6d5ce8b5326ee712996482aa64b3e9bf2f5e105a363fca2d2c785d",
+      "bytes": 63353,
+      "lines": 538,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2841,6 +2841,7 @@
         "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
         "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
         "ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md",
+        "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -3185,14 +3186,14 @@
         128,
         158,
         170,
-        193,
-        237,
-        250,
-        286,
-        295,
-        298,
-        301,
-        330
+        194,
+        238,
+        251,
+        287,
+        296,
+        299,
+        302,
+        331
       ]
     },
     {
@@ -6617,9 +6618,29 @@
       ]
     },
     {
+      "path": "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
+      "sha256": "33608fbc6958512036071b8033a1fcd5ba875693a867e0e9bb00e375e84dc0e1",
+      "bytes": 7762,
+      "lines": 44,
+      "title": "S09 scan 3 and the MRI–EEG trigger-count mismatch",
+      "headings": [
+        "S09 scan 3 and the MRI–EEG trigger-count mismatch",
+        "Direct answer",
+        "New complete scan-3 inspection",
+        "Correction: manufactured 551-sample gaps",
+        "Reproduction and scope"
+      ],
+      "local_links": [
+        "verification/roy_s09_scan3_full_fmri_inventory.json",
+        "verification/roy_s09_scan3_alignment_gate.json",
+        "verification/roy_s09_scan3_offset_sensitivity.json"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
       "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
-      "sha256": "b34a8b864574112ad7c5d28ecca417853110975e6d4378f88ebbdc1f69045e8e",
-      "bytes": 8979,
+      "sha256": "23652ffd4ecc8659118cb69af97bcfd92a8ce0c9f5d84699fd44dab508b02d21",
+      "bytes": 9189,
       "lines": 75,
       "title": "Roy S09: first inspection of three EEG scans",
       "headings": [
@@ -6634,6 +6655,7 @@
       ],
       "local_links": [
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+        "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
         "verification/roy_s09_scan7_inspection.json",
         "verification/roy_s09_scan8_inspection.json",
         "verification/roy_s09_scan9_inspection.json"
