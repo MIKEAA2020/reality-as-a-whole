@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "dc5ba9e9cfca7ea53b760a28e2c1341d1c24419d",
-  "file_count": 921,
+  "base_head": "9a62472ec3c15c10ea9e098277bb69cd60e6bb9a",
+  "file_count": 928,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 62817,
-      "sha256": "09db9371a5c7aa97fdd9b340cd963dbc9ce450df31265ae55c0d000755fe5a8e"
+      "bytes": 63204,
+      "sha256": "54f984ae2eb80c4badcb26026cbf2af7c116ca8d0da76733c0fec2c92539a31c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -872,6 +872,11 @@
       "path": "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
       "bytes": 5428,
       "sha256": "2969af2d5759c3baec46e53bd607dae8cf29648040a2bfd8673f8ffe93109058"
+    },
+    {
+      "path": "ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md",
+      "bytes": 8320,
+      "sha256": "1564fe4ae4718177d133754b2389db8580b6f1367f86cde7b8307636768514c1"
     },
     {
       "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
@@ -3675,8 +3680,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 368085,
-      "sha256": "431b4c24c78787ed24c3486263366b76fd0c5e10e2e330c18ce1a6345be5e04b"
+      "bytes": 369248,
+      "sha256": "10ae93f144f419528fedbcc1061721bced80dad5aca74b33cdcddb7a259f758a"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4014,9 +4019,24 @@
       "sha256": "63aec3b71e609c83a194cc06a6350633f6a985fcb1b0ec4753e06e2f815b26b2"
     },
     {
+      "path": "verification/roy_s09_scan2_alignment_gate.json",
+      "bytes": 1694,
+      "sha256": "4a379f32802ceffa724113ecfe21b8f30b36c4d7ce3cbccb3104840ae086744d"
+    },
+    {
+      "path": "verification/roy_s09_scan2_full_fmri_inventory.json",
+      "bytes": 56619,
+      "sha256": "f0e7c982f9d5e76a0a6f4fac9f893a75b8b4f71f2f93af632d70faeb58a4cff9"
+    },
+    {
       "path": "verification/roy_s09_scan2_inspection.json",
       "bytes": 3587,
       "sha256": "dab1b91e47a1211eb696fdb0f636c6ead98a5f6400eb5ba50d6c85f9039c8360"
+    },
+    {
+      "path": "verification/roy_s09_scan2_offset_sensitivity.json",
+      "bytes": 2771,
+      "sha256": "35101f938c3d44141b691ae41a95cfacdcfbae82e8ac17ab03241f72b66d4587"
     },
     {
       "path": "verification/roy_s09_scan3_inspection.json",
@@ -4077,6 +4097,21 @@
       "path": "verification/roy_s09_scans4_to6_report_coverage.json",
       "bytes": 4272,
       "sha256": "4db9899f374caac52cc908c3b54b3ae9a2df51c37cc4cf9e10325eabc4e08b0f"
+    },
+    {
+      "path": "verification/roy_s09_two_scan_offset_comparison.json",
+      "bytes": 920,
+      "sha256": "9e3582bcf31bec8a12eaea10c2285c74726c458eded4acece0275525a103ed7c"
+    },
+    {
+      "path": "verification/roy_s09_two_scan_offset_comparison.py",
+      "bytes": 2167,
+      "sha256": "eb58b665d6743073305c2cdee4d02bc2b0d858d48378587e8087671d935e293a"
+    },
+    {
+      "path": "verification/roy_s09_two_scan_offset_comparison_test.py",
+      "bytes": 852,
+      "sha256": "07748c4713c6b9f4afb5c2cb57b56115ef4cdec1849241cc475c85040ed8615e"
     },
     {
       "path": "verification/self_existing_plenitude_centers.json",

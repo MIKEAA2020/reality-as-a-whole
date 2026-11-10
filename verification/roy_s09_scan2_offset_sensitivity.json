@@ -1,0 +1,100 @@
+{
+  "kind": "observed data + hypothetical offset sensitivity, not inferential GLM",
+  "eeg_sha256": "c9058648ea025ea29d316eddbd471ff7019304c232fd8acc5d688f1c86ad909c",
+  "mri_inventory_sha256": "f0e7c982f9d5e76a0a6f4fac9f893a75b8b4f71f2f93af632d70faeb58a4cff9",
+  "volumes": 141,
+  "candidate_count": 18,
+  "whole_field_mean_across_volumes": 4524.771105909963,
+  "whole_field_mean_sample_sd": 10.775056187770845,
+  "pearson_r_range": [
+    0.1190839470492186,
+    0.5608911141776709
+  ],
+  "all_candidates": [
+    {
+      "first_trigger_frame": 1,
+      "pearson_r": 0.1190839470492186
+    },
+    {
+      "first_trigger_frame": 2,
+      "pearson_r": 0.15579025862243934
+    },
+    {
+      "first_trigger_frame": 3,
+      "pearson_r": 0.1795599232014785
+    },
+    {
+      "first_trigger_frame": 4,
+      "pearson_r": 0.21005485631095197
+    },
+    {
+      "first_trigger_frame": 5,
+      "pearson_r": 0.26407297434819654
+    },
+    {
+      "first_trigger_frame": 6,
+      "pearson_r": 0.33950625795191286
+    },
+    {
+      "first_trigger_frame": 7,
+      "pearson_r": 0.4179266282513866
+    },
+    {
+      "first_trigger_frame": 8,
+      "pearson_r": 0.4812266338033149
+    },
+    {
+      "first_trigger_frame": 9,
+      "pearson_r": 0.5284914946186451
+    },
+    {
+      "first_trigger_frame": 10,
+      "pearson_r": 0.5566642771871052
+    },
+    {
+      "first_trigger_frame": 11,
+      "pearson_r": 0.5608911141776709
+    },
+    {
+      "first_trigger_frame": 12,
+      "pearson_r": 0.5404345595725585
+    },
+    {
+      "first_trigger_frame": 13,
+      "pearson_r": 0.5001701384040974
+    },
+    {
+      "first_trigger_frame": 14,
+      "pearson_r": 0.44355806311311513
+    },
+    {
+      "first_trigger_frame": 15,
+      "pearson_r": 0.3765615415296177
+    },
+    {
+      "first_trigger_frame": 16,
+      "pearson_r": 0.31297579231374056
+    },
+    {
+      "first_trigger_frame": 17,
+      "pearson_r": 0.25274859636148433
+    },
+    {
+      "first_trigger_frame": 18,
+      "pearson_r": 0.17518133233903638
+    }
+  ],
+  "assumptions": [
+    "Frame indices 1..141 are temporally ordered with 2.2 s spacing.",
+    "All 124 EEG triggers align to a consecutive one-to-one subset of frames.",
+    "Each trial trigger corresponds to onset of a 42 s block.",
+    "Fixed double-gamma HRF: Gamma(6,1) minus Gamma(16,1)/6.",
+    "Global mean includes all voxels, including zero-valued background."
+  ],
+  "limitations": [
+    "None of the 18 candidate offsets is established by these observations.",
+    "No prewhitening, drift, motion, design collinearity or multiple-comparison control.",
+    "Computed correlations are descriptive and do not test a rivalry, awareness or causal claim.",
+    "Do not select the most favorable alignment based on these correlations."
+  ]
+}

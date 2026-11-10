@@ -1,0 +1,26 @@
+{
+  "kind": "exploratory offset-dependent difference of correlations; not a condition effect",
+  "input_1_sha256": "ebc2e7f20ae470cb89c288953eb21cc4a5f0b43f4d81d542c3b454dee72a5ac5",
+  "input_2_sha256": "35101f938c3d44141b691ae41a95cfacdcfbae82e8ac17ab03241f72b66d4587",
+  "independent_offset_grid": {
+    "count": 324,
+    "min": -0.27304037672770665,
+    "max": 0.7289033924085524,
+    "negative": 101,
+    "zero": 0,
+    "positive": 223
+  },
+  "same_offset_sensitivity_only": {
+    "count": 18,
+    "min": -0.19050707209439077,
+    "max": 0.28709622528010004,
+    "negative": 3,
+    "zero": 0,
+    "positive": 15
+  },
+  "limitations": [
+    "No true offset is established. Same-offset comparison is an extra unverified assumption.",
+    "These are differences of crude whole-field correlations, not contrasts from a fitted fMRI GLM.",
+    "Offsets are not selected using the resulting correlation or contrast."
+  ]
+}
