@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 296,
-  "bytes": 4022327,
-  "line_count": 45044,
+  "document_count": 297,
+  "bytes": 4027328,
+  "line_count": 45083,
   "document_count_with_risk_phrases": 273,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "037c7bfc2cdbf065498d75f77eaee7d22dc8e30c3f61dca9c1c64c76d781c645",
-      "bytes": 65377,
-      "lines": 556,
+      "sha256": "17cf61053f829f27bbb0e403da963728e1ca7e42d9356c7011bc6d135e6cf7d8",
+      "bytes": 65746,
+      "lines": 559,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2837,6 +2837,7 @@
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
+        "ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md",
         "ROY_S09_EEG_REPORT_HELD_OUT_PLAN.md",
         "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
         "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
@@ -3122,6 +3123,8 @@
         "verification/roy_s09_condition_coverage_test.py",
         "verification/roy_s09_descriptive_tag_report.py",
         "verification/roy_s09_descriptive_tag_report_test.py",
+        "verification/roy_s09_development_run_crosscheck.py",
+        "verification/roy_s09_development_run_crosscheck_test.py",
         "verification/roy_s09_eeg_report_transfer.py",
         "verification/roy_s09_eeg_report_transfer_test.py",
         "verification/roy_s09_event_similarity_screen.py",
@@ -3204,14 +3207,14 @@
         128,
         158,
         170,
-        200,
-        244,
-        257,
-        293,
-        302,
-        305,
-        308,
-        337
+        201,
+        245,
+        258,
+        294,
+        303,
+        306,
+        309,
+        338
       ]
     },
     {
@@ -6507,6 +6510,26 @@
         "Draft email: S09 EEG–fMRI timing"
       ],
       "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md",
+      "sha256": "03e38cc9156eaf7e1455c126528410b153911a9ef2d6a3f50ad64b0d7fb99593",
+      "bytes": 4632,
+      "lines": 36,
+      "title": "S09 EEG rule: development-run cross-check and next decision",
+      "headings": [
+        "S09 EEG rule: development-run cross-check and next decision",
+        "Result",
+        "Interpretation and boundary",
+        "Recommended next step",
+        "Reproduction and tests"
+      ],
+      "local_links": [
+        "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
+        "verification/roy_s09_development_run_crosscheck.py",
+        "verification/roy_s09_development_run_crosscheck.json"
+      ],
       "risk_phrase_lines": []
     },
     {

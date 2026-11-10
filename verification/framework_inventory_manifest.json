@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "12fc197ca5794557e61be5a63a577dce608c4ed5",
-  "file_count": 974,
+  "base_head": "69e9e55d904626032f2dda92729c91b035ec57df",
+  "file_count": 978,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 65377,
-      "sha256": "037c7bfc2cdbf065498d75f77eaee7d22dc8e30c3f61dca9c1c64c76d781c645"
+      "bytes": 65746,
+      "sha256": "17cf61053f829f27bbb0e403da963728e1ca7e42d9356c7011bc6d135e6cf7d8"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -857,6 +857,11 @@
       "path": "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
       "bytes": 2255,
       "sha256": "cda8b7fdec0be29d82fe73cbe32a6e55f934cdc8d0d7c11d884eaed8b76c49c0"
+    },
+    {
+      "path": "ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md",
+      "bytes": 4632,
+      "sha256": "03e38cc9156eaf7e1455c126528410b153911a9ef2d6a3f50ad64b0d7fb99593"
     },
     {
       "path": "ROY_S09_EEG_REPORT_HELD_OUT_PLAN.md",
@@ -3715,8 +3720,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 376615,
-      "sha256": "76d74041b2955339367c15308fea4b76f3c54ca222f8f356473b783da7c10dbc"
+      "bytes": 377523,
+      "sha256": "05e3875475d7a762b707d46586dab55c6a1fe609111383fda1e9054f3e2bb41b"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3982,6 +3987,21 @@
       "path": "verification/roy_s09_descriptive_tag_report_test.py",
       "bytes": 1687,
       "sha256": "a917e332c9eae974b0d098e117644cab34abccb8aeb218411b20ad2021aff140"
+    },
+    {
+      "path": "verification/roy_s09_development_run_crosscheck.json",
+      "bytes": 7555,
+      "sha256": "b6d2aa35b490f641f3235614abc5d9513a3c444a0a6adafe013165ad6573b02b"
+    },
+    {
+      "path": "verification/roy_s09_development_run_crosscheck.py",
+      "bytes": 1927,
+      "sha256": "40c06bd066d8de4f543fb10ddc0b12bbf1dc960f7aad8ad270803f096cbbee5d"
+    },
+    {
+      "path": "verification/roy_s09_development_run_crosscheck_test.py",
+      "bytes": 1021,
+      "sha256": "e1ce57da76d654f6bb3b423f78081750aa0ec7259dee7b2887922c2e40d052b7"
     },
     {
       "path": "verification/roy_s09_eeg_report_transfer.json",
