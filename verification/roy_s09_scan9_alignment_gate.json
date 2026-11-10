@@ -1,0 +1,44 @@
+{
+  "kind": "conditional alignment nonuniqueness witness, not an fMRI GLM",
+  "eeg_sha256": "2a2b9602b4d0a7ed9d5e98a0b3921b8af125c146e868b47d8dd3f37e2805366d",
+  "mri_volumes": 129,
+  "mri_first_last_frames": [
+    1,
+    129
+  ],
+  "mri_series": 18,
+  "eeg_embedded_series": 18,
+  "sampling_hz": 250.0,
+  "eeg_samples": 70509,
+  "eeg_sample_span_s": 282.032,
+  "eeg_trigger_count": 125,
+  "eeg_first_trigger_s": 7.44,
+  "eeg_last_trigger_s": 280.24,
+  "trigger_spacing_s": 2.2,
+  "first_trial_after_first_eeg_trigger_s": 4.556,
+  "candidate_first_fmri_frames": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "candidate_corresponding_first_trial_seconds_from_fmri_frame_1": [
+    4.556,
+    6.756,
+    8.956,
+    11.156,
+    13.356000000000002
+  ],
+  "assumptions": [
+    "Frames 1..N are temporally ordered and equally spaced at the recorded TR.",
+    "EEG trigger array represents a consecutive one-to-one subset of the fMRI frames.",
+    "No independent absolute start-time or volume-to-trigger anchor is supplied.",
+    "These assumptions and candidate offsets have not been verified against original acquisition or GLM records."
+  ],
+  "limitations": [
+    "Series agreement is necessary consistency, not proof of correspondence.",
+    "Unknown preprocessing drops and trial timing conventions may change the mapping.",
+    "A fit selected from these offsets using the same outcomes would not be independent confirmation."
+  ]
+}

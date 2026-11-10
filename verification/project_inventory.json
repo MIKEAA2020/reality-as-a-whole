@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 290,
-  "bytes": 3979957,
-  "line_count": 44746,
+  "document_count": 291,
+  "bytes": 3987492,
+  "line_count": 44804,
   "document_count_with_risk_phrases": 272,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "35a6dc7b4a6d5ce8b5326ee712996482aa64b3e9bf2f5e105a363fca2d2c785d",
-      "bytes": 63353,
-      "lines": 538,
+      "sha256": "702b955f3161406af76e6039ac763dcf1f5271aace31d0c1aaaa2136304df12e",
+      "bytes": 63723,
+      "lines": 541,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2842,6 +2842,7 @@
         "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
         "ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md",
         "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
+        "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -3116,6 +3117,8 @@
         "verification/roy_s09_descriptive_tag_report_test.py",
         "verification/roy_s09_event_similarity_screen.py",
         "verification/roy_s09_event_similarity_screen_test.py",
+        "verification/roy_s09_mri_multi_scan_summary.py",
+        "verification/roy_s09_mri_multi_scan_summary_test.py",
         "verification/roy_s09_repeated_report_pattern.py",
         "verification/roy_s09_repeated_report_pattern_test.py",
         "verification/roy_s09_report_coverage.py",
@@ -3186,14 +3189,14 @@
         128,
         158,
         170,
-        194,
-        238,
-        251,
-        287,
-        296,
-        299,
-        302,
-        331
+        195,
+        239,
+        252,
+        288,
+        297,
+        300,
+        303,
+        332
       ]
     },
     {
@@ -6634,6 +6637,35 @@
         "verification/roy_s09_scan3_full_fmri_inventory.json",
         "verification/roy_s09_scan3_alignment_gate.json",
         "verification/roy_s09_scan3_offset_sensitivity.json"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
+      "sha256": "69341af555647117a660420fe4ae0886106770624e1ae01761739452bdf63345",
+      "bytes": 7165,
+      "lines": 55,
+      "title": "S09 scans 7–9: complete fMRI inspection and six-scan timing comparison",
+      "headings": [
+        "S09 scans 7–9: complete fMRI inspection and six-scan timing comparison",
+        "Findings",
+        "Provenance and inspection",
+        "Exploratory sensitivity, not an fMRI result",
+        "Reproduction and safeguards"
+      ],
+      "local_links": [
+        "verification/roy_s09_six_scan_mri_summary.json",
+        "verification/roy_s09_scan7_full_fmri_inventory.json",
+        "verification/roy_s09_scan7_alignment_gate.json",
+        "verification/roy_s09_scan7_offset_sensitivity.json",
+        "verification/roy_s09_scan8_full_fmri_inventory.json",
+        "verification/roy_s09_scan8_alignment_gate.json",
+        "verification/roy_s09_scan8_offset_sensitivity.json",
+        "verification/roy_s09_scan9_full_fmri_inventory.json",
+        "verification/roy_s09_scan9_alignment_gate.json",
+        "verification/roy_s09_scan9_offset_sensitivity.json",
+        "ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md",
+        "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md"
       ],
       "risk_phrase_lines": []
     },

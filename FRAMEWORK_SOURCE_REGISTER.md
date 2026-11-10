@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 247 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 195 verification Python scripts.
+- 248 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 197 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -185,6 +185,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md](ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md) — S09 scan 1: fMRI access and two-volume sample
 - [ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md](ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md) — S09 scan 2: complete fMRI series and timing sensitivity
 - [ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md](ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md) — S09 scan 3 and the MRI–EEG trigger-count mismatch
+- [ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md](ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md) — S09 scans 7–9: complete fMRI inspection and six-scan timing comparison
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
@@ -473,6 +474,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_s09_descriptive_tag_report_test.py](verification/roy_s09_descriptive_tag_report_test.py)
 - [verification/roy_s09_event_similarity_screen.py](verification/roy_s09_event_similarity_screen.py)
 - [verification/roy_s09_event_similarity_screen_test.py](verification/roy_s09_event_similarity_screen_test.py)
+- [verification/roy_s09_mri_multi_scan_summary.py](verification/roy_s09_mri_multi_scan_summary.py)
+- [verification/roy_s09_mri_multi_scan_summary_test.py](verification/roy_s09_mri_multi_scan_summary_test.py)
 - [verification/roy_s09_repeated_report_pattern.py](verification/roy_s09_repeated_report_pattern.py)
 - [verification/roy_s09_repeated_report_pattern_test.py](verification/roy_s09_repeated_report_pattern_test.py)
 - [verification/roy_s09_report_coverage.py](verification/roy_s09_report_coverage.py)
