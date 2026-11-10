@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "48097f0a6c741a60b7236d21b09a7e1323c71007",
-  "file_count": 913,
+  "base_head": "dc5ba9e9cfca7ea53b760a28e2c1341d1c24419d",
+  "file_count": 921,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 62232,
-      "sha256": "fe927517d4071ee6929cf84c99bb9b8ab2d27404baaf7f4e0841181beb848136"
+      "bytes": 62817,
+      "sha256": "09db9371a5c7aa97fdd9b340cd963dbc9ce450df31265ae55c0d000755fe5a8e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -862,6 +862,11 @@
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
       "bytes": 8855,
       "sha256": "b9ce8196a699d5bc12bbba1b14f303dd1d717edd440101355cdecb5bde5234b8"
+    },
+    {
+      "path": "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
+      "bytes": 8525,
+      "sha256": "43b55e5f03dd9195e82e304208be35c133008e649979cb780039b3d8e46d1711"
     },
     {
       "path": "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
@@ -3670,8 +3675,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 366601,
-      "sha256": "908f4e885942b31c5b699cf29a6a0b0ed71c8762fc27d433824089cdc9c81f6d"
+      "bytes": 368085,
+      "sha256": "431b4c24c78787ed24c3486263366b76fd0c5e10e2e330c18ce1a6345be5e04b"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3964,9 +3969,44 @@
       "sha256": "5a2b0f7e449636a144f3f46201f00f504fd98eb6b9abb8dcc282dcd4d40ddf43"
     },
     {
+      "path": "verification/roy_s09_scan1_alignment_gate.json",
+      "bytes": 1769,
+      "sha256": "bd26c021989cdf10e9bb303bd5ee2b134198c912ec4d43adec4aed70f2398813"
+    },
+    {
+      "path": "verification/roy_s09_scan1_alignment_gate.py",
+      "bytes": 4314,
+      "sha256": "7810b4bee879d7dcf122a51bfe5f0f0f6ad29d52ece12015031f9a5041f7862c"
+    },
+    {
+      "path": "verification/roy_s09_scan1_alignment_gate_test.py",
+      "bytes": 645,
+      "sha256": "4362aaafae119b57a945aa8d0231f2a2fa0e90f09ed99b44753cd05e5db4ed69"
+    },
+    {
+      "path": "verification/roy_s09_scan1_full_fmri_inventory.json",
+      "bytes": 56612,
+      "sha256": "b20588b59846ba9cb1bcaedcb7127eefdafc7e56a9e1a6ad24e23ffd8c3aaa83"
+    },
+    {
       "path": "verification/roy_s09_scan1_inspection.json",
       "bytes": 3584,
       "sha256": "025912eb02663e120a094e2c1cdd0afe9902f89842044ace82dd88d105cae5f7"
+    },
+    {
+      "path": "verification/roy_s09_scan1_offset_sensitivity.json",
+      "bytes": 2784,
+      "sha256": "ebc2e7f20ae470cb89c288953eb21cc4a5f0b43f4d81d542c3b454dee72a5ac5"
+    },
+    {
+      "path": "verification/roy_s09_scan1_offset_sensitivity.py",
+      "bytes": 4232,
+      "sha256": "2a778f6ead275158e665f51d4ab4b48f6c000c96dd07e1bce2ca44473d1090e6"
+    },
+    {
+      "path": "verification/roy_s09_scan1_offset_sensitivity_test.py",
+      "bytes": 718,
+      "sha256": "fa2d384e56b78e08e8aa6f0fa065110969b8572433a88b30e6012f7c98a0c05b"
     },
     {
       "path": "verification/roy_s09_scan1_two_volume_sample.json",

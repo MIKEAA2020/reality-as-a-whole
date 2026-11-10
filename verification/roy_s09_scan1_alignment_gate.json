@@ -1,0 +1,70 @@
+{
+  "kind": "conditional alignment nonuniqueness witness, not an fMRI GLM",
+  "eeg_sha256": "6b33288f2db8d899a8948a46de7300094c2812ba09aabb8c832b5ed8b85f56cf",
+  "mri_volumes": 141,
+  "mri_first_last_frames": [
+    1,
+    141
+  ],
+  "mri_series": 7,
+  "eeg_embedded_series": 7,
+  "sampling_hz": 250.0,
+  "eeg_samples": 70505,
+  "eeg_sample_span_s": 282.016,
+  "eeg_trigger_count": 124,
+  "eeg_first_trigger_s": 10.864,
+  "eeg_last_trigger_s": 281.464,
+  "trigger_spacing_s": 2.2,
+  "first_trial_after_first_eeg_trigger_s": 1.132,
+  "candidate_first_fmri_frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "candidate_corresponding_first_trial_seconds_from_fmri_frame_1": [
+    1.132,
+    3.332,
+    5.532,
+    7.732,
+    9.932,
+    12.132,
+    14.332,
+    16.532000000000004,
+    18.732000000000003,
+    20.932000000000002,
+    23.132,
+    25.332000000000004,
+    27.532000000000004,
+    29.732000000000003,
+    31.932000000000006,
+    34.132,
+    36.332,
+    38.532000000000004
+  ],
+  "assumptions": [
+    "Frames 1..N are temporally ordered and equally spaced at the recorded TR.",
+    "EEG trigger array represents a consecutive one-to-one subset of the fMRI frames.",
+    "No independent absolute start-time or volume-to-trigger anchor is supplied.",
+    "These assumptions and candidate offsets have not been verified against original acquisition or GLM records."
+  ],
+  "limitations": [
+    "Series agreement is necessary consistency, not proof of correspondence.",
+    "Unknown preprocessing drops and trial timing conventions may change the mapping.",
+    "A fit selected from these offsets using the same outcomes would not be independent confirmation."
+  ]
+}

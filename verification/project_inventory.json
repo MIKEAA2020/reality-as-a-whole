@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 287,
-  "bytes": 3954019,
-  "line_count": 44584,
-  "document_count_with_risk_phrases": 270,
+  "document_count": 288,
+  "bytes": 3963129,
+  "line_count": 44645,
+  "document_count_with_risk_phrases": 271,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fe927517d4071ee6929cf84c99bb9b8ab2d27404baaf7f4e0841181beb848136",
-      "bytes": 62232,
-      "lines": 529,
+      "sha256": "09db9371a5c7aa97fdd9b340cd963dbc9ce450df31265ae55c0d000755fe5a8e",
+      "bytes": 62817,
+      "lines": 534,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2838,6 +2838,7 @@
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
         "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
+        "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
         "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -3117,6 +3118,10 @@
         "verification/roy_s09_repeated_report_pattern_test.py",
         "verification/roy_s09_report_coverage.py",
         "verification/roy_s09_report_coverage_test.py",
+        "verification/roy_s09_scan1_alignment_gate.py",
+        "verification/roy_s09_scan1_alignment_gate_test.py",
+        "verification/roy_s09_scan1_offset_sensitivity.py",
+        "verification/roy_s09_scan1_offset_sensitivity_test.py",
         "verification/roy_s09_scan_inspection.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_vs_independent_reports.py",
@@ -3177,14 +3182,14 @@
         128,
         158,
         170,
-        191,
-        235,
-        248,
-        284,
-        293,
-        296,
-        299,
-        328
+        192,
+        236,
+        249,
+        285,
+        294,
+        297,
+        300,
+        329
       ]
     },
     {
@@ -6526,6 +6531,39 @@
       ],
       "risk_phrase_lines": [
         15
+      ]
+    },
+    {
+      "path": "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
+      "sha256": "43b55e5f03dd9195e82e304208be35c133008e649979cb780039b3d8e46d1711",
+      "bytes": 8525,
+      "lines": 56,
+      "title": "S09 scan 1: all 282 fMRI files read, alignment still unresolved",
+      "headings": [
+        "S09 scan 1: all 282 fMRI files read, alignment still unresolved",
+        "Result",
+        "1. Provenance and full-series checks",
+        "2. What the count discrepancy now means",
+        "3. An exact conditional nonuniqueness gate",
+        "4. How much the offset can matter: a descriptive sensitivity calculation",
+        "5. Next boundary",
+        "Reproduction"
+      ],
+      "local_links": [
+        "ROY_S09_SCAN1_FMRI_ACCESS_AND_SAMPLE.md",
+        "verification/roy_s09_scan1_full_fmri_inventory.json",
+        "verification/roy_s09_scan1_alignment_gate.json",
+        "verification/roy_s09_scan1_alignment_gate.py",
+        "verification/roy_s09_scan1_offset_sensitivity.json",
+        "verification/roy_s09_scan1_offset_sensitivity.py"
+      ],
+      "risk_phrase_lines": [
+        12,
+        15,
+        19,
+        25,
+        27,
+        29
       ]
     },
     {
