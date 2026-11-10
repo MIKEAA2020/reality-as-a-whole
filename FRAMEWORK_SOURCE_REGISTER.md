@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 250 root Markdown documents including this register; 43 research Markdown documents.
+- 251 root Markdown documents including this register; 43 research Markdown documents.
 - 20 original uploaded files, including provenance metadata; 205 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -179,6 +179,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern
+- [ROY_S09_AUTHOR_EMAIL_DRAFT.md](ROY_S09_AUTHOR_EMAIL_DRAFT.md) — Draft email: S09 EEG–fMRI timing
 - [ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md](ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md) — S09: all nine supplied fMRI scans and structural image
 - [ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md](ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md) — Roy S09: nine scans, report coverage and a descriptive EEG contrast
 - [ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md](ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md) — S09: public condition labels and motion regressors

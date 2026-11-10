@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 293,
-  "bytes": 4007280,
-  "line_count": 44950,
+  "document_count": 294,
+  "bytes": 4010288,
+  "line_count": 44980,
   "document_count_with_risk_phrases": 273,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e6ba3c36a0b70c4844ea179ef94a20121596019176e471b96841d2df7ffdf962",
-      "bytes": 64823,
-      "lines": 551,
+      "sha256": "41dee113236ab36740c013648b4618734b6ca7671b98fc53533b676ab9ab5adf",
+      "bytes": 64927,
+      "lines": 552,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2836,6 +2836,7 @@
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+        "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
         "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
         "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
         "ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md",
@@ -3199,14 +3200,14 @@
         128,
         158,
         170,
-        197,
-        241,
-        254,
-        290,
-        299,
-        302,
-        305,
-        334
+        198,
+        242,
+        255,
+        291,
+        300,
+        303,
+        306,
+        335
       ]
     },
     {
@@ -6493,6 +6494,18 @@
       "risk_phrase_lines": []
     },
     {
+      "path": "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
+      "sha256": "cda8b7fdec0be29d82fe73cbe32a6e55f934cdc8d0d7c11d884eaed8b76c49c0",
+      "bytes": 2255,
+      "lines": 27,
+      "title": "Draft email: S09 EEG–fMRI timing",
+      "headings": [
+        "Draft email: S09 EEG–fMRI timing"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
       "path": "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
       "sha256": "9a2e3a80893b0c9658a38ae55e467f431f16a6a0ccdef136c5f233cac7b41c6e",
       "bytes": 9031,
@@ -6563,9 +6576,9 @@
     },
     {
       "path": "ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md",
-      "sha256": "f46d3eaababd27246a90012447bcc4574824b1a75554cd280948c76622d915d9",
-      "bytes": 9132,
-      "lines": 62,
+      "sha256": "256dc87cf7caedcab9a07e4194647d51268caf728c09401ab2357cd6a855106f",
+      "bytes": 9781,
+      "lines": 64,
       "title": "S09: public condition labels and motion regressors",
       "headings": [
         "S09: public condition labels and motion regressors",
@@ -6581,10 +6594,11 @@
         "verification/roy_s09_condition_coverage.json",
         "verification/roy_s09_fetch_public_support.py",
         "verification/roy_s09_public_support_audit.py",
-        "verification/roy_s09_condition_coverage.py"
+        "verification/roy_s09_condition_coverage.py",
+        "ROY_S09_AUTHOR_EMAIL_DRAFT.md"
       ],
       "risk_phrase_lines": [
-        25
+        27
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1a5e7b2e62611430b445d6b2aa53ae1b9a749d62",
-  "file_count": 968,
+  "base_head": "e2fdd983d1d8fb49d9c799692d13e907574cbd8a",
+  "file_count": 969,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 64823,
-      "sha256": "e6ba3c36a0b70c4844ea179ef94a20121596019176e471b96841d2df7ffdf962"
+      "bytes": 64927,
+      "sha256": "41dee113236ab36740c013648b4618734b6ca7671b98fc53533b676ab9ab5adf"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -854,6 +854,11 @@
       "sha256": "067d86dcba4204a9edf087f4fd0d6c102c6093b371a204259d69bc28d21a743d"
     },
     {
+      "path": "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
+      "bytes": 2255,
+      "sha256": "cda8b7fdec0be29d82fe73cbe32a6e55f934cdc8d0d7c11d884eaed8b76c49c0"
+    },
+    {
       "path": "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
       "bytes": 9031,
       "sha256": "9a2e3a80893b0c9658a38ae55e467f431f16a6a0ccdef136c5f233cac7b41c6e"
@@ -865,8 +870,8 @@
     },
     {
       "path": "ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md",
-      "bytes": 9132,
-      "sha256": "f46d3eaababd27246a90012447bcc4574824b1a75554cd280948c76622d915d9"
+      "bytes": 9781,
+      "sha256": "256dc87cf7caedcab9a07e4194647d51268caf728c09401ab2357cd6a855106f"
     },
     {
       "path": "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
@@ -3700,8 +3705,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 374796,
-      "sha256": "e1eb04a1372dbff9fbd404c4a254533e8b7c41d6c84498eb3a8658614f82bbd3"
+      "bytes": 375244,
+      "sha256": "ae9ccc6b1df16e9e17c28aac9975fe7dd75ba3c36830edf118ca5fc28a99b4d3"
     },
     {
       "path": "verification/project_inventory.py",
