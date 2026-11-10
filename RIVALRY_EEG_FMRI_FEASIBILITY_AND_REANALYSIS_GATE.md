@@ -1,5 +1,7 @@
 # Can an EEG–fMRI rivalry dataset test the experience bridge?
 
+> **Update:** see the [S09 public-support audit](ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md) for the documented scan-condition order, public motion files and remaining timing limits.
+
 ## Decision
 
 The Roy–Jamison dataset is a useful **retrospective test of whether a frequency-tagged EEG decoder tracks a participant's continuous reports**, and potentially of EEG-informed fMRI contrasts. It is **not** the prospective random-prompt, motion/eye-tracking experiment in [the existing audit protocol](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md). It cannot by itself establish an error rate against experience, isolate phenomenal constitution, distinguish the C/M subject rules, or test their intervention gate.

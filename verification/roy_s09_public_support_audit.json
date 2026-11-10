@@ -1,0 +1,156 @@
+{
+  "kind": "documented scan labels and public motion file QC, not trial or timing validation",
+  "pinned_reanalysis_commit": "b8ca204024a4f7151645c6c2e908eb564203ac66",
+  "readme_pdf_sha256": "119e6f1de2089b305ce5a28a98b4f7dc0f9a9fba9c75a4413c896188c56a8003",
+  "condition_script_sha256": "8e25a8dea806160f73940400551cde4f291e67b7c639c7f9b3b7fe472efeaaf9",
+  "readme_and_reanalysis_lists_agree": true,
+  "rivalry_indices": [
+    1,
+    2,
+    3,
+    5,
+    7
+  ],
+  "smooth_replay_indices": [
+    4,
+    6
+  ],
+  "instantaneous_replay_indices": [
+    8,
+    9
+  ],
+  "scans": [
+    {
+      "scan": 1,
+      "documented_condition": "rivalry",
+      "mri_series": 7,
+      "mri_volumes": 141,
+      "eeg_triggers": 124,
+      "motion_rows": 141,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 141,
+      "mask_all_ones": true,
+      "motion_sha256": "8bc7b0b3cb3fb7c6510b31e08394e26bda1057d2a12cfb6a7040dffaffe912d7",
+      "mask_sha256": "c603d981ee4357b3f72a31940f68e365654e268bf04b87dd3293c6967798efd5"
+    },
+    {
+      "scan": 2,
+      "documented_condition": "rivalry",
+      "mri_series": 9,
+      "mri_volumes": 141,
+      "eeg_triggers": 124,
+      "motion_rows": 141,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 141,
+      "mask_all_ones": true,
+      "motion_sha256": "6c3436fa846a6457c3e8ce009c09cd12d56f93341eddb3f2253a70855b9f5ad2",
+      "mask_sha256": "c603d981ee4357b3f72a31940f68e365654e268bf04b87dd3293c6967798efd5"
+    },
+    {
+      "scan": 3,
+      "documented_condition": "rivalry",
+      "mri_series": 10,
+      "mri_volumes": 129,
+      "eeg_triggers": 127,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "a58274461c142396a90f82bf31adafaedcf7328d37ededc8de9100feda4a9fd3",
+      "mask_sha256": "12ab5041000e3236f6494ec5c3183889917b208882b199b665b38cdc95a362a9"
+    },
+    {
+      "scan": 4,
+      "documented_condition": "replay_smooth",
+      "mri_series": 11,
+      "mri_volumes": 129,
+      "eeg_triggers": 126,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "7b394e62ccc641469109a90b544690ea6a076571ad17ddfbaa7c07f008975f15",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    },
+    {
+      "scan": 5,
+      "documented_condition": "rivalry",
+      "mri_series": 12,
+      "mri_volumes": 129,
+      "eeg_triggers": 124,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "14b714928314d5bd0acc246dccbc16e5c49bbf4217817bfa2bb2babaa5c78f24",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    },
+    {
+      "scan": 6,
+      "documented_condition": "replay_smooth",
+      "mri_series": 13,
+      "mri_volumes": 129,
+      "eeg_triggers": 124,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "aebc6e5a38e252e856326103d97924b4a124ed0f600df2dcc4214ae43c4cbb51",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    },
+    {
+      "scan": 7,
+      "documented_condition": "rivalry",
+      "mri_series": 16,
+      "mri_volumes": 129,
+      "eeg_triggers": 126,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "233bd31e8b4db52f2d1b73dcad99043c1db37cf2d4cc689a8fa3557563b5f857",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    },
+    {
+      "scan": 8,
+      "documented_condition": "replay_inst",
+      "mri_series": 17,
+      "mri_volumes": 129,
+      "eeg_triggers": 124,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "6ce8c94a8c82affdd973c95ad4500d6bb8ca2320ec62067fa900fcb4f54e7cd8",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    },
+    {
+      "scan": 9,
+      "documented_condition": "replay_inst",
+      "mri_series": 18,
+      "mri_volumes": 129,
+      "eeg_triggers": 125,
+      "motion_rows": 129,
+      "motion_columns": 6,
+      "motion_all_finite": true,
+      "mask_rows": 129,
+      "mask_all_ones": true,
+      "motion_sha256": "0901c8a75e8831c7aed33c96e1abf676784fbbf58f51ec1148ee090e251b7f13",
+      "mask_sha256": "28d1eaf29e1727da1dd4d817795aef91911ab7670918dd4edcfd196c74efcc33"
+    }
+  ],
+  "limitations": [
+    "README and reanalysis lists may share provenance; agreement is not independent confirmation of acquisition.",
+    "Motion filename series and row counts match MRI inventories; row-by-frame identity and timing are not proven.",
+    "Mask all-ones is descriptive, not an asserted censor convention or quality certificate.",
+    "No original SPM design, per-trial eye/replay mapping or EEG-to-MRI start anchor is established."
+  ]
+}

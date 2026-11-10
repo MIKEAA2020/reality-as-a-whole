@@ -1,5 +1,7 @@
 # Roy S09: nine scans, report coverage and a descriptive EEG contrast
 
+> **Update:** the README's original layout and reanalysis code now document the S09 scan-condition order. See [the public-support audit](ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md). Earlier statements below that scan labels are unverified describe the earlier state; trial-level replay lineage and eye mappings remain unverified.
+
 ## Scope
 
 The user supplied the remaining three EEG scans, S09 scans 1–3. They were downloaded **one at a time**, examined and verified against their Dropbox file hashes. Together with the previously processed scans 4–9, this provides summaries of **nine scans from one participant**. The full ZIP was not downloaded, and raw EEG files were not committed.

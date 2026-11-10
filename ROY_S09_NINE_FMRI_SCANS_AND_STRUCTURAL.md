@@ -1,5 +1,7 @@
 # S09: all nine supplied fMRI scans and structural image
 
+> **Update:** the [public-support audit](ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md) documents the scan-condition order from the README and finds nine matching public motion files. This does not resolve the independent EEG-to-volume anchor or motion-row correspondence.
+
 ## Results
 
 Every file in the supplied scan-4, scan-5 and scan-6 ZIPs was read: **258 files per ZIP, 129 complete MRI header/image pairs per scan**, with indices 1–129, no other files and no gaps within the observed range. The separately supplied structural ZIP contains **two files**, a complete structural header/image pair; both were read in full.
