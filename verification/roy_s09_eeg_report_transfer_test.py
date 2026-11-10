@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Synthetic-only tests; do not validate participant labels or experience."""
+import tempfile
+from pathlib import Path
 import numpy as np
-from roy_s09_eeg_report_transfer import feature, train, assess
+from scipy.io import savemat
+from roy_s09_eeg_report_transfer import feature, train, assess, read_windows, sha
 
 
 def row(slot,label,bad=False,z=None):return {'slot':slot,'label':label,'bad':bad,'feature':z}
@@ -33,7 +36,29 @@ def main():
         except ValueError:pass
         else:raise AssertionError('Missing class or nonfinite feature must stop')
     assert model==train(training), 'Test evaluation may not alter fitted model'
-    print('PASS: spectral ordering, fit isolation, ties, baseline, confusion and abstention')
+    # Build a five-trial MATLAB fixture with one-based sample event latencies.
+    with tempfile.TemporaryDirectory() as tmp:
+        path=Path(tmp)/'synthetic.mat'; n=5*42*fs; signal=np.zeros(n);t=np.arange(n)/fs
+        starts=np.arange(5)*42*fs
+        for start in starts:
+            signal[start:start+20*fs]=np.sin(2*np.pi*low*t[start:start+20*fs])
+            signal[start+20*fs:start+42*fs]=np.sin(2*np.pi*high*t[start+20*fs:start+42*fs])
+        bad=np.zeros(n,dtype=bool);bad[0]=True
+        savemat(path,{'sampling_freq':fs,'freqtag1':low,'freqtag2':high,
+            'chanlabels':np.array(['POz','Cz'],dtype=object),
+            'EEG':{'data':np.vstack([signal,np.zeros(n)]),'srate':fs},'bad_epoch':bad,
+            'latency_trial':starts+1,'latency_s1':starts+1,
+            'latency_s2':starts+20*fs+1,'latency_s3':starts+40*fs+1})
+        windows=read_windows(path,sha(path));fitted=train(windows);summary=assess(windows,fitted)
+        assert len(windows)==105 and fitted['training_pure_clean_code1']==49
+        assert fitted['training_pure_clean_code2']==50
+        assert summary['unresolved_report_windows']==5 and summary['pure_report_but_bad_epoch_windows']==1
+        assert summary['models']['eeg']['pure_clean_accuracy']==1
+        assert summary['models']['eeg']['full_grid_correct_fraction']==99/105
+        try:read_windows(path,'wrong-hash')
+        except ValueError:pass
+        else:raise AssertionError('Hash mismatch must stop')
+    print('PASS: spectral ordering, MAT event reconstruction, fit isolation, baselines, confusion and abstention')
 
 
 if __name__=='__main__':main()

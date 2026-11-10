@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e2fdd983d1d8fb49d9c799692d13e907574cbd8a",
-  "file_count": 969,
+  "base_head": "12fc197ca5794557e61be5a63a577dce608c4ed5",
+  "file_count": 974,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 64927,
-      "sha256": "41dee113236ab36740c013648b4618734b6ca7671b98fc53533b676ab9ab5adf"
+      "bytes": 65377,
+      "sha256": "037c7bfc2cdbf065498d75f77eaee7d22dc8e30c3f61dca9c1c64c76d781c645"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -857,6 +857,16 @@
       "path": "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
       "bytes": 2255,
       "sha256": "cda8b7fdec0be29d82fe73cbe32a6e55f934cdc8d0d7c11d884eaed8b76c49c0"
+    },
+    {
+      "path": "ROY_S09_EEG_REPORT_HELD_OUT_PLAN.md",
+      "bytes": 3902,
+      "sha256": "94adb1f4155337771a5f7d8940f3c60985cf71f0d30c1cba2215441a8fe12cb7"
+    },
+    {
+      "path": "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
+      "bytes": 7687,
+      "sha256": "ee1c26690151ee3184430f42f0695d4149081b8dec45784945b276cf7e07507b"
     },
     {
       "path": "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
@@ -3705,8 +3715,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 375244,
-      "sha256": "ae9ccc6b1df16e9e17c28aac9975fe7dd75ba3c36830edf118ca5fc28a99b4d3"
+      "bytes": 376615,
+      "sha256": "76d74041b2955339367c15308fea4b76f3c54ca222f8f356473b783da7c10dbc"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3972,6 +3982,21 @@
       "path": "verification/roy_s09_descriptive_tag_report_test.py",
       "bytes": 1687,
       "sha256": "a917e332c9eae974b0d098e117644cab34abccb8aeb218411b20ad2021aff140"
+    },
+    {
+      "path": "verification/roy_s09_eeg_report_transfer.json",
+      "bytes": 11138,
+      "sha256": "e0fc24df635f94f9ee0ce8ec3cb21825fa55ccc035bf4ce3091cf6b562cdebc9"
+    },
+    {
+      "path": "verification/roy_s09_eeg_report_transfer.py",
+      "bytes": 7431,
+      "sha256": "20920a1da08301f116e3a7841dacd9727ab471b6f6343f5362cd52dcccde2858"
+    },
+    {
+      "path": "verification/roy_s09_eeg_report_transfer_test.py",
+      "bytes": 3548,
+      "sha256": "b3f8749b6ebe9e01061dcf4df02297a4e0f54a8378470b36939927d6577bd387"
     },
     {
       "path": "verification/roy_s09_event_similarity_screen.py",
