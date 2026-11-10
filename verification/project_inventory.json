@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 291,
-  "bytes": 3987492,
-  "line_count": 44804,
+  "document_count": 292,
+  "bytes": 3996599,
+  "line_count": 44875,
   "document_count_with_risk_phrases": 272,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "702b955f3161406af76e6039ac763dcf1f5271aace31d0c1aaaa2136304df12e",
-      "bytes": 63723,
-      "lines": 541,
+      "sha256": "a6510aef18811a36c811c2fed27e0cb64d39c142cc2e146db96ac571d1222cff",
+      "bytes": 64075,
+      "lines": 544,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2836,6 +2836,7 @@
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
+        "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
         "ROY_S09_NINE_SCAN_COVERAGE_AND_DESCRIPTIVE_EEG.md",
         "ROY_S09_REPORT_COVERAGE_AND_DECODER_FLOOR.md",
         "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
@@ -3130,6 +3131,8 @@
         "verification/roy_s09_scan_inspection.py",
         "verification/roy_s09_two_scan_offset_comparison.py",
         "verification/roy_s09_two_scan_offset_comparison_test.py",
+        "verification/roy_structural_pair_inventory.py",
+        "verification/roy_structural_pair_inventory_test.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_vs_independent_reports.py",
         "verification/shlaer_time_comparison.py",
@@ -3189,14 +3192,14 @@
         128,
         158,
         170,
-        195,
-        239,
-        252,
-        288,
-        297,
-        300,
-        303,
-        332
+        196,
+        240,
+        253,
+        289,
+        298,
+        301,
+        304,
+        333
       ]
     },
     {
@@ -6478,6 +6481,38 @@
         "verification/roy_s09_scans4_to6_report_coverage.json",
         "verification/roy_s09_report_coverage.json",
         "verification/roy_s09_repeated_report_pattern.json"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
+      "sha256": "b9d38d6da63b497607f285002dcdd15e0ccfd4a327c180787bce9f86ea84d834",
+      "bytes": 8755,
+      "lines": 68,
+      "title": "S09: all nine supplied fMRI scans and structural image",
+      "headings": [
+        "S09: all nine supplied fMRI scans and structural image",
+        "Results",
+        "Functional integrity and provenance",
+        "Structural image",
+        "Analysis boundary and next step",
+        "Reproduction"
+      ],
+      "local_links": [
+        "verification/roy_s09_nine_scan_mri_summary.json",
+        "verification/roy_s09_scan4_full_fmri_inventory.json",
+        "verification/roy_s09_scan4_alignment_gate.json",
+        "verification/roy_s09_scan4_offset_sensitivity.json",
+        "verification/roy_s09_scan5_full_fmri_inventory.json",
+        "verification/roy_s09_scan5_alignment_gate.json",
+        "verification/roy_s09_scan5_offset_sensitivity.json",
+        "verification/roy_s09_scan6_full_fmri_inventory.json",
+        "verification/roy_s09_scan6_alignment_gate.json",
+        "verification/roy_s09_scan6_offset_sensitivity.json",
+        "ROY_S09_SCAN2_ALL_FMRI_VOLUMES_AND_COMPARISON.md",
+        "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
+        "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
+        "verification/roy_s09_structural_inventory.json"
       ],
       "risk_phrase_lines": []
     },

@@ -1,0 +1,482 @@
+{
+  "kind": "file inventory and conditional alignment summary, not an fMRI contrast",
+  "assumptions": [
+    "EEG marker subset maps consecutively and one-to-one to chronologically ordered MRI frames at recorded TR; not independently verified.",
+    "Candidate enumeration is not a count of proven physically feasible alignments."
+  ],
+  "limitations": [
+    "Matching series numbers and distinct image hashes do not prove temporal alignment or experimental independence.",
+    "Correlations are exploratory global-mean QC, not nuisance-corrected GLM estimates or consciousness measurements.",
+    "Source ZIPs are not checked against the original release subject archive manifest."
+  ],
+  "scans": [
+    {
+      "scan": 1,
+      "mri_pairs": 141,
+      "pair_files_read": 282,
+      "other_files_ignored": 0,
+      "mri_series": 7,
+      "unique_payload_hashes": 141,
+      "eeg_tr_markers": 124,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "descriptive_correlation_range": [
+        -0.16801227823088144,
+        0.39212432377692524
+      ]
+    },
+    {
+      "scan": 2,
+      "mri_pairs": 141,
+      "pair_files_read": 282,
+      "other_files_ignored": 0,
+      "mri_series": 9,
+      "unique_payload_hashes": 141,
+      "eeg_tr_markers": 124,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "descriptive_correlation_range": [
+        0.1190839470492186,
+        0.5608911141776709
+      ]
+    },
+    {
+      "scan": 3,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 10,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 127,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3
+      ],
+      "descriptive_correlation_range": [
+        -0.1618429701080175,
+        -0.13852884518971864
+      ]
+    },
+    {
+      "scan": 4,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 11,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 126,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descriptive_correlation_range": [
+        0.10131600723348669,
+        0.23521774172695334
+      ]
+    },
+    {
+      "scan": 5,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 12,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 124,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descriptive_correlation_range": [
+        -0.23443263349849316,
+        -0.1135506645395329
+      ]
+    },
+    {
+      "scan": 6,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 13,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 124,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descriptive_correlation_range": [
+        -0.22057954149856407,
+        -0.09963784221435484
+      ]
+    },
+    {
+      "scan": 7,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 16,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 126,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descriptive_correlation_range": [
+        -0.14786587863514603,
+        -0.13075892334396613
+      ]
+    },
+    {
+      "scan": 8,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 17,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 124,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descriptive_correlation_range": [
+        0.06204505318764262,
+        0.16092463886536282
+      ]
+    },
+    {
+      "scan": 9,
+      "mri_pairs": 129,
+      "pair_files_read": 258,
+      "other_files_ignored": 0,
+      "mri_series": 18,
+      "unique_payload_hashes": 129,
+      "eeg_tr_markers": 125,
+      "trigger_spacing_s": 2.2,
+      "conditional_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descriptive_correlation_range": [
+        -0.06332964304210133,
+        0.037483588827298374
+      ]
+    }
+  ],
+  "pairwise_payload_hash_overlap": [
+    {
+      "scans": [
+        1,
+        2
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        3
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        4
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        5
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        6
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        1,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        3
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        4
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        5
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        6
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        2,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        4
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        5
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        6
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        3,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        4,
+        5
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        4,
+        6
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        4,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        4,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        4,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        5,
+        6
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        5,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        5,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        5,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        6,
+        7
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        6,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        6,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        7,
+        8
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        7,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    },
+    {
+      "scans": [
+        8,
+        9
+      ],
+      "shared_image_payload_hashes": 0
+    }
+  ]
+}

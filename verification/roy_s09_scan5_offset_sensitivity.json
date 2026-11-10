@@ -1,0 +1,52 @@
+{
+  "kind": "observed data + hypothetical offset sensitivity, not inferential GLM",
+  "eeg_sha256": "0173436c473a145546b275fa4c4c30b5dab17ba24d7b550cfa5b2e0a09718fa1",
+  "mri_inventory_sha256": "5a725d84d64323eea6e42e9a49c5d37b87e59f479f8082a5eba54ed12635dc39",
+  "volumes": 129,
+  "candidate_count": 6,
+  "whole_field_mean_across_volumes": 4529.496216946863,
+  "whole_field_mean_sample_sd": 8.251050338550233,
+  "pearson_r_range": [
+    -0.23443263349849316,
+    -0.1135506645395329
+  ],
+  "all_candidates": [
+    {
+      "first_trigger_frame": 1,
+      "pearson_r": -0.1135506645395329
+    },
+    {
+      "first_trigger_frame": 2,
+      "pearson_r": -0.14855060399037898
+    },
+    {
+      "first_trigger_frame": 3,
+      "pearson_r": -0.20675378552822177
+    },
+    {
+      "first_trigger_frame": 4,
+      "pearson_r": -0.23443263349849316
+    },
+    {
+      "first_trigger_frame": 5,
+      "pearson_r": -0.2085305624337921
+    },
+    {
+      "first_trigger_frame": 6,
+      "pearson_r": -0.1420202275454166
+    }
+  ],
+  "assumptions": [
+    "Frame indices 1..129 are temporally ordered with 2.2 s spacing.",
+    "All 124 EEG triggers align to a consecutive one-to-one subset of frames.",
+    "Each trial trigger corresponds to onset of a 42 s block.",
+    "Fixed double-gamma HRF: Gamma(6,1) minus Gamma(16,1)/6.",
+    "Global mean includes all voxels, including zero-valued background."
+  ],
+  "limitations": [
+    "None of the 6 candidate offsets is established by these observations.",
+    "No prewhitening, drift, motion, design collinearity or multiple-comparison control.",
+    "Computed correlations are descriptive and do not test a rivalry, awareness or causal claim.",
+    "Do not select the most favorable alignment based on these correlations."
+  ]
+}

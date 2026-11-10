@@ -1,0 +1,61 @@
+{
+  "kind": "structural pair file and voxel QC, not anatomy or registration validation",
+  "pair_files_read": 2,
+  "header_bytes": 348,
+  "image_bytes": 92274688,
+  "header_sha256": "bf6b7632b298990c5b0e01304e28e24338ea7ee510cfc62fc7db2628bcfa268e",
+  "image_sha256": "ca65ec70a256af51107ef2f09f9afeda03cfb3637c404b05cdc56b7f506d5b10",
+  "geometry": {
+    "shape": [
+      256,
+      256,
+      176
+    ],
+    "dtype": "float64",
+    "zooms_mm": [
+      1.0,
+      0.9999999403953552,
+      0.9999999403953552
+    ],
+    "affine": [
+      [
+        -0.018554411828517914,
+        0.1241186186671257,
+        0.9920938611030579,
+        -102.68879699707031
+      ],
+      [
+        -0.9998242855072021,
+        -0.0049550700932741165,
+        -0.01807907037436962,
+        194.10952758789062
+      ],
+      [
+        -0.0026719458401203156,
+        0.9922549724578857,
+        -0.12418874353170395,
+        -140.12998962402344
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "qform_code": 2,
+    "sform_code": 2
+  },
+  "voxel_qc": {
+    "all_finite": true,
+    "nonzero_voxels": 9929814,
+    "min_scaled": 0.0,
+    "max_scaled": 1933.8046875,
+    "mean_scaled": 88.31802389970466
+  },
+  "limitations": [
+    "No visual or automated anatomical assessment or defacing validation.",
+    "Header coordinate information does not establish structural-to-functional registration.",
+    "No clinical assessment, segmentations, event timing or evidence of subjective experience."
+  ]
+}
