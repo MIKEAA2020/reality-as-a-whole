@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 297,
-  "bytes": 4027328,
-  "line_count": 45083,
-  "document_count_with_risk_phrases": 273,
+  "document_count": 298,
+  "bytes": 4035413,
+  "line_count": 45128,
+  "document_count_with_risk_phrases": 274,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "17cf61053f829f27bbb0e403da963728e1ca7e42d9356c7011bc6d135e6cf7d8",
-      "bytes": 65746,
-      "lines": 559,
+      "sha256": "1821c5382654f527df972923ebc7a5d311d8fd3b750623a4d4fa5840cd1efe33",
+      "bytes": 66048,
+      "lines": 562,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2835,6 +2835,7 @@
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
         "ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md",
@@ -3119,6 +3120,8 @@
         "verification/robust_disclosure_separation.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
+        "verification/roy_s08_fixed_transfer.py",
+        "verification/roy_s08_fixed_transfer_test.py",
         "verification/roy_s09_condition_coverage.py",
         "verification/roy_s09_condition_coverage_test.py",
         "verification/roy_s09_descriptive_tag_report.py",
@@ -3207,14 +3210,14 @@
         128,
         158,
         170,
-        201,
-        245,
-        258,
-        294,
-        303,
-        306,
-        309,
-        338
+        202,
+        246,
+        259,
+        295,
+        304,
+        307,
+        310,
+        339
       ]
     },
     {
@@ -6471,6 +6474,28 @@
         83,
         88,
         92
+      ]
+    },
+    {
+      "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
+      "sha256": "e783a22ffc44d4ea6d354d581f2d2409c624faa01de43365630fdc2c5214e66a",
+      "bytes": 7783,
+      "lines": 42,
+      "title": "Frozen S09-to-S08 EEG/report transfer protocol",
+      "headings": [
+        "Frozen S09-to-S08 EEG/report transfer protocol",
+        "Status and purpose",
+        "Fixed analysis",
+        "Inputs, stops and reproducibility",
+        "Framework significance and next scale"
+      ],
+      "local_links": [
+        "verification/roy_s09_eeg_report_transfer.json",
+        "verification/roy_s09_eeg_report_transfer.py",
+        "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        22
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "69e9e55d904626032f2dda92729c91b035ec57df",
-  "file_count": 978,
+  "base_head": "35024652cafef0a7c33e439f4b15e5a750495f85",
+  "file_count": 981,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 65746,
-      "sha256": "17cf61053f829f27bbb0e403da963728e1ca7e42d9356c7011bc6d135e6cf7d8"
+      "bytes": 66048,
+      "sha256": "1821c5382654f527df972923ebc7a5d311d8fd3b750623a4d4fa5840cd1efe33"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -847,6 +847,11 @@
       "path": "ROBUST_EXPERIENTIAL_CONTRAST.md",
       "bytes": 10505,
       "sha256": "398e63301456defd22f6ec829125311f11895ca6e7da906a03b9b45792d2fbdc"
+    },
+    {
+      "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
+      "bytes": 7783,
+      "sha256": "e783a22ffc44d4ea6d354d581f2d2409c624faa01de43365630fdc2c5214e66a"
     },
     {
       "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -3720,8 +3725,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 377523,
-      "sha256": "05e3875475d7a762b707d46586dab55c6a1fe609111383fda1e9054f3e2bb41b"
+      "bytes": 378418,
+      "sha256": "069d5da2de52383f8c48ad8d64b6589348ea864a790dad4fbfeca609c955458e"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3962,6 +3967,16 @@
       "path": "verification/roy_mri_pair_inventory_test.py",
       "bytes": 1476,
       "sha256": "3e72f48426fd93ca87f5594afddd6c3e67716c9fc8dc8169078745cc587ce7b3"
+    },
+    {
+      "path": "verification/roy_s08_fixed_transfer.py",
+      "bytes": 3802,
+      "sha256": "805479b48908258e2426676a9bb75bd1ac7870cd1234107d91ed09960ec9ec0c"
+    },
+    {
+      "path": "verification/roy_s08_fixed_transfer_test.py",
+      "bytes": 3182,
+      "sha256": "f306fb8c96af253678467439a1b309417a756055a9bb9dd747c2f28185f220ec"
     },
     {
       "path": "verification/roy_s09_condition_coverage.json",
