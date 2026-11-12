@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 298,
-  "bytes": 4035413,
-  "line_count": 45128,
+  "document_count": 299,
+  "bytes": 4042933,
+  "line_count": 45172,
   "document_count_with_risk_phrases": 274,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2653,9 +2653,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1821c5382654f527df972923ebc7a5d311d8fd3b750623a4d4fa5840cd1efe33",
-      "bytes": 66048,
-      "lines": 562,
+      "sha256": "88e351802e179df54c26c158cde4c7df6466f64b2bcdeb1ed28fc0f81546b508",
+      "bytes": 66419,
+      "lines": 566,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2836,6 +2836,7 @@
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
+        "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
         "ROY_S09_AUTHOR_EMAIL_DRAFT.md",
         "ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md",
@@ -3122,6 +3123,9 @@
         "verification/roy_mri_pair_inventory_test.py",
         "verification/roy_s08_fixed_transfer.py",
         "verification/roy_s08_fixed_transfer_test.py",
+        "verification/roy_s08_mri_qc.py",
+        "verification/roy_s08_mri_qc_test.py",
+        "verification/roy_s08_report_code_audit.py",
         "verification/roy_s09_condition_coverage.py",
         "verification/roy_s09_condition_coverage_test.py",
         "verification/roy_s09_descriptive_tag_report.py",
@@ -3210,14 +3214,14 @@
         128,
         158,
         170,
-        202,
-        246,
-        259,
-        295,
-        304,
-        307,
-        310,
-        339
+        203,
+        247,
+        260,
+        296,
+        305,
+        308,
+        311,
+        340
       ]
     },
     {
@@ -6497,6 +6501,31 @@
       "risk_phrase_lines": [
         22
       ]
+    },
+    {
+      "path": "ROY_S08_FIXED_TRANSFER_RESULTS.md",
+      "sha256": "f9e14106446b8afcc0d5af1df37ba5ca4200afb1e08429872ea99b13b97fa92e",
+      "bytes": 7149,
+      "lines": 40,
+      "title": "Fixed S09-to-S08 EEG/report transfer: results and archive QC",
+      "headings": [
+        "Fixed S09-to-S08 EEG/report transfer: results and archive QC",
+        "Main finding",
+        "What the scores do and do not mean",
+        "Input, coding and condition checks",
+        "Supplied fMRI scan ZIPs",
+        "Reproducibility and next step"
+      ],
+      "local_links": [
+        "verification/roy_s08_fixed_transfer.json",
+        "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
+        "verification/roy_s08_report_code_audit.json",
+        "verification/roy_s08_mri_qc.json",
+        "verification/roy_s08_fixed_transfer.py",
+        "verification/roy_s08_report_code_audit.py",
+        "verification/roy_s08_mri_qc.py"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",

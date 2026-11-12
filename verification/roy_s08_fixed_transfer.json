@@ -1,0 +1,285 @@
+{
+  "kind": "fixed S09-to-S08 retrospective report-agreement feasibility, not experience calibration",
+  "train_participant": "S09",
+  "test_participant": "S08",
+  "test_scans": [
+    1,
+    3,
+    5
+  ],
+  "model": {
+    "mean_code1": 0.01598754217666589,
+    "mean_code2": 0.2368399778715139,
+    "majority": 2,
+    "slot_rules": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "training_pure_clean_code1": 39,
+    "training_pure_clean_code2": 57
+  },
+  "results": {
+    "1": {
+      "total_windows": 105,
+      "unresolved_report_windows": 80,
+      "pure_report_but_bad_epoch_windows": 1,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              9,
+              5
+            ],
+            [
+              2,
+              8
+            ]
+          ],
+          "pure_clean_windows": 24,
+          "pure_clean_accuracy": 0.7083333333333334,
+          "pure_clean_balanced_accuracy": 0.7214285714285715,
+          "full_grid_correct_fraction": 0.1619047619047619,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8380952380952381
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              14
+            ],
+            [
+              0,
+              10
+            ]
+          ],
+          "pure_clean_windows": 24,
+          "pure_clean_accuracy": 0.4166666666666667,
+          "pure_clean_balanced_accuracy": 0.5,
+          "full_grid_correct_fraction": 0.09523809523809523,
+          "full_grid_disagreement_or_unresolved_fraction": 0.9047619047619048
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              3,
+              11
+            ],
+            [
+              2,
+              8
+            ]
+          ],
+          "pure_clean_windows": 24,
+          "pure_clean_accuracy": 0.4583333333333333,
+          "pure_clean_balanced_accuracy": 0.5071428571428571,
+          "full_grid_correct_fraction": 0.10476190476190476,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8952380952380953
+        }
+      }
+    },
+    "3": {
+      "total_windows": 105,
+      "unresolved_report_windows": 73,
+      "pure_report_but_bad_epoch_windows": 1,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              9,
+              2
+            ],
+            [
+              10,
+              10
+            ]
+          ],
+          "pure_clean_windows": 31,
+          "pure_clean_accuracy": 0.6129032258064516,
+          "pure_clean_balanced_accuracy": 0.6590909090909092,
+          "full_grid_correct_fraction": 0.18095238095238095,
+          "full_grid_disagreement_or_unresolved_fraction": 0.819047619047619
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              11
+            ],
+            [
+              0,
+              20
+            ]
+          ],
+          "pure_clean_windows": 31,
+          "pure_clean_accuracy": 0.6451612903225806,
+          "pure_clean_balanced_accuracy": 0.5,
+          "full_grid_correct_fraction": 0.19047619047619047,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8095238095238095
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              6,
+              5
+            ],
+            [
+              1,
+              19
+            ]
+          ],
+          "pure_clean_windows": 31,
+          "pure_clean_accuracy": 0.8064516129032258,
+          "pure_clean_balanced_accuracy": 0.7477272727272727,
+          "full_grid_correct_fraction": 0.23809523809523808,
+          "full_grid_disagreement_or_unresolved_fraction": 0.7619047619047619
+        }
+      }
+    },
+    "5": {
+      "total_windows": 105,
+      "unresolved_report_windows": 79,
+      "pure_report_but_bad_epoch_windows": 0,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              9,
+              5
+            ],
+            [
+              9,
+              3
+            ]
+          ],
+          "pure_clean_windows": 26,
+          "pure_clean_accuracy": 0.46153846153846156,
+          "pure_clean_balanced_accuracy": 0.44642857142857145,
+          "full_grid_correct_fraction": 0.11428571428571428,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8857142857142857
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              14
+            ],
+            [
+              0,
+              12
+            ]
+          ],
+          "pure_clean_windows": 26,
+          "pure_clean_accuracy": 0.46153846153846156,
+          "pure_clean_balanced_accuracy": 0.5,
+          "full_grid_correct_fraction": 0.11428571428571428,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8857142857142857
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              4,
+              10
+            ],
+            [
+              4,
+              8
+            ]
+          ],
+          "pure_clean_windows": 26,
+          "pure_clean_accuracy": 0.46153846153846156,
+          "pure_clean_balanced_accuracy": 0.47619047619047616,
+          "full_grid_correct_fraction": 0.11428571428571428,
+          "full_grid_disagreement_or_unresolved_fraction": 0.8857142857142857
+        }
+      }
+    }
+  },
+  "pooled_descriptive": {
+    "total_windows": 315,
+    "unresolved_report_windows": 232,
+    "pure_report_but_bad_epoch_windows": 2,
+    "models": {
+      "eeg": {
+        "confusion_true_rows_pred_columns": [
+          [
+            27,
+            12
+          ],
+          [
+            21,
+            21
+          ]
+        ],
+        "pure_clean_windows": 81,
+        "pure_clean_accuracy": 0.5925925925925926,
+        "pure_clean_balanced_accuracy": 0.5961538461538461,
+        "full_grid_correct_fraction": 0.1523809523809524,
+        "full_grid_disagreement_or_unresolved_fraction": 0.8476190476190476
+      },
+      "majority": {
+        "confusion_true_rows_pred_columns": [
+          [
+            0,
+            39
+          ],
+          [
+            0,
+            42
+          ]
+        ],
+        "pure_clean_windows": 81,
+        "pure_clean_accuracy": 0.5185185185185185,
+        "pure_clean_balanced_accuracy": 0.5,
+        "full_grid_correct_fraction": 0.13333333333333333,
+        "full_grid_disagreement_or_unresolved_fraction": 0.8666666666666667
+      },
+      "time_only": {
+        "confusion_true_rows_pred_columns": [
+          [
+            13,
+            26
+          ],
+          [
+            7,
+            35
+          ]
+        ],
+        "pure_clean_windows": 81,
+        "pure_clean_accuracy": 0.5925925925925926,
+        "pure_clean_balanced_accuracy": 0.5833333333333334,
+        "full_grid_correct_fraction": 0.1523809523809524,
+        "full_grid_disagreement_or_unresolved_fraction": 0.8476190476190476
+      }
+    }
+  },
+  "input_sha256": {
+    "1": "0ea46d49eeb8b4fce5bf7ff0f0726ebf1a75e0b1fa16496cb309c07b3544493f",
+    "3": "05e7195b2c5df9357b0e079a3ef021edaae65666f5285618453cbaccd29c2916",
+    "5": "9dda27e8dfa198986f1697c8d41837c00eccff544c80ccc5cbd809f289c96939"
+  },
+  "limitations": [
+    "Condition and event mapping are externally attested, not proved by this script.",
+    "S09 model was selected post-hoc; this is not prospective preregistration or independent cohort replication.",
+    "S08 windows are report-selected and dependent; full-grid failure includes unresolved windows.",
+    "Agreement with reports does not establish agreement with experience."
+  ]
+}

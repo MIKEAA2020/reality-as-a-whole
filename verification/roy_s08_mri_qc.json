@@ -1,0 +1,222 @@
+{
+  "kind": "three scan archive QC, not temporal alignment or fMRI GLM",
+  "scans": {
+    "1": {
+      "zip_sha256": "e0b7522704f38a18fbb1eb310004f92fa1dd259deb3ec00b34d1448502985a3d",
+      "dropbox_hash_matches": true,
+      "volumes_read": 141,
+      "pair_files_read": 282,
+      "other_files_read": 0,
+      "other_bytes_read": 0,
+      "frame_min": 1,
+      "frame_max": 141,
+      "missing_frames": [],
+      "geometry": {
+        "shape": [
+          53,
+          63,
+          46
+        ],
+        "dtype": "uint16",
+        "zooms_mm": [
+          3.0,
+          3.0,
+          3.0
+        ],
+        "affine": [
+          [
+            -3.0,
+            0.0,
+            0.0,
+            78.0
+          ],
+          [
+            0.0,
+            3.0,
+            0.0,
+            -112.0
+          ],
+          [
+            0.0,
+            0.0,
+            3.0,
+            -50.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "all_voxels_finite": true,
+      "eeg_and_mri_series_match": true,
+      "eeg_triggers": 129,
+      "trigger_spacing_samples_unique": [
+        550
+      ],
+      "assumed_consecutive_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "3": {
+      "zip_sha256": "31b598e53c4f337cf210c1641139bf655197f3f2293435d90251b318eae939a6",
+      "dropbox_hash_matches": true,
+      "volumes_read": 141,
+      "pair_files_read": 282,
+      "other_files_read": 0,
+      "other_bytes_read": 0,
+      "frame_min": 1,
+      "frame_max": 141,
+      "missing_frames": [],
+      "geometry": {
+        "shape": [
+          53,
+          63,
+          46
+        ],
+        "dtype": "uint16",
+        "zooms_mm": [
+          3.0,
+          3.0,
+          3.0
+        ],
+        "affine": [
+          [
+            -3.0,
+            0.0,
+            0.0,
+            78.0
+          ],
+          [
+            0.0,
+            3.0,
+            0.0,
+            -112.0
+          ],
+          [
+            0.0,
+            0.0,
+            3.0,
+            -50.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "all_voxels_finite": true,
+      "eeg_and_mri_series_match": true,
+      "eeg_triggers": 129,
+      "trigger_spacing_samples_unique": [
+        550
+      ],
+      "assumed_consecutive_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "5": {
+      "zip_sha256": "f21e7543e9147bd7904a97ee866883b28c442dda33b4155c5b83a38ab1c3f5fc",
+      "dropbox_hash_matches": true,
+      "volumes_read": 141,
+      "pair_files_read": 282,
+      "other_files_read": 0,
+      "other_bytes_read": 0,
+      "frame_min": 1,
+      "frame_max": 141,
+      "missing_frames": [],
+      "geometry": {
+        "shape": [
+          53,
+          63,
+          46
+        ],
+        "dtype": "uint16",
+        "zooms_mm": [
+          3.0,
+          3.0,
+          3.0
+        ],
+        "affine": [
+          [
+            -3.0,
+            0.0,
+            0.0,
+            78.0
+          ],
+          [
+            0.0,
+            3.0,
+            0.0,
+            -112.0
+          ],
+          [
+            0.0,
+            0.0,
+            3.0,
+            -50.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "all_voxels_finite": true,
+      "eeg_and_mri_series_match": true,
+      "eeg_triggers": 129,
+      "trigger_spacing_samples_unique": [
+        550
+      ],
+      "assumed_consecutive_first_frame_candidates": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  },
+  "limitations": [
+    "Archive content checks do not verify trial stimuli, original archive provenance, registration or anatomical privacy.",
+    "Trigger candidates assume consecutive ordering, no missing triggers and unknown anchor."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "within-file report-code correspondence; not independent validation of event meanings",
+  "scans": {
+    "1": {
+      "sha256": "0ea46d49eeb8b4fce5bf7ff0f0726ebf1a75e0b1fa16496cb309c07b3544493f",
+      "dropbox_content_hash": "ceb0b9896415407456b1992684cbb80cffa112c09ba6c71be6665b193b148cc4",
+      "eeg": {
+        "channels": 64,
+        "samples": 70533,
+        "sampling_hz": 250,
+        "all_values_finite": true,
+        "sample_span_seconds": 282.128,
+        "tag_variables_hz": {
+          "freqtag1": 8.571428571428571,
+          "freqtag2": 6.666666666666667
+        }
+      },
+      "trial_count": 5,
+      "response_code_event_matches": {
+        "1": {
+          "responses": 35,
+          "event_latencies": 35,
+          "unique_nearest_events": 35
+        },
+        "2": {
+          "responses": 27,
+          "event_latencies": 27,
+          "unique_nearest_events": 27
+        },
+        "3": {
+          "responses": 59,
+          "event_latencies": 59,
+          "unique_nearest_events": 59
+        }
+      },
+      "offset_min_s": -0.027190673674587742,
+      "offset_max_s": -0.006807328864466399
+    },
+    "3": {
+      "sha256": "05e7195b2c5df9357b0e079a3ef021edaae65666f5285618453cbaccd29c2916",
+      "dropbox_content_hash": "3cce1af8407b19f2c6de47a51461e1241563b2f1bc2f1748a081cd95e4235167",
+      "eeg": {
+        "channels": 64,
+        "samples": 70534,
+        "sampling_hz": 250,
+        "all_values_finite": true,
+        "sample_span_seconds": 282.132,
+        "tag_variables_hz": {
+          "freqtag1": 8.571428571428571,
+          "freqtag2": 6.666666666666667
+        }
+      },
+      "trial_count": 5,
+      "response_code_event_matches": {
+        "1": {
+          "responses": 31,
+          "event_latencies": 31,
+          "unique_nearest_events": 31
+        },
+        "2": {
+          "responses": 29,
+          "event_latencies": 29,
+          "unique_nearest_events": 29
+        },
+        "3": {
+          "responses": 56,
+          "event_latencies": 56,
+          "unique_nearest_events": 56
+        }
+      },
+      "offset_min_s": -0.0256929637689027,
+      "offset_max_s": -0.004857416234852281
+    },
+    "5": {
+      "sha256": "9dda27e8dfa198986f1697c8d41837c00eccff544c80ccc5cbd809f289c96939",
+      "dropbox_content_hash": "b7297b0b6c373225a199498122e635d70b4c45aad0e6c30063f76ea2e4bdc9e6",
+      "eeg": {
+        "channels": 64,
+        "samples": 70534,
+        "sampling_hz": 250,
+        "all_values_finite": true,
+        "sample_span_seconds": 282.132,
+        "tag_variables_hz": {
+          "freqtag1": 8.571428571428571,
+          "freqtag2": 6.666666666666667
+        }
+      },
+      "trial_count": 5,
+      "response_code_event_matches": {
+        "1": {
+          "responses": 33,
+          "event_latencies": 33,
+          "unique_nearest_events": 33
+        },
+        "2": {
+          "responses": 31,
+          "event_latencies": 31,
+          "unique_nearest_events": 31
+        },
+        "3": {
+          "responses": 60,
+          "event_latencies": 60,
+          "unique_nearest_events": 60
+        }
+      },
+      "offset_min_s": -0.02062405138206668,
+      "offset_max_s": -0.004396391162503278
+    }
+  },
+  "limitations": [
+    "Nearest same-code correspondence does not prove experimental report semantics, tag assignment or subjective accuracy.",
+    "Time offsets are descriptive; no correction was made."
+  ]
+}

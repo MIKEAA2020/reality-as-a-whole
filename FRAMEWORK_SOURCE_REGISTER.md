@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 255 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 211 verification Python scripts.
+- 256 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 214 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -179,6 +179,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [ROY_S08_FIXED_TRANSFER_PROTOCOL.md](ROY_S08_FIXED_TRANSFER_PROTOCOL.md) — Frozen S09-to-S08 EEG/report transfer protocol
+- [ROY_S08_FIXED_TRANSFER_RESULTS.md](ROY_S08_FIXED_TRANSFER_RESULTS.md) — Fixed S09-to-S08 EEG/report transfer: results and archive QC
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern
 - [ROY_S09_AUTHOR_EMAIL_DRAFT.md](ROY_S09_AUTHOR_EMAIL_DRAFT.md) — Draft email: S09 EEG–fMRI timing
 - [ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md](ROY_S09_DEVELOPMENT_RUN_CROSSCHECK.md) — S09 EEG rule: development-run cross-check and next decision
@@ -479,6 +480,9 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_mri_pair_inventory_test.py](verification/roy_mri_pair_inventory_test.py)
 - [verification/roy_s08_fixed_transfer.py](verification/roy_s08_fixed_transfer.py)
 - [verification/roy_s08_fixed_transfer_test.py](verification/roy_s08_fixed_transfer_test.py)
+- [verification/roy_s08_mri_qc.py](verification/roy_s08_mri_qc.py)
+- [verification/roy_s08_mri_qc_test.py](verification/roy_s08_mri_qc_test.py)
+- [verification/roy_s08_report_code_audit.py](verification/roy_s08_report_code_audit.py)
 - [verification/roy_s09_condition_coverage.py](verification/roy_s09_condition_coverage.py)
 - [verification/roy_s09_condition_coverage_test.py](verification/roy_s09_condition_coverage_test.py)
 - [verification/roy_s09_descriptive_tag_report.py](verification/roy_s09_descriptive_tag_report.py)

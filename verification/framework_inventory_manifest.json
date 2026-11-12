@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "35024652cafef0a7c33e439f4b15e5a750495f85",
-  "file_count": 981,
+  "base_head": "8b2978feff44b6cb9cae94ffd832f918972bb451",
+  "file_count": 988,
   "files": [
     {
       "path": ".gitattributes",
@@ -385,8 +385,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 66048,
-      "sha256": "1821c5382654f527df972923ebc7a5d311d8fd3b750623a4d4fa5840cd1efe33"
+      "bytes": 66419,
+      "sha256": "88e351802e179df54c26c158cde4c7df6466f64b2bcdeb1ed28fc0f81546b508"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -852,6 +852,11 @@
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
       "bytes": 7783,
       "sha256": "e783a22ffc44d4ea6d354d581f2d2409c624faa01de43365630fdc2c5214e66a"
+    },
+    {
+      "path": "ROY_S08_FIXED_TRANSFER_RESULTS.md",
+      "bytes": 7149,
+      "sha256": "f9e14106446b8afcc0d5af1df37ba5ca4200afb1e08429872ea99b13b97fa92e"
     },
     {
       "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -3725,8 +3730,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 378418,
-      "sha256": "069d5da2de52383f8c48ad8d64b6589348ea864a790dad4fbfeca609c955458e"
+      "bytes": 379567,
+      "sha256": "248fd59edaf18dc8b6951068a75287f07a54ab32cca82eb46890d115516469a0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -3969,6 +3974,11 @@
       "sha256": "3e72f48426fd93ca87f5594afddd6c3e67716c9fc8dc8169078745cc587ce7b3"
     },
     {
+      "path": "verification/roy_s08_fixed_transfer.json",
+      "bytes": 7839,
+      "sha256": "fd5ba914932a962f51a492e53c0491433b0dc793bed5dc72d238b11ba2c4e10b"
+    },
+    {
       "path": "verification/roy_s08_fixed_transfer.py",
       "bytes": 3802,
       "sha256": "805479b48908258e2426676a9bb75bd1ac7870cd1234107d91ed09960ec9ec0c"
@@ -3977,6 +3987,31 @@
       "path": "verification/roy_s08_fixed_transfer_test.py",
       "bytes": 3182,
       "sha256": "f306fb8c96af253678467439a1b309417a756055a9bb9dd747c2f28185f220ec"
+    },
+    {
+      "path": "verification/roy_s08_mri_qc.json",
+      "bytes": 4263,
+      "sha256": "aa042049810699cd8133793406fda7a48d4b1c0453381c8ce6e33c39f36ca3ec"
+    },
+    {
+      "path": "verification/roy_s08_mri_qc.py",
+      "bytes": 3681,
+      "sha256": "4d9f4a9a920c76c0a37fd0f8f896aac971eaf341c3cff64735592c235c92d6bf"
+    },
+    {
+      "path": "verification/roy_s08_mri_qc_test.py",
+      "bytes": 1945,
+      "sha256": "e565955e01d4e02714ef667504301737ae6d2ef34587e058189f6bc6d00edbcd"
+    },
+    {
+      "path": "verification/roy_s08_report_code_audit.json",
+      "bytes": 3414,
+      "sha256": "3312d3ea370ca81c3a958deef9a03e6ce90a2ee08a0bdb70588384a5a6b98bc1"
+    },
+    {
+      "path": "verification/roy_s08_report_code_audit.py",
+      "bytes": 1661,
+      "sha256": "1cc898f5a16052470efee6b7f4e93190801b5921fe0f9cb8400251b4907553e9"
     },
     {
       "path": "verification/roy_s09_condition_coverage.json",
