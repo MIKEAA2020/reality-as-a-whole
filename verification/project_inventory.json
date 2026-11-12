@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 307,
-  "bytes": 4128724,
-  "line_count": 45930,
-  "document_count_with_risk_phrases": 282,
+  "document_count": 308,
+  "bytes": 4142602,
+  "line_count": 46072,
+  "document_count_with_risk_phrases": 283,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1778,9 +1778,9 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "sha256": "6f3b22244b4d6b4c39cd6c53292686f9e3c72901615551aee9f0dba023de85fe",
-      "bytes": 21042,
-      "lines": 160,
+      "sha256": "cbaae2c17ae4d7d517cebc1adb92fb990ec6b9bae428b38b369653a16278ae57",
+      "bytes": 22037,
+      "lines": 162,
       "title": "From what we have to what we need: dependency-driven work register",
       "headings": [
         "From what we have to what we need: dependency-driven work register",
@@ -1801,6 +1801,8 @@
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+        "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
+        "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "SMOOTH_FIELD_CLOCK.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "TORUS_SECOND_ORDER_GRAVITY_MATTER.md",
@@ -1813,7 +1815,7 @@
         "ONE_WHOLE_FINITE_ACCESS.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
-        "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+        "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "GLOBAL_COHERENCE_AND_DECISION_PLAN.md"
       ],
       "risk_phrase_lines": [
@@ -1821,9 +1823,9 @@
         44,
         52,
         60,
-        73,
-        142,
-        159
+        74,
+        144,
+        161
       ]
     },
     {
@@ -2768,9 +2770,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d78280c16301b988c851e0fdde3606c5348131554b1444c5fd8e7bd23087a651",
-      "bytes": 68502,
-      "lines": 582,
+      "sha256": "fdc29e7a3165485a5315926eb86ac777f4113994804a645e1f86fdbbfdba9e65",
+      "bytes": 68754,
+      "lines": 584,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2895,6 +2897,7 @@
         "LOCALIZED_CONSTRAINT_CLOCK.md",
         "LOCALIZED_PREPARATION_CRITERION.md",
         "LOCAL_PREPARATION_AND_ACCESS.md",
+        "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
         "MAINTENANCE_BROADCAST_SEPARATION.md",
         "MODULAR_CLOCK_SELECTION.md",
@@ -3309,6 +3312,7 @@
         "verification/torus_gravity_second_order.py",
         "verification/turning_clock.py",
         "verification/turning_entropy_bridge.py",
+        "verification/two_field_spacetime_probe.py",
         "verification/two_subject_reversible_selector.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
@@ -3342,17 +3346,17 @@
         30,
         34,
         39,
-        132,
-        164,
-        176,
-        209,
-        255,
-        268,
-        304,
-        313,
-        316,
-        319,
-        348
+        133,
+        165,
+        177,
+        210,
+        256,
+        269,
+        305,
+        314,
+        317,
+        320,
+        349
       ]
     },
     {
@@ -4516,6 +4520,31 @@
         50,
         138,
         169
+      ]
+    },
+    {
+      "path": "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
+      "sha256": "51607620327090bc3abd867452f441d8b347508307939d47de7372d39995366b",
+      "bytes": 12497,
+      "lines": 138,
+      "title": "Local field probe: complete-order bound and an energy accounting gate",
+      "headings": [
+        "Local field probe: complete-order bound and an energy accounting gate",
+        "Result",
+        "1. Declared model and record",
+        "2. Continuum causal result",
+        "3. Complete finite-cutoff order bound",
+        "4. Endpoint energies and finite-mode controls",
+        "5. Remaining decisive gates"
+      ],
+      "local_links": [
+        "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+        "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+        "verification/two_field_spacetime_probe.py"
+      ],
+      "risk_phrase_lines": [
+        111,
+        125
       ]
     },
     {
@@ -7340,8 +7369,8 @@
     },
     {
       "path": "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
-      "sha256": "0c17e060fbcd2bfbf5713b26f6487b134997fd32bdaf978eb8f51b832324f004",
-      "bytes": 11942,
+      "sha256": "f677d5b1a87682acba23fbf28457260d6a9be6dab6b0b17f0c2cbf8f08dd7c62",
+      "bytes": 12076,
       "lines": 145,
       "title": "Smooth switching reveals a zero-mode locality failure—and a restricted repair",
       "headings": [
@@ -7356,7 +7385,8 @@
       "local_links": [
         "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "verification/smooth_switched_locality_gate.py",
-        "verification/smooth_switched_locality_gate.py"
+        "verification/smooth_switched_locality_gate.py",
+        "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md"
       ],
       "risk_phrase_lines": [
         7,
