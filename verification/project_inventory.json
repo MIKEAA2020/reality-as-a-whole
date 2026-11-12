@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 303,
-  "bytes": 4079922,
-  "line_count": 45407,
-  "document_count_with_risk_phrases": 278,
+  "document_count": 304,
+  "bytes": 4089919,
+  "line_count": 45502,
+  "document_count_with_risk_phrases": 279,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2706,9 +2706,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3313ec46793c0c19f3055dbac6e35da571d9cb6148ab0373ab985a8b9be655df",
-      "bytes": 67401,
-      "lines": 574,
+      "sha256": "e0c53557de83f76a3106e1a5f3733f5abc76a66f208418994cc060aeb750ba6a",
+      "bytes": 67669,
+      "lines": 576,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2932,6 +2932,7 @@
         "SYNTHESIS.md",
         "SYNTHESIS_WDW_TIME.md",
         "TAKESAKI_DUAL_TYPEIII1.md",
+        "TARGET_SYMMETRY_AND_ROBUST_SUPPORT_GATE.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "THERMAL_TIME.md",
         "THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md",
@@ -3231,6 +3232,7 @@
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
         "verification/takesaki_dual_typeIII1.py",
+        "verification/target_symmetric_support_robustness.py",
         "verification/thermal_time.py",
         "verification/tick_readout.py",
         "verification/time_recovery_benchmark.py",
@@ -3276,13 +3278,13 @@
         162,
         174,
         207,
-        251,
-        264,
-        300,
-        309,
-        312,
-        315,
-        344
+        252,
+        265,
+        301,
+        310,
+        313,
+        316,
+        345
       ]
     },
     {
@@ -7959,6 +7961,41 @@
         190,
         197,
         200
+      ]
+    },
+    {
+      "path": "TARGET_SYMMETRY_AND_ROBUST_SUPPORT_GATE.md",
+      "sha256": "74d4ebd663261231671a040ca5bc032c80ad9c1fc8361425d83b07f62d603c31",
+      "bytes": 9729,
+      "lines": 93,
+      "title": "Target-sensitive support: symmetry, ties and finite uncertainty",
+      "headings": [
+        "Target-sensitive support: symmetry, ties and finite uncertainty",
+        "Result",
+        "1. Can the target break the tie?",
+        "2. A near-symmetry robustness test",
+        "3. A conservative set-valued decision",
+        "4. An idealized finite-sample limit",
+        "5. Framework consequences and next obligation"
+      ],
+      "local_links": [
+        "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+        "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "verification/target_symmetric_support_robustness.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        17,
+        29,
+        42,
+        53,
+        61,
+        65,
+        71,
+        85,
+        87,
+        91
       ]
     },
     {

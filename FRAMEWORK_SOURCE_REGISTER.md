@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 260 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 218 verification Python scripts.
+- 261 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 219 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -222,6 +222,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
 - [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
 - [TAKESAKI_DUAL_TYPEIII1.md](TAKESAKI_DUAL_TYPEIII1.md) — Takesaki duality and the type III₁ universal Tomita weight
+- [TARGET_SYMMETRY_AND_ROBUST_SUPPORT_GATE.md](TARGET_SYMMETRY_AND_ROBUST_SUPPORT_GATE.md) — Target-sensitive support: symmetry, ties and finite uncertainty
 - [TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md](TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md) — Temporary friend records: a selector tested against quantum histories
 - [THERMAL_TIME.md](THERMAL_TIME.md) — Thermal time hypothesis: Tomita flow as physical time in the WdW model
 - [THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md](THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md) — Thoughtful Local Friendliness and subject-first reality
@@ -535,6 +536,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
+- [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
 - [verification/thermal_time.py](verification/thermal_time.py)
 - [verification/tick_readout.py](verification/tick_readout.py)
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)

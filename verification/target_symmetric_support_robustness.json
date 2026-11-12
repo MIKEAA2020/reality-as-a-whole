@@ -1,0 +1,46 @@
+{
+  "scope": "finite model only; no empirical subjects or experiential grounds",
+  "target_and_point_stabilizer_size": 2,
+  "target_aligned_candidate_pairs": 2,
+  "target_aligned_distinct_support_families": 1,
+  "target_aligned_equivariant_unique_fixed_pairs": 0,
+  "nonaligned_fixed_pairs": 1,
+  "near_symmetry_rational_cases": [
+    {
+      "delta": "1/8",
+      "tv_to_uniform": "1/4",
+      "pairwise_row_tv": "3/16"
+    },
+    {
+      "delta": "1/10",
+      "tv_to_uniform": "1/5",
+      "pairwise_row_tv": "4/25"
+    },
+    {
+      "delta": "1/20",
+      "tv_to_uniform": "1/10",
+      "pairwise_row_tv": "9/100"
+    },
+    {
+      "delta": "1/100",
+      "tv_to_uniform": "1/50",
+      "pairwise_row_tv": "49/2500"
+    },
+    {
+      "delta": "1/1000",
+      "tv_to_uniform": "1/500",
+      "pairwise_row_tv": "499/250000"
+    },
+    {
+      "delta": "1/10000",
+      "tv_to_uniform": "1/5000",
+      "pairwise_row_tv": "4999/25000000"
+    }
+  ],
+  "uncertainty_rule": "retain F if defect(Khat,F) <= 3 epsilon",
+  "gap_control_candidates": 1,
+  "illustrative_four_rows_samples_each": 100,
+  "illustrative_delta": "1/1000",
+  "illustrative_equal_prior_test_error_lower_bound": 0.42,
+  "scope_limit": "Statistical bound assumes the two stipulated kernels, known state preparation, independent trials and fixed parameter; not human or population inference."
+}

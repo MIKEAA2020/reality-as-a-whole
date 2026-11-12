@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b2494f28ba1dbbe8cbb02a03eff36ba66df3d374",
-  "file_count": 1000,
+  "base_head": "882b08f2f7965bc8cf6b0e9312da16a52000ba0b",
+  "file_count": 1003,
   "files": [
     {
       "path": ".gitattributes",
@@ -395,8 +395,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 67401,
-      "sha256": "3313ec46793c0c19f3055dbac6e35da571d9cb6148ab0373ab985a8b9be655df"
+      "bytes": 67669,
+      "sha256": "e0c53557de83f76a3106e1a5f3733f5abc76a66f208418994cc060aeb750ba6a"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1067,6 +1067,11 @@
       "path": "TAKESAKI_DUAL_TYPEIII1.md",
       "bytes": 12874,
       "sha256": "0995ba7135b6636dd07ab327bf95333cef75312e690a066d30d183cb809f7a41"
+    },
+    {
+      "path": "TARGET_SYMMETRY_AND_ROBUST_SUPPORT_GATE.md",
+      "bytes": 9729,
+      "sha256": "74d4ebd663261231671a040ca5bc032c80ad9c1fc8361425d83b07f62d603c31"
     },
     {
       "path": "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
@@ -3790,8 +3795,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 383895,
-      "sha256": "b25b6064886197f406d6f39910aa3bd093e2be9ca0468c5a9d7bf09ee7435fe8"
+      "bytes": 385082,
+      "sha256": "dd5d6d7dde92aac75f4a73bcc54434873c95cbc6f537dadc763175e9744e23e3"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4672,6 +4677,16 @@
       "path": "verification/takesaki_dual_typeIII1.py",
       "bytes": 16540,
       "sha256": "22fd4f1192e9e5931bd141236f07c3a1a08446a8d97fbb59d24b5620cb204acb"
+    },
+    {
+      "path": "verification/target_symmetric_support_robustness.json",
+      "bytes": 1364,
+      "sha256": "2c94c1b1912a9b909b0cdf79dedff926bf921da205005a2b213849db61932b8a"
+    },
+    {
+      "path": "verification/target_symmetric_support_robustness.py",
+      "bytes": 4980,
+      "sha256": "58d733d9b9083144b22aab695a5bca4e0086330887de573a2293aeb06851dd01"
     },
     {
       "path": "verification/thermal_time.json",
