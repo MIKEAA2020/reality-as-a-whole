@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8b2978feff44b6cb9cae94ffd832f918972bb451",
-  "file_count": 988,
+  "base_head": "2cefe8655ab63103f1c77e3e998ec397a36b863e",
+  "file_count": 992,
   "files": [
     {
       "path": ".gitattributes",
@@ -374,6 +374,11 @@
       "sha256": "a87a4650602ac2c6e7454f70955f2becc8c952713002c35dde621822b304bc6f"
     },
     {
+      "path": "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
+      "bytes": 5205,
+      "sha256": "ea635d9414b1c78e5db7ff537edd32b01be46b0a9d46296cafbdba6f60b83c85"
+    },
+    {
       "path": "FOUNDATION_OF_DUE_REGARD.md",
       "bytes": 10598,
       "sha256": "fda908d9c9bb474bb150ba97d4127719ec6af1ed17188a4bdd19ce34ee4fc167"
@@ -385,8 +390,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 66419,
-      "sha256": "88e351802e179df54c26c158cde4c7df6466f64b2bcdeb1ed28fc0f81546b508"
+      "bytes": 66799,
+      "sha256": "e404011bedd53170e9b83db015ed9cea4e1f2d7b865d7071560947820c9b7df2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -724,6 +729,11 @@
       "sha256": "d19669b5e4854c4bc25c06ae66103ded59bbf5b74c8d1080a0e72af251cddb34"
     },
     {
+      "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
+      "bytes": 8339,
+      "sha256": "e6111d138a72dc4a880cdfa5da06c7c3b8cc4e1086bdab527628011aec4443a7"
+    },
+    {
       "path": "PRIVATION_AND_AXIARCHIC_GOOD.md",
       "bytes": 15816,
       "sha256": "e1501927ed88030d475be7b440010b9ea91a24770ba58b6bcbcf126ce262075d"
@@ -855,8 +865,8 @@
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_RESULTS.md",
-      "bytes": 7149,
-      "sha256": "f9e14106446b8afcc0d5af1df37ba5ca4200afb1e08429872ea99b13b97fa92e"
+      "bytes": 7421,
+      "sha256": "5c1e63d13ce3c00c367b7db49b9bc53ce1746a7cc5f34a4221211f06be0017b4"
     },
     {
       "path": "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -3089,6 +3099,16 @@
       "sha256": "fee83c87613d9fbe3a54cdf8e89fb16984c2f0d75261d62eb10a6a2d5ab507dd"
     },
     {
+      "path": "verification/foundation_route_comparison.json",
+      "bytes": 1069,
+      "sha256": "d3157c43df8e555de80a15edbe427716934a46662f905a3e8c4f6e0988fe0e87"
+    },
+    {
+      "path": "verification/foundation_route_comparison.py",
+      "bytes": 2290,
+      "sha256": "7b4e08bde93bebff678c50d097f4826548d2deed52de21ae4d64e75853e7e825"
+    },
+    {
       "path": "verification/framework_battery.json",
       "bytes": 3849,
       "sha256": "fc67a5ddf78e6418655cf6a430f2f08598833539220a309ea106c0c1c8a7f06d"
@@ -3730,8 +3750,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 379567,
-      "sha256": "248fd59edaf18dc8b6951068a75287f07a54ab32cca82eb46890d115516469a0"
+      "bytes": 381539,
+      "sha256": "1fc959514300d664c15b40b7f7916040d1ba9c7f9dbc5ab034f3c586570bbfe6"
     },
     {
       "path": "verification/project_inventory.py",

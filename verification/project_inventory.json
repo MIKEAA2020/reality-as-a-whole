@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 299,
-  "bytes": 4042933,
-  "line_count": 45172,
-  "document_count_with_risk_phrases": 274,
+  "document_count": 301,
+  "bytes": 4057129,
+  "line_count": 45247,
+  "document_count_with_risk_phrases": 276,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2599,6 +2599,29 @@
       ]
     },
     {
+      "path": "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
+      "sha256": "ea635d9414b1c78e5db7ff537edd32b01be46b0a9d46296cafbdba6f60b83c85",
+      "bytes": 5205,
+      "lines": 38,
+      "title": "Foundation: comparing the two existing necessity routes",
+      "headings": [
+        "Foundation: comparing the two existing necessity routes",
+        "Question and result",
+        "Same notation, two routes",
+        "Common adversarial controls",
+        "Updated gate verdict and next precise challenge"
+      ],
+      "local_links": [
+        "NECESSARY_OCCURRENCE_CANDIDATE.md",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "verification/foundation_route_comparison.py"
+      ],
+      "risk_phrase_lines": [
+        20
+      ]
+    },
+    {
       "path": "FOUNDATION_OF_DUE_REGARD.md",
       "sha256": "fda908d9c9bb474bb150ba97d4127719ec6af1ed17188a4bdd19ce34ee4fc167",
       "bytes": 10598,
@@ -2653,9 +2676,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "88e351802e179df54c26c158cde4c7df6466f64b2bcdeb1ed28fc0f81546b508",
-      "bytes": 66419,
-      "lines": 566,
+      "sha256": "e404011bedd53170e9b83db015ed9cea4e1f2d7b865d7071560947820c9b7df2",
+      "bytes": 66799,
+      "lines": 569,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2742,6 +2765,7 @@
         "FIXED_GAP_SOURCE_CLOCK.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+        "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "FOUNDATION_OF_DUE_REGARD.md",
         "FOUR_CRITERIA_CONSOLIDATION.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2810,6 +2834,7 @@
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
         "PROBLEM_OF_TIME_CLOSED.md",
@@ -3033,6 +3058,7 @@
         "verification/finite_winding_noise.py",
         "verification/fixed_gap_source_clock.py",
         "verification/foundation_battery_report_spotcheck.py",
+        "verification/foundation_route_comparison.py",
         "verification/framework_battery.py",
         "verification/friction_conflict_audit.py",
         "verification/friend_history_selector_gate.py",
@@ -3211,17 +3237,17 @@
         30,
         34,
         39,
-        128,
-        158,
-        170,
-        203,
-        247,
-        260,
-        296,
-        305,
-        308,
-        311,
-        340
+        129,
+        160,
+        172,
+        205,
+        249,
+        262,
+        298,
+        307,
+        310,
+        313,
+        342
       ]
     },
     {
@@ -5490,6 +5516,35 @@
       ]
     },
     {
+      "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
+      "sha256": "e6111d138a72dc4a880cdfa5da06c7c3b8cc4e1086bdab527628011aec4443a7",
+      "bytes": 8339,
+      "lines": 34,
+      "title": "After the Roy data: decision and framework critical path",
+      "headings": [
+        "After the Roy data: decision and framework critical path",
+        "Decision",
+        "What “pass the battery” means",
+        "Immediate B1–B2 work contract"
+      ],
+      "local_links": [
+        "ROY_S08_FIXED_TRANSFER_RESULTS.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
+        "verification/plenitude_foundation_symmetry_gates.py",
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "CUTOFF_INSTRUMENT_UNIFORMITY.md",
+        "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        20,
+        24,
+        30,
+        32
+      ]
+    },
+    {
       "path": "PRIVATION_AND_AXIARCHIC_GOOD.md",
       "sha256": "e1501927ed88030d475be7b440010b9ea91a24770ba58b6bcbcf126ce262075d",
       "bytes": 15816,
@@ -6504,8 +6559,8 @@
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_RESULTS.md",
-      "sha256": "f9e14106446b8afcc0d5af1df37ba5ca4200afb1e08429872ea99b13b97fa92e",
-      "bytes": 7149,
+      "sha256": "5c1e63d13ce3c00c367b7db49b9bc53ce1746a7cc5f34a4221211f06be0017b4",
+      "bytes": 7421,
       "lines": 40,
       "title": "Fixed S09-to-S08 EEG/report transfer: results and archive QC",
       "headings": [
@@ -6523,7 +6578,8 @@
         "verification/roy_s08_mri_qc.json",
         "verification/roy_s08_fixed_transfer.py",
         "verification/roy_s08_report_code_audit.py",
-        "verification/roy_s08_mri_qc.py"
+        "verification/roy_s08_mri_qc.py",
+        "POST_ROY_FRAMEWORK_CRITICAL_PATH.md"
       ],
       "risk_phrase_lines": []
     },
