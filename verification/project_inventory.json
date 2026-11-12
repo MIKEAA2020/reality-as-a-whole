@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 311,
-  "bytes": 4183647,
-  "line_count": 46568,
-  "document_count_with_risk_phrases": 286,
+  "document_count": 312,
+  "bytes": 4194028,
+  "line_count": 46695,
+  "document_count_with_risk_phrases": 287,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1778,8 +1778,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "sha256": "13f92a8887a0f31a6a562f23835d4d09ce64972171dfe0cb715862bf9dbe71c0",
-      "bytes": 23314,
+      "sha256": "50f1328a6720ccae9926b0e7339c1255065acc11dda03fd7245e94138132249c",
+      "bytes": 23356,
       "lines": 164,
       "title": "From what we have to what we need: dependency-driven work register",
       "headings": [
@@ -1803,11 +1803,12 @@
         "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
-        "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "SMOOTH_FIELD_CLOCK.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "TORUS_SECOND_ORDER_GRAVITY_MATTER.md",
@@ -1820,7 +1821,7 @@
         "ONE_WHOLE_FINITE_ACCESS.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
-        "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "GLOBAL_COHERENCE_AND_DECISION_PLAN.md"
       ],
       "risk_phrase_lines": [
@@ -2775,9 +2776,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0eb975a1a9962ef078bbc14a890fe2a7d5ff6d251f3f2140a875e2700b86f7a8",
-      "bytes": 69593,
-      "lines": 590,
+      "sha256": "fd8954a5f00728685d794af8ec3d1d80dea2599a50b9d32f87969e5976c3b63b",
+      "bytes": 69886,
+      "lines": 592,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3010,6 +3011,7 @@
         "THERMAL_TIME.md",
         "THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md",
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
         "TIME_RESEARCH_ROADMAP.md",
@@ -3314,6 +3316,7 @@
         "verification/target_symmetric_support_robustness.py",
         "verification/thermal_time.py",
         "verification/three_dimensional_bogoliubov_continuum.py",
+        "verification/three_dimensional_quantitative_channel.py",
         "verification/three_dimensional_smooth_probe_gate.py",
         "verification/tick_readout.py",
         "verification/time_recovery_benchmark.py",
@@ -3361,13 +3364,13 @@
         165,
         177,
         210,
-        259,
-        272,
-        308,
-        317,
-        320,
-        323,
-        352
+        260,
+        273,
+        309,
+        318,
+        321,
+        324,
+        353
       ]
     },
     {
@@ -8235,9 +8238,9 @@
     },
     {
       "path": "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
-      "sha256": "0ecc72203a27fb45a2dfaa40187cda0c4c4a03e71e44ad4ed5a778a3f2543490",
-      "bytes": 13176,
-      "lines": 181,
+      "sha256": "46c2e7385f42b81e75ca0cb852338112e1d7b02aa2e5ef4dbfe2a6d015b5a071",
+      "bytes": 13502,
+      "lines": 183,
       "title": "Nonperturbative 3+1 two-field continuum limit: a restricted result",
       "headings": [
         "Nonperturbative 3+1 two-field continuum limit: a restricted result",
@@ -8250,16 +8253,44 @@
         "6. Controls and remaining limitations"
       ],
       "local_links": [
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "verification/three_dimensional_bogoliubov_continuum.py"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        84,
-        179,
-        181
+        11,
+        86,
+        181,
+        183
+      ]
+    },
+    {
+      "path": "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
+      "sha256": "9a78c97c650eb84129980d7573116d6bdf0b8fbce205bde3f589b9d11e9cb001",
+      "bytes": 9720,
+      "lines": 123,
+      "title": "A finite-cutoff certificate for the 3+1 two-field instrument",
+      "headings": [
+        "A finite-cutoff certificate for the 3+1 two-field instrument",
+        "Result and status",
+        "1. Inputs and notation",
+        "2. Explicit one-particle and pair-block estimates",
+        "3. From Bogoliubov coefficients to an energy-constrained channel bound",
+        "4. Complete instrument and source orders",
+        "5. Controls and limitations"
+      ],
+      "local_links": [
+        "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
+        "verification/three_dimensional_quantitative_channel.py"
+      ],
+      "risk_phrase_lines": [
+        13,
+        38,
+        87,
+        121
       ]
     },
     {

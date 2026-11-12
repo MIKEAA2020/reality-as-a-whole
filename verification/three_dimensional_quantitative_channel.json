@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "scope": "finite-dimensional matrix and finite-mode ODE controls, plus floating-point arithmetic; not a proof or interval certificate",
+  "full_strength_constants": {
+    "lambda": 1.0,
+    "c": 15.023523265916646,
+    "L": 15.023523265916646,
+    "nu": 3346826.9167909664,
+    "primitive_HS_upper": 0.352846398327502,
+    "chi_infinity": 10.357110498363852,
+    "chi_derivative_L1": 20.714220996727704,
+    "chi_L2_squared": 8.438960162621253,
+    "Q": 157.85424583837568,
+    "beta_uniform_upper": 623890629340690.9,
+    "D0": 23.192816552940652,
+    "primitive_tail_coefficient": 0.41569561701582564,
+    "e0": 77622342.71557686,
+    "beta_difference_coefficient": 4.842786822608047e+22,
+    "relative_alpha_coefficient": 259788545944865.8,
+    "relative_beta_coefficient": 1.6207974132970438e+29
+  },
+  "E100_asymptotic_coefficient": 5.253968509900776e+58,
+  "interaction_only_round_base10_sufficient_exponent_for_0_01": 729,
+  "interaction_only_bound_at_that_power": 0.00934302402214943,
+  "finite_fock_squeezing_controls": [
+    {
+      "levels_per_oscillator": 12,
+      "r": 0.01,
+      "theta": 0.02,
+      "particle_cutoff": 2,
+      "restricted_unitary_operator_distance": 0.04665158328693591,
+      "squeeze_rotation_bound": 0.09676995029211502,
+      "relative_alpha_op": 0.02000022915834001,
+      "relative_beta_HS": 0.014142371327169861
+    },
+    {
+      "levels_per_oscillator": 14,
+      "r": 0.01,
+      "theta": 0.02,
+      "particle_cutoff": 2,
+      "restricted_unitary_operator_distance": 0.04665158328693591,
+      "squeeze_rotation_bound": 0.09676995029211502,
+      "relative_alpha_op": 0.02000022915834001,
+      "relative_beta_HS": 0.014142371327169861
+    }
+  ],
+  "weak_3d_control": {
+    "lambda": 0.001,
+    "N": 1,
+    "M": 2,
+    "actual_relative_alpha_op": 8.888879045614206e-05,
+    "bound_relative_alpha_op": 0.023900267370369814,
+    "actual_relative_beta_HS": 0.00012994401794946407,
+    "bound_relative_beta_HS": 0.014444335323999887,
+    "vacuum_trace_distance": 0.00018376880951214734,
+    "vacuum_channel_upper": 0.05777734129599955
+  },
+  "sample_full_strength_interaction_bounds": [
+    {
+      "N": 1,
+      "E": 100,
+      "R": 10,
+      "bound": 2.0
+    },
+    {
+      "N": 4,
+      "E": 100,
+      "R": 10,
+      "bound": 2.0
+    },
+    {
+      "N": 16,
+      "E": 100,
+      "R": 10,
+      "bound": 2.0
+    },
+    {
+      "N": 64,
+      "E": 100,
+      "R": 10,
+      "bound": 2.0
+    }
+  ]
+}

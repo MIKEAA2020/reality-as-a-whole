@@ -1,5 +1,7 @@
 # Nonperturbative 3+1 two-field continuum limit: a restricted result
 
+**Subsequent quantitative advance:** [an explicit finite-cutoff certificate](THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md) bounds the complete instrument error under the same assumptions. Its estimates are so conservative that they are not practical cutoff requirements; the apparatus and gravity gates remain open.
+
 ## Result
 
 For the **specific smooth, compactly switched bilinear two-field model** on a fixed 3+1-dimensional spacetime described in [the preceding gate](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md), the Fourier-cutoff Bogoliubov transformations converge nonperturbatively to a Fock-implementable continuum transformation. After irrelevant cutoff-dependent phases are removed, the implementing unitaries converge strongly. On the common compact-space, positive-mass energy domain, this gives convergence of the **complete field–probe–qubit–record instrument** in energy-constrained trace distance, including arbitrary reference entanglement and each subnormalized record outcome, for both source orders.
