@@ -1,0 +1,31 @@
+{
+  "scope": "finite support and factorization gates only; no phenomenal ground established",
+  "states": 4,
+  "asymmetric_kernel_factorizations": 1,
+  "asymmetric_support_block_indices": [
+    [
+      [
+        2,
+        3
+      ]
+    ]
+  ],
+  "naive_coordinate_support_size_before_after_mixing": [
+    1,
+    2
+  ],
+  "all_bijective_renamings_checked": 24,
+  "covariance_event_state_factor_cases": 2304,
+  "uniform_kernel_factorizations": 3,
+  "uniform_kernel_distinct_support_families": 2,
+  "uniform_kernel_support_family_cardinalities": [
+    [
+      1
+    ],
+    [
+      2
+    ]
+  ],
+  "tautology_supports_empty_set": true,
+  "scope_limit": "Kernel, interventions, factor eligibility, and target content are specified; truthmaker or subject identity is not derived."
+}

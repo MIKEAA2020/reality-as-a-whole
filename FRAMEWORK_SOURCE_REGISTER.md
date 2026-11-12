@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 259 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 217 verification Python scripts.
+- 260 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 218 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -75,6 +75,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md](EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md) — Expanding BEC as a cosmological and clock analogue: source audit
 - [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
+- [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
 - [FINITE_COMPLETION_CLOCK.md](FINITE_COMPLETION_CLOCK.md) — Finite completion, a stopped time record, and controlled future escape
 - [FINITE_REFERENCE_GRAVITY.md](FINITE_REFERENCE_GRAVITY.md) — A finite carrier clock without dust: gravitational spectral matching and completed records
@@ -404,6 +405,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/gauge_unification_spectral.py](verification/gauge_unification_spectral.py)
 - [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
+- [verification/ground_support_factorization_gate.py](verification/ground_support_factorization_gate.py)
 - [verification/hamiltonian_detector.py](verification/hamiltonian_detector.py)
 - [verification/hawking_backreaction_bound.py](verification/hawking_backreaction_bound.py)
 - [verification/hemispherotomy_spectral_translation_gate.py](verification/hemispherotomy_spectral_translation_gate.py)

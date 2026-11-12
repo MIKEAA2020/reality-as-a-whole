@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 302,
-  "bytes": 4070110,
-  "line_count": 45326,
-  "document_count_with_risk_phrases": 277,
+  "document_count": 303,
+  "bytes": 4079922,
+  "line_count": 45407,
+  "document_count_with_risk_phrases": 278,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2248,6 +2248,36 @@
       ]
     },
     {
+      "path": "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+      "sha256": "c12e672e7b5cf0ba3a640c35598d6c8f6556ef72af4982ce52d9b62d9b77e3a1",
+      "bytes": 9549,
+      "lines": 79,
+      "title": "A representation-stable support interface—and its limits",
+      "headings": [
+        "A representation-stable support interface—and its limits",
+        "Result",
+        "1. Why the original coordinate rule is not enough",
+        "2. The combined rule",
+        "3. Worked asymmetric and symmetric cases",
+        "4. What this buys the framework—and what it does not",
+        "Reproduction"
+      ],
+      "local_links": [
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "verification/ground_support_factorization_gate.py",
+        "verification/ground_support_factorization_gate.json",
+        "verification/subject_factorization_redescription_gate.py",
+        "verification/experience_ground_support_toy.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        15,
+        53,
+        79
+      ]
+    },
+    {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
       "sha256": "1f8f719eaa56a7ae766f91cf4eeb9de914f2cd47dc8c4be7c315e2733b4ed263",
       "bytes": 9928,
@@ -2676,9 +2706,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fdb1fc8d7cdab0b5a68d3b9d78581eb47a6446ab55d7567a18f1af1145913001",
-      "bytes": 67138,
-      "lines": 572,
+      "sha256": "3313ec46793c0c19f3055dbac6e35da571d9cb6148ab0373ab985a8b9be655df",
+      "bytes": 67401,
+      "lines": 574,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2755,6 +2785,7 @@
         "EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
+        "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_COMPLETION_CLOCK.md",
         "FINITE_REFERENCE_GRAVITY.md",
@@ -3070,6 +3101,7 @@
         "verification/gauge_unification_spectral.py",
         "verification/gravitating_clock_probe.py",
         "verification/gravity_clock_complementarity.py",
+        "verification/ground_support_factorization_gate.py",
         "verification/hamiltonian_detector.py",
         "verification/hawking_backreaction_bound.py",
         "verification/hemispherotomy_spectral_translation_gate.py",
@@ -3240,17 +3272,17 @@
         30,
         34,
         39,
-        129,
-        161,
-        173,
-        206,
-        250,
-        263,
-        299,
-        308,
-        311,
-        314,
-        343
+        130,
+        162,
+        174,
+        207,
+        251,
+        264,
+        300,
+        309,
+        312,
+        315,
+        344
       ]
     },
     {
