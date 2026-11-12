@@ -1,0 +1,42 @@
+{
+  "scope": "Finite floating-point controls; no independent proof or data.",
+  "R": 2.0,
+  "wavepackets_truncated_at_k_2": [
+    {
+      "sigma_k": 0.2,
+      "lambda_mean": 1.0399994053118533,
+      "lambda_variance": 0.16319700277138638,
+      "probability_v_below_R": 0.6515395604075906,
+      "analytic_upper_bound": 1.0
+    },
+    {
+      "sigma_k": 0.1,
+      "lambda_mean": 1.0100000000000002,
+      "lambda_variance": 0.040200000000000014,
+      "probability_v_below_R": 0.36508205707285846,
+      "analytic_upper_bound": 1.0
+    },
+    {
+      "sigma_k": 0.05,
+      "lambda_mean": 1.0024999999999997,
+      "lambda_variance": 0.010012499999999997,
+      "probability_v_below_R": 0.1879276528922105,
+      "analytic_upper_bound": 1.0
+    },
+    {
+      "sigma_k": 0.025,
+      "lambda_mean": 1.0006249999977528,
+      "lambda_variance": 0.002500781249999999,
+      "probability_v_below_R": 0.09465322587352559,
+      "analytic_upper_bound": 1.0
+    }
+  ],
+  "max_three_level_matrix_unit_error": 0.0,
+  "two_slot_single_slot_retention": 0.8,
+  "two_slot_markov_retention": 0.6400000000000001,
+  "two_slot_static_retention": 0.4096000000000001,
+  "two_slot_markov_plus_probability": 0.8200000000000001,
+  "two_slot_static_plus_probability": 0.7048000000000001,
+  "time_change_true_retention": 0.1353352832366127,
+  "time_change_naive_retention": 0.36787944117144233
+}

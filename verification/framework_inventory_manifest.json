@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "89a5bd7d0576d98a982bf1940a391d17d7a5ec04",
-  "file_count": 1028,
+  "base_head": "8bb4c8f33b50d1d7b08cc770ca56a2039c82754d",
+  "file_count": 1032,
   "files": [
     {
       "path": ".gitattributes",
@@ -202,6 +202,11 @@
       "path": "CORRELATED_PUMP_CERTIFICATION.md",
       "bytes": 14316,
       "sha256": "3757b7e25ee355616440a784a7af058ef7ff917b4e1c141df8588ee13f67ca89"
+    },
+    {
+      "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+      "bytes": 13232,
+      "sha256": "36d7f979df7e133c278db7d8f7daaaa0c23e195617326d254ea514a96209ba9f"
     },
     {
       "path": "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
@@ -405,8 +410,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 69886,
-      "sha256": "fd8954a5f00728685d794af8ec3d1d80dea2599a50b9d32f87969e5976c3b63b"
+      "bytes": 70240,
+      "sha256": "5c82372275fd6c3761e6ca486f60a2c8c74ef95b38963089d317363dc026f071"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -440,8 +445,8 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "bytes": 14923,
-      "sha256": "9547e95ea1fd2de18a30207dec05e991c7777a3a9899a7a4d9da0f8f8d404117"
+      "bytes": 15397,
+      "sha256": "f5c6f58e94a8c4603924ef120272d3040ae04265419b329ceb1c872aebcb9822"
     },
     {
       "path": "GLOBAL_WORKSPACE_REASSESSMENT.md",
@@ -2639,6 +2644,11 @@
       "sha256": "5b8aeca8eddc2aa8e29cfc74bfc8c6237c763d8382e86cfdc63f551783eda9df"
     },
     {
+      "path": "sources/uploads/JHEP02(2024)193.pdf",
+      "bytes": 1524032,
+      "sha256": "0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed"
+    },
+    {
       "path": "sources/uploads/complete-intelligibility-side-by-side.md",
       "bytes": 148632,
       "sha256": "e2871d94da86645e1f9af6f4df2e01878b2e31e37f79651dfb5677206aae6e4c"
@@ -2947,6 +2957,16 @@
       "path": "verification/correlated_pump_certification.py",
       "bytes": 15804,
       "sha256": "7f570febbe830850e071ea89609f3fa38d47cd0f026339bd8a7b8ba00162aec8"
+    },
+    {
+      "path": "verification/cosmological_collapse_geometry_gate.json",
+      "bytes": 1376,
+      "sha256": "d4b016c6b39b4b26f725d913427493201d3ef6f86dc9e078ee1ec495a7b948f1"
+    },
+    {
+      "path": "verification/cosmological_collapse_geometry_gate.py",
+      "bytes": 3495,
+      "sha256": "c19110cff25849ae05a282d3a6a77722aad64ed8f024bbc5b41ded4bb8302da0"
     },
     {
       "path": "verification/cosmological_constant_cancel.json",
@@ -3855,8 +3875,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 395324,
-      "sha256": "05458c0f01b1e32d24ec3366ff24985f098fd6ef8cd850af7033170cf49de879"
+      "bytes": 396474,
+      "sha256": "19990dc74efee25a4659b7c6cc27988b6a130f81ddf91bb8de1be341ab7b8934"
     },
     {
       "path": "verification/project_inventory.py",

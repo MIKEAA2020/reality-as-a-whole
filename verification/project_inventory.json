@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 312,
-  "bytes": 4194028,
-  "line_count": 46695,
-  "document_count_with_risk_phrases": 287,
+  "document_count": 313,
+  "bytes": 4207734,
+  "line_count": 46769,
+  "document_count_with_risk_phrases": 288,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1514,6 +1514,35 @@
       "risk_phrase_lines": [
         70,
         282
+      ]
+    },
+    {
+      "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+      "sha256": "36d7f979df7e133c278db7d8f7daaaa0c23e195617326d254ea514a96209ba9f",
+      "bytes": 13232,
+      "lines": 72,
+      "title": "Cosmological collapse: what selecting λ does and does not establish",
+      "headings": [
+        "Cosmological collapse: what selecting λ does and does not establish",
+        "Decision",
+        "1. Source and fair reading",
+        "2. New Dirichlet localization gate: variance in λ versus bounded v",
+        "3. Collapse, internal decoherence and observable rivals",
+        "4. The clock and absolute",
+        "5. Reproducibility and limits"
+      ],
+      "local_links": [
+        "sources/uploads/JHEP02(2024)193.pdf",
+        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "WDW_INTERFACE_CORRECTIONS.md",
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
+        "verification/cosmological_collapse_geometry_gate.json"
+      ],
+      "risk_phrase_lines": [
+        18,
+        42,
+        52
       ]
     },
     {
@@ -3599,9 +3628,9 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "sha256": "9547e95ea1fd2de18a30207dec05e991c7777a3a9899a7a4d9da0f8f8d404117",
-      "bytes": 14923,
-      "lines": 79,
+      "sha256": "f5c6f58e94a8c4603924ef120272d3040ae04265419b329ceb1c872aebcb9822",
+      "bytes": 15397,
+      "lines": 81,
       "title": "One global plan: from experiential actuality to recoverable physics",
       "headings": [
         "One global plan: from experiential actuality to recoverable physics",
@@ -3613,6 +3642,7 @@
       ],
       "local_links": [
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
@@ -3630,10 +3660,10 @@
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        60,
-        66,
-        75
+        9,
+        62,
+        68,
+        77
       ]
     },
     {
