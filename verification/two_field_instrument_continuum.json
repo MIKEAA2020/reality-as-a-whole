@@ -1,0 +1,153 @@
+{
+  "status": "passed",
+  "scope": "finite-M Gaussian/numerical kernel controls and analytic-constant arithmetic, not an independent proof",
+  "constants": {
+    "F_L2_squared": 1.6877920325242506,
+    "F_Linf": 2.0714220996727706,
+    "Fprime_L1": 4.142844199345541,
+    "W_F": 0.2686204448873515,
+    "W_A": 6.850754299838591,
+    "W_B": 4.599760593687314,
+    "kappa_upper": 0.6139852547757148
+  },
+  "finite_M_full_kernel_HS": 0.473255613997192,
+  "E": 100.0,
+  "tail_rows": [
+    {
+      "N": 1,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.39013687381565937,
+      "analytic_infinite_tail_HS_upper": 0.6725061837702422,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.2940411181924849,
+      "readout_channel_bound_E100": 2.0
+    },
+    {
+      "N": 4,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.24280219477774445,
+      "analytic_infinite_tail_HS_upper": 0.47553368293382475,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.370468594345338,
+      "readout_channel_bound_E100": 2.0
+    },
+    {
+      "N": 8,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.146044809114411,
+      "analytic_infinite_tail_HS_upper": 0.3998745693114497,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.4158369372431623,
+      "readout_channel_bound_E100": 2.0
+    },
+    {
+      "N": 16,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.09129637324262796,
+      "analytic_infinite_tail_HS_upper": 0.3362530918851211,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.46676118034065617,
+      "readout_channel_bound_E100": 0.8683523566850281
+    },
+    {
+      "N": 32,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.05765753264336278,
+      "analytic_infinite_tail_HS_upper": 0.28275401958417623,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.5239217105564735,
+      "readout_channel_bound_E100": 0.31557825652443455
+    },
+    {
+      "N": 64,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.03287607933506887,
+      "analytic_infinite_tail_HS_upper": 0.23776684146691238,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.5880822363849697,
+      "readout_channel_bound_E100": 0.11739886825098383
+    },
+    {
+      "N": 96,
+      "finite_M": 128,
+      "finite_M_kernel_tail_HS": 0.018914004781215563,
+      "analytic_infinite_tail_HS_upper": 0.21484659434148637,
+      "interaction_channel_bound_E100": 2.0,
+      "optimized_R": 0.6291969438262942,
+      "readout_channel_bound_E100": 0.06692457674980316
+    }
+  ],
+  "finite_fock_operator_control": {
+    "interaction_relative_operator_norm": 0.169897080133473,
+    "commutator_relative_operator_norm": 0.2822873957079579,
+    "difference_relative_operator_norm": 0.13314565681841964,
+    "claimed_interaction_and_commutator_upper": 1.07155286099532,
+    "claimed_difference_upper": 0.9266803320381255,
+    "oscillators": 6,
+    "levels_per_oscillator": 2
+  },
+  "three_dimensional_instantaneous_kernel_lower_bound": [
+    {
+      "N": 4,
+      "instantaneous_pair_kernel_HS_squared_lower": 0.00016057951402771524
+    },
+    {
+      "N": 8,
+      "instantaneous_pair_kernel_HS_squared_lower": 0.00036284698217474876
+    },
+    {
+      "N": 16,
+      "instantaneous_pair_kernel_HS_squared_lower": 0.0007711186913920063
+    },
+    {
+      "N": 32,
+      "instantaneous_pair_kernel_HS_squared_lower": 0.0015879624828981046
+    },
+    {
+      "N": 64,
+      "instantaneous_pair_kernel_HS_squared_lower": 0.003222169990201069
+    }
+  ],
+  "vacuum_common_M_gaussian_controls": [
+    {
+      "N": 0,
+      "finite_M": 4,
+      "vacuum_pure_state_trace_distance": 0.7151507270765106,
+      "finite_M_vacuum_proof_bound": 2.0
+    },
+    {
+      "N": 1,
+      "finite_M": 4,
+      "vacuum_pure_state_trace_distance": 0.583608397329652,
+      "finite_M_vacuum_proof_bound": 2.0
+    },
+    {
+      "N": 2,
+      "finite_M": 4,
+      "vacuum_pure_state_trace_distance": 0.43943462615562406,
+      "finite_M_vacuum_proof_bound": 2.0
+    },
+    {
+      "N": 3,
+      "finite_M": 4,
+      "vacuum_pure_state_trace_distance": 0.2852355198158048,
+      "finite_M_vacuum_proof_bound": 2.0
+    },
+    {
+      "N": 4,
+      "finite_M": 4,
+      "vacuum_pure_state_trace_distance": 1.0745380149674383e-07,
+      "finite_M_vacuum_proof_bound": 0.0
+    }
+  ],
+  "weak_coupling_finite_M_control": {
+    "lambda": 0.02,
+    "N": 2,
+    "M": 4,
+    "vacuum_trace_distance": 0.008955580272246669,
+    "vacuum_bound": 0.07492475906750323
+  },
+  "interaction_only_illustrative_sufficient_N": 10000000000000000000000000000000000000000000000000000,
+  "interaction_only_bound_at_N": 0.005135868380201992,
+  "N_is_not_a_minimum": "round and deliberately enormous; bound is not interval-certified"
+}

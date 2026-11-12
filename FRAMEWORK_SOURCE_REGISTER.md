@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 265 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 223 verification Python scripts.
+- 266 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 224 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -238,6 +238,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TORUS_SECOND_ORDER_GRAVITY_MATTER.md](TORUS_SECOND_ORDER_GRAVITY_MATTER.md) — A second-order gravity–matter obstruction on the torus
 - [TURNING_CLOCK_ATLAS.md](TURNING_CLOCK_ATLAS.md) — A relational clock through turning points
 - [TURNING_ENTROPY_RECORD_BRIDGE.md](TURNING_ENTROPY_RECORD_BRIDGE.md) — Turning clocks, entropy paths, and the need for a retained record
+- [TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) — Complete continuum limit for the restricted two-field probe
 - [TWO_REPORTS_CONSENSUS_AND_REVERSAL.md](TWO_REPORTS_CONSENSUS_AND_REVERSAL.md) — Two reports: agreement, accuracy and reversible records
 - [TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) — A two-subject, reversible-record selector: first finite model
 - [UNIFIED_CONSTITUTION_MAP.md](UNIFIED_CONSTITUTION_MAP.md) — How phenomenal constitution belongs to the unified mathematical account
@@ -552,6 +553,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/torus_gravity_second_order.py](verification/torus_gravity_second_order.py)
 - [verification/turning_clock.py](verification/turning_clock.py)
 - [verification/turning_entropy_bridge.py](verification/turning_entropy_bridge.py)
+- [verification/two_field_instrument_continuum.py](verification/two_field_instrument_continuum.py)
 - [verification/two_field_spacetime_probe.py](verification/two_field_spacetime_probe.py)
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)

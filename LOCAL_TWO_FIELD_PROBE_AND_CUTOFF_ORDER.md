@@ -1,5 +1,7 @@
 # Local field probe: complete-order bound and an energy accounting gate
 
+**Subsequent restricted advance:** [the complete two-field continuum analysis](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) now gives an energy-constrained cutoff-to-continuum bound for both ordered instruments in this same 1+1 model. The bound is extremely conservative and does not complete the apparatus, 3+1 or gravity gates. The present report's statements that this convergence remained unproved describe its original scope.
+
 ## Result
 
 The idealized distributed qubit of the [previous smooth-switching test](SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md) can be replaced, for the **system–probe interaction**, by a second relativistic scalar field. A smooth compact spacetime coupling between two free Klein–Gordon fields is an established model, not our invention: it is the explicit example in [Fewster and Verch, *Quantum fields and local measurements*](https://arxiv.org/abs/1810.06512).

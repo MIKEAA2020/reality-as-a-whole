@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3d073c002af0f6aebb173dc31e6f6ae97057bbc9",
-  "file_count": 1016,
+  "base_head": "1bee8946c070ee594bd5e3973f173fc173ec3895",
+  "file_count": 1019,
   "files": [
     {
       "path": ".gitattributes",
@@ -245,8 +245,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "bytes": 22037,
-      "sha256": "cbaae2c17ae4d7d517cebc1adb92fb990ec6b9bae428b38b369653a16278ae57"
+      "bytes": 22492,
+      "sha256": "e7fe2badde7d2e06347c0a525fb8a45ef6279a9a9a21a774250550eac03fee64"
     },
     {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
@@ -405,8 +405,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 68754,
-      "sha256": "fdc29e7a3165485a5315926eb86ac777f4113994804a645e1f86fdbbfdba9e65"
+      "bytes": 69008,
+      "sha256": "1f200e7f00b819d92556ab88f1f19b14bf2ccf07ffc832b83bf704eb06362f07"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -575,8 +575,8 @@
     },
     {
       "path": "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
-      "bytes": 12497,
-      "sha256": "51607620327090bc3abd867452f441d8b347508307939d47de7372d39995366b"
+      "bytes": 12928,
+      "sha256": "e2a5a11edc51c110a854f184221460bcc15c5cff8c23d8cf843034123159c81f"
     },
     {
       "path": "MAINTAINED_DISCLOSURE_CANDIDATE.md",
@@ -1147,6 +1147,11 @@
       "path": "TURNING_ENTROPY_RECORD_BRIDGE.md",
       "bytes": 8522,
       "sha256": "2424f12f74e0143fb8d7a3bfaac52b6ea08297e589cc163f16017fee0c24a3f2"
+    },
+    {
+      "path": "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
+      "bytes": 12741,
+      "sha256": "fa9e67ec9235269c2e673cec1b52a57c9b2b0779047ec1b685fede95ae3ca3da"
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
@@ -3835,8 +3840,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 390120,
-      "sha256": "de4a531d62bc70b177d28e269d76059d22a59ec7d70493f72b25cfb2bd717ccc"
+      "bytes": 391374,
+      "sha256": "b95b662e0725356240225075063992b607fd28fa630711b92d3250e8487d9460"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4812,6 +4817,16 @@
       "path": "verification/turning_entropy_bridge.py",
       "bytes": 2269,
       "sha256": "53187d220a2e44ae6f77202a5ce2518d0bad4a5c83bada2bd62f34ee15a73abb"
+    },
+    {
+      "path": "verification/two_field_instrument_continuum.json",
+      "bytes": 4792,
+      "sha256": "6557a1bd36ce1fce474aee3eed866dd461cdc010b96066b0f24642a9a960d2e0"
+    },
+    {
+      "path": "verification/two_field_instrument_continuum.py",
+      "bytes": 8937,
+      "sha256": "54cd2ecec86595f11f28fe0864f9528ae58ef203baade3a89479ef266070e5fe"
     },
     {
       "path": "verification/two_field_spacetime_probe.json",
