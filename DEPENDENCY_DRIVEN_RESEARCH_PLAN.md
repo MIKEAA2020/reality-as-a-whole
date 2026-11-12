@@ -80,8 +80,9 @@ This step is new relative to the earlier locality note and turns a qualitative r
 - **Substeps:** (a) take a cited, fixed-background field/probe measurement construction, such as [Fewster–Verch](https://arxiv.org/abs/1810.06512); (b) specify compact smooth spacetime switchings and probe initial state; (c) derive the induced effect and complete instrument, including failed/no-click outcomes; (d) establish the causal-separation condition; (e) calculate a nontrivial finite-duration benchmark and check any approximation against a limiting case.
 - **Acceptance:** an actual source/probe action and same-event probabilities, with a stated support region and no hidden globally accessible zero-mode memory. A sharp field projector or a gate written by fiat is not sufficient.
 
-### L5. Carry the benchmark to the intended dimension — BLOCKED on L4
+### L5. Carry the benchmark to the intended dimension — PARTIAL; full acceptance blocked on L4
 
+- **Restricted 3+1 progress:** [The smooth-probe gate](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) gives a same-cutoff complete-order bound with superpolynomial spacelike leakage control, a finite first-order time-switched pair kernel and energy norm, and finite-mode numerical controls. It does not prove the full interacting cutoff-to-continuum instrument limit, a nonperturbative energy budget, or physically implemented records. A bounded-mean-energy example blocks a naive uniform first-order channel expansion.
 - **Substeps:** (a) restore all spatial directions and both sine/cosine modes; (b) define the same physical smears under refinement, with physical volumes and dimensions; (c) redo probability and source-energy bounds; (d) check timelike, spacelike and null-near controls; (e) compare cutoff dependence with known 3+1 detector literature.
 - **Acceptance:** a controlled 3+1 fixed-background result with both a causal leakage tolerance and an independently specified source/probe energy criterion. L2's 1D numbers cannot be reused as 3+1 bounds.
 
@@ -157,7 +158,7 @@ An inability to speak from an absolute nothing state does not by itself prove th
 
 ## 5. How to avoid repeating the previous failure
 
-- **Next action:** audit the ultraviolet obstacle to extending the [two-field continuum instrument result](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) to 3+1, and replace or account for its outgoing qubit, controller and records. The new 1+1 energy-constrained bound is extremely conservative and does not supply a full physical detector. In parallel develop M0/M4's candidate-and-rival sheet under the [global plan](GLOBAL_COHERENCE_AND_DECISION_PLAN.md). Do not jump straight to a new gravitational toy model.
+- **Next action:** determine whether the complete 3+1 Bogoliubov transformation and field-channel limit satisfy the necessary implementation and energy-domain conditions, beyond the [smooth-probe first-order and cutoff-order results](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md), and replace or account for the outgoing qubit, controller and records. The bounded-mean-energy counterexample rules out naively promoting a first-order norm bound to the full channel. In parallel develop M0/M4's candidate-and-rival sheet under the [global plan](GLOBAL_COHERENCE_AND_DECISION_PLAN.md). Do not jump straight to a new gravitational toy model.
 - In parallel, G1 can be researched without pretending L3–L5 are finished.
 - Every later report must point to the exact task it closes, the task(s) it unlocks, and the assumptions it does not close.
 - Periodically re-audit whether these tasks actually serve the endpoint. Passing a long list of isolated checks is not equivalent to a solution, and no timeline or guaranteed completion is asserted.

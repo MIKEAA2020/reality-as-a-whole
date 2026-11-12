@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1bee8946c070ee594bd5e3973f173fc173ec3895",
-  "file_count": 1019,
+  "base_head": "9602e12cb0ddfa5539497dbe5130603e45264945",
+  "file_count": 1022,
   "files": [
     {
       "path": ".gitattributes",
@@ -245,8 +245,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "bytes": 22492,
-      "sha256": "e7fe2badde7d2e06347c0a525fb8a45ef6279a9a9a21a774250550eac03fee64"
+      "bytes": 23170,
+      "sha256": "cc4ea3e54ae4d5d95dbff1c5e6d714ffd95ec7c324f3b35968eb83f97ffb150f"
     },
     {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
@@ -405,8 +405,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 69008,
-      "sha256": "1f200e7f00b819d92556ab88f1f19b14bf2ccf07ffc832b83bf704eb06362f07"
+      "bytes": 69300,
+      "sha256": "efa753313e084eb411aff6af06ea453220090d5d2e5e48856d558d99bb03df13"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1109,6 +1109,11 @@
       "sha256": "2bebb93f1a4e2d3186efe841982500ae70d49837e51c38f27c50aea604e0bc2b"
     },
     {
+      "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
+      "bytes": 11855,
+      "sha256": "2229b286e1ec6793fca5d395f94438186333f99846f6693e285f13c780301973"
+    },
+    {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
       "bytes": 13966,
       "sha256": "392acd75c44e327aa15d1e04d68858c3f8f2fadae03385c01e4ace66ac472cb3"
@@ -1150,8 +1155,8 @@
     },
     {
       "path": "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
-      "bytes": 12741,
-      "sha256": "fa9e67ec9235269c2e673cec1b52a57c9b2b0779047ec1b685fede95ae3ca3da"
+      "bytes": 13009,
+      "sha256": "c462ca426dfb4f3f4aa6d52881e7ad898550f3a829ed1ae0a9f3082fb1abaa58"
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
@@ -3840,8 +3845,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 391374,
-      "sha256": "b95b662e0725356240225075063992b607fd28fa630711b92d3250e8487d9460"
+      "bytes": 392696,
+      "sha256": "47e8a425d4353d36a00ad141b90729e4aa25fe2de6012b4abd4d6aea74e9e0c7"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4757,6 +4762,16 @@
       "path": "verification/thermal_time.py",
       "bytes": 4839,
       "sha256": "739be6debe8433ba6c1e8481f79bbc3fba86878d70c92a4b575d604d7ccfde1a"
+    },
+    {
+      "path": "verification/three_dimensional_smooth_probe_gate.json",
+      "bytes": 5191,
+      "sha256": "a0bc8cf0c1390e1aabd95e5f410ed24394d07cf3aae8a6d08210814de0036dcb"
+    },
+    {
+      "path": "verification/three_dimensional_smooth_probe_gate.py",
+      "bytes": 8904,
+      "sha256": "ad9062e8ebacb527d0087df2f37dd707711b3f41933422740a15ca2a1a2ebf68"
     },
     {
       "path": "verification/tick_readout.json",

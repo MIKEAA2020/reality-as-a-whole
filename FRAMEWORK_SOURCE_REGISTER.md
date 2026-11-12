@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 266 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 224 verification Python scripts.
+- 267 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 225 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -230,6 +230,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md](TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md) — Temporary friend records: a selector tested against quantum histories
 - [THERMAL_TIME.md](THERMAL_TIME.md) — Thermal time hypothesis: Tomita flow as physical time in the WdW model
 - [THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md](THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md) — Thoughtful Local Friendliness and subject-first reality
+- [THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) — A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle
 - [TIME_DECISIVE_TEST_GRAVITY_RECORD.md](TIME_DECISIVE_TEST_GRAVITY_RECORD.md) — Problem of time: a decisive test on a gravitating clock, and the remaining gap
 - [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
 - [TIME_SOLUTION_EVIDENCE_AUDIT.md](TIME_SOLUTION_EVIDENCE_AUDIT.md) — Problem of time: evidence and novelty audit
@@ -546,6 +547,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
 - [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
 - [verification/thermal_time.py](verification/thermal_time.py)
+- [verification/three_dimensional_smooth_probe_gate.py](verification/three_dimensional_smooth_probe_gate.py)
 - [verification/tick_readout.py](verification/tick_readout.py)
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
 - [verification/tolman_cocycle.py](verification/tolman_cocycle.py)

@@ -1,0 +1,168 @@
+{
+  "status": "passed",
+  "scope": "finite-mode ODE, lattice sum and counterexample arithmetic controls only",
+  "minimum_spatial_separation": 0.7707963267948965,
+  "maximum_temporal_separation": 0.45999999999999996,
+  "first_order_cube_cutoff_pair_sums": [
+    {
+      "N": 1,
+      "modes_per_field": 27,
+      "first_order_pair_norm_squared": 0.001331360295116955,
+      "quadratic_vacuum_energy_coefficient": 0.0037644052562594
+    },
+    {
+      "N": 2,
+      "modes_per_field": 125,
+      "first_order_pair_norm_squared": 0.009774103171492531,
+      "quadratic_vacuum_energy_coefficient": 0.042616522404393634
+    },
+    {
+      "N": 3,
+      "modes_per_field": 343,
+      "first_order_pair_norm_squared": 0.031296997030014956,
+      "quadratic_vacuum_energy_coefficient": 0.1818406944215619
+    },
+    {
+      "N": 4,
+      "modes_per_field": 729,
+      "first_order_pair_norm_squared": 0.06677595181607311,
+      "quadratic_vacuum_energy_coefficient": 0.47809659834529405
+    },
+    {
+      "N": 5,
+      "modes_per_field": 1331,
+      "first_order_pair_norm_squared": 0.11254770057947626,
+      "quadratic_vacuum_energy_coefficient": 0.9471420581033441
+    },
+    {
+      "N": 6,
+      "modes_per_field": 2197,
+      "first_order_pair_norm_squared": 0.16368075241514168,
+      "quadratic_vacuum_energy_coefficient": 1.5709010007391115
+    }
+  ],
+  "pair_diagonal_sphere_sums": [
+    {
+      "N": 4,
+      "instantaneous_diagonal_HS_squared": 0.00016057951402771527,
+      "smooth_switched_diagonal_HS_squared": 0.00015642151594706698
+    },
+    {
+      "N": 8,
+      "instantaneous_diagonal_HS_squared": 0.0003628469821747488,
+      "smooth_switched_diagonal_HS_squared": 0.000330356101433078
+    },
+    {
+      "N": 16,
+      "instantaneous_diagonal_HS_squared": 0.0007711186913920061,
+      "smooth_switched_diagonal_HS_squared": 0.0005528088723514991
+    },
+    {
+      "N": 32,
+      "instantaneous_diagonal_HS_squared": 0.001587962482898105,
+      "smooth_switched_diagonal_HS_squared": 0.0006253639020899195
+    },
+    {
+      "N": 64,
+      "instantaneous_diagonal_HS_squared": 0.0032221699902010587,
+      "smooth_switched_diagonal_HS_squared": 0.0006314540703750044
+    },
+    {
+      "N": 96,
+      "instantaneous_diagonal_HS_squared": 0.0048557132553412215,
+      "smooth_switched_diagonal_HS_squared": 0.0006320937866253606
+    }
+  ],
+  "finite_cube_derivative_majorant_controls": {
+    "quadrature_approx_switch_derivative_L1": [
+      1.0,
+      20.714285859872227,
+      1123.945826069679,
+      156831.64611350282,
+      59137673.301952735
+    ],
+    "N": 6,
+    "finite_cube_pair_majorant_r3": 605223.341079651,
+    "finite_cube_energy_majorant_r4": 47346138740.87994
+  },
+  "finite_mode_3d_order_rows": [
+    {
+      "C": 5.420472628543129e-05,
+      "D0": 7.450370330636992e-05,
+      "order_trace_bound_E100": 0.22044657910108847,
+      "order_trace_bound_E0": 0.012206858998642519,
+      "vacuum_unread_joint_fields_order_trace_distance": 0.012206745317499636,
+      "N": 1,
+      "modes_per_field": 27,
+      "source_center": 0.0
+    },
+    {
+      "C": 0.00010904496812786438,
+      "D0": 0.00021572779588577677,
+      "order_trace_bound_E100": 0.3161288765776686,
+      "order_trace_bound_E0": 0.02077150913562983,
+      "vacuum_unread_joint_fields_order_trace_distance": 0.020770949024231156,
+      "N": 2,
+      "modes_per_field": 125,
+      "source_center": 0.0
+    },
+    {
+      "C": 0.0002613831372233771,
+      "D0": 0.0006560705834881074,
+      "order_trace_bound_E100": 0.4935051417324084,
+      "order_trace_bound_E0": 0.03622348916071193,
+      "vacuum_unread_joint_fields_order_trace_distance": 0.0362205187180092,
+      "N": 3,
+      "modes_per_field": 343,
+      "source_center": 0.0
+    }
+  ],
+  "N3_ode_refinement": {
+    "C": 0.0002613831374269367,
+    "D0": 0.0006560705839989666,
+    "order_trace_bound_E100": 0.49350514192457196,
+    "order_trace_bound_E0": 0.03622348917481491,
+    "vacuum_unread_joint_fields_order_trace_distance": 0.036220518732108714
+  },
+  "nonspacelike_colocated_N2_control": {
+    "C": 0.01014160233749985,
+    "D0": 0.019956121380029244,
+    "order_trace_bound_E100": 2.0,
+    "order_trace_bound_E0": 0.19978048643463278,
+    "vacuum_unread_joint_fields_order_trace_distance": 0.199283165393915
+  },
+  "one_dimensional_backward_ode_crosscheck": {
+    "C": 0.0036215603910558698,
+    "D0": 0.004092165080506025,
+    "order_trace_bound_E100": 1.7925978094781159,
+    "order_trace_bound_E0": 0.09046728779515859,
+    "vacuum_unread_joint_fields_order_trace_distance": 0.09042103163049192
+  },
+  "bounded_mean_energy_derivative_counterexample": [
+    {
+      "n": 3,
+      "mean_free_energy": 2.0,
+      "channel_trace_derivative": 5.999999999999999
+    },
+    {
+      "n": 10,
+      "mean_free_energy": 2.0,
+      "channel_trace_derivative": 9.591663046625438
+    },
+    {
+      "n": 100,
+      "mean_free_energy": 2.0,
+      "channel_trace_derivative": 28.495613697550013
+    },
+    {
+      "n": 10000,
+      "mean_free_energy": 2.0,
+      "channel_trace_derivative": 282.86392488261913
+    },
+    {
+      "n": 1000000,
+      "mean_free_energy": 2.0,
+      "channel_trace_derivative": 2828.429246065738
+    }
+  ]
+}

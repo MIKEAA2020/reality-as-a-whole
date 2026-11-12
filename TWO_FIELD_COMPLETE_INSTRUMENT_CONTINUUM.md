@@ -1,5 +1,7 @@
 # Complete continuum limit for the restricted two-field probe
 
+**Subsequent dimensional test:** [the 3+1 smooth-probe gate](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) obtains a complete finite-cutoff order bound and a finite time-integrated first-order pair kernel, but not a full 3+1 cutoff-to-continuum instrument limit.
+
 ## Result
 
 For the specific **1+1-dimensional massive two-field model** in [the local probe report](LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md), there is a common-Fock-space cutoff-to-continuum bound for the **complete field–probe–qubit–record instrument**, including arbitrary reference entanglement and all four subnormalized recorded outcomes. It applies to both source/readout orders under one normal-ordered total input-energy constraint. This goes beyond the previous bound, which compared only the two orders at the same cutoff.
