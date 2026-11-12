@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9602e12cb0ddfa5539497dbe5130603e45264945",
-  "file_count": 1022,
+  "base_head": "cd7059c64642a8be882d53e76d1dbe2bce7c830c",
+  "file_count": 1025,
   "files": [
     {
       "path": ".gitattributes",
@@ -245,8 +245,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "bytes": 23170,
-      "sha256": "cc4ea3e54ae4d5d95dbff1c5e6d714ffd95ec7c324f3b35968eb83f97ffb150f"
+      "bytes": 23314,
+      "sha256": "13f92a8887a0f31a6a562f23835d4d09ce64972171dfe0cb715862bf9dbe71c0"
     },
     {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
@@ -405,8 +405,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 69300,
-      "sha256": "efa753313e084eb411aff6af06ea453220090d5d2e5e48856d558d99bb03df13"
+      "bytes": 69593,
+      "sha256": "0eb975a1a9962ef078bbc14a890fe2a7d5ff6d251f3f2140a875e2700b86f7a8"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1109,9 +1109,14 @@
       "sha256": "2bebb93f1a4e2d3186efe841982500ae70d49837e51c38f27c50aea604e0bc2b"
     },
     {
+      "path": "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+      "bytes": 13176,
+      "sha256": "0ecc72203a27fb45a2dfaa40187cda0c4c4a03e71e44ad4ed5a778a3f2543490"
+    },
+    {
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
-      "bytes": 11855,
-      "sha256": "2229b286e1ec6793fca5d395f94438186333f99846f6693e285f13c780301973"
+      "bytes": 12313,
+      "sha256": "03e8e7e0f1f3beca190c15072194dc4c04497b1c515287c8f7e4e5eb1e9054bb"
     },
     {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
@@ -3845,8 +3850,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 392696,
-      "sha256": "47e8a425d4353d36a00ad141b90729e4aa25fe2de6012b4abd4d6aea74e9e0c7"
+      "bytes": 394067,
+      "sha256": "12ad7746410e5c0754e6588cc624fb23b7a66ada2a66cf1e0b0a491db1be86dd"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4762,6 +4767,16 @@
       "path": "verification/thermal_time.py",
       "bytes": 4839,
       "sha256": "739be6debe8433ba6c1e8481f79bbc3fba86878d70c92a4b575d604d7ccfde1a"
+    },
+    {
+      "path": "verification/three_dimensional_bogoliubov_continuum.json",
+      "bytes": 3079,
+      "sha256": "c2afcb56b8bd3af9697f47bb7629da03f76036779dbfdec725c0fd99fe349fa4"
+    },
+    {
+      "path": "verification/three_dimensional_bogoliubov_continuum.py",
+      "bytes": 5714,
+      "sha256": "3f2470cdb4756b7fc45351c7335253cec7d69badc69529149452effd113dca7f"
     },
     {
       "path": "verification/three_dimensional_smooth_probe_gate.json",

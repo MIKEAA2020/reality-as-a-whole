@@ -1,5 +1,7 @@
 # A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle
 
+**Subsequent restricted advance:** [the nonperturbative 3+1 continuum analysis](THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md) uses a Hilbert–Schmidt frequency-sum primitive to obtain a full Bogoliubov and energy-constrained complete-instrument limit for this specified compact-volume model. Its bounds are qualitative and apparatus/gravity limitations remain. Statements below that the full limit remains open describe this report's original scope.
+
 ## Results
 
 The prior [1+1 two-field continuum proof](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) cannot simply be copied to three spatial dimensions: its instantaneous pair-creation kernel is not Hilbert–Schmidt. Three further results distinguish that failure from a failure of the physical proposal:

@@ -1,0 +1,110 @@
+{
+  "status": "passed",
+  "scope": "finite-M primitive sums and finite-mode nonperturbative Bogoliubov ODE controls, not a continuum proof",
+  "primitive_constants": {
+    "F3_L2_squared": 4.807915178373725,
+    "F3_Linf": 8.888036226441619,
+    "W_F": 0.019382830240902836,
+    "Z_A4_upper": 57.643064071779705,
+    "Z_B4_upper": 45.807995350413606,
+    "single_block_primitive_HS_upper": 0.2495000809746263
+  },
+  "finite_M6_single_block_primitive_HS": 0.05280175332691344,
+  "primitive_tail_controls": [
+    {
+      "N": 1,
+      "M": 6,
+      "finite_M_single_block_tail_HS": 0.05096388821723764,
+      "infinite_tail_HS_majorant": 0.29394118970141625
+    },
+    {
+      "N": 2,
+      "M": 6,
+      "finite_M_single_block_tail_HS": 0.04636425834902095,
+      "infinite_tail_HS_majorant": 0.24591188588878113
+    },
+    {
+      "N": 4,
+      "M": 6,
+      "finite_M_single_block_tail_HS": 0.03108025980922799,
+      "infinite_tail_HS_majorant": 0.2065185068481223
+    },
+    {
+      "N": 5,
+      "M": 6,
+      "finite_M_single_block_tail_HS": 0.020888474797888766,
+      "infinite_tail_HS_majorant": 0.19528267303642988
+    }
+  ],
+  "full_coupling_bogoliubov_rows": [
+    {
+      "M": 1,
+      "N": 1,
+      "lambda": 1.0,
+      "modes_per_field": 27,
+      "beta_HS_squared": 0.0026627363519752555,
+      "CCR_diagonal_defect": 8.881784197001252e-16,
+      "CCR_pair_defect": 2.909555012546824e-17
+    },
+    {
+      "M": 2,
+      "N": 1,
+      "lambda": 1.0,
+      "modes_per_field": 125,
+      "beta_HS_squared": 0.0026627366044362035,
+      "CCR_diagonal_defect": 6.661338147750939e-16,
+      "CCR_pair_defect": 1.7423012371947233e-17
+    },
+    {
+      "M": 2,
+      "N": 2,
+      "lambda": 1.0,
+      "modes_per_field": 125,
+      "beta_HS_squared": 0.01955023276617361,
+      "CCR_diagonal_defect": 1.2212453270876722e-15,
+      "CCR_pair_defect": 1.0765208762992673e-16
+    }
+  ],
+  "zero_coupling_control": {
+    "M": 1,
+    "N": 1,
+    "lambda": 0.0,
+    "modes_per_field": 27,
+    "beta_HS_squared": 0.0,
+    "CCR_diagonal_defect": 0.0,
+    "CCR_pair_defect": 0.0
+  },
+  "sign_reversed_coupling_control": {
+    "M": 1,
+    "N": 1,
+    "lambda": -1.0,
+    "modes_per_field": 27,
+    "beta_HS_squared": 0.0026627363519752555,
+    "CCR_diagonal_defect": 8.881784197001252e-16,
+    "CCR_pair_defect": 2.909555012546824e-17
+  },
+  "N1_ODE_refinement": {
+    "M": 1,
+    "N": 1,
+    "lambda": 1.0,
+    "modes_per_field": 27,
+    "beta_HS_squared": 0.0026627363018749237,
+    "CCR_diagonal_defect": 7.771561172376096e-16,
+    "CCR_pair_defect": 4.9447226916282755e-18
+  },
+  "common_M2_beta_difference_HS": 0.12995127530208123,
+  "common_M2_alpha_difference_operator_norm": 0.0896368942827703,
+  "weak_coupling": {
+    "result": {
+      "M": 1,
+      "N": 1,
+      "lambda": 0.02,
+      "modes_per_field": 27,
+      "beta_HS_squared": 1.0650881038595889e-06,
+      "CCR_diagonal_defect": 8.881784197001252e-16,
+      "CCR_pair_defect": 1.1277950264955853e-19
+    },
+    "first_order_expected_beta_HS_squared": 1.065088236093564e-06,
+    "ratio": 0.9999998758469293
+  }
+}
