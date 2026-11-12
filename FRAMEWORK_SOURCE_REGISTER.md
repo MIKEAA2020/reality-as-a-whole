@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 262 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 220 verification Python scripts.
+- 263 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 221 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -82,6 +82,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FINITE_REFERENCE_GRAVITY.md](FINITE_REFERENCE_GRAVITY.md) — A finite carrier clock without dust: gravitational spectral matching and completed records
 - [FINITE_REFERENCE_PUMP.md](FINITE_REFERENCE_PUMP.md) — A finite reference pump that transports, rather than erases, old correlations
 - [FINITE_SOURCE_CLOCK.md](FINITE_SOURCE_CLOCK.md) — A finite source feeding a finite gravitational program clock
+- [FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md](FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md) — A finite-strength pointer: convergence, energy and a sharp-readout obstruction
 - [FINITE_TURNING_COUNTER_INSTRUMENT.md](FINITE_TURNING_COUNTER_INSTRUMENT.md) — A bounded turning-clock record in one constrained history
 - [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
@@ -394,6 +395,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/finite_reference_gravity.py](verification/finite_reference_gravity.py)
 - [verification/finite_reference_pump.py](verification/finite_reference_pump.py)
 - [verification/finite_source_clock.py](verification/finite_source_clock.py)
+- [verification/finite_strength_pointer_continuum.py](verification/finite_strength_pointer_continuum.py)
 - [verification/finite_turning_counter.py](verification/finite_turning_counter.py)
 - [verification/finite_winding_noise.py](verification/finite_winding_noise.py)
 - [verification/fixed_gap_source_clock.py](verification/fixed_gap_source_clock.py)

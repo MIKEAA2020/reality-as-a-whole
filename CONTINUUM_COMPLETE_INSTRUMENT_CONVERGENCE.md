@@ -6,7 +6,7 @@ For the **specified one-dimensional even-cosine free-field model**, the cutoff s
 
 This is a substantive step beyond the earlier [finite-cutoff order comparison](CUTOFF_INSTRUMENT_UNIFORMITY.md): the two sides now have the **same input and output space**, and each cutoff instrument is compared to a continuum instrument. It is **not** a proof for the earlier kinetic-only energy class, a physically implemented probe, 3+1-dimensional QFT, gravitational backreaction, emergent spacetime or the whole framework. The proof uses standard bosonic field, Sobolev and channel estimates; energy-constrained channel metrics and their limitations are established work, e.g. [1](https://arxiv.org/abs/1706.00361) and [2](https://arxiv.org/abs/1712.10267).
 
-A key issue is that an ideal sharp Lüders measurement can produce an output with **infinite total energy**. The measurement-first estimate below avoids assuming otherwise: the cutoff measurement acts on low modes only, and its nonselective operation preserves the energy in the untouched high modes. The full physical cost of performing that ideal measurement remains unmodeled.
+A key issue is that an ideal sharp Lüders measurement can produce an output with **infinite total energy**. The measurement-first estimate below avoids assuming otherwise: the cutoff measurement acts on low modes only, and its nonselective operation preserves the energy in the untouched high modes. The full physical cost of performing that ideal measurement remains unmodeled. A subsequent [finite-strength pointer control](FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md) has a finite calculable nonselective field-energy cost, but is a different instrument and still not a constructed physical spacetime probe.
 
 ## 1. Common model and constraint
 

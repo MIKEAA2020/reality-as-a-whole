@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 305,
-  "bytes": 4102529,
-  "line_count": 45652,
-  "document_count_with_risk_phrases": 280,
+  "document_count": 306,
+  "bytes": 4115168,
+  "line_count": 45782,
+  "document_count_with_risk_phrases": 281,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1466,8 +1466,8 @@
     },
     {
       "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
-      "sha256": "4097a3d863923aae5086a35f339294a768d4d2d369c52401afa97268c1b4cb19",
-      "bytes": 11187,
+      "sha256": "4ce474c24d9947b51a351f8b714e16d6f0084b20de0acd9b46d949736fe9a847",
+      "bytes": 11417,
       "lines": 145,
       "title": "Complete cutoff-to-continuum instrument: a restricted common-space result",
       "headings": [
@@ -1481,6 +1481,7 @@
       ],
       "local_links": [
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
+        "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
         "verification/continuum_complete_instrument_bound.py"
       ],
@@ -1776,9 +1777,9 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "sha256": "95fdcb08223117dd88ac78bb4d3a534d486a1e4a215df9e1aecd104c08a4bc00",
-      "bytes": 19919,
-      "lines": 158,
+      "sha256": "060f324fde358f0e9d0cf2462d4830a41ccd6007d0a513ff78c168fe9841db4f",
+      "bytes": 20456,
+      "lines": 159,
       "title": "From what we have to what we need: dependency-driven work register",
       "headings": [
         "From what we have to what we need: dependency-driven work register",
@@ -1797,6 +1798,7 @@
         "verification/refinement_acceptance_budget.json",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
+        "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "SMOOTH_FIELD_CLOCK.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "TORUS_SECOND_ORDER_GRAVITY_MATTER.md",
@@ -1809,7 +1811,7 @@
         "ONE_WHOLE_FINITE_ACCESS.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
-        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
+        "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "GLOBAL_COHERENCE_AND_DECISION_PLAN.md"
       ],
       "risk_phrase_lines": [
@@ -1817,9 +1819,9 @@
         44,
         52,
         60,
-        71,
-        140,
-        157
+        72,
+        141,
+        158
       ]
     },
     {
@@ -2495,6 +2497,35 @@
       ]
     },
     {
+      "path": "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
+      "sha256": "1bbe9a65dc4fac3339603761eb95e02666786833efafb18fd19d4d33a2ed85bf",
+      "bytes": 11595,
+      "lines": 127,
+      "title": "A finite-strength pointer: convergence, energy and a sharp-readout obstruction",
+      "headings": [
+        "A finite-strength pointer: convergence, energy and a sharp-readout obstruction",
+        "Executive result",
+        "1. Precisely specified instrument",
+        "2. Complete-instrument continuum bound",
+        "3. Finite cutoff order difference without energy restriction",
+        "4. Field energy and the price of the simplified model",
+        "5. Why larger coupling does not recover a sign measurement",
+        "6. Verification and next discriminating step"
+      ],
+      "local_links": [
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
+        "verification/finite_strength_pointer_continuum.json",
+        "verification/finite_strength_pointer_continuum.py"
+      ],
+      "risk_phrase_lines": [
+        8,
+        62,
+        92,
+        108
+      ]
+    },
+    {
       "path": "FINITE_TURNING_COUNTER_INSTRUMENT.md",
       "sha256": "b49d5fbf2384f253c08a0e068f4329c88ca68a18861e874e9648a144d1b1b782",
       "bytes": 12445,
@@ -2734,9 +2765,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "88cfbe0bebb70dd8f8da412f0f7f9111e559c097129aeb61d3a39a919f8e4ab4",
-      "bytes": 67951,
-      "lines": 578,
+      "sha256": "2fcc26abb5c03454dc6791d8eb9e7298a619a32ad5bec30c6479c3c63ea766a1",
+      "bytes": 68228,
+      "lines": 580,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2820,6 +2851,7 @@
         "FINITE_REFERENCE_GRAVITY.md",
         "FINITE_REFERENCE_PUMP.md",
         "FINITE_SOURCE_CLOCK.md",
+        "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
         "FINITE_TURNING_COUNTER_INSTRUMENT.md",
         "FINITE_WINDING_READOUT.md",
         "FIXED_GAP_SOURCE_CLOCK.md",
@@ -3118,6 +3150,7 @@
         "verification/finite_reference_gravity.py",
         "verification/finite_reference_pump.py",
         "verification/finite_source_clock.py",
+        "verification/finite_strength_pointer_continuum.py",
         "verification/finite_turning_counter.py",
         "verification/finite_winding_noise.py",
         "verification/fixed_gap_source_clock.py",
@@ -3304,17 +3337,17 @@
         30,
         34,
         39,
-        131,
-        163,
-        175,
-        208,
-        253,
-        266,
-        302,
-        311,
-        314,
-        317,
-        346
+        132,
+        164,
+        176,
+        209,
+        254,
+        267,
+        303,
+        312,
+        315,
+        318,
+        347
       ]
     },
     {

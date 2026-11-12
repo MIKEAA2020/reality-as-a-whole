@@ -1,0 +1,148 @@
+{
+  "status": "passed",
+  "scope": "finite oscillator matrices, Gaussian examples, and tail-bound arithmetic only",
+  "continuum_readout_B": 0.8333333333333333,
+  "finite_M_readout_B": 0.8333333333317604,
+  "matrix_control": {
+    "oscillator_levels_per_mode": 24,
+    "modes": [
+      0,
+      2
+    ],
+    "field_energy_after_instrument": 0.22254775598908588,
+    "predicted_energy_increment": 0.22254775598908616,
+    "record_probabilities": [
+      0.4099999999999995,
+      0.08999999999999991,
+      0.08999999999999991,
+      0.4099999999999998
+    ],
+    "complex_excited_input_energy": 0.9999999999999998,
+    "complex_excited_output_energy": 1.2225477559890843
+  },
+  "E": 100.0,
+  "g": 1.0,
+  "lambda": 1.0,
+  "post_source_energy_upper": 194.7521490741054,
+  "post_pointer_nonselective_field_energy_upper": 100.41666666666667,
+  "sufficient_N_for_both_bounds_below_point_01": 1936,
+  "bounds_at_N": [
+    0.009993737538297015,
+    0.009999100434612107
+  ],
+  "bounds_at_N_minus_one": [
+    0.00999960372444208,
+    0.01000497058673675
+  ],
+  "finite_M_vacuum_controls": [
+    {
+      "N": 4,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.23159695739036332,
+      "analytic_bound": 0.8815462242933692
+    },
+    {
+      "N": 8,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.057124550285861435,
+      "analytic_bound": 0.2203865560733423
+    },
+    {
+      "N": 16,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.0142220467589823,
+      "analytic_bound": 0.05509663901833557
+    },
+    {
+      "N": 32,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.004088797369387019,
+      "analytic_bound": 0.013774159754583893
+    },
+    {
+      "N": 64,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.0010729443995235836,
+      "analytic_bound": 0.0034435399386459732
+    },
+    {
+      "N": 128,
+      "finite_M": 20000,
+      "unread_vacuum_trace_distance": 0.00027127533709059477,
+      "analytic_bound": 0.0008608849846614933
+    }
+  ],
+  "fixed_cutoff_order_controls": [
+    {
+      "N": 4,
+      "kappa": 0.07900677794452474,
+      "two_bit_TV": 0.03769385082716301,
+      "full_instrument_trace_distance_upper": 0.15784921854958767
+    },
+    {
+      "N": 8,
+      "kappa": 0.0116533985534365,
+      "two_bit_TV": 0.005442659198868949,
+      "full_instrument_trace_distance_upper": 0.0233062695933518
+    },
+    {
+      "N": 16,
+      "kappa": -1.5096315772067381e-05,
+      "two_bit_TV": 7.0405059128031414e-06,
+      "full_instrument_trace_distance_upper": 3.019263154298795e-05
+    },
+    {
+      "N": 32,
+      "kappa": -1.0632607554406093e-06,
+      "two_bit_TV": 4.958295298784776e-07,
+      "full_instrument_trace_distance_upper": 2.126521510880818e-06
+    },
+    {
+      "N": 64,
+      "kappa": -2.981229607623703e-08,
+      "two_bit_TV": 1.3902235762586202e-08,
+      "full_instrument_trace_distance_upper": 5.962459215247405e-08
+    },
+    {
+      "N": 128,
+      "kappa": 3.328295183901986e-08,
+      "two_bit_TV": 1.5520682872249838e-08,
+      "full_instrument_trace_distance_upper": 6.65659036780397e-08
+    }
+  ],
+  "sharp_threshold_counterexample": {
+    "mean": 1.0,
+    "variance_finite_M": 0.2698641398208505,
+    "finite_input_energy": 0.7853981633974483,
+    "samples": [
+      {
+        "lambda": 1.0,
+        "pointer_plus_probability": 0.7650177441193008,
+        "sharp_sign_plus_probability": 0.9728843995258502,
+        "two_noisy_bits_tv_gap": 0.1662933243252395,
+        "continuum_field_energy_increment": 0.41666666666666663
+      },
+      {
+        "lambda": 2.0,
+        "pointer_plus_probability": 0.45631337392499827,
+        "sharp_sign_plus_probability": 0.9728843995258502,
+        "two_noisy_bits_tv_gap": 0.4132568204806815,
+        "continuum_field_energy_increment": 1.6666666666666665
+      },
+      {
+        "lambda": 5.0,
+        "pointer_plus_probability": 0.49999962454281655,
+        "sharp_sign_plus_probability": 0.9728843995258502,
+        "two_noisy_bits_tv_gap": 0.37830781998642693,
+        "continuum_field_energy_increment": 10.416666666666664
+      },
+      {
+        "lambda": 10.0,
+        "pointer_plus_probability": 0.5,
+        "sharp_sign_plus_probability": 0.9728843995258502,
+        "two_noisy_bits_tv_gap": 0.37830751962068015,
+        "continuum_field_energy_increment": 41.66666666666666
+      }
+    ]
+  }
+}
