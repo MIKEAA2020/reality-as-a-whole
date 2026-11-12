@@ -1,0 +1,35 @@
+{
+  "scope": "semantic toys and stipulated relations, not metaphysical grounding or actual subjects",
+  "reflexive_two_point_frames": 4,
+  "valuation_cases_checked": 256,
+  "schema_and_two_actual_candidates_checked": 16,
+  "under_schema_all_actual_candidates_necessitate_each_actual_truth": true,
+  "noncollapse_control": {
+    "a_necessitates_p": false,
+    "b_necessitates_p": true
+  },
+  "minimal_toy_one_to_one_relations_count": 2,
+  "toy_relations_pairs_entity_then_truth": [
+    [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  ],
+  "local_sector_contrast_compatible_with_global_schema": true
+}

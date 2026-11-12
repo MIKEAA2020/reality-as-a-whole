@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 258 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 215 verification Python scripts.
+- 259 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 217 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -154,6 +154,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
 - [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
+- [PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md](PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md) — Strong actuality and the experiential-grounding problem
 - [POST_ROY_FRAMEWORK_CRITICAL_PATH.md](POST_ROY_FRAMEWORK_CRITICAL_PATH.md) — After the Roy data: decision and framework critical path
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
@@ -383,6 +384,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_constrained_instrument_bound.py](verification/energy_constrained_instrument_bound.py)
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
+- [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
 - [verification/finite_completion_clock.py](verification/finite_completion_clock.py)
 - [verification/finite_reference_gravity.py](verification/finite_reference_gravity.py)
@@ -457,6 +459,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/plenitude_dimension.py](verification/plenitude_dimension.py)
 - [verification/plenitude_foundation_symmetry_gates.py](verification/plenitude_foundation_symmetry_gates.py)
 - [verification/plenitude_identity.py](verification/plenitude_identity.py)
+- [verification/plenitude_truthmaker_relevance.py](verification/plenitude_truthmaker_relevance.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)

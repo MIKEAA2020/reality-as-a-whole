@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 301,
-  "bytes": 4057129,
-  "line_count": 45247,
-  "document_count_with_risk_phrases": 276,
+  "document_count": 302,
+  "bytes": 4070110,
+  "line_count": 45326,
+  "document_count_with_risk_phrases": 277,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2676,9 +2676,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e404011bedd53170e9b83db015ed9cea4e1f2d7b865d7071560947820c9b7df2",
-      "bytes": 66799,
-      "lines": 569,
+      "sha256": "fdb1fc8d7cdab0b5a68d3b9d78581eb47a6446ab55d7567a18f1af1145913001",
+      "bytes": 67138,
+      "lines": 572,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2834,6 +2834,7 @@
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
         "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
@@ -3049,6 +3050,7 @@
         "verification/energy_constrained_instrument_bound.py",
         "verification/energy_exchange_clock.py",
         "verification/experience_collapse_identifiability.py",
+        "verification/experience_ground_support_toy.py",
         "verification/field_readout_energy_bound.py",
         "verification/finite_completion_clock.py",
         "verification/finite_reference_gravity.py",
@@ -3123,6 +3125,7 @@
         "verification/plenitude_dimension.py",
         "verification/plenitude_foundation_symmetry_gates.py",
         "verification/plenitude_identity.py",
+        "verification/plenitude_truthmaker_relevance.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
         "verification/qualitative_anchor_check.py",
@@ -3238,16 +3241,16 @@
         34,
         39,
         129,
-        160,
-        172,
-        205,
-        249,
-        262,
-        298,
-        307,
-        310,
-        313,
-        342
+        161,
+        173,
+        206,
+        250,
+        263,
+        299,
+        308,
+        311,
+        314,
+        343
       ]
     },
     {
@@ -5513,6 +5516,31 @@
         137,
         138,
         140
+      ]
+    },
+    {
+      "path": "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+      "sha256": "6b87deabf4ad0fe11f6be668a2318517e2dc99e8ce731f54e05696b7e00125ac",
+      "bytes": 12642,
+      "lines": 76,
+      "title": "Strong actuality and the experiential-grounding problem",
+      "headings": [
+        "Strong actuality and the experiential-grounding problem",
+        "Result",
+        "1. Exact conditional derivation",
+        "2. Does “truth is experiential” solve the problem?",
+        "3. A constructive test for a candidate grounding rule",
+        "4. First constructive candidate: content-sensitive support",
+        "5. Battery effect and what comes next"
+      ],
+      "local_links": [
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "verification/plenitude_truthmaker_relevance.py",
+        "verification/experience_ground_support_toy.py"
+      ],
+      "risk_phrase_lines": [
+        13
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2cefe8655ab63103f1c77e3e998ec397a36b863e",
-  "file_count": 992,
+  "base_head": "b133413a4ee53ff5baaf8d470a378912f88f7658",
+  "file_count": 997,
   "files": [
     {
       "path": ".gitattributes",
@@ -390,8 +390,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 66799,
-      "sha256": "e404011bedd53170e9b83db015ed9cea4e1f2d7b865d7071560947820c9b7df2"
+      "bytes": 67138,
+      "sha256": "fdb1fc8d7cdab0b5a68d3b9d78581eb47a6446ab55d7567a18f1af1145913001"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -727,6 +727,11 @@
       "path": "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
       "bytes": 18742,
       "sha256": "d19669b5e4854c4bc25c06ae66103ded59bbf5b74c8d1080a0e72af251cddb34"
+    },
+    {
+      "path": "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+      "bytes": 12642,
+      "sha256": "6b87deabf4ad0fe11f6be668a2318517e2dc99e8ce731f54e05696b7e00125ac"
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
@@ -3009,6 +3014,16 @@
       "sha256": "8d1f82dd768c55c0d8772169da2bcf768918aa094623ef48e5b17c74dd74ff2a"
     },
     {
+      "path": "verification/experience_ground_support_toy.json",
+      "bytes": 621,
+      "sha256": "5a61660d3bc1bce598c9686480b1d2e1a3f3059104cbcb0729f9a394270a1810"
+    },
+    {
+      "path": "verification/experience_ground_support_toy.py",
+      "bytes": 3282,
+      "sha256": "f86fc5320210f4d83f2321e1a60d0ddc89f776e5c5603b28ab948449ea8d5de7"
+    },
+    {
       "path": "verification/field_readout_energy_bound.json",
       "bytes": 4335,
       "sha256": "4c695dcb8895722781997b2ef57825bb6824f825491374e844ce6bceed7495b2"
@@ -3739,6 +3754,16 @@
       "sha256": "1aaa33c871e0c6e41ea2dedc633bea07af476ebe6f196a61f8e07dafe2e380ae"
     },
     {
+      "path": "verification/plenitude_truthmaker_relevance.json",
+      "bytes": 725,
+      "sha256": "1bef189cc4825b89be3b59a9520070f94178ddd8ab5895f3b9b3c13676abb62c"
+    },
+    {
+      "path": "verification/plenitude_truthmaker_relevance.py",
+      "bytes": 3234,
+      "sha256": "5c9d9261b22fbf12e103cab47de42daa5467c4e1685773876e2a3b3a4007f0b8"
+    },
+    {
       "path": "verification/problem_of_time_closed.json",
       "bytes": 1986,
       "sha256": "b813a6e0ef0fb92e20d228d59dc87578914d1aab87d3b1120b853cfc0d19296b"
@@ -3750,8 +3775,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 381539,
-      "sha256": "1fc959514300d664c15b40b7f7916040d1ba9c7f9dbc5ab034f3c586570bbfe6"
+      "bytes": 382684,
+      "sha256": "2d917f0729bb23e7768dc19d3835e751ef6213d2364b0f37d6020c67fe940dbc"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,0 +1,35 @@
+{
+  "scope": "logical support only, not a physical or experiential ground",
+  "true_boolean_function_assignment_cases_checked": 32,
+  "actual_assignment": [
+    1,
+    1
+  ],
+  "minimal_literal_supports": {
+    "and": [
+      [
+        "0=1",
+        "1=1"
+      ]
+    ],
+    "or": [
+      [
+        "0=1"
+      ],
+      [
+        "1=1"
+      ]
+    ],
+    "equality": [
+      [
+        "0=1",
+        "1=1"
+      ]
+    ],
+    "tautology": [
+      []
+    ]
+  },
+  "swapped_inputs_equivariant": true,
+  "caveat": "Completions are formal valuations; existential, phenomenal and grounding interpretation are not supplied."
+}
