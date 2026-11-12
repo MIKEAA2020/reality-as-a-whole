@@ -1,0 +1,133 @@
+{
+  "status": "passed",
+  "scope": "quadrature and finite-mode controls only; locality follows from PDE support, not numerics",
+  "spatial_halfwidth": 0.4,
+  "switch_halfwidth": 0.08,
+  "readout_center": 1.5707963267948966,
+  "switch_center_difference": 0.3,
+  "mass": 0.5,
+  "minimal_spatial_separation": 0.7707963267948965,
+  "maximal_temporal_separation": 0.45999999999999996,
+  "local_mass_integrated_kappa_N256": -1.1446236015744112e-16,
+  "old_regulator_integrated_kappa_N256": -0.0018269453490829255,
+  "old_regulator_exact_kappa": -0.00182694534908279,
+  "old_regulator_example_two_bit_tv": 0.0008524308379503735,
+  "old_vacuum_smeared_readout_variance": 0.2695813945865735,
+  "field_probe_energy_increment": 0.4140785115066057,
+  "matrix_energy_control": {
+    "levels_per_mode": 24,
+    "modes": [
+      0,
+      2
+    ],
+    "expected_increment": 0.22266826627247108,
+    "vacuum_and_excited_increments": [
+      0.22266826627247072,
+      0.22266826627247016
+    ]
+  },
+  "source_vacuum_field_energy_increment": 14.621145784771187,
+  "vacuum_smeared_readout_variance": 0.2671785412131725,
+  "switch_hat_zero_frequency_mode": 0.9998735147422517,
+  "quadrature_mode_sum_controls": [
+    {
+      "N": 0,
+      "local_mass_kappa": 0.15732799774281253,
+      "old_zero_mode_kappa": 0.15732799774281253,
+      "mass_record_tv": 0.090053475015761,
+      "full_instrument_trace_bound": 0.31335953498023617,
+      "finite_M_vacuum_source_distance": 1.9342042005984754,
+      "source_vacuum_tail_bound": 2.0,
+      "finite_M_vacuum_unread_pointer_distance": 0.640092873322053,
+      "pointer_vacuum_tail_bound": 0.9297907596143613
+    },
+    {
+      "N": 2,
+      "local_mass_kappa": -0.07587666204344931,
+      "old_zero_mode_kappa": -0.0789608934040413,
+      "mass_record_tv": 0.038284959456663825,
+      "full_instrument_trace_bound": 0.15160775190931675,
+      "finite_M_vacuum_source_distance": 1.893815969897626,
+      "source_vacuum_tail_bound": 2.0,
+      "finite_M_vacuum_unread_pointer_distance": 0.38939787439371343,
+      "pointer_vacuum_tail_bound": 0.5560205908323402
+    },
+    {
+      "N": 4,
+      "local_mass_kappa": -0.002948219871362845,
+      "old_zero_mode_kappa": -0.004215298561103045,
+      "mass_record_tv": 0.0014188222487892628,
+      "full_instrument_trace_bound": 0.005896431200753292,
+      "finite_M_vacuum_source_distance": 1.7559773345872454,
+      "source_vacuum_tail_bound": 2.0,
+      "finite_M_vacuum_unread_pointer_distance": 0.22786846919375914,
+      "pointer_vacuum_tail_bound": 0.3233078956398489
+    },
+    {
+      "N": 8,
+      "local_mass_kappa": -0.009810577140502034,
+      "old_zero_mode_kappa": -0.011633961489865702,
+      "mass_record_tv": 0.004605564715081679,
+      "full_instrument_trace_bound": 0.01962083953492673,
+      "finite_M_vacuum_source_distance": 0.9839562590532899,
+      "source_vacuum_tail_bound": 1.0528588453112613,
+      "finite_M_vacuum_unread_pointer_distance": 0.05231673590334715,
+      "pointer_vacuum_tail_bound": 0.07399969874333791
+    },
+    {
+      "N": 16,
+      "local_mass_kappa": 0.0005882911656808359,
+      "old_zero_mode_kappa": -0.0012408411615103222,
+      "mass_record_tv": 0.00027584836932017967,
+      "full_instrument_trace_bound": 0.0011765822634951305,
+      "finite_M_vacuum_source_distance": 0.487613034218647,
+      "source_vacuum_tail_bound": 0.49510223771373035,
+      "finite_M_vacuum_unread_pointer_distance": 0.016135884782626644,
+      "pointer_vacuum_tail_bound": 0.022819958454971208
+    },
+    {
+      "N": 32,
+      "local_mass_kappa": -6.938689835768699e-06,
+      "old_zero_mode_kappa": -0.0018338869812593265,
+      "mass_record_tv": 3.253117444194798e-06,
+      "full_instrument_trace_bound": 1.3877379671426042e-05,
+      "finite_M_vacuum_source_distance": 0.08731308912488733,
+      "source_vacuum_tail_bound": 0.08735473449927049,
+      "finite_M_vacuum_unread_pointer_distance": 0.0016803187190275043,
+      "pointer_vacuum_tail_bound": 0.002376329940901836
+    },
+    {
+      "N": 64,
+      "local_mass_kappa": 6.843031987556164e-10,
+      "old_zero_mode_kappa": -0.001826944664580387,
+      "mass_record_tv": 3.208264937700484e-10,
+      "full_instrument_trace_bound": 1.3686063975112327e-09,
+      "finite_M_vacuum_source_distance": 0.0032883887849463143,
+      "source_vacuum_tail_bound": 0.0032883910073867413,
+      "finite_M_vacuum_unread_pointer_distance": 2.9906904386292206e-05,
+      "pointer_vacuum_tail_bound": 4.2294749794054175e-05
+    },
+    {
+      "N": 128,
+      "local_mass_kappa": 4.633450217861669e-12,
+      "old_zero_mode_kappa": -0.0018269453444483689,
+      "mass_record_tv": 2.172331781428991e-12,
+      "full_instrument_trace_bound": 9.266900435723337e-12,
+      "finite_M_vacuum_source_distance": 0.00016152927625136748,
+      "source_vacuum_tail_bound": 0.00016152927651477838,
+      "finite_M_vacuum_unread_pointer_distance": 8.311051877163713e-07,
+      "pointer_vacuum_tail_bound": 1.17536022822718e-06
+    },
+    {
+      "N": 256,
+      "local_mass_kappa": -1.1446236015744112e-16,
+      "old_zero_mode_kappa": -0.0018269453490829255,
+      "mass_record_tv": 5.366416192166335e-17,
+      "full_instrument_trace_bound": 2.2892472031488223e-16,
+      "finite_M_vacuum_source_distance": 0.0,
+      "source_vacuum_tail_bound": 0.0,
+      "finite_M_vacuum_unread_pointer_distance": 0.0,
+      "pointer_vacuum_tail_bound": 0.0
+    }
+  ]
+}

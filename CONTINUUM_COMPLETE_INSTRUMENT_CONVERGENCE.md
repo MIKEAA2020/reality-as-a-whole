@@ -25,7 +25,7 @@ H = Σ_{n≥0} ω_n a†_n a_n,    Tr(ρ H) ≤ E,
 q_n=(a_n+a†_n)/√(2ω_n),    p_n=i√(ω_n/2)(a†_n−a_n).
 ```
 
-The zero-mode oscillator is an explicit infrared/energy-constraint regulator. Its vacuum has `Var(q_0)=1`, `Var(p_0)=1/4`, matching the previously specified Gaussian preparation. But this bound is **not** identical to the previous kinetic-only constraint: it adds a zero-mode confining term and normal-orders the infinite-mode energy. The new energy class is an additional assumption, not a demonstrated equivalence of domains or a complete physical energy budget.
+The zero-mode oscillator is an explicit infrared/energy-constraint regulator. Its vacuum has `Var(q_0)=1`, `Var(p_0)=1/4`, matching the previously specified Gaussian preparation. But this bound is **not** identical to the previous kinetic-only constraint: it adds a zero-mode confining term and normal-orders the infinite-mode energy. The new energy class is an additional assumption, not a demonstrated equivalence of domains or a complete physical energy budget. **Subsequent correction:** if this oscillator energy is also used as the dynamical Hamiltonian while the nonzero modes remain massless, it produces a spatially global zero-mode restoring force. The [smooth-switching test](SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md) finds an explicit nonzero spacelike commutator. The equal-slice results here remain valid, but must not be generalized to local spacetime evolution under this regulator.
 
 On this common space, finite-mode operators act as the identity on the tail:
 

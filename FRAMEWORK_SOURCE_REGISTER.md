@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 263 root Markdown documents including this register; 43 research Markdown documents.
-- 20 original uploaded files, including provenance metadata; 221 verification Python scripts.
+- 264 root Markdown documents including this register; 43 research Markdown documents.
+- 20 original uploaded files, including provenance metadata; 222 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -209,6 +209,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md](SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md) — Simulation to zero residue: side-by-side attachment audit
 - [SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) — Six criteria: physical and consciousness-theoretic adequacy
 - [SMOOTH_FIELD_CLOCK.md](SMOOTH_FIELD_CLOCK.md) — Smooth dynamical clock matter: constraints, backreacting initial data, and a local-algebra bridge
+- [SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md](SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md) — Smooth switching reveals a zero-mode locality failure—and a restricted repair
 - [SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md](SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md) — A concrete test: extrastriate cortex, frontal consumers, and IFG stimulation
 - [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
@@ -529,6 +530,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)
 - [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
 - [verification/smooth_field_clock.py](verification/smooth_field_clock.py)
+- [verification/smooth_switched_locality_gate.py](verification/smooth_switched_locality_gate.py)
 - [verification/specific_pathway_observability.py](verification/specific_pathway_observability.py)
 - [verification/spectral_action_bounce.py](verification/spectral_action_bounce.py)
 - [verification/spectral_action_finite_sm.py](verification/spectral_action_finite_sm.py)

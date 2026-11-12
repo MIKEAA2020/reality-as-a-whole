@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e2de3b679a8861a542f6cc80d11d50ed63590851",
-  "file_count": 1009,
+  "base_head": "5d95dc14f94be2405a2e1178038626dfc6df0821",
+  "file_count": 1012,
   "files": [
     {
       "path": ".gitattributes",
@@ -195,8 +195,8 @@
     },
     {
       "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
-      "bytes": 11417,
-      "sha256": "4ce474c24d9947b51a351f8b714e16d6f0084b20de0acd9b46d949736fe9a847"
+      "bytes": 11854,
+      "sha256": "9320ffcd54c26925c1371f975d5c4455e3b8722c0aceacc13a1d00aee007fb3f"
     },
     {
       "path": "CORRELATED_PUMP_CERTIFICATION.md",
@@ -245,8 +245,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "bytes": 20456,
-      "sha256": "060f324fde358f0e9d0cf2462d4830a41ccd6007d0a513ff78c168fe9841db4f"
+      "bytes": 21042,
+      "sha256": "6f3b22244b4d6b4c39cd6c53292686f9e3c72901615551aee9f0dba023de85fe"
     },
     {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
@@ -360,8 +360,8 @@
     },
     {
       "path": "FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md",
-      "bytes": 11595,
-      "sha256": "1bbe9a65dc4fac3339603761eb95e02666786833efafb18fd19d4d33a2ed85bf"
+      "bytes": 11912,
+      "sha256": "1762021de3f174e4a4262e6f8031797aa25919c994df93a00a143caacf18f180"
     },
     {
       "path": "FINITE_TURNING_COUNTER_INSTRUMENT.md",
@@ -405,8 +405,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 68228,
-      "sha256": "2fcc26abb5c03454dc6791d8eb9e7298a619a32ad5bec30c6479c3c63ea766a1"
+      "bytes": 68502,
+      "sha256": "d78280c16301b988c851e0fdde3606c5348131554b1444c5fd8e7bd23087a651"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1002,6 +1002,11 @@
       "path": "SMOOTH_FIELD_CLOCK.md",
       "bytes": 17541,
       "sha256": "c87f22258a0ffaae59625d02aa659230998bbabfedf581d9e7b323f44ac5587b"
+    },
+    {
+      "path": "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+      "bytes": 11942,
+      "sha256": "0c17e060fbcd2bfbf5713b26f6487b134997fd32bdaf978eb8f51b832324f004"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -3825,8 +3830,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 387614,
-      "sha256": "06c8c8889d42698bc31c9ada8a9353e6fc77d0a1859c95518414a8700561815d"
+      "bytes": 388965,
+      "sha256": "f815e8948d3eaf9b1d233ecd1980ba50ffd505b4b11259790f8d0b3bf0061998"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4547,6 +4552,16 @@
       "path": "verification/smooth_field_clock.py",
       "bytes": 13531,
       "sha256": "c1e01d573c8e727cadc8085032652bdaf38a2fbd92c1496b0baac5787e3fa01d"
+    },
+    {
+      "path": "verification/smooth_switched_locality_gate.json",
+      "bytes": 5388,
+      "sha256": "a439baa41078d7bf6293d6945bf6cdff867e4d99ea4758895a181d413029a815"
+    },
+    {
+      "path": "verification/smooth_switched_locality_gate.py",
+      "bytes": 7073,
+      "sha256": "a3b81bf54dd3b540f8ecd8ede8c7462636e0cd631e5a148ef216ba20c2d696d9"
     },
     {
       "path": "verification/sources/barontini_2026/Fig2Fig3V0.txt",
