@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 304,
-  "bytes": 4089919,
-  "line_count": 45502,
-  "document_count_with_risk_phrases": 279,
+  "document_count": 305,
+  "bytes": 4102529,
+  "line_count": 45652,
+  "document_count_with_risk_phrases": 280,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1465,6 +1465,31 @@
       ]
     },
     {
+      "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
+      "sha256": "4097a3d863923aae5086a35f339294a768d4d2d369c52401afa97268c1b4cb19",
+      "bytes": 11187,
+      "lines": 145,
+      "title": "Complete cutoff-to-continuum instrument: a restricted common-space result",
+      "headings": [
+        "Complete cutoff-to-continuum instrument: a restricted common-space result",
+        "Result",
+        "1. Common model and constraint",
+        "2. Measurement comparison",
+        "3. Source comparison and the two orders",
+        "4. Numerical controls and scope",
+        "5. Remaining gates"
+      ],
+      "local_links": [
+        "CUTOFF_INSTRUMENT_UNIFORMITY.md",
+        "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
+        "verification/continuum_complete_instrument_bound.py"
+      ],
+      "risk_phrase_lines": [
+        138,
+        143
+      ]
+    },
+    {
       "path": "CORRELATED_PUMP_CERTIFICATION.md",
       "sha256": "3757b7e25ee355616440a784a7af058ef7ff917b4e1c141df8588ee13f67ca89",
       "bytes": 14316,
@@ -1687,9 +1712,9 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "sha256": "4d3d544b90029ce732380d6879976f46a217f0f27e18910fc5cb4334a19f55b5",
-      "bytes": 11254,
-      "lines": 79,
+      "sha256": "b27a4d170a7274d62f0c008e1926ceb2df8e6f763613ed29b4621bf45f121099",
+      "bytes": 11660,
+      "lines": 81,
       "title": "A necessary intermediate step: what can converge uniformly?",
       "headings": [
         "A necessary intermediate step: what can converge uniformly?",
@@ -1700,6 +1725,7 @@
         "5. Remaining micro-steps before L3 is closed"
       ],
       "local_links": [
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
         "verification/cutoff_instrument_uniformity.py",
@@ -1709,9 +1735,9 @@
         "OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        23,
-        70,
-        75
+        25,
+        72,
+        77
       ]
     },
     {
@@ -1750,9 +1776,9 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "sha256": "c40c0f9d8d20103f6c199d46af7501e84b92d6aca61eb1a8af57807be2493613",
-      "bytes": 19184,
-      "lines": 157,
+      "sha256": "95fdcb08223117dd88ac78bb4d3a534d486a1e4a215df9e1aecd104c08a4bc00",
+      "bytes": 19919,
+      "lines": 158,
       "title": "From what we have to what we need: dependency-driven work register",
       "headings": [
         "From what we have to what we need: dependency-driven work register",
@@ -1770,6 +1796,7 @@
         "verification/refinement_acceptance_budget.py",
         "verification/refinement_acceptance_budget.json",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "SMOOTH_FIELD_CLOCK.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "TORUS_SECOND_ORDER_GRAVITY_MATTER.md",
@@ -1782,6 +1809,7 @@
         "ONE_WHOLE_FINITE_ACCESS.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "GLOBAL_COHERENCE_AND_DECISION_PLAN.md"
       ],
       "risk_phrase_lines": [
@@ -1789,9 +1817,9 @@
         44,
         52,
         60,
-        70,
-        139,
-        156
+        71,
+        140,
+        157
       ]
     },
     {
@@ -2706,9 +2734,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e0c53557de83f76a3106e1a5f3733f5abc76a66f208418994cc060aeb750ba6a",
-      "bytes": 67669,
-      "lines": 576,
+      "sha256": "88cfbe0bebb70dd8f8da412f0f7f9111e559c097129aeb61d3a39a919f8e4ab4",
+      "bytes": 67951,
+      "lines": 578,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2759,6 +2787,7 @@
         "CONSTITUTIVE_VALUE_PRINCIPLE.md",
         "CONSUMER_COVERAGE_IDENTIFIABILITY.md",
         "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
+        "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "CORRELATED_PUMP_CERTIFICATION.md",
         "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
         "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
@@ -3068,6 +3097,7 @@
         "verification/consumer_coverage_identifiability.py",
         "verification/contextual_disclosure.py",
         "verification/continuous_feedback_digital_approximation.py",
+        "verification/continuum_complete_instrument_bound.py",
         "verification/correlated_pump_certification.py",
         "verification/cosmological_constant_cancel.py",
         "verification/coupled_subject_boundary_gate.py",
@@ -3274,17 +3304,17 @@
         30,
         34,
         39,
-        130,
-        162,
-        174,
-        207,
-        252,
-        265,
-        301,
-        310,
-        313,
-        316,
-        345
+        131,
+        163,
+        175,
+        208,
+        253,
+        266,
+        302,
+        311,
+        314,
+        317,
+        346
       ]
     },
     {

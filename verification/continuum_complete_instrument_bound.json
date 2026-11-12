@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "scope": "arithmetic and finite-M vacuum controls only; analytic proof is in report",
+  "dimension": "1D even-cosine Fock sector",
+  "zero_mode_frequency": 0.5,
+  "energy_constraint": 100.0,
+  "source_g": 1.0,
+  "source_displacement_energy_bound": 15.644894367886483,
+  "post_source_input_energy_upper": 194.7521490741054,
+  "conservative_Ch_upper": 298.4950957688497,
+  "conservative_N_for_both_unhalved_norm_bounds_below_0_01": 459854,
+  "bounds_at_N": {
+    "source_then_measurement": 0.009999986902150293,
+    "measurement_then_source": 0.00961526079919338
+  },
+  "bounds_at_N_minus_1": {
+    "source_then_measurement": 0.01000000142797416,
+    "measurement_then_source": 0.00961527476479084
+  },
+  "finite_M_vacuum_controls": [
+    {
+      "N": 4,
+      "finite_M": 20000,
+      "sign_mismatch": 0.07180153720016068,
+      "vacuum_cq_trace_distance": 0.7441709848039368,
+      "bound": 2.0,
+      "vacuum_source_trace_distance": 1.7672347733137965,
+      "source_bound": 2.0
+    },
+    {
+      "N": 8,
+      "finite_M": 20000,
+      "sign_mismatch": 0.017513707293748952,
+      "vacuum_cq_trace_distance": 0.37266974464974634,
+      "bound": 2.0,
+      "vacuum_source_trace_distance": 1.0236132029665104,
+      "source_bound": 1.7630924485867383
+    },
+    {
+      "N": 16,
+      "finite_M": 20000,
+      "sign_mismatch": 0.004357412742804351,
+      "vacuum_cq_trace_distance": 0.18650295911644457,
+      "bound": 2.0,
+      "vacuum_source_trace_distance": 0.5033250339087996,
+      "source_bound": 0.8815462242933692
+    },
+    {
+      "N": 32,
+      "finite_M": 20000,
+      "sign_mismatch": 0.001252693158902569,
+      "vacuum_cq_trace_distance": 0.10007631243515674,
+      "bound": 2.0,
+      "vacuum_source_trace_distance": 0.2678275264005875,
+      "source_bound": 0.4407731121466846
+    },
+    {
+      "N": 64,
+      "finite_M": 20000,
+      "sign_mismatch": 0.0003287190446104141,
+      "vacuum_cq_trace_distance": 0.05127689666937884,
+      "bound": 2.0,
+      "vacuum_source_trace_distance": 0.1364988832291706,
+      "source_bound": 0.2203865560733423
+    },
+    {
+      "N": 128,
+      "finite_M": 20000,
+      "sign_mismatch": 8.31108697202681e-05,
+      "vacuum_cq_trace_distance": 0.025784866260957846,
+      "bound": 1.9806078167812202,
+      "vacuum_source_trace_distance": 0.06854728459118509,
+      "source_bound": 0.11019327803667114
+    }
+  ]
+}

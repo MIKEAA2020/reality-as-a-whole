@@ -1,5 +1,7 @@
 # A necessary intermediate step: what can converge uniformly?
 
+**Subsequent restricted advance:** [the common-Fock-space continuum comparison](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) establishes bounds for each complete ordered instrument under a different normal-ordered oscillator-energy constraint and zero-mode regulator. It does not establish the original kinetic-only continuum claim or a physical probe; this note retains its original fixed-cutoff scope.
+
 This note advances L3 of the [dependency register](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md). It includes an energy-constrained bound on the complete ordered instruments at each fixed cutoff, **not** a cutoff-to-continuum instrument convergence proof. It reuses the fixed equal-slice 1D cosine-cutoff smears and the source/readout from the [earlier test](CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md). The mathematical warning about infinite-dimensional diamond norm is established prior art, not a claimed discovery: see [Shirokov, energy-constrained diamond norms](https://arxiv.org/abs/1706.00361), especially its hypotheses on the energy operator. The specific application below spells out a gap in our proposed test.
 
 ## 1. Common finite-cutoff experiment
