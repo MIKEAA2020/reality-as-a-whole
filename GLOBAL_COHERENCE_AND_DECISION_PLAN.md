@@ -2,7 +2,7 @@
 
 > **Current reassessment:** The user has challenged the universal-agent endpoint because our universe is suboptimal and now asks what can be relaxed while retaining structural and experiential intelligibility. The [subject-pluralist experiential synthesis](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) treats a single universal subject and universal agency as optional, compares live rivals, and leaves the experiential constitution bridge open. Read references to universal consciousness below as the earlier target, not a settled requirement or conclusion.
 
-> **Cosmological-collapse gate:** The [JHEP 2024 paper audit](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) distinguishes narrowing its λ spectrum from a demonstrated classical volume history and supplies a Dirichlet-model localization bound. It does not solve clock choice, gravity, experience, or the cosmological constant problem. Its next conditional test is a relational moving-window history with a physical clock and records; it is a rival, not a required mechanism.
+> **Cosmological-collapse gate:** The [JHEP 2024 paper audit](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) distinguishes narrowing its λ spectrum from a demonstrated classical volume history. The [moving-window follow-up](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) proposes a conditional proof of relative one-time volume localization in the actual Dirichlet stochastic dynamics, not a recorded multi-time history. The next gate needs clock, readout, backreaction and repeated-instrument disturbance. Collapse remains a rival, not a required mechanism, and does not solve clock choice, gravity, experience or the cosmological constant problem.
 
 ## 1. The question and the honest answer
 

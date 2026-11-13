@@ -6,6 +6,8 @@ The attached paper is relevant to the framework's **time and gravity/classicalit
 
 The substantive new check below applies directly to the paper's **Dirichlet half-line model**. It shows, under explicit assumptions, that narrowing the spectral variable λ is not the same as localizing its volume variable v: as the λ variance tends to zero, the probability of finding v in any fixed bounded interval tends to zero. This is a model-specific kinematic result, not a proof that all semiclassical cosmologies or collapse models fail. In particular, an expanding classical trajectory can also move outside every fixed interval. The test sharpens what an actual classical-history proof would have to establish.
 
+> **Follow-up:** The [moving-window analysis](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) now gives a conditional positive result for the actual stochastic Dirichlet dynamics: relative one-time localization can hold despite fixed-window escape. It does not yet establish a recorded multi-time history or physical geometry.
+
 ## 1. Source and fair reading
 
 [J. L. Gaona-Reyes, L. Menéndez-Pidal, M. Faizal and M. Carlesso, “Spontaneous collapse models lead to the emergence of classicality of the Universe,” JHEP 02 (2024) 193](https://doi.org/10.1007/JHEP02%282024%29193); [arXiv:2401.08269v2](https://arxiv.org/abs/2401.08269). All 17 pages of the [user-provided PDF](sources/uploads/JHEP02%282024%29193.pdf) were read. SHA-256: `0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed`.

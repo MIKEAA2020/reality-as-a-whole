@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8bb4c8f33b50d1d7b08cc770ca56a2039c82754d",
-  "file_count": 1032,
+  "base_head": "bcaa72595b0084fc165b23fd406af475496c81ac",
+  "file_count": 1035,
   "files": [
     {
       "path": ".gitattributes",
@@ -124,6 +124,11 @@
       "sha256": "351e1c34736253e74ff8dd2b5b7dbd0d00b93a8fb547e9e596b1c4524b659e1e"
     },
     {
+      "path": "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+      "bytes": 11385,
+      "sha256": "31ae1df9843eacccbe33d4200cdedd1e973d6c73e08c6a04f99055d77c75b8fd"
+    },
+    {
       "path": "COMMON_CONSTITUTION_CLOSURE.md",
       "bytes": 15943,
       "sha256": "97b9f440928f0adf69b85b931a7fa65d8de39570a754addf22493cd0ee137bd2"
@@ -205,8 +210,8 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "bytes": 13232,
-      "sha256": "36d7f979df7e133c278db7d8f7daaaa0c23e195617326d254ea514a96209ba9f"
+      "bytes": 13552,
+      "sha256": "537f1c95a0cc1f27820ec51a12cfad12a8e86c55aa2eaa96edb821428026eca8"
     },
     {
       "path": "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
@@ -410,8 +415,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 70240,
-      "sha256": "5c82372275fd6c3761e6ca486f60a2c8c74ef95b38963089d317363dc026f071"
+      "bytes": 70466,
+      "sha256": "3520a361078dccab36aec5cd3b5fb140e7bf203155fa9a8e4fed6d737b7f3935"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -445,8 +450,8 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "bytes": 15397,
-      "sha256": "f5c6f58e94a8c4603924ef120272d3040ae04265419b329ceb1c872aebcb9822"
+      "bytes": 15565,
+      "sha256": "926c33d611e1a908a5fa1e7d3cacf6d98f4e160a4bd2161fd52e5bcf952730dd"
     },
     {
       "path": "GLOBAL_WORKSPACE_REASSESSMENT.md",
@@ -2879,6 +2884,16 @@
       "sha256": "632c7697a22fc3ca782da0b566e41906ac1f1226e20e343096dfcc17861159b4"
     },
     {
+      "path": "verification/collapse_moving_window.json",
+      "bytes": 2055,
+      "sha256": "a427d784295109d3f56796ed804bbb234a4449b063beaab5a67008a7e8f2245a"
+    },
+    {
+      "path": "verification/collapse_moving_window.py",
+      "bytes": 3526,
+      "sha256": "18ad1fc12f0d167e9cb53c58ca4f37a04b608a060cba747afe45e8977eb1e53f"
+    },
+    {
       "path": "verification/competing_subject_constitution_rules.json",
       "bytes": 4638,
       "sha256": "900f42e7ddb159dd88cfc36f257294905dd4eba68577e0a3774f154718ed91c9"
@@ -3875,8 +3890,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 396474,
-      "sha256": "19990dc74efee25a4659b7c6cc27988b6a130f81ddf91bb8de1be341ab7b8934"
+      "bytes": 397728,
+      "sha256": "2df0871fd9fe61a72960ae531bd0c301d06882ddc7484b39b5c8c2174434af3a"
     },
     {
       "path": "verification/project_inventory.py",

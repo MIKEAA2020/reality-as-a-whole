@@ -1,0 +1,58 @@
+{
+  "scope": "Floating-point quadrature and seeded finite-sample controls; no external evidence or proof.",
+  "epsilon": 0.5,
+  "initial_lambda_distribution": "uniform on [0.5,2]",
+  "observation_path_for_rows": "Y_t=-2 epsilon t, so center=1; a deterministic control, not a typical full path",
+  "rows": [
+    {
+      "t": 25,
+      "lambda_center": 1.0,
+      "lambda_mean": 1.003527266912959,
+      "lambda_variance": 0.03822347612874702,
+      "t_times_lambda_variance": 0.9555869032186755,
+      "window_x_halfwidth": 4.0,
+      "moving_window_probability": 0.9912893147116771,
+      "limiting_probability": 0.9953222650189527,
+      "absolute_error": 0.0040329503072755735
+    },
+    {
+      "t": 100,
+      "lambda_center": 1.0,
+      "lambda_mean": 1.0000001486719943,
+      "lambda_variance": 0.009999925663980846,
+      "t_times_lambda_variance": 0.9999925663980845,
+      "window_x_halfwidth": 4.0,
+      "moving_window_probability": 0.9951957966037048,
+      "limiting_probability": 0.9953222650189527,
+      "absolute_error": 0.00012646841524788233
+    },
+    {
+      "t": 400,
+      "lambda_center": 1.0,
+      "lambda_mean": 1.0,
+      "lambda_variance": 0.002499999999999996,
+      "t_times_lambda_variance": 0.9999999999999984,
+      "window_x_halfwidth": 4.0,
+      "moving_window_probability": 0.9952926060600028,
+      "limiting_probability": 0.9953222650189527,
+      "absolute_error": 2.9658958949907444e-05
+    },
+    {
+      "t": 1600,
+      "lambda_center": 1.0,
+      "lambda_mean": 1.0,
+      "lambda_variance": 0.0006249999999999989,
+      "t_times_lambda_variance": 0.9999999999999983,
+      "window_x_halfwidth": 4.0,
+      "moving_window_probability": 0.9953148910276195,
+      "limiting_probability": 0.9953222650189527,
+      "absolute_error": 7.373991333214924e-06
+    }
+  ],
+  "quadrature_refinement_error_at_400": 4.2522709464698494e-08,
+  "filter_control_t": 40,
+  "filter_control_samples": 2000,
+  "filter_control_posterior_mean_average": 1.2626163081591426,
+  "prior_mean": 1.25,
+  "filter_control_seed": 20241031
+}

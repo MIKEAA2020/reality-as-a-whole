@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 270 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 228 verification Python scripts.
+- 271 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 229 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -35,6 +35,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CLUES_CROSS_PROJECT_ASSESSMENT.md](CLUES_CROSS_PROJECT_ASSESSMENT.md) — Cross-project assessment: the `arena-max--physics` clues
 - [COLD_ATOM_CLOCK_COMPARISON.md](COLD_ATOM_CLOCK_COMPARISON.md) — Comparing clocks on all five released cold-atom traces
 - [COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md) — Cold-atom entropic time: source audit and connection to our time work
+- [COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) — A moving-window test of the cosmological collapse model
 - [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination
 - [COMMUTANT_STEERING_AND_COST.md](COMMUTANT_STEERING_AND_COST.md) — An exact preparation-cost law without local density matrices
 - [COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md](COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md) — Competing rules for subjects: an explicit construction and locality test
@@ -376,6 +377,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)
 - [verification/cold_atom_clock.py](verification/cold_atom_clock.py)
 - [verification/cold_atom_comparison.py](verification/cold_atom_comparison.py)
+- [verification/collapse_moving_window.py](verification/collapse_moving_window.py)
 - [verification/competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)

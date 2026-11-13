@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 313,
-  "bytes": 4207734,
-  "line_count": 46769,
-  "document_count_with_risk_phrases": 288,
+  "document_count": 314,
+  "bytes": 4219961,
+  "line_count": 46872,
+  "document_count_with_risk_phrases": 289,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -841,6 +841,34 @@
       ]
     },
     {
+      "path": "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+      "sha256": "31ae1df9843eacccbe33d4200cdedd1e973d6c73e08c6a04f99055d77c75b8fd",
+      "bytes": 11385,
+      "lines": 98,
+      "title": "A moving-window test of the cosmological collapse model",
+      "headings": [
+        "A moving-window test of the cosmological collapse model",
+        "Result and its scope",
+        "1. Model, inputs and prior art",
+        "2. Exact positive-spectrum stochastic state",
+        "3. Moving volume distribution",
+        "4. A simultaneous one-time check, not yet a history",
+        "5. Numerical controls and what they do not show",
+        "6. Implications for the whole-framework programme"
+      ],
+      "local_links": [
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+        "verification/requirements-field-probe.txt",
+        "verification/collapse_moving_window.json"
+      ],
+      "risk_phrase_lines": [
+        17,
+        19,
+        37,
+        98
+      ]
+    },
+    {
       "path": "COMMON_CONSTITUTION_CLOSURE.md",
       "sha256": "97b9f440928f0adf69b85b931a7fa65d8de39570a754addf22493cd0ee137bd2",
       "bytes": 15943,
@@ -1518,9 +1546,9 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "sha256": "36d7f979df7e133c278db7d8f7daaaa0c23e195617326d254ea514a96209ba9f",
-      "bytes": 13232,
-      "lines": 72,
+      "sha256": "537f1c95a0cc1f27820ec51a12cfad12a8e86c55aa2eaa96edb821428026eca8",
+      "bytes": 13552,
+      "lines": 74,
       "title": "Cosmological collapse: what selecting λ does and does not establish",
       "headings": [
         "Cosmological collapse: what selecting λ does and does not establish",
@@ -1532,6 +1560,7 @@
         "5. Reproducibility and limits"
       ],
       "local_links": [
+        "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
         "sources/uploads/JHEP02(2024)193.pdf",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
@@ -1540,9 +1569,9 @@
         "verification/cosmological_collapse_geometry_gate.json"
       ],
       "risk_phrase_lines": [
-        18,
-        42,
-        52
+        20,
+        44,
+        54
       ]
     },
     {
@@ -2805,9 +2834,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fd8954a5f00728685d794af8ec3d1d80dea2599a50b9d32f87969e5976c3b63b",
-      "bytes": 69886,
-      "lines": 592,
+      "sha256": "5c82372275fd6c3761e6ca486f60a2c8c74ef95b38963089d317363dc026f071",
+      "bytes": 70240,
+      "lines": 595,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2860,6 +2889,7 @@
         "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "CORRELATED_PUMP_CERTIFICATION.md",
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
         "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
         "COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md",
         "CRN_COCYCLE_STATE_INDEPENDENT_TIME.md",
@@ -3140,6 +3170,7 @@
         "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt",
         "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt",
         "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
+        "sources/uploads/JHEP02(2024)193.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
         "sources/uploads/decombination-export-provenance.json",
@@ -3177,6 +3208,7 @@
         "verification/continuous_feedback_digital_approximation.py",
         "verification/continuum_complete_instrument_bound.py",
         "verification/correlated_pump_certification.py",
+        "verification/cosmological_collapse_geometry_gate.py",
         "verification/cosmological_constant_cancel.py",
         "verification/coupled_subject_boundary_gate.py",
         "verification/crn_cocycle.py",
@@ -3389,17 +3421,17 @@
         30,
         34,
         39,
-        133,
-        165,
-        177,
-        210,
-        260,
-        273,
-        309,
-        318,
-        321,
-        324,
-        353
+        134,
+        166,
+        178,
+        211,
+        261,
+        274,
+        310,
+        319,
+        322,
+        325,
+        355
       ]
     },
     {
@@ -3628,8 +3660,8 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "sha256": "f5c6f58e94a8c4603924ef120272d3040ae04265419b329ceb1c872aebcb9822",
-      "bytes": 15397,
+      "sha256": "926c33d611e1a908a5fa1e7d3cacf6d98f4e160a4bd2161fd52e5bcf952730dd",
+      "bytes": 15565,
       "lines": 81,
       "title": "One global plan: from experiential actuality to recoverable physics",
       "headings": [
@@ -3643,6 +3675,7 @@
       "local_links": [
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+        "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
