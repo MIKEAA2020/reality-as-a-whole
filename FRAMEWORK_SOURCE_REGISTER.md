@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 275 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 233 verification Python scripts.
+- 277 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 235 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -225,6 +225,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
+- [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol
+- [SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) — A subject-constitution and record interface: bounded results
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
 - [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
 - [SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md) — Subject constitution: ties, persistence and redescriptions
@@ -555,7 +557,9 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/split_brain_query_strategy_gate.py](verification/split_brain_query_strategy_gate.py)
 - [verification/steering_cost.py](verification/steering_cost.py)
 - [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
+- [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
+- [verification/subject_constitution_interface.py](verification/subject_constitution_interface.py)
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)

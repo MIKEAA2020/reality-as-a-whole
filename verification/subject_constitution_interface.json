@@ -1,0 +1,151 @@
+{
+  "scope": "Fixed hypothetical finite model only; no subjects, observations, calibrated assay or physical recovery established.",
+  "settings": [
+    {
+      "coupling": "0",
+      "physical_endpoint_agreement": "1/2",
+      "rules": {
+        "C": {
+          "subjects": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              3
+            ]
+          ],
+          "unresolved_ties": [],
+          "endpoint_joint_label": 0,
+          "physical_comparator_error": "1/2",
+          "hypothetical_assay_yes_probability": "1/10"
+        },
+        "L": {
+          "subjects": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              3
+            ]
+          ],
+          "unresolved_ties": [],
+          "endpoint_joint_label": 0,
+          "physical_comparator_error": "1/2",
+          "hypothetical_assay_yes_probability": "1/10"
+        }
+      }
+    },
+    {
+      "coupling": "1/4",
+      "physical_endpoint_agreement": "17/32",
+      "rules": {
+        "C": {
+          "subjects": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "unresolved_ties": [],
+          "endpoint_joint_label": 1,
+          "physical_comparator_error": "15/32",
+          "hypothetical_assay_yes_probability": "9/10"
+        },
+        "L": {
+          "subjects": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              3
+            ]
+          ],
+          "unresolved_ties": [],
+          "endpoint_joint_label": 0,
+          "physical_comparator_error": "17/32",
+          "hypothetical_assay_yes_probability": "1/10"
+        }
+      }
+    },
+    {
+      "coupling": "1/2",
+      "physical_endpoint_agreement": "9/16",
+      "rules": {
+        "C": {
+          "subjects": [
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "unresolved_ties": [],
+          "endpoint_joint_label": 1,
+          "physical_comparator_error": "7/16",
+          "hypothetical_assay_yes_probability": "9/10"
+        },
+        "L": {
+          "subjects": [],
+          "unresolved_ties": [
+            [
+              0,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              1,
+              2
+            ],
+            [
+              1,
+              2,
+              3
+            ],
+            [
+              0,
+              1,
+              2,
+              3
+            ]
+          ],
+          "endpoint_joint_label": null,
+          "physical_comparator_error": null,
+          "hypothetical_assay_yes_probability": null
+        }
+      }
+    }
+  ],
+  "permutation_rule_checks": 144,
+  "physical_comparator": {
+    "target_yes_probability": "17/32",
+    "target_error_C": "15/32",
+    "target_error_L": "17/32",
+    "a_10_percent_error_bridge_fails_both": true
+  },
+  "assay": {
+    "symmetric_error_rate": "1/10",
+    "target_trials": 21,
+    "majority_threshold_yes": 11,
+    "probability_wrong_each_if_independent": "84566560747711/62500000000000000000",
+    "probability_wrong_each_decimal": 1.353064971963376e-06,
+    "full_XL_NL_joint_distributions_equal_by_construction": true
+  },
+  "negative_control": "L unresolved at t=1/2; no subject count or assay yes-probability inferred."
+}

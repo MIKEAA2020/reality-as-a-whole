@@ -36,3 +36,5 @@ The first step is now in [the necessity-route comparison](FOUNDATION_NECESSITY_R
 **Knowability route check:** The [foundation gate](KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md) tests an experiential-knowledge bridge and its interaction with the global actuality schema. It yields a strong conditional collective-knowledge consequence but neither defends the bridge nor passes B1–B2.
 
 **Grounding direction:** The [positive candidate and neutral-rival gate](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) distinguishes actual experience from the claim it is fundamental, and specifies an operationally matched-rival test. B1–B2 remain open.
+
+**Subject/record implementation:** A [precommitted finite interface](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) distinguishes rule-plus-assay packages while preserving an observationally matched grounding rival. Its comparator fails the assumed high-accuracy criterion, and no real target-domain assay is established.

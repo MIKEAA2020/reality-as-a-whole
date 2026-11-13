@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 318,
-  "bytes": 4279489,
-  "line_count": 47187,
-  "document_count_with_risk_phrases": 293,
+  "document_count": 320,
+  "bytes": 4297004,
+  "line_count": 47318,
+  "document_count_with_risk_phrases": 295,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2349,9 +2349,9 @@
     },
     {
       "path": "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
-      "sha256": "6daf71afe01d3a72f99cf457d7c413dce1741528b0c12eff59cd5a384b1583af",
-      "bytes": 16574,
-      "lines": 82,
+      "sha256": "0411652447158bc3bf9b653021cf3ef5b80bb6116cce9500e0bc71fdca3c7a9b",
+      "bytes": 16829,
+      "lines": 84,
       "title": "Experiential grounding: a positive candidate and its strongest rival",
       "headings": [
         "Experiential grounding: a positive candidate and its strongest rival",
@@ -2368,7 +2368,8 @@
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "verification/experiential_grounding_rival_gate.json",
-        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md"
+        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
       ],
       "risk_phrase_lines": [
         36,
@@ -2866,9 +2867,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b9dd3ccef85561fbb5e19194b9bc3a4e1208f4a7fb430380f0296024b430a58a",
-      "bytes": 71491,
-      "lines": 605,
+      "sha256": "d44f30e02fdf3d205783d87697e341bd5f3184dede830f68fef34a7be9654ef3",
+      "bytes": 72001,
+      "lines": 609,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3095,6 +3096,8 @@
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
@@ -3411,7 +3414,9 @@
         "verification/split_brain_query_strategy_gate.py",
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
+        "verification/subject_assay_dependence_control.py",
         "verification/subject_cohesion_identity_redescription.py",
+        "verification/subject_constitution_interface.py",
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
         "verification/takesaki_dual_typeIII1.py",
@@ -3467,13 +3472,13 @@
         170,
         182,
         215,
-        266,
-        279,
-        315,
-        324,
-        327,
-        330,
-        360
+        268,
+        281,
+        317,
+        326,
+        329,
+        332,
+        362
       ]
     },
     {
@@ -5856,9 +5861,9 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "004d607e88790359f488dbad1d69271cab93b29f9c0a6718174f295c463ba845",
-      "bytes": 8903,
-      "lines": 38,
+      "sha256": "0252155a69e427cfa5f045c27485249c9b2832693fa5d9fd9ffe35fa83ed9f21",
+      "bytes": 9222,
+      "lines": 40,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
         "After the Roy data: decision and framework critical path",
@@ -5875,7 +5880,8 @@
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
-        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
       ],
       "risk_phrase_lines": [
         19,
@@ -7873,6 +7879,62 @@
         113,
         149,
         153
+      ]
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+      "sha256": "16320f5b1ecbd71cfbef0e9345d91fa3708eccb6201f23a098e6208c38941cf8",
+      "bytes": 7057,
+      "lines": 42,
+      "title": "Frozen finite constitution-and-record comparison: protocol",
+      "headings": [
+        "Frozen finite constitution-and-record comparison: protocol",
+        "Purpose and status",
+        "Fixed physical interface",
+        "Three distinct packages",
+        "Report bridge and two distinct tests",
+        "Reproducibility and limits"
+      ],
+      "local_links": [
+        "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        23,
+        36,
+        42
+      ]
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+      "sha256": "2756a4e1df3699ca3fd3423aa4ea16c4097bcdbd10b6206bd9f133bc4ace575c",
+      "bytes": 9374,
+      "lines": 81,
+      "title": "A subject-constitution and record interface: bounded results",
+      "headings": [
+        "A subject-constitution and record interface: bounded results",
+        "Decision",
+        "1. One interface and three packages",
+        "2. The original physical comparator fails the assumed assay standard",
+        "3. An added accurate assay discriminates *packages*, conditionally",
+        "4. A post-protocol dependence stress test",
+        "5. What does this do to the foundation question?",
+        "Reproduction"
+      ],
+      "local_links": [
+        "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "ROY_S08_FIXED_TRANSFER_RESULTS.md",
+        "verification/subject_assay_dependence_control.py",
+        "verification/subject_constitution_interface.json",
+        "verification/subject_assay_dependence_control.json"
+      ],
+      "risk_phrase_lines": [
+        10,
+        55,
+        75,
+        81
       ]
     },
     {
