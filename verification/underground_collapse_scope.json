@@ -1,0 +1,43 @@
+{
+  "scope": "Summary-value arithmetic and idealized finite-dimensional checks; no detector data, background or radiation calculation.",
+  "paper_inputs": {
+    "n_observed": 576,
+    "nominal_background_counts": 506,
+    "authors_fixed_baseline_including_plus_two": 508.0,
+    "a_m3": 1.756e-29,
+    "r_min_m": 1e-14
+  },
+  "authors_flat_mean_prior_arithmetic": {
+    "gamma_shape": 577,
+    "upper_mean_cutoff": 17560000000508.0,
+    "gamma_cdf_at_upper_cutoff": 1.0,
+    "mean_95_percent_quantile": 617.0710335865027,
+    "signal_scale_at_quantile_counts": 109.07103358650272,
+    "radius_lower_m": 5.4400767595409624e-11,
+    "gamma_mass_below_physical_baseline": 0.0014332324887000477,
+    "signal_scale_at_5e-12_m_counts": 140480.00000000003
+  },
+  "truncated_below_baseline_sensitivity_not_paper_reanalysis": {
+    "mean_95_percent_quantile": 617.0884968099195,
+    "radius_lower_m": 5.439786455954267e-11
+  },
+  "two_level_global_energy_dephasing": {
+    "H": "sigma_x",
+    "A": "H",
+    "initial_state": "|0_z>",
+    "measured_observable": "(I-sigma_z)/2",
+    "kappa": 1,
+    "time": 1.0,
+    "energy_initial_derivative": 0.0,
+    "bare_excitation_initial_derivative": 1.0,
+    "bare_excitation_at_time_dissipator_only": 0.43233235838169365,
+    "bare_excitation_at_time_full_unitary_plus_dissipator": 0.528159674996064,
+    "energy_ground_state_dephasing_norm": 0.0
+  },
+  "position_like_toy": {
+    "H": "sigma_x",
+    "A": "sigma_z",
+    "initial_state": "+x",
+    "energy_initial_derivative": -2.0
+  }
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0cef4f01b81e5c87ce8b363054c1bd36ef1d1c0d",
-  "file_count": 1038,
+  "base_head": "23f4572d5568829457ca51f79919eebc9d07bee9",
+  "file_count": 1041,
   "files": [
     {
       "path": ".gitattributes",
@@ -210,8 +210,8 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "bytes": 13737,
-      "sha256": "793711a2fe10c29989da83d6d1652a926340121d4de781f8e9d7041be1db88dc"
+      "bytes": 14008,
+      "sha256": "7f6a85d0c6c424f6ab59aef12c9c09870d782b10f82c47aec3ef8bc965889895"
     },
     {
       "path": "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
@@ -415,8 +415,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 70724,
-      "sha256": "5974c4ae0199ca06e9b781fc4b9ab77fc64dcc58f7612a58bd5050b5912f91bc"
+      "bytes": 70983,
+      "sha256": "b3bd593dbf19adbbe3b77d01b04b42a61f8e614bdc774007b7c0855809475cd9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -450,8 +450,8 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "bytes": 16003,
-      "sha256": "2b0caddd9bf23c5be4fd2b4de4f356672fde5cecec97579cdb24f8dd020c4bae"
+      "bytes": 16286,
+      "sha256": "71ea79a5c276d9a867d1ebd52f2981e8bae4c6aa0f3d80fdc4d2f964998db330"
     },
     {
       "path": "GLOBAL_WORKSPACE_REASSESSMENT.md",
@@ -615,8 +615,8 @@
     },
     {
       "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
-      "bytes": 12675,
-      "sha256": "e954d6bfa2b73423cd02e4ec9e888e4b4139887f296deb1ae00e123309ec300f"
+      "bytes": 12940,
+      "sha256": "7de40f6b98473a332e4a0099a4a42ed3ccec94b9b1548ac692eeb86fd09388ef"
     },
     {
       "path": "NECESSARY_ARTICULATED_UNITY.md",
@@ -1192,6 +1192,11 @@
       "path": "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
       "bytes": 12858,
       "sha256": "7ab68fad82291a330285d822379659a0b54bb75c8d01c3fab57d754ca30817f3"
+    },
+    {
+      "path": "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
+      "bytes": 14696,
+      "sha256": "2150abc83082aff9bd926e4add5469f047fbc7c40cc46a22a3babab783b61519"
     },
     {
       "path": "UNIFIED_CONSTITUTION_MAP.md",
@@ -4942,6 +4947,16 @@
       "path": "verification/two_subject_reversible_selector.py",
       "bytes": 5241,
       "sha256": "550bd37961c91734289540089235d4e8e8f4982c5a79b59c83ae53d308c3f420"
+    },
+    {
+      "path": "verification/underground_collapse_scope.json",
+      "bytes": 1519,
+      "sha256": "2bbac59009092086c731f5c7a126b6b284bae12b00233e9855d80fbe0703e7a3"
+    },
+    {
+      "path": "verification/underground_collapse_scope.py",
+      "bytes": 4435,
+      "sha256": "696a4388d778dd6dd47cb20f18dae00509cdd22beffdb26518faa3e6dddd8de9"
     },
     {
       "path": "verification/wdw_angular_coupling.json",

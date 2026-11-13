@@ -8,6 +8,8 @@ The substantive new check below applies directly to the paper's **Dirichlet half
 
 > **Follow-up:** The [moving-window analysis](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) now gives a conditional positive result for the actual stochastic Dirichlet dynamics: relative one-time localization can hold despite fixed-window escape. It does not yet establish a recorded multi-time history or physical geometry. The [nanoparticle interference audit](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) explains why its spatial-collapse limits cannot be automatically applied to this energy-driven model.
 
+> **Laboratory scope:** The [underground radiation audit](UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md) explains why mass-density photon bounds do not automatically constrain this reduced energy operator, and specifies what an actual laboratory extension must provide.
+
 ## 1. Source and fair reading
 
 [J. L. Gaona-Reyes, L. Menéndez-Pidal, M. Faizal and M. Carlesso, “Spontaneous collapse models lead to the emergence of classicality of the Universe,” JHEP 02 (2024) 193](https://doi.org/10.1007/JHEP02%282024%29193); [arXiv:2401.08269v2](https://arxiv.org/abs/2401.08269). All 17 pages of the [user-provided PDF](sources/uploads/JHEP02%282024%29193.pdf) were read. SHA-256: `0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed`.

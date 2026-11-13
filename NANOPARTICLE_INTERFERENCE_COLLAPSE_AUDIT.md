@@ -8,6 +8,8 @@ Most relevant to our previous work: **the published macroscopicity number cannot
 
 Source audit: the full main article and the text of its [supplementary information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09917-9/MediaObjects/41586_2025_9917_MOESM1_ESM.pdf) were read through the web page/PDF text interface. Figure contents were assessed through captions and prose, not extracted numerical tables. The authors provide [data and code in Zenodo record 17502163](https://doi.org/10.5281/zenodo.17502163), an 88,626-byte ZIP listed with MD5 `7917961b27676f4e9df3af6d3b01c374`. The binary could not be obtained in this environment: it is outside the permitted direct-download hosts and the web page reader returned an error for the ZIP. **We did not inspect the raw scans, verify that checksum, run the authors' code, or independently reproduce their posterior.** Reported experimental results below are attributed to the authors, not presented as our own reanalysis.
 
+> **Complementary test:** The [underground-radiation and non-interferometric audit](UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md) constrains a different specified collapse dynamics; neither experimental bound transfers to energy collapse without an explicit map.
+
 ## 1. What was observed
 
 - The apparatus creates a neutral sodium-cluster beam from a cryogenic aggregation source and uses three 266 nm standing-wave gratings, each with period `d=133 nm`, spaced by `L=0.983 m`. The first and third are mainly ionizing/transmission gratings; the second is a phase grating. Surviving neutral clusters are subsequently ionized, mass filtered and counted while the third grating is scanned.

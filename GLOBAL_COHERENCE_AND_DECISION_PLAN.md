@@ -4,6 +4,8 @@
 
 > **Cosmological-collapse gate:** The [JHEP 2024 paper audit](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) distinguishes narrowing its λ spectrum from a demonstrated classical volume history. The [moving-window follow-up](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) proposes a conditional proof of relative one-time volume localization in the actual Dirichlet stochastic dynamics, not a recorded multi-time history. The next gate needs clock, readout, backreaction and repeated-instrument disturbance. Collapse remains a rival, not a required mechanism, and does not solve clock choice, gravity, experience or the cosmological constant problem.
 >
+> **Underground radiation gate:** The [two-paper audit](UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md) records a conditional DP photon limit and a complementary non-interferometric programme. No cosmological energy-collapse laboratory map or raw-detector reanalysis is established.
+
 > **Empirical collapse-model scope:** The [2026 sodium nanoparticle interferometry audit](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) records a genuine quantum-interference and position-sensitive collapse constraint. Its macroscopicity cannot be transferred directly to cosmological energy collapse without an explicit laboratory dynamics and clock/operator map. The published raw-data posterior has not been independently rerun here.
 
 ## 1. The question and the honest answer

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 315,
-  "bytes": 4233485,
-  "line_count": 46942,
-  "document_count_with_risk_phrases": 290,
+  "document_count": 316,
+  "bytes": 4249517,
+  "line_count": 47020,
+  "document_count_with_risk_phrases": 291,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1546,9 +1546,9 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "sha256": "793711a2fe10c29989da83d6d1652a926340121d4de781f8e9d7041be1db88dc",
-      "bytes": 13737,
-      "lines": 74,
+      "sha256": "7f6a85d0c6c424f6ab59aef12c9c09870d782b10f82c47aec3ef8bc965889895",
+      "bytes": 14008,
+      "lines": 76,
       "title": "Cosmological collapse: what selecting λ does and does not establish",
       "headings": [
         "Cosmological collapse: what selecting λ does and does not establish",
@@ -1562,6 +1562,7 @@
       "local_links": [
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "sources/uploads/JHEP02(2024)193.pdf",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
@@ -1570,9 +1571,9 @@
         "verification/cosmological_collapse_geometry_gate.json"
       ],
       "risk_phrase_lines": [
-        20,
-        44,
-        54
+        22,
+        46,
+        56
       ]
     },
     {
@@ -2835,9 +2836,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3520a361078dccab36aec5cd3b5fb140e7bf203155fa9a8e4fed6d737b7f3935",
-      "bytes": 70466,
-      "lines": 597,
+      "sha256": "b3bd593dbf19adbbe3b77d01b04b42a61f8e614bdc774007b7c0855809475cd9",
+      "bytes": 70983,
+      "lines": 601,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2970,6 +2971,7 @@
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
         "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NECESSARY_ARTICULATED_UNITY.md",
         "NECESSARY_EXISTENCE_ARGUMENT.md",
         "NECESSARY_EXISTENCE_CLOSED.md",
@@ -3085,6 +3087,7 @@
         "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "UNIFIED_CONSTITUTION_MAP.md",
         "V4_FEF_ORIENTATION_GATE.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -3278,6 +3281,7 @@
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
         "verification/multi_clock.py",
+        "verification/nanoparticle_collapse_scope.py",
         "verification/necessary_existence_closed.py",
         "verification/necessary_plenitude_simulation_model.py",
         "verification/necessity_nonempty_modal_audit.py",
@@ -3392,6 +3396,7 @@
         "verification/two_field_instrument_continuum.py",
         "verification/two_field_spacetime_probe.py",
         "verification/two_subject_reversible_selector.py",
+        "verification/underground_collapse_scope.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
         "verification/wdw_bkl_rotational_stability.py",
@@ -3424,17 +3429,17 @@
         30,
         34,
         40,
-        135,
-        167,
-        179,
-        212,
-        262,
-        275,
-        311,
-        320,
-        323,
-        326,
-        356
+        136,
+        168,
+        180,
+        213,
+        264,
+        277,
+        313,
+        322,
+        325,
+        328,
+        358
       ]
     },
     {
@@ -3663,9 +3668,9 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "sha256": "2b0caddd9bf23c5be4fd2b4de4f356672fde5cecec97579cdb24f8dd020c4bae",
-      "bytes": 16003,
-      "lines": 83,
+      "sha256": "71ea79a5c276d9a867d1ebd52f2981e8bae4c6aa0f3d80fdc4d2f964998db330",
+      "bytes": 16286,
+      "lines": 85,
       "title": "One global plan: from experiential actuality to recoverable physics",
       "headings": [
         "One global plan: from experiential actuality to recoverable physics",
@@ -3679,6 +3684,7 @@
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
@@ -3697,10 +3703,10 @@
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        11,
-        64,
-        70,
-        79
+        13,
+        66,
+        72,
+        81
       ]
     },
     {
@@ -4798,9 +4804,9 @@
     },
     {
       "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
-      "sha256": "e954d6bfa2b73423cd02e4ec9e888e4b4139887f296deb1ae00e123309ec300f",
-      "bytes": 12675,
-      "lines": 66,
+      "sha256": "7de40f6b98473a332e4a0099a4a42ed3ccec94b9b1548ac692eeb86fd09388ef",
+      "bytes": 12940,
+      "lines": 68,
       "title": "Nanoparticle interference and the limits of collapse-model transfer",
       "headings": [
         "Nanoparticle interference and the limits of collapse-model transfer",
@@ -4812,6 +4818,7 @@
         "5. Framework implications"
       ],
       "local_links": [
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
         "verification/requirements-field-probe.txt",
         "verification/nanoparticle_collapse_scope.json"
@@ -4819,9 +4826,9 @@
       "risk_phrase_lines": [
         5,
         7,
-        43,
         45,
-        58
+        47,
+        60
       ]
     },
     {
@@ -8762,6 +8769,34 @@
         99,
         104,
         122
+      ]
+    },
+    {
+      "path": "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
+      "sha256": "2150abc83082aff9bd926e4add5469f047fbc7c40cc46a22a3babab783b61519",
+      "bytes": 14696,
+      "lines": 68,
+      "title": "Underground radiation tests, collapse operators, and the framework",
+      "headings": [
+        "Underground radiation tests, collapse operators, and the framework",
+        "Decision",
+        "1. What Donadi tests",
+        "2. How the review updates the research strategy",
+        "3. The energy-collapse transfer gate",
+        "4. Reproduction and remaining foundational status"
+      ],
+      "local_links": [
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+        "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "verification/underground_collapse_scope.py",
+        "verification/underground_collapse_scope.json"
+      ],
+      "risk_phrase_lines": [
+        37,
+        68
       ]
     },
     {
