@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 314,
-  "bytes": 4219961,
-  "line_count": 46872,
-  "document_count_with_risk_phrases": 289,
+  "document_count": 315,
+  "bytes": 4233485,
+  "line_count": 46942,
+  "document_count_with_risk_phrases": 290,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1546,8 +1546,8 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "sha256": "537f1c95a0cc1f27820ec51a12cfad12a8e86c55aa2eaa96edb821428026eca8",
-      "bytes": 13552,
+      "sha256": "793711a2fe10c29989da83d6d1652a926340121d4de781f8e9d7041be1db88dc",
+      "bytes": 13737,
       "lines": 74,
       "title": "Cosmological collapse: what selecting λ does and does not establish",
       "headings": [
@@ -1561,6 +1561,7 @@
       ],
       "local_links": [
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "sources/uploads/JHEP02(2024)193.pdf",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
@@ -2834,9 +2835,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5c82372275fd6c3761e6ca486f60a2c8c74ef95b38963089d317363dc026f071",
-      "bytes": 70240,
-      "lines": 595,
+      "sha256": "3520a361078dccab36aec5cd3b5fb140e7bf203155fa9a8e4fed6d737b7f3935",
+      "bytes": 70466,
+      "lines": 597,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2873,6 +2874,7 @@
         "CLUES_CROSS_PROJECT_ASSESSMENT.md",
         "COLD_ATOM_CLOCK_COMPARISON.md",
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
+        "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
         "COMMON_CONSTITUTION_CLOSURE.md",
         "COMMUTANT_STEERING_AND_COST.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
@@ -3200,6 +3202,7 @@
         "verification/cogitate_analysis_audit.py",
         "verification/cold_atom_clock.py",
         "verification/cold_atom_comparison.py",
+        "verification/collapse_moving_window.py",
         "verification/competing_subject_constitution_rules.py",
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
@@ -3420,18 +3423,18 @@
         24,
         30,
         34,
-        39,
-        134,
-        166,
-        178,
-        211,
-        261,
-        274,
-        310,
-        319,
-        322,
-        325,
-        355
+        40,
+        135,
+        167,
+        179,
+        212,
+        262,
+        275,
+        311,
+        320,
+        323,
+        326,
+        356
       ]
     },
     {
@@ -3660,9 +3663,9 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "sha256": "926c33d611e1a908a5fa1e7d3cacf6d98f4e160a4bd2161fd52e5bcf952730dd",
-      "bytes": 15565,
-      "lines": 81,
+      "sha256": "2b0caddd9bf23c5be4fd2b4de4f356672fde5cecec97579cdb24f8dd020c4bae",
+      "bytes": 16003,
+      "lines": 83,
       "title": "One global plan: from experiential actuality to recoverable physics",
       "headings": [
         "One global plan: from experiential actuality to recoverable physics",
@@ -3676,6 +3679,7 @@
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
@@ -3693,10 +3697,10 @@
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        9,
-        62,
-        68,
-        77
+        11,
+        64,
+        70,
+        79
       ]
     },
     {
@@ -4790,6 +4794,34 @@
         114,
         144,
         146
+      ]
+    },
+    {
+      "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+      "sha256": "e954d6bfa2b73423cd02e4ec9e888e4b4139887f296deb1ae00e123309ec300f",
+      "bytes": 12675,
+      "lines": 66,
+      "title": "Nanoparticle interference and the limits of collapse-model transfer",
+      "headings": [
+        "Nanoparticle interference and the limits of collapse-model transfer",
+        "Decision",
+        "1. What was observed",
+        "2. What μ=15.5 means—and does not mean",
+        "3. New cross-model scope control",
+        "4. Independent dimensional and MMM sanity checks",
+        "5. Framework implications"
+      ],
+      "local_links": [
+        "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
+        "verification/requirements-field-probe.txt",
+        "verification/nanoparticle_collapse_scope.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        43,
+        45,
+        58
       ]
     },
     {

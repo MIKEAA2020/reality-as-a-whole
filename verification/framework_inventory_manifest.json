@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "bcaa72595b0084fc165b23fd406af475496c81ac",
-  "file_count": 1035,
+  "base_head": "0cef4f01b81e5c87ce8b363054c1bd36ef1d1c0d",
+  "file_count": 1038,
   "files": [
     {
       "path": ".gitattributes",
@@ -210,8 +210,8 @@
     },
     {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
-      "bytes": 13552,
-      "sha256": "537f1c95a0cc1f27820ec51a12cfad12a8e86c55aa2eaa96edb821428026eca8"
+      "bytes": 13737,
+      "sha256": "793711a2fe10c29989da83d6d1652a926340121d4de781f8e9d7041be1db88dc"
     },
     {
       "path": "COSMOLOGICAL_CONSTANT_A0_CANCEL.md",
@@ -415,8 +415,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 70466,
-      "sha256": "3520a361078dccab36aec5cd3b5fb140e7bf203155fa9a8e4fed6d737b7f3935"
+      "bytes": 70724,
+      "sha256": "5974c4ae0199ca06e9b781fc4b9ab77fc64dcc58f7612a58bd5050b5912f91bc"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -450,8 +450,8 @@
     },
     {
       "path": "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
-      "bytes": 15565,
-      "sha256": "926c33d611e1a908a5fa1e7d3cacf6d98f4e160a4bd2161fd52e5bcf952730dd"
+      "bytes": 16003,
+      "sha256": "2b0caddd9bf23c5be4fd2b4de4f356672fde5cecec97579cdb24f8dd020c4bae"
     },
     {
       "path": "GLOBAL_WORKSPACE_REASSESSMENT.md",
@@ -612,6 +612,11 @@
       "path": "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
       "bytes": 10397,
       "sha256": "2417415036daf87322033dc2828703cfda5859f6fc820a8ff3c478e8d57b52a2"
+    },
+    {
+      "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+      "bytes": 12675,
+      "sha256": "e954d6bfa2b73423cd02e4ec9e888e4b4139887f296deb1ae00e123309ec300f"
     },
     {
       "path": "NECESSARY_ARTICULATED_UNITY.md",
@@ -3639,6 +3644,16 @@
       "sha256": "caf0e93457c26cbc7bbbe08daeffde1fb61f9af86270e70c9f8f98c6d1fccf10"
     },
     {
+      "path": "verification/nanoparticle_collapse_scope.json",
+      "bytes": 1430,
+      "sha256": "cd41824417360064d062504af390da2e50c41bd9b87a77d5d8bff530787caa36"
+    },
+    {
+      "path": "verification/nanoparticle_collapse_scope.py",
+      "bytes": 3661,
+      "sha256": "8cfa33460a8c3e7cb2a7a3fdac522e38ee8778ac352154bf104fe3ec2721b226"
+    },
+    {
       "path": "verification/necessary_existence_closed.json",
       "bytes": 1467,
       "sha256": "7b49f06ed773ff36fcac94497cb2b660614d4d6e106aa83c2500dbfe875f0b17"
@@ -3890,8 +3905,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 397728,
-      "sha256": "2df0871fd9fe61a72960ae531bd0c301d06882ddc7484b39b5c8c2174434af3a"
+      "bytes": 398866,
+      "sha256": "f9f27f7dc6705d3905b5d0f7276c24759e04fca17e5da6156090752881ec9191"
     },
     {
       "path": "verification/project_inventory.py",

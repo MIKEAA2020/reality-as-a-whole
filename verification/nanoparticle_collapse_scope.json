@@ -1,0 +1,41 @@
+{
+  "scope": "Monodisperse arithmetic and abstract finite-level controls; not an experimental reanalysis.",
+  "mass_Da": 172000,
+  "cluster_diameter_m": 8e-09,
+  "period_m": 1.33e-07,
+  "velocity_m_per_s": 160.0,
+  "grating_spacing_m": 0.983,
+  "de_broglie_wavelength_m": 1.4499682807766665e-14,
+  "talbot_length_m": 1.219957721456155,
+  "spacing_over_talbot_length": 0.8057656283585634,
+  "two_leg_time_s": 0.0122875,
+  "mmm": {
+    "model": "Nature eq. 10, ell=1; single representative mass and velocity, no averaging",
+    "hbar_over_sigma_q_m": 1e-08,
+    "published_tau_m_s": 2840000000000000.0,
+    "log10_published_tau": 15.453318340047037,
+    "quadrature_integral": 1.0031252910657131,
+    "quadrature_error_estimate": 6.768385666428204e-13,
+    "coefficient_K_s": 966798281905719.0,
+    "single_particle_R1_at_published_tau": 0.7114700686810509,
+    "heuristic_tau_for_R1_0p78_s": 3891141401767084.5,
+    "heuristic_not_authors_credible_bound": true
+  },
+  "basis_counterexample": {
+    "energy_eigenvalues": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "position_like_eigenvalues": [
+      -0.5,
+      0.5,
+      0.0
+    ],
+    "gamma_times_t": 1,
+    "energy_dephasing_retention_degenerate_pair": 1.0,
+    "position_dephasing_retention_same_pair": 0.6065306597126334,
+    "energy_dephasing_retention_nondegenerate_control": 0.6065306597126334
+  },
+  "illustrative_constant_rate_for_R_0p78_per_s": 20.220659963255308
+}

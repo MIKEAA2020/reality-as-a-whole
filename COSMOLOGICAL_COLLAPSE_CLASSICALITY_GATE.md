@@ -6,7 +6,7 @@ The attached paper is relevant to the framework's **time and gravity/classicalit
 
 The substantive new check below applies directly to the paper's **Dirichlet half-line model**. It shows, under explicit assumptions, that narrowing the spectral variable λ is not the same as localizing its volume variable v: as the λ variance tends to zero, the probability of finding v in any fixed bounded interval tends to zero. This is a model-specific kinematic result, not a proof that all semiclassical cosmologies or collapse models fail. In particular, an expanding classical trajectory can also move outside every fixed interval. The test sharpens what an actual classical-history proof would have to establish.
 
-> **Follow-up:** The [moving-window analysis](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) now gives a conditional positive result for the actual stochastic Dirichlet dynamics: relative one-time localization can hold despite fixed-window escape. It does not yet establish a recorded multi-time history or physical geometry.
+> **Follow-up:** The [moving-window analysis](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) now gives a conditional positive result for the actual stochastic Dirichlet dynamics: relative one-time localization can hold despite fixed-window escape. It does not yet establish a recorded multi-time history or physical geometry. The [nanoparticle interference audit](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) explains why its spatial-collapse limits cannot be automatically applied to this energy-driven model.
 
 ## 1. Source and fair reading
 
