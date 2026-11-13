@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 273 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 231 verification Python scripts.
+- 274 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 232 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -118,6 +118,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KERR_BOUNCE_ROTATIONAL.md](KERR_BOUNCE_ROTATIONAL.md) — Non-Perturbative Kerr Bounce via BKL Rotational Decoupling
 - [KMS_BETA_TWO_PI_TOMITA_WEIGHT.md](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md) — β = 2π as the canonical modular temperature: the universal Tomita weight
+- [KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md](KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md) — Knowability and actuality: a foundation gate
 - [KO_DIMENSION6_SM.md](KO_DIMENSION6_SM.md) — KO-dimension 6 and the 3-generation constraint
 - [LEIBNIZ_CREATION_AND_APPEARANCE.md](LEIBNIZ_CREATION_AND_APPEARANCE.md) — Leibniz: continuous creation, distinct substances, and perspective
 - [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
@@ -444,6 +445,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/joint_access_common_source_gate.py](verification/joint_access_common_source_gate.py)
 - [verification/kerr_bounce_rotational.py](verification/kerr_bounce_rotational.py)
 - [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
+- [verification/knowability_actuality_gate.py](verification/knowability_actuality_gate.py)
 - [verification/ko_dimension6_sm.py](verification/ko_dimension6_sm.py)
 - [verification/latent_experience_three_probes.py](verification/latent_experience_three_probes.py)
 - [verification/linearized_lattice_curvature.py](verification/linearized_lattice_curvature.py)

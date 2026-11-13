@@ -36,3 +36,5 @@ The controls also do not refute either bridge: a proponent can deny the first fr
 - **B4:** global necessity does not settle subject plurality; an incidence rule remains **open**.
 
 The next substantive challenge is to select an independently motivated account of **why a necessary truth must be grounded in experience**, and test whether its grounding relation requires experiential occurrence in its premises or can support it without restatement. Compare it fairly with the actuality-first route and defensible theories of truth that do not require such a ground. A formal implication or one finite example cannot settle that philosophical dispute; evidence for an intrinsic experiential constitution and compatibility with the physical and subject gates would also be required.
+
+**Further candidate:** The [knowability and actuality gate](KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md) examines an epistemic bridge, Fitch restrictions and the stronger direct implication of the assumed global schema. Its premises remain unproved; the necessity verdict above is unchanged.

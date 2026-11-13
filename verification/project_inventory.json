@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 316,
-  "bytes": 4249517,
-  "line_count": 47020,
-  "document_count_with_risk_phrases": 291,
+  "document_count": 317,
+  "bytes": 4262090,
+  "line_count": 47099,
+  "document_count_with_risk_phrases": 292,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2760,9 +2760,9 @@
     },
     {
       "path": "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
-      "sha256": "ea635d9414b1c78e5db7ff537edd32b01be46b0a9d46296cafbdba6f60b83c85",
-      "bytes": 5205,
-      "lines": 38,
+      "sha256": "949cbe9cabda121d64302806591185897f0acf11613f63743ee86d2166a19880",
+      "bytes": 5499,
+      "lines": 40,
       "title": "Foundation: comparing the two existing necessity routes",
       "headings": [
         "Foundation: comparing the two existing necessity routes",
@@ -2775,7 +2775,8 @@
         "NECESSARY_OCCURRENCE_CANDIDATE.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
-        "verification/foundation_route_comparison.py"
+        "verification/foundation_route_comparison.py",
+        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md"
       ],
       "risk_phrase_lines": [
         20
@@ -2836,9 +2837,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b3bd593dbf19adbbe3b77d01b04b42a61f8e614bdc774007b7c0855809475cd9",
-      "bytes": 70983,
-      "lines": 601,
+      "sha256": "0bae7c99586212bd09a66a4f3450f9be1e841e1d31d91f69e9e10c0cf9c7dc11",
+      "bytes": 71218,
+      "lines": 603,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2958,6 +2959,7 @@
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KERR_BOUNCE_ROTATIONAL.md",
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
+        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "KO_DIMENSION6_SM.md",
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -3270,6 +3272,7 @@
         "verification/joint_access_common_source_gate.py",
         "verification/kerr_bounce_rotational.py",
         "verification/kms_beta_two_pi.py",
+        "verification/knowability_actuality_gate.py",
         "verification/ko_dimension6_sm.py",
         "verification/latent_experience_three_probes.py",
         "verification/linearized_lattice_curvature.py",
@@ -3429,17 +3432,17 @@
         30,
         34,
         40,
-        136,
-        168,
-        180,
-        213,
-        264,
-        277,
-        313,
-        322,
-        325,
-        328,
-        358
+        137,
+        169,
+        181,
+        214,
+        265,
+        278,
+        314,
+        323,
+        326,
+        329,
+        359
       ]
     },
     {
@@ -4397,6 +4400,34 @@
         149,
         161,
         194
+      ]
+    },
+    {
+      "path": "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
+      "sha256": "f70b08395ca8f26aa1aa28c333a47e2212ce04cd2aa72290c42f99f14ee734b6",
+      "bytes": 11738,
+      "lines": 73,
+      "title": "Knowability and actuality: a foundation gate",
+      "headings": [
+        "Knowability and actuality: a foundation gate",
+        "Decision",
+        "1. Candidate and premise ledger",
+        "2. The direct interaction: knowability becomes knowledge",
+        "3. Contrast with Fitch's established result",
+        "4. Adversarial controls",
+        "5. What this changes in the battery plan"
+      ],
+      "local_links": [
+        "verification/knowability_actuality_gate.py",
+        "verification/framework_battery.py",
+        "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
+        "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        52,
+        68
       ]
     },
     {
@@ -5793,9 +5824,9 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "e6111d138a72dc4a880cdfa5da06c7c3b8cc4e1086bdab527628011aec4443a7",
-      "bytes": 8339,
-      "lines": 34,
+      "sha256": "55c8bce38d7708bb873584c4e2316e566d2c3606e3344f8348dc6a7c9fedd318",
+      "bytes": 8645,
+      "lines": 36,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
         "After the Roy data: decision and framework critical path",
@@ -5810,7 +5841,8 @@
         "verification/plenitude_foundation_symmetry_gates.py",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-        "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md"
+        "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
+        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md"
       ],
       "risk_phrase_lines": [
         19,

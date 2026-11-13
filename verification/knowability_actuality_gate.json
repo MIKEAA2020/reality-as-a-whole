@@ -1,0 +1,34 @@
+{
+  "scope": "Finite extensional Kripke-style controls, not justification of knowability, phenomenality, possibility or concrete reality.",
+  "two_point_cases": 8192,
+  "direct_bridge_premise_cases": 4720,
+  "factive_two_point_designated_models": 512,
+  "unrestricted_factive_fitch_models": 64,
+  "restricted_three_point": {
+    "modal_rows_bitmask": [
+      7,
+      7,
+      7
+    ],
+    "epistemic_rows_bitmask": [
+      5,
+      2,
+      4
+    ],
+    "knower_existence_mask": 2,
+    "experience_mask": 2,
+    "p_mask": 3,
+    "actual_point": 0,
+    "Kp_mask": 2,
+    "K_top_mask": 2,
+    "p_and_not_Kp_mask": 1,
+    "K_p_and_not_Kp_mask": 0,
+    "p_true_and_unknown": true,
+    "p_and_tautology_knowable": true,
+    "actual_knower_and_experience_absent": true
+  },
+  "empty_knower_one_point": {
+    "strong_schema_holds": true,
+    "tautology_knowable": false
+  }
+}
