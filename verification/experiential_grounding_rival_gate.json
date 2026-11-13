@@ -1,0 +1,44 @@
+{
+  "scope": "Constructed operationally identical rivals and toy codebooks; not empirical confirmation, demonstrated metaphysical possibility or a universal complexity result.",
+  "policy_count": 8,
+  "two_observation_histories_per_policy": 4,
+  "equal_likelihood_checks": 32,
+  "posterior_equals_prior_examples": [
+    "2/3",
+    "1/3"
+  ],
+  "operationally_different_control": {
+    "policy": [
+      0,
+      0,
+      1
+    ],
+    "experiential_distribution": [
+      "9/16",
+      "3/16",
+      "1/16",
+      "3/16"
+    ],
+    "different_model_distribution": [
+      "4/9",
+      "2/9",
+      "1/9",
+      "2/9"
+    ],
+    "total_variation": "17/144"
+  },
+  "prefix_codes": {
+    "favor_A": {
+      "A": "0",
+      "B": "10"
+    },
+    "favor_B": {
+      "A": "10",
+      "B": "0"
+    },
+    "normalized_weight_A_in_each": [
+      "2/3",
+      "1/3"
+    ]
+  }
+}

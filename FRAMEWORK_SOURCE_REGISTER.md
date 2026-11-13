@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 274 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 232 verification Python scripts.
+- 275 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 233 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -78,6 +78,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md](EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md) — Expanding BEC as a cosmological and clock analogue: source audit
 - [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
+- [EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) — Experiential grounding: a positive candidate and its strongest rival
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
 - [FINITE_COMPLETION_CLOCK.md](FINITE_COMPLETION_CLOCK.md) — Finite completion, a stopped time record, and controlled future escape
@@ -404,6 +405,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
+- [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
 - [verification/finite_completion_clock.py](verification/finite_completion_clock.py)
 - [verification/finite_reference_gravity.py](verification/finite_reference_gravity.py)

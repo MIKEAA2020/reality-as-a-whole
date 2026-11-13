@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 317,
-  "bytes": 4262090,
-  "line_count": 47099,
-  "document_count_with_risk_phrases": 292,
+  "document_count": 318,
+  "bytes": 4279489,
+  "line_count": 47187,
+  "document_count_with_risk_phrases": 293,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2348,6 +2348,35 @@
       ]
     },
     {
+      "path": "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+      "sha256": "6daf71afe01d3a72f99cf457d7c413dce1741528b0c12eff59cd5a384b1583af",
+      "bytes": 16574,
+      "lines": 82,
+      "title": "Experiential grounding: a positive candidate and its strongest rival",
+      "headings": [
+        "Experiential grounding: a positive candidate and its strongest rival",
+        "Decision",
+        "1. A positive experiential-constitution proposal",
+        "2. The rival must preserve actual experience",
+        "3. What even very rich data can and cannot decide",
+        "4. An honest parsimony comparison",
+        "5. Implications for the formal battery and next constructive test"
+      ],
+      "local_links": [
+        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
+        "verification/experiential_grounding_rival_gate.py",
+        "ROY_S08_FIXED_TRANSFER_RESULTS.md",
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
+        "verification/experiential_grounding_rival_gate.json",
+        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md"
+      ],
+      "risk_phrase_lines": [
+        36,
+        46,
+        82
+      ]
+    },
+    {
       "path": "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
       "sha256": "c12e672e7b5cf0ba3a640c35598d6c8f6556ef72af4982ce52d9b62d9b77e3a1",
       "bytes": 9549,
@@ -2837,9 +2866,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0bae7c99586212bd09a66a4f3450f9be1e841e1d31d91f69e9e10c0cf9c7dc11",
-      "bytes": 71218,
-      "lines": 603,
+      "sha256": "b9dd3ccef85561fbb5e19194b9bc3a4e1208f4a7fb430380f0296024b430a58a",
+      "bytes": 71491,
+      "lines": 605,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2919,6 +2948,7 @@
         "EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_COMPLETION_CLOCK.md",
@@ -3231,6 +3261,7 @@
         "verification/energy_exchange_clock.py",
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
+        "verification/experiential_grounding_rival_gate.py",
         "verification/field_readout_energy_bound.py",
         "verification/finite_completion_clock.py",
         "verification/finite_reference_gravity.py",
@@ -3432,17 +3463,17 @@
         30,
         34,
         40,
-        137,
-        169,
-        181,
-        214,
-        265,
-        278,
-        314,
-        323,
-        326,
-        329,
-        359
+        138,
+        170,
+        182,
+        215,
+        266,
+        279,
+        315,
+        324,
+        327,
+        330,
+        360
       ]
     },
     {
@@ -4404,9 +4435,9 @@
     },
     {
       "path": "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
-      "sha256": "f70b08395ca8f26aa1aa28c333a47e2212ce04cd2aa72290c42f99f14ee734b6",
-      "bytes": 11738,
-      "lines": 73,
+      "sha256": "4cb5da6e739c74981171ddbee148e35757b0f80c8c99c7861a466d5b56b0b744",
+      "bytes": 12032,
+      "lines": 75,
       "title": "Knowability and actuality: a foundation gate",
       "headings": [
         "Knowability and actuality: a foundation gate",
@@ -4422,7 +4453,8 @@
         "verification/framework_battery.py",
         "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
-        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md"
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -5824,9 +5856,9 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "55c8bce38d7708bb873584c4e2316e566d2c3606e3344f8348dc6a7c9fedd318",
-      "bytes": 8645,
-      "lines": 36,
+      "sha256": "004d607e88790359f488dbad1d69271cab93b29f9c0a6718174f295c463ba845",
+      "bytes": 8903,
+      "lines": 38,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
         "After the Roy data: decision and framework critical path",
@@ -5842,7 +5874,8 @@
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
-        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md"
+        "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
       ],
       "risk_phrase_lines": [
         19,
