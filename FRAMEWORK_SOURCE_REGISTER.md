@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 278 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 236 verification Python scripts.
+- 279 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 237 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -130,6 +130,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md](LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md) — Local field probe: complete-order bound and an energy accounting gate
 - [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast
 - [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
+- [MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md](MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md) — Microtubules, anesthesia and quantum consciousness: a causal discrimination gate
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
 - [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
@@ -459,6 +460,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/localized_constraint_clock.py](verification/localized_constraint_clock.py)
 - [verification/localized_preparation.py](verification/localized_preparation.py)
 - [verification/maintained_disclosure_contrast.py](verification/maintained_disclosure_contrast.py)
+- [verification/microtubule_mediation_rival.py](verification/microtubule_mediation_rival.py)
 - [verification/modular_clock.py](verification/modular_clock.py)
 - [verification/modular_local_net.py](verification/modular_local_net.py)
 - [verification/multi_clock.py](verification/multi_clock.py)

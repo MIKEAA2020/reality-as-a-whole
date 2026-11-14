@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 321,
-  "bytes": 4308038,
-  "line_count": 47447,
-  "document_count_with_risk_phrases": 296,
+  "document_count": 322,
+  "bytes": 4323827,
+  "line_count": 47541,
+  "document_count_with_risk_phrases": 297,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2868,9 +2868,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "26fceb3a474a74f3e75078207bed834e441a21bf0670b028ce0512d7300f0774",
-      "bytes": 72264,
-      "lines": 611,
+      "sha256": "b3a6c98470c6b883b37c4a4ab52c3771f9d9566d9dbc2a0cdd5a3e10e5e8ff47",
+      "bytes": 72547,
+      "lines": 613,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3002,6 +3002,7 @@
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
         "MAINTENANCE_BROADCAST_SEPARATION.md",
+        "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
         "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
@@ -3317,6 +3318,7 @@
         "verification/localized_constraint_clock.py",
         "verification/localized_preparation.py",
         "verification/maintained_disclosure_contrast.py",
+        "verification/microtubule_mediation_rival.py",
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
         "verification/multi_clock.py",
@@ -3471,17 +3473,17 @@
         30,
         34,
         40,
-        138,
-        170,
-        182,
-        215,
-        269,
-        282,
-        318,
-        327,
-        330,
-        333,
-        363
+        139,
+        171,
+        183,
+        216,
+        270,
+        283,
+        319,
+        328,
+        331,
+        334,
+        364
       ]
     },
     {
@@ -4764,6 +4766,38 @@
       "risk_phrase_lines": [
         112,
         140
+      ]
+    },
+    {
+      "path": "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
+      "sha256": "7508ef5abb34a8569dce2c7fe30414ad62754441f5f49ca7ada99d64c4fe0cf4",
+      "bytes": 15506,
+      "lines": 92,
+      "title": "Microtubules, anesthesia and quantum consciousness: a causal discrimination gate",
+      "headings": [
+        "Microtubules, anesthesia and quantum consciousness: a causal discrimination gate",
+        "Decision",
+        "1. What the reported results constrain",
+        "2. Exact counterexample: a strong assay correlation is not enough",
+        "3. A selective intervention helps—but an exclusion claim must be earned",
+        "4. A quantitative conditional gate",
+        "5. Prospective experiment: staged, not a ready-to-run clinical protocol",
+        "6. Relation to the whole-framework obligations"
+      ],
+      "local_links": [
+        "verification/microtubule_mediation_rival.py",
+        "verification/microtubule_mediation_rival.json",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        20,
+        32,
+        46,
+        50,
+        84
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "580c1ec087b777e55cec074b262a14c1180a45ab",
-  "file_count": 1056,
+  "base_head": "6a033074e6f6e9ed82adb45d6334f1f6de225cd3",
+  "file_count": 1059,
   "files": [
     {
       "path": ".gitattributes",
@@ -420,8 +420,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 72264,
-      "sha256": "26fceb3a474a74f3e75078207bed834e441a21bf0670b028ce0512d7300f0774"
+      "bytes": 72547,
+      "sha256": "b3a6c98470c6b883b37c4a4ab52c3771f9d9566d9dbc2a0cdd5a3e10e5e8ff47"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -607,6 +607,11 @@
       "path": "MAINTENANCE_BROADCAST_SEPARATION.md",
       "bytes": 11636,
       "sha256": "c8827c5e89d689f63484108146750ef9f368451385813f48c3e1dc43c9558505"
+    },
+    {
+      "path": "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
+      "bytes": 15506,
+      "sha256": "7508ef5abb34a8569dce2c7fe30414ad62754441f5f49ca7ada99d64c4fe0cf4"
     },
     {
       "path": "MODULAR_CLOCK_SELECTION.md",
@@ -3664,6 +3669,16 @@
       "sha256": "6e7d54277d0f7388f043a68ace3f96a6b0a7d6ca0ba3d257630287eacf5d2aa7"
     },
     {
+      "path": "verification/microtubule_mediation_rival.json",
+      "bytes": 2912,
+      "sha256": "9de776ee4c6c7f560c3be2e12efd7fd009bce725d8224fc22aaee4f06bba5bd8"
+    },
+    {
+      "path": "verification/microtubule_mediation_rival.py",
+      "bytes": 3622,
+      "sha256": "6a9f85f6225af10512c7e8a02edc0adb89feeca5af8b1c75c78a96829c1753a2"
+    },
+    {
       "path": "verification/modular_clock.json",
       "bytes": 4280,
       "sha256": "2bdee82504fbb17cfd8b110f64a538fcd1bec71afa38134b161d0f9cfb83f947"
@@ -3955,8 +3970,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 406451,
-      "sha256": "8f8d71eda1590e516ead0b9b1535c3e5034b74a6ae57aaa719188296c58ee903"
+      "bytes": 407781,
+      "sha256": "2e3b592787f011f64bf9277530dbf28fd9dec378dbe201785bd7e4ccbd1c3934"
     },
     {
       "path": "verification/project_inventory.py",
