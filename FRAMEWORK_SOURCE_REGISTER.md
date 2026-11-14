@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 283 root Markdown documents including this register; 43 research Markdown documents.
+- 284 root Markdown documents including this register; 43 research Markdown documents.
 - 21 original uploaded files, including provenance metadata; 239 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -15,6 +15,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 
 - [ABSOLUTE_CONSTITUTION_FRAMEWORK.md](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) — The complete absolute: consolidated framework and implementation plan
 - [ABSOLUTE_PERSPECTIVES_SYNTHESIS.md](ABSOLUTE_PERSPECTIVES_SYNTHESIS.md) — Absolute, perspectives, and the zero-residue account: synthesis with the spherical WdW chain
+- [ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md](ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md) — Actuality, interventions and Bell experiments
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
 - [ARTICULATED_SELF_PRESENCE.md](ARTICULATED_SELF_PRESENCE.md) — Articulated self-presence: positive warrant and a composition consequence
 - [ASPHERICAL_QUADRUPOLE_LOSS.md](ASPHERICAL_QUADRUPOLE_LOSS.md) — Weak aspherical quadrupole losses beyond perfect spherical symmetry

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 326,
-  "bytes": 4378556,
-  "line_count": 47947,
-  "document_count_with_risk_phrases": 300,
+  "document_count": 327,
+  "bytes": 4391687,
+  "line_count": 48033,
+  "document_count_with_risk_phrases": 301,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -144,6 +144,29 @@
         140,
         143,
         145
+      ]
+    },
+    {
+      "path": "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+      "sha256": "ee65dd4b1f2601f119b388cbccaf18ecd16ae00bac51f16e8f7ffa618bf05fa6",
+      "bytes": 12498,
+      "lines": 83,
+      "title": "Actuality, interventions and Bell experiments",
+      "headings": [
+        "Actuality, interventions and Bell experiments",
+        "The issue",
+        "1. Three distinct statements",
+        "2. A concrete physics constraint: Bell correlations",
+        "3. What this does—and does not—contribute to the experiential foundation",
+        "4. Revisions to how previous constructions should be read"
+      ],
+      "local_links": [
+        "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
+        "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        81
       ]
     },
     {
@@ -2923,9 +2946,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4ee1af2fd6f87eb71adc4aee0946892e52c302acb5abd343b478625b6fff338c",
-      "bytes": 73163,
-      "lines": 617,
+      "sha256": "01d0c8577c07d179d501438e43f35d0f7954eb57bfd3a3631413a96ee28c3474",
+      "bytes": 73562,
+      "lines": 620,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -2942,6 +2965,7 @@
         "verification/project_inventory.json",
         "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
@@ -2963,6 +2987,7 @@
         "COLD_ATOM_CLOCK_COMPARISON.md",
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
         "COMMON_CONSTITUTION_CLOSURE.md",
         "COMMUTANT_STEERING_AND_COST.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
@@ -3297,6 +3322,7 @@
         "verification/build_framework_inventory.py",
         "verification/causal_influence_subject_gate.py",
         "verification/causal_record_lineage.py",
+        "verification/cie_metamer_experiential_gate.py",
         "verification/clock_choice.py",
         "verification/cogitate_analysis_audit.py",
         "verification/cold_atom_clock.py",
@@ -3528,21 +3554,21 @@
       ],
       "risk_phrase_lines": [
         17,
-        24,
-        30,
-        34,
-        40,
-        140,
-        172,
-        184,
-        219,
-        273,
-        286,
-        322,
-        331,
-        334,
-        337,
-        367
+        25,
+        31,
+        35,
+        42,
+        142,
+        174,
+        186,
+        221,
+        275,
+        288,
+        324,
+        333,
+        336,
+        339,
+        369
       ]
     },
     {
@@ -4829,8 +4855,8 @@
     },
     {
       "path": "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
-      "sha256": "7508ef5abb34a8569dce2c7fe30414ad62754441f5f49ca7ada99d64c4fe0cf4",
-      "bytes": 15506,
+      "sha256": "383585a2cabc5962bb9faa786b1f6529dd59e1c43ade0ff8a2a0cfdfe1f2e310",
+      "bytes": 15740,
       "lines": 92,
       "title": "Microtubules, anesthesia and quantum consciousness: a causal discrimination gate",
       "headings": [
@@ -4846,6 +4872,7 @@
       "local_links": [
         "verification/microtubule_mediation_rival.py",
         "verification/microtubule_mediation_rival.json",
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
       ],
