@@ -1,0 +1,69 @@
+{
+  "source_git_commit": "b542bec75fdc7946a380071dc1c450bf4e7d5687",
+  "source_blob": "9b4e3f73b4bb412a762a6d03cb8060bfea652a6e",
+  "source_sha256": "fa663e3535a7e0763a745993a1f0a192eb0275ac46ad2d1befd7626841e713c1",
+  "wavelengths_nm": [
+    450,
+    500,
+    550,
+    600
+  ],
+  "cmf_rows_decimal_strings": [
+    [
+      "0.336200000000",
+      "0.0380000000000",
+      "1.772110000000"
+    ],
+    [
+      "0.004900000000",
+      "0.3230000000000",
+      "0.272000000000"
+    ],
+    [
+      "0.433449900000",
+      "0.9949501000000",
+      "0.008749999000"
+    ],
+    [
+      "1.062200000000",
+      "0.6310000000000",
+      "0.000800000000"
+    ]
+  ],
+  "normalized_null_direction": [
+    -0.15128799669450121,
+    1.0,
+    -0.46721963465227967,
+    0.23392894785045987
+  ],
+  "relative_band_powers_plus": [
+    0.878969602644399,
+    1.8,
+    0.6262242922781762,
+    1.187143158280368
+  ],
+  "relative_band_powers_minus": [
+    1.121030397355601,
+    0.2,
+    1.3737757077218238,
+    0.8128568417196321
+  ],
+  "tristimulus_both_exact_rounded_table": [
+    1.8367499,
+    1.9869501,
+    2.053659999
+  ],
+  "selected_filter_nm": 500,
+  "passed_band_power_difference_exact": "8/5",
+  "filtered_tristimulus_plus": [
+    0.00882,
+    0.5814,
+    0.4896
+  ],
+  "filtered_tristimulus_minus": [
+    0.00098,
+    0.0646,
+    0.0544
+  ],
+  "scope": "Exact rational arithmetic on four rounded CIE table rows and idealized monochromatic sources and filter. Not an experiment; standard-observer predictions are not phenomenal equivalence for an actual person."
+}
