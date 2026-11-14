@@ -162,3 +162,5 @@ An inability to speak from an absolute nothing state does not by itself prove th
 - In parallel, G1 can be researched without pretending L3–L5 are finished.
 - Every later report must point to the exact task it closes, the task(s) it unlocks, and the assumptions it does not close.
 - Periodically re-audit whether these tasks actually serve the endpoint. Passing a long list of isolated checks is not equivalent to a solution, and no timeline or guaranteed completion is asserted.
+
+**3+1 cutoff refinement:** The [sharper tail and energy-projection gate](THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md) conditionally improves the interaction-only rate to `O(N⁻¹/⁶)` and reduces a very conservative illustrative sufficient cutoff, while remaining operationally impractical and requiring review of the inherited proof.

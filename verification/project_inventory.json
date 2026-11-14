@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 320,
-  "bytes": 4297004,
-  "line_count": 47318,
-  "document_count_with_risk_phrases": 295,
+  "document_count": 321,
+  "bytes": 4308038,
+  "line_count": 47447,
+  "document_count_with_risk_phrases": 296,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1838,9 +1838,9 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "sha256": "50f1328a6720ccae9926b0e7339c1255065acc11dda03fd7245e94138132249c",
-      "bytes": 23356,
-      "lines": 164,
+      "sha256": "613569b7c440640736c8d97ffcbfaf4af1d45e0e5fe80a3367fb3cf03e0a87c2",
+      "bytes": 23698,
+      "lines": 166,
       "title": "From what we have to what we need: dependency-driven work register",
       "headings": [
         "From what we have to what we need: dependency-driven work register",
@@ -1882,7 +1882,8 @@
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
         "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
-        "GLOBAL_COHERENCE_AND_DECISION_PLAN.md"
+        "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
+        "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md"
       ],
       "risk_phrase_lines": [
         29,
@@ -2867,9 +2868,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d44f30e02fdf3d205783d87697e341bd5f3184dede830f68fef34a7be9654ef3",
-      "bytes": 72001,
-      "lines": 609,
+      "sha256": "26fceb3a474a74f3e75078207bed834e441a21bf0670b028ce0512d7300f0774",
+      "bytes": 72264,
+      "lines": 611,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3110,6 +3111,7 @@
         "THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md",
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
+        "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
         "TIME_RESEARCH_ROADMAP.md",
@@ -3424,6 +3426,7 @@
         "verification/thermal_time.py",
         "verification/three_dimensional_bogoliubov_continuum.py",
         "verification/three_dimensional_quantitative_channel.py",
+        "verification/three_dimensional_sharper_tail.py",
         "verification/three_dimensional_smooth_probe_gate.py",
         "verification/tick_readout.py",
         "verification/time_recovery_benchmark.py",
@@ -3472,13 +3475,13 @@
         170,
         182,
         215,
-        268,
-        281,
-        317,
-        326,
-        329,
-        332,
-        362
+        269,
+        282,
+        318,
+        327,
+        330,
+        333,
+        363
       ]
     },
     {
@@ -8497,9 +8500,9 @@
     },
     {
       "path": "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
-      "sha256": "9a78c97c650eb84129980d7573116d6bdf0b8fbce205bde3f589b9d11e9cb001",
-      "bytes": 9720,
-      "lines": 123,
+      "sha256": "d9d5f8e0cd03d0d8f9a71ea7d88c83339797ec81b87957304cd7ad55d2e1cc00",
+      "bytes": 10007,
+      "lines": 125,
       "title": "A finite-cutoff certificate for the 3+1 two-field instrument",
       "headings": [
         "A finite-cutoff certificate for the 3+1 two-field instrument",
@@ -8511,15 +8514,42 @@
         "5. Controls and limitations"
       ],
       "local_links": [
+        "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "verification/three_dimensional_quantitative_channel.py"
       ],
       "risk_phrase_lines": [
-        13,
-        38,
-        87,
-        121
+        15,
+        40,
+        89,
+        123
+      ]
+    },
+    {
+      "path": "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
+      "sha256": "1e7fe7907237aad2d2127216d267238998367ebfc773dd62fd9a11cd4c948f7e",
+      "bytes": 10142,
+      "lines": 123,
+      "title": "Sharper cutoff certificate for the 3+1 field–probe model",
+      "headings": [
+        "Sharper cutoff certificate for the 3+1 field–probe model",
+        "Result and qualification",
+        "1. Inherited setting",
+        "2. Momentum splitting: the improved primitive tail",
+        "3. Conditional propagation to the interaction channel",
+        "4. Numbers and adversarial checks",
+        "Reproduction"
+      ],
+      "local_links": [
+        "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
+        "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "verification/three_dimensional_sharper_tail.py",
+        "verification/three_dimensional_sharper_tail.json"
+      ],
+      "risk_phrase_lines": [
+        51,
+        74
       ]
     },
     {

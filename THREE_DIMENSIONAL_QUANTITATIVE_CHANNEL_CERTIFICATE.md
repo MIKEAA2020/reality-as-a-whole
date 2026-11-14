@@ -1,5 +1,7 @@
 # A finite-cutoff certificate for the 3+1 two-field instrument
 
+> **Later refinement:** The [momentum-split and optimized-projection certificate](THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md) conditionally improves the asymptotic interaction bound and its illustrative sufficient cutoff. It retains the same prior proof and apparatus limitations.
+
 ## Result and status
 
 For the compact-volume, positive-mass, smoothly switched 3+1 two-field model in [the nonperturbative continuum report](THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md), the previously qualitative energy-constrained interaction-channel limit can be given an **explicit finite-cutoff upper bound**. The bound applies to arbitrary joint field–reference inputs with a fixed mean total field energy; it extends to both complete source/probe orders, retaining the field, probe, readout qubit and noisy records.

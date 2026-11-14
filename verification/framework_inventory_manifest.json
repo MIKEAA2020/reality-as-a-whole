@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5ee21b668324d23ed6a1e0da55b9b9a24a027639",
-  "file_count": 1053,
+  "base_head": "580c1ec087b777e55cec074b262a14c1180a45ab",
+  "file_count": 1056,
   "files": [
     {
       "path": ".gitattributes",
@@ -255,8 +255,8 @@
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
-      "bytes": 23356,
-      "sha256": "50f1328a6720ccae9926b0e7339c1255065acc11dda03fd7245e94138132249c"
+      "bytes": 23698,
+      "sha256": "613569b7c440640736c8d97ffcbfaf4af1d45e0e5fe80a3367fb3cf03e0a87c2"
     },
     {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
@@ -420,8 +420,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 72001,
-      "sha256": "d44f30e02fdf3d205783d87697e341bd5f3184dede830f68fef34a7be9654ef3"
+      "bytes": 72264,
+      "sha256": "26fceb3a474a74f3e75078207bed834e441a21bf0670b028ce0512d7300f0774"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1150,8 +1150,13 @@
     },
     {
       "path": "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
-      "bytes": 9720,
-      "sha256": "9a78c97c650eb84129980d7573116d6bdf0b8fbce205bde3f589b9d11e9cb001"
+      "bytes": 10007,
+      "sha256": "d9d5f8e0cd03d0d8f9a71ea7d88c83339797ec81b87957304cd7ad55d2e1cc00"
+    },
+    {
+      "path": "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
+      "bytes": 10142,
+      "sha256": "1e7fe7907237aad2d2127216d267238998367ebfc773dd62fd9a11cd4c948f7e"
     },
     {
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
@@ -3950,8 +3955,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 402919,
-      "sha256": "57ff62b70d8b613836ea9896bf5ff2b3f98eb050caeef462b4634e09f4a558ed"
+      "bytes": 406451,
+      "sha256": "8f8d71eda1590e516ead0b9b1535c3e5034b74a6ae57aaa719188296c58ee903"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4907,6 +4912,16 @@
       "path": "verification/three_dimensional_quantitative_channel.py",
       "bytes": 5963,
       "sha256": "36b64582b9b482e4c38cd9ef752fb653f7593b68f69facce9c522470020b54c9"
+    },
+    {
+      "path": "verification/three_dimensional_sharper_tail.json",
+      "bytes": 3436,
+      "sha256": "21219a6dc94aba9f9eef7f24603b6b73c38020cb3ba0dd3b29dace7ff6f562cd"
+    },
+    {
+      "path": "verification/three_dimensional_sharper_tail.py",
+      "bytes": 6087,
+      "sha256": "41929cb5c998244377e30d76d4744dd3775b8f13385710b23a9486bca174a1e0"
     },
     {
       "path": "verification/three_dimensional_smooth_probe_gate.json",

@@ -1,0 +1,99 @@
+{
+  "scope": "Floating quadrature and finite-M controls conditional on the earlier unreviewed continuum/channel argument; not an interval certificate.",
+  "derivative_norms_512": {
+    "one_dimensional_L2_squared": 1.6877920325242504,
+    "one_dimensional_derivative_L2_squared": 32.46477606823037,
+    "D_gradient_squared_over_V": 1.1184895375972088
+  },
+  "derivative_norms_256": {
+    "one_dimensional_L2_squared": 1.6877920325242437,
+    "one_dimensional_derivative_L2_squared": 32.464776068230286,
+    "D_gradient_squared_over_V": 1.118489537597197
+  },
+  "finite_primitive_tail_controls": [
+    {
+      "N": 2,
+      "M": 6,
+      "finite_tail_doubled_HS": 0.06556896296655544,
+      "finite_diagonal_lower": 0.0009047281201279425,
+      "new_tail_upper": 1.362294226472328,
+      "old_tail_upper": 0.34777192417265923
+    },
+    {
+      "N": 3,
+      "M": 6,
+      "finite_tail_doubled_HS": 0.055904398753408475,
+      "finite_diagonal_lower": 0.000678546090095957,
+      "new_tail_upper": 1.362294226472328,
+      "old_tail_upper": 0.31394597077270636
+    },
+    {
+      "N": 4,
+      "M": 6,
+      "finite_tail_doubled_HS": 0.04395412494428965,
+      "finite_diagonal_lower": 0.000495539999803318,
+      "new_tail_upper": 0.9096893657972945,
+      "old_tail_upper": 0.2920612732656555
+    },
+    {
+      "N": 5,
+      "M": 6,
+      "finite_tail_doubled_HS": 0.02954076435646289,
+      "finite_diagonal_lower": 0.0003198696944363128,
+      "new_tail_upper": 0.9096893657972945,
+      "old_tail_upper": 0.2761714047045899
+    }
+  ],
+  "full_strength_constants": {
+    "primitive_constant": 3.814970901253167,
+    "relative_alpha_coefficient": 259788545944865.8,
+    "relative_beta_coefficient": 1.6207976144573847e+29,
+    "old_relative_beta_coefficient": 1.6207974132970438e+29
+  },
+  "primitive_diagonal_lower_coefficient": 0.0020729925469206985,
+  "primitive_diagonal_lower_scope": "For normalized product bump, doubled infinite primitive tail >= coefficient/sqrt(N+1); no channel lower bound.",
+  "N_power_of_ten_controls": [
+    {
+      "log10_N": 70,
+      "new_optimized_upper": 0.4121713433914066,
+      "old_rate_optimized_upper": 2.0,
+      "energy_projection_R": 21191.44521329256
+    },
+    {
+      "log10_N": 78,
+      "new_optimized_upper": 0.019130993608088898,
+      "old_rate_optimized_upper": 2.0,
+      "energy_projection_R": 9836202.860643275
+    },
+    {
+      "log10_N": 79,
+      "new_optimized_upper": 0.013033793981470632,
+      "old_rate_optimized_upper": 2.0,
+      "energy_projection_R": 21191456.661943574
+    },
+    {
+      "log10_N": 80,
+      "new_optimized_upper": 0.008879820394415263,
+      "old_rate_optimized_upper": 2.0,
+      "energy_projection_R": 45655609.36533185
+    },
+    {
+      "log10_N": 81,
+      "new_optimized_upper": 0.006049751185695268,
+      "old_rate_optimized_upper": 2.0,
+      "energy_projection_R": 98362028.61157885
+    }
+  ],
+  "old_rate_but_R_optimized_at_1e160": 0.008879820027051318,
+  "prior_original_simple_coefficient_sufficient_exponent": 729,
+  "new_round_sufficient_exponent_for_E100_error_0p01": 80,
+  "interpretation": "N=10^80 is an approximate sufficient upper-bound example only; not necessary, minimal, feasible, or total instrument error.",
+  "weak_finite_ODE": {
+    "M": 2,
+    "N": 1,
+    "lambda": 0.001,
+    "relative_beta_HS": 0.00012994401794946405,
+    "prior_bound_N1": 0.014444335323999887,
+    "new_N2_plus_theorem_not_applied": true
+  }
+}
