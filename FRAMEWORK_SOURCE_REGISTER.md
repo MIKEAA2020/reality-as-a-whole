@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 279 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 237 verification Python scripts.
+- 280 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 238 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -208,6 +208,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md](ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md) — S09 scan 3 and the MRI–EEG trigger-count mismatch
 - [ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md](ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md) — S09 scans 7–9: complete fMRI inspection and six-scan timing comparison
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
+- [SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md](SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md) — Schlosshauer: decoherence, records and the subject boundary
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
@@ -401,6 +402,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
 - [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)
 - [verification/cutoff_instrument_uniformity.py](verification/cutoff_instrument_uniformity.py)
+- [verification/decoherence_record_boundary.py](verification/decoherence_record_boundary.py)
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)

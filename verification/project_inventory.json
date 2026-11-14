@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 322,
-  "bytes": 4323827,
-  "line_count": 47541,
-  "document_count_with_risk_phrases": 297,
+  "document_count": 323,
+  "bytes": 4336124,
+  "line_count": 47635,
+  "document_count_with_risk_phrases": 298,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2868,9 +2868,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b3a6c98470c6b883b37c4a4ab52c3771f9d9566d9dbc2a0cdd5a3e10e5e8ff47",
-      "bytes": 72547,
-      "lines": 613,
+      "sha256": "a8de829c17da21943aaa8ec4e8d47c48d80e753de37b3606eef44aae5859d30d",
+      "bytes": 72813,
+      "lines": 615,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3080,6 +3080,7 @@
         "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
         "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+        "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
@@ -3259,6 +3260,7 @@
         "verification/cross_framework_causal_cutoff.py",
         "verification/cross_framework_local_bracket.py",
         "verification/cutoff_instrument_uniformity.py",
+        "verification/decoherence_record_boundary.py",
         "verification/disclosure_observation_identifiability.py",
         "verification/disclosure_scope_check.py",
         "verification/dust_clock_record.py",
@@ -3476,14 +3478,14 @@
         139,
         171,
         183,
-        216,
-        270,
-        283,
-        319,
-        328,
-        331,
-        334,
-        364
+        217,
+        271,
+        284,
+        320,
+        329,
+        332,
+        335,
+        365
       ]
     },
     {
@@ -7336,6 +7338,36 @@
         37,
         59,
         63
+      ]
+    },
+    {
+      "path": "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
+      "sha256": "a30b1870340ac29d75ab7bb6beb0a085ded4ce31490c2d0cb1fcd1dd6ad3e6be",
+      "bytes": 12031,
+      "lines": 92,
+      "title": "Schlosshauer: decoherence, records and the subject boundary",
+      "headings": [
+        "Schlosshauer: decoherence, records and the subject boundary",
+        "Source and decision",
+        "1. What the paper actually says",
+        "2. A quantitative access boundary",
+        "3. A near-degeneracy test for a subject or branch selector",
+        "4. What changes for the current programme",
+        "Reproduction and limitations"
+      ],
+      "local_links": [
+        "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
+        "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "verification/decoherence_record_boundary.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        53,
+        77,
+        92
       ]
     },
     {
