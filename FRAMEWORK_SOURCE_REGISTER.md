@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 280 root Markdown documents including this register; 43 research Markdown documents.
+- 281 root Markdown documents including this register; 43 research Markdown documents.
 - 21 original uploaded files, including provenance metadata; 238 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -211,6 +211,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md](SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md) — Schlosshauer: decoherence, records and the subject boundary
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
+- [SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md](SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md) — Self-presence and the impossibility of nothingness: one foundation or two?
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
 - [SHLAER_TIME_COMPARISON.md](SHLAER_TIME_COMPARISON.md) — Shlaer's "Solution to the Problem of Time" (arXiv:1411.8006) and Our Modular-Time Solution: A Compatibility Analysis
 - [SIMULATION_PLENITUDE_CONSOLIDATION.md](SIMULATION_PLENITUDE_CONSOLIDATION.md) — Perspective, plenitude, and one complete actuality
