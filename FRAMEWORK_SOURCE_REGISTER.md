@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 281 root Markdown documents including this register; 43 research Markdown documents.
+- 282 root Markdown documents including this register; 43 research Markdown documents.
 - 21 original uploaded files, including provenance metadata; 238 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -78,6 +78,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md](EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md) — Expanding BEC as a cosmological and clock analogue: source audit
 - [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
+- [EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md](EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md) — Can experiential organization do the work of a physical basis?
 - [EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) — Experiential grounding: a positive candidate and its strongest rival
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
