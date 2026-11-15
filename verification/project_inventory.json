@@ -2,8 +2,8 @@
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
   "document_count": 331,
-  "bytes": 4445940,
-  "line_count": 48435,
+  "bytes": 4450446,
+  "line_count": 48449,
   "document_count_with_risk_phrases": 305,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2979,9 +2979,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "309a41bad4d4b52903e4e687acde1616f7cc1e1a005b57c59bd784adf61ce064",
-      "bytes": 74242,
-      "lines": 625,
+      "sha256": "bc72269e7dd5f1081ac3f2211d11b7fa8ae9b557a4bf9e115f5a4ff6da3eec84",
+      "bytes": 74499,
+      "lines": 627,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3035,6 +3035,7 @@
         "CONSTITUTIVE_VALUE_PRINCIPLE.md",
         "CONSUMER_COVERAGE_IDENTIFIABILITY.md",
         "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
+        "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "CORRELATED_PUMP_CERTIFICATION.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
@@ -3481,6 +3482,7 @@
         "verification/relational_calibrated_readout.py",
         "verification/relational_constraint.py",
         "verification/relational_detector_initial_data.py",
+        "verification/relational_friend_comparison.py",
         "verification/relational_memory_pulse.py",
         "verification/relational_modular_clock.py",
         "verification/relational_perspective.py",
@@ -3596,17 +3598,17 @@
         31,
         35,
         42,
-        142,
-        174,
-        186,
-        221,
-        278,
-        291,
-        327,
-        336,
-        339,
-        342,
-        372
+        143,
+        175,
+        187,
+        222,
+        279,
+        292,
+        328,
+        337,
+        340,
+        343,
+        373
       ]
     },
     {
@@ -5329,9 +5331,9 @@
     },
     {
       "path": "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
-      "sha256": "089bd5faa0838c4f542086eae3749fbc9afaa0dbc44b8210cb23ccb560decc0a",
-      "bytes": 9071,
-      "lines": 72,
+      "sha256": "7d83f908f6e4e44e92191df202808138e2cef51847efa9da6e5aed9ec2601e31",
+      "bytes": 13320,
+      "lines": 84,
       "title": "Does a non-optimal universe affect reality as a whole?",
       "headings": [
         "Does a non-optimal universe affect reality as a whole?",
@@ -5341,13 +5343,14 @@
         "2. A sufficient condition for the stronger conclusion",
         "3. Why non-optimality of the part is not enough on its own",
         "4. What this means for the proposed absolute",
-        "5. Research consequences"
+        "5. Intelligence, silence and avoidable-seeming frustration"
       ],
       "local_links": [
-        "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md"
+        "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
+        "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        72
+        84
       ]
     },
     {
