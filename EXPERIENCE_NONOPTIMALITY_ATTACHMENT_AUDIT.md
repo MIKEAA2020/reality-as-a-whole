@@ -1,5 +1,7 @@
 # Experience, a non-optimal world, and the attached DPMRS discussion
 
+> **Later user correction:** The original interpretation and open decision in this historical audit have been superseded: the current target is a relational, intrinsically experiential whole with genuine plurality, not an assumed universal consciousness; strongest possibility=actuality includes genuine local possibilities as actual within the whole. See [the later two-transcript synthesis](TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md) and [current correction](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md). The conditional objections below remain useful, but references to the former governing target are historical.
+
 ## Purpose and interpretation
 
 This evaluates the attached conversation `DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt` as a proposed line of reasoning, not as an authoritative source. Its six criteria are: **C1** experience as evidence; **C2** a non-best world; **C3S** no unexplained structural facts and **C3E** experiential intelligibility through acquaintance; **C4** generative/predictive power; **C5** alignment with promising physics; **C6** alignment with plausible consciousness science. C5/C6 demand engagement with relevant work, not uncritical endorsement of any one trend or theory. A progressive research programme is weaker than a demonstrated successful prediction.

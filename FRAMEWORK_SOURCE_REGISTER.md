@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 289 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 243 verification Python scripts.
+- 290 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 243 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -257,6 +257,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TORUS_SECOND_ORDER_GRAVITY_MATTER.md](TORUS_SECOND_ORDER_GRAVITY_MATTER.md) — A second-order gravity–matter obstruction on the torus
 - [TURNING_CLOCK_ATLAS.md](TURNING_CLOCK_ATLAS.md) — A relational clock through turning points
 - [TURNING_ENTROPY_RECORD_BRIDGE.md](TURNING_ENTROPY_RECORD_BRIDGE.md) — Turning clocks, entropy paths, and the need for a retained record
+- [TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md](TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md) — Two source conversations: experiential reality, structure and non-optimality
 - [TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) — Complete continuum limit for the restricted two-field probe
 - [TWO_REPORTS_CONSENSUS_AND_REVERSAL.md](TWO_REPORTS_CONSENSUS_AND_REVERSAL.md) — Two reports: agreement, accuracy and reversible records
 - [TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) — A two-subject, reversible-record selector: first finite model
@@ -358,8 +359,10 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
 - [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
 - [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
+- [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt)
+- [sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt)
 - [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
