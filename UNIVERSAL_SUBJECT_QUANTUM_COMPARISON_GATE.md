@@ -81,6 +81,8 @@ The endpoint with `e=1/5` is not an argument that observers' reports are general
 
 ## 5. What the no-God's-eye proposal still has to supply
 
+A further [single-subject, two-stage persistence assessment](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) applies an existing published no-go theorem to the proposed shared-experience bridge. It shows why assigning everything to one relative perspective, by itself, does not provide an affine joint history across coherent interventions.
+
 A defensible relational universal-subject proposal needs **all** of the following, not just a vocabulary of perspectives:
 
 - **Occurrence and ownership:** What determines that the friend genuinely has the experience, and that a universal subject is genuinely a subject that shares, represents, or otherwise relates to it? These relations must not be conflated. In particular, a shared experience token may require rejecting exclusive ownership; it does not automatically establish one context-independent outcome usable in every joint distribution.

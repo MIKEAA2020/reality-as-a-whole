@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "scope": "Exact quantum memory effects in one ideal two-time circuit; no phenomenal subjects, universal agent, actual measurement or full interpretation established.",
+  "basis_coefficients": [
+    "3/5",
+    "4/5"
+  ],
+  "early_effect": [
+    [
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "0"
+    ]
+  ],
+  "late_effect": [
+    [
+      "337/625",
+      "-84/625"
+    ],
+    [
+      "-84/625",
+      "288/625"
+    ]
+  ],
+  "commutator": [
+    [
+      "0",
+      "-84/625"
+    ],
+    [
+      "84/625",
+      "0"
+    ]
+  ],
+  "unitary_late_memory_up_probability_input_plus": "457/1250",
+  "late_memory_up_probability_with_intermediate_dephasing": "1/2",
+  "difference": "84/625",
+  "fixed_plus_independent_coupling": [
+    [
+      "457/2500",
+      "793/2500"
+    ],
+    [
+      "457/2500",
+      "793/2500"
+    ]
+  ],
+  "product_rule_for_mixed_state": "1/4",
+  "mixture_of_z_product_couplings": "337/1250",
+  "affinity_gap": "49/2500",
+  "limitations": "The no-joint-affine rule holds for all allowed input density matrices under the specified effects; a fixed input alone has couplings. The independent coupling is an unjustified bookkeeping example, not a physical law. Qubit memory is not evidence of consciousness."
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 329,
-  "bytes": 4421855,
-  "line_count": 48251,
-  "document_count_with_risk_phrases": 303,
+  "document_count": 330,
+  "bytes": 4434133,
+  "line_count": 48347,
+  "document_count_with_risk_phrases": 304,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2946,9 +2946,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4affc1aa5bc2519a4882f52b57044d217e844f63eb117a78efa98d48bb4f360f",
-      "bytes": 73700,
-      "lines": 621,
+      "sha256": "9a7235701098ed126e0459fcd28ecb1cfe21a484f34b5796c1ed9bec7d5047b9",
+      "bytes": 73964,
+      "lines": 623,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3211,6 +3211,7 @@
         "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "UNIFIED_CONSTITUTION_MAP.md",
         "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
+        "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
         "V4_FEF_ORIENTATION_GATE.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "WDW_ANGULAR_COUPLING.md",
@@ -3527,6 +3528,7 @@
         "verification/two_field_spacetime_probe.py",
         "verification/two_subject_reversible_selector.py",
         "verification/underground_collapse_scope.py",
+        "verification/universal_subject_lf_tradeoff.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
         "verification/wdw_bkl_rotational_stability.py",
@@ -3563,13 +3565,13 @@
         174,
         186,
         221,
-        276,
-        289,
-        325,
-        334,
-        337,
-        340,
-        370
+        277,
+        290,
+        326,
+        335,
+        338,
+        341,
+        371
       ]
     },
     {
@@ -9324,10 +9326,39 @@
       ]
     },
     {
+      "path": "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
+      "sha256": "f71e8be68655dd916e77d376fc087b8c4f31d0ba5841017a487ef0c3675e3a5f",
+      "bytes": 11669,
+      "lines": 92,
+      "title": "Universal consciousness, shared experience and persistence through quantum reversal",
+      "headings": [
+        "Universal consciousness, shared experience and persistence through quantum reversal",
+        "The advance and its limit",
+        "1. The established one-observer theorem",
+        "2. Why a relational universal subject must face this too",
+        "3. One exact instance",
+        "4. A finite control: a joint distribution is possible for one state",
+        "5. A concrete candidate and its remaining test",
+        "Verification and provenance"
+      ],
+      "local_links": [
+        "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
+        "verification/shared_subject_two_time.py",
+        "verification/shared_subject_two_time.json",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        19,
+        42,
+        92
+      ]
+    },
+    {
       "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
-      "sha256": "2a6c3e1cb93c7a831f3b83e08fde35ffe2e3670f215d0cf12f0459ce4644b6b4",
-      "bytes": 11577,
-      "lines": 96,
+      "sha256": "a6af419ea466126996c5b4ea9626cb04694bd233ed9a1dfe05e0879d91283987",
+      "bytes": 11922,
+      "lines": 98,
       "title": "A universal subject without a God's-eye ledger: the comparison gate",
       "headings": [
         "A universal subject without a God's-eye ledger: the comparison gate",
@@ -9342,6 +9373,7 @@
       "local_links": [
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
         "verification/universal_subject_lf_tradeoff.json"
       ],
       "risk_phrase_lines": [
@@ -9349,7 +9381,7 @@
         61,
         65,
         67,
-        96
+        98
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9f3e6890af37a1f95cfa2f0d5ea2a1b3fcb9aab3",
-  "file_count": 1072,
+  "base_head": "419941806790753e53177cb895350f6826a7e188",
+  "file_count": 1075,
   "files": [
     {
       "path": ".gitattributes",
@@ -435,8 +435,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 73964,
-      "sha256": "9a7235701098ed126e0459fcd28ecb1cfe21a484f34b5796c1ed9bec7d5047b9"
+      "bytes": 74242,
+      "sha256": "309a41bad4d4b52903e4e687acde1616f7cc1e1a005b57c59bd784adf61ce064"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1264,9 +1264,14 @@
       "sha256": "73a21ed81318a9965993fe0af2856f77f233179497d7badf3fee4531f209b606"
     },
     {
+      "path": "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
+      "bytes": 11669,
+      "sha256": "f71e8be68655dd916e77d376fc087b8c4f31d0ba5841017a487ef0c3675e3a5f"
+    },
+    {
       "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
-      "bytes": 11577,
-      "sha256": "2a6c3e1cb93c7a831f3b83e08fde35ffe2e3670f215d0cf12f0459ce4644b6b4"
+      "bytes": 11922,
+      "sha256": "a6af419ea466126996c5b4ea9626cb04694bd233ed9a1dfe05e0879d91283987"
     },
     {
       "path": "V4_FEF_ORIENTATION_GATE.md",
@@ -4025,8 +4030,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 415442,
-      "sha256": "3a6f461ecb7cbb27b051c217141085ba22362365f6bf4179c6b58b49b548dfff"
+      "bytes": 416737,
+      "sha256": "5b6ea1d971ab1b46a8fc587cb4e1f08bd32a9ded08221193ab23bd001215c0be"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4722,6 +4727,16 @@
       "path": "verification/self_existing_plenitude_centers.py",
       "bytes": 2223,
       "sha256": "4cbdd932aa8cd54eb63fb3cc89a31b6314a02e8cc8ede1d3fb6a01c1b7ee6694"
+    },
+    {
+      "path": "verification/shared_subject_two_time.json",
+      "bytes": 1253,
+      "sha256": "3ab24f4679cecfb533cc378b7b8f6f5aa4d2b11382d16e1a0bc9e324399d72d5"
+    },
+    {
+      "path": "verification/shared_subject_two_time.py",
+      "bytes": 3957,
+      "sha256": "45b966ebb5524f7a9c7070aa2f3c075e48d6f69aac027d14307b2968d711a960"
     },
     {
       "path": "verification/shared_vs_independent_reports.json",
