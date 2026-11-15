@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 331,
-  "bytes": 4453939,
-  "line_count": 48463,
-  "document_count_with_risk_phrases": 305,
+  "document_count": 332,
+  "bytes": 4468841,
+  "line_count": 48574,
+  "document_count_with_risk_phrases": 306,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2980,9 +2980,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bc72269e7dd5f1081ac3f2211d11b7fa8ae9b557a4bf9e115f5a4ff6da3eec84",
-      "bytes": 74499,
-      "lines": 627,
+      "sha256": "3be4effa27c7127a37831d63701b2595ce940c1003056be756471522cba17250",
+      "bytes": 74753,
+      "lines": 629,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3170,6 +3170,7 @@
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "RELATIONAL_PERSPECTIVE.md",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
         "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
@@ -3487,6 +3488,7 @@
         "verification/relational_memory_pulse.py",
         "verification/relational_modular_clock.py",
         "verification/relational_perspective.py",
+        "verification/relational_plenitude_scope.py",
         "verification/relational_records.py",
         "verification/reported_rivalry_case_audit.py",
         "verification/reused_reference_clock.py",
@@ -3602,14 +3604,14 @@
         143,
         175,
         187,
-        222,
-        279,
-        292,
-        328,
-        337,
-        340,
-        343,
-        373
+        223,
+        280,
+        293,
+        329,
+        338,
+        341,
+        344,
+        374
       ]
     },
     {
@@ -6754,6 +6756,40 @@
       ]
     },
     {
+      "path": "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+      "sha256": "1095374e32fb012ae617551dadf511ee7b329a614a61da908212dfb4fa63fecc",
+      "bytes": 14111,
+      "lines": 107,
+      "title": "Relational plenitude: actual possibilities, histories and measure",
+      "headings": [
+        "Relational plenitude: actual possibilities, histories and measure",
+        "Aim and result",
+        "1. What “all possibilities are actual” must distinguish",
+        "2. A finite relational record structure",
+        "3. Finite plenitude does not settle infinite plenitude",
+        "4. The countable-additivity constraint",
+        "5. Finite tests and measure underdetermination",
+        "6. What this advances—and what remains open"
+      ],
+      "local_links": [
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+        "verification/relational_plenitude_scope.py",
+        "verification/relational_plenitude_scope.json"
+      ],
+      "risk_phrase_lines": [
+        11,
+        37,
+        62,
+        70,
+        78,
+        89,
+        103,
+        107
+      ]
+    },
+    {
       "path": "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
       "sha256": "4ec4b4cc8e85cdde4bcd03c8dec25fe41d904d97262b3d607a2ad0610ba519d6",
       "bytes": 12624,
@@ -7498,9 +7534,9 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "257266991d1ae053e76a365576209712ae79cd23d0d6e1bb66599fcb9a0ac294",
-      "bytes": 12121,
-      "lines": 88,
+      "sha256": "3956b31e3f5e3e0586d14286e889de01b1ecac3e2787ed05d93bc4fd3a627f12",
+      "bytes": 12658,
+      "lines": 90,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -7517,12 +7553,14 @@
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
         "verification/self_existing_plenitude_centers.py",
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
         21,
-        31
+        31,
+        47
       ]
     },
     {

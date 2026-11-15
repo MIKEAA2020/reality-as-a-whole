@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 288 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 242 verification Python scripts.
+- 289 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 243 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -186,6 +186,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RELATIONAL_MATTER_DETECTOR_GRAVITY.md](RELATIONAL_MATTER_DETECTOR_GRAVITY.md) — A relational matter detector with gravitational backreaction
 - [RELATIONAL_MODULAR_CLOCK.md](RELATIONAL_MODULAR_CLOCK.md) — A relational clock and modular flow: an exact finite model
 - [RELATIONAL_PERSPECTIVE.md](RELATIONAL_PERSPECTIVE.md) — Finite temporal perspectives as conditional WdW states
+- [RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md](RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md) — Relational plenitude: actual possibilities, histories and measure
 - [RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md](RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md) — A sign-information no-go and a relational detector response
 - [RELATIONAL_TIME_CONSTRUCTION.md](RELATIONAL_TIME_CONSTRUCTION.md) — Relational dynamics in one stationary constrained state
 - [RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md](RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md) — Cicurel and Nicolelis: brains, simulation and subject plurality
@@ -517,6 +518,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/relational_memory_pulse.py](verification/relational_memory_pulse.py)
 - [verification/relational_modular_clock.py](verification/relational_modular_clock.py)
 - [verification/relational_perspective.py](verification/relational_perspective.py)
+- [verification/relational_plenitude_scope.py](verification/relational_plenitude_scope.py)
 - [verification/relational_records.py](verification/relational_records.py)
 - [verification/reported_rivalry_case_audit.py](verification/reported_rivalry_case_audit.py)
 - [verification/reused_reference_clock.py](verification/reused_reference_clock.py)

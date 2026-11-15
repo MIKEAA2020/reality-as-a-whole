@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "finite_record_slots_per_sector": 160,
+  "finite_support_identical_across_sectors": true,
+  "finite_sector_CHSH": {
+    "visibility_1": "14/5",
+    "visibility_1_over_2": "7/5"
+  },
+  "actual_history_domain": "countable eventually-zero binary sequences, stipulated",
+  "finite_prefix_full_support_checked_up_to_length": 10,
+  "fair_prefix_checks_up_to_length": 6,
+  "all_ones_length_7_after_fair_prefix_6": "1/256 (fair law: 1/128)",
+  "same_history_domain_alternative_first_bit_probabilities": [
+    "1/4",
+    "3/4"
+  ],
+  "limitations": "Finite checks do not prove infinitary measure results, real subjects, physical admissibility of infinite histories, necessity, intrinsic experience, or a justified subject measure."
+}

@@ -44,6 +44,8 @@ Genuine local variety need not be contradictory. For example, distinct subjects 
 
 The hardest unsolved step is **not** “what selects one possible world?” under this thesis. It is: why and how does the actual whole have its particular intrinsically experiential, differentiated constitution, such that the necessary identity of possibility and actuality is intelligible rather than merely asserted? The account must not smuggle in an unexplained criterion of admissibility, an external law or a concealed creator.
 
+The [relational plenitude, history and measure analysis](RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md) develops this thesis without positing a universal subject: every finite local outcome can occur in one stipulated whole while complete infinite-history realization and probabilities remain separate questions. It also identifies a conditional countable-additivity constraint on exact fair infinite histories; neither its finite model nor that standard mathematical result establishes which histories are genuinely physically possible.
+
 ## 3. What survives from Bostrom's probability structure
 
 The original Bostrom argument concerns a conditional comparison between simulated and nonsimulated observers. That factual distinction, its posthuman civilization counts, and the formula involving the numbers of ancestor simulations are **not premises of this corrected framework**. Calling all actuality “simulated” would not preserve the probability structure; it would only change a word.

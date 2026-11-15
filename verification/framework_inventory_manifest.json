@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "aad8a921871d34a167fab52410bbf09d747738b7",
-  "file_count": 1078,
+  "base_head": "f65eb1d5879899cf67711bf7f6c44ae155f23d76",
+  "file_count": 1081,
   "files": [
     {
       "path": ".gitattributes",
@@ -440,8 +440,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 74499,
-      "sha256": "bc72269e7dd5f1081ac3f2211d11b7fa8ae9b557a4bf9e115f5a4ff6da3eec84"
+      "bytes": 74753,
+      "sha256": "3be4effa27c7127a37831d63701b2595ce940c1003056be756471522cba17250"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -889,6 +889,11 @@
       "sha256": "3dc591f6de5525d022f0c8bf9c03ade5725f8182e53496520dee2e4d5ddc95eb"
     },
     {
+      "path": "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+      "bytes": 14111,
+      "sha256": "1095374e32fb012ae617551dadf511ee7b329a614a61da908212dfb4fa63fecc"
+    },
+    {
       "path": "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
       "bytes": 12624,
       "sha256": "4ec4b4cc8e85cdde4bcd03c8dec25fe41d904d97262b3d607a2ad0610ba519d6"
@@ -1025,8 +1030,8 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "bytes": 12121,
-      "sha256": "257266991d1ae053e76a365576209712ae79cd23d0d6e1bb66599fcb9a0ac294"
+      "bytes": 12658,
+      "sha256": "3956b31e3f5e3e0586d14286e889de01b1ecac3e2787ed05d93bc4fd3a627f12"
     },
     {
       "path": "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -4035,8 +4040,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 418537,
-      "sha256": "6064079c64e6fb07ec618c592cab01e95fdfa723097b2cb07c7fbdca60a4287a"
+      "bytes": 419911,
+      "sha256": "de04ec8ebd770be6a15d6730c86580c8edb30f70760bd759da3b2968d0e94ef4"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4192,6 +4197,16 @@
       "path": "verification/relational_perspective.py",
       "bytes": 4602,
       "sha256": "4b68df1e0768fab249e0c73d39033aeeb6a3b57a15182acc4d52b94fed0ad709"
+    },
+    {
+      "path": "verification/relational_plenitude_scope.json",
+      "bytes": 751,
+      "sha256": "ab1339d6b78420f2cc7a6f19623e2a3b2a3616a1c140b4dbb3b670e0c2ae7a4d"
+    },
+    {
+      "path": "verification/relational_plenitude_scope.py",
+      "bytes": 3646,
+      "sha256": "157b97ecff1cebe73098d3213fac39acf029bdf67eb59ed24711161801a52d81"
     },
     {
       "path": "verification/relational_records.json",
