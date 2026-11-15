@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 287 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 241 verification Python scripts.
+- 288 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 242 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -52,6 +52,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CONSTITUTIVE_VALUE_PRINCIPLE.md](CONSTITUTIVE_VALUE_PRINCIPLE.md) — A constitutive-value principle: positive development and explanatory limits
 - [CONSUMER_COVERAGE_IDENTIFIABILITY.md](CONSUMER_COVERAGE_IDENTIFIABILITY.md) — Can partial frontal recordings certify removal of distribution?
 - [CONTEXTUAL_DISCLOSURE_CONSTITUTION.md](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) — Contextual disclosure: a worked quantum constitution of record scope
+- [CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md](CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md) — A contextual comparison construction for one universal subject
 - [CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) — Complete cutoff-to-continuum instrument: a restricted common-space result
 - [CORRELATED_PUMP_CERTIFICATION.md](CORRELATED_PUMP_CERTIFICATION.md) — Correlated finite sources: a complete-instrument robustness theorem
 - [COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) — Cosmological collapse: what selecting λ does and does not establish
@@ -512,6 +513,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/relational_calibrated_readout.py](verification/relational_calibrated_readout.py)
 - [verification/relational_constraint.py](verification/relational_constraint.py)
 - [verification/relational_detector_initial_data.py](verification/relational_detector_initial_data.py)
+- [verification/relational_friend_comparison.py](verification/relational_friend_comparison.py)
 - [verification/relational_memory_pulse.py](verification/relational_memory_pulse.py)
 - [verification/relational_modular_clock.py](verification/relational_modular_clock.py)
 - [verification/relational_perspective.py](verification/relational_perspective.py)

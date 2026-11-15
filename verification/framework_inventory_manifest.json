@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "419941806790753e53177cb895350f6826a7e188",
-  "file_count": 1075,
+  "base_head": "786dc4167d70755b9c66fdb7e7a59262df8495aa",
+  "file_count": 1078,
   "files": [
     {
       "path": ".gitattributes",
@@ -207,6 +207,11 @@
       "path": "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
       "bytes": 13003,
       "sha256": "fa21837ee6d20ca40ef7e97c2682f8b9e26c9a206e8181266c61d18b6a2212e4"
+    },
+    {
+      "path": "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
+      "bytes": 11341,
+      "sha256": "60314086f3d169c0f1d4d716e8b3c2f599149064d7d99aeb941714aa6c12e745"
     },
     {
       "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
@@ -435,8 +440,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 74242,
-      "sha256": "309a41bad4d4b52903e4e687acde1616f7cc1e1a005b57c59bd784adf61ce064"
+      "bytes": 74499,
+      "sha256": "bc72269e7dd5f1081ac3f2211d11b7fa8ae9b557a4bf9e115f5a4ff6da3eec84"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1270,8 +1275,8 @@
     },
     {
       "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
-      "bytes": 11922,
-      "sha256": "a6af419ea466126996c5b4ea9626cb04694bd233ed9a1dfe05e0879d91283987"
+      "bytes": 12110,
+      "sha256": "33ce990f34182900a2cd1a4764573491fe9866dd5cadff56d7d6e5d35e8bea18"
     },
     {
       "path": "V4_FEF_ORIENTATION_GATE.md",
@@ -4030,8 +4035,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 416737,
-      "sha256": "5b6ea1d971ab1b46a8fc587cb4e1f08bd32a9ded08221193ab23bd001215c0be"
+      "bytes": 418082,
+      "sha256": "8dfa0b951670e88308e24485f9a5eebffa5707a406424131fba868855faad613"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4147,6 +4152,16 @@
       "path": "verification/relational_detector_initial_data.py",
       "bytes": 4682,
       "sha256": "c063faf88daa15d94c3a26fba3682e8a2ddc57cd94d9925184c5cb0700e3c047"
+    },
+    {
+      "path": "verification/relational_friend_comparison.json",
+      "bytes": 816,
+      "sha256": "ddbe1061f40ef1529c9c9668408ab4b827a6b89ccd652b5e23295d178fde3a93"
+    },
+    {
+      "path": "verification/relational_friend_comparison.py",
+      "bytes": 3358,
+      "sha256": "dcf94ca99b0f3e26682f30b8f7f022ddf27bcf635482f634668afafa36e17036"
     },
     {
       "path": "verification/relational_memory_pulse.json",

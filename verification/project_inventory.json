@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 330,
-  "bytes": 4434133,
-  "line_count": 48347,
-  "document_count_with_risk_phrases": 304,
+  "document_count": 331,
+  "bytes": 4445940,
+  "line_count": 48435,
+  "document_count_with_risk_phrases": 305,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1544,6 +1544,39 @@
       ]
     },
     {
+      "path": "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
+      "sha256": "60314086f3d169c0f1d4d716e8b3c2f599149064d7d99aeb941714aa6c12e745",
+      "bytes": 11341,
+      "lines": 86,
+      "title": "A contextual comparison construction for one universal subject",
+      "headings": [
+        "A contextual comparison construction for one universal subject",
+        "What has been constructed",
+        "1. The target and what must not be smuggled in",
+        "2. The common physical circuit",
+        "3. A finite-friend scope and a read comparison",
+        "4. What happens if we force the scopes together?",
+        "5. Does this actually produce the universal subject?",
+        "6. Verification and decision"
+      ],
+      "local_links": [
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
+        "verification/relational_friend_comparison.py",
+        "verification/relational_friend_comparison.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        21,
+        34,
+        50,
+        66,
+        68,
+        84
+      ]
+    },
+    {
       "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
       "sha256": "9320ffcd54c26925c1371f975d5c4455e3b8722c0aceacc13a1d00aee007fb3f",
       "bytes": 11854,
@@ -2946,9 +2979,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9a7235701098ed126e0459fcd28ecb1cfe21a484f34b5796c1ed9bec7d5047b9",
-      "bytes": 73964,
-      "lines": 623,
+      "sha256": "309a41bad4d4b52903e4e687acde1616f7cc1e1a005b57c59bd784adf61ce064",
+      "bytes": 74242,
+      "lines": 625,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3211,6 +3244,7 @@
         "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
         "UNIFIED_CONSTITUTION_MAP.md",
         "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
+        "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
         "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
         "V4_FEF_ORIENTATION_GATE.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -3494,6 +3528,7 @@
         "verification/roy_structural_pair_inventory.py",
         "verification/roy_structural_pair_inventory_test.py",
         "verification/self_existing_plenitude_centers.py",
+        "verification/shared_subject_two_time.py",
         "verification/shared_vs_independent_reports.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
@@ -3565,13 +3600,13 @@
         174,
         186,
         221,
-        277,
-        290,
-        326,
-        335,
-        338,
-        341,
-        371
+        278,
+        291,
+        327,
+        336,
+        339,
+        342,
+        372
       ]
     },
     {
@@ -9356,8 +9391,8 @@
     },
     {
       "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
-      "sha256": "a6af419ea466126996c5b4ea9626cb04694bd233ed9a1dfe05e0879d91283987",
-      "bytes": 11922,
+      "sha256": "33ce990f34182900a2cd1a4764573491fe9866dd5cadff56d7d6e5d35e8bea18",
+      "bytes": 12110,
       "lines": 98,
       "title": "A universal subject without a God's-eye ledger: the comparison gate",
       "headings": [
@@ -9374,6 +9409,7 @@
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
+        "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
         "verification/universal_subject_lf_tradeoff.json"
       ],
       "risk_phrase_lines": [

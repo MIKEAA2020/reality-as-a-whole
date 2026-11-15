@@ -81,7 +81,7 @@ The endpoint with `e=1/5` is not an argument that observers' reports are general
 
 ## 5. What the no-God's-eye proposal still has to supply
 
-A further [single-subject, two-stage persistence assessment](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) applies an existing published no-go theorem to the proposed shared-experience bridge. It shows why assigning everything to one relative perspective, by itself, does not provide an affine joint history across coherent interventions.
+A further [single-subject, two-stage persistence assessment](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) applies an existing published no-go theorem to the proposed shared-experience bridge. It shows why assigning everything to one relative perspective, by itself, does not provide an affine joint history across coherent interventions. The [contextual comparison construction](CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md) gives a finite scoped-probability candidate and explicitly leaves its subject constitution unproved.
 
 A defensible relational universal-subject proposal needs **all** of the following, not just a vocabulary of perspectives:
 
