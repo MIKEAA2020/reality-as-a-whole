@@ -1,5 +1,7 @@
 # One universal subject and many finite subjects
 
+> **Status correction:** The user had already pivoted away from a universal subject. The later question about Local Friendliness asked us to examine that hypothesis, not reinstate it as the project target. This file tests a rival conditionally; the working candidate remains the [self-existent experiential whole with plural subjects](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md), without a presumed universal agent.
+
 ## The problem
 
 The target is not merely an experiential totality. It includes **one genuine universal conscious subject or agent** and also **genuine finite subjects**. How can the latter be real without either reducing them to descriptions of the universal subject or treating them as independent ultimate substances?

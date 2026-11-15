@@ -1,5 +1,7 @@
 # A universal subject without a God's-eye ledger: the comparison gate
 
+> **Status correction:** This tests a possible universal subject as a rival; it is not the current framework's target. The user had already pivoted to the [experiential whole with plural finite subjects](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) without assuming a universal agent. The quantum question did not reverse that decision.
+
 ## The result
 
 A universal subject's **limited knowledge alone** does not evade Local Friendliness. If the friend has a single absolute outcome, later readouts track it, and the relevant Local Agency conditions hold, the contradiction applies even if the universal subject does not know that outcome. To take the relational route seriously, the framework must give up or modify the **single absolute friend-event assumption**, not just say the universal subject is ignorant of an event that is nevertheless absolute. Alternatively it can retain absolute events and revise Local Agency or another premise. The theorem does not force one particular choice.

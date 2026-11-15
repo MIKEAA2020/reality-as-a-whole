@@ -1,5 +1,7 @@
 # Universal consciousness, shared experience and persistence through quantum reversal
 
+> **Status correction:** A universal subject is a tested rival, not the current target. The user had already pivoted to the [experiential whole with plural finite subjects](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) without assuming a universal agent. This paper's one-observer theorem may still constrain candidate finite-subject histories under its assumptions.
+
 ## The advance and its limit
 
 A previously unincorporated result changes the next step: the problem is not only whether **different observers'** outcomes can be pooled. Even two successive perceptions attributed to **one observer** can resist a single, preparation-independent quantum probability law under a Wigner's-friend intervention. This was established by [Allard Guérin, Baumann, Del Santo and Brukner (2021)](https://doi.org/10.1038/s42005-021-00589-1), not discovered here.

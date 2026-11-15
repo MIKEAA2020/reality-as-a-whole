@@ -1,8 +1,10 @@
 # A contextual comparison construction for one universal subject
 
+> **Status correction:** This construction tests a universal-subject rival and is not the framework's governing candidate. The user had already pivoted to the [self-existent experiential whole with plural finite subjects](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md), without assuming a universal agent. Asking whether the rival could be coherent did not reverse that pivot.
+
 ## What has been constructed
 
-The strongest candidate so far is **one genuinely agentive subject of an experiential whole, with real finite subjects but no requirement that every finite outcome be jointly accessible from the universal subject's perspective**. This file gives a concrete, limited probability structure for how that distinction *could* work in the existing reversible-friend scenario.
+A conditional **universal-subject rival** is one genuinely agentive subject of an experiential whole, with real finite subjects but no requirement that every finite outcome be jointly accessible from its perspective. This file gives a concrete, limited probability structure for how that distinction *could* work in the existing reversible-friend scenario. Calling it the strongest overall candidate or the user's current target was an error.
 
 The physical circuit and the mathematical relations below are explicit. The assignment of the roles “universal subject” and “friend with an experience” remains **a proposed interpretation**, not a consequence of the circuit. In particular, this is not a completed model of universal consciousness or a proof that the candidate exists. The construction does not assume that a non-agentive whole counts as a universal consciousness.
 
