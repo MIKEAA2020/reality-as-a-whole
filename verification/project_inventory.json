@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 328,
-  "bytes": 4409907,
-  "line_count": 48153,
-  "document_count_with_risk_phrases": 302,
+  "document_count": 329,
+  "bytes": 4421855,
+  "line_count": 48251,
+  "document_count_with_risk_phrases": 303,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -9290,9 +9290,9 @@
     },
     {
       "path": "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
-      "sha256": "d1706645e0d5fd9cd705b069511819522d7382b16a8e8c3a064fe8036b955458",
-      "bytes": 18082,
-      "lines": 119,
+      "sha256": "73a21ed81318a9965993fe0af2856f77f233179497d7badf3fee4531f209b606",
+      "bytes": 18453,
+      "lines": 121,
       "title": "One universal subject and many finite subjects",
       "headings": [
         "One universal subject and many finite subjects",
@@ -9309,7 +9309,8 @@
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "THOUGHTFUL_LOCAL_FRIENDLINESS_SUBJECT_AUDIT.md",
-        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md"
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md"
       ],
       "risk_phrase_lines": [
         15,
@@ -9319,7 +9320,36 @@
         87,
         91,
         105,
-        115
+        117
+      ]
+    },
+    {
+      "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
+      "sha256": "2a6c3e1cb93c7a831f3b83e08fde35ffe2e3670f215d0cf12f0459ce4644b6b4",
+      "bytes": 11577,
+      "lines": 96,
+      "title": "A universal subject without a God's-eye ledger: the comparison gate",
+      "headings": [
+        "A universal subject without a God's-eye ledger: the comparison gate",
+        "The result",
+        "1. Which universal-subject claim is being tested?",
+        "2. The shared circuit and assumptions",
+        "3. Derivation of the tradeoff",
+        "4. Sharpness: not merely an inequality",
+        "5. What the no-God's-eye proposal still has to supply",
+        "Verification"
+      ],
+      "local_links": [
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "verification/universal_subject_lf_tradeoff.json"
+      ],
+      "risk_phrase_lines": [
+        11,
+        61,
+        65,
+        67,
+        96
       ]
     },
     {

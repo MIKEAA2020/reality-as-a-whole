@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 285 root Markdown documents including this register; 43 research Markdown documents.
-- 21 original uploaded files, including provenance metadata; 239 verification Python scripts.
+- 286 root Markdown documents including this register; 43 research Markdown documents.
+- 21 original uploaded files, including provenance metadata; 240 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -261,6 +261,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md](UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md) — Underground radiation tests, collapse operators, and the framework
 - [UNIFIED_CONSTITUTION_MAP.md](UNIFIED_CONSTITUTION_MAP.md) — How phenomenal constitution belongs to the unified mathematical account
 - [UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md](UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md) — One universal subject and many finite subjects
+- [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
 - [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
 - [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
 - [WDW_ANGULAR_COUPLING.md](WDW_ANGULAR_COUPLING.md) — Angular scalar–tensor coupling: adiabatic decoupling of non-spherical modes
@@ -591,6 +592,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/two_field_spacetime_probe.py](verification/two_field_spacetime_probe.py)
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
+- [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)
 - [verification/wdw_anharmonic.py](verification/wdw_anharmonic.py)
 - [verification/wdw_bkl_rotational_stability.py](verification/wdw_bkl_rotational_stability.py)

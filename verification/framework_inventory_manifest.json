@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e623e9066af8b4b3b23bace2c1bb07c73d8c3549",
-  "file_count": 1069,
+  "base_head": "9f3e6890af37a1f95cfa2f0d5ea2a1b3fcb9aab3",
+  "file_count": 1072,
   "files": [
     {
       "path": ".gitattributes",
@@ -435,8 +435,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 73700,
-      "sha256": "4affc1aa5bc2519a4882f52b57044d217e844f63eb117a78efa98d48bb4f360f"
+      "bytes": 73964,
+      "sha256": "9a7235701098ed126e0459fcd28ecb1cfe21a484f34b5796c1ed9bec7d5047b9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1260,8 +1260,13 @@
     },
     {
       "path": "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
-      "bytes": 18082,
-      "sha256": "d1706645e0d5fd9cd705b069511819522d7382b16a8e8c3a064fe8036b955458"
+      "bytes": 18453,
+      "sha256": "73a21ed81318a9965993fe0af2856f77f233179497d7badf3fee4531f209b606"
+    },
+    {
+      "path": "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
+      "bytes": 11577,
+      "sha256": "2a6c3e1cb93c7a831f3b83e08fde35ffe2e3670f215d0cf12f0459ce4644b6b4"
     },
     {
       "path": "V4_FEF_ORIENTATION_GATE.md",
@@ -4020,8 +4025,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 414385,
-      "sha256": "dceaad31b0353b9909387fa9ec42ea898691991e1954a47b398499c37b36ab23"
+      "bytes": 415442,
+      "sha256": "3a6f461ecb7cbb27b051c217141085ba22362365f6bf4179c6b58b49b548dfff"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5097,6 +5102,16 @@
       "path": "verification/underground_collapse_scope.py",
       "bytes": 4435,
       "sha256": "696a4388d778dd6dd47cb20f18dae00509cdd22beffdb26518faa3e6dddd8de9"
+    },
+    {
+      "path": "verification/universal_subject_lf_tradeoff.json",
+      "bytes": 1017,
+      "sha256": "724972b8b8e6094eaaed9940a4f3092cf9f07d824a20bf172a16d38ccca73e1a"
+    },
+    {
+      "path": "verification/universal_subject_lf_tradeoff.py",
+      "bytes": 3473,
+      "sha256": "6f5070d6d7973be1b184f7d3422c68a195e560cb7ba1f929f6534877d924b3e8"
     },
     {
       "path": "verification/wdw_angular_coupling.json",
