@@ -2,6 +2,8 @@
 
 ## The correction
 
+The user subsequently preferred material substrate-independence alongside the intrinsically experiential ground. For that refined candidate, its finite implementation and symmetry checks, and the distinction between self-existence and a temporal act of self-creation, see [Self-existent experiential reality and substrate-independence](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md).
+
 For the next conditional necessity and symmetry results, and the linked dependency-driven gap plan, see [Necessary experiential plenitude: narrowing the foundational gaps](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md). For a current, version-pinned assessment of FloatingPragma's possible contributions, see [the framework gap assessment](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md).
 
 The user clarified that Bostrom's simulation hypothesis is a **starting point for the question of actuality**, not a request to posit aliens, computer simulations, simulated people or a creator within the framework. The previous [necessary-plenitude construction](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) got this wrong by adopting an actual internal simulation as a candidate premise. **Its N6 and its simulated/nonsimulated population are withdrawn as components of the user's framework.** Its arithmetic remains a conditional illustration of a different, literal scenario; it is not the intended reconstruction.

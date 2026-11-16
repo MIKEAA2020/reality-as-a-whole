@@ -1,0 +1,35 @@
+{
+  "scope": "Finite stipulated local input-output/state toy. Labels and transition equations neither establish implementation in nature nor determine experiences, their subjects, actual possibility, existence, physics, or time.",
+  "target": "x_next=x XOR i; output=x",
+  "encoded_transition_checks": 8,
+  "encoded_clamp_checks": 16,
+  "training_trace_steps": 4,
+  "bad_law_disagreements": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "swap_invariant_candidate_subsets": [
+    [],
+    [
+      "L",
+      "R"
+    ]
+  ],
+  "qualitative_maps": {
+    "q1": [
+      0,
+      1
+    ],
+    "q2": [
+      1,
+      0
+    ]
+  },
+  "note": "Two qualitative assignments are alternative stipulated anchored interpretations, not empirical evidence of different experiences or genuinely possible worlds."
+}

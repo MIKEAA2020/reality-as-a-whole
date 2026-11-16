@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 333,
-  "bytes": 4487226,
-  "line_count": 48671,
-  "document_count_with_risk_phrases": 307,
+  "document_count": 334,
+  "bytes": 4503536,
+  "line_count": 48771,
+  "document_count_with_risk_phrases": 308,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5a0fcad4ffa7e5d28e0e6a048a9104a04530872a689489528355498717db8be1",
-      "bytes": 75269,
-      "lines": 632,
+      "sha256": "9cb8b534ced781f69f96e03925181d502646fb450adf624a849e4807ff6c36b1",
+      "bytes": 75551,
+      "lines": 634,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3200,6 +3200,7 @@
         "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
+        "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
@@ -3555,6 +3556,7 @@
         "verification/subject_constitution_interface.py",
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
+        "verification/substrate_self_existent_interface.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/target_symmetric_support_robustness.py",
         "verification/thermal_time.py",
@@ -3609,14 +3611,14 @@
         143,
         175,
         187,
-        223,
-        281,
-        294,
-        330,
-        339,
-        342,
-        345,
-        377
+        224,
+        282,
+        295,
+        331,
+        340,
+        343,
+        346,
+        378
       ]
     },
     {
@@ -7538,10 +7540,49 @@
       ]
     },
     {
+      "path": "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
+      "sha256": "dea684a55aeeeb26e6e2dd9b577a34914b6e7a2785f5d2101bbee075f958532b",
+      "bytes": 15636,
+      "lines": 96,
+      "title": "Self-existent experiential reality and substrate-independence",
+      "headings": [
+        "Self-existent experiential reality and substrate-independence",
+        "1. The proposal and the question it answers",
+        "2. Two senses of substrate, not one contradiction",
+        "3. A specific principle, with its remaining choice visible",
+        "4. What counts as the same organization? A bounded interface",
+        "5. From DPMRS-R/DSH to the revised project",
+        "6. Work needed to turn the preference into an account",
+        "Reproduction"
+      ],
+      "local_links": [
+        "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
+        "substrate-independence-thesis.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "verification/substrate_self_existent_interface.py",
+        "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+        "QUALITATIVE_EQUIVALENCE_AUDIT.md",
+        "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/substrate_self_existent_interface.json"
+      ],
+      "risk_phrase_lines": [
+        13,
+        51,
+        59,
+        63,
+        67,
+        77
+      ]
+    },
+    {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "3956b31e3f5e3e0586d14286e889de01b1ecac3e2787ed05d93bc4fd3a627f12",
-      "bytes": 12658,
-      "lines": 90,
+      "sha256": "826d3ac9f8ff3e06454a29dbcfdb30d50f43893305c3a33fa1541ea571d6600f",
+      "bytes": 13050,
+      "lines": 92,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -7554,6 +7595,7 @@
         "Verification and status"
       ],
       "local_links": [
+        "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
@@ -7563,9 +7605,9 @@
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
-        21,
-        31,
-        47
+        23,
+        33,
+        49
       ]
     },
     {

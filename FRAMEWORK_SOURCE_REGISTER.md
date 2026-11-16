@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 290 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 243 verification Python scripts.
+- 291 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 244 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -214,6 +214,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md](ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md) — S09 scans 7–9: complete fMRI inspection and six-scan timing comparison
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md](SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md) — Schlosshauer: decoherence, records and the subject boundary
+- [SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md) — Self-existent experiential reality and substrate-independence
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
 - [SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md](SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md) — Self-presence and the impossibility of nothingness: one foundation or two?
@@ -583,6 +584,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_constitution_interface.py](verification/subject_constitution_interface.py)
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
+- [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
 - [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
 - [verification/thermal_time.py](verification/thermal_time.py)
