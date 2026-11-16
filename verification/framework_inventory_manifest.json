@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "167ab890b0c1be37e36d67961ca8b928ff25bdd5",
-  "file_count": 1102,
+  "base_head": "714e4cc533f2cd807f2fa82c762a4da78c54880b",
+  "file_count": 1105,
   "files": [
     {
       "path": ".gitattributes",
@@ -440,8 +440,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 76900,
-      "sha256": "ad76e8b7f080f5c59596497b8b3d22dc1d0542d6d1a615e98f2f8ab4f6f18187"
+      "bytes": 77183,
+      "sha256": "23fe633726bbc6acd12d0666b813fe6b70eb0356134298ffed9dda521a194a0b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -455,8 +455,8 @@
     },
     {
       "path": "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
-      "bytes": 16106,
-      "sha256": "ada9dedb83fd0f1c412aaa0066ea094bc48fac28dfee0a98a933d8f456796c44"
+      "bytes": 16439,
+      "sha256": "e2617a4a35e784d043b7eb6febdf01d70388b81d242e4fecc25e08d5e010dfcc"
     },
     {
       "path": "FRW_CLOCK_WINDOW_MISMATCH.md",
@@ -1037,6 +1037,11 @@
       "path": "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
       "bytes": 12031,
       "sha256": "a30b1870340ac29d75ab7bb6beb0a085ded4ce31490c2d0cb1fcd1dd6ad3e6be"
+    },
+    {
+      "path": "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+      "bytes": 13163,
+      "sha256": "d5e01a3faf9f5fe1e6f3bbe47525c60fac00c9f4e82158a2521e400e2ca1a846"
     },
     {
       "path": "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
@@ -4125,8 +4130,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 431000,
-      "sha256": "08a61b1190e95df1bd964dd8250cb7d0dfa59ecc4ad10c764eeab0a243536079"
+      "bytes": 432271,
+      "sha256": "2b85c7b1d7b57469c3ec85fdb8bb3b1e66cc46758e6afb8aac5edc926457f5b1"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4832,6 +4837,16 @@
       "path": "verification/roy_structural_pair_inventory_test.py",
       "bytes": 2049,
       "sha256": "f252c73aa77750efee30f847520d6a05f554423f084d2e7b9a66c1933f09107b"
+    },
+    {
+      "path": "verification/selective_phase_channel_certificate.json",
+      "bytes": 1369,
+      "sha256": "82339752e8adf71df233e1705478881c5445f8612d3e2abceab4a995fd8d2012"
+    },
+    {
+      "path": "verification/selective_phase_channel_certificate.py",
+      "bytes": 5041,
+      "sha256": "1090158e5d341e7a66ecbefbd66e7a2e1e455afc501dbb9a5886b8d8ec576732"
     },
     {
       "path": "verification/self_existing_plenitude_centers.json",

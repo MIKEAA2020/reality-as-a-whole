@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 339,
-  "bytes": 4575538,
-  "line_count": 49324,
-  "document_count_with_risk_phrases": 313,
+  "document_count": 340,
+  "bytes": 4589317,
+  "line_count": 49467,
+  "document_count_with_risk_phrases": 314,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ad76e8b7f080f5c59596497b8b3d22dc1d0542d6d1a615e98f2f8ab4f6f18187",
-      "bytes": 76900,
-      "lines": 644,
+      "sha256": "23fe633726bbc6acd12d0666b813fe6b70eb0356134298ffed9dda521a194a0b",
+      "bytes": 77183,
+      "lines": 646,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3202,6 +3202,7 @@
         "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -3547,6 +3548,7 @@
         "verification/roy_s09_two_scan_offset_comparison_test.py",
         "verification/roy_structural_pair_inventory.py",
         "verification/roy_structural_pair_inventory_test.py",
+        "verification/selective_phase_channel_certificate.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_subject_two_time.py",
         "verification/shared_vs_independent_reports.py",
@@ -3621,14 +3623,14 @@
         145,
         177,
         189,
-        226,
-        287,
-        300,
-        336,
-        345,
-        348,
-        351,
-        383
+        227,
+        288,
+        301,
+        337,
+        346,
+        349,
+        352,
+        384
       ]
     },
     {
@@ -3745,9 +3747,9 @@
     },
     {
       "path": "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
-      "sha256": "ada9dedb83fd0f1c412aaa0066ea094bc48fac28dfee0a98a933d8f456796c44",
-      "bytes": 16106,
-      "lines": 121,
+      "sha256": "e2617a4a35e784d043b7eb6febdf01d70388b81d242e4fecc25e08d5e010dfcc",
+      "bytes": 16439,
+      "lines": 123,
       "title": "A robust relational-frustration gate: hidden connections, hidden channels and experience",
       "headings": [
         "A robust relational-frustration gate: hidden connections, hidden channels and experience",
@@ -3763,16 +3765,17 @@
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "verification/frustration_hidden_channel_gate.json"
       ],
       "risk_phrase_lines": [
-        41,
-        70,
-        74,
-        82,
-        99,
-        121
+        43,
+        72,
+        76,
+        84,
+        101,
+        123
       ]
     },
     {
@@ -7608,6 +7611,34 @@
         53,
         77,
         92
+      ]
+    },
+    {
+      "path": "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+      "sha256": "d5e01a3faf9f5fe1e6f3bbe47525c60fac00c9f4e82158a2521e400e2ca1a846",
+      "bytes": 13163,
+      "lines": 139,
+      "title": "Can selective interventions identify relational frustration?",
+      "headings": [
+        "Can selective interventions identify relational frustration?",
+        "Result and scope",
+        "1. What is already known, and what is added here",
+        "2. Assumptions: what the intervention must mean",
+        "3. Two quadratures and their uncertainty",
+        "4. Conditional three-channel certificate",
+        "5. Illustrative finite-sample budget—not a validated experiment",
+        "6. Exact failure test: a different potential fits both quadratures"
+      ],
+      "local_links": [
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "verification/selective_phase_channel_certificate.json"
+      ],
+      "risk_phrase_lines": [
+        42,
+        86,
+        108,
+        139
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 296 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 249 verification Python scripts.
+- 297 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 250 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -216,6 +216,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md](ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md) — S09 scans 7–9: complete fMRI inspection and six-scan timing comparison
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
 - [SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md](SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md) — Schlosshauer: decoherence, records and the subject boundary
+- [SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md](SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md) — Can selective interventions identify relational frustration?
 - [SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md) — Self-existent experiential reality and substrate-independence
 - [SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) — Correction: necessary plenitude as self-existent actuality, not literal simulation
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
@@ -575,6 +576,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_s09_two_scan_offset_comparison_test.py](verification/roy_s09_two_scan_offset_comparison_test.py)
 - [verification/roy_structural_pair_inventory.py](verification/roy_structural_pair_inventory.py)
 - [verification/roy_structural_pair_inventory_test.py](verification/roy_structural_pair_inventory_test.py)
+- [verification/selective_phase_channel_certificate.py](verification/selective_phase_channel_certificate.py)
 - [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
 - [verification/shared_subject_two_time.py](verification/shared_subject_two_time.py)
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)

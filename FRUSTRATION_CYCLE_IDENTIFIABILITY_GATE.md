@@ -4,6 +4,8 @@
 
 This continues the user's proposal that misalignment in a relational, intrinsically experiential organization may contribute to discomfort. It builds on [the phase-frustration model](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md), [the music and quantum audit](MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md) and [the substrate-independence interface](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md). It does not assume a universal subject or actual simulations.
 
+**Measurement follow-up:** The [selective-channel certificate](SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md) gives an explicitly conditional route to bound cycle frustration from controlled channel contrasts, and demonstrates a higher-harmonic rival that defeats the two-setting model if its assumptions are not verified.
+
 **Two results pull in opposite directions:**
 
 1. If a sufficiently incompatible cycle of independently identified interaction channels is inside a specified system, its positive absolute frustration survives arbitrary additional nonnegative phase costs—even costs involving hidden nodes. A quantitative, error-tolerant lower bound follows.
@@ -22,7 +24,7 @@ F = min_φ E(φ),          D(φ) = E(φ) − F.
 
 `F` is the minimum joint incompatibility relative to the individual zero-cost edge baselines. `D` is excess cost at an actual configuration. A local phase-reference redefinition changes `φ_i` and `a_ij` together and preserves both the cost and cycle sum. It is not a physical change of the oscillators.
 
-An edge here is an independently meaningful **interaction channel**, not a mere EEG correlation. Parallel channels with different preferences are allowed and are counted separately. If the effective model has directed, nonconservative, higher-order, amplitude-dependent or cross-frequency couplings, the displayed potential and proofs cannot simply be assumed to apply. Phase phases, weight units, channel identity, subject boundary, time window and scale need independent specification. The minimization is a mathematical operation on allowed configurations; it does not assert a mechanism making possibilities actual.
+An edge here is an independently meaningful **interaction channel**, not a mere EEG correlation. Parallel channels with different preferences are allowed and are counted separately. If the effective model has directed, nonconservative, higher-order, amplitude-dependent or cross-frequency couplings, the displayed potential and proofs cannot simply be assumed to apply. Phase variables, weight units, channel identity, subject boundary, time window and scale need independent specification. The minimization is a mathematical operation on allowed configurations; it does not assert a mechanism making possibilities actual.
 
 ## 2. Certificate for an imperfectly measured cycle
 
