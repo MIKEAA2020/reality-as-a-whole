@@ -1,0 +1,202 @@
+{
+  "status": "completed",
+  "status_detail": "exploratory, not preregistered or an independent participant cohort",
+  "source_commit": "a13bcb0a52ac41cff9647e8b6406aed32a8250c6",
+  "source_sha256": "d2d47991ca051c05ac556d55a35969af0a9de21219a60104a6093f5e4caceacc",
+  "participants_reported_in_original": 30,
+  "upstream_transcription_commit": "b95b4db27356a04241ed1a2e38ffc8f5e1f68bbe",
+  "cross_checked_chord_types_and_ratings": 298,
+  "notes": "main predictors use symbolic interval distances, not measured acoustics, coupling, neural dynamics, or subjective pain",
+  "dyad_counts": 12,
+  "data": {
+    "3": {
+      "chord_count": 66,
+      "pairwise_mean_direct": {
+        "rmse": 0.5328095565187976,
+        "mae": 0.43943434338888887,
+        "pearson_r": 0.8233361931223938,
+        "r2_against_target_mean": 0.47800344504548187,
+        "mean_prediction": 2.4491717171717173,
+        "mean_observed": 2.18282828280303
+      },
+      "pairwise_min_direct": {
+        "rmse": 0.5451275820815441,
+        "mae": 0.4347272727121212,
+        "pearson_r": 0.8651277881530465,
+        "r2_against_target_mean": 0.4535883645008959,
+        "mean_prediction": 1.8175757575757576,
+        "mean_observed": 2.18282828280303
+      },
+      "pairwise_mean_group_heldout_affine_calibration": {
+        "rmse": 0.4353989741440661,
+        "mae": 0.3467371555822136,
+        "pearson_r": 0.807278689808568,
+        "r2_against_target_mean": 0.6514232405715199,
+        "mean_prediction": 2.1785378183068627,
+        "mean_observed": 2.18282828280303
+      },
+      "pairwise_min_group_heldout_affine_calibration": {
+        "rmse": 0.38496664383983176,
+        "mae": 0.31327870163749955,
+        "pearson_r": 0.8530264728318759,
+        "r2_against_target_mean": 0.7274979166152904,
+        "mean_prediction": 2.1833769786860957,
+        "mean_observed": 2.18282828280303
+      },
+      "multiset_classes": 36,
+      "classes_with_multiple_chords": 30,
+      "oracle_multiset_only_rmse": 0.18543333535925496,
+      "oracle_multiset_only_sse_fraction": 0.063226515099619,
+      "oracle_caveat": "in-sample mathematical lower bound based on these observed means; not predictive or a noise-corrected estimate",
+      "largest_within_multiset_gap": {
+        "interval_multiset": [
+          2,
+          6,
+          8
+        ],
+        "gap": 0.866666666,
+        "chords": [
+          {
+            "pitches": [
+              56,
+              58,
+              64
+            ],
+            "rating": 1.766666667,
+            "reported_frequencies_hz": [
+              210.71,
+              237.05,
+              337.13
+            ],
+            "frequency_ratios_sorted": [
+              1.1250059323240473,
+              1.4221894115165576,
+              1.599971524844573
+            ],
+            "published_harmonic_similarity": 0.057
+          },
+          {
+            "pitches": [
+              55,
+              61,
+              63
+            ],
+            "rating": 2.633333333,
+            "reported_frequencies_hz": [
+              196.22,
+              274.71,
+              313.96
+            ],
+            "frequency_ratios_sorted": [
+              1.1428779440136871,
+              1.4000101926409132,
+              1.600040770563653
+            ],
+            "published_harmonic_similarity": 0.4
+          }
+        ]
+      }
+    },
+    "4": {
+      "chord_count": 220,
+      "pairwise_mean_direct": {
+        "rmse": 0.5447733947628265,
+        "mae": 0.46833257575757575,
+        "pearson_r": 0.7668156786454621,
+        "r2_against_target_mean": 0.13290463130292507,
+        "mean_prediction": 2.425465909090909,
+        "mean_observed": 2.074068181818182
+      },
+      "pairwise_min_direct": {
+        "rmse": 0.6975088757988546,
+        "mae": 0.5661954545454546,
+        "pearson_r": 0.7217601450487321,
+        "r2_against_target_mean": -0.42145974104614026,
+        "mean_prediction": 1.521272727272727,
+        "mean_observed": 2.074068181818182
+      },
+      "pairwise_mean_group_heldout_affine_calibration": {
+        "rmse": 0.38094062360031744,
+        "mae": 0.30150371399311326,
+        "pearson_r": 0.7589867620306575,
+        "r2_against_target_mean": 0.5760158084278764,
+        "mean_prediction": 2.073408094262049,
+        "mean_observed": 2.074068181818182
+      },
+      "pairwise_min_group_heldout_affine_calibration": {
+        "rmse": 0.410235612623934,
+        "mae": 0.3162404931071958,
+        "pearson_r": 0.7130234449586352,
+        "r2_against_target_mean": 0.5082981923004722,
+        "mean_prediction": 2.0741141018426665,
+        "mean_observed": 2.074068181818182
+      },
+      "multiset_classes": 125,
+      "classes_with_multiple_chords": 95,
+      "oracle_multiset_only_rmse": 0.1529006956402512,
+      "oracle_multiset_only_sse_fraction": 0.06830523814418608,
+      "oracle_caveat": "in-sample mathematical lower bound based on these observed means; not predictive or a noise-corrected estimate",
+      "largest_within_multiset_gap": {
+        "interval_multiset": [
+          1,
+          4,
+          7,
+          8,
+          11,
+          12
+        ],
+        "gap": 0.9660000000000002,
+        "chords": [
+          {
+            "pitches": [
+              54,
+              55,
+              62,
+              66
+            ],
+            "rating": 2.367,
+            "reported_frequencies_hz": [
+              184.68,
+              196.99,
+              295.49,
+              369.36
+            ],
+            "frequency_ratios_sorted": [
+              1.0666558371236734,
+              1.2499915394768013,
+              1.5000253819990863,
+              1.6000108295429933,
+              1.8750190364993147,
+              2.0
+            ],
+            "published_harmonic_similarity": 0.142
+          },
+          {
+            "pitches": [
+              53,
+              57,
+              64,
+              65
+            ],
+            "rating": 3.333,
+            "reported_frequencies_hz": [
+              170.86,
+              213.58,
+              320.36,
+              341.72
+            ],
+            "frequency_ratios_sorted": [
+              1.066674990635535,
+              1.2500292637246868,
+              1.4999531791366232,
+              1.5999625433092988,
+              1.8749853681376565,
+              2.0
+            ],
+            "published_harmonic_similarity": 0.233
+          }
+        ]
+      }
+    }
+  }
+}

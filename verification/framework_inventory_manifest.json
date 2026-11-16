@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "714e4cc533f2cd807f2fa82c762a4da78c54880b",
-  "file_count": 1105,
+  "base_head": "692b9dd281119d6d30ec63197ced2ea563042952",
+  "file_count": 1115,
   "files": [
     {
       "path": ".gitattributes",
@@ -72,6 +72,11 @@
       "path": "AXIOLOGY_STATUS.md",
       "bytes": 17043,
       "sha256": "ca50782f6cd33d9a45896ea9f8e33d7958131e3304484ade9d8d35b64b0170f9"
+    },
+    {
+      "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
+      "bytes": 12518,
+      "sha256": "064efe5227c91481c031994787c0e6565f4ccd3dd05c2554384103d8ff3d111d"
     },
     {
       "path": "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
@@ -440,8 +445,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 77183,
-      "sha256": "23fe633726bbc6acd12d0666b813fe6b70eb0356134298ffed9dda521a194a0b"
+      "bytes": 77451,
+      "sha256": "aeab93e216fe274d2ba52dc1939ef8363e76ac0842270abf49e715ccd6a57372"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1330,8 +1335,8 @@
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
-      "bytes": 14301,
-      "sha256": "9c1b376061d6b83ea9d1f36771156bb0e71ef21605ce46f4ba67c8d0a860b3d6"
+      "bytes": 14541,
+      "sha256": "db3a2ed9f3c093641be4dac4cf9dda3a22ff204b0aaa57feea45815a49e331a6"
     },
     {
       "path": "WDW_ANGULAR_COUPLING.md",
@@ -2564,6 +2569,11 @@
       "sha256": "a1569219d9cebe2127380dd087bef4a411bf7dc4e4dc3faa7824d0622faaf097"
     },
     {
+      "path": "sources/external/README.md",
+      "bytes": 2484,
+      "sha256": "6575d53ec4e410273caea6c613fca33509889e774b6f059ebdd5004c6d43f475"
+    },
+    {
       "path": "sources/external/cogitate_analysis/LICENSE",
       "bytes": 1076,
       "sha256": "ac8f18d22678defc59f6022873575fa35f4720095fddb35e596745f1fd798ce0"
@@ -2617,6 +2627,36 @@
       "path": "sources/external/cogitate_protocol/provenance.json",
       "bytes": 2282,
       "sha256": "86a544756894af5bed0528a570d46145b422b97f5fd4f21dfdc8aebd8e8d77e4"
+    },
+    {
+      "path": "sources/external/dcmlab-consonance/LICENSE.md",
+      "bytes": 1114,
+      "sha256": "7dd45d89c6b149f506c113543f7cbcff7c80f88040fdc4ee50cb2cf382590d89"
+    },
+    {
+      "path": "sources/external/dcmlab-consonance/bowling2018_consonance.tsv",
+      "bytes": 5132,
+      "sha256": "d2d47991ca051c05ac556d55a35969af0a9de21219a60104a6093f5e4caceacc"
+    },
+    {
+      "path": "sources/external/incondata-bowling2018/DESCRIPTION",
+      "bytes": 548,
+      "sha256": "4a08e6f53d81ee6e04b24ed3fa61acc5fe6a9259f836fc48f31db282a78c1c38"
+    },
+    {
+      "path": "sources/external/incondata-bowling2018/dyads.csv",
+      "bytes": 831,
+      "sha256": "f617e04b92feeb6a73a64a696163a9554d2cee578b81a40a190dd135708a5855"
+    },
+    {
+      "path": "sources/external/incondata-bowling2018/tetrads.csv",
+      "bytes": 16491,
+      "sha256": "4e3826af63c366c69d84947bd68bf1d38598a33ed3f2357230e858092f04f103"
+    },
+    {
+      "path": "sources/external/incondata-bowling2018/triads.csv",
+      "bytes": 5383,
+      "sha256": "d9210a546e06b83aae7109552a601304c647f6612ea2fba95b0219dae7462a20"
     },
     {
       "path": "sources/external/reported_rivalry_case/ATTRIBUTION.md",
@@ -2937,6 +2977,16 @@
       "path": "verification/boundary_cut_workspace.py",
       "bytes": 4259,
       "sha256": "b77822a9acaf1da47e398b6018eeb9951637115a4dde51ed790f26b9f0d8d003"
+    },
+    {
+      "path": "verification/bowling_pairwise_transfer_audit.json",
+      "bytes": 6409,
+      "sha256": "c53ada06b2850daf8198e9baef9806508eab2feea8d4e333958081647ff5fd56"
+    },
+    {
+      "path": "verification/bowling_pairwise_transfer_audit.py",
+      "bytes": 7004,
+      "sha256": "b97887e4dce7bc250ec0f470e88d3145919a44b9646329a9a124bf469ec33268"
     },
     {
       "path": "verification/brain-specificity-provenance.json",
@@ -4130,8 +4180,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 432271,
-      "sha256": "2b85c7b1d7b57469c3ec85fdb8bb3b1e66cc46758e6afb8aac5edc926457f5b1"
+      "bytes": 433643,
+      "sha256": "de255206086133af9371014a68d702f8b42235e939dcbe92920cf96095c0b418"
     },
     {
       "path": "verification/project_inventory.py",

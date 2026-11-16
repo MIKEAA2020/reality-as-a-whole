@@ -70,7 +70,7 @@ Crucially, **gamma power and intertrial coherence are not our F, D or P**. Inter
 
 [De Martino et al. (2024)](https://doi.org/10.1002/hbm.26679) studied 24 healthy participants using TMS–EEG under painful versus non-noxious heat, and reported condition differences in alpha intertrial coherence after motor-cortex stimulation. Again, it does not calculate this model's interaction frustration and does not isolate pain from all stimulus, attention and arousal differences.
 
-Nor is physical musical dissonance itself a universal pain law: [McDermott et al. (2016)](https://doi.org/10.1038/nature18635) report differences between Tsimane’ and comparison populations in preference for consonant over dissonant chords. Musical chord ratings concern external sound and learned perception, **not** a measurement of fundamental or subject-internal phase frustration. They caution against a simplistic auditory analogy, not against every more specific identity conjecture.
+Nor is physical musical dissonance itself a universal pain law: [McDermott et al. (2016)](https://doi.org/10.1038/nature18635) report differences between Tsimane’ and comparison populations in preference for consonant over dissonant chords. Musical chord ratings concern external sound and learned perception, **not** a measurement of fundamental or subject-internal phase frustration. They caution against a simplistic auditory analogy, not against every more specific identity conjecture. A subsequent [exploratory analysis of Bowling chord ratings](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) tests competing dyad-aggregation baselines and exposes a symbolic-representation collision; it does not measure neural frustration.
 
 ## 5. The empirical bottleneck and next experiment
 

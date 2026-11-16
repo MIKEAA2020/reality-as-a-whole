@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 340,
-  "bytes": 4589317,
-  "line_count": 49467,
-  "document_count_with_risk_phrases": 314,
+  "document_count": 341,
+  "bytes": 4602343,
+  "line_count": 49550,
+  "document_count_with_risk_phrases": 315,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -465,6 +465,38 @@
         78,
         130,
         132
+      ]
+    },
+    {
+      "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
+      "sha256": "064efe5227c91481c031994787c0e6565f4ccd3dd05c2554384103d8ff3d111d",
+      "bytes": 12518,
+      "lines": 81,
+      "title": "An empirical gate for relational and pairwise musical predictions",
+      "headings": [
+        "An empirical gate for relational and pairwise musical predictions",
+        "Question and verdict",
+        "1. Data and provenance",
+        "2. Direct transfer: two competing rules that agree on dyads",
+        "3. A concrete collision: same symbolic pairs, different ratings",
+        "4. What this changes for the misalignment hypothesis",
+        "5. Next empirical decision",
+        "Reproduction"
+      ],
+      "local_links": [
+        "sources/external/README.md",
+        "verification/bowling_pairwise_transfer_audit.py",
+        "verification/bowling_pairwise_transfer_audit.json",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "verification/bowling_pairwise_transfer_audit.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        54,
+        56,
+        75,
+        81
       ]
     },
     {
@@ -2982,9 +3014,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "23fe633726bbc6acd12d0666b813fe6b70eb0356134298ffed9dda521a194a0b",
-      "bytes": 77183,
-      "lines": 646,
+      "sha256": "aeab93e216fe274d2ba52dc1939ef8363e76ac0842270abf49e715ccd6a57372",
+      "bytes": 77451,
+      "lines": 648,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3011,6 +3043,7 @@
         "AXIARCHIC_BRIDGE_AUDIT.md",
         "AXIARCHIC_CONSTITUTION_CANDIDATE.md",
         "AXIOLOGY_STATUS.md",
+        "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "CAUSAL_RECORD_LINEAGE.md",
@@ -3369,6 +3402,7 @@
         "verification/autonomous_stop_clock.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/boundary_cut_workspace.py",
+        "verification/bowling_pairwise_transfer_audit.py",
         "verification/brain_centric_blockworld_gates.py",
         "verification/build_framework_inventory.py",
         "verification/causal_influence_subject_gate.py",
@@ -3617,20 +3651,20 @@
       "risk_phrase_lines": [
         17,
         25,
-        31,
-        35,
-        42,
-        145,
-        177,
-        189,
-        227,
-        288,
-        301,
-        337,
-        346,
-        349,
-        352,
-        384
+        32,
+        36,
+        43,
+        146,
+        178,
+        190,
+        228,
+        289,
+        302,
+        338,
+        347,
+        350,
+        353,
+        385
       ]
     },
     {
@@ -9801,8 +9835,8 @@
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
-      "sha256": "9c1b376061d6b83ea9d1f36771156bb0e71ef21605ce46f4ba67c8d0a860b3d6",
-      "bytes": 14301,
+      "sha256": "db3a2ed9f3c093641be4dac4cf9dda3a22ff204b0aaa57feea45815a49e331a6",
+      "bytes": 14541,
       "lines": 93,
       "title": "Vibrational dissonance and discomfort: a precise first test",
       "headings": [
@@ -9819,7 +9853,8 @@
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "verification/phase_frustration_audit.py",
-        "FRICTION_AND_UNPLEASANTNESS_AUDIT.md"
+        "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
+        "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md"
       ],
       "risk_phrase_lines": [
         49
