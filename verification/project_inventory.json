@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 338,
-  "bytes": 4558869,
-  "line_count": 49199,
-  "document_count_with_risk_phrases": 312,
+  "document_count": 339,
+  "bytes": 4575538,
+  "line_count": 49324,
+  "document_count_with_risk_phrases": 313,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "614ffe10228562b47796ebbb070175316878bc42cf1ed21d0212ca2e6181a264",
-      "bytes": 76617,
-      "lines": 642,
+      "sha256": "ad76e8b7f080f5c59596497b8b3d22dc1d0542d6d1a615e98f2f8ab4f6f18187",
+      "bytes": 76900,
+      "lines": 644,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3086,6 +3086,7 @@
         "FOUR_CRITERIA_CONSOLIDATION.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "FRW_CLOCK_WINDOW_MISMATCH.md",
         "FRW_INTERNAL_POVM.md",
         "FRW_MODULAR_CLOCK.md",
@@ -3418,6 +3419,7 @@
         "verification/framework_battery.py",
         "verification/friction_conflict_audit.py",
         "verification/friend_history_selector_gate.py",
+        "verification/frustration_hidden_channel_gate.py",
         "verification/frw_clock_window_mismatch.py",
         "verification/frw_internal_povm.py",
         "verification/frw_modular_clock.py",
@@ -3616,17 +3618,17 @@
         31,
         35,
         42,
-        144,
-        176,
-        188,
-        225,
-        286,
-        299,
-        335,
-        344,
-        347,
-        350,
-        382
+        145,
+        177,
+        189,
+        226,
+        287,
+        300,
+        336,
+        345,
+        348,
+        351,
+        383
       ]
     },
     {
@@ -3739,6 +3741,38 @@
         63,
         72,
         104
+      ]
+    },
+    {
+      "path": "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+      "sha256": "ada9dedb83fd0f1c412aaa0066ea094bc48fac28dfee0a98a933d8f456796c44",
+      "bytes": 16106,
+      "lines": 121,
+      "title": "A robust relational-frustration gate: hidden connections, hidden channels and experience",
+      "headings": [
+        "A robust relational-frustration gate: hidden connections, hidden channels and experience",
+        "Status and result",
+        "1. Definitions and physical commitments",
+        "2. Certificate for an imperfectly measured cycle",
+        "3. Why this does not secure every mismatch measure",
+        "4. Channel-level frustration is not identified by net phase behavior alone",
+        "5. The empirical bridge: what must now be demonstrated",
+        "6. Consequences for the whole-account"
+      ],
+      "local_links": [
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/frustration_hidden_channel_gate.json"
+      ],
+      "risk_phrase_lines": [
+        41,
+        70,
+        74,
+        82,
+        99,
+        121
       ]
     },
     {
@@ -9736,9 +9770,9 @@
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
-      "sha256": "a9fd30ceb108a336a443a04d1b99c5ab6592706d80f5da9e0ca2d677f179bc66",
-      "bytes": 14021,
-      "lines": 91,
+      "sha256": "9c1b376061d6b83ea9d1f36771156bb0e71ef21605ce46f4ba67c8d0a860b3d6",
+      "bytes": 14301,
+      "lines": 93,
       "title": "Vibrational dissonance and discomfort: a precise first test",
       "headings": [
         "Vibrational dissonance and discomfort: a precise first test",
@@ -9752,11 +9786,12 @@
       ],
       "local_links": [
         "STRING_DUALITY_SUBJECT_SELECTION.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "verification/phase_frustration_audit.py",
         "FRICTION_AND_UNPLEASANTNESS_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        47
+        49
       ]
     },
     {

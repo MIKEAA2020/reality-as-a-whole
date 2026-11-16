@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "scope": "classical finite phase-cost models only; conditional bounds not empirical evidence or experience assay",
+  "sampled_triangle_graphs_and_states": 5000,
+  "certified_triangle_and_any_nonnegative_extension_lower_bound": "27/80",
+  "conditions": "three unit-estimated weights each at least 9/10; each offset within pi/12 of pi; edges persist unchanged, extra costs nonnegative",
+  "triangle_only_upper_bound": "33/20",
+  "min_sampled_state_energy_minus_loop_lower_bound": 0.675078282382275,
+  "max_gauge_reference_error": 3.552713678800501e-15,
+  "max_equal_opposed_channel_cancellation_error": 1.7763568394002505e-15,
+  "original_antiphase_triangle_F": "3/2",
+  "original_state_excess_at_zero": "9/2",
+  "doubled_opposite_channel_F": "6",
+  "doubled_state_excess_at_zero": "0",
+  "pendant_edges_count": 100,
+  "normalized_F_after_100_unit_pendants": "3/206",
+  "phase_only_observational_equivalence": "both opposed-channel and zero-interaction models have the same zero phase force for every phase assignment",
+  "note": "Floating-point random assertions are spot checks; general claims follow from the report proofs."
+}

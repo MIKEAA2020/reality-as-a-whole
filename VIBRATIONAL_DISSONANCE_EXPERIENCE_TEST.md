@@ -4,6 +4,8 @@
 
 **String-theory follow-up:** The [duality/subject-selection audit](STRING_DUALITY_SUBJECT_SELECTION.md) tests whether an experiential rule remains consistent under T-dual descriptions. It does not derive this effective oscillator model from quantum strings.
 
+**Cycle and identifiability follow-up:** The [robust cycle gate](FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md) gives a conditional lower bound surviving extra nonnegative channels, and a counterexample showing phase-only dynamics can fail to identify the channel-level frustration.
+
 The user's proposal can be sharpened without assuming that all differences in frequency or phase are unpleasant. A **frustrated vibrational network** is one in which the interaction-preferred relationships of its components cannot all be satisfied together. That provides a physically interpretable candidate for “fundamental dissonance.” It does **not**, by itself, show that such a system feels discomfort, or that brain oscillations are fundamental strings.
 
 The distinction matters because a network can be stably phase-locked and still have unavoidable frustration; conversely, a system can have the same observed phases without frustration if its interactions are different. We therefore need **interactions and their preferred relationships**, not simply a synchrony or frequency score. There is an additional problem: a fixed network's minimum frustration is constant as its state changes, so that number alone cannot explain changing discomfort unless the network parameters or boundary also change. State-dependent mismatch is a separate candidate.

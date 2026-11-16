@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 295 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 248 verification Python scripts.
+- 296 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 249 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -100,6 +100,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
 - [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
 - [FRICTION_AND_UNPLEASANTNESS_AUDIT.md](FRICTION_AND_UNPLEASANTNESS_AUDIT.md) — Can intrinsic friction explain unpleasantness?
+- [FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md](FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md) — A robust relational-frustration gate: hidden connections, hidden channels and experience
 - [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching
 - [FRW_INTERNAL_POVM.md](FRW_INTERNAL_POVM.md) — An unregulated internal-clock POVM in one FRW branch
 - [FRW_MODULAR_CLOCK.md](FRW_MODULAR_CLOCK.md) — Scalar-clock FRW and modular flow: a regulated calculation and an obstruction
@@ -446,6 +447,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/framework_battery.py](verification/framework_battery.py)
 - [verification/friction_conflict_audit.py](verification/friction_conflict_audit.py)
 - [verification/friend_history_selector_gate.py](verification/friend_history_selector_gate.py)
+- [verification/frustration_hidden_channel_gate.py](verification/frustration_hidden_channel_gate.py)
 - [verification/frw_clock_window_mismatch.py](verification/frw_clock_window_mismatch.py)
 - [verification/frw_internal_povm.py](verification/frw_internal_povm.py)
 - [verification/frw_modular_clock.py](verification/frw_modular_clock.py)
