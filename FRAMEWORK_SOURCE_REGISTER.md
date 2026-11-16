@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 292 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 245 verification Python scripts.
+- 293 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 246 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -239,6 +239,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
 - [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
 - [SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md) — Subject constitution: ties, persistence and redescriptions
+- [SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md](SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md) — Substrate, context and the time horizon of an organizational match
 - [SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) — Substrate-independence, context and the boundaries of subjects
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
 - [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
@@ -406,6 +407,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
+- [verification/context_horizon_robustness.py](verification/context_horizon_robustness.py)
 - [verification/contextual_disclosure.py](verification/contextual_disclosure.py)
 - [verification/continuous_feedback_digital_approximation.py](verification/continuous_feedback_digital_approximation.py)
 - [verification/continuum_complete_instrument_bound.py](verification/continuum_complete_instrument_bound.py)

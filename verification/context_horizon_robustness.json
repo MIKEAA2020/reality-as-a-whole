@@ -1,0 +1,70 @@
+{
+  "scope": "Finite stipulated classical stochastic models, not a subject, experience, empirical data, physical laws, fundamental time, or evidence for metaphysical possibility.",
+  "latent_model": {
+    "epsilon": "1/10000",
+    "one_step_full_kernel_sup_tv": "1/10000",
+    "exact_local_history_tv": "1-(1-epsilon)^(n-1), n>=1",
+    "small_horizon_exact_distribution_checks": 12,
+    "large_horizon_values": [
+      {
+        "updates": 1,
+        "local_history_tv": 0.0
+      },
+      {
+        "updates": 2,
+        "local_history_tv": 0.0001
+      },
+      {
+        "updates": 1001,
+        "local_history_tv": 0.09516710644145375
+      },
+      {
+        "updates": 10001,
+        "local_history_tv": 0.6321389535670701
+      },
+      {
+        "updates": 29957,
+        "local_history_tv": 0.950000875813934
+      }
+    ],
+    "first_horizon_reaching_95_percent": 29957
+  },
+  "contraction_model": {
+    "delta": "1/100",
+    "dobrushin_coefficient": "1/2",
+    "endpoint_gap_after_n": "delta*(1-a^n)/(1-a)",
+    "endpoint_gap_limit": "1/50",
+    "exact_endpoint_checks": 20
+  },
+  "four_spin_fixed_topology": {
+    "original_weights": [
+      "10/21",
+      "4/21",
+      "10/21"
+    ],
+    "edge_error_radius_checked": "1/8",
+    "perturbation_combinations_checked": 27,
+    "C_selected": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "L_selected": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "strict_radius_certificate": "eta < 1/7",
+    "L_unresolved_candidates_at_radius_1_over_7": 6,
+    "scope": "Uncertainty in abstract edge weights with fixed zero nonedges, not physical-kernel reconstruction or an experience assay."
+  },
+  "note": "Bounds concern specified physical record distributions; mapping them to phenomenal equivalence requires additional premises."
+}

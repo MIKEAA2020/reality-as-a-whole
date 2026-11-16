@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 335,
-  "bytes": 4518687,
-  "line_count": 48879,
-  "document_count_with_risk_phrases": 309,
+  "document_count": 336,
+  "bytes": 4533712,
+  "line_count": 49012,
+  "document_count_with_risk_phrases": 310,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "79e1c8b4a226a44e52c5cc7a027f1e3729b3426fe6164dee9cfe28e5e12ad6bf",
-      "bytes": 75816,
-      "lines": 636,
+      "sha256": "ffec600255248de6493daab57b3ed7b00d11e67531e6e25ad2abff6abc9e2b5f",
+      "bytes": 76071,
+      "lines": 638,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3225,6 +3225,7 @@
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
         "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
         "SYNTHESIS.md",
         "SYNTHESIS_WDW_TIME.md",
@@ -3378,6 +3379,7 @@
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
         "verification/consumer_coverage_identifiability.py",
+        "verification/context_horizon_robustness.py",
         "verification/contextual_disclosure.py",
         "verification/continuous_feedback_digital_approximation.py",
         "verification/continuum_complete_instrument_bound.py",
@@ -3614,13 +3616,13 @@
         175,
         187,
         224,
-        283,
-        296,
-        332,
-        341,
-        344,
-        347,
-        379
+        284,
+        297,
+        333,
+        342,
+        345,
+        348,
+        380
       ]
     },
     {
@@ -8353,10 +8355,45 @@
       ]
     },
     {
+      "path": "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
+      "sha256": "4f2c511f169e457f6675bd6a465b03b7f2808b7ae2044913845b031ea7779f04",
+      "bytes": 14526,
+      "lines": 129,
+      "title": "Substrate, context and the time horizon of an organizational match",
+      "headings": [
+        "Substrate, context and the time horizon of an organizational match",
+        "Result in brief",
+        "1. General finite-horizon comparison: a known result applied here",
+        "2. A delayed contextual effect that accumulates",
+        "3. A control: contraction can keep endpoints close",
+        "4. A robustness certificate for the existing subject-rule comparison",
+        "5. A non-circular robustness requirement for the framework",
+        "6. Status and next work"
+      ],
+      "local_links": [
+        "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/context_horizon_robustness.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        41,
+        50,
+        52,
+        62,
+        81,
+        97,
+        116,
+        129
+      ]
+    },
+    {
       "path": "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
-      "sha256": "d9216afae941c8be2fb0f8db4478d5ca09aa4885a517462f61ad23ec9a06587c",
-      "bytes": 14437,
-      "lines": 104,
+      "sha256": "d1e84ce73336144c419abf7548c1b5655d627b76fb852e6ea92061580f605662",
+      "bytes": 14681,
+      "lines": 106,
       "title": "Substrate-independence, context and the boundaries of subjects",
       "headings": [
         "Substrate-independence, context and the boundaries of subjects",
@@ -8369,6 +8406,7 @@
         "Reproduction and sources"
       ],
       "local_links": [
+        "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
@@ -8380,14 +8418,14 @@
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        7,
-        27,
-        42,
+        9,
+        29,
         44,
-        68,
-        81,
-        100,
-        104
+        46,
+        70,
+        83,
+        102,
+        106
       ]
     },
     {

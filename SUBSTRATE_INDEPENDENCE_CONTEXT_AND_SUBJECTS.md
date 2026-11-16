@@ -2,6 +2,8 @@
 
 ## The advance
 
+The follow-up [horizon and robustness analysis](SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md) tests how weak contextual effects accumulate and gives a fixed-topology stability certificate for the existing four-spin C/L subject-rule comparison.
+
 The user's preferred account combines an intrinsically experiential, self-existent whole with **material substrate-independence** and real plural subjects. The immediate obstacle is not simply whether two materials can implement the same local process. It is **which relations count as part of the organization whose preservation is supposed to preserve an experience**.
 
 This note connects the earlier [substrate-independence interface](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md) to the existing [causal subject-boundary comparisons](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md). It gives a conditional incompatibility and an exact weak-coupling/detection example:
