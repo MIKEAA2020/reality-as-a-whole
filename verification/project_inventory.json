@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 337,
-  "bytes": 4546491,
-  "line_count": 49127,
-  "document_count_with_risk_phrases": 311,
+  "document_count": 338,
+  "bytes": 4558869,
+  "line_count": 49199,
+  "document_count_with_risk_phrases": 312,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c2b5f2fed75320c11569fbf1d0f2024eb166cf70e919f09d658004432352e062",
-      "bytes": 76369,
-      "lines": 640,
+      "sha256": "614ffe10228562b47796ebbb070175316878bc42cf1ed21d0212ca2e6181a264",
+      "bytes": 76617,
+      "lines": 642,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3124,6 +3124,7 @@
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
         "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NECESSARY_ARTICULATED_UNITY.md",
         "NECESSARY_EXISTENCE_ARGUMENT.md",
@@ -3457,6 +3458,7 @@
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
         "verification/multi_clock.py",
+        "verification/music_quantum_units_audit.py",
         "verification/nanoparticle_collapse_scope.py",
         "verification/necessary_existence_closed.py",
         "verification/necessary_plenitude_simulation_model.py",
@@ -3614,17 +3616,17 @@
         31,
         35,
         42,
-        143,
-        175,
-        187,
-        224,
-        285,
-        298,
-        334,
-        343,
-        346,
-        349,
-        381
+        144,
+        176,
+        188,
+        225,
+        286,
+        299,
+        335,
+        344,
+        347,
+        350,
+        382
       ]
     },
     {
@@ -5047,6 +5049,35 @@
         114,
         144,
         146
+      ]
+    },
+    {
+      "path": "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+      "sha256": "9f51c0588c090738b668e98a0f2e42e9c809f4887f611ef684ed89fa5c1ea1d5",
+      "bytes": 12130,
+      "lines": 70,
+      "title": "Does musical structure help explain quantum physics and experience?",
+      "headings": [
+        "Does musical structure help explain quantum physics and experience?",
+        "Verdict",
+        "1. What can be retained",
+        "2. Particular claims that need correction or qualification",
+        "3. The valuable empirical link: structure is not the same as valence",
+        "4. What this does to the current hypothesis",
+        "5. Effect on the whole-account",
+        "Reproduction"
+      ],
+      "local_links": [
+        "verification/music_quantum_units_audit.json",
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/music_quantum_units_audit.json"
+      ],
+      "risk_phrase_lines": [
+        24,
+        32,
+        34,
+        36
       ]
     },
     {

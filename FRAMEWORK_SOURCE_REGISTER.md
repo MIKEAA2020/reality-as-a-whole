@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 294 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 247 verification Python scripts.
+- 295 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 248 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -138,6 +138,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
 - [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
+- [MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md](MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md) — Does musical structure help explain quantum physics and experience?
 - [NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) — Nanoparticle interference and the limits of collapse-model transfer
 - [NECESSARY_ARTICULATED_UNITY.md](NECESSARY_ARTICULATED_UNITY.md) — Necessary articulated unity
 - [NECESSARY_EXISTENCE_ARGUMENT.md](NECESSARY_EXISTENCE_ARGUMENT.md) — The necessary-existence argument: strongest form, with what is and isn't proved
@@ -485,6 +486,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/modular_clock.py](verification/modular_clock.py)
 - [verification/modular_local_net.py](verification/modular_local_net.py)
 - [verification/multi_clock.py](verification/multi_clock.py)
+- [verification/music_quantum_units_audit.py](verification/music_quantum_units_audit.py)
 - [verification/nanoparticle_collapse_scope.py](verification/nanoparticle_collapse_scope.py)
 - [verification/necessary_existence_closed.py](verification/necessary_existence_closed.py)
 - [verification/necessary_plenitude_simulation_model.py](verification/necessary_plenitude_simulation_model.py)
