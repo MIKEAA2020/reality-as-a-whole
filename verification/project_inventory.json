@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 334,
-  "bytes": 4503536,
-  "line_count": 48771,
-  "document_count_with_risk_phrases": 308,
+  "document_count": 335,
+  "bytes": 4518687,
+  "line_count": 48879,
+  "document_count_with_risk_phrases": 309,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9cb8b534ced781f69f96e03925181d502646fb450adf624a849e4807ff6c36b1",
-      "bytes": 75551,
-      "lines": 634,
+      "sha256": "79e1c8b4a226a44e52c5cc7a027f1e3729b3426fe6164dee9cfe28e5e12ad6bf",
+      "bytes": 75816,
+      "lines": 636,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3225,6 +3225,7 @@
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
         "SYNTHESIS.md",
         "SYNTHESIS_WDW_TIME.md",
         "TAKESAKI_DUAL_TYPEIII1.md",
@@ -3554,6 +3555,7 @@
         "verification/subject_assay_dependence_control.py",
         "verification/subject_cohesion_identity_redescription.py",
         "verification/subject_constitution_interface.py",
+        "verification/subject_context_substrate_gate.py",
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
         "verification/substrate_self_existent_interface.py",
@@ -3612,13 +3614,13 @@
         175,
         187,
         224,
-        282,
-        295,
-        331,
-        340,
-        343,
-        346,
-        378
+        283,
+        296,
+        332,
+        341,
+        344,
+        347,
+        379
       ]
     },
     {
@@ -7541,9 +7543,9 @@
     },
     {
       "path": "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
-      "sha256": "dea684a55aeeeb26e6e2dd9b577a34914b6e7a2785f5d2101bbee075f958532b",
-      "bytes": 15636,
-      "lines": 96,
+      "sha256": "7e16a703e620ec701e54d3cbfccf5a2c05c08c410205f90abcaa16b228d83769",
+      "bytes": 16085,
+      "lines": 98,
       "title": "Self-existent experiential reality and substrate-independence",
       "headings": [
         "Self-existent experiential reality and substrate-independence",
@@ -7564,6 +7566,7 @@
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
+        "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
@@ -7575,7 +7578,8 @@
         59,
         63,
         67,
-        77
+        77,
+        85
       ]
     },
     {
@@ -8346,6 +8350,44 @@
         98,
         102,
         108
+      ]
+    },
+    {
+      "path": "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
+      "sha256": "d9216afae941c8be2fb0f8db4478d5ca09aa4885a517462f61ad23ec9a06587c",
+      "bytes": 14437,
+      "lines": 104,
+      "title": "Substrate-independence, context and the boundaries of subjects",
+      "headings": [
+        "Substrate-independence, context and the boundaries of subjects",
+        "The advance",
+        "1. Candidate principle and the factorization gate",
+        "2. A local realization that stays the same as its context changes",
+        "3. Arbitrarily weak links and finite evidence",
+        "4. What this means for the developing framework",
+        "5. Next concrete gates",
+        "Reproduction and sources"
+      ],
+      "local_links": [
+        "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/subject_context_substrate_gate.json",
+        "verification/framework_battery.py",
+        "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        27,
+        42,
+        44,
+        68,
+        81,
+        100,
+        104
       ]
     },
     {

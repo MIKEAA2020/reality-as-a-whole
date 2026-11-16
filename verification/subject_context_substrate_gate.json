@@ -1,0 +1,56 @@
+{
+  "scope": "Stipulated finite classical kernels and idealized inference. Component-to-subject identity and experiential bridge are not established; no claim about actual systems or metaphysical possibility.",
+  "transition_state_input_comparisons": 48,
+  "rows": [
+    {
+      "epsilon": "0",
+      "max_joint_tv_from_zero": "0",
+      "directed_influence_x_to_y": "0",
+      "directed_influence_y_to_x": "0",
+      "stipulated_weak_components": [
+        [
+          "x"
+        ],
+        [
+          "y"
+        ]
+      ],
+      "x_is_selected_singleton": true
+    },
+    {
+      "epsilon": "1/100",
+      "max_joint_tv_from_zero": "1/100",
+      "directed_influence_x_to_y": "1/100",
+      "directed_influence_y_to_x": "0",
+      "stipulated_weak_components": [
+        [
+          "x",
+          "y"
+        ]
+      ],
+      "x_is_selected_singleton": false
+    },
+    {
+      "epsilon": "1/10000",
+      "max_joint_tv_from_zero": "1/10000",
+      "directed_influence_x_to_y": "1/10000",
+      "directed_influence_y_to_x": "0",
+      "stipulated_weak_components": [
+        [
+          "x",
+          "y"
+        ]
+      ],
+      "x_is_selected_singleton": false
+    }
+  ],
+  "ideal_repeated_detection": {
+    "epsilon": "1/10000",
+    "independent_trials": 1000,
+    "no_positive_outcomes_given_positive_epsilon": 0.9048328935585462,
+    "optimal_equal_prior_bayes_error": 0.4524164467792731,
+    "optimal_minimax_error_with_randomized_decision": 0.4750195655578832,
+    "trials_for_at_least_95_percent_chance_of_one_positive": 29956,
+    "scope": "Known exactly zero versus known epsilon; perfect preparations/readout; independent trials; n_95 is power for an any-positive rule with zero false positives, not a general confidence bound or human study recommendation."
+  }
+}

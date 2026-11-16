@@ -82,6 +82,8 @@ The computational model and the material realization must not be confused with t
 
 ## 6. Work needed to turn the preference into an account
 
+The follow-up [context and subject-boundary gate](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) tests whether a boundary verdict can depend on external coupling while the subsystem's entire stipulated local input/state organization remains unchanged. It separates boundary-local invariance from context-qualified invariance and examines the fragility of an exact-connectivity rule; it does not establish either rule as a true theory of subjects.
+
 1. **Foundation (B1–B2):** strengthen the existing non-nothingness and experiential-foundation arguments into a non-circular case for *this* self-existent, intrinsically experiential constitution. A failure of an external-creator explanation does not by itself prove that candidate.
 2. **Implementation:** specify the physical state variables, internal causal/relational structure, admissible operations, organization-preserving mappings, robustness and boundary/context before examining candidate realizations. Test changes of material and grain without assuming that superficial input-output matching fixes experience. Some matched systems may not be physically realizable.
 3. **Incidence and quality:** independently argue for the subject rule and the bridge from actual organizational/experiential relations to anchored felt qualities. Then use the [subject interface](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) to compare rivals; the idealized assay there is assumed, not calibrated. Do not let the desired answer enter as a label on the physical model.

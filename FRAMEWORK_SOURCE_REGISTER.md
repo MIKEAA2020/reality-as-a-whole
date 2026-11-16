@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 291 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 244 verification Python scripts.
+- 292 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 245 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -239,6 +239,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
 - [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
 - [SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md) — Subject constitution: ties, persistence and redescriptions
+- [SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) — Substrate-independence, context and the boundaries of subjects
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
 - [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
 - [TAKESAKI_DUAL_TYPEIII1.md](TAKESAKI_DUAL_TYPEIII1.md) — Takesaki duality and the type III₁ universal Tomita weight
@@ -582,6 +583,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
 - [verification/subject_constitution_interface.py](verification/subject_constitution_interface.py)
+- [verification/subject_context_substrate_gate.py](verification/subject_context_substrate_gate.py)
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
 - [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)

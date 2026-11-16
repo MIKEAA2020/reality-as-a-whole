@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8793dbbae8eacf1f28d1c88aa5a2db1b1321f962",
-  "file_count": 1087,
+  "base_head": "e409cd3b72d7a0242699b4deb6078d458f7351f2",
+  "file_count": 1090,
   "files": [
     {
       "path": ".gitattributes",
@@ -440,8 +440,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 75551,
-      "sha256": "9cb8b534ced781f69f96e03925181d502646fb450adf624a849e4807ff6c36b1"
+      "bytes": 75816,
+      "sha256": "79e1c8b4a226a44e52c5cc7a027f1e3729b3426fe6164dee9cfe28e5e12ad6bf"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1030,8 +1030,8 @@
     },
     {
       "path": "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
-      "bytes": 15636,
-      "sha256": "dea684a55aeeeb26e6e2dd9b577a34914b6e7a2785f5d2101bbee075f958532b"
+      "bytes": 16085,
+      "sha256": "7e16a703e620ec701e54d3cbfccf5a2c05c08c410205f90abcaa16b228d83769"
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
@@ -1152,6 +1152,11 @@
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
       "bytes": 12292,
       "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71"
+    },
+    {
+      "path": "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
+      "bytes": 14437,
+      "sha256": "d9216afae941c8be2fb0f8db4478d5ca09aa4885a517462f61ad23ec9a06587c"
     },
     {
       "path": "SYNTHESIS.md",
@@ -4060,8 +4065,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 423934,
-      "sha256": "c5d2033e89d73b2af9723ea812d0a1f70767928382325b8f626e38fa55246fe0"
+      "bytes": 425510,
+      "sha256": "7bd86261b67a4a86b002802163017cca015a394535d9616376a6a125cc0e9056"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4972,6 +4977,16 @@
       "path": "verification/subject_constitution_interface.py",
       "bytes": 4990,
       "sha256": "b62a922390908c543b6b18973f6bb43e4722943e19642cc1acfd80c2a4aeb1b4"
+    },
+    {
+      "path": "verification/subject_context_substrate_gate.json",
+      "bytes": 1783,
+      "sha256": "58feb53ed400c38fe6ba0566db209cd1b8caf15d25a9062f05a394318acd353b"
+    },
+    {
+      "path": "verification/subject_context_substrate_gate.py",
+      "bytes": 4619,
+      "sha256": "ba2579b72332e41079bbe651edddbb7f57f56988751e499484d4dfc73efb3037"
     },
     {
       "path": "verification/subject_factorization_redescription_gate.json",
