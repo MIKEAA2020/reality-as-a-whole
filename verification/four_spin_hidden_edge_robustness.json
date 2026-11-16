@@ -1,0 +1,55 @@
+{
+  "scope": "Stipulated finite classical edge scores, controlled Bernoulli measurements and independently assumed kernel bound. No real subjects, neuroscience, phenomenology, data or quantum-gravity derivation.",
+  "all_six_edge_certificate": {
+    "sharp_linf_radius": "2/35 (strict)",
+    "radius_tested": "1/20",
+    "grid_cases_checked": 729,
+    "tie_witness_at_boundary": {
+      "pair_score": "44/105",
+      "whole_score": "44/105",
+      "L_winners": [],
+      "L_unresolved": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "C": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    }
+  },
+  "illustrative_measurement_budget": {
+    "number_of_cells": 24,
+    "physical_weight_drift": "1/100",
+    "clamp_bias_per_cell": "1/400",
+    "readout_bias_per_cell": "1/400",
+    "sampling_error_per_cell": "3/200",
+    "combined_weight_error": "1/20",
+    "iid_trials_per_cell_hoeffding": 15260,
+    "total_trials": 366240,
+    "simultaneous_failure_upper_bound": 0.0499966643343657,
+    "assumptions": "Cellwise iid bounded outcomes, controlled backgrounds, independently justified deterministic bias bounds and true graph-drift bound; correlations across cells allowed by union bound."
+  },
+  "independent_horizon_assumption": {
+    "horizon_steps": 100,
+    "uniform_full_kernel_row_tv": "1/10000",
+    "path_tv_upper_bound": 0.009950661308629184,
+    "scope": "Separate uniform kernel assumption; graph weights and graph estimation do not establish it."
+  }
+}

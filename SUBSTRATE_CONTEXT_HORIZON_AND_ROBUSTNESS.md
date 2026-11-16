@@ -2,6 +2,8 @@
 
 ## Result in brief
 
+The follow-up [hidden-edge and imperfect-intervention analysis](SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md) relaxes the fixed-zero-nonedge assumption, proves a sharp four-node margin, and states a separate conditional measurement budget.
+
 The [previous context gate](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) showed that an arbitrarily weak connection can change the verdict of a simplistic exact-connectivity subject rule. The present question is different: **even when we do not use that all-or-nothing rule, how much can a weak physical difference matter over the span of an experience or a subject's persistence?**
 
 A one-step match does not, by itself, establish a long-horizon match. In a finite example with maximum one-step total-variation discrepancy `ε=1/10,000`, the probability laws of the **entire local output history** have distance about `0.632` after 10,001 updates. In a different, contracting example, the difference between **endpoint distributions** stays below `0.02` for every number of steps. These are deliberately specified stochastic toys, not simulations of human subjects.

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7a47e71f34ebac51990368c650866bbb1800ecfb",
-  "file_count": 1093,
+  "base_head": "e1be5b7177b2e77c0718987f4b3434be78c57249",
+  "file_count": 1096,
   "files": [
     {
       "path": ".gitattributes",
@@ -440,8 +440,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 76071,
-      "sha256": "ffec600255248de6493daab57b3ed7b00d11e67531e6e25ad2abff6abc9e2b5f"
+      "bytes": 76369,
+      "sha256": "c2b5f2fed75320c11569fbf1d0f2024eb166cf70e919f09d658004432352e062"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1149,14 +1149,19 @@
       "sha256": "f4faa6752651acb05059a0dfb32f843f147a42ee8f2f177a340980ecfd596d3c"
     },
     {
+      "path": "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
+      "bytes": 12227,
+      "sha256": "14a69cf50a81b56f9894c362f8155ea588354ac28847849b3eba6dd28a2f8ca3"
+    },
+    {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
       "bytes": 12292,
       "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71"
     },
     {
       "path": "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
-      "bytes": 14526,
-      "sha256": "4f2c511f169e457f6675bd6a465b03b7f2808b7ae2044913845b031ea7779f04"
+      "bytes": 14780,
+      "sha256": "f84527f5df85776db5318cd498fa2c3fc624cf59d6234845d9f8e7f83c50e267"
     },
     {
       "path": "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
@@ -3389,6 +3394,16 @@
       "sha256": "7b4e08bde93bebff678c50d097f4826548d2deed52de21ae4d64e75853e7e825"
     },
     {
+      "path": "verification/four_spin_hidden_edge_robustness.json",
+      "bytes": 1631,
+      "sha256": "d280ff0da689b6c12943ea9f99f8d5bdd9f1b803d2f8e88898e2128a758c6d29"
+    },
+    {
+      "path": "verification/four_spin_hidden_edge_robustness.py",
+      "bytes": 4470,
+      "sha256": "cb0709557c1a2a622220f419cab85ffcc127212ea7cd9e0ca0603dd3b68c21e1"
+    },
+    {
       "path": "verification/framework_battery.json",
       "bytes": 3849,
       "sha256": "fc67a5ddf78e6418655cf6a430f2f08598833539220a309ea106c0c1c8a7f06d"
@@ -4080,8 +4095,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 426923,
-      "sha256": "3b58951ddfc5a4c1bf7cd434d434a4fca4a21d8946ee67b0519cb483d85a921b"
+      "bytes": 428436,
+      "sha256": "260883e16e99307acbf2765e554db1032f5904d0e16f95aa40dafbc247d5d836"
     },
     {
       "path": "verification/project_inventory.py",

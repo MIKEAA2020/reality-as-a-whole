@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 336,
-  "bytes": 4533712,
-  "line_count": 49012,
-  "document_count_with_risk_phrases": 310,
+  "document_count": 337,
+  "bytes": 4546491,
+  "line_count": 49127,
+  "document_count_with_risk_phrases": 311,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2982,9 +2982,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ffec600255248de6493daab57b3ed7b00d11e67531e6e25ad2abff6abc9e2b5f",
-      "bytes": 76071,
-      "lines": 638,
+      "sha256": "c2b5f2fed75320c11569fbf1d0f2024eb166cf70e919f09d658004432352e062",
+      "bytes": 76369,
+      "lines": 640,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3224,6 +3224,7 @@
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
+        "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
         "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
         "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
@@ -3412,6 +3413,7 @@
         "verification/fixed_gap_source_clock.py",
         "verification/foundation_battery_report_spotcheck.py",
         "verification/foundation_route_comparison.py",
+        "verification/four_spin_hidden_edge_robustness.py",
         "verification/framework_battery.py",
         "verification/friction_conflict_audit.py",
         "verification/friend_history_selector_gate.py",
@@ -3616,13 +3618,13 @@
         175,
         187,
         224,
-        284,
-        297,
-        333,
-        342,
-        345,
-        348,
-        380
+        285,
+        298,
+        334,
+        343,
+        346,
+        349,
+        381
       ]
     },
     {
@@ -8320,6 +8322,42 @@
       ]
     },
     {
+      "path": "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
+      "sha256": "14a69cf50a81b56f9894c362f8155ea588354ac28847849b3eba6dd28a2f8ca3",
+      "bytes": 12227,
+      "lines": 111,
+      "title": "Subject-rule robustness with hidden edges and imperfect interventions",
+      "headings": [
+        "Subject-rule robustness with hidden edges and imperfect interventions",
+        "Result",
+        "1. The fixed reference and what the rules mean",
+        "2. Graph-level bound, including a sharp boundary witness",
+        "3. From imperfect interventions to an edge-error budget",
+        "4. Time-horizon and phenomenal checks remain separate",
+        "5. What to do with the result",
+        "Reproduction"
+      ],
+      "local_links": [
+        "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "verification/four_spin_hidden_edge_robustness.py",
+        "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "verification/four_spin_hidden_edge_robustness.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        24,
+        42,
+        44,
+        46,
+        56,
+        111
+      ]
+    },
+    {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
       "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71",
       "bytes": 12292,
@@ -8356,9 +8394,9 @@
     },
     {
       "path": "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
-      "sha256": "4f2c511f169e457f6675bd6a465b03b7f2808b7ae2044913845b031ea7779f04",
-      "bytes": 14526,
-      "lines": 129,
+      "sha256": "f84527f5df85776db5318cd498fa2c3fc624cf59d6234845d9f8e7f83c50e267",
+      "bytes": 14780,
+      "lines": 131,
       "title": "Substrate, context and the time horizon of an organizational match",
       "headings": [
         "Substrate, context and the time horizon of an organizational match",
@@ -8371,6 +8409,7 @@
         "6. Status and next work"
       ],
       "local_links": [
+        "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
         "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
@@ -8379,14 +8418,15 @@
       ],
       "risk_phrase_lines": [
         5,
-        41,
-        50,
+        7,
+        43,
         52,
-        62,
-        81,
-        97,
-        116,
-        129
+        54,
+        64,
+        83,
+        99,
+        118,
+        131
       ]
     },
     {
