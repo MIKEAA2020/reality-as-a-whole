@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 341,
-  "bytes": 4602343,
-  "line_count": 49550,
-  "document_count_with_risk_phrases": 315,
+  "document_count": 342,
+  "bytes": 4618178,
+  "line_count": 49664,
+  "document_count_with_risk_phrases": 316,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -469,8 +469,8 @@
     },
     {
       "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
-      "sha256": "064efe5227c91481c031994787c0e6565f4ccd3dd05c2554384103d8ff3d111d",
-      "bytes": 12518,
+      "sha256": "60b136e6a8014f8b2ebbc9229846b868c4e755dfd525e6001db32aca75813819",
+      "bytes": 12720,
       "lines": 81,
       "title": "An empirical gate for relational and pairwise musical predictions",
       "headings": [
@@ -487,6 +487,7 @@
         "sources/external/README.md",
         "verification/bowling_pairwise_transfer_audit.py",
         "verification/bowling_pairwise_transfer_audit.json",
+        "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
         "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
         "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
         "verification/bowling_pairwise_transfer_audit.json"
@@ -3014,9 +3015,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "aeab93e216fe274d2ba52dc1939ef8363e76ac0842270abf49e715ccd6a57372",
-      "bytes": 77451,
-      "lines": 648,
+      "sha256": "b84f0bee72af04a04047b9b3067956fb270577943d6b46168e0c11c8873a193d",
+      "bytes": 77703,
+      "lines": 650,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3186,6 +3187,7 @@
         "PHENOMENAL_GWT_RUSSELLIAN.md",
         "PHENOMENAL_IDENTITY_THESIS.md",
         "PHOTON_ECHO_READOUT.md",
+        "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -3517,6 +3519,7 @@
         "verification/phase_frustration_audit.py",
         "verification/phenomenal_gwt_russellian.py",
         "verification/photon_echo_readout.py",
+        "verification/pitch_frustration_inversion_gate.py",
         "verification/plenitude_algebraic_closure.py",
         "verification/plenitude_dimension.py",
         "verification/plenitude_foundation_symmetry_gates.py",
@@ -3655,16 +3658,16 @@
         36,
         43,
         146,
-        178,
-        190,
-        228,
-        289,
-        302,
-        338,
-        347,
-        350,
-        353,
-        385
+        179,
+        191,
+        229,
+        290,
+        303,
+        339,
+        348,
+        351,
+        354,
+        386
       ]
     },
     {
@@ -5984,6 +5987,38 @@
         "verification/photon_echo_readout.json"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
+      "sha256": "c1a06f11814e2f360cf64f7cdf38ac0e4891ca022a26e69d607cb31bfd975808",
+      "bytes": 15381,
+      "lines": 112,
+      "title": "When a pitch-to-frustration explanation cannot work",
+      "headings": [
+        "When a pitch-to-frustration explanation cannot work",
+        "Result",
+        "1. What is known, and the model under test",
+        "2. First obstruction: the dyad",
+        "3. Second obstruction: additive pitch preferences",
+        "4. Third obstruction: reflection symmetry even for nonlinear preferences",
+        "5. A closer empirical pair and an error bound",
+        "6. A decision-ready test rather than flexible storytelling"
+      ],
+      "local_links": [
+        "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "verification/pitch_frustration_inversion_gate.json",
+        "sources/external/README.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        66,
+        77,
+        81,
+        102
+      ]
     },
     {
       "path": "PLENITUDE.md",

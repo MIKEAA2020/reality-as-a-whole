@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 298 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 251 verification Python scripts.
+- 299 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 252 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -168,6 +168,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) — Phenomenal Constitution: Russellian Identity × Global Workspace from the Type-III₁ Algebra
 - [PHENOMENAL_IDENTITY_THESIS.md](PHENOMENAL_IDENTITY_THESIS.md) — Russellian identity thesis: experience as the intrinsic being of modular events
 - [PHOTON_ECHO_READOUT.md](PHOTON_ECHO_READOUT.md) — Asymptotic photon-echo relational readout for the static spherical clock
+- [PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md](PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md) — When a pitch-to-frustration explanation cannot work
 - [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
 - [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
@@ -513,6 +514,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)
 - [verification/phenomenal_gwt_russellian.py](verification/phenomenal_gwt_russellian.py)
 - [verification/photon_echo_readout.py](verification/photon_echo_readout.py)
+- [verification/pitch_frustration_inversion_gate.py](verification/pitch_frustration_inversion_gate.py)
 - [verification/plenitude_algebraic_closure.py](verification/plenitude_algebraic_closure.py)
 - [verification/plenitude_dimension.py](verification/plenitude_dimension.py)
 - [verification/plenitude_foundation_symmetry_gates.py](verification/plenitude_foundation_symmetry_gates.py)

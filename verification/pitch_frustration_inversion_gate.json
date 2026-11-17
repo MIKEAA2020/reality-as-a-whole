@@ -1,0 +1,164 @@
+{
+  "status": "completed",
+  "scope": "exploratory aggregate data, conditional symmetry math; no neural channels or participant-level inference",
+  "inconData_commit": "b95b4db27356a04241ed1a2e38ffc8f5e1f68bbe",
+  "source_hashes": {
+    "2": "f617e04b92feeb6a73a64a696163a9554d2cee578b81a40a190dd135708a5855",
+    "3": "d9210a546e06b83aae7109552a601304c647f6612ea2fba95b0219dae7462a20",
+    "4": "4e3826af63c366c69d84947bd68bf1d38598a33ed3f2357230e858092f04f103"
+  },
+  "random_seed": 20261031,
+  "energy_reflection_checks": 10000,
+  "maximum_numerical_energy_difference": 5.329070518200751e-15,
+  "additive_zero_cost_checks": 1000,
+  "near_reflection_uniform_energy_bound_checks": 5000,
+  "maximum_sampled_bound_excess": -0.00016359714551235027,
+  "illustrative_nonadditive_triangle_energy_at_known_minimizer": 1.5,
+  "dyad_rating_examples": {
+    "minor_second": 1.317,
+    "octave": 3.893,
+    "observed_gap": 2.5759999999999996,
+    "F_single_edge_both": 0
+  },
+  "observed_mirror_comparisons": {
+    "3": {
+      "chords": 66,
+      "distinct_mirror_pairs": 30,
+      "self_mirror_chords": 6,
+      "mean_absolute_gap_across_mirror_pairs": 0.321111111,
+      "in_sample_oracle_mirror_invariant_rmse": 0.18543333535925496,
+      "in_sample_oracle_mirror_invariant_residual_sse_fraction": 0.063226515099619,
+      "pairs_with_node_matched_interval_mismatch_below_1_cent": 15,
+      "largest_near_matched_gap_example": {
+        "first_pitches_relative": [
+          0,
+          3,
+          8
+        ],
+        "second_pitches_relative": [
+          0,
+          5,
+          8
+        ],
+        "first_rating": 3.633333333,
+        "second_rating": 2.8,
+        "absolute_rating_gap": 0.8333333330000001,
+        "first_frequencies_hz": [
+          206.55,
+          247.86,
+          330.48
+        ],
+        "second_frequencies_hz": [
+          199.55,
+          266.06,
+          319.28
+        ],
+        "maximum_node_matched_interval_mismatch_cents": 0.04337899620771578,
+        "first_published_harmonic_similarity": 0.4,
+        "second_published_harmonic_similarity": 0.133
+      },
+      "largest_gap_example": {
+        "first_pitches_relative": [
+          0,
+          2,
+          8
+        ],
+        "second_pitches_relative": [
+          0,
+          6,
+          8
+        ],
+        "first_rating": 1.766666667,
+        "second_rating": 2.633333333,
+        "absolute_rating_gap": 0.866666666,
+        "first_frequencies_hz": [
+          210.71,
+          237.05,
+          337.13
+        ],
+        "second_frequencies_hz": [
+          196.22,
+          274.71,
+          313.96
+        ],
+        "maximum_node_matched_interval_mismatch_cents": 27.28647264562566,
+        "first_published_harmonic_similarity": 0.057,
+        "second_published_harmonic_similarity": 0.4
+      }
+    },
+    "4": {
+      "chords": 220,
+      "distinct_mirror_pairs": 95,
+      "self_mirror_chords": 30,
+      "mean_absolute_gap_across_mirror_pairs": 0.2533263157894737,
+      "in_sample_oracle_mirror_invariant_rmse": 0.1529006956402512,
+      "in_sample_oracle_mirror_invariant_residual_sse_fraction": 0.06830523814418608,
+      "pairs_with_node_matched_interval_mismatch_below_1_cent": 20,
+      "largest_near_matched_gap_example": {
+        "first_pitches_relative": [
+          0,
+          1,
+          8,
+          12
+        ],
+        "second_pitches_relative": [
+          0,
+          4,
+          11,
+          12
+        ],
+        "first_rating": 2.367,
+        "second_rating": 3.333,
+        "absolute_rating_gap": 0.9660000000000002,
+        "first_frequencies_hz": [
+          184.68,
+          196.99,
+          295.49,
+          369.36
+        ],
+        "second_frequencies_hz": [
+          170.86,
+          213.58,
+          320.36,
+          341.72
+        ],
+        "maximum_node_matched_interval_mismatch_cents": 0.08333396483543734,
+        "first_published_harmonic_similarity": 0.142,
+        "second_published_harmonic_similarity": 0.233
+      },
+      "largest_gap_example": {
+        "first_pitches_relative": [
+          0,
+          1,
+          8,
+          12
+        ],
+        "second_pitches_relative": [
+          0,
+          4,
+          11,
+          12
+        ],
+        "first_rating": 2.367,
+        "second_rating": 3.333,
+        "absolute_rating_gap": 0.9660000000000002,
+        "first_frequencies_hz": [
+          184.68,
+          196.99,
+          295.49,
+          369.36
+        ],
+        "second_frequencies_hz": [
+          170.86,
+          213.58,
+          320.36,
+          341.72
+        ],
+        "maximum_node_matched_interval_mismatch_cents": 0.08333396483543734,
+        "first_published_harmonic_similarity": 0.142,
+        "second_published_harmonic_similarity": 0.233
+      }
+    }
+  },
+  "caveats": "mirror matching in symbolic space is exact; near matching in cents uses reported rounded frequencies and does not imply matched timbre, loudness, spectral partials, individual ratings, neural dynamics or statistical significance"
+}
