@@ -1,0 +1,71 @@
+{
+  "status": "completed",
+  "scope": "conditional deterministic first-harmonic model; not a biological observation, physical channel validation, experiential assay, or proof of ground",
+  "illustrative_calibration": {
+    "y0": 0.0,
+    "y1": -1.0,
+    "epsilon_component": 0.1,
+    "lambda_min": 0.5,
+    "lambda_max": 1.0,
+    "phase_error_each_radians": 0.05,
+    "k_low": 0.8585786437626904,
+    "k_high": 2.282842712474619,
+    "angle_error_radians": 0.14189705460416394,
+    "measured_state_A": 0.0,
+    "measured_state_B": 3.141592653589793,
+    "certified_contribution_difference_lower": 1.6856374792003996,
+    "certified_contribution_difference_upper": 4.565685424949238
+  },
+  "hidden_parallel_channel_example": {
+    "0.0": {
+      "total_cost_A": 2.0,
+      "total_cost_B": 0.0,
+      "total_cost_difference_A_minus_B": 2.0,
+      "net_force_at_A": 0.0,
+      "net_force_at_B": -1.2246467991473532e-16,
+      "net_force_at_pi_over_2": -1.0
+    },
+    "2.0": {
+      "total_cost_A": 2.0,
+      "total_cost_B": 4.0,
+      "total_cost_difference_A_minus_B": -2.0,
+      "net_force_at_A": 0.0,
+      "net_force_at_B": 1.2246467991473532e-16,
+      "net_force_at_pi_over_2": 1.0
+    }
+  },
+  "arbitrarily_small_gain_examples": [
+    {
+      "lambda": 1.0,
+      "k": 1.0,
+      "observed_response_magnitude": 1.0
+    },
+    {
+      "lambda": 0.1,
+      "k": 10.0,
+      "observed_response_magnitude": 1.0
+    },
+    {
+      "lambda": 0.01,
+      "k": 100.0,
+      "observed_response_magnitude": 1.0
+    },
+    {
+      "lambda": 0.001,
+      "k": 1000.0,
+      "observed_response_magnitude": 1.0
+    }
+  ],
+  "seed": 918243,
+  "random_cases": 20000,
+  "resolved_cases_checked": 19652,
+  "unresolved_cases": 348,
+  "tested_invariants": [
+    "true k and offset contained",
+    "true A-minus-B contribution contained",
+    "common phase-reference shift leaves bounds unchanged",
+    "unresolved zero response",
+    "hidden-channel contrast reversal"
+  ],
+  "caution": "Random tests check implementation; mathematical bounds require assumptions and independent error calibration."
+}

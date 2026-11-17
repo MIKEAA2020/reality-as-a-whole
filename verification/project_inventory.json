@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 345,
-  "bytes": 4655543,
-  "line_count": 49895,
-  "document_count_with_risk_phrases": 319,
+  "document_count": 346,
+  "bytes": 4670525,
+  "line_count": 50027,
+  "document_count_with_risk_phrases": 320,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3016,9 +3016,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7af449ee090507581128bc3773fdd3a14972bceae1abda8c2b52f93c8175a4ce",
-      "bytes": 78011,
-      "lines": 652,
+      "sha256": "d4ff551524b649d4b3ecf6c67939155a1ad3551095d7983caa2efb4f0f5a6430",
+      "bytes": 78541,
+      "lines": 656,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3185,6 +3185,8 @@
         "OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md",
         "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "PERSPECTIVAL_FINITUDE.md",
         "PHENOMENAL_GWT_RUSSELLIAN.md",
         "PHENOMENAL_IDENTITY_THESIS.md",
@@ -3517,6 +3519,8 @@
         "verification/oph_unification_koide_gate.py",
         "verification/orientation_visibility_contrast.py",
         "verification/page_wootters_static_clock.py",
+        "verification/paingen_source_crosscheck.py",
+        "verification/paingen_unpleasantness_baselines.py",
         "verification/perspectival_finitude.py",
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
@@ -3661,16 +3665,16 @@
         36,
         43,
         147,
-        180,
-        192,
-        230,
-        291,
-        304,
-        340,
-        349,
-        352,
-        355,
-        387
+        182,
+        194,
+        232,
+        293,
+        306,
+        342,
+        351,
+        354,
+        357,
+        389
       ]
     },
     {
@@ -8376,6 +8380,37 @@
         56,
         57,
         64
+      ]
+    },
+    {
+      "path": "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+      "sha256": "f5a9492551713c918efe9737d9f6828dba1e7991cfcf64d677b87b0c9973703f",
+      "bytes": 14452,
+      "lines": 128,
+      "title": "State mismatch: a bounded contrast and a falsification gate",
+      "headings": [
+        "State mismatch: a bounded contrast and a falsification gate",
+        "The advance",
+        "1. Definitions and the cancellation",
+        "2. Bounding an identified channel in both states",
+        "3. Numerical example and the omitted-channel problem",
+        "4. How this becomes a falsifiable pain hypothesis",
+        "5. Research design and known work",
+        "Reproduction"
+      ],
+      "local_links": [
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "verification/state_mismatch_contrast_certificate.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        28,
+        40,
+        89,
+        94,
+        96
       ]
     },
     {
