@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "84fde647376e71aacbc59bd1a9ddfe60cbe16b48",
-  "file_count": 1130,
+  "base_head": "d1c0bed553ea894845167628ace65f0e9ae443f4",
+  "file_count": 1133,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 78819,
-      "sha256": "54cb93082e66a1f2b384d9ce1eebf5be933acd0b81b3e3db58178926b949d872"
+      "bytes": 79069,
+      "sha256": "a3cd16d5b9814c764b07a1c7aec7752baaf4e3ff9669b99359edf8a6e7b0568e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -697,6 +697,11 @@
       "path": "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
       "bytes": 22404,
       "sha256": "4465b305f63a174b9b94504cda17fd612c24a9b555773ad29424d2b3c18283f9"
+    },
+    {
+      "path": "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
+      "bytes": 13335,
+      "sha256": "cea729c9159653d400407b789274ee2247d5578fe44e0bc3f04abaed2a41bffc"
     },
     {
       "path": "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
@@ -3994,6 +3999,16 @@
       "sha256": "76df79f5caa01eb760125dc1d94b697afbb29663cd1274c3277ec61fd9bdea01"
     },
     {
+      "path": "verification/net_work_mismatch_gate.json",
+      "bytes": 1571,
+      "sha256": "fe33dbb06487ac584ce0287b0e3355def3b40b2e70e5451ccb8f2958d1f65e7a"
+    },
+    {
+      "path": "verification/net_work_mismatch_gate.py",
+      "bytes": 4418,
+      "sha256": "ca213d97dd2741287dab206b83d16c68af8787bbb191cb4de46480fba0cff085"
+    },
+    {
       "path": "verification/nonstatic_spherical_causality.json",
       "bytes": 470,
       "sha256": "90c18d346afd0fddc02d13e3acef1ebfdefe5a3beb00882372cb78fed3f2d93e"
@@ -4245,8 +4260,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 439805,
-      "sha256": "78143720e699c71bfa94914d573d0cef8eacd66673202e5552d48b9604ccb9b4"
+      "bytes": 441073,
+      "sha256": "0bd77b1113c621e9d1aabaa2cd324cb2bf4baad945a94aa57c54818021997cea"
     },
     {
       "path": "verification/project_inventory.py",

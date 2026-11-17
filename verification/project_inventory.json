@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 346,
-  "bytes": 4670525,
-  "line_count": 50027,
-  "document_count_with_risk_phrases": 320,
+  "document_count": 347,
+  "bytes": 4684138,
+  "line_count": 50143,
+  "document_count_with_risk_phrases": 321,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3016,9 +3016,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d4ff551524b649d4b3ecf6c67939155a1ad3551095d7983caa2efb4f0f5a6430",
-      "bytes": 78541,
-      "lines": 656,
+      "sha256": "54cb93082e66a1f2b384d9ce1eebf5be933acd0b81b3e3db58178926b949d872",
+      "bytes": 78819,
+      "lines": 658,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3260,6 +3260,7 @@
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+        "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
@@ -3604,6 +3605,7 @@
         "verification/spectral_action_finite_sm.py",
         "verification/spherical_scalar_radiation.py",
         "verification/split_brain_query_strategy_gate.py",
+        "verification/state_mismatch_contrast_certificate.py",
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
         "verification/subject_assay_dependence_control.py",
@@ -3668,13 +3670,13 @@
         182,
         194,
         232,
-        293,
-        306,
-        342,
-        351,
-        354,
-        357,
-        389
+        294,
+        307,
+        343,
+        352,
+        355,
+        358,
+        390
       ]
     },
     {
@@ -5405,6 +5407,36 @@
         156,
         158,
         170
+      ]
+    },
+    {
+      "path": "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
+      "sha256": "cea729c9159653d400407b789274ee2247d5578fe44e0bc3f04abaed2a41bffc",
+      "bytes": 13335,
+      "lines": 114,
+      "title": "Can total response identify state mismatch without resolving every channel?",
+      "headings": [
+        "Can total response identify state mismatch without resolving every channel?",
+        "Main result",
+        "1. Exact identification, given a correct potential",
+        "2. A finite, error-bounded measurement gate",
+        "3. Why finite response samples alone are not enough",
+        "4. The distinction between total excess and channel frustration",
+        "5. Path dependence and hidden degrees of freedom",
+        "6. What to do with the two routes"
+      ],
+      "local_links": [
+        "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+        "verification/net_work_mismatch_gate.json"
+      ],
+      "risk_phrase_lines": [
+        11,
+        59,
+        84,
+        92,
+        108
       ]
     },
     {

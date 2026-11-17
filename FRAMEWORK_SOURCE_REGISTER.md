@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 303 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 256 verification Python scripts.
+- 304 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 257 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -148,6 +148,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NECESSARY_EXISTENCE_CLOSED.md](NECESSARY_EXISTENCE_CLOSED.md) — Necessary Existence: The Closure Argument
 - [NECESSARY_OCCURRENCE_CANDIDATE.md](NECESSARY_OCCURRENCE_CANDIDATE.md) — Necessary occurrence: the essence–instance gap and an actuality-first candidate
 - [NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) — Necessary plenitude, plural subjects and simulation: a constructed candidate
+- [NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md](NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md) — Can total response identify state mismatch without resolving every channel?
 - [NEURAL_TIMING_CONSTITUTION_AUDIT.md](NEURAL_TIMING_CONSTITUTION_AUDIT.md) — Can neural activation duration supply the missing episode clock?
 - [NONADDITIVE_CONSTITUTION_ARGUMENT.md](NONADDITIVE_CONSTITUTION_ARGUMENT.md) — A substantive constitutive argument: non-additive qualitative realization
 - [NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md) — Revising the whole-account for a non-optimal world
@@ -502,6 +503,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/necessary_existence_closed.py](verification/necessary_existence_closed.py)
 - [verification/necessary_plenitude_simulation_model.py](verification/necessary_plenitude_simulation_model.py)
 - [verification/necessity_nonempty_modal_audit.py](verification/necessity_nonempty_modal_audit.py)
+- [verification/net_work_mismatch_gate.py](verification/net_work_mismatch_gate.py)
 - [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
 - [verification/nonstatic_spherical_midisuperspace.py](verification/nonstatic_spherical_midisuperspace.py)
 - [verification/operational_accumulator.py](verification/operational_accumulator.py)

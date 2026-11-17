@@ -1,0 +1,54 @@
+{
+  "status": "completed",
+  "scope": "ideal scalar potential and deterministic error bounds; no neural data or phenomenal-assay validation",
+  "midpoint_example": {
+    "n": 32,
+    "beta": 0.1,
+    "lipschitz": 9.869604401089358,
+    "error_radius": 0.17710628438351061,
+    "models": {
+      "0.0": {
+        "exact_D_A_minus_D_B": 2.0,
+        "midpoint_estimate": 2.0008034163099304,
+        "interval": [
+          1.8236971319264197,
+          2.177909700693441
+        ]
+      },
+      "2.0": {
+        "exact_D_A_minus_D_B": -2.0,
+        "midpoint_estimate": -2.0008034163099304,
+        "interval": [
+          -2.177909700693441,
+          -1.8236971319264197
+        ]
+      }
+    }
+  },
+  "unsampled_periodic_alias": {
+    "n": 32,
+    "amplitude": 100.0,
+    "midpoint_average": 8.039742337130239e-28,
+    "endpoints": [
+      0.0,
+      1.2246467991473532e-14
+    ],
+    "exact_integral": 31.823215483185322,
+    "note": "This alias is not claimed to satisfy the illustrative pi-squared Lipschitz bound."
+  },
+  "circle_nonconservative_torque": {
+    "torque": 0.7,
+    "positive_path_integral": 2.199114857512855,
+    "negative_path_integral": -2.199114857512855,
+    "closed_loop_integral": 4.39822971502571
+  },
+  "hidden_equilibrium_modes": {
+    "beta_inverse_temperature": 1,
+    "c": 1,
+    "microscopic_h0_energy_difference": 0.0,
+    "free_energy_difference": 0.5662191695169727
+  },
+  "random_fourier_interval_checks": 15000,
+  "random_seed": 251103,
+  "note": "Finite tests exercise implementation, not physical or experiential assumptions."
+}
