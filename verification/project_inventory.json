@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 343,
-  "bytes": 4635708,
-  "line_count": 49777,
-  "document_count_with_risk_phrases": 317,
+  "document_count": 345,
+  "bytes": 4655543,
+  "line_count": 49895,
+  "document_count_with_risk_phrases": 319,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5922,6 +5922,56 @@
       "risk_phrase_lines": [
         13,
         113
+      ]
+    },
+    {
+      "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+      "sha256": "f8e90af06849143a0a8535139b448cbdcb514e2268dd1d378da40610def83b85",
+      "bytes": 12723,
+      "lines": 74,
+      "title": "Unpleasantness: empirical baselines and the missing mismatch measurement",
+      "headings": [
+        "Unpleasantness: empirical baselines and the missing mismatch measurement",
+        "Result in brief",
+        "1. What is established already",
+        "2. What was done",
+        "3. Within-person condition differences",
+        "4. A reproducible source consistency check",
+        "5. The identification gate for the framework"
+      ],
+      "local_links": [
+        "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
+        "verification/paingen_unpleasantness_baselines.py",
+        "verification/paingen_unpleasantness_baselines.json",
+        "verification/paingen_source_crosscheck.py",
+        "verification/paingen_source_crosscheck.json",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        74
+      ]
+    },
+    {
+      "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
+      "sha256": "35c0d1a3bfd18e59dd7ff5edf9f13ac842557b9a094ad656f6e8edb1a2622e15",
+      "bytes": 7112,
+      "lines": 44,
+      "title": "Pain unpleasantness: fixed secondary-analysis plan",
+      "headings": [
+        "Pain unpleasantness: fixed secondary-analysis plan",
+        "Purpose and scope",
+        "Fixed inputs and protection of participants",
+        "Fixed prediction plan",
+        "Within-person placebo contrasts",
+        "Intended interpretation and stopping rules"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        13,
+        17,
+        39
       ]
     },
     {

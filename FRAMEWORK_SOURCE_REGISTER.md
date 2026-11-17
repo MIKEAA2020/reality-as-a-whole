@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 300 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 253 verification Python scripts.
+- 302 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 255 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -165,6 +165,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md](OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md) — OPH unification: source-chain and falsifiability audit
 - [ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md](ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md) — A concrete orientation-experience test: what existing TMS evidence can and cannot decide
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
+- [PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md](PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md) — Unpleasantness: empirical baselines and the missing mismatch measurement
+- [PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md](PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md) — Pain unpleasantness: fixed secondary-analysis plan
 - [PERSPECTIVAL_FINITUDE.md](PERSPECTIVAL_FINITUDE.md) — Perspectival finitude: why finite observers see limited information
 - [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) — Phenomenal Constitution: Russellian Identity × Global Workspace from the Type-III₁ Algebra
 - [PHENOMENAL_IDENTITY_THESIS.md](PHENOMENAL_IDENTITY_THESIS.md) — Russellian identity thesis: experience as the intrinsic being of modular events
@@ -511,6 +513,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/oph_unification_koide_gate.py](verification/oph_unification_koide_gate.py)
 - [verification/orientation_visibility_contrast.py](verification/orientation_visibility_contrast.py)
 - [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
+- [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
+- [verification/paingen_unpleasantness_baselines.py](verification/paingen_unpleasantness_baselines.py)
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
 - [verification/perspective_access_from_circuit.py](verification/perspective_access_from_circuit.py)
 - [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5016f3ac49311db27085adadda7949c55b3d5903",
-  "file_count": 1121,
+  "base_head": "3c8e32235b0ededf7d9e40b5c323095f8456de28",
+  "file_count": 1127,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 78011,
-      "sha256": "7af449ee090507581128bc3773fdd3a14972bceae1abda8c2b52f93c8175a4ce"
+      "bytes": 78541,
+      "sha256": "d4ff551524b649d4b3ecf6c67939155a1ad3551095d7983caa2efb4f0f5a6430"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -782,6 +782,16 @@
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
       "bytes": 6329,
       "sha256": "05254bf0e79349e1cbb75a6b048bf053014331eb2d9bda05274696f294131ea1"
+    },
+    {
+      "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+      "bytes": 12723,
+      "sha256": "f8e90af06849143a0a8535139b448cbdcb514e2268dd1d378da40610def83b85"
+    },
+    {
+      "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
+      "bytes": 7112,
+      "sha256": "35c0d1a3bfd18e59dd7ff5edf9f13ac842557b9a094ad656f6e8edb1a2622e15"
     },
     {
       "path": "PERSPECTIVAL_FINITUDE.md",
@@ -4099,6 +4109,26 @@
       "sha256": "92dae1f465bc1018fd2102776925c78ffb022853f2ad9d09e90dfa6eb19f51e5"
     },
     {
+      "path": "verification/paingen_source_crosscheck.json",
+      "bytes": 765,
+      "sha256": "0f4d6dff54c44fdc23d44696b3cbd6fef83343d3110194bc28bdd6b3a2b1944a"
+    },
+    {
+      "path": "verification/paingen_source_crosscheck.py",
+      "bytes": 3800,
+      "sha256": "a4f277067d13d28b9ed9d30b19b513f0caa9181a55c47bcd1f4ac8b8b6e95b82"
+    },
+    {
+      "path": "verification/paingen_unpleasantness_baselines.json",
+      "bytes": 8246,
+      "sha256": "c55d6d3f5afc0f97cad95d0f5d72f4053799c2defbabaaf66759d0623f45e9b9"
+    },
+    {
+      "path": "verification/paingen_unpleasantness_baselines.py",
+      "bytes": 8293,
+      "sha256": "ae831fef60818e574ecc1572a130ac9243395d57485f89a4edebbcd86845e4c8"
+    },
+    {
       "path": "verification/perspectival_finitude.json",
       "bytes": 814,
       "sha256": "30f6aca613bc56d9d9284278ffba04ac698da1aef97b5f2c9bd50131b9a08aec"
@@ -4210,8 +4240,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 436634,
-      "sha256": "6cadf02d1f190023bd4715414f1ca3a17b299f1ed3493ff071e7381e132d4f1c"
+      "bytes": 438472,
+      "sha256": "62b668b20fa498ebee1d4e90e05b21f9a90589bce07fc4e37f8118f9c982eeb8"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,0 +1,253 @@
+{
+  "status": "completed",
+  "scope": "exploratory published condition means; out-of-family not out-of-study; no measured mismatch, causality of ground, subjective identity or clinical diagnosis",
+  "source": {
+    "url": "https://api.github.com/repos/rotemb9/paingen-placebo-fmri-paper/contents/pain_evoked_brain_measures.csv?ref=da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "sha256": "0eda58e9f8f83ec5294e92c907babfc771c0172ef22706e0be52c7182dbe8f56",
+    "bytes": 3728915
+  },
+  "selection": {
+    "source_rows": 4687,
+    "source_people": 392,
+    "source_families": 243,
+    "incomplete_outcome_or_predictor_rows": 307,
+    "complete_rows": 4380,
+    "complete_people": 376,
+    "complete_families": 237
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "complete_rows": 917,
+      "families": 49
+    },
+    {
+      "fold": 1,
+      "complete_rows": 879,
+      "families": 48
+    },
+    {
+      "fold": 2,
+      "complete_rows": 948,
+      "families": 51
+    },
+    {
+      "fold": 3,
+      "complete_rows": 1025,
+      "families": 55
+    },
+    {
+      "fold": 4,
+      "complete_rows": 611,
+      "families": 34
+    }
+  ],
+  "condition_level_oof": {
+    "condition_only": {
+      "count": 4380,
+      "rmse": 0.1536914068793392,
+      "mae": 0.1130983737988396,
+      "pearson_r": 0.1746860867284808,
+      "mean_observed": 0.12405803337851978,
+      "mean_predicted": 0.12423316189585172,
+      "family_averaged_rmse": 0.15836353595034808,
+      "families": 237,
+      "rmse_difference_vs_condition_only": 0.0
+    },
+    "condition_plus_nps": {
+      "count": 4380,
+      "rmse": 0.15042704763974407,
+      "mae": 0.11050736452369968,
+      "pearson_r": 0.26625805694366267,
+      "mean_observed": 0.12405803337851978,
+      "mean_predicted": 0.12418563012324282,
+      "family_averaged_rmse": 0.15439871531870342,
+      "families": 237,
+      "rmse_difference_vs_condition_only": -0.003264359239595116
+    },
+    "condition_plus_siips": {
+      "count": 4380,
+      "rmse": 0.14582807603888723,
+      "mae": 0.10735604455167341,
+      "pearson_r": 0.3557982238125587,
+      "mean_observed": 0.12405803337851978,
+      "mean_predicted": 0.12423845564046224,
+      "family_averaged_rmse": 0.1496124240122365,
+      "families": 237,
+      "rmse_difference_vs_condition_only": -0.00786333084045196
+    },
+    "condition_plus_both": {
+      "count": 4380,
+      "rmse": 0.14408815970921943,
+      "mae": 0.10602711094116633,
+      "pearson_r": 0.3838009296880461,
+      "mean_observed": 0.12405803337851978,
+      "mean_predicted": 0.1242292641495859,
+      "family_averaged_rmse": 0.14753101726305756,
+      "families": 237,
+      "rmse_difference_vs_condition_only": -0.00960324717011976
+    }
+  },
+  "paired_control_minus_placebo_oof": {
+    "all": {
+      "zero_effect": {
+        "count": 2155,
+        "rmse": 0.1431534054415329,
+        "mae": 0.09005853332849961,
+        "pearson_r": null,
+        "mean_observed": 0.044656790772428456,
+        "mean_predicted": 0.0,
+        "family_averaged_rmse": 0.1436970799420092,
+        "families": 236
+      },
+      "condition_only": {
+        "count": 2155,
+        "rmse": 0.13598241094209879,
+        "mae": 0.09182273901959091,
+        "pearson_r": 0.041694392335013764,
+        "mean_observed": 0.044656790772428456,
+        "mean_predicted": 0.043901079736134704,
+        "family_averaged_rmse": 0.13706110870212326,
+        "families": 236
+      },
+      "condition_plus_nps": {
+        "count": 2155,
+        "rmse": 0.13398755851931252,
+        "mae": 0.09263694596708504,
+        "pearson_r": 0.1932564812181136,
+        "mean_observed": 0.044656790772428456,
+        "mean_predicted": 0.04401329915579968,
+        "family_averaged_rmse": 0.13468574176955206,
+        "families": 236
+      },
+      "condition_plus_siips": {
+        "count": 2155,
+        "rmse": 0.13413873149344724,
+        "mae": 0.09379354863811808,
+        "pearson_r": 0.23672162454451365,
+        "mean_observed": 0.044656790772428456,
+        "mean_predicted": 0.043603588770084745,
+        "family_averaged_rmse": 0.13432051622417324,
+        "families": 236
+      },
+      "condition_plus_both": {
+        "count": 2155,
+        "rmse": 0.13303694606191277,
+        "mae": 0.09403302398612723,
+        "pearson_r": 0.2749748279704743,
+        "mean_observed": 0.044656790772428456,
+        "mean_predicted": 0.04373382067947663,
+        "family_averaged_rmse": 0.13314693603131528,
+        "families": 236
+      }
+    },
+    "thermal": {
+      "zero_effect": {
+        "count": 1080,
+        "rmse": 0.1394498108707491,
+        "mae": 0.09479034047067901,
+        "pearson_r": null,
+        "mean_observed": 0.052578908661265425,
+        "mean_predicted": 0.0,
+        "family_averaged_rmse": 0.13754494847107124,
+        "families": 235
+      },
+      "condition_only": {
+        "count": 1080,
+        "rmse": 0.12929828465659907,
+        "mae": 0.09444509764142005,
+        "pearson_r": 0.0008971779077059822,
+        "mean_observed": 0.052578908661265425,
+        "mean_predicted": 0.05324146043788863,
+        "family_averaged_rmse": 0.12799043444414615,
+        "families": 235
+      },
+      "condition_plus_nps": {
+        "count": 1080,
+        "rmse": 0.12748466406946343,
+        "mae": 0.09438511209217261,
+        "pearson_r": 0.18709192294747767,
+        "mean_observed": 0.052578908661265425,
+        "mean_predicted": 0.05342883953913927,
+        "family_averaged_rmse": 0.1265552687376487,
+        "families": 235
+      },
+      "condition_plus_siips": {
+        "count": 1080,
+        "rmse": 0.1288427999027727,
+        "mae": 0.09397347615581882,
+        "pearson_r": 0.2145858650734068,
+        "mean_observed": 0.052578908661265425,
+        "mean_predicted": 0.05262897943196156,
+        "family_averaged_rmse": 0.1270974953022838,
+        "families": 235
+      },
+      "condition_plus_both": {
+        "count": 1080,
+        "rmse": 0.12773250400593275,
+        "mae": 0.09413152490316393,
+        "pearson_r": 0.25759884603220096,
+        "mean_observed": 0.052578908661265425,
+        "mean_predicted": 0.05286467174115387,
+        "family_averaged_rmse": 0.12635596393517776,
+        "families": 235
+      }
+    },
+    "mechanical": {
+      "zero_effect": {
+        "count": 1075,
+        "rmse": 0.1467801531411529,
+        "mae": 0.08530471778100775,
+        "pearson_r": null,
+        "mean_observed": 0.036697825823643414,
+        "mean_predicted": 0.0,
+        "family_averaged_rmse": 0.15030382311926457,
+        "families": 235
+      },
+      "condition_only": {
+        "count": 1075,
+        "rmse": 0.1423819969550424,
+        "mae": 0.08918818338091605,
+        "pearson_r": -0.06144358421005284,
+        "mean_observed": 0.036697825823643414,
+        "mean_predicted": 0.03451725540320983,
+        "family_averaged_rmse": 0.14668276057842528,
+        "families": 235
+      },
+      "condition_plus_nps": {
+        "count": 1075,
+        "rmse": 0.1402173334409286,
+        "mae": 0.09088064883676453,
+        "pearson_r": 0.1831023608854969,
+        "mean_observed": 0.036697825823643414,
+        "mean_predicted": 0.034553965561374786,
+        "family_averaged_rmse": 0.1432452851316865,
+        "families": 235
+      },
+      "condition_plus_siips": {
+        "count": 1075,
+        "rmse": 0.13925663111946177,
+        "mae": 0.09361278424824195,
+        "pearson_r": 0.24535816782989683,
+        "mean_observed": 0.036697825823643414,
+        "mean_predicted": 0.0345362195469899,
+        "family_averaged_rmse": 0.14203842510306308,
+        "families": 235
+      },
+      "condition_plus_both": {
+        "count": 1075,
+        "rmse": 0.13816113459719936,
+        "mae": 0.09393406492529036,
+        "pearson_r": 0.28096170326174363,
+        "mean_observed": 0.036697825823643414,
+        "mean_predicted": 0.03456050054309391,
+        "family_averaged_rmse": 0.14035724911628653,
+        "families": 235
+      }
+    }
+  },
+  "unit_note": "Yunp source-file scale as supplied, not independently calibrated or a pain measurement unit",
+  "protocol": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
+  "privacy": "No participant identifiers, demographics, or participant-level results are stored here."
+}
