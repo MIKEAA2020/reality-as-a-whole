@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d1c0bed553ea894845167628ace65f0e9ae443f4",
-  "file_count": 1133,
+  "base_head": "60f9916abb2e450f7a5e240dd7bc8ce452bd4322",
+  "file_count": 1136,
   "files": [
     {
       "path": ".gitattributes",
@@ -314,6 +314,11 @@
       "sha256": "307762f77aa1d457aef862b32542beb43f4325d99f5e02d13e71db5389581ea7"
     },
     {
+      "path": "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
+      "bytes": 12821,
+      "sha256": "f1fd98083cb35dc92646d1a423491221a188ee3cd64d3401c4518031dc4e102e"
+    },
+    {
       "path": "EXPANDING_BEC_DATA_FEASIBILITY.md",
       "bytes": 10942,
       "sha256": "6be1ac169b48476756b11723a3498ef4b90d0f937a2841a3a047652190bfa5ab"
@@ -445,8 +450,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 79069,
-      "sha256": "a3cd16d5b9814c764b07a1c7aec7752baaf4e3ff9669b99359edf8a6e7b0568e"
+      "bytes": 79344,
+      "sha256": "a8b5cb7bbb7069e6777d6ed7959fa178c8b106d7639e802de17c286bce2dc88c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -700,8 +705,8 @@
     },
     {
       "path": "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
-      "bytes": 13335,
-      "sha256": "cea729c9159653d400407b789274ee2247d5578fe44e0bc3f04abaed2a41bffc"
+      "bytes": 13541,
+      "sha256": "030e2d2dcae4e67e492c87889c2b698bced2b1b193b8b276102b61b707e3f14a"
     },
     {
       "path": "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
@@ -3349,6 +3354,16 @@
       "sha256": "fcde1b4ea10b726542140f044257ea6c032dfa369406a2e68af1323ea01bddfc"
     },
     {
+      "path": "verification/equilibrium_mismatch_coarse_graining.json",
+      "bytes": 1865,
+      "sha256": "b1ceabc7dd46eb35534c61c39c128cb4e6612391afa45d21abb06765be5ad827"
+    },
+    {
+      "path": "verification/equilibrium_mismatch_coarse_graining.py",
+      "bytes": 6420,
+      "sha256": "592dceb65f4581b7929974efd360cc6dd2b350cd06c7eb7f63c6d978fc64414f"
+    },
+    {
       "path": "verification/experience_collapse_identifiability.json",
       "bytes": 1251,
       "sha256": "33e54661946c88f686e1ce9373dde6686686d9fdf224d5fefc81a1a895af537b"
@@ -4260,8 +4275,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 441073,
-      "sha256": "0bd77b1113c621e9d1aabaa2cd324cb2bf4baad945a94aa57c54818021997cea"
+      "bytes": 442274,
+      "sha256": "241ddd079530915c5ca68a14352d1f59331b3156ef7dc4d0471ac4d6b3ccb960"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 347,
-  "bytes": 4684138,
-  "line_count": 50143,
-  "document_count_with_risk_phrases": 321,
+  "document_count": 348,
+  "bytes": 4697415,
+  "line_count": 50246,
+  "document_count_with_risk_phrases": 322,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2234,6 +2234,35 @@
       ]
     },
     {
+      "path": "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
+      "sha256": "f1fd98083cb35dc92646d1a423491221a188ee3cd64d3401c4518031dc4e102e",
+      "bytes": 12821,
+      "lines": 101,
+      "title": "Can equilibrium statistics reveal experiential mismatch?",
+      "headings": [
+        "Can equilibrium statistics reveal experiential mismatch?",
+        "Result",
+        "1. The conditional positive result",
+        "2. Exact hidden-state counterexample",
+        "3. Stationarity is not detailed balance",
+        "4. What this means for substrate independence and the whole",
+        "Reproduction"
+      ],
+      "local_links": [
+        "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
+        "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
+        "verification/equilibrium_mismatch_coarse_graining.py",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+        "verification/equilibrium_mismatch_coarse_graining.json"
+      ],
+      "risk_phrase_lines": [
+        25,
+        40,
+        42,
+        101
+      ]
+    },
+    {
       "path": "EXPANDING_BEC_DATA_FEASIBILITY.md",
       "sha256": "6be1ac169b48476756b11723a3498ef4b90d0f937a2841a3a047652190bfa5ab",
       "bytes": 10942,
@@ -3016,9 +3045,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "54cb93082e66a1f2b384d9ce1eebf5be933acd0b81b3e3db58178926b949d872",
-      "bytes": 78819,
-      "lines": 658,
+      "sha256": "a3cd16d5b9814c764b07a1c7aec7752baaf4e3ff9669b99359edf8a6e7b0568e",
+      "bytes": 79069,
+      "lines": 660,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3168,6 +3197,7 @@
         "NECESSARY_EXISTENCE_CLOSED.md",
         "NECESSARY_OCCURRENCE_CANDIDATE.md",
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
+        "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
         "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
@@ -3508,6 +3538,7 @@
         "verification/necessary_existence_closed.py",
         "verification/necessary_plenitude_simulation_model.py",
         "verification/necessity_nonempty_modal_audit.py",
+        "verification/net_work_mismatch_gate.py",
         "verification/nonstatic_spherical_causality.py",
         "verification/nonstatic_spherical_midisuperspace.py",
         "verification/operational_accumulator.py",
@@ -3667,16 +3698,16 @@
         36,
         43,
         147,
-        182,
-        194,
-        232,
-        294,
-        307,
-        343,
-        352,
-        355,
-        358,
-        390
+        183,
+        195,
+        233,
+        295,
+        308,
+        344,
+        353,
+        356,
+        359,
+        391
       ]
     },
     {
@@ -5411,8 +5442,8 @@
     },
     {
       "path": "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
-      "sha256": "cea729c9159653d400407b789274ee2247d5578fe44e0bc3f04abaed2a41bffc",
-      "bytes": 13335,
+      "sha256": "030e2d2dcae4e67e492c87889c2b698bced2b1b193b8b276102b61b707e3f14a",
+      "bytes": 13541,
       "lines": 114,
       "title": "Can total response identify state mismatch without resolving every channel?",
       "headings": [
@@ -5428,6 +5459,7 @@
       "local_links": [
         "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
         "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
         "verification/net_work_mismatch_gate.json"
       ],

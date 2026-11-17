@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 304 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 257 verification Python scripts.
+- 305 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 258 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -73,6 +73,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ENERGY_CONDITIONS_BOUNCE.md](ENERGY_CONDITIONS_BOUNCE.md) — Energy conditions across the polymer bounce
 - [ENERGY_EXCHANGE_CLOCK.md](ENERGY_EXCHANGE_CLOCK.md) — An energy-exchanging physical clock: complete instrument and coherence budget
 - [EPISODE_INCIDENCE_REFORMULATION.md](EPISODE_INCIDENCE_REFORMULATION.md) — Reformulating composition: incidence, temporal extent, and persistence
+- [EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md](EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md) — Can equilibrium statistics reveal experiential mismatch?
 - [EXPANDING_BEC_DATA_FEASIBILITY.md](EXPANDING_BEC_DATA_FEASIBILITY.md) — Expanding-BEC clock comparison: public-data feasibility audit
 - [EXPANDING_BEC_HELDOUT_RESULTS.md](EXPANDING_BEC_HELDOUT_RESULTS.md) — Exploratory held-out ramp prediction
 - [EXPANDING_BEC_HOLDOUT_PLAN.md](EXPANDING_BEC_HOLDOUT_PLAN.md) — Preregistered-in-workspace exploratory ramp-holdout plan
@@ -438,6 +439,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_conditions_bounce.py](verification/energy_conditions_bounce.py)
 - [verification/energy_constrained_instrument_bound.py](verification/energy_constrained_instrument_bound.py)
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
+- [verification/equilibrium_mismatch_coarse_graining.py](verification/equilibrium_mismatch_coarse_graining.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)

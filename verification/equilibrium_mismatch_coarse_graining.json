@@ -1,0 +1,87 @@
+{
+  "status": "completed",
+  "scope": "exact finite stationary-and-intervention toy models; not neural data, empirical outcome, or subject/experience inference",
+  "temperature_energy_units": 1,
+  "macro_probability": [
+    "1/2",
+    "1/3",
+    "1/6"
+  ],
+  "baseline_micro_multiplicities_model_A": [
+    1,
+    1,
+    1
+  ],
+  "baseline_micro_multiplicities_model_B": [
+    3,
+    2,
+    1
+  ],
+  "micro_excess_by_macro_model_A": [
+    0.0,
+    0.4054651081081644,
+    1.0986122886681098
+  ],
+  "micro_excess_by_macro_model_B": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "coarse_effective_free_energy_excess": [
+    0.0,
+    0.4054651081081644,
+    1.0986122886681098
+  ],
+  "interval_example": {
+    "each_probability_error": 0.01,
+    "index": 2,
+    "temperature": 1,
+    "lower": 1.0201406732266145,
+    "upper": 1.180290319682377
+  },
+  "random_interval_containment_checks": 15000,
+  "random_seed": 270319,
+  "controls_tested": 27,
+  "adaptive_policies_tested": 27,
+  "four_visible_state_paths_per_policy": 81,
+  "total_adaptive_paths_compared": 2187,
+  "detailed_balance_at_each_fixed_control": true,
+  "all_checked_paths_equal": true,
+  "reversible_stationary_flow": [
+    [
+      "5/12",
+      "1/24",
+      "1/24"
+    ],
+    [
+      "1/24",
+      "1/4",
+      "1/24"
+    ],
+    [
+      "1/24",
+      "1/24",
+      "1/12"
+    ]
+  ],
+  "nonreversible_stationary_flow": [
+    [
+      "5/12",
+      "1/16",
+      "1/48"
+    ],
+    [
+      "1/48",
+      "1/4",
+      "1/16"
+    ],
+    [
+      "1/16",
+      "1/48",
+      "1/12"
+    ]
+  ],
+  "observable_information_entropy_production_nats_per_step": 0.13732653608351372,
+  "entropy_production_expected_ln3_over_8": 0.13732653608351372,
+  "limitations": "Same macro kernels are constructed, not inferred empirically; hidden-sensitive probes or independent subjective measurements can distinguish additional claims."
+}
