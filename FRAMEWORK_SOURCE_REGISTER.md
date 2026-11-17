@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 299 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 252 verification Python scripts.
+- 300 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 253 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -119,6 +119,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INFINITE_RELATIONAL_CLOCK.md](INFINITE_RELATIONAL_CLOCK.md) — An infinite relational clock without a global clock distribution
 - [INFINITE_WINDING_COUNTER.md](INFINITE_WINDING_COUNTER.md) — An infinite turning clock with a correlated cycle counter
 - [INTEGRATED_ACCOUNT.md](INTEGRATED_ACCOUNT.md) — Toward one account accommodating all the frameworks
+- [INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md) — An integrated experiential candidate: first worked sector and rival
 - [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
 - [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
 - [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
@@ -473,6 +474,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/infinite_coherence.py](verification/infinite_coherence.py)
 - [verification/infinite_relational_clock.py](verification/infinite_relational_clock.py)
 - [verification/infinite_winding_clock.py](verification/infinite_winding_clock.py)
+- [verification/integrated_experiential_misalignment_candidate.py](verification/integrated_experiential_misalignment_candidate.py)
 - [verification/integration_overlap.py](verification/integration_overlap.py)
 - [verification/interacting_clock.py](verification/interacting_clock.py)
 - [verification/internal_reference_event.py](verification/internal_reference_event.py)

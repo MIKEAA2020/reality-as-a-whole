@@ -1,0 +1,120 @@
+{
+  "status": "completed",
+  "scope": "specified finite spin and stipulated experiential labels; no observed subject, validated assay, ontology, physics recovery or ground necessity",
+  "formal_settings": {
+    "0": {
+      "local_maximum_subject_sets": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "local_unresolved_candidates": [],
+      "connected_rule_subject_sets": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "joint_physical_mismatch_distribution": {
+        "00": "9/16",
+        "01": "3/16",
+        "10": "3/16",
+        "11": "1/16"
+      },
+      "endpoint_agreement_probability": "1/2"
+    },
+    "1/4": {
+      "local_maximum_subject_sets": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "local_unresolved_candidates": [],
+      "connected_rule_subject_sets": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "joint_physical_mismatch_distribution": {
+        "00": "9/16",
+        "01": "3/16",
+        "10": "3/16",
+        "11": "1/16"
+      },
+      "endpoint_agreement_probability": "17/32"
+    },
+    "1/2": {
+      "local_maximum_subject_sets": [],
+      "local_unresolved_candidates": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "connected_rule_subject_sets": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "joint_physical_mismatch_distribution": {
+        "00": "9/16",
+        "01": "3/16",
+        "10": "3/16",
+        "11": "1/16"
+      },
+      "endpoint_agreement_probability": "9/16"
+    }
+  },
+  "state_relabeling_checks": 1152,
+  "local_sign_encoding_checks": 1536,
+  "identical_stipulated_grounding_copies_clamp_kernels": 243,
+  "note_on_ties": "when L has unresolved ties, pair mismatch variables remain physical observables, not identified subjects",
+  "note_on_clamps": "conditioned equilibrium spin distributions; L after clamping is not defined",
+  "pair_isolated_minimum_frustration": 0,
+  "physical_observable_vs_experience": "same numeric mismatch distribution is not an independent phenomenal assay",
+  "grounding_underdetermination": "experiential and neutral versions are given identical physical and stipulated phenomenal kernel by construction; no general impossibility claim"
+}
