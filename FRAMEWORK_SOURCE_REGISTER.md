@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 305 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 258 verification Python scripts.
+- 307 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 260 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -27,6 +27,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions
 - [BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md) — Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates
+- [CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md](CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md) — Cardiac-feedback pain data: fixed exploratory comparison
+- [CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md](CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md) — Feedback direction, unpleasantness, and the mismatch proposal
 - [CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md) — From coupled dynamics to candidate subject boundaries
 - [CAUSAL_RECORD_LINEAGE.md](CAUSAL_RECORD_LINEAGE.md) — From supplied identity markers to derived causal transport
 - [CHAIN_COMPLETE.md](CHAIN_COMPLETE.md) — The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
@@ -408,6 +410,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/bowling_pairwise_transfer_audit.py](verification/bowling_pairwise_transfer_audit.py)
 - [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)
 - [verification/build_framework_inventory.py](verification/build_framework_inventory.py)
+- [verification/cardiac_feedback_pain_predictions.py](verification/cardiac_feedback_pain_predictions.py)
+- [verification/cardiac_pain_xml_crosscheck.py](verification/cardiac_pain_xml_crosscheck.py)
 - [verification/causal_influence_subject_gate.py](verification/causal_influence_subject_gate.py)
 - [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)

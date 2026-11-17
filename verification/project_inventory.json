@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 348,
-  "bytes": 4697415,
-  "line_count": 50246,
-  "document_count_with_risk_phrases": 322,
+  "document_count": 350,
+  "bytes": 4716419,
+  "line_count": 50358,
+  "document_count_with_risk_phrases": 324,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -533,6 +533,54 @@
         69,
         85,
         103
+      ]
+    },
+    {
+      "path": "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
+      "sha256": "d510a8497acae651b6fff2a8067788c3e440b5f4bc0e5aa0fe183ffc238a018a",
+      "bytes": 7105,
+      "lines": 41,
+      "title": "Cardiac-feedback pain data: fixed exploratory comparison",
+      "headings": [
+        "Cardiac-feedback pain data: fixed exploratory comparison",
+        "Question and nonclaims",
+        "Data and access",
+        "Fixed held-out comparison",
+        "Predeclared descriptive contrasts",
+        "Stop / interpretation"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        13
+      ]
+    },
+    {
+      "path": "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
+      "sha256": "fdbb64904731fa2503bf41376e10cae9d5e595c35fa06053fd8a03e7dd105735",
+      "bytes": 11396,
+      "lines": 69,
+      "title": "Feedback direction, unpleasantness, and the mismatch proposal",
+      "headings": [
+        "Feedback direction, unpleasantness, and the mismatch proposal",
+        "Decision",
+        "1. The real experiment and what it measured",
+        "2. The independent analysis plan",
+        "3. Held-out prediction",
+        "4. Balanced within-person descriptions",
+        "5. Consequence for the experiential framework",
+        "Reproduction"
+      ],
+      "local_links": [
+        "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
+        "verification/cardiac_pain_xml_crosscheck.json",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+        "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
+        "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
+        "verification/cardiac_feedback_pain_predictions.json"
+      ],
+      "risk_phrase_lines": [
+        65
       ]
     },
     {
@@ -3045,9 +3093,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a3cd16d5b9814c764b07a1c7aec7752baaf4e3ff9669b99359edf8a6e7b0568e",
-      "bytes": 79069,
-      "lines": 660,
+      "sha256": "a8b5cb7bbb7069e6777d6ed7959fa178c8b106d7639e802de17c286bce2dc88c",
+      "bytes": 79344,
+      "lines": 662,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3122,6 +3170,7 @@
         "ENERGY_CONDITIONS_BOUNCE.md",
         "ENERGY_EXCHANGE_CLOCK.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
+        "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
         "EXPANDING_BEC_DATA_FEASIBILITY.md",
         "EXPANDING_BEC_HELDOUT_RESULTS.md",
         "EXPANDING_BEC_HOLDOUT_PLAN.md",
@@ -3473,6 +3522,7 @@
         "verification/energy_conditions_bounce.py",
         "verification/energy_constrained_instrument_bound.py",
         "verification/energy_exchange_clock.py",
+        "verification/equilibrium_mismatch_coarse_graining.py",
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
         "verification/experiential_grounding_rival_gate.py",
@@ -3697,17 +3747,17 @@
         32,
         36,
         43,
-        147,
-        183,
-        195,
-        233,
-        295,
-        308,
-        344,
-        353,
-        356,
-        359,
-        391
+        148,
+        184,
+        196,
+        234,
+        296,
+        309,
+        345,
+        354,
+        357,
+        360,
+        392
       ]
     },
     {
@@ -5994,8 +6044,8 @@
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "sha256": "f8e90af06849143a0a8535139b448cbdcb514e2268dd1d378da40610def83b85",
-      "bytes": 12723,
+      "sha256": "19060800724f312787641bf90d70a0715bbfd34756f4bac65a625f0d1dd9447c",
+      "bytes": 12951,
       "lines": 74,
       "title": "Unpleasantness: empirical baselines and the missing mismatch measurement",
       "headings": [
@@ -6008,6 +6058,7 @@
         "5. The identification gate for the framework"
       ],
       "local_links": [
+        "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/paingen_unpleasantness_baselines.json",

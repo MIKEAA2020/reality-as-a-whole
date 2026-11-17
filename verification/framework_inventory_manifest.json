@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "60f9916abb2e450f7a5e240dd7bc8ce452bd4322",
-  "file_count": 1136,
+  "base_head": "f81df07d5cfbda6d909510dbfa591b3d04d78d32",
+  "file_count": 1143,
   "files": [
     {
       "path": ".gitattributes",
@@ -82,6 +82,16 @@
       "path": "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
       "bytes": 13426,
       "sha256": "4aad2307c40651bcc95644aab786cd8fef53078fbb116f2cb4c9c29275e2d60f"
+    },
+    {
+      "path": "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
+      "bytes": 7105,
+      "sha256": "d510a8497acae651b6fff2a8067788c3e440b5f4bc0e5aa0fe183ffc238a018a"
+    },
+    {
+      "path": "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
+      "bytes": 11396,
+      "sha256": "fdbb64904731fa2503bf41376e10cae9d5e595c35fa06053fd8a03e7dd105735"
     },
     {
       "path": "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
@@ -450,8 +460,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 79344,
-      "sha256": "a8b5cb7bbb7069e6777d6ed7959fa178c8b106d7639e802de17c286bce2dc88c"
+      "bytes": 79869,
+      "sha256": "c0b0ad6cc7c2e4e65bbc8d17b8982608541fca867f53f5005e5d56b91f0bc9ad"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -795,8 +805,8 @@
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "bytes": 12723,
-      "sha256": "f8e90af06849143a0a8535139b448cbdcb514e2268dd1d378da40610def83b85"
+      "bytes": 12951,
+      "sha256": "19060800724f312787641bf90d70a0715bbfd34756f4bac65a625f0d1dd9447c"
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
@@ -3044,6 +3054,26 @@
       "sha256": "d055a94510604bcda88c0d61ce5be2cb9068e0f2f8fb2991683b7e5636e17093"
     },
     {
+      "path": "verification/cardiac_feedback_pain_predictions.json",
+      "bytes": 6967,
+      "sha256": "34c40f82198dd096ea4c500dcf6d3392e4c843ad2c7e8eb560f8eb8e0a4c3cb1"
+    },
+    {
+      "path": "verification/cardiac_feedback_pain_predictions.py",
+      "bytes": 8768,
+      "sha256": "250abe9b751186a6bca646acbf03fefde509a473e2ccf36de36a01eea088e3a7"
+    },
+    {
+      "path": "verification/cardiac_pain_xml_crosscheck.json",
+      "bytes": 631,
+      "sha256": "d7703b017cb733e84804a2db694f936c661701ac028ea7476868bf2e6dcfdc82"
+    },
+    {
+      "path": "verification/cardiac_pain_xml_crosscheck.py",
+      "bytes": 5505,
+      "sha256": "1df85b5690ec42ec045dd9ef9258443e3858375e5329de4529b7eb9c99449efc"
+    },
+    {
       "path": "verification/causal_influence_subject_gate.json",
       "bytes": 3129,
       "sha256": "f620edd0d850484e2cc0f7bd12e07d603a76d510f7adef35b760d7262dba25ad"
@@ -4275,8 +4305,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 442274,
-      "sha256": "241ddd079530915c5ca68a14352d1f59331b3156ef7dc4d0471ac4d6b3ccb960"
+      "bytes": 444240,
+      "sha256": "d2c771c0c4c3f6cba244f6a11ba45736dc43ddd78b8d43045913455efb35a563"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4462,6 +4492,11 @@
       "path": "verification/reported_rivalry_case_audit.py",
       "bytes": 8028,
       "sha256": "88f06865b495d958130652934a060faf3d4d78395151a2707229169f044818c6"
+    },
+    {
+      "path": "verification/requirements-cardiac-pain.txt",
+      "bytes": 29,
+      "sha256": "5179feb2690c0dc5b5f28632abbbddcdb40dd43c1f219166e024769fa124866e"
     },
     {
       "path": "verification/requirements-field-probe.txt",

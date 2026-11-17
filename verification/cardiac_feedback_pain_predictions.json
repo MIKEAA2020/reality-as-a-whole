@@ -1,0 +1,227 @@
+{
+  "status": "completed",
+  "scope": "exploratory participant-held-out reported unpleasantness prediction within published study; assigned labels not measured neural/channel mismatch",
+  "source": {
+    "url": "https://api.github.com/repos/EP171993/painperception/contents/Data_v3%20-%202504.xlsx?ref=c1c8721f0e3d00fefc602ed32b84e24c218c56d3",
+    "commit": "c1c8721f0e3d00fefc602ed32b84e24c218c56d3",
+    "sha256": "c186908c35e4819d2ea094fa339b4a9fc691556b13dc62585d12d09c6041bb02",
+    "bytes": 537743,
+    "sheet": "Data"
+  },
+  "selection": {
+    "source_rows": 1764,
+    "excluded_session_one": 630,
+    "excluded_missing_outcome_or_trial": 0,
+    "feedback_rows": 1134,
+    "participants": 63,
+    "participants_by_experiment": {
+      "Intero": 34,
+      "Extero": 29
+    }
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "rows": 216,
+      "participants": 12,
+      "participants_by_experiment": {
+        "Intero": 6,
+        "Extero": 6
+      }
+    },
+    {
+      "fold": 1,
+      "rows": 324,
+      "participants": 18,
+      "participants_by_experiment": {
+        "Intero": 9,
+        "Extero": 9
+      }
+    },
+    {
+      "fold": 2,
+      "rows": 180,
+      "participants": 10,
+      "participants_by_experiment": {
+        "Intero": 8,
+        "Extero": 2
+      }
+    },
+    {
+      "fold": 3,
+      "rows": 198,
+      "participants": 11,
+      "participants_by_experiment": {
+        "Intero": 5,
+        "Extero": 6
+      }
+    },
+    {
+      "fold": 4,
+      "rows": 216,
+      "participants": 12,
+      "participants_by_experiment": {
+        "Intero": 6,
+        "Extero": 6
+      }
+    }
+  ],
+  "out_of_fold": {
+    "all": {
+      "baseline": {
+        "rows": 1134,
+        "participants": 63,
+        "rmse": 0.8472386672214726,
+        "participant_averaged_rmse": 0.8472386672214727,
+        "mae": 0.6845042201535724,
+        "pearson_r": 0.5002226549069516,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": 0.0
+      },
+      "unsigned_label": {
+        "rows": 1134,
+        "participants": 63,
+        "rmse": 0.8472746023595867,
+        "participant_averaged_rmse": 0.8472746023595867,
+        "mae": 0.683812986442257,
+        "pearson_r": 0.5001891484930094,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": 3.5935138114173704e-05
+      },
+      "signed_label": {
+        "rows": 1134,
+        "participants": 63,
+        "rmse": 0.8464228469626975,
+        "participant_averaged_rmse": 0.8464228469626974,
+        "mae": 0.6837700773535769,
+        "pearson_r": 0.5017089989856374,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.0008158202587750241
+      },
+      "both_labels": {
+        "rows": 1134,
+        "participants": 63,
+        "rmse": 0.8464328176078165,
+        "participant_averaged_rmse": 0.8464328176078165,
+        "mae": 0.6830358335094189,
+        "pearson_r": 0.5017221424616936,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.00080584961365604
+      }
+    },
+    "Intero": {
+      "baseline": {
+        "rows": 612,
+        "participants": 34,
+        "rmse": 0.8540166396457282,
+        "participant_averaged_rmse": 0.8540166396457283,
+        "mae": 0.7004332482425437,
+        "pearson_r": 0.5035974908425269,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": 0.0
+      },
+      "unsigned_label": {
+        "rows": 612,
+        "participants": 34,
+        "rmse": 0.8542101693165813,
+        "participant_averaged_rmse": 0.8542101693165812,
+        "mae": 0.6998422701700815,
+        "pearson_r": 0.5032923859877731,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": 0.0001935296708531764
+      },
+      "signed_label": {
+        "rows": 612,
+        "participants": 34,
+        "rmse": 0.8525700219670792,
+        "participant_averaged_rmse": 0.8525700219670792,
+        "mae": 0.6989352684686395,
+        "pearson_r": 0.5061305857176975,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.0014466176786489537
+      },
+      "both_labels": {
+        "rows": 612,
+        "participants": 34,
+        "rmse": 0.8527118105855308,
+        "participant_averaged_rmse": 0.8527118105855308,
+        "mae": 0.6983224346286508,
+        "pearson_r": 0.5059183268831695,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.0013048290601973545
+      }
+    },
+    "Extero": {
+      "baseline": {
+        "rows": 522,
+        "participants": 29,
+        "rmse": 0.8392223683965867,
+        "participant_averaged_rmse": 0.8392223683965867,
+        "mae": 0.66582880791133,
+        "pearson_r": 0.4963388510688083,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": 0.0
+      },
+      "unsigned_label": {
+        "rows": 522,
+        "participants": 29,
+        "rmse": 0.8390702450815513,
+        "participant_averaged_rmse": 0.8390702450815513,
+        "mae": 0.6650200331061868,
+        "pearson_r": 0.49662232679306256,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.00015212331503544618
+      },
+      "signed_label": {
+        "rows": 522,
+        "participants": 29,
+        "rmse": 0.8391584704861592,
+        "participant_averaged_rmse": 0.8391584704861591,
+        "mae": 0.6659901981152274,
+        "pearson_r": 0.49651571444676534,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -6.38979104274906e-05
+      },
+      "both_labels": {
+        "rows": 522,
+        "participants": 29,
+        "rmse": 0.8390113998356495,
+        "participant_averaged_rmse": 0.8390113998356497,
+        "mae": 0.6651136115075608,
+        "pearson_r": 0.496790126739706,
+        "predictions_outside_1_to_5": 0,
+        "rmse_difference_from_baseline": -0.00021096856093716365
+      }
+    }
+  },
+  "descriptive_balanced_contrasts": {
+    "Intero": {
+      "participants_source": 34,
+      "complete_participants": 34,
+      "excluded_incomplete_participants": 0,
+      "complete_cells": 306,
+      "mean_by_feedback": {
+        "Congruent": 2.985294117647059,
+        "Slower": 2.9852941176470593,
+        "Faster": 3.161764705882353
+      },
+      "mean_faster_minus_slower": 0.1764705882352941,
+      "mean_unsigned_minus_congruent": 0.08823529411764704
+    },
+    "Extero": {
+      "participants_source": 29,
+      "complete_participants": 29,
+      "excluded_incomplete_participants": 0,
+      "complete_cells": 261,
+      "mean_by_feedback": {
+        "Congruent": 3.028735632183908,
+        "Slower": 3.0517241379310347,
+        "Faster": 3.120689655172414
+      },
+      "mean_faster_minus_slower": 0.06896551724137928,
+      "mean_unsigned_minus_congruent": 0.05747126436781609
+    }
+  },
+  "privacy": "Only aggregate results saved; individual identifiers and records are not output.",
+  "protocol": "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md"
+}

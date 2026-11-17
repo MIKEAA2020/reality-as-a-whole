@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "source_sha256": "c186908c35e4819d2ea094fa339b4a9fc691556b13dc62585d12d09c6041bb02",
+  "source_rows": 1764,
+  "groups": {
+    "Intero": {
+      "rows": 612,
+      "participants": 34,
+      "means_and_contrasts_matched": 5
+    },
+    "Extero": {
+      "rows": 522,
+      "participants": 29,
+      "means_and_contrasts_matched": 5
+    }
+  },
+  "aggregate_checks_matched": 10,
+  "scope": "independent XML decoding cross-check of aggregates from the same workbook; not an independent sample or a check of prediction fit",
+  "privacy": "No participant identifiers or participant-level values are stored."
+}
