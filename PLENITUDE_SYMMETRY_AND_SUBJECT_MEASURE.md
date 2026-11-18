@@ -93,7 +93,7 @@ This is not an objection to every fine-graining argument. The two toy refinement
 4. **Foundation gap:** the example stipulates both the formal structure and experiential incidence. It does not explain why the real whole is self-sufficient or intrinsically experiential, or establish `possible ⇔ actual`; the user's point that a self-sufficient whole needs no external cause is respected. The question is why that constitution is true, not what caused a self-sufficient whole.
 5. **Empirical gap:** an actual subject-location measure must connect to finite observations, observer identity and calibrated reports. A predictive or quantum formal result alone does not establish that the whole is one subject, that strings are subjects, or that a given physical mismatch is unpleasant.
 
-This extends, rather than replaces, [the earlier actual-history and measure analysis](RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md): full actual support, measure, invariance, subject incidence and physics are distinct requirements. The substantive framework battery remains open.
+This extends, rather than replaces, [the earlier actual-history and measure analysis](RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md): full actual support, measure, invariance, subject incidence and physics are distinct requirements. A further [subject-measure and observation-selection gate](SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md) shows how different occurrence-normalization rules can yield different observation weights even when physical sector weights are granted. The substantive framework battery remains open.
 
 ## Reproduction
 

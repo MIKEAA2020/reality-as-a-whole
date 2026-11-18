@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "scope": "conditional finite occurrence-weight model only; no physical evidence for duplicate observers, weighting, or phenomenal constitution",
+  "sector1_base_weight": "1/4",
+  "sector1_occurrence_density_ratio": "3",
+  "occurrence_normalized_sector1_weight": "1/2",
+  "sector_normalized_sector1_weight": "1/4",
+  "postselected_povm_failure_weight": "1/2",
+  "non_affinity_witness": {
+    "input_p": "1/4",
+    "postselected_p": "1/2",
+    "endpoint_values": [
+      "0",
+      "1"
+    ]
+  },
+  "refinement_preserving_mass": "2/9",
+  "naive_duplicate_weight": "4/11",
+  "hypothetical_calibration": {
+    "sector0_base": "3/4",
+    "sector0_observed_interval": [
+      "37/50",
+      "19/25"
+    ],
+    "sector1_to_sector0_density_interval": [
+      "18/19",
+      "39/37"
+    ]
+  },
+  "random_rational_bound_and_inversion_checks": 10000,
+  "multi_outcome_density_checks": 125,
+  "seed": 8062026
+}

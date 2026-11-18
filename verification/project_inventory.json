@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 351,
-  "bytes": 4731089,
-  "line_count": 50462,
-  "document_count_with_risk_phrases": 325,
+  "document_count": 352,
+  "bytes": 4745569,
+  "line_count": 50579,
+  "document_count_with_risk_phrases": 326,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3093,9 +3093,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c0b0ad6cc7c2e4e65bbc8d17b8982608541fca867f53f5005e5d56b91f0bc9ad",
-      "bytes": 79869,
-      "lines": 666,
+      "sha256": "6bd56b548e5bc01b6f00610ad6cb6b22ff2d254b47df8e54e9b7586c184486ae",
+      "bytes": 80122,
+      "lines": 668,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3276,6 +3276,7 @@
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
         "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
@@ -3617,6 +3618,7 @@
         "verification/plenitude_dimension.py",
         "verification/plenitude_foundation_symmetry_gates.py",
         "verification/plenitude_identity.py",
+        "verification/plenitude_symmetry_measure_gate.py",
         "verification/plenitude_truthmaker_relevance.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
@@ -3752,16 +3754,16 @@
         38,
         45,
         150,
-        186,
-        198,
-        236,
-        298,
-        311,
-        347,
-        356,
-        359,
-        362,
-        394
+        187,
+        199,
+        237,
+        299,
+        312,
+        348,
+        357,
+        360,
+        363,
+        395
       ]
     },
     {
@@ -6363,8 +6365,8 @@
     },
     {
       "path": "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
-      "sha256": "a4955326ea316df4e86eca05e457f962d9631019803d05534698783e9d464dbe",
-      "bytes": 13915,
+      "sha256": "fcb95ff3a075f997e8b4c2beecf42076a24f6ef0c8ca90ed9ffdf4ed981c5a32",
+      "bytes": 14161,
       "lines": 100,
       "title": "Plenitude, symmetry and the measure of plural perspectives",
       "headings": [
@@ -6380,6 +6382,7 @@
       "local_links": [
         "verification/plenitude_symmetry_measure_gate.py",
         "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
         "verification/plenitude_symmetry_measure_gate.json"
       ],
       "risk_phrase_lines": [
@@ -8712,6 +8715,34 @@
         91,
         95,
         108
+      ]
+    },
+    {
+      "path": "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+      "sha256": "c6c1bc71a6c72fd6b0233c3782e49f4d7c5325aa17c814aaea5663bddbc8a578",
+      "bytes": 13981,
+      "lines": 115,
+      "title": "From quantum weights to plural perspectives: an observation-selection gate",
+      "headings": [
+        "From quantum weights to plural perspectives: an observation-selection gate",
+        "Result",
+        "1. Established work and the project's different question",
+        "2. The finite interface",
+        "3. Concrete counterexample and what it does—and does not—mean",
+        "4. Generalized-measurement consistency check",
+        "5. Quantitative inverse gate",
+        "6. Substrate and redescription requirement"
+      ],
+      "local_links": [
+        "verification/subject_measure_selection_gate.json",
+        "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md"
+      ],
+      "risk_phrase_lines": [
+        35,
+        68,
+        83,
+        101,
+        115
       ]
     },
     {

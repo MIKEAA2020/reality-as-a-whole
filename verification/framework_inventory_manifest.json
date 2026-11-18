@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "04b8d662d91f792607467c916fa4ffa00bfc6584",
-  "file_count": 1146,
+  "base_head": "33e409d08bcd3b5b42f10202b11411f7acad5ce4",
+  "file_count": 1149,
   "files": [
     {
       "path": ".gitattributes",
@@ -460,8 +460,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 80122,
-      "sha256": "6bd56b548e5bc01b6f00610ad6cb6b22ff2d254b47df8e54e9b7586c184486ae"
+      "bytes": 80401,
+      "sha256": "5853bcb81cba8064c5fa1d1d1b49af2f436311b96b4c8c455f08615931f294cb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -855,8 +855,8 @@
     },
     {
       "path": "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
-      "bytes": 13915,
-      "sha256": "a4955326ea316df4e86eca05e457f962d9631019803d05534698783e9d464dbe"
+      "bytes": 14161,
+      "sha256": "fcb95ff3a075f997e8b4c2beecf42076a24f6ef0c8ca90ed9ffdf4ed981c5a32"
     },
     {
       "path": "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
@@ -1212,6 +1212,11 @@
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
       "bytes": 11471,
       "sha256": "5aa359ff936e012e430d51c7d1b4b1e4ee3a1e14f7ad6ffcc3cf23b427796ef4"
+    },
+    {
+      "path": "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+      "bytes": 13981,
+      "sha256": "c6c1bc71a6c72fd6b0233c3782e49f4d7c5325aa17c814aaea5663bddbc8a578"
     },
     {
       "path": "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
@@ -4320,8 +4325,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 445567,
-      "sha256": "e7b1245be55740e5889b61819fe26f1b93004c0811c90dc5b35427938596594f"
+      "bytes": 446739,
+      "sha256": "dba2b6481ca7282bafafea3e8f69cab8e19f162eb5edcdc0ebb8651e854a3226"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5287,6 +5292,16 @@
       "path": "verification/subject_friend_quantum_extensions.py",
       "bytes": 6314,
       "sha256": "ea7ef615b0127291fcce6fd1a61b73aec504d323bf3964b38a37e13851914cab"
+    },
+    {
+      "path": "verification/subject_measure_selection_gate.json",
+      "bytes": 928,
+      "sha256": "e0c21af80dd8b40b5eeb25b3e3ec3b209c6f64dfeb61e3ba5be7c884d8a5ed3d"
+    },
+    {
+      "path": "verification/subject_measure_selection_gate.py",
+      "bytes": 4354,
+      "sha256": "2955a2fe1abd31b13a40e087685bbb6165488e26d4403ebda42df650a5c7f2da"
     },
     {
       "path": "verification/substrate-independence-provenance.json",
