@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 310 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 263 verification Python scripts.
+- 311 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 264 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -89,6 +89,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) — Experiential grounding: a positive candidate and its strongest rival
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
+- [FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md](FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md) — From exact quantum agreement to finite evidence
 - [FINITE_COMPLETION_CLOCK.md](FINITE_COMPLETION_CLOCK.md) — Finite completion, a stopped time record, and controlled future escape
 - [FINITE_REFERENCE_GRAVITY.md](FINITE_REFERENCE_GRAVITY.md) — A finite carrier clock without dust: gravitational spectral matching and completed records
 - [FINITE_REFERENCE_PUMP.md](FINITE_REFERENCE_PUMP.md) — A finite reference pump that transports, rather than erases, old correlations
@@ -451,6 +452,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
+- [verification/finite_agreement_bell_gate.py](verification/finite_agreement_bell_gate.py)
 - [verification/finite_completion_clock.py](verification/finite_completion_clock.py)
 - [verification/finite_reference_gravity.py](verification/finite_reference_gravity.py)
 - [verification/finite_reference_pump.py](verification/finite_reference_pump.py)

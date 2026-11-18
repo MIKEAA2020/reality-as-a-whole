@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 353,
-  "bytes": 4758753,
-  "line_count": 50667,
-  "document_count_with_risk_phrases": 327,
+  "document_count": 354,
+  "bytes": 4771716,
+  "line_count": 50784,
+  "document_count_with_risk_phrases": 328,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2663,6 +2663,51 @@
       ]
     },
     {
+      "path": "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
+      "sha256": "d1c6ec459269c0741472888c82441dee989ead67c7988ef66041e9c8b18a05e4",
+      "bytes": 12492,
+      "lines": 115,
+      "title": "From exact quantum agreement to finite evidence",
+      "headings": [
+        "From exact quantum agreement to finite evidence",
+        "Decision",
+        "1. What must be distinguished",
+        "2. A fixed noisy PR family",
+        "3. A robust, operational Bell boundary",
+        "4. Why zero observed failures are not exact zeros",
+        "5. Consequences for our framework",
+        "Reproduction"
+      ],
+      "local_links": [
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "verification/finite_agreement_bell_gate.py",
+        "verification/requirements-framework-battery.txt",
+        "verification/finite_agreement_bell_gate.json"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        7,
+        13,
+        15,
+        17,
+        37,
+        45,
+        46,
+        48,
+        54,
+        58,
+        89,
+        93,
+        101,
+        103,
+        108,
+        109,
+        115
+      ]
+    },
+    {
       "path": "FINITE_COMPLETION_CLOCK.md",
       "sha256": "2e1282345938c4e0b30337cd7ed6dde120e2172acad0e6297c16721032ed7131",
       "bytes": 18895,
@@ -3093,9 +3138,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5853bcb81cba8064c5fa1d1d1b49af2f436311b96b4c8c455f08615931f294cb",
-      "bytes": 80401,
-      "lines": 670,
+      "sha256": "128dade35391830dfe14cdf5d1be6d0c83f668225155f6481893aec5973a9e8a",
+      "bytes": 80669,
+      "lines": 672,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3285,6 +3330,7 @@
         "PROJECT_COHERENCE_AUDIT.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "README.md",
@@ -3624,6 +3670,7 @@
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
         "verification/qualitative_anchor_check.py",
+        "verification/quantum_agreement_record_gate.py",
         "verification/quantum_relational_field_instrument.py",
         "verification/quantum_static_spherical_clock.py",
         "verification/race_context_and_joint_content_gate.py",
@@ -3757,15 +3804,15 @@
         45,
         150,
         187,
-        199,
-        237,
-        300,
-        313,
-        349,
-        358,
-        361,
-        364,
-        396
+        200,
+        238,
+        301,
+        314,
+        350,
+        359,
+        362,
+        365,
+        397
       ]
     },
     {
@@ -6648,8 +6695,8 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "sha256": "e6b035e46cdd173ff7a9a68b20e862f6245bfa0395a74e0d8330a945de78748d",
-      "bytes": 12650,
+      "sha256": "96c4705d2764ebc9a5b1373e096c5ce1f8a8c9b3d4b2a2820bf4ac299b5f15a9",
+      "bytes": 12853,
       "lines": 86,
       "title": "Quantum agreement, disagreement and plural perspectives",
       "headings": [
@@ -6665,12 +6712,14 @@
         "verification/quantum_agreement_record_gate.py",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+        "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "verification/requirements-framework-battery.txt",
         "verification/quantum_agreement_record_gate.json"
       ],
       "risk_phrase_lines": [
         22,
-        78
+        78,
+        82
       ]
     },
     {

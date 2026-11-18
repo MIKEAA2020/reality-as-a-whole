@@ -1,0 +1,99 @@
+{
+  "status": "completed",
+  "scope": "synthetic binary no-signaling boxes, exact rational recursion and conditional iid confidence calculations; not experimental results",
+  "cases": [
+    {
+      "noise_fraction": "0",
+      "q_A_a0": "0",
+      "q_B_b0": "1",
+      "perfect_target_failure": "0",
+      "first_order_certainty_failure": "0",
+      "q_gap": "1",
+      "exact_common_certainty": true,
+      "approx_fixedpoint_tolerance": "0",
+      "chsh": "4"
+    },
+    {
+      "noise_fraction": "1/10000",
+      "q_A_a0": "1/20000",
+      "q_B_b0": "19999/20000",
+      "perfect_target_failure": "1/20000",
+      "first_order_certainty_failure": "1/20000",
+      "q_gap": "9999/10000",
+      "exact_common_certainty": false,
+      "approx_fixedpoint_tolerance": "1/20000",
+      "chsh": "9999/2500"
+    },
+    {
+      "noise_fraction": "1/5",
+      "q_A_a0": "1/10",
+      "q_B_b0": "9/10",
+      "perfect_target_failure": "1/10",
+      "first_order_certainty_failure": "1/10",
+      "q_gap": "4/5",
+      "exact_common_certainty": false,
+      "approx_fixedpoint_tolerance": "1/10",
+      "chsh": "16/5"
+    },
+    {
+      "noise_fraction": "1/2",
+      "q_A_a0": "1/4",
+      "q_B_b0": "3/4",
+      "perfect_target_failure": "1/4",
+      "first_order_certainty_failure": "1/4",
+      "q_gap": "1/2",
+      "exact_common_certainty": false,
+      "approx_fixedpoint_tolerance": "1/4",
+      "chsh": "2"
+    },
+    {
+      "noise_fraction": "9/10",
+      "q_A_a0": "9/20",
+      "q_B_b0": "11/20",
+      "perfect_target_failure": "9/20",
+      "first_order_certainty_failure": "9/20",
+      "q_gap": "1/10",
+      "exact_common_certainty": false,
+      "approx_fixedpoint_tolerance": "9/20",
+      "chsh": "2/5"
+    }
+  ],
+  "quantum_constructed_visibility_controls": [
+    {
+      "visibility": 0.0,
+      "loss_per_setting": 0.5,
+      "chsh": 0.0,
+      "min_state_eigenvalue": 0.25
+    },
+    {
+      "visibility": 0.4,
+      "loss_per_setting": 0.30000000000000004,
+      "chsh": 1.6,
+      "min_state_eigenvalue": 0.10857864376269043
+    },
+    {
+      "visibility": 0.7071067811865475,
+      "loss_per_setting": 0.14644660940672632,
+      "chsh": 2.82842712474619,
+      "min_state_eigenvalue": 0.0
+    }
+  ],
+  "white_noise_threshold_beyond_quantum": 0.29289321881345254,
+  "zero_count_illustration": {
+    "trials_per_two_checked_contexts": 1000,
+    "noise_fraction": 0.0001,
+    "probability_zero_failures_in_both_contexts": 0.9048351558698463,
+    "one_sided_95pct_upper_per_context": 0.0029912495450953314
+  },
+  "hypothetical_bell_test": {
+    "settings": 4,
+    "fixed_trials_per_setting": 10000,
+    "losses_per_setting": 1000,
+    "confidence_familywise": 0.95,
+    "iid_one_sided_hoeffding_radius": 0.014802071873007984,
+    "sum_loss_upper": 0.45920828749203196,
+    "chsh_lower": 3.081583425015936,
+    "tsirelson_bound": 2.8284271247461903
+  },
+  "assumptions": "fixed preselected settings, all trials reported, iid within each setting; significance does not establish exact common certainty or conscious subjects"
+}
