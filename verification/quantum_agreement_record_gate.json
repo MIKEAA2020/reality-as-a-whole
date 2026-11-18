@@ -1,0 +1,234 @@
+{
+  "status": "completed",
+  "scope": "finite matrix verification of one published model and a partial-record extension; not general proof or phenomenal evidence",
+  "preprint": "https://arxiv.org/html/2511.21258v3",
+  "system_dimensions": [
+    3,
+    2,
+    2,
+    2
+  ],
+  "models_checked": 15,
+  "results": [
+    {
+      "t": 0.0,
+      "record_overlap": [
+        0.0,
+        0.0
+      ],
+      "record_distinguishability": 1.0,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.0,
+      "record_overlap": [
+        0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.0,
+      "record_overlap": [
+        1.0,
+        0.0
+      ],
+      "record_distinguishability": 0.0,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.0,
+      "record_overlap": [
+        0.0,
+        0.6
+      ],
+      "record_distinguishability": 0.8,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.0,
+      "record_overlap": [
+        -0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.5,
+      "record_overlap": [
+        0.0,
+        0.0
+      ],
+      "record_distinguishability": 1.0,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.5,
+      "record_overlap": [
+        0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.416666666667,
+      "gap": 0.083333333333,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.5,
+      "record_overlap": [
+        1.0,
+        0.0
+      ],
+      "record_distinguishability": 0.0,
+      "alice": 0.333333333333,
+      "bob": 0.5,
+      "gap": 0.166666666667,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.5,
+      "record_overlap": [
+        0.0,
+        0.6
+      ],
+      "record_distinguishability": 0.8,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 0.5,
+      "record_overlap": [
+        -0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.25,
+      "gap": 0.083333333333,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 1.0,
+      "record_overlap": [
+        0.0,
+        0.0
+      ],
+      "record_distinguishability": 1.0,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 1.0,
+      "record_overlap": [
+        0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.5,
+      "gap": 0.166666666667,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 1.0,
+      "record_overlap": [
+        1.0,
+        0.0
+      ],
+      "record_distinguishability": 0.0,
+      "alice": 0.333333333333,
+      "bob": 0.666666666667,
+      "gap": 0.333333333333,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 1.0,
+      "record_overlap": [
+        0.0,
+        0.6
+      ],
+      "record_distinguishability": 0.8,
+      "alice": 0.333333333333,
+      "bob": 0.333333333333,
+      "gap": 0.0,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    },
+    {
+      "t": 1.0,
+      "record_overlap": [
+        -0.5,
+        0.0
+      ],
+      "record_distinguishability": 0.866025403784,
+      "alice": 0.333333333333,
+      "bob": 0.166666666667,
+      "gap": 0.166666666667,
+      "common_certainty_weight": 1.0,
+      "certainty_steps_to_fixed_point": 1,
+      "bob_after_alice_dephasing": 0.333333333333
+    }
+  ],
+  "assumptions": "equal branch weights, pure normalized record tags, no access to record in the given local update, fixed event and Lueders projectors",
+  "verified_operators": [
+    "positivity and trace",
+    "projective event",
+    "measurement commutators",
+    "positive-outcome conditional estimates",
+    "stabilized common-certainty operators",
+    "record overlap/trace distance",
+    "dephasing and local Bob marginal"
+  ]
+}

@@ -6,7 +6,7 @@ The previous [two-subject selector](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) st
 
 In an exact five-qubit model, two reports can agree **100% of the time** while each agrees with the friend record only **64% of the time**. Their errors are the same error, copied from a common source. In that same model, the probability of the interference result `X=+` after reversing the friend memories, while leaving the two reports outside the reversal, is **98%**.
 
-This does not realize the earlier selector's *perfect* subject–record agreement at perfect interference. Rather, it demonstrates why **intersubjective-looking agreement, faithful correlation with the target, and recoverable interference are three separate constraints**. The registers are not conscious subjects. No claim is made that an experience must generate an external report.
+This does not realize the earlier selector's *perfect* subject–record agreement at perfect interference. Rather, it demonstrates why **intersubjective-looking agreement, faithful correlation with the target, and recoverable interference are three separate constraints**. The registers are not conscious subjects. No claim is made that an experience must generate an external report. A later [quantum agreement and partial-record analysis](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) addresses a different question: when two formal probability assessments agree or disagree under specified Lüders updates and record conditions.
 
 ## Prior work and what is new here
 

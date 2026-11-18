@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 352,
-  "bytes": 4745569,
-  "line_count": 50579,
-  "document_count_with_risk_phrases": 326,
+  "document_count": 353,
+  "bytes": 4758753,
+  "line_count": 50667,
+  "document_count_with_risk_phrases": 327,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3093,9 +3093,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6bd56b548e5bc01b6f00610ad6cb6b22ff2d254b47df8e54e9b7586c184486ae",
-      "bytes": 80122,
-      "lines": 668,
+      "sha256": "5853bcb81cba8064c5fa1d1d1b49af2f436311b96b4c8c455f08615931f294cb",
+      "bytes": 80401,
+      "lines": 670,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3348,6 +3348,7 @@
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
@@ -3701,6 +3702,7 @@
         "verification/subject_context_substrate_gate.py",
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
+        "verification/subject_measure_selection_gate.py",
         "verification/substrate_self_existent_interface.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/target_symmetric_support_robustness.py",
@@ -3757,13 +3759,13 @@
         187,
         199,
         237,
-        299,
-        312,
-        348,
-        357,
-        360,
-        363,
-        395
+        300,
+        313,
+        349,
+        358,
+        361,
+        364,
+        396
       ]
     },
     {
@@ -6642,6 +6644,33 @@
         106,
         122,
         126
+      ]
+    },
+    {
+      "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+      "sha256": "e6b035e46cdd173ff7a9a68b20e862f6245bfa0395a74e0d8330a945de78748d",
+      "bytes": 12650,
+      "lines": 86,
+      "title": "Quantum agreement, disagreement and plural perspectives",
+      "headings": [
+        "Quantum agreement, disagreement and plural perspectives",
+        "Answer to the two links",
+        "1. What “common certainty” actually means",
+        "2. The authors' explicit example",
+        "3. A partial-record extension and a quantitative gate",
+        "4. What this changes for the whole-account",
+        "Reproduction and sources"
+      ],
+      "local_links": [
+        "verification/quantum_agreement_record_gate.py",
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+        "verification/requirements-framework-battery.txt",
+        "verification/quantum_agreement_record_gate.json"
+      ],
+      "risk_phrase_lines": [
+        22,
+        78
       ]
     },
     {
@@ -9791,8 +9820,8 @@
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
-      "sha256": "bd3190de1fde9ff3ce6472e77f12781fa719db281b91e58ccb02f312f183299c",
-      "bytes": 12138,
+      "sha256": "a4ed778591284e6898d4024b18630319f7b6d4c4445eee5ed49a86bc21ea335c",
+      "bytes": 12393,
       "lines": 123,
       "title": "Two reports: agreement, accuracy and reversible records",
       "headings": [
@@ -9807,6 +9836,7 @@
       ],
       "local_links": [
         "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "verification/shared_vs_independent_reports.py",
