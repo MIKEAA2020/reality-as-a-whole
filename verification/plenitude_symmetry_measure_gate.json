@@ -1,0 +1,45 @@
+{
+  "status": "completed",
+  "scope": "finite mathematics and stipulated toy measures; not subject discovery or derivation of Born probabilities",
+  "type_weight_options": [
+    "1/4",
+    "3/4"
+  ],
+  "finite_coordinate_flip_checks": 349520,
+  "max_finite_prefix_length": 8,
+  "type_swap_forces_equal_type_weight": true,
+  "p_and_q": [
+    "3/4",
+    "1/4"
+  ],
+  "total_variation_for_n": {
+    "1": "1/2",
+    "4": "11/16",
+    "8": "1759/2048",
+    "20": "33747909673/34359738368"
+  },
+  "finite_refinement_outcome_weights": {
+    "three_to_one": [
+      "3/4",
+      "1/4"
+    ],
+    "one_to_one": [
+      "1/2",
+      "1/2"
+    ],
+    "nine_to_one": [
+      "9/10",
+      "1/10"
+    ]
+  },
+  "unequal_schmidt_reduced_diagonal": [
+    "3/4",
+    "1/4"
+  ],
+  "local_swap_reduced_diagonal": [
+    "1/4",
+    "3/4"
+  ],
+  "local_swap_reduced_trace_distance": "1/2",
+  "proof_scope": "Infinite product uniqueness and singularity are analytical consequences of stated assumptions, not finite-test outputs."
+}

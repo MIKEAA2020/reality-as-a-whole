@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f81df07d5cfbda6d909510dbfa591b3d04d78d32",
-  "file_count": 1143,
+  "base_head": "04b8d662d91f792607467c916fa4ffa00bfc6584",
+  "file_count": 1146,
   "files": [
     {
       "path": ".gitattributes",
@@ -460,8 +460,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 79869,
-      "sha256": "c0b0ad6cc7c2e4e65bbc8d17b8982608541fca867f53f5005e5d56b91f0bc9ad"
+      "bytes": 80122,
+      "sha256": "6bd56b548e5bc01b6f00610ad6cb6b22ff2d254b47df8e54e9b7586c184486ae"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -854,6 +854,11 @@
       "sha256": "d19669b5e4854c4bc25c06ae66103ded59bbf5b74c8d1080a0e72af251cddb34"
     },
     {
+      "path": "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
+      "bytes": 13915,
+      "sha256": "a4955326ea316df4e86eca05e457f962d9631019803d05534698783e9d464dbe"
+    },
+    {
       "path": "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
       "bytes": 12642,
       "sha256": "6b87deabf4ad0fe11f6be668a2318517e2dc99e8ce731f54e05696b7e00125ac"
@@ -945,8 +950,8 @@
     },
     {
       "path": "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
-      "bytes": 14111,
-      "sha256": "1095374e32fb012ae617551dadf511ee7b329a614a61da908212dfb4fa63fecc"
+      "bytes": 14341,
+      "sha256": "37a6f9a6dd23c3021f9c427d8d32b75f7fa17fbfe1c3c522f14715958acf87d1"
     },
     {
       "path": "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
@@ -4284,6 +4289,16 @@
       "sha256": "1aaa33c871e0c6e41ea2dedc633bea07af476ebe6f196a61f8e07dafe2e380ae"
     },
     {
+      "path": "verification/plenitude_symmetry_measure_gate.json",
+      "bytes": 1009,
+      "sha256": "fcb2b922e17dc016d340c414eab8d9e43285faf9d98555024966589de89b4e03"
+    },
+    {
+      "path": "verification/plenitude_symmetry_measure_gate.py",
+      "bytes": 4283,
+      "sha256": "f537799c161f61b0ec510fe46a8d614ebfdc46256dae670b31dfeda11ae813d7"
+    },
+    {
       "path": "verification/plenitude_truthmaker_relevance.json",
       "bytes": 725,
       "sha256": "1bef189cc4825b89be3b59a9520070f94178ddd8ab5895f3b9b3c13676abb62c"
@@ -4305,8 +4320,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 444240,
-      "sha256": "d2c771c0c4c3f6cba244f6a11ba45736dc43ddd78b8d43045913455efb35a563"
+      "bytes": 445567,
+      "sha256": "e7b1245be55740e5889b61819fe26f1b93004c0811c90dc5b35427938596594f"
     },
     {
       "path": "verification/project_inventory.py",

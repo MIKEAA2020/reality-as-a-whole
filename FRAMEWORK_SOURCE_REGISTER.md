@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 307 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 260 verification Python scripts.
+- 308 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 261 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -179,6 +179,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
 - [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
+- [PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md](PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md) — Plenitude, symmetry and the measure of plural perspectives
 - [PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md](PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md) — Strong actuality and the experiential-grounding problem
 - [POST_ROY_FRAMEWORK_CRITICAL_PATH.md](POST_ROY_FRAMEWORK_CRITICAL_PATH.md) — After the Roy data: decision and framework critical path
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
@@ -534,6 +535,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/plenitude_dimension.py](verification/plenitude_dimension.py)
 - [verification/plenitude_foundation_symmetry_gates.py](verification/plenitude_foundation_symmetry_gates.py)
 - [verification/plenitude_identity.py](verification/plenitude_identity.py)
+- [verification/plenitude_symmetry_measure_gate.py](verification/plenitude_symmetry_measure_gate.py)
 - [verification/plenitude_truthmaker_relevance.py](verification/plenitude_truthmaker_relevance.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)

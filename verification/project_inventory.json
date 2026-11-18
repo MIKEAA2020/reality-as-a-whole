@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 350,
-  "bytes": 4716419,
-  "line_count": 50358,
-  "document_count_with_risk_phrases": 324,
+  "document_count": 351,
+  "bytes": 4731089,
+  "line_count": 50462,
+  "document_count_with_risk_phrases": 325,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3093,9 +3093,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a8b5cb7bbb7069e6777d6ed7959fa178c8b106d7639e802de17c286bce2dc88c",
-      "bytes": 79344,
-      "lines": 662,
+      "sha256": "c0b0ad6cc7c2e4e65bbc8d17b8982608541fca867f53f5005e5d56b91f0bc9ad",
+      "bytes": 79869,
+      "lines": 666,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3124,6 +3124,8 @@
         "AXIOLOGY_STATUS.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
+        "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
+        "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "CHAIN_COMPLETE.md",
@@ -3491,6 +3493,8 @@
         "verification/bowling_pairwise_transfer_audit.py",
         "verification/brain_centric_blockworld_gates.py",
         "verification/build_framework_inventory.py",
+        "verification/cardiac_feedback_pain_predictions.py",
+        "verification/cardiac_pain_xml_crosscheck.py",
         "verification/causal_influence_subject_gate.py",
         "verification/causal_record_lineage.py",
         "verification/cie_metamer_experiential_gate.py",
@@ -3744,20 +3748,20 @@
       "risk_phrase_lines": [
         17,
         25,
-        32,
-        36,
-        43,
-        148,
-        184,
-        196,
-        234,
-        296,
-        309,
-        345,
-        354,
-        357,
-        360,
-        392
+        34,
+        38,
+        45,
+        150,
+        186,
+        198,
+        236,
+        298,
+        311,
+        347,
+        356,
+        359,
+        362,
+        394
       ]
     },
     {
@@ -6358,6 +6362,33 @@
       ]
     },
     {
+      "path": "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
+      "sha256": "a4955326ea316df4e86eca05e457f962d9631019803d05534698783e9d464dbe",
+      "bytes": 13915,
+      "lines": 100,
+      "title": "Plenitude, symmetry and the measure of plural perspectives",
+      "headings": [
+        "Plenitude, symmetry and the measure of plural perspectives",
+        "Result",
+        "1. The scope: one whole, local distinctions, no creator",
+        "2. When symmetry does determine a fair record law",
+        "3. What plenitude allows without the extra symmetry",
+        "4. A quantum check: which swap is actually a symmetry?",
+        "5. Fine-graining needs a physical and subject rule",
+        "6. Consequences for the research programme"
+      ],
+      "local_links": [
+        "verification/plenitude_symmetry_measure_gate.py",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+        "verification/plenitude_symmetry_measure_gate.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        52,
+        90
+      ]
+    },
+    {
       "path": "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
       "sha256": "6b87deabf4ad0fe11f6be668a2318517e2dc99e8ce731f54e05696b7e00125ac",
       "bytes": 12642,
@@ -7113,8 +7144,8 @@
     },
     {
       "path": "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
-      "sha256": "1095374e32fb012ae617551dadf511ee7b329a614a61da908212dfb4fa63fecc",
-      "bytes": 14111,
+      "sha256": "37a6f9a6dd23c3021f9c427d8d32b75f7fa17fbfe1c3c522f14715958acf87d1",
+      "bytes": 14341,
       "lines": 107,
       "title": "Relational plenitude: actual possibilities, histories and measure",
       "headings": [
@@ -7128,6 +7159,7 @@
         "6. What this advances—and what remains open"
       ],
       "local_links": [
+        "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
