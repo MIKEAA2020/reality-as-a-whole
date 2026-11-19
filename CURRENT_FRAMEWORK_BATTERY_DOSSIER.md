@@ -194,7 +194,7 @@ Empirical research can test particular physical–phenomenal proposals and rule 
 
 ### Candidate boundaries and mathematical certificates
 
-A proposed boundary selected by maximizing a stipulated cohesion score is not established merely by finding one optimizer. Even a correct optimization may have several equally optimal boundaries; a relaxation can also return an unrealizable fractional solution. To claim that a boundary is uniquely determined, a proposal must show that all admissible optima agree, address hidden context and model uncertainty, and separately justify why that score bears on experience. A [finite counterexample and source audit](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) illustrates the distinction between weak and strong persistence. It does not decide which entities are subjects.
+A proposed boundary selected by maximizing a stipulated cohesion score is not established merely by finding one optimizer. Even a correct optimization may have several equally optimal boundaries; a relaxation can also return an unrealizable fractional solution. To claim that a boundary is uniquely determined, a proposal must show that all admissible optima agree, address hidden context and model uncertainty, and separately justify why that score bears on experience. A [finite counterexample and source audit](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) illustrates the distinction between weak and strong persistence. A [further finite example](ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md) checks how an optimum changes under an explicit parameter uncertainty set. Neither decides which entities are subjects.
 
 ## 10. Evaluation and outstanding obligations
 

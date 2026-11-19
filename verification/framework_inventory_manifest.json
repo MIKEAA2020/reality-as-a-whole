@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1174ccda7c42ebae36419c8645fb00c1286043a8",
-  "file_count": 1219,
+  "base_head": "625a982cb3184fc9c142fffeae6962b1b2344a77",
+  "file_count": 1224,
   "files": [
     {
       "path": ".gitattributes",
@@ -280,8 +280,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 24871,
-      "sha256": "6ed96351dab1b6584844be0610cfbadab7d386daec9cab7c2d0c8ada9fee96f6"
+      "bytes": 25019,
+      "sha256": "c73f1bc5cb72b26b11e596eff7994be06a6eb7c9bcff9162aa90e4ad0d80ac70"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -485,8 +485,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 87188,
-      "sha256": "d26af4ad2816fb873fd469e389be534c8b723ed39c0b48a8cc3b015327b67840"
+      "bytes": 87585,
+      "sha256": "0bac9fd6ad1072c3c7c3ae8bd38b10961d1334380359de834130f19bbac588a8"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -550,8 +550,8 @@
     },
     {
       "path": "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
-      "bytes": 7506,
-      "sha256": "c758c90245a80757caec5636f6ff359a54ccbc7dfe02cd2429e89571ecb76e21"
+      "bytes": 7737,
+      "sha256": "9cdcdc8eee35ecb936c6b8c95f1e4dceb2b82b034678a22f1f5ba6db2d389081"
     },
     {
       "path": "GRAVITATING_PROPER_TIME_CLOCK.md",
@@ -1102,6 +1102,11 @@
       "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
       "bytes": 12298,
       "sha256": "b0ecaa446d57887ae0ee15c2dbf3ad7b16adf9ef4ae0a4d358e1988ab9ba78ee"
+    },
+    {
+      "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+      "bytes": 7081,
+      "sha256": "5a531d0d98b6b81f314d04213736f09972006ec0b89f6db6920f3d5d341a40ef"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -2959,6 +2964,11 @@
       "sha256": "a30135a6cc49d0bac1167a6241037870aab6a0f7884cc10f3c4a409c28540c28"
     },
     {
+      "path": "sources/uploads/1207.1395v1.pdf",
+      "bytes": 180442,
+      "sha256": "22e3f74c70f186a447f416e5646b2acf8746f3926ccef5ca1dd2f1e4efa3a42f"
+    },
+    {
       "path": "sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf",
       "bytes": 79376,
       "sha256": "fa66542b74390301f2b6d99d54e9689e3cf792ac27c2a37c1a6329a841ff046c"
@@ -3032,6 +3042,11 @@
       "path": "sources/uploads/JHEP02(2024)193.pdf",
       "bytes": 1524032,
       "sha256": "0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed"
+    },
+    {
+      "path": "sources/uploads/RKLS-TR07.pdf",
+      "bytes": 395072,
+      "sha256": "80d9eee9b2de5e3ea460f5d6fa7de469b8b5292195c5abc70e8fb2623e9e9da9"
     },
     {
       "path": "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
@@ -4555,8 +4570,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 475711,
-      "sha256": "a8ca9bc276f06aba2acbdd21651f059d37ef98e2ab82bbfdb194f6503e3d9754"
+      "bytes": 477180,
+      "sha256": "0400477a63b9faa54c1375f22ab3b24b01101adf2a63144e07b1003e6cb519b0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4892,6 +4907,16 @@
       "path": "verification/robust_quantum_agreement_bound.py",
       "bytes": 6319,
       "sha256": "e38a1362aab92044c980bf14b6dd8c90b870264a73abf90af90ef9c8ad4ef5f1"
+    },
+    {
+      "path": "verification/roof_duality_robust_boundary_gate.json",
+      "bytes": 1047,
+      "sha256": "333da85a0416b1651b34cbf7c27f51bbdc5111c45a51fed55593f754ad79c5b4"
+    },
+    {
+      "path": "verification/roof_duality_robust_boundary_gate.py",
+      "bytes": 3428,
+      "sha256": "f68ee571981ec6ee65834e5005e32c6884578a5ecb3a0696d4634b5d596cc30e"
     },
     {
       "path": "verification/roy_mri_pair_inventory.py",

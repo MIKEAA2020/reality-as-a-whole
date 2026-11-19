@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 376,
-  "bytes": 5005245,
-  "line_count": 52276,
-  "document_count_with_risk_phrases": 350,
+  "document_count": 377,
+  "bytes": 5013102,
+  "line_count": 52323,
+  "document_count_with_risk_phrases": 351,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1975,8 +1975,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "6ed96351dab1b6584844be0610cfbadab7d386daec9cab7c2d0c8ada9fee96f6",
-      "bytes": 24871,
+      "sha256": "c73f1bc5cb72b26b11e596eff7994be06a6eb7c9bcff9162aa90e4ad0d80ac70",
+      "bytes": 25019,
       "lines": 231,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -1991,6 +1991,7 @@
       ],
       "local_links": [
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
+        "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -3254,9 +3255,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d26af4ad2816fb873fd469e389be534c8b723ed39c0b48a8cc3b015327b67840",
-      "bytes": 87188,
-      "lines": 723,
+      "sha256": "0bac9fd6ad1072c3c7c3ae8bd38b10961d1334380359de834130f19bbac588a8",
+      "bytes": 87585,
+      "lines": 727,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3487,6 +3488,7 @@
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+        "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -3646,6 +3648,7 @@
         "research/wilson_thermal_composite/REPORT.md",
         "research/wilson_ultraviolet_tails/REPORT.md",
         "research/wilson_wavepacket_composite/REPORT.md",
+        "sources/uploads/1207.1395v1.pdf",
         "sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf",
         "sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf",
         "sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc",
@@ -3661,6 +3664,7 @@
         "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
         "sources/uploads/Display_Spike_Trains.pdf",
         "sources/uploads/JHEP02(2024)193.pdf",
+        "sources/uploads/RKLS-TR07.pdf",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/bain2000.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
@@ -3855,6 +3859,7 @@
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
         "verification/robust_quantum_agreement_bound.py",
+        "verification/roof_duality_robust_boundary_gate.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
         "verification/roy_s08_fixed_transfer.py",
@@ -3973,14 +3978,14 @@
         160,
         198,
         215,
-        258,
-        324,
-        337,
-        373,
-        382,
-        385,
-        388,
-        431
+        259,
+        325,
+        338,
+        374,
+        383,
+        386,
+        389,
+        434
       ]
     },
     {
@@ -4390,8 +4395,8 @@
     },
     {
       "path": "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
-      "sha256": "c758c90245a80757caec5636f6ff359a54ccbc7dfe02cd2429e89571ecb76e21",
-      "bytes": 7506,
+      "sha256": "9cdcdc8eee35ecb936c6b8c95f1e4dceb2b82b034678a22f1f5ba6db2d389081",
+      "bytes": 7737,
       "lines": 33,
       "title": "Relaxations, persistence, and what an optimizer can establish",
       "headings": [
@@ -4403,6 +4408,9 @@
         "Implications for a relational whole"
       ],
       "local_links": [
+        "sources/uploads/1207.1395v1.pdf",
+        "sources/uploads/RKLS-TR07.pdf",
+        "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "verification/lp_persistency_and_moment_gate.py",
         "verification/lp_persistency_and_moment_gate.json"
       ],
@@ -8162,6 +8170,38 @@
         105,
         120,
         125
+      ]
+    },
+    {
+      "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+      "sha256": "5a531d0d98b6b81f314d04213736f09972006ec0b89f6db6920f3d5d341a40ef",
+      "bytes": 7081,
+      "lines": 43,
+      "title": "Full roof-duality papers and a robust selector check",
+      "headings": [
+        "Full roof-duality papers and a robust selector check",
+        "Sources and exact coverage",
+        "What the actual papers establish, with qualifications",
+        "A finite margin test under explicit uncertainty",
+        "How to use this in the framework"
+      ],
+      "local_links": [
+        "sources/uploads/1207.1395v1.pdf",
+        "sources/uploads/RKLS-TR07.pdf",
+        "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
+        "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
+        "verification/roof_duality_robust_boundary_gate.py",
+        "verification/roof_duality_robust_boundary_gate.json"
+      ],
+      "risk_phrase_lines": [
+        3,
+        14,
+        15,
+        19,
+        29,
+        31,
+        37,
+        41
       ]
     },
     {

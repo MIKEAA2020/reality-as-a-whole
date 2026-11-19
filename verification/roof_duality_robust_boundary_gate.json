@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "scope": "finite 3-bit example; not QPBO replay or subject assay",
+  "published_energy": "3|x-y| + 3|y-z| + 2xy + (1-x)(1-y)",
+  "nominal_global_minimum": "000",
+  "nominal_minimum_energy": "1",
+  "nominal_single_flip_local_minimum": "111",
+  "nominal_single_flip_neighbor_energies": {
+    "011": "3",
+    "101": "6",
+    "110": "5"
+  },
+  "uncertainty_model": "independent absolute parameter variation at most 1/4 on each of the four coefficients",
+  "worst_case_gap_to_each_rival": {
+    "001": "11/4",
+    "010": "17/4",
+    "011": "3/2",
+    "100": "3/2",
+    "101": "17/4",
+    "110": "13/4",
+    "111": "1/2"
+  },
+  "minimum_worst_case_gap": "1/2",
+  "all_16_box_corners_checked": true,
+  "radius_one_half_specific_perturbation_optima": [
+    "000",
+    "111"
+  ],
+  "radius_three_quarters_specific_perturbation_optimum": "111",
+  "limitations": "Parameter uncertainty stipulated, not estimated; strict robust optimum only for this finite objective and box. Local minimum check is not a test of QPBOI stability."
+}

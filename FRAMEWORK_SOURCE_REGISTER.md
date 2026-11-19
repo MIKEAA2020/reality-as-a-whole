@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 333 root Markdown documents including this register; 43 research Markdown documents.
-- 35 original uploaded files, including provenance metadata; 279 verification Python scripts.
+- 334 root Markdown documents including this register; 43 research Markdown documents.
+- 37 original uploaded files, including provenance metadata; 280 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -229,6 +229,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md](ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md) — Robust quantum agreement and rare records
+- [ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md](ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md) — Full roof-duality papers and a robust selector check
 - [ROY_S08_FIXED_TRANSFER_PROTOCOL.md](ROY_S08_FIXED_TRANSFER_PROTOCOL.md) — Frozen S09-to-S08 EEG/report transfer protocol
 - [ROY_S08_FIXED_TRANSFER_RESULTS.md](ROY_S08_FIXED_TRANSFER_RESULTS.md) — Fixed S09-to-S08 EEG/report transfer: results and archive QC
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern
@@ -398,6 +399,7 @@ These reports and notes have their own domains and dependencies; their titles ar
 
 The user approved inclusion of the original uploads in this public repository. These records are not automatically endorsed; where a source disagrees with later instructions, the latest explicit correction governs.
 
+- [sources/uploads/1207.1395v1.pdf](sources/uploads/1207.1395v1.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc](sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc)
@@ -413,6 +415,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
 - [sources/uploads/Display_Spike_Trains.pdf](sources/uploads/Display_Spike_Trains.pdf)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
+- [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
@@ -611,6 +614,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
 - [verification/robust_quantum_agreement_bound.py](verification/robust_quantum_agreement_bound.py)
+- [verification/roof_duality_robust_boundary_gate.py](verification/roof_duality_robust_boundary_gate.py)
 - [verification/roy_mri_pair_inventory.py](verification/roy_mri_pair_inventory.py)
 - [verification/roy_mri_pair_inventory_test.py](verification/roy_mri_pair_inventory_test.py)
 - [verification/roy_s08_fixed_transfer.py](verification/roy_s08_fixed_transfer.py)
