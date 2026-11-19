@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 379,
-  "bytes": 5029307,
-  "line_count": 52406,
-  "document_count_with_risk_phrases": 353,
+  "document_count": 380,
+  "bytes": 5038915,
+  "line_count": 52446,
+  "document_count_with_risk_phrases": 354,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1999,8 +1999,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "5ec5525de7809f31bb8189a5c7bb8c0fe78a82f08d0c770d16b54807cb233255",
-      "bytes": 25509,
+      "sha256": "34209362ed914ac506e1abd2c10009a5f94f99bc72f35e5c6c6fc4343aec4ed5",
+      "bytes": 25917,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2018,6 +2018,8 @@
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -3281,9 +3283,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "095014c663eb0fdc6bc04a115003473979cea66b82ce2827c8d76d8bb20e2f0f",
-      "bytes": 88180,
-      "lines": 731,
+      "sha256": "f2b8f8731bbe55af89021312fc86b43391af34b9165257f3330ad96690f1604f",
+      "bytes": 88578,
+      "lines": 734,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3598,6 +3600,7 @@
         "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
         "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
         "V4_FEF_ORIENTATION_GATE.md",
+        "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "WDW_ANGULAR_COUPLING.md",
         "WDW_ANHARMONIC.md",
@@ -3694,6 +3697,7 @@
         "sources/uploads/Display_Spike_Trains.pdf",
         "sources/uploads/JHEP02(2024)193.pdf",
         "sources/uploads/RKLS-TR07.pdf",
+        "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/bain2000.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
@@ -3972,6 +3976,7 @@
         "verification/two_subject_reversible_selector.py",
         "verification/underground_collapse_scope.py",
         "verification/universal_subject_lf_tradeoff.py",
+        "verification/vedral_free_spread_gate.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
         "verification/wdw_bkl_rotational_stability.py",
@@ -4009,13 +4014,13 @@
         200,
         217,
         261,
-        327,
-        340,
-        376,
-        385,
-        388,
-        391,
-        437
+        328,
+        341,
+        377,
+        386,
+        389,
+        392,
+        439
       ]
     },
     {
@@ -10352,8 +10357,8 @@
     },
     {
       "path": "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
-      "sha256": "13b9e73c461a80b69cbd05d62ea30a633e234de830c678a109ac7b611c88486d",
-      "bytes": 11103,
+      "sha256": "8dd7454a7945ac99e2b462683c3f976917cfd843e1420d79aba2802b9a7c8f75",
+      "bytes": 11332,
       "lines": 77,
       "title": "Timeless whole, local time and a quantum world",
       "headings": [
@@ -10365,6 +10370,7 @@
         "4. What the combined challenge requires"
       ],
       "local_links": [
+        "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md"
@@ -11042,6 +11048,33 @@
       "risk_phrase_lines": [
         9,
         49
+      ]
+    },
+    {
+      "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+      "sha256": "875949220044262cb584f17adbc1bd4739e16c42c3328ce59940688eb7556689",
+      "bytes": 8573,
+      "lines": 37,
+      "title": "Quantum waves, records, and experiential plurality",
+      "headings": [
+        "Quantum waves, records, and experiential plurality",
+        "Source and scope",
+        "What the paper offers",
+        "A testable correction to the displayed free-particle argument",
+        "Consequences and remaining gates"
+      ],
+      "local_links": [
+        "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
+        "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
+        "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "verification/vedral_free_spread_gate.py",
+        "verification/vedral_free_spread_gate.json",
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        25,
+        31
       ]
     },
     {

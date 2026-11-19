@@ -6,7 +6,7 @@
 
 [Vlatko Vedral in conversation with Ozbir Kip, “Everything is quantum, including you”](https://iai.tv/articles/everything-is-quantum-including-you-auid-3715?_auid=2020) advocates a universally quantum description, including observers and instruments, rather than a fundamental quantum/classical split. He regards his picture as close to many-worlds, while preferring to speak of one universe with quantum properties. He proposes experiments and acknowledges that his preferred account could be wrong. His suggestion that even integers might ultimately follow from quantum physics is presented as speculative.
 
-Both supplied pages returned their full article/interview prose through their conclusions, although they also display subscription prompts. Vedral's book *Portals to a New Reality: Five Experiments to Unlock the Future of Physics* was **not read**. Neither interview statements nor broad popular summaries are substitutes for the technical experiments or complete interpretive arguments.
+Both supplied pages returned their full article/interview prose through their conclusions, although they also display subscription prompts. Vedral's book *Portals to a New Reality: Five Experiments to Unlock the Future of Physics* was **not read**. Neither interview statements nor broad popular summaries are substitutes for the technical experiments or complete interpretive arguments. The separately supplied five-page [quantum-wave interpretation paper](VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md) has since been text-read and selected equations checked; it does not supply a subject-constitution rule.
 
 ## 1. Maudlin's challenge to the timeless absolute
 

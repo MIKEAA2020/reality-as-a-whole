@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "units": "hbar = m = 1",
+  "interpretation": "standard deviations with [x,p]=i hbar, free Heisenberg x(t)=x(0)+p(0)t/m",
+  "first_case": {
+    "initial_var_x": "1",
+    "initial_var_p": "1/4",
+    "initial_symmetrized_xp_covariance": "0",
+    "t": "2",
+    "var_x_t": "2",
+    "paper_eq_3_claimed_lower_bound_squared": "4",
+    "standard_lower_bound_squared": "1",
+    "paper_bound_violated": true
+  },
+  "second_case": {
+    "initial_var_x": "1",
+    "initial_var_p": "1/2",
+    "initial_symmetrized_xp_covariance": "-1/2",
+    "t": "1",
+    "var_x_t": "1/2",
+    "initial_contraction": true
+  },
+  "scope": "standard exact uncertainty/moment identities; admissible Gaussian examples; not a cloud-chamber calculation, full proof audit, or consciousness test"
+}

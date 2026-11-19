@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 336 root Markdown documents including this register; 43 research Markdown documents.
-- 38 original uploaded files, including provenance metadata; 281 verification Python scripts.
+- 337 root Markdown documents including this register; 43 research Markdown documents.
+- 39 original uploaded files, including provenance metadata; 282 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -313,6 +313,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) — Universal consciousness, shared experience and persistence through quantum reversal
 - [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
 - [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
+- [VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md](VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md) — Quantum waves, records, and experiential plurality
 - [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
 - [WDW_ANGULAR_COUPLING.md](WDW_ANGULAR_COUPLING.md) — Angular scalar–tensor coupling: adiabatic decoupling of non-spherical modes
 - [WDW_ANHARMONIC.md](WDW_ANHARMONIC.md) — Anharmonic self-interaction as a Kato perturbation of the quadratic WdW sector
@@ -419,6 +420,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Display_Spike_Trains.pdf](sources/uploads/Display_Spike_Trains.pdf)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
+- [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
@@ -701,6 +703,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
+- [verification/vedral_free_spread_gate.py](verification/vedral_free_spread_gate.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)
 - [verification/wdw_anharmonic.py](verification/wdw_anharmonic.py)
 - [verification/wdw_bkl_rotational_stability.py](verification/wdw_bkl_rotational_stability.py)
