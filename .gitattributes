@@ -4,3 +4,7 @@
 # Preserve archived transcripts and pinned third-party sources byte-for-byte.
 # Their existing whitespace is evidence, not project formatting to rewrite.
 sources/** -text -whitespace
+
+# Avoid treating source PDFs or byte-for-byte recovery artifacts as text patches.
+*.pdf binary
+verification/source_recovery/*.bin binary

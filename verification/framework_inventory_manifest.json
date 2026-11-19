@@ -1,12 +1,12 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a80fb6695ad2e22b92aacb78a406ff888bca9876",
-  "file_count": 1168,
+  "base_head": "02ff4a09a23d378ba6ccde1bb3941e76b6a6585c",
+  "file_count": 1172,
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 281,
-      "sha256": "1d1cb7b7e3c8f23e7713b072f249900a78409e4dc9006377380b922d492b2338"
+      "bytes": 419,
+      "sha256": "6c986043a16bd0a75de0496de1be9bbee61c172c5d3d54f661070cefa458eb5b"
     },
     {
       "path": ".gitignore",
@@ -465,8 +465,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 82062,
-      "sha256": "7873561eb883d65ffce268fbba154d2e3e68d0901c8137106964d94b962783cc"
+      "bytes": 82463,
+      "sha256": "fb9bfbe33fafbaa3c732d393d274d7aded3b716f9a9eb89b269e7b8413791f89"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -844,6 +844,11 @@
       "sha256": "c1a06f11814e2f360cf64f7cdf38ac0e4891ca022a26e69d607cb31bfd975808"
     },
     {
+      "path": "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
+      "bytes": 9031,
+      "sha256": "b7344b40dfb4c598d341d83fcc27a05e82afb79fb4a7c70e2a58eff38b91dc71"
+    },
+    {
       "path": "PLENITUDE.md",
       "bytes": 14725,
       "sha256": "638ed0dd087749e4bce70ff3879eec6a59d39ebdb09ee8487af84ad78f84155c"
@@ -925,8 +930,8 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "bytes": 11915,
-      "sha256": "0844cb128cf288e904ee0230a64f130b5e103f005a2c98557d0399778a033375"
+      "bytes": 12579,
+      "sha256": "f1e387b758ad236d0d8393cf7ae0e0e9a6612e109247be4513fa9a6b1f760309"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -1177,6 +1182,11 @@
       "path": "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
       "bytes": 12076,
       "sha256": "f677d5b1a87682acba23fbf28457260d6a9be6dab6b0b17f0c2cbf8f08dd7c62"
+    },
+    {
+      "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
+      "bytes": 7193,
+      "sha256": "10849ce43695028b31899787c9d96b95558d08690aa0a72bf1e687b710bcc2c5"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -2949,6 +2959,11 @@
       "sha256": "87b5f2fe1a4ceada8e663f215623a663dfd4110113475f71286699fe6cd02aac"
     },
     {
+      "path": "sources/uploads/quantum_position_verification_main.txt",
+      "bytes": 74841,
+      "sha256": "16c77dff78433e0903c07dfd859229df440aeb47cd5f26ea2e2391b52118313b"
+    },
+    {
       "path": "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
       "bytes": 76985,
       "sha256": "265b3188e5eede9c4e8898effddf6221d059947f88aae08d8d0213dabd4ce252"
@@ -4370,8 +4385,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 454420,
-      "sha256": "13dea44df883cf141fbd8334afc9fbd371a4adb3322fb04c24b2bcc2a2998f27"
+      "bytes": 456798,
+      "sha256": "8a22c3cfa0a3d1c645cd9f17e0acbd4576f468c6b113d8048756472f92d8ae9d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5192,6 +5207,11 @@
       "path": "verification/smooth_switched_locality_gate.py",
       "bytes": 7073,
       "sha256": "a3b81bf54dd3b540f8ecd8ede8c7462636e0cd631e5a148ef216ba20c2d696d9"
+    },
+    {
+      "path": "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin",
+      "bytes": 642549,
+      "sha256": "0df46aeee461bfdad7a9530c01096cc570572acb6c5d5f779676ddf0c46e51af"
     },
     {
       "path": "verification/sources/barontini_2026/Fig2Fig3V0.txt",

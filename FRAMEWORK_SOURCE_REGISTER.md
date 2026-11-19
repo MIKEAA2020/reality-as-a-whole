@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 315 root Markdown documents including this register; 43 research Markdown documents.
-- 24 original uploaded files, including provenance metadata; 268 verification Python scripts.
+- 317 root Markdown documents including this register; 43 research Markdown documents.
+- 25 original uploaded files, including provenance metadata; 268 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -177,6 +177,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PHENOMENAL_IDENTITY_THESIS.md](PHENOMENAL_IDENTITY_THESIS.md) — Russellian identity thesis: experience as the intrinsic being of modular events
 - [PHOTON_ECHO_READOUT.md](PHOTON_ECHO_READOUT.md) — Asymptotic photon-echo relational readout for the static spherical clock
 - [PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md](PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md) — When a pitch-to-frustration explanation cannot work
+- [PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md](PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md) — Planck, consciousness and the relational whole
 - [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
 - [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
@@ -244,6 +245,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md](SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md) — Six criteria: physical and consciousness-theoretic adequacy
 - [SMOOTH_FIELD_CLOCK.md](SMOOTH_FIELD_CLOCK.md) — Smooth dynamical clock matter: constraints, backreacting initial data, and a local-algebra bridge
 - [SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md](SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md) — Smooth switching reveals a zero-mode locality failure—and a restricted repair
+- [SOURCE_ACCESS_AND_READING_LIMITS.md](SOURCE_ACCESS_AND_READING_LIMITS.md) — Source access and reading limits
 - [SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md](SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md) — A concrete test: extrastriate cortex, frontal consumers, and IFG stimulation
 - [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
@@ -396,6 +398,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/four-criteria-whole-account-updated.md](sources/uploads/four-criteria-whole-account-updated.md)
 - [sources/uploads/four-criteria-whole-account.md](sources/uploads/four-criteria-whole-account.md)
 - [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
+- [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
 - [sources/uploads/s41467-021-27134-6.pdf](sources/uploads/s41467-021-27134-6.pdf)

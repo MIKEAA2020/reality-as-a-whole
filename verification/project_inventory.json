@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 358,
-  "bytes": 4816997,
-  "line_count": 51165,
-  "document_count_with_risk_phrases": 332,
+  "document_count": 360,
+  "bytes": 4834369,
+  "line_count": 51247,
+  "document_count_with_risk_phrases": 334,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3139,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ca4e56899d1f7a64b8e4ed9c15f377ad49399c59bea5bd200eef51af0693140c",
-      "bytes": 81979,
-      "lines": 682,
+      "sha256": "fb9bfbe33fafbaa3c732d393d274d7aded3b716f9a9eb89b269e7b8413791f89",
+      "bytes": 82463,
+      "lines": 686,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3320,6 +3320,7 @@
         "PHENOMENAL_IDENTITY_THESIS.md",
         "PHOTON_ECHO_READOUT.md",
         "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
+        "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -3387,6 +3388,7 @@
         "SIX_CRITERIA_PHYSICS_CONSCIOUSNESS_AUDIT.md",
         "SMOOTH_FIELD_CLOCK.md",
         "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
+        "SOURCE_ACCESS_AND_READING_LIMITS.md",
         "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
         "SPECTRAL_ACTION_BOUNCE.md",
         "SPECTRAL_ACTION_FINITE_SM.md",
@@ -3529,8 +3531,10 @@
         "sources/uploads/four-criteria-whole-account-updated.md",
         "sources/uploads/four-criteria-whole-account.md",
         "sources/uploads/leibniz-monadology-latta.pdf",
+        "sources/uploads/quantum_position_verification_main.txt",
         "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
         "sources/uploads/russellian-absolute-discussion.md",
+        "sources/uploads/s41467-021-27134-6.pdf",
         "sources/uploads/simulation-neither-plenitude-nor-one-world.md",
         "sources/uploads/simulation-zero-residue-side-by-side.md",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
@@ -3815,16 +3819,16 @@
         45,
         92,
         151,
-        188,
-        204,
-        243,
-        306,
-        319,
-        355,
-        364,
-        367,
-        370,
-        402
+        189,
+        205,
+        244,
+        308,
+        321,
+        357,
+        366,
+        369,
+        372,
+        406
       ]
     },
     {
@@ -6294,6 +6298,34 @@
       ]
     },
     {
+      "path": "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
+      "sha256": "b7344b40dfb4c598d341d83fcc27a05e82afb79fb4a7c70e2a58eff38b91dc71",
+      "bytes": 9031,
+      "lines": 42,
+      "title": "Planck, consciousness and the relational whole",
+      "headings": [
+        "Planck, consciousness and the relational whole",
+        "Source and scope",
+        "What the debate contributes",
+        "The research constraint for our framework",
+        "A sharper empirical gate: organization, report and experience",
+        "Identity across anesthesia",
+        "What remains open"
+      ],
+      "local_links": [
+        "SOURCE_ACCESS_AND_READING_LIMITS.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        12,
+        13,
+        18,
+        24,
+        34,
+        42
+      ]
+    },
+    {
       "path": "PLENITUDE.md",
       "sha256": "638ed0dd087749e4bce70ff3879eec6a59d39ebdb09ee8487af84ad78f84155c",
       "bytes": 14725,
@@ -6826,9 +6858,9 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "0844cb128cf288e904ee0230a64f130b5e103f005a2c98557d0399778a033375",
-      "bytes": 11915,
-      "lines": 67,
+      "sha256": "f1e387b758ad236d0d8393cf7ae0e0e9a6612e109247be4513fa9a6b1f760309",
+      "bytes": 12579,
+      "lines": 69,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
         "Quantum position verification: records, location and subjects",
@@ -6841,16 +6873,18 @@
         "Reproduction and scope"
       ],
       "local_links": [
+        "sources/uploads/quantum_position_verification_main.txt",
+        "SOURCE_ACCESS_AND_READING_LIMITS.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "verification/qpv_causal_records_gate.json"
       ],
       "risk_phrase_lines": [
-        34,
         36,
-        44,
-        54
+        38,
+        46,
+        56
       ]
     },
     {
@@ -8518,6 +8552,36 @@
         128,
         139,
         143
+      ]
+    },
+    {
+      "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
+      "sha256": "10849ce43695028b31899787c9d96b95558d08690aa0a72bf1e687b710bcc2c5",
+      "bytes": 7193,
+      "lines": 34,
+      "title": "Source access and reading limits",
+      "headings": [
+        "Source access and reading limits",
+        "Working rule",
+        "Known limitations worth carrying forward",
+        "Attachment: what it changes for QPV",
+        "Workspace integrity incident"
+      ],
+      "local_links": [
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "sources/uploads/quantum_position_verification_main.txt",
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
+        "UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md",
+        "OKN_SOURCE_QUALIFICATION.md",
+        "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
+        "ROY_S09_SCAN1_ALL_FMRI_VOLUMES_AND_ALIGNMENT.md",
+        "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin"
+      ],
+      "risk_phrase_lines": [
+        18
       ]
     },
     {

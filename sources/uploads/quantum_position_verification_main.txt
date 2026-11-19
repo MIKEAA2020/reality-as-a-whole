@@ -1,0 +1,1151 @@
+
+\title{Quantum Position Verification with Remote Untrusted Devices}
+\author{Gautam A. Kavuri}\email{gautamk@duck.com}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Associate of the National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Yanbao Zhang}\email{zhangy2@ornl.gov}
+\affiliation{Quantum Information Science Section, Computational Sciences and Engineering Division, Oak Ridge National Laboratory, Oak Ridge, TN, 37831, USA}
+\author{Abigail R. Gookin}
+\affiliation{Department of Electrical, Computer, and Energy Engineering, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Associate of the National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Soumyadip Patra}
+\affiliation{Department of Mathematics, University of New Orleans, New Orleans, LA, 70148, USA}
+\author{Joshua C. Bienfang}
+\affiliation{Joint Quantum Institute, National Institute of Standards and Technology and University of Maryland, 100 Bureau Drive,
+Gaithersburg, MD, 20899, USA.}
+\author{Honghao Fu}
+\affiliation{Concordia Institute for Information Systems Engineering, Concordia University, Montreal, QC, H3G 1M8, Canada}
+\author{Yusuf Alnawakhtha}
+\affiliation{Joint Center for Quantum Information and Computer Science, University of Maryland, College Park, MD, 20742, USA}
+\author{Dileep V. Reddy}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Associate of the National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Michael D. Mazurek}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Associate of the National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Carlos Abell\'an}
+\author{Waldimar Amaya}
+\affiliation{Quside Technologies S.L., Castelldefels (Barcelona), Spain}
+\author{Morgan W. Mitchell}
+\affiliation{ICFO-Institut de Ciencies Fotoniques, The Barcelona Institute of Science and Technology, 08860 Castelldefels (Barcelona), Spain.}
+\affiliation{ICREA - Instituci\'{o} Catalana de Recerca i Estudis Avan{\c{c}}ats, 08010, Barcelona, Spain}
+%\author{Sae Woo Nam}
+%\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+%\affiliation{Physical Measurement Laboratory, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Carl A. Miller}
+\affiliation{Computer Security Division, National Institute of Standards and Technology, Gaithersburg, MD, 20899, USA}
+\affiliation{Joint Center for Quantum Information and Computer Science, University of Maryland, College Park, MD, 20742, USA}
+\author{Richard P. Mirin}
+\affiliation{Physical Measurement Laboratory, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Martin J. Stevens}
+\affiliation{Physical Measurement Laboratory, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\author{Scott Glancy}
+\affiliation{Applied and Computational Mathematics Division, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\author{Emanuel Knill}
+\affiliation{Applied and Computational Mathematics Division, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Center for Theory of Quantum Matter, University of Colorado, Boulder, CO, 80305, USA}
+\author{Lynden K. Shalm}\email{krister.shalm@nist.gov}
+\affiliation{Department of Physics, University of Colorado, Boulder, CO, 80309, USA}
+\affiliation{Physical Measurement Laboratory, National Institute of Standards and Technology, Boulder, CO, 80305, USA}
+\affiliation{Quantum Engineering Initiative, Department of Electrical, Computer, and Energy Engineering, University of Colorado, Boulder, CO, 80309, USA}
+
+\date{\today}
+
+
+\maketitle
+
+
+\textbf{Position information underpins many modern technologies, from
+  navigation and timing to authentication and critical
+  infrastructure~\cite{chandran_positionbased_2014,bhamidipati_gps_2018,ardizzon_authenticated_2022}. However,
+  classical methods of proving that information originates from a
+  particular position are vulnerable to
+  spoofing~\cite{tippenhauer_attacks_2009,brands_distancebounding_1994,drimer_keep_2007}. This
+  limitation can be overcome with quantum
+  technologies~\cite{Malaney_LocVer2010, Kent_TagVer2011,
+    buhrman2013garden, buhrman_positionbased_2014,
+    lim_losstolerant_2016, bluhm_singlequbit_2022,
+    allerstorfer_practical_2022, escola-farras_singlequbit_2023,
+    asadi2025linear, allerstorfer2025making} but current protocols
+  rely on trust in quantum hardware that can be
+  undermined~\cite{lydersen_hacking_2010, weier_quantum_2011}, or
+  require quantum computers and bounds on adversarial \MKs{classical}\MKc{Both quantum and classical computation and complexity assumptions, I thought it best to not specify in this abstract.}%
+  computation~\cite{kaleoglu_equivalence_2025}.  Nevertheless, there
+  has been significant interest in experimental demonstrations, and
+  aspects of these protocols have been
+  implemented~\cite{kanneworff_experimental_2025,liu_certified_2025a,fan2026relativistic}.
+  Here we introduce and experimentally demonstrate the Bell-test
+  quantum position verification protocol for device-independent
+  quantum position verification that guarantees security with only
+  observed correlations from a loophole-free Bell
+  test~\cite{shalm_strong_2015, giustina_significantloopholefree_2015,
+    Bell_nonlocality_review2014} across a quantum network. We
+  experimentally implement a version of this device-independent
+  protocol against adversaries who, before each trial, are weakly
+  entangled. Our demonstration achieves a one-dimensional localization
+  2.47(2) times smaller than the best, necessarily non-remote,
+  classical localization protocol. Compared to classical protocols
+  with identical latencies, the localization volume is 4.53(5) times
+  smaller, and represents a certifiable quantum advantage. The general
+  Bell-test protocol is loss tolerant and secure against adversaries
+  with significant quantum resources. This work allows digital
+  security to be anchored to physically trusted locations, enabling
+  new position-based authentication protocols for applications such as
+  financial transactions, legal agreements, and securing critical
+  infrastructure~\cite{alabdulatif_novel_2023,denning_locationbased_1996,zhang_locationbased_2012,alawami_locauth_2020}.}
+
+
+\section*{Introduction}
+
+Position is a fundamental aspect of
+security~\cite{denning_locationbased_1996}. Sensitive systems and
+information are often stored in secure locations that can only be
+accessed in person, and permissions for certain actions are granted to
+entities based on where they are. Physical access controls, such as
+air-gapped systems~\cite{langner_stuxnet_2011} or analog locks,
+mitigate remote attacks~\cite{whitman_principles_2009,
+  anderson_security_2020b}. A central challenge is extending the
+security of a trusted location into the digital world---if a party can
+prove they are communicating from a particular place, they can be
+remotely granted comparable levels of access and trust. Such
+guarantees would underpin a wide range of applications, from
+authenticating that commands to a power grid originate from the
+utility's control center rather than a hostile actor
+abroad~\cite{bhamidipati_gps_2018}, to confirming that a GPS signal
+genuinely originates from a satellite at a known orbital
+position~\cite{fernandez-hernandez_navigation_2016} rather than a
+nearby software-defined radio, to ensuring that a transaction request
+to a bank's servers comes from a customer at a verified
+branch~\cite{alabdulatif_novel_2023,
+  zhang_locationbased_2012}. Securely verifying position is the first
+step to building many of these advanced position-based authentication
+applications~\cite{chandran_positionbased_2014,
+  buhrman_positionbased_2014}.
+
+Accurately localizing a position can be achieved using ranging methods
+that measure the round-trip time of signals sent at the speed of light
+to a target region. Several trusted parties, known as verifiers, can
+then work together to triangulate position. However, the signals used
+in such ranging protocols can in principle always be intercepted and
+manipulated by adversaries to spoof a location they do not
+occupy~\cite{buhrman_positionbased_2014, chandran_positionbased_2014,
+  tippenhauer_attacks_2009}. Cryptographic authentication can mitigate
+this~\cite{brands_distancebounding_1994, drimer_keep_2007,
+  hancke_rfid_2005, cowperthwaite_practical_2023}, but only at the
+cost of trusted hardware and pre-shared keys or secrets. If those keys
+are leaked, hardware devices cloned, or if cryptographic hardness
+assumptions fail, a wide range of sensitive systems that depend on
+position, navigation, and timing become vulnerable to spoofing.
+
+An alternative approach to avoiding spoofing in position verification
+is to use quantum states that cannot be cloned in combination with
+classical ranging \cite{Kent_TagVer2011,Malaney_LocVer2010}.  In the
+simplest case of BB84 quantum position verification
+(QPV)~\cite{Kent_TagVer2011,buhrman_positionbased_2014} two trusted
+verifiers work together to determine if a third party, the prover, is
+located within a target location. One verifier randomly prepares a
+qubit in one of several bases and sends it to the prover. The
+verifiers also send classical challenge bits to the prover who uses
+them to perform a predefined computation. The result of this
+computation sets the measurement basis for the prover. The prover
+performs this measurement and returns the result to the verifiers, who
+check that the result is correct and use the round-trip time of the
+signals to localize the position of the prover.  While unconditional
+security against entangled attackers is
+impossible~\cite{buhrman_positionbased_2014}, it is possible to design
+protocols where the resources that the adversaries require to
+successfully attack the protocol increase with the number of classical
+challenge bits. Ideally, a protocol also would require an honest
+prover to manipulate only a single qubit while requiring more
+resources from successful attackers~\cite{bluhm_singlequbit_2022,
+  asadi2025linear}.  It is also desirable to allow the quantum signals
+in the protocol to be arbitrarily slow and rely only on the timing of
+classical communication for ranging.  Protocols with this feature are
+more practical for deployment over large
+distances~\cite{bluhm_singlequbit_2022, allerstorfer2025making,
+  escola-farras_singlequbit_2023}.
+
+Besides BB84 QPV a range of other QPV protocols have been proposed,
+including extensions of the original BB84
+QPV~\cite{bluhm_singlequbit_2022, escola-farras_singlequbit_2023,
+  allerstorfer2025making}, methods based on ideas from
+measurement-device-independent quantum key distribution (QKD) and
+entanglement swapping~\cite{lim_losstolerant_2016}, qubit
+routing~\cite{Kent_TagVer2011,bluhm_singlequbit_2022} and SWAP
+  protocols~\cite{allerstorfer_practical_2022}.  Importantly, the security of these protocols requires
+that the quantum devices used to perform specific state preparations
+and measurements are trusted and operating correctly.  Such protocols
+are said to be device-dependent, and this dependence introduces
+opportunities for attackers to subvert the quantum devices or exploit
+side-channels. Such exploits have been demonstrated for the closely
+related QKD
+protocols~\cite{lydersen_hacking_2010,weier_quantum_2011,tippenhauer_attacks_2009,brands_distancebounding_1994,drimer_keep_2007}.
+Despite much
+theoretical development in device-dependent QPV protocols, their
+complete experimental demonstration has been lagging. Experiments
+include demonstrations of the basic
+principles~\cite{kanneworff_experimental_2025}, with distance
+simulated with fiber-spools~\cite{fan2026relativistic}, and of the
+main components of a high-complexity scheme based on advanced quantum
+computers~\cite{liu_certified_2025a}.
+
+Here we introduce the Bell-test QPV protocol, a device-independent
+protocol that is based on a loophole-free Bell test. Bell-test QPV
+uses the violation of a Bell inequality by a verifier and the prover
+to certify that the prover is operating a quantum device in a
+specified target region in spacetime, where the quantum device must be
+capable of non-trivial quantum actions conditional on classical input.
+No assumptions are made about the internal workings of the required
+quantum devices, including the quantum measurement devices and the entanglement source. Device-independent security is achieved based only on
+analysis of the inputs to and outputs from the experimental
+devices. Like all device-independent protocols such as those
+  implemented in Refs.~\cite{shalm_deviceindependent_2021,
+  kavuri_traceable_2025, liu_deviceindependent_2021,
+  li_experimental_2021, nadlinger_experimental_2022, lu_deviceindependent_2026, Kulikov2026},  Bell-test QPV
+requires trust in the classical devices used for recording results,
+measuring timing, and performing distance measurements.
+The protocol performance
+does not depend on the speed of the qubits provided by the entanglement source, which is treated as fully untrusted, but only on the round-trip
+time of the classical signals sent. 
+As long as a verifier and the
+prover share an entangled state, be it entangled photons or
+matter-based qubits entangled via a quantum repeater, the protocol can
+proceed. The compatibility of the protocol with heralded sources of
+entanglement such as those reported in the recent
+work~\cite{lu_deviceindependent_2026, Liu_LongLivedHeraledEnt_2026}
+means that the protocol is scalable with distance over a quantum
+network.  For precise localization, it suffices to use
+near-speed-of-light classical communication such as wireless
+communication or hollow-core fiber~\cite{fan2026relativistic}.
+
+We implemented the Bell-test QPV protocol with two verifiers separated
+by \valVerifierSep, performing \(\valTotInstances\) experimental
+protocol instances, each lasting two or four minutes depending on the
+class of adversaries considered, over two days. Each protocol instance
+consists of a sequence of trials. Measurement outcomes and messages
+from the trials are recorded and determine whether the instance
+successfully verified position. While we do not limit the computation
+or communication power of adversaries during each experimental trial,
+our security analysis requires a limit on the amount of entanglement
+shared between adversaries prior to the trial. Throughout this work,
+we refer to such pre-shared entanglement as prior entanglement. A
+basic version of the protocol is secure against adversaries who share
+no prior entanglement. An extended protocol implemented in the
+experiment demonstrates security against adversaries possessing
+limited prior entanglement, bounded from above by an average
+robustness of entanglement~\cite{vidal_robustness_1999} of
+\(\valThresh\) over the trials of a protocol instance. A coarse such
+bound was previously obtained for general QPV protocols in
+Ref.~\cite{beigi2011simplified}. To protect against adversaries with significant quantum
+resources including prior entanglement, we prove that it suffices to
+increase the number of bits in the challenges.  The security of our protocol is
+derived from the impossibility of faster-than-light signaling and
+constraints on the shareability of three-party non-signaling
+correlations~\cite{masanes_general_2006a}.  These constraints can be
+effectively falsified by a loophole-free Bell violation in the
+configuration we experimentally implemented.  Each trial requires the
+prover to compute a function of challenges received from the
+verifiers. We experimentally demonstrate the simplest nontrivial instance of such
+a function. 
+
+Conditional on successfully passing the Bell-test protocol, we can be
+confident that a prover must have performed an input-conditional
+quantum operation in a localized target spacetime region \(\tR\).
+Ideally, the localization could approach arbitrary precision,
+independent of verifier separation. In practice, it is constrained by
+communication and processing latencies. Using low-latency processing
+and communication, we are able to certify the position of a prover to
+a volume \valMeanInvVol\ smaller than that achievable by a
+classical protocol that is constrained by the same
+latencies. Our results establish a new cryptographic primitive for
+quantum networks, allowing access to a secure physical location to be
+used to authenticate a network user. This bridges physical and network
+security and opens new directions for position-based cryptography and
+computation~\cite{chandran_positionbased_2014,
+  buhrman_positionbased_2014}.
+
+
+\section*{Position verification}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{figures_main_text/fig1_protocol_nature.pdf}
+    \caption{Schematic representations of position verification protocols and possible attacks. Subfigure a) shows a single-prover classical protocol for position verification that enforces the target region \(E\) in yellow with classical challenges from the verifiers \(\Vap\) and \(\Vb\). The verifiers desire that the computation \(g(\cba,\cbb)\) is localized to the target region. Subfigure b) sketches a specific attack on the classical protocol, with colluding adversaries \(\Aa\) and \(\Ab\), situated in the blue regions outside the target regions, each performing the computation locally. By communicating the challenges to one another, they can spoof a successful pass of the classical protocol from anywhere inside \(E_{\mathrm{adv}}\). To ensure security against general attacks perpetrated by unentangled or weakly entangled adversaries, we introduce our quantum protocol, sketched in c). Here, the honest prover \(\Vp\) and a quantum measurement station \(\Va\) located at \(\Vap\) share an entangled state \(|\Phi\rangle\). The state is measured using untrusted quantum hardware, with the measurement basis at \(\Vap\) decided by a local random number generator and the basis at \(\Vp\) decided by the output of \(f(\cba,\cbb)\).  Subfigure d) is a schematic of the spatial extents of the  target regions enforceable by the classical (\(E_{\mathrm{adv}}\)) and quantum (\(E\)) protocols, projected into two dimensions for  a realistic two-verifier protocol. }
+    \label{fig:protocol}
+\end{figure}
+
+Formally, position verification is a cryptographic protocol that
+involves two or more verifiers working together to ensure that only
+provers \(\Vp\) with access to a specified target region \(\tR\) can
+pass the protocol. In this work, we consider the case of two verifiers
+\(\Vap\) and \(\Vb\) who use time-of-flight ranging to establish
+presence of a prover within the target region. We consider first a
+classical protocol where we assume that the verifiers are only
+interacting with a single prover, as shown in~\cref{fig:protocol} a),
+the verifiers \(\Vap\) and \(\Vb\) send classical challenges
+\(\cba\) and \(\cbb\) timed to arrive simultaneously at the
+prover. The prover performs a computation using the challenges from both
+verifiers and a predetermined, publicly known function
+\(g(\cba,\cbb)\), and then returns the result.  Conditioned on the
+prover computing the correct answer, each verifier can use the time
+difference between when the challenge was sent and when the answer
+was received to bound the maximum distance to the prover. The
+intersection of the regions within the maximum distances from each
+verifier localizes the position of the prover. If this intersection is
+contained in the region to be secured, the protocol passes. 
+With light-speed signals and zero processing
+latency, the verifiers can localize the prover to a single
+point. However, any latencies in the classical signals or the
+processing increases the size of the smallest possible localization
+region, \(E\). Projected to two dimensions, this forms a
+lenticular region, as shown by the yellow region
+in~\cref{fig:protocol} d).
+
+However, a pair of adversaries working together can spoof responses
+from inside \(E\), as shown in Figure \ref{fig:protocol} b). In the
+attack, each adversary stores a copy of the challenge bits sent from
+the verifier closest to them. When the challenge bits from the other
+verifier arrive, they compute the response and return the answer to
+the verifier closest to them. In this way, the adversaries can
+convince the verifiers they are inside the target region \(E\). In the
+ideal case where there is no excess latency, the spoofing adversaries
+must both be stationed on the line joining the verifiers, or the
+verifier axis. However, if there is processing or other excess latency
+in the system, then adversaries with negligible processing latency can
+exploit this to move away from the verifier axis in three dimensions
+and still respond in time. As described in the methods section, the
+region that successful adversaries are required to occupy is bounded
+by a set of geometric and timing constraints. In the symmetric case,
+where the target region is centered at the midpoint between the
+verifiers, and any timings are symmetric, the region that the
+adversaries are required to occupy is an ellipsoid with foci at the
+verifier positions, and whose major axis is twice the distance light
+travels in the time from when a challenge is emitted to when a
+response is received, at either verifier. The surface of the ellipsoid
+corresponds to the set of positions from which an adversary can just
+barely receive a challenge from one verifier, compute a response, and
+deliver it to the other verifier in time, as shown
+in~\cref{fig:protocol} d). Any adversaries outside this ellipsoidal
+region \(E_{\rm adv}\) are unable to spoof the protocol. This means
+the verifiers can achieve a degree of localization with a classical
+protocol, but this region contains the verifier positions and has
+diameter substantially larger than the verifier separation.
+
+The device-independent Bell-test QPV protocol is based on the prover
+and verifiers jointly violating a loophole-free Bell inequality, as
+shown in~\cref{fig:protocol} c). In a Bell test, two parties perform
+independent, space-like separated measurements on an entangled
+state. These measurements are repeated many times in a series of
+trials. If the joint measurement statistics violate a Bell inequality,
+it is possible to rule out the presence of local hidden variable
+models as an explanation for the results. In our protocol, in each
+trial, verifier \(\Vap\) and prover \(\Vp\) share an entangled Bell
+state. At the start of the trial, the verifiers send challenges
+\(\cba\) and \(\cbb\) to the prover.  When they arrive, the prover
+computes a measurement settings function \(f(\cba,\cbb)\) whose value
+is used to choose the prover's measurement basis.  Simultaneously,
+verifier \(\Vap\) uses a random number generator to set their
+measurement basis. \(\Vap\) and \(\Vp\) then measure their respective
+entangled qubits in a space-like separated manner, and \(\Vp\)
+responds to the challenges by sending their measurement outcome
+separately to \(\Vap\) and \(\Vb\). For each trial, a Bell-like test
+statistic is evaluated on the trial record, which consists of the
+measurement basis choice and measurement outcome of \(\Vap\), and the
+prover measurement basis \(f(\cba,\cbb)\) and the two prover responses
+to \(\Vap\) and \(\Vb\). The two responses may not be identical due to
+transmission error or other sources of noise.  Intuitively, empirical
+violation of the inequality associated with the test statistic can be
+used to rule out the presence of spoofing adversaries. Security of the
+Bell-test QPV protocol places additional demands on the test statistic
+and its interpretation, see the next section. The round-trip time
+between the challenges being sent and the prover's response with
+the outcome of their measurement allows the verifiers to localize the
+prover. The target region \(\tR\) for the quantum protocol is
+determined in the Supplementary
+Information~\scref{subsect:spacetimeana} and is the same as the
+single-prover target region \(E\) in the classical
+protocol above, while being secure against colluding adversaries. The
+ratio between the achievable localization region \(E\) by the Bell-test QPV
+protocol and the localization region \(E_{\rm adv}\) of the classical protocol 
+represents a quantum advantage in
+localization. In principle, the quantum protocol's target region could
+be made arbitrarily small with instantaneous processing and direct,
+speed-of-light classical communication. The only requirement is that the
+verifier and prover have established entanglement before the
+measurements need to be performed. This can be done, for instance,
+through direct transmission over a quantum channel or by using a
+quantum repeater.
+
+While the preceding discussion has focused on the target region in the
+three spatial dimensions, it can be specified in all four dimensions
+including time, see~\scref{subsect:spacetimeana} in the Supplementary
+Information. Given that our experiment is performed as a series of
+trials, the localization has a periodic structure in time.
+
+
+\section*{Theory}
+We establish security of Bell-test QPV against several classes of
+adversaries, where colluding adversaries attempt to pass the Bell-test
+protocol without having any presence in the target region. The classes
+are distinguished by the resources available to the adversaries in a
+trial. The resources considered include prior entanglement in a trial,
+and quantum computation and communication.  We do not restrict
+adversaries ability to move provided that they do not enter the target
+region's spacetime extent. Security is established under standard
+assumptions for device-independent protocols and allows for complete
+control over the source by the adversaries. The assumptions are
+summarized in the Methods section and a detailed list of assumptions
+is given in Supplementary
+Information~\scref{subsect:protocol_assumptions}. Bell-test QPV
+depends on choosing measurement bases and challenge distributions, and
+the settings function \(f(\cba,\cbb)\) of the challenges. Requirements
+on these distributions and their dependencies are included in the list
+of assumptions.
+
+Security of QPV protocols  requires soundness and completeness.
+Soundness with parameter \(\delta\) requires that before a protocol
+starts, the maximum probability that adversaries in a given class can
+pass the protocol is at most \(\delta\). For high security, the
+soundness parameter must be extremely small.  Completeness with
+parameter \(\epsilon\) requires that the actual prover has probability
+at least \(\epsilon\) of passing.  It is desirable for completeness to
+be close to \(1\).  For the experimental demonstration we choose
+\(\delta=2^{-64}\).  For a summary of Bell-test QPV soundness and
+completeness results, see the Methods.
+
+Completeness of Bell-test QPV is witnessed by any verifier-prover pair
+able to violate local realism in a Bell test with two measurement
+bases for the prover, such as we experimentally demonstrated.
+Scalability of the protocol requires that the number of trials grows
+sufficiently slowly as the soundness is reduced and the completeness
+is increased.  Like most useful protocols, Bell-test protocols require
+only \(O(\log(1/\delta))+O(\log(1/(1-\epsilon)))\) trials for soundness
+\(\delta\) and completeness \(\epsilon\). The suppressed constants
+depend on the quality of the honest prover's performance.
+
+Bell-test protocols require a departure from the conventional approach
+of classifying trials by whether the prover responses are correct or
+not. Instead we use test factors originally introduced for test of
+local realism~\cite{zhang_y:qc2011a}, which are special
+test statistics \(W\) applied to each trial and calculated from the
+trial record. Test factors have recently been found to have broad
+applications in statistics for constructing so-called \(e\)-values,
+\MKs{which are chainable \(p\)-values}\MK{which are a chainable
+  alternative to \(p\)-values}~\cite{vovk2021values,grunwald2024safe}.
+For position verification, these test statistics satisfy \(W\geq 0\)
+and the trial expectation of \(W\) is at most \(1\) for all
+adversaries in a given class regardless of what happened in the past.
+To determine whether the protocol passed, the test factor \(W\) is
+applied to each trial's record and the resulting values are multiplied
+to obtain the test-factor product \(P\). A key consequence of the
+properties of test factors is that the probability that
+\(P\geq 1/\delta\) for adversaries is at most \(\delta\).  Soundness
+is therefore assured if the protocol is passed only when
+\(P\geq 1/\delta\).
+
+The use of Bell tests with test factors and the need to establish
+target regions in \(3\)+\(1\)-dimensional spacetime require a detailed
+analysis of the spacetime capabilities of adversaries. We adapt the
+spacetime circuit method used for a parallel, one-round QPV protocol
+by Unruh~\cite{unruh2014quantum} to determine the trial target
+region from the timing information for the verifiers sending out the
+challenges and receiving the responses. We then partition the
+adversary accessible regions to reduce adversary attacks to those that
+can be implemented by two adversaries who can communicate only once
+during a trial. See Supplementary
+Information~\scref{subsect:spacetimeana}.  Such reductions to two
+adversaries are typical for QPV protocols but are usually only
+implemented in one spatial dimension, which omits several spacetime
+regions that could be exploited by adversaries and does not address
+the effects of realistic latencies and transmission delays.  Because our treatment is
+fully relativistic, it is also necessary to determine the specific
+trial boundary at which we quantify the adversary entanglement
+resources.  The trial boundary obtained is non-trivial and can be
+described as the boundary of a spacetime region constructed from lightcones, see
+Supplementary Information~\scref{fig:1+1d_regions}.
+
+The basis for our soundness results against different classes of
+adversaries is an analysis of the power of adversaries with no prior
+entanglement, but unlimited classical and quantum computing and
+communication resources. Such an analysis forms the basis of the
+security of many other QPV protocols and was introduced in
+Ref.~\cite{buhrman_positionbased_2014}. Subsequent improved analyses
+connected security of a class of existing QPV protocols to monogamy of
+entanglement games~\cite{tomamichel2013monogamy}.  For Bell-test QPV,
+the analysis requires a different approach for simplifying adversary
+strategies that takes advantage of test-factor properties. See
+Supplementary Information~\scref{sect:reduction}.  The simplification
+reduces the problem of test-factor design for Bell-test QPV to
+constructing test factors for three-party quantum non-signaling
+scenarios.   For provers
+with two measurement basis choices, the problem can be further reduced
+to that of modifying test factors against local realism. 
+
+An advantage of test factors is their flexibility: they can be adapted
+during a protocol, enable heralding and early stopping, and can be
+rescaled against adversaries with prior entanglement. Heralded trials
+can be used to mitigate the problem of loss in photon transmission. In
+particular, previous proofs of loss tolerance by trial commitment by
+the prover~\cite{allerstorfer2025making} generalize to Bell-test QPV,
+see Supplementary Information~\scref{sect:heraldetc}.  Rescaling can
+be used directly for the security against weakly entangled adversaries
+demonstrated in our experiment, see below.  This is a quantified
+generalization of an observation in Ref.~\cite{beigi2011simplified},
+see Supplementary Information~\scref{sec:smallentanglement}.  We
+quantify the entanglement by robustness of entanglement, which
+measures how far an entangled state is from the set of separable
+states. We show that the increase in the expectation of the test
+factor \(W\) due to the adversaries' prior entanglement can be bounded
+in terms of robustness of this prior entanglement, and this increase
+determines the required test-factor rescaling.
+
+Rescaled test factors are also used against adversaries with
+significant entanglement or other quantum resources. This requires
+increasing the number \(l\) of bits in each of the challenges \(\cba\)
+and \(\cbb\) and a suitable choice of settings function
+\(f(\cba,\cbb)\).  That increasing the complexity of \(f(\cba,\cbb)\)
+is sufficient for security against adversaries with significant
+quantum resources has been established for some previous
+protocols~\cite{bluhm_singlequbit_2022,asadi2025linear} by reduction
+to a communication-complexity problem. Test factors enable a tighter
+such reduction to a different communication-complexity problem, see
+Supplementary Information~\scref{sect:entangled_adversaries}.  We can
+protect against adversaries with prior entanglement in
+\((\log(l)/2-O(1))\) qubits and unlimited classical communication
+and local quantum computation, or adversaries with
+\(O(l/(\log(q)+1))\) quantum operations on \(q\) qubits and
+  unlimited classical communication.  With our experimental
+parameters and an increase of the number of trials required by 
+a factor of \(6\), if \(l=\lexpthree\), then adversaries, in addition to
+having to occupy intercepting paths on two opposite sides of the
+target region and to intercept and control multiple signals, must use
+at least \(1\) qutrit for entanglement or quantum communication per
+trial to have a reasonable chance of passing the protocol. In the
+experiment, we used one weakly entangled qubit per trial.  If
+\(l=\lexpgl\), then adversaries with fewer than \(q=\lexpgq\) qubits
+require more than \(\lexpgbnd\) operations in a standard universal
+gate and measurement set to break security.  There is a simple
+function \(f(\cba,\cbb)\) that achieves this security and that is
+suitable for low-latency implementation. The function is described in
+the Methods. 
+
+
+\section*{Experiment}
+In our experiment, we demonstrate successful instances of the Bell-test protocol using two verifier stations, \(\Vap\) and \(\Vb\), and a prover station, \(\Vp\). Each verifier is equipped with a random number generator to produce challenge bits and a time-tagging device to record detection events. Verifier \(\Vap\) also houses an entangled photon source and a polarization measurement apparatus \(\Va\).
+As shown in~\cref{fig:apparatus}, verifier stations \(\Vap\) and \(\Vb\) are separated by \valVerifierSep. The prover station is \valDistVtwoP\ from verifier \(\Vb\). All three stations are arranged approximately collinearly, and much of our hardware is similar to past device-independent experiments~\cite{kavuri_traceable_2025, shalm_deviceindependent_2021}.
+
+
+
+The protocol requires the accumulation of statistics over many
+trials. At the beginning of each trial, the quantum verifier \(\Vap\)
+attempts to generate a pair of polarization-entangled photons in a
+state close to \(0.383 \ket{HH} + 0.924 \ket{VV}\), where $\ket{H}$
+and $\ket{V}$ represent horizontal and vertical polarizations
+respectively. The target state was chosen based on a simulation
+numerically maximizing Bell violation, taking measured background
+counts and photon efficiencies into account. One photon is delayed
+locally via a fiber loop, while the other is transmitted to the prover
+in fiber. Each verifier then sends a randomly generated challenge bit
+to the prover. The challenge bits are timed to arrive at the prover
+station within \(\qty{3\pm 2}{\nano \second}\) of each other and are
+transmitted using specialized coaxial cables with signal transmission
+speeds about \(86\%\) the speed of light. We note that we allow
+adversaries to transmit signals at the speed of light. The implemented
+\(86\%\) transmission speed makes our localization region larger than
+it would be in an implementation with speed-of-light classical signal
+transmission.
+
+
+When the challenge bits \(\cba, \cbb\) arrive at the prover station,
+an XOR circuit is used to compute a settings bit
+\(\mqp = \cba \oplus \cbb\). The prover selects their polarization
+measurement bases, defined as
+$\cos(\theta_{P})\ket{H} + \sin(\theta_{P})\ket{V}$, by using this bit
+to choose between two angles,
+$\theta_{P} \in \{6.7^{\circ}, -29.5^{\circ}\}$. The selection is
+implemented using a Pockels cell to rotate the polarization of the
+incoming photon, followed by a polarizer to perform a polarization
+measurement, see~\cref{fig:apparatus}. The output of the polarizer is
+coupled into a single-mode fiber and incident on a superconducting
+nanowire detector. The result of the single-photon measurement (click
+or no-click) is sent back to the verifier stations via another set of
+coaxial cables, where the arrival times are recorded on time tagging
+devices. As depicted in~\cref{fig:minkowski} a), the incoming photon
+arrives just in time for the measurement.  At nearly the same time that the prover performs its quantum measurement (see~\cref{fig:minkowski} a)), verifier \(\Vap\) measures the polarization of the stored local photon \(\Qa\) using a similar setup. The verifier uses a local random number generator to select \(\mqa\), which sets the polarization measurement  basis $\cos(\theta_{A'})\ket{H} + \sin(\theta_{A'})\ket{V}$ to the angle $\theta_{A'}$ to either \(\qty{-6.7}{\degree}\) or \(\qty{29.26}{\degree}\). The setting choice and outcome are recorded on a local time tagger. The quantum verifier and prover locations are sufficiently separated to ensure space-like separation of measurement settings and measurement outcomes at the other station, see~\cref{fig:minkowski}.
+
+% \KSc{Krister will fix minor ordering issues} \MKc{To be moved elsewhere:
+%   Statement for future
+%   improvement related to a practical issue that could give extra
+%   entanglement to adversaries. To prevent
+%   applying the gardenhose attack for \(l=1\) it necessary to do
+%   something, if possible. If an adversary controls (or \emph{is}) the
+%   source, they could use the gardenhose attack quite effectively for
+%   \(2^{l}\) less than the number of pulses per trial.  I couldn't find
+%   the relevant discussion in the SI experiment section. The pulse rate
+%   of the source needs to be mentioned there. This issue is perhaps best
+%   discussed there.
+  
+%   ``The timing is assured by the speed of light in the fiber. The
+%   source emits photon pairs in pulses at a rate much larger than the
+%   trial rates. In future experiments, it is desirable to block these
+%   unneeded photon pairs so that they cannot be utilized by adversaries
+%   to establish prior entanglement.''} \GKc{Not sure about the status of this, but added a sentence in the supplementary talking about the rep rate of the laser and the source}
+
+The system operates at a rate of approximately 250,000 trials per
+second, limited by the operating rate of the Pockels cells. Data was
+recorded in \qty{60}{\second} intervals over two days. At the start of
+each day, an automated calibration routine was performed to correct
+for polarization drifts in the optical fiber and to ensure high
+coupling efficiency for the entangled photons. The measured system
+detection efficiency was \(>81 \%\) for both verifier \(\Vap\) and the
+prover station \(\Vp\), sufficient for an analysis that does not rely
+on fair-sampling assumptions. Specifically, this means we do
+not post-select or perform  background subtraction. Loss or
+background counts beyond the acceptable threshold would result in
+repeated protocol failure. The efficiency threshold for our protocol
+is \(2/3\), the same as a two-party Bell
+test~\cite{rowe_experimental_2001, eberhard_background_1993}, see
+Supplementary Information~\scref{sect:reduction}. Loophole-free Bell
+tests have been successfully implemented on many
+platforms~\cite{hensen_loopholefree_2015, shalm_strong_2015, giustina_significantloopholefree_2015,  
+  rosenfeld_eventready_2017, loopholefree_shanghai2018, storz_loopholefree_2023}, making the
+Bell-test QPV protocol amenable to a wide range of quantum hardware.
+
+
+\section*{Analysis and Results}
+
+We first collected calibration data to set key parameters in our
+analysis.  We then performed a series of QPV experiments on two
+separate days, with data collected in \qty{60}{\second} chunks with
+each chunk containing about \(15\) million experimental
+trials. Approximately eight hours of data was collected on September
+20, 2024 (day 1) and seven hours of data on October 7, 2024 (day
+2). The day 1 data was reserved for testing the basic protocol against
+adversaries without prior entanglement, while the day 2 data was used
+to test the extended protocol against adversaries with prior
+entanglement whose robustness averaged over trials is limited by a
+threshold \(r_{\text{th}}\).  The soundness parameter for both
+protocols was chosen to be \(\delta = \valSound\), and the targeted
+completeness, or success rate, was set to \(\epsilon = 0.97725\),
+corresponding to a Gaussian \(2\sigma\) probability of a particular
+protocol run successfully passing.  After evaluating the calibration
+data to determine the anticipated performance of the experiment, for
+the extended protocol the robustness threshold was fixed at
+\(r_{\text{th}} = \valThresh\).  We determined that for these
+parameters, \(30\) million trials (two minutes of data) were required
+per run of the basic protocol, and \(60\) million trials (four minutes
+of data) were needed per run of the extended protocol.
+
+The robustness threshold of \(r_{\text{th}} = \valThresh\) can be
+compared to the robustness per trial \(2\times 10^{-3}\) of the
+entangled state designed to be emitted by the source. The latter
+robustness accounts for the probability of about \(1/350\) that a
+photon pair is emitted in a trial (see Supplementary
+Information~\scref{subsec:exp_prot_imp}). The robustness of
+entanglement of a Bell state is \(1\). With a version of the
+``garden-hose'' attack~\cite{buhrman2013garden} given in Supplementary
+Information~\scref{sect:entangled_adversaries}, it is possible to
+break the security of the experimentally implemented version of
+Bell-test QPV with adversaries sharing two pairs of qubits, each with
+robustness of entanglement \(2\times 10^{-3}\).  As explained above,
+for security against adversaries with more quantum resources than used
+in the experiment, it suffices to increase the number of classical
+challenge bits in each trial.
+
+After running the two series of QPV experiments, the collected data
+were compressed and placed in blind storage prior to
+analysis. Occasional errors where our single-photon nanowire detectors
+failed to properly reset, and therefore were not light sensitive for
+one or more of the trials during a chunk, were flagged. On both day 1
+and day 2, the first 10 minutes of data free of detector errors were
+used to construct the initial test factor \(W\). The trials from the
+subsequent two or four minutes, depending on whether running the basic
+or extended protocol, and irrespective of detector errors, were then
+un-blinded and analyzed to determine the product \(P\) of the values
+of \(W\) witnessed by each trial record.  A product \(P \geq 2^{64}\) results in a
+pass; otherwise, that instance is considered a fail. Subsequent
+instances were processed sequentially using the next two or four
+minutes of data if available. To track long-term drifts in the
+experiment, we updated the test factor \(W\) before each subsequent
+instance, using the preceding 10 minutes of processed data without
+detector errors. This yielded \(\valBasicInstances\) runs of the basic
+protocol on day 1 and \(\valEntInstances\) runs of the extended
+protocol on day 2. Of the \(\valBasicInstances\) evaluated for the
+basic analysis, \(\valBasicSuccess\) passed (\(96.5\%\)), and of the
+\(\valEntInstances\) evaluated for the extended analysis,
+\(\valEntSuccess\) succeeded (\(99.0\%)\). Both of these agree well
+with the expected completeness of \(\epsilon = 0.97725\), and are
+shown in~\cref{fig:histogram}.
+
+In each of the successful instances, the target three-dimensional
+volume in which a prover must perform a quantum operation is
+\(\valMeanInvVol\) times smaller than the volume they would need to be
+in to pass a comparable classical protocol. This is a measure of our
+quantum position verification advantage (\({\rm QA}\) =
+\(E/E_{\rm adv}\), see above). This comparison can also be made in
+two-dimensions, \({\rm QA_{\rm area} = \valMeanInvArea}\), and in
+one-dimension, \({\rm QA_{\rm length} = \valMeanInvLineInt}\). For
+intuition on our metric, consider that in \cref{fig:protocol} for
+example, the (\({\rm QA}\)) is the ratio of the total volume of the
+blue and yellow regions to that of the yellow region, where the figure
+shows the two-dimensional projections of these regions. Finally, we
+can also compare with the ideal classical protocol in one dimension
+where the target region is the line segment between the two
+verifiers. In this case the advantage is
+\({\rm QA_{\rm length-ideal} =
+  \valMeanInvIdealLine}\). See~\scref{subsec:target_region} in the
+Supplementary Information for more details. Prior theory
+works~\cite{bluhm_singlequbit_2022, chandran_positionbased_2014} often
+consider an ideal version of this protocol. In this case, the quantum
+target region reduces to a point, the best classical target region
+reduces to the line joining the verifiers, and the QA tends to
+infinity.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=1.\linewidth]{figures_main_text/fig2_source_nature.pdf}
+    \caption{Figure depicting the experimental setup and verifier and
+      prover stations used for our demonstration. a) The quantum
+      target region \(\tR\) in yellow, and the classical target region
+      of a comparable classical protocol in blue overlaid on an aerial
+      photograph of the NIST building, where the experiment is
+      housed. b) Schematic of the hardware at verifier \(\Vap\). From
+      an untrusted entangled photon pair source, one photon of the
+      pair is sent to prover \(\Vp\), and the other to the measurement
+      station \(\Va\) at verifier \(\Vap\). At measurement station
+      \(\Va\), the incoming photon is delayed in a fiber loop and
+      measured by a superconducting nanowire detector in a
+      polarization basis determined by a fast Pockels cell and
+      waveplates. The setting is chosen via a random number generator
+      (RNG)~\cite{AbellanPRL2015}, and the outcome is recorded on a
+      time-tagger. c) Measurement station at the prover \(\Vp\). The
+      choice of measurement basis here is set via an XOR of the bits
+      \(u_{\Vap}\) and \(u_{\Vb}\) from the verifiers. The outcome of
+      this measurement is sent back to both verifiers, who record it
+      on their timetaggers. SNSPD: Superconducting nanowire single
+      photon detector; XOR: Exclusive OR; PC: Pockels cell; HWP:
+      Half-wave plate; QWP: Quarter-wave plate.}
+    \label{fig:apparatus}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\linewidth]{figures_main_text/fig3_nature.png}
+    \caption{Figure depicting the spacetime target regions in our
+      demonstration. a) The two-dimensional spacetime slice, where the
+      spatial dimension is along the line joining the provers, here
+      assigned the \(x\)-axis. Both the quantum (yellow), and
+      comparable classical (blue) regions are completely defined by
+      forward and backward lightcones from the spacetime events
+      corresponding to the release of \(\cba\) and \(\cbb\) and the
+      last moments when \(\zqa\) and \(\zqb\) are accepted. Events
+      \(\oqa\) and \(\mqa\) occur at \(\Va\), which is slightly
+      displaced from \(\Vap\). The region in blue is also the region
+      from which adversaries with sufficient quantum resources can
+      successfully attack the quantum protocol. Subfigures b) and c)
+      show three-dimensional projections of the quantum and classical
+      target regions, with the time dimension vertically up on the
+      page, and the spatial dimensions parallel and perpendicular to
+      the verifier axis depicted in the other two directions. The
+      regions are all rotationally symmetric about the verifier axis,
+      and so are identical in the spatial dimensions (\(y\) and \(z\))
+      perpendicular to the verifier axis. At the displayed scale, error
+      bars indicating uncertainty on the positions and timings are too
+      small to be discernible. A full accounting of
+      uncertainties and their effect on our results is detailed in the
+      Supplementary Information.}
+    \label{fig:minkowski}
+\end{figure}
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures_main_text/fig4_histogram_nature.pdf}
+    \caption{Plots of results from our experimental runs. Two sets of
+      protocol instances were run as part of our demonstration: a) is
+      day 1, analyzed for security against adversaries pre-sharing no
+      entanglement; and b) is day 2, analyzed against adversaries
+      pre-sharing entanglement such that the average robustness over
+      an instance's trials is upper bounded by
+      \(r_{\text{th}} = \valThresh\). The soundness target for all
+      instances was \(\delta = \valSound\). Plotted are histograms of
+      the data binned based on the calculated \(\log_{2}(P)\), where
+      \(P\) is the product of the test-factor values over the trials
+      in a protocol instance.  The \(\log_2(P)\) value for each
+      instance is indicated with a tick directly above the \(x\)-axis
+      and below the histograms on both plots. Any instances with a
+      \(\log_2(P)\) less than \(-\log_2(\delta) = 64\) are declared
+      failures, and correspond to ticks inside the red regions. Also
+      plotted in purple is the experimental fraction of instances
+      below \(\log_2(P)\) as a function of \(\log_2(P)\). At a higher
+      \(\log_2(P)\), which corresponds to a stricter choice for the
+      soundness, a larger fraction of the data would be considered a
+      failure, reducing success probability. The plots both share the
+      same \(x\)-axis.}
+    \label{fig:histogram}
+\end{figure}
+
+
+
+\section*{Conclusion}
+
+This work presents the first complete demonstration of a quantum
+position verification protocol---a major step forward in the
+development of secure quantum cryptographic primitives.  Our
+implementation achieves strong localization guarantees and rules out
+powerful classes of adversaries without relying on assumptions about
+the internal functioning of the quantum devices involved. We have
+shown that Bell-test QPV is scalable and robust. Because the source is
+untrusted with no restriction on speed of transmission of qubits,
+transmission loss can be tolerated provided that trials are heralded
+via entanglement swapping or commitment. The effect of all noise
+sources including detector inefficiencies on
+completeness is the same as that on Bell tests: It suffices for the
+Bell test to be successful for the honest prover to be able to pass
+the protocol~\cite{eberhard_background_1993}.  For future scalability, entangled photon pairs can be
+provided by quantum repeaters.  No source of noise can affect
+  soundness, and neither do adversary actions such as interference
+  with communication and calibrations, including calibrations used to
+  choose the test factors. Such actions at worst result in denial of
+  service, an issue that is faced by all communication protocols.
+
+
+
+While the protocol as demonstrated already offers robust security within minutes, there are several areas in which future experiments can be improved. At present, the Pockels cells used to perform the measurements can operate only at \qty{250}{kHz} due to the large switching voltages required, whereas all other components in the system can support trial rates of up to \qty{100}{MHz}. Faster active measurement devices could reduce run times by two orders of magnitude, leading to position-verification times on the order of one second while maintaining the same security parameters.
+
+Our localization accuracy is currently limited by transmission latencies as well as measurement processing time at the prover station. For larger distances on the metropolitan scale, low-latency line-of-sight classical communication links will be required, using either laser communications or wireless technologies. Both technologies are mature and should be readily adaptable to larger distances. The line-of-sight requirement for ranging means that transmitting signals through buried cables, whether high-velocity-factor cables or hollow-core fibers, will not be feasible in most situations. Buried cables rarely follow line-of-sight paths, leading to significant geometry-induced latencies. Using custom low-latency circuits and FPGAs, it should be possible with existing classical technology to reduce the combined transmission and measurement latency to below \qty{30}{\nano \second}, even over distances of many kilometers. This would lead to prover regions that are well contained within a large room or a single building along the verifier axis. Such low-latency classical communications will also be valuable for future quantum repeater networks, as they can significantly reduce the feed-forward time between repeater nodes, thereby reducing the storage times required by quantum memories.
+
+Finally, to exclude adversaries possessing more entanglement than that prepared by the source, we have shown that it suffices to increase the number of bits used for the challenges \(\cba,\cbb\). Recent work in~\cite{fan2026relativistic} has demonstrated the feasibility of 20-bit challenges for each of \(\cba\) and \(\cbb\), together with random functions \(f(\cba,\cbb)\). Adapting these classical processing techniques will enable systems based on our protocol to safeguard against more powerful quantum adversaries.
+
+While there is still much work to be done before QPV systems can be widely deployed in real-world settings, our work makes significant progress toward demonstrating the requirements for a complete protocol capable of achieving a quantum advantage in a nontrivial distributed environment. 
+
+\section*{Methods}
+
+
+\subsection*{Assumptions}
+
+Completeness and soundness of Bell-test QPV are established under the
+assumptions detailed in Supplementary
+Information~\scref{subsect:protocol_assumptions}.  The assumptions are
+standard for device-independent
+protocols~\cite{shalm_deviceindependent_2021,
+  liu_deviceindependent_2021, kavuri_traceable_2025} and include
+secure classical computing, known verifier laboratory locations, and
+sufficiently accurate event timing. The verifier laboratories must be physically
+  secured against unauthorized access. According to
+  device-independence, the quantum measurement apparatus and the
+  entangled photon source are untrusted: no assumptions are made about
+  their internal operation. Like other device-independent
+  protocols~\cite{nadlinger_experimental_2022}, we require shielding
+  of the measurement station's external interface.  In the
+  no-prior-entanglement setting, it is desirable to add shielding
+  to the source to prevent emissions outside defined time
+    windows. For significant prior entanglement, source contributions are accounted
+    for by the adversary entanglement bounds, which exceed the entanglement
+  required by the verifiers and honest prover.
+
+Protocol specific assumptions include conditions on measurement
+settings and challenge distributions, defined target regions, 
+trial boundaries, and specified classes of adversaries.
+Verifier settings and challenges are drawn from
+fixed distributions satisfying two independence conditions: (1) the
+prover setting $\Mqp$ and verifier setting $\Mqa$ are independent of
+$\Vap$'s challenge $\Cba$; and (2) $\Mqa$ is conditionally independent
+of both challenges given $\Mqp$. These hold, for example, when the
+challenges are uniform and independent of $\Mqa$, and the settings
+function $f(\cba,\cbb)$ is chosen appropriately.
+
+Depending on the settings function and test-factor construction,
+  Bell-test QPV is sound against different classes of adversaries.
+For all classes, adversaries can perform instantaneous
+  computation and speed-of-light communication.  Each class is
+  defined by a set of assumptions on adversaries required for
+  soundness.  All classes of adversaries allow for unlimited classical
+  communication.  For the simplest class, we assume no prior
+  entanglement but allow unlimited quantum communication. For classes
+  of adversaries with significant prior entanglement quantum
+  communication is replaced by quantum teleportation and contributes
+  to the prior entanglement.  The maximum amount of prior entanglement
+  allowed while ensuring protocol soundness is determined by the
+  number of challenge bits and the settings function used in each
+  trial. See the completeness and soundness results below for details.
+
+
+
+\subsection*{Completeness and Soundness Results}
+
+\noindent\textbf{Protocol completeness:}
+\emph{For all
+  \(\epsilon\in (0,1)\), Bell-test QPV  is
+  \(\epsilon\)-complete. To witness completeness it suffices for the
+  verifiers and honest prover to violate local realism for some
+  Bell test configuration with two measurement settings for the
+  prover. For every class of adversaries under consideration and a
+  given violation of local realism, the number of trials required
+  for completeness \(\epsilon\) and soundness \(\delta\) is
+  \(O(\log(1/\delta))+ O(\log(1/(1-\epsilon)))\). }
+
+The proof of this result is in Supplementary
+Information~\scref{sect:reduction}. Because there is no restriction
+on how the entangled state for the Bell-test is obtained by the
+verifiers and prover before each trial, completeness is preserved if
+a slow quantum network is used to prepare these states. The quantum
+link may be heralded and can support prover commitment
+strategies~\cite{allerstorfer2025making}.  Therefore loss in
+photonic links is well tolerated. See Supplementary
+Information~\scref{sect:heraldetc} for how the protocol supports
+heralded sources and commitment.
+
+The soundness results depend on the class of adversaries under
+consideration. In each case, soundness holds for all spatial
+dimensions, and the source is untrusted and may be controlled by one
+of the adversaries. Classical communication by the adversaries is
+always unconstrained.  The first soundness result involves the class of
+adversaries with no prior entanglement.
+
+\noindent
+\textbf{Protocol soundness against adversaries with no prior entanglement:}
+\emph{For all \(\delta>0\), Bell-test QPV is \(\delta\)-sound
+  against adversaries who have no prior entanglement for each
+  trial. The adversaries can freely use classical and quantum computation and
+  communication during each trial.}
+
+The proof is contained in Supplementary
+Information~\scref{subsect:spacetimeana},~\scref{sect:reduction}
+and~\scref{sec:test_factors}. The first step of the proof  follows the
+traditional path of reducing the adversary attacks to those involving
+two adversaries on opposite sides of the target
+region~\cite{buhrman_positionbased_2014}.  Bell-test QPV
+requires an analysis that is independent of spatial dimension, takes
+into account the time required by the honest prover to perform its
+measurement task, and supports device-independence with test factors.
+For this we adapt the spacetime circuit analysis introduced in
+Ref.~\cite{unruh2014quantum} and fully formalize the reduction to two
+adversaries. The subsequent analysis of adversary attacks deviates
+from the traditional path in order to reduce the statistics of
+adversarial trial records to a three-party non-signaling scenario for
+which we can construct test factors. 
+
+The absence of prior entanglement for the above soundness result
+implies a constraint on the location of the source entanglement at the
+trial boundary: The source entanglement must be located on the side
+closer to verifier \(\Va\), which requires that we prevent the quantum
+system destined for the prover from leaking to the other side. This
+constraint on the location of the source entanglement is mitigated by
+the next soundness result and absent in the last two soundness
+results.
+
+The second soundness result allows for small amounts of prior entanglement.
+
+\noindent \textbf{Protocol soundness against adversaries with small amounts
+  of prior entanglement:} \emph{For all \(\delta>0\), the Bell-test
+  protocol of Sect.~\scref{subsect:protocol_assumptions} is
+  \(\delta\)-sound against adversaries with small amounts of prior
+  entanglement for each trial or on average over the trials.  The
+  adversaries can freely use classical and quantum computation and communication
+  during each trial.}
+
+This is proven in Supplementary
+Information~\scref{sec:smallentanglement}. The amount of entanglement
+allowed depends on the quality of the Bell test used by the verifiers
+and prover. The amount of prior entanglement is quantified either as
+maximum robustness of entanglement over trials, or as average
+robustness of entanglement over trials.  For the experiment, the upper
+bounds on allowed prior entanglement are smaller than the entanglement
+created by the source, limiting the strength of the result.  The
+technique used here can be viewed as a quantified strengthening of
+Lemma~5.3 of Ref.~\cite{beigi2011simplified}.  It is also related to
+the entanglement forging method of Ref.~\cite{eddins2022doubling}.
+Neither our above bounds nor those based on
+Ref.~\cite{beigi2011simplified} have so far led to bounds on prior
+entanglement of adversaries that are higher than the resources used by
+the verifiers and honest prover when quantum computation and
+communication during a trial is unrestricted.
+
+To prove soundness against adversaries with significant amounts of
+prior entanglement requires increasing the complexity of the settings
+function \(f(\cba,\cbb)\).  For the next two results, we set
+$f(\cba,\cbb)=g_0(\cba\oplus\cbb)$, where \(g_{0}\) is the semi-bent
+function
+\( g_{0}(z) = z_{0} + \sum_{i=1}^{l-1} z_{i}\,z_{i+l-1} \mod 2 \) and
+the bit-length \(l\) of \(\cba\) and \(\cbb\) is odd. The semi-bent
+function is explicit, efficiently computable, and therefore scalable.
+
+
+
+\noindent \textbf{Protocol soundness against adversaries with logarithmic
+  prior entanglement:} \emph{There are efficiently implementable
+  settings functions \(f(\cba,\cbb)\) such that for all \(\delta>0\),
+  Bell-test QPV is \(\delta\)-sound against adversaries for whom the
+  sum of the number of qubits quantum communicated and the number of
+  qubits used for prior entanglement is bounded by
+  \(\log(l)/2 - O(1)\).  The adversaries may use arbitrary local
+  quantum computation and classical communication during each trial.
+}
+
+The proof is in Supplementary
+Information~\scref{sect:entangled_adversaries}. Since quantum
+communication can be replaced by prior entanglement and classical
+communication, the soundness can be interpreted as being against
+adversaries with \(\log(l)/2-O(1)\) qubits of prior entanglement and
+no quantum communication. To support practical applications, we fully
+quantify the allowed prior-entanglement bound. To maintain a given
+soundness and completeness, it suffices to increase the number of
+trials by a constant factor. We choose a factor of \(6\) in the
+examples mentioned in the main text.  The suppressed constant in the
+bound depends on the test factor used and its gain.  See the
+paragraphs starting at~\scref{eq:epsilon_n_d} in Supplementary
+Information~\scref{sect:entangled_adversaries}.  The proof of this
+soundness result is inspired by the proof of Prop. 6.1 in
+Ref.~\cite{bluhm_singlequbit_2022}.  A specific analysis of the
+relationship between adversarial test-factor expectations and guessing
+probabilities for the settings function is required to efficiently
+preserve completeness under all circumstances.  A benefit of our
+result is that there is no constraint on classical communication, and
+there are no added constraints on honest-prover performance.
+Refs.~\cite{bluhm_singlequbit_2022,escola-farras_singlequbit_2023}
+show non-constructively that there are device-dependent protocols
+where the verifiers and prover require one qubit, but adversaries need
+at least a linear total amount of quantum memory, classical memory and
+classical communication to pass the protocol. However, it is an open
+problem to have a better than logarithmic gap between the qubit
+resource required by the verifiers and honest prover, and the
+adversary prior entanglement in qubits, when the classical memory and
+communication accessible by adversaries are unrestricted. For
+Bell-test QPV, there are similar open questions.
+
+
+Instead of bounding prior entanglement, we can bound qubits and
+gates used by the adversary nearer \(\Vb\).
+
+\noindent \textbf{Protocol soundness against adversaries with linear quantum
+  operations:} \emph{There are efficiently implementable settings
+  functions \(f(\cba,\cbb)\) such that for all \(\delta>0\), 
+  Bell-test QPV is \(\delta\)-sound against adversaries with
+  arbitrary classical communication but no quantum communication,
+  and where the adversary nearer \(\Vap\) can use arbitrary local
+  quantum resources, but the adversary nearer \(\Vb\) is restricted to
+  \(O(l/(\log(q)+1))\) quantum operations in a basic universal set,
+  where \(q\) is the number of qubits used by this adversary.}
+
+The proof of this result is based on the proof of the previous
+soundness result and given at the end of Supplementary
+Information~\scref{sect:entangled_adversaries}.  Again, to support
+practical applications, we fully quantify the bound on quantum
+resources allowed by adversaries.  The proof is motivated by the
+argument given in Ref.~\cite{asadi2025linear} to prove a similar
+result for BB84 and routing QPV protocols. The suppressed constant in
+the bound \(O(l/(\log(q)+1))\) depends on the size of the basic
+universal set of quantum operations, which includes qubit
+measurements.
+
+
+
+\subsection*{Target-region comparison}
+
+To benchmark our demonstration's performance, we compare the size of
+the target region in our demonstration to the smallest achievable
+target region with a classical protocol having the same latencies. In
+the classical protocol illustrated in~\cref{fig:protocol} a),
+verifiers \(\Vap\) and \(\Vb\) start by broadcasting challenge bits
+\(\cba\) and \(\cbb\) at times \(s_{\Vap}\) and \(s_{\Vb}\), timed to
+arrive simultaneously at some position between them. Appropriately
+positioned provers are assumed to have access to these bits as soon as
+they are released. An honest prover \(\Vp\), or adversaries, can
+receive the challenge bits and use them as inputs to a predetermined
+function \(g(\cba,\cbb )\) that is publicly known. The value of this
+function determines the specific measurement to be performed. The
+measurement outcome is then sent back to $\Vap$ and $\Vb$, who receive
+$\zqa$ and $\zqb$, respectively, and jointly validate the results.
+
+The verifiers choose the target region by deciding when they send
+challenges and accept responses. There are four relevant times:
+\(s_{\Vap}\) and \(s_{\Vb}\) are the times when \(\Vap\) and \(\Vb\)
+send their challenge bits, and \(r_{\Vap}\) and \(r_{\Vb}\) are the
+latest times when the verifiers accept the responses. This procedure
+is repeated multiple times to build confidence in the honest running
+of the protocol. Repeated late responses, or trials where
+\(\zqa \neq \zqb\) will result in failure with high likelihood. We
+show in the Supplementary Information~\scref{subsect:spacetimeana}
+that target regions for the classical protocol and our quantum
+protocol are determined by the speed of light \(c\) and the four
+time intervals
+\renewcommand{\theequation}{\arabic{equation}}
+\begin{linenomath}
+  \begin{align}
+    \Delta\tau_1 &= (r_{\Vap} - s_{\Vap})/2, \label{eq:space_constraints1}\\
+    \Delta\tau_2  &= (r_{\Vb} - s_{\Vb})/2,\label{eq:space_constraints2} \\
+    \Delta\tau_3  &= r_{\Vap} - s_{\Vb},\label{eq:space_constraints3}\\
+    \Delta\tau_4  &= r_{\Vb} - s_{\Vap}.\label{eq:space_constraints4}
+  \end{align}%
+\end{linenomath}  
+
+The impossibility of superluminal signaling constrains the locations from which a stationary prover can receive \(\cba\) and reply to verifier \(\Vap\) to points in a sphere \(\Sp{\Vap}{c\Delta\tau_1}\) of radius \(c\times\Delta\tau_1\) centered on \(\Vap\). Similarly, \(c\times\Delta\tau_2\) is the radius of an analogous sphere \(\Sp{\Vb}{c\Delta\tau_2}\) centered on \(\Vb\). The set of all locations from which a stationary prover can receive \(\cbb\) (released at \(s_{\Vb}\)) and respond to verifier \(\Vap\) is a prolate ellipsoid \(\El{c\Delta\tau_3}\) with the verifier \(\Vap\) and \(\Vb\) locations as foci, and major axis  \(c\times\Delta\tau_3\). Prolate ellipsoids are the set of all points such that the sum of the distances from the verifiers is less than or equal to the major axis. This means any prover outside this shape could not receive \(\cbb\) and reply to \(\Vap\) within \(r_{\Vap}\). An analogous ellipsoid \(\El{c\Delta\tau_4}\) constrains receiving \(\cba\) and replying to \(\Vb\). 
+
+If the verifiers can ensure that they only ever interact with a single
+prover, the target region is the intersection of all the regions
+listed above,
+\(E\ = \Sp{\Vap}{c\Delta\tau_1} \cap \Sp{\Vb}{c\Delta\tau_2} \cap
+\El{c\Delta\tau_3} \cap \El{c\Delta\tau_4}\). A projection of this
+region to a 2-D plane for a particular choice of release and receive
+times is indicated in yellow in~\cref{fig:protocol} d). This
+single-prover target region could be made arbitrarily small if one
+could approach zero-latency processing and direct speed-of-light
+transmission. However, the verifiers have no way to enforce the
+single-prover assumption in practice, and must allow for multiple
+interacting provers. As we show in the Supplementary
+Information~\scref{subsect:spacetimeana}, multiple adversaries can use
+the ``classical spoofing'' protocol, shown in~\cref{fig:protocol} b),
+to pass the protocol, provided they have access to the larger region
+\(E_{\rm adv} = \Big(\Sp{\Vap}{c\Delta\tau_1}
+\cap\El{c\Delta\tau_3}\Big) \cup \Big(\Sp{\Vb}{c\Delta\tau_2} \cap
+\El{c\Delta\tau_4}\Big) \supseteq E\). This spoofing is
+indistinguishable from an honest single-prover strategy from the
+verifiers' point of view. A 2-D projection of \(E_{\rm adv}\) is
+indicated with blue in~\cref{fig:protocol} c).  The target region for
+the classical protocol \(E_{\rm adv}\) precludes remote position
+verification because the target region includes the verifier positions
+themselves in addition to the space between the verifiers. While
+arbitrarily small target regions that include the verifier positions
+are always possible with straightforward
+ranging~\cite{sastry_secure_2003}, no classical protocols admit remote
+position verification~\cite{chandran_positionbased_2014}
+
+
+\subsection*{Note on Uncertainties}
+All of the uncertainties reported in the main and supplementary texts are standard uncertainties (\(1\)-sigma). When we report a quantity with uncertainty as (for example) \qty{774.3(2)}{nm}, the number in parentheses is the numerical value of the combined standard uncertainty referred to the corresponding last digits of the quoted result. 
+
+
+\section*{Use of AI Tools}
+
+AI tools were used in editing the text to help improve readability, to
+assist in producing schematics, and as coding assistants for
+implementing analysis code. The authors thoroughly reviewed text,
+schematics and code produced by the AI tools and take full
+responsibility for the final results.
+
+\section*{Data Availability}
+All experimental data from the quantum position verification protocol shown in this manuscript are available upon request from the corresponding authors.
+
+\section*{Acknowledgment}
+The authors would like to thank Peter Bierhorst and Michael Grayson for useful discussions, Yi-Kai Liu, Adam McCaughan and Aneesh Ramaswamy for close reading of the manuscript, and Daniel Sorensen for help with cable routing.  The authors acknowledge support from the National Science Foundation QLCI OMA-2016244, National Science Foundation NQVL:QSTD:Pilot 2435378, the National Science Foundation ECCS 2330228, the National Science Foundation OSI 2328800, the University of Colorado Quantum Engineering Initiative, the National Institute of Standards and Technology, and the U.S. Department of Energy, Office of Science, Advanced
+Scientific Computing Research (Field Work Proposal ERKJ381). Yusuf Alnawakhtha acknowledges support from the Crown Prince International Scholarship Program and the Arabian Gulf University.
+
+\section*{Disclaimer}
+Any mention of commercial products within the manuscript is for information only; it does not imply recommendation or endorsement by NIST. This work includes contributions of the National Institute of Standards and Technology, which are not subject to U.S. copyright. The U.S. Government is authorized to reproduce and distribute reprints for governmental purposes notwithstanding any copyright annotation thereon.
+
+Additionally, this manuscript has been co-authored by UT-Battelle, LLC, under contract DE-AC05-00OR22725 with the US Department of Energy (DOE). The US government retains and the publisher, by accepting the article for publication, acknowledges that the US government retains a nonexclusive, paid-up, irrevocable, worldwide license to publish or reproduce the published form of this manuscript, or allow others to do so, for US government purposes. DOE will provide public access to these results of federally sponsored research in accordance with the DOE Public Access Plan (http://energy.gov/downloads/doe-public-access-plan).
+
+\section*{Disclosures}
+The authors declare no conflicts of interest.
+
+\section*{Author Contributions}
+Conceptualization: G.A.K., L.K.S., E.K., Y.Z., S.G., M.J.S., H.F., C.A.M., Y.A., A.R.G., S.P., J.C.B.; Investigation: G.A.K., A.R.G., L.K.S., M.J.S., M.D.M; Methodology: Y.Z., G.A.K., L.K.S, E.K., S.G.; Software: G.A.K.,  Y.Z., L.K.S.; Formal analysis: Y.Z., S.P., E.K., G.A.K., S.G.C., L.K.S.; Security analysis: E.K., Y.Z., C.A.M., Y.A.; Funding acquisition: L.K.S., R.P.M., M.J.S.;  Project administration: L.K.S., E.K., M.J.S.; Resources: D.V.R., J.C.B., C.A., W.A., M.W.M.; Supervision: L.K.S., E.K., S.G., M.J.S., R.P.M.; Visualization: G.A.K., L.K.S., E.K., Y.Z.; Writing – original draft: G.A.K, E.K., L.K.S., Y.Z., S.G.;
+Writing – review \& editing: G.A.K, E.K., Y.Z., S.G, L.K.S., S.P., A.R.G., H.F., Y.A., M.W.M., C.A.M.
+
+%%% Local Variables:
+%%% TeX-master: "main_text"
+%%% End:
