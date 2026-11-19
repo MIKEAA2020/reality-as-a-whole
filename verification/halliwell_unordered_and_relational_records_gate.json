@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "cycle_length": 6,
+  "kinematic_basis_dimension": 72,
+  "constraint": "W|c,x,d>=|c+1,x+d,d> modulo 6; H=2I-W-W^dagger has kernel Fix(W)",
+  "stationary_histories": "|Psi_d> = sum_c |c,dc mod 6,d>/sqrt(6), d=+1 or -1",
+  "unordered_single_site_ever_effects_all_identity": true,
+  "all_clock_and_position_marginals_uniform": true,
+  "group_averaged_relative_effects_commute_with_W": true,
+  "relative_event_probabilities": {
+    "-1": {
+      "clock_1_site_1": "0",
+      "clock_2_site_2": "0",
+      "clock_4_site_2": "1",
+      "clock_5_site_1": "1"
+    },
+    "1": {
+      "clock_1_site_1": "1",
+      "clock_2_site_2": "1",
+      "clock_4_site_2": "0",
+      "clock_5_site_1": "0"
+    }
+  },
+  "positive_history_joint_P_site1_at_1_and_site2_at_2": "1",
+  "negative_history_joint_P_site1_at_1_and_site2_at_2": "0",
+  "scope": "finite cyclic idealization with stipulated orientation, dial calibration, and subsystem split; ever-visit effects are not detector dynamics; no gravitational implementation, subject selector, or phenomenal time"
+}

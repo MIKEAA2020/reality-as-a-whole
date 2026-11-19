@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 337 root Markdown documents including this register; 43 research Markdown documents.
-- 39 original uploaded files, including provenance metadata; 282 verification Python scripts.
+- 338 root Markdown documents including this register; 43 research Markdown documents.
+- 39 original uploaded files, including provenance metadata; 283 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -123,6 +123,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) — Relaxations, persistence, and what an optimizer can establish
 - [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
 - [HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md](HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md) — Hair, experience, and the intrinsic nature of reality
+- [HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md](HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md) — Timeless detectors and relational order
 - [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
 - [HAWKING_BACKREACTION_BOUND.md](HAWKING_BACKREACTION_BOUND.md) — Hawking backreaction bound: the bounce geometry is self-consistent
 - [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md) — Hawking temperature, evaporation, and Page curve for bouncing black holes
@@ -519,6 +520,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
 - [verification/ground_support_factorization_gate.py](verification/ground_support_factorization_gate.py)
+- [verification/halliwell_unordered_and_relational_records_gate.py](verification/halliwell_unordered_and_relational_records_gate.py)
 - [verification/hamiltonian_detector.py](verification/hamiltonian_detector.py)
 - [verification/hawking_backreaction_bound.py](verification/hawking_backreaction_bound.py)
 - [verification/hemispherotomy_spectral_translation_gate.py](verification/hemispherotomy_spectral_translation_gate.py)

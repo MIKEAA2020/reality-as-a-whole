@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 380,
-  "bytes": 5038915,
-  "line_count": 52446,
-  "document_count_with_risk_phrases": 354,
+  "document_count": 381,
+  "bytes": 5048771,
+  "line_count": 52499,
+  "document_count_with_risk_phrases": 355,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1999,8 +1999,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "34209362ed914ac506e1abd2c10009a5f94f99bc72f35e5c6c6fc4343aec4ed5",
-      "bytes": 25917,
+      "sha256": "6ad0aaede977cfd67addd8425406c93c6aa7a9a7ddb6c569eff5972f6dfbf82f",
+      "bytes": 26262,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2020,6 +2020,7 @@
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -3283,9 +3284,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f2b8f8731bbe55af89021312fc86b43391af34b9165257f3330ad96690f1604f",
-      "bytes": 88578,
-      "lines": 734,
+      "sha256": "f886acfca4880e535be6c518b7107b5f67ac97fe83e313e2493e8951d74a15a4",
+      "bytes": 88864,
+      "lines": 736,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3410,6 +3411,7 @@
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "HAMILTONIAN_CLOCK_DETECTOR.md",
         "HAWKING_BACKREACTION_BOUND.md",
         "HAWKING_PAGE_CURVE.md",
@@ -3792,6 +3794,7 @@
         "verification/gravitating_clock_probe.py",
         "verification/gravity_clock_complementarity.py",
         "verification/ground_support_factorization_gate.py",
+        "verification/halliwell_unordered_and_relational_records_gate.py",
         "verification/hamiltonian_detector.py",
         "verification/hawking_backreaction_bound.py",
         "verification/hemispherotomy_spectral_translation_gate.py",
@@ -4010,17 +4013,17 @@
         40,
         48,
         97,
-        162,
-        200,
-        217,
-        261,
-        328,
-        341,
-        377,
-        386,
-        389,
-        392,
-        439
+        163,
+        201,
+        218,
+        262,
+        329,
+        342,
+        378,
+        387,
+        390,
+        393,
+        440
       ]
     },
     {
@@ -4520,6 +4523,34 @@
         17,
         26,
         50
+      ]
+    },
+    {
+      "path": "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
+      "sha256": "8e158fc31a1d58b7bdaa88677b618e1583463a389571fda1676a49d1b904162b",
+      "bytes": 9083,
+      "lines": 51,
+      "title": "Timeless detectors and relational order",
+      "headings": [
+        "Timeless detectors and relational order",
+        "Source and coverage",
+        "What Halliwell's model supplies",
+        "A bounded test: unordered visits versus relative order",
+        "Implications for the whole"
+      ],
+      "local_links": [
+        "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "OPERATIONAL_PATH_ACCUMULATOR.md",
+        "verification/halliwell_unordered_and_relational_records_gate.py",
+        "verification/halliwell_unordered_and_relational_records_gate.json",
+        "AUTONOMOUS_RECORD_TAPE.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        13,
+        31,
+        42,
+        47
       ]
     },
     {
@@ -11052,8 +11083,8 @@
     },
     {
       "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
-      "sha256": "875949220044262cb584f17adbc1bd4739e16c42c3328ce59940688eb7556689",
-      "bytes": 8573,
+      "sha256": "8e26d63ddb9907dc12ca9cc184cbb65d4d96fe756c18de2b1d528bf282736823",
+      "bytes": 8715,
       "lines": 37,
       "title": "Quantum waves, records, and experiential plurality",
       "headings": [
@@ -11065,12 +11096,14 @@
       ],
       "local_links": [
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
         "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "verification/vedral_free_spread_gate.py",
         "verification/vedral_free_spread_gate.json",
-        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md"
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md"
       ],
       "risk_phrase_lines": [
         25,
