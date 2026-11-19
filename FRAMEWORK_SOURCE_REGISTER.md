@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 332 root Markdown documents including this register; 43 research Markdown documents.
-- 35 original uploaded files, including provenance metadata; 278 verification Python scripts.
+- 333 root Markdown documents including this register; 43 research Markdown documents.
+- 35 original uploaded files, including provenance metadata; 279 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -119,6 +119,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [GLOBAL_COHERENCE_AND_DECISION_PLAN.md](GLOBAL_COHERENCE_AND_DECISION_PLAN.md) — One global plan: from experiential actuality to recoverable physics
 - [GLOBAL_WORKSPACE_REASSESSMENT.md](GLOBAL_WORKSPACE_REASSESSMENT.md) — Global Workspace Theory as a candidate implementation
 - [GOAL_RELATIVE_VALUE_ARGUMENT.md](GOAL_RELATIVE_VALUE_ARGUMENT.md) — Goal-relative evaluation: the rigorous result and its limits
+- [GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) — Relaxations, persistence, and what an optimizer can establish
 - [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
 - [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
 - [HAWKING_BACKREACTION_BOUND.md](HAWKING_BACKREACTION_BOUND.md) — Hawking backreaction bound: the bounce geometry is self-consistent
@@ -539,6 +540,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/local_preparation.py](verification/local_preparation.py)
 - [verification/localized_constraint_clock.py](verification/localized_constraint_clock.py)
 - [verification/localized_preparation.py](verification/localized_preparation.py)
+- [verification/lp_persistency_and_moment_gate.py](verification/lp_persistency_and_moment_gate.py)
 - [verification/maintained_disclosure_contrast.py](verification/maintained_disclosure_contrast.py)
 - [verification/microtubule_mediation_rival.py](verification/microtubule_mediation_rival.py)
 - [verification/modular_clock.py](verification/modular_clock.py)

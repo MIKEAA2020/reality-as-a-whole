@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "scope": "two exact finite counterexamples, not a general roof-duality proof or empirical model",
+  "lp_example": {
+    "objective": "sum of disagreements on edges 12, 23, 13; edge 01 has zero weight",
+    "locally_consistent_fractional_lp_score": "3",
+    "certified_lp_upper_bound": 3,
+    "exact_integer_optimum": 2,
+    "integer_optimizers": 12,
+    "integral_lp_label_x0": 0,
+    "optimal_integer_x0_values": [
+      0,
+      1
+    ],
+    "strong_persistency": false,
+    "weak_persistency_for_this_point": true,
+    "fractional_point_is_exposed_vertex": true,
+    "vertex_certificate": "unique maximizer of sum of triangle disagreements minus P(X0=1)"
+  },
+  "moment_example": {
+    "uniform_binary_pair_atom_probabilities": [
+      "1/4",
+      "1/4",
+      "1/4",
+      "1/4"
+    ],
+    "moment_matrix_trace": "9/4",
+    "sum_claimed_eigenvalues": "1",
+    "probabilities_are_eigenvalues": false,
+    "psd_by_gram_construction": true
+  },
+  "limitations": "Counterexample to a literal strong-persistency wording under ties; not a failure of weak persistency. Does not challenge PSD/realizability equivalence under the correct congruence transformation."
+}

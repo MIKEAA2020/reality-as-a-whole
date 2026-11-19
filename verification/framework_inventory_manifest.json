@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "4a5d01134ca5115de9f9364f2ae5aa6054c0b854",
-  "file_count": 1216,
+  "base_head": "1174ccda7c42ebae36419c8645fb00c1286043a8",
+  "file_count": 1219,
   "files": [
     {
       "path": ".gitattributes",
@@ -280,8 +280,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 24131,
-      "sha256": "be6443432fee63f7c9a54efb96da8d9f5f8aee36aabf522a35ac9988d3330aa2"
+      "bytes": 24871,
+      "sha256": "6ed96351dab1b6584844be0610cfbadab7d386daec9cab7c2d0c8ada9fee96f6"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -325,8 +325,8 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "bytes": 11623,
-      "sha256": "3013f79e9a3578efe804c447f560efd81c5456526796441699544d972836da5b"
+      "bytes": 12670,
+      "sha256": "d609818af4dabab3e05f61dd2d4241356c1f30efc0741158db9809b47d092aeb"
     },
     {
       "path": "ENERGY_CONDITIONS_BOUNCE.md",
@@ -485,8 +485,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 86908,
-      "sha256": "8d940cd511a4cd7becc11d47c94d7245fe00e9b7bb90a0ab1c6e3352acd71ba6"
+      "bytes": 87188,
+      "sha256": "d26af4ad2816fb873fd469e389be534c8b723ed39c0b48a8cc3b015327b67840"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -547,6 +547,11 @@
       "path": "GOAL_RELATIVE_VALUE_ARGUMENT.md",
       "bytes": 8403,
       "sha256": "4000ad7d9f73917a759df858d0f04e181f69364312042358ad2c63ec7c573674"
+    },
+    {
+      "path": "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
+      "bytes": 7506,
+      "sha256": "c758c90245a80757caec5636f6ff359a54ccbc7dfe02cd2429e89571ecb76e21"
     },
     {
       "path": "GRAVITATING_PROPER_TIME_CLOCK.md",
@@ -4159,6 +4164,16 @@
       "sha256": "68bc30bc05f6231dac59ea04a614d4d2b915e1ea77af1fbbfb3603930635b94a"
     },
     {
+      "path": "verification/lp_persistency_and_moment_gate.json",
+      "bytes": 1190,
+      "sha256": "851df3009451f4b6244396dfa92342ebe4862efcdcc1c270d6085631656fc112"
+    },
+    {
+      "path": "verification/lp_persistency_and_moment_gate.py",
+      "bytes": 4157,
+      "sha256": "07f7f7aa8700f1fe4bfe8a2c24a65facb5a817238c7f6b98a1a679683eda2f5f"
+    },
+    {
       "path": "verification/maintained_disclosure_contrast.json",
       "bytes": 10862,
       "sha256": "6b510c9aaced6b974e36fdfa006a1d66097669cdc841cb12e0eb8f7b068b7200"
@@ -4540,8 +4555,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 474486,
-      "sha256": "7fbfe0d6d447b2e69fd83f6d817bca4509ef783c0b1232246e82c159aedac500"
+      "bytes": 475711,
+      "sha256": "a8ca9bc276f06aba2acbdd21651f059d37ef98e2ab82bbfdb194f6503e3d9754"
     },
     {
       "path": "verification/project_inventory.py",
