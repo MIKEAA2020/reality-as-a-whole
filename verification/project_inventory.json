@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 374,
-  "bytes": 4987763,
-  "line_count": 52196,
-  "document_count_with_risk_phrases": 348,
+  "document_count": 375,
+  "bytes": 4995672,
+  "line_count": 52233,
+  "document_count_with_risk_phrases": 349,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2274,9 +2274,9 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "sha256": "f24f79e412abbca9f864ead7b7ddee375bff276f7c67f7ca41bc822b624b0550",
-      "bytes": 10293,
-      "lines": 36,
+      "sha256": "3013f79e9a3578efe804c447f560efd81c5456526796441699544d972836da5b",
+      "bytes": 11623,
+      "lines": 42,
       "title": "Effective theories and graphical models: reading progress",
       "headings": [
         "Effective theories and graphical models: reading progress",
@@ -2294,7 +2294,9 @@
         12,
         28,
         30,
-        35
+        34,
+        36,
+        41
       ]
     },
     {
@@ -3248,9 +3250,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "988bec6c72f40acf0f24a3bc6874195fe8973b1e71a414a59753d793c1ef01ca",
-      "bytes": 86615,
-      "lines": 719,
+      "sha256": "8d940cd511a4cd7becc11d47c94d7245fe00e9b7bb90a0ab1c6e3352acd71ba6",
+      "bytes": 86908,
+      "lines": 721,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3390,6 +3392,7 @@
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "KO_DIMENSION6_SM.md",
+        "K_PAIRWISE_CONSTRAINTS_GAUGE_AND_FRAMEWORK.md",
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
@@ -3765,6 +3768,7 @@
         "verification/interacting_clock.py",
         "verification/internal_reference_event.py",
         "verification/joint_access_common_source_gate.py",
+        "verification/k_pairwise_constraint_and_gauge_gate.py",
         "verification/kerr_bounce_rotational.py",
         "verification/kms_beta_two_pi.py",
         "verification/knowability_actuality_gate.py",
@@ -3960,17 +3964,17 @@
         39,
         47,
         96,
-        158,
-        196,
-        213,
-        256,
-        322,
-        335,
-        371,
-        380,
-        383,
-        386,
-        429
+        159,
+        197,
+        214,
+        257,
+        323,
+        336,
+        372,
+        381,
+        384,
+        387,
+        430
       ]
     },
     {
@@ -5111,6 +5115,31 @@
         56,
         78,
         82
+      ]
+    },
+    {
+      "path": "K_PAIRWISE_CONSTRAINTS_GAUGE_AND_FRAMEWORK.md",
+      "sha256": "c5a848032dd8704c3c204450a478fd98281719728fdfefea9691fc77e250db62",
+      "bytes": 6286,
+      "lines": 29,
+      "title": "Collective statistics, parameter gauge, and the limits of a relational inference",
+      "headings": [
+        "Collective statistics, parameter gauge, and the limits of a relational inference",
+        "The larger-network result and its scope",
+        "Exact finite diagnostic: even K-pairwise information can leave alternatives",
+        "Parameter gauge is more than a numerical nuisance"
+      ],
+      "local_links": [
+        "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/k_pairwise_constraint_and_gauge_gate.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11,
+        13,
+        17,
+        23,
+        29
       ]
     },
     {

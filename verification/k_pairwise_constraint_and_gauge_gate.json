@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "scope": "four-bit exact example, not a retinal fit or biological test",
+  "constraints": "all single-site means, all pairwise coincidences, and the complete distribution of total K",
+  "all_joint_states_strictly_positive": true,
+  "same_constraints_different_joint": {
+    "P_plus_all_ones_on_indices_0_2_3": "5/32",
+    "P_minus_all_ones_on_indices_0_2_3": "3/32",
+    "total_variation": "1/4",
+    "entropy_plus_bits": 3.9056390622295662,
+    "entropy_minus_bits": 3.9056390622295662,
+    "constraint_maxent_uniform_entropy_bits": 4.0
+  },
+  "gauge": {
+    "published_antecedent": "Tkacik et al., K-pairwise parametrization methods, DOI 10.1371/journal.pcbi.1003408",
+    "field_shift": "2/7",
+    "pair_shift": "-3/8",
+    "potential_adjustment": "-a*K-b*K*(K-1)/2",
+    "log_weights_identical_on_all_states": true
+  },
+  "limitations": "Special feasible constraints and uniform MaxEnt baseline; no general bound on error; all triplets are not equal; constraints and phenomenology are not causal mechanisms."
+}
