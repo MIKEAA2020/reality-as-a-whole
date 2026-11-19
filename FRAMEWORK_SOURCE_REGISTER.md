@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 329 root Markdown documents including this register; 43 research Markdown documents.
+- 330 root Markdown documents including this register; 43 research Markdown documents.
 - 35 original uploaded files, including provenance metadata; 276 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -75,6 +75,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md) — Relational matter and experience: one reality, two aspects
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
+- [EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md](EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md) — Effective theories and graphical models: reading progress
 - [ENERGY_CONDITIONS_BOUNCE.md](ENERGY_CONDITIONS_BOUNCE.md) — Energy conditions across the polymer bounce
 - [ENERGY_EXCHANGE_CLOCK.md](ENERGY_EXCHANGE_CLOCK.md) — An energy-exchanging physical clock: complete instrument and coherence budget
 - [EPISODE_INCIDENCE_REFORMULATION.md](EPISODE_INCIDENCE_REFORMULATION.md) — Reformulating composition: incidence, temporal extent, and persistence
