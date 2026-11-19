@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 324 root Markdown documents including this register; 43 research Markdown documents.
-- 27 original uploaded files, including provenance metadata; 272 verification Python scripts.
+- 325 root Markdown documents including this register; 43 research Markdown documents.
+- 29 original uploaded files, including provenance metadata; 273 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -107,6 +107,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
 - [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
+- [FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md](FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md) — Effective physical structure, collective activity and subject boundaries
 - [FRICTION_AND_UNPLEASANTNESS_AUDIT.md](FRICTION_AND_UNPLEASANTNESS_AUDIT.md) — Can intrinsic friction explain unpleasantness?
 - [FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md](FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md) — A robust relational-frustration gate: hidden connections, hidden channels and experience
 - [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching
@@ -399,6 +400,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt)
 - [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
+- [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
 - [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
@@ -411,6 +413,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
 - [sources/uploads/s41467-021-27134-6.pdf](sources/uploads/s41467-021-27134-6.pdf)
+- [sources/uploads/schneidman2006.pdf](sources/uploads/schneidman2006.pdf)
 - [sources/uploads/simulation-neither-plenitude-nor-one-world.md](sources/uploads/simulation-neither-plenitude-nor-one-world.md)
 - [sources/uploads/simulation-zero-residue-side-by-side.md](sources/uploads/simulation-zero-residue-side-by-side.md)
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu-2.md)
@@ -637,6 +640,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/spherical_scalar_radiation.py](verification/spherical_scalar_radiation.py)
 - [verification/split_brain_query_strategy_gate.py](verification/split_brain_query_strategy_gate.py)
 - [verification/state_mismatch_contrast_certificate.py](verification/state_mismatch_contrast_certificate.py)
+- [verification/static_ising_kinetics_boundary_gate.py](verification/static_ising_kinetics_boundary_gate.py)
 - [verification/steering_cost.py](verification/steering_cost.py)
 - [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
 - [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)

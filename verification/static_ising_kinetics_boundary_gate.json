@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "scope": "Two classical finite spin update models sharing exactly the same stationary law. Time-bin selection rule is a new stated convention, not the old target-selected influence or evidence for consciousness.",
+  "static_stationary_distribution": "identical full 16-state distribution, including every equal-time marginal and correlation",
+  "stationary_distribution_states": 16,
+  "old_target_selected_influences": "identical in both models because their local conditional update laws are identical",
+  "uniform_updates": {
+    "rates": [
+      "1/4",
+      "1/4",
+      "1/4",
+      "1/4"
+    ],
+    "fixed_bin_edges": {
+      "0-1": "5/42",
+      "1-2": "1/21",
+      "2-3": "5/42"
+    },
+    "L_winners": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "unresolved": []
+  },
+  "central_updates": {
+    "rates": [
+      "1/100",
+      "49/100",
+      "49/100",
+      "1/100"
+    ],
+    "fixed_bin_edges": {
+      "0-1": "1/200",
+      "1-2": "7/75",
+      "2-3": "1/200"
+    },
+    "L_winners": [
+      [
+        1,
+        2
+      ]
+    ],
+    "unresolved": []
+  },
+  "fixed_bin_protocol": "clamp j, initialize target i=-1, randomize other i-neighbors uniformly, make one random-site update (clamped site idles), measure target",
+  "limitations": "No actual data; different rates are in principle distinguishable using time-resolved observations or interventions; site choice and initial preparation are stipulated; no evidence for any subject-selection law."
+}

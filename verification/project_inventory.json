@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 367,
-  "bytes": 4913138,
-  "line_count": 51800,
-  "document_count_with_risk_phrases": 341,
+  "document_count": 368,
+  "bytes": 4925918,
+  "line_count": 51877,
+  "document_count_with_risk_phrases": 342,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -469,8 +469,8 @@
     },
     {
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
-      "sha256": "cf179e324ce7b1154b22786d094635eb021e4eafa9ac1d99d396b0657bc7654a",
-      "bytes": 9047,
+      "sha256": "fd85108f050c8742e4ebad33a7f82887ac7d6f8ea20217eaa87e5500059eac88",
+      "bytes": 9172,
       "lines": 50,
       "title": "Structural realism, effective particles and plural experience",
       "headings": [
@@ -483,6 +483,9 @@
       ],
       "local_links": [
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+        "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
       ],
@@ -998,8 +1001,8 @@
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
-      "sha256": "1d0824089c8b97a4ea729a0b33488e112720452aa37d483f3f29cdd170ebe98f",
-      "bytes": 10607,
+      "sha256": "b4fb7d38a0f8244fecdca94c3183a08e233ba5ae8a62c50b13eb1627fa019af2",
+      "bytes": 10968,
       "lines": 112,
       "title": "From an assumed boundary budget to a conditional intervention test",
       "headings": [
@@ -1015,11 +1018,13 @@
       "local_links": [
         "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "verification/collective_context_leakage_gate.json"
       ],
       "risk_phrase_lines": [
         16,
+        18,
         43,
         81,
         100
@@ -3216,9 +3221,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0029f276f6a4146840df8f63d7f8e5bce13568ed22fdee7e22f0b843cb9e2543",
-      "bytes": 84126,
-      "lines": 699,
+      "sha256": "b2774eb7c2eb8b5dfdcd6887d30bccfc7f077c701bd4e9faca2a8c18a61a1318",
+      "bytes": 84635,
+      "lines": 703,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3327,6 +3332,7 @@
         "FOUNDATION_OF_DUE_REGARD.md",
         "FOUR_CRITERIA_CONSOLIDATION.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "FRW_CLOCK_WINDOW_MISMATCH.md",
@@ -3609,6 +3615,7 @@
         "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
         "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
         "sources/uploads/JHEP02(2024)193.pdf",
+        "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/bain2000.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
@@ -3621,6 +3628,7 @@
         "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
         "sources/uploads/russellian-absolute-discussion.md",
         "sources/uploads/s41467-021-27134-6.pdf",
+        "sources/uploads/schneidman2006.pdf",
         "sources/uploads/simulation-neither-plenitude-nor-one-world.md",
         "sources/uploads/simulation-zero-residue-side-by-side.md",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
@@ -3843,6 +3851,7 @@
         "verification/spherical_scalar_radiation.py",
         "verification/split_brain_query_strategy_gate.py",
         "verification/state_mismatch_contrast_certificate.py",
+        "verification/static_ising_kinetics_boundary_gate.py",
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
         "verification/subject_assay_dependence_control.py",
@@ -3908,17 +3917,17 @@
         39,
         47,
         95,
-        155,
-        193,
-        210,
-        249,
-        315,
-        328,
-        364,
-        373,
-        376,
-        379,
-        415
+        156,
+        194,
+        211,
+        250,
+        316,
+        329,
+        365,
+        374,
+        377,
+        380,
+        418
       ]
     },
     {
@@ -4003,6 +4012,37 @@
         136,
         137,
         183
+      ]
+    },
+    {
+      "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+      "sha256": "b115e89c8c69fc8b05f5fda0621182fa932f52c5479d34ac18be7c5ee81b2649",
+      "bytes": 10846,
+      "lines": 71,
+      "title": "Effective physical structure, collective activity and subject boundaries",
+      "headings": [
+        "Effective physical structure, collective activity and subject boundaries",
+        "Sources and scope",
+        "1. Fraser: real effective structure without a claim of ultimacy",
+        "2. Schneidman et al.: strong collective patterns, with important limits",
+        "3. A concrete correction to the previous intervention test",
+        "4. Joint implications for the whole",
+        "Verification"
+      ],
+      "local_links": [
+        "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
+        "sources/uploads/schneidman2006.pdf",
+        "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
+        "verification/static_ising_kinetics_boundary_gate.py",
+        "verification/static_ising_kinetics_boundary_gate.json"
+      ],
+      "risk_phrase_lines": [
+        14,
+        30,
+        32,
+        38,
+        54,
+        71
       ]
     },
     {
@@ -6801,8 +6841,8 @@
     },
     {
       "path": "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
-      "sha256": "3c2e6bdbd47b8225c4969ee1e49e26e746adff08b3e65c07bf386f815463933d",
-      "bytes": 11112,
+      "sha256": "dd020cce7793262359cba817e74e82acc0884734af3f3b5fd45382cac23968ce",
+      "bytes": 11254,
       "lines": 70,
       "title": "Particle emergence, locality and the subject-boundary question",
       "headings": [
@@ -6816,6 +6856,7 @@
       "local_links": [
         "sources/uploads/bain2000.pdf",
         "sources/uploads/qftlocarx.txt",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md"
       ],
       "risk_phrase_lines": [
@@ -8706,9 +8747,9 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "baf322fc6a5b3b450a032fa16ea377c05e545e3c252b8546c1aa5333b551ca9a",
-      "bytes": 8062,
-      "lines": 36,
+      "sha256": "49e0e6eac51b5e60f1d66c14199b2878f3273eaa3507d0a160c10edfb87d66cb",
+      "bytes": 8859,
+      "lines": 38,
       "title": "Source access and reading limits",
       "headings": [
         "Source access and reading limits",
@@ -8721,6 +8762,7 @@
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+        "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
@@ -8734,7 +8776,7 @@
         "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin"
       ],
       "risk_phrase_lines": [
-        20
+        22
       ]
     },
     {

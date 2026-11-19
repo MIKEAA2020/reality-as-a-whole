@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "fffca371f640d1adccc20cdb1290673c96f55954",
-  "file_count": 1188,
+  "base_head": "101715645d4a8778c4ab4f1e43d042bf008ca03c",
+  "file_count": 1193,
   "files": [
     {
       "path": ".gitattributes",
@@ -75,8 +75,8 @@
     },
     {
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
-      "bytes": 9047,
-      "sha256": "cf179e324ce7b1154b22786d094635eb021e4eafa9ac1d99d396b0657bc7654a"
+      "bytes": 9172,
+      "sha256": "fd85108f050c8742e4ebad33a7f82887ac7d6f8ea20217eaa87e5500059eac88"
     },
     {
       "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
@@ -155,8 +155,8 @@
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
-      "bytes": 10607,
-      "sha256": "1d0824089c8b97a4ea729a0b33488e112720452aa37d483f3f29cdd170ebe98f"
+      "bytes": 10968,
+      "sha256": "b4fb7d38a0f8244fecdca94c3183a08e233ba5ae8a62c50b13eb1627fa019af2"
     },
     {
       "path": "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
@@ -480,13 +480,18 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 84126,
-      "sha256": "0029f276f6a4146840df8f63d7f8e5bce13568ed22fdee7e22f0b843cb9e2543"
+      "bytes": 84635,
+      "sha256": "b2774eb7c2eb8b5dfdcd6887d30bccfc7f077c701bd4e9faca2a8c18a61a1318"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
       "bytes": 31201,
       "sha256": "65e464411b6e6811742b128ebc0841eb96d0d2da64222b55e57d5ad4b0464afb"
+    },
+    {
+      "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+      "bytes": 10846,
+      "sha256": "b115e89c8c69fc8b05f5fda0621182fa932f52c5479d34ac18be7c5ee81b2649"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -920,8 +925,8 @@
     },
     {
       "path": "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
-      "bytes": 11112,
-      "sha256": "3c2e6bdbd47b8225c4969ee1e49e26e746adff08b3e65c07bf386f815463933d"
+      "bytes": 11254,
+      "sha256": "dd020cce7793262359cba817e74e82acc0884734af3f3b5fd45382cac23968ce"
     },
     {
       "path": "QUALITATIVE_EQUIVALENCE_AUDIT.md",
@@ -1210,8 +1215,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "bytes": 8062,
-      "sha256": "baf322fc6a5b3b450a032fa16ea377c05e545e3c252b8546c1aa5333b551ca9a"
+      "bytes": 8859,
+      "sha256": "49e0e6eac51b5e60f1d66c14199b2878f3273eaa3507d0a160c10edfb87d66cb"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -2964,6 +2969,11 @@
       "sha256": "0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed"
     },
     {
+      "path": "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
+      "bytes": 971075,
+      "sha256": "a53792b9c2f867e242249abe34c38753ee2492f08e0f801f54f9a807b832ce99"
+    },
+    {
       "path": "sources/uploads/bain2000.pdf",
       "bytes": 168299,
       "sha256": "f7a58319ae3e089e6de77c10238ecaa5ef50192f0a8088ac79a8e42901dfc83c"
@@ -3022,6 +3032,11 @@
       "path": "sources/uploads/s41467-021-27134-6.pdf",
       "bytes": 477107,
       "sha256": "a8dc9951f20d6da956362392315eba5280505c3b7ce3f4d3d7bdcd058b3fc5d4"
+    },
+    {
+      "path": "sources/uploads/schneidman2006.pdf",
+      "bytes": 607699,
+      "sha256": "1221edc23d32c1086ac330102619d4f43de0fcb2c341b01aa8209b2237ca0267"
     },
     {
       "path": "sources/uploads/simulation-neither-plenitude-nor-one-world.md",
@@ -4440,8 +4455,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 464466,
-      "sha256": "dc8acc4ef97792b59edefd9229afaea9609d15cf0a52f2c6490531ac1302505d"
+      "bytes": 466287,
+      "sha256": "d79a4567e7efd3308781bd8beff617af62bfeb9e856706549b4afcdbe8347ef6"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5377,6 +5392,16 @@
       "path": "verification/state_mismatch_contrast_certificate.py",
       "bytes": 5557,
       "sha256": "d12be508346f0b9982925cf008ec84259d859415ecf08a92a67a52001a45c3a1"
+    },
+    {
+      "path": "verification/static_ising_kinetics_boundary_gate.json",
+      "bytes": 1535,
+      "sha256": "290629e82a71d8e20d75152a1514a10eedb4da9fbcc1a150630da4995cd09581"
+    },
+    {
+      "path": "verification/static_ising_kinetics_boundary_gate.py",
+      "bytes": 3871,
+      "sha256": "2fb1750d751337abd63c407ce0095a40317ca8f1002414a4fc3955868edc74e7"
     },
     {
       "path": "verification/steering_cost.json",
