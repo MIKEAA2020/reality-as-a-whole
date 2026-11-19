@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 382,
-  "bytes": 5058456,
-  "line_count": 52548,
-  "document_count_with_risk_phrases": 356,
+  "document_count": 383,
+  "bytes": 5067833,
+  "line_count": 52591,
+  "document_count_with_risk_phrases": 357,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1999,8 +1999,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "c885f04716bbcfe382f35ff0fa7c8c2a16dab68049f2410bc22731e88d56bbf9",
-      "bytes": 26561,
+      "sha256": "5904f866c21c4525b2597c362db9b958c89497fd1ce6c0e21c07d18f3dd8e473",
+      "bytes": 27030,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2014,6 +2014,7 @@
         "6. Emergent time, fields and gravity"
       ],
       "local_links": [
+        "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
@@ -9449,6 +9450,32 @@
         17,
         31,
         35
+      ]
+    },
+    {
+      "path": "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
+      "sha256": "e887838fc65002a8c41050fe0c88c26afe6563911008d508c5c73ab141e0177a",
+      "bytes": 8908,
+      "lines": 43,
+      "title": "Structured void, neutrino oscillations and explanatory identifiability",
+      "headings": [
+        "Structured void, neutrino oscillations and explanatory identifiability",
+        "Source and scope",
+        "Correction: massless is not by itself a model-independent refutation",
+        "Finite check: a 1/E splitting is not a unique microscopic explanation",
+        "Obligations for the structured-void proposal",
+        "Consequence for the experiential whole"
+      ],
+      "local_links": [
+        "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
+        "verification/structured_void_oscillation_identifiability_gate.py",
+        "verification/structured_void_oscillation_identifiability_gate.json",
+        "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        27,
+        29
       ]
     },
     {

@@ -190,7 +190,7 @@ P(Y ≠ R) ≤ d,    P(R ≠ E) ≤ r,
 
 then `P(Y ≠ E) ≤ d+r`, by the union bound. Agreement between decoder and report can inform `d`; it does not by itself establish `r`. Missing and unresolved responses, intervention failures, timing and population selection must be included in a real analysis.
 
-Empirical research can test particular physical–phenomenal proposals and rule out specified predictions. It may leave multiple ultimate ontologies compatible with the same data. Conversely, a metaphysical account that purports to explain our world must not contradict well-established physical or neuroscientific findings.
+Empirical research can test particular physical–phenomenal proposals and rule out specified predictions. It may leave multiple ultimate ontologies compatible with the same data. Conversely, a metaphysical account that purports to explain our world must not contradict well-established physical or neuroscientific findings. For example, an [effective oscillation check and source assessment](STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md) distinguishes an observed oscillation pattern from the underlying mechanism that produces it. The standard interpretation involves neutrino masses; nonstandard massless models require their own quantitative comparison with the full body of evidence. The finite check neither fits those observations nor identifies experiential subjects.
 
 ### Candidate boundaries and mathematical certificates
 

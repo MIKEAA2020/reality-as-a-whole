@@ -1,0 +1,108 @@
+{
+  "status": "passed",
+  "scope": "finite dimensionless witness, not an oscillation data fit",
+  "hamiltonian_plus_minus_aux": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      "E"
+    ]
+  ],
+  "baseline_choice": "L=(L/E)*E",
+  "rows": [
+    {
+      "E": 10.0,
+      "L_over_E": 0.0,
+      "P_visible_transition": 0.0,
+      "P_reference": 0.0,
+      "P_auxiliary": 0.0
+    },
+    {
+      "E": 10.0,
+      "L_over_E": 1.5707963267948966,
+      "P_visible_transition": 0.4826864782194415,
+      "P_reference": 0.4999999999999999,
+      "P_auxiliary": 0.019226207966595972
+    },
+    {
+      "E": 10.0,
+      "L_over_E": 3.141592653589793,
+      "P_visible_transition": 0.9997536938983779,
+      "P_reference": 1.0,
+      "P_auxiliary": 1.8240729225816062e-05
+    },
+    {
+      "E": 10.0,
+      "L_over_E": 6.283185307179586,
+      "P_visible_transition": 0.0009120710646079422,
+      "P_reference": 1.4997597826618576e-32,
+      "P_auxiliary": 7.289371026910481e-05
+    },
+    {
+      "E": 20.0,
+      "L_over_E": 0.0,
+      "P_visible_transition": 0.0,
+      "P_reference": 0.0,
+      "P_auxiliary": 0.0
+    },
+    {
+      "E": 20.0,
+      "L_over_E": 1.5707963267948966,
+      "P_visible_transition": 0.4955710563754257,
+      "P_reference": 0.4999999999999999,
+      "P_auxiliary": 0.004950419463839143
+    },
+    {
+      "E": 20.0,
+      "L_over_E": 3.141592653589793,
+      "P_visible_transition": 0.9999845805264833,
+      "P_reference": 1.0,
+      "P_auxiliary": 3.0233804697216057e-07
+    },
+    {
+      "E": 20.0,
+      "L_over_E": 6.283185307179586,
+      "P_visible_transition": 6.046764632344424e-05,
+      "P_reference": 1.4997597826618576e-32,
+      "P_auxiliary": 1.2092783299865675e-06
+    },
+    {
+      "E": 100.0,
+      "L_over_E": 0.0,
+      "P_visible_transition": 0.0,
+      "P_reference": 0.0,
+      "P_auxiliary": 0.0
+    },
+    {
+      "E": 100.0,
+      "L_over_E": 1.5707963267948966,
+      "P_visible_transition": 0.499821515874154,
+      "P_reference": 0.4999999999999999,
+      "P_auxiliary": 0.00019992002705634853
+    },
+    {
+      "E": 100.0,
+      "L_over_E": 3.141592653589793,
+      "P_visible_transition": 0.9999999753259935,
+      "P_reference": 1.0,
+      "P_auxiliary": 1.972342606242732e-11
+    },
+    {
+      "E": 100.0,
+      "L_over_E": 6.283185307179586,
+      "P_visible_transition": 9.861713016350769e-08,
+      "P_reference": 1.4997597826618576e-32,
+      "P_auxiliary": 7.889369646632644e-11
+    }
+  ]
+}

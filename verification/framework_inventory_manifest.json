@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7d4e1b586aaa06c54c95f7f1fadfee8ab8055f8a",
-  "file_count": 1241,
+  "base_head": "872616564c819b28f6f2723b3ec6272aef39582a",
+  "file_count": 1245,
   "files": [
     {
       "path": ".gitattributes",
@@ -285,8 +285,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 26561,
-      "sha256": "c885f04716bbcfe382f35ff0fa7c8c2a16dab68049f2410bc22731e88d56bbf9"
+      "bytes": 27030,
+      "sha256": "5904f866c21c4525b2597c362db9b958c89497fd1ce6c0e21c07d18f3dd8e473"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -490,8 +490,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 89247,
-      "sha256": "376c4d0cfa1f10abd133926f00812c8b98d6b5a27b12378053352a27b40c0d8b"
+      "bytes": 89707,
+      "sha256": "7f8851558c9155138cd7a712ab5faa7cee92d198285f29988318744f3c804146"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1322,6 +1322,11 @@
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
       "bytes": 11897,
       "sha256": "c9184d78b8b63ad19c911cff41014349f3b20c3ae48bdada722526ef12a4f86f"
+    },
+    {
+      "path": "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
+      "bytes": 8908,
+      "sha256": "e887838fc65002a8c41050fe0c88c26afe6563911008d508c5c73ab141e0177a"
     },
     {
       "path": "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
@@ -3124,6 +3129,11 @@
       "sha256": "87b5f2fe1a4ceada8e663f215623a663dfd4110113475f71286699fe6cd02aac"
     },
     {
+      "path": "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
+      "bytes": 728325,
+      "sha256": "aa3c13618f143953e678177ef2fd62c62f1dd2de421efc68c94db10112754c5f"
+    },
+    {
       "path": "sources/uploads/qftlocarx.txt",
       "bytes": 135932,
       "sha256": "42965aa615b0024345d6de5c14d5c4bd8efa605ff4037347058eaa83d30eb02b"
@@ -4635,8 +4645,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 483488,
-      "sha256": "c4523885b8608db6edb9834729a312e2068c849c6de1bb12fabd699fc871ae3c"
+      "bytes": 484656,
+      "sha256": "d58b3947cecc078dc724989776c2a40bb0dfe22dd411cf823cfdbbe6cd3d72e6"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5642,6 +5652,16 @@
       "path": "verification/string_t_duality_selector.py",
       "bytes": 3141,
       "sha256": "e76e5e5b478d991765cb1ccdea89baed110cda61c7e453267e954d455a82de2f"
+    },
+    {
+      "path": "verification/structured_void_oscillation_identifiability_gate.json",
+      "bytes": 2514,
+      "sha256": "a9a6f643c7b0e34231f2cc90a9cd375131372c0453dcc1a4b0ef0cb5be3e8fd9"
+    },
+    {
+      "path": "verification/structured_void_oscillation_identifiability_gate.py",
+      "bytes": 2733,
+      "sha256": "e59eff2e4c625043a6a9dc44dc6adb2e4bdd232ecaba33811ae903943a51e2a5"
     },
     {
       "path": "verification/subject_assay_dependence_control.json",
