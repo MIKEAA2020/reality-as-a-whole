@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 357,
-  "bytes": 4807242,
-  "line_count": 51113,
-  "document_count_with_risk_phrases": 331,
+  "document_count": 358,
+  "bytes": 4815586,
+  "line_count": 51161,
+  "document_count_with_risk_phrases": 332,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3139,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d90e967ef2f4088019736afa355717949cb14c23057f8e65b5b70f19f2402dfe",
-      "bytes": 81415,
-      "lines": 678,
+      "sha256": "e9376f777864076551a00a2078775b21c97d0b06f20f6cba865babaf13be9425",
+      "bytes": 81679,
+      "lines": 680,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3335,6 +3335,7 @@
         "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "README.md",
         "REALIZED_PROCESS_CANDIDATE.md",
@@ -3675,6 +3676,7 @@
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
         "verification/q1_agreement_stability_gate.py",
+        "verification/qpv_causal_records_gate.py",
         "verification/qualitative_anchor_check.py",
         "verification/quantum_agreement_record_gate.py",
         "verification/quantum_relational_field_instrument.py",
@@ -3812,15 +3814,15 @@
         92,
         151,
         188,
-        202,
-        241,
-        304,
-        317,
-        353,
-        362,
-        365,
-        368,
-        400
+        203,
+        242,
+        305,
+        318,
+        354,
+        363,
+        366,
+        369,
+        401
       ]
     },
     {
@@ -6739,9 +6741,9 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "sha256": "96c4705d2764ebc9a5b1373e096c5ce1f8a8c9b3d4b2a2820bf4ac299b5f15a9",
-      "bytes": 12853,
-      "lines": 86,
+      "sha256": "a6df5fa5fd3ec0de5919ecb7896e479d6feddee6c110acb457f08039174fff6d",
+      "bytes": 12406,
+      "lines": 84,
       "title": "Quantum agreement, disagreement and plural perspectives",
       "headings": [
         "Quantum agreement, disagreement and plural perspectives",
@@ -6761,9 +6763,9 @@
         "verification/quantum_agreement_record_gate.json"
       ],
       "risk_phrase_lines": [
-        22,
-        78,
-        82
+        20,
+        76,
+        80
       ]
     },
     {
@@ -6796,14 +6798,37 @@
       ]
     },
     {
+      "path": "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
+      "sha256": "f0167324a8d0c911e1a279d5cc52bb09f0ba737e9cbdfb77eb41bffdcd98bb07",
+      "bytes": 8187,
+      "lines": 48,
+      "title": "Quantum position verification and financial dynamics: source assessment",
+      "headings": [
+        "Quantum position verification and financial dynamics: source assessment",
+        "Source hierarchy and version choice",
+        "What the Leiden article adds",
+        "A useful limit for our record-and-history program",
+        "Verification"
+      ],
+      "local_links": [
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "verification/temporal_marginal_parity_gate.py"
+      ],
+      "risk_phrase_lines": [
+        15,
+        38,
+        40
+      ]
+    },
+    {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "f3d4aa5743aa51e75e1959aeaa377d35d7b44b0da2610f29ec1b5b481f5bbc94",
-      "bytes": 11575,
+      "sha256": "0844cb128cf288e904ee0230a64f130b5e103f005a2c98557d0399778a033375",
+      "bytes": 11915,
       "lines": 67,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
         "Quantum position verification: records, location and subjects",
-        "The two links",
+        "The linked reports",
         "1. What the experiment did",
         "2. What “device-independent” and “secure” mean here",
         "3. Why timing and records are not redundant",
@@ -6812,6 +6837,7 @@
         "Reproduction and scope"
       ],
       "local_links": [
+        "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "verification/qpv_causal_records_gate.json"

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3f630fa9f689ce2e9e46fb6322f3d825dbea354a",
-  "file_count": 1164,
+  "base_head": "eb936c8d2448d037005213dc33b9ee57dc07a181",
+  "file_count": 1167,
   "files": [
     {
       "path": ".gitattributes",
@@ -465,8 +465,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 81679,
-      "sha256": "e9376f777864076551a00a2078775b21c97d0b06f20f6cba865babaf13be9425"
+      "bytes": 81979,
+      "sha256": "ca4e56899d1f7a64b8e4ed9c15f377ad49399c59bea5bd200eef51af0693140c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -910,8 +910,8 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "bytes": 12853,
-      "sha256": "96c4705d2764ebc9a5b1373e096c5ce1f8a8c9b3d4b2a2820bf4ac299b5f15a9"
+      "bytes": 12406,
+      "sha256": "a6df5fa5fd3ec0de5919ecb7896e479d6feddee6c110acb457f08039174fff6d"
     },
     {
       "path": "QUANTUM_FIELD_RECORD_EMBEDDING.md",
@@ -919,9 +919,14 @@
       "sha256": "74aa9f54af2ae1676898de6e37807ba9031f2bfd09098f9d7153c52affb24420"
     },
     {
+      "path": "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
+      "bytes": 8187,
+      "sha256": "f0167324a8d0c911e1a279d5cc52bb09f0ba737e9cbdfb77eb41bffdcd98bb07"
+    },
+    {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "bytes": 11575,
-      "sha256": "f3d4aa5743aa51e75e1959aeaa377d35d7b44b0da2610f29ec1b5b481f5bbc94"
+      "bytes": 11915,
+      "sha256": "0844cb128cf288e904ee0230a64f130b5e103f005a2c98557d0399778a033375"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -4360,8 +4365,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 453179,
-      "sha256": "f74e709c994d872d1aa273aa78b867aba1305d79ed7eb1a9f5f78a03df3683c2"
+      "bytes": 454185,
+      "sha256": "cecacfffe3fd770d6c58a08dd04549ec17c6e13d3d8162bad025adf063c9a6e6"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5412,6 +5417,16 @@
       "path": "verification/target_symmetric_support_robustness.py",
       "bytes": 4980,
       "sha256": "58d733d9b9083144b22aab695a5bca4e0086330887de573a2293aeb06851dd01"
+    },
+    {
+      "path": "verification/temporal_marginal_parity_gate.json",
+      "bytes": 2797,
+      "sha256": "553c36be48a50e044bc91fbbdb0079a012d66b1fce7003210214fbdb7aa35681"
+    },
+    {
+      "path": "verification/temporal_marginal_parity_gate.py",
+      "bytes": 1868,
+      "sha256": "bae8b8edb56742ae635660eb73afbd73505716021d41b1f75e0cc366c537d784"
     },
     {
       "path": "verification/thermal_time.json",

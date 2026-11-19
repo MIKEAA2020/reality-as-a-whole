@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 314 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 267 verification Python scripts.
+- 315 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 268 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -192,6 +192,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) — Optimal symmetric agreement stability and the Q1 boundary
 - [QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) — Quantum agreement, disagreement and plural perspectives
 - [QUANTUM_FIELD_RECORD_EMBEDDING.md](QUANTUM_FIELD_RECORD_EMBEDDING.md) — Quantum field readout: an explicit but gravity-limited embedding
+- [QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md](QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md) — Quantum position verification and financial dynamics: source assessment
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
 - [README.md](README.md) — Reality as a Whole
@@ -633,6 +634,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
 - [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
+- [verification/temporal_marginal_parity_gate.py](verification/temporal_marginal_parity_gate.py)
 - [verification/thermal_time.py](verification/thermal_time.py)
 - [verification/three_dimensional_bogoliubov_continuum.py](verification/three_dimensional_bogoliubov_continuum.py)
 - [verification/three_dimensional_quantitative_channel.py](verification/three_dimensional_quantitative_channel.py)

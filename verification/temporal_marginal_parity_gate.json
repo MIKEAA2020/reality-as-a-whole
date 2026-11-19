@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "n": 3,
+      "uniform_histories": 8,
+      "even_parity_histories": 4,
+      "proper_nonempty_coordinate_subsets_checked": 6,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 4,
+      "uniform_histories": 16,
+      "even_parity_histories": 8,
+      "proper_nonempty_coordinate_subsets_checked": 14,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 5,
+      "uniform_histories": 32,
+      "even_parity_histories": 16,
+      "proper_nonempty_coordinate_subsets_checked": 30,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 6,
+      "uniform_histories": 64,
+      "even_parity_histories": 32,
+      "proper_nonempty_coordinate_subsets_checked": 62,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 7,
+      "uniform_histories": 128,
+      "even_parity_histories": 64,
+      "proper_nonempty_coordinate_subsets_checked": 126,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 8,
+      "uniform_histories": 256,
+      "even_parity_histories": 128,
+      "proper_nonempty_coordinate_subsets_checked": 254,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    },
+    {
+      "n": 9,
+      "uniform_histories": 512,
+      "even_parity_histories": 256,
+      "proper_nonempty_coordinate_subsets_checked": 510,
+      "even_parity_probability_under_uniform": 0.5,
+      "even_parity_probability_under_even_law": 1.0,
+      "next_bit_probability_given_prefix_even_law": 1.0,
+      "next_bit_probability_given_prefix_uniform_law": 0.5
+    }
+  ],
+  "scope": "finite exact counting, standard parity construction; not financial data, quantum simulations, experiential evidence or an infinite-history theorem"
+}
