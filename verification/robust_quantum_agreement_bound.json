@@ -14,7 +14,11 @@
     "absolute_gap": 0.2499999999999999,
     "weighted_gap": 0.125,
     "refined_bound": 0.3660254037844389,
-    "classical_bound": 0.06698729810778067
+    "classical_bound": 0.06698729810778067,
+    "directional_classical_bound_forward": 0.03349364905389036,
+    "directional_classical_bound_reverse": 0.033493649053890406,
+    "chsh_forward": 1.3660254037844382,
+    "chsh_reverse": 2.3660254037844375
   },
   "classical_controls": {
     "mixtures_checked": 5000,

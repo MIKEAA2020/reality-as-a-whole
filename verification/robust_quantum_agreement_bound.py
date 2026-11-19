@@ -42,7 +42,21 @@ def metrics(rho, a0, a1, b0, b1):
     aa, bb = expval(rho, a1), expval(rho, b1)
     qa, qb = expval(rho, a0 @ b1) / p, expval(rho, a1 @ b0) / s
     delta = abs(qa - qb)
-    weighted = abs(p * qa - s * qb)
+    difference = p * qa - s * qb
+    weighted = abs(difference)
+    ident = np.eye(na * nb)
+    alpha = expval(rho, a0 @ (ident - b0))
+    beta = expval(rho, (ident - a1) @ b1)
+    alpha_reverse = expval(rho, (ident - a0) @ b0)
+    beta_reverse = expval(rho, a1 @ (ident - b1))
+    aa0, aa1, bb0, bb1 = (2*a0-ident, 2*a1-ident, 2*b0-ident, 2*b1-ident)
+    correlators = [expval(rho, aa0@bb0), expval(rho, aa0@bb1),
+                   expval(rho, aa1@bb0), expval(rho, aa1@bb1)]
+    c00,c01,c10,c11 = correlators
+    s_forward = c00+c01-c10+c11
+    s_reverse = c00-c01+c10+c11
+    assert abs(s_forward - (2+4*(difference-alpha-beta))) < TOL
+    assert abs(s_reverse - (2+4*(-difference-alpha_reverse-beta_reverse))) < TOL
     u1 = math.sqrt(e * max(0.0, bb)) + math.sqrt(s * t)
     u2 = math.sqrt(e * max(0.0, aa)) + math.sqrt(p * t)
     rhs = (min(u1, u2) + abs(p - s)) / max(p, s)
@@ -50,7 +64,10 @@ def metrics(rho, a0, a1, b0, b1):
     assert delta <= rhs + TOL
     return dict(p=p, s=s, e=e, t=t, q_A=qa, q_B=qb,
                 absolute_gap=delta, weighted_gap=weighted,
-                refined_bound=rhs, classical_bound=e+t)
+                refined_bound=rhs, classical_bound=e+t,
+                directional_classical_bound_forward=alpha+beta,
+                directional_classical_bound_reverse=alpha_reverse+beta_reverse,
+                chsh_forward=s_forward, chsh_reverse=s_reverse)
 
 
 def exact_example():
@@ -68,6 +85,8 @@ def exact_example():
     assert abs(result['q_A']-.5) < TOL and abs(result['q_B']-.75) < TOL
     assert abs(result['t']) < TOL and abs(result['weighted_gap']-.125) < TOL
     assert result['weighted_gap'] > result['classical_bound']
+    assert abs(result['chsh_reverse']-(2+math.sqrt(3)/2-0.5)) < TOL
+    assert result['chsh_reverse'] > 2
     for theta in (1e-1, 1e-2, 1e-3):
         r = metrics(rho, projector(plus), projector(zero),
                     projector(math.cos(theta)*plus + math.sin(theta)*minus),
@@ -88,7 +107,11 @@ def classical_controls(rng):
         lhs = abs(w @ (a0*b1) - w @ (a1*b0))
         e, t = w @ (a0 != b0), w @ (a1 != b1)
         greatest_violation = max(greatest_violation, float(lhs-e-t))
+        diff = w @ (a0*b1) - w @ (a1*b0)
+        forward = w @ (a0*(1-b0)) + w @ ((1-a1)*b1)
+        reverse = w @ ((1-a0)*b0) + w @ (a1*(1-b1))
         assert lhs <= e+t+TOL
+        assert diff <= forward+TOL and -diff <= reverse+TOL
     # Rare selected event. The fourth mass is positive for eta < 2/3.
     eta = 0.001
     rows = np.array([[1,1,1,1],[1,1,0,1],[0,0,1,0],[0,0,0,0]])

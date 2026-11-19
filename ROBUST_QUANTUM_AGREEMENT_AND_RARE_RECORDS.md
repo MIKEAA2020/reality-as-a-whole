@@ -81,6 +81,29 @@ At `θ=π/12`, `e=(2−√3)/4≈0.0669873`, `q_A=0.5`, `q_B=0.75`. The weighted
 
 As `e→0`, the actual conditional difference scales like `√e`, not `e`. Thus an `O(e)` bound with a constant independent of `e` cannot hold for *all* such quantum boxes, even at fixed `p=s=1/2` and perfect target correlation. This example does **not** violate the exact theorem: for every nonzero θ, setting-0 certainty of the selected counterpart is imperfect. It does not establish any complete or optimal robust agreement inequality.
 
+### The apparent new witness is already CHSH
+
+The classical inequality (3) is loose. The stronger *directed* local constraints are
+
+```text
+D := p q_A − s q_B,
+D  ≤ α+β,    α=P(A0=1,B0=0 | 00),  β=P(A1=0,B1=1 | 11),
+−D ≤ α′+β′,  α′=P(A0=0,B0=1 | 00), β′=P(A1=1,B1=0 | 11).
+```
+
+For example, if `A0=B1=1` but `A1 B0=0`, then either `A0=1,B0=0` or `A1=0,B1=1`. Averaging gives the first inequality; the second is symmetric. Both therefore hold for mixtures of deterministic local assignments, and hence for local hidden-variable models with stochastic response functions as well. Since `α+α′=e` and `β+β′=t`, these imply the weaker (3).
+
+More importantly, in the normalized two-setting binary box, each directed inequality is **exactly an ordinary CHSH inequality**, not merely analogous to one. Define `C_xy=< (2A_x−1)(2B_y−1) >`. For any no-signaling box, including quantum boxes,
+
+```text
+S+ = C00+C01−C10+C11 = 2 + 4(D−α−β),
+S− = C00−C01+C10+C11 = 2 + 4(−D−α′−β′).
+```
+
+So `D≤α+β` is exactly `S+≤2`, and `−D≤α′+β′` is exactly `S−≤2`. These are relabelings of the established [CHSH inequality](https://doi.org/10.1103/PhysRevLett.23.880); the associated probability formulation is of the [Clauser–Horne type](https://doi.org/10.1103/PhysRevD.10.526). The identity uses common setting-wise marginals; if signaling or setting-dependent sampling is present, the experiment must model that rather than assume the same single-party expectations.
+
+In the Bell-state example above, `D=−1/8`, `α′=e/2`, `β′=0`, and `S−=(3+√3)/2≈2.3660`. Thus the classical–quantum distinction we found is **ordinary Bell nonlocality in a particular agreement parametrization**. It is not a new Bell inequality or evidence for a physical law derived from epistemic agreement. The square-root stability check and rare-event accounting remain useful for the conditional-assignment question, but do not give an independently sourced quantum signature. The verifier checks both exact identities for all 4,500 sampled quantum models and the directed local inequalities for 5,000 classical mixtures.
+
 ## 3. Rare-event stress test
 
 Let `0<η<2/3` and use a classical mixture of four deterministic indicator assignments `(A0,A1,B0,B1)`:

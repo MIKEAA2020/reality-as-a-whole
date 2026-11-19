@@ -2,8 +2,8 @@
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
   "document_count": 355,
-  "bytes": 4781783,
-  "line_count": 50894,
+  "bytes": 4784191,
+  "line_count": 50919,
   "document_count_with_risk_phrases": 329,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -3139,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d5704ab35fa118a15376d4dce31d467fba205ad61b606c0f39a2a7a0ac33150d",
-      "bytes": 80921,
-      "lines": 674,
+      "sha256": "84e2848e1aceb8ce64c8f278f3ded109411f2d4be6f6b1e251ab118a1ad0de75",
+      "bytes": 81161,
+      "lines": 676,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3353,6 +3353,7 @@
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -3695,6 +3696,7 @@
         "verification/rivalry_hrf_timing_witness.py",
         "verification/rivalry_okn_source_audit.py",
         "verification/robust_disclosure_separation.py",
+        "verification/robust_quantum_agreement_bound.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
         "verification/roy_s08_fixed_transfer.py",
@@ -3809,14 +3811,14 @@
         151,
         188,
         201,
-        239,
-        302,
-        315,
-        351,
-        360,
-        363,
-        366,
-        398
+        240,
+        303,
+        316,
+        352,
+        361,
+        364,
+        367,
+        399
       ]
     },
     {
@@ -7558,9 +7560,9 @@
     },
     {
       "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
-      "sha256": "d0b48d93aa053a6475a9283f47ac312e0d392ba328587adf191721e33f417deb",
-      "bytes": 9598,
-      "lines": 108,
+      "sha256": "f3f7f9290dc8d8a36d5b6cc31583c2a8458ea88afb503e796334950acb2d21e6",
+      "bytes": 11766,
+      "lines": 131,
       "title": "Robust quantum agreement and rare records",
       "headings": [
         "Robust quantum agreement and rare records",
@@ -7582,8 +7584,11 @@
         31,
         44,
         82,
-        97,
-        102
+        96,
+        103,
+        105,
+        120,
+        125
       ]
     },
     {
