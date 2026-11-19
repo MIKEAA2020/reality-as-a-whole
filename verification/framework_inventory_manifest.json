@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5c8399bab9c3e20945cbc902e993d85cfd6b8639",
-  "file_count": 1194,
+  "base_head": "122c7dc3950741273d076b265d1588be09aeee6c",
+  "file_count": 1203,
   "files": [
     {
       "path": ".gitattributes",
@@ -155,8 +155,8 @@
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
-      "bytes": 11070,
-      "sha256": "6fafc4aaaf62a2da8acafb8f36e18bcb67e79492433815da3df39745f6ad3914"
+      "bytes": 11427,
+      "sha256": "85e73a92bb8ef2fd303a4ecb946d83ecd870ab7f2bcc4065b2dbf7de32809292"
     },
     {
       "path": "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
@@ -480,8 +480,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 84786,
-      "sha256": "0f06b4d5e0f89562af272f4eb646c26ed7dfab794daf02da610957790bb914d4"
+      "bytes": 85623,
+      "sha256": "00285fd6ae9557a1f5678719cb8e313fc4f05882e4180ad60d72e29a37f57528"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -490,13 +490,13 @@
     },
     {
       "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
-      "bytes": 11243,
-      "sha256": "6c644e1949ed4623954b5d4c5fa14fd61c8670932605ec88a6e7f94266450b46"
+      "bytes": 11546,
+      "sha256": "c8ec1c144487d84f210bdc8ff9814af6b672ae5290a3d8fbe1de69bf60275836"
     },
     {
       "path": "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
-      "bytes": 8005,
-      "sha256": "24be49ebb627dd411f2d1668834c89ee8ffd3fef02d0ba0d77f62fdbbe978685"
+      "bytes": 8580,
+      "sha256": "6a4646543bad1d159c135976dbe78c0656ca6b9a71c32d1787495ab7c6f1a961"
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -1039,6 +1039,11 @@
       "sha256": "4a33b3010c4b3112c0a3d68a322a431da3d41448715bf782b48f58cc5972b950"
     },
     {
+      "path": "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
+      "bytes": 9833,
+      "sha256": "2fe0072ab050f5151abcd8ab3825a4a2ffaa6aa55c53e0e3505eb239e3fa98d6"
+    },
+    {
       "path": "REUSED_REFERENCE_CLOCK.md",
       "bytes": 17736,
       "sha256": "ef827fd10b216c8308b2879760a9e136b92694c20c0edf3f991d50bf70f9e9cb"
@@ -1220,8 +1225,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "bytes": 9519,
-      "sha256": "12333d112aebd07891c7284b6f849cdc7f9b866b0660190eefe7bb0fc0189901"
+      "bytes": 10216,
+      "sha256": "739e2224af2240e33f30180a633436c7b7c61d52ed4a9505c41a98b069e82781"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -2924,9 +2929,29 @@
       "sha256": "a30135a6cc49d0bac1167a6241037870aab6a0f7884cc10f3c4a409c28540c28"
     },
     {
+      "path": "sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf",
+      "bytes": 79376,
+      "sha256": "fa66542b74390301f2b6d99d54e9689e3cf792ac27c2a37c1a6329a841ff046c"
+    },
+    {
+      "path": "sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf",
+      "bytes": 74420,
+      "sha256": "b51eef5fd81750116b258d7db25387bb61676191f2c3b11b5de6e997d4e29e8f"
+    },
+    {
+      "path": "sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc",
+      "bytes": 40960,
+      "sha256": "de5529aca857465c4b00553314b582ba7afab06917960c260e72b3151d69573b"
+    },
+    {
       "path": "sources/uploads/Bostrom's simulation hypothesis.md",
       "bytes": 21071,
       "sha256": "5441a64f734eda8686b733f19809372c7a48c9376472c15b893e5799ff46aceb"
+    },
+    {
+      "path": "sources/uploads/Data_Spike_Trains.txt",
+      "bytes": 2913508,
+      "sha256": "1bcf28d8ef2bd23663760a4232fd247495c0805714a2a9a7bf78b8af5ec37a54"
     },
     {
       "path": "sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt",
@@ -2967,6 +2992,11 @@
       "path": "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
       "bytes": 98848,
       "sha256": "5b8aeca8eddc2aa8e29cfc74bfc8c6237c763d8382e86cfdc63f551783eda9df"
+    },
+    {
+      "path": "sources/uploads/Display_Spike_Trains.pdf",
+      "bytes": 3589968,
+      "sha256": "c9126b9fcd8de70ffb712d703fff1fe2eda10d1aeb371f77db778780959d01ce"
     },
     {
       "path": "sources/uploads/JHEP02(2024)193.pdf",
@@ -3052,6 +3082,11 @@
       "path": "sources/uploads/simulation-zero-residue-side-by-side.md",
       "bytes": 14836,
       "sha256": "aa4f16464cef15b7f0e6420d295d008bc01227c10ac34b6cec7ddbf93ac9d702"
+    },
+    {
+      "path": "sources/uploads/stamped9022.pdf",
+      "bytes": 1950700,
+      "sha256": "e0c63e56f7901f41b572824213555abe4070020d317192bdd56b36cbfe515bb1"
     },
     {
       "path": "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
@@ -4460,8 +4495,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 466287,
-      "sha256": "d79a4567e7efd3308781bd8beff617af62bfeb9e856706549b4afcdbe8347ef6"
+      "bytes": 469344,
+      "sha256": "7f91a8bb2965b4f01b728189d67dc4f06e4c715701cfdc4e1d050dd3f183410e"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4707,6 +4742,16 @@
       "path": "verification/requirements-spectral-translation.txt",
       "bytes": 46,
       "sha256": "d611cac7d00621d18811221b8c8fe261b8540063dd4a3fcec203cb427c3827ab"
+    },
+    {
+      "path": "verification/retina_spike_maxent_audit.json",
+      "bytes": 6209,
+      "sha256": "a9679bd27cdcd07e0e779b363231f000822243c6638903f0e8ac6e487a66767d"
+    },
+    {
+      "path": "verification/retina_spike_maxent_audit.py",
+      "bytes": 5943,
+      "sha256": "5001074846a3283512b6556917df8355a12995483a3df6837590fd9e8759d090"
     },
     {
       "path": "verification/reused_reference_clock.json",

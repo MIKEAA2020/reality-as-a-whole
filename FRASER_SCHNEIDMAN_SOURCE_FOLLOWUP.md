@@ -1,5 +1,7 @@
 # Source follow-up: publication, supplementary figures and recordings
 
+> **Further recovery:** All three supplementary plots have now been visually inspected, and the supplied full spike-time file has been parsed and checked with a limited held-out analysis. The README’s 145 repeats disagree with the file’s 120-repeat-consistent extent and the later 120-repeat report. The supplied `stamped9022.pdf` is a different EFT thesis, not Fraser’s chapter. A related later Schneidman MATLAB toolbox was found, but not confirmed to be the 2006 original or run. Details: [recovery and data audit](RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md).
+
 ## Why the earlier work stopped short
 
 The previous assessment read the supplied main texts but stopped short of searching systematically for Fraser's published chapter, recovering the supplementary plots, or locating the retinal recordings and original code. That was an incomplete follow-up, not an established finding that these materials were unavailable. The supplementary captions had been retrieved as text; the figures themselves had not been rendered. The following checks narrow, but do not eliminate, those limitations.

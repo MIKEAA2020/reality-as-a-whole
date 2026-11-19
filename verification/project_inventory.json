@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 369,
-  "bytes": 4935233,
-  "line_count": 51921,
-  "document_count_with_risk_phrases": 343,
+  "document_count": 370,
+  "bytes": 4947835,
+  "line_count": 52000,
+  "document_count_with_risk_phrases": 344,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1001,9 +1001,9 @@
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
-      "sha256": "6fafc4aaaf62a2da8acafb8f36e18bcb67e79492433815da3df39745f6ad3914",
-      "bytes": 11070,
-      "lines": 112,
+      "sha256": "85e73a92bb8ef2fd303a4ecb946d83ecd870ab7f2bcc4065b2dbf7de32809292",
+      "bytes": 11427,
+      "lines": 114,
       "title": "From an assumed boundary budget to a conditional intervention test",
       "headings": [
         "From an assumed boundary budget to a conditional intervention test",
@@ -1016,6 +1016,7 @@
         "Verification"
       ],
       "local_links": [
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -1024,11 +1025,11 @@
         "verification/collective_context_leakage_gate.json"
       ],
       "risk_phrase_lines": [
-        16,
         18,
-        43,
-        81,
-        100
+        20,
+        45,
+        83,
+        102
       ]
     },
     {
@@ -3222,9 +3223,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0f06b4d5e0f89562af272f4eb646c26ed7dfab794daf02da610957790bb914d4",
-      "bytes": 84786,
-      "lines": 704,
+      "sha256": "00285fd6ae9557a1f5678719cb8e313fc4f05882e4180ad60d72e29a37f57528",
+      "bytes": 85623,
+      "lines": 712,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3442,6 +3443,7 @@
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "REUSED_REFERENCE_CLOCK.md",
         "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
@@ -3607,7 +3609,11 @@
         "research/wilson_thermal_composite/REPORT.md",
         "research/wilson_ultraviolet_tails/REPORT.md",
         "research/wilson_wavepacket_composite/REPORT.md",
+        "sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf",
+        "sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf",
+        "sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc",
         "sources/uploads/Bostrom's simulation hypothesis.md",
+        "sources/uploads/Data_Spike_Trains.txt",
         "sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt",
         "sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt",
         "sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt",
@@ -3616,6 +3622,7 @@
         "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt",
         "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
         "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
+        "sources/uploads/Display_Spike_Trains.pdf",
         "sources/uploads/JHEP02(2024)193.pdf",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/bain2000.pdf",
@@ -3633,6 +3640,7 @@
         "sources/uploads/schneidman2006.pdf",
         "sources/uploads/simulation-neither-plenitude-nor-one-world.md",
         "sources/uploads/simulation-zero-residue-side-by-side.md",
+        "sources/uploads/stamped9022.pdf",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md",
         "sources/uploads/take bostrom's simulation hypothesis as starting point. what.md",
@@ -3798,6 +3806,7 @@
         "verification/relational_plenitude_scope.py",
         "verification/relational_records.py",
         "verification/reported_rivalry_case_audit.py",
+        "verification/retina_spike_maxent_audit.py",
         "verification/reused_reference_clock.py",
         "verification/reversible_friend_record_tradeoff.py",
         "verification/rivalry_hrf_timing_witness.py",
@@ -3922,14 +3931,14 @@
         157,
         195,
         212,
-        251,
-        317,
-        330,
-        366,
-        375,
-        378,
-        381,
-        419
+        252,
+        318,
+        331,
+        367,
+        376,
+        379,
+        382,
+        425
       ]
     },
     {
@@ -4018,9 +4027,9 @@
     },
     {
       "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
-      "sha256": "6c644e1949ed4623954b5d4c5fa14fd61c8670932605ec88a6e7f94266450b46",
-      "bytes": 11243,
-      "lines": 73,
+      "sha256": "c8ec1c144487d84f210bdc8ff9814af6b672ae5290a3d8fbe1de69bf60275836",
+      "bytes": 11546,
+      "lines": 75,
       "title": "Effective physical structure, collective activity and subject boundaries",
       "headings": [
         "Effective physical structure, collective activity and subject boundaries",
@@ -4032,6 +4041,7 @@
         "Verification"
       ],
       "local_links": [
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/schneidman2006.pdf",
@@ -4040,20 +4050,20 @@
         "verification/static_ising_kinetics_boundary_gate.json"
       ],
       "risk_phrase_lines": [
-        3,
-        16,
-        32,
+        5,
+        18,
         34,
-        40,
-        56,
-        73
+        36,
+        42,
+        58,
+        75
       ]
     },
     {
       "path": "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
-      "sha256": "24be49ebb627dd411f2d1668834c89ee8ffd3fef02d0ba0d77f62fdbbe978685",
-      "bytes": 8005,
-      "lines": 39,
+      "sha256": "6a4646543bad1d159c135976dbe78c0656ca6b9a71c32d1787495ab7c6f1a961",
+      "bytes": 8580,
+      "lines": 41,
       "title": "Source follow-up: publication, supplementary figures and recordings",
       "headings": [
         "Source follow-up: publication, supplementary figures and recordings",
@@ -4064,9 +4074,11 @@
         "Relevant later evidence, clearly delimited",
         "Consequences"
       ],
-      "local_links": [],
+      "local_links": [
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md"
+      ],
       "risk_phrase_lines": [
-        29
+        31
       ]
     },
     {
@@ -7744,6 +7756,41 @@
       ]
     },
     {
+      "path": "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
+      "sha256": "2fe0072ab050f5151abcd8ab3825a4a2ffaa6aa55c53e0e3505eb239e3fa98d6",
+      "bytes": 9833,
+      "lines": 63,
+      "title": "Retinal data, supplementary figures and the EFT thesis",
+      "headings": [
+        "Retinal data, supplementary figures and the EFT thesis",
+        "What was recovered",
+        "1. What the supplementary plots do and do not show",
+        "2. Data integrity and the repeat-count discrepancy",
+        "3. A small independent held-out analysis",
+        "4. The code search: useful related software, not the original replay",
+        "5. What the thesis adds to the framework"
+      ],
+      "local_links": [
+        "sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf",
+        "sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf",
+        "sources/uploads/Data_Spike_Trains.txt",
+        "sources/uploads/Display_Spike_Trains.pdf",
+        "sources/uploads/stamped9022.pdf",
+        "sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc",
+        "FRAMEWORK_SOURCE_REGISTER.md",
+        "verification/retina_spike_maxent_audit.py",
+        "verification/retina_spike_maxent_audit.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        29,
+        31,
+        35,
+        43,
+        53
+      ]
+    },
+    {
       "path": "REUSED_REFERENCE_CLOCK.md",
       "sha256": "ef827fd10b216c8308b2879760a9e136b92694c20c0edf3f991d50bf70f9e9cb",
       "bytes": 17736,
@@ -8771,9 +8818,9 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "12333d112aebd07891c7284b6f849cdc7f9b866b0660190eefe7bb0fc0189901",
-      "bytes": 9519,
-      "lines": 40,
+      "sha256": "739e2224af2240e33f30180a633436c7b7c61d52ed4a9505c41a98b069e82781",
+      "bytes": 10216,
+      "lines": 42,
       "title": "Source access and reading limits",
       "headings": [
         "Source access and reading limits",
@@ -8783,6 +8830,7 @@
         "Workspace integrity incident"
       ],
       "local_links": [
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
@@ -8801,7 +8849,7 @@
         "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin"
       ],
       "risk_phrase_lines": [
-        24
+        26
       ]
     },
     {

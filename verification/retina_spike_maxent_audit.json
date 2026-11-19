@@ -1,0 +1,152 @@
+{
+  "status": "passed",
+  "source_sha256": "1bcf28d8ef2bd23663760a4232fd247495c0805714a2a9a7bf78b8af5ec37a54",
+  "source_cells": 40,
+  "source_total_spikes": 172521,
+  "source_max_spike_time_seconds": 3179.55080032349,
+  "source_total_binary_spike_bins": 151939,
+  "protocol": {
+    "movie_repeat_seconds": 26.5,
+    "assumed_complete_repeats": 120,
+    "train_first_repeats": 100,
+    "test_last_repeats": 20,
+    "bin_ms": 20,
+    "bins_per_repeat": 1325,
+    "ten_cell_groups": 5,
+    "group_selection": "first 10 listed then four numpy RNG groups, seed 20240620; selected before observing computed fits",
+    "model": "55-parameter unregularized pairwise binary maximum entropy, exactly enumerating 1024 patterns",
+    "interpretation": "same repeated movie; held-out repeats are not a new stimulus, animal, experiment, or causal intervention; plugin entropy is not bias corrected"
+  },
+  "groups": [
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c5_bush2_spks",
+        "c7_bush2_spks",
+        "c8_bush2_spks",
+        "c9_bush2_spks",
+        "c10_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks"
+      ],
+      "optimizer_success": true,
+      "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 134,
+      "max_training_constraint_error": 3.679137225778839e-09,
+      "training_total_correlation_plugin_bits_per_bin": 0.10290535011796109,
+      "training_pairwise_fraction_plugin": 0.9472921476211659,
+      "heldout_entropy_plugin_bits_per_bin": 1.7546564869178154,
+      "heldout_independent_cross_entropy_bits_per_bin": 1.8636871052051232,
+      "heldout_pairwise_cross_entropy_bits_per_bin": 1.7665226926293558,
+      "heldout_gain_bits_per_bin": 0.09716441257576736,
+      "heldout_gain_over_saturated_plugin_gap": 0.891166298990696
+    },
+    {
+      "cells": [
+        "c5_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks",
+        "c18_bush2_spks",
+        "c25_bush2_spks",
+        "c30_bush2_spks",
+        "c35_bush2_spks",
+        "c47_bush2_spks",
+        "c51_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "optimizer_success": true,
+      "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 184,
+      "max_training_constraint_error": 2.2952502547884945e-08,
+      "training_total_correlation_plugin_bits_per_bin": 0.05482406162758968,
+      "training_pairwise_fraction_plugin": 0.9222919726719475,
+      "heldout_entropy_plugin_bits_per_bin": 1.4217815876114672,
+      "heldout_independent_cross_entropy_bits_per_bin": 1.478405090800511,
+      "heldout_pairwise_cross_entropy_bits_per_bin": 1.430056905979748,
+      "heldout_gain_bits_per_bin": 0.048348184820762974,
+      "heldout_gain_over_saturated_plugin_gap": 0.8538536490641914
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c7_bush2_spks",
+        "c23_bush2_spks",
+        "c29_bush2_spks",
+        "c35_bush2_spks",
+        "c42_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c55_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "optimizer_success": true,
+      "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 428,
+      "max_training_constraint_error": 3.5241288595666553e-08,
+      "training_total_correlation_plugin_bits_per_bin": 0.060697923947361954,
+      "training_pairwise_fraction_plugin": 0.9358135759724525,
+      "heldout_entropy_plugin_bits_per_bin": 1.4994466000259539,
+      "heldout_independent_cross_entropy_bits_per_bin": 1.5594539733757675,
+      "heldout_pairwise_cross_entropy_bits_per_bin": 1.5089736729743304,
+      "heldout_gain_bits_per_bin": 0.05048030040143714,
+      "heldout_gain_over_saturated_plugin_gap": 0.8412349613631922
+    },
+    {
+      "cells": [
+        "c7_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c23_bush2_spks",
+        "c35_bush2_spks",
+        "c38_bush2_spks",
+        "c42_bush2_spks",
+        "c45_bush2_spks",
+        "c49_bush2_spks",
+        "c63_bush2_spks"
+      ],
+      "optimizer_success": true,
+      "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 197,
+      "max_training_constraint_error": 7.389942935365212e-09,
+      "training_total_correlation_plugin_bits_per_bin": 0.07376513798797912,
+      "training_pairwise_fraction_plugin": 0.9114876385298757,
+      "heldout_entropy_plugin_bits_per_bin": 1.3359116523634191,
+      "heldout_independent_cross_entropy_bits_per_bin": 1.4093593595387484,
+      "heldout_pairwise_cross_entropy_bits_per_bin": 1.345807557023897,
+      "heldout_gain_bits_per_bin": 0.06355180251485137,
+      "heldout_gain_over_saturated_plugin_gap": 0.8652659825465342
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c12_bush2_spks",
+        "c22_bush2_spks",
+        "c23_bush2_spks",
+        "c26_bush2_spks",
+        "c27_bush2_spks",
+        "c47_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c50_bush2_spks"
+      ],
+      "optimizer_success": true,
+      "optimizer_message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 160,
+      "max_training_constraint_error": 2.999380138354879e-09,
+      "training_total_correlation_plugin_bits_per_bin": 0.04620683015976779,
+      "training_pairwise_fraction_plugin": 0.9102368587482514,
+      "heldout_entropy_plugin_bits_per_bin": 1.7234895959509857,
+      "heldout_independent_cross_entropy_bits_per_bin": 1.7674282422617402,
+      "heldout_pairwise_cross_entropy_bits_per_bin": 1.7331210880601668,
+      "heldout_gain_bits_per_bin": 0.034307154201573375,
+      "heldout_gain_over_saturated_plugin_gap": 0.7807967946699417
+    }
+  ],
+  "all_40_heldout_simultaneous_spikes_at_least_5": {
+    "observed_probability": 0.043471698113207544,
+    "independent_model_probability": 0.002248904508173636
+  },
+  "limitations": "exploratory finite-group check; no confidence intervals or estimator-bias correction; source sorting/stimulus timing not independently audited; may differ from original paper methods, groups, sample selection and temporal analysis."
+}

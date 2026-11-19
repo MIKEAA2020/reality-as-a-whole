@@ -1,5 +1,7 @@
 # From an assumed boundary budget to a conditional intervention test
 
+> **Source update:** The user subsequently supplied the supplementary figures and full retinal spike-time file. All three plots were visually inspected, and a small held-out independent maximum-entropy analysis was carried out; neither establishes the causal assumptions of this note. See [the data audit](RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md).
+
 ## Objective and result
 
 The previous [unknown-context gate](SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md) showed that a candidate pair is selected by the stipulated `L` rule if its internal edge weight exceeds the **sum** of its external weights. That was a graph theorem: it did not say how anyone could measure or bound the sum.

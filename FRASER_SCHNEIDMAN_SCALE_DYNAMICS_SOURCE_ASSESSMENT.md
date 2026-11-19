@@ -1,5 +1,7 @@
 # Effective physical structure, collective activity and subject boundaries
 
+> **New recovery:** The supplemental figures have now been visually inspected and a bounded independent analysis of the user-supplied retinal spike file has been performed; see [the recovery and data audit](RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md). Fraser’s final chapter remains unverified.
+
 > **Follow-up:** The earlier statement that recordings had not been obtained or replayed remains true, but an original-paper-associated 40-cell spike-train archive has now been found and its README and first text chunk inspected. The published Fraser chapter has also been identified. See [source follow-up](FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md) for exact access, versions, and remaining limits.
 
 ## Sources and scope
