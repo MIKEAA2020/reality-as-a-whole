@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a17c5fefed5d710b5476263d56be9a648143653c",
-  "file_count": 1236,
+  "base_head": "7d4e1b586aaa06c54c95f7f1fadfee8ab8055f8a",
+  "file_count": 1241,
   "files": [
     {
       "path": ".gitattributes",
@@ -285,8 +285,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 26262,
-      "sha256": "6ad0aaede977cfd67addd8425406c93c6aa7a9a7ddb6c569eff5972f6dfbf82f"
+      "bytes": 26561,
+      "sha256": "c885f04716bbcfe382f35ff0fa7c8c2a16dab68049f2410bc22731e88d56bbf9"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -490,8 +490,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 88864,
-      "sha256": "f886acfca4880e535be6c518b7107b5f67ac97fe83e313e2493e8951d74a15a4"
+      "bytes": 89247,
+      "sha256": "376c4d0cfa1f10abd133926f00812c8b98d6b5a27b12378053352a27b40c0d8b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -570,8 +570,8 @@
     },
     {
       "path": "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
-      "bytes": 9083,
-      "sha256": "8e158fc31a1d58b7bdaa88677b618e1583463a389571fda1676a49d1b904162b"
+      "bytes": 9280,
+      "sha256": "30979da48bea40dda0268d26544c18408527e5f342e37aff0cd53f0fefbf1336"
     },
     {
       "path": "HAMILTONIAN_CLOCK_DETECTOR.md",
@@ -1432,6 +1432,11 @@
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
       "bytes": 12313,
       "sha256": "03e8e7e0f1f3beca190c15072194dc4c04497b1c515287c8f7e4e5eb1e9054bb"
+    },
+    {
+      "path": "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
+      "bytes": 8806,
+      "sha256": "3296775bfce2410d6c1aa3088585d2b7425547f3625d19acc50101af22549038"
     },
     {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
@@ -3919,6 +3924,16 @@
       "sha256": "93e571569bcd098e687402402d66cd83058ce4c5b440dcae36483999d2aa7462"
     },
     {
+      "path": "verification/halliwell_green_coefficient_gate.json",
+      "bytes": 1041,
+      "sha256": "794fe991e565f86090406067e2eb09e5e48332b59cd198a73f88f88df52ecd57"
+    },
+    {
+      "path": "verification/halliwell_green_coefficient_gate.py",
+      "bytes": 1532,
+      "sha256": "6ec1abace9f8ad7df6851173a06b3794979bc3ef9c6408e0f514b53c3081784e"
+    },
+    {
       "path": "verification/halliwell_unordered_and_relational_records_gate.json",
       "bytes": 1068,
       "sha256": "9f81cf658b98fe8cfaaf98f1ec2d720bdfe95020ce60c2b29f6e4fe97c35bd55"
@@ -4620,8 +4635,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 482007,
-      "sha256": "bee5c0f3ac292272f1f479bb207dfe6ee19de90702eda56104f3be27fbd5555a"
+      "bytes": 483488,
+      "sha256": "c4523885b8608db6edb9834729a312e2068c849c6de1bb12fabd699fc871ae3c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5827,6 +5842,16 @@
       "path": "verification/time_recovery_benchmark.py",
       "bytes": 2170,
       "sha256": "8fec8fdbd2cda77b32f231f9bbf135801af2c34ee611d6d7677ad66205c63cb4"
+    },
+    {
+      "path": "verification/timeless_symmetrized_class_gate.json",
+      "bytes": 1126,
+      "sha256": "0ee5648078152db0e3c344d3cc8b603b73167ee4a620869419adabf39b4b4a0f"
+    },
+    {
+      "path": "verification/timeless_symmetrized_class_gate.py",
+      "bytes": 3722,
+      "sha256": "fcdc491349ce6b9fd470b3bc54029ac1648ed867a3359727a25248795cb09357"
     },
     {
       "path": "verification/tolman_cocycle.py",

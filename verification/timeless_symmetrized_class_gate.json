@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "scope": "finite degenerate-constraint toy; not Halliwell complex-potential replay, WKB counterexample, subject assay, or complete quantum-gravity model",
+  "constraint": "H=diag(0,0,1); physical state rho supported on zero eigenspace",
+  "one_region_effects": "P=|0><0|, Q=|+><+| with |+>=(|0>+|1>)/sqrt(2)",
+  "joint_candidate": "J=(PQ+QP)/2",
+  "physical_P_Q_noncommute": true,
+  "all_four_class_operators_commute_with_constraint": true,
+  "class_operators_sum_to_identity": true,
+  "class_order": [
+    "11",
+    "10",
+    "01",
+    "00"
+  ],
+  "linear_expectations": [
+    "-1/10",
+    "1/5",
+    "3/10",
+    "3/5"
+  ],
+  "branch_norm_weights": [
+    "1/80",
+    "13/80",
+    "17/80",
+    "29/80"
+  ],
+  "sum_branch_norms": "3/4",
+  "sum_off_diagonal_interference": "1/4",
+  "example_cross_decoherence_functional": "D(11,10)=-3/80",
+  "linear_J_with_20_percent_physical_subspace_white_noise": "-3/100",
+  "unmeasured_Q_marginal": "1/5",
+  "Q_marginal_after_unread_P_measurement": "1/2",
+  "sequential_P_yes_then_Q_yes": "1/20",
+  "commuting_Q_equals_P_control_decoherent_and_normalized": true
+}

@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "source": "Halliwell, arXiv:0909.2597v1, PDF equations (5.11) and (5.12), HTML (122) and (123)",
+  "expansion_from_preceding_equation": "(Q-p)/(2Q) = i(V0/E)/4 + O((V0/E)^2)",
+  "next_equation_printed_coefficient": "4i(V0/E)",
+  "scope": "checks asymptotic coefficients from source text; PDF equation image not visually checked; published article comparison and full proof audit not performed",
+  "ratios": [
+    {
+      "V0_over_E": 0.01,
+      "exact_over_correct_real": 0.999937504921456,
+      "exact_over_correct_imag": -0.007499453170118595,
+      "exact_over_printed_real": 0.062496094057591
+    },
+    {
+      "V0_over_E": 0.0001,
+      "exact_over_correct_real": 0.9999999937500005,
+      "exact_over_correct_imag": -7.499999715886723e-05,
+      "exact_over_printed_real": 0.06249999960937503
+    },
+    {
+      "V0_over_E": 1e-06,
+      "exact_over_correct_real": 0.999999999999375,
+      "exact_over_correct_imag": -7.500222251451165e-07,
+      "exact_over_printed_real": 0.06249999999996094
+    }
+  ]
+}

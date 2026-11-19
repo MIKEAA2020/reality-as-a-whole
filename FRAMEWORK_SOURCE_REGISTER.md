@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 338 root Markdown documents including this register; 43 research Markdown documents.
-- 39 original uploaded files, including provenance metadata; 283 verification Python scripts.
+- 339 root Markdown documents including this register; 43 research Markdown documents.
+- 39 original uploaded files, including provenance metadata; 285 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -295,6 +295,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md](THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md) — A finite-cutoff certificate for the 3+1 two-field instrument
 - [THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md](THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md) — Sharper cutoff certificate for the 3+1 field–probe model
 - [THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) — A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle
+- [TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md](TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md) — Timeless class operators, decoherence, and joint events
 - [TIME_DECISIVE_TEST_GRAVITY_RECORD.md](TIME_DECISIVE_TEST_GRAVITY_RECORD.md) — Problem of time: a decisive test on a gravitating clock, and the remaining gap
 - [TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md](TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md) — Timeless whole, local time and a quantum world
 - [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
@@ -520,6 +521,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
 - [verification/ground_support_factorization_gate.py](verification/ground_support_factorization_gate.py)
+- [verification/halliwell_green_coefficient_gate.py](verification/halliwell_green_coefficient_gate.py)
 - [verification/halliwell_unordered_and_relational_records_gate.py](verification/halliwell_unordered_and_relational_records_gate.py)
 - [verification/hamiltonian_detector.py](verification/hamiltonian_detector.py)
 - [verification/hawking_backreaction_bound.py](verification/hawking_backreaction_bound.py)
@@ -695,6 +697,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/tick_readout.py](verification/tick_readout.py)
 - [verification/timbre_interval_crossover_gate.py](verification/timbre_interval_crossover_gate.py)
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
+- [verification/timeless_symmetrized_class_gate.py](verification/timeless_symmetrized_class_gate.py)
 - [verification/tolman_cocycle.py](verification/tolman_cocycle.py)
 - [verification/top_higgs_spectral_prediction.py](verification/top_higgs_spectral_prediction.py)
 - [verification/torus_gravity_second_order.py](verification/torus_gravity_second_order.py)

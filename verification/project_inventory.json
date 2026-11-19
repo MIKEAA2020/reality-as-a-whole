@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 381,
-  "bytes": 5048771,
-  "line_count": 52499,
-  "document_count_with_risk_phrases": 355,
+  "document_count": 382,
+  "bytes": 5058456,
+  "line_count": 52548,
+  "document_count_with_risk_phrases": 356,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1999,8 +1999,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "6ad0aaede977cfd67addd8425406c93c6aa7a9a7ddb6c569eff5972f6dfbf82f",
-      "bytes": 26262,
+      "sha256": "c885f04716bbcfe382f35ff0fa7c8c2a16dab68049f2410bc22731e88d56bbf9",
+      "bytes": 26561,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2021,6 +2021,7 @@
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
+        "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -3284,9 +3285,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f886acfca4880e535be6c518b7107b5f67ac97fe83e313e2493e8951d74a15a4",
-      "bytes": 88864,
-      "lines": 736,
+      "sha256": "376c4d0cfa1f10abd133926f00812c8b98d6b5a27b12378053352a27b40c0d8b",
+      "bytes": 89247,
+      "lines": 739,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3583,6 +3584,7 @@
         "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
+        "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
         "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
         "TIME_RESEARCH_ROADMAP.md",
@@ -3794,6 +3796,7 @@
         "verification/gravitating_clock_probe.py",
         "verification/gravity_clock_complementarity.py",
         "verification/ground_support_factorization_gate.py",
+        "verification/halliwell_green_coefficient_gate.py",
         "verification/halliwell_unordered_and_relational_records_gate.py",
         "verification/hamiltonian_detector.py",
         "verification/hawking_backreaction_bound.py",
@@ -3969,6 +3972,7 @@
         "verification/tick_readout.py",
         "verification/timbre_interval_crossover_gate.py",
         "verification/time_recovery_benchmark.py",
+        "verification/timeless_symmetrized_class_gate.py",
         "verification/tolman_cocycle.py",
         "verification/top_higgs_spectral_prediction.py",
         "verification/torus_gravity_second_order.py",
@@ -4017,13 +4021,13 @@
         201,
         218,
         262,
-        329,
-        342,
-        378,
-        387,
-        390,
-        393,
-        440
+        330,
+        343,
+        379,
+        388,
+        391,
+        394,
+        441
       ]
     },
     {
@@ -4527,8 +4531,8 @@
     },
     {
       "path": "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
-      "sha256": "8e158fc31a1d58b7bdaa88677b618e1583463a389571fda1676a49d1b904162b",
-      "bytes": 9083,
+      "sha256": "30979da48bea40dda0268d26544c18408527e5f342e37aff0cd53f0fefbf1336",
+      "bytes": 9280,
       "lines": 51,
       "title": "Timeless detectors and relational order",
       "headings": [
@@ -4540,10 +4544,12 @@
       ],
       "local_links": [
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "OPERATIONAL_PATH_ACCUMULATOR.md",
         "verification/halliwell_unordered_and_relational_records_gate.py",
         "verification/halliwell_unordered_and_relational_records_gate.json",
-        "AUTONOMOUS_RECORD_TAPE.md"
+        "AUTONOMOUS_RECORD_TAPE.md",
+        "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md"
       ],
       "risk_phrase_lines": [
         11,
@@ -10353,6 +10359,35 @@
         125,
         143,
         147
+      ]
+    },
+    {
+      "path": "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
+      "sha256": "3296775bfce2410d6c1aa3088585d2b7425547f3625d19acc50101af22549038",
+      "bytes": 8806,
+      "lines": 46,
+      "title": "Timeless class operators, decoherence, and joint events",
+      "headings": [
+        "Timeless class operators, decoherence, and joint events",
+        "Source and scope",
+        "What the paper actually establishes or proposes",
+        "One apparent coefficient inconsistency",
+        "Finite joint-event gate",
+        "Implication for a plural experiential whole"
+      ],
+      "local_links": [
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
+        "verification/halliwell_green_coefficient_gate.py",
+        "verification/halliwell_green_coefficient_gate.json",
+        "verification/timeless_symmetrized_class_gate.py",
+        "verification/timeless_symmetrized_class_gate.json",
+        "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        27,
+        40,
+        46
       ]
     },
     {
