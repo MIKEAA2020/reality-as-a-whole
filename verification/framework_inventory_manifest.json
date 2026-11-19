@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5a1508410e7946fbf1584cba8bfbf4224d5ad483",
-  "file_count": 1174,
+  "base_head": "4bfd6c437c1badb9aa855dfb774199685c51af9f",
+  "file_count": 1177,
   "files": [
     {
       "path": ".gitattributes",
@@ -470,8 +470,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 82722,
-      "sha256": "ef60ee3ee7bb650346d0fa950b76d0be01834ce169fa67d9a584c15796d03d31"
+      "bytes": 82973,
+      "sha256": "fbd8b0af54a1c9349343d47e3171ab61a7fefcd14e1e5bdb3b1bd77df9027a8e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -692,6 +692,11 @@
       "path": "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
       "bytes": 12130,
       "sha256": "9f51c0588c090738b668e98a0f2e42e9c809f4887f611ef684ed89fa5c1ea1d5"
+    },
+    {
+      "path": "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
+      "bytes": 9986,
+      "sha256": "edba230d08ecc49215c121c8a6f07fe6a1142fccab21ec68e3549d329dd81988"
     },
     {
       "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
@@ -1190,8 +1195,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "bytes": 7611,
-      "sha256": "64b5fb68bb35bbc9e13c9073dfd34f9eeedda2bdcaa5cca676f447cce8712f1a"
+      "bytes": 7826,
+      "sha256": "eacbc9c10a2443ad5fa48999c7bb0a0911841e35a599cb5bcf9a6413f9d1f28b"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -4390,8 +4395,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 457916,
-      "sha256": "190805f3772e2ed9a374a8e540d268608970e61c03df7d695cb02b4a54e1a804"
+      "bytes": 459138,
+      "sha256": "7047a9b97cca9628317f884997dc5792b6c5c1f539db7c18ab1892cbb59ac35d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5522,6 +5527,16 @@
       "path": "verification/tick_readout.py",
       "bytes": 8793,
       "sha256": "44cc5968b7656b7e14d3e2bbfeab5fdbf27619dbffe7d1ce92ffd9a7ce28266d"
+    },
+    {
+      "path": "verification/timbre_interval_crossover_gate.json",
+      "bytes": 1075,
+      "sha256": "0a29a034e71420633db92a63eefcf1523228be8a19c65689485d4fddf102eaca"
+    },
+    {
+      "path": "verification/timbre_interval_crossover_gate.py",
+      "bytes": 3212,
+      "sha256": "37efc5e6cc5d5c32ce53fd59a2e1b8e5fed034171357b24d98f08211f19f9520"
     },
     {
       "path": "verification/time_recovery_benchmark.py",

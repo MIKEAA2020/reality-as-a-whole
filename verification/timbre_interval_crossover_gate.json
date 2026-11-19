@@ -1,0 +1,62 @@
+{
+  "best_ratio_only_rmse": "1/8",
+  "contrast": "1/2",
+  "exact_overlap": {
+    "A": {
+      "3:2": "1/4",
+      "4:3": "0"
+    },
+    "B": {
+      "3:2": "0",
+      "4:3": "1/4"
+    }
+  },
+  "partial_indices": {
+    "A": [
+      2,
+      3
+    ],
+    "B": [
+      3,
+      4
+    ]
+  },
+  "ratios": {
+    "3:2": "3/2",
+    "4:3": "4/3"
+  },
+  "sampling_note": "all weights are stipulated equal power; no matched-perceptual-loudness assumption",
+  "scope": "illustrative 2x2 spectral index only; not audio, neural data, valence or identity",
+  "smoothing_width_cents": {
+    "1": {
+      "A": {
+        "3:2": 0.25,
+        "4:3": 0.0
+      },
+      "B": {
+        "3:2": 0.0,
+        "4:3": 0.25
+      }
+    },
+    "10": {
+      "A": {
+        "3:2": 0.25,
+        "4:3": 1.2872460251984834e-91
+      },
+      "B": {
+        "3:2": 1.2872460251981908e-91,
+        "4:3": 0.25
+      }
+    },
+    "50": {
+      "A": {
+        "3:2": 0.25,
+        "4:3": 6.115174729707371e-05
+      },
+      "B": {
+        "3:2": 6.115174729707317e-05,
+        "4:3": 0.25
+      }
+    }
+  }
+}

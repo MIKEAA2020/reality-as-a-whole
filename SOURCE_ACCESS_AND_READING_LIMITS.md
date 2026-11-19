@@ -1,6 +1,6 @@
 # Source access and reading limits
 
-> **Updated source status:** the published PNAS and earlier agreement supplements are now accessible as text, and selected sections of the previously missing OKN primary article have been inspected. The published QPV supplement is also accessible but not fully proof-audited. See [the recovery and dual-aspect assessment](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md); the table below records the earlier access state.
+> **Updated source status:** the published PNAS and earlier agreement supplements are now accessible as text, and selected sections of the previously missing OKN primary article have been inspected. The published QPV supplement is also accessible but not fully proof-audited. See [the recovery and dual-aspect assessment](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md). Queenan's IAI article prose and tables are currently accessible through an alternate URL, but image-only equations remain uninspected; see [the spectral crossover gate](MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md). The table below records the earlier access state.
 
 ## Working rule
 

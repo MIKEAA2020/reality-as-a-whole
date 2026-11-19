@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 318 root Markdown documents including this register; 43 research Markdown documents.
-- 25 original uploaded files, including provenance metadata; 269 verification Python scripts.
+- 319 root Markdown documents including this register; 43 research Markdown documents.
+- 25 original uploaded files, including provenance metadata; 270 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -147,6 +147,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
 - [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
 - [MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md](MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md) — Does musical structure help explain quantum physics and experience?
+- [MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md](MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md) — Music, quantum structure and a sharper relational test
 - [NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) — Nanoparticle interference and the limits of collapse-model transfer
 - [NECESSARY_ARTICULATED_UNITY.md](NECESSARY_ARTICULATED_UNITY.md) — Necessary articulated unity
 - [NECESSARY_EXISTENCE_ARGUMENT.md](NECESSARY_EXISTENCE_ARGUMENT.md) — The necessary-existence argument: strongest form, with what is and isn't proved
@@ -647,6 +648,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/three_dimensional_sharper_tail.py](verification/three_dimensional_sharper_tail.py)
 - [verification/three_dimensional_smooth_probe_gate.py](verification/three_dimensional_smooth_probe_gate.py)
 - [verification/tick_readout.py](verification/tick_readout.py)
+- [verification/timbre_interval_crossover_gate.py](verification/timbre_interval_crossover_gate.py)
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
 - [verification/tolman_cocycle.py](verification/tolman_cocycle.py)
 - [verification/top_higgs_spectral_prediction.py](verification/top_higgs_spectral_prediction.py)

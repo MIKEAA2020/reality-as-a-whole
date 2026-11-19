@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 361,
-  "bytes": 4850456,
-  "line_count": 51323,
-  "document_count_with_risk_phrases": 335,
+  "document_count": 362,
+  "bytes": 4860908,
+  "line_count": 51399,
+  "document_count_with_risk_phrases": 336,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3163,9 +3163,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ef60ee3ee7bb650346d0fa950b76d0be01834ce169fa67d9a584c15796d03d31",
-      "bytes": 82722,
-      "lines": 688,
+      "sha256": "fbd8b0af54a1c9349343d47e3171ab61a7fefcd14e1e5bdb3b1bd77df9027a8e",
+      "bytes": 82973,
+      "lines": 690,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3314,6 +3314,7 @@
         "MODULAR_LOCAL_NET.md",
         "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NECESSARY_ARTICULATED_UNITY.md",
         "NECESSARY_EXISTENCE_ARGUMENT.md",
@@ -3800,6 +3801,7 @@
         "verification/three_dimensional_sharper_tail.py",
         "verification/three_dimensional_smooth_probe_gate.py",
         "verification/tick_readout.py",
+        "verification/timbre_interval_crossover_gate.py",
         "verification/time_recovery_benchmark.py",
         "verification/tolman_cocycle.py",
         "verification/top_higgs_spectral_prediction.py",
@@ -3844,17 +3846,17 @@
         38,
         45,
         93,
-        152,
-        190,
-        206,
-        245,
-        309,
-        322,
-        358,
-        367,
-        370,
-        373,
-        407
+        153,
+        191,
+        207,
+        246,
+        310,
+        323,
+        359,
+        368,
+        371,
+        374,
+        408
       ]
     },
     {
@@ -5373,6 +5375,36 @@
         32,
         34,
         36
+      ]
+    },
+    {
+      "path": "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
+      "sha256": "edba230d08ecc49215c121c8a6f07fe6a1142fccab21ec68e3549d329dd81988",
+      "bytes": 9986,
+      "lines": 74,
+      "title": "Music, quantum structure and a sharper relational test",
+      "headings": [
+        "Music, quantum structure and a sharper relational test",
+        "Source and access",
+        "What carries over",
+        "A constructive counterexample: same intervals, opposite spectral overlap",
+        "Turning the thought into a discriminating experiment",
+        "Implications for the two-aspect whole",
+        "Verification"
+      ],
+      "local_links": [
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "verification/timbre_interval_crossover_gate.py",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "verification/timbre_interval_crossover_gate.json"
+      ],
+      "risk_phrase_lines": [
+        32,
+        39,
+        41,
+        61,
+        74
       ]
     },
     {
@@ -8585,8 +8617,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "64b5fb68bb35bbc9e13c9073dfd34f9eeedda2bdcaa5cca676f447cce8712f1a",
-      "bytes": 7611,
+      "sha256": "eacbc9c10a2443ad5fa48999c7bb0a0911841e35a599cb5bcf9a6413f9d1f28b",
+      "bytes": 7826,
       "lines": 36,
       "title": "Source access and reading limits",
       "headings": [
@@ -8598,6 +8630,7 @@
       ],
       "local_links": [
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
+        "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
