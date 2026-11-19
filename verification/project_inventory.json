@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 360,
-  "bytes": 4834369,
-  "line_count": 51247,
-  "document_count_with_risk_phrases": 334,
+  "document_count": 361,
+  "bytes": 4850456,
+  "line_count": 51323,
+  "document_count_with_risk_phrases": 335,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2123,6 +2123,30 @@
       ]
     },
     {
+      "path": "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
+      "sha256": "0038480eae8d611151d9af093431d474c3c9dbe1b42136dedcdf829cf3c1ca5a",
+      "bytes": 13580,
+      "lines": 68,
+      "title": "Relational matter and experience: one reality, two aspects",
+      "headings": [
+        "Relational matter and experience: one reality, two aspects",
+        "A substantive middle position",
+        "Meaning of “equally fundamental”",
+        "Operational interface and remaining work",
+        "Newly accessible sources"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "verification/quantum_agreement_supplement_gate.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        42,
+        44
+      ]
+    },
+    {
       "path": "DUE_REGARD_ARGUMENT.md",
       "sha256": "9def3e886a14b49c91a6f345cc191352551819c71cbb342ed66308674fe28bd8",
       "bytes": 7813,
@@ -3139,9 +3163,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fb9bfbe33fafbaa3c732d393d274d7aded3b716f9a9eb89b269e7b8413791f89",
-      "bytes": 82463,
-      "lines": 686,
+      "sha256": "ef60ee3ee7bb650346d0fa950b76d0be01834ce169fa67d9a584c15796d03d31",
+      "bytes": 82722,
+      "lines": 688,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3213,6 +3237,7 @@
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
         "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
         "DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md",
+        "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "DUE_REGARD_ARGUMENT.md",
         "DUST_CLOCK_RECORD.md",
         "ENERGY_CONDITIONS_BOUNCE.md",
@@ -3684,6 +3709,7 @@
         "verification/qpv_causal_records_gate.py",
         "verification/qualitative_anchor_check.py",
         "verification/quantum_agreement_record_gate.py",
+        "verification/quantum_agreement_supplement_gate.py",
         "verification/quantum_relational_field_instrument.py",
         "verification/quantum_static_spherical_clock.py",
         "verification/race_context_and_joint_content_gate.py",
@@ -3817,18 +3843,18 @@
         34,
         38,
         45,
-        92,
-        151,
-        189,
-        205,
-        244,
-        308,
-        321,
-        357,
-        366,
-        369,
-        372,
-        406
+        93,
+        152,
+        190,
+        206,
+        245,
+        309,
+        322,
+        358,
+        367,
+        370,
+        373,
+        407
       ]
     },
     {
@@ -5781,9 +5807,9 @@
     },
     {
       "path": "OKN_SOURCE_QUALIFICATION.md",
-      "sha256": "384ca3a9e4823a08b9c2efb390b3545bbbb3488e609a078624f2df601c1afc73",
-      "bytes": 13947,
-      "lines": 111,
+      "sha256": "3418bf4b73ba43c40d242f134ed6297b9702a019ff9d04c002a3e68bb53dd88a",
+      "bytes": 14518,
+      "lines": 113,
       "title": "Primary OKN evidence: a qualified measurement route, not a qualitative identity",
       "headings": [
         "Primary OKN evidence: a qualified measurement route, not a qualitative identity",
@@ -5796,6 +5822,7 @@
         "7. Reproducibility and connection to the unified account"
       ],
       "local_links": [
+        "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
         "sources/external/rivalry_okn/ATTRIBUTION.md",
         "sources/external/rivalry_okn/provenance.json",
@@ -5807,9 +5834,9 @@
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        25,
-        63,
-        75
+        27,
+        65,
+        77
       ]
     },
     {
@@ -6775,9 +6802,9 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "sha256": "845005d36b75cf956043650611a68cd96b018907c68953f16bf813a0f5dcc74e",
-      "bytes": 13170,
-      "lines": 86,
+      "sha256": "fbab81cf691a4413bb15889cd4c54ba824095e62dd76a4a3d4217c2efb518426",
+      "bytes": 13862,
+      "lines": 88,
       "title": "Quantum agreement, disagreement and plural perspectives",
       "headings": [
         "Quantum agreement, disagreement and plural perspectives",
@@ -6789,6 +6816,7 @@
         "Reproduction and sources"
       ],
       "local_links": [
+        "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "sources/uploads/s41467-021-27134-6.pdf",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "verification/quantum_agreement_record_gate.py",
@@ -6799,9 +6827,10 @@
         "verification/quantum_agreement_record_gate.json"
       ],
       "risk_phrase_lines": [
-        22,
-        78,
-        82
+        3,
+        24,
+        80,
+        84
       ]
     },
     {
@@ -6858,8 +6887,8 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "f1e387b758ad236d0d8393cf7ae0e0e9a6612e109247be4513fa9a6b1f760309",
-      "bytes": 12579,
+      "sha256": "3c10055f98ecb81b6d83f78086d9fb7f4a4725c34b93cacff6042dd851637952",
+      "bytes": 13146,
       "lines": 69,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
@@ -8556,9 +8585,9 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "10849ce43695028b31899787c9d96b95558d08690aa0a72bf1e687b710bcc2c5",
-      "bytes": 7193,
-      "lines": 34,
+      "sha256": "64b5fb68bb35bbc9e13c9073dfd34f9eeedda2bdcaa5cca676f447cce8712f1a",
+      "bytes": 7611,
+      "lines": 36,
       "title": "Source access and reading limits",
       "headings": [
         "Source access and reading limits",
@@ -8568,6 +8597,7 @@
         "Workspace integrity incident"
       ],
       "local_links": [
+        "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
@@ -8581,7 +8611,7 @@
         "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin"
       ],
       "risk_phrase_lines": [
-        18
+        20
       ]
     },
     {

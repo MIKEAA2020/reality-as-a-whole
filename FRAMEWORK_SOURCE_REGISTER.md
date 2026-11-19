@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 317 root Markdown documents including this register; 43 research Markdown documents.
-- 25 original uploaded files, including provenance metadata; 268 verification Python scripts.
+- 318 root Markdown documents including this register; 43 research Markdown documents.
+- 25 original uploaded files, including provenance metadata; 269 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -70,6 +70,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
 - [DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) — When could the maintained-disclosure contrast be identifiable?
 - [DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md](DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md) — Cutting a distribution channel is not erasing its records
+- [DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md) — Relational matter and experience: one reality, two aspects
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
 - [ENERGY_CONDITIONS_BOUNCE.md](ENERGY_CONDITIONS_BOUNCE.md) — Energy conditions across the polymer bounce
@@ -555,6 +556,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/qpv_causal_records_gate.py](verification/qpv_causal_records_gate.py)
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
 - [verification/quantum_agreement_record_gate.py](verification/quantum_agreement_record_gate.py)
+- [verification/quantum_agreement_supplement_gate.py](verification/quantum_agreement_supplement_gate.py)
 - [verification/quantum_relational_field_instrument.py](verification/quantum_relational_field_instrument.py)
 - [verification/quantum_static_spherical_clock.py](verification/quantum_static_spherical_clock.py)
 - [verification/race_context_and_joint_content_gate.py](verification/race_context_and_joint_content_gate.py)

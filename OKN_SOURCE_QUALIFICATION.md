@@ -1,5 +1,7 @@
 # Primary OKN evidence: a qualified measurement route, not a qualitative identity
 
+> **Subsequent primary-source update:** selected methods, results and discussion of the [published article](https://jov.arvojournals.org/article.aspx?articleid=2728678) have now been inspected. It includes report and physical-replay comparisons in eight trained observers, unlike the single demo. The authors distinguish precision of eye-movement timing from fidelity to perception; neither its full dataset nor every figure was reanalyzed. See [the updated assessment](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md). Statements below describe the earlier demo-only audit.
+
 ## 1. Decision and relevance to the constitution
 
 **Admit this source as an inspectable primary-author measurement method and small recorded-eye-trace demo. Do not admit the demo as a calibrated perceptual dataset or a neural identity test.** This is an advance from screening a model description: actual recorded values and every supplied MATLAB function have now been inspected. No participant-level perceptual correspondence or publication result has been reproduced.

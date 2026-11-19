@@ -1,5 +1,7 @@
 # Quantum agreement, disagreement and plural perspectives
 
+> **Supplement update:** the published [PNAS appendix](https://www.pnas.org/doi/suppl/10.1073/pnas.2613021123/suppl_file/pnas.2613021123.sapp.pdf) and the earlier [Nature Communications supplement](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27134-6/MediaObjects/41467_2021_27134_MOESM1_ESM.pdf) are now accessible as extracted PDF text. The later appendix was inspected throughout and selected proofs of the earlier supplement were inspected; extraction and proof-audit limits remain. An exact check of the later paper's signed-probability example and further version qualifications are in [the updated source assessment](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md).
+
 ## Answer to the two links
 
 The headlines appear contradictory, but the results concern **different ways of specifying the event and the observers' measurements**. They are compatible.

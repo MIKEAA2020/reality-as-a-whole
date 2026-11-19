@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "02ff4a09a23d378ba6ccde1bb3941e76b6a6585c",
-  "file_count": 1172,
+  "base_head": "5a1508410e7946fbf1584cba8bfbf4224d5ad483",
+  "file_count": 1174,
   "files": [
     {
       "path": ".gitattributes",
@@ -299,6 +299,11 @@
       "sha256": "ff1d0cdf1279f7ba6449dd1a1c86e1dd46c944b4caae2f205e031e13ef33b19d"
     },
     {
+      "path": "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
+      "bytes": 13580,
+      "sha256": "0038480eae8d611151d9af093431d474c3c9dbe1b42136dedcdf829cf3c1ca5a"
+    },
+    {
       "path": "DUE_REGARD_ARGUMENT.md",
       "bytes": 7813,
       "sha256": "9def3e886a14b49c91a6f345cc191352551819c71cbb342ed66308674fe28bd8"
@@ -465,8 +470,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 82463,
-      "sha256": "fb9bfbe33fafbaa3c732d393d274d7aded3b716f9a9eb89b269e7b8413791f89"
+      "bytes": 82722,
+      "sha256": "ef60ee3ee7bb650346d0fa950b76d0be01834ce169fa67d9a584c15796d03d31"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -760,8 +765,8 @@
     },
     {
       "path": "OKN_SOURCE_QUALIFICATION.md",
-      "bytes": 13947,
-      "sha256": "384ca3a9e4823a08b9c2efb390b3545bbbb3488e609a078624f2df601c1afc73"
+      "bytes": 14518,
+      "sha256": "3418bf4b73ba43c40d242f134ed6297b9702a019ff9d04c002a3e68bb53dd88a"
     },
     {
       "path": "ONE_WHOLE_FINITE_ACCESS.md",
@@ -915,8 +920,8 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "bytes": 13170,
-      "sha256": "845005d36b75cf956043650611a68cd96b018907c68953f16bf813a0f5dcc74e"
+      "bytes": 13862,
+      "sha256": "fbab81cf691a4413bb15889cd4c54ba824095e62dd76a4a3d4217c2efb518426"
     },
     {
       "path": "QUANTUM_FIELD_RECORD_EMBEDDING.md",
@@ -930,8 +935,8 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "bytes": 12579,
-      "sha256": "f1e387b758ad236d0d8393cf7ae0e0e9a6612e109247be4513fa9a6b1f760309"
+      "bytes": 13146,
+      "sha256": "3c10055f98ecb81b6d83f78086d9fb7f4a4725c34b93cacff6042dd851637952"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -1185,8 +1190,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "bytes": 7193,
-      "sha256": "10849ce43695028b31899787c9d96b95558d08690aa0a72bf1e687b710bcc2c5"
+      "bytes": 7611,
+      "sha256": "64b5fb68bb35bbc9e13c9073dfd34f9eeedda2bdcaa5cca676f447cce8712f1a"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -4385,8 +4390,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 456798,
-      "sha256": "8a22c3cfa0a3d1c645cd9f17e0acbd4576f468c6b113d8048756472f92d8ae9d"
+      "bytes": 457916,
+      "sha256": "190805f3772e2ed9a374a8e540d268608970e61c03df7d695cb02b4a54e1a804"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4432,6 +4437,11 @@
       "path": "verification/quantum_agreement_record_gate.py",
       "bytes": 5438,
       "sha256": "3d3749435f23e930c869d22f05cd4f7c91edf0151fee78b8576e49cf7edf5476"
+    },
+    {
+      "path": "verification/quantum_agreement_supplement_gate.py",
+      "bytes": 2279,
+      "sha256": "9ab96bbf1f613e1392435fbdbb0d52a8f27fa673eb24c9b90a0d98f0849f2df2"
     },
     {
       "path": "verification/quantum_relational_field_instrument.json",

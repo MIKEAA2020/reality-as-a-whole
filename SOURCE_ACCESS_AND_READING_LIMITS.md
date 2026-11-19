@@ -1,5 +1,7 @@
 # Source access and reading limits
 
+> **Updated source status:** the published PNAS and earlier agreement supplements are now accessible as text, and selected sections of the previously missing OKN primary article have been inspected. The published QPV supplement is also accessible but not fully proof-audited. See [the recovery and dual-aspect assessment](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md); the table below records the earlier access state.
+
 ## Working rule
 
 Whenever a source matters to an answer, report any material access or reading limitation **in that answer**, not only in an internal note. Distinguish: (1) full version of record, (2) author preprint or supplied manuscript, (3) abstract or excerpt only, (4) missing supplement, figures or external files, (5) raw data/code available versus actually inspected, and (6) reproduction versus summary. Do not call a preprint the full published version without verifying their identity. If a source changes, state what was compared and what was not; don't make blanket claims from a title, a successful HTTP response, or an inventory.
