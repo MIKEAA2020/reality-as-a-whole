@@ -118,6 +118,8 @@ Even a successful engineered-qubit experiment would test the declared circuit an
 
 The subsequent [experience-assay identifiability gate](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) analyzes when three imperfect indicators can determine their error rates under a latent-class model, and gives an exact common-cause countermodel when the experiential interpretation or conditional-independence premise is not established.
 
+A separate [quantum position-verification analysis](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) distinguishes the physical site of an operation from device authentication, person binding and experiential constitution. Its classical collusion control illustrates why even matching timed responses need not identify a unique processing location without further causal and resource assumptions.
+
 ## Verification
 
 Run [`verification/shared_vs_independent_reports.py`](verification/shared_vs_independent_reports.py). It calculates five-qubit amplitudes using exact rational arithmetic, directly checks the joint `F,P,Q` read laws and X statistics, and verifies coherent recovery **before readout**. Its [JSON receipt](verification/shared_vs_independent_reports.json) includes all four checked rational cases. The continuum formulas follow for the specified controlled rotations; these finite checks do not prove a general theorem about observers or experience.

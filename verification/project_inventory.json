@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 356,
-  "bytes": 4794629,
-  "line_count": 51040,
-  "document_count_with_risk_phrases": 330,
+  "document_count": 357,
+  "bytes": 4807242,
+  "line_count": 51113,
+  "document_count_with_risk_phrases": 331,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3139,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "84e2848e1aceb8ce64c8f278f3ded109411f2d4be6f6b1e251ab118a1ad0de75",
-      "bytes": 81161,
-      "lines": 676,
+      "sha256": "d90e967ef2f4088019736afa355717949cb14c23057f8e65b5b70f19f2402dfe",
+      "bytes": 81415,
+      "lines": 678,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3332,6 +3332,7 @@
         "PROJECT_COHERENCE_AUDIT.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
+        "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -3673,6 +3674,7 @@
         "verification/plenitude_truthmaker_relevance.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
+        "verification/q1_agreement_stability_gate.py",
         "verification/qualitative_anchor_check.py",
         "verification/quantum_agreement_record_gate.py",
         "verification/quantum_relational_field_instrument.py",
@@ -3810,15 +3812,15 @@
         92,
         151,
         188,
-        201,
-        240,
-        303,
-        316,
-        352,
-        361,
-        364,
-        367,
-        399
+        202,
+        241,
+        304,
+        317,
+        353,
+        362,
+        365,
+        368,
+        400
       ]
     },
     {
@@ -6701,9 +6703,9 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
-      "sha256": "b94ad8b68227abef2008a75dcf48ffd3b5d18414dc71d4c7bfe6cfcf42d22db7",
-      "bytes": 10253,
-      "lines": 121,
+      "sha256": "5e03b7ac7872d640303561c726fc7f1bb75b1ea0038483530f848fbf6ec8297f",
+      "bytes": 10633,
+      "lines": 123,
       "title": "Optimal symmetric agreement stability and the Q1 boundary",
       "headings": [
         "Optimal symmetric agreement stability and the Q1 boundary",
@@ -6719,6 +6721,7 @@
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "verification/requirements-framework-battery.txt",
         "verification/q1_agreement_stability_gate.json"
       ],
@@ -6730,7 +6733,8 @@
         96,
         108,
         115,
-        121
+        119,
+        123
       ]
     },
     {
@@ -6789,6 +6793,34 @@
         33,
         50,
         106
+      ]
+    },
+    {
+      "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+      "sha256": "f3d4aa5743aa51e75e1959aeaa377d35d7b44b0da2610f29ec1b5b481f5bbc94",
+      "bytes": 11575,
+      "lines": 67,
+      "title": "Quantum position verification: records, location and subjects",
+      "headings": [
+        "Quantum position verification: records, location and subjects",
+        "The two links",
+        "1. What the experiment did",
+        "2. What “device-independent” and “secure” mean here",
+        "3. Why timing and records are not redundant",
+        "4. Finite evidence without pretending certainty",
+        "5. What this contributes to the whole-account",
+        "Reproduction and scope"
+      ],
+      "local_links": [
+        "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
+        "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "verification/qpv_causal_records_gate.json"
+      ],
+      "risk_phrase_lines": [
+        34,
+        36,
+        44,
+        54
       ]
     },
     {
@@ -9944,9 +9976,9 @@
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
-      "sha256": "a4ed778591284e6898d4024b18630319f7b6d4c4445eee5ed49a86bc21ea335c",
-      "bytes": 12393,
-      "lines": 123,
+      "sha256": "7f701f06a9df9b216be64b478c1f458046d7dc9ef59724a5d9baca997c847071",
+      "bytes": 12797,
+      "lines": 125,
       "title": "Two reports: agreement, accuracy and reversible records",
       "headings": [
         "Two reports: agreement, accuracy and reversible records",
@@ -9963,6 +9995,7 @@
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "verification/shared_vs_independent_reports.py",
         "verification/shared_vs_independent_reports.json"
       ],
@@ -9972,7 +10005,8 @@
         79,
         114,
         119,
-        123
+        121,
+        125
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "28acf932916193cb01755ae6fbd426f4a0043dd2",
-  "file_count": 1161,
+  "base_head": "3f630fa9f689ce2e9e46fb6322f3d825dbea354a",
+  "file_count": 1164,
   "files": [
     {
       "path": ".gitattributes",
@@ -465,8 +465,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 81415,
-      "sha256": "d90e967ef2f4088019736afa355717949cb14c23057f8e65b5b70f19f2402dfe"
+      "bytes": 81679,
+      "sha256": "e9376f777864076551a00a2078775b21c97d0b06f20f6cba865babaf13be9425"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -905,8 +905,8 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
-      "bytes": 10253,
-      "sha256": "b94ad8b68227abef2008a75dcf48ffd3b5d18414dc71d4c7bfe6cfcf42d22db7"
+      "bytes": 10633,
+      "sha256": "5e03b7ac7872d640303561c726fc7f1bb75b1ea0038483530f848fbf6ec8297f"
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
@@ -917,6 +917,11 @@
       "path": "QUANTUM_FIELD_RECORD_EMBEDDING.md",
       "bytes": 11504,
       "sha256": "74aa9f54af2ae1676898de6e37807ba9031f2bfd09098f9d7153c52affb24420"
+    },
+    {
+      "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+      "bytes": 11575,
+      "sha256": "f3d4aa5743aa51e75e1959aeaa377d35d7b44b0da2610f29ec1b5b481f5bbc94"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -1370,8 +1375,8 @@
     },
     {
       "path": "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
-      "bytes": 12393,
-      "sha256": "a4ed778591284e6898d4024b18630319f7b6d4c4445eee5ed49a86bc21ea335c"
+      "bytes": 12797,
+      "sha256": "7f701f06a9df9b216be64b478c1f458046d7dc9ef59724a5d9baca997c847071"
     },
     {
       "path": "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md",
@@ -4355,8 +4360,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 451900,
-      "sha256": "f134ef7f7524b94f3c68e661474d5930103279b09842723ad4e6e81afddad626"
+      "bytes": 453179,
+      "sha256": "f74e709c994d872d1aa273aa78b867aba1305d79ed7eb1a9f5f78a03df3683c2"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4372,6 +4377,16 @@
       "path": "verification/q1_agreement_stability_gate.py",
       "bytes": 5426,
       "sha256": "736b94806af5492085ef3ae5287bddfca0e8e6808d351cdb76f3d5fe5b083ee2"
+    },
+    {
+      "path": "verification/qpv_causal_records_gate.json",
+      "bytes": 1406,
+      "sha256": "6454ad103d3e24a6cb9d3aedebe95eaa1d72e030f538efe44e07e23e36d2000d"
+    },
+    {
+      "path": "verification/qpv_causal_records_gate.py",
+      "bytes": 3902,
+      "sha256": "5635151f37b1ed723b2f085e94a50cd861770ebba8fd14577b5998937dbfd9be"
     },
     {
       "path": "verification/qualitative_anchor_check.json",

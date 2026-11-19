@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 313 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 266 verification Python scripts.
+- 314 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 267 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -192,6 +192,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) — Optimal symmetric agreement stability and the Q1 boundary
 - [QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) — Quantum agreement, disagreement and plural perspectives
 - [QUANTUM_FIELD_RECORD_EMBEDDING.md](QUANTUM_FIELD_RECORD_EMBEDDING.md) — Quantum field readout: an explicit but gravity-limited embedding
+- [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
 - [README.md](README.md) — Reality as a Whole
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
@@ -546,6 +547,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)
+- [verification/qpv_causal_records_gate.py](verification/qpv_causal_records_gate.py)
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
 - [verification/quantum_agreement_record_gate.py](verification/quantum_agreement_record_gate.py)
 - [verification/quantum_relational_field_instrument.py](verification/quantum_relational_field_instrument.py)

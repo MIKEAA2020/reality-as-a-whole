@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "geometry_identity_control": {
+    "verifier_separation_m": 200.0,
+    "single_station_region_m": [
+      90.0,
+      110.0
+    ],
+    "deadline_ns": 733.8410094359344,
+    "honest_response_ns": 667.128190396304,
+    "colluding_response_ns": 667.128190396304,
+    "colluders_at_m": [
+      0,
+      200.0
+    ],
+    "matching_challenge_response_transcripts": 4,
+    "scope": "ideal 1D synchronized toy; no optical fibres, experimental latencies, Bell condition, or security certificate"
+  },
+  "sequential_test_factor_control": {
+    "scope": "invented perfect CHSH game, not the paper's test factor, trial data, or QPV security reduction",
+    "local_max_single_trial_win": 0.75,
+    "ideal_quantum_single_trial_win": 0.8535533905932737,
+    "lambda": 0.1380711874576983,
+    "test_factor_win": 1.1380711874576983,
+    "test_factor_loss": 0.5857864376269051,
+    "trials": 2000,
+    "threshold_log2_product": 64,
+    "minimum_wins_to_cross": 1678,
+    "iid_quantum_hypothetical_pass_probability": 0.9681853291620265,
+    "iid_optimal_local_pass_probability": 3.741608096702642e-22,
+    "adversary_class_soundness_upper_from_supermartingale": 5.421010862427522e-20,
+    "quantum_expected_log2_product": 92.54769370681379
+  },
+  "limitation": "synthetic checks; no verification of real devices, experiments, security assumptions, persons, experiences, or paper-specific factors"
+}
