@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a1d6e9841c85202531751e2095160420e1f8066b",
-  "file_count": 1206,
+  "base_head": "ce27524a326ccbd79ebbac4c2ee087a926ade82a",
+  "file_count": 1209,
   "files": [
     {
       "path": ".gitattributes",
@@ -480,8 +480,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 85886,
-      "sha256": "8ff36badb8140e8642c808c6c3bc8aec91872a614a70dde4a3d4f739238f2b9f"
+      "bytes": 86188,
+      "sha256": "4c1ece89d365fbb227683084e5d961a12c79496f6fbd1fd5aa31b28c8d8e2da5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1039,9 +1039,14 @@
       "sha256": "4a33b3010c4b3112c0a3d68a322a431da3d41448715bf782b48f58cc5972b950"
     },
     {
+      "path": "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
+      "bytes": 9629,
+      "sha256": "95e65dafbbe7ccc3a8af6453250c7f0bed9c3335e51e050f6edd532442900acb"
+    },
+    {
       "path": "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
-      "bytes": 9480,
-      "sha256": "370baa07d4a1600a00c870681c6dcd96069187f116e95df966a7737a1e3f6040"
+      "bytes": 9781,
+      "sha256": "c6de9bffff6e0c8694a8c2de6bcaeaa0a44bfdd224b9db82192a51f84ce3cca0"
     },
     {
       "path": "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
@@ -4500,8 +4505,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 470336,
-      "sha256": "12f33800c9db18960a37962c4bb7604e96f22f087cc0abb9affecb5847cdb15f"
+      "bytes": 471548,
+      "sha256": "9382cbb81909422e15f6dd44486ff6df99520679bd2e3acefa5e62b0a3a75d19"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4747,6 +4752,16 @@
       "path": "verification/requirements-spectral-translation.txt",
       "bytes": 46,
       "sha256": "d611cac7d00621d18811221b8c8fe261b8540063dd4a3fcec203cb427c3827ab"
+    },
+    {
+      "path": "verification/retina_conditional_score_decomposition.json",
+      "bytes": 22978,
+      "sha256": "2419b29ef4c413a948da4696b30aa575f7240a5f0d48a79f8515203bcd2b3166"
+    },
+    {
+      "path": "verification/retina_conditional_score_decomposition.py",
+      "bytes": 9328,
+      "sha256": "c16255da23778013885ac619ad88a67535c4e05df42ddb977e453426f53b3750"
     },
     {
       "path": "verification/retina_spike_maxent_audit.json",

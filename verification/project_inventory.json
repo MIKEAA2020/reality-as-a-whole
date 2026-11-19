@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 371,
-  "bytes": 4958070,
-  "line_count": 52055,
-  "document_count_with_risk_phrases": 345,
+  "document_count": 372,
+  "bytes": 4968302,
+  "line_count": 52117,
+  "document_count_with_risk_phrases": 346,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3223,9 +3223,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8ff36badb8140e8642c808c6c3bc8aec91872a614a70dde4a3d4f739238f2b9f",
-      "bytes": 85886,
-      "lines": 714,
+      "sha256": "4c1ece89d365fbb227683084e5d961a12c79496f6fbd1fd5aa31b28c8d8e2da5",
+      "bytes": 86188,
+      "lines": 716,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3443,6 +3443,7 @@
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
+        "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
         "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
         "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "REUSED_REFERENCE_CLOCK.md",
@@ -3807,6 +3808,7 @@
         "verification/relational_plenitude_scope.py",
         "verification/relational_records.py",
         "verification/reported_rivalry_case_audit.py",
+        "verification/retina_conditional_score_decomposition.py",
         "verification/retina_spike_maxent_audit.py",
         "verification/retina_stimulus_phase_control.py",
         "verification/reused_reference_clock.py",
@@ -3933,14 +3935,14 @@
         157,
         195,
         212,
-        253,
-        319,
-        332,
-        368,
-        377,
-        380,
-        383,
-        426
+        254,
+        320,
+        333,
+        369,
+        378,
+        381,
+        384,
+        427
       ]
     },
     {
@@ -7758,9 +7760,40 @@
       ]
     },
     {
+      "path": "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
+      "sha256": "95e65dafbbe7ccc3a8af6453250c7f0bed9c3335e51e050f6edd532442900acb",
+      "bytes": 9629,
+      "lines": 60,
+      "title": "What the residual retinal prediction gain actually measures",
+      "headings": [
+        "What the residual retinal prediction gain actually measures",
+        "Question",
+        "An exact decomposition for these fitted models",
+        "Results and a correction to interpretation",
+        "Sensitivity",
+        "Why the residual is not causal identification",
+        "Reproduction and scope"
+      ],
+      "local_links": [
+        "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
+        "verification/retina_conditional_score_decomposition.json",
+        "verification/retina_conditional_score_decomposition.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        15,
+        19,
+        23,
+        35,
+        41,
+        47,
+        58
+      ]
+    },
+    {
       "path": "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
-      "sha256": "370baa07d4a1600a00c870681c6dcd96069187f116e95df966a7737a1e3f6040",
-      "bytes": 9480,
+      "sha256": "c6de9bffff6e0c8694a8c2de6bcaeaa0a44bfdd224b9db82192a51f84ce3cca0",
+      "bytes": 9781,
       "lines": 53,
       "title": "Retinal collective activity after a stimulus-phase control",
       "headings": [
@@ -7773,11 +7806,13 @@
       ],
       "local_links": [
         "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
+        "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
         "verification/retina_stimulus_phase_control.json"
       ],
       "risk_phrase_lines": [
         25,
-        27
+        27,
+        43
       ]
     },
     {

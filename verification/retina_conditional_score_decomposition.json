@@ -1,0 +1,534 @@
+{
+  "status": "passed",
+  "source_sha256": "1bcf28d8ef2bd23663760a4232fd247495c0805714a2a9a7bf78b8af5ec37a54",
+  "previous_receipt_sha256": "fda95728f1f01b88d371728aef2ebb666de9ea22e4637daf6fd8bc09ea77009d",
+  "prior_receipt_sha256": "a9679bd27cdcd07e0e779b363231f000822243c6638903f0e8ac6e487a66767d",
+  "seed": 89373,
+  "protocol": {
+    "fit": "same 100 presumed train repeats, 20 test repeats, 20ms bins; five previously selected groups; exact 1024-state conditional model",
+    "reference": "independent per-phase Beta(alpha,alpha) rates, 10 field offsets versus 10 fields plus 45 pair terms, common L2 ridge on all offsets",
+    "shuffle_expectation": "exact independent per-cell whole-trial permutation expectation, 20 test repeats; same-trial matches allowed",
+    "monte_carlo": "200 label permutations per group for baseline only, shuffles are not independent biological replicates",
+    "sensitivities": "baseline alpha=.5 ridge=.001; vary alpha .05 and 1 and ridge .0001 and .01 one at a time",
+    "blocks": "four sequential nonoverlapping blocks of five heldout repeats, predictors fitted once on first 100 repeats; exact expectation of independent within-block whole-trial permutations"
+  },
+  "groups": [
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c5_bush2_spks",
+        "c7_bush2_spks",
+        "c8_bush2_spks",
+        "c9_bush2_spks",
+        "c10_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks"
+      ],
+      "settings": [
+        {
+          "alpha": 0.5,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.006406594879261856,
+          "shuffle_expected_gain_bits_per_bin": 0.0005269513714023914,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.005879643507859465,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0012861907388562203,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.005120404140405635,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.004254147502278853,
+            0.008027942882605124,
+            0.007130233571893933,
+            0.006214055560269502
+          ],
+          "max_penalized_gradient": 1.4587815836780661e-08,
+          "monte_carlo_shuffle_mean": 0.0005453342694826446,
+          "monte_carlo_shuffle_min": -0.0006565123964796915,
+          "monte_carlo_shuffle_max": 0.0016854436182936465,
+          "monte_carlo_shuffle_standard_deviation": 0.0004632371056338883
+        },
+        {
+          "alpha": 0.05,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.0035014837154120175,
+          "shuffle_expected_gain_bits_per_bin": -0.0010511878586036865,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.004552671574015704,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": -0.00047056659897405233,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.00397205031438607,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.001701152547219916,
+            0.00509901340176608,
+            0.003833007556592297,
+            0.0033727613560697698
+          ],
+          "max_penalized_gradient": 2.846038802008945e-07
+        },
+        {
+          "alpha": 1.0,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.009855795002950035,
+          "shuffle_expected_gain_bits_per_bin": 0.002849829441142158,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.007005965561807877,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.003765037210027188,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.006090757792922847,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.007403791152740237,
+            0.011529550022665029,
+            0.010864570887525205,
+            0.00962526794886965
+          ],
+          "max_penalized_gradient": 4.668882290362938e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.0001,
+          "observed_gain_bits_per_bin": 0.006711971459406597,
+          "shuffle_expected_gain_bits_per_bin": -0.0003787244441226148,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.007090695903529212,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0005034906780591475,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.006208480781347449,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.004242549662212027,
+            0.008400148931632292,
+            0.007739699650375133,
+            0.006465487593406939
+          ],
+          "max_penalized_gradient": 4.15754720543699e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.01,
+          "observed_gain_bits_per_bin": 0.0032462098007805477,
+          "shuffle_expected_gain_bits_per_bin": 0.0008947120056874408,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.002351497795093107,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0012148028571352324,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.002031406943645315,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.002348004533545397,
+            0.004059203142094469,
+            0.0034531874761154218,
+            0.003124444051366901
+          ],
+          "max_penalized_gradient": 1.3669748676916043e-08
+        }
+      ]
+    },
+    {
+      "cells": [
+        "c5_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks",
+        "c18_bush2_spks",
+        "c25_bush2_spks",
+        "c30_bush2_spks",
+        "c35_bush2_spks",
+        "c47_bush2_spks",
+        "c51_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "settings": [
+        {
+          "alpha": 0.5,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.004578050969103553,
+          "shuffle_expected_gain_bits_per_bin": 0.0012718127476672252,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0033062382214363276,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0018088392363243778,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0027692117327791747,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.004128685117607461,
+            0.004084059593347957,
+            0.004723725630614272,
+            0.0053757335348445295
+          ],
+          "max_penalized_gradient": 7.64886844459951e-08,
+          "monte_carlo_shuffle_mean": 0.0012755451388316002,
+          "monte_carlo_shuffle_min": -9.441571063478815e-05,
+          "monte_carlo_shuffle_max": 0.002118860355527534,
+          "monte_carlo_shuffle_standard_deviation": 0.000362980080311771
+        },
+        {
+          "alpha": 0.05,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.002064479170265438,
+          "shuffle_expected_gain_bits_per_bin": -0.00027178440855038326,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0023362635788158215,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 9.664437225242458e-05,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0019678347980130136,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0016616792046961727,
+            0.0017767506544830336,
+            0.002339381415411172,
+            0.0024801054064713733
+          ],
+          "max_penalized_gradient": 3.33053222942531e-08
+        },
+        {
+          "alpha": 1.0,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.00725159806176202,
+          "shuffle_expected_gain_bits_per_bin": 0.003169279194366133,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.004082318867395887,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0038428471492909532,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0034087509124710665,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.006773722199893075,
+            0.00661732836425993,
+            0.007277470059240664,
+            0.00833787162365441
+          ],
+          "max_penalized_gradient": 4.574291065308385e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.0001,
+          "observed_gain_bits_per_bin": 0.005209741664594508,
+          "shuffle_expected_gain_bits_per_bin": 0.0011203462943092512,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.004089395370285257,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.001755004073735791,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0034547375908587172,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.004432657927013994,
+            0.004419591146541066,
+            0.0054519409596758845,
+            0.0065347766251471024
+          ],
+          "max_penalized_gradient": 1.256808439092149e-07
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.01,
+          "observed_gain_bits_per_bin": 0.0015692729563032564,
+          "shuffle_expected_gain_bits_per_bin": 0.0005314365105078233,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.001037836445795433,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0007017289213007184,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.000867544035002538,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0014669045982258647,
+            0.0014799223122320554,
+            0.0015956464274472291,
+            0.001734618487307878
+          ],
+          "max_penalized_gradient": 3.517746795071719e-08
+        }
+      ]
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c7_bush2_spks",
+        "c23_bush2_spks",
+        "c29_bush2_spks",
+        "c35_bush2_spks",
+        "c42_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c55_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "settings": [
+        {
+          "alpha": 0.5,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.003186119350880432,
+          "shuffle_expected_gain_bits_per_bin": 0.0014122481963853135,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0017738711544951187,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0016368681572317726,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0015492511936486596,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.002756653200453415,
+            0.0035712788928292027,
+            0.002917727154823483,
+            0.0034988181554156464
+          ],
+          "max_penalized_gradient": 1.573299095213379e-08,
+          "monte_carlo_shuffle_mean": 0.0014173168112951654,
+          "monte_carlo_shuffle_min": 0.0005774696206029008,
+          "monte_carlo_shuffle_max": 0.002265904496334404,
+          "monte_carlo_shuffle_standard_deviation": 0.0003117473132558798
+        },
+        {
+          "alpha": 0.05,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.0008559652201028105,
+          "shuffle_expected_gain_bits_per_bin": -0.00021872480959478436,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.001074690029697595,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": -0.00011007320178247403,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0009660384218852845,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.00048064621570550884,
+            0.0011005834549276136,
+            0.0007362800837588614,
+            0.0011063511260192603
+          ],
+          "max_penalized_gradient": 1.4723076863905487e-07
+        },
+        {
+          "alpha": 1.0,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.005751095150953336,
+          "shuffle_expected_gain_bits_per_bin": 0.0035312923170700825,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0022198028338832536,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0038389612423867215,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0019121339085666146,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.005305026005816655,
+            0.006288350872164234,
+            0.005305092108538111,
+            0.006105911617294343
+          ],
+          "max_penalized_gradient": 9.507295057042129e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.0001,
+          "observed_gain_bits_per_bin": 0.004173858001994206,
+          "shuffle_expected_gain_bits_per_bin": 0.0011805613729035148,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0029932966290906913,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.001505277369954356,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.00266858063203985,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0033199999706592597,
+            0.004216589529502494,
+            0.0042960449787365134,
+            0.004862797529078555
+          ],
+          "max_penalized_gradient": 3.4534730384977994e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.01,
+          "observed_gain_bits_per_bin": 0.0006465926471558907,
+          "shuffle_expected_gain_bits_per_bin": 0.00028019666532709775,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.00036639598182879295,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0003297820840444278,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0003168105631114629,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0005505848994087824,
+            0.0008293406510305808,
+            0.00046399590780086755,
+            0.0007424491303833333
+          ],
+          "max_penalized_gradient": 1.1606915596186484e-08
+        }
+      ]
+    },
+    {
+      "cells": [
+        "c7_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c23_bush2_spks",
+        "c35_bush2_spks",
+        "c38_bush2_spks",
+        "c42_bush2_spks",
+        "c45_bush2_spks",
+        "c49_bush2_spks",
+        "c63_bush2_spks"
+      ],
+      "settings": [
+        {
+          "alpha": 0.5,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.004733444654284453,
+          "shuffle_expected_gain_bits_per_bin": 0.001715941238835788,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0030175034154486646,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0020297079923152503,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0027037366619692025,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.005215371566647384,
+            0.004864288146040981,
+            0.0034528584315678163,
+            0.005401260472881626
+          ],
+          "max_penalized_gradient": 2.1948538929264863e-08,
+          "monte_carlo_shuffle_mean": 0.0017431419455868843,
+          "monte_carlo_shuffle_min": 0.0006616304443984294,
+          "monte_carlo_shuffle_max": 0.002504772236815151,
+          "monte_carlo_shuffle_standard_deviation": 0.00030624747818442565
+        },
+        {
+          "alpha": 0.05,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.0015229997808379545,
+          "shuffle_expected_gain_bits_per_bin": -0.0003524826562530512,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0018754824370910057,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": -0.0001591182480379534,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.001682118028875908,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0018224636357140947,
+            0.0016273733055253083,
+            0.0007624864877796472,
+            0.0018796756943327718
+          ],
+          "max_penalized_gradient": 3.057796197920414e-08
+        },
+        {
+          "alpha": 1.0,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.008175115806044034,
+          "shuffle_expected_gain_bits_per_bin": 0.004387262757100421,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.003787853048943613,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.004785341277241858,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0033897745288021756,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.008782560458991123,
+            0.008387674013505408,
+            0.006493197009977662,
+            0.009037031741701944
+          ],
+          "max_penalized_gradient": 3.197163448250733e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.0001,
+          "observed_gain_bits_per_bin": 0.0060857175912786285,
+          "shuffle_expected_gain_bits_per_bin": 0.001275702434966315,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.004810015156312314,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0017557913261738258,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.004329926265104802,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.006865773085263739,
+            0.00596709878216881,
+            0.004205632027466501,
+            0.0073043664702154695
+          ],
+          "max_penalized_gradient": 1.903274261500255e-07
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.01,
+          "observed_gain_bits_per_bin": 0.001143525997796439,
+          "shuffle_expected_gain_bits_per_bin": 0.0004556508574560742,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0006878751403403649,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0005312605706790994,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0006122654271173396,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0012735673847966325,
+            0.0012916994364690997,
+            0.0007664964197672165,
+            0.0012423407501528081
+          ],
+          "max_penalized_gradient": 3.9643259321098245e-08
+        }
+      ]
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c12_bush2_spks",
+        "c22_bush2_spks",
+        "c23_bush2_spks",
+        "c26_bush2_spks",
+        "c27_bush2_spks",
+        "c47_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c50_bush2_spks"
+      ],
+      "settings": [
+        {
+          "alpha": 0.5,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.0010049823242488118,
+          "shuffle_expected_gain_bits_per_bin": 0.0005363316016161177,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.00046865072263269406,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0007734541210375151,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0002315282032112967,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0007544546450809847,
+            0.00037676260650939473,
+            0.0012395205487522923,
+            0.0016491914966525801
+          ],
+          "max_penalized_gradient": 1.7394286874535957e-08,
+          "monte_carlo_shuffle_mean": 0.0005451902255304157,
+          "monte_carlo_shuffle_min": 5.9343944997350063e-05,
+          "monte_carlo_shuffle_max": 0.0011350081961597586,
+          "monte_carlo_shuffle_standard_deviation": 0.0001876882319851213
+        },
+        {
+          "alpha": 0.05,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": -3.838288235030522e-05,
+          "shuffle_expected_gain_bits_per_bin": -0.00040036889560738167,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.00036198601325707644,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": -0.00028900087624737113,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0002506179938970659,
+          "five_repeat_block_gains_bits_per_bin": [
+            -4.1700881725126624e-06,
+            -0.0003100110252002614,
+            -1.2133381032517467e-05,
+            0.0001727829650040678
+          ],
+          "max_penalized_gradient": 3.5328121244351715e-07
+        },
+        {
+          "alpha": 1.0,
+          "ridge": 0.001,
+          "observed_gain_bits_per_bin": 0.0025190722983057822,
+          "shuffle_expected_gain_bits_per_bin": 0.00197558549675399,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0005434868015517921,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.002299648026504515,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.00021942427180126744,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0020897562441475935,
+            0.0016807035467985617,
+            0.0028684990322769594,
+            0.003437330370000028
+          ],
+          "max_penalized_gradient": 3.498686777992548e-08
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.0001,
+          "observed_gain_bits_per_bin": 0.001080396624112853,
+          "shuffle_expected_gain_bits_per_bin": 0.00034613515826064734,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.0007342614658522056,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 0.0007564182235259474,
+          "excess_over_within_block_shuffle_bits_per_bin": 0.0003239784005869055,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.0005297643095803959,
+            -0.00016908661790868555,
+            0.0016221499741121946,
+            0.002338758830667506
+          ],
+          "max_penalized_gradient": 2.1000865512349598e-07
+        },
+        {
+          "alpha": 0.5,
+          "ridge": 0.01,
+          "observed_gain_bits_per_bin": 0.00017059544393696198,
+          "shuffle_expected_gain_bits_per_bin": 3.4684398766415906e-05,
+          "excess_over_shuffle_expectation_bits_per_bin": 0.00013591104517054608,
+          "within_five_repeat_blocks_shuffle_expected_gain_bits_per_bin": 7.569535364656278e-05,
+          "excess_over_within_block_shuffle_bits_per_bin": 9.49000902903992e-05,
+          "five_repeat_block_gains_bits_per_bin": [
+            0.00015822800931690885,
+            0.00015817567648409653,
+            0.00010159969788801765,
+            0.0002643783920588282
+          ],
+          "max_penalized_gradient": 1.578403830966406e-08
+        }
+      ]
+    }
+  ],
+  "toy_observational_equivalence": {
+    "both_joint_tables": [
+      [
+        0.375,
+        0.12500000000000003
+      ],
+      [
+        0.12500000000000003,
+        0.375
+      ]
+    ],
+    "conditional_correlation_score_bits": 0.1887218755408672,
+    "prob_y_1_under_do_x_1_common_cause": 0.5,
+    "prob_y_1_under_do_x_1_directed": 0.75,
+    "scope": "toy causal models, not a retinal fit"
+  },
+  "limitations": "exploratory, same recording/movie, unverified phase and repeat count, no unseen stimulus or intervention; alpha/ridge sensitivity is not exhaustive; permutation variability is not a biological confidence interval; test blocks and groups are dependent; joint latent states and nonstationarity can mimic correlations."
+}
