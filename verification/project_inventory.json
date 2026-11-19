@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 365,
-  "bytes": 4893011,
-  "line_count": 51601,
-  "document_count_with_risk_phrases": 339,
+  "document_count": 366,
+  "bytes": 4902258,
+  "line_count": 51686,
+  "document_count_with_risk_phrases": 340,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3187,9 +3187,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6529b02d57d95ba77d616c55b8ae9743fe803bcbf1d491818f7eb47e8645a48a",
-      "bytes": 83578,
-      "lines": 695,
+      "sha256": "7827cf33cf88dad2cae50ed633a96eef5c911d1f0b7419c15ae54d8512c93910",
+      "bytes": 83853,
+      "lines": 697,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3450,6 +3450,7 @@
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
+        "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
@@ -3814,6 +3815,7 @@
         "verification/steering_cost.py",
         "verification/string_t_duality_selector.py",
         "verification/subject_assay_dependence_control.py",
+        "verification/subject_boundary_external_budget_gate.py",
         "verification/subject_cohesion_identity_redescription.py",
         "verification/subject_constitution_interface.py",
         "verification/subject_context_substrate_gate.py",
@@ -3879,13 +3881,13 @@
         192,
         209,
         248,
-        313,
-        326,
-        362,
-        371,
-        374,
-        377,
-        413
+        314,
+        327,
+        363,
+        372,
+        375,
+        378,
+        414
       ]
     },
     {
@@ -8986,6 +8988,36 @@
         17,
         31,
         35
+      ]
+    },
+    {
+      "path": "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
+      "sha256": "bf67caf086b3dcb7dd6d73d6739a1eedccf95ba15344175927b1902ad87bf05c",
+      "bytes": 8972,
+      "lines": 83,
+      "title": "Subject-boundary robustness when the rest of the system is unknown",
+      "headings": [
+        "Subject-boundary robustness when the rest of the system is unknown",
+        "The question",
+        "The existing diagnostic",
+        "Result: a total-leakage certificate",
+        "Applied to the existing four-spin case",
+        "Why per-edge smallness fails",
+        "What this does—and does not—contribute",
+        "Verification"
+      ],
+      "local_links": [
+        "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
+        "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
+        "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "verification/subject_boundary_external_budget_gate.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        66,
+        79,
+        83
       ]
     },
     {

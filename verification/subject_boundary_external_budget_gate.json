@@ -1,0 +1,83 @@
+{
+  "status": "passed",
+  "scope": "Finite nonnegative weighted graph and stipulated min-cut selector; not IIT, QFT, a brain, evidence of subjects, or an experiential measurement.",
+  "four_node_exhaustion": {
+    "edge_values": [
+      "0",
+      "1/4",
+      "1/2",
+      "3/4",
+      "1"
+    ],
+    "graphs_checked": 3125,
+    "certified_by_D_less_than_w": 175
+  },
+  "sharp_cycle_witness": [
+    {
+      "each_cross_and_outer_edge": "49/100",
+      "leakage": "49/50",
+      "full_score": "49/50",
+      "winners": [
+        [
+          0,
+          1
+        ]
+      ],
+      "unresolved": []
+    },
+    {
+      "each_cross_and_outer_edge": "1/2",
+      "leakage": "1",
+      "full_score": "1",
+      "winners": [],
+      "unresolved": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "each_cross_and_outer_edge": "51/100",
+      "leakage": "51/50",
+      "full_score": "51/50",
+      "winners": [
+        [
+          0,
+          1,
+          2,
+          3
+        ]
+      ],
+      "unresolved": []
+    }
+  ],
+  "existing_four_spin_target": {
+    "core_score": "10/21",
+    "leakage_each_outer_pair": "4/21",
+    "remaining_budget_each": "2/7"
+  },
+  "weak_edge_many_outsiders": [
+    {
+      "outsiders": 4,
+      "per_added_edge": "1/4",
+      "full_score": "5/4",
+      "core_leakage": "2",
+      "proper_candidates_checked": 56
+    },
+    {
+      "outsiders": 8,
+      "per_added_edge": "1/8",
+      "full_score": "9/8",
+      "core_leakage": "2",
+      "proper_candidates_checked": 1012
+    }
+  ],
+  "limitations": "Graph weights assumed fixed under extension; nonnegative finite graph. Does not derive influence graph from interventions or establish physical relevance."
+}

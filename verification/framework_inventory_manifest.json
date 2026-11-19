@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "de99e85d00701d07306cf40146e5cde75628e53a",
-  "file_count": 1182,
+  "base_head": "bbdbde7db65e828ab2e5eab94411d837ba0d595b",
+  "file_count": 1185,
   "files": [
     {
       "path": ".gitattributes",
@@ -475,8 +475,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 83578,
-      "sha256": "6529b02d57d95ba77d616c55b8ae9743fe803bcbf1d491818f7eb47e8645a48a"
+      "bytes": 83853,
+      "sha256": "7827cf33cf88dad2cae50ed633a96eef5c911d1f0b7419c15ae54d8512c93910"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1252,6 +1252,11 @@
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
       "bytes": 11897,
       "sha256": "c9184d78b8b63ad19c911cff41014349f3b20c3ae48bdada722526ef12a4f86f"
+    },
+    {
+      "path": "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
+      "bytes": 8972,
+      "sha256": "bf67caf086b3dcb7dd6d73d6739a1eedccf95ba15344175927b1902ad87bf05c"
     },
     {
       "path": "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
@@ -4420,8 +4425,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 462091,
-      "sha256": "83ebf6990c3ce775c2e88e05973abb453828c51b5b8e1843b4bfb5a6d49944b8"
+      "bytes": 463298,
+      "sha256": "ccdefb65df5074a9b81c363e92987121f716958e61e7e148742fe051188c0a7d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5387,6 +5392,16 @@
       "path": "verification/subject_assay_dependence_control.py",
       "bytes": 2063,
       "sha256": "70f897a3dd533fb75f9cfada031b995ff6b42bbcaa2876fe588240d095f82c5e"
+    },
+    {
+      "path": "verification/subject_boundary_external_budget_gate.json",
+      "bytes": 1783,
+      "sha256": "af02f77bb598d9c142285e26ba6be84f620a5d83db4f808530159ddd82731aaa"
+    },
+    {
+      "path": "verification/subject_boundary_external_budget_gate.py",
+      "bytes": 4032,
+      "sha256": "9160b99733e83b817abe1fa1fa17c98ecc006eabf3264a88a3b32dae4c3bb625"
     },
     {
       "path": "verification/subject_cohesion_identity_redescription.json",

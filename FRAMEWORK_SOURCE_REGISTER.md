@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 322 root Markdown documents including this register; 43 research Markdown documents.
-- 27 original uploaded files, including provenance metadata; 270 verification Python scripts.
+- 323 root Markdown documents including this register; 43 research Markdown documents.
+- 27 original uploaded files, including provenance metadata; 271 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -259,6 +259,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md](STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md) — State mismatch: a bounded contrast and a falsification gate
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
+- [SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md](SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md) — Subject-boundary robustness when the rest of the system is unknown
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol
 - [SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) — A subject-constitution and record interface: bounded results
@@ -637,6 +638,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/steering_cost.py](verification/steering_cost.py)
 - [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
 - [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)
+- [verification/subject_boundary_external_budget_gate.py](verification/subject_boundary_external_budget_gate.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
 - [verification/subject_constitution_interface.py](verification/subject_constitution_interface.py)
 - [verification/subject_context_substrate_gate.py](verification/subject_context_substrate_gate.py)
