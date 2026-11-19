@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 364,
-  "bytes": 4880977,
-  "line_count": 51526,
-  "document_count_with_risk_phrases": 338,
+  "document_count": 365,
+  "bytes": 4893011,
+  "line_count": 51601,
+  "document_count_with_risk_phrases": 339,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -469,9 +469,9 @@
     },
     {
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
-      "sha256": "1e251776b344b04481930240ea307d0d83aa076da7d8929cf00569da7b3dec8d",
-      "bytes": 8659,
-      "lines": 48,
+      "sha256": "cf179e324ce7b1154b22786d094635eb021e4eafa9ac1d99d396b0657bc7654a",
+      "bytes": 9047,
+      "lines": 50,
       "title": "Structural realism, effective particles and plural experience",
       "headings": [
         "Structural realism, effective particles and plural experience",
@@ -482,12 +482,13 @@
         "The next obligation"
       ],
       "local_links": [
+        "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
       ],
       "risk_phrase_lines": [
-        13,
-        15
+        15,
+        17
       ]
     },
     {
@@ -3186,9 +3187,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a4dd2fd90e54f64204db3adb1bf9991de03aa245bd2439c74326157d71355a7b",
-      "bytes": 83280,
-      "lines": 692,
+      "sha256": "6529b02d57d95ba77d616c55b8ae9743fe803bcbf1d491818f7eb47e8645a48a",
+      "bytes": 83578,
+      "lines": 695,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3381,6 +3382,7 @@
         "PRIVATION_STRESS_TEST.md",
         "PROBLEM_OF_TIME_CLOSED.md",
         "PROJECT_COHERENCE_AUDIT.md",
+        "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
         "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
@@ -3576,12 +3578,14 @@
         "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
         "sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt",
         "sources/uploads/JHEP02(2024)193.pdf",
+        "sources/uploads/bain2000.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
         "sources/uploads/decombination-export-provenance.json",
         "sources/uploads/four-criteria-whole-account-updated.md",
         "sources/uploads/four-criteria-whole-account.md",
         "sources/uploads/leibniz-monadology-latta.pdf",
+        "sources/uploads/qftlocarx.txt",
         "sources/uploads/quantum_position_verification_main.txt",
         "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
         "sources/uploads/russellian-absolute-discussion.md",
@@ -3873,15 +3877,15 @@
         94,
         154,
         192,
-        208,
-        247,
-        312,
-        325,
-        361,
-        370,
-        373,
-        376,
-        410
+        209,
+        248,
+        313,
+        326,
+        362,
+        371,
+        374,
+        377,
+        413
       ]
     },
     {
@@ -6763,6 +6767,33 @@
       ]
     },
     {
+      "path": "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+      "sha256": "3c2e6bdbd47b8225c4969ee1e49e26e746adff08b3e65c07bf386f815463933d",
+      "bytes": 11112,
+      "lines": 70,
+      "title": "Particle emergence, locality and the subject-boundary question",
+      "headings": [
+        "Particle emergence, locality and the subject-boundary question",
+        "The supplied sources and what was read",
+        "1. What Bain actually argues",
+        "2. What Wallace actually constructs",
+        "3. The practical locality gate",
+        "Scope of the advance"
+      ],
+      "local_links": [
+        "sources/uploads/bain2000.pdf",
+        "sources/uploads/qftlocarx.txt",
+        "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        18,
+        38,
+        53,
+        60
+      ]
+    },
+    {
       "path": "QUALITATIVE_EQUIVALENCE_AUDIT.md",
       "sha256": "e1baa2b395894c6606c41436bbd7e01042b2daa4daaec03a77d6241143c5e1de",
       "bytes": 9970,
@@ -8642,8 +8673,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "eacbc9c10a2443ad5fa48999c7bb0a0911841e35a599cb5bcf9a6413f9d1f28b",
-      "bytes": 7826,
+      "sha256": "baf322fc6a5b3b450a032fa16ea377c05e545e3c252b8546c1aa5333b551ca9a",
+      "bytes": 8062,
       "lines": 36,
       "title": "Source access and reading limits",
       "headings": [
@@ -8656,6 +8687,7 @@
       "local_links": [
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
+        "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",

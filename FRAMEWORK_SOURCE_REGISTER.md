@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 321 root Markdown documents including this register; 43 research Markdown documents.
-- 25 original uploaded files, including provenance metadata; 270 verification Python scripts.
+- 322 root Markdown documents including this register; 43 research Markdown documents.
+- 27 original uploaded files, including provenance metadata; 270 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -191,6 +191,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
 - [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
+- [QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md](QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md) — Particle emergence, locality and the subject-boundary question
 - [QUALITATIVE_EQUIVALENCE_AUDIT.md](QUALITATIVE_EQUIVALENCE_AUDIT.md) — Is the remaining qualitative ambiguity substantive or representational?
 - [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
 - [QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) — Optimal symmetric agreement stability and the Q1 boundary
@@ -396,12 +397,14 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt)
 - [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
+- [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
 - [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
 - [sources/uploads/decombination-export-provenance.json](sources/uploads/decombination-export-provenance.json)
 - [sources/uploads/four-criteria-whole-account-updated.md](sources/uploads/four-criteria-whole-account-updated.md)
 - [sources/uploads/four-criteria-whole-account.md](sources/uploads/four-criteria-whole-account.md)
 - [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
+- [sources/uploads/qftlocarx.txt](sources/uploads/qftlocarx.txt)
 - [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)

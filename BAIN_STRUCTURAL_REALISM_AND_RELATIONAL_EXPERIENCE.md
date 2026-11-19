@@ -1,5 +1,7 @@
 # Structural realism, effective particles and plural experience
 
+> **Source update:** The user subsequently supplied Bain's full journal PDF and Wallace's LaTeX manuscript. Both were read as text; their limitations, the correction of abstract-only status, and Wallace's prior use of the Bell-state illustration below are documented in [the full-source assessment](QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md). Fraser remains abstract/record-only.
+
 ## The article and its conclusion
 
 Jonathan Bain's [“There are no particles or fields, only structure”](https://iai.tv/articles/there-are-no-particles-or-fields-only-structure-auid-3243?_auid=2020) is relevant to a world described in terms of relations rather than self-contained material things. Its title is more categorical than its conclusion. Bain ultimately gives a **qualified yes** to “is particle physics about particles?”: either revise the classical particle concept, or regard classical-like particles as effective phenomena in the relevant regimes. This is not a denial that laboratory detections occur or that particle concepts have practical value.
