@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 319 root Markdown documents including this register; 43 research Markdown documents.
+- 320 root Markdown documents including this register; 43 research Markdown documents.
 - 25 original uploaded files, including provenance metadata; 270 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -25,6 +25,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AXIARCHIC_BRIDGE_AUDIT.md](AXIARCHIC_BRIDGE_AUDIT.md) — The axiarchic bridge: granting a unique Good still does not derive actuality
 - [AXIARCHIC_CONSTITUTION_CANDIDATE.md](AXIARCHIC_CONSTITUTION_CANDIDATE.md) — From goodness of being to axiarchic constitution
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
+- [BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md](BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md) — Structural realism, effective particles and plural experience
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions
 - [BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md) — Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates
 - [CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md](CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md) — Cardiac-feedback pain data: fixed exploratory comparison
