@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 334 root Markdown documents including this register; 43 research Markdown documents.
-- 37 original uploaded files, including provenance metadata; 280 verification Python scripts.
+- 335 root Markdown documents including this register; 43 research Markdown documents.
+- 38 original uploaded files, including provenance metadata; 280 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -121,6 +121,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [GOAL_RELATIVE_VALUE_ARGUMENT.md](GOAL_RELATIVE_VALUE_ARGUMENT.md) — Goal-relative evaluation: the rigorous result and its limits
 - [GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) — Relaxations, persistence, and what an optimizer can establish
 - [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
+- [HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md](HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md) — Hair, experience, and the intrinsic nature of reality
 - [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
 - [HAWKING_BACKREACTION_BOUND.md](HAWKING_BACKREACTION_BOUND.md) — Hawking backreaction bound: the bounce geometry is self-consistent
 - [HAWKING_PAGE_CURVE.md](HAWKING_PAGE_CURVE.md) — Hawking temperature, evaporation, and Page curve for bouncing black holes
@@ -409,6 +410,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
 - [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt)
+- [sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt](sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt)
 - [sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt)
