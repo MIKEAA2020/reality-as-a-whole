@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 325 root Markdown documents including this register; 43 research Markdown documents.
+- 326 root Markdown documents including this register; 43 research Markdown documents.
 - 29 original uploaded files, including provenance metadata; 273 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -108,6 +108,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
 - [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
 - [FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md](FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md) — Effective physical structure, collective activity and subject boundaries
+- [FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md](FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md) — Source follow-up: publication, supplementary figures and recordings
 - [FRICTION_AND_UNPLEASANTNESS_AUDIT.md](FRICTION_AND_UNPLEASANTNESS_AUDIT.md) — Can intrinsic friction explain unpleasantness?
 - [FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md](FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md) — A robust relational-frustration gate: hidden connections, hidden channels and experience
 - [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching

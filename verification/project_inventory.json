@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 368,
-  "bytes": 4925918,
-  "line_count": 51877,
-  "document_count_with_risk_phrases": 342,
+  "document_count": 369,
+  "bytes": 4935233,
+  "line_count": 51921,
+  "document_count_with_risk_phrases": 343,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1001,8 +1001,8 @@
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
-      "sha256": "b4fb7d38a0f8244fecdca94c3183a08e233ba5ae8a62c50b13eb1627fa019af2",
-      "bytes": 10968,
+      "sha256": "6fafc4aaaf62a2da8acafb8f36e18bcb67e79492433815da3df39745f6ad3914",
+      "bytes": 11070,
       "lines": 112,
       "title": "From an assumed boundary budget to a conditional intervention test",
       "headings": [
@@ -1019,6 +1019,7 @@
         "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+        "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "verification/collective_context_leakage_gate.json"
       ],
@@ -3221,9 +3222,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b2774eb7c2eb8b5dfdcd6887d30bccfc7f077c701bd4e9faca2a8c18a61a1318",
-      "bytes": 84635,
-      "lines": 703,
+      "sha256": "0f06b4d5e0f89562af272f4eb646c26ed7dfab794daf02da610957790bb914d4",
+      "bytes": 84786,
+      "lines": 704,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3333,6 +3334,7 @@
         "FOUR_CRITERIA_CONSOLIDATION.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+        "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "FRW_CLOCK_WINDOW_MISMATCH.md",
@@ -3917,17 +3919,17 @@
         39,
         47,
         95,
-        156,
-        194,
-        211,
-        250,
-        316,
-        329,
-        365,
-        374,
-        377,
-        380,
-        418
+        157,
+        195,
+        212,
+        251,
+        317,
+        330,
+        366,
+        375,
+        378,
+        381,
+        419
       ]
     },
     {
@@ -4016,9 +4018,9 @@
     },
     {
       "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
-      "sha256": "b115e89c8c69fc8b05f5fda0621182fa932f52c5479d34ac18be7c5ee81b2649",
-      "bytes": 10846,
-      "lines": 71,
+      "sha256": "6c644e1949ed4623954b5d4c5fa14fd61c8670932605ec88a6e7f94266450b46",
+      "bytes": 11243,
+      "lines": 73,
       "title": "Effective physical structure, collective activity and subject boundaries",
       "headings": [
         "Effective physical structure, collective activity and subject boundaries",
@@ -4030,6 +4032,7 @@
         "Verification"
       ],
       "local_links": [
+        "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/schneidman2006.pdf",
         "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
@@ -4037,12 +4040,33 @@
         "verification/static_ising_kinetics_boundary_gate.json"
       ],
       "risk_phrase_lines": [
-        14,
-        30,
+        3,
+        16,
         32,
-        38,
-        54,
-        71
+        34,
+        40,
+        56,
+        73
+      ]
+    },
+    {
+      "path": "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
+      "sha256": "24be49ebb627dd411f2d1668834c89ee8ffd3fef02d0ba0d77f62fdbbe978685",
+      "bytes": 8005,
+      "lines": 39,
+      "title": "Source follow-up: publication, supplementary figures and recordings",
+      "headings": [
+        "Source follow-up: publication, supplementary figures and recordings",
+        "Why the earlier work stopped short",
+        "Fraser: the publication exists; a full version comparison is still missing",
+        "Schneidman: actual dataset located, but not replayed",
+        "Supplementary figures: captions read, graphs still not visually inspected",
+        "Relevant later evidence, clearly delimited",
+        "Consequences"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        29
       ]
     },
     {
@@ -8747,9 +8771,9 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "49e0e6eac51b5e60f1d66c14199b2878f3273eaa3507d0a160c10edfb87d66cb",
-      "bytes": 8859,
-      "lines": 38,
+      "sha256": "12333d112aebd07891c7284b6f849cdc7f9b866b0660190eefe7bb0fc0189901",
+      "bytes": 9519,
+      "lines": 40,
       "title": "Source access and reading limits",
       "headings": [
         "Source access and reading limits",
@@ -8763,6 +8787,7 @@
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
+        "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
@@ -8776,7 +8801,7 @@
         "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin"
       ],
       "risk_phrase_lines": [
-        22
+        24
       ]
     },
     {
