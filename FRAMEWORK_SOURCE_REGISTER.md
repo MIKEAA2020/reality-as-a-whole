@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 311 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 264 verification Python scripts.
+- 312 root Markdown documents including this register; 43 research Markdown documents.
+- 23 original uploaded files, including provenance metadata; 265 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -210,6 +210,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md](RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md) — Can an EEG–fMRI rivalry dataset test the experience bridge?
 - [RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md](RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md) — A concrete subject-to-report hypothesis: randomized audits of rivalry
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
+- [ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md](ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md) — Robust quantum agreement and rare records
 - [ROY_S08_FIXED_TRANSFER_PROTOCOL.md](ROY_S08_FIXED_TRANSFER_PROTOCOL.md) — Frozen S09-to-S08 EEG/report transfer protocol
 - [ROY_S08_FIXED_TRANSFER_RESULTS.md](ROY_S08_FIXED_TRANSFER_RESULTS.md) — Fixed S09-to-S08 EEG/report transfer: results and archive QC
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern
@@ -566,6 +567,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/rivalry_hrf_timing_witness.py](verification/rivalry_hrf_timing_witness.py)
 - [verification/rivalry_okn_source_audit.py](verification/rivalry_okn_source_audit.py)
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
+- [verification/robust_quantum_agreement_bound.py](verification/robust_quantum_agreement_bound.py)
 - [verification/roy_mri_pair_inventory.py](verification/roy_mri_pair_inventory.py)
 - [verification/roy_mri_pair_inventory_test.py](verification/roy_mri_pair_inventory_test.py)
 - [verification/roy_s08_fixed_transfer.py](verification/roy_s08_fixed_transfer.py)

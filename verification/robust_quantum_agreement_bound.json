@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "scope": "finite synthetic checks; not a proof, physical experiment or consciousness assay",
+  "seed": 20261118,
+  "random_quantum_models_checked": 4500,
+  "random_quantum_max_gap_minus_bound": -0.9116830194550355,
+  "quantum_two_qubit_example": {
+    "p": 0.4999999999999998,
+    "s": 0.4999999999999999,
+    "e": 0.06698729810778067,
+    "t": 0.0,
+    "q_A": 0.5,
+    "q_B": 0.7499999999999999,
+    "absolute_gap": 0.2499999999999999,
+    "weighted_gap": 0.125,
+    "refined_bound": 0.3660254037844389,
+    "classical_bound": 0.06698729810778067
+  },
+  "classical_controls": {
+    "mixtures_checked": 5000,
+    "max_classical_inequality_residual": -0.3031239705130542,
+    "rare_control": {
+      "eta": 0.001,
+      "p": 0.001,
+      "s": 0.001,
+      "overlap": 0.0005,
+      "e": 0.001,
+      "t": 0.0,
+      "q_A": 1.0,
+      "q_B": 0.5
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 354,
-  "bytes": 4771716,
-  "line_count": 50784,
-  "document_count_with_risk_phrases": 328,
+  "document_count": 355,
+  "bytes": 4781783,
+  "line_count": 50894,
+  "document_count_with_risk_phrases": 329,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2664,8 +2664,8 @@
     },
     {
       "path": "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
-      "sha256": "d1c6ec459269c0741472888c82441dee989ead67c7988ef66041e9c8b18a05e4",
-      "bytes": 12492,
+      "sha256": "cb8755951a89d45f6e051be685a172f18982e325f73d6f95a348c13150493e70",
+      "bytes": 12709,
       "lines": 115,
       "title": "From exact quantum agreement to finite evidence",
       "headings": [
@@ -2680,6 +2680,7 @@
       ],
       "local_links": [
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "verification/finite_agreement_bell_gate.py",
         "verification/requirements-framework-battery.txt",
@@ -3138,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "128dade35391830dfe14cdf5d1be6d0c83f668225155f6481893aec5973a9e8a",
-      "bytes": 80669,
-      "lines": 672,
+      "sha256": "d5704ab35fa118a15376d4dce31d467fba205ad61b606c0f39a2a7a0ac33150d",
+      "bytes": 80921,
+      "lines": 674,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3231,6 +3232,7 @@
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
+        "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "FINITE_COMPLETION_CLOCK.md",
         "FINITE_REFERENCE_GRAVITY.md",
         "FINITE_REFERENCE_PUMP.md",
@@ -3579,6 +3581,7 @@
         "verification/experience_ground_support_toy.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/field_readout_energy_bound.py",
+        "verification/finite_agreement_bell_gate.py",
         "verification/finite_completion_clock.py",
         "verification/finite_reference_gravity.py",
         "verification/finite_reference_pump.py",
@@ -3802,17 +3805,18 @@
         34,
         38,
         45,
-        150,
-        187,
-        200,
-        238,
-        301,
-        314,
-        350,
-        359,
-        362,
-        365,
-        397
+        92,
+        151,
+        188,
+        201,
+        239,
+        302,
+        315,
+        351,
+        360,
+        363,
+        366,
+        398
       ]
     },
     {
@@ -7550,6 +7554,36 @@
         83,
         88,
         92
+      ]
+    },
+    {
+      "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+      "sha256": "d0b48d93aa053a6475a9283f47ac312e0d392ba328587adf191721e33f417deb",
+      "bytes": 9598,
+      "lines": 108,
+      "title": "Robust quantum agreement and rare records",
+      "headings": [
+        "Robust quantum agreement and rare records",
+        "Result and scope",
+        "1. Explicit operational setup",
+        "2. Quantum square-root control versus a classical inequality",
+        "3. Rare-event stress test",
+        "4. Global significance and next gate",
+        "Reproduction"
+      ],
+      "local_links": [
+        "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
+        "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
+        "verification/requirements-framework-battery.txt",
+        "verification/robust_quantum_agreement_bound.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        31,
+        44,
+        82,
+        97,
+        102
       ]
     },
     {

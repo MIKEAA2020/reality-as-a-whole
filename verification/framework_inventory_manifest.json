@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5be9b0f1fba7f602a44ba7e1029b92216935168e",
-  "file_count": 1155,
+  "base_head": "17469113db2fe6a8f185e93285a041156aa96034",
+  "file_count": 1158,
   "files": [
     {
       "path": ".gitattributes",
@@ -395,8 +395,8 @@
     },
     {
       "path": "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
-      "bytes": 12492,
-      "sha256": "d1c6ec459269c0741472888c82441dee989ead67c7988ef66041e9c8b18a05e4"
+      "bytes": 12709,
+      "sha256": "cb8755951a89d45f6e051be685a172f18982e325f73d6f95a348c13150493e70"
     },
     {
       "path": "FINITE_COMPLETION_CLOCK.md",
@@ -465,8 +465,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 80921,
-      "sha256": "d5704ab35fa118a15376d4dce31d467fba205ad61b606c0f39a2a7a0ac33150d"
+      "bytes": 81161,
+      "sha256": "84e2848e1aceb8ce64c8f278f3ded109411f2d4be6f6b1e251ab118a1ad0de75"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1007,6 +1007,11 @@
       "path": "ROBUST_EXPERIENTIAL_CONTRAST.md",
       "bytes": 10505,
       "sha256": "398e63301456defd22f6ec829125311f11895ca6e7da906a03b9b45792d2fbdc"
+    },
+    {
+      "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+      "bytes": 9598,
+      "sha256": "d0b48d93aa053a6475a9283f47ac312e0d392ba328587adf191721e33f417deb"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -4345,8 +4350,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 449392,
-      "sha256": "8b4a69d93d748cd42a1036483cb0e572e6f7c5cc2226d99edbaa0fe17f0b1abb"
+      "bytes": 450552,
+      "sha256": "7c406e99c23893daee8362f2bc01f00e5cd7709aff18b861887bd212e0c6be43"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4617,6 +4622,16 @@
       "path": "verification/robust_disclosure_separation.py",
       "bytes": 5394,
       "sha256": "447a02ccb77edca3a9eaf9d7517e835a46f331edc8751761cce5d1c28cc991c1"
+    },
+    {
+      "path": "verification/robust_quantum_agreement_bound.json",
+      "bytes": 881,
+      "sha256": "bde95ed0200d16ed53040e89f7744e4af74bdc3a2b4434a103bcf04e960b28da"
+    },
+    {
+      "path": "verification/robust_quantum_agreement_bound.py",
+      "bytes": 5115,
+      "sha256": "f314d4ca3fe5dfc18e7f730ae8d76fd9bf60b1b9690ddc5f22f33cccefae7149"
     },
     {
       "path": "verification/roy_mri_pair_inventory.py",
