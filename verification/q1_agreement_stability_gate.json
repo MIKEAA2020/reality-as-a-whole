@@ -1,0 +1,89 @@
+{
+  "status": "passed",
+  "scope": "synthetic finite checks; Q1 theorem is analytic, not certified by randomized testing",
+  "random_seed": 129748,
+  "random_quantum_cases": 4500,
+  "max_random_gap_minus_bound": -0.716600369591406,
+  "saturation_cases": [
+    {
+      "theta": 0.0,
+      "e": 0.0,
+      "q_A": 0.5000000000000001,
+      "q_B": 0.5000000000000001,
+      "gap": 0.0,
+      "selected_joint": 0.4999999999999999,
+      "centered_bound": 0.0
+    },
+    {
+      "theta": 0.01,
+      "e": 9.999666671112183e-05,
+      "q_A": 0.5049999166670833,
+      "q_B": 0.49500008333291673,
+      "gap": 0.009999833334166597,
+      "selected_joint": 0.49995000166664433,
+      "centered_bound": 0.009999833334167273
+    },
+    {
+      "theta": 0.1,
+      "e": 0.00996671107937924,
+      "q_A": 0.5499167083234142,
+      "q_B": 0.4500832916765859,
+      "gap": 0.09983341664682832,
+      "selected_joint": 0.4950166444603103,
+      "centered_bound": 0.0998334166468285
+    },
+    {
+      "theta": 0.5235987755982988,
+      "e": 0.2499999999999998,
+      "q_A": 0.7499999999999999,
+      "q_B": 0.2500000000000001,
+      "gap": 0.4999999999999998,
+      "selected_joint": 0.375,
+      "centered_bound": 0.4999999999999999
+    },
+    {
+      "theta": 0.7853981633974483,
+      "e": 0.4999999999999998,
+      "q_A": 0.8535533905932737,
+      "q_B": 0.1464466094067263,
+      "gap": 0.7071067811865475,
+      "selected_joint": 0.25,
+      "centered_bound": 0.7071067811865475
+    }
+  ],
+  "explicit_q1_nonquantum_control": {
+    "observable_biases_A0_A1_B0_B1": [
+      0.1,
+      0.0,
+      0.07071067811865475,
+      0.07071067811865475
+    ],
+    "correlators": [
+      [
+        0.7071067811865475,
+        0.7071067811865475
+      ],
+      [
+        0.7071067811865475,
+        -0.7071067811865475
+      ]
+    ],
+    "chsh": 2.82842712474619,
+    "min_probability": 0.055545635173699454,
+    "minimum_gram_eigenvalue": -2.7507018368292456e-17,
+    "selected_conditional_gap": 0.6837578032498303,
+    "selected_q1_bound": 0.8703014297260188,
+    "qualification": "Q1 PSD completion explicit; nonquantum via cited exact maximal-CHSH self-testing, not numerically proved here"
+  },
+  "noisy_pr_outside_q1_control": {
+    "noise": 0.2,
+    "p": 0.5,
+    "s": 0.5,
+    "e": 0.1,
+    "t": 0.1,
+    "gap": 0.8,
+    "centered_bound": 0.7634413615167959,
+    "chsh": 3.2,
+    "violates_necessary_q1_bound": true
+  }
+}

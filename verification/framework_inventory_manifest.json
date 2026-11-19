@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "df349f71f086ee9d7effb9d9d183d8c83808087b",
-  "file_count": 1158,
+  "base_head": "28acf932916193cb01755ae6fbd426f4a0043dd2",
+  "file_count": 1161,
   "files": [
     {
       "path": ".gitattributes",
@@ -465,8 +465,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 81161,
-      "sha256": "84e2848e1aceb8ce64c8f278f3ded109411f2d4be6f6b1e251ab118a1ad0de75"
+      "bytes": 81415,
+      "sha256": "d90e967ef2f4088019736afa355717949cb14c23057f8e65b5b70f19f2402dfe"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -904,6 +904,11 @@
       "sha256": "3bc661dac3562a30b66dac4bef6cc4d91cb26de03f53db4790599d8f85510958"
     },
     {
+      "path": "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
+      "bytes": 10253,
+      "sha256": "b94ad8b68227abef2008a75dcf48ffd3b5d18414dc71d4c7bfe6cfcf42d22db7"
+    },
+    {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
       "bytes": 12853,
       "sha256": "96c4705d2764ebc9a5b1373e096c5ce1f8a8c9b3d4b2a2820bf4ac299b5f15a9"
@@ -1010,8 +1015,8 @@
     },
     {
       "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
-      "bytes": 11766,
-      "sha256": "f3f7f9290dc8d8a36d5b6cc31583c2a8458ea88afb503e796334950acb2d21e6"
+      "bytes": 11951,
+      "sha256": "6bd442af5f962db4ccccb6b05dfebf806567140adbe3c21207de5419ee2a06d7"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -4350,13 +4355,23 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 450706,
-      "sha256": "52f1177bf0e47280be0dc6fef2ed223bc3a64e5b5989eeb4aa6bb87b7771cf8d"
+      "bytes": 451900,
+      "sha256": "f134ef7f7524b94f3c68e661474d5930103279b09842723ad4e6e81afddad626"
     },
     {
       "path": "verification/project_inventory.py",
       "bytes": 3628,
       "sha256": "9300694af188cb6a5f5d4b74863edfb5ee96ea16aa6aa217f059c09d2edd4b8c"
+    },
+    {
+      "path": "verification/q1_agreement_stability_gate.json",
+      "bytes": 2407,
+      "sha256": "a0de1f57d057edfdce7c3f19d5d50e688a355ab87a249f066a8e69bf48ffea9f"
+    },
+    {
+      "path": "verification/q1_agreement_stability_gate.py",
+      "bytes": 5426,
+      "sha256": "736b94806af5492085ef3ae5287bddfca0e8e6808d351cdb76f3d5fe5b083ee2"
     },
     {
       "path": "verification/qualitative_anchor_check.json",

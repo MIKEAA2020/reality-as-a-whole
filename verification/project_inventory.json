@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 355,
-  "bytes": 4784191,
-  "line_count": 50919,
-  "document_count_with_risk_phrases": 329,
+  "document_count": 356,
+  "bytes": 4794629,
+  "line_count": 51040,
+  "document_count_with_risk_phrases": 330,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -6700,6 +6700,40 @@
       ]
     },
     {
+      "path": "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
+      "sha256": "b94ad8b68227abef2008a75dcf48ffd3b5d18414dc71d4c7bfe6cfcf42d22db7",
+      "bytes": 10253,
+      "lines": 121,
+      "title": "Optimal symmetric agreement stability and the Q1 boundary",
+      "headings": [
+        "Optimal symmetric agreement stability and the Q1 boundary",
+        "Main results",
+        "1. Definitions and sharpened bound",
+        "2. A saturating quantum construction",
+        "3. Explicit Q1 box beyond quantum",
+        "4. Consequences for the wider account",
+        "Reproduction"
+      ],
+      "local_links": [
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+        "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
+        "verification/requirements-framework-battery.txt",
+        "verification/q1_agreement_stability_gate.json"
+      ],
+      "risk_phrase_lines": [
+        14,
+        51,
+        80,
+        84,
+        96,
+        108,
+        115,
+        121
+      ]
+    },
+    {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
       "sha256": "96c4705d2764ebc9a5b1373e096c5ce1f8a8c9b3d4b2a2820bf4ac299b5f15a9",
       "bytes": 12853,
@@ -7560,8 +7594,8 @@
     },
     {
       "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
-      "sha256": "f3f7f9290dc8d8a36d5b6cc31583c2a8458ea88afb503e796334950acb2d21e6",
-      "bytes": 11766,
+      "sha256": "6bd442af5f962db4ccccb6b05dfebf806567140adbe3c21207de5419ee2a06d7",
+      "bytes": 11951,
       "lines": 131,
       "title": "Robust quantum agreement and rare records",
       "headings": [
@@ -7575,11 +7609,13 @@
       ],
       "local_links": [
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
+        "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "verification/requirements-framework-battery.txt",
         "verification/robust_quantum_agreement_bound.json"
       ],
       "risk_phrase_lines": [
+        5,
         9,
         31,
         44,

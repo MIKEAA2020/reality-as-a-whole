@@ -2,7 +2,7 @@
 
 ## Result and scope
 
-This note continues the [finite-certainty gate](FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md). In a bipartite quantum box with two binary projective measurements per party, **approximate agreement of one selected pair of setting-0 outcomes and approximate correlation of the setting-1 targets bound the difference between two conditional assignments**. The bound is explicit and does not require the two measurements on either side to commute. It is a sufficient, generally non-tight bound on this **specified pair** of outcomes—not a complete theorem for every definition of approximate common certainty.
+This note continues the [finite-certainty gate](FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md). In a bipartite quantum box with two binary projective measurements per party, **approximate agreement of one selected pair of setting-0 outcomes and approximate correlation of the setting-1 targets bound the difference between two conditional assignments**. The bound is explicit and does not require the two measurements on either side to commute. It is a sufficient, generally non-tight bound on this **specified pair** of outcomes—not a complete theorem for every definition of approximate common certainty. A later [Q1 stability gate](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) sharpens the bound, proves exact optimality on one symmetric slice and identifies its broader applicability.
 
 A quantum counterexample to an overly optimistic *classical* error bound shows that square-root dependence on the setting-0 error can be unavoidable. A separate classical example shows why rare selected outcomes need care. Neither example is an experiment, a model of conscious subjects, or a derivation of quantum theory from agreement.
 
