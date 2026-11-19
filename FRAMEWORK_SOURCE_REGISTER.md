@@ -5,7 +5,7 @@
 ## Scope
 
 - 315 root Markdown documents including this register; 43 research Markdown documents.
-- 23 original uploaded files, including provenance metadata; 268 verification Python scripts.
+- 24 original uploaded files, including provenance metadata; 268 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -398,6 +398,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
+- [sources/uploads/s41467-021-27134-6.pdf](sources/uploads/s41467-021-27134-6.pdf)
 - [sources/uploads/simulation-neither-plenitude-nor-one-world.md](sources/uploads/simulation-neither-plenitude-nor-one-world.md)
 - [sources/uploads/simulation-zero-residue-side-by-side.md](sources/uploads/simulation-zero-residue-side-by-side.md)
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu-2.md)

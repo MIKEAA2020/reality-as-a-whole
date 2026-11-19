@@ -2,8 +2,8 @@
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
   "document_count": 358,
-  "bytes": 4815586,
-  "line_count": 51161,
+  "bytes": 4816997,
+  "line_count": 51165,
   "document_count_with_risk_phrases": 332,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -3139,9 +3139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e9376f777864076551a00a2078775b21c97d0b06f20f6cba865babaf13be9425",
-      "bytes": 81679,
-      "lines": 680,
+      "sha256": "ca4e56899d1f7a64b8e4ed9c15f377ad49399c59bea5bd200eef51af0693140c",
+      "bytes": 81979,
+      "lines": 682,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3335,6 +3335,7 @@
         "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
+        "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "README.md",
@@ -3762,6 +3763,7 @@
         "verification/substrate_self_existent_interface.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/target_symmetric_support_robustness.py",
+        "verification/temporal_marginal_parity_gate.py",
         "verification/thermal_time.py",
         "verification/three_dimensional_bogoliubov_continuum.py",
         "verification/three_dimensional_quantitative_channel.py",
@@ -3814,15 +3816,15 @@
         92,
         151,
         188,
-        203,
-        242,
-        305,
-        318,
-        354,
-        363,
-        366,
-        369,
-        401
+        204,
+        243,
+        306,
+        319,
+        355,
+        364,
+        367,
+        370,
+        402
       ]
     },
     {
@@ -6741,9 +6743,9 @@
     },
     {
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
-      "sha256": "a6df5fa5fd3ec0de5919ecb7896e479d6feddee6c110acb457f08039174fff6d",
-      "bytes": 12406,
-      "lines": 84,
+      "sha256": "845005d36b75cf956043650611a68cd96b018907c68953f16bf813a0f5dcc74e",
+      "bytes": 13170,
+      "lines": 86,
       "title": "Quantum agreement, disagreement and plural perspectives",
       "headings": [
         "Quantum agreement, disagreement and plural perspectives",
@@ -6755,6 +6757,8 @@
         "Reproduction and sources"
       ],
       "local_links": [
+        "sources/uploads/s41467-021-27134-6.pdf",
+        "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "verification/quantum_agreement_record_gate.py",
         "TWO_REPORTS_CONSENSUS_AND_REVERSAL.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
@@ -6763,9 +6767,9 @@
         "verification/quantum_agreement_record_gate.json"
       ],
       "risk_phrase_lines": [
-        20,
-        76,
-        80
+        22,
+        78,
+        82
       ]
     },
     {
@@ -7652,8 +7656,8 @@
     },
     {
       "path": "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
-      "sha256": "6bd442af5f962db4ccccb6b05dfebf806567140adbe3c21207de5419ee2a06d7",
-      "bytes": 11951,
+      "sha256": "b0ecaa446d57887ae0ee15c2dbf3ad7b16adf9ef4ae0a4d358e1988ab9ba78ee",
+      "bytes": 12298,
       "lines": 131,
       "title": "Robust quantum agreement and rare records",
       "headings": [
