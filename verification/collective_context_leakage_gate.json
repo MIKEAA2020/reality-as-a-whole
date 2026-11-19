@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "scope": "Finite classical heat-bath model and hypothetical intervention data only; no human data, QFT, consciousness assay, or claim of accessible unknown interventions.",
+  "heat_bath_pointwise_grid_checks": 42,
+  "reference_chain": {
+    "pair_weight": "10/21",
+    "external_graph_weight": "4/21",
+    "model_aggregate_upper_bound": 0.25541281188299536,
+    "exact_bound_expression": "atanh(1/4)",
+    "external_cell_means": [
+      [
+        "3/4",
+        "3/4"
+      ],
+      [
+        "5/6",
+        "9/14"
+      ]
+    ],
+    "internal_cell_means": [
+      [
+        "3/4",
+        "1/4"
+      ],
+      [
+        "31/42",
+        "11/42"
+      ]
+    ]
+  },
+  "illustrative_confidence_calculation": {
+    "cell_count": 8,
+    "assumed_observed_mean_tolerance": "1/100",
+    "simultaneous_failure_probability_bound": 0.04999604994572609,
+    "iid_trials_per_cell": 28842,
+    "total_iid_trials": 230736,
+    "external_bound_upper": 0.31136478915581095,
+    "internal_weight_lower": "479/1050",
+    "gap": 0.14482568703466525,
+    "assumptions": "Finite pairwise additive ferromagnetic heat-bath law; all outside inputs controllable; stable correctly clamped core and backgrounds; independent within-cell Bernoulli observations; no systematic bias; hypothetical displayed sample means."
+  },
+  "hidden_collective_counterexample": {
+    "outside_counts_checked": [
+      2,
+      3,
+      4,
+      8
+    ],
+    "observable_tested_contexts": "baseline and individual flips only",
+    "counterexample": "two mechanisms agree on all tested contexts, disagree on all flipped context"
+  }
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 366,
-  "bytes": 4902258,
-  "line_count": 51686,
-  "document_count_with_risk_phrases": 340,
+  "document_count": 367,
+  "bytes": 4913138,
+  "line_count": 51800,
+  "document_count_with_risk_phrases": 341,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -994,6 +994,35 @@
         19,
         37,
         98
+      ]
+    },
+    {
+      "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
+      "sha256": "1d0824089c8b97a4ea729a0b33488e112720452aa37d483f3f29cdd170ebe98f",
+      "bytes": 10607,
+      "lines": 112,
+      "title": "From an assumed boundary budget to a conditional intervention test",
+      "headings": [
+        "From an assumed boundary budget to a conditional intervention test",
+        "Objective and result",
+        "1. Why isolated tests are not enough",
+        "2. Conditional physical model",
+        "3. Bounding the external sum with two extreme settings",
+        "4. Worked connection to our four-spin model",
+        "5. The decisive obstacle",
+        "Verification"
+      ],
+      "local_links": [
+        "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "verification/collective_context_leakage_gate.json"
+      ],
+      "risk_phrase_lines": [
+        16,
+        43,
+        81,
+        100
       ]
     },
     {
@@ -3187,9 +3216,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7827cf33cf88dad2cae50ed633a96eef5c911d1f0b7419c15ae54d8512c93910",
-      "bytes": 83853,
-      "lines": 697,
+      "sha256": "0029f276f6a4146840df8f63d7f8e5bce13568ed22fdee7e22f0b843cb9e2543",
+      "bytes": 84126,
+      "lines": 699,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3232,6 +3261,7 @@
         "COLD_ATOM_CLOCK_COMPARISON.md",
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
+        "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
         "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
         "COMMON_CONSTITUTION_CLOSURE.md",
         "COMMUTANT_STEERING_AND_COST.md",
@@ -3617,6 +3647,7 @@
         "verification/cold_atom_clock.py",
         "verification/cold_atom_comparison.py",
         "verification/collapse_moving_window.py",
+        "verification/collective_context_leakage_gate.py",
         "verification/competing_subject_constitution_rules.py",
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
@@ -3875,19 +3906,19 @@
         25,
         35,
         39,
-        46,
-        94,
-        154,
-        192,
-        209,
-        248,
-        314,
-        327,
-        363,
-        372,
-        375,
-        378,
-        414
+        47,
+        95,
+        155,
+        193,
+        210,
+        249,
+        315,
+        328,
+        364,
+        373,
+        376,
+        379,
+        415
       ]
     },
     {
