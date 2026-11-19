@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 373,
-  "bytes": 4977363,
-  "line_count": 52154,
-  "document_count_with_risk_phrases": 347,
+  "document_count": 374,
+  "bytes": 4987763,
+  "line_count": 52196,
+  "document_count_with_risk_phrases": 348,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2274,8 +2274,8 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "sha256": "393c42d72e71124b184a5c794dd762acc58fb8adfa73499b71e112e91beddc8f",
-      "bytes": 8904,
+      "sha256": "f24f79e412abbca9f864ead7b7ddee375bff276f7c67f7ca41bc822b624b0550",
+      "bytes": 10293,
       "lines": 36,
       "title": "Effective theories and graphical models: reading progress",
       "headings": [
@@ -2287,7 +2287,8 @@
         "Remaining reading and checks"
       ],
       "local_links": [
-        "sources/uploads/stamped9022.pdf"
+        "sources/uploads/stamped9022.pdf",
+        "verification/pairwise_marginal_information_gate.py"
       ],
       "risk_phrase_lines": [
         12,
@@ -3247,9 +3248,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "427f20491da93b352329b6f267eee0bec1d5850265c87acd6e36b4db7cb3a11b",
-      "bytes": 86345,
-      "lines": 717,
+      "sha256": "988bec6c72f40acf0f24a3bc6874195fe8973b1e71a414a59753d793c1ef01ca",
+      "bytes": 86615,
+      "lines": 719,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3468,6 +3469,7 @@
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
+        "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
         "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
         "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
         "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
@@ -3798,6 +3800,7 @@
         "verification/page_wootters_static_clock.py",
         "verification/paingen_source_crosscheck.py",
         "verification/paingen_unpleasantness_baselines.py",
+        "verification/pairwise_marginal_information_gate.py",
         "verification/perspectival_finitude.py",
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
@@ -3960,14 +3963,14 @@
         158,
         196,
         213,
-        255,
-        321,
-        334,
-        370,
-        379,
-        382,
-        385,
-        428
+        256,
+        322,
+        335,
+        371,
+        380,
+        383,
+        386,
+        429
       ]
     },
     {
@@ -7782,6 +7785,32 @@
         48,
         57,
         96
+      ]
+    },
+    {
+      "path": "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
+      "sha256": "061acf41f5cbad755acf8120f1949e37ad21099efb75d437cff075e9f6a0a87e",
+      "bytes": 8741,
+      "lines": 40,
+      "title": "Retinal MaxEnt: published antecedents and limits of marginals",
+      "headings": [
+        "Retinal MaxEnt: published antecedents and limits of marginals",
+        "Source and reading scope",
+        "What the retinal paper already did",
+        "Exact nonidentification examples",
+        "Relevance to the relational framework",
+        "Other incomplete sources"
+      ],
+      "local_links": [
+        "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
+        "verification/pairwise_marginal_information_gate.py",
+        "verification/pairwise_marginal_information_gate.json",
+        "SOURCE_ACCESS_AND_READING_LIMITS.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        19,
+        21
       ]
     },
     {

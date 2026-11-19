@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 330 root Markdown documents including this register; 43 research Markdown documents.
-- 35 original uploaded files, including provenance metadata; 276 verification Python scripts.
+- 331 root Markdown documents including this register; 43 research Markdown documents.
+- 35 original uploaded files, including provenance metadata; 277 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -217,6 +217,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RELATIONAL_TIME_CONSTRUCTION.md](RELATIONAL_TIME_CONSTRUCTION.md) — Relational dynamics in one stationary constrained state
 - [RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md](RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md) — Cicurel and Nicolelis: brains, simulation and subject plurality
 - [REPORTED_CONTENT_REFERENCE_CASE.md](REPORTED_CONTENT_REFERENCE_CASE.md) — A worked reported-content reference case
+- [RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md](RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md) — Retinal MaxEnt: published antecedents and limits of marginals
 - [RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md](RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md) — What the residual retinal prediction gain actually measures
 - [RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md](RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md) — Retinal collective activity after a stimulus-phase control
 - [RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md](RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md) — Retinal data, supplementary figures and the EFT thesis
@@ -561,6 +562,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
 - [verification/paingen_unpleasantness_baselines.py](verification/paingen_unpleasantness_baselines.py)
+- [verification/pairwise_marginal_information_gate.py](verification/pairwise_marginal_information_gate.py)
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
 - [verification/perspective_access_from_circuit.py](verification/perspective_access_from_circuit.py)
 - [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)

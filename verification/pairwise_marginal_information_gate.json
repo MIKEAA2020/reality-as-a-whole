@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "scope": "exact finite toy distributions, not retinal data or subject evidence",
+  "single_and_pairwise_marginals": "identical uniform singleton and pair distributions for every listed law",
+  "laws": [
+    {
+      "parity_bias": "0",
+      "P_even": "1/2",
+      "total_variation_from_uniform": "0",
+      "entropy_bits": 3.0,
+      "KL_to_uniform_bits": 0.0
+    },
+    {
+      "parity_bias": "1/2",
+      "P_even": "3/4",
+      "total_variation_from_uniform": "1/4",
+      "entropy_bits": 2.811278124459133,
+      "KL_to_uniform_bits": 0.18872187554086717
+    },
+    {
+      "parity_bias": "1",
+      "P_even": "1",
+      "total_variation_from_uniform": "1/2",
+      "entropy_bits": 2.0,
+      "KL_to_uniform_bits": 1.0
+    }
+  ],
+  "triangle_pseudomarginal": {
+    "source": "Wainwright and Jordan, Section 4.1.1, Example 4.1",
+    "P_01_unequal": "1/5",
+    "P_12_unequal": "1/5",
+    "P_02_unequal": "4/5",
+    "global_probability_law_exists": false
+  },
+  "limitations": "Parity example does not model retina; higher-order data can distinguish its distributions. Local-consistency example is not a causal or physical impossibility result outside its stated probability model."
+}

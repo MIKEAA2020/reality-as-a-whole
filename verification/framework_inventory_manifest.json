@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e51b4619f74cf20ffb16ea76de5bfb82caebb553",
-  "file_count": 1210,
+  "base_head": "2946c31e89678d2bc9fc981332698701711c4c50",
+  "file_count": 1213,
   "files": [
     {
       "path": ".gitattributes",
@@ -325,8 +325,8 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "bytes": 8904,
-      "sha256": "393c42d72e71124b184a5c794dd762acc58fb8adfa73499b71e112e91beddc8f"
+      "bytes": 10293,
+      "sha256": "f24f79e412abbca9f864ead7b7ddee375bff276f7c67f7ca41bc822b624b0550"
     },
     {
       "path": "ENERGY_CONDITIONS_BOUNCE.md",
@@ -485,8 +485,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 86345,
-      "sha256": "427f20491da93b352329b6f267eee0bec1d5850265c87acd6e36b4db7cb3a11b"
+      "bytes": 86615,
+      "sha256": "988bec6c72f40acf0f24a3bc6874195fe8973b1e71a414a59753d793c1ef01ca"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1042,6 +1042,11 @@
       "path": "REPORTED_CONTENT_REFERENCE_CASE.md",
       "bytes": 13240,
       "sha256": "4a33b3010c4b3112c0a3d68a322a431da3d41448715bf782b48f58cc5972b950"
+    },
+    {
+      "path": "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
+      "bytes": 8741,
+      "sha256": "061acf41f5cbad755acf8120f1949e37ad21099efb75d437cff075e9f6a0a87e"
     },
     {
       "path": "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md",
@@ -4389,6 +4394,16 @@
       "sha256": "ae831fef60818e574ecc1572a130ac9243395d57485f89a4edebbcd86845e4c8"
     },
     {
+      "path": "verification/pairwise_marginal_information_gate.json",
+      "bytes": 1211,
+      "sha256": "e45e6df8779b86b758595690f7fe27785c37099e0a1ddf97f4c546ba5c40b060"
+    },
+    {
+      "path": "verification/pairwise_marginal_information_gate.py",
+      "bytes": 3175,
+      "sha256": "7627adc0a1b0ebaaa226e6c6d48626e4ed4f4d8a8968d3a15fb44e206911d166"
+    },
+    {
       "path": "verification/perspectival_finitude.json",
       "bytes": 814,
       "sha256": "30f6aca613bc56d9d9284278ffba04ac698da1aef97b5f2c9bd50131b9a08aec"
@@ -4510,8 +4525,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 471548,
-      "sha256": "9382cbb81909422e15f6dd44486ff6df99520679bd2e3acefa5e62b0a3a75d19"
+      "bytes": 473455,
+      "sha256": "ac8a170fcf3362453e7aace2319f5f265614e9d15c637d0187cb48e7b47a0ef8"
     },
     {
       "path": "verification/project_inventory.py",
