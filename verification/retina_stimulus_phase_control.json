@@ -1,0 +1,257 @@
+{
+  "status": "passed",
+  "source_sha256": "1bcf28d8ef2bd23663760a4232fd247495c0805714a2a9a7bf78b8af5ec37a54",
+  "prior_receipt_sha256": "a9679bd27cdcd07e0e779b363231f000822243c6638903f0e8ac6e487a66767d",
+  "protocol": {
+    "sample": "same 40 cells and presumed first 120 movie repeats as prior audit",
+    "train_repeats": 100,
+    "test_repeats": 20,
+    "bin_ms": 20,
+    "bins_per_repeat": 1325,
+    "phase_control": "100-trial training per-phase independent Bernoulli rates; unsmoothed for K>=5 and symmetric Beta(alpha,alpha) posterior means for log scores with alpha=0.05,0.5,1; phase-mixture marginalizes phase uniformly",
+    "conditional_pairwise": "alpha=0.5 base with 10 time-independent field offsets and 45 pair tilts; compares against 10-field-only calibrated model; L2 coefficient 0.001, all estimated on 100 train repeats; no test-set tuning",
+    "shuffle": "200 independent within-test random permutations of whole trials for each cell; same-trial matches between any pair occur about 1/20 on average",
+    "pairwise_cross_trial": "exact mean over all unequal trial pairs at same phase; no sampling or smoothing",
+    "warning": "same stimulus, one recording; no randomized stimulus or neuron intervention, no biological confidence intervals"
+  },
+  "heldout_40_cell_k_at_least_5": {
+    "observed": 0.04347169811320755,
+    "stationary_independent": 0.002248904508173636,
+    "phase_conditionally_independent_from_training": 0.037056934242309235,
+    "trial_shuffle_mean": 0.037159811320754715,
+    "trial_shuffle_min": 0.035433962264150944,
+    "trial_shuffle_max": 0.038641509433962266
+  },
+  "heldout_pair_coincidence": {
+    "pairs": 780,
+    "observed_mean": 0.0014494920174165458,
+    "different_trial_same_phase_mean": 0.0013259440327960687,
+    "difference": 0.00012354798462047706,
+    "positive_differences": 475,
+    "first_ten_repeat_difference": 0.00011618556146858034,
+    "last_ten_repeat_difference": 0.00013211847551470194
+  },
+  "ten_cell_predictive_scores": [
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c5_bush2_spks",
+        "c7_bush2_spks",
+        "c8_bush2_spks",
+        "c9_bush2_spks",
+        "c10_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks"
+      ],
+      "phase_conditional_independent_cross_entropy_bits_per_bin": 1.0713943633843377,
+      "phase_conditional_independent_field_calibrated_cross_entropy_bits_per_bin": 1.0611971286792352,
+      "phase_conditional_pairwise_cross_entropy_bits_per_bin": 1.0547905337999735,
+      "conditional_pairwise_gain_over_field_calibrated_bits_per_bin": 0.006406594879261762,
+      "conditional_pairwise_gain_over_uncalibrated_bits_per_bin": 0.016603829584364238,
+      "conditional_field_fit_optimizer_success": true,
+      "conditional_fit_iterations": 32,
+      "conditional_fit_optimizer_success": true,
+      "conditional_fit_max_penalized_gradient": 1.4587815836780661e-08,
+      "conditional_fit_pair_terms_positive": 30,
+      "conditional_fit_pair_terms_negative": 15,
+      "phase_mixture_cross_entropy_bits_per_bin": 1.7767626179638856,
+      "stationary_pairwise_cross_entropy_bits_per_bin": 1.7665226926293558,
+      "stationary_independent_cross_entropy_bits_per_bin": 1.8636871052051232,
+      "mixture_minus_pairwise_bits_per_bin": 0.010239925334529776,
+      "phase_minus_pairwise_bits_per_bin": -0.6951283292450181,
+      "symmetric_beta_sensitivity": {
+        "0.05": {
+          "conditional_bits_per_bin": 1.0422771091460994,
+          "phase_mixture_bits_per_bin": 1.7663830847924393
+        },
+        "0.5": {
+          "conditional_bits_per_bin": 1.0713943633843377,
+          "phase_mixture_bits_per_bin": 1.7767626179638856
+        },
+        "1.0": {
+          "conditional_bits_per_bin": 1.1210427811903503,
+          "phase_mixture_bits_per_bin": 1.7983731314612519
+        }
+      }
+    },
+    {
+      "cells": [
+        "c5_bush2_spks",
+        "c13_bush2_spks",
+        "c14_bush2_spks",
+        "c18_bush2_spks",
+        "c25_bush2_spks",
+        "c30_bush2_spks",
+        "c35_bush2_spks",
+        "c47_bush2_spks",
+        "c51_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "phase_conditional_independent_cross_entropy_bits_per_bin": 0.7910056769088756,
+      "phase_conditional_independent_field_calibrated_cross_entropy_bits_per_bin": 0.7788873664248458,
+      "phase_conditional_pairwise_cross_entropy_bits_per_bin": 0.7743093154557422,
+      "conditional_pairwise_gain_over_field_calibrated_bits_per_bin": 0.004578050969103575,
+      "conditional_pairwise_gain_over_uncalibrated_bits_per_bin": 0.016696361453133357,
+      "conditional_field_fit_optimizer_success": true,
+      "conditional_fit_iterations": 28,
+      "conditional_fit_optimizer_success": true,
+      "conditional_fit_max_penalized_gradient": 7.64886844459951e-08,
+      "conditional_fit_pair_terms_positive": 25,
+      "conditional_fit_pair_terms_negative": 20,
+      "phase_mixture_cross_entropy_bits_per_bin": 1.4412551172445658,
+      "stationary_pairwise_cross_entropy_bits_per_bin": 1.430056905979748,
+      "stationary_independent_cross_entropy_bits_per_bin": 1.478405090800511,
+      "mixture_minus_pairwise_bits_per_bin": 0.011198211264817681,
+      "phase_minus_pairwise_bits_per_bin": -0.6390512290708725,
+      "symmetric_beta_sensitivity": {
+        "0.05": {
+          "conditional_bits_per_bin": 0.7515245612277719,
+          "phase_mixture_bits_per_bin": 1.4292577447095094
+        },
+        "0.5": {
+          "conditional_bits_per_bin": 0.7910056769088756,
+          "phase_mixture_bits_per_bin": 1.4412551172445658
+        },
+        "1.0": {
+          "conditional_bits_per_bin": 0.8470976624523515,
+          "phase_mixture_bits_per_bin": 1.4661771316432144
+        }
+      }
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c7_bush2_spks",
+        "c23_bush2_spks",
+        "c29_bush2_spks",
+        "c35_bush2_spks",
+        "c42_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c55_bush2_spks",
+        "c61_bush2_spks"
+      ],
+      "phase_conditional_independent_cross_entropy_bits_per_bin": 0.8692175130804111,
+      "phase_conditional_independent_field_calibrated_cross_entropy_bits_per_bin": 0.8579351521864739,
+      "phase_conditional_pairwise_cross_entropy_bits_per_bin": 0.8547490328355933,
+      "conditional_pairwise_gain_over_field_calibrated_bits_per_bin": 0.003186119350880534,
+      "conditional_pairwise_gain_over_uncalibrated_bits_per_bin": 0.014468480244817727,
+      "conditional_field_fit_optimizer_success": true,
+      "conditional_fit_iterations": 31,
+      "conditional_fit_optimizer_success": true,
+      "conditional_fit_max_penalized_gradient": 1.573299095213379e-08,
+      "conditional_fit_pair_terms_positive": 26,
+      "conditional_fit_pair_terms_negative": 19,
+      "phase_mixture_cross_entropy_bits_per_bin": 1.519777331938028,
+      "stationary_pairwise_cross_entropy_bits_per_bin": 1.5089736729743304,
+      "stationary_independent_cross_entropy_bits_per_bin": 1.5594539733757675,
+      "mixture_minus_pairwise_bits_per_bin": 0.010803658963697726,
+      "phase_minus_pairwise_bits_per_bin": -0.6397561598939193,
+      "symmetric_beta_sensitivity": {
+        "0.05": {
+          "conditional_bits_per_bin": 0.8323789198805948,
+          "phase_mixture_bits_per_bin": 1.5078177810351083
+        },
+        "0.5": {
+          "conditional_bits_per_bin": 0.8692175130804111,
+          "phase_mixture_bits_per_bin": 1.519777331938028
+        },
+        "1.0": {
+          "conditional_bits_per_bin": 0.9231246047559789,
+          "phase_mixture_bits_per_bin": 1.5452504141026882
+        }
+      }
+    },
+    {
+      "cells": [
+        "c7_bush2_spks",
+        "c11_bush2_spks",
+        "c12_bush2_spks",
+        "c23_bush2_spks",
+        "c35_bush2_spks",
+        "c38_bush2_spks",
+        "c42_bush2_spks",
+        "c45_bush2_spks",
+        "c49_bush2_spks",
+        "c63_bush2_spks"
+      ],
+      "phase_conditional_independent_cross_entropy_bits_per_bin": 0.7551400990248277,
+      "phase_conditional_independent_field_calibrated_cross_entropy_bits_per_bin": 0.7437396197507186,
+      "phase_conditional_pairwise_cross_entropy_bits_per_bin": 0.7390061750964341,
+      "conditional_pairwise_gain_over_field_calibrated_bits_per_bin": 0.004733444654284491,
+      "conditional_pairwise_gain_over_uncalibrated_bits_per_bin": 0.016133923928393634,
+      "conditional_field_fit_optimizer_success": true,
+      "conditional_fit_iterations": 27,
+      "conditional_fit_optimizer_success": true,
+      "conditional_fit_max_penalized_gradient": 2.1948538929264863e-08,
+      "conditional_fit_pair_terms_positive": 31,
+      "conditional_fit_pair_terms_negative": 14,
+      "phase_mixture_cross_entropy_bits_per_bin": 1.3577510912922943,
+      "stationary_pairwise_cross_entropy_bits_per_bin": 1.345807557023897,
+      "stationary_independent_cross_entropy_bits_per_bin": 1.4093593595387484,
+      "mixture_minus_pairwise_bits_per_bin": 0.011943534268397338,
+      "phase_minus_pairwise_bits_per_bin": -0.5906674579990693,
+      "symmetric_beta_sensitivity": {
+        "0.05": {
+          "conditional_bits_per_bin": 0.71787572464481,
+          "phase_mixture_bits_per_bin": 1.3441812400780486
+        },
+        "0.5": {
+          "conditional_bits_per_bin": 0.7551400990248277,
+          "phase_mixture_bits_per_bin": 1.3577510912922943
+        },
+        "1.0": {
+          "conditional_bits_per_bin": 0.8103797678869058,
+          "phase_mixture_bits_per_bin": 1.3845078310440428
+        }
+      }
+    },
+    {
+      "cells": [
+        "c4_bush2_spks",
+        "c12_bush2_spks",
+        "c22_bush2_spks",
+        "c23_bush2_spks",
+        "c26_bush2_spks",
+        "c27_bush2_spks",
+        "c47_bush2_spks",
+        "c48_bush2_spks",
+        "c49_bush2_spks",
+        "c50_bush2_spks"
+      ],
+      "phase_conditional_independent_cross_entropy_bits_per_bin": 1.0518936483908174,
+      "phase_conditional_independent_field_calibrated_cross_entropy_bits_per_bin": 1.04281665232446,
+      "phase_conditional_pairwise_cross_entropy_bits_per_bin": 1.041811670000211,
+      "conditional_pairwise_gain_over_field_calibrated_bits_per_bin": 0.0010049823242490596,
+      "conditional_pairwise_gain_over_uncalibrated_bits_per_bin": 0.010081978390606539,
+      "conditional_field_fit_optimizer_success": true,
+      "conditional_fit_iterations": 33,
+      "conditional_fit_optimizer_success": true,
+      "conditional_fit_max_penalized_gradient": 1.7394286874535957e-08,
+      "conditional_fit_pair_terms_positive": 29,
+      "conditional_fit_pair_terms_negative": 16,
+      "phase_mixture_cross_entropy_bits_per_bin": 1.7389115075146337,
+      "stationary_pairwise_cross_entropy_bits_per_bin": 1.7331210880601668,
+      "stationary_independent_cross_entropy_bits_per_bin": 1.7674282422617402,
+      "mixture_minus_pairwise_bits_per_bin": 0.0057904194544669,
+      "phase_minus_pairwise_bits_per_bin": -0.6812274396693494,
+      "symmetric_beta_sensitivity": {
+        "0.05": {
+          "conditional_bits_per_bin": 1.0226155106369117,
+          "phase_mixture_bits_per_bin": 1.7304545527770834
+        },
+        "0.5": {
+          "conditional_bits_per_bin": 1.0518936483908174,
+          "phase_mixture_bits_per_bin": 1.7389115075146337
+        },
+        "1.0": {
+          "conditional_bits_per_bin": 1.1013154360631863,
+          "phase_mixture_bits_per_bin": 1.7594963261234813
+        }
+      }
+    }
+  ],
+  "scope": "These are descriptive, exploratory estimates; finite-trial mismatches, drift, phase error and latent inputs may contribute to residual correlations. More successful prediction with phase information does not prove a common-input mechanism or subject structure. Shuffle range is Monte Carlo variation, not a confidence interval or p-value."
+}

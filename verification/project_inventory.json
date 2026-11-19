@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 370,
-  "bytes": 4947835,
-  "line_count": 52000,
-  "document_count_with_risk_phrases": 344,
+  "document_count": 371,
+  "bytes": 4958070,
+  "line_count": 52055,
+  "document_count_with_risk_phrases": 345,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3223,9 +3223,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "00285fd6ae9557a1f5678719cb8e313fc4f05882e4180ad60d72e29a37f57528",
-      "bytes": 85623,
-      "lines": 712,
+      "sha256": "8ff36badb8140e8642c808c6c3bc8aec91872a614a70dde4a3d4f739238f2b9f",
+      "bytes": 85886,
+      "lines": 714,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3443,6 +3443,7 @@
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
+        "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
         "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
         "REUSED_REFERENCE_CLOCK.md",
         "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
@@ -3807,6 +3808,7 @@
         "verification/relational_records.py",
         "verification/reported_rivalry_case_audit.py",
         "verification/retina_spike_maxent_audit.py",
+        "verification/retina_stimulus_phase_control.py",
         "verification/reused_reference_clock.py",
         "verification/reversible_friend_record_tradeoff.py",
         "verification/rivalry_hrf_timing_witness.py",
@@ -3931,14 +3933,14 @@
         157,
         195,
         212,
-        252,
-        318,
-        331,
-        367,
-        376,
-        379,
-        382,
-        425
+        253,
+        319,
+        332,
+        368,
+        377,
+        380,
+        383,
+        426
       ]
     },
     {
@@ -7756,9 +7758,32 @@
       ]
     },
     {
+      "path": "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
+      "sha256": "370baa07d4a1600a00c870681c6dcd96069187f116e95df966a7737a1e3f6040",
+      "bytes": 9480,
+      "lines": 53,
+      "title": "Retinal collective activity after a stimulus-phase control",
+      "headings": [
+        "Retinal collective activity after a stimulus-phase control",
+        "Question and provenance",
+        "Forty-cell coactivity",
+        "Held-out pattern prediction: give the models the same information",
+        "Implication for the wider framework",
+        "Reproduction and limits"
+      ],
+      "local_links": [
+        "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
+        "verification/retina_stimulus_phase_control.json"
+      ],
+      "risk_phrase_lines": [
+        25,
+        27
+      ]
+    },
+    {
       "path": "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
-      "sha256": "2fe0072ab050f5151abcd8ab3825a4a2ffaa6aa55c53e0e3505eb239e3fa98d6",
-      "bytes": 9833,
+      "sha256": "fcf9d314d9544c8c03b512d8bd1ccc3ebd129434f751b07abb366db28d920058",
+      "bytes": 10325,
       "lines": 63,
       "title": "Retinal data, supplementary figures and the EFT thesis",
       "headings": [
@@ -7779,6 +7804,7 @@
         "sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "verification/retina_spike_maxent_audit.py",
+        "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
         "verification/retina_spike_maxent_audit.json"
       ],
       "risk_phrase_lines": [

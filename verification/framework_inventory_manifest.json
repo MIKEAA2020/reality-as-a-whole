@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "122c7dc3950741273d076b265d1588be09aeee6c",
-  "file_count": 1203,
+  "base_head": "a1d6e9841c85202531751e2095160420e1f8066b",
+  "file_count": 1206,
   "files": [
     {
       "path": ".gitattributes",
@@ -480,8 +480,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 85623,
-      "sha256": "00285fd6ae9557a1f5678719cb8e313fc4f05882e4180ad60d72e29a37f57528"
+      "bytes": 85886,
+      "sha256": "8ff36badb8140e8642c808c6c3bc8aec91872a614a70dde4a3d4f739238f2b9f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1039,9 +1039,14 @@
       "sha256": "4a33b3010c4b3112c0a3d68a322a431da3d41448715bf782b48f58cc5972b950"
     },
     {
+      "path": "RETINA_PHASE_CONDITIONAL_AND_PAIRWISE_CONTROL.md",
+      "bytes": 9480,
+      "sha256": "370baa07d4a1600a00c870681c6dcd96069187f116e95df966a7737a1e3f6040"
+    },
+    {
       "path": "RETINA_SUPPLEMENTS_DATA_AND_EFT_THESIS_AUDIT.md",
-      "bytes": 9833,
-      "sha256": "2fe0072ab050f5151abcd8ab3825a4a2ffaa6aa55c53e0e3505eb239e3fa98d6"
+      "bytes": 10325,
+      "sha256": "fcf9d314d9544c8c03b512d8bd1ccc3ebd129434f751b07abb366db28d920058"
     },
     {
       "path": "REUSED_REFERENCE_CLOCK.md",
@@ -4495,8 +4500,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 469344,
-      "sha256": "7f91a8bb2965b4f01b728189d67dc4f06e4c715701cfdc4e1d050dd3f183410e"
+      "bytes": 470336,
+      "sha256": "12f33800c9db18960a37962c4bb7604e96f22f087cc0abb9affecb5847cdb15f"
     },
     {
       "path": "verification/project_inventory.py",
@@ -4752,6 +4757,16 @@
       "path": "verification/retina_spike_maxent_audit.py",
       "bytes": 5943,
       "sha256": "5001074846a3283512b6556917df8355a12995483a3df6837590fd9e8759d090"
+    },
+    {
+      "path": "verification/retina_stimulus_phase_control.json",
+      "bytes": 11839,
+      "sha256": "fda95728f1f01b88d371728aef2ebb666de9ea22e4637daf6fd8bc09ea77009d"
+    },
+    {
+      "path": "verification/retina_stimulus_phase_control.py",
+      "bytes": 11122,
+      "sha256": "b9029fa826558795843819bba637b664dae12e961322bbbd1f32d625a07d0c79"
     },
     {
       "path": "verification/reused_reference_clock.json",
