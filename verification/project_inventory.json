@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 378,
-  "bytes": 5022562,
-  "line_count": 52375,
-  "document_count_with_risk_phrases": 352,
+  "document_count": 379,
+  "bytes": 5029307,
+  "line_count": 52406,
+  "document_count_with_risk_phrases": 353,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -355,6 +355,30 @@
         238,
         244,
         248
+      ]
+    },
+    {
+      "path": "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
+      "sha256": "8acd44f59e64e5c922a076e5c94a1c6e14384747653556a9872ab622cfb69f36",
+      "bytes": 6114,
+      "lines": 27,
+      "title": "Experiential ground and the choice of relational description",
+      "headings": [
+        "Experiential ground and the choice of relational description",
+        "The remaining issue",
+        "One probability law, two graphs",
+        "What this does—and does not—resolve"
+      ],
+      "local_links": [
+        "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "verification/auxiliary_representation_subject_gate.py",
+        "verification/auxiliary_representation_subject_gate.json",
+        "RETINA_CONDITIONAL_SCORE_DECOMPOSITION_AND_CAUSAL_LIMIT.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        27
       ]
     },
     {
@@ -1975,9 +1999,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "c73f1bc5cb72b26b11e596eff7994be06a6eb7c9bcff9162aa90e4ad0d80ac70",
-      "bytes": 25019,
-      "lines": 231,
+      "sha256": "5ec5525de7809f31bb8189a5c7bb8c0fe78a82f08d0c770d16b54807cb233255",
+      "bytes": 25509,
+      "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -1992,13 +2016,15 @@
       "local_links": [
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
         15,
         99,
         197,
-        221
+        223
       ]
     },
     {
@@ -2277,8 +2303,8 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "sha256": "d609818af4dabab3e05f61dd2d4241356c1f30efc0741158db9809b47d092aeb",
-      "bytes": 12670,
+      "sha256": "cd42ad0985c6f2aa25c437780a32ce1749448afcfea4c46e514ade84e2fc1605",
+      "bytes": 12497,
       "lines": 46,
       "title": "Effective theories and graphical models: reading progress",
       "headings": [
@@ -3255,9 +3281,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e0cdfa87f484cc9856331ea05e80e7b13fc3fc24d155e5ae9730f3ffc0405497",
-      "bytes": 87903,
-      "lines": 729,
+      "sha256": "095014c663eb0fdc6bc04a115003473979cea66b82ce2827c8d76d8bb20e2f0f",
+      "bytes": 88180,
+      "lines": 731,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3281,6 +3307,7 @@
         "AUTONOMOUS_RECORD_INSTRUMENT.md",
         "AUTONOMOUS_RECORD_TAPE.md",
         "AUTONOMOUS_STOP_CLOCK.md",
+        "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
         "AXIARCHIC_BRIDGE_AUDIT.md",
         "AXIARCHIC_CONSTITUTION_CANDIDATE.md",
         "AXIOLOGY_STATUS.md",
@@ -3693,6 +3720,7 @@
         "verification/autonomous_record.py",
         "verification/autonomous_record_tape.py",
         "verification/autonomous_stop_clock.py",
+        "verification/auxiliary_representation_subject_gate.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/boundary_cut_workspace.py",
         "verification/bowling_pairwise_transfer_audit.py",
@@ -3972,22 +4000,22 @@
       ],
       "risk_phrase_lines": [
         17,
-        25,
-        35,
-        39,
-        47,
-        96,
-        161,
-        199,
-        216,
-        260,
-        326,
-        339,
-        375,
-        384,
-        387,
-        390,
-        436
+        26,
+        36,
+        40,
+        48,
+        97,
+        162,
+        200,
+        217,
+        261,
+        327,
+        340,
+        376,
+        385,
+        388,
+        391,
+        437
       ]
     },
     {
@@ -4397,8 +4425,8 @@
     },
     {
       "path": "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
-      "sha256": "9cdcdc8eee35ecb936c6b8c95f1e4dceb2b82b034678a22f1f5ba6db2d389081",
-      "bytes": 7737,
+      "sha256": "71ff62d80df493b415949daf6ed669f93ff3ff632e5cebb33ade3b188770e067",
+      "bytes": 7719,
       "lines": 33,
       "title": "Relaxations, persistence, and what an optimizer can establish",
       "headings": [
@@ -8199,8 +8227,8 @@
     },
     {
       "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
-      "sha256": "5a531d0d98b6b81f314d04213736f09972006ec0b89f6db6920f3d5d341a40ef",
-      "bytes": 7081,
+      "sha256": "c5c4a321a332b3e7a16dd430a2bf10b9b3c81fd772092eac967cc31b6f925971",
+      "bytes": 7136,
       "lines": 43,
       "title": "Full roof-duality papers and a robust selector check",
       "headings": [

@@ -218,6 +218,8 @@ The principal unresolved obligations are:
 - explain value and suffering without assuming a perfect whole or dismissing local harms;
 - obtain discriminating empirical consequences and compare the total explanatory cost with serious alternatives.
 
+Subject constitution must also be invariant under genuine redescriptions of a physical system. An explicit [auxiliary-variable check](AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md) shows why graph-node counting fails under a redundant encoding; the check preserves original observational probabilities, not automatically interventions, and cannot identify experiences. This complements the earlier [intervention-preserving factorization gate](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md).
+
 Until these obligations are met, the proposal is a **research framework, not a demonstrated complete or zero-residue theory**. Its assumptions are not conclusions, and finite illustrative models are not evidence that the universe or its subjects have the structures stipulated in those models.
 
 ## References

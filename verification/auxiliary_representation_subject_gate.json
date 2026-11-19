@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "source_antecedent": "Wainwright and Jordan, Graphical Models, Exponential Families, and Variational Inference, Appendix E.3, DOI 10.1561/2200000001",
+  "scope": "two exact finite probabilistic representations, not physical implementations or an experience assay",
+  "original_variables": 3,
+  "auxiliary_representation_variables": 4,
+  "auxiliary_domain_size": 8,
+  "original_3_way_potential": "2 for even parity, 1 for odd parity",
+  "partition_function": 12,
+  "augmented_factors": "one unary auxiliary weight and three pairwise deterministic equality constraints",
+  "identical_original_joint_probabilities": true,
+  "matching_original_variable_evidence_conditions": 27,
+  "entropy_original_bits": 2.9182958340544896,
+  "entropy_augmented_joint_bits": 2.9182958340544896,
+  "naive_one_subject_per_graph_variable_original": 3,
+  "naive_one_subject_per_graph_variable_augmented": 4,
+  "limitations": "conditioning is not intervention; auxiliary is an abstract encoding, not an added physical component; no model describes phenomenal facts."
+}

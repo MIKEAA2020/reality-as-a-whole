@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "16f3d04b1169436edcfa19b8681af15b5e98090c",
-  "file_count": 1226,
+  "base_head": "e4e1157d43205368b6c85eca132536f4694df89d",
+  "file_count": 1229,
   "files": [
     {
       "path": ".gitattributes",
@@ -57,6 +57,11 @@
       "path": "AUTONOMOUS_STOP_CLOCK.md",
       "bytes": 16364,
       "sha256": "d90136961074700c595b5be5c2e8a3ce704fd42d3d378e5aa77cf70829819cc4"
+    },
+    {
+      "path": "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
+      "bytes": 6114,
+      "sha256": "8acd44f59e64e5c922a076e5c94a1c6e14384747653556a9872ab622cfb69f36"
     },
     {
       "path": "AXIARCHIC_BRIDGE_AUDIT.md",
@@ -280,8 +285,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 25019,
-      "sha256": "c73f1bc5cb72b26b11e596eff7994be06a6eb7c9bcff9162aa90e4ad0d80ac70"
+      "bytes": 25509,
+      "sha256": "5ec5525de7809f31bb8189a5c7bb8c0fe78a82f08d0c770d16b54807cb233255"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -325,8 +330,8 @@
     },
     {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
-      "bytes": 12670,
-      "sha256": "d609818af4dabab3e05f61dd2d4241356c1f30efc0741158db9809b47d092aeb"
+      "bytes": 12497,
+      "sha256": "cd42ad0985c6f2aa25c437780a32ce1749448afcfea4c46e514ade84e2fc1605"
     },
     {
       "path": "ENERGY_CONDITIONS_BOUNCE.md",
@@ -485,8 +490,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 87903,
-      "sha256": "e0cdfa87f484cc9856331ea05e80e7b13fc3fc24d155e5ae9730f3ffc0405497"
+      "bytes": 88180,
+      "sha256": "095014c663eb0fdc6bc04a115003473979cea66b82ce2827c8d76d8bb20e2f0f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -550,8 +555,8 @@
     },
     {
       "path": "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
-      "bytes": 7737,
-      "sha256": "9cdcdc8eee35ecb936c6b8c95f1e4dceb2b82b034678a22f1f5ba6db2d389081"
+      "bytes": 7719,
+      "sha256": "71ff62d80df493b415949daf6ed669f93ff3ff632e5cebb33ade3b188770e067"
     },
     {
       "path": "GRAVITATING_PROPER_TIME_CLOCK.md",
@@ -1110,8 +1115,8 @@
     },
     {
       "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
-      "bytes": 7081,
-      "sha256": "5a531d0d98b6b81f314d04213736f09972006ec0b89f6db6920f3d5d341a40ef"
+      "bytes": 7136,
+      "sha256": "c5c4a321a332b3e7a16dd430a2bf10b9b3c81fd772092eac967cc31b6f925971"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -3219,6 +3224,16 @@
       "sha256": "7cdbac7befdd2c578899626e6166cae272b38195db91e8f611bc7d617ec306e7"
     },
     {
+      "path": "verification/auxiliary_representation_subject_gate.json",
+      "bytes": 1071,
+      "sha256": "0aca2a4ae5f4f28a56e35061dce1043fbd9ac488364e3dbae2e551c77bb8817f"
+    },
+    {
+      "path": "verification/auxiliary_representation_subject_gate.py",
+      "bytes": 3241,
+      "sha256": "0bd6d69f3546e81f9f8a585fa56e290fb4b78e686f83f63c83e1820473c0cd8a"
+    },
+    {
       "path": "verification/bekir_split_brain_public_data_audit.json",
       "bytes": 2083,
       "sha256": "a73c12a2be3b4d08a7140180f544b0a8fdde9a6ba9199078e1aa646f53d64992"
@@ -4580,8 +4595,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 478175,
-      "sha256": "b009aa0c0c1bd01a1820821de0229ad7ad74ff23570e029c31e711d8b91d860e"
+      "bytes": 479323,
+      "sha256": "fb0d465f6bcac8ed32fbea25f8925888a270fb45901787a190131468e9c9c538"
     },
     {
       "path": "verification/project_inventory.py",

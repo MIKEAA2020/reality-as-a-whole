@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 335 root Markdown documents including this register; 43 research Markdown documents.
-- 38 original uploaded files, including provenance metadata; 280 verification Python scripts.
+- 336 root Markdown documents including this register; 43 research Markdown documents.
+- 38 original uploaded files, including provenance metadata; 281 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -22,6 +22,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AUTONOMOUS_RECORD_INSTRUMENT.md](AUTONOMOUS_RECORD_INSTRUMENT.md) — Autonomous finite-time detector–memory registration
 - [AUTONOMOUS_RECORD_TAPE.md](AUTONOMOUS_RECORD_TAPE.md) — One physical clock, a finite noisy record tape
 - [AUTONOMOUS_STOP_CLOCK.md](AUTONOMOUS_STOP_CLOCK.md) — An autonomous stopped-clock event instrument
+- [AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md](AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md) — Experiential ground and the choice of relational description
 - [AXIARCHIC_BRIDGE_AUDIT.md](AXIARCHIC_BRIDGE_AUDIT.md) — The axiarchic bridge: granting a unique Good still does not derive actuality
 - [AXIARCHIC_CONSTITUTION_CANDIDATE.md](AXIARCHIC_CONSTITUTION_CANDIDATE.md) — From goodness of being to axiarchic constitution
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
@@ -448,6 +449,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/autonomous_record.py](verification/autonomous_record.py)
 - [verification/autonomous_record_tape.py](verification/autonomous_record_tape.py)
 - [verification/autonomous_stop_clock.py](verification/autonomous_stop_clock.py)
+- [verification/auxiliary_representation_subject_gate.py](verification/auxiliary_representation_subject_gate.py)
 - [verification/bekir_split_brain_public_data_audit.py](verification/bekir_split_brain_public_data_audit.py)
 - [verification/boundary_cut_workspace.py](verification/boundary_cut_workspace.py)
 - [verification/bowling_pairwise_transfer_audit.py](verification/bowling_pairwise_transfer_audit.py)
