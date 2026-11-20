@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "finite_horizons_checked_inclusive": [
+    0,
+    30
+  ],
+  "prefix_count_checks": 496,
+  "single_outcome_probability_under_each_law": "1/2",
+  "q_conditional_next_one_given_one": "5/8",
+  "p_vs_q_pair_agreement": [
+    "1/2",
+    "5/8"
+  ],
+  "bounded_global_density_first_pair_agreement": "5/8",
+  "bounded_global_density_second_pair_agreement": "1/2",
+  "bounded_density_range": [
+    "3/4",
+    "5/4"
+  ],
+  "likelihood_ratio_second_moment_n_10": "4912337/1048576",
+  "pair_test_hoeffding_pairs": 473,
+  "pair_test_individual_trials": 946,
+  "scope": "finite rational prefix, consistency, martingale and block checks; infinite limits proved analytically, no empirical or experiential claims"
+}

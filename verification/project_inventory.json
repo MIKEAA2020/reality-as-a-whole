@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 389,
-  "bytes": 5150860,
-  "line_count": 53190,
-  "document_count_with_risk_phrases": 363,
+  "document_count": 390,
+  "bytes": 5165501,
+  "line_count": 53331,
+  "document_count_with_risk_phrases": 364,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2057,8 +2057,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "26e2ba7414bc49f51710123819291a3aeb26bd3744372c197ef4897edc8dbd09",
-      "bytes": 28926,
+      "sha256": "d629773e62a1433a103b2b524394890095313c4e721b133dc28d92289bf1a0d9",
+      "bytes": 29241,
       "lines": 235,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2087,6 +2087,7 @@
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
+        "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -3350,9 +3351,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9930a24394c8740928c791e73c7de1cee2e996724bb4cacd0d4ce99f3c82481c",
-      "bytes": 91433,
-      "lines": 755,
+      "sha256": "66675a2d5070679696a7fe0202bcf58ab77b6292e7a4705f5dee65da3d50d3e3",
+      "bytes": 91715,
+      "lines": 757,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3485,6 +3486,7 @@
         "HAWKING_PAGE_CURVE.md",
         "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
         "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+        "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
         "INCOMING_CONSTRAINT_PREPARATION.md",
         "INFINITE_COHERENCE_CONSTRUCTION.md",
         "INFINITE_RELATIONAL_CLOCK.md",
@@ -3879,6 +3881,7 @@
         "verification/hawking_backreaction_bound.py",
         "verification/hemispherotomy_spectral_translation_gate.py",
         "verification/higher_order_subject_selector_gate.py",
+        "verification/history_weight_martingale_gate.py",
         "verification/hubble_data_inventory.py",
         "verification/hubble_heldout.py",
         "verification/hubble_phase_identifiability.py",
@@ -4098,17 +4101,17 @@
         40,
         49,
         99,
-        166,
-        204,
-        222,
-        266,
-        337,
-        350,
-        386,
-        395,
-        398,
-        401,
-        450
+        167,
+        205,
+        223,
+        267,
+        338,
+        351,
+        387,
+        396,
+        399,
+        402,
+        451
       ]
     },
     {
@@ -4795,6 +4798,38 @@
         86,
         88,
         104
+      ]
+    },
+    {
+      "path": "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
+      "sha256": "9707d68a18408c6ceca5c8d1b61bbc6fdf095edcf6542a9a58d2e1e1a485b995",
+      "bytes": 14044,
+      "lines": 139,
+      "title": "History weights: local checks, consistency and the infinite limit",
+      "headings": [
+        "History weights: local checks, consistency and the infinite limit",
+        "Result",
+        "1. What is being compared",
+        "2. Single records hide a measurable joint difference",
+        "3. Finite-horizon weights can be consistent without one global density",
+        "4. Why no single integrable P-density can represent this Q",
+        "5. Implications for the research programme",
+        "Sources and reading scope"
+      ],
+      "local_links": [
+        "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
+        "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
+        "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md",
+        "verification/history_weight_martingale_gate.py",
+        "verification/history_weight_martingale_gate.json"
+      ],
+      "risk_phrase_lines": [
+        13,
+        55,
+        69,
+        78,
+        125,
+        139
       ]
     },
     {

@@ -19,6 +19,7 @@ TESTS = [
     ('causal_subject_candidate', 'verification/causal_influence_subject_gate.py'),
     ('subject_identity_and_representation', 'verification/subject_cohesion_identity_redescription.py'),
     ('subject_weight_no_signalling', 'verification/no_signalling_subject_measure_gate.py'),
+    ('history_weight_consistency', 'verification/history_weight_martingale_gate.py'),
     ('quantum_friend', 'verification/subject_friend_quantum_extensions.py'),
     ('friend_history', 'verification/friend_history_selector_gate.py'),
     ('friend_record_tradeoff', 'verification/reversible_friend_record_tradeoff.py'),
