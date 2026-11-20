@@ -68,7 +68,11 @@ Do not start another standalone graph gate or add another regression merely beca
 
 These are a dependency-guided program, not an assertion that B4 must be solved before B1, or that the full account will be completed in a fixed number of turns. The immediate task is to focus on the integrated candidate's **subject/quality constitution and its comparison on a common domain**, using the existing worked sector and known failures rather than generating a new independent toy. The goal is to find a real bridge or demonstrate precisely why the currently proposed bridge fails—not to force a favorable verdict.
 
-## 4. What would change a verdict?
+## 4. Real-recording feasibility update
+
+The [music-appraisal EEG screen](MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md) adds four verified participant recordings and their own, source-aligned song preference categories to the evidence, with fixed exploratory alpha-dispersion and spectral controls. The reports were assigned before listening, so this is not the needed same-trial felt-valence observation; reference sensitivity and a stronger descriptive beta control also limit any interpretation. It does not identify physical frustration or an experiential bridge. B4–B5 and B10 remain open. See the linked report for exact results, source access and reuse limitations.
+
+## 5. What would change a verdict?
 
 A substantive gate changes only when the candidate supplies the demanded claim, a valid argument or controlled evidence for its premises, explicit treatment of alternatives, and a result within the gate's scope. A purely formal coherence witness can establish consistency of that witness under its axioms; it cannot validate the axioms, establish genuine metaphysical possibility, detect an experience, identify a subject in nature or recover unmodeled physics. A failure can be genuine progress if it rules out a well-defined candidate, but it must be distinguished from a positive solution.
 

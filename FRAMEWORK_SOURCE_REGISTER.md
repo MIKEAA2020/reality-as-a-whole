@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 401 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 332 verification Python scripts.
+- 403 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 334 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -192,6 +192,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
 - [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
+- [MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md](MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md) — Fixed plan: bounded EEG–preference feasibility screen
+- [MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md](MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md) — Actual music-listening EEG and the remaining report gap
 - [MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md](MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md) — Does musical structure help explain quantum physics and experience?
 - [MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md](MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md) — Music, quantum structure and a sharper relational test
 - [NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) — Nanoparticle interference and the limits of collapse-model transfer
@@ -660,6 +662,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/modular_clock.py](verification/modular_clock.py)
 - [verification/modular_local_net.py](verification/modular_local_net.py)
 - [verification/multi_clock.py](verification/multi_clock.py)
+- [verification/music_appraisal_feasibility.py](verification/music_appraisal_feasibility.py)
+- [verification/music_appraisal_feasibility_test.py](verification/music_appraisal_feasibility_test.py)
 - [verification/music_quantum_units_audit.py](verification/music_quantum_units_audit.py)
 - [verification/nanoparticle_collapse_scope.py](verification/nanoparticle_collapse_scope.py)
 - [verification/necessary_existence_closed.py](verification/necessary_existence_closed.py)

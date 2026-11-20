@@ -1,0 +1,293 @@
+{
+  "source_commit": "26f32cb4f087326a52fbf2e0b38e00630222be63",
+  "numpy": "2.4.3",
+  "scipy": "1.17.1",
+  "h5py": "3.15.1",
+  "features": [
+    "alpha_phase_dispersion",
+    "alpha_log_power_F4_minus_F3",
+    "mean_log_beta_power"
+  ],
+  "subjects": {
+    "01": {
+      "git_blob": "f10793470ec456c855e9515de8529ee0523faf7e",
+      "sha256": "e085d28dbabb4357e9fb6b6305a4c26b75fe89284f2fa6a8b4d2c0807c0ac267",
+      "bytes": 34381684,
+      "shape_hdf5": [
+        10240,
+        14,
+        30
+      ],
+      "fs": 128.0,
+      "sensor_labels": [
+        "af3",
+        "f7",
+        "f3",
+        "fc5",
+        "t7",
+        "p7",
+        "o1",
+        "o2",
+        "p8",
+        "t8",
+        "fc6",
+        "f4",
+        "f8",
+        "af4"
+      ],
+      "rating_counts": {
+        "1": 10,
+        "3": 10,
+        "5": 10
+      },
+      "results": {
+        "common_average": [
+          {
+            "high_minus_low": 0.03146215940664887,
+            "spearman": 0.33016664144560476
+          },
+          {
+            "high_minus_low": 0.0423100615813886,
+            "spearman": 0.16508332072280238
+          },
+          {
+            "high_minus_low": 0.048685482782108824,
+            "spearman": 0.37261663820289675
+          }
+        ],
+        "native": [
+          {
+            "high_minus_low": 0.023797745578637952,
+            "spearman": 0.15093332180370503
+          },
+          {
+            "high_minus_low": 0.011174884905223914,
+            "spearman": 0.04244999675729204
+          },
+          {
+            "high_minus_low": 0.04096129080281141,
+            "spearman": 0.2075333174800944
+          }
+        ]
+      }
+    },
+    "02": {
+      "git_blob": "b96f6405c85a05442eaabeb3a5c57490562dcd71",
+      "sha256": "b3d8940606a6db601a8f7a88ad96ff6a81cd30b5b94f2faf6245f707bd81ef95",
+      "bytes": 34406208,
+      "shape_hdf5": [
+        10240,
+        14,
+        30
+      ],
+      "fs": 128.0,
+      "sensor_labels": [
+        "af3",
+        "f7",
+        "f3",
+        "fc5",
+        "t7",
+        "p7",
+        "o1",
+        "o2",
+        "p8",
+        "t8",
+        "fc6",
+        "f4",
+        "f8",
+        "af4"
+      ],
+      "rating_counts": {
+        "1": 10,
+        "3": 10,
+        "5": 10
+      },
+      "results": {
+        "common_average": [
+          {
+            "high_minus_low": -5.308939986681249e-05,
+            "spearman": 0.028299997838194695
+          },
+          {
+            "high_minus_low": 0.2666633729488725,
+            "spearman": 0.14149998919097345
+          },
+          {
+            "high_minus_low": 0.17533357802228633,
+            "spearman": 0.14621665549733925
+          }
+        ],
+        "native": [
+          {
+            "high_minus_low": 0.025188203504241724,
+            "spearman": 0.16508332072280238
+          },
+          {
+            "high_minus_low": 0.15412852084950662,
+            "spearman": 0.08018332720821829
+          },
+          {
+            "high_minus_low": 0.148029075426112,
+            "spearman": 0.2311166490119233
+          }
+        ]
+      }
+    },
+    "03": {
+      "git_blob": "526fba303e56f14be835e0a0385e97a133437c90",
+      "sha256": "d75e07a5ea48d2089bb7881687217f084bbc021233163342cac3d560405247f4",
+      "bytes": 34391694,
+      "shape_hdf5": [
+        10240,
+        14,
+        30
+      ],
+      "fs": 128.0,
+      "sensor_labels": [
+        "af3",
+        "f7",
+        "f3",
+        "fc5",
+        "t7",
+        "p7",
+        "o1",
+        "o2",
+        "p8",
+        "t8",
+        "fc6",
+        "f4",
+        "f8",
+        "af4"
+      ],
+      "rating_counts": {
+        "1": 10,
+        "3": 10,
+        "5": 10
+      },
+      "results": {
+        "common_average": [
+          {
+            "high_minus_low": 0.0009647924022753163,
+            "spearman": -0.028299997838194695
+          },
+          {
+            "high_minus_low": -0.007896472817777472,
+            "spearman": -0.01886666522546313
+          },
+          {
+            "high_minus_low": 0.07138924783962697,
+            "spearman": 0.2122499837864602
+          }
+        ],
+        "native": [
+          {
+            "high_minus_low": 0.020711945929467124,
+            "spearman": 0.37261663820289675
+          },
+          {
+            "high_minus_low": -0.011273152243159768,
+            "spearman": -0.033016664144560476
+          },
+          {
+            "high_minus_low": 0.05760971732224096,
+            "spearman": 0.23583331531828905
+          }
+        ]
+      }
+    },
+    "04": {
+      "git_blob": "5c22299ae7db3247f91c3c6afa18f798ebe19ad1",
+      "sha256": "4ce83535e6fa749e952dcbec9140c1c667ab9b19e631b962643939d8ad9550f6",
+      "bytes": 34333001,
+      "shape_hdf5": [
+        10240,
+        14,
+        30
+      ],
+      "fs": 128.0,
+      "sensor_labels": [
+        "af3",
+        "f7",
+        "f3",
+        "fc5",
+        "t7",
+        "p7",
+        "o1",
+        "o2",
+        "p8",
+        "t8",
+        "fc6",
+        "f4",
+        "f8",
+        "af4"
+      ],
+      "rating_counts": {
+        "1": 10,
+        "3": 10,
+        "5": 10
+      },
+      "results": {
+        "common_average": [
+          {
+            "high_minus_low": -0.007304887414723793,
+            "spearman": -0.08961665982094986
+          },
+          {
+            "high_minus_low": 0.037888529912843916,
+            "spearman": 0.11319999135277878
+          },
+          {
+            "high_minus_low": 0.09771107941552293,
+            "spearman": 0.2924333109946785
+          }
+        ],
+        "native": [
+          {
+            "high_minus_low": -0.02201813461226404,
+            "spearman": -0.259416646850118
+          },
+          {
+            "high_minus_low": 0.046058357657025734,
+            "spearman": 0.14149998919097345
+          },
+          {
+            "high_minus_low": 0.13559807382666023,
+            "spearman": 0.3112999762201416
+          }
+        ]
+      }
+    }
+  },
+  "unweighted_subject_means": {
+    "common_average": {
+      "alpha_phase_dispersion": {
+        "high_minus_low": 0.006267243748583395,
+        "spearman": 0.06013749540616373
+      },
+      "alpha_log_power_F4_minus_F3": {
+        "high_minus_low": 0.0847413729063319,
+        "spearman": 0.10022915901027285
+      },
+      "mean_log_beta_power": {
+        "high_minus_low": 0.09827984701488626,
+        "spearman": 0.25587914712034365
+      }
+    },
+    "native": {
+      "alpha_phase_dispersion": {
+        "high_minus_low": 0.01191994010002069,
+        "spearman": 0.10730415846982155
+      },
+      "alpha_log_power_F4_minus_F3": {
+        "high_minus_low": 0.050022152792149124,
+        "spearman": 0.057779162252980826
+      },
+      "mean_log_beta_power": {
+        "high_minus_low": 0.09554953934445615,
+        "spearman": 0.2464458145076121
+      }
+    }
+  },
+  "category_balanced_constant_3_mae": 1.3333333333333333,
+  "category_balanced_constant_3_rmse": 1.632993161855452
+}

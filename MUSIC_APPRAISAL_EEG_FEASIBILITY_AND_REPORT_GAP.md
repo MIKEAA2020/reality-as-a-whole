@@ -1,0 +1,47 @@
+# Actual music-listening EEG and the remaining report gap
+
+## Result in brief
+
+A bounded four-person screen has now examined **real neural recordings paired by the data provider with the same listeners' own song-preference categories**. This is a substantive step beyond a synthetic or metadata-only gate, but it is **not** a test of physical frustration or contemporaneously felt valence. The categories were assigned when the participants assembled their playlists, before the recorded listening. They say how the participants had categorized the songs, not what they experienced during each 80-second recording.
+
+For a pre-specified descriptive alpha-phase dispersion statistic, the high-minus-low preference contrast under common-average reference was `+0.03146, −0.00005, +0.00096, −0.00730` for participants 01–04, respectively. The corresponding average within-person Spearman correlation was `+0.0601`. The sign of the contrast was not consistent across people. Under the native file reference, the within-person mean correlation was `+0.1073`, and participant 02's contrast changed sign. These outcomes neither confirm nor refute a model of intrinsic experience: this statistic is **not an identified interaction-preference mismatch or a frustration measurement**.
+
+## Dataset and analysis
+
+[Music-EEG, pinned repository](https://github.com/AdamosDA/Music-EEG/tree/26f32cb4f087326a52fbf2e0b38e00630222be63) documents 20 participants, personalized randomized playlists, 14-channel Emotiv recordings, per-trial artifact processing, 80-second song trials, and `song_ratings` aligned with `EEG_Songs` by song index. Ten songs in each preference category 1, 3 and 5 were chosen in advance. The repository does not declare a license, so raw signals and individual trial tables are not redistributed here. Its README and demo were read, but recording logs, provenance of artifact removal, original audio, actual presentation order and any experimental forms were not independently checked. The data producer's alignment contract is not independently established by an array-shape check.
+
+Before opening signal samples or ratings, we wrote [the fixed exploratory plan](MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md). Only a structural format preview of subject 01 was needed to add its documented HDF5 dimension order and normalize space-padded/lowercase sensor labels; the planned features and endpoints were not changed. Files 01–04 were fetched sequentially, verified against the pinned Git blob IDs, analyzed, and deleted locally; total downloads were 137,512,587 bytes. All four had HDF5 shape `(10240,14,30)`, 128 Hz, finite EEG, the required labeled channels and exactly ten ratings of each category. SHA-256s and subject-specific summaries are recorded in [the machine-readable receipt](verification/music_appraisal_feasibility.json). The repository code reads HDF5 without executing serialized Python objects; no unverified downloaded code was executed.
+
+We computed one value per song for each prespecified feature. The alpha statistic is `1 − mean(window PLV)`, using the three frontal pairs F3–F4, F7–F8, AF3–AF4, fourteen five-second windows after dropping five seconds at each end, and an 8–13 Hz phase estimate. Alpha F4/F3 log-power difference and mean log beta power over the six pair channels are simple non-relational controls. All three were repeated with and without common-average re-referencing. Details and caveats are in the plan and [implementation](verification/music_appraisal_feasibility.py).
+
+## Per-person contrasts and correlations
+
+Each cell is `high − low; Spearman ρ` using 30 songs, computed *within* participant. There are only four participants and no inferential p-values; they are not representative of a population, and songs/windows are not independent people. All contrasts below are in the natural units of the corresponding statistic.
+
+| Person | Common-reference alpha dispersion | Common-reference F4/F3 alpha log power | Common-reference mean log beta | Native-reference alpha dispersion |
+|---|---:|---:|---:|---:|
+| 01 | +0.03146; +0.3302 | +0.04231; +0.1651 | +0.04869; +0.3726 | +0.02380; +0.1509 |
+| 02 | −0.00005; +0.0283 | +0.26666; +0.1415 | +0.17533; +0.1462 | +0.02519; +0.1651 |
+| 03 | +0.00096; −0.0283 | −0.00790; −0.0189 | +0.07139; +0.2122 | +0.02071; +0.3726 |
+| 04 | −0.00730; −0.0896 | +0.03789; +0.1132 | +0.09771; +0.2924 | −0.02202; −0.2594 |
+| Unweighted mean | +0.00627; +0.0601 | +0.08474; +0.1002 | +0.09828; +0.2559 | +0.01192; +0.1073 |
+
+The beta control has positive correlations and contrasts in all four, and in this small sample a larger average correlation than the alpha dispersion statistic. That is a useful warning against privileging the latter merely because it is relational: it does **not** establish that beta is a superior general predictor, nor an independently significant effect, nor that alpha has no effect. Other reference results are in the receipt. Neither mean correlations nor feature contrasts are cross-validated prediction scores. The balanced-category constant-3 reference is MAE `4/3` and RMSE `sqrt(8/3)` on these complete sets; it is a property of the chosen category counts, not an out-of-sample neural-model benchmark.
+
+PLV is sensitive to field spread, reference, low-amplitude phase instability and preprocessing, among other influences; the average phase concentration does not reveal an edge's preferred offset, its mechanism, or its minimum frustration. Confounds include song content, familiarity, prior selection, movement and sensor quality. A category is not a continuous feeling measure, and favorite music may produce complex or negative emotions. No causal intervention or independent recovery of physical couplings is available. The contrast is observational and does not resolve any experiential-identity relation.
+
+## Comparison with what is already known
+
+The original [Bakas, Adamos and Laskaris, *On the estimate of music appraisal from surface EEG: a dynamic-network approach based on cross-sensor PAC measurements*](https://doi.org/10.1088/1741-2552/abffe6) reports in its abstract MAE `0.948` and R² `0.63`, with a dynamic cross-frequency connectivity/graph-centrality SVM. We did not reproduce that method, its evaluation, or its score; the abstract alone does not give sufficient detail to assess leakage or calculate a directly comparable baseline. We read the publisher's abstract and bibliographic information, **not the full paper, figures, supplementary material, data provenance logs or trained models**. The publisher page was accessible but the full article text was not supplied in the extracted page; we do not assert it is inaccessible in every context. The authors' repository README and demo were inspected, but not all source files.
+
+The separate illustrative repository demo computes RELIEFF feature scores using all 30 subject trials before five-fold SVM validation. Thus its reported CV loss does not include cross-validation of feature selection and can be optimistic for a selection-and-prediction pipeline; the amount of bias is not measured, and this observation does **not** establish a flaw in the paper's different PAC pipeline. The demo also labels `sqrt(MSE)` as MAE; it is RMSE (with its own CV scoring), not mean absolute error. It was read, not run.
+
+The [Daly music EEG study](https://doi.org/10.1038/s41597-020-0507-6) is a better match to post-clip reported affect, but our prior event audit left label timing and decoding uncertain and did not read EEG. Music-EEG gives an explicitly described array pairing but a weaker experiential endpoint. Neither should be presented as the missing same-trial felt-valence bridge. A useful next experiment would record both pre-listening preference and immediate post-clip felt pleasantness separately, disclose audio and markers with appropriate rights, estimate independently defined interaction preferences under perturbation, and evaluate the fixed candidate against stimulus, context and spectral controls on held-out people and songs. Whether such an experiment is feasible is not established here.
+
+## Battery consequence
+
+B4–B5 and B10 remain open. Treating first-person experience as a valid datum does not permit inferring its identity or ownership from an EEG feature or prediction score. C3 remains **full structural and experiential intelligibility**, jointly with C1–C7; none of the other requirements has been relaxed. This study is an observational constraint and feasibility result, not a demonstration of full intelligibility or a solution of the physics problem.
+
+## Reproducibility
+
+The fixed plan is not externally time-stamped or preregistered. Analysis was run with Python dependencies NumPy `2.4.3`, SciPy `1.17.1`, h5py `3.15.1`; five targeted tests passed, including PLV, reference sensitivity and schema failures. To rerun, install those packages, have `gh` access the pinned public blobs, and run `PYTHONPATH=verification python verification/music_appraisal_feasibility.py` from the repository root. It downloads only the four pinned blobs, validates before feature calculation, stops on failure, and deletes each successful file. An interrupted/failed run can leave a partial file in ignored `.arena/adamos`; remove that partial file before retrying. No participant-level recordings are committed. Finite implementation tests do not replace an independent pipeline audit.

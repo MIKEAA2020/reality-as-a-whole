@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 444,
-  "bytes": 5877502,
-  "line_count": 57386,
-  "document_count_with_risk_phrases": 416,
+  "document_count": 446,
+  "bytes": 5894568,
+  "line_count": 57468,
+  "document_count_with_risk_phrases": 418,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3750,9 +3750,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "31cc630fc9b78bbab92b9c339dff7dea30a7cf07f490ac9e843676116c681837",
-      "bytes": 17705,
-      "lines": 75,
+      "sha256": "33a4717ca2f37b9582ebc4215210effd68bc9a73141af716d7c6262896570e86",
+      "bytes": 18386,
+      "lines": 79,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3760,7 +3760,8 @@
         "1. Which battery?",
         "2. Gate-level status",
         "3. Stop condition for incremental detours",
-        "4. What would change a verdict?"
+        "4. Real-recording feasibility update",
+        "5. What would change a verdict?"
       ],
       "local_links": [
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
@@ -3782,7 +3783,8 @@
         "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -3790,7 +3792,8 @@
         25,
         35,
         52,
-        69
+        69,
+        73
       ]
     },
     {
@@ -3896,9 +3899,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "18f8e71a82602bf883a4b21031d02d90a4e159637324b18a1f0eab3f0decfd5b",
-      "bytes": 106497,
-      "lines": 861,
+      "sha256": "f266e6d9023855bf8e90eb26b68fba0642ad826ee3665cd33e1c2a41ccee94c0",
+      "bytes": 107007,
+      "lines": 865,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4092,6 +4095,8 @@
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
         "MULTI_CLOCK_CONSTRAINT_CLOSURE.md",
+        "MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md",
+        "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
@@ -4546,6 +4551,8 @@
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
         "verification/multi_clock.py",
+        "verification/music_appraisal_feasibility.py",
+        "verification/music_appraisal_feasibility_test.py",
         "verification/music_quantum_units_audit.py",
         "verification/nanoparticle_collapse_scope.py",
         "verification/necessary_existence_closed.py",
@@ -4750,17 +4757,17 @@
         47,
         56,
         118,
-        199,
-        245,
-        267,
-        314,
-        390,
-        405,
-        441,
-        450,
-        453,
-        456,
-        515
+        201,
+        247,
+        269,
+        316,
+        392,
+        407,
+        443,
+        452,
+        455,
+        458,
+        517
       ]
     },
     {
@@ -6818,6 +6825,50 @@
         114,
         144,
         146
+      ]
+    },
+    {
+      "path": "MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md",
+      "sha256": "82a1c0abc8b6e9001e967ab40b4fd1d914aed5736fcc891f775c394a825689a4",
+      "bytes": 6432,
+      "lines": 27,
+      "title": "Fixed plan: bounded EEG–preference feasibility screen",
+      "headings": [
+        "Fixed plan: bounded EEG–preference feasibility screen",
+        "Purpose and known limitations",
+        "Bounded access and inclusion",
+        "Fixed descriptive neural features",
+        "Estimand and no overclaim"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        11,
+        25
+      ]
+    },
+    {
+      "path": "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
+      "sha256": "9dcb1df3b41d56f7ca9286508fef6229b8b67905eca60e0e89de958b2ff11638",
+      "bytes": 9443,
+      "lines": 47,
+      "title": "Actual music-listening EEG and the remaining report gap",
+      "headings": [
+        "Actual music-listening EEG and the remaining report gap",
+        "Result in brief",
+        "Dataset and analysis",
+        "Per-person contrasts and correlations",
+        "Comparison with what is already known",
+        "Battery consequence",
+        "Reproducibility"
+      ],
+      "local_links": [
+        "MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md",
+        "verification/music_appraisal_feasibility.json",
+        "verification/music_appraisal_feasibility.py"
+      ],
+      "risk_phrase_lines": [
+        13
       ]
     },
     {
