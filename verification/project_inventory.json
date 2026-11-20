@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 424,
-  "bytes": 5655319,
-  "line_count": 56160,
-  "document_count_with_risk_phrases": 396,
+  "document_count": 425,
+  "bytes": 5670118,
+  "line_count": 56228,
+  "document_count_with_risk_phrases": 397,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -215,8 +215,8 @@
     },
     {
       "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
-      "sha256": "e99fe7c610653f19dbfcee15405558bc12c087f15fd633b5b19fd08abf19bc54",
-      "bytes": 13680,
+      "sha256": "9717b70237fccd8513098fc5b412cde51100b38dffeae65988f6efaa116e7ddc",
+      "bytes": 13941,
       "lines": 73,
       "title": "Discriminating mismatch from affect-prediction error",
       "headings": [
@@ -232,6 +232,7 @@
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
         "verification/affect_choice_heldout.py",
         "verification/affect_choice_heldout.json",
+        "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "verification/requirements-affective-choice.txt",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
@@ -3564,8 +3565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "2e68aced3f59bf612d67e58758137af220daa8fe05eebaf1fd6c242daa50908b",
-      "bytes": 11552,
+      "sha256": "78f3c14339c03c37902b171d725d886238655c2f96d5be9ccbbd8e33ee261138",
+      "bytes": 11828,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3581,6 +3582,7 @@
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+        "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -6753,6 +6755,38 @@
         41,
         60,
         119
+      ]
+    },
+    {
+      "path": "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
+      "sha256": "6647c8e51e323f9176816f70eb705db2505fb4c7741e3082bfe76c74c93e6d53",
+      "bytes": 14262,
+      "lines": 68,
+      "title": "Wave-function realism, relational structure and plural experience",
+      "headings": [
+        "Wave-function realism, relational structure and plural experience",
+        "What the supplied paper establishes",
+        "The three arguments and Ney's assessment",
+        "An exact qualification of the paper's two-state illustration",
+        "Stronger control: even all one-subsystem states and the joint position statistics can agree",
+        "Consequences for the proposed framework",
+        "Next decisive bridge",
+        "Other literature and reading limits"
+      ],
+      "local_links": [
+        "sources/uploads/Three-arguments-for-wave-function-realism.pdf",
+        "verification/ney_relational_correlations_gate.py",
+        "STRING_DUALITY_SUBJECT_SELECTION.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        12,
+        17,
+        40,
+        48,
+        52,
+        66
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d677d05e1aa2d385d6d4f506162901463045cbe5",
-  "file_count": 1354,
+  "base_head": "07e7287cdbefbe6512bd8cdd9a961161b17f205c",
+  "file_count": 1358,
   "files": [
     {
       "path": ".gitattributes",
@@ -40,8 +40,8 @@
     },
     {
       "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
-      "bytes": 13680,
-      "sha256": "e99fe7c610653f19dbfcee15405558bc12c087f15fd633b5b19fd08abf19bc54"
+      "bytes": 13941,
+      "sha256": "9717b70237fccd8513098fc5b412cde51100b38dffeae65988f6efaa116e7ddc"
     },
     {
       "path": "ARTICULATED_SELF_PRESENCE.md",
@@ -535,8 +535,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 11552,
-      "sha256": "2e68aced3f59bf612d67e58758137af220daa8fe05eebaf1fd6c242daa50908b"
+      "bytes": 11828,
+      "sha256": "78f3c14339c03c37902b171d725d886238655c2f96d5be9ccbbd8e33ee261138"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -560,8 +560,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 100870,
-      "sha256": "5658b0f91316bb12953a5d0842aa9123e45a01fe84f591937b891a9e3c4fd2cb"
+      "bytes": 101299,
+      "sha256": "c0d4a7cc2af39384d874bb31261294850de8cfafd3482f57bf42a192770ceef4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -897,6 +897,11 @@
       "path": "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
       "bytes": 12396,
       "sha256": "13515745fbdacf5d4888c99d3b8a262274b7d4baed0ecc2b7821646f7322cee8"
+    },
+    {
+      "path": "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
+      "bytes": 14262,
+      "sha256": "6647c8e51e323f9176816f70eb705db2505fb4c7741e3082bfe76c74c93e6d53"
     },
     {
       "path": "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
@@ -3304,6 +3309,11 @@
       "sha256": "17765ae9ef11f2594280c4fffc3a230818dfdb461e8a196acde5aaa56d6980f4"
     },
     {
+      "path": "sources/uploads/Three-arguments-for-wave-function-realism.pdf",
+      "bytes": 630916,
+      "sha256": "d1d6f810abe30650487c4f59ac7dd2df1a061bb3678cfc7b3463b5e3b9e9761a"
+    },
+    {
       "path": "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
       "bytes": 971075,
       "sha256": "a53792b9c2f867e242249abe34c38753ee2492f08e0f801f54f9a807b832ce99"
@@ -4774,6 +4784,16 @@
       "sha256": "ca213d97dd2741287dab206b83d16c68af8787bbb191cb4de46480fba0cff085"
     },
     {
+      "path": "verification/ney_relational_correlations_gate.json",
+      "bytes": 1697,
+      "sha256": "a6da8fa58b3bf93d1f5cf75ac8523bebc170144241fe983269b65bf6e4419e7d"
+    },
+    {
+      "path": "verification/ney_relational_correlations_gate.py",
+      "bytes": 3175,
+      "sha256": "321db811c13ab8e256b9f93d9e40d0cefdfbaaec8293c7f300267ec0e96c59a9"
+    },
+    {
       "path": "verification/no_signalling_subject_measure_gate.json",
       "bytes": 670,
       "sha256": "18df13b7a29a08df63f4ca12d053a071d74fdac0e52993f76e1e9e1d61312e19"
@@ -5105,8 +5125,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 537080,
-      "sha256": "60b449d8e9330af1f2ac499e78f26b6f2ab3ebb4060a35ad6a9ac50a99351aed"
+      "bytes": 538478,
+      "sha256": "1c8f5f147bd9da3f5cd8193c08d1ca819f976b3d661660142be727683912cdb2"
     },
     {
       "path": "verification/project_inventory.py",

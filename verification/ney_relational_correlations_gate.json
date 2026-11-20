@@ -1,0 +1,101 @@
+{
+  "scope": "Exact arithmetic in two idealized two-level subsystems; no phenomenal or QFT inference.",
+  "states": {
+    "ney_written_plus": {
+      "position_joint_probabilities_00_01_10_11": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "marginal_A": [
+        [
+          "1/2",
+          "0"
+        ],
+        [
+          "0",
+          "1/2"
+        ]
+      ],
+      "marginal_B": [
+        [
+          "1/2",
+          "0"
+        ],
+        [
+          "0",
+          "1/2"
+        ]
+      ],
+      "X_A": "0",
+      "ZZ": "-1",
+      "XX": "1"
+    },
+    "phase_minus": {
+      "position_joint_probabilities_00_01_10_11": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "marginal_A": [
+        [
+          "1/2",
+          "0"
+        ],
+        [
+          "0",
+          "1/2"
+        ]
+      ],
+      "marginal_B": [
+        [
+          "1/2",
+          "0"
+        ],
+        [
+          "0",
+          "1/2"
+        ]
+      ],
+      "X_A": "0",
+      "ZZ": "-1",
+      "XX": "-1"
+    },
+    "product": {
+      "position_joint_probabilities_00_01_10_11": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "marginal_A": [
+        [
+          "1/2",
+          "1/2"
+        ],
+        [
+          "1/2",
+          "1/2"
+        ]
+      ],
+      "marginal_B": [
+        [
+          "1/2",
+          "1/2"
+        ],
+        [
+          "1/2",
+          "1/2"
+        ]
+      ],
+      "X_A": "1",
+      "ZZ": "0",
+      "XX": "1"
+    }
+  },
+  "active_local_phase_changes_joint_state_but_not_A_marginal": true,
+  "passive_transport_of_state_and_observable_preserves_prediction": true,
+  "assertions": "passed"
+}

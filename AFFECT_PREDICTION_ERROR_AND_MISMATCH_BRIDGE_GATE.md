@@ -61,7 +61,7 @@ Add independently randomized expectation manipulation only if it can vary `P` wi
 5. **Measure and plenitude:** specify occurrence and observer selection without making all possibilities equiprobable or defining the measure from the desired outcomes. Predict reported data with subject selection and errors included.
 6. **Cross-domain transport and physics:** demonstrate calibrated bridges across persons, species, modality and substrate, then derive actual physical applicability rather than assuming finite spin examples describe neural or string dynamics.
 
-Each step needs an independently testable interface or a clearly labeled metaphysical postulate. Statistical preference for one fitted model is not experiential intelligibility. B4, B5, B9, B10 and B11 remain open, as do the other previously open gates; B3 remains only conditional.
+Each step needs an independently testable interface or a clearly labeled metaphysical postulate. Statistical preference for one fitted model is not experiential intelligibility. The [Ney wave-function-realism audit](NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md) adds a physical coherence and representation-consistency control for a prospective quantum mismatch variable, without claiming such a variable has been derived. B4, B5, B9, B10 and B11 remain open, as do the other previously open gates; B3 remains only conditional.
 
 ## Source scope and reproducibility
 

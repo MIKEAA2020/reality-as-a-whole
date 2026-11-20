@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 381 root Markdown documents including this register; 43 research Markdown documents.
-- 49 original uploaded files, including provenance metadata; 315 verification Python scripts.
+- 382 root Markdown documents including this register; 43 research Markdown documents.
+- 50 original uploaded files, including provenance metadata; 316 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -188,6 +188,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) — Necessary plenitude, plural subjects and simulation: a constructed candidate
 - [NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md](NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md) — Can total response identify state mismatch without resolving every channel?
 - [NEURAL_TIMING_CONSTITUTION_AUDIT.md](NEURAL_TIMING_CONSTITUTION_AUDIT.md) — Can neural activation duration supply the missing episode clock?
+- [NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md](NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md) — Wave-function realism, relational structure and plural experience
 - [NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md](NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md) — Bell experiments and quantum information: the Nobel research
 - [NONADDITIVE_CONSTITUTION_ARGUMENT.md](NONADDITIVE_CONSTITUTION_ARGUMENT.md) — A substantive constitutive argument: non-additive qualitative realization
 - [NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md) — Revising the whole-account for a non-optimal world
@@ -467,6 +468,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
 - [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
+- [sources/uploads/Three-arguments-for-wave-function-realism.pdf](sources/uploads/Three-arguments-for-wave-function-realism.pdf)
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf](sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
@@ -632,6 +634,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/necessary_plenitude_simulation_model.py](verification/necessary_plenitude_simulation_model.py)
 - [verification/necessity_nonempty_modal_audit.py](verification/necessity_nonempty_modal_audit.py)
 - [verification/net_work_mismatch_gate.py](verification/net_work_mismatch_gate.py)
+- [verification/ney_relational_correlations_gate.py](verification/ney_relational_correlations_gate.py)
 - [verification/no_signalling_subject_measure_gate.py](verification/no_signalling_subject_measure_gate.py)
 - [verification/noble_symmetry_selection_gate.py](verification/noble_symmetry_selection_gate.py)
 - [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
