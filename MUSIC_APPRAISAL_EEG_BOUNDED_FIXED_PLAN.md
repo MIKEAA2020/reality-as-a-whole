@@ -6,6 +6,8 @@ Before downloading or inspecting any participant MAT file, test the author's [Mu
 
 This prospective-to-the-MAT-files feasibility plan is **not externally preregistered**. The source README and MATLAB demo are already read; the latter includes high/low PSD exploration and an illustrative SVM. The linked original paper's abstract is known; no other prior results of this dataset have been independently verified. Our screen is not a claim of novelty for EEG liking correlations and is not a reproduction of the published cross-sensor PAC method.
 
+**Later source correction, after the analysis:** the supplied [full paper](BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md) reports that participants were asked to confirm their preassigned ratings after the recording session. It does not establish separate immediate post-trial ratings of felt valence. This annotation does not change the historical plan or computed results.
+
 ## Bounded access and inclusion
 
 Download **only four files**, participants 01–04, sequentially, each approximately 34.4 MB; stop earlier on any failed hash, access or schema check. Do not fetch all 20 together. Read one at a time and retain no source files outside ignored `.arena`. Each file must match the pinned Git blob's SHA-1 calculated as Git `blob <bytes>\0<content>`. Verify array shape, finite values, sampling rate 128 Hz, 14 channels, 30 EEG trials, exact 10/10/10 category counts, sensor names, and rating vector length. Require usable F3/F4, F7/F8, AF3/AF4. If any check fails, stop instead of silently excluding or revising rules. Present any missing subject as a blocker, not a full four-person result. Trial pairing follows the source's aligned array contract; file checks cannot establish acquisition/log correctness.

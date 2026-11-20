@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 448,
-  "bytes": 5914113,
-  "line_count": 57562,
-  "document_count_with_risk_phrases": 420,
+  "document_count": 449,
+  "bytes": 5929216,
+  "line_count": 57625,
+  "document_count_with_risk_phrases": 421,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -631,6 +631,37 @@
       "risk_phrase_lines": [
         15,
         17
+      ]
+    },
+    {
+      "path": "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
+      "sha256": "999daecb2f267d80feeef912e095a21cda4463149bdeedb34bdb22eb31d66d51",
+      "bytes": 13432,
+      "lines": 57,
+      "title": "Music appraisal: full-paper reading and centrality consistency audit",
+      "headings": [
+        "Music appraisal: full-paper reading and centrality consistency audit",
+        "Main findings",
+        "Source and reading scope",
+        "Task, data and decoder",
+        "A testable equation discrepancy",
+        "Supplementary statistics: unit of analysis and reported effect sizes",
+        "Impact on the framework",
+        "Verification"
+      ],
+      "local_links": [
+        "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
+        "sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf",
+        "verification/bakas_paper_consistency.py",
+        "verification/bakas_paper_consistency_test.py",
+        "verification/bakas_paper_consistency.json"
+      ],
+      "risk_phrase_lines": [
+        10,
+        14,
+        22,
+        45,
+        57
       ]
     },
     {
@@ -3795,8 +3826,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "bcd98efd882df5baea29ee5cf23367f87c0ff84f10d12ba0b96a3c26fdcc8a9d",
-      "bytes": 18826,
+      "sha256": "442c4cf849dda5dffe5b7202e83bca733d07a8bfe5e307921bf0e016d89e8866",
+      "bytes": 19294,
       "lines": 81,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3830,6 +3861,7 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
+        "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
@@ -3945,9 +3977,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "629a6aadaa013ae3990530978078e5b88cae432c2ae089c50ca4f5da0de4b6cb",
-      "bytes": 107540,
-      "lines": 869,
+      "sha256": "76cc884111f7abcb970511c1fa19e316a0a148f3e8a25b73b11b0e4ec1d65564",
+      "bytes": 108145,
+      "lines": 873,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3981,6 +4013,7 @@
         "AXIARCHIC_CONSTITUTION_CANDIDATE.md",
         "AXIOLOGY_STATUS.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
+        "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
@@ -4429,6 +4462,7 @@
         "sources/uploads/Display_Spike_Trains.pdf",
         "sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf",
         "sources/uploads/JHEP02(2024)193.pdf",
+        "sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf",
         "sources/uploads/RKLS-TR07.pdf",
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
         "sources/uploads/Three-arguments-for-wave-function-realism.pdf",
@@ -4470,6 +4504,8 @@
         "verification/autonomous_stop_clock.py",
         "verification/auxiliary_representation_subject_gate.py",
         "verification/awareness_ignition_partial_identification.py",
+        "verification/bakas_paper_consistency.py",
+        "verification/bakas_paper_consistency_test.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/bell_preparation_correlation_gate.py",
         "verification/boundary_cut_workspace.py",
@@ -4803,21 +4839,21 @@
       "risk_phrase_lines": [
         17,
         31,
-        43,
-        47,
-        56,
-        120,
-        203,
-        249,
-        271,
-        318,
-        394,
-        409,
-        445,
-        454,
-        457,
-        460,
-        519
+        44,
+        48,
+        57,
+        121,
+        204,
+        250,
+        272,
+        319,
+        395,
+        410,
+        446,
+        455,
+        458,
+        461,
+        521
       ]
     },
     {
@@ -6879,9 +6915,9 @@
     },
     {
       "path": "MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md",
-      "sha256": "82a1c0abc8b6e9001e967ab40b4fd1d914aed5736fcc891f775c394a825689a4",
-      "bytes": 6432,
-      "lines": 27,
+      "sha256": "9c632cdf63760e3da62cb0f647e424607e88b3850141863be83661a3f4f0bc70",
+      "bytes": 6819,
+      "lines": 29,
       "title": "Fixed plan: bounded EEG–preference feasibility screen",
       "headings": [
         "Fixed plan: bounded EEG–preference feasibility screen",
@@ -6890,17 +6926,19 @@
         "Fixed descriptive neural features",
         "Estimand and no overclaim"
       ],
-      "local_links": [],
+      "local_links": [
+        "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md"
+      ],
       "risk_phrase_lines": [
         5,
-        11,
-        25
+        13,
+        27
       ]
     },
     {
       "path": "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
-      "sha256": "9dcb1df3b41d56f7ca9286508fef6229b8b67905eca60e0e89de958b2ff11638",
-      "bytes": 9443,
+      "sha256": "f71ddf0bc8358bc3dfb9cf859d8b24066fd296d32e078d09a2406690ac1bffdb",
+      "bytes": 9654,
       "lines": 47,
       "title": "Actual music-listening EEG and the remaining report gap",
       "headings": [
@@ -6913,9 +6951,11 @@
         "Reproducibility"
       ],
       "local_links": [
+        "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "MUSIC_APPRAISAL_EEG_BOUNDED_FIXED_PLAN.md",
         "verification/music_appraisal_feasibility.json",
-        "verification/music_appraisal_feasibility.py"
+        "verification/music_appraisal_feasibility.py",
+        "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md"
       ],
       "risk_phrase_lines": [
         13

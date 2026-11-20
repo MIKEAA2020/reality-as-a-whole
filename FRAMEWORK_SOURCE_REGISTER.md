@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 405 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 336 verification Python scripts.
+- 406 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 338 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -32,6 +32,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AXIARCHIC_CONSTITUTION_CANDIDATE.md](AXIARCHIC_CONSTITUTION_CANDIDATE.md) — From goodness of being to axiarchic constitution
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
 - [BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md](BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md) — Structural realism, effective particles and plural experience
+- [BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md](BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md) — Music appraisal: full-paper reading and centrality consistency audit
 - [BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md](BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md) — Bell-pair preparation versus an infinite-temperature correlation
 - [BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md](BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md) — Placebo, nociception and pain: full-paper audit
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions
@@ -490,6 +491,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Display_Spike_Trains.pdf](sources/uploads/Display_Spike_Trains.pdf)
 - [sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf](sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
+- [sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf](sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
 - [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
 - [sources/uploads/Three-arguments-for-wave-function-realism.pdf](sources/uploads/Three-arguments-for-wave-function-realism.pdf)
@@ -535,6 +537,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/autonomous_stop_clock.py](verification/autonomous_stop_clock.py)
 - [verification/auxiliary_representation_subject_gate.py](verification/auxiliary_representation_subject_gate.py)
 - [verification/awareness_ignition_partial_identification.py](verification/awareness_ignition_partial_identification.py)
+- [verification/bakas_paper_consistency.py](verification/bakas_paper_consistency.py)
+- [verification/bakas_paper_consistency_test.py](verification/bakas_paper_consistency_test.py)
 - [verification/bekir_split_brain_public_data_audit.py](verification/bekir_split_brain_public_data_audit.py)
 - [verification/bell_preparation_correlation_gate.py](verification/bell_preparation_correlation_gate.py)
 - [verification/boundary_cut_workspace.py](verification/boundary_cut_workspace.py)
