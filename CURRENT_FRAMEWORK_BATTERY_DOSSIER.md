@@ -228,6 +228,8 @@ A [weak-record coherence gate](WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md) se
 
 A [quantum-access and subject-count gate](QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md) applies a known secret-sharing code: several overlapping regions can separately recover one logical qutrit, and the same Boolean access pattern can support different logical input dimensions. Neither number of supports nor information capacity is a phenomenal subject count; occurrence, constitution and identity remain independent open requirements.
 
+A [swapping, heralding and perspective-selection gate](SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md) checks noisy conditional entanglement swapping, a one-basis entanglement ambiguity, and a late global selection rule that produces a selected CHSH value of 4 despite equal selection rates and balanced marginals. This is not a valid event-ready herald or a model of the Nobel experiments; it constrains how proposed perspective weights and selection rules may be related to operational records, not how subjects are constituted.
+
 Until these obligations are met, the proposal is a **research framework, not a demonstrated complete or zero-residue theory**. Its assumptions are not conclusions, and finite illustrative models are not evidence that the universe or its subjects have the structures stipulated in those models.
 
 ## References

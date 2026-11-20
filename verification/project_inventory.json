@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 393,
-  "bytes": 5210182,
-  "line_count": 53632,
-  "document_count_with_risk_phrases": 367,
+  "document_count": 395,
+  "bytes": 5237767,
+  "line_count": 53788,
+  "document_count_with_risk_phrases": 369,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2085,9 +2085,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "a2762edeb3fa7380f4ed16f2a0ae81bc1670abca16a822ae6867a53dfd8f5618",
-      "bytes": 30558,
-      "lines": 241,
+      "sha256": "2a632910d0223b41c7a46f5c38d8f58e6b61f3eb071c9a859f0e11ffbb56d33c",
+      "bytes": 31096,
+      "lines": 243,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -2119,6 +2119,7 @@
         "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
         "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -2126,7 +2127,7 @@
         99,
         197,
         227,
-        231
+        233
       ]
     },
     {
@@ -6208,6 +6209,31 @@
       ]
     },
     {
+      "path": "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
+      "sha256": "6a91a84defdcc822c2e3d5910c5aec8ab4e051514dd738ab876361100123c0ed",
+      "bytes": 14826,
+      "lines": 57,
+      "title": "Bell experiments and quantum information: the Nobel research",
+      "headings": [
+        "Bell experiments and quantum information: the Nobel research",
+        "Scope and conclusion",
+        "1. Clauser and collaborators: from theorem to experiment",
+        "2. Aspect and collaborators: stronger statistics and switching",
+        "3. Zeilinger and collaborators: random settings, swapping and teleportation",
+        "4. The later loophole benchmark",
+        "5. What follows for a relational, experiential whole",
+        "Reading and access ledger"
+      ],
+      "local_links": [
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+        "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        44
+      ]
+    },
+    {
       "path": "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
       "sha256": "12ac4214c4d1f6fe40d36ba06b0a0d7a1f223384d24628c527a7af8472b55fb3",
       "bytes": 13726,
@@ -10129,6 +10155,32 @@
         83,
         102,
         106
+      ]
+    },
+    {
+      "path": "SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md",
+      "sha256": "66bbd80b2a1fd258eafac5bac27afbc3ed8dbfb355801f053bb7635397d21572",
+      "bytes": 12221,
+      "lines": 97,
+      "title": "Entanglement swapping, heralding and perspective selection",
+      "headings": [
+        "Entanglement swapping, heralding and perspective selection",
+        "Result in brief",
+        "1. Sources and scope",
+        "2. Noisy quantum swapping: what is selected?",
+        "3. Why one matching fringe is not enough",
+        "4. An equal-rate selector that fabricates Bell correlations",
+        "5. Consequences for the larger account",
+        "6. Reproducibility and limits"
+      ],
+      "local_links": [
+        "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
+        "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        10,
+        38,
+        97
       ]
     },
     {

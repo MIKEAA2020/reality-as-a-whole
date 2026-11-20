@@ -1,0 +1,57 @@
+{
+  "scope": "Finite rational toy models only; not experimental data, a new Bell theorem, or evidence of experience.",
+  "swapping_cases": {
+    "0*0": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "0",
+      "unconditioned_outer_state": "I/4"
+    },
+    "0*1": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "0",
+      "unconditioned_outer_state": "I/4"
+    },
+    "1*0": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "0",
+      "unconditioned_outer_state": "I/4"
+    },
+    "1*1": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "1",
+      "unconditioned_outer_state": "I/4"
+    },
+    "4/5*4/5": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "16/25",
+      "unconditioned_outer_state": "I/4"
+    },
+    "2/3*3/4": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "1/2",
+      "unconditioned_outer_state": "I/4"
+    },
+    "9/10*9/10": {
+      "per_herald_probability": "1/4",
+      "swapped_visibility": "81/100",
+      "unconditioned_outer_state": "I/4"
+    }
+  },
+  "same_fixed_basis_example": {
+    "w": "16/25",
+    "ZZ_both": "16/25",
+    "ZX_both": "0",
+    "XX_entangled": "16/25",
+    "XX_separable": "0",
+    "werner_chsh_max": "32*sqrt(2)/25",
+    "classification": "entangled but no CHSH violation in this model"
+  },
+  "late_central_selection": {
+    "herald_rate_per_setting": "1/2",
+    "selected_chsh": 4,
+    "unconditional_chsh": 0,
+    "selected_marginals": "uniform",
+    "selected_equal_outcomes_probability_xy0": 1,
+    "selected_equal_outcomes_probability_xy1": 0
+  }
+}
