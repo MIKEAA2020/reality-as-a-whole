@@ -1,0 +1,68 @@
+{
+  "categories_per_song_consistent": true,
+  "category_fallbacks": {
+    "known_songs_category": 0,
+    "known_songs_grand": 0,
+    "known_songs_song": 0,
+    "new_songs_category": 0,
+    "new_songs_grand": 0
+  },
+  "caveat": "path presence does not establish accessible or usable EEG; all valid labels, not EEG-eligible subset",
+  "errors": {
+    "known_songs": {
+      "category": {
+        "mae": 1.323750000000001,
+        "n": 400,
+        "rmse": 1.6673679849481085
+      },
+      "grand": {
+        "mae": 1.7530131578947399,
+        "n": 400,
+        "rmse": 2.1477838381719105
+      },
+      "song": {
+        "mae": 1.27842105263158,
+        "n": 400,
+        "rmse": 1.5970454021788163
+      }
+    },
+    "new_songs": {
+      "category": {
+        "mae": 1.3874561403508758,
+        "n": 400,
+        "rmse": 1.7397286840542896
+      },
+      "grand": {
+        "mae": 1.802188365650971,
+        "n": 400,
+        "rmse": 2.201873394479302
+      }
+    }
+  },
+  "matched_eeg_path_keys": 399,
+  "matched_eeg_path_modes": {
+    "120000": 399
+  },
+  "participant_trial_count_distribution": {
+    "20": 20
+  },
+  "participants": 20,
+  "rating_missing_counts": {
+    "Familiarity": 1,
+    "Likeability": 1
+  },
+  "ratings_sha256": "830c854fa33aff943a6a9c36b343f7d81cf6b01da6b4ed67ff1057831c27cc59",
+  "remark_counts": {
+    "(blank)": 398,
+    "0 = data missing": 1,
+    "missing EEG data": 1
+  },
+  "rows": 400,
+  "scope": "retrospective label-only, not neural analysis or independent preregistration",
+  "song_rating_count_distribution": {
+    "20": 20
+  },
+  "songs": 20,
+  "source_commit": "e2613bff898998734e67a9abe4b431154f1c3ec2",
+  "valid_valence_rows": 400
+}

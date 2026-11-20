@@ -8,6 +8,8 @@ This is a **provisional computation, not a verified analysis of original DREAMER
 
 The tested deviation is a coarse power-spectrum statistic, not measured coupling frustration, not an optimal-state mismatch and not the user's full hypothesis. The negative result is useful for that narrow proxy and evaluation, but cannot settle whether some better-specified relational misalignment is the intrinsic aspect of discomfort.
 
+The later [MET label and neural-access audit](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) inspects an explicitly keyed newer dataset version and obtains retrospective stimulus-category baselines without EEG; it does not repair DREAMER provenance or establish MET signal usability.
+
 ## 1. What was measured and what was not
 
 The original [DREAMER article](https://doi.org/10.1109/JBHI.2017.2688239), by Katsigiannis and Ramzan, describes EEG and ECG recorded while 23 participants watched audiovisual films and rated valence, arousal and dominance afterwards. Its PubMed abstract was read; the linked full article returned an HTTP 500, and we did not inspect the full paper, raw recordings or original labels. An independently hosted three-page [DREAMER data description](https://github.com/brainhack-school2020/Biosignal-Emotions-BHS-2020/blob/194885b5fcbd2e4ef20f1a14781cb9319329ae59/docs/DREAMER_info.pdf) was text-extracted and read: its `baseline` is recorded during a **neutral clip before each film**, not necessarily eyes-closed rest or a physiological ideal. We did not visually audit its PDF layout or establish that this particular secondary feature table was generated from that exact release.

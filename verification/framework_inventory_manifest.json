@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "66040c3c1e1149c05b37ad326248bce541e762b3",
-  "file_count": 1386,
+  "base_head": "94024891e10f22965afd051284310d50237fbb8a",
+  "file_count": 1391,
   "files": [
     {
       "path": ".gitattributes",
@@ -405,8 +405,8 @@
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
-      "bytes": 12195,
-      "sha256": "c010c1108c8d88186ac437df48fe0180053c8c6efb3937a7e18d988bdaefc1e9"
+      "bytes": 12485,
+      "sha256": "0f68332998810cefb582ef28eb107f974d0df33e0db636a4d413a8440171ca96"
     },
     {
       "path": "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
@@ -565,8 +565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 15195,
-      "sha256": "d3020124c8b942d195b30fc314ee9d86855d4b4a7fbe23ec96b2dfbedba176c1"
+      "bytes": 15647,
+      "sha256": "4fa3f106568379b6db4d72829fc28556a0a2ad4d10de71334ef8d0afb403bdf3"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -590,8 +590,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 104545,
-      "sha256": "0b67a67060464130acadaade81be516f90bf12605fbbeaf81060037227b9bb58"
+      "bytes": 105079,
+      "sha256": "6420201b10bff26330b36759dba6785c0613c8d579e2efae24f3bc793e6cde42"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -867,6 +867,16 @@
       "path": "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
       "bytes": 11727,
       "sha256": "e5f19d91cf4393589938f9f3fb58de5db16b80fbe072d4933fada501796ffa41"
+    },
+    {
+      "path": "MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md",
+      "bytes": 6062,
+      "sha256": "10148a439055aa6c5ebdd7aa280c7c465ec3bd25aa0172b4a65ffaa611f4af2d"
+    },
+    {
+      "path": "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
+      "bytes": 14580,
+      "sha256": "b5667e63eb1892f0cda6c231decfe0e7ed9737b6b5f894617b615c83675f7522"
     },
     {
       "path": "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
@@ -4794,6 +4804,21 @@
       "sha256": "6e7d54277d0f7388f043a68ace3f96a6b0a7d6ca0ba3d257630287eacf5d2aa7"
     },
     {
+      "path": "verification/met_label_alignment_screen.json",
+      "bytes": 1674,
+      "sha256": "05c198209ed3d827ddbde67a5078555261367a2af0624d463c27374e79555e43"
+    },
+    {
+      "path": "verification/met_label_alignment_screen.py",
+      "bytes": 6195,
+      "sha256": "41f0b749e492b54ecbe8fb841259c45752301c92758b5effacd19a42a69bab58"
+    },
+    {
+      "path": "verification/met_label_alignment_screen_test.py",
+      "bytes": 1312,
+      "sha256": "255a249f13fdb5c8781c164920978105624e86e9b1b6d9234af9e75d0eecbcc4"
+    },
+    {
       "path": "verification/microtubule_mediation_rival.json",
       "bytes": 2912,
       "sha256": "9de776ee4c6c7f560c3be2e12efd7fd009bce725d8224fc22aaee4f06bba5bd8"
@@ -5245,8 +5270,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 551600,
-      "sha256": "75cf64d0687d8bcef87e9386b6f3a6aa42e7dc4ab38a142c13bf1cb8a354eb03"
+      "bytes": 553632,
+      "sha256": "c035ae20005e6fcf0d221192be3387e22f068c92242522d1b2f39494b7c4759a"
     },
     {
       "path": "verification/project_inventory.py",

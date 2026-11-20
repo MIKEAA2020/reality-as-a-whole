@@ -1,0 +1,30 @@
+# Fixed retrospective screen: music valence reports and EEG alignment
+
+## Purpose and timing
+
+This screen asks whether the [MET music EEG dataset](https://doi.org/10.18112/openneuro.ds008701.v1.0.6) has usable participant–song labels and establishes simple non-neural predictive baselines for later comparison. It is not a test of physical mismatch or an independently preregistered study. The plan was written after reading the dataset README, `ratings.json`, the repository tree and a truncated API preview containing part of one participant's rating rows, but **before downloading or inspecting the complete ratings table, aggregate label counts, or predictive results**. A revised analysis must be called exploratory, not relabeled as prespecified.
+
+Pin the public mirror to commit `e2613bff898998734e67a9abe4b431154f1c3ec2`; the descriptor at that commit declares dataset v1.0.6 and CC0. The dataset README documents 20 participants, 20 music trials each, a nominal 120-second song with a five-second pre/post interval, 66 retained EEG channels, and post-listening SAM, liking and familiarity. The rating dictionary says missing behavioral entries use zero and that remarks identify missing EEG. The actual questionnaire, preprocessing code, EEG content and stimulus audio have not yet been verified. Unlike the previously screened Daly file, the rating table is reported to contain explicit participant and song keys. **Explicit keys are not proof of verified signal timing, respondent intent, a felt-versus-perceived distinction, or accurate phenomenal measurement.**
+
+## Quality and alignment
+
+Fetch only `ratings.tsv` from the pinned GitHub commit, plus the already obtained README, metadata and repository tree. The script will:
+
+1. Require the documented columns, exact unique participant–song keys, valid nonzero valence 1–9, liking and familiarity 1–5, and declared categories. Treat zero and blank as missing, not as valid numerical ratings. Count invalid nonmissing values, duplicates, participant/song coverage, EEG remark flags, and table key matches against the EEG filenames in the pinned tree. Stop model execution if duplicate keys, malformed keys, unexpected categories or out-of-range nonmissing valence appear. Never infer data content from a Git-annex symlink's existence.
+2. Analyze **self-reported valence**, not inferred unreported pleasantness. A SAM score is an ordinal post-listening judgment. Liking, arousal and familiarity are separate measures; it is not established that they equal felt valence. A paired EEG analysis must require actual signal content and complete alignment, not just the count of matching paths. No EEG or audio is downloaded in this screen.
+3. Record hashes and counts without storing individual rows or participant demographics in the public report. Counts and planned analysis are independent of EEG, but the open dataset itself contains de-identified participant identifiers and requires the repository's conditions of use to be honored.
+
+## Prespecified label-only benchmark
+
+Complete-case target is each nonmissing valid valence rating, irrespective of whether EEG is available: this is an **all-valid-label baseline**, not a benchmark on the ultimate neural-analysis subset. Later re-evaluate on an identical eligible EEG subset before comparing models. Evaluate absolute and squared errors averaged across held-out rows (MAE and RMSE) and use nested splits, without fitting to test labels:
+
+- **New participant, known songs:** for each participant, train on all other participants. Predict the training grand mean; the training mean for the same song with a grand-mean fallback when unseen; and the training mean for the same documented intended affective category with a grand-mean fallback.
+- **New participant and new song:** for each held-out participant/song row, train only on rows with *both another participant and another song*. Predict the training grand mean or training category mean; if no other training song contributes to that category, fall back to the grand mean. This is a cross-disjoint leave-one-pair-out analysis; all other rows for either the person or song are excluded from its training set. Outputs for different folds have strongly overlapping training data and shared participants and songs; do not call individual rows independent or claim a prospective validation study.
+
+The category is a stimulus label documented in the metadata, not ground-truth felt affect or an acoustic feature. Song means use the same fixed songs as the test and thus cannot evaluate unseen-song generalization. Intended category can encode stimulus selection information and requires an independently specified category for a new song. Means treat ordinal scores as equally spaced for this descriptive prediction; this does not assert a metric scale for experience. No subject-specific information or post-trial familiarity is available to these baselines. A real stimulus-only model and familiarity or liking comparators remain separate future analyses.
+
+Do not present a tiny numerical difference as decisive. This screen has no confidence intervals and no prespecified significance test; report paired errors descriptively. Missing entries and recording flags may create selection effects. No target value is used to construct an EEG candidate because EEG is not available; any later physically motivated EEG mismatch must be specified independently of the target before viewing its associations and compared on identical folds, preprocessing and eligibility. Neither a good label predictor nor a bad one is an experience–physics identity proof.
+
+## Expected boundaries
+
+C3 remains **full structural and experiential intelligibility**, and experience remains a valid datum jointly with C1–C7. If the keys and EEG are actually usable, this dataset can reduce a data-access and alignment obstacle; it cannot alone establish subject constitution, valence identity, a self-sufficient experiential ground or a universal subject. All substantive B4–B5 and B10 verdicts remain open.

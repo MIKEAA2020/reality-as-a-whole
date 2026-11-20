@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 437,
-  "bytes": 5798706,
-  "line_count": 56933,
-  "document_count_with_risk_phrases": 409,
+  "document_count": 439,
+  "bytes": 5820624,
+  "line_count": 57050,
+  "document_count_with_risk_phrases": 411,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2720,9 +2720,9 @@
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
-      "sha256": "c010c1108c8d88186ac437df48fe0180053c8c6efb3937a7e18d988bdaefc1e9",
-      "bytes": 12195,
-      "lines": 80,
+      "sha256": "0f68332998810cefb582ef28eb107f974d0df33e0db636a4d413a8440171ca96",
+      "bytes": 12485,
+      "lines": 82,
       "title": "A neural-signal deviation candidate against reported valence",
       "headings": [
         "A neural-signal deviation candidate against reported valence",
@@ -2735,6 +2735,7 @@
         "6. Reproduction"
       ],
       "local_links": [
+        "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
         "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "verification/eeg_baseline_deviation_valence_gate.py",
@@ -2742,8 +2743,8 @@
         "verification/eeg_baseline_deviation_valence_gate_test.py"
       ],
       "risk_phrase_lines": [
-        13,
-        64
+        15,
+        66
       ]
     },
     {
@@ -3698,9 +3699,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d3020124c8b942d195b30fc314ee9d86855d4b4a7fbe23ec96b2dfbedba176c1",
-      "bytes": 15195,
-      "lines": 67,
+      "sha256": "4fa3f106568379b6db4d72829fc28556a0a2ad4d10de71334ef8d0afb403bdf3",
+      "bytes": 15647,
+      "lines": 69,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3724,6 +3725,7 @@
         "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
         "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
+        "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3731,9 +3733,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        27,
-        44,
-        61
+        29,
+        46,
+        63
       ]
     },
     {
@@ -3839,9 +3841,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0b67a67060464130acadaade81be516f90bf12605fbbeaf81060037227b9bb58",
-      "bytes": 104545,
-      "lines": 846,
+      "sha256": "6420201b10bff26330b36759dba6785c0613c8d579e2efae24f3bc793e6cde42",
+      "bytes": 105079,
+      "lines": 850,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4025,6 +4027,8 @@
         "MAINTENANCE_BROADCAST_SEPARATION.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+        "MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md",
+        "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
@@ -4472,6 +4476,8 @@
         "verification/localized_preparation.py",
         "verification/lp_persistency_and_moment_gate.py",
         "verification/maintained_disclosure_contrast.py",
+        "verification/met_label_alignment_screen.py",
+        "verification/met_label_alignment_screen_test.py",
         "verification/microtubule_mediation_rival.py",
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
@@ -4678,17 +4684,17 @@
         47,
         56,
         116,
-        193,
-        238,
-        260,
-        307,
-        383,
-        398,
-        434,
-        443,
-        446,
-        449,
-        508
+        195,
+        240,
+        262,
+        309,
+        385,
+        400,
+        436,
+        445,
+        448,
+        451,
+        510
       ]
     },
     {
@@ -6513,6 +6519,54 @@
         11,
         13,
         40
+      ]
+    },
+    {
+      "path": "MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md",
+      "sha256": "10148a439055aa6c5ebdd7aa280c7c465ec3bd25aa0172b4a65ffaa611f4af2d",
+      "bytes": 6062,
+      "lines": 30,
+      "title": "Fixed retrospective screen: music valence reports and EEG alignment",
+      "headings": [
+        "Fixed retrospective screen: music valence reports and EEG alignment",
+        "Purpose and timing",
+        "Quality and alignment",
+        "Prespecified label-only benchmark",
+        "Expected boundaries"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        13
+      ]
+    },
+    {
+      "path": "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
+      "sha256": "b5667e63eb1892f0cda6c231decfe0e7ed9737b6b5f894617b615c83675f7522",
+      "bytes": 14580,
+      "lines": 79,
+      "title": "Music valence reports: a keyed dataset and held-out baselines",
+      "headings": [
+        "Music valence reports: a keyed dataset and held-out baselines",
+        "Main result",
+        "1. Source, interface and provenance",
+        "2. Label and path check",
+        "3. The non-neural prediction hurdle",
+        "4. Related music EEG evidence—not a replication",
+        "5. Next admissible step",
+        "Reproduction and access limits"
+      ],
+      "local_links": [
+        "MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md",
+        "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
+        "verification/met_label_alignment_screen.py",
+        "verification/met_label_alignment_screen_test.py",
+        "verification/met_label_alignment_screen.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        19,
+        23,
+        79
       ]
     },
     {

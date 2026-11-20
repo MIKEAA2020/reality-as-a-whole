@@ -20,6 +20,8 @@ The [Daly music EEG and event-alignment audit](DALY_MUSIC_EEG_AND_EVENT_ALIGNMEN
 
 The [Ismael participatory-realism audit](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) distinguishes local limits on actionable self-prediction from full structural and experiential intelligibility of a whole. It cross-checks embedded action against existing quantum joint-event, contextuality and Bell constraints without inferring universal consciousness. No subject/quality bridge, physical recovery or battery pass follows.
 
+The [MET label and neural-access audit](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) identifies 400 explicitly keyed valence ratings and 399 nominal EEG-file matches; the signals remain inaccessible/uninspected. Its fixed-before-full-table retrospective screen sets known-song and person/song-disjoint category baselines. It is label-only, with no neural mismatch, experimentally validated timing, experiential bridge or change to B4–B5/B10.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

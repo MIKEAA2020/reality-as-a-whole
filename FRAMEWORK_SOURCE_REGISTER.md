@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 394 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 324 verification Python scripts.
+- 396 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 326 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -182,6 +182,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
 - [MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md](MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md) — Matched stimulus, reported unpleasantness and the missing bridge
 - [MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md](MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md) — Merker: subcortical consciousness and the perspective problem
+- [MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md](MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md) — Fixed retrospective screen: music valence reports and EEG alignment
+- [MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) — Music valence reports: a keyed dataset and held-out baselines
 - [MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md](MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md) — Microtubules, anesthesia and quantum consciousness: a causal discrimination gate
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
@@ -643,6 +645,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/localized_preparation.py](verification/localized_preparation.py)
 - [verification/lp_persistency_and_moment_gate.py](verification/lp_persistency_and_moment_gate.py)
 - [verification/maintained_disclosure_contrast.py](verification/maintained_disclosure_contrast.py)
+- [verification/met_label_alignment_screen.py](verification/met_label_alignment_screen.py)
+- [verification/met_label_alignment_screen_test.py](verification/met_label_alignment_screen_test.py)
 - [verification/microtubule_mediation_rival.py](verification/microtubule_mediation_rival.py)
 - [verification/modular_clock.py](verification/modular_clock.py)
 - [verification/modular_local_net.py](verification/modular_local_net.py)
