@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 371 root Markdown documents including this register; 43 research Markdown documents.
+- 372 root Markdown documents including this register; 43 research Markdown documents.
 - 47 original uploaded files, including provenance metadata; 311 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -114,6 +114,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
+- [FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md](FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md) — Formal battery: current status and focused research plan
 - [FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md](FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md) — Assessment of the SEEP foundation battery, v1
 - [FOUNDATION_NECESSITY_ROUTES_COMPARISON.md](FOUNDATION_NECESSITY_ROUTES_COMPARISON.md) — Foundation: comparing the two existing necessity routes
 - [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations

@@ -22,7 +22,9 @@ def main():
                           capture_output=True,check=True).stdout
     digest=hashlib.sha256(frozen).hexdigest()
     assert digest==REPORTED_SHA
-    assert hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest()==REPORTED_SHA
+    # The report concerns the historical snapshot, not the evolving dossier.
+    # Keep the current digest visible without requiring it to remain frozen.
+    current_digest=hashlib.sha256((ROOT/SOURCE).read_bytes()).hexdigest()
 
     # At one point, d=◇p and e=◇¬p are independent Boolean slots. Strong
     # schema instances for p and ¬p plus T for p suffice for p↔□p.
@@ -73,7 +75,8 @@ def main():
     assert satisfying==[[False,False]]
 
     result={'status':'passed', 'frozen_commit':COMMIT, 'source_path':SOURCE,
-            'source_sha256':digest,
+            'source_sha256':digest, 'current_source_sha256':current_digest,
+            'current_source_matches_frozen':current_digest==digest,
             'modal_valid_rows_with_T_for_p_only':rows,
             'modal_row_count_with_full_T_for_p_and_negation':len(full_T),
             'independent_subject_partition_counts':[2,4],

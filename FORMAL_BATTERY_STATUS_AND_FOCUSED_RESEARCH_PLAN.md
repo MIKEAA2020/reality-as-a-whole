@@ -1,0 +1,53 @@
+# Formal battery: current status and focused research plan
+
+## Direct assessment
+
+**The recent unity work has produced real clarifications and conditional constraints, but it has not made the non-incremental breakthrough needed to pass the formal battery.** The subject-incidence models make a substantial conceptual distinction clearer: a connected relational whole can be represented with multiple individually unified fields without making the whole a subject. However, the fields, phenomenal character and ownership in that representation are stipulated. It does not explain why actual subjects exist, determine their boundaries, establish their qualities or derive physics. Calling that a solved constitution would be an overclaim.
+
+More broadly, identifying invalid arguments, withdrawing unsupported closure claims and distinguishing the user's plural-subject target from universal consciousness are genuine methodological and conceptual improvements. They are important because they prevent false passes. They are not themselves a decisive positive derivation of the requested framework. The user is right to demand progress against the substantive battery rather than another series of toy checks.
+
+## 1. Which battery?
+
+There are two different things in this repository:
+
+1. **The external foundation-battery report.** Its reported stages F0–F5 concern a particular dossier frozen at commit `42927f7debe04cf61c6da1fa6fd30501b5f4a0fb`. The independent [assessment](FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md) confirms that the hash stated for that historical dossier matches the file at that commit. It spot-checks some conditional arguments, but the external report's preregistration, program, JSON output and freeze record were not supplied for replay. It does not independently establish the full external procedure or exact admission rules. The report described that frozen candidate as entry-incomplete. The current, subsequently edited candidate is not the same frozen artifact; no external rerun on it is established.
+2. **Our internal B1–B12 research battery.** The [supporting audit](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) lists its substantive challenges and current verdicts. This is a project-created test plan, not a substitute for the external preregistered battery. Its Python runner executes a selected collection of bounded model regressions. The number of checks and successful exits are **not** the number of substantive battery gates passed. No extra model is a gate pass merely because it has a verifier.
+
+F0 identity for the historical dossier and the conditional F1/F4 argument spot-checks are not a full-battery pass. The report's F2 subject constitution, F3 measure and F5 entry-completeness concerns remain materially unaddressed. F2 is related to internal B4–B5, F3 to B9, and F5 to overall candidate completeness; these are **working correspondences**, not a claim that the two batteries have identical criteria. The registered external run cannot be reproduced from the report and our spot check alone.
+
+## 2. Gate-level status
+
+| Internal gate | What we have | Current verdict |
+|---|---|---|
+| B1 Actuality/self-existence | Experience is an accepted datum; self-sufficiency is specified as needing no external cause. | **Open:** why the actual whole has the proposed self-existent experiential constitution is not derived. |
+| B2 Modality | Consequences of the proposed possibility–actuality schema have been checked under explicit logic and scope. | **Open:** the schema and its application to the whole and its parts are not independently justified. |
+| B3 Non-optimality | From the user's adopted `Perfect(W)→Best(U)` and `¬Best(U)`, `¬Perfect(W)` follows. | **Conditional inference passes**; premises and local/whole value comparison are not thereby proven. |
+| B4 Subjects | Plural, overlapping, exclusive, and partially unified finite models and their assumptions are distinguished. | **Open:** no justified physical–experiential constitution, actual boundaries or persistence rule. |
+| B5 Qualitative character | Mismatch candidates and controls distinguish current mismatch from minimum frustration. | **Open:** no account derives what an experience feels like, or why a physical contrast is unpleasant. |
+| B6 Quantum | Several models preserve particular record or interference constraints. | **Open:** no subject-event rule and physical theory jointly recover the relevant quantum domain. |
+| B7 Time/gravity | Restricted relational clocks and gravity constructions clarify limitations. | **Open:** no common derivation of local time, spacetime and gravity with backreaction. |
+| B8 Continuum/locality | Bounded instruments and cutoff controls expose domain and resource requirements. | **Open:** no general common-domain continuum closure. |
+| B9 Measure | Explicit examples show that normalization and subject labels do not uniquely fix probabilities. | **Open:** no justified reference class and subject measure. |
+| B10 Empirical | Protocols specify useful error and confound requirements, including reports and pathway controls. | **Open:** no validated experiential assay or decisive prespecified framework test. |
+| B11 Alternatives | Experience-respecting rivals have been compared on selected common interfaces. | **Open:** no full, independently justified comparison resolving their grounding and physical predictions. |
+| B12 Parsimony | Unstated subject, quality, physical and measure maps have been recognized as explanatory costs. | **Open:** no demonstrated overall advantage after counting those costs. |
+
+All seven governing criteria apply jointly. C3 is **full structural and experiential intelligibility**; a formal structure or count is not automatically an explanation of experience. Experience is a valid datum. Strong illusionism that denies it is not an eligible solution.
+
+## 3. Stop condition for incremental detours
+
+Do not start another standalone graph gate or add another regression merely because it can be constructed. New work should target one of the following concrete battery-deliverables, with its dependency and its failure criterion stated **before** calling it progress:
+
+1. **One integrated candidate, not a list of labels.** Extend the existing [integrated experiential-misalignment candidate](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md) on a specified physical domain. State precisely which parts are experiential primitives, which are proposed laws, and what physical and phenomenal facts they output. Preserve the earlier distinctions between actual experience and the still-unproved experiential fundamentality of the whole. No universal subject, external creator, actual simulation or temporal possibility-to-actuality mechanism is assumed.
+2. **B4–B5/F2: a subject-and-quality bridge that can fail.** For the *same* physical realization and admissible interventions, compare the candidate against a genuinely experience-respecting rival. Specify numerical subject identity, unity, overlap, ties and persistence; give a qualitative/valence law and show what would make it wrong. An assumption that a selected graph or mismatch bit *is* an experience is an explicit candidate postulate, **not** a derived bridge. A real advance requires either an independently defensible constitution argument or independently anchored, condition-valid empirical evidence that constrains it. If neither is available, report F2/B4–B5 unresolved, not passed.
+3. **B1–B2/F5: actuality and genuine possibility.** State the proposed explanatory principle, what it assumes, and whether its conclusion adds more than a restatement of self-existence. Test formal empty-concrete and rival-interpretation controls without calling them genuinely possible worlds. Retain the user's claim that genuine possibilities are actual within the timeless whole; do not treat a consistent description as proof of genuine possibility. A pass needs a valid argument plus a defensible, non-circular bridge to concrete experiential actuality and its necessity.
+4. **B9/F3: measure.** Once a subject/experience reference class has a justified definition, specify what its weights measure, derive or independently defend normalization and transformation invariance, and work one prediction against an explicit alternative. A finite normalized distribution or a count of toy subjects is not a derived self-location measure.
+5. **B6–B8/B10: recover and test a common physical sector.** The *same candidate* must recover a specified established physical result with its domains and resources, and make a risky rival-discriminating prediction only where the intervention and experiential measurements are justified. Cite known derivations rather than presenting them as original. Local clock success is not a solution of gravity, and a good report predictor is not by itself an experiential bridge.
+
+These are a dependency-guided program, not an assertion that B4 must be solved before B1, or that the full account will be completed in a fixed number of turns. The immediate task is to focus on the integrated candidate's **subject/quality constitution and its comparison on a common domain**, using the existing worked sector and known failures rather than generating a new independent toy. The goal is to find a real bridge or demonstrate precisely why the currently proposed bridge fails—not to force a favorable verdict.
+
+## 4. What would change a verdict?
+
+A substantive gate changes only when the candidate supplies the demanded claim, a valid argument or controlled evidence for its premises, explicit treatment of alternatives, and a result within the gate's scope. A purely formal coherence witness can establish consistency of that witness under its axioms; it cannot validate the axioms, establish genuine metaphysical possibility, detect an experience, identify a subject in nature or recover unmodeled physics. A failure can be genuine progress if it rules out a well-defined candidate, but it must be distinguished from a positive solution.
+
+No complete candidate currently satisfies the joint criteria or warrants a claim to have passed either full battery. A future external evaluation needs a frozen, versioned successor dossier and the actual external evaluation materials or an explicitly new, independently specified battery; editing the historical dossier after seeing the historical report is not a replay.

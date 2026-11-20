@@ -120,7 +120,7 @@ A better genuinely possible **local universe** need not be a better genuinely po
 |---|---|---|
 | C1 Experience | Treat first-person occurrence as real; preserve finite subjects and their contents. | Datum plus unproved constitution/subject rules. |
 | C2 Non-optimal universe | Respect real suffering, the adopted bestness bridge and non-perfect whole. | Conditional implication valid; detailed moral/comparative account open. |
-| C3 Zero-residue intelligibility | Explain existential, modal, structural and **experiential** facts without an external brute selector. | Target unmet; necessary actuality, quality and identity are not derived. |
+| C3 Full structural and experiential intelligibility | Explain existential, modal, structural and **experiential** facts without an external brute selector. | Target unmet; necessary actuality, quality and identity are not derived. |
 | C4 Predictive power | Make discriminating, prespecified predictions with valid failure criteria. | Local rival tests proposed; no uniquely confirmed whole-framework prediction. |
 | C5 Physics | Recover tested quantum/relativistic physics, emergent spacetime and local clocks. | Separate restricted models; no complete common derivation. |
 | C6 Consciousness science | Confront neural, behavioral and first-person evidence and calibration confounds. | Specific gates and observations; no established general phenomenal map. |
@@ -159,7 +159,7 @@ Use verdicts **pass within stated domain**, **fail**, **inconclusive/underdeterm
 
 ### Executable regression subset
 
-[`verification/framework_battery.py`](verification/framework_battery.py) runs 21 selected existing model verifiers; its [receipt](verification/framework_battery.json) gives individual exit statuses. It explicitly excludes historical scripts that label stipulated booleans or other scripts' exit codes as closure. A passing run means **only that the selected scripts ran successfully**; it is not an independent audit of their proofs, a test of every file, a measured experiment, or a verdict on B1–B12.
+[`verification/framework_battery.py`](verification/framework_battery.py) runs a selected and evolving set of model verifiers; its [receipt](verification/framework_battery.json) gives the current count and individual exit statuses. It explicitly excludes historical scripts that label stipulated booleans or other scripts' exit codes as closure. A passing run means **only that the selected scripts ran successfully**; it is not an independent audit of their proofs, a test of every file, a measured experiment, or a verdict on B1–B12.
 
 One clock check requires NumPy. For a reproducible local environment:
 

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9b154a7f5e15d81b17eea8cb8006e934d1438c00",
-  "file_count": 1333,
+  "base_head": "80a45a2bfdcf8d3b5bdb7101c7142b7c18a8f50f",
+  "file_count": 1334,
   "files": [
     {
       "path": ".gitattributes",
@@ -320,8 +320,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 37441,
-      "sha256": "f67611a0bd817e1b6687af90580bc17736160e2fed6ba2164133484c266de9be"
+      "bytes": 37647,
+      "sha256": "07dafe3b2cd0c470760b7a40ba777eec9ef51e06a53943044cad4d598404770c"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -519,9 +519,14 @@
       "sha256": "9e1af46e7163c3825b4fb816e87c82a824d56aa3307a0b5f2af178e7c6f4288f"
     },
     {
+      "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
+      "bytes": 10417,
+      "sha256": "fd79a6ff37b03395a7689a9aa5bf7f9164dff1ffd5df097912097a2deaae8b69"
+    },
+    {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
-      "bytes": 6429,
-      "sha256": "a87a4650602ac2c6e7454f70955f2becc8c952713002c35dde621822b304bc6f"
+      "bytes": 6798,
+      "sha256": "f9f624b33c19d52e6e243a28011a35bd5875de838595c71a9a72e56ccd74b3a5"
     },
     {
       "path": "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
@@ -540,13 +545,13 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 98684,
-      "sha256": "d836782312d060e7524ca66a8d85467351052541fc7d6a75a66e7c20cb23cf8f"
+      "bytes": 98852,
+      "sha256": "81849f69ac8a0198292689af61cefb0edf6e4c513df8157051d8fb5100f8a2f2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "bytes": 31201,
-      "sha256": "65e464411b6e6811742b128ebc0841eb96d0d2da64222b55e57d5ad4b0464afb"
+      "bytes": 31253,
+      "sha256": "b05c936f48aa4840c521aada986c3edb850e94af76913c3258c6da18b2ef964a"
     },
     {
       "path": "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -4085,13 +4090,13 @@
     },
     {
       "path": "verification/foundation_battery_report_spotcheck.json",
-      "bytes": 1398,
-      "sha256": "2f4226ad874e30fb427b6030780c190603532e2674b4ebbfd012417eb11a3fa1"
+      "bytes": 1535,
+      "sha256": "329349a2c358782e4ad3e4a33be1d4e13d04eb7fe18bffc2c113814a2b46ee6b"
     },
     {
       "path": "verification/foundation_battery_report_spotcheck.py",
-      "bytes": 4006,
-      "sha256": "fee83c87613d9fbe3a54cdf8e89fb16984c2f0d75261d62eb10a6a2d5ab507dd"
+      "bytes": 4262,
+      "sha256": "4550fca95fa67d536cac7a86c85fbb629043ca9e51b307a00b10a5d608d84b3b"
     },
     {
       "path": "verification/foundation_route_comparison.json",
@@ -5005,8 +5010,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 526237,
-      "sha256": "67585e35b03578be15cbc73007c8374bb37cb05224f6ee7b7cf0691a999212a7"
+      "bytes": 527136,
+      "sha256": "2863d8665c3548d4222a8ed9bd8550cc09b8213a1650425723f5ca796ebf6213"
     },
     {
       "path": "verification/project_inventory.py",

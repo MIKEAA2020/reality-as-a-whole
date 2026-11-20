@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 414,
-  "bytes": 5537128,
-  "line_count": 55533,
-  "document_count_with_risk_phrases": 386,
+  "document_count": 415,
+  "bytes": 5548172,
+  "line_count": 55586,
+  "document_count_with_risk_phrases": 387,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2194,8 +2194,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "f67611a0bd817e1b6687af90580bc17736160e2fed6ba2164133484c266de9be",
-      "bytes": 37441,
+      "sha256": "07dafe3b2cd0c470760b7a40ba777eec9ef51e06a53943044cad4d598404770c",
+      "bytes": 37647,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2209,6 +2209,7 @@
         "6. Emergent time, fields and gravity"
       ],
       "local_links": [
+        "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
@@ -3493,9 +3494,35 @@
       ]
     },
     {
+      "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
+      "sha256": "fd79a6ff37b03395a7689a9aa5bf7f9164dff1ffd5df097912097a2deaae8b69",
+      "bytes": 10417,
+      "lines": 53,
+      "title": "Formal battery: current status and focused research plan",
+      "headings": [
+        "Formal battery: current status and focused research plan",
+        "Direct assessment",
+        "1. Which battery?",
+        "2. Gate-level status",
+        "3. Stop condition for incremental detours",
+        "4. What would change a verdict?"
+      ],
+      "local_links": [
+        "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
+        "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        13,
+        30,
+        47
+      ]
+    },
+    {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
-      "sha256": "a87a4650602ac2c6e7454f70955f2becc8c952713002c35dde621822b304bc6f",
-      "bytes": 6429,
+      "sha256": "f9f624b33c19d52e6e243a28011a35bd5875de838595c71a9a72e56ccd74b3a5",
+      "bytes": 6798,
       "lines": 51,
       "title": "Assessment of the SEEP foundation battery, v1",
       "headings": [
@@ -4408,8 +4435,8 @@
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
-      "sha256": "65e464411b6e6811742b128ebc0841eb96d0d2da64222b55e57d5ad4b0464afb",
-      "bytes": 31201,
+      "sha256": "b05c936f48aa4840c521aada986c3edb850e94af76913c3258c6da18b2ef964a",
+      "bytes": 31253,
       "lines": 183,
       "title": "Supporting audit and battery protocol",
       "headings": [
@@ -4482,7 +4509,6 @@
         52,
         63,
         89,
-        123,
         124,
         127,
         136,
