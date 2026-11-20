@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f41d1139958c044baffcbab7c6037186a0058d49",
-  "file_count": 1248,
+  "base_head": "3cc03521031ceeb95d876ae60adb47ecdb9c857e",
+  "file_count": 1252,
   "files": [
     {
       "path": ".gitattributes",
@@ -290,8 +290,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 27378,
-      "sha256": "1c372d7d2847a3a3245c9c0c28aa4cc2944ff8fe9df0343125319c0f8c861599"
+      "bytes": 27599,
+      "sha256": "db19baf18c18a5246493bcb68a4a06c8136b533f493487b45c7648d277112b57"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -495,8 +495,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 89966,
-      "sha256": "2881ad07100fe07fa3bac0e179de952c10e832b2879e493e6fc53a8ddf22b8eb"
+      "bytes": 90336,
+      "sha256": "685f14610f5739c9e060762731f3648e7f91882c19f5cf557c725e1707157d7b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1545,8 +1545,13 @@
     },
     {
       "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
-      "bytes": 8715,
-      "sha256": "8e26d63ddb9907dc12ca9cc184cbb65d4d96fe756c18de2b1d528bf282736823"
+      "bytes": 9191,
+      "sha256": "7c8f29f4310b0af1c581ba29d86390f2bbd62e7e3c15ed74b55b67d8d7d928cb"
+    },
+    {
+      "path": "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
+      "bytes": 10235,
+      "sha256": "2a55fc0ae1a95e069c64e83c067dca31f230974f4b8a7b3082b7b3b1534a0a89"
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -3119,6 +3124,11 @@
       "sha256": "c8a9318d0afa4d79dbf3d9f61135756b896dcc6c2174e939926e466e53e529e7"
     },
     {
+      "path": "sources/uploads/everything-is-a-wave.txt",
+      "bytes": 20458,
+      "sha256": "ac4eb842cf6231c3a884e6f27305476b62eec2950429333c435c587b0d817fd0"
+    },
+    {
       "path": "sources/uploads/four-criteria-whole-account-updated.md",
       "bytes": 73826,
       "sha256": "799f5c6583a02ed7bb313b4850b7bcaf5a23add9fc4f3ada8869892e7ed3d493"
@@ -4660,8 +4670,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 486114,
-      "sha256": "90e23674d8d9f9a7d798fcfdb7f552fa94a5e2045637ddb64efd7675706c8cd1"
+      "bytes": 487675,
+      "sha256": "2f9fb91e9fbc3c488ed72987d8951d1af0d08c455159e4cd3696352c85de3de8"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5982,6 +5992,16 @@
       "path": "verification/universal_subject_lf_tradeoff.py",
       "bytes": 3473,
       "sha256": "6f5070d6d7973be1b184f7d3422c68a195e560cb7ba1f929f6534877d924b3e8"
+    },
+    {
+      "path": "verification/vedral_energy_and_locality_gate.json",
+      "bytes": 620,
+      "sha256": "479508542710d561ed27780edeede8e36aac0f98cb6b0815cc9490e5a2784c85"
+    },
+    {
+      "path": "verification/vedral_energy_and_locality_gate.py",
+      "bytes": 2803,
+      "sha256": "a9f3c82ff01c68cb618f45fc2f7c4cb30e82cca84684e62a7c56ee37805660a3"
     },
     {
       "path": "verification/vedral_free_spread_gate.json",

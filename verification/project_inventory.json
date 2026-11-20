@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 384,
-  "bytes": 5083034,
-  "line_count": 52671,
-  "document_count_with_risk_phrases": 358,
+  "document_count": 385,
+  "bytes": 5093966,
+  "line_count": 52727,
+  "document_count_with_risk_phrases": 359,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2028,8 +2028,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "1c372d7d2847a3a3245c9c0c28aa4cc2944ff8fe9df0343125319c0f8c861599",
-      "bytes": 27378,
+      "sha256": "db19baf18c18a5246493bcb68a4a06c8136b533f493487b45c7648d277112b57",
+      "bytes": 27599,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2050,6 +2050,7 @@
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
@@ -11180,8 +11181,8 @@
     },
     {
       "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
-      "sha256": "8e26d63ddb9907dc12ca9cc184cbb65d4d96fe756c18de2b1d528bf282736823",
-      "bytes": 8715,
+      "sha256": "7c8f29f4310b0af1c581ba29d86390f2bbd62e7e3c15ed74b55b67d8d7d928cb",
+      "bytes": 9191,
       "lines": 37,
       "title": "Quantum waves, records, and experiential plurality",
       "headings": [
@@ -11193,6 +11194,8 @@
       ],
       "local_links": [
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
+        "sources/uploads/everything-is-a-wave.txt",
+        "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
         "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
@@ -11205,6 +11208,40 @@
       "risk_phrase_lines": [
         25,
         31
+      ]
+    },
+    {
+      "path": "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
+      "sha256": "2a55fc0ae1a95e069c64e83c067dca31f230974f4b8a7b3082b7b3b1534a0a89",
+      "bytes": 10235,
+      "lines": 56,
+      "title": "Vedral's quantum-wave article: sources, conservation and perspective",
+      "headings": [
+        "Vedral's quantum-wave article: sources, conservation and perspective",
+        "Sources and scope",
+        "Vedral's proposal and the earlier comment",
+        "The displayed equation differs across versions",
+        "Conservation: conditioning is not automatically a physical violation",
+        "Locality, correlations and what q-waves do not establish",
+        "Relevance to an experiential, timeless relational whole"
+      ],
+      "local_links": [
+        "sources/uploads/everything-is-a-wave.txt",
+        "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
+        "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "verification/vedral_free_spread_gate.py",
+        "verification/vedral_energy_and_locality_gate.py",
+        "verification/vedral_energy_and_locality_gate.json",
+        "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        13,
+        30,
+        36,
+        38,
+        40
       ]
     },
     {

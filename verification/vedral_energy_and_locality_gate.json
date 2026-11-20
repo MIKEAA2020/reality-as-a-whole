@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "scope": "two-qubit idealized closed-system unitary, not relativistic QFT, collapse dynamics, or experience",
+  "energy_generator_commutes_with_measurement_unitary": true,
+  "pre_and_post_energy_distribution": {
+    "0": "1/2",
+    "1": "1/2"
+  },
+  "pre_and_post_mean_energy": "1/2",
+  "conditional_pointer_outcomes": [
+    {
+      "probability": "1/2",
+      "conditional_energy": "0"
+    },
+    {
+      "probability": "1/2",
+      "conditional_energy": "1"
+    }
+  ],
+  "local_phase_flip_preserves_both_reduced_states": true,
+  "XX_correlation_before": "1",
+  "XX_correlation_after": "-1"
+}
