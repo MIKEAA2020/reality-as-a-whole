@@ -1,6 +1,6 @@
 {
   "status": "all_selected_scripts_exited_zero",
-  "count": 30,
+  "count": 31,
   "scope": "Regression checks for selected finite models only. No pass/fail judgment on the full philosophical framework, factual truth of assumptions, human consciousness, empirical claims, or quantum gravity. Script exit codes are not independent verification of their claims. Historical closure-claim aggregators intentionally excluded.",
   "results": [
     {
@@ -120,6 +120,12 @@
     {
       "name": "latent_experience",
       "script": "verification/latent_experience_three_probes.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "experiential_mismatch_transport",
+      "script": "verification/experiential_mismatch_transport_gate.py",
       "result": "passed",
       "exit_code": 0
     },

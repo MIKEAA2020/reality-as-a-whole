@@ -104,6 +104,8 @@ The experiential candidate may ultimately offer a better explanation: its base i
 | B6–B8 | A declared classical local interface. | Derive appropriate quantum physics, local spacetime/time and gravity, and their controlled continuum behavior from a common account. No such derivation is supplied here. |
 | B9–B12 | The same rules let rival assumptions and observable consequences be compared explicitly. | Justify subject measure, independently validated assays, held-out predictions, and total explanatory cost. |
 
+The [calibration-transport gate](EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md) adds a sharp conditional bound on how a separately warranted source-domain mismatch–experience error can change in a target domain, and shows why equal coarse mismatch distributions do not ensure preserved experiential predictions. It does not establish the required experiential anchor or its stability.
+
 The next substantive challenge is to identify a defensible reason for the experiential-ground claim that the neutral rival does not share **without asserting it as a definition**, while also replacing the toy subject/valence postulates with a real, separately anchored test. Direct experience and no-nothingness remain important starting points; neither is discarded. If no such reason is found, the correct verdict is that E-L's ground remains unestablished—not that neutral grounding is thereby true. No numerical proximity to a full battery pass follows.
 
 ## Reproduction

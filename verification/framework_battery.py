@@ -32,6 +32,7 @@ TESTS = [
     ('collapse_identifiability', 'verification/experience_collapse_identifiability.py'),
     ('shared_and_independent_reports', 'verification/shared_vs_independent_reports.py'),
     ('latent_experience', 'verification/latent_experience_three_probes.py'),
+    ('experiential_mismatch_transport', 'verification/experiential_mismatch_transport_gate.py'),
     ('awareness_ignition_calibration', 'verification/awareness_ignition_partial_identification.py'),
     ('random_report_audit', 'verification/random_audit_experience_bridge.py'),
     ('valence_proxy', 'verification/phase_frustration_audit.py'),

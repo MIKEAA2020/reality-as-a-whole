@@ -1,0 +1,22 @@
+{
+  "scope": "Exact finite probability exercises; no real experiences, assay, shift-invariance or empirical calibration established.",
+  "example": {
+    "source": [
+      "3/4",
+      "1/4"
+    ],
+    "target": [
+      "1/4",
+      "3/4"
+    ],
+    "source_error_bound": "1/20",
+    "saturating_conditional_errors": [
+      "0",
+      "1/5"
+    ],
+    "sharp_target_error_bound": "3/20"
+  },
+  "unsupported_target_mass_with_zero_source_error": "1/2",
+  "identical_marginal_zero_error_if_kernel_stable": "0",
+  "three_cell_rational_grid_cases_checked_against_dual_and_vertex_enumeration": 1125
+}

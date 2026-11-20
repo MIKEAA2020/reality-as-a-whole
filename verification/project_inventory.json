@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 400,
-  "bytes": 5309754,
-  "line_count": 54273,
-  "document_count_with_risk_phrases": 373,
+  "document_count": 401,
+  "bytes": 5323695,
+  "line_count": 54383,
+  "document_count_with_risk_phrases": 374,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2135,9 +2135,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "6b11fc87c17f2dfed181e06ba4134873f8eac23c20c7d717f31bbdaa2f0e9bdf",
-      "bytes": 35057,
-      "lines": 259,
+      "sha256": "6a43696ade1528d2446cdd876364d1b750d4b836d7d8bb3c80f88b5fbd21ba76",
+      "bytes": 35364,
+      "lines": 261,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -2151,6 +2151,7 @@
       ],
       "local_links": [
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
@@ -2180,10 +2181,10 @@
       ],
       "risk_phrase_lines": [
         15,
-        113,
-        211,
-        241,
-        249
+        115,
+        213,
+        243,
+        251
       ]
     },
     {
@@ -2905,6 +2906,33 @@
       ]
     },
     {
+      "path": "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+      "sha256": "fe2972df5baa71f2d650c67e5c68ba3ebf7807ca635ae8ed7873ab04cdedfc97",
+      "bytes": 12547,
+      "lines": 102,
+      "title": "Transporting an experiential mismatch test between conditions",
+      "headings": [
+        "Transporting an experiential mismatch test between conditions",
+        "Aim and result",
+        "1. Specify one anchored contrast",
+        "2. Exact sharp target bound under stable conditional errors",
+        "3. Concrete example: more mismatch in the target",
+        "4. The same observed mismatch distribution can conceal failure",
+        "5. Allowing some condition drift",
+        "6. What this does and does not advance"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "verification/experiential_mismatch_transport_gate.py",
+        "verification/experiential_mismatch_transport_gate.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        36,
+        49
+      ]
+    },
+    {
       "path": "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
       "sha256": "c12e672e7b5cf0ba3a640c35598d6c8f6556ef72af4982ce52d9b62d9b77e3a1",
       "bytes": 9549,
@@ -3440,9 +3468,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f45f0a7a1add3477abb6b39bbc1723c510e08a49a59ec4f6d2855a8a4d829902",
-      "bytes": 94746,
-      "lines": 777,
+      "sha256": "bb536eeebfc4800c531f9d08a328bdb2abf321db73e8dcfce4d927b946125db8",
+      "bytes": 95032,
+      "lines": 779,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3541,6 +3569,7 @@
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
@@ -3956,6 +3985,7 @@
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
         "verification/experiential_grounding_rival_gate.py",
+        "verification/experiential_mismatch_transport_gate.py",
         "verification/field_readout_energy_bound.py",
         "verification/finite_agreement_bell_gate.py",
         "verification/finite_completion_clock.py",
@@ -4209,18 +4239,18 @@
         38,
         42,
         51,
-        102,
-        171,
-        210,
-        229,
-        273,
-        347,
-        361,
-        397,
-        406,
-        409,
-        412,
-        464
+        103,
+        172,
+        211,
+        230,
+        274,
+        348,
+        362,
+        398,
+        407,
+        410,
+        413,
+        465
       ]
     },
     {
@@ -5218,9 +5248,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "2457c51f3a9ebb1f693af27e251d24963c5432fc52cf227aa1303ab484113e36",
-      "bytes": 16900,
-      "lines": 111,
+      "sha256": "d3d0116788701aff8ccdf83fdd3051a9a6af1bc42cbf65954eb7183ad8d5cbdb",
+      "bytes": 17294,
+      "lines": 113,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -5240,6 +5270,7 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "verification/integrated_experiential_misalignment_candidate.py",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
@@ -5247,7 +5278,7 @@
         58,
         62,
         95,
-        111
+        113
       ]
     },
     {
@@ -7219,9 +7250,9 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "5ff843fe701240b875dbe065135313957f5c6df8d041cea582d858f623e1ee62",
-      "bytes": 10970,
-      "lines": 44,
+      "sha256": "26e8b01031e796f062bdcc960af6eee229c0cc7ac007636a2f051e11cebd8607",
+      "bytes": 11377,
+      "lines": 46,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
         "After the Roy data: decision and framework critical path",
@@ -7242,6 +7273,7 @@
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md"

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 357 root Markdown documents including this register; 43 research Markdown documents.
-- 44 original uploaded files, including provenance metadata; 300 verification Python scripts.
+- 358 root Markdown documents including this register; 43 research Markdown documents.
+- 44 original uploaded files, including provenance metadata; 301 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -97,6 +97,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
 - [EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md](EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md) — Can experiential organization do the work of a physical basis?
 - [EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) — Experiential grounding: a positive candidate and its strongest rival
+- [EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md](EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md) — Transporting an experiential mismatch test between conditions
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
 - [FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md](FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md) — From exact quantum agreement to finite evidence
@@ -526,6 +527,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
+- [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
 - [verification/finite_agreement_bell_gate.py](verification/finite_agreement_bell_gate.py)
 - [verification/finite_completion_clock.py](verification/finite_completion_clock.py)
