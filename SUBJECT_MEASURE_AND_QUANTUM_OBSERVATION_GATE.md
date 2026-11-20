@@ -10,7 +10,7 @@ Even **granting** standard quantum weights, a framework with plural experiential
 
 Both use the same quantum weights and the same counts. Neither rule follows from plenitude alone. The two numbers answer different selection questions; the `1/2` is **not** an ordinary prediction for a fixed laboratory observer measuring a qubit with Born probability `1/4`. The three-observer scenario is hypothetical, not an asserted physical experiment. Nothing here requires actual simulations, an external creator, or one universal conscious subject.
 
-This develops a quantitative interface for the project's unresolved subject measure, including a conditional calibration bound and a check against misleading representation-dependent counting. The underlying observation-selection and quantum-measure problems are **known**, not discoveries claimed by this project.
+This develops a quantitative interface for the project's unresolved subject measure, including a conditional calibration bound and a check against misleading representation-dependent counting. The subsequent [Kent-like history and observation-recovery analysis](KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md) extends the same interface to imperfect or indefinite local records, selected-class error bounds, and Bell-context consistency. The underlying observation-selection and quantum-measure problems are **known**, not discoveries claimed by this project.
 
 ## 1. Established work and the project's different question
 

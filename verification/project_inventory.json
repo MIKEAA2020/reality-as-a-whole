@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 421,
-  "bytes": 5620511,
-  "line_count": 55953,
-  "document_count_with_risk_phrases": 393,
+  "document_count": 422,
+  "bytes": 5635967,
+  "line_count": 56056,
+  "document_count_with_risk_phrases": 394,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3648,9 +3648,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5f8e1d96b47173b0db34147f2d54771c8dc2b38700218a3986d1dadb40e6c440",
-      "bytes": 99966,
-      "lines": 814,
+      "sha256": "c5a3b888b27cf345d255ec8088465f3a8455fd609c5af055080f54cad0285ec0",
+      "bytes": 100459,
+      "lines": 818,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3806,6 +3806,8 @@
         "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
+        "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+        "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
         "KERR_BOUNCE_ROTATIONAL.md",
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
@@ -4115,6 +4117,7 @@
         "sources/uploads/four-criteria-whole-account-updated.md",
         "sources/uploads/four-criteria-whole-account.md",
         "sources/uploads/kammerer2019.pdf",
+        "sources/uploads/kent2015.pdf",
         "sources/uploads/leibniz-monadology-latta.pdf",
         "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
         "sources/uploads/merker2007.pdf",
@@ -4241,6 +4244,7 @@
         "verification/internal_reference_event.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/kent_final_record_toy_gate.py",
         "verification/kerr_bounce_rotational.py",
         "verification/kms_beta_two_pi.py",
         "verification/knowability_actuality_gate.py",
@@ -4455,17 +4459,17 @@
         43,
         52,
         108,
-        181,
-        223,
-        244,
-        291,
-        367,
-        381,
-        417,
-        426,
-        429,
-        432,
-        488
+        183,
+        225,
+        246,
+        293,
+        369,
+        383,
+        419,
+        428,
+        431,
+        434,
+        491
       ]
     },
     {
@@ -5693,8 +5697,8 @@
     },
     {
       "path": "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
-      "sha256": "b9cb08cc1b1660ac59d862e1a2fbf969f22d6d7a7f314600117dfcd8b4cfe8a4",
-      "bytes": 10312,
+      "sha256": "e72011708889ae7a1b4bf26a25a0c7bc2b214e8353b6481763230dbed1eb89f6",
+      "bytes": 10567,
       "lines": 46,
       "title": "Kent's Lorentzian quantum reality: full-paper and beable audit",
       "headings": [
@@ -5708,11 +5712,39 @@
       "local_links": [
         "sources/uploads/kent2015.pdf",
         "verification/kent_final_record_toy_gate.py",
-        "verification/kent_final_record_toy_gate.json"
+        "verification/kent_final_record_toy_gate.json",
+        "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md"
       ],
       "risk_phrase_lines": [
         17,
         27
+      ]
+    },
+    {
+      "path": "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
+      "sha256": "c6b9c0802208f68f3113e40ecbd015790e6b10076d2ee7021fe65d715af02499",
+      "bytes": 14461,
+      "lines": 99,
+      "title": "From Kent-like histories to observed quantum statistics",
+      "headings": [
+        "From Kent-like histories to observed quantum statistics",
+        "1. The outstanding problem",
+        "2. Prior work and source scope",
+        "3. One fixed measurement, three different structures",
+        "4. Record recovery plus selection: a joint bound",
+        "5. Numerical diagnostic, not an empirical finding",
+        "6. Joint records and Bell consistency",
+        "7. What would advance the battery?"
+      ],
+      "local_links": [
+        "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+        "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        40,
+        67
       ]
     },
     {
@@ -10646,8 +10678,8 @@
     },
     {
       "path": "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
-      "sha256": "c6c1bc71a6c72fd6b0233c3782e49f4d7c5325aa17c814aaea5663bddbc8a578",
-      "bytes": 13981,
+      "sha256": "7f4a2d541b86b3da55cbe236f51d537983ad9a06478a7d1a7b8d7ceb0d750112",
+      "bytes": 14228,
       "lines": 115,
       "title": "From quantum weights to plural perspectives: an observation-selection gate",
       "headings": [
@@ -10661,6 +10693,7 @@
         "6. Substrate and redescription requirement"
       ],
       "local_links": [
+        "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
         "verification/subject_measure_selection_gate.json",
         "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md"
       ],
