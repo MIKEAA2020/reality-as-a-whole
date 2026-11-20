@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 442,
-  "bytes": 5860393,
-  "line_count": 57286,
-  "document_count_with_risk_phrases": 414,
+  "document_count": 444,
+  "bytes": 5877502,
+  "line_count": 57386,
+  "document_count_with_risk_phrases": 416,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3750,9 +3750,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "914d200c18a2aad0de24ac9ab2d42928ad7b44eea0be646794b5a66d1cac7c52",
-      "bytes": 17131,
-      "lines": 73,
+      "sha256": "31cc630fc9b78bbab92b9c339dff7dea30a7cf07f490ac9e843676116c681837",
+      "bytes": 17705,
+      "lines": 75,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3779,6 +3779,7 @@
         "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
         "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
+        "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3787,9 +3788,9 @@
         5,
         9,
         25,
-        33,
-        50,
-        67
+        35,
+        52,
+        69
       ]
     },
     {
@@ -3895,9 +3896,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2b35b9debb5001246b4ec7586690e78d2733ad6df009fe18e8a08dcb9fd6cc16",
-      "bytes": 105998,
-      "lines": 857,
+      "sha256": "18f8e71a82602bf883a4b21031d02d90a4e159637324b18a1f0eab3f0decfd5b",
+      "bytes": 106497,
+      "lines": 861,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4082,6 +4083,8 @@
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
         "MAINTENANCE_BROADCAST_SEPARATION.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
+        "MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md",
         "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
         "MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md",
         "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
@@ -4535,6 +4538,8 @@
         "verification/localized_preparation.py",
         "verification/lp_persistency_and_moment_gate.py",
         "verification/maintained_disclosure_contrast.py",
+        "verification/meeg_bounded_signal_audit.py",
+        "verification/meeg_bounded_signal_audit_test.py",
         "verification/met_label_alignment_screen.py",
         "verification/met_label_alignment_screen_test.py",
         "verification/microtubule_mediation_rival.py",
@@ -4745,17 +4750,17 @@
         47,
         56,
         118,
-        197,
-        243,
-        265,
-        312,
-        388,
-        403,
-        439,
-        448,
-        451,
-        454,
-        513
+        199,
+        245,
+        267,
+        314,
+        390,
+        405,
+        441,
+        450,
+        453,
+        456,
+        515
       ]
     },
     {
@@ -6552,6 +6557,51 @@
         23,
         33,
         67
+      ]
+    },
+    {
+      "path": "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
+      "sha256": "09e9dcce8701847204575debb0b2cc4437af7a42029bd904a9efed440f862f4e",
+      "bytes": 12467,
+      "lines": 83,
+      "title": "A bounded music-EEG signal and the limits of its labels",
+      "headings": [
+        "A bounded music-EEG signal and the limits of its labels",
+        "Main result",
+        "Source, task and what the data establish",
+        "1. Exact code and bounded experiment",
+        "inside notch_filter_per_channel:",
+        "2. Evaluation design: outer trials versus inner segments",
+        "3. Consequences and next step",
+        "Reproduction and source scope"
+      ],
+      "local_links": [
+        "MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md",
+        "verification/meeg_bounded_signal_audit.py",
+        "verification/meeg_bounded_signal_audit_test.py",
+        "verification/meeg_bounded_signal_audit.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        20,
+        22,
+        41,
+        58,
+        70
+      ]
+    },
+    {
+      "path": "MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md",
+      "sha256": "64554c80f91e413ccee764307776bf021d756a6810cbc8a3e7cf664c81231576",
+      "bytes": 3569,
+      "lines": 11,
+      "title": "MEEG bounded signal and preprocessing audit plan",
+      "headings": [
+        "MEEG bounded signal and preprocessing audit plan"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {

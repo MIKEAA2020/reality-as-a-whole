@@ -26,6 +26,8 @@ The [observed phase-lag versus physical frustration gate](OBSERVED_PHASE_LAGS_VE
 
 The [Daly existing-comparator audit](DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md) finds that a third-party beta-power pipeline requests 20-second windows despite 12-second clips, and that question markers fall in all 1,240 requested windows. Its parser's locally executed target outputs change in 815 intervals if equal-timestamp rows are reversed, and stimulus IDs frequently lack an inspected codebook justification. These are metadata and code warnings, not an EEG replay or a judgment on the original Daly papers. They block accepting that pipeline's reported near-zero pleasantness association as a validated listening-only comparator; they do not establish the actual correlation or change B4–B5/B10.
 
+The [MEEG bounded signal and pipeline audit](MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md) decodes 59,900 finite samples from one public example channel using a 256 KiB compressed prefix. The pinned code's intended 50 Hz notch discards its filtered output; the isolated helper is centered at 25 Hz under the relevant SciPy convention. The paper does not independently establish same-trial felt reports from its music-based labels, and the single-channel check is not a frustration, quality or subject assay. The paper's training run was not replayed; B4–B5/B10 remain open.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

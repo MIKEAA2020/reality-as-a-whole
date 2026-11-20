@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7eb432ca09bd7abad125ef283a0317590e260b9e",
-  "file_count": 1400,
+  "base_head": "8ef1ac1950d96bb20e26c43a6080d88102d9f430",
+  "file_count": 1405,
   "files": [
     {
       "path": ".gitattributes",
@@ -575,8 +575,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 17131,
-      "sha256": "914d200c18a2aad0de24ac9ab2d42928ad7b44eea0be646794b5a66d1cac7c52"
+      "bytes": 17705,
+      "sha256": "31cc630fc9b78bbab92b9c339dff7dea30a7cf07f490ac9e843676116c681837"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -600,8 +600,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 105998,
-      "sha256": "2b35b9debb5001246b4ec7586690e78d2733ad6df009fe18e8a08dcb9fd6cc16"
+      "bytes": 106497,
+      "sha256": "18f8e71a82602bf883a4b21031d02d90a4e159637324b18a1f0eab3f0decfd5b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -872,6 +872,16 @@
       "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
       "bytes": 11561,
       "sha256": "0fc798e568f49192fc0cc026f0766a08e1581be91ec6b17a7381137e3fff5a01"
+    },
+    {
+      "path": "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
+      "bytes": 12467,
+      "sha256": "09e9dcce8701847204575debb0b2cc4437af7a42029bd904a9efed440f862f4e"
+    },
+    {
+      "path": "MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md",
+      "bytes": 3569,
+      "sha256": "64554c80f91e413ccee764307776bf021d756a6810cbc8a3e7cf664c81231576"
     },
     {
       "path": "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
@@ -4834,6 +4844,21 @@
       "sha256": "6e7d54277d0f7388f043a68ace3f96a6b0a7d6ca0ba3d257630287eacf5d2aa7"
     },
     {
+      "path": "verification/meeg_bounded_signal_audit.json",
+      "bytes": 1929,
+      "sha256": "28d0459dad5f3e7ddf99e92a35fb2eff224ca15e57229ffd0e7e53f13d3f56b2"
+    },
+    {
+      "path": "verification/meeg_bounded_signal_audit.py",
+      "bytes": 6522,
+      "sha256": "4f7a9a6fe90fb307c37ebe8028675c66cb81c18396365ab438e79ed6b95c9bae"
+    },
+    {
+      "path": "verification/meeg_bounded_signal_audit_test.py",
+      "bytes": 1518,
+      "sha256": "8c1d8461d8686ed565d728d2715aab0481d657ecb860c45feace91773fe39422"
+    },
+    {
       "path": "verification/met_label_alignment_screen.json",
       "bytes": 1674,
       "sha256": "05c198209ed3d827ddbde67a5078555261367a2af0624d463c27374e79555e43"
@@ -5315,8 +5340,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 555113,
-      "sha256": "92137f903fe35553f6772dc208902c785c3364b966d2e19ebceaeaf404f73f22"
+      "bytes": 557282,
+      "sha256": "4e7bc381597587ac33d4f76ce5a7da3a592dfff70a795429fab21061098531db"
     },
     {
       "path": "verification/project_inventory.py",

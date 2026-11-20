@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 399 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 330 verification Python scripts.
+- 401 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 332 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -183,6 +183,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast
 - [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
 - [MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md](MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md) — Matched stimulus, reported unpleasantness and the missing bridge
+- [MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md](MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md) — A bounded music-EEG signal and the limits of its labels
+- [MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md](MEEG_BOUNDED_SIGNAL_AND_PREPROCESSING_FIXED_PLAN.md) — MEEG bounded signal and preprocessing audit plan
 - [MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md](MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md) — Merker: subcortical consciousness and the perspective problem
 - [MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md](MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md) — Fixed retrospective screen: music valence reports and EEG alignment
 - [MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) — Music valence reports: a keyed dataset and held-out baselines
@@ -650,6 +652,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/localized_preparation.py](verification/localized_preparation.py)
 - [verification/lp_persistency_and_moment_gate.py](verification/lp_persistency_and_moment_gate.py)
 - [verification/maintained_disclosure_contrast.py](verification/maintained_disclosure_contrast.py)
+- [verification/meeg_bounded_signal_audit.py](verification/meeg_bounded_signal_audit.py)
+- [verification/meeg_bounded_signal_audit_test.py](verification/meeg_bounded_signal_audit_test.py)
 - [verification/met_label_alignment_screen.py](verification/met_label_alignment_screen.py)
 - [verification/met_label_alignment_screen_test.py](verification/met_label_alignment_screen_test.py)
 - [verification/microtubule_mediation_rival.py](verification/microtubule_mediation_rival.py)

@@ -1,0 +1,51 @@
+{
+  "archive_compressed_size_bytes": 96062569,
+  "archive_git_blob": "09359f5e5466a93010d8471d2e5f04d6252912c0",
+  "called_filter_center_hz": 25,
+  "compressed_prefix_bytes": 262144,
+  "compressed_prefix_sha256": "41746450387a6ab7e940228753b8c991c458b11ae114300f22c02618e6f40aab",
+  "corrected_filter_center_hz": 50,
+  "environment": {
+    "numpy": "2.4.3",
+    "python": "3.11.2",
+    "scipy": "1.17.1"
+  },
+  "filter_quality_factor": 50,
+  "first_trial_first_channel": {
+    "bandpassed_signal_diagnostic": {
+      "caller_input_unchanged": true,
+      "caller_output_identical": true,
+      "corrected_25hz_power_ratio": 0.9996388796996312,
+      "corrected_50hz_power_ratio": 0.002677108331665084,
+      "standalone_25hz_power_ratio": 0.0923746099672678,
+      "standalone_50hz_power_ratio": 0.9996487122184735
+    },
+    "decoded_float64_bytes_sha256": "9b9ffdae1cff24a9466e45755c6cd2fe5ab387cc7d664c9b89adde3b5da8fe83",
+    "finite_samples": 59900,
+    "header_declared_array_shape": [
+      20,
+      32,
+      59900
+    ],
+    "samples_decoded": 59900
+  },
+  "sample_rate_hz": 1000,
+  "scope": "one prefix/one channel, no labels, no complete-archive verification or neural-experience inference",
+  "source_commit": "9136727e6a1d7370cf0cd8fbf057a7662efd17fc",
+  "synthetic_diagnostic": {
+    "caller_input_unchanged": true,
+    "caller_output_identical": true,
+    "corrected_25hz_power_ratio": 0.9996401148717448,
+    "corrected_50hz_power_ratio": 1.4875682527579252e-05,
+    "standalone_25hz_power_ratio": 0.0003726117728110723,
+    "standalone_50hz_power_ratio": 0.9996489210016909
+  },
+  "synthetic_fold_witness": {
+    "inner_trial_overlap": 3,
+    "note": "synthetic split witness; not the actual paper folds",
+    "outer_test_trials": 1,
+    "outer_training_trials": 3,
+    "outer_trial_overlap": 0
+  },
+  "upstream_preprocessing_source_sha256": "805b808534184465dc79bc6b3a85e8aba039273a44731fb629752aa77eb58984"
+}
