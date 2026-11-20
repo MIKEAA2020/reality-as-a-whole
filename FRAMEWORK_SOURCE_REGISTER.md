@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 350 root Markdown documents including this register; 43 research Markdown documents.
-- 41 original uploaded files, including provenance metadata; 296 verification Python scripts.
+- 354 root Markdown documents including this register; 43 research Markdown documents.
+- 41 original uploaded files, including provenance metadata; 299 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -49,6 +49,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination
 - [COMMUTANT_STEERING_AND_COST.md](COMMUTANT_STEERING_AND_COST.md) — An exact preparation-cost law without local density matrices
 - [COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md](COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md) — Competing rules for subjects: an explicit construction and locality test
+- [COMPLEMENTARY_CORRELATIONS_AND_ENTANGLEMENT_IDENTIFICATION.md](COMPLEMENTARY_CORRELATIONS_AND_ENTANGLEMENT_IDENTIFICATION.md) — What complementary correlations establish—and what they leave undetermined
 - [COMPLETE_AWARENESS_FINITE_DISCLOSURE.md](COMPLETE_AWARENESS_FINITE_DISCLOSURE.md) — Complete awareness and finite disclosure
 - [COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md](COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md) — Complete intelligibility: grounded determination, not an exemption from explanation
 - [COMPLETE_SELF_KNOWLEDGE.md](COMPLETE_SELF_KNOWLEDGE.md) — Complete self-knowledge without a semantically total self-model
@@ -171,6 +172,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) — Necessary plenitude, plural subjects and simulation: a constructed candidate
 - [NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md](NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md) — Can total response identify state mismatch without resolving every channel?
 - [NEURAL_TIMING_CONSTITUTION_AUDIT.md](NEURAL_TIMING_CONSTITUTION_AUDIT.md) — Can neural activation duration supply the missing episode clock?
+- [NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md](NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md) — Bell experiments and quantum information: the Nobel research
 - [NONADDITIVE_CONSTITUTION_ARGUMENT.md](NONADDITIVE_CONSTITUTION_ARGUMENT.md) — A substantive constitutive argument: non-additive qualitative realization
 - [NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md) — Revising the whole-account for a non-optimal world
 - [NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md](NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md) — Does a non-optimal universe affect reality as a whole?
@@ -293,6 +295,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md](SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md) — Subject weights, steering and no-signalling
 - [SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md](SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md) — Substrate, context and the time horizon of an organizational match
 - [SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) — Substrate-independence, context and the boundaries of subjects
+- [SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md](SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md) — Entanglement swapping, heralding and perspective selection
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
 - [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
 - [TAKESAKI_DUAL_TYPEIII1.md](TAKESAKI_DUAL_TYPEIII1.md) — Takesaki duality and the type III₁ universal Tomita weight
@@ -305,6 +308,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md](THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md) — Sharper cutoff certificate for the 3+1 field–probe model
 - [THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) — A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle
 - [TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md](TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md) — Timeless class operators, decoherence, and joint events
+- [TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md](TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md) — Timeless ground, located totality and experiential actuality
 - [TIME_DECISIVE_TEST_GRAVITY_RECORD.md](TIME_DECISIVE_TEST_GRAVITY_RECORD.md) — Problem of time: a decisive test on a gravitating clock, and the remaining gap
 - [TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md](TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md) — Timeless whole, local time and a quantum world
 - [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
@@ -486,6 +490,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/collective_context_leakage_gate.py](verification/collective_context_leakage_gate.py)
 - [verification/collective_response_common_cause_gate.py](verification/collective_response_common_cause_gate.py)
 - [verification/competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py)
+- [verification/complementary_visibility_entanglement_gate.py](verification/complementary_visibility_entanglement_gate.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
@@ -708,6 +713,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
 - [verification/subject_measure_selection_gate.py](verification/subject_measure_selection_gate.py)
 - [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)
+- [verification/swapping_herald_selection_gate.py](verification/swapping_herald_selection_gate.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
 - [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
 - [verification/temporal_marginal_parity_gate.py](verification/temporal_marginal_parity_gate.py)
@@ -720,6 +726,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/timbre_interval_crossover_gate.py](verification/timbre_interval_crossover_gate.py)
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
 - [verification/timeless_symmetrized_class_gate.py](verification/timeless_symmetrized_class_gate.py)
+- [verification/timeless_whole_location_gate.py](verification/timeless_whole_location_gate.py)
 - [verification/tolman_cocycle.py](verification/tolman_cocycle.py)
 - [verification/top_higgs_spectral_prediction.py](verification/top_higgs_spectral_prediction.py)
 - [verification/torus_gravity_second_order.py](verification/torus_gravity_second_order.py)

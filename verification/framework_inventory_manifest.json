@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5dac1ba0107f84b39650738289a9c7b426d793e8",
-  "file_count": 1276,
+  "base_head": "518828f6f9bf7089aa01a67f9bda244c5a3c69b2",
+  "file_count": 1286,
   "files": [
     {
       "path": ".gitattributes",
@@ -194,6 +194,11 @@
       "sha256": "5176653459cf1c2d7c662b1ff9ddee9b8af3a267f8a24be19c414fa470355fa7"
     },
     {
+      "path": "COMPLEMENTARY_CORRELATIONS_AND_ENTANGLEMENT_IDENTIFICATION.md",
+      "bytes": 11197,
+      "sha256": "dc3442c5de0cd3cfc73320ef0a477d66fdba4708c6762997978766084ee38f59"
+    },
+    {
       "path": "COMPLETE_AWARENESS_FINITE_DISCLOSURE.md",
       "bytes": 22853,
       "sha256": "a56a48b17ef0e4164e86fbb1c7870467e37db22681da1c903b0f047058c65a27"
@@ -300,8 +305,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 30558,
-      "sha256": "a2762edeb3fa7380f4ed16f2a0ae81bc1670abca16a822ae6867a53dfd8f5618"
+      "bytes": 32090,
+      "sha256": "696881f182520ac841ef3b18f09b0907d906ecd4168c775c140059681fcda30a"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -505,8 +510,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 92518,
-      "sha256": "0da88984a83011f4b1edd5084391b835ca98eeb4147591924d035353ddb8f926"
+      "bytes": 93549,
+      "sha256": "7e45defe84cb8914b22aabf1790a32fdb52e5dfb71ba62f7f3e6f99b0565682d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -814,6 +819,11 @@
       "sha256": "13515745fbdacf5d4888c99d3b8a262274b7d4baed0ecc2b7821646f7322cee8"
     },
     {
+      "path": "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
+      "bytes": 14826,
+      "sha256": "6a91a84defdcc822c2e3d5910c5aec8ab4e051514dd738ab876361100123c0ed"
+    },
+    {
       "path": "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
       "bytes": 13726,
       "sha256": "12ac4214c4d1f6fe40d36ba06b0a0d7a1f223384d24628c527a7af8472b55fb3"
@@ -960,8 +970,8 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "bytes": 9905,
-      "sha256": "528b1180f5ec015b5621d136dddefbacb6bdb3214c29d88a8a5a18719c78ef6d"
+      "bytes": 10303,
+      "sha256": "cb7f934364f1c256a019994f54d7498964842fc165eeae97bc08e07377e43fb3"
     },
     {
       "path": "PRIVATION_AND_AXIARCHIC_GOOD.md",
@@ -1424,6 +1434,11 @@
       "sha256": "d1e84ce73336144c419abf7548c1b5655d627b76fb852e6ea92061580f605662"
     },
     {
+      "path": "SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md",
+      "bytes": 12221,
+      "sha256": "66bbd80b2a1fd258eafac5bac27afbc3ed8dbfb355801f053bb7635397d21572"
+    },
+    {
       "path": "SYNTHESIS.md",
       "bytes": 110032,
       "sha256": "2c21fdb05244ae8173e2eca65028338ffb03aa333e7c77b6b675eac48f887b8c"
@@ -1482,6 +1497,11 @@
       "path": "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
       "bytes": 8806,
       "sha256": "3296775bfce2410d6c1aa3088585d2b7425547f3625d19acc50101af22549038"
+    },
+    {
+      "path": "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
+      "bytes": 13110,
+      "sha256": "283610e1c13cae5314eb9cff6ae6a4de562ef3db127324f53357f286fd4847b0"
     },
     {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
@@ -3514,6 +3534,16 @@
       "sha256": "c424e04a0eabf9e3445ac876b73a8f25d6a6f8287baad35c6dc5f321743f364d"
     },
     {
+      "path": "verification/complementary_visibility_entanglement_gate.json",
+      "bytes": 1647,
+      "sha256": "b162b51d2d47dceb76cf67d9cbd42f82dc204beac91650710a7777405676f627"
+    },
+    {
+      "path": "verification/complementary_visibility_entanglement_gate.py",
+      "bytes": 5360,
+      "sha256": "554f7232736f2e61433768b05bde6aef3e815277f0c1fef50bd2cd7b286b265e"
+    },
+    {
       "path": "verification/constitution_factorization_check.json",
       "bytes": 1233,
       "sha256": "a22de7c333b391d2775af54ca8560db5c19c4d29d225b960cb77cfc5c98ccb74"
@@ -3920,13 +3950,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 4728,
-      "sha256": "08f2474b22ee418d890a7fd6a903195a34ad9e71ec9ed5df7de46acd1b3f4c19"
+      "bytes": 5244,
+      "sha256": "c55164544808779bb93665aa825ae624944d485c98f4a4be4974514462cf9862"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 4150,
-      "sha256": "c217559dff430c0c8563fda1db8d4db83c183cb585b47486b1ea13fced664de4"
+      "bytes": 4414,
+      "sha256": "bc685a1a5349a77693efc276af26f2cf12a916ff834d08990e90f86f867ecf8b"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4770,8 +4800,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 498291,
-      "sha256": "cafdbd857b4d9799ede6319b466c79acc66f15737696992f7d608cb03e0d22b6"
+      "bytes": 502880,
+      "sha256": "ad7a5f6094082a582076c5f6805ffda2775e87ce4b35b598e2c9b50c71545ccd"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5894,6 +5924,16 @@
       "sha256": "df0b2ec2858f525bb58a4bd882c79d2bf47e2b5e7e359dabc37a77dca0b1a2e5"
     },
     {
+      "path": "verification/swapping_herald_selection_gate.json",
+      "bytes": 1627,
+      "sha256": "2efa7c3cd72472a8834a139fe1e315863d385b7652f1394341369dac48ebe190"
+    },
+    {
+      "path": "verification/swapping_herald_selection_gate.py",
+      "bytes": 5791,
+      "sha256": "0891ba9de23638e9135452cfde56111010ddf22d0eefe481feec11c94083783e"
+    },
+    {
       "path": "verification/takesaki_dual_typeIII1.json",
       "bytes": 3270,
       "sha256": "b6007e6609111c975b9f48887c120c2ec49d9102e7f36a51901040ef7747c472"
@@ -6007,6 +6047,16 @@
       "path": "verification/timeless_symmetrized_class_gate.py",
       "bytes": 3722,
       "sha256": "fcdc491349ce6b9fd470b3bc54029ac1648ed867a3359727a25248795cb09357"
+    },
+    {
+      "path": "verification/timeless_whole_location_gate.json",
+      "bytes": 1111,
+      "sha256": "da532b7a8b3c82c6be09ddcc2c7c33f79893926f6276cd9e724bec32c4f354dc"
+    },
+    {
+      "path": "verification/timeless_whole_location_gate.py",
+      "bytes": 2649,
+      "sha256": "f23d3ffef2876c61f6613183040133f027454ad47cf3b8f86d4d248f81bff21d"
     },
     {
       "path": "verification/tolman_cocycle.py",

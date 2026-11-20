@@ -1,5 +1,7 @@
 # After the Roy data: decision and framework critical path
 
+The [timeless ground and located totality gate](TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md) distinguishes location inheritance, global necessity and experiential fundamentality. It exposes a concreteness-definition conflict under this project's modal assumptions and records a non-mereological dependence option; neither constitutes an emergent-spacetime derivation or an experiential-ground proof.
+
 ## Decision
 
 **Move on from the Roy analysis as the main line of work.** The user reports that the authors cannot help with this study. Do not present author clarification as a pending dependency likely to be resolved. The supplied S09 data and S08 scans 1, 3 and 5 have yielded a useful *negative control result*: on the latter participant, the frozen S09-trained EEG rule matched the timing-only baseline overall, with different outcomes across scans ([results](ROY_S08_FIXED_TRANSFER_RESULTS.md)). This is not evidence against the whole framework, against the published SSVEP method, or against all report decoders.

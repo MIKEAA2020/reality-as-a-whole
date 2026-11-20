@@ -1,6 +1,6 @@
 {
   "status": "all_selected_scripts_exited_zero",
-  "count": 28,
+  "count": 29,
   "scope": "Regression checks for selected finite models only. No pass/fail judgment on the full philosophical framework, factual truth of assumptions, human consciousness, empirical claims, or quantum gravity. Script exit codes are not independent verification of their claims. Historical closure-claim aggregators intentionally excluded.",
   "results": [
     {
@@ -84,6 +84,12 @@
     {
       "name": "complementary_correlations",
       "script": "verification/complementary_visibility_entanglement_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "timeless_whole_location",
+      "script": "verification/timeless_whole_location_gate.py",
       "result": "passed",
       "exit_code": 0
     },

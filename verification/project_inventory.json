@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 396,
-  "bytes": 5249468,
-  "line_count": 53890,
-  "document_count_with_risk_phrases": 369,
+  "document_count": 397,
+  "bytes": 5264497,
+  "line_count": 53975,
+  "document_count_with_risk_phrases": 370,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2107,8 +2107,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "7614334a1897f9837d47f1f100620673a023122885acc4cbfe154ae523e92f1b",
-      "bytes": 31600,
+      "sha256": "696881f182520ac841ef3b18f09b0907d906ecd4168c775c140059681fcda30a",
+      "bytes": 32090,
       "lines": 245,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2122,6 +2122,7 @@
         "6. Emergent time, fields and gravity"
       ],
       "local_links": [
+        "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
         "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
         "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
@@ -3407,9 +3408,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0da88984a83011f4b1edd5084391b835ca98eeb4147591924d035353ddb8f926",
-      "bytes": 92518,
-      "lines": 763,
+      "sha256": "7e45defe84cb8914b22aabf1790a32fdb52e5dfb71ba62f7f3e6f99b0565682d",
+      "bytes": 93549,
+      "lines": 770,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3460,6 +3461,7 @@
         "COMMON_CONSTITUTION_CLOSURE.md",
         "COMMUTANT_STEERING_AND_COST.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
+        "COMPLEMENTARY_CORRELATIONS_AND_ENTANGLEMENT_IDENTIFICATION.md",
         "COMPLETE_AWARENESS_FINITE_DISCLOSURE.md",
         "COMPLETE_INTELLIGIBILITY_ARGUMENT_AUDIT.md",
         "COMPLETE_SELF_KNOWLEDGE.md",
@@ -3582,6 +3584,7 @@
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
         "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
+        "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
@@ -3704,6 +3707,7 @@
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
         "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
         "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
+        "SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md",
         "SYNTHESIS.md",
         "SYNTHESIS_WDW_TIME.md",
         "TAKESAKI_DUAL_TYPEIII1.md",
@@ -3716,6 +3720,7 @@
         "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
+        "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
         "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
         "TIME_RESEARCH_ROADMAP.md",
@@ -3883,6 +3888,7 @@
         "verification/collective_context_leakage_gate.py",
         "verification/collective_response_common_cause_gate.py",
         "verification/competing_subject_constitution_rules.py",
+        "verification/complementary_visibility_entanglement_gate.py",
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
         "verification/consumer_coverage_identifiability.py",
@@ -4105,6 +4111,7 @@
         "verification/subject_friend_quantum_extensions.py",
         "verification/subject_measure_selection_gate.py",
         "verification/substrate_self_existent_interface.py",
+        "verification/swapping_herald_selection_gate.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/target_symmetric_support_robustness.py",
         "verification/temporal_marginal_parity_gate.py",
@@ -4117,6 +4124,7 @@
         "verification/timbre_interval_crossover_gate.py",
         "verification/time_recovery_benchmark.py",
         "verification/timeless_symmetrized_class_gate.py",
+        "verification/timeless_whole_location_gate.py",
         "verification/tolman_cocycle.py",
         "verification/top_higgs_spectral_prediction.py",
         "verification/torus_gravity_second_order.py",
@@ -4162,18 +4170,18 @@
         37,
         41,
         50,
-        100,
-        168,
-        206,
-        225,
-        269,
-        340,
-        354,
-        390,
-        399,
-        402,
-        405,
-        454
+        101,
+        169,
+        208,
+        227,
+        271,
+        344,
+        358,
+        394,
+        403,
+        406,
+        409,
+        458
       ]
     },
     {
@@ -7144,9 +7152,9 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "528b1180f5ec015b5621d136dddefbacb6bdb3214c29d88a8a5a18719c78ef6d",
-      "bytes": 9905,
-      "lines": 40,
+      "sha256": "cb7f934364f1c256a019994f54d7498964842fc165eeae97bc08e07377e43fb3",
+      "bytes": 10303,
+      "lines": 42,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
         "After the Roy data: decision and framework critical path",
@@ -7155,6 +7163,7 @@
         "Immediate B1–B2 work contract"
       ],
       "local_links": [
+        "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
@@ -7169,11 +7178,11 @@
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md"
       ],
       "risk_phrase_lines": [
-        19,
-        20,
-        24,
-        30,
-        32
+        21,
+        22,
+        26,
+        32,
+        34
       ]
     },
     {
@@ -10769,6 +10778,36 @@
         27,
         40,
         46
+      ]
+    },
+    {
+      "path": "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
+      "sha256": "283610e1c13cae5314eb9cff6ae6a4de562ef3db127324f53357f286fd4847b0",
+      "bytes": 13110,
+      "lines": 76,
+      "title": "Timeless ground, located totality and experiential actuality",
+      "headings": [
+        "Timeless ground, located totality and experiential actuality",
+        "Result",
+        "1. Separate the commitments",
+        "2. A tiny consistency model",
+        "3. Necessity and concreteness: a further project-specific constraint",
+        "4. The experiential-ground bridge remains open",
+        "5. Work needed next",
+        "Source and scope"
+      ],
+      "local_links": [
+        "verification/timeless_whole_location_gate.py",
+        "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
+        "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
+      ],
+      "risk_phrase_lines": [
+        10,
+        18,
+        24,
+        26,
+        32,
+        59
       ]
     },
     {

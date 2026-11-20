@@ -28,7 +28,7 @@ Calling the whole necessary or self-existent does not prove that it is so. A suc
 
 ### 1.3 Fundamental timelessness and local time
 
-The whole is not located in an external space and does not evolve against an external master clock. “Timeless” does not mean that observers see an unchanging universe. Local temporal order, change, memory and clocks are to be accounted for as relations among events or subsystems within the whole. A satisfactory theory must recover the functioning of physical clocks and the experienced succession of events; neither follows from the word “timeless.”
+The whole is not located in an external space and does not evolve against an external master clock. “Timeless” does not mean that observers see an unchanging universe. Local temporal order, change, memory and clocks are to be accounted for as relations among events or subsystems within the whole. A satisfactory theory must recover the functioning of physical clocks and the experienced succession of events; neither follows from the word “timeless.” The [timeless ground and located totality gate](TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md) makes a further conditional distinction: if located derivative entities are literally parts of a whole and location is inherited, the whole has a derived location, even if it has no external or fundamental location. A non-spatiotemporal fundamental ground may instead be distinguished from an all-inclusive totality, but their dependence relation and experiential constitution remain to be supplied.
 
 ## 2. Assumptions and explanatory targets
 
