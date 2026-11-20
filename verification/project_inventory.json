@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 434,
-  "bytes": 5763589,
-  "line_count": 56756,
-  "document_count_with_risk_phrases": 406,
+  "document_count": 436,
+  "bytes": 5782038,
+  "line_count": 56854,
+  "document_count_with_risk_phrases": 408,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2395,6 +2395,55 @@
       ]
     },
     {
+      "path": "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+      "sha256": "a46eff1bfbc9b38ba25aa97cd0f5b1e514483340157678e29deec2c476ab793f",
+      "bytes": 4448,
+      "lines": 19,
+      "title": "Fixed audit plan: can affective-music events support a same-trial analysis?",
+      "headings": [
+        "Fixed audit plan: can affective-music events support a same-trial analysis?",
+        "Pinned input and quantities",
+        "Decision and limits"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        9,
+        11
+      ]
+    },
+    {
+      "path": "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
+      "sha256": "f32b73c14035538a61c5bf99a78dd9c416e1d286f473e837d7b457692c052e65",
+      "bytes": 12620,
+      "lines": 71,
+      "title": "Music-induced pleasantness and EEG: source and event-alignment audit",
+      "headings": [
+        "Music-induced pleasantness and EEG: source and event-alignment audit",
+        "Main finding",
+        "Dataset and design",
+        "Fixed, conservative structural audit",
+        "Already-published EEG and acoustic comparisons",
+        "Next gate and project implications",
+        "Reading and reproduction limits"
+      ],
+      "local_links": [
+        "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+        "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+        "verification/daly_affective_music_event_alignment.py",
+        "verification/daly_affective_music_event_alignment.json",
+        "verification/daly_affective_music_event_alignment_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        26,
+        27,
+        30,
+        34,
+        36,
+        46
+      ]
+    },
+    {
       "path": "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
       "sha256": "51d0a506d9ed3377d40952ae940663c16353693bbf1900bbfc07426920203c19",
       "bytes": 17098,
@@ -2671,9 +2720,9 @@
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
-      "sha256": "496acd1ef3aaf46616060d010884ef727faf175548085b6845b6a6c7a39a6f22",
-      "bytes": 11848,
-      "lines": 78,
+      "sha256": "c010c1108c8d88186ac437df48fe0180053c8c6efb3937a7e18d988bdaefc1e9",
+      "bytes": 12195,
+      "lines": 80,
       "title": "A neural-signal deviation candidate against reported valence",
       "headings": [
         "A neural-signal deviation candidate against reported valence",
@@ -2687,13 +2736,14 @@
       ],
       "local_links": [
         "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
+        "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "verification/eeg_baseline_deviation_valence_gate.py",
         "verification/eeg_baseline_deviation_valence_gate.json",
         "verification/eeg_baseline_deviation_valence_gate_test.py"
       ],
       "risk_phrase_lines": [
         13,
-        62
+        64
       ]
     },
     {
@@ -3648,9 +3698,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "86d10ac36e867529ce55165a6e19b7fbcdc5362b459e16c1a46977900446a757",
-      "bytes": 14301,
-      "lines": 63,
+      "sha256": "59d60306d53d130557ac13f2193df3efcd6d7f18d57dea6044c7924cf62cd77a",
+      "bytes": 14750,
+      "lines": 65,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3672,6 +3722,7 @@
         "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
         "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
         "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
+        "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3679,9 +3730,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        23,
-        40,
-        57
+        25,
+        42,
+        59
       ]
     },
     {
@@ -3787,9 +3838,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "69ce37d764ec0485331db1a361dcab756d15ca46df63286b856dac8358afda8c",
-      "bytes": 103534,
-      "lines": 840,
+      "sha256": "acbeb24d8dddf049fc66a473072f9392a5ef50171940674f08926b58c29a6700",
+      "bytes": 104119,
+      "lines": 844,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3872,6 +3923,8 @@
         "CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
+        "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+        "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
@@ -4335,6 +4388,8 @@
         "verification/cross_framework_causal_cutoff.py",
         "verification/cross_framework_local_bracket.py",
         "verification/cutoff_instrument_uniformity.py",
+        "verification/daly_affective_music_event_alignment.py",
+        "verification/daly_affective_music_event_alignment_test.py",
         "verification/decoherence_record_boundary.py",
         "verification/disclosure_observation_identifiability.py",
         "verification/disclosure_scope_check.py",
@@ -4619,18 +4674,18 @@
         43,
         47,
         56,
-        114,
-        190,
-        235,
-        257,
-        304,
-        380,
-        395,
-        431,
-        440,
-        443,
-        446,
-        504
+        116,
+        192,
+        237,
+        259,
+        306,
+        382,
+        397,
+        433,
+        442,
+        445,
+        448,
+        506
       ]
     },
     {

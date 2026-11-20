@@ -1,0 +1,42 @@
+{
+  "source_commit": "c0b784f902bb3dc6bd674e27feba5693b0fb9506",
+  "n_participants_with_matching_run_file": 31,
+  "n_run_files": 124,
+  "run_files_by_number": {
+    "2": 31,
+    "3": 31,
+    "4": 31,
+    "5": 31
+  },
+  "music_starts_per_run_histogram": {
+    "10": 124
+  },
+  "duration_row_value_histogram_seconds": {
+    "20.0": 90383
+  },
+  "counts": {
+    "duplicate_identical_events": 112,
+    "fixation_rows": 1240,
+    "intervals": 1240,
+    "intervals_answer_without_question_same_time": 1191,
+    "intervals_missing_question_code": 0,
+    "intervals_question_group_without_exact_single_answer": 1240,
+    "intervals_question_or_answer_at_start": 90,
+    "intervals_repeated_question_timestamp": 1240,
+    "music_start_rows": 1240,
+    "starts_exact_361_399": 31,
+    "starts_exact_401_499": 38,
+    "starts_exact_documented_music_identity_0": 1213,
+    "starts_exact_documented_music_identity_1": 27,
+    "starts_near_361_399": 31,
+    "starts_near_401_499": 39,
+    "starts_near_documented_music_identity_0": 1211,
+    "starts_near_documented_music_identity_1": 29,
+    "starts_without_fixation_in_previous_4s": 0,
+    "strict_questionnaire_intervals": 0
+  },
+  "event_json_file_count": 185,
+  "distinct_event_json_sha256_count": 1,
+  "sha256_of_manifest_of_analyzed_event_files": "c026a6bee732bf4eea5e8b60ba2a03d526e05a49b2b2b72ec87df1fbc44c22e7",
+  "scope": "Metadata structure only; no raw EEG, stimuli, inferred ratings, timing validation, subjecthood, or phenomenal bridge."
+}

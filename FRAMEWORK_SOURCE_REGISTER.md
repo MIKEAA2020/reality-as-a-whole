@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 391 root Markdown documents including this register; 43 research Markdown documents.
-- 51 original uploaded files, including provenance metadata; 322 verification Python scripts.
+- 393 root Markdown documents including this register; 43 research Markdown documents.
+- 51 original uploaded files, including provenance metadata; 324 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -81,6 +81,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md](CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md) — Constraining emergent gravity across frameworks
 - [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
+- [DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md](DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md) — Fixed audit plan: can affective-music events support a same-trial analysis?
+- [DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md](DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md) — Music-induced pleasantness and EEG: source and event-alignment audit
 - [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
 - [DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) — Denis Noble on order, disorder and experience
 - [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
@@ -558,6 +560,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
 - [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)
 - [verification/cutoff_instrument_uniformity.py](verification/cutoff_instrument_uniformity.py)
+- [verification/daly_affective_music_event_alignment.py](verification/daly_affective_music_event_alignment.py)
+- [verification/daly_affective_music_event_alignment_test.py](verification/daly_affective_music_event_alignment_test.py)
 - [verification/decoherence_record_boundary.py](verification/decoherence_record_boundary.py)
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)

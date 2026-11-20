@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2f9d2691e6222bd32f50ec32d434f39f79cb0b1c",
-  "file_count": 1379,
+  "base_head": "6e7948664dda9cc688ffa12365e184e29c0458d8",
+  "file_count": 1384,
   "files": [
     {
       "path": ".gitattributes",
@@ -354,6 +354,16 @@
       "sha256": "b27a4d170a7274d62f0c008e1926ceb2df8e6f763613ed29b4621bf45f121099"
     },
     {
+      "path": "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+      "bytes": 4448,
+      "sha256": "a46eff1bfbc9b38ba25aa97cd0f5b1e514483340157678e29deec2c476ab793f"
+    },
+    {
+      "path": "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
+      "bytes": 12620,
+      "sha256": "f32b73c14035538a61c5bf99a78dd9c416e1d286f473e837d7b457692c052e65"
+    },
+    {
       "path": "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
       "bytes": 17098,
       "sha256": "51d0a506d9ed3377d40952ae940663c16353693bbf1900bbfc07426920203c19"
@@ -395,8 +405,8 @@
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
-      "bytes": 11848,
-      "sha256": "496acd1ef3aaf46616060d010884ef727faf175548085b6845b6a6c7a39a6f22"
+      "bytes": 12195,
+      "sha256": "c010c1108c8d88186ac437df48fe0180053c8c6efb3937a7e18d988bdaefc1e9"
     },
     {
       "path": "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
@@ -555,8 +565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 14301,
-      "sha256": "86d10ac36e867529ce55165a6e19b7fbcdc5362b459e16c1a46977900446a757"
+      "bytes": 14750,
+      "sha256": "59d60306d53d130557ac13f2193df3efcd6d7f18d57dea6044c7924cf62cd77a"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -580,8 +590,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 103534,
-      "sha256": "69ce37d764ec0485331db1a361dcab756d15ca46df63286b856dac8358afda8c"
+      "bytes": 104119,
+      "sha256": "acbeb24d8dddf049fc66a473072f9392a5ef50171940674f08926b58c29a6700"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3974,6 +3984,21 @@
       "sha256": "de13582d5b665b925d766bb577faa83e53e175b09593081c077e905ab6d71d01"
     },
     {
+      "path": "verification/daly_affective_music_event_alignment.json",
+      "bytes": 1491,
+      "sha256": "53f606187c806cabe11de1c1db318dc945b495b7e01cacab0fdf95fd1fe32f8d"
+    },
+    {
+      "path": "verification/daly_affective_music_event_alignment.py",
+      "bytes": 5552,
+      "sha256": "fae5bcaed8112fb25d0d56c440919bb91e2315a5cd403de813ab741f9ddbcc78"
+    },
+    {
+      "path": "verification/daly_affective_music_event_alignment_test.py",
+      "bytes": 1289,
+      "sha256": "fe7f78d73b6dcfbeaa00afdcbd846831846a81e204e1de2ac34b562b9c6e2edf"
+    },
+    {
       "path": "verification/decoherence_record_boundary.json",
       "bytes": 2421,
       "sha256": "147e786cc3fbe510aecf4d4d5bfde8f149dd0626cf67b8b50e53a55f582b9359"
@@ -5210,8 +5235,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 546758,
-      "sha256": "583c2d9ad8aafd1c7d095538945e96a981133714fd2bedae9d03a89a757a0a5a"
+      "bytes": 549856,
+      "sha256": "334bbc40815bd752312fe91d9566293786ca46b956c3624a5282daf2f170aafe"
     },
     {
       "path": "verification/project_inventory.py",

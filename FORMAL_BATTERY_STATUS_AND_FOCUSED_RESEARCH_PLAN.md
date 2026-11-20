@@ -16,6 +16,8 @@ The [EEG baseline-deviation and valence gate](EEG_BASELINE_DEVIATION_AND_VALENCE
 
 The [Williams effective-realism audit](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md) adds a common-domain transport obligation for physical mismatch and subject outputs, distinguishing true redescriptions from different intervention horizons. The supplied paper supports carefully scoped effective ontology, not a subject or experiential bridge; the corresponding B4–B8 and B10 verdicts remain open.
 
+The [Daly music EEG and event-alignment audit](DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md) identifies a more suitable same-participant pleasantness/EEG design and existing acoustic/EEG comparators. Its pinned mirror's event structure fails a deliberately conservative unambiguous pairing rule, and raw EEG and audio remain uninspected; no neural prediction was run. This is an alignment and source qualification result, not a B4–B5 or B10 pass.
+
 ## 1. Which battery?
 
 There are two different things in this repository:
