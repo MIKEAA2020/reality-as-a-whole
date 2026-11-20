@@ -38,6 +38,7 @@ TESTS = [
     ('experiential_anatomical_witness', 'verification/experiential_anatomical_witness_gate.py'),
     ('phenomenal_unity_partition', 'verification/phenomenal_unity_partition_gate.py'),
     ('correlation_clustering_certificate', 'verification/correlation_clustering_asymmetric_certificate.py'),
+    ('plural_ground_dominance_symmetry', 'verification/plural_ground_dominance_symmetry_gate.py'),
     ('experiential_mismatch_transport', 'verification/experiential_mismatch_transport_gate.py'),
     ('awareness_ignition_calibration', 'verification/awareness_ignition_partial_identification.py'),
     ('random_report_audit', 'verification/random_audit_experience_bridge.py'),

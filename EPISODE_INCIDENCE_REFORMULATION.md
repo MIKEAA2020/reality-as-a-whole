@@ -2,6 +2,8 @@
 
 ## Decision
 
+The [plural experiential-ground analysis](PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md) compares alternative ontological premises and adds a restricted symmetry constraint for dominant-node selection. It does not select an experiential incidence law.
+
 The two recent obstructions do not select the true composition law. They do show why it is premature to require that Γ return a single partition of all event tokens into disjoint, finite, temporally binned episodes.
 
 The next candidate should distinguish:

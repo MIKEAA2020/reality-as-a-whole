@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 409,
-  "bytes": 5450856,
-  "line_count": 55069,
-  "document_count_with_risk_phrases": 381,
+  "document_count": 410,
+  "bytes": 5468190,
+  "line_count": 55151,
+  "document_count_with_risk_phrases": 382,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2194,8 +2194,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "183d28e5611e84bab552aa4f31f704fc50fe45d0f08d7235c71061780b77d82e",
-      "bytes": 36865,
+      "sha256": "f257567a7e30a11143ced816ca71fa6a0b0888c204ca7c82a5bec7ca85d30019",
+      "bytes": 37130,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2213,6 +2213,7 @@
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
@@ -2655,9 +2656,9 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "sha256": "307762f77aa1d457aef862b32542beb43f4325d99f5e02d13e71db5389581ea7",
-      "bytes": 10452,
-      "lines": 126,
+      "sha256": "2ca5779212a115daf2dfd5706f72495cf4ddd163bbec882326039ef07f86a819",
+      "bytes": 10710,
+      "lines": 128,
       "title": "Reformulating composition: incidence, temporal extent, and persistence",
       "headings": [
         "Reformulating composition: incidence, temporal extent, and persistence",
@@ -2670,13 +2671,14 @@
         "6. Explicit stopping rule against simulated discovery"
       ],
       "local_links": [
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md"
       ],
       "risk_phrase_lines": [
-        45,
-        65,
-        114
+        47,
+        67,
+        116
       ]
     },
     {
@@ -3592,9 +3594,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1e587bf2aa673fe28bf4227c397444a8a85c20c9489a5429001f340025ce64ff",
-      "bytes": 97384,
-      "lines": 796,
+      "sha256": "09ca19f35b9b897d4f0ef66ce63ea4b1a7d87aafe789e58e1a642fe1e1f7dc92",
+      "bytes": 97661,
+      "lines": 798,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3807,6 +3809,7 @@
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
@@ -4224,6 +4227,7 @@
         "verification/plenitude_identity.py",
         "verification/plenitude_symmetry_measure_gate.py",
         "verification/plenitude_truthmaker_relevance.py",
+        "verification/plural_ground_dominance_symmetry_gate.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
         "verification/q1_agreement_stability_gate.py",
@@ -4382,16 +4386,16 @@
         51,
         107,
         177,
-        217,
-        237,
-        282,
-        356,
-        370,
-        406,
-        415,
-        418,
-        421,
-        476
+        218,
+        238,
+        283,
+        357,
+        371,
+        407,
+        416,
+        419,
+        422,
+        477
       ]
     },
     {
@@ -7450,6 +7454,33 @@
       ],
       "risk_phrase_lines": [
         13
+      ]
+    },
+    {
+      "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+      "sha256": "9783874ca82306ffb364d9ed6774b30358f71094e721fcaad6b4632c3879e54b",
+      "bytes": 16534,
+      "lines": 78,
+      "title": "Plural subjects in an experiential relational ground",
+      "headings": [
+        "Plural subjects in an experiential relational ground",
+        "Aim and status",
+        "1. The precise explanatory target",
+        "2. What the ground does, and does not, buy us",
+        "3. Literature constraints and what they change",
+        "4. A boundary principle has to pass four separate tests",
+        "5. A precise constraint on dominant-node proposals",
+        "6. A productive next experiment in reasoning and evidence"
+      ],
+      "local_links": [
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "verification/plural_ground_dominance_symmetry_gate.py"
+      ],
+      "risk_phrase_lines": [
+        55,
+        61,
+        63,
+        75
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 366 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 307 verification Python scripts.
+- 367 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 308 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -211,6 +211,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
 - [PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md](PLENITUDE_SYMMETRY_AND_SUBJECT_MEASURE.md) — Plenitude, symmetry and the measure of plural perspectives
 - [PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md](PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md) — Strong actuality and the experiential-grounding problem
+- [PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md](PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md) — Plural subjects in an experiential relational ground
 - [POST_ROY_FRAMEWORK_CRITICAL_PATH.md](POST_ROY_FRAMEWORK_CRITICAL_PATH.md) — After the Roy data: decision and framework critical path
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
@@ -642,6 +643,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/plenitude_identity.py](verification/plenitude_identity.py)
 - [verification/plenitude_symmetry_measure_gate.py](verification/plenitude_symmetry_measure_gate.py)
 - [verification/plenitude_truthmaker_relevance.py](verification/plenitude_truthmaker_relevance.py)
+- [verification/plural_ground_dominance_symmetry_gate.py](verification/plural_ground_dominance_symmetry_gate.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)
