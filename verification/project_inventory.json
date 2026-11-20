@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 440,
-  "bytes": 5838700,
-  "line_count": 57173,
-  "document_count_with_risk_phrases": 412,
+  "document_count": 442,
+  "bytes": 5860393,
+  "line_count": 57286,
+  "document_count_with_risk_phrases": 414,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2412,16 +2412,66 @@
       ]
     },
     {
+      "path": "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
+      "sha256": "fdb63bd9b09820dafe7f12d96db67b9e68fe6a3d863c774989f61c5621ed5ffd",
+      "bytes": 16767,
+      "lines": 92,
+      "title": "Music EEG comparator: timing and event-order audit",
+      "headings": [
+        "Music EEG comparator: timing and event-order audit",
+        "Result and relevance",
+        "Provenance and experiment",
+        "1. A listening-window check, not an artifact diagnosis",
+        "2. The label parser depends on ordering equal timestamps",
+        "3. Stimulus identity is another independent bottleneck",
+        "4. What is needed before using the comparison",
+        "Reproduction"
+      ],
+      "local_links": [
+        "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md",
+        "verification/daly_comparator_metadata_audit.py",
+        "verification/daly_comparator_metadata_audit.json",
+        "verification/daly_comparator_metadata_audit_test.py",
+        "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        45,
+        57,
+        68
+      ]
+    },
+    {
+      "path": "DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md",
+      "sha256": "0b8fc3ee7fac8c9d991c75dee95bb68760fd9d064d39aa6ec32452aaadc1dcb3",
+      "bytes": 3256,
+      "lines": 11,
+      "title": "Existing Daly EEG comparator: fixed metadata audit plan",
+      "headings": [
+        "Existing Daly EEG comparator: fixed metadata audit plan"
+      ],
+      "local_links": [
+        "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        9
+      ]
+    },
+    {
       "path": "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
-      "sha256": "f32b73c14035538a61c5bf99a78dd9c416e1d286f473e837d7b457692c052e65",
-      "bytes": 12620,
-      "lines": 71,
+      "sha256": "6e4e5036957bb8a9c7445c71c2500d8c5d6ba914a08e9f8e1865c0638f5cc926",
+      "bytes": 13043,
+      "lines": 75,
       "title": "Music-induced pleasantness and EEG: source and event-alignment audit",
       "headings": [
         "Music-induced pleasantness and EEG: source and event-alignment audit",
         "Main finding",
         "Dataset and design",
         "Fixed, conservative structural audit",
+        "Later comparator follow-up",
         "Already-published EEG and acoustic comparisons",
         "Next gate and project implications",
         "Reading and reproduction limits"
@@ -2431,7 +2481,8 @@
         "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
         "verification/daly_affective_music_event_alignment.py",
         "verification/daly_affective_music_event_alignment.json",
-        "verification/daly_affective_music_event_alignment_test.py"
+        "verification/daly_affective_music_event_alignment_test.py",
+        "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -2440,7 +2491,7 @@
         30,
         34,
         36,
-        46
+        50
       ]
     },
     {
@@ -3699,9 +3750,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8c60b027ea61b434b43914e00b57505c6cef95cb0f4b00f2b893007effd60204",
-      "bytes": 16411,
-      "lines": 71,
+      "sha256": "914d200c18a2aad0de24ac9ab2d42928ad7b44eea0be646794b5a66d1cac7c52",
+      "bytes": 17131,
+      "lines": 73,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3727,6 +3778,7 @@
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3735,9 +3787,9 @@
         5,
         9,
         25,
-        31,
-        48,
-        65
+        33,
+        50,
+        67
       ]
     },
     {
@@ -3843,9 +3895,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4fca1cb99f5210bda029db54849c3f3d596f426ddb724fb922a4c07f98053554",
-      "bytes": 105471,
-      "lines": 853,
+      "sha256": "2b35b9debb5001246b4ec7586690e78d2733ad6df009fe18e8a08dcb9fd6cc16",
+      "bytes": 105998,
+      "lines": 857,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3929,6 +3981,8 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
+        "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
+        "DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md",
         "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
@@ -4400,6 +4454,8 @@
         "verification/cutoff_instrument_uniformity.py",
         "verification/daly_affective_music_event_alignment.py",
         "verification/daly_affective_music_event_alignment_test.py",
+        "verification/daly_comparator_metadata_audit.py",
+        "verification/daly_comparator_metadata_audit_test.py",
         "verification/decoherence_record_boundary.py",
         "verification/disclosure_observation_identifiability.py",
         "verification/disclosure_scope_check.py",
@@ -4688,18 +4744,18 @@
         43,
         47,
         56,
-        116,
-        195,
-        241,
-        263,
-        310,
-        386,
-        401,
-        437,
-        446,
-        449,
-        452,
-        511
+        118,
+        197,
+        243,
+        265,
+        312,
+        388,
+        403,
+        439,
+        448,
+        451,
+        454,
+        513
       ]
     },
     {

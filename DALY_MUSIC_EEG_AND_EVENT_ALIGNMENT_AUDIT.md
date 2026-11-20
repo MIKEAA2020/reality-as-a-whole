@@ -35,6 +35,10 @@ All counts use event rows rather than raw EEG annotations. Identical `(onset, co
 
 At 31 music starts an out-of-documented-range `361–399` code occurs at the exact onset, and at 38 a `401–499` code does. Their meaning is **unknown**, not assumed to be a song identity. The original EEG paper describes sampling from 110 excerpts, while the codebook names only 60 identifiers (`301–360`); the relation between that codebook and the full stimulus set requires investigation. The 27 and 29 exact/near coincidences are not proof of correctly matched identities, nor does the absence of such coincidences prove identity is absent. The events contain other possible timing relationships that this conservative audit intentionally does not decode.
 
+## Later comparator follow-up
+
+The [follow-up audit](DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md) checks an independent third-party beta pipeline using v1.0.3 event files, which match the v1.0.2 event blobs. It identifies a 20-second requested-window and same-timestamp order-sensitivity risk; no original EEG or trial outputs were replayed. The alternative row order is not established as the true event order.
+
 ## Already-published EEG and acoustic comparisons
 
 The same study has already been analyzed, so any future use must cite rather than rediscover these results.

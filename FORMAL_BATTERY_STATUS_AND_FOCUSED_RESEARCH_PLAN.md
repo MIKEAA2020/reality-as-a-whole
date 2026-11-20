@@ -24,6 +24,8 @@ The [MET label and neural-access audit](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCES
 
 The [observed phase-lag versus physical frustration gate](OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md) tests the tempting EEG implementation against exact false-negative and common-input false-positive controls, and supplies a common-sample holonomy bound. It shows that observed mean lags cannot be silently substituted for independently identified interaction preferences; a specified intervention distinguishes the constructed rivals. It is a synthetic diagnostic, not an identified neural or experiential bridge, and leaves B4–B5/B10 open. A third-party DEAP loader/classifier also conditionally misnames arousal and dominance as valence and arousal if its files follow the documented DEAP ordering; artifacts and data rights were not verified.
 
+The [Daly existing-comparator audit](DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md) finds that a third-party beta-power pipeline requests 20-second windows despite 12-second clips, and that question markers fall in all 1,240 requested windows. Its parser's locally executed target outputs change in 815 intervals if equal-timestamp rows are reversed, and stimulus IDs frequently lack an inspected codebook justification. These are metadata and code warnings, not an EEG replay or a judgment on the original Daly papers. They block accepting that pipeline's reported near-zero pleasantness association as a validated listening-only comparator; they do not establish the actual correlation or change B4–B5/B10.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

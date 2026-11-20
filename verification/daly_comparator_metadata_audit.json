@@ -1,0 +1,66 @@
+{
+  "counts": {
+    "answer_or_response_within_12s_including_start": 271,
+    "answer_or_response_within_12s_strictly_after_start": 189,
+    "answer_or_response_within_20s_including_start": 1092,
+    "answer_or_response_within_20s_strictly_after_start": 1051,
+    "intervals_with_unequal_triple": 597,
+    "music_starts": 1240,
+    "next_music_start_within_20": 0,
+    "one_q_one_answer_one_response_timestamps": 2785,
+    "question_within_12s_including_start": 0,
+    "question_within_12s_strictly_after_start": 0,
+    "question_within_20s_including_start": 1240,
+    "question_within_20s_strictly_after_start": 1240,
+    "start_duration_20": 1240,
+    "triples_equal": 710,
+    "triples_unequal": 2075
+  },
+  "dataset_commit": "3972f19d2846be4f283fe21c7fe39a1a11efda99",
+  "dataset_version": "1.0.3",
+  "environment": {
+    "numpy": "2.4.3",
+    "pandas": "3.0.1",
+    "python": "3.11.2"
+  },
+  "event_manifest_sha256": "c026a6bee732bf4eea5e8b60ba2a03d526e05a49b2b2b72ec87df1fbc44c22e7",
+  "files": 124,
+  "first_positive_offsets": {
+    "first_question_after_start": {
+      "max_seconds": 16.601,
+      "median_seconds": 16.501,
+      "min_seconds": 16.501,
+      "n": 1240
+    },
+    "first_response_after_start": {
+      "max_seconds": 41.241,
+      "median_seconds": 16.601,
+      "min_seconds": 0.076,
+      "n": 1240
+    }
+  },
+  "scope": "event metadata and upstream parser sensitivity only; no EEG replay",
+  "upstream_commit": "634fa01848731ad2d5c88f6b3483b48dc9ba8725",
+  "upstream_original_nonmissing": {
+    "energy": 1175,
+    "pleasantness": 1171,
+    "stimulus_documented_301_360": 201,
+    "stimulus_fallback_id": 183,
+    "stimulus_other_300_699": 856,
+    "tension": 1179
+  },
+  "upstream_source_sha256": "a3f7c1d70a4494faa5689589acae061e8d461d505c400d00fb4e1381544850e2",
+  "upstream_tie_reverse_differences": {
+    "any_target_changed": 815,
+    "energy_changed": 457,
+    "energy_numeric_to_numeric": 392,
+    "energy_one_missing": 65,
+    "pleasantness_changed": 478,
+    "pleasantness_numeric_to_numeric": 409,
+    "pleasantness_one_missing": 69,
+    "stimulus_id_changed": 0,
+    "tension_changed": 450,
+    "tension_numeric_to_numeric": 389,
+    "tension_one_missing": 61
+  }
+}

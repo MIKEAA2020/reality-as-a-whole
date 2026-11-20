@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 397 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 328 verification Python scripts.
+- 399 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 330 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -82,6 +82,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
 - [DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md](DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md) — Fixed audit plan: can affective-music events support a same-trial analysis?
+- [DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md](DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md) — Music EEG comparator: timing and event-order audit
+- [DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md](DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md) — Existing Daly EEG comparator: fixed metadata audit plan
 - [DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md](DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md) — Music-induced pleasantness and EEG: source and event-alignment audit
 - [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
 - [DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) — Denis Noble on order, disorder and experience
@@ -567,6 +569,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cutoff_instrument_uniformity.py](verification/cutoff_instrument_uniformity.py)
 - [verification/daly_affective_music_event_alignment.py](verification/daly_affective_music_event_alignment.py)
 - [verification/daly_affective_music_event_alignment_test.py](verification/daly_affective_music_event_alignment_test.py)
+- [verification/daly_comparator_metadata_audit.py](verification/daly_comparator_metadata_audit.py)
+- [verification/daly_comparator_metadata_audit_test.py](verification/daly_comparator_metadata_audit_test.py)
 - [verification/decoherence_record_boundary.py](verification/decoherence_record_boundary.py)
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)

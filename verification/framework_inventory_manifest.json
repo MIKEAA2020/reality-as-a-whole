@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "75a855c0bf78c515fd3ffc0b0a50238f41d877cd",
-  "file_count": 1395,
+  "base_head": "7eb432ca09bd7abad125ef283a0317590e260b9e",
+  "file_count": 1400,
   "files": [
     {
       "path": ".gitattributes",
@@ -359,9 +359,19 @@
       "sha256": "a46eff1bfbc9b38ba25aa97cd0f5b1e514483340157678e29deec2c476ab793f"
     },
     {
+      "path": "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
+      "bytes": 16767,
+      "sha256": "fdb63bd9b09820dafe7f12d96db67b9e68fe6a3d863c774989f61c5621ed5ffd"
+    },
+    {
+      "path": "DALY_EXISTING_EEG_COMPARATOR_AUDIT_PLAN.md",
+      "bytes": 3256,
+      "sha256": "0b8fc3ee7fac8c9d991c75dee95bb68760fd9d064d39aa6ec32452aaadc1dcb3"
+    },
+    {
       "path": "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
-      "bytes": 12620,
-      "sha256": "f32b73c14035538a61c5bf99a78dd9c416e1d286f473e837d7b457692c052e65"
+      "bytes": 13043,
+      "sha256": "6e4e5036957bb8a9c7445c71c2500d8c5d6ba914a08e9f8e1865c0638f5cc926"
     },
     {
       "path": "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
@@ -565,8 +575,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 16411,
-      "sha256": "8c60b027ea61b434b43914e00b57505c6cef95cb0f4b00f2b893007effd60204"
+      "bytes": 17131,
+      "sha256": "914d200c18a2aad0de24ac9ab2d42928ad7b44eea0be646794b5a66d1cac7c52"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -590,8 +600,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 105471,
-      "sha256": "4fca1cb99f5210bda029db54849c3f3d596f426ddb724fb922a4c07f98053554"
+      "bytes": 105998,
+      "sha256": "2b35b9debb5001246b4ec7586690e78d2733ad6df009fe18e8a08dcb9fd6cc16"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4024,6 +4034,21 @@
       "sha256": "fe7f78d73b6dcfbeaa00afdcbd846831846a81e204e1de2ac34b562b9c6e2edf"
     },
     {
+      "path": "verification/daly_comparator_metadata_audit.json",
+      "bytes": 2206,
+      "sha256": "8377ac537adfe9ac10070528dd55b4286edb6f56491b0ffd31a09826f49dea15"
+    },
+    {
+      "path": "verification/daly_comparator_metadata_audit.py",
+      "bytes": 7560,
+      "sha256": "22a3074b56d4b088aecf3ad39e69e6fba6bc568684960ca2b50f8e89c9408c73"
+    },
+    {
+      "path": "verification/daly_comparator_metadata_audit_test.py",
+      "bytes": 2441,
+      "sha256": "8340f13b167995f69da58afc558fe94dd4240689d08a5eef3f65b6c33fe951e6"
+    },
+    {
       "path": "verification/decoherence_record_boundary.json",
       "bytes": 2421,
       "sha256": "147e786cc3fbe510aecf4d4d5bfde8f149dd0626cf67b8b50e53a55f582b9359"
@@ -5290,8 +5315,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 553632,
-      "sha256": "c035ae20005e6fcf0d221192be3387e22f068c92242522d1b2f39494b7c4759a"
+      "bytes": 555113,
+      "sha256": "92137f903fe35553f6772dc208902c785c3364b966d2e19ebceaeaf404f73f22"
     },
     {
       "path": "verification/project_inventory.py",
