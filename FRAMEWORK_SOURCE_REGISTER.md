@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 359 root Markdown documents including this register; 43 research Markdown documents.
-- 44 original uploaded files, including provenance metadata; 302 verification Python scripts.
+- 360 root Markdown documents including this register; 43 research Markdown documents.
+- 45 original uploaded files, including provenance metadata; 302 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -161,6 +161,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md](LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md) — Local field probe: complete-order bound and an energy accounting gate
 - [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast
 - [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
+- [MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md](MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md) — Merker: subcortical consciousness and the perspective problem
 - [MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md](MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md) — Microtubules, anesthesia and quantum consciousness: a causal discrimination gate
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
@@ -456,6 +457,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/kammerer2019.pdf](sources/uploads/kammerer2019.pdf)
 - [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
 - [sources/uploads/mass-and-the-structure-of-the-void-1.pdf](sources/uploads/mass-and-the-structure-of-the-void-1.pdf)
+- [sources/uploads/merker2007.pdf](sources/uploads/merker2007.pdf)
 - [sources/uploads/qftlocarx.txt](sources/uploads/qftlocarx.txt)
 - [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)

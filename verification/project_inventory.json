@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 402,
-  "bytes": 5349962,
-  "line_count": 54498,
-  "document_count_with_risk_phrases": 375,
+  "document_count": 403,
+  "bytes": 5362092,
+  "line_count": 54541,
+  "document_count_with_risk_phrases": 376,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5867,6 +5867,33 @@
       ]
     },
     {
+      "path": "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+      "sha256": "f0943aaa5962de6d63396ded2a7968fce80727ea556af9610eebbf29446d18c6",
+      "bytes": 11512,
+      "lines": 43,
+      "title": "Merker: subcortical consciousness and the perspective problem",
+      "headings": [
+        "Merker: subcortical consciousness and the perspective problem",
+        "Scope and conclusion",
+        "1. What the proposal actually says",
+        "2. Evidence and the competing explanations",
+        "3. What the published debate adds",
+        "4. Consequences for the seven-criterion framework"
+      ],
+      "local_links": [
+        "sources/uploads/merker2007.pdf",
+        "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
+        "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        13,
+        40
+      ]
+    },
+    {
       "path": "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
       "sha256": "383585a2cabc5962bb9faa786b1f6529dd59e1c43ade0ff8a2a0cfdfe1f2e310",
       "bytes": 15740,
@@ -7672,8 +7699,8 @@
     },
     {
       "path": "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
-      "sha256": "a56293bcde1b1328ca4e02ed2234eef7183891947a0fefc636662c8a8e126646",
-      "bytes": 25382,
+      "sha256": "164065e7a33836480d381abf25c967cf9239c7d2708d30bcb792d56b9def50da",
+      "bytes": 26000,
       "lines": 111,
       "title": "Quantum information, neural music, and the surviving brain",
       "headings": [
@@ -7690,7 +7717,10 @@
         "verification/ur_spinor_classical_control_gate.py",
         "verification/ur_spinor_classical_control_gate.json",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
-        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md"
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+        "sources/uploads/merker2007.pdf",
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md"
       ],
       "risk_phrase_lines": [
         65,
