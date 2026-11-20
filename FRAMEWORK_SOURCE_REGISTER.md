@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 362 root Markdown documents including this register; 43 research Markdown documents.
-- 46 original uploaded files, including provenance metadata; 303 verification Python scripts.
+- 363 root Markdown documents including this register; 43 research Markdown documents.
+- 46 original uploaded files, including provenance metadata; 304 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -75,6 +75,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
 - [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
+- [DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) — Denis Noble on order, disorder and experience
 - [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
 - [DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) — When could the maintained-disclosure contrast be identifiable?
 - [DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md](DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md) — Cutting a distribution channel is not erasing its records
@@ -606,6 +607,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/necessity_nonempty_modal_audit.py](verification/necessity_nonempty_modal_audit.py)
 - [verification/net_work_mismatch_gate.py](verification/net_work_mismatch_gate.py)
 - [verification/no_signalling_subject_measure_gate.py](verification/no_signalling_subject_measure_gate.py)
+- [verification/noble_symmetry_selection_gate.py](verification/noble_symmetry_selection_gate.py)
 - [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
 - [verification/nonstatic_spherical_midisuperspace.py](verification/nonstatic_spherical_midisuperspace.py)
 - [verification/operational_accumulator.py](verification/operational_accumulator.py)

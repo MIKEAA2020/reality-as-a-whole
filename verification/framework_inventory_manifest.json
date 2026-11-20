@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "28fd98834b432f519fb7abe899e519b5406fea01",
-  "file_count": 1307,
+  "base_head": "1f4e38c995f1e1ec8e30aa60a9078b4f5e64a6f1",
+  "file_count": 1310,
   "files": [
     {
       "path": ".gitattributes",
@@ -310,8 +310,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 36082,
-      "sha256": "8c88eefa8dbbe91adf0744140341ea6a86c7eef12ff4ec0a2e6fc9c22a5d3f5f"
+      "bytes": 36392,
+      "sha256": "ae15e037f5d074c18cba5865b84da09732ac7f219837405e9c0c4b4df4f5d539"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -322,6 +322,11 @@
       "path": "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
       "bytes": 17098,
       "sha256": "51d0a506d9ed3377d40952ae940663c16353693bbf1900bbfc07426920203c19"
+    },
+    {
+      "path": "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
+      "bytes": 20599,
+      "sha256": "917ac95b299968079716cbbfd110eb7a8666c69d3d929710604ea7adc07c827f"
     },
     {
       "path": "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
@@ -525,8 +530,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 96123,
-      "sha256": "0d717e9c65c0f35855422fd82792b76101cb3e19b59cc93db74c6988fcdf5dc4"
+      "bytes": 96397,
+      "sha256": "5582e5f389d96f8d6ed77078dfa0aa750e86719df5916c0dcb17afc8e1292a83"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4045,13 +4050,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 5953,
-      "sha256": "8ca338c8dac9cb3db85f610519e1e101859988ca57418df796ec3b9038e0ca43"
+      "bytes": 6120,
+      "sha256": "f507d2e5d9221f06b3c8858998d078e82e449d83958f7af1ed25fdfa4c7d7087"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 4787,
-      "sha256": "aadbdc4d4883454b682ed40d7a26427f7c718fe8e5748fec1505401d88a2fc3c"
+      "bytes": 4870,
+      "sha256": "82b4fab952b89db6a4adee1d6823a5d41eb123051e9df314d8b54cef5bd65911"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4624,6 +4629,16 @@
       "sha256": "63a1ea453af40e3eec3a4c7cf2fea680fbd8680c33b2c0dd1b73183aeb8ef929"
     },
     {
+      "path": "verification/noble_symmetry_selection_gate.json",
+      "bytes": 588,
+      "sha256": "509b963b78bc8d1b7fee67cacadf7217c76c6dc4c47ef08391326a026e28f94b"
+    },
+    {
+      "path": "verification/noble_symmetry_selection_gate.py",
+      "bytes": 2129,
+      "sha256": "bf787fe1bb3107b2204921221419c142d4bfa15a646ea646fb26283c00207afc"
+    },
+    {
       "path": "verification/nonstatic_spherical_causality.json",
       "bytes": 470,
       "sha256": "90c18d346afd0fddc02d13e3acef1ebfdefe5a3beb00882372cb78fed3f2d93e"
@@ -4895,8 +4910,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 513816,
-      "sha256": "03b031df940aef2ffb1f476d42d9da751909f3c4e814fc265ef893d6513375a0"
+      "bytes": 515152,
+      "sha256": "efc6f40885743e33b470646ebd2bb06da90600f522695fa96eae02e21a287f02"
     },
     {
       "path": "verification/project_inventory.py",

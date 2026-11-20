@@ -1,0 +1,17 @@
+{
+  "scope": "Finite Shannon-information exercise only; no thermodynamic, biological, phenomenal or gravity result.",
+  "permutations_checked": 24,
+  "input_distribution": [
+    "1/10",
+    "1/5",
+    "3/10",
+    "2/5"
+  ],
+  "permutation_entropy_bits": 1.8464393446710154,
+  "independent_fair_draws": 2,
+  "selected_one_probability": "3/4",
+  "selected_output_entropy_bits": 0.8112781244591328,
+  "full_input_and_reversible_embedded_joint_entropy_bits": 2.0,
+  "conditional_input_entropy_given_output_bits": 1.188721875540867,
+  "selecting_success_probability_is_not_guaranteed": true
+}
