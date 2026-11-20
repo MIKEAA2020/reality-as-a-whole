@@ -26,6 +26,7 @@ TESTS = [
     ('quantum_access_subject_count', 'verification/quantum_access_subject_count_gate.py'),
     ('swapping_herald_selection', 'verification/swapping_herald_selection_gate.py'),
     ('complementary_correlations', 'verification/complementary_visibility_entanglement_gate.py'),
+    ('bell_preparation_correlator', 'verification/bell_preparation_correlation_gate.py'),
     ('timeless_whole_location', 'verification/timeless_whole_location_gate.py'),
     ('friend_record_tradeoff', 'verification/reversible_friend_record_tradeoff.py'),
     ('collapse_identifiability', 'verification/experience_collapse_identifiability.py'),

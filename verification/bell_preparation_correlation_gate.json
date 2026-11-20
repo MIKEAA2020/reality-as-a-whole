@@ -1,0 +1,45 @@
+{
+  "scope": "Ideal finite-dimensional algebra; no experimental data, subject identity, phenomenality, gravity or quantum advantage inference.",
+  "sharp_bound": "2*(1-1/2^(N-1)) for odd N>=3 with the stated prepared Bell product and traceless Hermitian unitary observables",
+  "saturating_checks": [
+    {
+      "qubits": 3,
+      "ancilla_dimension": 4,
+      "prepared_expectation": 0.9999999999999993,
+      "infinite_temperature_correlator": -0.5,
+      "sharp_difference": "3/2"
+    },
+    {
+      "qubits": 5,
+      "ancilla_dimension": 16,
+      "prepared_expectation": 0.9999999999999987,
+      "infinite_temperature_correlator": -0.875,
+      "sharp_difference": "15/8"
+    },
+    {
+      "qubits": 7,
+      "ancilla_dimension": 64,
+      "prepared_expectation": 0.9999999999999982,
+      "infinite_temperature_correlator": -0.96875,
+      "sharp_difference": "63/32"
+    }
+  ],
+  "local_gate_examples": [
+    {
+      "theta_over_pi": 0.0,
+      "prepared_expectation": 0.0,
+      "infinite_temperature_correlator": 0.0
+    },
+    {
+      "theta_over_pi": 0.125,
+      "prepared_expectation": 0.7071067811865475,
+      "infinite_temperature_correlator": 0.0
+    },
+    {
+      "theta_over_pi": 0.25,
+      "prepared_expectation": 0.9999999999999998,
+      "infinite_temperature_correlator": 0.0
+    }
+  ],
+  "caution": "Local gate example is not the Fischer et al. Floquet circuit and does not identify a dual-unitary perturbation."
+}

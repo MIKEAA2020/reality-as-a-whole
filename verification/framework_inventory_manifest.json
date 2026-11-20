@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "faba651ae5513d31f61e72d3519c529977c382ea",
-  "file_count": 1291,
+  "base_head": "6dd293ae88b6af6a30b3e946267fa053066b072d",
+  "file_count": 1294,
   "files": [
     {
       "path": ".gitattributes",
@@ -87,6 +87,11 @@
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
       "bytes": 9172,
       "sha256": "fd85108f050c8742e4ebad33a7f82887ac7d6f8ea20217eaa87e5500059eac88"
+    },
+    {
+      "path": "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
+      "bytes": 10758,
+      "sha256": "d03c61daf9b4dc4df6b6fb794b2ffb46bd5312a4ddcc96f0139b5b59242838a3"
     },
     {
       "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
@@ -305,8 +310,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 34682,
-      "sha256": "40a6071b58189a4cf7a509fb954c2d4470fa92480c0b207c5baabd3169822e20"
+      "bytes": 35057,
+      "sha256": "6b11fc87c17f2dfed181e06ba4134873f8eac23c20c7d717f31bbdaa2f0e9bdf"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -510,8 +515,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 94457,
-      "sha256": "e878bd55cb12c6a54d627cd38bb8f285c648cd59f8de7cbb735adc1b9a025d4d"
+      "bytes": 94746,
+      "sha256": "f45f0a7a1add3477abb6b39bbc1723c510e08a49a59ec4f6d2855a8a4d829902"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3384,6 +3389,16 @@
       "sha256": "a5d308940ccf8ed160dee2e4e75ebbbc9ba83f26708327fcd843f53e4bb7d25a"
     },
     {
+      "path": "verification/bell_preparation_correlation_gate.json",
+      "bytes": 1445,
+      "sha256": "1585b608b0bbe271dea64566cc59831c40a1c8117c92eb8e4df195ca672ba0f9"
+    },
+    {
+      "path": "verification/bell_preparation_correlation_gate.py",
+      "bytes": 3802,
+      "sha256": "4e6580b6fd9c72bea41532eff6f5c3c1a754e54d3de5007a39e657ffaef86739"
+    },
+    {
       "path": "verification/boundary_cut_workspace.json",
       "bytes": 505,
       "sha256": "09f5cc2b719a3d71e3868bf5c611e45842cfe54528d33a06f010c3baab65a5f7"
@@ -3975,13 +3990,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 5244,
-      "sha256": "c55164544808779bb93665aa825ae624944d485c98f4a4be4974514462cf9862"
+      "bytes": 5418,
+      "sha256": "68707aa7e4bc7321681e005b10bcbd22e2ff301da005404eb22c2097777c77d9"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 4414,
-      "sha256": "bc685a1a5349a77693efc276af26f2cf12a916ff834d08990e90f86f867ecf8b"
+      "bytes": 4504,
+      "sha256": "5792021ba26fc6af42ee328548518bfdbd89a803140b23eb8de0342819be7425"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4825,8 +4840,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 505939,
-      "sha256": "b595fa730690141ccdea05318f15430b05df71bfc55171402dfb0ed40ce85f3e"
+      "bytes": 507182,
+      "sha256": "ddcac717400c52a571cfc6b92e82429db24044d09b6da9932358bff18838d6ec"
     },
     {
       "path": "verification/project_inventory.py",
