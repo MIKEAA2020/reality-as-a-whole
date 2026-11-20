@@ -8,6 +8,8 @@ This note makes them explicit and supplies a **conditional identification proced
 
 The genuinely important limitation is not merely measurement error. **It is disputed whether phenomenal unity is transitive, whether experiences can be shared, and whether a subject always has one totally unified field.** If those conditions are dropped, the partition calculation may not apply at all. Even its ideal input presupposes the very experiential relation we seek to explain. This is therefore a constrained research interface, **not** a theory deriving subjects from an experiential ground, or a demonstration of a real person's subject count. First-person experience itself remains valid data; it is not a mere label in a graph.
 
+A follow-up [randomized pair–triple gate](TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md) derives a sharp population bound under exclusive fields and shows how conditional probe-error bounds could challenge the full hypothesis package. Its target calibration and cross-arm comparability are not established.
+
 ## 1. The prior literature and its limits
 
 [Bayne and Chalmers, *What Is the Unity of Consciousness?*](https://consc.net/papers/unity.html) distinguish access unity from phenomenal unity: being jointly accessible for reasoning or report is not automatically the same claim as there being something it is like to experience the aspects together. They discuss the unity thesis and a subsumption account, while acknowledging controversy. The introduction and selected sections on unity and subsumption were read; the remaining text was not systematically inspected.

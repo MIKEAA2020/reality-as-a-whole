@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 367 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 308 verification Python scripts.
+- 368 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 309 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -329,6 +329,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TOLMAN_COCYCLE.md](TOLMAN_COCYCLE.md) — Tolman–Ehrenfest law via the Connes–Rovelli cocycle
 - [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) — Top Yukawa and Higgs Mass from the Spectral Action: 1-Loop RGE Verification
 - [TORUS_SECOND_ORDER_GRAVITY_MATTER.md](TORUS_SECOND_ORDER_GRAVITY_MATTER.md) — A second-order gravity–matter obstruction on the torus
+- [TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md](TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md) — Testing exclusive phenomenal unity with randomized pair and triple probes
 - [TURNING_CLOCK_ATLAS.md](TURNING_CLOCK_ATLAS.md) — A relational clock through turning points
 - [TURNING_ENTROPY_RECORD_BRIDGE.md](TURNING_ENTROPY_RECORD_BRIDGE.md) — Turning clocks, entropy paths, and the need for a retained record
 - [TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md](TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md) — Two source conversations: experiential reality, structure and non-optimality
@@ -763,6 +764,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/two_field_spacetime_probe.py](verification/two_field_spacetime_probe.py)
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
+- [verification/unity_triple_partition_calibration_gate.py](verification/unity_triple_partition_calibration_gate.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
 - [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)

@@ -1,0 +1,29 @@
+{
+  "scope": "Abstract event/partition and hypothetical report-error constraints only; no human data or experiential assay.",
+  "quarter_grid_marginal_triples": 125,
+  "feasible_triples": 65,
+  "infeasible_triples": 60,
+  "endpoint_and_midpoint_distributions_checked": 195,
+  "exact_pair_marginals": [
+    "9/10",
+    "9/10",
+    "9/10"
+  ],
+  "exclusive_triple_sharp_interval": [
+    "17/20",
+    "9/10"
+  ],
+  "nonexclusive_family_triple": "1/10",
+  "finite_report_example": {
+    "per_pair_report_mean": "9/10",
+    "triple_report_mean": "1/10",
+    "assumed_per_test_class_error_bounds": "1/20",
+    "simultaneous_sampling_radius": "1/20",
+    "pair_probability_lower": "16/19",
+    "exclusive_triple_lower": "29/38",
+    "triple_probability_upper": "3/19",
+    "trials_per_arm": 1020,
+    "union_bound_failure": 0.04877397252412502
+  },
+  "warning": "Calibration, no-probe-effect and comparable latent targets are assumptions, not established evidence."
+}
