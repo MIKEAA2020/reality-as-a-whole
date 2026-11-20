@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 426,
-  "bytes": 5684811,
-  "line_count": 56328,
-  "document_count_with_risk_phrases": 398,
+  "document_count": 427,
+  "bytes": 5699678,
+  "line_count": 56426,
+  "document_count_with_risk_phrases": 399,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3565,8 +3565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "10aacb86213f42ee19458a6c3646115fa4367824b0ec7f033b9643e70a4c7b6d",
-      "bytes": 12107,
+      "sha256": "50cccc1657cb2d682111ef8fc7302d2212e770d9ec873e002a869f41e4044f5e",
+      "bytes": 12414,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3584,6 +3584,7 @@
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
+        "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3699,9 +3700,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c0d4a7cc2af39384d874bb31261294850de8cfafd3482f57bf42a192770ceef4",
-      "bytes": 101299,
-      "lines": 824,
+      "sha256": "f0dba70fe8839f63af08b14285c17c15a9f54c5e3aabca310f0df757cdc7e16c",
+      "bytes": 101565,
+      "lines": 826,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3939,6 +3940,7 @@
         "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
+        "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -4365,6 +4367,7 @@
         "verification/quantum_access_subject_count_gate.py",
         "verification/quantum_agreement_record_gate.py",
         "verification/quantum_agreement_supplement_gate.py",
+        "verification/quantum_mereology_symmetry_gate.py",
         "verification/quantum_relational_field_instrument.py",
         "verification/quantum_static_spherical_clock.py",
         "verification/race_context_and_joint_content_gate.py",
@@ -4518,15 +4521,15 @@
         110,
         185,
         228,
-        249,
-        296,
-        372,
-        386,
-        422,
-        431,
-        434,
-        437,
-        495
+        250,
+        297,
+        373,
+        387,
+        423,
+        432,
+        435,
+        438,
+        496
       ]
     },
     {
@@ -5689,6 +5692,40 @@
         53,
         61,
         70
+      ]
+    },
+    {
+      "path": "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
+      "sha256": "0f32ac97bce8d8d7505c16683338f5da5673d34d4d0bba40999229d3e84ff3cd",
+      "bytes": 13430,
+      "lines": 94,
+      "title": "Timelessness, intrinsic time and the cost of removing a clock",
+      "headings": [
+        "Timelessness, intrinsic time and the cost of removing a clock",
+        "Main result",
+        "The literature and what is genuinely new here",
+        "One fixed constraint and two stationary states",
+        "Three different operations, three different results",
+        "A way forward without a universal clock",
+        "Additional source scope"
+      ],
+      "local_links": [
+        "RELATIONAL_TIME_CONSTRUCTION.md",
+        "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
+        "RELATIONAL_TIME_CONSTRUCTION.md",
+        "verification/intrinsic_clock_phase_erasure_gate.py",
+        "verification/intrinsic_clock_phase_erasure_gate.json",
+        "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
+        "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
+        "COLD_ATOM_CLOCK_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        15,
+        31,
+        39,
+        58,
+        72
       ]
     },
     {
@@ -7286,9 +7323,9 @@
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
-      "sha256": "05254bf0e79349e1cbb75a6b048bf053014331eb2d9bda05274696f294131ea1",
-      "bytes": 6329,
-      "lines": 134,
+      "sha256": "5c2da6e99dfc9a8bd3b49915cd14c6998fdbf2d122e44cc8d9e3592b21f2463f",
+      "bytes": 7193,
+      "lines": 136,
       "title": "Page–Wootters conditional time and the static spherical gravitational clock",
       "headings": [
         "Page–Wootters conditional time and the static spherical gravitational clock",
@@ -7300,14 +7337,15 @@
         "6. Verification"
       ],
       "local_links": [
+        "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "verification/page_wootters_static_clock.py",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
         "verification/page_wootters_static_clock.json"
       ],
       "risk_phrase_lines": [
-        13,
-        113
+        15,
+        115
       ]
     },
     {

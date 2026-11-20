@@ -1,0 +1,60 @@
+{
+  "scope": "Four-outcome periodic qubit clock; no claim about continuum clock or subjective time.",
+  "clock_phases": [
+    "0",
+    "pi/2",
+    "pi",
+    "3pi/2"
+  ],
+  "states": {
+    "plus": {
+      "clock_outcome_probabilities": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "conditional_X": [
+        1.0,
+        0.0,
+        -1.0,
+        0.0
+      ],
+      "constraint_commuting_relative_X": [
+        1.0,
+        0.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "minus": {
+      "clock_outcome_probabilities": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "conditional_X": [
+        -1.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "constraint_commuting_relative_X": [
+        -1.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    }
+  },
+  "system_reductions_both": "I/2",
+  "global_states_orthogonal": true,
+  "coherent_average_of_conditional_kets": "|0>/sqrt(2) for each state",
+  "relative_X_at_zero_distinguishes_states": [
+    1,
+    -1
+  ],
+  "clock_effect_itself_does_not_commute_with_constraint": true,
+  "arithmetic": "exact for displayed dyadic values"
+}

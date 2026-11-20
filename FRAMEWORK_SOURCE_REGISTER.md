@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 383 root Markdown documents including this register; 43 research Markdown documents.
-- 50 original uploaded files, including provenance metadata; 317 verification Python scripts.
+- 384 root Markdown documents including this register; 43 research Markdown documents.
+- 50 original uploaded files, including provenance metadata; 318 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -154,6 +154,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
 - [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
 - [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
+- [INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md](INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md) — Timelessness, intrinsic time and the cost of removing a clock
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
 - [KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md](KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md) — Kent's Lorentzian quantum reality: full-paper and beable audit
@@ -610,6 +611,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/integration_overlap.py](verification/integration_overlap.py)
 - [verification/interacting_clock.py](verification/interacting_clock.py)
 - [verification/internal_reference_event.py](verification/internal_reference_event.py)
+- [verification/intrinsic_clock_phase_erasure_gate.py](verification/intrinsic_clock_phase_erasure_gate.py)
 - [verification/joint_access_common_source_gate.py](verification/joint_access_common_source_gate.py)
 - [verification/k_pairwise_constraint_and_gauge_gate.py](verification/k_pairwise_constraint_and_gauge_gate.py)
 - [verification/kent_final_record_toy_gate.py](verification/kent_final_record_toy_gate.py)

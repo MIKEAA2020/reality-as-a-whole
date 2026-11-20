@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "565ad48b5f620623829e362100f704c9c747cb82",
-  "file_count": 1361,
+  "base_head": "448812c1438bdf4dc8223802d28a87cdb0f6d95c",
+  "file_count": 1364,
   "files": [
     {
       "path": ".gitattributes",
@@ -535,8 +535,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 12107,
-      "sha256": "10aacb86213f42ee19458a6c3646115fa4367824b0ec7f033b9643e70a4c7b6d"
+      "bytes": 12414,
+      "sha256": "50cccc1657cb2d682111ef8fc7302d2212e770d9ec873e002a869f41e4044f5e"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -560,8 +560,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 101565,
-      "sha256": "f0dba70fe8839f63af08b14285c17c15a9f54c5e3aabca310f0df757cdc7e16c"
+      "bytes": 101849,
+      "sha256": "45cf3e3d09cb5c7877450681bd6a6421a39fd7b4751c323fb7eca5933bef97fa"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -722,6 +722,11 @@
       "path": "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
       "bytes": 12701,
       "sha256": "7e32675e50b6c2811219eb4d17cfb4a9d59a43aa2867742110584dc305347cec"
+    },
+    {
+      "path": "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
+      "bytes": 13430,
+      "sha256": "0f32ac97bce8d8d7505c16683338f5da5673d34d4d0bba40999229d3e84ff3cd"
     },
     {
       "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
@@ -985,8 +990,8 @@
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
-      "bytes": 6329,
-      "sha256": "05254bf0e79349e1cbb75a6b048bf053014331eb2d9bda05274696f294131ea1"
+      "bytes": 7193,
+      "sha256": "5c2da6e99dfc9a8bd3b49915cd14c6998fdbf2d122e44cc8d9e3592b21f2463f"
     },
     {
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
@@ -4544,6 +4549,16 @@
       "sha256": "63b51418e4b1f1c146e9d697109a5b765b44ee10262169884b9132a6e5a0135f"
     },
     {
+      "path": "verification/intrinsic_clock_phase_erasure_gate.json",
+      "bytes": 1142,
+      "sha256": "727619b8c2c79c131d417706adb5e51ff04870fa8550876734688cb8166f6c69"
+    },
+    {
+      "path": "verification/intrinsic_clock_phase_erasure_gate.py",
+      "bytes": 3913,
+      "sha256": "a71190afb5805f2ee8f7cd53d8b15187f31c82748591cc20c071433b90b35cd4"
+    },
+    {
       "path": "verification/joint_access_common_source_gate.json",
       "bytes": 900,
       "sha256": "606d49b2c1543f645be877c680c05b4e4cdc858935b4842e110af1112d759b86"
@@ -5130,8 +5145,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 540180,
-      "sha256": "c6c3b2bb363772cc3484e78e1f3885a18a8fa7dbf2992d3e605b672537f7d0c6"
+      "bytes": 541655,
+      "sha256": "61391a3f3f418717cbc16d3f517b1142b28dc2ea4cf2245c281c24a08d326e2e"
     },
     {
       "path": "verification/project_inventory.py",
