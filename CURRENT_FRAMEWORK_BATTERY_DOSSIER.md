@@ -38,13 +38,13 @@ The project assesses candidates against all seven of the user's criteria, not as
 
 1. **Experience is a valid datum:** retain actual phenomenal experience; do not replace it with reports or deny it for the sake of an easier physical account.
 2. **Our universe is not best possible:** respect the stipulated non-optimality and the conditional implication for the whole's perfection.
-3. **Full intelligibility without brute residue:** seek both structural/existential intelligibility and intelligibility of experience in its experiential mode.
+3. **Full structural and experiential intelligibility:** explain both the structure of reality and experience in its own experiential mode, without leaving brute explanatory residue. Modal and existential intelligibility are among the structural/explanatory obligations; they do not replace experiential intelligibility.
 4. **Generative and predictive power:** require discriminating consequences or a progressive programme with identifiable failure conditions.
 5. **Alignment with promising physics:** recover established physical results and engage quantum theory, gravity and possible emergent spacetime without exaggerating their reach.
 6. **Alignment with plausible consciousness science:** explain real experience while testing neural and cognitive mechanisms and recognizing report limitations.
 7. **Elegance and parsimony:** minimize independent assumptions and unexplained bridges while meeting the other criteria, rather than winning by discarding them.
 
-The later governing correction replaces the older universal-subject endpoint with **genuinely plural subjects and perspectives**, without positing a universal agent. The framework also targets a timeless, self-sufficient relational whole and actuality of genuine possibilities. The historical [seven-criteria synthesis](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) records the original criteria but contains a superseded universal-subject proposal. These are requirements and targets, not a claim that a complete theory now meets them.
+The later governing correction replaces the older universal-subject endpoint with **genuinely plural subjects and perspectives**, without positing a universal agent. The framework also targets a timeless, self-sufficient relational whole and actuality of genuine possibilities. The historical [seven-criteria synthesis](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) records the original criteria but contains a superseded universal-subject proposal. The [two-paper audit](STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md) applies full structural and experiential intelligibility to an organizational foundation proposal and a benchmarked quantum simulation. These are requirements and targets, not a claim that a complete theory now meets them.
 
 The framework rests on the following **working assumptions**. They are not presented as established conclusions.
 

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 355 root Markdown documents including this register; 43 research Markdown documents.
-- 42 original uploaded files, including provenance metadata; 299 verification Python scripts.
+- 356 root Markdown documents including this register; 43 research Markdown documents.
+- 44 original uploaded files, including provenance metadata; 299 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -283,6 +283,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md](STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md) — State mismatch: a bounded contrast and a falsification gate
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
+- [STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md](STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md) — Full structural and experiential intelligibility: two supplied papers
 - [STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md](STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md) — Structured void, neutrino oscillations and explanatory identifiability
 - [SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md](SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md) — Subject-boundary robustness when the rest of the system is unknown
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
@@ -436,10 +437,12 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt)
 - [sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt](sources/uploads/DeepSeek_Substrate-independent-vs-dependent-consciousness_20261102-1856.txt)
 - [sources/uploads/Display_Spike_Trains.pdf](sources/uploads/Display_Spike_Trains.pdf)
+- [sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf](sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
 - [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
+- [sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf](sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
 - [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
