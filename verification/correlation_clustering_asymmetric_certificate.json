@@ -1,0 +1,45 @@
+{
+  "scope": "Finite checks of mathematical statements only; no experiential measurement or subject inference.",
+  "signed_partial_graphs_checked": 760,
+  "partition_inequalities_checked": 3720,
+  "shared_negative_star": {
+    "triangles": 3,
+    "ordinary_packing_total": "1",
+    "asymmetric_weight": "3",
+    "lambda": "3",
+    "budgets": {
+      "a=2,b=0": {
+        "counts": [],
+        "partitions": 0,
+        "weighted_rejects": true
+      },
+      "a=3,b=0": {
+        "counts": [
+          2
+        ],
+        "partitions": 8,
+        "weighted_rejects": false
+      },
+      "a=0,b=1": {
+        "counts": [
+          1
+        ],
+        "partitions": 1,
+        "weighted_rejects": false
+      }
+    }
+  },
+  "positive_path_contradiction": {
+    "length": 3,
+    "bad_triangles": 0,
+    "feasible_zero_error": false
+  },
+  "ambiguous_optimum": {
+    "disagreements": 1,
+    "subject_counts": [
+      1,
+      2
+    ]
+  },
+  "zero_edge_interpretation": "Positive 01, negative 12, zero 02: ignoring zero yields components {01},{2}; keeping zero after deleting negative merges all."
+}

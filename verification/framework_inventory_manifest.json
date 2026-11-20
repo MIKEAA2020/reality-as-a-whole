@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "be4d51ba3cce9c9e26f3a485e8e2fc2984e7f3df",
-  "file_count": 1316,
+  "base_head": "f6836b746d5867cb280285a5a5d14aa327037d59",
+  "file_count": 1320,
   "files": [
     {
       "path": ".gitattributes",
@@ -284,6 +284,11 @@
       "sha256": "3757b7e25ee355616440a784a7af058ef7ff917b4e1c141df8588ee13f67ca89"
     },
     {
+      "path": "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
+      "bytes": 11215,
+      "sha256": "90144738a9634966c8bb23d805dd3ce811e860c916613729b003166a526a7674"
+    },
+    {
       "path": "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
       "bytes": 14008,
       "sha256": "7f6a85d0c6c424f6ab59aef12c9c09870d782b10f82c47aec3ef8bc965889895"
@@ -315,8 +320,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 36764,
-      "sha256": "a4ca8cd3fd97cd02dd6de6a9cb185043c7b3df7620de21641e598a68bc392b89"
+      "bytes": 36865,
+      "sha256": "183d28e5611e84bab552aa4f31f704fc50fe45d0f08d7235c71061780b77d82e"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -535,8 +540,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 96948,
-      "sha256": "54a9df8aa83958c32c2637ed1ab496f6b81230ebf781d7b3d6cbad01cba86cd5"
+      "bytes": 97384,
+      "sha256": "1e587bf2aa673fe28bf4227c397444a8a85c20c9489a5429001f340025ce64ff"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -965,8 +970,8 @@
     },
     {
       "path": "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
-      "bytes": 16921,
-      "sha256": "335028da03e28cbeb5a275261d6bf0b2035c01001a2a1fc340f885e5535dc7c3"
+      "bytes": 17112,
+      "sha256": "0c0681e1326182b7a848263d650b2215379858709dffa375babd11aea0929e1a"
     },
     {
       "path": "PHOTON_ECHO_READOUT.md",
@@ -3139,6 +3144,11 @@
       "sha256": "de5529aca857465c4b00553314b582ba7afab06917960c260e72b3151d69573b"
     },
     {
+      "path": "sources/uploads/B_MACH.0000033116.57574.95.pdf",
+      "bytes": 218512,
+      "sha256": "2b43328e9799c4712a63329072369f5ee62ed1d5c887dfdd171a7d478386abec"
+    },
+    {
       "path": "sources/uploads/Bostrom's simulation hypothesis.md",
       "bytes": 21071,
       "sha256": "5441a64f734eda8686b733f19809372c7a48c9376472c15b893e5799ff46aceb"
@@ -3734,6 +3744,16 @@
       "sha256": "7f570febbe830850e071ea89609f3fa38d47cd0f026339bd8a7b8ba00162aec8"
     },
     {
+      "path": "verification/correlation_clustering_asymmetric_certificate.json",
+      "bytes": 1097,
+      "sha256": "a1e23a28e6224ec1360e86d0e492fb8d55ee681c119877c8ff21b6ddb86f5e3d"
+    },
+    {
+      "path": "verification/correlation_clustering_asymmetric_certificate.py",
+      "bytes": 4269,
+      "sha256": "548953484e82652d1a4f86df3d5cbde03c3e6dac86ddf20b33d1d4562a7c62f3"
+    },
+    {
       "path": "verification/cosmological_collapse_geometry_gate.json",
       "bytes": 1376,
       "sha256": "d4b016c6b39b4b26f725d913427493201d3ef6f86dc9e078ee1ec495a7b948f1"
@@ -4070,13 +4090,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 6460,
-      "sha256": "b8fe1d5deddbebc51849900a120629f2c86a10e85efc19b8826733d9dde364b4"
+      "bytes": 6653,
+      "sha256": "1c4fc5ccd3d6834a1aeb57fbb1ec13b716c4ff3b85a5161f87ec4dcebe8294ef"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 5042,
-      "sha256": "8f52d9e81417856ca87df250831f09bdea582ebd2ffaa9dde378bad459d45665"
+      "bytes": 5151,
+      "sha256": "7047e9163fd1c792e445ef6733862e28d9cbd65c8af595a949faa684d127636a"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4940,8 +4960,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 517929,
-      "sha256": "3d202308b03f2a71a6e43a90474a8a16493575fcc4b58bc3bd7769ebdd902c82"
+      "bytes": 519501,
+      "sha256": "869f05dc1d98cf703cd3ade8d4cfc292800ea64322b4730b0b60397ef3404b1b"
     },
     {
       "path": "verification/project_inventory.py",

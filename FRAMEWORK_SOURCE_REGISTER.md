@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 365 root Markdown documents including this register; 43 research Markdown documents.
-- 46 original uploaded files, including provenance metadata; 306 verification Python scripts.
+- 366 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 307 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -67,6 +67,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md](CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md) — When does regulating variation actually help?
 - [CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) — Complete cutoff-to-continuum instrument: a restricted common-space result
 - [CORRELATED_PUMP_CERTIFICATION.md](CORRELATED_PUMP_CERTIFICATION.md) — Correlated finite sources: a complete-instrument robustness theorem
+- [CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md](CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md) — Correlation clustering: full-paper audit and an asymmetric error certificate
 - [COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) — Cosmological collapse: what selecting λ does and does not establish
 - [COSMOLOGICAL_CONSTANT_A0_CANCEL.md](COSMOLOGICAL_CONSTANT_A0_CANCEL.md) — Cosmological Constant Λ⁴ Cancellation via KO-Dimension 6 Spectral Action
 - [COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md](COUPLED_DYNAMICS_SUBJECT_BOUNDARY_GATE.md) — Subject boundaries in one coupled physical dynamics
@@ -434,6 +435,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc](sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc)
+- [sources/uploads/B_MACH.0000033116.57574.95.pdf](sources/uploads/B_MACH.0000033116.57574.95.pdf)
 - [sources/uploads/Bostrom's simulation hypothesis.md](sources/uploads/Bostrom%27s%20simulation%20hypothesis.md)
 - [sources/uploads/Data_Spike_Trains.txt](sources/uploads/Data_Spike_Trains.txt)
 - [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
@@ -518,6 +520,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/continuous_feedback_digital_approximation.py](verification/continuous_feedback_digital_approximation.py)
 - [verification/continuum_complete_instrument_bound.py](verification/continuum_complete_instrument_bound.py)
 - [verification/correlated_pump_certification.py](verification/correlated_pump_certification.py)
+- [verification/correlation_clustering_asymmetric_certificate.py](verification/correlation_clustering_asymmetric_certificate.py)
 - [verification/cosmological_collapse_geometry_gate.py](verification/cosmological_collapse_geometry_gate.py)
 - [verification/cosmological_constant_cancel.py](verification/cosmological_constant_cancel.py)
 - [verification/coupled_subject_boundary_gate.py](verification/coupled_subject_boundary_gate.py)
