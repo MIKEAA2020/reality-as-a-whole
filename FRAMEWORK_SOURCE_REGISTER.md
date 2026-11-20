@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 396 root Markdown documents including this register; 43 research Markdown documents.
-- 52 original uploaded files, including provenance metadata; 326 verification Python scripts.
+- 397 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 328 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -206,6 +206,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NONSTATIC_SPHERICAL_CAUSALITY.md](NONSTATIC_SPHERICAL_CAUSALITY.md) — Non-static spherical causality: before the first signal reaches infinity
 - [NONSTATIC_SPHERICAL_MIDISUPERSPACE.md](NONSTATIC_SPHERICAL_MIDISUPERSPACE.md) — Beyond Killing time: spherical Einstein–scalar midisuperspace with Misner–Sharp relational variables
 - [NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md](NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md) — Can absolute non-existence be incoherent?
+- [OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md](OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md) — Observed phase lags are not preferred interactions
 - [OKN_SOURCE_QUALIFICATION.md](OKN_SOURCE_QUALIFICATION.md) — Primary OKN evidence: a qualified measurement route, not a qualitative identity
 - [ONE_WHOLE_FINITE_ACCESS.md](ONE_WHOLE_FINITE_ACCESS.md) — One experiential whole and finite perspectives: an explicit access test
 - [OPERATIONAL_PATH_ACCUMULATOR.md](OPERATIONAL_PATH_ACCUMULATOR.md) — An operational quantum path accumulator and a clock-conversion instrument
@@ -679,6 +680,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
 - [verification/perspective_access_from_circuit.py](verification/perspective_access_from_circuit.py)
 - [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)
+- [verification/phase_observation_preference_gate.py](verification/phase_observation_preference_gate.py)
+- [verification/phase_observation_preference_gate_test.py](verification/phase_observation_preference_gate_test.py)
 - [verification/phenomenal_facet_subject_gate.py](verification/phenomenal_facet_subject_gate.py)
 - [verification/phenomenal_gwt_russellian.py](verification/phenomenal_gwt_russellian.py)
 - [verification/phenomenal_unity_partition_gate.py](verification/phenomenal_unity_partition_gate.py)

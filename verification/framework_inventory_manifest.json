@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "94024891e10f22965afd051284310d50237fbb8a",
-  "file_count": 1391,
+  "base_head": "75a855c0bf78c515fd3ffc0b0a50238f41d877cd",
+  "file_count": 1395,
   "files": [
     {
       "path": ".gitattributes",
@@ -565,8 +565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 15647,
-      "sha256": "4fa3f106568379b6db4d72829fc28556a0a2ad4d10de71334ef8d0afb403bdf3"
+      "bytes": 16411,
+      "sha256": "8c60b027ea61b434b43914e00b57505c6cef95cb0f4b00f2b893007effd60204"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -590,8 +590,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 105079,
-      "sha256": "6420201b10bff26330b36759dba6785c0613c8d579e2efae24f3bc793e6cde42"
+      "bytes": 105471,
+      "sha256": "4fca1cb99f5210bda029db54849c3f3d596f426ddb724fb922a4c07f98053554"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -987,6 +987,11 @@
       "path": "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
       "bytes": 15186,
       "sha256": "1f97c2a19d0f58bf4a8bdbc4a0b1e29dcb10470d327487fcf8d6a3395110fcc3"
+    },
+    {
+      "path": "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+      "bytes": 16920,
+      "sha256": "c19decf6c424ae0dc532af88d030b4a65fcc5b7a8943e1507d512f79ad803e25"
     },
     {
       "path": "OKN_SOURCE_QUALIFICATION.md",
@@ -5137,6 +5142,21 @@
       "path": "verification/phase_frustration_audit.py",
       "bytes": 3251,
       "sha256": "661e7388c51a225a9cdfd9b6fad43b321d49742e25dfdcbe04f915ff2f4898f8"
+    },
+    {
+      "path": "verification/phase_observation_preference_gate.json",
+      "bytes": 1062,
+      "sha256": "120ca59ac3914fd02d56e4904497c4eabc32b099b3c2fcad0c9d0dc4a4438daf"
+    },
+    {
+      "path": "verification/phase_observation_preference_gate.py",
+      "bytes": 4338,
+      "sha256": "5dc088e4a62be7316868799d40a7748d2bbdc88da6471493c17867161716f31e"
+    },
+    {
+      "path": "verification/phase_observation_preference_gate_test.py",
+      "bytes": 2033,
+      "sha256": "6c124cc2da56eda7bd837cb4f729de859c718530feb2c18fc104d2c806574d0e"
     },
     {
       "path": "verification/phenomenal_facet_subject_gate.json",

@@ -1,0 +1,29 @@
+{
+  "binary_model": {
+    "channel_frustration_A": 1,
+    "channel_frustration_B": 0,
+    "clamp_distribution_total_variation": "3/26",
+    "clamp_s0_positive_joint_plusplus_A": "1/13",
+    "clamp_s0_positive_joint_plusplus_B": "5/26",
+    "each_pair_mean": "-3/13",
+    "entire_observational_distribution_equal": true,
+    "fitted_phase_offset": "pi",
+    "gibbs_energy": "sum (1+s_i*s_j)/2",
+    "inverse_temperature": "ln(2)",
+    "minimax_expected_absolute_error_lower_bound": "1/2",
+    "naive_fitted_cosine_F_PLV_weights": "9/26",
+    "naive_fitted_cosine_F_unit_weights": "3/2",
+    "normalizer": "13/4",
+    "pair_PLV": "3/13",
+    "synthetic_exact_frequency_sample_size": 26
+  },
+  "caveat": "observational equivalence is constructed; clamp predictions rely on specified intervention semantics",
+  "locked_continuous_model": {
+    "actual_energy": 1.5000000000000009,
+    "pair_PLV": 1,
+    "physical_antiphase_F": 1.5,
+    "self_fitted_F": 0,
+    "self_fitted_lag_cost": 0.0
+  },
+  "scope": "synthetic phase-identifiability controls, no neural data"
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 439,
-  "bytes": 5820624,
-  "line_count": 57050,
-  "document_count_with_risk_phrases": 411,
+  "document_count": 440,
+  "bytes": 5838700,
+  "line_count": 57173,
+  "document_count_with_risk_phrases": 412,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3699,9 +3699,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4fa3f106568379b6db4d72829fc28556a0a2ad4d10de71334ef8d0afb403bdf3",
-      "bytes": 15647,
-      "lines": 69,
+      "sha256": "8c60b027ea61b434b43914e00b57505c6cef95cb0f4b00f2b893007effd60204",
+      "bytes": 16411,
+      "lines": 71,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3726,6 +3726,7 @@
         "DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md",
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3733,9 +3734,10 @@
       "risk_phrase_lines": [
         5,
         9,
-        29,
-        46,
-        63
+        25,
+        31,
+        48,
+        65
       ]
     },
     {
@@ -3841,9 +3843,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6420201b10bff26330b36759dba6785c0613c8d579e2efae24f3bc793e6cde42",
-      "bytes": 105079,
-      "lines": 850,
+      "sha256": "4fca1cb99f5210bda029db54849c3f3d596f426ddb724fb922a4c07f98053554",
+      "bytes": 105471,
+      "lines": 853,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4051,6 +4053,7 @@
         "NONSTATIC_SPHERICAL_CAUSALITY.md",
         "NONSTATIC_SPHERICAL_MIDISUPERSPACE.md",
         "NOTHINGNESS_TRUTH_AND_EXPERIENTIAL_NECESSITY.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
         "OKN_SOURCE_QUALIFICATION.md",
         "ONE_WHOLE_FINITE_ACCESS.md",
         "OPERATIONAL_PATH_ACCUMULATOR.md",
@@ -4510,6 +4513,8 @@
         "verification/perspectival_finitude.py",
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
+        "verification/phase_observation_preference_gate.py",
+        "verification/phase_observation_preference_gate_test.py",
         "verification/phenomenal_facet_subject_gate.py",
         "verification/phenomenal_gwt_russellian.py",
         "verification/phenomenal_unity_partition_gate.py",
@@ -4685,16 +4690,16 @@
         56,
         116,
         195,
-        240,
-        262,
-        309,
-        385,
-        400,
-        436,
-        445,
-        448,
-        451,
-        510
+        241,
+        263,
+        310,
+        386,
+        401,
+        437,
+        446,
+        449,
+        452,
+        511
       ]
     },
     {
@@ -7256,6 +7261,41 @@
       "risk_phrase_lines": [
         26,
         88
+      ]
+    },
+    {
+      "path": "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+      "sha256": "c19decf6c424ae0dc532af88d030b4a65fcc5b7a8943e1507d512f79ad803e25",
+      "bytes": 16920,
+      "lines": 118,
+      "title": "Observed phase lags are not preferred interactions",
+      "headings": [
+        "Observed phase lags are not preferred interactions",
+        "The decisive interface",
+        "1. Three different quantities",
+        "2. False negative: fully locked but physically frustrated",
+        "3. False positive: a cycle from averaging without direct edges",
+        "4. Why high phase locking makes this shortcut self-defeating",
+        "5. What would make a real test admissible?",
+        "6. Bounded data-access follow-up and a label hazard"
+      ],
+      "local_links": [
+        "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
+        "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
+        "verification/phase_observation_preference_gate.json",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md"
+      ],
+      "risk_phrase_lines": [
+        10,
+        12,
+        23,
+        53,
+        64,
+        68,
+        87,
+        97,
+        112,
+        116
       ]
     },
     {

@@ -22,6 +22,8 @@ The [Ismael participatory-realism audit](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDD
 
 The [MET label and neural-access audit](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) identifies 400 explicitly keyed valence ratings and 399 nominal EEG-file matches; the signals remain inaccessible/uninspected. Its fixed-before-full-table retrospective screen sets known-song and person/song-disjoint category baselines. It is label-only, with no neural mismatch, experimentally validated timing, experiential bridge or change to B4–B5/B10.
 
+The [observed phase-lag versus physical frustration gate](OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md) tests the tempting EEG implementation against exact false-negative and common-input false-positive controls, and supplies a common-sample holonomy bound. It shows that observed mean lags cannot be silently substituted for independently identified interaction preferences; a specified intervention distinguishes the constructed rivals. It is a synthetic diagnostic, not an identified neural or experiential bridge, and leaves B4–B5/B10 open. A third-party DEAP loader/classifier also conditionally misnames arousal and dominance as valence and arousal if its files follow the documented DEAP ordering; artifacts and data rights were not verified.
+
 ## 1. Which battery?
 
 There are two different things in this repository:
