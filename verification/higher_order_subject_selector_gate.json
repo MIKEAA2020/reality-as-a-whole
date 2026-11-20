@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "kappa": "1/5",
+  "all_pair_marginals_under_27_partial_clamps_identical": true,
+  "all_fixed_inputs_have_full_joint_TV": "1/10",
+  "any_fixed_input_flip_changes_even_output_probability": "1/5",
+  "transition_mutual_information_under_uniform_full_intervention_bits": 0.02904940554533142,
+  "pairwise_single_output_influence_original_axes": 0,
+  "parity_coordinate_to_parity_coordinate_influence": "1/5",
+  "equal_prior_optimal_full_parity_test_n_100_error": 0.15726407238001142,
+  "hoeffding_n_for_each_error_at_most_0_025": 738,
+  "scope": "two stipulated kernels and allowed interventions; no empirical data, subject-count inference, general IIT calculation, or proof of experiential constitution"
+}

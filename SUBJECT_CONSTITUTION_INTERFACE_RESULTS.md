@@ -4,6 +4,8 @@
 
 The [fixed protocol and executable specification](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) were committed and pushed as `5ee21b6` **before** running the comparison. This was a precommitted *mathematical exercise*, not a preregistered human study or an analysis of new data. It joins the existing four-spin subject-boundary rules to the experiential-versus-neutral grounding comparison.
 
+A later [higher-order causal gate](HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md) checks a distinct limitation: single-output pairwise influence graphs can miss a collective conditional response. It does not invalidate the specific four-spin calculations below, but the graphs used here are not established as generally complete descriptions of candidate subject-making organization.
+
 The result separates two questions:
 
 1. Under an explicitly postulated, target-valid report channel, two subject-rule **packages** make very different predictions. But the physically defined comparator already in the spin model is nowhere near the assumed report accuracy, so it cannot serve as that channel.

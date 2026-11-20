@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b1bc158944951272985aacaad1d2291a5ab5ee1f",
-  "file_count": 1255,
+  "base_head": "d42d297aad85f91a47138bdff9d944c94b16741f",
+  "file_count": 1258,
   "files": [
     {
       "path": ".gitattributes",
@@ -290,8 +290,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 28040,
-      "sha256": "480c6995b3762b24d630649daa85f5ab6df02d01d48f58fc07e6e11a02b2b597"
+      "bytes": 28299,
+      "sha256": "d96e5b6062c3706c40873ce1acb7562e077a3688d6e7ec881723f7876cf6fbcb"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -495,8 +495,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 90601,
-      "sha256": "910dd0d99d6670946aa7ccbe578e72018590ac8e36c861fb82d4a3c105a94be9"
+      "bytes": 90880,
+      "sha256": "871f83254218b4c8ac7e85c9b7169f9681881aeb2c7fd330ecedf671c62a4b5e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -597,6 +597,11 @@
       "path": "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
       "bytes": 18268,
       "sha256": "fd4ca0490e69f803c63b08a791f300759564779ebb752dc769232f21e0ed2761"
+    },
+    {
+      "path": "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+      "bytes": 12982,
+      "sha256": "e988f3c9aa9f3807ff617159cddf3728bb69e895709b155ba7cc69053e9e61df"
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",
@@ -1355,8 +1360,8 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
-      "bytes": 9374,
-      "sha256": "2756a4e1df3699ca3fd3423aa4ea16c4097bcdbd10b6206bd9f133bc4ace575c"
+      "bytes": 9766,
+      "sha256": "6533a0bbe662451ce65a957c0e3522727414478bd42ea535d15467ddc3fa9b5a"
     },
     {
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -4019,6 +4024,16 @@
       "sha256": "8191df663310c5bda18aaa95562851ffe9178a1c0780d0a354a431bb5f6ff3ff"
     },
     {
+      "path": "verification/higher_order_subject_selector_gate.json",
+      "bytes": 727,
+      "sha256": "dc66291a99c40a14c3d5d7832e2cad97db0c1932b604f0983442e32e9fb313fb"
+    },
+    {
+      "path": "verification/higher_order_subject_selector_gate.py",
+      "bytes": 5316,
+      "sha256": "784cffb62680ecaf4c6ed6cc9cefc1339751167b3103e3717a51c4a423973e3a"
+    },
+    {
       "path": "verification/hubble_data_inventory.json",
       "bytes": 24372,
       "sha256": "d5a0389b4f70c6cf176cb8a510c6d91d4a759ba7b27e1d40c8e9de3cbfc3232b"
@@ -4685,8 +4700,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 489115,
-      "sha256": "f5ee80466f76a84d1ebbd082dcb1a039e0fad70af6ef52fe430c99c86ddd2eef"
+      "bytes": 490528,
+      "sha256": "869ffd7fddc43bc6b01e0a9e47fb599477f94c9eb484793e2bbfb2e6d2a61f9e"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 386,
-  "bytes": 5109558,
-  "line_count": 52843,
-  "document_count_with_risk_phrases": 360,
+  "document_count": 387,
+  "bytes": 5123456,
+  "line_count": 52949,
+  "document_count_with_risk_phrases": 361,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2028,8 +2028,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "480c6995b3762b24d630649daa85f5ab6df02d01d48f58fc07e6e11a02b2b597",
-      "bytes": 28040,
+      "sha256": "d96e5b6062c3706c40873ce1acb7562e077a3688d6e7ec881723f7876cf6fbcb",
+      "bytes": 28299,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2048,6 +2048,7 @@
         "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
@@ -3318,9 +3319,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "685f14610f5739c9e060762731f3648e7f91882c19f5cf557c725e1707157d7b",
-      "bytes": 90336,
-      "lines": 747,
+      "sha256": "910dd0d99d6670946aa7ccbe578e72018590ac8e36c861fb82d4a3c105a94be9",
+      "bytes": 90601,
+      "lines": 749,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3528,6 +3529,7 @@
         "QUALITATIVE_IDENTITY_PURSUIT.md",
         "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
+        "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
@@ -3808,6 +3810,7 @@
         "verification/energy_constrained_instrument_bound.py",
         "verification/energy_exchange_clock.py",
         "verification/equilibrium_mismatch_coarse_graining.py",
+        "verification/eraser_bell_selection_gate.py",
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
         "verification/experiential_grounding_rival_gate.py",
@@ -4060,15 +4063,15 @@
         98,
         164,
         202,
-        219,
-        263,
-        333,
-        346,
-        382,
-        391,
-        394,
-        397,
-        446
+        220,
+        264,
+        334,
+        347,
+        383,
+        392,
+        395,
+        398,
+        447
       ]
     },
     {
@@ -4721,6 +4724,39 @@
       "risk_phrase_lines": [
         12,
         81
+      ]
+    },
+    {
+      "path": "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+      "sha256": "e988f3c9aa9f3807ff617159cddf3728bb69e895709b155ba7cc69053e9e61df",
+      "bytes": 12982,
+      "lines": 102,
+      "title": "Higher-order causality and the subject-selection problem",
+      "headings": [
+        "Higher-order causality and the subject-selection problem",
+        "Main result",
+        "1. Established literature and access",
+        "2. Two explicit causal channels",
+        "3. A concrete failure of a simplistic selector",
+        "4. Testing cost in the declared toy model",
+        "5. What a replacement subject rule must supply",
+        "Reproduction"
+      ],
+      "local_links": [
+        "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "verification/higher_order_subject_selector_gate.py",
+        "verification/higher_order_subject_selector_gate.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        61,
+        84,
+        86,
+        102
       ]
     },
     {
@@ -9645,9 +9681,9 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
-      "sha256": "2756a4e1df3699ca3fd3423aa4ea16c4097bcdbd10b6206bd9f133bc4ace575c",
-      "bytes": 9374,
-      "lines": 81,
+      "sha256": "6533a0bbe662451ce65a957c0e3522727414478bd42ea535d15467ddc3fa9b5a",
+      "bytes": 9766,
+      "lines": 83,
       "title": "A subject-constitution and record interface: bounded results",
       "headings": [
         "A subject-constitution and record interface: bounded results",
@@ -9661,6 +9697,7 @@
       ],
       "local_links": [
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
@@ -9669,10 +9706,10 @@
         "verification/subject_assay_dependence_control.json"
       ],
       "risk_phrase_lines": [
-        10,
-        55,
-        75,
-        81
+        12,
+        57,
+        77,
+        83
       ]
     },
     {
