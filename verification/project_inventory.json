@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 416,
-  "bytes": 5563691,
-  "line_count": 55678,
-  "document_count_with_risk_phrases": 388,
+  "document_count": 418,
+  "bytes": 5582108,
+  "line_count": 55783,
+  "document_count_with_risk_phrases": 390,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3495,8 +3495,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "e711756edca68e6bafdacedc9cccb83288414d46884329849a6844b0491e7bad",
-      "bytes": 10751,
+      "sha256": "0289e8bb7d4fd4e0f4100b0854de0f492ae823c9610488088881938924473ef7",
+      "bytes": 10970,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3509,6 +3509,7 @@
       ],
       "local_links": [
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3624,9 +3625,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "07bc4eca81ffac9d4316859923176e66fa8cd670411ac20891326bf3c7cfb9b5",
-      "bytes": 99123,
-      "lines": 808,
+      "sha256": "4423bb9dc35230dcff33a51a32287e77306701bfe125ce48fb777c3271a1cc6c",
+      "bytes": 99583,
+      "lines": 811,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3795,6 +3796,7 @@
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
         "MAINTENANCE_BROADCAST_SEPARATION.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
         "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
         "MODULAR_CLOCK_SELECTION.md",
@@ -3827,6 +3829,7 @@
         "OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md",
         "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
+        "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "PERSPECTIVAL_FINITUDE.md",
@@ -4249,6 +4252,7 @@
         "verification/orientation_visibility_contrast.py",
         "verification/page_wootters_static_clock.py",
         "verification/paingen_source_crosscheck.py",
+        "verification/paingen_stimulus_only_valence_test.py",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/pairwise_marginal_information_gate.py",
         "verification/perspectival_finitude.py",
@@ -4425,17 +4429,17 @@
         42,
         51,
         107,
-        179,
-        220,
-        240,
-        287,
-        363,
-        377,
-        413,
-        422,
-        425,
-        428,
-        483
+        180,
+        222,
+        242,
+        289,
+        365,
+        379,
+        415,
+        424,
+        427,
+        430,
+        485
       ]
     },
     {
@@ -5432,8 +5436,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "39ef91c0bb669faad34f02322315fc9b8e5768dc2b7d1f4a116fa82f95f30f64",
-      "bytes": 17759,
+      "sha256": "df3efbe350bac9c88525225273680283c0b018acf2c887ad8391fe316a0d8423",
+      "bytes": 17999,
       "lines": 115,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
@@ -5455,6 +5459,7 @@
         "verification/integrated_experiential_misalignment_candidate.py",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
@@ -6080,6 +6085,34 @@
       "risk_phrase_lines": [
         112,
         140
+      ]
+    },
+    {
+      "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+      "sha256": "e6bd84f1ee1c4c6f0186f613b20c56a6bcffde8589eb51820eabc4a61aeaa85b",
+      "bytes": 11462,
+      "lines": 67,
+      "title": "Matched stimulus, reported unpleasantness and the missing bridge",
+      "headings": [
+        "Matched stimulus, reported unpleasantness and the missing bridge",
+        "Result and boundary",
+        "1. Model and source",
+        "2. Actual matched observations",
+        "3. What the fit floor proves—and does not",
+        "4. Consequences for the integrated candidate",
+        "5. Battery, source scope and reproduction"
+      ],
+      "local_links": [
+        "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "verification/paingen_stimulus_only_valence_test.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        23,
+        33,
+        67
       ]
     },
     {
@@ -7101,10 +7134,35 @@
       ]
     },
     {
+      "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
+      "sha256": "00cbaeb46da0b5abdab19d00cb2093c0d0db107f88e0956d3b311aa52ed6f80c",
+      "bytes": 5767,
+      "lines": 33,
+      "title": "Matched-stimulus valence stress test: analysis plan",
+      "headings": [
+        "Matched-stimulus valence stress test: analysis plan",
+        "Purpose and limitations",
+        "Source and sample",
+        "Fixed targets",
+        "Cluster uncertainty",
+        "Valid interpretation"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        11,
+        13,
+        19,
+        20,
+        21,
+        27,
+        31
+      ]
+    },
+    {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "sha256": "19060800724f312787641bf90d70a0715bbfd34756f4bac65a625f0d1dd9447c",
-      "bytes": 12951,
-      "lines": 74,
+      "sha256": "5831d2c67022d46ebee72f43097df2fd179c254effa7cbaa10305c4413fb8424",
+      "bytes": 13220,
+      "lines": 76,
       "title": "Unpleasantness: empirical baselines and the missing mismatch measurement",
       "headings": [
         "Unpleasantness: empirical baselines and the missing mismatch measurement",
@@ -7117,6 +7175,7 @@
       ],
       "local_links": [
         "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/paingen_unpleasantness_baselines.json",
@@ -7126,8 +7185,8 @@
         "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md"
       ],
       "risk_phrase_lines": [
-        19,
-        74
+        21,
+        76
       ]
     },
     {

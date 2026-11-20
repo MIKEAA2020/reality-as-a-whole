@@ -1,0 +1,87 @@
+{
+  "status": "completed",
+  "scope": "Published study matched condition means; observed reports, not direct q, new data, ground, or phenomenal identity.",
+  "source": {
+    "url": "https://api.github.com/repos/rotemb9/paingen-placebo-fmri-paper/contents/pain_evoked_brain_measures.csv?ref=da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "sha256": "0eda58e9f8f83ec5294e92c907babfc771c0172ef22706e0be52c7182dbe8f56",
+    "bytes": 3728915
+  },
+  "sample": {
+    "source_rows": 4687,
+    "source_people": 392,
+    "source_families": 243,
+    "source_rows_missing_unpleasantness": 307,
+    "candidate_person_modality_level_cells": 2352,
+    "complete_matched_cells": 2155,
+    "incomplete_or_missing_matched_cells": 197
+  },
+  "bootstrap": {
+    "resamples": 5000,
+    "seed": 202,
+    "cluster": "family",
+    "estimand": "pair-weighted mean difference in selected matched cells",
+    "note": "Exploratory percentile intervals, conditional on cluster sampling and complete-case selection."
+  },
+  "results": {
+    "all": {
+      "matched_cells": 2155,
+      "unique_people": 369,
+      "unique_families": 236,
+      "mean_control_minus_placebo": 0.04465679077242844,
+      "mean_absolute_difference": 0.09005853332849974,
+      "root_mean_square_difference": 0.14315340544153302,
+      "equal_output_oracle_row_rmse_floor": 0.07157670272076651,
+      "positive": 1349,
+      "negative": 664,
+      "exact_ties": 142,
+      "positive_fraction": 0.6259860788863109,
+      "negative_fraction": 0.30812064965197217,
+      "tie_fraction": 0.06589327146171693,
+      "family_bootstrap_mean_difference_95_percentile_interval": [
+        0.03516271669995202,
+        0.05417524865653598
+      ]
+    },
+    "thermal": {
+      "matched_cells": 1080,
+      "unique_people": 367,
+      "unique_families": 235,
+      "mean_control_minus_placebo": 0.052578908661265425,
+      "mean_absolute_difference": 0.09479034047067893,
+      "root_mean_square_difference": 0.139449810870749,
+      "equal_output_oracle_row_rmse_floor": 0.0697249054353745,
+      "positive": 696,
+      "negative": 351,
+      "exact_ties": 33,
+      "positive_fraction": 0.6444444444444445,
+      "negative_fraction": 0.325,
+      "tie_fraction": 0.030555555555555555,
+      "family_bootstrap_mean_difference_95_percentile_interval": [
+        0.04136739582826976,
+        0.06372487940925245
+      ]
+    },
+    "mechanical": {
+      "matched_cells": 1075,
+      "unique_people": 368,
+      "unique_families": 235,
+      "mean_control_minus_placebo": 0.03669782582364343,
+      "mean_absolute_difference": 0.08530471778100766,
+      "root_mean_square_difference": 0.14678015314115284,
+      "equal_output_oracle_row_rmse_floor": 0.07339007657057642,
+      "positive": 653,
+      "negative": 313,
+      "exact_ties": 109,
+      "positive_fraction": 0.6074418604651163,
+      "negative_fraction": 0.2911627906976744,
+      "tie_fraction": 0.1013953488372093,
+      "family_bootstrap_mean_difference_95_percentile_interval": [
+        0.0242266399635138,
+        0.04933115407261795
+      ]
+    }
+  },
+  "plan": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
+  "privacy": "No individual data, IDs or participant-level outcomes written."
+}

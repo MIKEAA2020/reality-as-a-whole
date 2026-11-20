@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 373 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 312 verification Python scripts.
+- 375 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 313 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -167,6 +167,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md](LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md) — Local field probe: complete-order bound and an energy accounting gate
 - [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast
 - [MAINTENANCE_BROADCAST_SEPARATION.md](MAINTENANCE_BROADCAST_SEPARATION.md) — Separating content maintenance from broadcast: a controlled intervention audit
+- [MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md](MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md) — Matched stimulus, reported unpleasantness and the missing bridge
 - [MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md](MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md) — Merker: subcortical consciousness and the perspective problem
 - [MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md](MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md) — Microtubules, anesthesia and quantum consciousness: a causal discrimination gate
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
@@ -199,6 +200,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md](OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md) — OPH unification: source-chain and falsifiability audit
 - [ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md](ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md) — A concrete orientation-experience test: what existing TMS evidence can and cannot decide
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
+- [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
 - [PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md](PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md) — Unpleasantness: empirical baselines and the missing mismatch measurement
 - [PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md](PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md) — Pain unpleasantness: fixed secondary-analysis plan
 - [PERSPECTIVAL_FINITUDE.md](PERSPECTIVAL_FINITUDE.md) — Perspectival finitude: why finite observers see limited information
@@ -635,6 +637,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/orientation_visibility_contrast.py](verification/orientation_visibility_contrast.py)
 - [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
+- [verification/paingen_stimulus_only_valence_test.py](verification/paingen_stimulus_only_valence_test.py)
 - [verification/paingen_unpleasantness_baselines.py](verification/paingen_unpleasantness_baselines.py)
 - [verification/pairwise_marginal_information_gate.py](verification/pairwise_marginal_information_gate.py)
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
