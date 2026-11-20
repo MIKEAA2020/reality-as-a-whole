@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 407,
-  "bytes": 5421051,
-  "line_count": 54876,
-  "document_count_with_risk_phrases": 379,
+  "document_count": 408,
+  "bytes": 5438913,
+  "line_count": 54990,
+  "document_count_with_risk_phrases": 380,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2166,8 +2166,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "262d3a911e68def62d9060715438fd8c48854ccdce28a0a751ad63d893900248",
-      "bytes": 36484,
+      "sha256": "a4ca8cd3fd97cd02dd6de6a9cb185043c7b3df7620de21641e598a68bc392b89",
+      "bytes": 36764,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2183,6 +2183,7 @@
       "local_links": [
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
@@ -3562,9 +3563,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9b4a6ad59be80813e3d409def592870ce16e850f6c2b5d8225b5975934c4b792",
-      "bytes": 96663,
-      "lines": 791,
+      "sha256": "54a9df8aa83958c32c2637ed1ab496f6b81230ebf781d7b3d6cbad01cba86cd5",
+      "bytes": 96948,
+      "lines": 793,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3767,6 +3768,7 @@
         "PERSPECTIVAL_FINITUDE.md",
         "PHENOMENAL_GWT_RUSSELLIAN.md",
         "PHENOMENAL_IDENTITY_THESIS.md",
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "PHOTON_ECHO_READOUT.md",
         "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
         "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
@@ -4181,6 +4183,7 @@
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
         "verification/phenomenal_gwt_russellian.py",
+        "verification/phenomenal_unity_partition_gate.py",
         "verification/photon_echo_readout.py",
         "verification/pitch_frustration_inversion_gate.py",
         "verification/plenitude_algebraic_closure.py",
@@ -4347,16 +4350,16 @@
         51,
         106,
         176,
-        215,
-        235,
-        280,
-        354,
-        368,
-        404,
-        413,
-        416,
-        419,
-        473
+        216,
+        236,
+        281,
+        355,
+        369,
+        405,
+        414,
+        417,
+        420,
+        474
       ]
     },
     {
@@ -7114,6 +7117,38 @@
         52,
         87,
         102,
+        108
+      ]
+    },
+    {
+      "path": "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
+      "sha256": "335028da03e28cbeb5a275261d6bf0b2035c01001a2a1fc340f885e5535dc7c3",
+      "bytes": 16921,
+      "lines": 110,
+      "title": "Can phenomenal unity identify genuinely plural subjects?",
+      "headings": [
+        "Can phenomenal unity identify genuinely plural subjects?",
+        "The issue and the result",
+        "1. The prior literature and its limits",
+        "2. A deliberately strong exclusive-field candidate",
+        "3. Exact but incomplete pairwise information",
+        "4. What changes under bounded assessment errors?",
+        "5. An explicit nonexclusive alternative",
+        "6. Where this leaves a constructive account"
+      ],
+      "local_links": [
+        "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "verification/phenomenal_unity_partition_gate.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        27,
+        36,
+        40,
+        46,
+        48,
+        89,
         108
       ]
     },
@@ -10200,9 +10235,9 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
-      "sha256": "6533a0bbe662451ce65a957c0e3522727414478bd42ea535d15467ddc3fa9b5a",
-      "bytes": 9766,
-      "lines": 83,
+      "sha256": "1efdb4ee30481ff5d7e85e579a906e6788ba972fb4d24f47f85fc585e22423cf",
+      "bytes": 10142,
+      "lines": 85,
       "title": "A subject-constitution and record interface: bounded results",
       "headings": [
         "A subject-constitution and record interface: bounded results",
@@ -10217,6 +10252,7 @@
       "local_links": [
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
@@ -10225,10 +10261,10 @@
         "verification/subject_assay_dependence_control.json"
       ],
       "risk_phrase_lines": [
-        12,
-        57,
-        77,
-        83
+        14,
+        59,
+        79,
+        85
       ]
     },
     {

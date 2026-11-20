@@ -6,6 +6,8 @@ The [fixed protocol and executable specification](SUBJECT_CONSTITUTION_INTERFACE
 
 A later [higher-order causal gate](HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md) checks a distinct limitation: single-output pairwise influence graphs can miss a collective conditional response. It does not invalidate the specific four-spin calculations below, but the graphs used here are not established as generally complete descriptions of candidate subject-making organization.
 
+A subsequent [phenomenal-unity identification gate](PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md) examines what an idealized, independently anchored co-experience interface could identify under exclusive-subject and bounded-error assumptions, and why overlapping unity requires a different analysis. It does not validate the assay or the assumptions used here.
+
 The result separates two questions:
 
 1. Under an explicitly postulated, target-valid report channel, two subject-rule **packages** make very different predictions. But the physically defined comparator already in the spin model is nowhere near the assumed report accuracy, so it cannot serve as that channel.

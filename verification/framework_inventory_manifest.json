@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0da22dd7c34ba2a9dd1b3e0013fba03343548422",
-  "file_count": 1313,
+  "base_head": "be4d51ba3cce9c9e26f3a485e8e2fc2984e7f3df",
+  "file_count": 1316,
   "files": [
     {
       "path": ".gitattributes",
@@ -315,8 +315,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 36484,
-      "sha256": "262d3a911e68def62d9060715438fd8c48854ccdce28a0a751ad63d893900248"
+      "bytes": 36764,
+      "sha256": "a4ca8cd3fd97cd02dd6de6a9cb185043c7b3df7620de21641e598a68bc392b89"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -535,8 +535,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 96663,
-      "sha256": "9b4a6ad59be80813e3d409def592870ce16e850f6c2b5d8225b5975934c4b792"
+      "bytes": 96948,
+      "sha256": "54a9df8aa83958c32c2637ed1ab496f6b81230ebf781d7b3d6cbad01cba86cd5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -962,6 +962,11 @@
       "path": "PHENOMENAL_IDENTITY_THESIS.md",
       "bytes": 7372,
       "sha256": "846cd680228dc4dfdf2fd0f51ae92c72f2b61ba419ee063f13ffa77e7f1e606e"
+    },
+    {
+      "path": "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
+      "bytes": 16921,
+      "sha256": "335028da03e28cbeb5a275261d6bf0b2035c01001a2a1fc340f885e5535dc7c3"
     },
     {
       "path": "PHOTON_ECHO_READOUT.md",
@@ -1440,8 +1445,8 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
-      "bytes": 9766,
-      "sha256": "6533a0bbe662451ce65a957c0e3522727414478bd42ea535d15467ddc3fa9b5a"
+      "bytes": 10142,
+      "sha256": "1efdb4ee30481ff5d7e85e579a906e6788ba972fb4d24f47f85fc585e22423cf"
     },
     {
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -4065,13 +4070,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 6289,
-      "sha256": "bb20f0861611065cf085a10a93cdc575f858a3a7b18a35610b211b4ba31446b9"
+      "bytes": 6460,
+      "sha256": "b8fe1d5deddbebc51849900a120629f2c86a10e85efc19b8826733d9dde364b4"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 4955,
-      "sha256": "6483c2b0ab957b4cb87f433da1c5188c993364bfd96b22badc00a89af4853bce"
+      "bytes": 5042,
+      "sha256": "8f52d9e81417856ca87df250831f09bdea582ebd2ffaa9dde378bad459d45665"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4844,6 +4849,16 @@
       "sha256": "0c62669adebd2649ca1b10a7427339450cdac4a8d1f5b683062623e7a91bbf9d"
     },
     {
+      "path": "verification/phenomenal_unity_partition_gate.json",
+      "bytes": 1100,
+      "sha256": "dbefbe4add485090ad4f1c3dafaf7b4690f80d4f2e1ceeee7951d8e0b7b78c5e"
+    },
+    {
+      "path": "verification/phenomenal_unity_partition_gate.py",
+      "bytes": 4150,
+      "sha256": "3b2d4a062aa3d664b2f4d4ef4ba5746f6bd993e87e0c428883f8975d988315b0"
+    },
+    {
       "path": "verification/photon_echo_readout.json",
       "bytes": 2974,
       "sha256": "5b4e5568298bcfdebb2f39fef4af14065ad523f106baea42d3b93a69e65bbe28"
@@ -4925,8 +4940,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 516553,
-      "sha256": "2f3c35d9d2b6b890aa1142d4e71e399e8355d07fc5f3d7f26ea58ef46ca96539"
+      "bytes": 517929,
+      "sha256": "3d202308b03f2a71a6e43a90474a8a16493575fcc4b58bc3bd7769ebdd902c82"
     },
     {
       "path": "verification/project_inventory.py",
