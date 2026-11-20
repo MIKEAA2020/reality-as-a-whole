@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "80a45a2bfdcf8d3b5bdb7101c7142b7c18a8f50f",
-  "file_count": 1334,
+  "base_head": "36dee4ad5cc9b0b0e1cbbba98f4f3e50a8f98e07",
+  "file_count": 1337,
   "files": [
     {
       "path": ".gitattributes",
@@ -520,8 +520,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 10417,
-      "sha256": "fd79a6ff37b03395a7689a9aa5bf7f9164dff1ffd5df097912097a2deaae8b69"
+      "bytes": 10751,
+      "sha256": "e711756edca68e6bafdacedc9cccb83288414d46884329849a6844b0491e7bad"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -545,8 +545,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 98852,
-      "sha256": "81849f69ac8a0198292689af61cefb0edf6e4c513df8157051d8fb5100f8a2f2"
+      "bytes": 99123,
+      "sha256": "07bc4eca81ffac9d4316859923176e66fa8cd670411ac20891326bf3c7cfb9b5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -685,8 +685,13 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 17294,
-      "sha256": "d3d0116788701aff8ccdf83fdd3051a9a6af1bc42cbf65954eb7183ad8d5cbdb"
+      "bytes": 17759,
+      "sha256": "39ef91c0bb669faad34f02322315fc9b8e5768dc2b7d1f4a116fa82f95f30f64"
+    },
+    {
+      "path": "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+      "bytes": 14281,
+      "sha256": "46e74c16c3f1a1572d8a74537355aefe10c59d05cb4ab8603e7e22e8af6eb038"
     },
     {
       "path": "INTERACTING_CLOCK_RATE.md",
@@ -4424,6 +4429,16 @@
       "sha256": "56129b8df541b24857b60717a813e1a199981724d15b673e45c79656b870de25"
     },
     {
+      "path": "verification/integrated_subject_horizon_audit.json",
+      "bytes": 5341,
+      "sha256": "3b4c5f7dd34869aa26444d039044d1d3f3d51cb9101d8c1dbf8ec013c976da0f"
+    },
+    {
+      "path": "verification/integrated_subject_horizon_audit.py",
+      "bytes": 5425,
+      "sha256": "64a7ccb926de612ffd9c5eb7f385198e142f7fb4e8e1ed4287ba6ed68e89c50d"
+    },
+    {
       "path": "verification/integration-overlap-results.json",
       "bytes": 413,
       "sha256": "a59f7001d75588a5077f4552a409b1533d93d6958f6e8c6e0b1f7a9945bc30c0"
@@ -5010,8 +5025,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 527136,
-      "sha256": "2863d8665c3548d4222a8ed9bd8550cc09b8213a1650425723f5ca796ebf6213"
+      "bytes": 528742,
+      "sha256": "5f7536bcabe0e0deee9562479fef34deef30c040f48365d9ebd741efc298a65e"
     },
     {
       "path": "verification/project_inventory.py",

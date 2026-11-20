@@ -6,6 +6,8 @@
 
 More broadly, identifying invalid arguments, withdrawing unsupported closure claims and distinguishing the user's plural-subject target from universal consciousness are genuine methodological and conceptual improvements. They are important because they prevent false passes. They are not themselves a decisive positive derivation of the requested framework. The user is right to demand progress against the substantive battery rather than another series of toy checks.
 
+The subsequent [same-sector horizon and valence audit](INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md) gives an exact case in which L's selected boundary changes with the specified causal horizon while the spin dynamics stay fixed. This sharpens B4/F2 and B5 without supplying either missing bridge or changing any battery verdict.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

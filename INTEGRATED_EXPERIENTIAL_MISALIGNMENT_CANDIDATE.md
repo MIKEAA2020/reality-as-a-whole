@@ -94,6 +94,8 @@ Consequently, in this construction even perfect recovery of the toy outputs woul
 
 The experiential candidate may ultimately offer a better explanation: its base is of a kind we know directly, and it may avoid a neutral-to-phenomenal transition. That is a substantive **comparative proposal**, not a proved advantage. Conversely the neutral rival cannot count its bridge as free while charging E-L for its bridges. The shared spin law is *put into both descriptions*; neither has derived the physics from its own intrinsic nature.
 
+A subsequent [same-sector horizon and valence audit](INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md) checks the existing L rule under longer free-evolution intervention horizons. The selected sets change from two pairs to the whole in the specified finite case; this exposes a scale-selection requirement, not a contradiction in the original one-update convention or an empirical subject count. It also makes the missing valence and persistence bridges explicit.
+
 ## 6. Battery consequences and next work
 
 | Gate | What this sector supplies | What it still needs |

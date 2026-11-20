@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 415,
-  "bytes": 5548172,
-  "line_count": 55586,
-  "document_count_with_risk_phrases": 387,
+  "document_count": 416,
+  "bytes": 5563691,
+  "line_count": 55678,
+  "document_count_with_risk_phrases": 388,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3495,9 +3495,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "fd79a6ff37b03395a7689a9aa5bf7f9164dff1ffd5df097912097a2deaae8b69",
-      "bytes": 10417,
-      "lines": 53,
+      "sha256": "e711756edca68e6bafdacedc9cccb83288414d46884329849a6844b0491e7bad",
+      "bytes": 10751,
+      "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3508,15 +3508,17 @@
         "4. What would change a verdict?"
       ],
       "local_links": [
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
       ],
       "risk_phrase_lines": [
         5,
-        13,
-        30,
-        47
+        9,
+        15,
+        32,
+        49
       ]
     },
     {
@@ -3622,9 +3624,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d836782312d060e7524ca66a8d85467351052541fc7d6a75a66e7c20cb23cf8f",
-      "bytes": 98684,
-      "lines": 805,
+      "sha256": "07bc4eca81ffac9d4316859923176e66fa8cd670411ac20891326bf3c7cfb9b5",
+      "bytes": 99123,
+      "lines": 808,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3740,6 +3742,7 @@
         "FINITE_WINDING_READOUT.md",
         "FIXED_GAP_SOURCE_CLOCK.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
+        "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "FOUNDATION_OF_DUE_REGARD.md",
@@ -3772,6 +3775,7 @@
         "INFINITE_WINDING_COUNTER.md",
         "INTEGRATED_ACCOUNT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "INTERACTING_CLOCK_RATE.md",
         "INTERNAL_REFERENCE_EVENT.md",
         "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
@@ -4202,6 +4206,7 @@
         "verification/infinite_relational_clock.py",
         "verification/infinite_winding_clock.py",
         "verification/integrated_experiential_misalignment_candidate.py",
+        "verification/integrated_subject_horizon_audit.py",
         "verification/integration_overlap.py",
         "verification/interacting_clock.py",
         "verification/internal_reference_event.py",
@@ -4420,17 +4425,17 @@
         42,
         51,
         107,
-        177,
-        218,
-        238,
-        285,
-        361,
-        375,
-        411,
-        420,
-        423,
-        426,
-        481
+        179,
+        220,
+        240,
+        287,
+        363,
+        377,
+        413,
+        422,
+        425,
+        428,
+        483
       ]
     },
     {
@@ -5427,9 +5432,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "d3d0116788701aff8ccdf83fdd3051a9a6af1bc42cbf65954eb7183ad8d5cbdb",
-      "bytes": 17294,
-      "lines": 113,
+      "sha256": "39ef91c0bb669faad34f02322315fc9b8e5768dc2b7d1f4a116fa82f95f30f64",
+      "bytes": 17759,
+      "lines": 115,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -5449,6 +5454,7 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "verification/integrated_experiential_misalignment_candidate.py",
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
@@ -5457,7 +5463,41 @@
         58,
         62,
         95,
-        113
+        115
+      ]
+    },
+    {
+      "path": "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+      "sha256": "46e74c16c3f1a1572d8a74537355aefe10c59d05cb4ab8603e7e22e8af6eb038",
+      "bytes": 14281,
+      "lines": 85,
+      "title": "Integrated candidate: subject horizon, valence and persistence",
+      "headings": [
+        "Integrated candidate: subject horizon, valence and persistence",
+        "Question and failure conditions",
+        "1. Same system, explicitly changed causal question",
+        "2. Quality and readout are separate from structure",
+        "3. Physical transition versus identity",
+        "4. What could make this a real bridge?",
+        "5. Prior work and source scope",
+        "6. Battery status and reproduction"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "verification/coupled_subject_boundary_gate.py",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
+        "verification/integrated_subject_horizon_audit.json"
+      ],
+      "risk_phrase_lines": [
+        25,
+        30,
+        34,
+        36,
+        53,
+        85
       ]
     },
     {
