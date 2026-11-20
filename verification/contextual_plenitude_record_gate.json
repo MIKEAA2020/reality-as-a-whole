@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "scope": "ideal two-qubit model and abstract finite couplings, not experiments or subjects",
+  "operator_context_signs": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    -1
+  ],
+  "quantum_nonzero_probabilities_per_context": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "probability_each_allowed_outcome": "1/4",
+  "reversible_pointer_instrument_contexts": 6,
+  "pointer_reverse_basis_checks": 192,
+  "pointer_instrument_matches_projectors": true,
+  "global_value_assignment_failure_histogram": {
+    "1": 96,
+    "3": 320,
+    "5": 96
+  },
+  "context_indexed_tables_checked_for_odd_defects": 262144,
+  "minimum_parity_plus_mismatch_defects": 1,
+  "contextual_coupling_microstates": 144,
+  "mismatches_per_microstate": 1,
+  "mismatch_probability_per_connection": "1/9",
+  "sharp_noise_noncontextual_joint_tables": 96,
+  "symmetric_context_parity_error": "1/6"
+}

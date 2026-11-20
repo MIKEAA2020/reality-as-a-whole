@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 340 root Markdown documents including this register; 43 research Markdown documents.
-- 40 original uploaded files, including provenance metadata; 286 verification Python scripts.
+- 341 root Markdown documents including this register; 43 research Markdown documents.
+- 40 original uploaded files, including provenance metadata; 287 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -58,6 +58,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CONSTITUTIVE_VALUE_PRINCIPLE.md](CONSTITUTIVE_VALUE_PRINCIPLE.md) — A constitutive-value principle: positive development and explanatory limits
 - [CONSUMER_COVERAGE_IDENTIFIABILITY.md](CONSUMER_COVERAGE_IDENTIFIABILITY.md) — Can partial frontal recordings certify removal of distribution?
 - [CONTEXTUAL_DISCLOSURE_CONSTITUTION.md](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) — Contextual disclosure: a worked quantum constitution of record scope
+- [CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md](CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md) — Contextual plenitude and the identity of records
 - [CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md](CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md) — A contextual comparison construction for one universal subject
 - [CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) — Complete cutoff-to-continuum instrument: a restricted common-space result
 - [CORRELATED_PUMP_CERTIFICATION.md](CORRELATED_PUMP_CERTIFICATION.md) — Correlated finite sources: a complete-instrument robustness theorem
@@ -478,6 +479,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
 - [verification/context_horizon_robustness.py](verification/context_horizon_robustness.py)
 - [verification/contextual_disclosure.py](verification/contextual_disclosure.py)
+- [verification/contextual_plenitude_record_gate.py](verification/contextual_plenitude_record_gate.py)
 - [verification/continuous_feedback_digital_approximation.py](verification/continuous_feedback_digital_approximation.py)
 - [verification/continuum_complete_instrument_bound.py](verification/continuum_complete_instrument_bound.py)
 - [verification/correlated_pump_certification.py](verification/correlated_pump_certification.py)

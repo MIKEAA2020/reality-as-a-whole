@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "872616564c819b28f6f2723b3ec6272aef39582a",
-  "file_count": 1245,
+  "base_head": "f41d1139958c044baffcbab7c6037186a0058d49",
+  "file_count": 1248,
   "files": [
     {
       "path": ".gitattributes",
@@ -239,6 +239,11 @@
       "sha256": "fa21837ee6d20ca40ef7e97c2682f8b9e26c9a206e8181266c61d18b6a2212e4"
     },
     {
+      "path": "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
+      "bytes": 14134,
+      "sha256": "86ea2c7ccaaba7633046dc2f3c4be3269f74883da80b37fddbab927a4c33084a"
+    },
+    {
       "path": "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
       "bytes": 11794,
       "sha256": "a35d53b8f159075d21fb70717619eea864a906cf9e960a41e188afc0ec8d3b6d"
@@ -285,8 +290,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 27030,
-      "sha256": "5904f866c21c4525b2597c362db9b958c89497fd1ce6c0e21c07d18f3dd8e473"
+      "bytes": 27378,
+      "sha256": "1c372d7d2847a3a3245c9c0c28aa4cc2944ff8fe9df0343125319c0f8c861599"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -490,8 +495,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 89707,
-      "sha256": "7f8851558c9155138cd7a712ab5faa7cee92d198285f29988318744f3c804146"
+      "bytes": 89966,
+      "sha256": "2881ad07100fe07fa3bac0e179de952c10e832b2879e493e6fc53a8ddf22b8eb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3489,6 +3494,16 @@
       "sha256": "c1961c1555ef4e0d29ad0a3aba75e58d998f4c29bca94eefb4b830b19f9bc471"
     },
     {
+      "path": "verification/contextual_plenitude_record_gate.json",
+      "bytes": 885,
+      "sha256": "54fd00e27fde8f21eeb2cd2df87f817ab5017bbda7d73e90a846b060d8fdab76"
+    },
+    {
+      "path": "verification/contextual_plenitude_record_gate.py",
+      "bytes": 7373,
+      "sha256": "1765e5f14d3c35ee3044c98ee92236a023447d7891ab58fe40f1898df5c5174b"
+    },
+    {
       "path": "verification/continuous_feedback_digital_approximation.json",
       "bytes": 1125,
       "sha256": "808d402ccd38f2b470f9fb8f5e599a85740625b3fcfddbbabd70a29a4554ff58"
@@ -4645,8 +4660,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 484656,
-      "sha256": "d58b3947cecc078dc724989776c2a40bb0dfe22dd411cf823cfdbbe6cd3d72e6"
+      "bytes": 486114,
+      "sha256": "90e23674d8d9f9a7d798fcfdb7f552fa94a5e2045637ddb64efd7675706c8cd1"
     },
     {
       "path": "verification/project_inventory.py",
