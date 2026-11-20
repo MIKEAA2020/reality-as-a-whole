@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e1da289bcb895ee0e8242ed3491959e48aac9960",
-  "file_count": 1349,
+  "base_head": "d677d05e1aa2d385d6d4f506162901463045cbe5",
+  "file_count": 1354,
   "files": [
     {
       "path": ".gitattributes",
@@ -32,6 +32,16 @@
       "path": "ACTUAL_FULFILLMENT_AND_STANDING.md",
       "bytes": 8974,
       "sha256": "0c10eb49a11d320744b976835fc3a325238b0a7aaa0a9d9f87a5983c85b82129"
+    },
+    {
+      "path": "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
+      "bytes": 4949,
+      "sha256": "71351a03a7e2e71ad9e874eb495b04c3dd3b83cad0cfdedc0d95e13f64c22a1e"
+    },
+    {
+      "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+      "bytes": 13680,
+      "sha256": "e99fe7c610653f19dbfcee15405558bc12c087f15fd633b5b19fd08abf19bc54"
     },
     {
       "path": "ARTICULATED_SELF_PRESENCE.md",
@@ -525,8 +535,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 11240,
-      "sha256": "b64bff758aeafcd71acafb258d0f0839285fbdd8c308d5fcfa42edc1a24edcd7"
+      "bytes": 11552,
+      "sha256": "2e68aced3f59bf612d67e58758137af220daa8fe05eebaf1fd6c242daa50908b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -550,8 +560,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 100459,
-      "sha256": "c5a3b888b27cf345d255ec8088465f3a8455fd609c5af055080f54cad0285ec0"
+      "bytes": 100870,
+      "sha256": "5658b0f91316bb12953a5d0842aa9123e45a01fe84f591937b891a9e3c4fd2cb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3444,6 +3454,16 @@
       "sha256": "6bb696a726b7da6003295264b75dc68c088fa7fa1b304c75c148f157912b8ffa"
     },
     {
+      "path": "verification/affect_choice_heldout.json",
+      "bytes": 3187,
+      "sha256": "e4946847a64272863cd79747b91a09d1f5a8664ba1b566d0106b6ba6b21c1dca"
+    },
+    {
+      "path": "verification/affect_choice_heldout.py",
+      "bytes": 7267,
+      "sha256": "c9035d7ba1193648b5396dc7abff07bb801183f20a8f13ec09c3588f730b8c3e"
+    },
+    {
       "path": "verification/aspherical_quadrupole_loss.json",
       "bytes": 1525,
       "sha256": "9fd0f0b6fcf9f478e82f3dd147e6297b679cb0062f1e975e4c6fb18491409bae"
@@ -5085,8 +5105,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 535046,
-      "sha256": "1e3ca3460810eea49953ffb03eea49a023fe6837ca73d7f30f5ecca61874e9b1"
+      "bytes": 537080,
+      "sha256": "60b449d8e9330af1f2ac499e78f26b6f2ab3ebb4060a35ad6a9ac50a99351aed"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5317,6 +5337,11 @@
       "path": "verification/reported_rivalry_case_audit.py",
       "bytes": 8028,
       "sha256": "88f06865b495d958130652934a060faf3d4d78395151a2707229169f044818c6"
+    },
+    {
+      "path": "verification/requirements-affective-choice.txt",
+      "bytes": 28,
+      "sha256": "5a81cde5d4f409222788b0a0da88fff0acdb160f45ab8839d9661cff6aa10424"
     },
     {
       "path": "verification/requirements-cardiac-pain.txt",

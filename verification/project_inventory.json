@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 422,
-  "bytes": 5635967,
-  "line_count": 56056,
-  "document_count_with_risk_phrases": 394,
+  "document_count": 424,
+  "bytes": 5655319,
+  "line_count": 56160,
+  "document_count_with_risk_phrases": 396,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -193,6 +193,53 @@
       ],
       "risk_phrase_lines": [
         24
+      ]
+    },
+    {
+      "path": "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
+      "sha256": "71351a03a7e2e71ad9e874eb495b04c3dd3b83cad0cfdedc0d95e13f64c22a1e",
+      "bytes": 4949,
+      "lines": 28,
+      "title": "Fixed retrospective analysis: valence, expectation and social choice",
+      "headings": [
+        "Fixed retrospective analysis: valence, expectation and social choice",
+        "Question and source",
+        "Frozen comparison",
+        "Interpretation and stopping rule"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7,
+        24
+      ]
+    },
+    {
+      "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+      "sha256": "e99fe7c610653f19dbfcee15405558bc12c087f15fd633b5b19fd08abf19bc54",
+      "bytes": 13680,
+      "lines": 73,
+      "title": "Discriminating mismatch from affect-prediction error",
+      "headings": [
+        "Discriminating mismatch from affect-prediction error",
+        "Result and scope",
+        "Three variables that must not be conflated",
+        "Held-out comparison of reports and subsequent choice",
+        "A crossed physical-history test that could actually discriminate",
+        "Where the framework still needs work",
+        "Source scope and reproducibility"
+      ],
+      "local_links": [
+        "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
+        "verification/affect_choice_heldout.py",
+        "verification/affect_choice_heldout.json",
+        "verification/requirements-affective-choice.txt",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md"
+      ],
+      "risk_phrase_lines": [
+        73
       ]
     },
     {
@@ -3517,8 +3564,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b64bff758aeafcd71acafb258d0f0839285fbdd8c308d5fcfa42edc1a24edcd7",
-      "bytes": 11240,
+      "sha256": "2e68aced3f59bf612d67e58758137af220daa8fe05eebaf1fd6c242daa50908b",
+      "bytes": 11552,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3533,6 +3580,7 @@
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+        "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3648,9 +3696,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c5a3b888b27cf345d255ec8088465f3a8455fd609c5af055080f54cad0285ec0",
-      "bytes": 100459,
-      "lines": 818,
+      "sha256": "5658b0f91316bb12953a5d0842aa9123e45a01fe84f591937b891a9e3c4fd2cb",
+      "bytes": 100870,
+      "lines": 821,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3669,6 +3717,8 @@
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
         "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
+        "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
+        "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
         "AUTONOMOUS_RECORD_INSTRUMENT.md",
@@ -4136,6 +4186,7 @@
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md",
         "sources/uploads/take bostrom's simulation hypothesis as starting point. what.md",
         "verification/framework_battery.py",
+        "verification/affect_choice_heldout.py",
         "verification/aspherical_quadrupole_loss.py",
         "verification/assay_calibration_dependence.py",
         "verification/autonomous_record.py",
@@ -4454,22 +4505,22 @@
       ],
       "risk_phrase_lines": [
         17,
-        27,
-        39,
-        43,
-        52,
-        108,
-        183,
-        225,
-        246,
-        293,
-        369,
-        383,
-        419,
-        428,
-        431,
-        434,
-        491
+        29,
+        41,
+        45,
+        54,
+        110,
+        185,
+        227,
+        248,
+        295,
+        371,
+        385,
+        421,
+        430,
+        433,
+        436,
+        493
       ]
     },
     {

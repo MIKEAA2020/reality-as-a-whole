@@ -1,0 +1,90 @@
+{
+  "source_commit": "3031323d4140067b102d6db4fc5e7312038fa745",
+  "input_sha256": {
+    "study1_ug.csv": "5aebf979021a6bf0d071e5ea86ec159b684425ba0225cdc474caa21f736af04a",
+    "study1_ec.csv": "cb31cf7c87905624f74583b804a0a154276e95fd6293ff7552c6c73dacb16a05",
+    "study2_ug_reward_emotion.csv": "52a66e9e091a43e82f181841f37822e293f57b2e6ebde3a7f2ecc11150079ed8",
+    "study2_ec.csv": "c02b92cfe6343626278a138af5b0cc17cd00bf646defa0f5d60cbcadd7b0823f"
+  },
+  "method": "subject-disjoint 5-fold logistic comparison; see frozen plan",
+  "studies": [
+    {
+      "study": 1,
+      "audit": {
+        "total_rows": 7960,
+        "neutral_records": 398,
+        "eligible_subjects": 364,
+        "excluded_or_no_neutral_rows": 680
+      },
+      "people": 364,
+      "rows": 7280,
+      "choice_event_rate": 0.30247252747252745,
+      "models": {
+        "reward": {
+          "person_weighted_log_loss": 0.5353498270025641,
+          "person_weighted_brier": 0.18019698786537844,
+          "trial_weighted_log_loss": 0.5353498270025641
+        },
+        "difference": {
+          "person_weighted_log_loss": 0.5050320880902824,
+          "person_weighted_brier": 0.16928157908504138,
+          "trial_weighted_log_loss": 0.5050320880902824
+        },
+        "valence": {
+          "person_weighted_log_loss": 0.40298418367954025,
+          "person_weighted_brier": 0.13142302835225225,
+          "trial_weighted_log_loss": 0.40298418367954025
+        },
+        "both": {
+          "person_weighted_log_loss": 0.40107279259688533,
+          "person_weighted_brier": 0.13090017611590513,
+          "trial_weighted_log_loss": 0.40107279259688533
+        }
+      },
+      "difference_minus_valence_person_log_loss": 0.10204790441074217,
+      "fixed_oof_prediction_person_bootstrap_95_percentile": [
+        0.08548191928688013,
+        0.11899102012853634
+      ]
+    },
+    {
+      "study": 2,
+      "audit": {
+        "total_rows": 4880,
+        "neutral_records": 244,
+        "eligible_subjects": 228,
+        "excluded_or_no_neutral_rows": 320
+      },
+      "people": 228,
+      "rows": 4560,
+      "choice_event_rate": 0.3017543859649123,
+      "models": {
+        "reward": {
+          "person_weighted_log_loss": 0.5093203186256915,
+          "person_weighted_brier": 0.17016276443222436,
+          "trial_weighted_log_loss": 0.5093203186256916
+        },
+        "difference": {
+          "person_weighted_log_loss": 0.46666376376211566,
+          "person_weighted_brier": 0.15491381427247372,
+          "trial_weighted_log_loss": 0.4666637637621157
+        },
+        "valence": {
+          "person_weighted_log_loss": 0.3929483832395139,
+          "person_weighted_brier": 0.12933158628671254,
+          "trial_weighted_log_loss": 0.3929483832395138
+        },
+        "both": {
+          "person_weighted_log_loss": 0.394506294991713,
+          "person_weighted_brier": 0.129952624526117,
+          "trial_weighted_log_loss": 0.394506294991713
+        }
+      },
+      "difference_minus_valence_person_log_loss": 0.07371538052260182,
+      "fixed_oof_prediction_person_bootstrap_95_percentile": [
+        0.052747487976980804,
+        0.09333217387912264
+      ]
+    }
+  ]
+}
