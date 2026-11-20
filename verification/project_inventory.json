@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 429,
-  "bytes": 5715364,
-  "line_count": 56511,
-  "document_count_with_risk_phrases": 401,
+  "document_count": 431,
+  "bytes": 5733589,
+  "line_count": 56605,
+  "document_count_with_risk_phrases": 403,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3604,9 +3604,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "2fb8b63c3b45fe65f56c0f49e9af7ddb2a64268b52aa87adec2ff73274e19c9d",
-      "bytes": 12898,
-      "lines": 57,
+      "sha256": "9e640ab285abaa29837a5e4343750b031f1464e1df7c3073aa04f9ffc8e1f228",
+      "bytes": 13392,
+      "lines": 59,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3625,6 +3625,7 @@
         "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
+        "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3632,9 +3633,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        17,
-        34,
-        51
+        19,
+        36,
+        53
       ]
     },
     {
@@ -3740,9 +3741,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2d4dd7bed8dd27ede7e8b47e55f6d1ddf76bad8e5a519b6569c976fcec624718",
-      "bytes": 102289,
-      "lines": 831,
+      "sha256": "9b80b62f077f63e0657f44aeb239ec265d399ead9edbfed8abaf50639f2f499c",
+      "bytes": 102730,
+      "lines": 834,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3963,6 +3964,8 @@
         "PHOTON_ECHO_READOUT.md",
         "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
         "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
+        "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
+        "PLEASANTNESS_FIXED_FINAL_CHORD_PLAN.md",
         "PLENITUDE.md",
         "PLENITUDE_ALGEBRAIC_CLOSURE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -4396,6 +4399,7 @@
         "verification/phenomenal_unity_partition_gate.py",
         "verification/photon_echo_readout.py",
         "verification/pitch_frustration_inversion_gate.py",
+        "verification/pleasantness_final_chord_context_gate.py",
         "verification/plenitude_algebraic_closure.py",
         "verification/plenitude_dimension.py",
         "verification/plenitude_foundation_symmetry_gates.py",
@@ -4565,16 +4569,16 @@
         56,
         112,
         188,
-        231,
-        253,
-        300,
-        376,
-        390,
-        426,
-        435,
-        438,
-        441,
-        499
+        233,
+        255,
+        302,
+        378,
+        392,
+        428,
+        437,
+        440,
+        443,
+        501
       ]
     },
     {
@@ -7667,6 +7671,43 @@
         24,
         34,
         42
+      ]
+    },
+    {
+      "path": "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
+      "sha256": "f922eea75e4c4db30a32aac309ef22e095f156f870fb7b340ea5ec5671472e93",
+      "bytes": 13080,
+      "lines": 76,
+      "title": "Pleasantness, preceding context and neural harmonicity",
+      "headings": [
+        "Pleasantness, preceding context and neural harmonicity",
+        "Finding",
+        "1. Fixed final chord: analysis and constraints",
+        "2. A real neural measurement already exists",
+        "3. A sharper joint empirical bridge",
+        "Reproduction"
+      ],
+      "local_links": [
+        "PLEASANTNESS_FIXED_FINAL_CHORD_PLAN.md",
+        "verification/pleasantness_final_chord_context_gate.json"
+      ],
+      "risk_phrase_lines": [
+        58
+      ]
+    },
+    {
+      "path": "PLEASANTNESS_FIXED_FINAL_CHORD_PLAN.md",
+      "sha256": "bb4e2e45144baa780e9dac96784a6efce9a9b48e3a475d1e56b7655d45094948",
+      "bytes": 4210,
+      "lines": 13,
+      "title": "Fixed retrospective comparison: prior chord and final-chord pleasantness",
+      "headings": [
+        "Fixed retrospective comparison: prior chord and final-chord pleasantness",
+        "Inputs and processing"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {

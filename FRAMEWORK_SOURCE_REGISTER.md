@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 386 root Markdown documents including this register; 43 research Markdown documents.
-- 50 original uploaded files, including provenance metadata; 319 verification Python scripts.
+- 388 root Markdown documents including this register; 43 research Markdown documents.
+- 50 original uploaded files, including provenance metadata; 320 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -219,6 +219,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PHOTON_ECHO_READOUT.md](PHOTON_ECHO_READOUT.md) — Asymptotic photon-echo relational readout for the static spherical clock
 - [PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md](PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md) — When a pitch-to-frustration explanation cannot work
 - [PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md](PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md) — Planck, consciousness and the relational whole
+- [PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md](PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md) — Pleasantness, preceding context and neural harmonicity
+- [PLEASANTNESS_FIXED_FINAL_CHORD_PLAN.md](PLEASANTNESS_FIXED_FINAL_CHORD_PLAN.md) — Fixed retrospective comparison: prior chord and final-chord pleasantness
 - [PLENITUDE.md](PLENITUDE.md) — Plenitude, uniqueness, and the last residue
 - [PLENITUDE_ALGEBRAIC_CLOSURE.md](PLENITUDE_ALGEBRAIC_CLOSURE.md) — Plenitude: All Sectors Actualize, Stability Selects d=4+SM, Weinberg Selects CC
 - [PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) — Necessary experiential plenitude: narrowing the foundational gaps
@@ -666,6 +668,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/phenomenal_unity_partition_gate.py](verification/phenomenal_unity_partition_gate.py)
 - [verification/photon_echo_readout.py](verification/photon_echo_readout.py)
 - [verification/pitch_frustration_inversion_gate.py](verification/pitch_frustration_inversion_gate.py)
+- [verification/pleasantness_final_chord_context_gate.py](verification/pleasantness_final_chord_context_gate.py)
 - [verification/plenitude_algebraic_closure.py](verification/plenitude_algebraic_closure.py)
 - [verification/plenitude_dimension.py](verification/plenitude_dimension.py)
 - [verification/plenitude_foundation_symmetry_gates.py](verification/plenitude_foundation_symmetry_gates.py)

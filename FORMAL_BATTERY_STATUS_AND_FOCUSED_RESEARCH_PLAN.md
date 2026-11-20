@@ -10,6 +10,8 @@ The subsequent [same-sector horizon and valence audit](INTEGRATED_SUBJECT_HORIZO
 
 The [acoustic register and experience audit](ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md) tests an externally defined roughness-only monotonic restriction against participant-clustered consonance reports. Its retrospective interval crosses zero, and the proxy is neither independently measured internal frustration nor a direct unpleasantness assay. It identifies a possible published sample/label discrepancy for further checking, but does not change the B4–B5 or B10 verdicts.
 
+The [pleasantness context and neural harmonicity gate](PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md) adds a real pleasantness-report comparison with a fixed scored final chord and reviews an existing physiological harmonicity index in a separate experiment. The context effects were already published; our paired analysis is retrospective and no neural mismatch is measured in the sequence study. This strengthens requirements for a common-domain test, not the B4–B5 or B10 verdicts.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

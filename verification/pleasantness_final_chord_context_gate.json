@@ -1,0 +1,54 @@
+{
+  "source_commit": "010777ada95da0044492d14865a162d7bc2874f8",
+  "input_sha256": {
+    "PleDisso1.sav": "60f2a03bd08a760952d4a2223c0057b5f428d6a81acddc62407e6f3d51d7abf6",
+    "stimulusTable.csv": "e7459d0b1374ab417a301e54ee3a77ef2e30a109ade29db4274ace053cba9136"
+  },
+  "source_rows": 2800,
+  "rows_missing_required_fields": 56,
+  "complete_people": 49,
+  "incomplete_people_dropped": 0,
+  "retained_ratings": 2744,
+  "cell_means": {
+    "LRLF": 5.206997084548105,
+    "LRHF": 5.497084548104956,
+    "HRLF": 4.835276967930029,
+    "HRHF": 5.618075801749272
+  },
+  "contrasts": {
+    "familiarity_high_minus_low": {
+      "mean": 0.5364431486880467,
+      "bootstrap_95_percentile": [
+        0.42128279883381925,
+        0.6581632653061226
+      ]
+    },
+    "roughness_high_minus_low": {
+      "mean": -0.12536443148688042,
+      "bootstrap_95_percentile": [
+        -0.2317784256559767,
+        -0.02623906705539345
+      ]
+    },
+    "roughness_high_minus_low_at_low_familiarity": {
+      "mean": -0.3717201166180758,
+      "bootstrap_95_percentile": [
+        -0.5553935860058309,
+        -0.19967201166180804
+      ]
+    },
+    "roughness_high_minus_low_at_high_familiarity": {
+      "mean": 0.12099125364431489,
+      "bootstrap_95_percentile": [
+        0.018950437317784334,
+        0.22594752186588923
+      ]
+    }
+  },
+  "in_sample_person_key_oracle_rmse": 0.9624888776760725,
+  "in_sample_person_key_oracle_fraction_of_total_squares": 0.5506635042205668,
+  "across_person_means_context_within_key_rmse": 0.43564975864018185,
+  "bootstrap_replicates": 10000,
+  "seed": 9381,
+  "scope": "Fixed selected sequences, exploratory; ratings are not internal state or identity assays."
+}
