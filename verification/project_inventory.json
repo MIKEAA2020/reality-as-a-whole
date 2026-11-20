@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 401,
-  "bytes": 5323695,
-  "line_count": 54383,
-  "document_count_with_risk_phrases": 374,
+  "document_count": 402,
+  "bytes": 5343763,
+  "line_count": 54479,
+  "document_count_with_risk_phrases": 375,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2135,8 +2135,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "6a43696ade1528d2446cdd876364d1b750d4b836d7d8bb3c80f88b5fbd21ba76",
-      "bytes": 35364,
+      "sha256": "c5f71c245e73555ba575294f4cac4384a15ada60f9378cdfc752eca7a7408169",
+      "bytes": 35691,
       "lines": 261,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2152,6 +2152,7 @@
       "local_links": [
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
@@ -3468,9 +3469,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bb536eeebfc4800c531f9d08a328bdb2abf321db73e8dcfce4d927b946125db8",
-      "bytes": 95032,
-      "lines": 779,
+      "sha256": "2945cc6ad6d69c766663493edaf9a1545295827396d2541e6a0ed52c8e189fc7",
+      "bytes": 95329,
+      "lines": 781,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3690,6 +3691,7 @@
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "QUANTUM_FIELD_RECORD_EMBEDDING.md",
+        "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -4204,6 +4206,7 @@
         "verification/two_subject_reversible_selector.py",
         "verification/underground_collapse_scope.py",
         "verification/universal_subject_lf_tradeoff.py",
+        "verification/ur_spinor_classical_control_gate.py",
         "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_free_spread_gate.py",
         "verification/wdw_angular_coupling.py",
@@ -4242,15 +4245,15 @@
         103,
         172,
         211,
-        230,
-        274,
-        348,
-        362,
-        398,
-        407,
-        410,
-        413,
-        465
+        231,
+        275,
+        349,
+        363,
+        399,
+        408,
+        411,
+        414,
+        466
       ]
     },
     {
@@ -6005,9 +6008,9 @@
     },
     {
       "path": "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
-      "sha256": "9f51c0588c090738b668e98a0f2e42e9c809f4887f611ef684ed89fa5c1ea1d5",
-      "bytes": 12130,
-      "lines": 70,
+      "sha256": "10eff20faff017415bf5f3e7e1247ccff54635de61e6885c299e62d86f1096da",
+      "bytes": 12391,
+      "lines": 72,
       "title": "Does musical structure help explain quantum physics and experience?",
       "headings": [
         "Does musical structure help explain quantum physics and experience?",
@@ -6020,16 +6023,17 @@
         "Reproduction"
       ],
       "local_links": [
+        "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
         "verification/music_quantum_units_audit.json",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "verification/music_quantum_units_audit.json"
       ],
       "risk_phrase_lines": [
-        24,
-        32,
+        26,
         34,
-        36
+        36,
+        38
       ]
     },
     {
@@ -7664,6 +7668,32 @@
         33,
         50,
         106
+      ]
+    },
+    {
+      "path": "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
+      "sha256": "5d4ad5fbc352fc6e64972ae0b94fa25c0872f4004a926b537964bec63621c8bf",
+      "bytes": 19183,
+      "lines": 92,
+      "title": "Quantum information, neural music, and the surviving brain",
+      "headings": [
+        "Quantum information, neural music, and the surviving brain",
+        "What the supplied articles contribute",
+        "1. What the Ur proposal actually does",
+        "2. Classical–quantum interaction: a necessary qualification",
+        "3. The medical cases: altered brains, not absent brains",
+        "4. Distinguishing music, wakefulness and experience",
+        "5. Constructive framework contract",
+        "Source-access ledger"
+      ],
+      "local_links": [
+        "verification/ur_spinor_classical_control_gate.py",
+        "verification/ur_spinor_classical_control_gate.json",
+        "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        65
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "status": "all_selected_scripts_exited_zero",
-  "count": 31,
+  "count": 32,
   "scope": "Regression checks for selected finite models only. No pass/fail judgment on the full philosophical framework, factual truth of assumptions, human consciousness, empirical claims, or quantum gravity. Script exit codes are not independent verification of their claims. Historical closure-claim aggregators intentionally excluded.",
   "results": [
     {
@@ -90,6 +90,12 @@
     {
       "name": "bell_preparation_correlator",
       "script": "verification/bell_preparation_correlation_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "ur_spinor_classical_control",
+      "script": "verification/ur_spinor_classical_control_gate.py",
       "result": "passed",
       "exit_code": 0
     },

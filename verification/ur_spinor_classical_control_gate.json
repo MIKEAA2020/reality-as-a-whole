@@ -1,0 +1,26 @@
+{
+  "scope": "Illustrative finite calculations, not a derivation of spacetime, quantum gravity, experience, or two-way fundamental classical-quantum coupling.",
+  "spinor_null_before": [
+    "2",
+    "2",
+    "0",
+    "0"
+  ],
+  "spinor_null_after": [
+    "17/4",
+    "2",
+    "0",
+    "15/4"
+  ],
+  "standard_qubit_fidelity_before": "1/2",
+  "standard_qubit_fidelity_after_naive_normalized_boost": "16/17",
+  "classical_control_output_diagonal": [
+    "1/2",
+    "0",
+    "0",
+    "1/2"
+  ],
+  "global_input_and_output_von_neumann_entropy_bits": 1,
+  "output_mutual_information_bits": 1,
+  "classical_control_only_not_quantum_to_classical_measurement": true
+}

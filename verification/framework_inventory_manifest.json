@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "000799efed79de2353e4dccaf6958da92230e937",
-  "file_count": 1297,
+  "base_head": "cce595d04999409fee17ee2e4f6b81e093c2b68e",
+  "file_count": 1300,
   "files": [
     {
       "path": ".gitattributes",
@@ -310,8 +310,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 35364,
-      "sha256": "6a43696ade1528d2446cdd876364d1b750d4b836d7d8bb3c80f88b5fbd21ba76"
+      "bytes": 35691,
+      "sha256": "c5f71c245e73555ba575294f4cac4384a15ada60f9378cdfc752eca7a7408169"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -520,8 +520,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 95032,
-      "sha256": "bb536eeebfc4800c531f9d08a328bdb2abf321db73e8dcfce4d927b946125db8"
+      "bytes": 95329,
+      "sha256": "2945cc6ad6d69c766663493edaf9a1545295827396d2541e6a0ed52c8e189fc7"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -785,8 +785,8 @@
     },
     {
       "path": "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
-      "bytes": 12130,
-      "sha256": "9f51c0588c090738b668e98a0f2e42e9c809f4887f611ef684ed89fa5c1ea1d5"
+      "bytes": 12391,
+      "sha256": "10eff20faff017415bf5f3e7e1247ccff54635de61e6885c299e62d86f1096da"
     },
     {
       "path": "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
@@ -1047,6 +1047,11 @@
       "path": "QUANTUM_FIELD_RECORD_EMBEDDING.md",
       "bytes": 11504,
       "sha256": "74aa9f54af2ae1676898de6e37807ba9031f2bfd09098f9d7153c52affb24420"
+    },
+    {
+      "path": "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
+      "bytes": 19183,
+      "sha256": "5d4ad5fbc352fc6e64972ae0b94fa25c0872f4004a926b537964bec63621c8bf"
     },
     {
       "path": "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -4005,13 +4010,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 5599,
-      "sha256": "d05cb4e8d3e323e675a91922b76d72b7aa86995bd6a1b21dae16fdb0042c1c6d"
+      "bytes": 5772,
+      "sha256": "4739a6ab8d854cbcc6d7e094e5a43185a6f9f25d61866103ceb5f1ea9ac39dcc"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 4601,
-      "sha256": "5b3fb5915f9a0167f75d7af5256be1e42e2c5eb53bbb125f5692a7a991b30337"
+      "bytes": 4690,
+      "sha256": "66dd6e28ba2f5238fbf2da83ea828b6d910f8037dced112b0ec3363bbbc6fb92"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4855,8 +4860,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 508549,
-      "sha256": "ed9f9524676f01f19c4ae92d043213f2d4edccc6eb572113e90d5984be374ff7"
+      "bytes": 509919,
+      "sha256": "4dd5d9370fc120aaec037d825fdcc3c8616d129098b1cecbefa2aacbc0976b61"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6207,6 +6212,16 @@
       "path": "verification/universal_subject_lf_tradeoff.py",
       "bytes": 3473,
       "sha256": "6f5070d6d7973be1b184f7d3422c68a195e560cb7ba1f929f6534877d924b3e8"
+    },
+    {
+      "path": "verification/ur_spinor_classical_control_gate.json",
+      "bytes": 661,
+      "sha256": "b7876b34d5b960f390e7676ce4bddf222b74fea365cfc0d862166ab3581aeda1"
+    },
+    {
+      "path": "verification/ur_spinor_classical_control_gate.py",
+      "bytes": 3361,
+      "sha256": "785c71e960b99b2f4402bc3224bfc22475a43692864097567795a2d7290aedd1"
     },
     {
       "path": "verification/vedral_energy_and_locality_gate.json",

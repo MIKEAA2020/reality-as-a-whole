@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 358 root Markdown documents including this register; 43 research Markdown documents.
-- 44 original uploaded files, including provenance metadata; 301 verification Python scripts.
+- 359 root Markdown documents including this register; 43 research Markdown documents.
+- 44 original uploaded files, including provenance metadata; 302 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -218,6 +218,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) — Quantum agreement, disagreement and plural perspectives
 - [QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md](QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md) — Quantum erasure, Bell correlations and selection of perspectives
 - [QUANTUM_FIELD_RECORD_EMBEDDING.md](QUANTUM_FIELD_RECORD_EMBEDDING.md) — Quantum field readout: an explicit but gravity-limited embedding
+- [QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md](QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md) — Quantum information, neural music, and the surviving brain
 - [QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md](QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md) — Quantum position verification and financial dynamics: source assessment
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
@@ -746,6 +747,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
+- [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)
 - [verification/vedral_free_spread_gate.py](verification/vedral_free_spread_gate.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)

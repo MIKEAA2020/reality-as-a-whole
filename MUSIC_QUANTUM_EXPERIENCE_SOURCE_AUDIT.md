@@ -1,5 +1,7 @@
 # Does musical structure help explain quantum physics and experience?
 
+A [later source audit](QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md) examines Gazzaniga and Queenan's neural-music essay and the underlying ventriculomegaly case reports; it does not treat surviving function as consciousness without a brain.
+
 ## Verdict
 
 **Yes as a source of structural ideas and a useful empirical testing ground; no as a derivation of quantum mechanics, an experiential ground, or a self-existent whole.**
