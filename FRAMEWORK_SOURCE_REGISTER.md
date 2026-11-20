@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 361 root Markdown documents including this register; 43 research Markdown documents.
-- 46 original uploaded files, including provenance metadata; 302 verification Python scripts.
+- 362 root Markdown documents including this register; 43 research Markdown documents.
+- 46 original uploaded files, including provenance metadata; 303 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -93,6 +93,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPANDING_BEC_REFERENCE_UNCERTAINTY.md](EXPANDING_BEC_REFERENCE_UNCERTAINTY.md) — BEC ramp holdout: shared-reference and endpoint audit
 - [EXPANDING_BEC_STATIC_CONTROL_AUDIT.md](EXPANDING_BEC_STATIC_CONTROL_AUDIT.md) — BEC static controls and shared-run covariance
 - [EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md](EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md) — Expanding BEC as a cosmological and clock analogue: source audit
+- [EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md](EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md) — A joint witness gate for cortical necessity
 - [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
 - [EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md](EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md) — Can experiential organization do the work of a physical basis?
@@ -531,6 +532,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/eraser_bell_selection_gate.py](verification/eraser_bell_selection_gate.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
+- [verification/experiential_anatomical_witness_gate.py](verification/experiential_anatomical_witness_gate.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
 - [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)

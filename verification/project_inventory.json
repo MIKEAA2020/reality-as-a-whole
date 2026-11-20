@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 404,
-  "bytes": 5373103,
-  "line_count": 54593,
-  "document_count_with_risk_phrases": 376,
+  "document_count": 405,
+  "bytes": 5384443,
+  "line_count": 54681,
+  "document_count_with_risk_phrases": 377,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2135,8 +2135,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "c5f71c245e73555ba575294f4cac4384a15ada60f9378cdfc752eca7a7408169",
-      "bytes": 35691,
+      "sha256": "8c88eefa8dbbe91adf0744140341ea6a86c7eef12ff4ec0a2e6fc9c22a5d3f5f",
+      "bytes": 36082,
       "lines": 261,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2153,6 +2153,7 @@
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
+        "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
@@ -2779,6 +2780,34 @@
       "risk_phrase_lines": [
         9,
         21
+      ]
+    },
+    {
+      "path": "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
+      "sha256": "f2a31df228976b9dc36476cac3a4deecd2801d91ba97c37d19584a39ddaf950b",
+      "bytes": 10180,
+      "lines": 84,
+      "title": "A joint witness gate for cortical necessity",
+      "headings": [
+        "A joint witness gate for cortical necessity",
+        "Purpose and status",
+        "1. Define the claim before assessing evidence",
+        "2. A sharp finite witness count",
+        "3. Why the existing cases do not instantiate the bound",
+        "4. A witness is not a complete constitution account",
+        "5. Verification and next evidence"
+      ],
+      "local_links": [
+        "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md",
+        "verification/experiential_anatomical_witness_gate.py",
+        "verification/experiential_anatomical_witness_gate.json"
+      ],
+      "risk_phrase_lines": [
+        37,
+        57,
+        84
       ]
     },
     {
@@ -3469,9 +3498,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "feee1039135f49d7a0b69ffbb923211080f3a2263db0c1b5ccfd772da77b8c24",
-      "bytes": 95583,
-      "lines": 783,
+      "sha256": "0d717e9c65c0f35855422fd82792b76101cb3e19b59cc93db74c6988fcdf5dc4",
+      "bytes": 96123,
+      "lines": 787,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3566,6 +3595,7 @@
         "EXPANDING_BEC_REFERENCE_UNCERTAINTY.md",
         "EXPANDING_BEC_STATIC_CONTROL_AUDIT.md",
         "EXPANDING_BEC_TIME_ANALOGUE_AUDIT.md",
+        "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
@@ -3744,6 +3774,7 @@
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
+        "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
         "SHLAER_TIME_COMPARISON.md",
         "SIMULATION_PLENITUDE_CONSOLIDATION.md",
         "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
@@ -3927,6 +3958,7 @@
         "sources/uploads/russellian-absolute-discussion.md",
         "sources/uploads/s41467-021-27134-6.pdf",
         "sources/uploads/schneidman2006.pdf",
+        "sources/uploads/shewmon1999.pdf",
         "sources/uploads/simulation-neither-plenitude-nor-one-world.md",
         "sources/uploads/simulation-zero-residue-side-by-side.md",
         "sources/uploads/stamped9022.pdf",
@@ -3988,6 +4020,7 @@
         "verification/eraser_bell_selection_gate.py",
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
+        "verification/experiential_anatomical_witness_gate.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/experiential_mismatch_transport_gate.py",
         "verification/field_readout_energy_bound.py",
@@ -4244,18 +4277,18 @@
         38,
         42,
         51,
-        103,
-        173,
-        212,
-        232,
-        276,
-        350,
-        364,
-        400,
-        409,
-        412,
-        415,
-        468
+        104,
+        174,
+        213,
+        233,
+        278,
+        352,
+        366,
+        402,
+        411,
+        414,
+        417,
+        471
       ]
     },
     {
@@ -9414,8 +9447,8 @@
     },
     {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
-      "sha256": "9e093146393b08d102b7b024d9925acd46065ce3e8b20cd9731090415a163150",
-      "bytes": 10035,
+      "sha256": "5f4ca1a3caf41b46bd099b39d9678c8ed0c5b0e392e0a97ba32eea931603d2fa",
+      "bytes": 10264,
       "lines": 49,
       "title": "Shewmon's four children: clinical evidence and the constitution gap",
       "headings": [
@@ -9429,6 +9462,7 @@
       "local_links": [
         "sources/uploads/shewmon1999.pdf",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
         "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md"
       ],
