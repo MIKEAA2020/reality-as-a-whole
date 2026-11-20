@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ac85311f5571900566c25df1e785960dd3785cb5",
-  "file_count": 1410,
+  "base_head": "dc722836b3372a33b1b6dcf15796c5f57eb0c0ac",
+  "file_count": 1415,
   "files": [
     {
       "path": ".gitattributes",
@@ -519,6 +519,16 @@
       "sha256": "c12e672e7b5cf0ba3a640c35598d6c8f6556ef72af4982ce52d9b62d9b77e3a1"
     },
     {
+      "path": "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
+      "bytes": 11937,
+      "sha256": "31a3296f605bb4af6f30ebd80424e0df4c7030839e82f7094bd51c2d12b0857e"
+    },
+    {
+      "path": "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
+      "bytes": 6635,
+      "sha256": "057e35d9ea1c5b6ad29962935e551b58ad9a9d5d8d794d1bd9d331fce1d24bb7"
+    },
+    {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
       "bytes": 9928,
       "sha256": "1f8f719eaa56a7ae766f91cf4eeb9de914f2cd47dc8c4be7c315e2733b4ed263"
@@ -575,8 +585,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 18386,
-      "sha256": "33a4717ca2f37b9582ebc4215210effd68bc9a73141af716d7c6262896570e86"
+      "bytes": 18826,
+      "sha256": "bcd98efd882df5baea29ee5cf23367f87c0ff84f10d12ba0b96a3c26fdcc8a9d"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -600,8 +610,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 107007,
-      "sha256": "f266e6d9023855bf8e90eb26b68fba0642ad826ee3665cd33e1c2a41ccee94c0"
+      "bytes": 107540,
+      "sha256": "629a6aadaa013ae3990530978078e5b88cae432c2ae089c50ca4f5da0de4b6cb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4224,6 +4234,21 @@
       "sha256": "5a036e0cbd11e3f0b5104894b788790699c068b40adaf028961c9bf8075c38f5"
     },
     {
+      "path": "verification/faced_report_baseline.json",
+      "bytes": 33668,
+      "sha256": "4d9b0f78beacbd322a008c1f6aee79d9b27f3cb5ab8ba5d036b3cb2c57dd5294"
+    },
+    {
+      "path": "verification/faced_report_baseline.py",
+      "bytes": 7156,
+      "sha256": "3dc65f45c6c8383f7244331b556261121fd8010a47b36debcf58e6c5438551d7"
+    },
+    {
+      "path": "verification/faced_report_baseline_test.py",
+      "bytes": 1402,
+      "sha256": "6d92838f70656dc7b1731e057e0edd38145694da6051b1162640157a88188c15"
+    },
+    {
       "path": "verification/field_readout_energy_bound.json",
       "bytes": 4335,
       "sha256": "4c695dcb8895722781997b2ef57825bb6824f825491374e844ce6bceed7495b2"
@@ -5365,8 +5390,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 560851,
-      "sha256": "aab061726b0790d01d041dff52ed3100f8519b39067743099a099d77fcaaeb95"
+      "bytes": 562687,
+      "sha256": "ed68a7683f7addf523497d0302feb41ffab2c3409b78858654e589183d06b312"
     },
     {
       "path": "verification/project_inventory.py",

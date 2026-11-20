@@ -70,7 +70,9 @@ These are a dependency-guided program, not an assertion that B4 must be solved b
 
 ## 4. Real-recording feasibility update
 
-The [music-appraisal EEG screen](MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md) adds four verified participant recordings and their own, source-aligned song preference categories to the evidence, with fixed exploratory alpha-dispersion and spectral controls. The reports were assigned before listening, so this is not the needed same-trial felt-valence observation; reference sensitivity and a stronger descriptive beta control also limit any interpretation. It does not identify physical frustration or an experiential bridge. B4–B5 and B10 remain open. See the linked report for exact results, source access and reuse limitations.
+The [music-appraisal EEG screen](MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md) adds four verified participant recordings and their own, source-aligned song preference categories to the evidence, with fixed exploratory alpha-dispersion and spectral controls. The reports were assigned before listening, so this is not the needed same-trial felt-valence observation; reference sensitivity and a stronger descriptive beta control also limit any interpretation. It does not identify physical frustration or an experiential bridge.
+
+The subsequent [FACED audit](FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md) adds post-video *felt* valence from all 123 participants and fixed held-out stimulus-only baselines. The converted event means reproduce the paper's rounded video-level valence summaries, but original per-person joins and EEG signals remain unverified; a hardware metadata disagreement is unresolved. This is a film task, and no neural analysis was performed. B4–B5 and B10 remain open. See the reports for exact results, source access and reuse limitations.
 
 ## 5. What would change a verdict?
 

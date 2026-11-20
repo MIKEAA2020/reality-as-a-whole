@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 446,
-  "bytes": 5894568,
-  "line_count": 57468,
-  "document_count_with_risk_phrases": 418,
+  "document_count": 448,
+  "bytes": 5914113,
+  "line_count": 57562,
+  "document_count_with_risk_phrases": 420,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3346,6 +3346,51 @@
       ]
     },
     {
+      "path": "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
+      "sha256": "31a3296f605bb4af6f30ebd80424e0df4c7030839e82f7094bd51c2d12b0857e",
+      "bytes": 11937,
+      "lines": 53,
+      "title": "Post-trial felt valence: provenance, stimulus baselines and the EEG access gap",
+      "headings": [
+        "Post-trial felt valence: provenance, stimulus baselines and the EEG access gap",
+        "What is new",
+        "What was checked",
+        "What stimulus information predicts",
+        "Comparison to existing work",
+        "Source access, audit scope, and next gate",
+        "Reproducibility"
+      ],
+      "local_links": [
+        "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
+        "verification/faced_report_baseline.py",
+        "verification/faced_report_baseline_test.py",
+        "verification/faced_report_baseline.json"
+      ],
+      "risk_phrase_lines": [
+        15
+      ]
+    },
+    {
+      "path": "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
+      "sha256": "057e35d9ea1c5b6ad29962935e551b58ad9a9d5d8d794d1bd9d331fce1d24bb7",
+      "bytes": 6635,
+      "lines": 35,
+      "title": "Fixed plan: post-video self-report provenance and baselines",
+      "headings": [
+        "Fixed plan: post-video self-report provenance and baselines",
+        "Question and scope",
+        "Bounded access and eligibility",
+        "Fixed comparison",
+        "Implementation and tests"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        13,
+        25,
+        31
+      ]
+    },
+    {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
       "sha256": "1f8f719eaa56a7ae766f91cf4eeb9de914f2cd47dc8c4be7c315e2733b4ed263",
       "bytes": 9928,
@@ -3750,9 +3795,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "33a4717ca2f37b9582ebc4215210effd68bc9a73141af716d7c6262896570e86",
-      "bytes": 18386,
-      "lines": 79,
+      "sha256": "bcd98efd882df5baea29ee5cf23367f87c0ff84f10d12ba0b96a3c26fdcc8a9d",
+      "bytes": 18826,
+      "lines": 81,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3784,7 +3829,8 @@
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-        "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md"
+        "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
+        "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -3793,7 +3839,7 @@
         35,
         52,
         69,
-        73
+        75
       ]
     },
     {
@@ -3899,9 +3945,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f266e6d9023855bf8e90eb26b68fba0642ad826ee3665cd33e1c2a41ccee94c0",
-      "bytes": 107007,
-      "lines": 865,
+      "sha256": "629a6aadaa013ae3990530978078e5b88cae432c2ae089c50ca4f5da0de4b6cb",
+      "bytes": 107540,
+      "lines": 869,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4017,6 +4063,8 @@
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+        "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
+        "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "FINITE_COMPLETION_CLOCK.md",
@@ -4480,6 +4528,8 @@
         "verification/experiential_anatomical_witness_gate.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/experiential_mismatch_transport_gate.py",
+        "verification/faced_report_baseline.py",
+        "verification/faced_report_baseline_test.py",
         "verification/field_readout_energy_bound.py",
         "verification/finite_agreement_bell_gate.py",
         "verification/finite_completion_clock.py",
@@ -4756,18 +4806,18 @@
         43,
         47,
         56,
-        118,
-        201,
-        247,
-        269,
-        316,
-        392,
-        407,
-        443,
-        452,
-        455,
-        458,
-        517
+        120,
+        203,
+        249,
+        271,
+        318,
+        394,
+        409,
+        445,
+        454,
+        457,
+        460,
+        519
       ]
     },
     {
