@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 411,
-  "bytes": 5485266,
-  "line_count": 55267,
-  "document_count_with_risk_phrases": 383,
+  "document_count": 412,
+  "bytes": 5502606,
+  "line_count": 55333,
+  "document_count_with_risk_phrases": 384,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3594,9 +3594,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "835c25157fc7207b049077312dbba056ff215cddac61927da6ef14633326b904",
-      "bytes": 97959,
-      "lines": 800,
+      "sha256": "ca2a1798e0d013038d76c9bfb1eed20851ba4501517e562c85865d05bf23e0e2",
+      "bytes": 98141,
+      "lines": 801,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3918,6 +3918,7 @@
         "THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md",
         "THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
         "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
@@ -4391,13 +4392,13 @@
         218,
         238,
         283,
-        358,
-        372,
-        408,
-        417,
-        420,
-        423,
-        478
+        359,
+        373,
+        409,
+        418,
+        421,
+        424,
+        479
       ]
     },
     {
@@ -7160,8 +7161,8 @@
     },
     {
       "path": "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
-      "sha256": "aebc1b4102cf57a3384f43730c1e375b4e80edcf4c3c511ea66035599d425936",
-      "bytes": 17425,
+      "sha256": "9c62bc276e2834945d6c1229b3e5d2557c77e53fbe8ea906c73eba0a67a4dac7",
+      "bytes": 17852,
       "lines": 112,
       "title": "Can phenomenal unity identify genuinely plural subjects?",
       "headings": [
@@ -7176,6 +7177,9 @@
       ],
       "local_links": [
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
         "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
@@ -11177,6 +11181,31 @@
       ]
     },
     {
+      "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
+      "sha256": "37847fac164b2ca1f0804bffa9a483113c41a3f0a6b6f7354ca0bcb67ff6f2d3",
+      "bytes": 16644,
+      "lines": 65,
+      "title": "Three unity papers: reading audit and implications for plural experience",
+      "headings": [
+        "Three unity papers: reading audit and implications for plural experience",
+        "Scope and access",
+        "1. Bayne and Chalmers: what unity requires",
+        "2. Schwitzgebel and Nelson: countability is a substantive commitment",
+        "3. Lopez: partial phenomenal unity is not merely shared behavior",
+        "4. A common comparison without concealing the hard step",
+        "5. Concrete next requirements for the framework"
+      ],
+      "local_links": [
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
+        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        8,
+        25,
+        31
+      ]
+    },
+    {
       "path": "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
       "sha256": "3296775bfce2410d6c1aa3088585d2b7425547f3625d19acc50101af22549038",
       "bytes": 8806,
@@ -11447,8 +11476,8 @@
     },
     {
       "path": "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
-      "sha256": "dab6f5a2330e7d1fc405cecd925966c4db3b62bc682c64da84d7755cd4967cb5",
-      "bytes": 16156,
+      "sha256": "323b15aa6ba5c94a3391bdf773be672022774144d367aaf5792eca28fb28d417",
+      "bytes": 16243,
       "lines": 110,
       "title": "Testing exclusive phenomenal unity with randomized pair and triple probes",
       "headings": [
@@ -11464,6 +11493,7 @@
       "local_links": [
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "verification/unity_triple_partition_calibration_gate.py",
         "verification/unity_triple_partition_calibration_gate.json"

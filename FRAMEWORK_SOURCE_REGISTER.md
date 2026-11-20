@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 368 root Markdown documents including this register; 43 research Markdown documents.
+- 369 root Markdown documents including this register; 43 research Markdown documents.
 - 47 original uploaded files, including provenance metadata; 309 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -320,6 +320,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md](THREE_DIMENSIONAL_QUANTITATIVE_CHANNEL_CERTIFICATE.md) — A finite-cutoff certificate for the 3+1 two-field instrument
 - [THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md](THREE_DIMENSIONAL_REFINED_CUTOFF_CERTIFICATE.md) — Sharper cutoff certificate for the 3+1 field–probe model
 - [THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md](THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md) — A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle
+- [THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md](THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md) — Three unity papers: reading audit and implications for plural experience
 - [TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md](TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md) — Timeless class operators, decoherence, and joint events
 - [TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md](TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md) — Timeless ground, located totality and experiential actuality
 - [TIME_DECISIVE_TEST_GRAVITY_RECORD.md](TIME_DECISIVE_TEST_GRAVITY_RECORD.md) — Problem of time: a decisive test on a gravitating clock, and the remaining gap
