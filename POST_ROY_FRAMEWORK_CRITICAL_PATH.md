@@ -1,5 +1,7 @@
 # After the Roy data: decision and framework critical path
 
+The governing objective is to satisfy the user's [seven criteria together](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md#1-the-seven-criteria-without-renumbering), while applying their later correction to genuine plural subjects rather than a universal subject. Experience is a valid starting datum, not an eliminable hypothesis. Strong illusionism fails that requirement and is not an eligible candidate; the [source audit](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) is background on an excluded view, not the critical path. Compare experiential-ground candidates with rivals that preserve actual experience, subject plurality and the other governing constraints.
+
 The [timeless ground and located totality gate](TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md) distinguishes location inheritance, global necessity and experiential fundamentality. It exposes a concreteness-definition conflict under this project's modal assumptions and records a non-mereological dependence option; neither constitutes an emergent-spacetime derivation or an experiential-ground proof.
 
 ## Decision

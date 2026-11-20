@@ -32,6 +32,20 @@ The whole is not located in an external space and does not evolve against an ext
 
 ## 2. Assumptions and explanatory targets
 
+### The seven criteria apply jointly
+
+The project assesses candidates against all seven of the user's criteria, not as independent options from which one may pick:
+
+1. **Experience is a valid datum:** retain actual phenomenal experience; do not replace it with reports or deny it for the sake of an easier physical account.
+2. **Our universe is not best possible:** respect the stipulated non-optimality and the conditional implication for the whole's perfection.
+3. **Full intelligibility without brute residue:** seek both structural/existential intelligibility and intelligibility of experience in its experiential mode.
+4. **Generative and predictive power:** require discriminating consequences or a progressive programme with identifiable failure conditions.
+5. **Alignment with promising physics:** recover established physical results and engage quantum theory, gravity and possible emergent spacetime without exaggerating their reach.
+6. **Alignment with plausible consciousness science:** explain real experience while testing neural and cognitive mechanisms and recognizing report limitations.
+7. **Elegance and parsimony:** minimize independent assumptions and unexplained bridges while meeting the other criteria, rather than winning by discarding them.
+
+The later governing correction replaces the older universal-subject endpoint with **genuinely plural subjects and perspectives**, without positing a universal agent. The framework also targets a timeless, self-sufficient relational whole and actuality of genuine possibilities. The historical [seven-criteria synthesis](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) records the original criteria but contains a superseded universal-subject proposal. These are requirements and targets, not a claim that a complete theory now meets them.
+
 The framework rests on the following **working assumptions**. They are not presented as established conclusions.
 
 1. **Experiential actuality:** experience occurs, and the whole has an intrinsic experiential nature.
@@ -42,7 +56,7 @@ The framework rests on the following **working assumptions**. They are not prese
 6. **Non-optimality:** our universe is not the best possible universe, and the whole would be perfect only if our universe were best possible.
 7. **Intelligibility and parsimony:** the desired account should explain existential, structural and experiential facts without brute external selections, while avoiding unnecessary independent assumptions.
 
-The first part of assumption 1—there is experience—is a starting datum, contested by strong illusionism. The [Kammerer source audit](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) distinguishes functional representations of experience from phenomenal appearing and examines a speculative cognitive explanation of why illusionism seems incoherent. The claim that experience is intrinsic to the whole is a further metaphysical hypothesis. Similarly, the logical consequences of assumption 6 can be derived once it is granted; neither its value comparison nor its bridge from whole to universe is established merely by stating it.
+The first part of assumption 1—there is experience—is an accepted starting datum and a governing requirement of this project, not a question that competing proposals may set aside. The [Kammerer source audit](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) records an external view that denies this datum; strong illusionism is therefore ineligible as a candidate satisfying the user's criteria. An experience-respecting rival can still challenge whether experience is fundamental. The claim that experience is intrinsic to the whole is a further metaphysical hypothesis. Similarly, the logical consequences of assumption 6 can be derived once it is granted; neither its value comparison nor its bridge from whole to universe is established merely by stating it.
 
 The framework must eventually specify a single constitution connecting these assumptions to experienced subjects and to observable physics. At present it supplies an **architecture and constraints**, not that completed constitution.
 

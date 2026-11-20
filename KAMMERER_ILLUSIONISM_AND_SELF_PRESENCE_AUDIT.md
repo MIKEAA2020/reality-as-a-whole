@@ -1,8 +1,10 @@
 # The illusion of conscious experience: source audit and the self-presence challenge
 
-## Result
+## Project scope and correction
 
-The supplied paper gives a serious challenge to treating the *apparent obviousness* of experience as an argument that no rival is coherent. It does **not** establish that experience is illusory. Its own author presents the central cognitive theory as a speculative “how possibly” explanation, not as an empirically confirmed mechanism or a direct proof of illusionism.
+**Experience is a valid datum and a governing requirement of the user's seven criteria.** Strong illusionism denies that datum, so it is not an eligible candidate for this project. This source was read because the paper was supplied, not because the project should treat denying experience as a preferred direction. Placing an experience-denying rival at the center of the research path was a drift from the user's constraints. The relevant competitors for the current task must retain actual experience and satisfy all seven criteria together.
+
+The supplied paper gives a challenge to treating the *apparent obviousness* of experience as an argument that no external rival is coherent. It does **not** establish that experience is illusory. Its own author presents the central cognitive theory as a speculative “how possibly” explanation, not as an empirically confirmed mechanism or a direct proof of illusionism.
 
 The useful separation for this project is:
 
