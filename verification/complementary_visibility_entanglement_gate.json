@@ -1,0 +1,70 @@
+{
+  "scope": "Trusted ideal qubit models; no experimental-data or subject-identity inference.",
+  "plane_correlation": "16/25",
+  "fidelity_lower_bound": "16/25",
+  "sharp_negativity_lower_bound": "7/50",
+  "fixed_witness_value": "-7/25",
+  "tested_joint_probabilities": 64,
+  "states": {
+    "minimum_negativity": {
+      "bell_weights": {
+        "phi_plus": "16/25",
+        "phi_minus": "9/50",
+        "psi_plus": "9/50",
+        "psi_minus": "0"
+      },
+      "XX": "16/25",
+      "ZZ": "16/25",
+      "YY": "-7/25",
+      "partial_transpose_eigenvalues": [
+        "1/2",
+        "8/25",
+        "8/25",
+        "-7/50"
+      ],
+      "negativity": "7/50",
+      "chsh_max_squared": "2048/625",
+      "chsh_violation": false
+    },
+    "white_noise": {
+      "bell_weights": {
+        "phi_plus": "73/100",
+        "phi_minus": "9/100",
+        "psi_plus": "9/100",
+        "psi_minus": "9/100"
+      },
+      "XX": "16/25",
+      "ZZ": "16/25",
+      "YY": "-16/25",
+      "partial_transpose_eigenvalues": [
+        "41/100",
+        "41/100",
+        "41/100",
+        "-23/100"
+      ],
+      "negativity": "23/100",
+      "chsh_max_squared": "2048/625",
+      "chsh_violation": false
+    },
+    "bell_violation": {
+      "bell_weights": {
+        "phi_plus": "41/50",
+        "phi_minus": "0",
+        "psi_plus": "0",
+        "psi_minus": "9/50"
+      },
+      "XX": "16/25",
+      "ZZ": "16/25",
+      "YY": "-1",
+      "partial_transpose_eigenvalues": [
+        "8/25",
+        "1/2",
+        "1/2",
+        "-8/25"
+      ],
+      "negativity": "8/25",
+      "chsh_max_squared": "3524/625",
+      "chsh_violation": true
+    }
+  }
+}
