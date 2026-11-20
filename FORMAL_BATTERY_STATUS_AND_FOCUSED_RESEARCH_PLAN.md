@@ -18,6 +18,8 @@ The [Williams effective-realism audit](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TR
 
 The [Daly music EEG and event-alignment audit](DALY_MUSIC_EEG_AND_EVENT_ALIGNMENT_AUDIT.md) identifies a more suitable same-participant pleasantness/EEG design and existing acoustic/EEG comparators. Its pinned mirror's event structure fails a deliberately conservative unambiguous pairing rule, and raw EEG and audio remain uninspected; no neural prediction was run. This is an alignment and source qualification result, not a B4–B5 or B10 pass.
 
+The [Ismael participatory-realism audit](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) distinguishes local limits on actionable self-prediction from full structural and experiential intelligibility of a whole. It cross-checks embedded action against existing quantum joint-event, contextuality and Bell constraints without inferring universal consciousness. No subject/quality bridge, physical recovery or battery pass follows.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

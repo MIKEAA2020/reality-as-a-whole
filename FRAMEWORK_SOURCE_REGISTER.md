@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 393 root Markdown documents including this register; 43 research Markdown documents.
-- 51 original uploaded files, including provenance metadata; 324 verification Python scripts.
+- 394 root Markdown documents including this register; 43 research Markdown documents.
+- 52 original uploaded files, including provenance metadata; 324 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -161,6 +161,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
 - [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
 - [INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md](INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md) — Timelessness, intrinsic time and the cost of removing a clock
+- [ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) — Participatory realism and intelligibility from within the whole
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
 - [KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md](KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md) — Kent's Lorentzian quantum reality: full-paper and beable audit
@@ -462,6 +463,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM1_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf](sources/uploads/41586_2006_BFnature04701_MOESM2_ESM.pdf)
 - [sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc](sources/uploads/41586_2006_BFnature04701_MOESM3_ESM.doc)
+- [sources/uploads/A-Participatory-Universe-in-the-Realist-Mode-On-the-Separation-of-Observational-and-Agentive.pdf](sources/uploads/A-Participatory-Universe-in-the-Realist-Mode-On-the-Separation-of-Observational-and-Agentive.pdf)
 - [sources/uploads/B_MACH.0000033116.57574.95.pdf](sources/uploads/B_MACH.0000033116.57574.95.pdf)
 - [sources/uploads/Bostrom's simulation hypothesis.md](sources/uploads/Bostrom%27s%20simulation%20hypothesis.md)
 - [sources/uploads/Data_Spike_Trains.txt](sources/uploads/Data_Spike_Trains.txt)
