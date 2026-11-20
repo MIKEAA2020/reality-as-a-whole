@@ -12,6 +12,8 @@ The [acoustic register and experience audit](ACOUSTIC_REGISTER_VALENCE_AND_SOURC
 
 The [pleasantness context and neural harmonicity gate](PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md) adds a real pleasantness-report comparison with a fixed scored final chord and reviews an existing physiological harmonicity index in a separate experiment. The context effects were already published; our paired analysis is retrospective and no neural mismatch is measured in the sequence study. This strengthens requirements for a common-domain test, not the B4–B5 or B10 verdicts.
 
+The [EEG baseline-deviation and valence gate](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) tests a training-label-independent scalp-power deviation on a third-party table claimed to derive from DREAMER, using subject-held-out and subject/film-disjoint splits. Original EEG and labels were not available to validate provenance, the statistic is not identified coupling frustration, and it does not improve the film-mean baseline in the subject-held-out comparison. B4–B5 and B10 remain open.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

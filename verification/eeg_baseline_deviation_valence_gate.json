@@ -1,0 +1,90 @@
+{
+  "source_csv_sha256": "7d232f1cf469ef9fb85a0d0e83777d100016bd437617a639ffb7e5127615b239",
+  "source_commit": "4f7da1a235e9f144928d648a4d7a6c541de6bf2b",
+  "source_provenance": "Third-party table claims DREAMER origin; raw source not verified.",
+  "n_people": 23,
+  "n_films": 18,
+  "n_observations": 414,
+  "person_held_out": {
+    "metrics": {
+      "global": {
+        "rmse": 1.3210747125955733,
+        "mae": 1.115393061045235
+      },
+      "global_plus_deviation": {
+        "rmse": 1.3174371376489697,
+        "mae": 1.1111688643279807
+      },
+      "global_plus_signed": {
+        "rmse": 1.303918360987242,
+        "mae": 1.10250334750307
+      },
+      "film_mean": {
+        "rmse": 0.8627055057870763,
+        "mae": 0.6853315766359245
+      },
+      "film_plus_deviation": {
+        "rmse": 0.862988811598248,
+        "mae": 0.6851639710626638
+      },
+      "film_plus_signed": {
+        "rmse": 0.8622875311833751,
+        "mae": 0.6827338259418072
+      }
+    },
+    "mse_difference_candidate_minus_comparator": {
+      "deviation_vs_film_mean": {
+        "mean": 0.0004888992284213338,
+        "fixed_prediction_participant_bootstrap_95": [
+          -0.00602851240653659,
+          0.007306975644738074
+        ]
+      },
+      "deviation_vs_signed": {
+        "mean": 0.001209902509436458,
+        "fixed_prediction_participant_bootstrap_95": [
+          -0.006404543714853613,
+          0.008257261262893324
+        ]
+      }
+    }
+  },
+  "person_and_film_group_held_out": {
+    "metrics": {
+      "global": {
+        "rmse": 1.3628675387448397,
+        "mae": 1.1644265992409903
+      },
+      "global_plus_deviation": {
+        "rmse": 1.3568255112538652,
+        "mae": 1.1575243071772072
+      },
+      "global_plus_signed": {
+        "rmse": 1.3372652627771224,
+        "mae": 1.1409666761408352
+      }
+    },
+    "mse_difference_candidate_minus_comparator": {
+      "deviation_vs_global": {
+        "mean": -0.016432460175104125,
+        "fixed_prediction_participant_bootstrap_95": [
+          -0.04073238550352081,
+          0.006321090213911497
+        ]
+      },
+      "deviation_vs_signed": {
+        "mean": 0.052697084958946185,
+        "fixed_prediction_participant_bootstrap_95": [
+          0.009446856702652282,
+          0.10096057029540075
+        ]
+      }
+    }
+  },
+  "bootstrap": {
+    "seed": 1823,
+    "replicates": 10000,
+    "conditional_on_predictions": true
+  },
+  "scope": "Exploratory scalp alpha power deviation, not phase frustration, pain, mechanism or experiential identity."
+}

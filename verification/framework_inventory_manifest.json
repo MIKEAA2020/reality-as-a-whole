@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "4af05fefbfac3785a365fee8ea787d3bbd20a39f",
-  "file_count": 1372,
+  "base_head": "2002f933205227976a45532f267de6635ddddf5d",
+  "file_count": 1377,
   "files": [
     {
       "path": ".gitattributes",
@@ -394,6 +394,16 @@
       "sha256": "0b737be2ef51727522a03ca1e04e4861bbc3aab681a59bfc9dae9e57163f8899"
     },
     {
+      "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
+      "bytes": 11848,
+      "sha256": "496acd1ef3aaf46616060d010884ef727faf175548085b6845b6a6c7a39a6f22"
+    },
+    {
+      "path": "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
+      "bytes": 5330,
+      "sha256": "95c5f163462156df94135c325552b5acb3cbc405267abd74d4a55178f3d8dda2"
+    },
+    {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
       "bytes": 12497,
       "sha256": "cd42ad0985c6f2aa25c437780a32ce1749448afcfea4c46e514ade84e2fc1605"
@@ -545,8 +555,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 13392,
-      "sha256": "9e640ab285abaa29837a5e4343750b031f1464e1df7c3073aa04f9ffc8e1f228"
+      "bytes": 13885,
+      "sha256": "b9981fc3773dfe630ee516a009c844c1ae9495834ab7197f20ae902fdbf6de09"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -570,8 +580,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 102730,
-      "sha256": "9b80b62f077f63e0657f44aeb239ec265d399ead9edbfed8abaf50639f2f499c"
+      "bytes": 103282,
+      "sha256": "2a87ebe860cc1f5b8e8245d3c0bf7f39d5747d1178ed72b1dafe469aaef839e7"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3994,6 +4004,21 @@
       "sha256": "2bf07b749412768c1ac6f8f578cf41b8376648c0436f1d791ce34d5dfe710f11"
     },
     {
+      "path": "verification/eeg_baseline_deviation_valence_gate.json",
+      "bytes": 2539,
+      "sha256": "f0e2bda5e79e9e65c8835a4f3d471758aac473367b36f709b05c2ad75d58bb5c"
+    },
+    {
+      "path": "verification/eeg_baseline_deviation_valence_gate.py",
+      "bytes": 6663,
+      "sha256": "c0869a0c8ad5ab9abeaf6efb78ee6965cc49300846ce15de1714ac1af5bbd1b3"
+    },
+    {
+      "path": "verification/eeg_baseline_deviation_valence_gate_test.py",
+      "bytes": 1202,
+      "sha256": "122219b0fb41c97e6965ad5a6dabd515b72f961639b4d90612149039579d4d44"
+    },
+    {
       "path": "verification/energy_conditions_bounce.json",
       "bytes": 2041,
       "sha256": "f954a4b1ae724c46a5ef2cdb4ed14e054d16fff2407de44a249796759d9cc767"
@@ -5175,8 +5200,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 543363,
-      "sha256": "82af30503881c2a82662c65f039f9c22244d1e1c10e4c3c9233d4c4c7f139621"
+      "bytes": 546758,
+      "sha256": "55d977bf078c93d72500ef032fb67b2324e517682a6768a4a3e2a47af3a6aa72"
     },
     {
       "path": "verification/project_inventory.py",

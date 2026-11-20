@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 388 root Markdown documents including this register; 43 research Markdown documents.
-- 50 original uploaded files, including provenance metadata; 320 verification Python scripts.
+- 390 root Markdown documents including this register; 43 research Markdown documents.
+- 50 original uploaded files, including provenance metadata; 322 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -89,6 +89,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md) — Relational matter and experience: one reality, two aspects
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
+- [EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) — A neural-signal deviation candidate against reported valence
+- [EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md](EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md) — Retrospective EEG baseline-deviation test: fixed analysis plan
 - [EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md](EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md) — Effective theories and graphical models: reading progress
 - [ENERGY_CONDITIONS_BOUNCE.md](ENERGY_CONDITIONS_BOUNCE.md) — Energy conditions across the polymer bounce
 - [ENERGY_EXCHANGE_CLOCK.md](ENERGY_EXCHANGE_CLOCK.md) — An energy-exchanging physical clock: complete instrument and coherence budget
@@ -558,6 +560,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)
+- [verification/eeg_baseline_deviation_valence_gate.py](verification/eeg_baseline_deviation_valence_gate.py)
+- [verification/eeg_baseline_deviation_valence_gate_test.py](verification/eeg_baseline_deviation_valence_gate_test.py)
 - [verification/energy_conditions_bounce.py](verification/energy_conditions_bounce.py)
 - [verification/energy_constrained_instrument_bound.py](verification/energy_constrained_instrument_bound.py)
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)

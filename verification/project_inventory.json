@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 431,
-  "bytes": 5733589,
-  "line_count": 56605,
-  "document_count_with_risk_phrases": 403,
+  "document_count": 433,
+  "bytes": 5751812,
+  "line_count": 56707,
+  "document_count_with_risk_phrases": 405,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2670,6 +2670,50 @@
       ]
     },
     {
+      "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
+      "sha256": "496acd1ef3aaf46616060d010884ef727faf175548085b6845b6a6c7a39a6f22",
+      "bytes": 11848,
+      "lines": 78,
+      "title": "A neural-signal deviation candidate against reported valence",
+      "headings": [
+        "A neural-signal deviation candidate against reported valence",
+        "Result, with provenance warning",
+        "1. What was measured and what was not",
+        "2. Results with unseen people",
+        "3. New people and new films together",
+        "4. Implications for the framework",
+        "5. Other candidate datasets and limitations",
+        "6. Reproduction"
+      ],
+      "local_links": [
+        "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
+        "verification/eeg_baseline_deviation_valence_gate.py",
+        "verification/eeg_baseline_deviation_valence_gate.json",
+        "verification/eeg_baseline_deviation_valence_gate_test.py"
+      ],
+      "risk_phrase_lines": [
+        13,
+        62
+      ]
+    },
+    {
+      "path": "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
+      "sha256": "95c5f163462156df94135c325552b5acb3cbc405267abd74d4a55178f3d8dda2",
+      "bytes": 5330,
+      "lines": 18,
+      "title": "Retrospective EEG baseline-deviation test: fixed analysis plan",
+      "headings": [
+        "Retrospective EEG baseline-deviation test: fixed analysis plan",
+        "Provenance and hypothesis",
+        "Two distinct generalization tests"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7,
+        16
+      ]
+    },
+    {
       "path": "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
       "sha256": "cd42ad0985c6f2aa25c437780a32ce1749448afcfea4c46e514ade84e2fc1605",
       "bytes": 12497,
@@ -3604,9 +3648,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "9e640ab285abaa29837a5e4343750b031f1464e1df7c3073aa04f9ffc8e1f228",
-      "bytes": 13392,
-      "lines": 59,
+      "sha256": "b9981fc3773dfe630ee516a009c844c1ae9495834ab7197f20ae902fdbf6de09",
+      "bytes": 13885,
+      "lines": 61,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3626,6 +3670,7 @@
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
         "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
+        "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3633,9 +3678,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        19,
-        36,
-        53
+        21,
+        38,
+        55
       ]
     },
     {
@@ -3741,9 +3786,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9b80b62f077f63e0657f44aeb239ec265d399ead9edbfed8abaf50639f2f499c",
-      "bytes": 102730,
-      "lines": 834,
+      "sha256": "2a87ebe860cc1f5b8e8245d3c0bf7f39d5747d1178ed72b1dafe469aaef839e7",
+      "bytes": 103282,
+      "lines": 838,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3834,6 +3879,8 @@
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
         "DUE_REGARD_ARGUMENT.md",
         "DUST_CLOCK_RECORD.md",
+        "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
+        "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
         "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
         "ENERGY_CONDITIONS_BOUNCE.md",
         "ENERGY_EXCHANGE_CLOCK.md",
@@ -4289,6 +4336,8 @@
         "verification/disclosure_observation_identifiability.py",
         "verification/disclosure_scope_check.py",
         "verification/dust_clock_record.py",
+        "verification/eeg_baseline_deviation_valence_gate.py",
+        "verification/eeg_baseline_deviation_valence_gate_test.py",
         "verification/energy_conditions_bounce.py",
         "verification/energy_constrained_instrument_bound.py",
         "verification/energy_exchange_clock.py",
@@ -4567,18 +4616,18 @@
         43,
         47,
         56,
-        112,
-        188,
-        233,
-        255,
-        302,
-        378,
-        392,
-        428,
-        437,
-        440,
-        443,
-        501
+        114,
+        190,
+        235,
+        257,
+        304,
+        380,
+        394,
+        430,
+        439,
+        442,
+        445,
+        503
       ]
     },
     {
