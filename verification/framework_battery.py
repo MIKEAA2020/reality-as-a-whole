@@ -23,6 +23,7 @@ TESTS = [
     ('quantum_friend', 'verification/subject_friend_quantum_extensions.py'),
     ('friend_history', 'verification/friend_history_selector_gate.py'),
     ('weak_record_coarse_graining', 'verification/weak_record_coarse_graining_gate.py'),
+    ('quantum_access_subject_count', 'verification/quantum_access_subject_count_gate.py'),
     ('friend_record_tradeoff', 'verification/reversible_friend_record_tradeoff.py'),
     ('collapse_identifiability', 'verification/experience_collapse_identifiability.py'),
     ('shared_and_independent_reports', 'verification/shared_vs_independent_reports.py'),

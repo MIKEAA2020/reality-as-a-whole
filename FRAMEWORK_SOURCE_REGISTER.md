@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 349 root Markdown documents including this register; 43 research Markdown documents.
-- 41 original uploaded files, including provenance metadata; 295 verification Python scripts.
+- 350 root Markdown documents including this register; 43 research Markdown documents.
+- 41 original uploaded files, including provenance metadata; 296 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -208,6 +208,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md](QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md) — Particle emergence, locality and the subject-boundary question
 - [QUALITATIVE_EQUIVALENCE_AUDIT.md](QUALITATIVE_EQUIVALENCE_AUDIT.md) — Is the remaining qualitative ambiguity substantive or representational?
 - [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
+- [QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md](QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md) — Quantum access is not a subject count
 - [QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) — Optimal symmetric agreement stability and the Q1 boundary
 - [QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) — Quantum agreement, disagreement and plural perspectives
 - [QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md](QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md) — Quantum erasure, Bell correlations and selection of perspectives
@@ -616,6 +617,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)
 - [verification/qpv_causal_records_gate.py](verification/qpv_causal_records_gate.py)
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
+- [verification/quantum_access_subject_count_gate.py](verification/quantum_access_subject_count_gate.py)
 - [verification/quantum_agreement_record_gate.py](verification/quantum_agreement_record_gate.py)
 - [verification/quantum_agreement_supplement_gate.py](verification/quantum_agreement_supplement_gate.py)
 - [verification/quantum_relational_field_instrument.py](verification/quantum_relational_field_instrument.py)

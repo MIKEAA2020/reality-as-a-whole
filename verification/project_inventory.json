@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 392,
-  "bytes": 5196846,
-  "line_count": 53548,
-  "document_count_with_risk_phrases": 366,
+  "document_count": 393,
+  "bytes": 5210182,
+  "line_count": 53632,
+  "document_count_with_risk_phrases": 367,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2085,9 +2085,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "ac770ae25a009c63a77979647a1497f0025051f270c92d1af682cce853287b96",
-      "bytes": 30111,
-      "lines": 239,
+      "sha256": "a2762edeb3fa7380f4ed16f2a0ae81bc1670abca16a822ae6867a53dfd8f5618",
+      "bytes": 30558,
+      "lines": 241,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -2118,6 +2118,7 @@
         "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
         "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
         "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
@@ -2125,7 +2126,7 @@
         99,
         197,
         227,
-        229
+        231
       ]
     },
     {
@@ -3382,9 +3383,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4033e1d87250c774809e9ac90c02b3e55f7324cf638430e07d088d1130d8acad",
-      "bytes": 92262,
-      "lines": 761,
+      "sha256": "0da88984a83011f4b1edd5084391b835ca98eeb4147591924d035353ddb8f926",
+      "bytes": 92518,
+      "lines": 763,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3594,6 +3595,7 @@
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
         "QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
@@ -3988,6 +3990,7 @@
         "verification/q1_agreement_stability_gate.py",
         "verification/qpv_causal_records_gate.py",
         "verification/qualitative_anchor_check.py",
+        "verification/quantum_access_subject_count_gate.py",
         "verification/quantum_agreement_record_gate.py",
         "verification/quantum_agreement_supplement_gate.py",
         "verification/quantum_relational_field_instrument.py",
@@ -4138,15 +4141,15 @@
         100,
         168,
         206,
-        224,
-        268,
-        339,
-        353,
-        389,
-        398,
-        401,
-        404,
-        453
+        225,
+        269,
+        340,
+        354,
+        390,
+        399,
+        402,
+        405,
+        454
       ]
     },
     {
@@ -7092,8 +7095,8 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "6842d1096fea1ca1b2a850a03ba8c978a9f78af3d2d29aadd73a267db3639f95",
-      "bytes": 9592,
+      "sha256": "528b1180f5ec015b5621d136dddefbacb6bdb3214c29d88a8a5a18719c78ef6d",
+      "bytes": 9905,
       "lines": 40,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
@@ -7113,7 +7116,8 @@
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
-        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md"
+        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md"
       ],
       "risk_phrase_lines": [
         19,
@@ -7345,6 +7349,34 @@
         106,
         122,
         126
+      ]
+    },
+    {
+      "path": "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+      "sha256": "765dfd5ae079045a87652423034db1973c6d455dc81cb2343ea204a705985807",
+      "bytes": 12320,
+      "lines": 80,
+      "title": "Quantum access is not a subject count",
+      "headings": [
+        "Quantum access is not a subject count",
+        "Result",
+        "1. What access means here",
+        "2. An exact overlapping-access example",
+        "3. Same Boolean access pattern, different information capacity",
+        "4. A constructive interface for plural perspectives",
+        "5. Boundaries and next test",
+        "Reproduction and source scope"
+      ],
+      "local_links": [
+        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        17,
+        27,
+        47,
+        48
       ]
     },
     {

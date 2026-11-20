@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "encoder": "Cleve-Gottesman-Lo ((2,3)) code, tensor powers",
+  "minimal_authorized_sets": [
+    "AB",
+    "AC",
+    "BC"
+  ],
+  "singleton_authorized": false,
+  "any_pair_can_recover_full_secret": true,
+  "pairwise_intersection_is_authorized": false,
+  "common_physical_local_dimension": 9,
+  "restricted_logical_dimension": 3,
+  "unrestricted_logical_dimension": 9,
+  "checks": {
+    "1": {
+      "logical_dimension": 3,
+      "single_party_matrix_unit_checks": 27,
+      "decoder_basis_permutation_entries": 27,
+      "encoded_basis_term_decodes": 27
+    },
+    "2": {
+      "logical_dimension": 9,
+      "single_party_matrix_unit_checks": 243,
+      "decoder_basis_permutation_entries": 243,
+      "encoded_basis_term_decodes": 243
+    }
+  },
+  "scope": "exact ideal finite quantum models; no empirical, consciousness, or subject-count inference"
+}
