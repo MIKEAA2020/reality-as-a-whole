@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a4f4f60b28c2c9027b7b50ea7a55c65d83502831",
-  "file_count": 1344,
+  "base_head": "7019b1833343b8c265ee5cc108cff7d9c4c5e0f0",
+  "file_count": 1348,
   "files": [
     {
       "path": ".gitattributes",
@@ -525,8 +525,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 10970,
-      "sha256": "0289e8bb7d4fd4e0f4100b0854de0f492ae823c9610488088881938924473ef7"
+      "bytes": 11240,
+      "sha256": "b64bff758aeafcd71acafb258d0f0839285fbdd8c308d5fcfa42edc1a24edcd7"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -550,8 +550,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 99966,
-      "sha256": "5f8e1d96b47173b0db34147f2d54771c8dc2b38700218a3986d1dadb40e6c440"
+      "bytes": 100296,
+      "sha256": "8fe97c01faeacbccfcc876a9daa0d0c67b9e411ca427dffa0e80f10741599aa5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -722,6 +722,11 @@
       "path": "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
       "bytes": 14935,
       "sha256": "0675168f8c524b68a4b12613e9672debe12a8b5305272b3b32c99e9c2795860f"
+    },
+    {
+      "path": "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+      "bytes": 10312,
+      "sha256": "b9cb08cc1b1660ac59d862e1a2fbf969f22d6d7a7f314600117dfcd8b4cfe8a4"
     },
     {
       "path": "KERR_BOUNCE_ROTATIONAL.md",
@@ -3334,6 +3339,11 @@
       "sha256": "52f26095e27864630356659c46ebb663e18882bbcb58ea66ae53e988976c5e6b"
     },
     {
+      "path": "sources/uploads/kent2015.pdf",
+      "bytes": 261754,
+      "sha256": "1f83f8d754d72b2fe47dfd49a69b80bc06741c71e4d9eb27def5ab299929707c"
+    },
+    {
       "path": "sources/uploads/leibniz-monadology-latta.pdf",
       "bytes": 78014,
       "sha256": "87b5f2fe1a4ceada8e663f215623a663dfd4110113475f71286699fe6cd02aac"
@@ -4514,6 +4524,16 @@
       "sha256": "97b9171db52b86645739117f3ee3ecca36ae4b5407e2e29b8d46aab2f5fbb450"
     },
     {
+      "path": "verification/kent_final_record_toy_gate.json",
+      "bytes": 2082,
+      "sha256": "b745e7e6b6abbf08a48571d3461fd71194ef23b249c8f6afa0a9a2d6e18d6544"
+    },
+    {
+      "path": "verification/kent_final_record_toy_gate.py",
+      "bytes": 3696,
+      "sha256": "0c0595cc1a2156298b4d160461b2c6a95dd292a0dccedeeaea19b3dea2a4dcdb"
+    },
+    {
       "path": "verification/kerr_bounce_rotational.json",
       "bytes": 2128,
       "sha256": "99b43d71b247dea8c0b15ab2df285d2b4b8f5d9bb7513cf021f49878f6f224c1"
@@ -5060,8 +5080,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 532763,
-      "sha256": "fd5afd63f989d47e8a5af90d4fb9532fc80666e7b913896851af910eae69287f"
+      "bytes": 533688,
+      "sha256": "bee6de4903ea27872dd1e4635d4875a84fda121df4fc9e39c7e0299a8f8cf12f"
     },
     {
       "path": "verification/project_inventory.py",

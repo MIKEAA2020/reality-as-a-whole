@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 420,
-  "bytes": 5609786,
-  "line_count": 55906,
-  "document_count_with_risk_phrases": 392,
+  "document_count": 421,
+  "bytes": 5620511,
+  "line_count": 55953,
+  "document_count_with_risk_phrases": 393,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3517,8 +3517,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "0289e8bb7d4fd4e0f4100b0854de0f492ae823c9610488088881938924473ef7",
-      "bytes": 10970,
+      "sha256": "b64bff758aeafcd71acafb258d0f0839285fbdd8c308d5fcfa42edc1a24edcd7",
+      "bytes": 11240,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3532,6 +3532,7 @@
       "local_links": [
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3647,9 +3648,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5067a7c5ed5abfa2d1eee0c2c9e70d1bd51ed862201c0a1f24804bb49102f492",
-      "bytes": 99823,
-      "lines": 813,
+      "sha256": "5f8e1d96b47173b0db34147f2d54771c8dc2b38700218a3986d1dadb40e6c440",
+      "bytes": 99966,
+      "lines": 814,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3680,6 +3681,7 @@
         "AXIOLOGY_STATUS.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
         "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
+        "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
         "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
@@ -4449,21 +4451,21 @@
       "risk_phrase_lines": [
         17,
         27,
-        38,
-        42,
-        51,
-        107,
-        180,
-        222,
-        243,
-        290,
-        366,
-        380,
-        416,
-        425,
-        428,
-        431,
-        487
+        39,
+        43,
+        52,
+        108,
+        181,
+        223,
+        244,
+        291,
+        367,
+        381,
+        417,
+        426,
+        429,
+        432,
+        488
       ]
     },
     {
@@ -5687,6 +5689,30 @@
       "risk_phrase_lines": [
         26,
         80
+      ]
+    },
+    {
+      "path": "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+      "sha256": "b9cb08cc1b1660ac59d862e1a2fbf969f22d6d7a7f314600117dfcd8b4cfe8a4",
+      "bytes": 10312,
+      "lines": 46,
+      "title": "Kent's Lorentzian quantum reality: full-paper and beable audit",
+      "headings": [
+        "Kent's Lorentzian quantum reality: full-paper and beable audit",
+        "Source and inspection",
+        "The proposal",
+        "The two examples",
+        "Independent finite geometry check",
+        "Relevance and unresolved interfaces"
+      ],
+      "local_links": [
+        "sources/uploads/kent2015.pdf",
+        "verification/kent_final_record_toy_gate.py",
+        "verification/kent_final_record_toy_gate.json"
+      ],
+      "risk_phrase_lines": [
+        17,
+        27
       ]
     },
     {
