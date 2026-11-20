@@ -224,6 +224,8 @@ A [subject-weight and no-signalling gate](SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALL
 
 An [awareness-calibration gate](AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md) engages the disputed COGITATE offset prediction: a null neural result can constrain an awareness-conditional claim if experience prevalence and detection sensitivity have justified lower bounds, but the toy numbers are not COGITATE results and no calibrated experiential assay is established.
 
+A [weak-record coherence gate](WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md) separates nonzero sequential weak-history compatibility from operationally accessible memory and phenomenal subject continuity. In exact finite examples, coarse-grained histories can cancel despite nonzero fine histories, and an accessible memory can be overwritten even when the specified sequential weak value is nonzero. The proposed operational channel conditions are not a definition or proof of subjecthood.
+
 Until these obligations are met, the proposal is a **research framework, not a demonstrated complete or zero-residue theory**. Its assumptions are not conclusions, and finite illustrative models are not evidence that the universe or its subjects have the structures stipulated in those models.
 
 ## References

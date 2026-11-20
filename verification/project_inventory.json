@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 391,
-  "bytes": 5181422,
-  "line_count": 53459,
-  "document_count_with_risk_phrases": 365,
+  "document_count": 392,
+  "bytes": 5196846,
+  "line_count": 53548,
+  "document_count_with_risk_phrases": 366,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2085,9 +2085,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "41f7179e67989ae8ba237d09c59f6a463cb141abe18bf9cfa9a7d02edddf0285",
-      "bytes": 29618,
-      "lines": 237,
+      "sha256": "ac770ae25a009c63a77979647a1497f0025051f270c92d1af682cce853287b96",
+      "bytes": 30111,
+      "lines": 239,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -2117,13 +2117,15 @@
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
         "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
         "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
+        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
         15,
         99,
         197,
-        227
+        227,
+        229
       ]
     },
     {
@@ -3380,9 +3382,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "154e7647f75061d33562aa0b341774da1faeb6781765d754e97647a7fd743354",
-      "bytes": 91999,
-      "lines": 759,
+      "sha256": "4033e1d87250c774809e9ac90c02b3e55f7324cf638430e07d088d1130d8acad",
+      "bytes": 92262,
+      "lines": 761,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3729,6 +3731,7 @@
         "WDW_STRONG_FIELD_SCALING.md",
         "WEAK_BACKREACTION_RECORD.md",
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
+        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "WEYL2_CONFORMAL_ANOMALY_CC.md",
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
@@ -4119,6 +4122,7 @@
         "verification/wdw_strong_field_scaling.py",
         "verification/weak_backreaction_record.py",
         "verification/weak_coupling_partial_observation_gate.py",
+        "verification/weak_record_coarse_graining_gate.py",
         "verification/weyl2_conformal_anomaly_cc.py",
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
@@ -4137,12 +4141,12 @@
         224,
         268,
         339,
-        352,
-        388,
-        397,
-        400,
-        403,
-        452
+        353,
+        389,
+        398,
+        401,
+        404,
+        453
       ]
     },
     {
@@ -7088,8 +7092,8 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "sha256": "0252155a69e427cfa5f045c27485249c9b2832693fa5d9fd9ffe35fa83ed9f21",
-      "bytes": 9222,
+      "sha256": "6842d1096fea1ca1b2a850a03ba8c978a9f78af3d2d29aadd73a267db3639f95",
+      "bytes": 9592,
       "lines": 40,
       "title": "After the Roy data: decision and framework critical path",
       "headings": [
@@ -7108,7 +7112,8 @@
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
-        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md"
       ],
       "risk_phrase_lines": [
         19,
@@ -12009,6 +12014,33 @@
         122,
         126,
         144
+      ]
+    },
+    {
+      "path": "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
+      "sha256": "61a61c031bc1778876c0168be5774af422d98fbeabf9e27f1f249e627a313eec",
+      "bytes": 14298,
+      "lines": 85,
+      "title": "Weak histories, accessible records and plural perspectives",
+      "headings": [
+        "Weak histories, accessible records and plural perspectives",
+        "The question and result",
+        "1. The proposal in context",
+        "2. Fine histories need not survive coarse graining",
+        "3. Check the actual instruments",
+        "4. A nonzero weak history with an overwritten register",
+        "5. An explicit conditional bridge—not a solution",
+        "6. Relevance to the whole"
+      ],
+      "local_links": [
+        "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
+        "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        61,
+        79,
+        83
       ]
     },
     {

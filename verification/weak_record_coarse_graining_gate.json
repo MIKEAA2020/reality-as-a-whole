@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "weak_values_fine": [
+    "1",
+    "-1",
+    "1"
+  ],
+  "coarse_01_weak_value": "0",
+  "fine_measurement_success": "1/3",
+  "coarse_measurement_success": "1/9",
+  "fine_conditional_group_01": "2/3",
+  "coarse_conditional_group_01": "0",
+  "postselected_history_offdiagonal_01": "-1/9",
+  "environment_overlap_cases": 101,
+  "transported_label_permutations": 6,
+  "perturbation_eta": "1/1000",
+  "perturbed_coarse_weak": "1/1001",
+  "perturbed_coarse_strong_probability": "1/1000001",
+  "swap_overwrite_sequential_weak": "1/2",
+  "swap_control_memory_discrimination_tv": "0",
+  "swap_control_environment_discrimination_tv": "1",
+  "stationary_down_sigma_z_cubed_weak": "-1",
+  "stationary_down_all_up_projector_weak": "0",
+  "scope": "finite model; no observed memories, real observers, or experiential subject inference"
+}

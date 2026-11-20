@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "be56480313e77ebdfccfd56932edcc0ba9ee3552",
-  "file_count": 1270,
+  "base_head": "8025e4679de136dc29cb9a2287ec2e1e3f54440d",
+  "file_count": 1273,
   "files": [
     {
       "path": ".gitattributes",
@@ -300,8 +300,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 29618,
-      "sha256": "41f7179e67989ae8ba237d09c59f6a463cb141abe18bf9cfa9a7d02edddf0285"
+      "bytes": 30111,
+      "sha256": "ac770ae25a009c63a77979647a1497f0025051f270c92d1af682cce853287b96"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -505,8 +505,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 91999,
-      "sha256": "154e7647f75061d33562aa0b341774da1faeb6781765d754e97647a7fd743354"
+      "bytes": 92262,
+      "sha256": "4033e1d87250c774809e9ac90c02b3e55f7324cf638430e07d088d1130d8acad"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -960,8 +960,8 @@
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
-      "bytes": 9222,
-      "sha256": "0252155a69e427cfa5f045c27485249c9b2832693fa5d9fd9ffe35fa83ed9f21"
+      "bytes": 9592,
+      "sha256": "6842d1096fea1ca1b2a850a03ba8c978a9f78af3d2d29aadd73a267db3639f95"
     },
     {
       "path": "PRIVATION_AND_AXIARCHIC_GOOD.md",
@@ -1682,6 +1682,11 @@
       "path": "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
       "bytes": 16663,
       "sha256": "f8df5ff91f82bd398a5e9a4fcc2ccef7416ddf78d3074d8bd12ae302f8fc2b6c"
+    },
+    {
+      "path": "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
+      "bytes": 14298,
+      "sha256": "61a61c031bc1778876c0168be5774af422d98fbeabf9e27f1f249e627a313eec"
     },
     {
       "path": "WEYL2_CONFORMAL_ANOMALY_CC.md",
@@ -3910,13 +3915,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 4380,
-      "sha256": "202b5cd561ae2e7213498a6d467b2e8ca0aab70d2ef57848ed441d2cb7665048"
+      "bytes": 4553,
+      "sha256": "364c7cc41540d800abf69795bc268098b6edff60c855a1d63caa6d9b48986c66"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 3970,
-      "sha256": "ff5cd8fee07ca2a34402393a14a9de9e99a7973aa1c8eeced4793e4250511fe6"
+      "bytes": 4059,
+      "sha256": "02dc4d100a7f91e542bbf11e32319f8c54f90ad70222af4f9d1b639a28bb78e6"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4760,8 +4765,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 495905,
-      "sha256": "7eca3fac8e6b70d8fae1a821f54dc317f85c982a3c12786ef4c519d788c6ee5b"
+      "bytes": 497138,
+      "sha256": "913120f384bf3683f6cfa279215ed55454e156137c9d84343e885da8393de384"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6302,6 +6307,16 @@
       "path": "verification/weak_coupling_partial_observation_gate.py",
       "bytes": 7784,
       "sha256": "173bd2d265ac3ba9ff82d590a5aad781df12e55afd6a83f4a7397e3f7b631f55"
+    },
+    {
+      "path": "verification/weak_record_coarse_graining_gate.json",
+      "bytes": 849,
+      "sha256": "12220623e5b2252f73478de873fcd7e6c424a6390ed37e4f847eace4b707abec"
+    },
+    {
+      "path": "verification/weak_record_coarse_graining_gate.py",
+      "bytes": 4576,
+      "sha256": "787144355a162979eba5d4394d77a7c903bbfbe621fcd58e9052c317cf4e00d7"
     },
     {
       "path": "verification/weyl2_conformal_anomaly_cc.json",
