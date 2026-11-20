@@ -1,0 +1,26 @@
+{
+  "H_spectrum": [
+    0,
+    1,
+    2,
+    4
+  ],
+  "H_non_degenerate": true,
+  "U": "diag(1,1,1,-1)",
+  "actual_state": "|00><00|",
+  "U_preserves_H_and_actual_state": true,
+  "maps": {
+    "X_A": "X tensor Z",
+    "X_B": "Z tensor X",
+    "Z_A": "Z tensor I",
+    "Z_B": "I tensor Z"
+  },
+  "transformed_A_not_original_A_or_B": true,
+  "transformed_AB_algebras_commute": true,
+  "fixed_pointer_projectors_and_commutation_with_H": true,
+  "marked_preparation_plus_plus_expectations": {
+    "X_A": "1",
+    "U X_A U_dagger": "0"
+  },
+  "scope": "Exact finite identities; no exhaustive optimization or reproduction of published algorithm; no phenomenal claims."
+}

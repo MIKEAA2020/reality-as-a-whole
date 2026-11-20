@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 425,
-  "bytes": 5670118,
-  "line_count": 56228,
-  "document_count_with_risk_phrases": 397,
+  "document_count": 426,
+  "bytes": 5684811,
+  "line_count": 56328,
+  "document_count_with_risk_phrases": 398,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3565,8 +3565,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "78f3c14339c03c37902b171d725d886238655c2f96d5be9ccbbd8e33ee261138",
-      "bytes": 11828,
+      "sha256": "10aacb86213f42ee19458a6c3646115fa4367824b0ec7f033b9643e70a4c7b6d",
+      "bytes": 12107,
       "lines": 55,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3583,6 +3583,7 @@
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
+        "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3698,9 +3699,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5658b0f91316bb12953a5d0842aa9123e45a01fe84f591937b891a9e3c4fd2cb",
-      "bytes": 100870,
-      "lines": 821,
+      "sha256": "c0d4a7cc2af39384d874bb31261294850de8cfafd3482f57bf42a192770ceef4",
+      "bytes": 101299,
+      "lines": 824,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3890,6 +3891,7 @@
         "NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md",
         "NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md",
         "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
+        "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
@@ -4159,6 +4161,7 @@
         "sources/uploads/JHEP02(2024)193.pdf",
         "sources/uploads/RKLS-TR07.pdf",
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
+        "sources/uploads/Three-arguments-for-wave-function-realism.pdf",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf",
         "sources/uploads/bain2000.pdf",
@@ -4320,6 +4323,7 @@
         "verification/necessary_plenitude_simulation_model.py",
         "verification/necessity_nonempty_modal_audit.py",
         "verification/net_work_mismatch_gate.py",
+        "verification/ney_relational_correlations_gate.py",
         "verification/no_signalling_subject_measure_gate.py",
         "verification/noble_symmetry_selection_gate.py",
         "verification/nonstatic_spherical_causality.py",
@@ -4513,16 +4517,16 @@
         54,
         110,
         185,
-        227,
-        248,
-        295,
-        371,
-        385,
-        421,
-        430,
-        433,
-        436,
-        493
+        228,
+        249,
+        296,
+        372,
+        386,
+        422,
+        431,
+        434,
+        437,
+        495
       ]
     },
     {
@@ -6759,8 +6763,8 @@
     },
     {
       "path": "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
-      "sha256": "6647c8e51e323f9176816f70eb705db2505fb4c7741e3082bfe76c74c93e6d53",
-      "bytes": 14262,
+      "sha256": "1bfd6a94609b278084831f2e15b5b113c4ec5714c965a01da8b21d4283be9a46",
+      "bytes": 14460,
       "lines": 68,
       "title": "Wave-function realism, relational structure and plural experience",
       "headings": [
@@ -6778,6 +6782,7 @@
         "verification/ney_relational_correlations_gate.py",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md"
       ],
       "risk_phrase_lines": [
@@ -6786,6 +6791,7 @@
         40,
         48,
         52,
+        58,
         66
       ]
     },
@@ -8242,6 +8248,40 @@
       "risk_phrase_lines": [
         65,
         83
+      ]
+    },
+    {
+      "path": "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
+      "sha256": "ecd73208b06d683367b373c794eced502866bdd72b59ce8b25a8da617b2151b8",
+      "bytes": 13787,
+      "lines": 97,
+      "title": "Can a minimal quantum description select physical parts and subjects?",
+      "headings": [
+        "Can a minimal quantum description select physical parts and subjects?",
+        "Main result",
+        "Prior work and exactly what is being tested",
+        "A four-dimensional physical sector",
+        "Why the quasi-classicality criteria do not automatically remove this tie",
+        "What uniqueness can and cannot mean",
+        "How this changes the route to a subject-and-experience bridge",
+        "Reading limits"
+      ],
+      "local_links": [
+        "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
+        "verification/quantum_mereology_symmetry_gate.py",
+        "verification/quantum_mereology_symmetry_gate.json",
+        "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+        "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        15,
+        60,
+        93
       ]
     },
     {
