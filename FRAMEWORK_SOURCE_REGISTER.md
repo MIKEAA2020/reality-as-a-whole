@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 344 root Markdown documents including this register; 43 research Markdown documents.
-- 41 original uploaded files, including provenance metadata; 290 verification Python scripts.
+- 345 root Markdown documents including this register; 43 research Markdown documents.
+- 41 original uploaded files, including provenance metadata; 291 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -42,6 +42,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [COLD_ATOM_CLOCK_COMPARISON.md](COLD_ATOM_CLOCK_COMPARISON.md) — Comparing clocks on all five released cold-atom traces
 - [COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md) — Cold-atom entropic time: source audit and connection to our time work
 - [COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) — A moving-window test of the cosmological collapse model
+- [COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md](COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md) — Collective causal response is not necessarily collective mechanism
 - [COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md](COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md) — From an assumed boundary budget to a conditional intervention test
 - [COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md](COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md) — Color experience and physical structure: an independently anchored test
 - [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination
@@ -477,6 +478,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cold_atom_comparison.py](verification/cold_atom_comparison.py)
 - [verification/collapse_moving_window.py](verification/collapse_moving_window.py)
 - [verification/collective_context_leakage_gate.py](verification/collective_context_leakage_gate.py)
+- [verification/collective_response_common_cause_gate.py](verification/collective_response_common_cause_gate.py)
 - [verification/competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)

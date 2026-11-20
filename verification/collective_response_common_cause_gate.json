@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "tested_kappas": [
+    "-1",
+    "-4/5",
+    "-3/5",
+    "-2/5",
+    "-1/5",
+    "0",
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5",
+    "1"
+  ],
+  "full_kernel_equality_for_every_input_and_output": true,
+  "local_model_measurement_independent_seed_and_factorized_response": true,
+  "site_inputs_accessed_locally_only": true,
+  "seed_controlled_central_graph_edges": [
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "seed_controlled_distributed_graph_edges": [],
+  "stipulated_connected_component_subject_counts": {
+    "central": 1,
+    "distributed": 3
+  },
+  "site_permutation_and_local_label_swap_checks": 384,
+  "fresh_seed_three_round_adaptive_transcripts_checked": 512,
+  "fixed_seed_000_input_100": {
+    "central": [
+      0,
+      0,
+      1
+    ],
+    "local": [
+      1,
+      0,
+      0
+    ]
+  },
+  "assumed_validity_failure_bound": "1/20",
+  "assumed_readout_error_bound": "3/100",
+  "hypothetical_response_ranges": {
+    "central_at_least": "23/25",
+    "local_at_most": "2/25"
+  },
+  "independent_trials_hoeffding_n_for_each_error_le_0_025": 11,
+  "scope": "finite classical mechanisms, idealized controls; not actual devices or a phenomenal assay"
+}

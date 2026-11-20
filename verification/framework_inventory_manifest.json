@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d42d297aad85f91a47138bdff9d944c94b16741f",
-  "file_count": 1258,
+  "base_head": "b4521a4e1cc48dc3a736dfc38ab4b68f28e05ca5",
+  "file_count": 1261,
   "files": [
     {
       "path": ".gitattributes",
@@ -159,6 +159,11 @@
       "sha256": "31ae1df9843eacccbe33d4200cdedd1e973d6c73e08c6a04f99055d77c75b8fd"
     },
     {
+      "path": "COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md",
+      "bytes": 14250,
+      "sha256": "880c548ce9febef96d808eafe5b2f915a99f2ed8d8b04324cc0785252bcc0de1"
+    },
+    {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
       "bytes": 11427,
       "sha256": "85e73a92bb8ef2fd303a4ecb946d83ecd870ab7f2bcc4065b2dbf7de32809292"
@@ -290,8 +295,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 28299,
-      "sha256": "d96e5b6062c3706c40873ce1acb7562e077a3688d6e7ec881723f7876cf6fbcb"
+      "bytes": 28504,
+      "sha256": "2f74e961783a2d1b8ae15cefeb3ed40aa1f98539e2b9a03f5e9bc7cbaa7035c6"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -495,8 +500,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 90880,
-      "sha256": "871f83254218b4c8ac7e85c9b7169f9681881aeb2c7fd330ecedf671c62a4b5e"
+      "bytes": 91173,
+      "sha256": "acb8922e678cef0e40734ea8fffcddebdebac81954d7a179f92ad5ede9e751ba"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -600,8 +605,8 @@
     },
     {
       "path": "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
-      "bytes": 12982,
-      "sha256": "e988f3c9aa9f3807ff617159cddf3728bb69e895709b155ba7cc69053e9e61df"
+      "bytes": 13293,
+      "sha256": "9563d5193052e4e9befb0d13eb3d7860032e42114d791dd606684479dfe821fa"
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",
@@ -3454,6 +3459,16 @@
       "sha256": "d8f5c25da3a7eb3b4318baf42f756d8104ce9a756e812abf4cc70c6f38f0c5e5"
     },
     {
+      "path": "verification/collective_response_common_cause_gate.json",
+      "bytes": 1210,
+      "sha256": "addd904ef2adc48b315faa863293e1fc288f40b159e7b31c2ecf1b8c2abca219"
+    },
+    {
+      "path": "verification/collective_response_common_cause_gate.py",
+      "bytes": 5918,
+      "sha256": "4ec578a5d1d968bb3fe387a04ed9b4133b0f8a9abfac124c9a5acd34e2fdda8c"
+    },
+    {
       "path": "verification/competing_subject_constitution_rules.json",
       "bytes": 4638,
       "sha256": "900f42e7ddb159dd88cfc36f257294905dd4eba68577e0a3774f154718ed91c9"
@@ -4700,8 +4715,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 490528,
-      "sha256": "869ffd7fddc43bc6b01e0a9e47fb599477f94c9eb484793e2bbfb2e6d2a61f9e"
+      "bytes": 491911,
+      "sha256": "98206e994662b6899227e7a16e6e5f1a440b7123272c46a20e0b8a55d3f9bb9b"
     },
     {
       "path": "verification/project_inventory.py",

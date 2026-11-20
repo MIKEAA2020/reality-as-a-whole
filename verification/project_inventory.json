@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 387,
-  "bytes": 5123456,
-  "line_count": 52949,
-  "document_count_with_risk_phrases": 361,
+  "document_count": 388,
+  "bytes": 5138501,
+  "line_count": 53071,
+  "document_count_with_risk_phrases": 362,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1024,6 +1024,35 @@
       ]
     },
     {
+      "path": "COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md",
+      "sha256": "880c548ce9febef96d808eafe5b2f915a99f2ed8d8b04324cc0785252bcc0de1",
+      "bytes": 14250,
+      "lines": 118,
+      "title": "Collective causal response is not necessarily collective mechanism",
+      "headings": [
+        "Collective causal response is not necessarily collective mechanism",
+        "Result",
+        "1. Prior art and scope of reading",
+        "2. One channel, two implementations",
+        "3. What unlimited external tests can and cannot identify",
+        "4. A separating physical intervention, and its limits",
+        "5. An explicit candidate subject rule—and its cost",
+        "6. Consequences for the experiential account"
+      ],
+      "local_links": [
+        "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+        "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "verification/collective_response_common_cause_gate.py",
+        "verification/collective_response_common_cause_gate.json"
+      ],
+      "risk_phrase_lines": [
+        12,
+        58,
+        110,
+        118
+      ]
+    },
+    {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
       "sha256": "85e73a92bb8ef2fd303a4ecb946d83ecd870ab7f2bcc4065b2dbf7de32809292",
       "bytes": 11427,
@@ -2028,8 +2057,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "d96e5b6062c3706c40873ce1acb7562e077a3688d6e7ec881723f7876cf6fbcb",
-      "bytes": 28299,
+      "sha256": "2f74e961783a2d1b8ae15cefeb3ed40aa1f98539e2b9a03f5e9bc7cbaa7035c6",
+      "bytes": 28504,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2049,6 +2078,7 @@
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+        "COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
@@ -3319,9 +3349,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "910dd0d99d6670946aa7ccbe578e72018590ac8e36c861fb82d4a3c105a94be9",
-      "bytes": 90601,
-      "lines": 749,
+      "sha256": "871f83254218b4c8ac7e85c9b7169f9681881aeb2c7fd330ecedf671c62a4b5e",
+      "bytes": 90880,
+      "lines": 751,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3452,6 +3482,7 @@
         "HAWKING_BACKREACTION_BOUND.md",
         "HAWKING_PAGE_CURVE.md",
         "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
+        "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
         "INCOMING_CONSTRAINT_PREPARATION.md",
         "INFINITE_COHERENCE_CONSTRUCTION.md",
         "INFINITE_RELATIONAL_CLOCK.md",
@@ -3843,6 +3874,7 @@
         "verification/hamiltonian_detector.py",
         "verification/hawking_backreaction_bound.py",
         "verification/hemispherotomy_spectral_translation_gate.py",
+        "verification/higher_order_subject_selector_gate.py",
         "verification/hubble_data_inventory.py",
         "verification/hubble_heldout.py",
         "verification/hubble_phase_identifiability.py",
@@ -4061,17 +4093,17 @@
         40,
         48,
         98,
-        164,
-        202,
-        220,
-        264,
-        334,
-        347,
-        383,
-        392,
-        395,
-        398,
-        447
+        165,
+        203,
+        221,
+        265,
+        335,
+        348,
+        384,
+        393,
+        396,
+        399,
+        448
       ]
     },
     {
@@ -4728,9 +4760,9 @@
     },
     {
       "path": "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
-      "sha256": "e988f3c9aa9f3807ff617159cddf3728bb69e895709b155ba7cc69053e9e61df",
-      "bytes": 12982,
-      "lines": 102,
+      "sha256": "9563d5193052e4e9befb0d13eb3d7860032e42114d791dd606684479dfe821fa",
+      "bytes": 13293,
+      "lines": 104,
       "title": "Higher-order causality and the subject-selection problem",
       "headings": [
         "Higher-order causality and the subject-selection problem",
@@ -4743,6 +4775,7 @@
         "Reproduction"
       ],
       "local_links": [
+        "COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md",
         "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
@@ -4752,11 +4785,11 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
-        61,
-        84,
+        11,
+        63,
         86,
-        102
+        88,
+        104
       ]
     },
     {

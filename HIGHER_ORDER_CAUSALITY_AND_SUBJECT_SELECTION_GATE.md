@@ -4,6 +4,8 @@
 
 A selector that sees only **single-variable intervention effects on single-variable outputs** can miss a real collective dependence even if it has perfect access to every such effect. In the finite example below, the one- and two-output distributions agree exactly under every fully fixed input, and hence under every one of 27 partial-clamp protocols we test. Yet the complete three-output distribution changes under a single controlled input flip. The two proposed dynamical kernels are therefore not equivalent.
 
+A subsequent [common-cause gate](COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md) shows the converse limitation: even this complete higher-order channel admits a distributed local implementation with shared randomness, so its collective response does not itself establish an integrated physical mechanism.
+
 This matters for the project's earlier four-spin subject rules: their pairwise-influence graph can be useful **within its stated model**, but is not a generally complete description of causal organization. A proposed subject criterion based only on that graph needs an independently justified restriction excluding relevant higher-order dependencies, or must be extended to a richer intervention/response structure. Conversely, finding such a dependence does not demonstrate a subject or phenomenal unity.
 
 This is a new **application and exact check for our selector problem**, not a new discovery of XOR, higher-order causality, information decomposition, or an empirical result. No literature-wide novelty claim is made.
