@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 360 root Markdown documents including this register; 43 research Markdown documents.
-- 45 original uploaded files, including provenance metadata; 302 verification Python scripts.
+- 361 root Markdown documents including this register; 43 research Markdown documents.
+- 46 original uploaded files, including provenance metadata; 302 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -271,6 +271,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
 - [SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md](SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md) — Self-presence and the impossibility of nothingness: one foundation or two?
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
+- [SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md](SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md) — Shewmon's four children: clinical evidence and the constitution gap
 - [SHLAER_TIME_COMPARISON.md](SHLAER_TIME_COMPARISON.md) — Shlaer's "Solution to the Problem of Time" (arXiv:1411.8006) and Our Modular-Time Solution: A Compatibility Analysis
 - [SIMULATION_PLENITUDE_CONSOLIDATION.md](SIMULATION_PLENITUDE_CONSOLIDATION.md) — Perspective, plenitude, and one complete actuality
 - [SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md](SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md) — Simulation to zero residue: side-by-side attachment audit
@@ -464,6 +465,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
 - [sources/uploads/s41467-021-27134-6.pdf](sources/uploads/s41467-021-27134-6.pdf)
 - [sources/uploads/schneidman2006.pdf](sources/uploads/schneidman2006.pdf)
+- [sources/uploads/shewmon1999.pdf](sources/uploads/shewmon1999.pdf)
 - [sources/uploads/simulation-neither-plenitude-nor-one-world.md](sources/uploads/simulation-neither-plenitude-nor-one-world.md)
 - [sources/uploads/simulation-zero-residue-side-by-side.md](sources/uploads/simulation-zero-residue-side-by-side.md)
 - [sources/uploads/stamped9022.pdf](sources/uploads/stamped9022.pdf)

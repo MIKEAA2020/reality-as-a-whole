@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 403,
-  "bytes": 5362092,
-  "line_count": 54541,
+  "document_count": 404,
+  "bytes": 5373103,
+  "line_count": 54593,
   "document_count_with_risk_phrases": 376,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -3469,9 +3469,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2945cc6ad6d69c766663493edaf9a1545295827396d2541e6a0ed52c8e189fc7",
-      "bytes": 95329,
-      "lines": 781,
+      "sha256": "feee1039135f49d7a0b69ffbb923211080f3a2263db0c1b5ccfd772da77b8c24",
+      "bytes": 95583,
+      "lines": 783,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3634,6 +3634,7 @@
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
         "MAINTENANCE_BROADCAST_SEPARATION.md",
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
         "MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md",
         "MODULAR_CLOCK_SELECTION.md",
         "MODULAR_LOCAL_NET.md",
@@ -3919,6 +3920,7 @@
         "sources/uploads/kammerer2019.pdf",
         "sources/uploads/leibniz-monadology-latta.pdf",
         "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
+        "sources/uploads/merker2007.pdf",
         "sources/uploads/qftlocarx.txt",
         "sources/uploads/quantum_position_verification_main.txt",
         "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
@@ -4243,17 +4245,17 @@
         42,
         51,
         103,
-        172,
-        211,
-        231,
-        275,
-        349,
-        363,
-        399,
-        408,
-        411,
-        414,
-        466
+        173,
+        212,
+        232,
+        276,
+        350,
+        364,
+        400,
+        409,
+        412,
+        415,
+        468
       ]
     },
     {
@@ -5868,8 +5870,8 @@
     },
     {
       "path": "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
-      "sha256": "f0943aaa5962de6d63396ded2a7968fce80727ea556af9610eebbf29446d18c6",
-      "bytes": 11512,
+      "sha256": "e5f19d91cf4393589938f9f3fb58de5db16b80fbe072d4933fada501796ffa41",
+      "bytes": 11727,
       "lines": 43,
       "title": "Merker: subcortical consciousness and the perspective problem",
       "headings": [
@@ -5882,6 +5884,7 @@
       ],
       "local_links": [
         "sources/uploads/merker2007.pdf",
+        "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md"
@@ -7699,9 +7702,9 @@
     },
     {
       "path": "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
-      "sha256": "164065e7a33836480d381abf25c967cf9239c7d2708d30bcb792d56b9def50da",
-      "bytes": 26000,
-      "lines": 111,
+      "sha256": "3df434c684c4cbfaa99a64b1534a0c931f7f8258222dee70861b3160d37dab81",
+      "bytes": 26507,
+      "lines": 112,
       "title": "Quantum information, neural music, and the surviving brain",
       "headings": [
         "Quantum information, neural music, and the surviving brain",
@@ -7720,7 +7723,9 @@
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
         "sources/uploads/merker2007.pdf",
-        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md"
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+        "sources/uploads/shewmon1999.pdf",
+        "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md"
       ],
       "risk_phrase_lines": [
         65,
@@ -9406,6 +9411,28 @@
         70,
         84
       ]
+    },
+    {
+      "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
+      "sha256": "9e093146393b08d102b7b024d9925acd46065ce3e8b20cd9731090415a163150",
+      "bytes": 10035,
+      "lines": 49,
+      "title": "Shewmon's four children: clinical evidence and the constitution gap",
+      "headings": [
+        "Shewmon's four children: clinical evidence and the constitution gap",
+        "Source and reading scope",
+        "1. What was actually observed",
+        "2. Residual anatomy, plasticity and causality",
+        "3. The music hypothesis and experience",
+        "4. Relevance to the framework"
+      ],
+      "local_links": [
+        "sources/uploads/shewmon1999.pdf",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "MERKER_SUBCORTICAL_CONSCIOUSNESS_AND_PERSPECTIVE_AUDIT.md",
+        "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "SHLAER_TIME_COMPARISON.md",
