@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "baseline_bob_unconditional": "1/2",
+  "weights_plus_minus": [
+    "3",
+    "1"
+  ],
+  "weighted_bob_plus": {
+    "Z": "3/4",
+    "X": "1/2",
+    "tilt_3_5": "13/20"
+  },
+  "weighted_Z_vs_X_difference": "1/4",
+  "standard_local_filter_success_probability": "2/3",
+  "standard_unconditional_bob_marginal_in_all_settings": "1/2",
+  "rational_weight_setting_cases": 147,
+  "hypothetical_epsilon": "1/100",
+  "conditional_weight_ratio_interval": [
+    "49/51",
+    "51/49"
+  ],
+  "iid_trial_hoeffding_illustration_n": 119,
+  "scope": "two-qubit model with hypothetical indexed-observer weights; no evidence of signalling or phenomenal selection"
+}

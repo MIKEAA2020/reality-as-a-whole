@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 345 root Markdown documents including this register; 43 research Markdown documents.
-- 41 original uploaded files, including provenance metadata; 291 verification Python scripts.
+- 346 root Markdown documents including this register; 43 research Markdown documents.
+- 41 original uploaded files, including provenance metadata; 292 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -287,6 +287,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
 - [SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md](SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md) — Subject-rule robustness with hidden edges and imperfect interventions
 - [SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md](SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md) — Subject constitution: ties, persistence and redescriptions
+- [SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md](SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md) — Subject weights, steering and no-signalling
 - [SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md](SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md) — Substrate, context and the time horizon of an organizational match
 - [SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) — Substrate-independence, context and the boundaries of subjects
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
@@ -577,6 +578,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/necessary_plenitude_simulation_model.py](verification/necessary_plenitude_simulation_model.py)
 - [verification/necessity_nonempty_modal_audit.py](verification/necessity_nonempty_modal_audit.py)
 - [verification/net_work_mismatch_gate.py](verification/net_work_mismatch_gate.py)
+- [verification/no_signalling_subject_measure_gate.py](verification/no_signalling_subject_measure_gate.py)
 - [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
 - [verification/nonstatic_spherical_midisuperspace.py](verification/nonstatic_spherical_midisuperspace.py)
 - [verification/operational_accumulator.py](verification/operational_accumulator.py)
