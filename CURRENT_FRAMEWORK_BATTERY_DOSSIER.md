@@ -42,7 +42,7 @@ The framework rests on the following **working assumptions**. They are not prese
 6. **Non-optimality:** our universe is not the best possible universe, and the whole would be perfect only if our universe were best possible.
 7. **Intelligibility and parsimony:** the desired account should explain existential, structural and experiential facts without brute external selections, while avoiding unnecessary independent assumptions.
 
-The first part of assumption 1—there is experience—is a starting datum. The claim that experience is intrinsic to the whole is a further metaphysical hypothesis. Similarly, the logical consequences of assumption 6 can be derived once it is granted; neither its value comparison nor its bridge from whole to universe is established merely by stating it.
+The first part of assumption 1—there is experience—is a starting datum, contested by strong illusionism. The [Kammerer source audit](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) distinguishes functional representations of experience from phenomenal appearing and examines a speculative cognitive explanation of why illusionism seems incoherent. The claim that experience is intrinsic to the whole is a further metaphysical hypothesis. Similarly, the logical consequences of assumption 6 can be derived once it is granted; neither its value comparison nor its bridge from whole to universe is established merely by stating it.
 
 The framework must eventually specify a single constitution connecting these assumptions to experienced subjects and to observable physics. At present it supplies an **architecture and constraints**, not that completed constitution.
 
