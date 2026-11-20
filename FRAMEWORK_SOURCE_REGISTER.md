@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 369 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 309 verification Python scripts.
+- 370 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 310 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -277,6 +277,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SELF_EXPLANATORY_ACTUALITY_AUDIT.md](SELF_EXPLANATORY_ACTUALITY_AUDIT.md) — Self-explanatory actuality: what self-support, coherence, and necessity establish
 - [SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md](SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md) — Self-presence and the impossibility of nothingness: one foundation or two?
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
+- [SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) — Shared experience versus duplicated experiential tokens
 - [SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md](SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md) — Shewmon's four children: clinical evidence and the constitution gap
 - [SHLAER_TIME_COMPARISON.md](SHLAER_TIME_COMPARISON.md) — Shlaer's "Solution to the Problem of Time" (arXiv:1411.8006) and Our Modular-Time Solution: A Compatibility Analysis
 - [SIMULATION_PLENITUDE_CONSOLIDATION.md](SIMULATION_PLENITUDE_CONSOLIDATION.md) — Perspective, plenitude, and one complete actuality
@@ -719,6 +720,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/selective_phase_channel_certificate.py](verification/selective_phase_channel_certificate.py)
 - [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
 - [verification/shared_subject_two_time.py](verification/shared_subject_two_time.py)
+- [verification/shared_token_disagreement_gate.py](verification/shared_token_disagreement_gate.py)
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)
 - [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
 - [verification/smooth_field_clock.py](verification/smooth_field_clock.py)

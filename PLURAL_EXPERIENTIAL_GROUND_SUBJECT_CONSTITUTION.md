@@ -67,7 +67,7 @@ The self-contained checker [plural_ground_dominance_symmetry_gate.py](verificati
 
 ## 6. A productive next experiment in reasoning and evidence
 
-A subsequent [randomized pair–triple gate](TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md) gives a concrete conditional way to challenge exclusive incidence from common-population observations with bounded probe errors. It does not resolve the central calibration and inaccessible-perspective obstacles.
+A subsequent [randomized pair–triple gate](TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md) gives a concrete conditional way to challenge exclusive incidence from common-population observations with bounded probe errors. The [shared-token versus duplication gate](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) separately compares numerical token identity and coordinated duplicates, including a conditional way to distinguish particular strengthened hypotheses. Neither resolves the central calibration and inaccessible-perspective obstacles.
 
 The main progress is to expose a **choice of extra premise**, not to pretend one has been derived:
 

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 412,
-  "bytes": 5502606,
-  "line_count": 55333,
-  "document_count_with_risk_phrases": 384,
+  "document_count": 413,
+  "bytes": 5519627,
+  "line_count": 55425,
+  "document_count_with_risk_phrases": 385,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -7465,8 +7465,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "7456fae87daf755bfc1bbd5658b24224954b8c4ae4dcc33ffdcaa06df9e2e243",
-      "bytes": 16843,
+      "sha256": "bcf1a4f5064db759608d1517f12795bc763df6b08620db60b329dee5fbdfbcd9",
+      "bytes": 17087,
       "lines": 80,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
@@ -7482,7 +7482,8 @@
       "local_links": [
         "EPISODE_INCIDENCE_REFORMULATION.md",
         "verification/plural_ground_dominance_symmetry_gate.py",
-        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
+        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
       ],
       "risk_phrase_lines": [
         55,
@@ -9622,6 +9623,32 @@
       ]
     },
     {
+      "path": "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+      "sha256": "e60f284798adb48b1774880151d794bc7e7488ad2ce301906e1cab9cb413e9e1",
+      "bytes": 16396,
+      "lines": 90,
+      "title": "Shared experience versus duplicated experiential tokens",
+      "headings": [
+        "Shared experience versus duplicated experiential tokens",
+        "The constructive result",
+        "1. Targets before measurements",
+        "2. A precise split/merge observational equivalence",
+        "3. A sharp bounded-error gate",
+        "4. What would count as a real test?",
+        "5. Implications for the whole",
+        "Reproduction and scope"
+      ],
+      "local_links": [
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
+        "verification/shared_token_disagreement_gate.py",
+        "verification/shared_token_disagreement_gate.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        19
+      ]
+    },
+    {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
       "sha256": "5f4ca1a3caf41b46bd099b39d9678c8ed0c5b0e392e0a97ba32eea931603d2fa",
       "bytes": 10264,
@@ -11182,9 +11209,9 @@
     },
     {
       "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
-      "sha256": "37847fac164b2ca1f0804bffa9a483113c41a3f0a6b6f7354ca0bcb67ff6f2d3",
-      "bytes": 16644,
-      "lines": 65,
+      "sha256": "ec6ce81ac44808a88b5a6c1fdff8302f7662cb5fc5ae8236dd51890c5e9daf66",
+      "bytes": 17025,
+      "lines": 67,
       "title": "Three unity papers: reading audit and implications for plural experience",
       "headings": [
         "Three unity papers: reading audit and implications for plural experience",
@@ -11197,7 +11224,8 @@
       ],
       "local_links": [
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
-        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
+        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
       ],
       "risk_phrase_lines": [
         8,

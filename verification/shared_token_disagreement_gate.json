@@ -1,0 +1,58 @@
+{
+  "status": "passed",
+  "scope": "Exact finite toy checks, not an experience assay, subject count, empirical evidence, or proof of metaphysical possibility.",
+  "grid_checks": [
+    {
+      "denominator": 1,
+      "distributions": 8,
+      "budget_triplets": 8
+    },
+    {
+      "denominator": 2,
+      "distributions": 36,
+      "budget_triplets": 27
+    },
+    {
+      "denominator": 3,
+      "distributions": 120,
+      "budget_triplets": 64
+    },
+    {
+      "denominator": 4,
+      "distributions": 330,
+      "budget_triplets": 125
+    },
+    {
+      "denominator": 5,
+      "distributions": 792,
+      "budget_triplets": 216
+    },
+    {
+      "denominator": 6,
+      "distributions": 1716,
+      "budget_triplets": 343
+    },
+    {
+      "denominator": 7,
+      "distributions": 3432,
+      "budget_triplets": 512
+    },
+    {
+      "denominator": 8,
+      "distributions": 6435,
+      "budget_triplets": 729
+    }
+  ],
+  "adaptive_two_stage_policies_checked": 32,
+  "construction": "Same controlled physical/output kernel, one common token vs two distinct tokens with equal local quality; common realizations coupled.",
+  "illustration": {
+    "total_report_error_bound": "1/10",
+    "duplicate_disagreement_lower_bound": "1/2",
+    "shared_observed_upper": "1/10",
+    "duplicate_observed_lower": "2/5",
+    "decision_threshold": "1/4",
+    "independent_trials": 100,
+    "per_hypothesis_hoeffding_error_upper": 0.011108996538242306,
+    "note": "All numbers hypothetical; bound excludes calibration/model failure."
+  }
+}

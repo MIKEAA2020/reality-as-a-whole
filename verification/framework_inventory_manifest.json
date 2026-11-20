@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d298fac729074ce1768afbb72b9c25494d449eb4",
-  "file_count": 1327,
+  "base_head": "88fac704e13f823d9b4789de906de4800f3d0173",
+  "file_count": 1330,
   "files": [
     {
       "path": ".gitattributes",
@@ -540,8 +540,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 98141,
-      "sha256": "ca2a1798e0d013038d76c9bfb1eed20851ba4501517e562c85865d05bf23e0e2"
+      "bytes": 98407,
+      "sha256": "d97434e499fbc20e1c9216a4f2cafc7c2aaa3279c8b97d9e1dbb727eac0d83dd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1015,8 +1015,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "bytes": 16843,
-      "sha256": "7456fae87daf755bfc1bbd5658b24224954b8c4ae4dcc33ffdcaa06df9e2e243"
+      "bytes": 17087,
+      "sha256": "bcf1a4f5064db759608d1517f12795bc763df6b08620db60b329dee5fbdfbcd9"
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
@@ -1344,6 +1344,11 @@
       "sha256": "e938359db35ab36ff2b05576e55b7372316b45f2fca055e42f7602b744830258"
     },
     {
+      "path": "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+      "bytes": 16396,
+      "sha256": "e60f284798adb48b1774880151d794bc7e7488ad2ce301906e1cab9cb413e9e1"
+    },
+    {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
       "bytes": 10264,
       "sha256": "5f4ca1a3caf41b46bd099b39d9678c8ed0c5b0e392e0a97ba32eea931603d2fa"
@@ -1560,8 +1565,8 @@
     },
     {
       "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
-      "bytes": 16644,
-      "sha256": "37847fac164b2ca1f0804bffa9a483113c41a3f0a6b6f7354ca0bcb67ff6f2d3"
+      "bytes": 17025,
+      "sha256": "ec6ce81ac44808a88b5a6c1fdff8302f7662cb5fc5ae8236dd51890c5e9daf66"
     },
     {
       "path": "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
@@ -4105,13 +4110,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 7023,
-      "sha256": "5b184fb9e5196c00fbbeefc40ec4c3d2ab984f6920c4da8ec7d9e586336599f2"
+      "bytes": 7192,
+      "sha256": "f28075363d0c6bbeaeb56bba81089c8a2c5b37c242f9778e34718da760ac0393"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 5353,
-      "sha256": "2d19f80a49d806a41acd9a672bfc5b6959bbcf5884d23e6995fc36b069a1ef5d"
+      "bytes": 5438,
+      "sha256": "1043e45e9f036fbf22adb83d3b35b318568e7930ce5a11ec5bf06ba1e64f88df"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4985,8 +4990,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 523554,
-      "sha256": "fd80dd2a5724a18590e69f8517674347dc60d849c0b0ed7d6329c5c5b5258d80"
+      "bytes": 524624,
+      "sha256": "1062176b146886ffa4d6ada4646f2a5be3e6cf85cf5eb166757e2da1fa7402b1"
     },
     {
       "path": "verification/project_inventory.py",
@@ -5822,6 +5827,16 @@
       "path": "verification/shared_subject_two_time.py",
       "bytes": 3957,
       "sha256": "45b966ebb5524f7a9c7070aa2f3c075e48d6f69aac027d14307b2968d711a960"
+    },
+    {
+      "path": "verification/shared_token_disagreement_gate.json",
+      "bytes": 1536,
+      "sha256": "46f181f3ef1bf0125f03e8cd0c78dc7ea69486f4606c7f03a8211c61a577e686"
+    },
+    {
+      "path": "verification/shared_token_disagreement_gate.py",
+      "bytes": 5037,
+      "sha256": "40b7066a082c022f5dc8f15d847a6561f3f5be80e2ff6015536839649fd0a575"
     },
     {
       "path": "verification/shared_vs_independent_reports.json",
