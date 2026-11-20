@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "scope": "Finite stipulated incidence model; no claim that any complex is conscious or has actual subjects.",
+  "complexes_by_ambient_vertex_count": {
+    "1": 1,
+    "2": 4,
+    "3": 18,
+    "4": 166
+  },
+  "complexes": 189,
+  "families_checked": 32902,
+  "overlapping_facet_complexes": 119,
+  "disjoint_facet_complexes": 70,
+  "path_example": {
+    "facets": [
+      "AG",
+      "GB"
+    ],
+    "distinct_subject_count_range": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "automorphisms": 2,
+    "one_partially_unified_owner_satisfies_same_subject_closure": false
+  },
+  "triangle_example": {
+    "equal_singleton_and_pair_faces": true,
+    "filled_minimum_subjects": 1,
+    "hollow_minimum_subjects": 3
+  }
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 413,
-  "bytes": 5519627,
-  "line_count": 55425,
-  "document_count_with_risk_phrases": 385,
+  "document_count": 414,
+  "bytes": 5537128,
+  "line_count": 55533,
+  "document_count_with_risk_phrases": 386,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2194,8 +2194,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "f257567a7e30a11143ced816ca71fa6a0b0888c204ca7c82a5bec7ca85d30019",
-      "bytes": 37130,
+      "sha256": "f67611a0bd817e1b6687af90580bc17736160e2fed6ba2164133484c266de9be",
+      "bytes": 37441,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2214,6 +2214,7 @@
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
@@ -3594,9 +3595,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ca2a1798e0d013038d76c9bfb1eed20851ba4501517e562c85865d05bf23e0e2",
-      "bytes": 98141,
-      "lines": 801,
+      "sha256": "d836782312d060e7524ca66a8d85467351052541fc7d6a75a66e7c20cb23cf8f",
+      "bytes": 98684,
+      "lines": 805,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3838,6 +3839,7 @@
         "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
         "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
         "RELATIONAL_TIME_CONSTRUCTION.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
         "RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md",
@@ -3875,6 +3877,7 @@
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md",
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
         "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
         "SHLAER_TIME_COMPARISON.md",
         "SIMULATION_PLENITUDE_CONSOLIDATION.md",
@@ -4219,6 +4222,7 @@
         "verification/perspectival_finitude.py",
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
+        "verification/phenomenal_facet_subject_gate.py",
         "verification/phenomenal_gwt_russellian.py",
         "verification/phenomenal_unity_partition_gate.py",
         "verification/photon_echo_readout.py",
@@ -4303,6 +4307,7 @@
         "verification/selective_phase_channel_certificate.py",
         "verification/self_existing_plenitude_centers.py",
         "verification/shared_subject_two_time.py",
+        "verification/shared_token_disagreement_gate.py",
         "verification/shared_vs_independent_reports.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
@@ -4391,14 +4396,14 @@
         177,
         218,
         238,
-        283,
-        359,
-        373,
-        409,
-        418,
-        421,
-        424,
-        479
+        285,
+        361,
+        375,
+        411,
+        420,
+        423,
+        426,
+        481
       ]
     },
     {
@@ -7465,8 +7470,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "bcf1a4f5064db759608d1517f12795bc763df6b08620db60b329dee5fbdfbcd9",
-      "bytes": 17087,
+      "sha256": "2de99cdf1eeb00e9e7e394da69408f0918d6fc9fd511d58a43e79597d61a30ff",
+      "bytes": 17397,
       "lines": 80,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
@@ -7480,6 +7485,7 @@
         "6. A productive next experiment in reasoning and evidence"
       ],
       "local_links": [
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
         "verification/plural_ground_dominance_symmetry_gate.py",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
@@ -8576,6 +8582,40 @@
         208,
         212,
         221
+      ]
+    },
+    {
+      "path": "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
+      "sha256": "16cb33bc179f74646a58213b3df36bbd85ed4ea14f013b5b9cce8c74096c7547",
+      "bytes": 16060,
+      "lines": 104,
+      "title": "A relational whole with plural unified subjects: a finite constitution model",
+      "headings": [
+        "A relational whole with plural unified subjects: a finite constitution model",
+        "1. The question and the result",
+        "2. Prior work and source scope",
+        "3. What the finite representation assumes",
+        "4. Derivation: what closure does and does not select",
+        "5. Worked example: connected whole, two unified fields",
+        "6. What the same experiential incidence cannot decide",
+        "7. What a full account still owes"
+      ],
+      "local_links": [
+        "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "verification/phenomenal_facet_subject_gate.py",
+        "verification/phenomenal_facet_subject_gate.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        17,
+        25,
+        27,
+        37,
+        47,
+        59,
+        65,
+        80
       ]
     },
     {
@@ -11209,8 +11249,8 @@
     },
     {
       "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
-      "sha256": "ec6ce81ac44808a88b5a6c1fdff8302f7662cb5fc5ae8236dd51890c5e9daf66",
-      "bytes": 17025,
+      "sha256": "1f80dad3b458a0b137aa833fd1c31089abab40ccde75994a1d901a3d093c9978",
+      "bytes": 17302,
       "lines": 67,
       "title": "Three unity papers: reading audit and implications for plural experience",
       "headings": [
@@ -11225,7 +11265,8 @@
       "local_links": [
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
-        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
         8,

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 370 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 310 verification Python scripts.
+- 371 root Markdown documents including this register; 43 research Markdown documents.
+- 47 original uploaded files, including provenance metadata; 311 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -240,6 +240,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md](RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md) — Relational plenitude: actual possibilities, histories and measure
 - [RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md](RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md) — A sign-information no-go and a relational detector response
 - [RELATIONAL_TIME_CONSTRUCTION.md](RELATIONAL_TIME_CONSTRUCTION.md) — Relational dynamics in one stationary constrained state
+- [RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md](RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md) — A relational whole with plural unified subjects: a finite constitution model
 - [RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md](RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md) — Cicurel and Nicolelis: brains, simulation and subject plurality
 - [REPORTED_CONTENT_REFERENCE_CASE.md](REPORTED_CONTENT_REFERENCE_CASE.md) — A worked reported-content reference case
 - [RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md](RETINAL_MAXENT_READING_AND_MARGINAL_LIMITS.md) — Retinal MaxEnt: published antecedents and limits of marginals
@@ -636,6 +637,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)
 - [verification/perspective_access_from_circuit.py](verification/perspective_access_from_circuit.py)
 - [verification/phase_frustration_audit.py](verification/phase_frustration_audit.py)
+- [verification/phenomenal_facet_subject_gate.py](verification/phenomenal_facet_subject_gate.py)
 - [verification/phenomenal_gwt_russellian.py](verification/phenomenal_gwt_russellian.py)
 - [verification/phenomenal_unity_partition_gate.py](verification/phenomenal_unity_partition_gate.py)
 - [verification/photon_echo_readout.py](verification/photon_echo_readout.py)

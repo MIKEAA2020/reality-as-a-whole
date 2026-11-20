@@ -37,6 +37,7 @@ TESTS = [
     ('latent_experience', 'verification/latent_experience_three_probes.py'),
     ('experiential_anatomical_witness', 'verification/experiential_anatomical_witness_gate.py'),
     ('phenomenal_unity_partition', 'verification/phenomenal_unity_partition_gate.py'),
+    ('phenomenal_facet_subject', 'verification/phenomenal_facet_subject_gate.py'),
     ('unity_triple_partition_calibration', 'verification/unity_triple_partition_calibration_gate.py'),
     ('shared_token_disagreement', 'verification/shared_token_disagreement_gate.py'),
     ('correlation_clustering_certificate', 'verification/correlation_clustering_asymmetric_certificate.py'),

@@ -56,7 +56,7 @@ As a **toy** example only, take phenomenally stipulated fields `{L,G}` and `{G,R
 
 These examples are not countermodels to Bayne–Chalmers' full subject-indexed closure unless their subject and subsumption premises are separately imposed. They do demonstrate why a model must state the **quantifier and identity** conditions: `for each pair, some witness` is different from `one subject and its subsuming states witness all pairs`. Nor does a path of overlapping pair fields alone imply a jointly experienced whole. On the other hand, a partial-unity theorist may coherently propose a different, explicitly justified subject concept; no verdict follows merely from the graph.
 
-A follow-up [shared-token versus duplication gate](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) makes this comparison precise: certain adaptive report histories can be identical under both models, while a separately calibrated disagreement test can discriminate particular strengthened packages. Neither the calibration nor the necessary intervention has been established.
+A follow-up [shared-token versus duplication gate](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) makes this comparison precise: certain adaptive report histories can be identical under both models, while a separately calibrated disagreement test can discriminate particular strengthened packages. Neither the calibration nor the necessary intervention has been established. A separate [finite relational constitution model](RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md) explicitly distinguishes Bayne–Chalmers same-subject closure from globally nontransitive existential co-occurrence and exposes the extra assumptions required to count subjects.
 
 ## 5. Concrete next requirements for the framework
 
