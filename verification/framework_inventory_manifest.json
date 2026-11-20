@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "448812c1438bdf4dc8223802d28a87cdb0f6d95c",
-  "file_count": 1364,
+  "base_head": "85ed96c0788273e15e642422573f293bc71305d2",
+  "file_count": 1368,
   "files": [
     {
       "path": ".gitattributes",
@@ -10,8 +10,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 468,
-      "sha256": "b2ef3ef146daaa20072f8ee1503eab265a61f42c3f35633aa3e8d6fd08aace3f"
+      "bytes": 552,
+      "sha256": "8ca7107e237cac36d20d970f0449651bce18ebfa06625db555bc00f8569e521e"
     },
     {
       "path": "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
@@ -22,6 +22,16 @@
       "path": "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
       "bytes": 9319,
       "sha256": "951b9611d8e6532c73fb86657116465fcb87cc6bd08e5dfee455c42b3d8ab7f5"
+    },
+    {
+      "path": "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
+      "bytes": 9575,
+      "sha256": "13ef6e98fc270e33d072edb250dd13be60a73084f95e4c300a72df05e8ad3f45"
+    },
+    {
+      "path": "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
+      "bytes": 4903,
+      "sha256": "7cf5f1a1245756b0aa710cc7bb3b43fa7e542ef8399aa742753dde29e8368107"
     },
     {
       "path": "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
@@ -535,8 +545,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 12414,
-      "sha256": "50cccc1657cb2d682111ef8fc7302d2212e770d9ec873e002a869f41e4044f5e"
+      "bytes": 12898,
+      "sha256": "2fb8b63c3b45fe65f56c0f49e9af7ddb2a64268b52aa87adec2ff73274e19c9d"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -560,8 +570,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 101849,
-      "sha256": "45cf3e3d09cb5c7877450681bd6a6421a39fd7b4751c323fb7eca5933bef97fa"
+      "bytes": 102289,
+      "sha256": "2d4dd7bed8dd27ede7e8b47e55f6d1ddf76bad8e5a519b6569c976fcec624718"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5287,6 +5297,16 @@
       "path": "verification/refinement_acceptance_budget.py",
       "bytes": 2391,
       "sha256": "78b4f9c17c533f0698486b33ab6965ad6a6c26f6e976234c5550148c5c8fa0bc"
+    },
+    {
+      "path": "verification/register_roughness_heldout_gate.json",
+      "bytes": 2887,
+      "sha256": "aa43dcaeaea258c158faee54edbb2119c89b70775bc520afa9f748f28fcd0afa"
+    },
+    {
+      "path": "verification/register_roughness_heldout_gate.py",
+      "bytes": 4984,
+      "sha256": "ae674158eb6f493d1e33de284cedd421afeaa341b9aa47252e6b39c6d700d783"
     },
     {
       "path": "verification/relational_calibrated_readout.json",

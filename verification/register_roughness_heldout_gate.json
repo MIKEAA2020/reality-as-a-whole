@@ -1,0 +1,118 @@
+{
+  "scope": "Retrospective human-rating subset, not a neural or phenomenal identity test.",
+  "source_commit": "cdc4fc748e1535d9c0dd197f4c429bee80ff9514",
+  "input_sha256": {
+    "data.csv": "05f078b5b6680f040af56a669d064e5218651fb754f1811dde36b6363951764a",
+    "roughness_and_sharpness.csv": "d5b2014241ca5279ed6ed433ae473ceb39ccb32ad3e4d9d75667e43efd90e367"
+  },
+  "total_source_rows": 77,
+  "exclusion_counts_in_order": {
+    "repeat_missing_or_mean_absolute_ge_4": 8,
+    "headphone_missing_or_below_4": 10
+  },
+  "eligible_people": 59,
+  "middle_mean": 5.961864406779661,
+  "high_mean": 5.711864406779661,
+  "high_minus_middle": -0.25,
+  "bootstrap_95_percentile": [
+    -0.7627118644067796,
+    0.288135593220339
+  ],
+  "descriptive_people_negative_zero_positive": [
+    37,
+    1,
+    21
+  ],
+  "minimum_rmse_for_two_observed_cell_means_under_monotone_rule": 0.125,
+  "chord_specific": [
+    {
+      "chord": 1,
+      "middle_mean": 7.677966101694915,
+      "high_mean": 7.254237288135593,
+      "difference_high_minus_middle": -0.4237288135593218,
+      "roughness_middle": [
+        0.143195471628313,
+        0.0902114301997494
+      ],
+      "roughness_high": [
+        0.0585012469695127,
+        0.0405197722192983
+      ],
+      "sharpness_middle": [
+        0.663582,
+        0.831026
+      ],
+      "sharpness_high": [
+        1.07289,
+        1.28989
+      ]
+    },
+    {
+      "chord": 2,
+      "middle_mean": 6.483050847457627,
+      "high_mean": 6.033898305084746,
+      "difference_high_minus_middle": -0.4491525423728815,
+      "roughness_middle": [
+        0.195415433945903,
+        0.116208347981027
+      ],
+      "roughness_high": [
+        0.0654264761909807,
+        0.040391252560629
+      ],
+      "sharpness_middle": [
+        0.661741,
+        0.858267
+      ],
+      "sharpness_high": [
+        1.04238,
+        1.25554
+      ]
+    },
+    {
+      "chord": 3,
+      "middle_mean": 5.796610169491525,
+      "high_mean": 5.067796610169491,
+      "difference_high_minus_middle": -0.7288135593220337,
+      "roughness_middle": [
+        0.395396552407281,
+        0.32000797910665
+      ],
+      "roughness_high": [
+        0.250133945879293,
+        0.184291688485985
+      ],
+      "sharpness_middle": [
+        0.669791,
+        0.968252
+      ],
+      "sharpness_high": [
+        0.990299,
+        1.31793
+      ]
+    },
+    {
+      "chord": 4,
+      "middle_mean": 3.889830508474576,
+      "high_mean": 4.491525423728813,
+      "difference_high_minus_middle": 0.601694915254237,
+      "roughness_middle": [
+        0.406522409439816,
+        0.325911025675447
+      ],
+      "roughness_high": [
+        0.25612866707219,
+        0.187830141110479
+      ],
+      "sharpness_middle": [
+        0.668715,
+        0.881439
+      ],
+      "sharpness_high": [
+        1.05368,
+        1.29227
+      ]
+    }
+  ],
+  "not_original_55_person_QC_sample": true
+}

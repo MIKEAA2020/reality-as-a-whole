@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 427,
-  "bytes": 5699678,
-  "line_count": 56426,
-  "document_count_with_risk_phrases": 399,
+  "document_count": 429,
+  "bytes": 5715364,
+  "line_count": 56511,
+  "document_count_with_risk_phrases": 401,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -144,6 +144,45 @@
         140,
         143,
         145
+      ]
+    },
+    {
+      "path": "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
+      "sha256": "13ef6e98fc270e33d072edb250dd13be60a73084f95e4c300a72df05e8ad3f45",
+      "bytes": 9575,
+      "lines": 57,
+      "title": "Acoustic mismatch, reported consonance and the experiential bridge",
+      "headings": [
+        "Acoustic mismatch, reported consonance and the experiential bridge",
+        "Result and scope",
+        "Source and operational distinction",
+        "Comparison and fixed-rule test",
+        "Source consistency issue worth checking",
+        "What would advance C3",
+        "Reproduction"
+      ],
+      "local_links": [
+        "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
+        "verification/register_roughness_heldout_gate.json"
+      ],
+      "risk_phrase_lines": [
+        35
+      ]
+    },
+    {
+      "path": "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
+      "sha256": "7cf5f1a1245756b0aa710cc7bb3b43fa7e542ef8399aa742753dde29e8368107",
+      "bytes": 4903,
+      "lines": 21,
+      "title": "Fixed retrospective test of an acoustic roughness-only rule",
+      "headings": [
+        "Fixed retrospective test of an acoustic roughness-only rule",
+        "Data and prediction",
+        "Frozen eligibility and statistics"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {
@@ -3565,9 +3604,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "50cccc1657cb2d682111ef8fc7302d2212e770d9ec873e002a869f41e4044f5e",
-      "bytes": 12414,
-      "lines": 55,
+      "sha256": "2fb8b63c3b45fe65f56c0f49e9af7ddb2a64268b52aa87adec2ff73274e19c9d",
+      "bytes": 12898,
+      "lines": 57,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3585,6 +3624,7 @@
         "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "QUANTUM_MEREOLOGY_STATE_STABILIZER_GATE.md",
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
+        "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3592,9 +3632,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        15,
-        32,
-        49
+        17,
+        34,
+        51
       ]
     },
     {
@@ -3700,9 +3740,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f0dba70fe8839f63af08b14285c17c15a9f54c5e3aabca310f0df757cdc7e16c",
-      "bytes": 101565,
-      "lines": 826,
+      "sha256": "2d4dd7bed8dd27ede7e8b47e55f6d1ddf76bad8e5a519b6569c976fcec624718",
+      "bytes": 102289,
+      "lines": 831,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3719,6 +3759,8 @@
         "verification/project_inventory.json",
         "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
+        "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
+        "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
         "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
@@ -3858,6 +3900,7 @@
         "INTERACTING_CLOCK_RATE.md",
         "INTERNAL_REFERENCE_EVENT.md",
         "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
+        "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -4300,6 +4343,7 @@
         "verification/integration_overlap.py",
         "verification/interacting_clock.py",
         "verification/internal_reference_event.py",
+        "verification/intrinsic_clock_phase_erasure_gate.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
         "verification/kent_final_record_toy_gate.py",
@@ -4374,6 +4418,7 @@
         "verification/random_audit_experience_bridge.py",
         "verification/recollapsing_gravitational_clock.py",
         "verification/refinement_acceptance_budget.py",
+        "verification/register_roughness_heldout_gate.py",
         "verification/relational_calibrated_readout.py",
         "verification/relational_constraint.py",
         "verification/relational_detector_initial_data.py",
@@ -4514,22 +4559,22 @@
       ],
       "risk_phrase_lines": [
         17,
-        29,
-        41,
-        45,
-        54,
-        110,
-        185,
-        228,
-        250,
-        297,
-        373,
-        387,
-        423,
-        432,
+        31,
+        43,
+        47,
+        56,
+        112,
+        188,
+        231,
+        253,
+        300,
+        376,
+        390,
+        426,
         435,
         438,
-        496
+        441,
+        499
       ]
     },
     {

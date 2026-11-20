@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 384 root Markdown documents including this register; 43 research Markdown documents.
-- 50 original uploaded files, including provenance metadata; 318 verification Python scripts.
+- 386 root Markdown documents including this register; 43 research Markdown documents.
+- 50 original uploaded files, including provenance metadata; 319 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -15,6 +15,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 
 - [ABSOLUTE_CONSTITUTION_FRAMEWORK.md](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) — The complete absolute: consolidated framework and implementation plan
 - [ABSOLUTE_PERSPECTIVES_SYNTHESIS.md](ABSOLUTE_PERSPECTIVES_SYNTHESIS.md) — Absolute, perspectives, and the zero-residue account: synthesis with the spherical WdW chain
+- [ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md](ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md) — Acoustic mismatch, reported consonance and the experiential bridge
+- [ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md](ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md) — Fixed retrospective test of an acoustic roughness-only rule
 - [ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md](ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md) — Actuality, interventions and Bell experiments
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
 - [AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md](AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md) — Fixed retrospective analysis: valence, expectation and social choice
@@ -686,6 +688,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/random_audit_experience_bridge.py](verification/random_audit_experience_bridge.py)
 - [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
 - [verification/refinement_acceptance_budget.py](verification/refinement_acceptance_budget.py)
+- [verification/register_roughness_heldout_gate.py](verification/register_roughness_heldout_gate.py)
 - [verification/relational_calibrated_readout.py](verification/relational_calibrated_readout.py)
 - [verification/relational_constraint.py](verification/relational_constraint.py)
 - [verification/relational_detector_initial_data.py](verification/relational_detector_initial_data.py)
