@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 433,
-  "bytes": 5751812,
-  "line_count": 56707,
-  "document_count_with_risk_phrases": 405,
+  "document_count": 434,
+  "bytes": 5763589,
+  "line_count": 56756,
+  "document_count_with_risk_phrases": 406,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3648,9 +3648,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b9981fc3773dfe630ee516a009c844c1ae9495834ab7197f20ae902fdbf6de09",
-      "bytes": 13885,
-      "lines": 61,
+      "sha256": "86d10ac36e867529ce55165a6e19b7fbcdc5362b459e16c1a46977900446a757",
+      "bytes": 14301,
+      "lines": 63,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3671,6 +3671,7 @@
         "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
         "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
         "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
+        "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md"
@@ -3678,9 +3679,9 @@
       "risk_phrase_lines": [
         5,
         9,
-        21,
-        38,
-        55
+        23,
+        40,
+        57
       ]
     },
     {
@@ -3786,9 +3787,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2a87ebe860cc1f5b8e8245d3c0bf7f39d5747d1178ed72b1dafe469aaef839e7",
-      "bytes": 103282,
-      "lines": 838,
+      "sha256": "69ce37d764ec0485331db1a361dcab756d15ca46df63286b856dac8358afda8c",
+      "bytes": 103534,
+      "lines": 840,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4178,6 +4179,7 @@
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "WEYL2_CONFORMAL_ANOMALY_CC.md",
+        "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
@@ -4285,6 +4287,7 @@
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md",
         "sources/uploads/take bostrom's simulation hypothesis as starting point. what.md",
+        "sources/uploads/williams2019.pdf",
         "verification/framework_battery.py",
         "verification/affect_choice_heldout.py",
         "verification/aspherical_quadrupole_loss.py",
@@ -4622,12 +4625,12 @@
         257,
         304,
         380,
-        394,
-        430,
-        439,
-        442,
-        445,
-        503
+        395,
+        431,
+        440,
+        443,
+        446,
+        504
       ]
     },
     {
@@ -13314,6 +13317,34 @@
         103,
         110,
         139
+      ]
+    },
+    {
+      "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
+      "sha256": "949272408179cb800b77ac9358a0c1525e6dead13f3b8493b78a07e8dfe114ea",
+      "bytes": 11109,
+      "lines": 45,
+      "title": "Effective realism, scale and the experiential candidate",
+      "headings": [
+        "Effective realism, scale and the experiential candidate",
+        "Source and result",
+        "Williams's argument",
+        "A common-domain transport obligation for E–L",
+        "Battery and next decisive test",
+        "Source-access limits"
+      ],
+      "local_links": [
+        "sources/uploads/williams2019.pdf",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        12,
+        29,
+        35
       ]
     },
     {

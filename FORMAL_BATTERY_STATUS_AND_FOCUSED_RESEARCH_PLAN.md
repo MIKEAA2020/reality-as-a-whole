@@ -14,6 +14,8 @@ The [pleasantness context and neural harmonicity gate](PLEASANTNESS_CONTEXT_AND_
 
 The [EEG baseline-deviation and valence gate](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) tests a training-label-independent scalp-power deviation on a third-party table claimed to derive from DREAMER, using subject-held-out and subject/film-disjoint splits. Original EEG and labels were not available to validate provenance, the statistic is not identified coupling frustration, and it does not improve the film-mean baseline in the subject-held-out comparison. B4–B5 and B10 remain open.
 
+The [Williams effective-realism audit](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md) adds a common-domain transport obligation for physical mismatch and subject outputs, distinguishing true redescriptions from different intervention horizons. The supplied paper supports carefully scoped effective ontology, not a subject or experiential bridge; the corresponding B4–B8 and B10 verdicts remain open.
+
 ## 1. Which battery?
 
 There are two different things in this repository:

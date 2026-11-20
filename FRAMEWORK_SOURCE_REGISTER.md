@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 390 root Markdown documents including this register; 43 research Markdown documents.
-- 50 original uploaded files, including provenance metadata; 322 verification Python scripts.
+- 391 root Markdown documents including this register; 43 research Markdown documents.
+- 51 original uploaded files, including provenance metadata; 322 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -388,6 +388,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md](WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md) — Weak coupling and partial observation: a subject-constitution gate
 - [WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md](WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md) — Weak histories, accessible records and plural perspectives
 - [WEYL2_CONFORMAL_ANOMALY_CC.md](WEYL2_CONFORMAL_ANOMALY_CC.md) — Conformal Anomaly, Weyl² Running, and the Low-Scale Cosmological Constant
+- [WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md) — Effective realism, scale and the experiential candidate
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
@@ -505,6 +506,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu-2.md)
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu.md)
 - [sources/uploads/take bostrom's simulation hypothesis as starting point. what.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20as%20starting%20point.%20what.md)
+- [sources/uploads/williams2019.pdf](sources/uploads/williams2019.pdf)
 
 ## Verification scripts
 
