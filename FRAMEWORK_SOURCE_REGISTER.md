@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 375 root Markdown documents including this register; 43 research Markdown documents.
-- 47 original uploaded files, including provenance metadata; 313 verification Python scripts.
+- 376 root Markdown documents including this register; 43 research Markdown documents.
+- 48 original uploaded files, including provenance metadata; 313 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -233,6 +233,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md](QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md) — Quantum position verification and financial dynamics: source assessment
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
+- [RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md](RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md) — Pain affect, sensory intensity and the experiential-misalignment proposal
 - [README.md](README.md) — Reality as a Whole
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
 - [RECOLLAPSING_GRAVITATIONAL_CLOCK.md](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) — A recollapsing Einstein–scalar clock and completed-event representations
@@ -476,6 +477,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/merker2007.pdf](sources/uploads/merker2007.pdf)
 - [sources/uploads/qftlocarx.txt](sources/uploads/qftlocarx.txt)
 - [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
+- [sources/uploads/rainville1997.pdf](sources/uploads/rainville1997.pdf)
 - [sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md](sources/uploads/review%2C%20evaluate%2C%20verify%20and%20audit%20this%20chat%2C%20steelmanning%20a.md)
 - [sources/uploads/russellian-absolute-discussion.md](sources/uploads/russellian-absolute-discussion.md)
 - [sources/uploads/s41467-021-27134-6.pdf](sources/uploads/s41467-021-27134-6.pdf)

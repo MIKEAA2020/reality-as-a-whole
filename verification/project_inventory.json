@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 418,
-  "bytes": 5582108,
-  "line_count": 55783,
-  "document_count_with_risk_phrases": 390,
+  "document_count": 419,
+  "bytes": 5595328,
+  "line_count": 55852,
+  "document_count_with_risk_phrases": 391,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3625,9 +3625,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4423bb9dc35230dcff33a51a32287e77306701bfe125ce48fb777c3271a1cc6c",
-      "bytes": 99583,
-      "lines": 811,
+      "sha256": "5067a7c5ed5abfa2d1eee0c2c9e70d1bd51ed862201c0a1f24804bb49102f492",
+      "bytes": 99823,
+      "lines": 813,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3862,6 +3862,7 @@
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
+        "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
         "README.md",
         "REALIZED_PROCESS_CANDIDATE.md",
         "RECOLLAPSING_GRAVITATIONAL_CLOCK.md",
@@ -4095,6 +4096,7 @@
         "sources/uploads/merker2007.pdf",
         "sources/uploads/qftlocarx.txt",
         "sources/uploads/quantum_position_verification_main.txt",
+        "sources/uploads/rainville1997.pdf",
         "sources/uploads/review, evaluate, verify and audit this chat, steelmanning a.md",
         "sources/uploads/russellian-absolute-discussion.md",
         "sources/uploads/s41467-021-27134-6.pdf",
@@ -4431,15 +4433,15 @@
         107,
         180,
         222,
-        242,
-        289,
-        365,
-        379,
-        415,
-        424,
-        427,
-        430,
-        485
+        243,
+        290,
+        366,
+        380,
+        416,
+        425,
+        428,
+        431,
+        487
       ]
     },
     {
@@ -4583,8 +4585,8 @@
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
-      "sha256": "a3daff4d8ae070d71e84364d9dafc6d2809d931d84d9d2b0d754f4153d2488a5",
-      "bytes": 16034,
+      "sha256": "f5143c7362efb57b6ebe5da340592fc6d16376cbcb65800667bf748bb2758de5",
+      "bytes": 16328,
       "lines": 104,
       "title": "Can intrinsic friction explain unpleasantness?",
       "headings": [
@@ -4599,7 +4601,8 @@
       ],
       "local_links": [
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
-        "verification/friction_conflict_audit.py"
+        "verification/friction_conflict_audit.py",
+        "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md"
       ],
       "risk_phrase_lines": [
         46,
@@ -5436,8 +5439,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "df3efbe350bac9c88525225273680283c0b018acf2c887ad8391fe316a0d8423",
-      "bytes": 17999,
+      "sha256": "7af73c7339e076a1b1373b53ffc7acd29d4db3837ad42441c659670989ac85b3",
+      "bytes": 18243,
       "lines": 115,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
@@ -5460,6 +5463,7 @@
         "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
@@ -6089,8 +6093,8 @@
     },
     {
       "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
-      "sha256": "e6bd84f1ee1c4c6f0186f613b20c56a6bcffde8589eb51820eabc4a61aeaa85b",
-      "bytes": 11462,
+      "sha256": "d7bef017f0129c1d083e7b4af5a8cff82207dcecb47e6058a8591ce59e201782",
+      "bytes": 11529,
       "lines": 67,
       "title": "Matched stimulus, reported unpleasantness and the missing bridge",
       "headings": [
@@ -6106,6 +6110,7 @@
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
         "verification/paingen_stimulus_only_valence_test.json"
       ],
       "risk_phrase_lines": [
@@ -8153,6 +8158,33 @@
         24,
         118,
         120
+      ]
+    },
+    {
+      "path": "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
+      "sha256": "6822fce8395e5cf6c110603ca22b3051c18d68540ae8ff1268256bcd280f7ca8",
+      "bytes": 12375,
+      "lines": 67,
+      "title": "Pain affect, sensory intensity and the experiential-misalignment proposal",
+      "headings": [
+        "Pain affect, sensory intensity and the experiential-misalignment proposal",
+        "Finding in brief",
+        "Source and reading scope",
+        "1. What was done",
+        "2. What the paper actually reports",
+        "3. What this means for the proposed bridge",
+        "4. What would discriminate the mismatch claim?",
+        "Battery status"
+      ],
+      "local_links": [
+        "sources/uploads/rainville1997.pdf",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        27,
+        31,
+        37,
+        47
       ]
     },
     {
