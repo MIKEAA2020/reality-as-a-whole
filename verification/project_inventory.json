@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 419,
-  "bytes": 5595328,
-  "line_count": 55852,
-  "document_count_with_risk_phrases": 391,
+  "document_count": 420,
+  "bytes": 5609786,
+  "line_count": 55906,
+  "document_count_with_risk_phrases": 392,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -572,6 +572,28 @@
         110,
         116,
         127
+      ]
+    },
+    {
+      "path": "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
+      "sha256": "1e8a77968f138abc0c5805b6fbb0d85af4084c26c4459c56a5e28779a4029fb9",
+      "bytes": 14426,
+      "lines": 54,
+      "title": "Placebo, nociception and pain: full-paper audit",
+      "headings": [
+        "Placebo, nociception and pain: full-paper audit",
+        "Source and scope",
+        "Design and analysis",
+        "Results and what they do—and do not—show",
+        "Peer-review and limitations",
+        "Consequences for the project"
+      ],
+      "local_links": [
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        43,
+        49
       ]
     },
     {
@@ -6093,8 +6115,8 @@
     },
     {
       "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
-      "sha256": "d7bef017f0129c1d083e7b4af5a8cff82207dcecb47e6058a8591ce59e201782",
-      "bytes": 11529,
+      "sha256": "0fc798e568f49192fc0cc026f0766a08e1581be91ec6b17a7381137e3fff5a01",
+      "bytes": 11561,
       "lines": 67,
       "title": "Matched stimulus, reported unpleasantness and the missing bridge",
       "headings": [
@@ -6110,6 +6132,7 @@
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
         "verification/paingen_stimulus_only_valence_test.json"
       ],
