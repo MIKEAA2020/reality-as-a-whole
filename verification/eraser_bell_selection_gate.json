@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "pure_marker_example": {
+    "overlap": "3/5",
+    "fringe_visibility": "3/5"
+  },
+  "quantum_family_cases": 21,
+  "example_v_3_over_5": {
+    "v": 0.6,
+    "conditional_visibility": 0.6,
+    "unconditional_visibility": 0,
+    "s_optimized": 2.3323807579381204,
+    "s_after_dephasing_same_settings": 1.7149858514250886
+  },
+  "lossy_local_model": {
+    "actual_table_rows": 32,
+    "hidden_variables_per_setting": 8,
+    "local_detection_efficiency_each": "1/2",
+    "coincidence_rate": "1/4",
+    "postselected_correlations": [
+      "1",
+      "1",
+      "1",
+      "-1"
+    ],
+    "postselected_CHSH": "4",
+    "postselected_marginals_balanced": true,
+    "all_trial_plus_fill_correlations": [
+      "1/2",
+      "1/2",
+      "1/2",
+      "0"
+    ],
+    "all_trial_plus_fill_CHSH": "3/2",
+    "preselection_setting_independence": true,
+    "setting_independence_after_coincidence": false,
+    "TV_to_uniform_reference_each": [
+      "3/4",
+      "3/4",
+      "3/4",
+      "3/4"
+    ],
+    "selection_TV_bound_checked": true,
+    "full_no_click_marginals_nonsignalling": true
+  },
+  "fixed_quantum_correlations_mimic": {
+    "rows": 1600,
+    "coincidence_rate_each_setting": "1/4",
+    "selected_correlations": [
+      "3/5",
+      "3/5",
+      "12/25",
+      "-12/25"
+    ],
+    "selected_CHSH": "54/25",
+    "balanced_marginals": true,
+    "matches_entire_quantum_joint_distribution_for_four_fixed_settings": true,
+    "scope": "local low-efficiency selection model; does not match no-click statistics or demonstrate fair-sampling Bell violation"
+  },
+  "scope": "finite model: no experiment, subject identification, metaphysical measure, general theorem or loophole-free data reanalysis"
+}

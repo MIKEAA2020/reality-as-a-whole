@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 385,
-  "bytes": 5093966,
-  "line_count": 52727,
-  "document_count_with_risk_phrases": 359,
+  "document_count": 386,
+  "bytes": 5109558,
+  "line_count": 52843,
+  "document_count_with_risk_phrases": 360,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2028,8 +2028,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "db19baf18c18a5246493bcb68a4a06c8136b533f493487b45c7648d277112b57",
-      "bytes": 27599,
+      "sha256": "480c6995b3762b24d630649daa85f5ab6df02d01d48f58fc07e6e11a02b2b597",
+      "bytes": 28040,
       "lines": 233,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2045,6 +2045,7 @@
       "local_links": [
         "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
         "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
+        "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
@@ -3317,9 +3318,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2881ad07100fe07fa3bac0e179de952c10e832b2879e493e6fc53a8ddf22b8eb",
-      "bytes": 89966,
-      "lines": 744,
+      "sha256": "685f14610f5739c9e060762731f3648e7f91882c19f5cf557c725e1707157d7b",
+      "bytes": 90336,
+      "lines": 747,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3639,6 +3640,7 @@
         "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
         "V4_FEF_ORIENTATION_GATE.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
+        "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "WDW_ANGULAR_COUPLING.md",
         "WDW_ANHARMONIC.md",
@@ -3741,6 +3743,7 @@
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
         "sources/uploads/decombination-export-provenance.json",
+        "sources/uploads/everything-is-a-wave.txt",
         "sources/uploads/four-criteria-whole-account-updated.md",
         "sources/uploads/four-criteria-whole-account.md",
         "sources/uploads/leibniz-monadology-latta.pdf",
@@ -4020,6 +4023,7 @@
         "verification/two_subject_reversible_selector.py",
         "verification/underground_collapse_scope.py",
         "verification/universal_subject_lf_tradeoff.py",
+        "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_free_spread_gate.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
@@ -4058,13 +4062,13 @@
         202,
         219,
         263,
-        332,
-        345,
-        381,
-        390,
-        393,
-        396,
-        444
+        333,
+        346,
+        382,
+        391,
+        394,
+        397,
+        446
       ]
     },
     {
@@ -7265,6 +7269,36 @@
         24,
         80,
         84
+      ]
+    },
+    {
+      "path": "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
+      "sha256": "2eb6c3d43032079ee5aff7115af8f5c44a97b03dcbefdd7615f5cfd834c3d9f3",
+      "bytes": 14563,
+      "lines": 113,
+      "title": "Quantum erasure, Bell correlations and selection of perspectives",
+      "headings": [
+        "Quantum erasure, Bell correlations and selection of perspectives",
+        "Purpose and result",
+        "1. Sources and reading scope",
+        "2. Interference and the eraser",
+        "3. The same state as a Bell benchmark",
+        "4. Perspective selection: an explicit diagnostic",
+        "5. Consequences for the whole-account",
+        "6. Reproducibility and next dependencies"
+      ],
+      "local_links": [
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+        "REVERSIBLE_FRIEND_RECORD_COMPLEMENTARITY.md",
+        "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+        "verification/eraser_bell_selection_gate.py",
+        "verification/eraser_bell_selection_gate.json"
+      ],
+      "risk_phrase_lines": [
+        61,
+        84,
+        111
       ]
     },
     {
@@ -11212,8 +11246,8 @@
     },
     {
       "path": "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
-      "sha256": "2a55fc0ae1a95e069c64e83c067dca31f230974f4b8a7b3082b7b3b1534a0a89",
-      "bytes": 10235,
+      "sha256": "089fcd866c7442a401eeb1d3b2942105988688d34053022c2e8e644dd6a71878",
+      "bytes": 10453,
       "lines": 56,
       "title": "Vedral's quantum-wave article: sources, conservation and perspective",
       "headings": [
@@ -11232,6 +11266,7 @@
         "verification/vedral_free_spread_gate.py",
         "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_energy_and_locality_gate.json",
+        "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
         "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md"
       ],

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3cc03521031ceeb95d876ae60adb47ecdb9c857e",
-  "file_count": 1252,
+  "base_head": "b1bc158944951272985aacaad1d2291a5ab5ee1f",
+  "file_count": 1255,
   "files": [
     {
       "path": ".gitattributes",
@@ -290,8 +290,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 27599,
-      "sha256": "db19baf18c18a5246493bcb68a4a06c8136b533f493487b45c7648d277112b57"
+      "bytes": 28040,
+      "sha256": "480c6995b3762b24d630649daa85f5ab6df02d01d48f58fc07e6e11a02b2b597"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -495,8 +495,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 90336,
-      "sha256": "685f14610f5739c9e060762731f3648e7f91882c19f5cf557c725e1707157d7b"
+      "bytes": 90601,
+      "sha256": "910dd0d99d6670946aa7ccbe578e72018590ac8e36c861fb82d4a3c105a94be9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -987,6 +987,11 @@
       "path": "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
       "bytes": 13862,
       "sha256": "fbab81cf691a4413bb15889cd4c54ba824095e62dd76a4a3d4217c2efb518426"
+    },
+    {
+      "path": "QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md",
+      "bytes": 14563,
+      "sha256": "2eb6c3d43032079ee5aff7115af8f5c44a97b03dcbefdd7615f5cfd834c3d9f3"
     },
     {
       "path": "QUANTUM_FIELD_RECORD_EMBEDDING.md",
@@ -1550,8 +1555,8 @@
     },
     {
       "path": "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
-      "bytes": 10235,
-      "sha256": "2a55fc0ae1a95e069c64e83c067dca31f230974f4b8a7b3082b7b3b1534a0a89"
+      "bytes": 10453,
+      "sha256": "089fcd866c7442a401eeb1d3b2942105988688d34053022c2e8e644dd6a71878"
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -3689,6 +3694,16 @@
       "sha256": "592dceb65f4581b7929974efd360cc6dd2b350cd06c7eb7f63c6d978fc64414f"
     },
     {
+      "path": "verification/eraser_bell_selection_gate.json",
+      "bytes": 1723,
+      "sha256": "19ff6a08d8239eab6f9e3a3cd3088dcb62fee329c320430c4f521676d9f5e9c5"
+    },
+    {
+      "path": "verification/eraser_bell_selection_gate.py",
+      "bytes": 8586,
+      "sha256": "6328c305f747e82b28f6ecaacdff75cefcee5400083a185c969b5f97e6f3a130"
+    },
+    {
       "path": "verification/experience_collapse_identifiability.json",
       "bytes": 1251,
       "sha256": "33e54661946c88f686e1ce9373dde6686686d9fdf224d5fefc81a1a895af537b"
@@ -4670,8 +4685,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 487675,
-      "sha256": "2f9fb91e9fbc3c488ed72987d8951d1af0d08c455159e4cd3696352c85de3de8"
+      "bytes": 489115,
+      "sha256": "f5ee80466f76a84d1ebbd082dcb1a039e0fad70af6ef52fe430c99c86ddd2eef"
     },
     {
       "path": "verification/project_inventory.py",

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 342 root Markdown documents including this register; 43 research Markdown documents.
-- 41 original uploaded files, including provenance metadata; 288 verification Python scripts.
+- 343 root Markdown documents including this register; 43 research Markdown documents.
+- 41 original uploaded files, including provenance metadata; 289 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -206,6 +206,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
 - [QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md](QUANTUM_AGREEMENT_OPTIMAL_ROBUSTNESS_AND_Q1.md) — Optimal symmetric agreement stability and the Q1 boundary
 - [QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md](QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md) — Quantum agreement, disagreement and plural perspectives
+- [QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md](QUANTUM_ERASER_BELL_AND_SELECTION_MEASURE_GATE.md) — Quantum erasure, Bell correlations and selection of perspectives
 - [QUANTUM_FIELD_RECORD_EMBEDDING.md](QUANTUM_FIELD_RECORD_EMBEDDING.md) — Quantum field readout: an explicit but gravity-limited embedding
 - [QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md](QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md) — Quantum position verification and financial dynamics: source assessment
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
@@ -500,6 +501,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_constrained_instrument_bound.py](verification/energy_constrained_instrument_bound.py)
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
 - [verification/equilibrium_mismatch_coarse_graining.py](verification/equilibrium_mismatch_coarse_graining.py)
+- [verification/eraser_bell_selection_gate.py](verification/eraser_bell_selection_gate.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
