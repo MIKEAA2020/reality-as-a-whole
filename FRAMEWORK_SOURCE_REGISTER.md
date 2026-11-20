@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 363 root Markdown documents including this register; 43 research Markdown documents.
-- 46 original uploaded files, including provenance metadata; 304 verification Python scripts.
+- 364 root Markdown documents including this register; 43 research Markdown documents.
+- 46 original uploaded files, including provenance metadata; 305 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -64,6 +64,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CONTEXTUAL_DISCLOSURE_CONSTITUTION.md](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) — Contextual disclosure: a worked quantum constitution of record scope
 - [CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md](CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md) — Contextual plenitude and the identity of records
 - [CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md](CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md) — A contextual comparison construction for one universal subject
+- [CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md](CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md) — When does regulating variation actually help?
 - [CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) — Complete cutoff-to-continuum instrument: a restricted common-space result
 - [CORRELATED_PUMP_CERTIFICATION.md](CORRELATED_PUMP_CERTIFICATION.md) — Correlated finite sources: a complete-instrument robustness theorem
 - [COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md](COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md) — Cosmological collapse: what selecting λ does and does not establish
@@ -509,6 +510,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
+- [verification/context_gated_variability_gate.py](verification/context_gated_variability_gate.py)
 - [verification/context_horizon_robustness.py](verification/context_horizon_robustness.py)
 - [verification/contextual_disclosure.py](verification/contextual_disclosure.py)
 - [verification/contextual_plenitude_record_gate.py](verification/contextual_plenitude_record_gate.py)

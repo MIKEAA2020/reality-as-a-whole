@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 406,
-  "bytes": 5405626,
-  "line_count": 54767,
-  "document_count_with_risk_phrases": 378,
+  "document_count": 407,
+  "bytes": 5421051,
+  "line_count": 54876,
+  "document_count_with_risk_phrases": 379,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1879,6 +1879,37 @@
       ]
     },
     {
+      "path": "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
+      "sha256": "11013891e869ab83ddf1300b187bd19ab4fa7bb915eb4e4167085b9c6d660070",
+      "bytes": 14772,
+      "lines": 105,
+      "title": "When does regulating variation actually help?",
+      "headings": [
+        "When does regulating variation actually help?",
+        "Result and place in the framework",
+        "1. Known work and what we add",
+        "2. One explicit causal comparison",
+        "3. Imperfect state information: a transparent numerical case",
+        "4. A counterexample to inferring the gated effect from separate summaries",
+        "5. Test contract and decision rules",
+        "6. The experience and plurality gap"
+      ],
+      "local_links": [
+        "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "verification/context_gated_variability_gate.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        32,
+        36,
+        78,
+        105
+      ]
+    },
+    {
       "path": "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
       "sha256": "9320ffcd54c26925c1371f975d5c4455e3b8722c0aceacc13a1d00aee007fb3f",
       "bytes": 11854,
@@ -2135,8 +2166,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "ae15e037f5d074c18cba5865b84da09732ac7f219837405e9c0c4b4df4f5d539",
-      "bytes": 36392,
+      "sha256": "262d3a911e68def62d9060715438fd8c48854ccdce28a0a751ad63d893900248",
+      "bytes": 36484,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2151,6 +2182,7 @@
       ],
       "local_links": [
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
+        "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "QUANTUM_INFORMATION_MUSIC_AND_SEVERE_VENTRICULOMEGALY_AUDIT.md",
@@ -2256,9 +2288,9 @@
     },
     {
       "path": "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
-      "sha256": "917ac95b299968079716cbbfd110eb7a8666c69d3d929710604ea7adc07c827f",
-      "bytes": 20599,
-      "lines": 82,
+      "sha256": "db5a277caabb10e20410744745788e62d016ec82880f0c06481be7745795cf2d",
+      "bytes": 20894,
+      "lines": 84,
       "title": "Denis Noble on order, disorder and experience",
       "headings": [
         "Denis Noble on order, disorder and experience",
@@ -2275,12 +2307,14 @@
         "verification/noble_symmetry_selection_gate.json",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md"
       ],
       "risk_phrase_lines": [
         15,
         23,
-        77
+        63,
+        79
       ]
     },
     {
@@ -3528,9 +3562,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5582e5f389d96f8d6ed77078dfa0aa750e86719df5916c0dcb17afc8e1292a83",
-      "bytes": 96397,
-      "lines": 789,
+      "sha256": "9b4a6ad59be80813e3d409def592870ce16e850f6c2b5d8225b5975934c4b792",
+      "bytes": 96663,
+      "lines": 791,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3596,6 +3630,7 @@
         "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
         "CONTEXTUAL_PLENITUDE_AND_RECORD_IDENTITY_GATE.md",
         "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
+        "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "CORRELATED_PUMP_CERTIFICATION.md",
         "COSMOLOGICAL_COLLAPSE_CLASSICALITY_GATE.md",
@@ -4027,6 +4062,7 @@
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
         "verification/consumer_coverage_identifiability.py",
+        "verification/context_gated_variability_gate.py",
         "verification/context_horizon_robustness.py",
         "verification/contextual_disclosure.py",
         "verification/contextual_plenitude_record_gate.py",
@@ -4309,18 +4345,18 @@
         38,
         42,
         51,
-        105,
-        175,
-        214,
-        234,
-        279,
-        353,
-        367,
-        403,
-        412,
-        415,
-        418,
-        472
+        106,
+        176,
+        215,
+        235,
+        280,
+        354,
+        368,
+        404,
+        413,
+        416,
+        419,
+        473
       ]
     },
     {

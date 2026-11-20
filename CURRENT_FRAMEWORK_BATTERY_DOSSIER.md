@@ -6,7 +6,7 @@ This framework proposes that reality is a single self-sufficient, necessarily ac
 
 The proposal is intended to explain reality without unexplained external ingredients while taking experience, suffering and the non-optimality of our universe seriously. It is **not yet a completed explanation**. The necessity and detailed constitution of the whole, the individuation of subjects, the qualities of experience, the recovery of physics and the appropriate probability measure remain to be established. The framework distinguishes what it assumes, what follows conditionally, what its models illustrate and what must still be explained.
 
-The [Noble order–disorder audit](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) adds a disciplined test of regulated variation while separating biological function from experiential constitution. It establishes neither a physical order–disorder symmetry nor consciousness in any substrate.
+The [Noble order–disorder audit](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) and [context-gated variability analysis](CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md) make regulated-variation claims testable while separating biological function from experiential constitution. They establish neither a physical order–disorder symmetry nor consciousness in any substrate.
 
 ## 1. What the framework represents
 

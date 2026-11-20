@@ -1,6 +1,6 @@
 {
   "status": "all_selected_scripts_exited_zero",
-  "count": 34,
+  "count": 35,
   "scope": "Regression checks for selected finite models only. No pass/fail judgment on the full philosophical framework, factual truth of assumptions, human consciousness, empirical claims, or quantum gravity. Script exit codes are not independent verification of their claims. Historical closure-claim aggregators intentionally excluded.",
   "results": [
     {
@@ -102,6 +102,12 @@
     {
       "name": "noble_symmetry_selection",
       "script": "verification/noble_symmetry_selection_gate.py",
+      "result": "passed",
+      "exit_code": 0
+    },
+    {
+      "name": "context_gated_variability",
+      "script": "verification/context_gated_variability_gate.py",
       "result": "passed",
       "exit_code": 0
     },

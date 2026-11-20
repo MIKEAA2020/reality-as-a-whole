@@ -1,0 +1,62 @@
+{
+  "scope": "Exact finite allocation arithmetic only; not empirical biology or consciousness.",
+  "grid_checks": 78125,
+  "formula": "gain = w0*w1*(p0-p1)*(delta0-delta1)",
+  "symmetric_marker_example": [
+    {
+      "marker_error": "0",
+      "budget": "1/2",
+      "fixed": "1/2",
+      "gated": "3/4",
+      "gain": "1/4"
+    },
+    {
+      "marker_error": "1/4",
+      "budget": "1/2",
+      "fixed": "1/2",
+      "gated": "5/8",
+      "gain": "1/8"
+    },
+    {
+      "marker_error": "1/2",
+      "budget": "1/2",
+      "fixed": "1/2",
+      "gated": "1/2",
+      "gain": "0"
+    },
+    {
+      "marker_error": "3/4",
+      "budget": "1/2",
+      "fixed": "1/2",
+      "gated": "3/8",
+      "gain": "-1/8"
+    },
+    {
+      "marker_error": "1",
+      "budget": "1/2",
+      "fixed": "1/2",
+      "gated": "1/4",
+      "gain": "-1/4"
+    }
+  ],
+  "shifted_population": {
+    "w0": "3/4",
+    "w1": "1/4",
+    "budget": "5/8",
+    "fixed": "21/32",
+    "gated": "3/4",
+    "gain": "3/32"
+  },
+  "marker_direct_effect_counterexample": {
+    "apparent_effect_in_e0": "1/4",
+    "apparent_effect_in_e1": "-1/4",
+    "true_effect_modification_by_E_at_fixed_M": "0",
+    "e_only_model_gated": "9/16",
+    "marker_model_gated": "3/4",
+    "fixed_in_both": "1/2",
+    "e0_a1_joint_m0_y1": [
+      "9/16",
+      "3/4"
+    ]
+  }
+}

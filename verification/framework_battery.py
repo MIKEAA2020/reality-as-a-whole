@@ -29,6 +29,7 @@ TESTS = [
     ('bell_preparation_correlator', 'verification/bell_preparation_correlation_gate.py'),
     ('ur_spinor_classical_control', 'verification/ur_spinor_classical_control_gate.py'),
     ('noble_symmetry_selection', 'verification/noble_symmetry_selection_gate.py'),
+    ('context_gated_variability', 'verification/context_gated_variability_gate.py'),
     ('timeless_whole_location', 'verification/timeless_whole_location_gate.py'),
     ('friend_record_tradeoff', 'verification/reversible_friend_record_tradeoff.py'),
     ('collapse_identifiability', 'verification/experience_collapse_identifiability.py'),
