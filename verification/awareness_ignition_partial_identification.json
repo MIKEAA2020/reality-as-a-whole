@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "uncalibrated_same_joint_observed": true,
+  "world_1_awareness_and_conditional_event": [
+    "4/5",
+    "1/4"
+  ],
+  "world_2_awareness_and_conditional_event": [
+    "1/5",
+    "1"
+  ],
+  "illustrative_proxy_positive": "41/50",
+  "specificity_lower": "19/20",
+  "neural_sensitivity_lower": "9/10",
+  "readout_positive": "1/5",
+  "awareness_lower": "77/95",
+  "conditional_event_upper": "190/693",
+  "bound_is_sharp_for_these_margins": true,
+  "rational_grid_cases": 40000,
+  "scope": "hypothetical binary model; no observed COGITATE trial rates or calibrated phenomenal assay"
+}

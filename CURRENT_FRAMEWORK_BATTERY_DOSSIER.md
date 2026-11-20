@@ -222,6 +222,8 @@ Subject constitution must also be invariant under genuine redescriptions of a ph
 
 A [subject-weight and no-signalling gate](SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md) shows that a particular remote-outcome-weighted reference class would signal if its probabilities were also unconditionally accessible local record frequencies; the same mathematical distribution as ordinary postselection does not signal. A [history-weight consistency gate](HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md) shows that fair single-record marginals can coexist with correlated record sequences, and that consistent finite-horizon weights need not arise from a single integrable density on a fixed infinite-history reference measure. These conditional restrictions neither select a general measure nor constitute subjects.
 
+An [awareness-calibration gate](AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md) engages the disputed COGITATE offset prediction: a null neural result can constrain an awareness-conditional claim if experience prevalence and detection sensitivity have justified lower bounds, but the toy numbers are not COGITATE results and no calibrated experiential assay is established.
+
 Until these obligations are met, the proposal is a **research framework, not a demonstrated complete or zero-residue theory**. Its assumptions are not conclusions, and finite illustrative models are not evidence that the universe or its subjects have the structures stipulated in those models.
 
 ## References

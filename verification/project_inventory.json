@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 390,
-  "bytes": 5165501,
-  "line_count": 53331,
-  "document_count_with_risk_phrases": 364,
+  "document_count": 391,
+  "bytes": 5181422,
+  "line_count": 53459,
+  "document_count_with_risk_phrases": 365,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -379,6 +379,34 @@
       "risk_phrase_lines": [
         13,
         27
+      ]
+    },
+    {
+      "path": "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
+      "sha256": "f2ca59259903884437b3136b705b70390dfd9a66e276962ea18b7a280876ae1f",
+      "bytes": 15260,
+      "lines": 124,
+      "title": "Awareness calibration and the offset-ignition dispute",
+      "headings": [
+        "Awareness calibration and the offset-ignition dispute",
+        "Result",
+        "1. The primary result and the dispute",
+        "2. A minimal conditional model",
+        "3. Turn the awareness objection into a quantitative test",
+        "4. What a real test would have to establish",
+        "5. Implications for the whole-account",
+        "Sources and access limits"
+      ],
+      "local_links": [
+        "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
+        "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
+        "verification/awareness_ignition_partial_identification.py",
+        "verification/awareness_ignition_partial_identification.json"
+      ],
+      "risk_phrase_lines": [
+        19,
+        95,
+        124
       ]
     },
     {
@@ -2057,9 +2085,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "d629773e62a1433a103b2b524394890095313c4e721b133dc28d92289bf1a0d9",
-      "bytes": 29241,
-      "lines": 235,
+      "sha256": "41f7179e67989ae8ba237d09c59f6a463cb141abe18bf9cfa9a7d02edddf0285",
+      "bytes": 29618,
+      "lines": 237,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -2088,13 +2116,14 @@
         "TIMELESS_CLASS_OPERATORS_DECOHERENCE_AND_JOINT_EVENTS.md",
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
         "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
+        "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
         15,
         99,
         197,
-        225
+        227
       ]
     },
     {
@@ -3351,9 +3380,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "66675a2d5070679696a7fe0202bcf58ab77b6292e7a4705f5dee65da3d50d3e3",
-      "bytes": 91715,
-      "lines": 757,
+      "sha256": "154e7647f75061d33562aa0b341774da1faeb6781765d754e97647a7fd743354",
+      "bytes": 91999,
+      "lines": 759,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -3378,6 +3407,7 @@
         "AUTONOMOUS_RECORD_TAPE.md",
         "AUTONOMOUS_STOP_CLOCK.md",
         "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
+        "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
         "AXIARCHIC_BRIDGE_AUDIT.md",
         "AXIARCHIC_CONSTITUTION_CANDIDATE.md",
         "AXIOLOGY_STATUS.md",
@@ -3805,6 +3835,7 @@
         "verification/autonomous_record_tape.py",
         "verification/autonomous_stop_clock.py",
         "verification/auxiliary_representation_subject_gate.py",
+        "verification/awareness_ignition_partial_identification.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/boundary_cut_workspace.py",
         "verification/bowling_pairwise_transfer_audit.py",
@@ -4096,22 +4127,22 @@
       ],
       "risk_phrase_lines": [
         17,
-        26,
-        36,
-        40,
-        49,
-        99,
-        167,
-        205,
-        223,
-        267,
-        338,
-        351,
-        387,
-        396,
-        399,
-        402,
-        451
+        27,
+        37,
+        41,
+        50,
+        100,
+        168,
+        206,
+        224,
+        268,
+        339,
+        352,
+        388,
+        397,
+        400,
+        403,
+        452
       ]
     },
     {

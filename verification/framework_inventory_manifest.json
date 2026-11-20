@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8635e083ee62cf9a7e83ac4802824c8c566e4020",
-  "file_count": 1267,
+  "base_head": "be56480313e77ebdfccfd56932edcc0ba9ee3552",
+  "file_count": 1270,
   "files": [
     {
       "path": ".gitattributes",
@@ -62,6 +62,11 @@
       "path": "AUXILIARY_VARIABLES_AND_EXPERIENTIAL_GROUND.md",
       "bytes": 6114,
       "sha256": "8acd44f59e64e5c922a076e5c94a1c6e14384747653556a9872ab622cfb69f36"
+    },
+    {
+      "path": "AWARENESS_CALIBRATION_AND_COGITATE_OFFSET_GATE.md",
+      "bytes": 15260,
+      "sha256": "f2ca59259903884437b3136b705b70390dfd9a66e276962ea18b7a280876ae1f"
     },
     {
       "path": "AXIARCHIC_BRIDGE_AUDIT.md",
@@ -295,8 +300,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 29241,
-      "sha256": "d629773e62a1433a103b2b524394890095313c4e721b133dc28d92289bf1a0d9"
+      "bytes": 29618,
+      "sha256": "41f7179e67989ae8ba237d09c59f6a463cb141abe18bf9cfa9a7d02edddf0285"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -500,8 +505,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 91715,
-      "sha256": "66675a2d5070679696a7fe0202bcf58ab77b6292e7a4705f5dee65da3d50d3e3"
+      "bytes": 91999,
+      "sha256": "154e7647f75061d33562aa0b341774da1faeb6781765d754e97647a7fd743354"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3304,6 +3309,16 @@
       "sha256": "0bd6d69f3546e81f9f8a585fa56e290fb4b78e686f83f63c83e1820473c0cd8a"
     },
     {
+      "path": "verification/awareness_ignition_partial_identification.json",
+      "bytes": 605,
+      "sha256": "2bf806f6984b532e1fd050c943732f41e6b07ef3c3413f8f8e99a97af1b01f36"
+    },
+    {
+      "path": "verification/awareness_ignition_partial_identification.py",
+      "bytes": 3107,
+      "sha256": "68ecbcf8482fcf79a672f2e101201151eaaa92e70c808ea66f5fd8d4de06321b"
+    },
+    {
       "path": "verification/bekir_split_brain_public_data_audit.json",
       "bytes": 2083,
       "sha256": "a73c12a2be3b4d08a7140180f544b0a8fdde9a6ba9199078e1aa646f53d64992"
@@ -3895,13 +3910,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 4195,
-      "sha256": "780ae9249a312125f42580e0d89b57d4c4a7d46d17cb053ca1f5a9c625e03113"
+      "bytes": 4380,
+      "sha256": "202b5cd561ae2e7213498a6d467b2e8ca0aab70d2ef57848ed441d2cb7665048"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 3869,
-      "sha256": "70098aba41dc4fc1fd44155e6bd04d1f8cfb9b6c081bb7e6444c81921c1e46fb"
+      "bytes": 3970,
+      "sha256": "ff5cd8fee07ca2a34402393a14a9de9e99a7973aa1c8eeced4793e4250511fe6"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4745,8 +4760,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 494686,
-      "sha256": "de30f497cd17df9b94aaa221bf30a492f622457ce4a5e4c404390972b50ed7ec"
+      "bytes": 495905,
+      "sha256": "7eca3fac8e6b70d8fae1a821f54dc317f85c982a3c12786ef4c519d788c6ee5b"
     },
     {
       "path": "verification/project_inventory.py",
