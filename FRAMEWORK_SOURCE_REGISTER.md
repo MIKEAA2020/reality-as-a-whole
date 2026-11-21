@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 488 root Markdown documents including this register; 43 research Markdown documents.
+- 490 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -220,6 +220,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation
 - [LOCALIZED_CONSTRAINT_CLOCK.md](LOCALIZED_CONSTRAINT_CLOCK.md) — A localized finite clock and the spatial constraint algebra
 - [LOCALIZED_PREPARATION_CRITERION.md](LOCALIZED_PREPARATION_CRITERION.md) — Localized preparation: the complete complementary-state criterion
+- [LOCAL_NET_CLASSICAL_SUBJECT_BRIDGE_FIXED_PLAN.md](LOCAL_NET_CLASSICAL_SUBJECT_BRIDGE_FIXED_PLAN.md) — Fixed plan: local quantum instruments and classical subject selectors
+- [LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md](LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md) — A local quantum instrument is not automatically a classical subject substrate
 - [LOCAL_PREPARATION_AND_ACCESS.md](LOCAL_PREPARATION_AND_ACCESS.md) — Local cyclicity, conditional preparation and the cost of access
 - [LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md](LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md) — Local field probe: complete-order bound and an energy accounting gate
 - [MAINTAINED_DISCLOSURE_CANDIDATE.md](MAINTAINED_DISCLOSURE_CANDIDATE.md) — Maintained disclosure: frozen candidate and separating contrast

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [local-net classical-substrate bridge](LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md) shows that one existing quantum measurement bit is not a closed preparation-independent state for a specified sequential protocol, while the complete protocol is translation-covariant. The result is not a universal classical-model or IIT no-go; no incidence, quality or substantive battery gate is thereby resolved.
+
 The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) distinguishes excitation counts from physical objects and subjects, checks the paper's continuum and localization claims, and sharpens the requirement to transport candidate supports and interventions under actual redescriptions. It does not establish a field ontology or resolve experiential constitution.
 
 The [IIT 4.0 exclusion and private-fields audit](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) identifies a principled non-overlap rival to P, while separating individual experiential definiteness from the additional maximal-existence competition rule. No IIT calculation has been performed on the spin toy; subject incidence, quality and the substantive gates remain open.

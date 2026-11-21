@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 531,
-  "bytes": 6807216,
-  "line_count": 62559,
-  "document_count_with_risk_phrases": 497,
+  "document_count": 533,
+  "bytes": 6824946,
+  "line_count": 62687,
+  "document_count_with_risk_phrases": 499,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -861,9 +861,9 @@
     },
     {
       "path": "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
-      "sha256": "a3ab96ecd3ba8ff095a762c7f20cae1230d955a9b6329c354bea93db21458d29",
-      "bytes": 19699,
-      "lines": 85,
+      "sha256": "ecd51f3bf432a2a3b93d4570bbcfb141c8d4186408fd4fbd12946aa108dc7b79",
+      "bytes": 20149,
+      "lines": 87,
       "title": "Bigaj on field quanta: what counts, what exists, and what the project owes",
       "headings": [
         "Bigaj on field quanta: what counts, what exists, and what the project owes",
@@ -876,10 +876,12 @@
         "5. Consequences for existing results"
       ],
       "local_links": [
+        "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
         "MODULAR_LOCAL_NET.md",
+        "LOCAL_PREPARATION_AND_ACCESS.md",
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
@@ -887,11 +889,11 @@
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        17,
         19,
         21,
-        55,
-        73
+        23,
+        57,
+        75
       ]
     },
     {
@@ -4383,9 +4385,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "82b9a43e93ebf34a86f6f9742511e59fa55f8d6e0ea5d14d19d996c89ebf2ed3",
-      "bytes": 41195,
-      "lines": 165,
+      "sha256": "6462f524babd76ade65ace91db9c2783472704bebb5c41fc08908c28d1af59a5",
+      "bytes": 41604,
+      "lines": 167,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4397,6 +4399,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
@@ -4471,24 +4474,25 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        21,
+        5,
         23,
-        27,
-        37,
-        41,
-        47,
+        25,
+        29,
+        39,
+        43,
         49,
-        63,
-        67,
-        79,
-        87,
+        51,
+        65,
+        69,
+        81,
         89,
-        93,
-        109,
-        119,
-        136,
-        153,
-        159
+        91,
+        95,
+        111,
+        121,
+        138,
+        155,
+        161
       ]
     },
     {
@@ -4667,9 +4671,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "085007da92913408142a8a0b3f6eb449377d47c6276abeac79c4061fe1a61262",
-      "bytes": 130105,
-      "lines": 1031,
+      "sha256": "a337804c0f670d685fb62b30dc2d848c1474aff6ec99631eca2868f64d6568ec",
+      "bytes": 130465,
+      "lines": 1033,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4891,6 +4895,8 @@
         "LINEARIZED_SPHERICAL_RECORD.md",
         "LOCALIZED_CONSTRAINT_CLOCK.md",
         "LOCALIZED_PREPARATION_CRITERION.md",
+        "LOCAL_NET_CLASSICAL_SUBJECT_BRIDGE_FIXED_PLAN.md",
+        "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "LOCAL_PREPARATION_AND_ACCESS.md",
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
@@ -5692,18 +5698,18 @@
         69,
         139,
         191,
-        244,
-        273,
-        318,
-        343,
-        390,
-        477,
-        492,
-        528,
-        537,
-        540,
-        543,
-        607
+        246,
+        275,
+        320,
+        345,
+        392,
+        479,
+        494,
+        530,
+        539,
+        542,
+        545,
+        609
       ]
     },
     {
@@ -6476,9 +6482,9 @@
     },
     {
       "path": "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
-      "sha256": "960e94a114d6f1ca02497c52589eb34728fa0453432704cb4181d184c02ff014",
-      "bytes": 19477,
-      "lines": 71,
+      "sha256": "96855b086508f395bf538b71bccb4643f859d758a245cf2fa2200b40399571d9",
+      "bytes": 19745,
+      "lines": 73,
       "title": "IIT 4.0 exclusion versus private nested subjects",
       "headings": [
         "IIT 4.0 exclusion versus private nested subjects",
@@ -6491,6 +6497,7 @@
         "6. What could discriminate, and what cannot"
       ],
       "local_links": [
+        "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md",
         "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
@@ -6500,10 +6507,10 @@
         "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
-        23,
-        35
+        9,
+        15,
+        25,
+        37
       ]
     },
     {
@@ -7830,6 +7837,53 @@
       ]
     },
     {
+      "path": "LOCAL_NET_CLASSICAL_SUBJECT_BRIDGE_FIXED_PLAN.md",
+      "sha256": "9b03b9ac42f46be6052f2dc276ab975300bb3c5aabb93b8ebdecc88f0157da89",
+      "bytes": 2760,
+      "lines": 13,
+      "title": "Fixed plan: local quantum instruments and classical subject selectors",
+      "headings": [
+        "Fixed plan: local quantum instruments and classical subject selectors",
+        "Prior knowledge and timing",
+        "Plan"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        10
+      ]
+    },
+    {
+      "path": "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
+      "sha256": "004849ab26c77fa18c8d34e425a9cf29c356c7504cf91c04c8a85fcf52425cfb",
+      "bytes": 13243,
+      "lines": 107,
+      "title": "A local quantum instrument is not automatically a classical subject substrate",
+      "headings": [
+        "A local quantum instrument is not automatically a classical subject substrate",
+        "Result",
+        "1. Existing model and precise question",
+        "2. Exact sequential comparison",
+        "3. What follows—and what does not",
+        "4. Positive control: translate the entire operational protocol",
+        "5. The bridge that would actually be needed",
+        "Status"
+      ],
+      "local_links": [
+        "MODULAR_LOCAL_NET.md",
+        "LOCAL_NET_CLASSICAL_SUBJECT_BRIDGE_FIXED_PLAN.md",
+        "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
+        "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        32,
+        70,
+        101,
+        103,
+        107
+      ]
+    },
+    {
       "path": "LOCAL_PREPARATION_AND_ACCESS.md",
       "sha256": "ad552a602fca7ed00727f2333923b070c9e5a7903cbea00a5026febbaf754754",
       "bytes": 11265,
@@ -8195,8 +8249,8 @@
     },
     {
       "path": "MODULAR_LOCAL_NET.md",
-      "sha256": "343946b767c7e2329d2496bd3613873540ea0401be8d06af68731985e1975607",
-      "bytes": 13028,
+      "sha256": "ac71ba3331b0816506ded76cdaccc64ba8cff6fb7ec2eddf1b1cf5ea2442d4d0",
+      "bytes": 13268,
       "lines": 195,
       "title": "Localization, transport and records in one modular construction",
       "headings": [
@@ -8211,6 +8265,7 @@
       ],
       "local_links": [
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
+        "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "MODULAR_CLOCK_SELECTION.md",
         "verification/modular_local_net.py",
         "verification/modular_local_net.json",

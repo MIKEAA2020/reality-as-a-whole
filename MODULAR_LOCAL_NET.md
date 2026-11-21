@@ -1,6 +1,6 @@
 # Localization, transport and records in one modular construction
 
-**Interpretive follow-up:** The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) distinguishes the conditional Fock and local-algebra construction here from any claim that its modes are fundamental objects or subjects.
+**Interpretive follow-up:** The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) distinguishes the conditional Fock and local-algebra construction here from any claim that its modes are fundamental objects or subjects. The [local-net classical-substrate bridge](LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md) uses this report's actual instrument to exhibit a preparation-dependent conditional outcome, and checks covariance of the full translated protocol.
 
 ## 1. Constructive result and scope
 

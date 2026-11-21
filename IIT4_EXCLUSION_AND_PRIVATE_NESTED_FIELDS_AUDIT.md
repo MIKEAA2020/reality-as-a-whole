@@ -2,6 +2,8 @@
 
 ## Verdict
 
+Follow-up: the [local-net classical-substrate bridge](LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md) tests a particular quantum measurement record for effective-state closure. Its failure is not a refutation of IIT, which does not require that record to be a unit.
+
 IIT 4.0 supplies a substantive, independently motivated competitor to the private nested-fields proposal P: for a specified physical universe and grain, it selects non-overlapping maximal complexes, rather than granting a separate experience to every overlapping irreducible candidate. Its motivation is not merely a preference for the largest object: the authors seek a definite, irreducible substrate **from the perspective of the entity**, governed by a maximal-existence principle. They also propose that the experience *is* the complex's structured cause–effect power, not a numerical phi score.
 
 But the claim that **each experience is definite** does not, by itself, logically exclude two distinct, definite experiences with overlapping physical supports. IIT's exclusion conclusion needs its further physical translation, its competition rule for overlapping systems, and its claim that this rule uniquely determines intrinsic existence. P rejects that competition rule while leaving its own incidence and quality rules largely unexplained. Neither the description of P nor this logical distinction shows that P is metaphysically or physically possible. IIT's coherent alternative is a challenge to P, not a calculation that the four-spin toy selects either pairs or whole.

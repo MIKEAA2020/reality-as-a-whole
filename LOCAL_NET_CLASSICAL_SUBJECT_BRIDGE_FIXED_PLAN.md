@@ -1,0 +1,13 @@
+# Fixed plan: local quantum instruments and classical subject selectors
+
+## Prior knowledge and timing
+
+After reading the project's IIT, Bigaj, causal-subject and modular-local-net reports, and before writing the audit, the available ingredients are known: a Weyl-local net, a two-outcome recorded instrument, explicit compact smears with nonzero symplectic phase, and the separate assumptions of IIT's discrete interventional model. The following protocol idea was already conceived before this plan: compare the same coarse local outcome for opposite Weyl preparations and examine whether a later identical local operation can reveal information the outcome omitted. This is a retrospective diagnostic, not a preregistered empirical study.
+
+## Plan
+
+1. Use the existing local algebra, specific smears, normalized instrument and unitary displacement—not a newly introduced spin simulation—to compute an explicit within-protocol coarse-graining/closure test. Show input preparations, outcome probabilities, postmeasurement update, same subsequent operation, and conditional output probabilities or their difference. Independently check the analytic algebra, and distinguish selective measurement from a hard intervention.
+2. State exactly what a difference would disprove: a closed classical description for the particular coarse bit, dynamics and preparation family under ordinary sequential conditioning. Do not claim a universal no-go theorem for classical effective models or IIT, or that an operational report is automatically a substrate unit. State how extra state variables or restricted preparations could change the conclusion.
+3. Enumerate requirements for a defensible mapping from this net/instrument to IIT's classical causal model, the project's pairwise selector and actual experiential subject/quality claims. Include independent preparation/setting, completeness, conditional independence, accessible alternatives, time and system grains, backgrounds, intervention semantics, comparability, and error; differentiate quantum IIT proposals from the 2023 classical formulation without judging uninspected variants.
+4. Analyze a concrete positive covariance check for the existing local experiment under its recovered translations, tracking state, algebra, preparations and instruments. Contrast translating the entire protocol with shifting only preparation relative to a fixed detector, and do not identify coordinate changes with physical interventions.
+5. Preserve scope: the chiral toy net and external pointer are not a brain, a subject, or an empirical test. Do not assign φ, experiences, q-values or clinical status. Integrate and cross-link the report, run existing targeted checks and battery, refresh inventories and commit/push.
