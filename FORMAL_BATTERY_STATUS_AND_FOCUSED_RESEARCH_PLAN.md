@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) examines selected passages of the uploaded book as an experience-respecting, non-constitutive rival. Its finite causal illustration separates an immediate microcause from closure of an earlier micro-transition, while flagging that interventions on a dependent macro-variable may be inadmissible. Klinge's emergence, pairing and phenomenal selection rules are substantive hypotheses, not verified physics or a resolution of C3; B4–B5/F2, B9/F3 and B10 remain open.
+
 The [PAINgen partial-run follow-up](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) recovers complete cue-bounded candidate episodes from seven previously rejected event files. Adding in-range pairs resolves 14 of 35 residual mean mismatches without regressions; 21 remain, 18 in cells with both relevant runs accepted and three with an absent relevant run. Both previously export-only pairs also match in a separately flagged post-result check. This is shared-provenance, retrospective arithmetic, not validated trial-selection history, a physical `q` assay or a substantive battery pass.
 
 The [PAINgen response-time reconstruction](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) applies the paper's published intensity RT rule to a candidate BIDS field: 585 of 620 previously mismatched paired means become matches, 35 remain mismatched, and no prior paired matches regress. A post-result missingness check is consistent with the same candidate rule. This is retrospective and shared-provenance; exact source processing and field semantics remain unverified. It is not a physical mismatch `q` assay or an experiential bridge; B4–B5/F2, B9/F3, B10 and C3 remain open.

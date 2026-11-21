@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "220de4860280aa4f8d2cab528da7ee234df4cbbc",
-  "file_count": 1560,
+  "base_head": "5b23c51af83a091d94a6d1bb730970c17d6e634c",
+  "file_count": 1564,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 33123,
-      "sha256": "02a9cfa75cff72ad21c3005b8c71ff7775d312a711b1e97d71f4a1584dbef4ef"
+      "bytes": 33687,
+      "sha256": "080b646ce43be3f4184e27c9f799cbdfa2e2cedf52740412be9694a8befd661d"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 123358,
-      "sha256": "6890dfda182d4dddd8de3605ef6d08bfa622dce9e09a14bc4c47aa4b4b70f185"
+      "bytes": 123780,
+      "sha256": "e45779f65bdfeab6982058f294d9f61aa96b38f273c1f756fcfe2d32f00d1f0a"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -845,8 +845,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 23531,
-      "sha256": "9b6e89b30ace9cfccdeb73bf3a3869f4bcf46353051c58fac29a333fb5a2bb1f"
+      "bytes": 23925,
+      "sha256": "749e109b8dfeedf44a7515af8802718fe2fbade6a6573d39e6f5a25e6e9a07c0"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -922,6 +922,11 @@
       "path": "KERR_BOUNCE_ROTATIONAL.md",
       "bytes": 10109,
       "sha256": "960bd84bba838c88fbdd16b62139f636bcef500f21441c74efb57959bab1b563"
+    },
+    {
+      "path": "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
+      "bytes": 15717,
+      "sha256": "ac6ae025a51fb16c4e29468fe1cb9a56542576eeabdc110301f4e6e2e96fd0ae"
     },
     {
       "path": "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
@@ -5289,6 +5294,21 @@
       "sha256": "8c163cf1c3118c5364e1320f0d40b5215ab9e7565ba2ddc1dae38d90ae36aaf2"
     },
     {
+      "path": "verification/klinge_causal_emergence_interface.json",
+      "bytes": 929,
+      "sha256": "13dfd2580fb7c8a73878514bb4f8d07dfccbade7cb51bebfbd3fd0cc17308cb3"
+    },
+    {
+      "path": "verification/klinge_causal_emergence_interface.py",
+      "bytes": 2671,
+      "sha256": "fb3053925bc9401d3e0255e55116f53fc64a8d8a85e19beb4927f7fb4d0d46f9"
+    },
+    {
+      "path": "verification/klinge_causal_emergence_interface_test.py",
+      "bytes": 1293,
+      "sha256": "bc2037d1d3b8113dfcad863363f12884c2031fda1169b7eac80d12fe37ed6fce"
+    },
+    {
       "path": "verification/kms_beta_two_pi.py",
       "bytes": 13978,
       "sha256": "b710dca27b16e9eeddad8430ebb5bf932e1f6771245adaaae0c2c72d2d4a201e"
@@ -6100,8 +6120,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 630752,
-      "sha256": "c534b632ace2f86b4697e8aa343b2dba3f28435fc6419c0dd85cdf962265f8da"
+      "bytes": 632356,
+      "sha256": "ebc2042e7bfa2c97f14b67a75dd10f6c71e5a356a3b51142eb504f1a534075bb"
     },
     {
       "path": "verification/project_inventory.py",

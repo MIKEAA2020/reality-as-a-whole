@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) adds a non-constitutive causal-emergence rival to the subject and quality interface, and distinguishes immediate microcausal sufficiency from stronger closure. His producing powers, downward coupling and subject/quality selection remain unverified; neither rival derives the q-to-quality bridge.
+
 The [Bohn plural collective consciousness audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) reads the supplied paper and compares his basic plural-property and trickling-down account with the L/C sector. It offers a genuine non-microsubject alternative, but does not derive the selected subjects or the q-to-quality identity.
 
 The [four-spin imperfect-intervention gate](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) quantifies when a bounded, imperfect gate would identify the sign of a designated physical channel; a counterexample shows why an unrestricted residual response can reverse it. Its examples and calibrations are hypothetical, not an experiential bridge.

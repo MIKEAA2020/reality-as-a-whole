@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 501,
-  "bytes": 6516629,
-  "line_count": 61136,
-  "document_count_with_risk_phrases": 471,
+  "document_count": 502,
+  "bytes": 6533726,
+  "line_count": 61216,
+  "document_count_with_risk_phrases": 472,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4241,9 +4241,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "02a9cfa75cff72ad21c3005b8c71ff7775d312a711b1e97d71f4a1584dbef4ef",
-      "bytes": 33123,
-      "lines": 135,
+      "sha256": "080b646ce43be3f4184e27c9f799cbdfa2e2cedf52740412be9694a8befd661d",
+      "bytes": 33687,
+      "lines": 137,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4255,6 +4255,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
@@ -4314,21 +4315,21 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
-        17,
+        9,
+        13,
         19,
-        33,
-        37,
-        49,
-        57,
+        21,
+        35,
+        39,
+        51,
         59,
-        63,
-        79,
-        89,
-        106,
-        123,
-        129
+        61,
+        65,
+        81,
+        91,
+        108,
+        125,
+        131
       ]
     },
     {
@@ -4507,9 +4508,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6890dfda182d4dddd8de3605ef6d08bfa622dce9e09a14bc4c47aa4b4b70f185",
-      "bytes": 123358,
-      "lines": 985,
+      "sha256": "e45779f65bdfeab6982058f294d9f61aa96b38f273c1f756fcfe2d32f00d1f0a",
+      "bytes": 123780,
+      "lines": 988,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4705,6 +4706,7 @@
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
         "KERR_BOUNCE_ROTATIONAL.md",
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "KO_DIMENSION6_SM.md",
@@ -5232,6 +5234,8 @@
         "verification/kemeny_snell_reversible_projection_test.py",
         "verification/kent_final_record_toy_gate.py",
         "verification/kerr_bounce_rotational.py",
+        "verification/klinge_causal_emergence_interface.py",
+        "verification/klinge_causal_emergence_interface_test.py",
         "verification/kms_beta_two_pi.py",
         "verification/knowability_actuality_gate.py",
         "verification/ko_dimension6_sm.py",
@@ -5486,18 +5490,18 @@
         63,
         133,
         182,
-        230,
-        258,
-        296,
-        318,
-        365,
-        447,
-        462,
-        498,
-        507,
-        510,
-        513,
-        577
+        231,
+        259,
+        297,
+        319,
+        366,
+        448,
+        463,
+        499,
+        508,
+        511,
+        514,
+        578
       ]
     },
     {
@@ -6577,9 +6581,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "9b6e89b30ace9cfccdeb73bf3a3869f4bcf46353051c58fac29a333fb5a2bb1f",
-      "bytes": 23531,
-      "lines": 139,
+      "sha256": "749e109b8dfeedf44a7515af8802718fe2fbade6a6573d39e6f5a25e6e9a07c0",
+      "bytes": 23925,
+      "lines": 141,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6592,6 +6596,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
@@ -6621,12 +6626,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        25,
         27,
-        80,
-        84,
-        117,
-        139
+        29,
+        82,
+        86,
+        119,
+        141
       ]
     },
     {
@@ -7076,6 +7081,38 @@
         122,
         124,
         144
+      ]
+    },
+    {
+      "path": "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
+      "sha256": "ac6ae025a51fb16c4e29468fe1cb9a56542576eeabdc110301f4e6e2e96fd0ae",
+      "bytes": 15717,
+      "lines": 73,
+      "title": "Klinge on emergent consciousness: a challenge to constitution and causal closure",
+      "headings": [
+        "Klinge on emergent consciousness: a challenge to constitution and causal closure",
+        "Assessment",
+        "1. Source and reading scope",
+        "2. The actual proposal",
+        "3. What emergence does—and does not—explain",
+        "4. Immediate causes versus physical closure: a checked illustration",
+        "5. Evolution, IIT and empirical discriminability",
+        "6. Consequences for the current candidate"
+      ],
+      "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
+        "verification/klinge_causal_emergence_interface.py",
+        "verification/klinge_causal_emergence_interface_test.py",
+        "verification/klinge_causal_emergence_interface.json",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        52,
+        56,
+        60
       ]
     },
     {
