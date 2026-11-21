@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 484,
-  "bytes": 6346376,
-  "line_count": 60029,
-  "document_count_with_risk_phrases": 455,
+  "document_count": 485,
+  "bytes": 6358658,
+  "line_count": 60190,
+  "document_count_with_risk_phrases": 456,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2644,8 +2644,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "sha256": "6a543dd8aff739d371fdf4e087b50f44907b4263871b844a6a73f614fcce1f9a",
-      "bytes": 12199,
+      "sha256": "341bf256a1f808d436893575b82133cf1d155e39beb4d8f7319c6366d5b4bd22",
+      "bytes": 12399,
       "lines": 83,
       "title": "A necessary intermediate step: what can converge uniformly?",
       "headings": [
@@ -2659,6 +2659,7 @@
       "local_links": [
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
@@ -2669,6 +2670,7 @@
         "OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md"
       ],
       "risk_phrase_lines": [
+        3,
         27,
         74,
         79
@@ -4194,8 +4196,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "2627639df29016a1337793f25ef21ea66c101885a71ba31a1d045bf95a95a1e7",
-      "bytes": 29127,
+      "sha256": "f9c47dfbd576ad4144a636d5255b265e4536970e03938a2c5b19b162cc3cb5bb",
+      "bytes": 29309,
       "lines": 121,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4210,6 +4212,7 @@
       "local_links": [
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
@@ -4446,9 +4449,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c48cc7850c1ccfe66dc3a1d917eed0e780f2eedb21254aa5bef193ee3c146227",
-      "bytes": 118304,
-      "lines": 948,
+      "sha256": "e5fa6588fc07a78040b7f666830a2b105e046f6f27592148dc17145e56de9a79",
+      "bytes": 118678,
+      "lines": 951,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4702,6 +4705,7 @@
         "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
@@ -5199,6 +5203,8 @@
         "verification/orientation_visibility_contrast.py",
         "verification/ottinger_annihilation_gate.py",
         "verification/ottinger_annihilation_gate_test.py",
+        "verification/ottinger_scalar_regulator_gate.py",
+        "verification/ottinger_scalar_regulator_gate_test.py",
         "verification/page_wootters_static_clock.py",
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
@@ -5389,16 +5395,16 @@
         132,
         181,
         229,
-        280,
-        302,
-        349,
-        430,
-        445,
-        481,
-        490,
-        493,
-        496,
-        560
+        281,
+        303,
+        350,
+        431,
+        446,
+        482,
+        491,
+        494,
+        497,
+        561
       ]
     },
     {
@@ -8735,8 +8741,8 @@
     },
     {
       "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
-      "sha256": "b5c63c6ee5253051996903ee407bd5a5590743a3dce6c9561100bac55a885b07",
-      "bytes": 13649,
+      "sha256": "53136ec002036aae50f7949e53ed84b0d8b5c1fa1b53fe8cd8156e7c71f70930",
+      "bytes": 13745,
       "lines": 85,
       "title": "Öttinger’s full book: scalar and QED follow-up",
       "headings": [
@@ -8758,12 +8764,44 @@
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "verification/ottinger_annihilation_gate.py",
-        "verification/ottinger_annihilation_gate.json"
+        "verification/ottinger_annihilation_gate.json",
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md"
       ],
       "risk_phrase_lines": [
         35,
         47,
-        81
+        81,
+        82
+      ]
+    },
+    {
+      "path": "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+      "sha256": "f97757dd6669eb0c6051a8dd4f3544b5cb04b7f13cd13c6cd68d1e459224a119",
+      "bytes": 11430,
+      "lines": 158,
+      "title": "Öttinger’s scalar lattice sum: a proper-time regulator gate",
+      "headings": [
+        "Öttinger’s scalar lattice sum: a proper-time regulator gate",
+        "Result and limitations",
+        "1. Definition of the target and regulator",
+        "2. Proof of Claim A",
+        "3. The finite-regulator correction survives cutoff removal",
+        "4. Numerical checks and their limits",
+        "5. Consequences for the project"
+      ],
+      "local_links": [
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+        "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "verification/ottinger_scalar_regulator_gate.py",
+        "verification/ottinger_scalar_regulator_gate.json",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+        "CUTOFF_INSTRUMENT_UNIFORMITY.md"
+      ],
+      "risk_phrase_lines": [
+        85,
+        95,
+        108,
+        145
       ]
     },
     {

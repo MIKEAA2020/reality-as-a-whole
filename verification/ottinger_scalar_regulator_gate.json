@@ -1,0 +1,90 @@
+{
+  "scope": "finite mode-cube samples, m=1, spacing=1, k=(1,0,0); no continuum proof",
+  "momentum_normalization": "raw sums; no factor L^-6",
+  "samples": [
+    {
+      "epsilon": 0.5,
+      "N": 2,
+      "time_cutoff": -0.647702086286156,
+      "common_exponential": 0.3471803014351223,
+      "gap": 0.9948823877212783
+    },
+    {
+      "epsilon": 0.5,
+      "N": 4,
+      "time_cutoff": -1.1541713266337517,
+      "common_exponential": 0.28307275511454666,
+      "gap": 1.4372440817482983
+    },
+    {
+      "epsilon": 0.5,
+      "N": 6,
+      "time_cutoff": -1.2380341899463756,
+      "common_exponential": 0.2667653465645102,
+      "gap": 1.5047995365108857
+    },
+    {
+      "epsilon": 0.5,
+      "N": 8,
+      "time_cutoff": -1.2488821994105581,
+      "common_exponential": 0.2644355071544075,
+      "gap": 1.5133177065649657
+    },
+    {
+      "epsilon": 0.75,
+      "N": 2,
+      "time_cutoff": -0.38678369577034405,
+      "common_exponential": 0.10226282556310136,
+      "gap": 0.4890465213334454
+    },
+    {
+      "epsilon": 0.75,
+      "N": 4,
+      "time_cutoff": -0.4929700889875781,
+      "common_exponential": 0.0874543091726232,
+      "gap": 0.5804243981602013
+    },
+    {
+      "epsilon": 0.75,
+      "N": 6,
+      "time_cutoff": -0.49916203773905193,
+      "common_exponential": 0.08623662652610947,
+      "gap": 0.5853986642651614
+    },
+    {
+      "epsilon": 0.75,
+      "N": 8,
+      "time_cutoff": -0.4994501828494795,
+      "common_exponential": 0.08617408638460053,
+      "gap": 0.5856242692340801
+    },
+    {
+      "epsilon": 1.0,
+      "N": 2,
+      "time_cutoff": -0.18586485150836682,
+      "common_exponential": 0.033459112964598414,
+      "gap": 0.21932396447296523
+    },
+    {
+      "epsilon": 1.0,
+      "N": 4,
+      "time_cutoff": -0.20617616049942725,
+      "common_exponential": 0.03049542390697873,
+      "gap": 0.23667158440640598
+    },
+    {
+      "epsilon": 1.0,
+      "N": 6,
+      "time_cutoff": -0.2066131177302486,
+      "common_exponential": 0.030407357544610374,
+      "gap": 0.23702047527485898
+    },
+    {
+      "epsilon": 1.0,
+      "N": 8,
+      "time_cutoff": -0.20662067271976706,
+      "common_exponential": 0.030405672225128084,
+      "gap": 0.23702634494489513
+    }
+  ]
+}

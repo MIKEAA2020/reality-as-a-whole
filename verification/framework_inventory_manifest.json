@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "32b1a710a6299e0b5c5ae399cf32153a79f6b841",
-  "file_count": 1513,
+  "base_head": "c04c664899bc78f245e788cb785d0a3972eacd4d",
+  "file_count": 1517,
   "files": [
     {
       "path": ".gitattributes",
@@ -395,8 +395,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "bytes": 12199,
-      "sha256": "6a543dd8aff739d371fdf4e087b50f44907b4263871b844a6a73f614fcce1f9a"
+      "bytes": 12399,
+      "sha256": "341bf256a1f808d436893575b82133cf1d155e39beb4d8f7319c6366d5b4bd22"
     },
     {
       "path": "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
@@ -650,8 +650,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 29127,
-      "sha256": "2627639df29016a1337793f25ef21ea66c101885a71ba31a1d045bf95a95a1e7"
+      "bytes": 29309,
+      "sha256": "f9c47dfbd576ad4144a636d5255b265e4536970e03938a2c5b19b162cc3cb5bb"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -685,8 +685,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 118304,
-      "sha256": "c48cc7850c1ccfe66dc3a1d917eed0e780f2eedb21254aa5bef193ee3c146227"
+      "bytes": 118678,
+      "sha256": "e5fa6588fc07a78040b7f666830a2b105e046f6f27592148dc17145e56de9a79"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1215,8 +1215,13 @@
     },
     {
       "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
-      "bytes": 13649,
-      "sha256": "b5c63c6ee5253051996903ee407bd5a5590743a3dce6c9561100bac55a885b07"
+      "bytes": 13745,
+      "sha256": "53136ec002036aae50f7949e53ed84b0d8b5c1fa1b53fe8cd8156e7c71f70930"
+    },
+    {
+      "path": "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+      "bytes": 11430,
+      "sha256": "f97757dd6669eb0c6051a8dd4f3544b5cb04b7f13cd13c6cd68d1e459224a119"
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
@@ -5624,6 +5629,21 @@
       "sha256": "59cc830d74005217da835f86c14f6bbea6b2d617983af8e811575c7cbec746e8"
     },
     {
+      "path": "verification/ottinger_scalar_regulator_gate.json",
+      "bytes": 2239,
+      "sha256": "8f456e087590bb8ddda14f01e20b34f17778a600a2b7ac57dfe02ba47bc2624f"
+    },
+    {
+      "path": "verification/ottinger_scalar_regulator_gate.py",
+      "bytes": 2490,
+      "sha256": "237673fb3c76031967cfe174beb929b9c0170a5d8ee5f640a8272cfc116f9b18"
+    },
+    {
+      "path": "verification/ottinger_scalar_regulator_gate_test.py",
+      "bytes": 3497,
+      "sha256": "22b4ea401169c0e1b94a95b8fcecc8c531ca2297a463e8f1afa3a85ec323dd81"
+    },
+    {
       "path": "verification/page_wootters_static_clock.json",
       "bytes": 1357,
       "sha256": "2ffc85d9aef72a45af91afa0ff94dc82411bc32f14b24dca79a2591689790429"
@@ -5865,8 +5885,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 608978,
-      "sha256": "290acd5d4f76ee3db132546ca12c76e6eb81f0f4e20ead685dc2fce46cd7d39f"
+      "bytes": 610465,
+      "sha256": "bb0464b0997feacb5b8adb7684d1dbac2c43cf24d523553589e0e69648e77582"
     },
     {
       "path": "verification/project_inventory.py",
