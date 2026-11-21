@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 550,
-  "bytes": 7002609,
-  "line_count": 63481,
+  "document_count": 552,
+  "bytes": 7018186,
+  "line_count": 63555,
   "document_count_with_risk_phrases": 515,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -316,6 +316,42 @@
       "risk_phrase_lines": [
         75
       ]
+    },
+    {
+      "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
+      "sha256": "228733c71a95b9fa719e9ad46af749d1a276556476ff2868c15b68bab903e1b9",
+      "bytes": 1410,
+      "lines": 8,
+      "title": "Retrospective reading plan: Anderson, Laurent and Yantis 2011",
+      "headings": [
+        "Retrospective reading plan: Anderson, Laurent and Yantis 2011"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
+      "sha256": "28b3ba5d5d5f76c70c68d018c62889c6e8a87f7d2df09bb0c6f7108cd25400fa",
+      "bytes": 13341,
+      "lines": 62,
+      "title": "Anderson, Laurent and Yantis 2011: what value-driven capture does and does not show",
+      "headings": [
+        "Anderson, Laurent and Yantis 2011: what value-driven capture does and does not show",
+        "Identification and scope",
+        "1. The experiment and what was manipulated",
+        "2. Reported results",
+        "3. Controls and spatial evidence",
+        "4. Working memory, impulsivity and generalization",
+        "5. Relation to Shelat and Giesbrecht 2026 and the unity question",
+        "6. Remaining access and next steps"
+      ],
+      "local_links": [
+        "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ARTICULATED_SELF_PRESENCE.md",
@@ -4747,9 +4783,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2a63f9e8b98e3cdca118248d72a9ffa8b26b917ff9d8286104fa59d996fd6873",
-      "bytes": 134120,
-      "lines": 1054,
+      "sha256": "4a1ff3337afb84b37e15d6696395b805c35e0bfd3678ce050d7880f8d3232106",
+      "bytes": 134544,
+      "lines": 1056,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4773,6 +4809,8 @@
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+        "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
+        "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
         "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
@@ -5789,24 +5827,24 @@
       ],
       "risk_phrase_lines": [
         17,
-        35,
-        54,
-        60,
-        70,
-        142,
-        194,
-        251,
-        280,
-        326,
-        351,
-        404,
-        496,
-        511,
-        547,
-        556,
-        559,
-        562,
-        626
+        37,
+        56,
+        62,
+        72,
+        144,
+        196,
+        253,
+        282,
+        328,
+        353,
+        406,
+        498,
+        513,
+        549,
+        558,
+        561,
+        564,
+        628
       ]
     },
     {
@@ -13185,9 +13223,9 @@
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "sha256": "9a7eae4b1876015c2d60ffdac34e2825324830e8dead37acaf7deff701de05a6",
-      "bytes": 8817,
-      "lines": 33,
+      "sha256": "8c656fab2ae8ecfbef6c4a169a0da402789846557d93c8e8cc13c657cac5f9a0",
+      "bytes": 9219,
+      "lines": 35,
       "title": "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
       "headings": [
         "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
@@ -13198,7 +13236,8 @@
       "local_links": [
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
-        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md"
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+        "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md"
       ],
       "risk_phrase_lines": []
     },

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 507 root Markdown documents including this register; 43 research Markdown documents.
+- 509 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 414 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -22,6 +22,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
 - [AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md](AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md) — Fixed retrospective analysis: valence, expectation and social choice
 - [AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md](AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md) — Discriminating mismatch from affect-prediction error
+- [ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md](ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md) — Retrospective reading plan: Anderson, Laurent and Yantis 2011
+- [ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md](ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md) — Anderson, Laurent and Yantis 2011: what value-driven capture does and does not show
 - [ARTICULATED_SELF_PRESENCE.md](ARTICULATED_SELF_PRESENCE.md) — Articulated self-presence: positive warrant and a composition consequence
 - [ASPHERICAL_QUADRUPOLE_LOSS.md](ASPHERICAL_QUADRUPOLE_LOSS.md) — Weak aspherical quadrupole losses beyond perfect spherical symmetry
 - [ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md](ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md) — Retrospective plan: user-supplied attentional-blink papers
