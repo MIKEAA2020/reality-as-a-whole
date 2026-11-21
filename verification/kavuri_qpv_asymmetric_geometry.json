@@ -1,0 +1,107 @@
+{
+  "scope": "Spatial geometry from rounded reported timing inputs, not replay of experimental records, uncertainty model, or security proof.",
+  "inputs": {
+    "distance_m": 195.1,
+    "sA_ns": 1291.0,
+    "sB_ns": 1429.1,
+    "rA_ns": 2340.3,
+    "rB_ns": 2207.7
+  },
+  "c_m_per_ns": 0.299792458,
+  "derived_shapes_m": {
+    "sphere_A_radius": 157.28611308970002,
+    "sphere_B_radius": 116.70920389939998,
+    "ellipsoid_3_major_axis_rA_minus_sB": 273.17088772960005,
+    "ellipsoid_4_major_axis_rB_minus_sA": 274.8197462485999
+  },
+  "central": {
+    "quantum_axis_interval_m": [
+      -19.159203899399984,
+      59.73611308970003
+    ],
+    "classical_axis_intervals_m": [
+      [
+        -136.58544386480003,
+        137.40987312429996
+      ]
+    ],
+    "classical_component_axis_intervals_m": [
+      [
+        -136.58544386480003,
+        59.73611308970003
+      ],
+      [
+        -19.159203899399984,
+        137.40987312429996
+      ]
+    ],
+    "classical_naive_sum_of_component_lengths_m": 352.8906339782,
+    "quantum_length_m": 78.89531698910001,
+    "classical_length_m": 273.9953169891,
+    "quantum_area_m2": 10277.991384901503,
+    "classical_area_m2": 41332.39664756251,
+    "quantum_volume_m3": 1169456.1449578227,
+    "classical_volume_m3": 5289725.145437768,
+    "ratios": {
+      "length_same_latency": 3.472897092573372,
+      "area_same_latency": 4.021446905304894,
+      "volume_same_latency": 4.523235153575207,
+      "length_ideal_classical": 2.472897092573372,
+      "length_naive_component_sum_diagnostic": 4.472897092573373,
+      "length_ellipsoid_upper_bound": 3.4833467528442577
+    },
+    "area_quad_error_estimate_m2": [
+      4.810229604758197e-08,
+      8.075694706626934e-09
+    ]
+  },
+  "cross_check_from_separately_rounded_preprint_table3": {
+    "inputs_L_rA_rB_major3_major4_m": [
+      195.1,
+      157.3,
+      116.7,
+      273.1,
+      274.8
+    ],
+    "ratios": {
+      "length_same_latency": 3.4721166032953104,
+      "area_same_latency": 4.018977529792021,
+      "volume_same_latency": 4.518673183520449,
+      "length_ideal_classical": 2.47275031685678,
+      "length_naive_component_sum_diagnostic": 4.4721166032953095,
+      "length_ellipsoid_upper_bound": 3.4828897338403033
+    }
+  },
+  "rounding_corner_stress_test": {
+    "description": "32 simultaneous \u00b10.05 corners for five one-decimal printed inputs; sampled extrema are not confidence intervals or proven global extrema.",
+    "sampled_min_max": {
+      "length_same_latency": [
+        3.469759650155073,
+        3.4760409025410746
+      ],
+      "area_same_latency": [
+        4.017699244338384,
+        4.0252021488957626
+      ],
+      "volume_same_latency": [
+        4.51894301622357,
+        4.527535958172367
+      ],
+      "length_ideal_classical": [
+        2.469759650155073,
+        2.476040902541074
+      ],
+      "length_naive_component_sum_diagnostic": [
+        4.469759650155074,
+        4.476040902541075
+      ],
+      "length_ellipsoid_upper_bound": [
+        3.480198727927543,
+        3.4865011667879275
+      ]
+    },
+    "conservative_all_inputs_1d_quantum_length_lower_m": 78.81533774329999,
+    "conservative_all_inputs_1d_ratio_upper_bound": 3.487261913278607,
+    "bound_scope": "All inputs within 0.05 printed units; interval arithmetic with independent bounds, not measurement uncertainty."
+  }
+}

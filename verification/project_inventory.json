@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 566,
-  "bytes": 7114463,
-  "line_count": 64063,
-  "document_count_with_risk_phrases": 525,
+  "document_count": 568,
+  "bytes": 7126274,
+  "line_count": 64147,
+  "document_count_with_risk_phrases": 527,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "01459ef9ec93992a0b1df363aab4013a4222f150497a61be80098d0a9a9b860e",
-      "bytes": 138072,
-      "lines": 1081,
+      "sha256": "e8887362f276f0dcee303d289cb91be6d25cdcb2fb3975daff5553eba2f4558f",
+      "bytes": 138585,
+      "lines": 1085,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4991,6 +4991,8 @@
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
+        "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
+        "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
         "KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md",
         "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
@@ -5570,6 +5572,8 @@
         "verification/intrinsic_clock_phase_erasure_gate.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/kavuri_qpv_asymmetric_geometry.py",
+        "verification/kavuri_qpv_asymmetric_geometry_test.py",
         "verification/kavuri_qpv_discrepancy_checks.py",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/kemeny_snell_reversible_projection.py",
@@ -5859,18 +5863,18 @@
         72,
         144,
         196,
-        257,
-        286,
-        332,
-        359,
-        418,
-        512,
-        527,
-        563,
-        572,
-        575,
-        578,
-        642
+        259,
+        288,
+        334,
+        361,
+        420,
+        514,
+        529,
+        565,
+        574,
+        577,
+        580,
+        644
       ]
     },
     {
@@ -7392,6 +7396,46 @@
       ]
     },
     {
+      "path": "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
+      "sha256": "ec2e35e013b17f8293a9a9f8404d2813e23c88e258b06f347783ed3cfc1fcc4c",
+      "bytes": 2495,
+      "lines": 9,
+      "title": "Plan: independent asymmetric QPV geometry check",
+      "headings": [
+        "Plan: independent asymmetric QPV geometry check"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
+      ]
+    },
+    {
+      "path": "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
+      "sha256": "5eda39e5fca859b06226e7e2945e3f9bb30254423b30ae25f2260bd3d28642aa",
+      "bytes": 7994,
+      "lines": 69,
+      "title": "QPV reported timings: an asymmetric spatial-geometry check",
+      "headings": [
+        "QPV reported timings: an asymmetric spatial-geometry check",
+        "Bottom line",
+        "Inputs and scope",
+        "Central-value results",
+        "Verification and limitations"
+      ],
+      "local_links": [
+        "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
+        "verification/kavuri_qpv_asymmetric_geometry.json",
+        "verification/kavuri_qpv_asymmetric_geometry.py",
+        "verification/kavuri_qpv_asymmetric_geometry_test.py",
+        "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        59,
+        67
+      ]
+    },
+    {
       "path": "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
       "sha256": "cc742366880f4356f0de87af02ea41cd6b417da6f9c99dd7456be6c70925a67e",
       "bytes": 9186,
@@ -7442,8 +7486,8 @@
     },
     {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
-      "sha256": "9b0f0dd4ecc9ffa4e49f5d5641963df6437b8372d1c3a31e2bef1953e7d79827",
-      "bytes": 11666,
+      "sha256": "8da8a320a6938eca5231213dc60745b0b62567110a8f8115dc1c4b8259b40182",
+      "bytes": 12068,
       "lines": 54,
       "title": "Kavuri et al.: supplied quantum-position-verification PDF audit",
       "headings": [
@@ -7457,6 +7501,7 @@
       "local_links": [
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
+        "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/qpv_causal_records_gate.py",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
@@ -11494,9 +11539,9 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "b917392a44b7246cab9e74cacc65cf78e4fb47cf55ef8b616a2a82bf454bc973",
-      "bytes": 14790,
-      "lines": 75,
+      "sha256": "810b92f618615764ea7aec72d498634b200b59896524349129222409b553b917",
+      "bytes": 15197,
+      "lines": 77,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
         "Quantum position verification: records, location and subjects",
@@ -11511,6 +11556,7 @@
       "local_links": [
         "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
+        "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "SOURCE_ACCESS_AND_READING_LIMITS.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -11519,10 +11565,10 @@
         "verification/qpv_causal_records_gate.json"
       ],
       "risk_phrase_lines": [
-        42,
         44,
-        52,
-        62
+        46,
+        54,
+        64
       ]
     },
     {

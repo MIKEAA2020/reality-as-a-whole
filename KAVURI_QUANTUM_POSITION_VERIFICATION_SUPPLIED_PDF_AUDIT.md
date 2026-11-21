@@ -39,7 +39,7 @@ On p. 5 the authors report localization ratios, with parentheses denoting **one-
 | Two-dimensional projection, equal latencies | 4.02(3) | Classical/quantum projected-area ratio |
 | Three-dimensional, equal latencies | 4.53(5) | Classical/quantum volume ratio |
 
-The different factors are not interchangeable. These are ratios of defined feasible target regions under specified geometry, latency and security conditions, not person-tracking precision in a deployed system. The theoretical loss-tolerance discussion involves heralding or commitment; the demonstration is not an arbitrary-loss, unrestricted-adversary deployment. The paper itself points to noise, speed, line-of-sight links and quantum-network development as practical constraints (pp. 5–6).
+The different factors are not interchangeable. A later [asymmetric spatial-geometry check](KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md) found that the paper's explicit classical-region union and rounded verifier timings imply a same-latency 1D central ratio near 3.47, not the reported 4.48; the cause is unresolved. It obtained central 2D, 3D and ideal-1D ratios close to the published figures, without reproducing their uncertainty calculations. These are ratios of defined feasible target regions under specified geometry, latency and security conditions, not person-tracking precision in a deployed system. The theoretical loss-tolerance discussion involves heralding or commitment; the demonstration is not an arbitrary-loss, unrestricted-adversary deployment. The paper itself points to noise, speed, line-of-sight links and quantum-network development as practical constraints (pp. 5–6).
 
 ## Further checks and unresolved timing
 
