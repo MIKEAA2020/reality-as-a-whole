@@ -4,6 +4,8 @@ The [subsequent first-person constitution comparison](SPLIT_BRAIN_FIRST_PERSON_C
 
 **Scope:** literature review and exact analysis of a simplified task—not an analysis of patient-level data, a subject-count result, or a completed theory. A subsequent [public-data and network-evidence update](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) adds 2025 studies and a reproducible aggregate-data audit. This extends the [joint-access decision gate](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md). It also corrects an omission: the distinction between behavioral/action unity and experiential unity, and the danger of unilateral task shortcuts, have substantial prior literature. Our earlier gate is a project-specific integration of those issues, not their discovery.
 
+**Subsequent action-unity analysis:** [Jointly controlled action versus a lived perspective](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) reads Schechter's complete article text and notes, and shows how even an XOR action depending on both inputs can remain distinct from a lived conjunction. Its balanced one-input baseline is 50%, but is 75% for the four-spin equilibrium; neither is a patient result.
+
 ## 1. What the deeper search changes
 
 The live scientific issue is **not simply whether the hemispheres communicate**. There are distinct questions:

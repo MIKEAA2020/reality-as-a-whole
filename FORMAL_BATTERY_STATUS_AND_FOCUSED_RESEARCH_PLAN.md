@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [joint-action versus lived-perspective audit](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) reads Schechter's action-unity article and distinguishes a response controlled by both inputs from phenomenal conjunction. It computes different one-input bounds for balanced preparations and the original equilibrium; no actual assay, subject identity or substantive battery pass follows.
+
 The [collective experience and moral-parody audit](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) distinguishes plural property instantiation from occurrence and subject individuation, and applies Blaesi's parity challenge equally to the preferred experiential ground and its rivals. It adds no subject-count assay or constitutive bridge; B4–B5/F2, B9/F3 and B10 remain open.
 
 The [Bohn plural collective consciousness audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) reads the supplied full paper, including its trickling-down and infinite-descent discussion, and tests the scope of its one-way principle on the existing four-spin interface. It neither derives E-L's incidence nor resolves the subject/quality or grounding questions; battery verdicts remain open.

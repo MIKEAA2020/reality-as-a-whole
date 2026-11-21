@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7f5a88d2261fc9c7c32ba30a90c124a3848fbed0",
-  "file_count": 1496,
+  "base_head": "8e7c09a69f9c7e57918052daaacf6fa177433465",
+  "file_count": 1500,
   "files": [
     {
       "path": ".gitattributes",
@@ -32,6 +32,11 @@
       "path": "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
       "bytes": 4903,
       "sha256": "7cf5f1a1245756b0aa710cc7bb3b43fa7e542ef8399aa742753dde29e8368107"
+    },
+    {
+      "path": "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
+      "bytes": 16085,
+      "sha256": "20b7115fd539ce47cfa9412968cd6b242567dadee9552f200f303fa565d96ce3"
     },
     {
       "path": "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
@@ -220,8 +225,8 @@
     },
     {
       "path": "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
-      "bytes": 15896,
-      "sha256": "dcee0e5cad5d2db24c19e6a4cf3c2c13077611e00fcae22c3792a288d2132cf2"
+      "bytes": 16298,
+      "sha256": "57c4e6e999f5e57058c82b9e7b1f2168cfeca99850b54a952e1bc2b1eee3c255"
     },
     {
       "path": "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
@@ -635,8 +640,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 27380,
-      "sha256": "8a2642fae247af1a5e34227582e943fc80f9c7c57005a8f803f1c4ff2ffbcf58"
+      "bytes": 27776,
+      "sha256": "8e1c24013baca6ae9ff7cb1b6a0539ecdd803e5425ca38bc1fe5b7c65d77d2b7"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -670,8 +675,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 116701,
-      "sha256": "8c30045fbffeee070b33bc1307d842e8cb2a448ada57dc6e9456c5c81de753bb"
+      "bytes": 117045,
+      "sha256": "5a50e17cc624ae62a5b527d0efcf816e90e42d8f5aa1350d6f2708f5deea28cd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1710,8 +1715,8 @@
     },
     {
       "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
-      "bytes": 16422,
-      "sha256": "d4cdb192ba1417f550cf9da8ab8bcb76fe9a9badb105f0df786991cc027f9c8c"
+      "bytes": 16838,
+      "sha256": "8e52e44baf513271912e961621f6ee7b21121715880c16abbd971f1a90dbab03"
     },
     {
       "path": "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
@@ -3769,6 +3774,21 @@
       "sha256": "6bb696a726b7da6003295264b75dc68c088fa7fa1b304c75c148f157912b8ffa"
     },
     {
+      "path": "verification/action_unity_xor_gate.json",
+      "bytes": 632,
+      "sha256": "fb593e730d87ea47296f99f969f1cac03441b1a7f5b31025e67d0685c538ae0f"
+    },
+    {
+      "path": "verification/action_unity_xor_gate.py",
+      "bytes": 3149,
+      "sha256": "2d8705ae85de12661553b4b68a92d32edfb712d087a984c8ea482d0f4bfd3209"
+    },
+    {
+      "path": "verification/action_unity_xor_gate_test.py",
+      "bytes": 856,
+      "sha256": "2592bb50b1e4e376205fc3d33e1248b193a5f0fe36f894a3e06c5435462e71e1"
+    },
+    {
       "path": "verification/affect_choice_heldout.json",
       "bytes": 3187,
       "sha256": "e4946847a64272863cd79747b91a09d1f5a8664ba1b566d0106b6ba6b21c1dca"
@@ -5780,8 +5800,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 601242,
-      "sha256": "e61491f1f2e6f4afc18f85dc97e0c7d9d4b91f7be0de6061c189bd2593a487d9"
+      "bytes": 602827,
+      "sha256": "41a4e4db666547c87eff9abe4f4ecb1b8ed66535d882cd19b54488231186cf70"
     },
     {
       "path": "verification/project_inventory.py",

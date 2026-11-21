@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 479,
-  "bytes": 6255804,
-  "line_count": 59458,
-  "document_count_with_risk_phrases": 451,
+  "document_count": 480,
+  "bytes": 6273447,
+  "line_count": 59576,
+  "document_count_with_risk_phrases": 452,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -183,6 +183,40 @@
       "local_links": [],
       "risk_phrase_lines": [
         7
+      ]
+    },
+    {
+      "path": "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
+      "sha256": "20b7115fd539ce47cfa9412968cd6b242567dadee9552f200f303fa565d96ce3",
+      "bytes": 16085,
+      "lines": 109,
+      "title": "Jointly controlled action versus a lived perspective",
+      "headings": [
+        "Jointly controlled action versus a lived perspective",
+        "Result",
+        "1. Schechter's action-unity proposal",
+        "2. One physical response with two necessary inputs",
+        "3. The shortcut depends on the input distribution",
+        "4. A conditional error-tolerant control",
+        "5. The same action under experiential rivals",
+        "6. How the alternatives could be separated"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "verification/action_unity_xor_gate.py",
+        "verification/action_unity_xor_gate.json",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        29,
+        45,
+        47,
+        53,
+        64,
+        93
       ]
     },
     {
@@ -1339,9 +1373,9 @@
     },
     {
       "path": "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
-      "sha256": "dcee0e5cad5d2db24c19e6a4cf3c2c13077611e00fcae22c3792a288d2132cf2",
-      "bytes": 15896,
-      "lines": 80,
+      "sha256": "57c4e6e999f5e57058c82b9e7b1f2168cfeca99850b54a952e1bc2b1eee3c255",
+      "bytes": 16298,
+      "lines": 82,
       "title": "Collective experience, subject multiplicity, and the moral-parody challenge",
       "headings": [
         "Collective experience, subject multiplicity, and the moral-parody challenge",
@@ -1358,7 +1392,8 @@
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
-        "EPISODE_INCIDENCE_REFORMULATION.md"
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md"
       ],
       "risk_phrase_lines": [
         30,
@@ -4089,9 +4124,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8a2642fae247af1a5e34227582e943fc80f9c7c57005a8f803f1c4ff2ffbcf58",
-      "bytes": 27380,
-      "lines": 113,
+      "sha256": "8e1c24013baca6ae9ff7cb1b6a0539ecdd803e5425ca38bc1fe5b7c65d77d2b7",
+      "bytes": 27776,
+      "lines": 115,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4103,6 +4138,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
         "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
@@ -4147,17 +4183,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        15,
-        27,
-        35,
+        13,
+        17,
+        29,
         37,
-        41,
-        57,
-        67,
-        84,
-        101,
-        107
+        39,
+        43,
+        59,
+        69,
+        86,
+        103,
+        109
       ]
     },
     {
@@ -4336,9 +4372,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8c30045fbffeee070b33bc1307d842e8cb2a448ada57dc6e9456c5c81de753bb",
-      "bytes": 116701,
-      "lines": 935,
+      "sha256": "5a50e17cc624ae62a5b527d0efcf816e90e42d8f5aa1350d6f2708f5deea28cd",
+      "bytes": 117045,
+      "lines": 938,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4357,6 +4393,7 @@
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
         "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
         "ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md",
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
         "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
@@ -4889,6 +4926,8 @@
         "sources/uploads/take bostrom's simulation hypothesis as starting point. what.md",
         "sources/uploads/williams2019.pdf",
         "verification/framework_battery.py",
+        "verification/action_unity_xor_gate.py",
+        "verification/action_unity_xor_gate_test.py",
         "verification/affect_choice_heldout.py",
         "verification/aspherical_quadrupole_loss.py",
         "verification/assay_calibration_dependence.py",
@@ -5259,23 +5298,23 @@
       ],
       "risk_phrase_lines": [
         17,
-        31,
-        45,
-        51,
-        61,
-        130,
-        178,
-        226,
-        275,
-        297,
-        344,
-        425,
-        440,
-        476,
-        485,
-        488,
-        491,
-        555
+        32,
+        46,
+        52,
+        62,
+        131,
+        179,
+        227,
+        276,
+        298,
+        345,
+        426,
+        441,
+        477,
+        486,
+        489,
+        492,
+        556
       ]
     },
     {
@@ -11848,9 +11887,9 @@
     },
     {
       "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
-      "sha256": "d4cdb192ba1417f550cf9da8ab8bcb76fe9a9badb105f0df786991cc027f9c8c",
-      "bytes": 16422,
-      "lines": 105,
+      "sha256": "8e52e44baf513271912e961621f6ee7b21121715880c16abbd971f1a90dbab03",
+      "bytes": 16838,
+      "lines": 107,
       "title": "Split-brain evidence: deeper source and task audit",
       "headings": [
         "Split-brain evidence: deeper source and task audit",
@@ -11866,19 +11905,20 @@
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "verification/split_brain_query_strategy_gate.json",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
         5,
-        56,
-        64,
-        70,
+        58,
+        66,
         72,
-        82,
-        85,
-        91
+        74,
+        84,
+        87,
+        93
       ]
     },
     {

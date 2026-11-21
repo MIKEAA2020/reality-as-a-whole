@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 436 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 366 verification Python scripts.
+- 437 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 368 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -17,6 +17,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ABSOLUTE_PERSPECTIVES_SYNTHESIS.md](ABSOLUTE_PERSPECTIVES_SYNTHESIS.md) — Absolute, perspectives, and the zero-residue account: synthesis with the spherical WdW chain
 - [ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md](ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md) — Acoustic mismatch, reported consonance and the experiential bridge
 - [ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md](ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md) — Fixed retrospective test of an acoustic roughness-only rule
+- [ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) — Jointly controlled action versus a lived perspective
 - [ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md](ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md) — Actuality, interventions and Bell experiments
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
 - [AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md](AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md) — Fixed retrospective analysis: valence, expectation and social choice
@@ -563,6 +564,8 @@ The user approved inclusion of the original uploads in this public repository. T
 
 Passing a script checks its encoded model or assertions only; historical closure aggregators and stipulated true flags are not proofs. The [selected regression battery](verification/framework_battery.py) has a narrower declared scope.
 
+- [verification/action_unity_xor_gate.py](verification/action_unity_xor_gate.py)
+- [verification/action_unity_xor_gate_test.py](verification/action_unity_xor_gate_test.py)
 - [verification/affect_choice_heldout.py](verification/affect_choice_heldout.py)
 - [verification/aspherical_quadrupole_loss.py](verification/aspherical_quadrupole_loss.py)
 - [verification/assay_calibration_dependence.py](verification/assay_calibration_dependence.py)
