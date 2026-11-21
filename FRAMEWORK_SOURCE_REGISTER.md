@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 525 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 427 verification Python scripts.
+- 528 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 429 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -205,6 +205,9 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
 - [KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md](KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md) — Plan: independent asymmetric QPV geometry check
 - [KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md](KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md) — QPV reported timings: an asymmetric spatial-geometry check
+- [KAVURI_QPV_AXIAL_IDENTITY_AND_AUTHOR_QUERY_PLAN.md](KAVURI_QPV_AXIAL_IDENTITY_AND_AUTHOR_QUERY_PLAN.md) — Plan: QPV axial identity and correction query
+- [KAVURI_QPV_AXIAL_IDENTITY_AUDIT.md](KAVURI_QPV_AXIAL_IDENTITY_AUDIT.md) — QPV axial union: conditional identity and follow-up
+- [KAVURI_QPV_DRAFT_AUTHOR_QUERY.md](KAVURI_QPV_DRAFT_AUTHOR_QUERY.md) — Draft author query — not sent
 - [KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md](KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md) — QPV discrepancies: what the preprint supplement adds
 - [KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md](KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md) — Plan: investigate QPV count and timing discrepancies
 - [KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md](KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md) — Reading plan: supplied Kavuri quantum-position-verification PDF
@@ -800,6 +803,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/k_pairwise_constraint_and_gauge_gate.py](verification/k_pairwise_constraint_and_gauge_gate.py)
 - [verification/kavuri_qpv_asymmetric_geometry.py](verification/kavuri_qpv_asymmetric_geometry.py)
 - [verification/kavuri_qpv_asymmetric_geometry_test.py](verification/kavuri_qpv_asymmetric_geometry_test.py)
+- [verification/kavuri_qpv_axial_identity.py](verification/kavuri_qpv_axial_identity.py)
+- [verification/kavuri_qpv_axial_identity_test.py](verification/kavuri_qpv_axial_identity_test.py)
 - [verification/kavuri_qpv_discrepancy_checks.py](verification/kavuri_qpv_discrepancy_checks.py)
 - [verification/kavuri_qpv_pdf_audit.py](verification/kavuri_qpv_pdf_audit.py)
 - [verification/kemeny_snell_reversible_projection.py](verification/kemeny_snell_reversible_projection.py)

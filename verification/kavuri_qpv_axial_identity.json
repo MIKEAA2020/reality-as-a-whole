@@ -1,0 +1,59 @@
+{
+  "scope": "Exact rational tests of a conditional axial set identity, not security, source records or human identity.",
+  "enumeration": {
+    "qualifying_cases": 4854,
+    "identity_holds_qualifying_cases": 4854,
+    "outside_sufficient_conditions": 16241,
+    "outside_cases_where_identity_fails": 12376,
+    "counts_by_condition_and_identity": {
+      "release_False_response_True_identity_True": 3865,
+      "release_False_response_False_identity_False": 7352,
+      "release_True_response_True_identity_True": 4854,
+      "release_True_response_False_identity_False": 5024
+    },
+    "outside_examples": {
+      "release_condition_fails_identity_holds": {
+        "L": 1,
+        "sA": 0,
+        "sB": -8,
+        "rA": 1,
+        "rB": 2,
+        "quantum_length": "1",
+        "classical_length": "2",
+        "release_condition": false,
+        "response_condition": true
+      },
+      "both_conditions_fail": {
+        "L": 1,
+        "sA": 0,
+        "sB": -8,
+        "rA": 1,
+        "rB": 3,
+        "quantum_length": "1",
+        "classical_length": "3",
+        "release_condition": false,
+        "response_condition": false
+      },
+      "only_response_condition_fails": {
+        "L": 1,
+        "sA": 0,
+        "sB": -1,
+        "rA": 1,
+        "rB": 3,
+        "quantum_length": "1",
+        "classical_length": "3",
+        "release_condition": true,
+        "response_condition": false
+      }
+    }
+  },
+  "preprint_central_inputs": {
+    "release_separation_m": "207006692249/5000000000",
+    "response_separation_m": "99381199827/2500000000",
+    "verifier_separation_m": "195.1",
+    "quantum_length_m": "788953169891/10000000000",
+    "comparable_classical_length_m": "2739953169891/10000000000",
+    "ideal_classical_ratio": 2.4728970925733726,
+    "comparable_classical_ratio": 3.4728970925733726
+  }
+}

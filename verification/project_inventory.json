@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 568,
-  "bytes": 7126274,
-  "line_count": 64147,
-  "document_count_with_risk_phrases": 527,
+  "document_count": 571,
+  "bytes": 7138764,
+  "line_count": 64235,
+  "document_count_with_risk_phrases": 530,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -7411,8 +7411,8 @@
     },
     {
       "path": "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
-      "sha256": "5eda39e5fca859b06226e7e2945e3f9bb30254423b30ae25f2260bd3d28642aa",
-      "bytes": 7994,
+      "sha256": "e05ffde5f46333e0c1977c68f3fb99ee2bb7133eab5bfecff01b9a2291f8cca4",
+      "bytes": 8196,
       "lines": 69,
       "title": "QPV reported timings: an asymmetric spatial-geometry check",
       "headings": [
@@ -7424,15 +7424,78 @@
       ],
       "local_links": [
         "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
+        "KAVURI_QPV_AXIAL_IDENTITY_AUDIT.md",
         "verification/kavuri_qpv_asymmetric_geometry.json",
         "verification/kavuri_qpv_asymmetric_geometry.py",
         "verification/kavuri_qpv_asymmetric_geometry_test.py",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md"
       ],
       "risk_phrase_lines": [
+        7,
         17,
         59,
         67
+      ]
+    },
+    {
+      "path": "KAVURI_QPV_AXIAL_IDENTITY_AND_AUTHOR_QUERY_PLAN.md",
+      "sha256": "1c34343cbb707e88d6b0d1e0dd89f387a3f9ebbcb54c551f2b1bdf5c6d7a2c43",
+      "bytes": 1881,
+      "lines": 9,
+      "title": "Plan: QPV axial identity and correction query",
+      "headings": [
+        "Plan: QPV axial identity and correction query"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "path": "KAVURI_QPV_AXIAL_IDENTITY_AUDIT.md",
+      "sha256": "9d26f59796d15e214b840a688a68d458afb96d569141b0bef8767b0a998cf5c2",
+      "bytes": 7673,
+      "lines": 62,
+      "title": "QPV axial union: conditional identity and follow-up",
+      "headings": [
+        "QPV axial union: conditional identity and follow-up",
+        "Result and limits",
+        "Definitions and sufficient conditions",
+        "Proof",
+        "Exact checks and counterexamples",
+        "Next step"
+      ],
+      "local_links": [
+        "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
+        "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
+        "KAVURI_QPV_AXIAL_IDENTITY_AND_AUTHOR_QUERY_PLAN.md",
+        "verification/kavuri_qpv_axial_identity.py",
+        "verification/kavuri_qpv_axial_identity.json",
+        "verification/kavuri_qpv_axial_identity_test.py",
+        "KAVURI_QPV_DRAFT_AUTHOR_QUERY.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        30,
+        50,
+        52,
+        56,
+        58
+      ]
+    },
+    {
+      "path": "KAVURI_QPV_DRAFT_AUTHOR_QUERY.md",
+      "sha256": "fe9f416970c556c44bf346aef4efc4b92a44bb914c1bb5596f5214d9ea6f4bec",
+      "bytes": 2734,
+      "lines": 17,
+      "title": "Draft author query — not sent",
+      "headings": [
+        "Draft author query — not sent"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        10
       ]
     },
     {

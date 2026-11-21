@@ -1,0 +1,9 @@
+# Plan: QPV axial identity and correction query
+
+This is a retrospective follow-up after the reported ratios, central-input mismatch and possible double counting were known; an algebraic identity and candidate conditions were sketched before this plan. It is neither blind nor a preregistration.
+
+1. Derive exact conditions under which the paper's explicit spatial set definitions imply `comparable-classical 1D length = verifier separation + quantum 1D length`. Include geometric conditions for nondegenerate ellipsoids, nonempty quantum interval, and light-cone relationships of the two release events and the two response events. State and test assumptions; do not universalize this relation to arbitrary timings or moving verifiers.
+2. Verify the derivation independently with an exact-rational enumerator over a finite synthetic grid including zero-duration/degenerate edge cases, plus the article's rounded inputs and deliberately excluded cases where the identity can fail. Keep constructive counterexamples, not only positive confirmations. This is mathematical verification under the model, not a check of actual timing or experimental records.
+3. Use the identity to frame the mismatch between the reported 2.47 and 4.48 factors without treating uncertainties as independent or pretending to know the authors' implementation. Assess whether an analogous conclusion automatically holds in area or volume (it does not); preserve the 2D/3D numerical results as separate checks.
+4. Prepare a concise unsent, neutral author query asking for precise conventions, scripts and timing/geometry inputs, and clarification of count, timing and distance discrepancies. Do not initiate correspondence or share data without the user's instruction.
+5. Run focused and broader regression checks, update prior audit, refresh inventories, commit/push current branch and present the result.
