@@ -1,5 +1,7 @@
 # Quantum position verification and financial dynamics: source assessment
 
+**Source-status update:** A subsequently supplied full QPV PDF is examined in the [PDF audit](KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md). Its extended-run counts are internally impossible, and its November 2026 creation timestamp and some external material postdate the trusted 2026-10-31 date. References below to journal publication or retrieved versions are historical retrieval descriptions, not independent proof of availability as of that date. Neither the experiment nor its security proof was independently reproduced.
+
 ## Source hierarchy and version choice
 
 Choose sources by the strength and relevance of their evidence, not by an arbitrary cutoff. For experimental and technical claims, start with the latest accessible primary journal article and its methods; compare the authors' preprint or supplement for proofs and explicit changes. News articles help explain context but are not independent confirmation when they repeat the same release. A later version may contain corrections or stronger results, but lateness alone does not guarantee correctness; identify the actual change where possible.

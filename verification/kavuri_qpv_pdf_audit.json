@@ -1,0 +1,16 @@
+{
+  "scope": "Finite probability and arithmetic checks, not raw-data reproduction or full QPV proof.",
+  "uniform_independent_bits_xor": {
+    "setting_pair_independent_of_uA": true,
+    "verifier_setting_conditional_independence": true
+  },
+  "uniform_independent_bits_and_counterexample": {
+    "setting_pair_independent_of_uA": false,
+    "verifier_setting_conditional_independence": true
+  },
+  "basic_224_of_232_percent": 96.55172413793103,
+  "extended_pdf_passed_exceeds_instances": true,
+  "alternative_102_of_103_percent": 99.02912621359224,
+  "designed_source_robustness_to_threshold_ratio": 250,
+  "per_instance_delta_2_pow_minus_64": 5.421010862427522e-20
+}

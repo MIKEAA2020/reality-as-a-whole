@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 560,
-  "bytes": 7076642,
-  "line_count": 63838,
+  "document_count": 562,
+  "bytes": 7092320,
+  "line_count": 63912,
   "document_count_with_risk_phrases": 522,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "604894d5be0e79bb416c6ba179fbe654ed64f4d4e66d07c21e630c122c51173e",
-      "bytes": 136734,
-      "lines": 1071,
+      "sha256": "b7b9a178083444e416925926915d3ac4bcffa8bf422fbafd430819bb6a048cca",
+      "bytes": 137183,
+      "lines": 1074,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4991,6 +4991,8 @@
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
         "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -5564,6 +5566,7 @@
         "verification/intrinsic_clock_phase_erasure_gate.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/kavuri_qpv_pdf_audit.py",
         "verification/kemeny_snell_reversible_projection.py",
         "verification/kemeny_snell_reversible_projection_test.py",
         "verification/kent_final_record_toy_gate.py",
@@ -5849,18 +5852,18 @@
         72,
         144,
         196,
-        253,
-        282,
-        328,
-        353,
-        412,
-        506,
-        521,
-        557,
-        566,
-        569,
-        572,
-        636
+        255,
+        284,
+        330,
+        355,
+        414,
+        508,
+        523,
+        559,
+        568,
+        571,
+        574,
+        638
       ]
     },
     {
@@ -7380,6 +7383,40 @@
         26,
         80
       ]
+    },
+    {
+      "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
+      "sha256": "b83a4f97fbd27d3be07efa7209400293ad089c28c510f160464bed2ae4023110",
+      "bytes": 1858,
+      "lines": 9,
+      "title": "Reading plan: supplied Kavuri quantum-position-verification PDF",
+      "headings": [
+        "Reading plan: supplied Kavuri quantum-position-verification PDF"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
+      "sha256": "6ec37d5e5332d6f8f0d68b20625695058a277114dae094266e6d73cbf1df3196",
+      "bytes": 11420,
+      "lines": 54,
+      "title": "Kavuri et al.: supplied quantum-position-verification PDF audit",
+      "headings": [
+        "Kavuri et al.: supplied quantum-position-verification PDF audit",
+        "Finding and source status",
+        "What the protocol claims",
+        "Statistical certificate and reported performance",
+        "Further checks and unresolved timing",
+        "Implications for the reality-as-a-whole analysis"
+      ],
+      "local_links": [
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "verification/kavuri_qpv_pdf_audit.py",
+        "verification/qpv_causal_records_gate.py",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
@@ -11344,9 +11381,9 @@
     },
     {
       "path": "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
-      "sha256": "f0167324a8d0c911e1a279d5cc52bb09f0ba737e9cbdfb77eb41bffdcd98bb07",
-      "bytes": 8187,
-      "lines": 48,
+      "sha256": "d1ce97ed4f6d137e8d6ee819e3672015cd545c80850721dd2c9390fbe75d9114",
+      "bytes": 8732,
+      "lines": 50,
       "title": "Quantum position verification and financial dynamics: source assessment",
       "headings": [
         "Quantum position verification and financial dynamics: source assessment",
@@ -11356,32 +11393,34 @@
         "Verification"
       ],
       "local_links": [
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "verification/temporal_marginal_parity_gate.py"
       ],
       "risk_phrase_lines": [
-        15,
-        38,
-        40
+        17,
+        40,
+        42
       ]
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "3c10055f98ecb81b6d83f78086d9fb7f4a4725c34b93cacff6042dd851637952",
-      "bytes": 13146,
-      "lines": 69,
+      "sha256": "72da99e77536e12fc6c8ed7feec885798de586c211b11a918ca583662e348bfd",
+      "bytes": 14510,
+      "lines": 75,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
         "Quantum position verification: records, location and subjects",
-        "The linked reports",
+        "Current source-status update",
+        "The linked reports (historical source account)",
         "1. What the experiment did",
         "2. What “device-independent” and “secure” mean here",
         "3. Why timing and records are not redundant",
         "4. Finite evidence without pretending certainty",
-        "5. What this contributes to the whole-account",
-        "Reproduction and scope"
+        "5. What this contributes to the whole-account"
       ],
       "local_links": [
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "SOURCE_ACCESS_AND_READING_LIMITS.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -11390,10 +11429,10 @@
         "verification/qpv_causal_records_gate.json"
       ],
       "risk_phrase_lines": [
-        36,
-        38,
-        46,
-        56
+        42,
+        44,
+        52,
+        62
       ]
     },
     {
@@ -13608,8 +13647,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "sha256": "739e2224af2240e33f30180a633436c7b7c61d52ed4a9505c41a98b069e82781",
-      "bytes": 10216,
+      "sha256": "412c37336eb88dcc6e858a7fad40080d69ef1fe9de762262436d135f834cc6e4",
+      "bytes": 10258,
       "lines": 42,
       "title": "Source access and reading limits",
       "headings": [
@@ -13628,6 +13667,7 @@
         "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "sources/uploads/quantum_position_verification_main.txt",
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "QUANTUM_AGREEMENT_PLURAL_PERSPECTIVES_AND_RECORDS.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",

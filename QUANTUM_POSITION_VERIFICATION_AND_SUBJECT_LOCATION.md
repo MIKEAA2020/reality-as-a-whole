@@ -1,6 +1,12 @@
 # Quantum position verification: records, location and subjects
 
-## The linked reports
+## Current source-status update
+
+The user has now supplied the full ten-page PDF, inspected in the [PDF-specific audit](KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md). It prints the extended-run counts as **102 instances, 103 passed**, which is impossible; the earlier 102/103 claim below came from the previously inspected preprint, not the supplied PDF, and remains unverified against the raw data. The PDF also prints 224/232 as 96.5%, whereas ordinary rounding gives 96.6%. It states 3(2) ns for challenge arrivals; an earlier inspected supplement was reported as stating 9(2) ns. Neither discrepancy is resolved.
+
+The PDF's metadata gives a creation date of 2026-11-07, later than the trusted current date 2026-10-31, and its publication date field is `xx xx xxxx`. Some external links and version claims in this historical report are also dated after the trusted date. Treat them as previously retrieved or supplied material, **not independent proof that publication or those versions were available as of 2026-10-31**. The PDF is the evidence examined here; its provenance and version-of-record status are not independently established.
+
+## The linked reports (historical source account)
 
 The [Phys.org/NIST report](https://phys.org/news/2026-11-quantum-physics-person.html), [Science News article](https://www.sciencenews.org/article/quantum-physics-location-security), and [Quantum Insider article](https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/) discuss the **same NIST-led experiment**, not independent replications. Quantum Insider labels its text a press release and repeats NIST's account. The primary source is Kavuri and colleagues' [Nature article](https://www.nature.com/articles/s41586-026-11247-3), supplemented for detailed derivations by their [extended preprint, arXiv:2601.16892v2](https://arxiv.org/html/2601.16892v2). The accessible Nature abstract agrees with the preprint on the central comparisons; our numerical and security details below are drawn from the preprint. The full journal text was not available through our retrieval, so we have not completed a line-by-line comparison or ruled out journal-specific corrections.
 
@@ -20,7 +26,7 @@ The authors report:
 
 - verifier separation `195.1 ± 0.3 m`, approximately `250,000` trials per second, and measured detection efficiencies above `81%` at both relevant measurement stations;
 - two and four minutes per protocol instance in the two experimental analyses, with nominally 30 million and 60 million trials respectively;
-- 224 passes of 232 basic instances and 102 passes of 103 bounded-entanglement instances, at a **per-instance soundness target** `δ=2^−64` against the stated adversary class;
+- 224 passes of 232 basic instances; the previously inspected preprint was reported as 102 passes of 103 bounded-entanglement instances, but the newly supplied PDF prints the reverse and is internally inconsistent. At issue is a **per-instance soundness target** `δ=2^−64` against the stated adversary class, not independent confirmation of the counts;
 - a one-dimensional region `2.47 ± 0.02` times smaller than the ideal classical comparator, and a **three-dimensional volume** `4.53 ± 0.05` times smaller than the same-latency classical comparator. The same-latency one-dimensional factor is `4.48 ± 0.02`. These are different comparisons; the 4.53 volume ratio should not be reported as the 1D length ratio.
 
 These are authors' reported measurements and analyses; we have not downloaded their raw records or independently reproduced their experiment. Passing a statistical test at a chosen error threshold is not a posterior probability that a named person is at a location.

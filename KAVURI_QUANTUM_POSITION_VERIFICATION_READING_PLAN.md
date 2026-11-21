@@ -1,0 +1,9 @@
+# Reading plan: supplied Kavuri quantum-position-verification PDF
+
+The supplied article and its abstract, experiment, reported outcomes and Methods have already been inspected; this is a retrospective audit plan, not a preregistration or a promise of independent verification.
+
+1. Read the full PDF, distinguish device-independent theory, the resource-limited implemented protocol, and hypothetical larger-challenge extensions. Identify timing geometry, test-factor criterion, data selection, controls, limitations and meaningful numerical results. Check passage against its rendered page when extraction creates a possible contradiction.
+2. Clearly flag any future-dated PDF metadata against the trusted current date and distinguish a supplied document's claims from independently established publication status. Check whether accessible supplementary material/data/code can substantiate a claim; do not represent unavailable resources as inspected.
+3. Independently test elementary arithmetic and an explicitly idealized classical spoofing/no-signalling example; do not present the toy as a proof of the full quantum security theorem or a reproduction of the experiment. Explain the sample-level evidence versus adversary class and note internal inconsistencies without guessing corrections.
+4. Relate operational location and trust assumptions to the existing framework with a precise boundary: certifying physical access to a region is not certifying subject identity, an owner, experiential unity or faster-than-light communication. Explicitly separate the experiment from hypothetical models of consciousness.
+5. Write and present a concise, source-anchored audit; use aggregate checks, tests and project inventory conventions. Keep the supplied PDF out of Git absent explicit permission for this specific file. Commit and push only the active branch.

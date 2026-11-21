@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7912e3ca039e11140f1bd179dd0423ad58532683",
-  "file_count": 1659,
+  "base_head": "9ccb9712ba7cd37daf9ed35aa2b510c0393fe72f",
+  "file_count": 1663,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 136734,
-      "sha256": "604894d5be0e79bb416c6ba179fbe654ed64f4d4e66d07c21e630c122c51173e"
+      "bytes": 137183,
+      "sha256": "b7b9a178083444e416925926915d3ac4bcffa8bf422fbafd430819bb6a048cca"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -967,6 +967,16 @@
       "path": "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
       "bytes": 14935,
       "sha256": "0675168f8c524b68a4b12613e9672debe12a8b5305272b3b32c99e9c2795860f"
+    },
+    {
+      "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
+      "bytes": 1858,
+      "sha256": "b83a4f97fbd27d3be07efa7209400293ad089c28c510f160464bed2ae4023110"
+    },
+    {
+      "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
+      "bytes": 11420,
+      "sha256": "6ec37d5e5332d6f8f0d68b20625695058a277114dae094266e6d73cbf1df3196"
     },
     {
       "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
@@ -1655,13 +1665,13 @@
     },
     {
       "path": "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",
-      "bytes": 8187,
-      "sha256": "f0167324a8d0c911e1a279d5cc52bb09f0ba737e9cbdfb77eb41bffdcd98bb07"
+      "bytes": 8732,
+      "sha256": "d1ce97ed4f6d137e8d6ee819e3672015cd545c80850721dd2c9390fbe75d9114"
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "bytes": 13146,
-      "sha256": "3c10055f98ecb81b6d83f78086d9fb7f4a4725c34b93cacff6042dd851637952"
+      "bytes": 14510,
+      "sha256": "72da99e77536e12fc6c8ed7feec885798de586c211b11a918ca583662e348bfd"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -2025,8 +2035,8 @@
     },
     {
       "path": "SOURCE_ACCESS_AND_READING_LIMITS.md",
-      "bytes": 10216,
-      "sha256": "739e2224af2240e33f30180a633436c7b7c61d52ed4a9505c41a98b069e82781"
+      "bytes": 10258,
+      "sha256": "412c37336eb88dcc6e858a7fad40080d69ef1fe9de762262436d135f834cc6e4"
     },
     {
       "path": "SPECIFIC_VISUAL_PATHWAY_GATE_TEST.md",
@@ -5549,6 +5559,16 @@
       "sha256": "97b9171db52b86645739117f3ee3ecca36ae4b5407e2e29b8d46aab2f5fbb450"
     },
     {
+      "path": "verification/kavuri_qpv_pdf_audit.json",
+      "bytes": 669,
+      "sha256": "c12ab118dd25af71e698ffb9def2c835daddfb5df921cd9b121b96f586c499db"
+    },
+    {
+      "path": "verification/kavuri_qpv_pdf_audit.py",
+      "bytes": 2643,
+      "sha256": "5e5ed65d8a028c308fb6d98cc960399f9033ca0a90dd9e120c1f84e4e161b0fc"
+    },
+    {
       "path": "verification/kemeny_snell_reversible_projection.json",
       "bytes": 4326,
       "sha256": "77cee04d74db940beba68081ccfd4ae5205a518f5ce2a1474f3e8087d920a9d4"
@@ -6470,8 +6490,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 691542,
-      "sha256": "a03ebd575c0256d7bd5f0b26f9af436c022bc78ab8ddba3d94436c2b8b7ee5a9"
+      "bytes": 693344,
+      "sha256": "ae4591ef4acbe752f60438bc69cda19f7e5d6b8213a5c9eadd546e067b5ca47b"
     },
     {
       "path": "verification/project_inventory.py",

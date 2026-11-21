@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 517 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 421 verification Python scripts.
+- 519 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 422 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -203,6 +203,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) — Participatory realism and intelligibility from within the whole
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
+- [KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md](KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md) — Reading plan: supplied Kavuri quantum-position-verification PDF
+- [KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md](KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md) — Kavuri et al.: supplied quantum-position-verification PDF audit
 - [KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md](KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md) — Fixed plan: reversible weak-lumpability check on E-L
 - [KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md](KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md) — Reversible weak lumpability: a stronger constraint on the integrated candidate
 - [KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md](KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md) — Kent's Lorentzian quantum reality: full-paper and beable audit
@@ -790,6 +792,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/intrinsic_clock_phase_erasure_gate.py](verification/intrinsic_clock_phase_erasure_gate.py)
 - [verification/joint_access_common_source_gate.py](verification/joint_access_common_source_gate.py)
 - [verification/k_pairwise_constraint_and_gauge_gate.py](verification/k_pairwise_constraint_and_gauge_gate.py)
+- [verification/kavuri_qpv_pdf_audit.py](verification/kavuri_qpv_pdf_audit.py)
 - [verification/kemeny_snell_reversible_projection.py](verification/kemeny_snell_reversible_projection.py)
 - [verification/kemeny_snell_reversible_projection_test.py](verification/kemeny_snell_reversible_projection_test.py)
 - [verification/kent_final_record_toy_gate.py](verification/kent_final_record_toy_gate.py)
