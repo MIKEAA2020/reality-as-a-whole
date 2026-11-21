@@ -45,6 +45,7 @@ TESTS = [
     ('experiential_mismatch_transport', 'verification/experiential_mismatch_transport_gate.py'),
     ('integrated_cross_scale_quality', 'verification/integrated_cross_scale_quality.py'),
     ('integrated_subject_context_dynamics', 'verification/integrated_subject_context_dynamics.py'),
+    ('direct_stimulation_affect_arithmetic', 'verification/direct_stimulation_affect_audit.py'),
     ('awareness_ignition_calibration', 'verification/awareness_ignition_partial_identification.py'),
     ('random_report_audit', 'verification/random_audit_experience_bridge.py'),
     ('valence_proxy', 'verification/phase_frustration_audit.py'),

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 455,
-  "bytes": 5981952,
-  "line_count": 57915,
-  "document_count_with_risk_phrases": 427,
+  "document_count": 457,
+  "bytes": 6001248,
+  "line_count": 58024,
+  "document_count_with_risk_phrases": 429,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2650,6 +2650,56 @@
       ]
     },
     {
+      "path": "DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md",
+      "sha256": "5da2fe209c5fe11ddccd38bff2edc7d84153a91e3ec48db2ef240667d143f8df",
+      "bytes": 4299,
+      "lines": 17,
+      "title": "Fixed analysis plan: first-person affect under intracranial stimulation",
+      "headings": [
+        "Fixed analysis plan: first-person affect under intracranial stimulation",
+        "Question",
+        "Fixed extraction and checks",
+        "Integration and scope"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        9,
+        11,
+        13
+      ]
+    },
+    {
+      "path": "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md",
+      "sha256": "fb31fec94d631c882ed0d45b10e47d6440c548acb9e9c749721258d999d818b8",
+      "bytes": 13681,
+      "lines": 88,
+      "title": "First-person affect under stimulation: a quality constraint and a source audit",
+      "headings": [
+        "First-person affect under stimulation: a quality constraint and a source audit",
+        "Result and status",
+        "1. What was observed and what was not",
+        "2. A first-person four-level example",
+        "3. Precisely which binary law would be challenged?",
+        "4. Supplement charge discrepancies",
+        "5. What can make the next test informative?",
+        "6. Scope and reproduction"
+      ],
+      "local_links": [
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
+        "DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md",
+        "verification/direct_stimulation_affect_audit.py",
+        "verification/direct_stimulation_affect_audit_test.py",
+        "verification/direct_stimulation_affect_audit.json"
+      ],
+      "risk_phrase_lines": [
+        9,
+        55,
+        57,
+        61,
+        86
+      ]
+    },
+    {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
       "sha256": "4a5a3c546c417f65ba48897dfe66eae06d1e0babd9c97e67ad06561176a456b9",
       "bytes": 11798,
@@ -3826,8 +3876,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "67c64fb4b13781884ec368ddf158b84a08c86abf72266c516b0073026bfce47c",
-      "bytes": 20411,
+      "sha256": "c2d22af48c0e3c31c158b9fa4d474a8723e937d028718f2885659d3068ba335c",
+      "bytes": 20679,
       "lines": 83,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3843,6 +3893,7 @@
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
         "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
+        "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -3981,9 +4032,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5ed8626c4f456eee6ed9df2c7c0f78835808d8d1efb5f9953b99a6234f4a67f4",
-      "bytes": 109856,
-      "lines": 885,
+      "sha256": "d3d0af1dfbafc4e307633ec4dfc87d367928fbbe242febf0a690dfa0a23cbc5f",
+      "bytes": 110445,
+      "lines": 889,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4074,6 +4125,8 @@
         "DECOMBINATION_PRIVATION_CONSOLIDATION.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
+        "DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md",
+        "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md",
         "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
         "DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md",
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
@@ -4559,6 +4612,8 @@
         "verification/daly_comparator_metadata_audit.py",
         "verification/daly_comparator_metadata_audit_test.py",
         "verification/decoherence_record_boundary.py",
+        "verification/direct_stimulation_affect_audit.py",
+        "verification/direct_stimulation_affect_audit_test.py",
         "verification/disclosure_observation_identifiability.py",
         "verification/disclosure_scope_check.py",
         "verification/dust_clock_record.py",
@@ -4858,19 +4913,19 @@
         44,
         48,
         57,
-        121,
-        166,
-        208,
-        256,
-        278,
-        325,
-        401,
-        416,
-        452,
-        461,
-        464,
-        467,
-        527
+        123,
+        168,
+        210,
+        258,
+        280,
+        327,
+        403,
+        418,
+        454,
+        463,
+        466,
+        469,
+        529
       ]
     },
     {
@@ -5920,8 +5975,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "4dc3eb9938a6ca1c1103efab4d8f25e70e32d5a388225720f4b3c8bd2495f7eb",
-      "bytes": 19018,
+      "sha256": "d70c53d488c194346dd0882b2aee1dc18d36e4895ae654e01e5e7b1e2aab0286",
+      "bytes": 19294,
       "lines": 117,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
@@ -5938,6 +5993,7 @@
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
         "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
+        "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -8087,8 +8143,8 @@
     },
     {
       "path": "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
-      "sha256": "22185c5fdec975ba6836a69b0f75d1a7fb5c5f3148da005d211ece5d42b0b096",
-      "bytes": 14388,
+      "sha256": "f2656b654b9e673c85800c41a241eae1738b3897dec27a35ac7059de2f7e63ea",
+      "bytes": 14571,
       "lines": 72,
       "title": "A first-person pain/aversion dataset: what can and cannot anchor the candidate",
       "headings": [
@@ -8105,7 +8161,8 @@
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
         "verification/pain_aversion_readiness.json",
-        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md"
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md"
       ],
       "risk_phrase_lines": [
         52

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 412 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 344 verification Python scripts.
+- 414 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 346 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -89,6 +89,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DECOMBINATION_PRIVATION_CONSOLIDATION.md](DECOMBINATION_PRIVATION_CONSOLIDATION.md) — Articulation without subject-summing: the proper role of privation
 - [DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md) — Denis Noble on order, disorder and experience
 - [DEPENDENCY_DRIVEN_RESEARCH_PLAN.md](DEPENDENCY_DRIVEN_RESEARCH_PLAN.md) — From what we have to what we need: dependency-driven work register
+- [DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md](DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md) — Fixed analysis plan: first-person affect under intracranial stimulation
+- [DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md](DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md) — First-person affect under stimulation: a quality constraint and a source audit
 - [DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) — When could the maintained-disclosure contrast be identifiable?
 - [DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md](DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md) — Cutting a distribution channel is not erasing its records
 - [DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md) — Relational matter and experience: one reality, two aspects
@@ -588,6 +590,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/daly_comparator_metadata_audit.py](verification/daly_comparator_metadata_audit.py)
 - [verification/daly_comparator_metadata_audit_test.py](verification/daly_comparator_metadata_audit_test.py)
 - [verification/decoherence_record_boundary.py](verification/decoherence_record_boundary.py)
+- [verification/direct_stimulation_affect_audit.py](verification/direct_stimulation_affect_audit.py)
+- [verification/direct_stimulation_affect_audit_test.py](verification/direct_stimulation_affect_audit_test.py)
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "aef293c8097c4166f6064f972fb83b8bf4fbd360",
-  "file_count": 1435,
+  "base_head": "2419f421c3b6cef39cc3b9996ad22c893ddb127c",
+  "file_count": 1440,
   "files": [
     {
       "path": ".gitattributes",
@@ -394,6 +394,16 @@
       "sha256": "613569b7c440640736c8d97ffcbfaf4af1d45e0e5fe80a3367fb3cf03e0a87c2"
     },
     {
+      "path": "DIRECT_STIMULATION_AFFECT_AND_CHARGE_AUDIT_PLAN.md",
+      "bytes": 4299,
+      "sha256": "5da2fe209c5fe11ddccd38bff2edc7d84153a91e3ec48db2ef240667d143f8df"
+    },
+    {
+      "path": "DIRECT_STIMULATION_AFFECT_QUALITY_AND_CHARGE_GATE.md",
+      "bytes": 13681,
+      "sha256": "fb31fec94d631c882ed0d45b10e47d6440c548acb9e9c749721258d999d818b8"
+    },
+    {
       "path": "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
       "bytes": 11798,
       "sha256": "4a5a3c546c417f65ba48897dfe66eae06d1e0babd9c97e67ad06561176a456b9"
@@ -590,8 +600,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 20411,
-      "sha256": "67c64fb4b13781884ec368ddf158b84a08c86abf72266c516b0073026bfce47c"
+      "bytes": 20679,
+      "sha256": "c2d22af48c0e3c31c158b9fa4d474a8723e937d028718f2885659d3068ba335c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -615,8 +625,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 109856,
-      "sha256": "5ed8626c4f456eee6ed9df2c7c0f78835808d8d1efb5f9953b99a6234f4a67f4"
+      "bytes": 110445,
+      "sha256": "d3d0af1dfbafc4e307633ec4dfc87d367928fbbe242febf0a690dfa0a23cbc5f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -765,8 +775,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 19018,
-      "sha256": "4dc3eb9938a6ca1c1103efab4d8f25e70e32d5a388225720f4b3c8bd2495f7eb"
+      "bytes": 19294,
+      "sha256": "d70c53d488c194346dd0882b2aee1dc18d36e4895ae654e01e5e7b1e2aab0286"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -1125,8 +1135,8 @@
     },
     {
       "path": "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
-      "bytes": 14388,
-      "sha256": "22185c5fdec975ba6836a69b0f75d1a7fb5c5f3148da005d211ece5d42b0b096"
+      "bytes": 14571,
+      "sha256": "f2656b654b9e673c85800c41a241eae1738b3897dec27a35ac7059de2f7e63ea"
     },
     {
       "path": "PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md",
@@ -4144,6 +4154,21 @@
       "sha256": "0568908f2702b1dd9cd7a013c02c05f8fcd3a535703ecc0523144fa066e1fcd6"
     },
     {
+      "path": "verification/direct_stimulation_affect_audit.json",
+      "bytes": 3446,
+      "sha256": "2f1f7efcc7d5df5a03df7533b9011e8d0070a9635aa29b469a56faaed7765a1d"
+    },
+    {
+      "path": "verification/direct_stimulation_affect_audit.py",
+      "bytes": 3999,
+      "sha256": "92910c8376f602b789087ed4248656527085f70ba9c50e40f414a953343ce0ee"
+    },
+    {
+      "path": "verification/direct_stimulation_affect_audit_test.py",
+      "bytes": 1589,
+      "sha256": "f287993304df0c0e4265a06daab6020e38bd9dae1ef2fbc54e0e54b980c6d26e"
+    },
+    {
       "path": "verification/disclosure_observation_identifiability.json",
       "bytes": 1444,
       "sha256": "e71b20b55dfcee26bd914f7d04d2c23cb365d342f98e7c4e546d29c9d9e48d34"
@@ -4435,13 +4460,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 7717,
-      "sha256": "43a092ad0e55ae06c28f4e87ef047e43017671c340ea3614e15740ce51503a98"
+      "bytes": 7898,
+      "sha256": "27a12aba5a6e9773d4192cece8c5ed586870421294d5cc128287d6306cf0d6ec"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 5711,
-      "sha256": "ccdd3c5a1d60aa3ec2f00bab843b2abcfecd5b30e8a09dfb96c1f95aafb75fa6"
+      "bytes": 5808,
+      "sha256": "ec98d04c2a776ad97225160a8b5cd4bb5ab379b30a7e9117e57b15a6aef66bff"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -5490,8 +5515,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 571166,
-      "sha256": "4caa240e45266aae870fe061e15ca796becc0390eafce4019bb4ceac77445e4a"
+      "bytes": 573380,
+      "sha256": "d0f38556b540131969718e56ac990689df1e2b9712168fbbbfb3741904d0db4a"
     },
     {
       "path": "verification/project_inventory.py",

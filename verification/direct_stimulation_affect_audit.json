@@ -1,0 +1,136 @@
+{
+  "supplement_charge_audit": {
+    "paired_rows": 15,
+    "cells": 30,
+    "discrepant_cells": 8,
+    "affected_rows": 4,
+    "different_displayed_trial_charge_for_same_listed_settings": [
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "frequency_hz": 10,
+        "duration_seconds": 5,
+        "pulse_uC": "1",
+        "different_printed_trial_uC": [
+          "250",
+          "50"
+        ]
+      },
+      {
+        "subject": "12",
+        "site": "OFC1-OFC2",
+        "frequency_hz": 5,
+        "duration_seconds": 1,
+        "pulse_uC": "6/5",
+        "different_printed_trial_uC": [
+          "36",
+          "6"
+        ]
+      }
+    ],
+    "differences": [
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 1,
+        "frequency_hz": 50,
+        "duration_seconds": 1,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "100",
+        "formula_trial_uC": "50",
+        "printed_over_formula": "2"
+      },
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 2,
+        "frequency_hz": 2,
+        "duration_seconds": 5,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "50",
+        "formula_trial_uC": "10",
+        "printed_over_formula": "5"
+      },
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 1,
+        "frequency_hz": 2,
+        "duration_seconds": 5,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "50",
+        "formula_trial_uC": "10",
+        "printed_over_formula": "5"
+      },
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 2,
+        "frequency_hz": 5,
+        "duration_seconds": 5,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "125",
+        "formula_trial_uC": "25",
+        "printed_over_formula": "5"
+      },
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 1,
+        "frequency_hz": 5,
+        "duration_seconds": 5,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "125",
+        "formula_trial_uC": "25",
+        "printed_over_formula": "5"
+      },
+      {
+        "subject": "10",
+        "site": "OFC1-OFC3",
+        "side": 2,
+        "frequency_hz": 10,
+        "duration_seconds": 5,
+        "given_pulse_uC": "1",
+        "printed_trial_uC": "250",
+        "formula_trial_uC": "50",
+        "printed_over_formula": "5"
+      },
+      {
+        "subject": "12",
+        "site": "OFC1-OFC2",
+        "side": 1,
+        "frequency_hz": 5,
+        "duration_seconds": 1,
+        "given_pulse_uC": "1.2",
+        "printed_trial_uC": "36",
+        "formula_trial_uC": "6",
+        "printed_over_formula": "6"
+      },
+      {
+        "subject": "12",
+        "site": "OFC1-OFC2",
+        "side": 2,
+        "frequency_hz": 2,
+        "duration_seconds": 1,
+        "given_pulse_uC": "1.2",
+        "printed_trial_uC": "14.4",
+        "formula_trial_uC": "12/5",
+        "printed_over_formula": "6"
+      }
+    ]
+  },
+  "four_report_two_level_oracle": {
+    "published_values_percent": [
+      "10",
+      "20",
+      "40",
+      "60"
+    ],
+    "assignments_examined": 16,
+    "minimum_mean_squared_error": "125/2",
+    "minimum_rmse": 7.905694150420948,
+    "minimum_mean_absolute_error": "15/2",
+    "minimum_max_absolute_error": "10"
+  },
+  "scope": "arithmetic checks on transcribed displayed reports and formula, not delivered charge, q, experience measurement or battery pass"
+}
