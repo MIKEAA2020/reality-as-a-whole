@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 533,
-  "bytes": 6824946,
-  "line_count": 62687,
-  "document_count_with_risk_phrases": 499,
+  "document_count": 535,
+  "bytes": 6853032,
+  "line_count": 62800,
+  "document_count_with_risk_phrases": 501,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4385,9 +4385,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "6462f524babd76ade65ace91db9c2783472704bebb5c41fc08908c28d1af59a5",
-      "bytes": 41604,
-      "lines": 167,
+      "sha256": "d73e0953cb399f6e1645d39981faffbfad1bc20798f0b5df09bfffe1e2719f15",
+      "bytes": 42095,
+      "lines": 169,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4399,6 +4399,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
@@ -4475,24 +4476,25 @@
       ],
       "risk_phrase_lines": [
         5,
-        23,
+        7,
         25,
-        29,
-        39,
-        43,
-        49,
+        27,
+        31,
+        41,
+        45,
         51,
-        65,
-        69,
-        81,
-        89,
+        53,
+        67,
+        71,
+        83,
         91,
-        95,
-        111,
-        121,
-        138,
-        155,
-        161
+        93,
+        97,
+        113,
+        123,
+        140,
+        157,
+        163
       ]
     },
     {
@@ -4671,9 +4673,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a337804c0f670d685fb62b30dc2d848c1474aff6ec99631eca2868f64d6568ec",
-      "bytes": 130465,
-      "lines": 1033,
+      "sha256": "3112aaad0b81bb783646c713b4367e61ebbbb34e96949e406123ff9b7cd1e5e1",
+      "bytes": 130845,
+      "lines": 1035,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5076,7 +5078,9 @@
         "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
+        "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md",
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
         "STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md",
@@ -5703,13 +5707,13 @@
         320,
         345,
         392,
-        479,
-        494,
-        530,
-        539,
-        542,
-        545,
-        609
+        481,
+        496,
+        532,
+        541,
+        544,
+        547,
+        611
       ]
     },
     {
@@ -10574,9 +10578,9 @@
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
-      "sha256": "d4e75948afbe50a7c72f86eadf54cc373af6cf5adb010ff19db97ec69aaeba87",
-      "bytes": 18036,
-      "lines": 84,
+      "sha256": "477d9d3ce63468a18fc5447615049a337f3a2e3df9bd1fb539fbd5957e3d73d4",
+      "bytes": 18333,
+      "lines": 86,
       "title": "Private local and global fields: one explicit completion",
       "headings": [
         "Private local and global fields: one explicit completion",
@@ -10589,18 +10593,19 @@
         "6. Assessment and next substantive work"
       ],
       "local_links": [
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_COMPARISON_FIXED_PLAN.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md"
       ],
       "risk_phrase_lines": [
-        27,
-        30,
-        31,
-        58,
+        29,
+        32,
+        33,
         60,
-        82
+        62,
+        84
       ]
     },
     {
@@ -13349,9 +13354,9 @@
     },
     {
       "path": "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
-      "sha256": "0144adacb788129bc989b8c624d32a4b8622116b92d067aeaee9a4cd5b0d0879",
-      "bytes": 13952,
-      "lines": 75,
+      "sha256": "23e55130a6d7835d9186927d1f3c0a9ad6620f869bcfc5aaf9b13e5df25ec61f",
+      "bytes": 14273,
+      "lines": 77,
       "title": "First-person unity against competing boundary rules: what a real case constrains",
       "headings": [
         "First-person unity against competing boundary rules: what a real case constrains",
@@ -13364,6 +13369,7 @@
         "6. Implication for the framework"
       ],
       "local_links": [
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
@@ -13371,10 +13377,44 @@
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        35,
-        51
+        11,
+        37,
+        53
+      ]
+    },
+    {
+      "path": "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
+      "sha256": "2d756b36b04404968e50d97a50c054fd474847211563eb2ef5be95b2240147fb",
+      "bytes": 23187,
+      "lines": 92,
+      "title": "Private nested subjects versus a layered subject: the evidence gap",
+      "headings": [
+        "Private nested subjects versus a layered subject: the evidence gap",
+        "Decision",
+        "1. Source record and access",
+        "2. What the participants actually contributed",
+        "3. Mapping to the completed comparison",
+        "4. What observations would challenge the packages?",
+        "5. Why matched reports do not settle `N`",
+        "6. A realistic evidential contract, not a promised assay"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        49,
+        61,
+        73,
+        90
       ]
     },
     {
@@ -13407,6 +13447,25 @@
         37,
         43,
         55
+      ]
+    },
+    {
+      "path": "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md",
+      "sha256": "d96aeb76bac2ebd41e5cccf9e2d7794faa17352a968843ec9fa31442323332b1",
+      "bytes": 3410,
+      "lines": 13,
+      "title": "Fixed plan: split-brain first-person evidence and nested subject incidence",
+      "headings": [
+        "Fixed plan: split-brain first-person evidence and nested subject incidence",
+        "Prior knowledge and scope",
+        "Tasks"
+      ],
+      "local_links": [
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9
       ]
     },
     {

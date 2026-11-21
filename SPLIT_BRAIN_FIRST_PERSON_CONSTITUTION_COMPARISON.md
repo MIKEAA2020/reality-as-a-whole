@@ -2,6 +2,8 @@
 
 ## Decision
 
+The [subsequent private-subject identity audit](SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md) checks the 2023 DDC study's task-specific confidence and anecdotal first-person remark, and specifies the extra incidence and coverage needed to distinguish P from C-layered. The 2017 supplement remains uninspected.
+
 **Later refinement:** the [layered-unity common-domain comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) distinguishes global from detailed local conjunction. Its conditional challenge to an exclusive L package depends on the specified aspects and the absence of a cross-side field; neither form of conjunction is established in this clinical study.
 
 Pinto and colleagues' 2017 study provides **actual first-person evidence**, alongside behavioral results, relevant to the project's subject-boundary question. Both participants reported seeing their entire visual field and experiencing unchanged conscious unity after surgery. These reports deserve positive evidential weight. They are not, however, a directly calibrated trial-by-trial measurement of the four-spin model's L-versus-C target. The main article does not establish the exact circumstances of the broader phenomenological interview, and its supplementary account has not been inspected here.

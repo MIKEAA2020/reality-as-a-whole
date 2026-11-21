@@ -2,6 +2,8 @@
 
 ## Result
 
+The [split-brain private-subject identity evidence audit](SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md) follows up the P/C-layered incidence gap using a simultaneous-task confidence report and a sequential-task control. It does not establish either package or a clinical subject count.
+
 The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) further distinguishes these postulated first-person fields from quantum field operators, modes and local algebras; no subject mapping follows from the shared terminology.
 
 Follow-up: the [IIT 4.0 exclusion audit](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) compares P with a separately motivated non-overlap principle without treating the project selector as IIT.
