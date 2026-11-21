@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 542,
-  "bytes": 6935412,
-  "line_count": 63152,
-  "document_count_with_risk_phrases": 508,
+  "document_count": 544,
+  "bytes": 6957928,
+  "line_count": 63241,
+  "document_count_with_risk_phrases": 510,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -392,8 +392,8 @@
     },
     {
       "path": "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
-      "sha256": "b5cad32293af0bbb962fc65578fa0d9cb539eae8a8899bc55c5cc76d01902f21",
-      "bytes": 17087,
+      "sha256": "eed53a141674ed84939b339420b661973bf3460e85f309742c07b6e8b9d3db57",
+      "bytes": 17507,
       "lines": 72,
       "title": "Attention capacity and lived unity: what the cited studies establish",
       "headings": [
@@ -407,9 +407,12 @@
       ],
       "local_links": [
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md"
       ],
@@ -3237,6 +3240,56 @@
       ]
     },
     {
+      "path": "DUAL_TASK_DIVIDED_CUE_ATTENTION_PRIMARY_READING_PLAN.md",
+      "sha256": "8e7a2b75f7e5d747f13014858a14d1b8104dbe793d935ab4f56eed33acb966ce",
+      "bytes": 2561,
+      "lines": 13,
+      "title": "Fixed retrospective plan: supplied dual-task and divided-cue studies",
+      "headings": [
+        "Fixed retrospective plan: supplied dual-task and divided-cue studies",
+        "Before reading the uploads",
+        "Reading and checks"
+      ],
+      "local_links": [
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "path": "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
+      "sha256": "d63d16d631b1372dc6fcba103c8f1f4fef156f111dd5288f724b7a83f779840b",
+      "bytes": 19083,
+      "lines": 75,
+      "title": "Split-brain dual-task and divided-cue evidence: primary-source audit",
+      "headings": [
+        "Split-brain dual-task and divided-cue evidence: primary-source audit",
+        "Result in brief",
+        "Sources and reading scope",
+        "1. The 1982 bilateral sequence task: what actually varied",
+        "2. Arguin 2000: divided-cue benefit and individual heterogeneity",
+        "3. The separate 1984 JW cue experiment and apparent timing conflict",
+        "4. 2004 Figure 1 visual check and 2009 comparison",
+        "5. Consequences for subject and quality constitution"
+      ],
+      "local_links": [
+        "DUAL_TASK_DIVIDED_CUE_ATTENTION_PRIMARY_READING_PLAN.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        20,
+        44,
+        47,
+        53,
+        61,
+        73
+      ]
+    },
+    {
       "path": "DUE_REGARD_ARGUMENT.md",
       "sha256": "9def3e886a14b49c91a6f345cc191352551819c71cbb342ed66308674fe28bd8",
       "bytes": 7813,
@@ -4400,8 +4453,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "67c463d28cda7a2a85a8bd98c22ca3e72427a44a4ce41e44f570410b9a2ac3ba",
-      "bytes": 43920,
+      "sha256": "dc8fea9a83a9aee34d973ad37c7a55559c8b9ecb7d4baafdd5d959b3d6b25f9e",
+      "bytes": 44215,
       "lines": 177,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4415,6 +4468,7 @@
       ],
       "local_links": [
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
@@ -4427,6 +4481,7 @@
         "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
         "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md",
         "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
@@ -4692,9 +4747,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a0c544847e982daab4b9d8ff08c5ffc83be299fbb4d7a4c139a1ccec5df1f6a1",
-      "bytes": 132143,
-      "lines": 1042,
+      "sha256": "00259f70640087e7cdd26a29b7b80e7abf822d94b265cc44d4194d96a7e60ff5",
+      "bytes": 132527,
+      "lines": 1044,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4806,6 +4861,8 @@
         "DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md",
         "DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md",
         "DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md",
+        "DUAL_TASK_DIVIDED_CUE_ATTENTION_PRIMARY_READING_PLAN.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "DUE_REGARD_ARGUMENT.md",
         "DUST_CLOCK_RECORD.md",
         "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
@@ -5726,20 +5783,20 @@
         54,
         60,
         70,
-        140,
-        192,
-        249,
-        278,
-        324,
-        349,
-        396,
-        488,
-        503,
-        539,
-        548,
-        551,
-        554,
-        618
+        142,
+        194,
+        251,
+        280,
+        326,
+        351,
+        398,
+        490,
+        505,
+        541,
+        550,
+        553,
+        556,
+        620
       ]
     },
     {
@@ -13391,9 +13448,9 @@
     },
     {
       "path": "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
-      "sha256": "38806a41153af64c845cd1b7fed163986ae41b9bd063d8c22105e695b044bcd9",
-      "bytes": 16319,
-      "lines": 66,
+      "sha256": "ab9236edb2f155849963123070ea1c837b4d7967047fcc8ba0c120b5890ca1e0",
+      "bytes": 15869,
+      "lines": 65,
       "title": "Split-brain attentional blink: the two primary results now read",
       "headings": [
         "Split-brain attentional blink: the two primary results now read",
@@ -13405,10 +13462,13 @@
         "5. Consequences and missing inputs"
       ],
       "local_links": [
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
-        "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md"
+        "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md"
       ],
       "risk_phrase_lines": [
+        17,
         25,
         56,
         60
@@ -13416,8 +13476,8 @@
     },
     {
       "path": "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
-      "sha256": "18245633ca5642ba0c9b442605cb0b873d0ac4e310b8c4587f6253d62bceae18",
-      "bytes": 13627,
+      "sha256": "5db7a02d79fb88233974bbbdd4187d1e5faac809af8e59724930342101e09b57",
+      "bytes": 13850,
       "lines": 59,
       "title": "Two split-brain blink studies: what is being conditioned on?",
       "headings": [
@@ -13432,6 +13492,7 @@
       ],
       "local_links": [
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",

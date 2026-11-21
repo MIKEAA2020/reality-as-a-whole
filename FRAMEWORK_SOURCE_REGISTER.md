@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 499 root Markdown documents including this register; 43 research Markdown documents.
+- 501 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -110,6 +110,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md](DISCLOSURE_OBSERVATION_IDENTIFIABILITY.md) — When could the maintained-disclosure contrast be identifiable?
 - [DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md](DISTRIBUTION_CUT_AND_RECORD_PERSISTENCE.md) — Cutting a distribution channel is not erasing its records
 - [DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md](DUAL_ASPECT_REALISM_AND_SOURCE_RECOVERY.md) — Relational matter and experience: one reality, two aspects
+- [DUAL_TASK_DIVIDED_CUE_ATTENTION_PRIMARY_READING_PLAN.md](DUAL_TASK_DIVIDED_CUE_ATTENTION_PRIMARY_READING_PLAN.md) — Fixed retrospective plan: supplied dual-task and divided-cue studies
+- [DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md](DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md) — Split-brain dual-task and divided-cue evidence: primary-source audit
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
 - [EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) — A neural-signal deviation candidate against reported valence
