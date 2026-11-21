@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [four-spin physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) develops a conditional report-independent calibration and exact selected-cell sensor-error example, while showing that passive records need not identify a separately designated channel preference. It supplies no real neural q measurement or experiential assay; battery verdicts remain open.
+
 The [history-comparison first-person assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) derives sharp conditional bounds for testing two stipulated quality assignments with potentially dependent report and physical-classification errors. It highlights conditional calibration and validation as unresolved prerequisites; the results do not establish a real assay or change the substantive battery verdicts.
 
 The [current-mismatch versus history gate](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) constructs an experience-respecting onset rival on the same four-spin kernel and proves an exact full-current-state reconstruction limit for its stipulated labels. A published heat-history study supplies relevant first-person pain-intensity data, not an independent q or unpleasantness assay; the substantive bridge and battery verdicts remain open.

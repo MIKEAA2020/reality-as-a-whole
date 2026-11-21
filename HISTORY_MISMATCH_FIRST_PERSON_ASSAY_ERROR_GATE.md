@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+The follow-up [physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) derives an explicit toy-model `ρ` under independently stipulated calibration and spin-readout assumptions, and shows why passive data cannot identify every possible target-channel preference. Its sensor and calibration inputs are hypothetical, not real validation.
+
 The prior [current-level versus onset comparison](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) identified the one physical history where the proposed binary assignments disagree. This gate quantifies what must be known to make that disagreement visible through an imperfect, potentially history-dependent report and an imperfect physical classifier.
 
 For episodes *classified* as persistent mismatch `H=11`, suppose independently justified conditional bounds are `η` on report disagreement with the designated experienced contrast and `ρ` on physical-history misclassification. Even if the two errors are dependent and history-specific, the predicted positive-report rate is at least `max(0,1−η−ρ)` under the strict level package and at most `min(1,η+ρ)` under the strict onset package. With only these bounds, **η+ρ<1/2 is sufficient for nonoverlapping population predictions**; the bounds are sharp in the unrestricted finite model. At or above 1/2 the predictions can overlap. Actual calibrated values are not supplied, and a valid real-world discrimination has not been achieved.

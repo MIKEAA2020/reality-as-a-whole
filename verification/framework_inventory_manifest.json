@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "29d8d5490777ecb229f4bcd1ac3bfe41d019f8cc",
-  "file_count": 1482,
+  "base_head": "e5a5bf9196f9c295f92e9263c6b237847843b19d",
+  "file_count": 1486,
   "files": [
     {
       "path": ".gitattributes",
@@ -375,8 +375,8 @@
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
-      "bytes": 15417,
-      "sha256": "c4279baecc18696553ec0d6052c523f1dcba48bc00705ced177131321233fe96"
+      "bytes": 15714,
+      "sha256": "49f90ec20dcdbccb74a707c23de5abe9502eecafcea02f7d26e7a8aec154933a"
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
@@ -625,8 +625,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 25801,
-      "sha256": "4fdc410e8489c6ddf9aedce3a73a0f5c50b2dff74db3c411a9f8577108390ae3"
+      "bytes": 26193,
+      "sha256": "c03c5d4570329b5b382c23b9dac435796b2ce42a4cbcdc4361b2a6d4ee3812cf"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -649,9 +649,14 @@
       "sha256": "45d21d6bd8649dd5d278383ccef501aa06499a925dabd2c33ffd9d894a613db1"
     },
     {
+      "path": "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+      "bytes": 14389,
+      "sha256": "cae026e6a9c40f09c07aeecbd55fcb3254d7878a5b5f5fb1c8131771c81d1ad4"
+    },
+    {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 115303,
-      "sha256": "ce8ccbf353d62972e5e1f6aebdc6b3f5016df95d83ac5de88437c3117bf95f31"
+      "bytes": 115704,
+      "sha256": "00933de024622645e8d4059534a43ab094b98befdead9f43ece57383acfc4c80"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -760,8 +765,8 @@
     },
     {
       "path": "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
-      "bytes": 14008,
-      "sha256": "b3e39761c48f29a2951c7620a5e1649a89e9e3a8f3db1132a31e3be852f2f34e"
+      "bytes": 14375,
+      "sha256": "585b6c5f67516abc445dd6b21b2e31b35e93ba1f7a03666e0e45be914a1f0db6"
     },
     {
       "path": "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
@@ -805,8 +810,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 22439,
-      "sha256": "653ca307913108526a22b81ae54b7a8d2bdf803f4664c538c7755f81df096a4c"
+      "bytes": 22839,
+      "sha256": "b5ba6e1cfd432927e5541090a0720fa596c3109bbd520014cd0f33051ce7bf26"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -1125,8 +1130,8 @@
     },
     {
       "path": "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
-      "bytes": 16920,
-      "sha256": "c19decf6c424ae0dc532af88d030b4a65fcc5b7a8943e1507d512f79ad803e25"
+      "bytes": 17228,
+      "sha256": "9f348cf22c837c7516ac03add572ae373ea8bd297fd6876243fd0ab5e6234049"
     },
     {
       "path": "OKN_SOURCE_QUALIFICATION.md",
@@ -4594,6 +4599,21 @@
       "sha256": "cb0709557c1a2a622220f419cab85ffcc127212ea7cd9e0ca0603dd3b68c21e1"
     },
     {
+      "path": "verification/four_spin_mismatch_measurement_gate.json",
+      "bytes": 1207,
+      "sha256": "4cd33198a38cf5d85ca12c39fc6bb180615acf3c7a93cba33da89eb9df09de3e"
+    },
+    {
+      "path": "verification/four_spin_mismatch_measurement_gate.py",
+      "bytes": 4719,
+      "sha256": "44ee6bbb9e6a633d989750277ec52cb9b6bcd3019afc2150577a79031d0af7e4"
+    },
+    {
+      "path": "verification/four_spin_mismatch_measurement_gate_test.py",
+      "bytes": 2097,
+      "sha256": "9d60d2ea5791cc40770d9aa8fc3c59373bdb3b89dae67e3581766d79e98441fc"
+    },
+    {
       "path": "verification/framework_battery.json",
       "bytes": 8080,
       "sha256": "729cca9d8c661b610584e1aa9d4c5fb670e83b48c8e8fdcad40e9222fc74fdd2"
@@ -5710,8 +5730,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 594326,
-      "sha256": "4323610c0d2069fdb0e94e682314d7dd225ab70d5f25f9125aaa8373a2dd9a58"
+      "bytes": 596381,
+      "sha256": "cd4770a408128736b0125e1411c5607dccefdc4f17cb8dbfeece915fad0f20c0"
     },
     {
       "path": "verification/project_inventory.py",

@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) works out a report-independent preference calibration and conditional noisy-readout error in this same four-spin sector. Its passive-identification control distinguishes a net interaction from an independently selected channel; none of the assumed real-world measurement or phenomenal bridges is established.
+
 The [history-comparison first-person assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) gives conditional error thresholds for distinguishing level and onset assignments, including physical-history misclassification and report errors. The calibration values are hypothetical; no actual q or phenomenal reference is established.
 
 The [current-mismatch versus history gate](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) compares the original pair-quality postulate with an experience-respecting onset-only rival on the same equilibrium kernel. They disagree on 71/448 of transitions, and a matched full-current-state witness demonstrates a finite information limitation. An actual heat-pain history result motivates, but does not test, the internal q bridge.

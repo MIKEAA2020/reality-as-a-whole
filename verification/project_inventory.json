@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 475,
-  "bytes": 6184087,
-  "line_count": 59008,
-  "document_count_with_risk_phrases": 447,
+  "document_count": 476,
+  "bytes": 6200641,
+  "line_count": 59138,
+  "document_count_with_risk_phrases": 448,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2509,9 +2509,9 @@
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
-      "sha256": "c4279baecc18696553ec0d6052c523f1dcba48bc00705ced177131321233fe96",
-      "bytes": 15417,
-      "lines": 81,
+      "sha256": "49f90ec20dcdbccb74a707c23de5abe9502eecafcea02f7d26e7a8aec154933a",
+      "bytes": 15714,
+      "lines": 83,
       "title": "Current mismatch versus experiential history: a common-domain gate",
       "headings": [
         "Current mismatch versus experiential history: a common-domain gate",
@@ -2523,6 +2523,7 @@
         "5. What advances and what remains open"
       ],
       "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "verification/integrated_level_history_contrast.py",
@@ -2532,12 +2533,13 @@
       ],
       "risk_phrase_lines": [
         5,
-        11,
-        15,
-        16,
-        27,
-        75,
-        81
+        7,
+        13,
+        17,
+        18,
+        29,
+        77,
+        83
       ]
     },
     {
@@ -4022,9 +4024,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4fdc410e8489c6ddf9aedce3a73a0f5c50b2dff74db3c411a9f8577108390ae3",
-      "bytes": 25801,
-      "lines": 105,
+      "sha256": "c03c5d4570329b5b382c23b9dac435796b2ce42a4cbcdc4361b2a6d4ee3812cf",
+      "bytes": 26193,
+      "lines": 107,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4036,6 +4038,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
@@ -4076,16 +4079,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        19,
-        27,
+        5,
+        9,
+        21,
         29,
-        33,
-        49,
-        59,
-        76,
-        93,
-        99
+        31,
+        35,
+        51,
+        61,
+        78,
+        95,
+        101
       ]
     },
     {
@@ -4190,10 +4194,50 @@
       ]
     },
     {
+      "path": "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+      "sha256": "cae026e6a9c40f09c07aeecbd55fcb3254d7878a5b5f5fb1c8131771c81d1ad4",
+      "bytes": 14389,
+      "lines": 117,
+      "title": "A conditional physical mismatch measurement in the four-spin sector",
+      "headings": [
+        "A conditional physical mismatch measurement in the four-spin sector",
+        "Result and limits",
+        "1. What is being measured",
+        "2. A possible report-independent calibration",
+        "3. Physical readout error in the actual disagreement cell",
+        "4. The physical non-identification control",
+        "5. What would carry over to an actual experiment?",
+        "Reproduction and status"
+      ],
+      "local_links": [
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "verification/four_spin_mismatch_measurement_gate.py",
+        "verification/four_spin_mismatch_measurement_gate_test.py",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
+        "verification/four_spin_mismatch_measurement_gate.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        38,
+        46,
+        64,
+        73,
+        101,
+        108,
+        117
+      ]
+    },
+    {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ce8ccbf353d62972e5e1f6aebdc6b3f5016df95d83ac5de88437c3117bf95f31",
-      "bytes": 115303,
-      "lines": 924,
+      "sha256": "00933de024622645e8d4059534a43ab094b98befdead9f43ece57383acfc4c80",
+      "bytes": 115704,
+      "lines": 927,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4335,6 +4379,7 @@
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "FOUNDATION_OF_DUE_REGARD.md",
         "FOUR_CRITERIA_CONSOLIDATION.md",
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
@@ -4828,6 +4873,8 @@
         "verification/foundation_battery_report_spotcheck.py",
         "verification/foundation_route_comparison.py",
         "verification/four_spin_hidden_edge_robustness.py",
+        "verification/four_spin_mismatch_measurement_gate.py",
+        "verification/four_spin_mismatch_measurement_gate_test.py",
         "verification/framework_battery.py",
         "verification/friction_conflict_audit.py",
         "verification/friend_history_selector_gate.py",
@@ -5108,18 +5155,18 @@
         50,
         59,
         128,
-        174,
-        222,
-        271,
-        293,
-        340,
-        421,
-        436,
-        472,
-        481,
-        484,
-        487,
-        550
+        175,
+        223,
+        272,
+        294,
+        341,
+        422,
+        437,
+        473,
+        482,
+        485,
+        488,
+        551
       ]
     },
     {
@@ -5810,9 +5857,9 @@
     },
     {
       "path": "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
-      "sha256": "b3e39761c48f29a2951c7620a5e1649a89e9e3a8f3db1132a31e3be852f2f34e",
-      "bytes": 14008,
-      "lines": 103,
+      "sha256": "585b6c5f67516abc445dd6b21b2e31b35e93ba1f7a03666e0e45be914a1f0db6",
+      "bytes": 14375,
+      "lines": 105,
       "title": "How accurate must a first-person mismatch test be?",
       "headings": [
         "How accurate must a first-person mismatch test be?",
@@ -5825,6 +5872,7 @@
         "6. Related evidence and reproducibility"
       ],
       "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "verification/mismatch_history_assay_gate.py",
         "verification/mismatch_history_assay_gate_test.py",
@@ -5833,8 +5881,8 @@
         "verification/mismatch_history_assay_gate.json"
       ],
       "risk_phrase_lines": [
-        46,
-        103
+        48,
+        105
       ]
     },
     {
@@ -6198,9 +6246,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "653ca307913108526a22b81ae54b7a8d2bdf803f4664c538c7755f81df096a4c",
-      "bytes": 22439,
-      "lines": 133,
+      "sha256": "b5ba6e1cfd432927e5541090a0720fa596c3109bbd520014cd0f33051ce7bf26",
+      "bytes": 22839,
+      "lines": 135,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6213,6 +6261,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
@@ -6239,12 +6288,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        19,
         21,
-        74,
-        78,
-        111,
-        133
+        23,
+        76,
+        80,
+        113,
+        135
       ]
     },
     {
@@ -8074,9 +8123,9 @@
     },
     {
       "path": "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
-      "sha256": "c19decf6c424ae0dc532af88d030b4a65fcc5b7a8943e1507d512f79ad803e25",
-      "bytes": 16920,
-      "lines": 118,
+      "sha256": "9f348cf22c837c7516ac03add572ae373ea8bd297fd6876243fd0ab5e6234049",
+      "bytes": 17228,
+      "lines": 120,
       "title": "Observed phase lags are not preferred interactions",
       "headings": [
         "Observed phase lags are not preferred interactions",
@@ -8089,22 +8138,23 @@
         "6. Bounded data-access follow-up and a label hazard"
       ],
       "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "verification/phase_observation_preference_gate.json",
         "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md"
       ],
       "risk_phrase_lines": [
-        10,
         12,
-        23,
-        53,
-        64,
-        68,
-        87,
-        97,
-        112,
-        116
+        14,
+        25,
+        55,
+        66,
+        70,
+        89,
+        99,
+        114,
+        118
       ]
     },
     {

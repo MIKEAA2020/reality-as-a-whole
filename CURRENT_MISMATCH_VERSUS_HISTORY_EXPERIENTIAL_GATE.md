@@ -2,6 +2,8 @@
 
 ## Result and status
 
+The subsequent [physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) constructs a conditional, report-independent calibration and noisy history readout for this exact sector. Its numerical error rates rely on idealized assumptions and do not establish a neural q.
+
 A concrete, experience-respecting rival can agree with E-L about the physical four-spin system and its selected pair while disagreeing about *when* that pair's designated unpleasant contrast occurs. In the existing equilibrium kernel, the current-level and onset-only assignments disagree on exactly **71/448** of transitions. More strongly, two positive-probability histories have the **same complete current four-spin state** but different onset labels. Even an optimally chosen function of the entire current state cannot reconstruct those stipulated onset labels perfectly: its minimum error is **41/448** under the specified equilibrium distribution. These are exact mathematical results about toy assignments, not evidence that either assignment is felt, that spins are persons, or that nature lacks physical memory.
 
 The comparison is informed by a real first-person finding: Alter et al. (2020) reported different pain-intensity ratings at the same final thermode temperature after different heat histories. That finding rejects a simple temperature-only description of those reports, not E-L's internal mismatch law. The article did not measure our q, and pain intensity is not itself a separately measured unpleasantness rating. No new empirical q test or bridge follows.

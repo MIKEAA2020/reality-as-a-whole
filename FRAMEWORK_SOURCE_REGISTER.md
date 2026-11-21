@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 432 root Markdown documents including this register; 43 research Markdown documents.
-- 56 original uploaded files, including provenance metadata; 360 verification Python scripts.
+- 433 root Markdown documents including this register; 43 research Markdown documents.
+- 56 original uploaded files, including provenance metadata; 362 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -140,6 +140,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FOUNDATION_NECESSITY_ROUTES_COMPARISON.md](FOUNDATION_NECESSITY_ROUTES_COMPARISON.md) — Foundation: comparing the two existing necessity routes
 - [FOUNDATION_OF_DUE_REGARD.md](FOUNDATION_OF_DUE_REGARD.md) — What could make regard due? A comparison of three foundations
 - [FOUR_CRITERIA_CONSOLIDATION.md](FOUR_CRITERIA_CONSOLIDATION.md) — Four criteria for one complete account
+- [FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) — A conditional physical mismatch measurement in the four-spin sector
 - [FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md](FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md) — Supporting audit and battery protocol
 - [FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md](FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md) — Effective physical structure, collective activity and subject boundaries
 - [FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md](FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md) — Source follow-up: publication, supplementary figures and recordings
@@ -647,6 +648,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/foundation_battery_report_spotcheck.py](verification/foundation_battery_report_spotcheck.py)
 - [verification/foundation_route_comparison.py](verification/foundation_route_comparison.py)
 - [verification/four_spin_hidden_edge_robustness.py](verification/four_spin_hidden_edge_robustness.py)
+- [verification/four_spin_mismatch_measurement_gate.py](verification/four_spin_mismatch_measurement_gate.py)
+- [verification/four_spin_mismatch_measurement_gate_test.py](verification/four_spin_mismatch_measurement_gate_test.py)
 - [verification/framework_battery.py](verification/framework_battery.py)
 - [verification/friction_conflict_audit.py](verification/friction_conflict_audit.py)
 - [verification/friend_history_selector_gate.py](verification/friend_history_selector_gate.py)

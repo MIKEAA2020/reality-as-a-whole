@@ -2,6 +2,8 @@
 
 ## The decisive interface
 
+A subsequent [four-spin physical measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) gives a conditional positive calibration for a specified *net* binary interaction and an observationally equivalent opposite target-channel decomposition. Neither amounts to real EEG channel identification.
+
 A proposed route from music EEG to the user's relational misalignment idea might calculate phase differences between channels, treat their **observed mean lags** as each pair's *preferred* interaction offsets, and then calculate the minimum incompatible-cycle cost `F`. This route fails as an identification procedure in two opposite ways:
 
 1. Perfect phase locking can make the inferred `F` **zero even when the stipulated physical interaction triangle is frustrated**.

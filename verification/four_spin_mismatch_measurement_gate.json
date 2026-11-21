@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "scope": "Exact physical-model controls only; no empirical mismatch measurement, subject, phenomenal assay, or selective intervention established.",
+  "conditional_cross_product_odds": [
+    "9",
+    "9",
+    "9",
+    "9"
+  ],
+  "passive_aligned_fraction": "3/4",
+  "equal_full_weight_ratio_B_to_A": "3/5",
+  "selective_gate_aligned_fractions": {
+    "A": "1/2",
+    "B": "9/10"
+  },
+  "odd_calibration_sizes_and_failure": {
+    "1/20": {
+      "odd_n": 9,
+      "failure": "6413/131072"
+    },
+    "1/100": {
+      "odd_n": 19,
+      "failure": "611828695/68719476736"
+    },
+    "1/1000": {
+      "odd_n": 33,
+      "failure": "35084231326971293/36893488147419103232"
+    }
+  },
+  "noise_example": {
+    "per_spin_error": "1/20",
+    "per_q_readout_error": "19/200",
+    "independent_19_state_calibration_failure": "611828695/68719476736",
+    "observed_11_probability_known_orientation": "678631/4480000",
+    "conditional_true_cell_error_known_orientation": "388493/2714524",
+    "observed_11_probability_including_calibration_error": "373009915633097/2405181685760000",
+    "conditional_true_cell_error_including_calibration_error": "2034055896400553/11936317300259104"
+  }
+}
