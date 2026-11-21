@@ -1,0 +1,27 @@
+{
+  "scope": "Arithmetic of transcribed statements; no raw-data replay, proof, uncertainty propagation, or demonstrated correction.",
+  "supplied_pdf_extended": {
+    "instances": 102,
+    "passes": 103
+  },
+  "preprint_v2_extended": {
+    "instances": 103,
+    "passes": 102,
+    "failures": 1
+  },
+  "preprint_extended_percent": 99.02912621359224,
+  "basic_percent": 96.55172413793103,
+  "hypothetical_packing_assuming_first_10_are_calibration": {
+    "basic_full_2file_instances": 232,
+    "basic_remaining_files": 0,
+    "extended_full_4file_instances": 102,
+    "extended_remaining_files": 2
+  },
+  "v2_table_reported_arrivals_ns": [
+    1766,
+    1769
+  ],
+  "table_nominal_b_minus_a_ns": 3,
+  "v2_narrative_b_minus_a_ns": 9,
+  "conditional_between_station_B_projection_m": "1023/10"
+}

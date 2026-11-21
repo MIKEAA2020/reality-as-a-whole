@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 564,
-  "bytes": 7102991,
-  "line_count": 63997,
-  "document_count_with_risk_phrases": 524,
+  "document_count": 566,
+  "bytes": 7114463,
+  "line_count": 64063,
+  "document_count_with_risk_phrases": 525,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "47798b71ece80caf434b96a8c6d382a06da5d18317d0ab62c2c1b30f767ec6d1",
-      "bytes": 137647,
-      "lines": 1078,
+      "sha256": "01459ef9ec93992a0b1df363aab4013a4222f150497a61be80098d0a9a9b860e",
+      "bytes": 138072,
+      "lines": 1081,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4991,6 +4991,8 @@
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
+        "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
+        "KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md",
         "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
         "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
         "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
@@ -5568,6 +5570,7 @@
         "verification/intrinsic_clock_phase_erasure_gate.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/kavuri_qpv_discrepancy_checks.py",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/kemeny_snell_reversible_projection.py",
         "verification/kemeny_snell_reversible_projection_test.py",
@@ -5856,18 +5859,18 @@
         72,
         144,
         196,
-        255,
-        284,
-        330,
-        357,
-        416,
-        510,
-        525,
-        561,
-        570,
-        573,
-        576,
-        640
+        257,
+        286,
+        332,
+        359,
+        418,
+        512,
+        527,
+        563,
+        572,
+        575,
+        578,
+        642
       ]
     },
     {
@@ -7389,6 +7392,43 @@
       ]
     },
     {
+      "path": "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
+      "sha256": "cc742366880f4356f0de87af02ea41cd6b417da6f9c99dd7456be6c70925a67e",
+      "bytes": 9186,
+      "lines": 55,
+      "title": "QPV discrepancies: what the preprint supplement adds",
+      "headings": [
+        "QPV discrepancies: what the preprint supplement adds",
+        "Bottom line",
+        "Sources and scope",
+        "1. Pass counts",
+        "2. Arrival timing",
+        "3. Prover-distance label",
+        "What is and is not resolved"
+      ],
+      "local_links": [
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
+        "verification/kavuri_qpv_discrepancy_checks.json",
+        "verification/kavuri_qpv_discrepancy_checks.py",
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md",
+      "sha256": "0c530587763ff266f6d8b4f6ce2cdb712a404fc68ca4f5de07e0147cb5a32343",
+      "bytes": 1538,
+      "lines": 8,
+      "title": "Plan: investigate QPV count and timing discrepancies",
+      "headings": [
+        "Plan: investigate QPV count and timing discrepancies"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        6
+      ]
+    },
+    {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
       "sha256": "b83a4f97fbd27d3be07efa7209400293ad089c28c510f160464bed2ae4023110",
       "bytes": 1858,
@@ -7402,8 +7442,8 @@
     },
     {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
-      "sha256": "30a8c8da932e360b762c6baaac44816bd1bb0bc74fc1db5146f189b27fd62afb",
-      "bytes": 11623,
+      "sha256": "9b0f0dd4ecc9ffa4e49f5d5641963df6437b8372d1c3a31e2bef1953e7d79827",
+      "bytes": 11666,
       "lines": 54,
       "title": "Kavuri et al.: supplied quantum-position-verification PDF audit",
       "headings": [
@@ -7416,9 +7456,10 @@
       ],
       "local_links": [
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/qpv_causal_records_gate.py",
-        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
         "QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md"
       ],
       "risk_phrase_lines": []
@@ -11453,8 +11494,8 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "sha256": "72da99e77536e12fc6c8ed7feec885798de586c211b11a918ca583662e348bfd",
-      "bytes": 14510,
+      "sha256": "b917392a44b7246cab9e74cacc65cf78e4fb47cf55ef8b616a2a82bf454bc973",
+      "bytes": 14790,
       "lines": 75,
       "title": "Quantum position verification: records, location and subjects",
       "headings": [
@@ -11469,6 +11510,7 @@
       ],
       "local_links": [
         "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
+        "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
         "sources/uploads/quantum_position_verification_main.txt",
         "SOURCE_ACCESS_AND_READING_LIMITS.md",
         "QUANTUM_POSITION_AND_FINANCIAL_DYNAMICS_SOURCE_ASSESSMENT.md",

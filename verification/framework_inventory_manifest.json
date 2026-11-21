@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0203c12af87b9d63ae3eaf0e8b4d4c4a49fc498f",
-  "file_count": 1668,
+  "base_head": "bac2bfbbb002f50bd766372fb88a73eb0f2f77e3",
+  "file_count": 1672,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 137647,
-      "sha256": "47798b71ece80caf434b96a8c6d382a06da5d18317d0ab62c2c1b30f767ec6d1"
+      "bytes": 138072,
+      "sha256": "01459ef9ec93992a0b1df363aab4013a4222f150497a61be80098d0a9a9b860e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -969,14 +969,24 @@
       "sha256": "0675168f8c524b68a4b12613e9672debe12a8b5305272b3b32c99e9c2795860f"
     },
     {
+      "path": "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
+      "bytes": 9186,
+      "sha256": "cc742366880f4356f0de87af02ea41cd6b417da6f9c99dd7456be6c70925a67e"
+    },
+    {
+      "path": "KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md",
+      "bytes": 1538,
+      "sha256": "0c530587763ff266f6d8b4f6ce2cdb712a404fc68ca4f5de07e0147cb5a32343"
+    },
+    {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
       "bytes": 1858,
       "sha256": "b83a4f97fbd27d3be07efa7209400293ad089c28c510f160464bed2ae4023110"
     },
     {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
-      "bytes": 11623,
-      "sha256": "30a8c8da932e360b762c6baaac44816bd1bb0bc74fc1db5146f189b27fd62afb"
+      "bytes": 11666,
+      "sha256": "9b0f0dd4ecc9ffa4e49f5d5641963df6437b8372d1c3a31e2bef1953e7d79827"
     },
     {
       "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
@@ -1680,8 +1690,8 @@
     },
     {
       "path": "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
-      "bytes": 14510,
-      "sha256": "72da99e77536e12fc6c8ed7feec885798de586c211b11a918ca583662e348bfd"
+      "bytes": 14790,
+      "sha256": "b917392a44b7246cab9e74cacc65cf78e4fb47cf55ef8b616a2a82bf454bc973"
     },
     {
       "path": "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
@@ -5569,6 +5579,16 @@
       "sha256": "97b9171db52b86645739117f3ee3ecca36ae4b5407e2e29b8d46aab2f5fbb450"
     },
     {
+      "path": "verification/kavuri_qpv_discrepancy_checks.json",
+      "bytes": 792,
+      "sha256": "f7e4f214109befa4a2f4815e07844c17b18fffec5b4d0adedffafd51ebeb373e"
+    },
+    {
+      "path": "verification/kavuri_qpv_discrepancy_checks.py",
+      "bytes": 2191,
+      "sha256": "7eacb12c9082f8e65e06295f023d35bf493951da7d4dfe63dd94128fc3406ebb"
+    },
+    {
       "path": "verification/kavuri_qpv_pdf_audit.json",
       "bytes": 669,
       "sha256": "c12ab118dd25af71e698ffb9def2c835daddfb5df921cd9b121b96f586c499db"
@@ -6500,8 +6520,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 695116,
-      "sha256": "45e6c7e7e75d04e5ac42adb416b2047afc28ea322505c9ed4ba23200577e1e48"
+      "bytes": 696736,
+      "sha256": "7ede34c97d8a7fcdc64ec38516c53f5496c7359f7396c63aa94f88154e0508f5"
     },
     {
       "path": "verification/project_inventory.py",
