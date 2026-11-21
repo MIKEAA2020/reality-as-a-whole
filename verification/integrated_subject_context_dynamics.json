@@ -1,0 +1,326 @@
+{
+  "model": "same four-spin random-site heat-bath dynamics; one-step L selects the pair",
+  "cases": {
+    "0": {
+      "projection_tests": {
+        "pair_state": {
+          "maximum_tv": "0",
+          "witness_projection": [
+            -1,
+            -1
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              -1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "left_q": {
+          "maximum_tv": "0",
+          "witness_projection": [
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              -1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 56
+        },
+        "left_middle_q": {
+          "maximum_tv": "1/8",
+          "witness_projection": [
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              -1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "left_right_q": {
+          "maximum_tv": "0",
+          "witness_projection": [
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "edge_qs": {
+          "maximum_tv": "0",
+          "witness_projection": [
+            0,
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 8
+        }
+      },
+      "mismatch_switch_probability_ranges": {
+        "0": {
+          "min": "1/8",
+          "min_state": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "max": "1/8",
+          "max_state": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "minimax_absolute_probability_error": "0"
+        },
+        "1": {
+          "min": "3/8",
+          "min_state": [
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "max": "3/8",
+          "max_state": [
+            1,
+            -1,
+            1,
+            1
+          ],
+          "minimax_absolute_probability_error": "0"
+        }
+      },
+      "stationary_next_q1_given_current": {
+        "0": "1/8",
+        "1": "5/8"
+      },
+      "stationary_next_q1_given_previous_and_current": {
+        "previous=0,current=0": "1/8",
+        "previous=0,current=1": "5/8",
+        "previous=1,current=0": "1/8",
+        "previous=1,current=1": "5/8"
+      }
+    },
+    "1/4": {
+      "projection_tests": {
+        "pair_state": {
+          "maximum_tv": "1/21",
+          "witness_projection": [
+            -1,
+            -1
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              1,
+              -1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "left_q": {
+          "maximum_tv": "1/21",
+          "witness_projection": [
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              1,
+              -1
+            ]
+          ],
+          "fine_state_pairs_checked": 56
+        },
+        "left_middle_q": {
+          "maximum_tv": "5/42",
+          "witness_projection": [
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              -1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "left_right_q": {
+          "maximum_tv": "2/21",
+          "witness_projection": [
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 24
+        },
+        "edge_qs": {
+          "maximum_tv": "0",
+          "witness_projection": [
+            0,
+            0,
+            0
+          ],
+          "fine_states": [
+            [
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              1,
+              1,
+              1
+            ]
+          ],
+          "fine_state_pairs_checked": 8
+        }
+      },
+      "mismatch_switch_probability_ranges": {
+        "0": {
+          "min": "5/48",
+          "min_state": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "max": "17/112",
+          "max_state": [
+            1,
+            1,
+            -1,
+            1
+          ],
+          "minimax_absolute_probability_error": "1/42"
+        },
+        "1": {
+          "min": "39/112",
+          "min_state": [
+            -1,
+            1,
+            1,
+            -1
+          ],
+          "max": "19/48",
+          "max_state": [
+            1,
+            -1,
+            1,
+            1
+          ],
+          "minimax_absolute_probability_error": "1/42"
+        }
+      },
+      "stationary_next_q1_given_current": {
+        "0": "41/336",
+        "1": "71/112"
+      },
+      "stationary_next_q1_given_previous_and_current": {
+        "previous=0,current=0": "2407/19824",
+        "previous=0,current=1": "8713/13776",
+        "previous=1,current=0": "1741/13776",
+        "previous=1,current=1": "15143/23856"
+      }
+    }
+  },
+  "scope": "projected physical model, not a subject or quality test"
+}

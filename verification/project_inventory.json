@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 451,
-  "bytes": 5945441,
-  "line_count": 57717,
-  "document_count_with_risk_phrases": 423,
+  "document_count": 453,
+  "bytes": 5962313,
+  "line_count": 57820,
+  "document_count_with_risk_phrases": 425,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3826,8 +3826,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8119c5a7b79cf06d4f4b6e4ab2516c512e0f7b1cb7e6cf6c61f356c2480336a3",
-      "bytes": 19767,
+      "sha256": "f3382b48cc5fd0466b8d76799982d47f063fc0bb0eb9b15e9226cf83d7658929",
+      "bytes": 20096,
       "lines": 83,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -3841,6 +3841,7 @@
       ],
       "local_links": [
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
+        "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -3866,6 +3867,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
+        5,
         7,
         11,
         27,
@@ -3978,9 +3980,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f1912e07d0bef322bebce36ca723f943ef52382fd58c0e7fc3ca6b20437319ec",
-      "bytes": 108684,
-      "lines": 877,
+      "sha256": "8c93f144cb03efbd406ebdfa6ba82c4e08e0f0810d03e8d73ab9e65480a5171c",
+      "bytes": 109281,
+      "lines": 881,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4145,6 +4147,8 @@
         "INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md",
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
+        "INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "INTERACTING_CLOCK_RATE.md",
         "INTERNAL_REFERENCE_EVENT.md",
@@ -4614,6 +4618,8 @@
         "verification/integrated_cross_scale_quality.py",
         "verification/integrated_cross_scale_quality_test.py",
         "verification/integrated_experiential_misalignment_candidate.py",
+        "verification/integrated_subject_context_dynamics.py",
+        "verification/integrated_subject_context_dynamics_test.py",
         "verification/integrated_subject_horizon_audit.py",
         "verification/integration_overlap.py",
         "verification/interacting_clock.py",
@@ -4848,17 +4854,18 @@
         48,
         57,
         121,
-        206,
-        252,
-        274,
-        321,
-        397,
-        412,
-        448,
-        457,
-        460,
-        463,
-        523
+        166,
+        208,
+        254,
+        276,
+        323,
+        399,
+        414,
+        450,
+        459,
+        462,
+        465,
+        525
       ]
     },
     {
@@ -5908,8 +5915,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "417e6d4bfca1f4eeb17d79e073bce62ee48fca7e424b76128fde5c4883c28a38",
-      "bytes": 18550,
+      "sha256": "5a9a8673791bc8fbc1c41a8bc1cd034a9193157bcf0168d3257dd9aecc2ed468",
+      "bytes": 18794,
       "lines": 117,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
@@ -5924,6 +5931,7 @@
       ],
       "local_links": [
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
+        "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -5938,11 +5946,66 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
+        5,
         7,
         60,
         64,
         97,
         117
+      ]
+    },
+    {
+      "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
+      "sha256": "d9151917e600ef7c0567be6af31744b4bd901be3fb7a9d67ca38f2d91b336091",
+      "bytes": 12114,
+      "lines": 84,
+      "title": "The selected subject's context: exact relational dynamics and its limits",
+      "headings": [
+        "The selected subject's context: exact relational dynamics and its limits",
+        "Result",
+        "1. What is actually being tested",
+        "2. A same-local-state witness and a quantitative prediction limit",
+        "3. Even an equilibrium fit can miss memory",
+        "4. Exact repair by relational context—and what it costs",
+        "5. Literature, status and reproducibility"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md",
+        "verification/integrated_subject_context_dynamics.py",
+        "verification/integrated_subject_context_dynamics_test.py",
+        "verification/integrated_subject_context_dynamics.json",
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        7,
+        27,
+        50,
+        52,
+        54,
+        73,
+        74
+      ]
+    },
+    {
+      "path": "INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md",
+      "sha256": "fd6a69b8c2a2212051ce68f4bf781dd5e7c51c64d295092b9300d8b6ec2896eb",
+      "bytes": 3588,
+      "lines": 15,
+      "title": "Fixed calculation plan: subject-boundary context and projected dynamics",
+      "headings": [
+        "Fixed calculation plan: subject-boundary context and projected dynamics",
+        "Objective",
+        "Prespecified computations"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        9,
+        11,
+        13
       ]
     },
     {

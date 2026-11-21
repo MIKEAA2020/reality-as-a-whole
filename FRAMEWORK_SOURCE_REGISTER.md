@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 408 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 340 verification Python scripts.
+- 410 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 342 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -163,6 +163,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md](INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md) — Fixed scope for an integrated subject–quality extension
 - [INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) — Integrated subject and quality across two query horizons
 - [INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md) — An integrated experiential candidate: first worked sector and rival
+- [INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md](INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md) — The selected subject's context: exact relational dynamics and its limits
+- [INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md](INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md) — Fixed calculation plan: subject-boundary context and projected dynamics
 - [INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md](INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md) — Integrated candidate: subject horizon, valence and persistence
 - [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
 - [INTERNAL_REFERENCE_EVENT.md](INTERNAL_REFERENCE_EVENT.md) — Two finite clocks and a validated internal reference event
@@ -646,6 +648,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/integrated_cross_scale_quality.py](verification/integrated_cross_scale_quality.py)
 - [verification/integrated_cross_scale_quality_test.py](verification/integrated_cross_scale_quality_test.py)
 - [verification/integrated_experiential_misalignment_candidate.py](verification/integrated_experiential_misalignment_candidate.py)
+- [verification/integrated_subject_context_dynamics.py](verification/integrated_subject_context_dynamics.py)
+- [verification/integrated_subject_context_dynamics_test.py](verification/integrated_subject_context_dynamics_test.py)
 - [verification/integrated_subject_horizon_audit.py](verification/integrated_subject_horizon_audit.py)
 - [verification/integration_overlap.py](verification/integration_overlap.py)
 - [verification/interacting_clock.py](verification/interacting_clock.py)
