@@ -1,0 +1,296 @@
+{
+  "status": "completed",
+  "scope": "Retrospective condition means and out-of-family report predictions within one study; not same-trial validation, q, causal mediation, or phenomenal identity.",
+  "source": {
+    "url": "https://api.github.com/repos/rotemb9/paingen-placebo-fmri-paper/contents/pain_evoked_brain_measures.csv?ref=da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "bytes": 3728915,
+    "sha256": "0eda58e9f8f83ec5294e92c907babfc771c0172ef22706e0be52c7182dbe8f56"
+  },
+  "sample": {
+    "source_rows": 4687,
+    "source_people": 392,
+    "source_families": 243,
+    "excluded_rows_any_required": 307,
+    "missing_or_nonfinite_by_field": {
+      "Yint": 307,
+      "Yunp": 307,
+      "nps": 0,
+      "siips": 0
+    },
+    "complete_rows": 4380,
+    "complete_people": 376,
+    "complete_families": 237,
+    "complete_row_person_modality_level_cells": 2225,
+    "complete_matched_cells": 2155,
+    "one_condition_only_complete_cells": 70
+  },
+  "folds": [
+    {
+      "fold": 0,
+      "test_rows": 917,
+      "test_families": 49
+    },
+    {
+      "fold": 1,
+      "test_rows": 879,
+      "test_families": 48
+    },
+    {
+      "fold": 2,
+      "test_rows": 948,
+      "test_families": 51
+    },
+    {
+      "fold": 3,
+      "test_rows": 1025,
+      "test_families": 55
+    },
+    {
+      "fold": 4,
+      "test_rows": 611,
+      "test_families": 34
+    }
+  ],
+  "row_scores": {
+    "condition": {
+      "count": 4380,
+      "families": 237,
+      "row_rmse": 0.1536914068793392,
+      "row_mae": 0.1130983737988396,
+      "family_rmse": 0.15836353595034805,
+      "family_mae": 0.11579831877837286,
+      "prediction_min": 0.07835667386968087,
+      "prediction_max": 0.2057653609411422,
+      "predictions_below_zero": 0,
+      "predictions_above_one": 0
+    },
+    "condition_nps_siips": {
+      "count": 4380,
+      "families": 237,
+      "row_rmse": 0.14408815970921943,
+      "row_mae": 0.10602711094116633,
+      "family_rmse": 0.1475310172630575,
+      "family_mae": 0.10823444164321348,
+      "prediction_min": -0.16564929557981778,
+      "prediction_max": 0.41531776551276967,
+      "predictions_below_zero": 84,
+      "predictions_above_one": 0
+    },
+    "condition_intensity": {
+      "count": 4380,
+      "families": 237,
+      "row_rmse": 0.057143321958141376,
+      "row_mae": 0.03329616039970741,
+      "family_rmse": 0.05886453140483041,
+      "family_mae": 0.03424201706594242,
+      "prediction_min": -0.009930776498176155,
+      "prediction_max": 0.8242984392641923,
+      "predictions_below_zero": 179,
+      "predictions_above_one": 0
+    },
+    "condition_intensity_nps_siips": {
+      "count": 4380,
+      "families": 237,
+      "row_rmse": 0.05689790899023902,
+      "row_mae": 0.03348581121640367,
+      "family_rmse": 0.05845437521108417,
+      "family_mae": 0.03442008595086993,
+      "prediction_min": -0.029884758548505044,
+      "prediction_max": 0.8211902377139144,
+      "predictions_below_zero": 220,
+      "predictions_above_one": 0
+    }
+  },
+  "full_minus_intensity_model_scores": {
+    "row_rmse": -0.0002454129679023559,
+    "row_mae": 0.00018965081669625877,
+    "family_rmse": -0.00041015619374624307,
+    "family_mae": 0.00017806888492750972,
+    "row_rmse_family_bootstrap_95_fixed_predictions": [
+      -0.000634354585588625,
+      0.00013544483585768903
+    ]
+  },
+  "pairs": {
+    "all": {
+      "pairs": 2155,
+      "people": 369,
+      "families": 236,
+      "mean_dU": 0.044656790772428456,
+      "mean_dI": 0.04639588771268368,
+      "mean_dU_minus_dI": -0.0017390969402552245,
+      "mean_dU_minus_dI_family_bootstrap_95": [
+        -0.004393531757260239,
+        0.0010371213505923644
+      ],
+      "rms_dU": 0.1431534054415329,
+      "rms_dI": 0.14615798727031964,
+      "correlation_dU_dI": 0.8928513324132911,
+      "contrast_oof_scores": {
+        "condition": {
+          "count": 2155,
+          "families": 236,
+          "row_rmse": 0.13598241094209879,
+          "row_mae": 0.09182273901959091,
+          "family_rmse": 0.1370611087021232,
+          "family_mae": 0.09296188862705905,
+          "prediction_min": 0.027082310465322,
+          "prediction_max": 0.06289970888645532
+        },
+        "condition_nps_siips": {
+          "count": 2155,
+          "families": 236,
+          "row_rmse": 0.13303694606191277,
+          "row_mae": 0.09403302398612723,
+          "family_rmse": 0.13314693603131528,
+          "family_mae": 0.09473278837458285,
+          "prediction_min": -0.24512264447576715,
+          "prediction_max": 0.3727045300113526
+        },
+        "condition_intensity": {
+          "count": 2155,
+          "families": 236,
+          "row_rmse": 0.061607986282240235,
+          "row_mae": 0.03638732715479085,
+          "family_rmse": 0.06338257391172702,
+          "family_mae": 0.037345943147451016,
+          "prediction_min": -0.45725208902600034,
+          "prediction_max": 0.7441866024572744
+        },
+        "condition_intensity_nps_siips": {
+          "count": 2155,
+          "families": 236,
+          "row_rmse": 0.06160345105282762,
+          "row_mae": 0.03716061936751541,
+          "family_rmse": 0.06319902224164531,
+          "family_mae": 0.03798528385286774,
+          "prediction_min": -0.45257001442119893,
+          "prediction_max": 0.7473937309289278
+        }
+      }
+    },
+    "thermal": {
+      "pairs": 1080,
+      "people": 367,
+      "families": 235,
+      "mean_dU": 0.052578908661265425,
+      "mean_dI": 0.05365400149498456,
+      "mean_dU_minus_dI": -0.0010750928337191386,
+      "mean_dU_minus_dI_family_bootstrap_95": [
+        -0.004732910094871114,
+        0.002708985142962807
+      ],
+      "rms_dU": 0.1394498108707491,
+      "rms_dI": 0.14441864930946596,
+      "correlation_dU_dI": 0.8825780254727542,
+      "contrast_oof_scores": {
+        "condition": {
+          "count": 1080,
+          "families": 235,
+          "row_rmse": 0.12929828465659907,
+          "row_mae": 0.09444509764142005,
+          "family_rmse": 0.12799043444414612,
+          "family_mae": 0.09361189057552487,
+          "prediction_min": 0.04250794178486998,
+          "prediction_max": 0.06289970888645532
+        },
+        "condition_nps_siips": {
+          "count": 1080,
+          "families": 235,
+          "row_rmse": 0.12773250400593275,
+          "row_mae": 0.09413152490316393,
+          "family_rmse": 0.12635596393517778,
+          "family_mae": 0.09329469925930606,
+          "prediction_min": -0.23767660034556876,
+          "prediction_max": 0.3727045300113526
+        },
+        "condition_intensity": {
+          "count": 1080,
+          "families": 235,
+          "row_rmse": 0.061639533547463723,
+          "row_mae": 0.04030715213552305,
+          "family_rmse": 0.06191411005373183,
+          "family_mae": 0.040349763900239095,
+          "prediction_min": -0.43862487131924555,
+          "prediction_max": 0.49040914686153264
+        },
+        "condition_intensity_nps_siips": {
+          "count": 1080,
+          "families": 235,
+          "row_rmse": 0.06169281510786187,
+          "row_mae": 0.04080112742480054,
+          "family_rmse": 0.061857841141032266,
+          "family_mae": 0.04070362311762448,
+          "prediction_min": -0.43690385691879297,
+          "prediction_max": 0.4961012248903126
+        }
+      }
+    },
+    "mechanical": {
+      "pairs": 1075,
+      "people": 368,
+      "families": 235,
+      "mean_dU": 0.036697825823643414,
+      "mean_dI": 0.039104015261627906,
+      "mean_dU_minus_dI": -0.002406189437984501,
+      "mean_dU_minus_dI_family_bootstrap_95": [
+        -0.0064182892919631635,
+        0.0016316586017407688
+      ],
+      "rms_dU": 0.1467801531411529,
+      "rms_dI": 0.14788481655048338,
+      "correlation_dU_dI": 0.9013231862486506,
+      "contrast_oof_scores": {
+        "condition": {
+          "count": 1075,
+          "families": 235,
+          "row_rmse": 0.1423819969550424,
+          "row_mae": 0.08918818338091605,
+          "family_rmse": 0.14668276057842528,
+          "family_mae": 0.0935149773921839,
+          "prediction_min": 0.027082310465322,
+          "prediction_max": 0.042485746401744295
+        },
+        "condition_nps_siips": {
+          "count": 1075,
+          "families": 235,
+          "row_rmse": 0.13816113459719936,
+          "row_mae": 0.09393406492529036,
+          "family_rmse": 0.14035724911628658,
+          "family_mae": 0.09684752384574015,
+          "prediction_min": -0.24512264447576715,
+          "prediction_max": 0.28326684140753133
+        },
+        "condition_intensity": {
+          "count": 1075,
+          "families": 235,
+          "row_rmse": 0.06157627601006098,
+          "row_mae": 0.03244927042996223,
+          "family_rmse": 0.06539385825574898,
+          "family_mae": 0.03469930369871666,
+          "prediction_min": -0.45725208902600034,
+          "prediction_max": 0.7441866024572744
+        },
+        "condition_intensity_nps_siips": {
+          "count": 1075,
+          "families": 235,
+          "row_rmse": 0.061513540620004484,
+          "row_mae": 0.03350317871461502,
+          "family_rmse": 0.06508060142311634,
+          "family_mae": 0.03559871094473073,
+          "prediction_min": -0.45257001442119893,
+          "prediction_max": 0.7473937309289278
+        }
+      }
+    }
+  },
+  "bootstrap": {
+    "resamples": 5000,
+    "seed": 1907,
+    "cluster": "family",
+    "note": "Percentile intervals; fixed OOF predictions for RMSE, no model refitting; not full CV uncertainty."
+  },
+  "plan": "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+  "privacy": "No participant IDs or individual observations are written."
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 489,
-  "bytes": 6415670,
-  "line_count": 60616,
-  "document_count_with_risk_phrases": 460,
+  "document_count": 491,
+  "bytes": 6436863,
+  "line_count": 60719,
+  "document_count_with_risk_phrases": 462,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4240,9 +4240,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "3e56758547c3ae401880a073a3b88ad175dbc8c4fcab2d2b4dd1ad7e29f91b00",
-      "bytes": 30510,
-      "lines": 125,
+      "sha256": "b99f7efe8c7eaaee98e25d1d1fe946dca67c731f73e1265142a70af525d3d043",
+      "bytes": 31012,
+      "lines": 127,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4254,6 +4254,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
@@ -4308,19 +4309,19 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        23,
-        27,
-        39,
-        47,
+        11,
+        25,
+        29,
+        41,
         49,
-        53,
-        69,
-        79,
-        96,
-        113,
-        119
+        51,
+        55,
+        71,
+        81,
+        98,
+        115,
+        121
       ]
     },
     {
@@ -4499,9 +4500,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3b8296cdd42601a335c3e586009d6067734b44472ba97fd7e8d32fe41526e31c",
-      "bytes": 119783,
-      "lines": 960,
+      "sha256": "08dbc77047532daf9e767dbddc173fbd1a551d2ad1437d5beb7be3e1d2923e43",
+      "bytes": 119964,
+      "lines": 961,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4905,6 +4906,7 @@
         "TIME_RESEARCH_ROADMAP.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "TOLMAN_COCYCLE.md",
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "TOP_HIGGS_SPECTRAL_PREDICTION.md",
         "TORUS_SECOND_ORDER_GRAVITY_MATTER.md",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
@@ -5458,13 +5460,13 @@
         284,
         306,
         353,
-        434,
-        449,
-        485,
-        494,
-        497,
-        500,
-        564
+        435,
+        450,
+        486,
+        495,
+        498,
+        501,
+        565
       ]
     },
     {
@@ -8956,6 +8958,58 @@
       ]
     },
     {
+      "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+      "sha256": "3f7a6fc62a088306db2924c1133de77eab73edce295c53f9e668776c9a227256",
+      "bytes": 13442,
+      "lines": 64,
+      "title": "Pain intensity and unpleasantness: a common-interface benchmark",
+      "headings": [
+        "Pain intensity and unpleasantness: a common-interface benchmark",
+        "Result",
+        "1. Why this comparison matters",
+        "2. Fixed retrospective comparison",
+        "3. Matched treatment changes: dimensions are related, not proven identical",
+        "4. Consequence for a genuine bridge test",
+        "5. Reproduction and status"
+      ],
+      "local_links": [
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+        "verification/paingen_intensity_unpleasantness_gate.py",
+        "verification/paingen_intensity_unpleasantness_gate.json",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        64
+      ]
+    },
+    {
+      "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+      "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754",
+      "bytes": 6522,
+      "lines": 36,
+      "title": "PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan",
+      "headings": [
+        "PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan",
+        "Question and scope",
+        "Input and eligibility",
+        "Preselected models and split",
+        "Within-person contrast and uncertainty",
+        "Interpretation and limits"
+      ],
+      "local_links": [
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        34
+      ]
+    },
+    {
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
       "sha256": "00cbaeb46da0b5abdab19d00cb2093c0d0db107f88e0956d3b311aa52ed6f80c",
       "bytes": 5767,
@@ -8982,8 +9036,8 @@
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "sha256": "5831d2c67022d46ebee72f43097df2fd179c254effa7cbaa10305c4413fb8424",
-      "bytes": 13220,
+      "sha256": "6557d0c5cfcfc36779a40b4301950a7e82cc760317539e00d2c7368a804d719b",
+      "bytes": 13550,
       "lines": 76,
       "title": "Unpleasantness: empirical baselines and the missing mismatch measurement",
       "headings": [
@@ -8998,6 +9052,7 @@
       "local_links": [
         "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/paingen_unpleasantness_baselines.json",
@@ -13716,8 +13771,8 @@
     },
     {
       "path": "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
-      "sha256": "2f2a3195ec4309ebc225071ab8f94c04c979d5f2ec520a42a8c0f61693766835",
-      "bytes": 18409,
+      "sha256": "1d161450b90251a47d4220e45d764c3086bce0731dfbaaaa3aef8413adacf286",
+      "bytes": 18625,
       "lines": 77,
       "title": "Toothachewise paraphrase: preserving pain without assuming the bridge",
       "headings": [
@@ -13736,6 +13791,7 @@
         "COMMON_CONSTITUTION_CLOSURE.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "COMMON_CONSTITUTION_CLOSURE.md"
       ],
       "risk_phrase_lines": [

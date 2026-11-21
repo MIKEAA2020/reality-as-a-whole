@@ -6,7 +6,7 @@ A family-held-out analysis of a published pain/placebo dataset provides a benchm
 
 The important advance is a sharper empirical boundary: **a name for mismatch cannot do the work of an independently identified mismatch measurement**. The available table supplies condition means and signature scores, not the phase-resolved interactions, preferred offsets, selective perturbations or independently calibrated readout needed to measure the proposed channel-level mismatch. Nor can a discrepancy between a reported treatment expectation and an experimental stimulus be treated as that mismatch without a new, justified measurement model. A later [separate cardiac-feedback study analysis](CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md) compares directional and unsigned condition-label predictors, without claiming that either directly measures neural mismatch.
 
-A later [matched-stimulus report analysis](MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md) uses the same source data to quantify a restriction on a stimulus-only proxy. It is not an independent replication or measurement of the proposed internal mismatch.
+A later [matched-stimulus report analysis](MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md) uses the same source data to quantify a restriction on a stimulus-only proxy. A further [intensity–unpleasantness comparison](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) finds a strong contemporaneous intensity-report baseline on the same condition means; signatures add little under that fixed linear comparison. Neither is an independent replication or measurement of the proposed internal mismatch, and predicting one report from another does not establish experiential identity.
 
 ## 1. What is established already
 

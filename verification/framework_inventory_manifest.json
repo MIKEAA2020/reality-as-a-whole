@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f910ab5f50f31cadbf7c0a8ab8bceb0d90d38ae0",
-  "file_count": 1530,
+  "base_head": "b584e83e8a9c690d4cdeccd15c903ee63bf74cf6",
+  "file_count": 1535,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 30510,
-      "sha256": "3e56758547c3ae401880a073a3b88ad175dbc8c4fcab2d2b4dd1ad7e29f91b00"
+      "bytes": 31012,
+      "sha256": "b99f7efe8c7eaaee98e25d1d1fe946dca67c731f73e1265142a70af525d3d043"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 119964,
-      "sha256": "08dbc77047532daf9e767dbddc173fbd1a551d2ad1437d5beb7be3e1d2923e43"
+      "bytes": 120567,
+      "sha256": "11aa5723fc85c39fe500f3524e0293b1eb434769072198ba7afc5f8f8e796123"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1244,14 +1244,24 @@
       "sha256": "5c2da6e99dfc9a8bd3b49915cd14c6998fdbf2d122e44cc8d9e3592b21f2463f"
     },
     {
+      "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+      "bytes": 13442,
+      "sha256": "3f7a6fc62a088306db2924c1133de77eab73edce295c53f9e668776c9a227256"
+    },
+    {
+      "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+      "bytes": 6522,
+      "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754"
+    },
+    {
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
       "bytes": 5767,
       "sha256": "00cbaeb46da0b5abdab19d00cb2093c0d0db107f88e0956d3b311aa52ed6f80c"
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "bytes": 13220,
-      "sha256": "5831d2c67022d46ebee72f43097df2fd179c254effa7cbaa10305c4413fb8424"
+      "bytes": 13550,
+      "sha256": "6557d0c5cfcfc36779a40b4301950a7e82cc760317539e00d2c7368a804d719b"
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
@@ -1970,8 +1980,8 @@
     },
     {
       "path": "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
-      "bytes": 18409,
-      "sha256": "2f2a3195ec4309ebc225071ab8f94c04c979d5f2ec520a42a8c0f61693766835"
+      "bytes": 18625,
+      "sha256": "1d161450b90251a47d4220e45d764c3086bce0731dfbaaaa3aef8413adacf286"
     },
     {
       "path": "TOP_HIGGS_SPECTRAL_PREDICTION.md",
@@ -5734,6 +5744,21 @@
       "sha256": "3e616ed2a20bb7505a12eedb2ca708197ea2d7a26af9ab97c8f2160bb2dcb794"
     },
     {
+      "path": "verification/paingen_intensity_unpleasantness_gate.json",
+      "bytes": 9643,
+      "sha256": "3a741591a35055f1059dda42214f9863be0e24077735468e27c858866619435b"
+    },
+    {
+      "path": "verification/paingen_intensity_unpleasantness_gate.py",
+      "bytes": 11697,
+      "sha256": "19d5af8a74faac2e6fd0cac796b3693f2b18444c8953c3bd10a4b963bd7fc902"
+    },
+    {
+      "path": "verification/paingen_intensity_unpleasantness_gate_test.py",
+      "bytes": 2287,
+      "sha256": "0fc0b0fcf646081a55b6341f5ed025eecd959a73e4ab1bb996652df820635f8a"
+    },
+    {
       "path": "verification/paingen_source_crosscheck.json",
       "bytes": 765,
       "sha256": "0f4d6dff54c44fdc23d44696b3cbd6fef83343d3110194bc28bdd6b3a2b1944a"
@@ -5950,8 +5975,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 616802,
-      "sha256": "6bf9d44740a1b015a7a1df5f74ee33f09be300014bb2dde5b0e856cdff817bd8"
+      "bytes": 619149,
+      "sha256": "a59f545ed67e9c7354775d043a71d3dd49e05a60f149ad34faafc41d5592e60a"
     },
     {
       "path": "verification/project_inventory.py",
