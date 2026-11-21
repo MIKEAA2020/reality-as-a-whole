@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Klinge event-sustainment gate](KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md) distinguishes historical production, base accompaniment during an event and continuity of a series. Its finite successive-event control shows that the first does not entail the second without an additional condition; it does not establish a real phenomenon, refute Klinge's view or identify subject persistence. C3, B4–B5/F2, B9/F3 and B10 remain open.
+
 The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) examines selected passages of the uploaded book as an experience-respecting, non-constitutive rival. Its finite causal illustration separates an immediate microcause from closure of an earlier micro-transition, while flagging that interventions on a dependent macro-variable may be inadmissible. Klinge's emergence, pairing and phenomenal selection rules are substantive hypotheses, not verified physics or a resolution of C3; B4–B5/F2, B9/F3 and B10 remain open.
 
 The [PAINgen partial-run follow-up](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) recovers complete cue-bounded candidate episodes from seven previously rejected event files. Adding in-range pairs resolves 14 of 35 residual mean mismatches without regressions; 21 remain, 18 in cells with both relevant runs accepted and three with an absent relevant run. Both previously export-only pairs also match in a separately flagged post-result check. This is shared-provenance, retrospective arithmetic, not validated trial-selection history, a physical `q` assay or a substantive battery pass.

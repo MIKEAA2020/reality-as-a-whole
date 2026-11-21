@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 459 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 396 verification Python scripts.
+- 461 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 398 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -195,6 +195,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md](KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md) — From Kent-like histories to observed quantum statistics
 - [KERR_BOUNCE_ROTATIONAL.md](KERR_BOUNCE_ROTATIONAL.md) — Non-Perturbative Kerr Bounce via BKL Rotational Decoupling
 - [KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) — Klinge on emergent consciousness: a challenge to constitution and causal closure
+- [KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md](KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md) — Klinge: producing an event is not the same as sustaining it
+- [KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md](KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md) — Fixed finite model: causal production versus simultaneous support
 - [KMS_BETA_TWO_PI_TOMITA_WEIGHT.md](KMS_BETA_TWO_PI_TOMITA_WEIGHT.md) — β = 2π as the canonical modular temperature: the universal Tomita weight
 - [KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md](KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md) — Knowability and actuality: a foundation gate
 - [KO_DIMENSION6_SM.md](KO_DIMENSION6_SM.md) — KO-dimension 6 and the 3-generation constraint
@@ -738,6 +740,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/kerr_bounce_rotational.py](verification/kerr_bounce_rotational.py)
 - [verification/klinge_causal_emergence_interface.py](verification/klinge_causal_emergence_interface.py)
 - [verification/klinge_causal_emergence_interface_test.py](verification/klinge_causal_emergence_interface_test.py)
+- [verification/klinge_event_sustainment.py](verification/klinge_event_sustainment.py)
+- [verification/klinge_event_sustainment_test.py](verification/klinge_event_sustainment_test.py)
 - [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
 - [verification/knowability_actuality_gate.py](verification/knowability_actuality_gate.py)
 - [verification/ko_dimension6_sm.py](verification/ko_dimension6_sm.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 502,
-  "bytes": 6533726,
-  "line_count": 61216,
-  "document_count_with_risk_phrases": 472,
+  "document_count": 504,
+  "bytes": 6549964,
+  "line_count": 61339,
+  "document_count_with_risk_phrases": 474,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3288,9 +3288,9 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "sha256": "bb7927e6626295329afbbf3bbe2bf1918852b42939f17e3e26fd44a553e6e7a3",
-      "bytes": 11707,
-      "lines": 132,
+      "sha256": "64b1e403ac92c43169d893743a1536bc7fd0e8198069621204a3737b807b6063",
+      "bytes": 12050,
+      "lines": 134,
       "title": "Reformulating composition: incidence, temporal extent, and persistence",
       "headings": [
         "Reformulating composition: incidence, temporal extent, and persistence",
@@ -3303,6 +3303,7 @@
         "6. Explicit stopping rule against simulated discovery"
       ],
       "local_links": [
+        "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
         "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
@@ -3311,9 +3312,9 @@
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md"
       ],
       "risk_phrase_lines": [
-        51,
-        71,
-        120
+        53,
+        73,
+        122
       ]
     },
     {
@@ -4241,9 +4242,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "080b646ce43be3f4184e27c9f799cbdfa2e2cedf52740412be9694a8befd661d",
-      "bytes": 33687,
-      "lines": 137,
+      "sha256": "cf0d0aa9c32647a8276b47371b14e8d27c3783a7b0ff428d713ddf659e48c95e",
+      "bytes": 34128,
+      "lines": 139,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4255,6 +4256,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
@@ -4315,21 +4317,21 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        19,
+        11,
+        15,
         21,
-        35,
-        39,
-        51,
-        59,
+        23,
+        37,
+        41,
+        53,
         61,
-        65,
-        81,
-        91,
-        108,
-        125,
-        131
+        63,
+        67,
+        83,
+        93,
+        110,
+        127,
+        133
       ]
     },
     {
@@ -4508,9 +4510,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e45779f65bdfeab6982058f294d9f61aa96b38f273c1f756fcfe2d32f00d1f0a",
-      "bytes": 123780,
-      "lines": 988,
+      "sha256": "2154c36f6928b0ce72140845f2b470db1ac208db2cd35f8e3ef1aa46cfdeb879",
+      "bytes": 124282,
+      "lines": 992,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4707,6 +4709,8 @@
         "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
         "KERR_BOUNCE_ROTATIONAL.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
+        "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
+        "KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md",
         "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "KO_DIMENSION6_SM.md",
@@ -5236,6 +5240,8 @@
         "verification/kerr_bounce_rotational.py",
         "verification/klinge_causal_emergence_interface.py",
         "verification/klinge_causal_emergence_interface_test.py",
+        "verification/klinge_event_sustainment.py",
+        "verification/klinge_event_sustainment_test.py",
         "verification/kms_beta_two_pi.py",
         "verification/knowability_actuality_gate.py",
         "verification/ko_dimension6_sm.py",
@@ -5490,18 +5496,18 @@
         63,
         133,
         182,
-        231,
-        259,
-        297,
-        319,
-        366,
-        448,
-        463,
-        499,
-        508,
-        511,
-        514,
-        578
+        233,
+        261,
+        299,
+        321,
+        368,
+        450,
+        465,
+        501,
+        510,
+        513,
+        516,
+        580
       ]
     },
     {
@@ -7085,9 +7091,9 @@
     },
     {
       "path": "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
-      "sha256": "ac6ae025a51fb16c4e29468fe1cb9a56542576eeabdc110301f4e6e2e96fd0ae",
-      "bytes": 15717,
-      "lines": 73,
+      "sha256": "6cf18445f857815c830678532c436b24fe2e7578649d86da814110ebe03a9b64",
+      "bytes": 16161,
+      "lines": 75,
       "title": "Klinge on emergent consciousness: a challenge to constitution and causal closure",
       "headings": [
         "Klinge on emergent consciousness: a challenge to constitution and causal closure",
@@ -7100,6 +7106,7 @@
         "6. Consequences for the current candidate"
       ],
       "local_links": [
+        "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "verification/klinge_causal_emergence_interface.py",
         "verification/klinge_causal_emergence_interface_test.py",
@@ -7108,11 +7115,59 @@
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        52,
-        56,
-        60
+        11,
+        54,
+        58,
+        62
+      ]
+    },
+    {
+      "path": "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
+      "sha256": "d6159b824cbb131490f67c48ea77849a5632cc4d713bb457003044387021ab28",
+      "bytes": 10424,
+      "lines": 94,
+      "title": "Klinge: producing an event is not the same as sustaining it",
+      "headings": [
+        "Klinge: producing an event is not the same as sustaining it",
+        "Result",
+        "1. The textual question",
+        "2. A fixed, deliberately limited model",
+        "3. What additional condition repairs simultaneous accompaniment?",
+        "4. Implications for the framework",
+        "5. Reproduction"
+      ],
+      "local_links": [
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
+        "KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md",
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "verification/klinge_event_sustainment.py",
+        "verification/klinge_event_sustainment.json",
+        "verification/klinge_causal_emergence_interface.py"
+      ],
+      "risk_phrase_lines": [
+        35
+      ]
+    },
+    {
+      "path": "KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md",
+      "sha256": "19fcdd144ccd435fc4c8d644cdb269d8106f2fc6c518c67ad952c696a45cf3ef",
+      "bytes": 4084,
+      "lines": 19,
+      "title": "Fixed finite model: causal production versus simultaneous support",
+      "headings": [
+        "Fixed finite model: causal production versus simultaneous support",
+        "Scope",
+        "Model fixed before checking",
+        "Post-result extension: nonoverlapping event sequence"
+      ],
+      "local_links": [
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        13
       ]
     },
     {

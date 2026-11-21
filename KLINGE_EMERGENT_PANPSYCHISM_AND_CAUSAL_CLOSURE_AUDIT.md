@@ -2,6 +2,8 @@
 
 ## Assessment
 
+**Later follow-up:** the [event-production and sustainment gate](KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md) makes the temporal distinction below explicit. Its finite model shows that production plus short event duration does not alone imply simultaneous accompaniment by a specified base, including in a successive-event control. This is conditional and does not establish that the illustrative history is admissible in Klinge's theory.
+
 Fabian Klinge’s *Panpsychism and the Emergence of Consciousness* offers a serious alternative to constitutive panpsychism. His central proposal is that microsubjects and their experiences **causally produce** a new macrophenomenal occurrence that is fundamental, rather than composing or grounding it as a derivative phenomenal whole. The micro-experiences remain. He argues that this avoids certain combination arguments while permitting genuinely effective macrophenomenal causation.
 
 This matters to the project: taking experience seriously does **not** by itself entail that a local experience is constituted by smaller experiences, or that a common experiential ground uniquely fixes subjects and qualities. Klinge provides an experience-respecting competitor. But his causal-emergence proposal does not automatically satisfy the project’s demand for full experiential intelligibility: its special producing powers, phenomenal inheritance rule, pairing structure and causal laws also need explanation. His proposals are substantive metaphysical hypotheses, not established neuroscience or a derivation of the project’s `q`-to-quality relation.

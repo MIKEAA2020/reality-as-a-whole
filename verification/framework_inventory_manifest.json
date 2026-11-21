@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5b23c51af83a091d94a6d1bb730970c17d6e634c",
-  "file_count": 1564,
+  "base_head": "9d4609715cea06d95bd9302117499602c056a90b",
+  "file_count": 1569,
   "files": [
     {
       "path": ".gitattributes",
@@ -500,8 +500,8 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "bytes": 11707,
-      "sha256": "bb7927e6626295329afbbf3bbe2bf1918852b42939f17e3e26fd44a553e6e7a3"
+      "bytes": 12050,
+      "sha256": "64b1e403ac92c43169d893743a1536bc7fd0e8198069621204a3737b807b6063"
     },
     {
       "path": "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 33687,
-      "sha256": "080b646ce43be3f4184e27c9f799cbdfa2e2cedf52740412be9694a8befd661d"
+      "bytes": 34128,
+      "sha256": "cf0d0aa9c32647a8276b47371b14e8d27c3783a7b0ff428d713ddf659e48c95e"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 123780,
-      "sha256": "e45779f65bdfeab6982058f294d9f61aa96b38f273c1f756fcfe2d32f00d1f0a"
+      "bytes": 124282,
+      "sha256": "2154c36f6928b0ce72140845f2b470db1ac208db2cd35f8e3ef1aa46cfdeb879"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -925,8 +925,18 @@
     },
     {
       "path": "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
-      "bytes": 15717,
-      "sha256": "ac6ae025a51fb16c4e29468fe1cb9a56542576eeabdc110301f4e6e2e96fd0ae"
+      "bytes": 16161,
+      "sha256": "6cf18445f857815c830678532c436b24fe2e7578649d86da814110ebe03a9b64"
+    },
+    {
+      "path": "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
+      "bytes": 10424,
+      "sha256": "d6159b824cbb131490f67c48ea77849a5632cc4d713bb457003044387021ab28"
+    },
+    {
+      "path": "KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md",
+      "bytes": 4084,
+      "sha256": "19fcdd144ccd435fc4c8d644cdb269d8106f2fc6c518c67ad952c696a45cf3ef"
     },
     {
       "path": "KMS_BETA_TWO_PI_TOMITA_WEIGHT.md",
@@ -5309,6 +5319,21 @@
       "sha256": "bc2037d1d3b8113dfcad863363f12884c2031fda1169b7eac80d12fe37ed6fce"
     },
     {
+      "path": "verification/klinge_event_sustainment.json",
+      "bytes": 4717,
+      "sha256": "da898e09208affd85374f5f3a974b947fc30720c55fd88250c08285a5a6ab9ab"
+    },
+    {
+      "path": "verification/klinge_event_sustainment.py",
+      "bytes": 5893,
+      "sha256": "f885d577aa20a490ca4e6d655177bcb45d864ba493914433b73e88287570acba"
+    },
+    {
+      "path": "verification/klinge_event_sustainment_test.py",
+      "bytes": 2650,
+      "sha256": "31f92b90460708dbbd003c6d1f15ceef3fbc2f3509b32268b31010bb809e0bd6"
+    },
+    {
       "path": "verification/kms_beta_two_pi.py",
       "bytes": 13978,
       "sha256": "b710dca27b16e9eeddad8430ebb5bf932e1f6771245adaaae0c2c72d2d4a201e"
@@ -6120,8 +6145,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 632356,
-      "sha256": "ebc2042e7bfa2c97f14b67a75dd10f6c71e5a356a3b51142eb504f1a534075bb"
+      "bytes": 634510,
+      "sha256": "2596d553d92e1003f9160f5de66ff66a45cdc4e85db260a4d7e806dd5fa43729"
     },
     {
       "path": "verification/project_inventory.py",

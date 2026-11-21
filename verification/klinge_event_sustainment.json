@@ -1,0 +1,190 @@
+{
+  "status": "checked",
+  "scope": "Specified Boolean histories only; not an empirical or metaphysical possibility claim.",
+  "window_model": "P=B; active iff any start in last d slots",
+  "window_counts": [
+    {
+      "duration": 1,
+      "windows": 2,
+      "active_without_current_base": 0,
+      "same_base_different_activity_unordered_pairs": 0
+    },
+    {
+      "duration": 2,
+      "windows": 4,
+      "active_without_current_base": 1,
+      "same_base_different_activity_unordered_pairs": 1
+    },
+    {
+      "duration": 3,
+      "windows": 8,
+      "active_without_current_base": 3,
+      "same_base_different_activity_unordered_pairs": 3
+    },
+    {
+      "duration": 4,
+      "windows": 16,
+      "active_without_current_base": 7,
+      "same_base_different_activity_unordered_pairs": 7
+    },
+    {
+      "duration": 5,
+      "windows": 32,
+      "active_without_current_base": 15,
+      "same_base_different_activity_unordered_pairs": 15
+    },
+    {
+      "duration": 6,
+      "windows": 64,
+      "active_without_current_base": 31,
+      "same_base_different_activity_unordered_pairs": 31
+    },
+    {
+      "duration": 7,
+      "windows": 128,
+      "active_without_current_base": 63,
+      "same_base_different_activity_unordered_pairs": 63
+    },
+    {
+      "duration": 8,
+      "windows": 256,
+      "active_without_current_base": 127,
+      "same_base_different_activity_unordered_pairs": 127
+    }
+  ],
+  "conditional_finite_horizon_model": "P<=B; no births before slot zero; coverage tested only within six slots",
+  "finite_horizon_counts": [
+    {
+      "duration": 1,
+      "horizon": 6,
+      "allowed_histories": 729,
+      "supported_at_all_observed_slots": 729,
+      "all_event_lifetimes_covered_within_horizon": 729,
+      "supported_but_some_events_extend_beyond_horizon": 0
+    },
+    {
+      "duration": 2,
+      "horizon": 6,
+      "allowed_histories": 729,
+      "supported_at_all_observed_slots": 377,
+      "all_event_lifetimes_covered_within_horizon": 377,
+      "supported_but_some_events_extend_beyond_horizon": 144
+    },
+    {
+      "duration": 3,
+      "horizon": 6,
+      "allowed_histories": 729,
+      "supported_at_all_observed_slots": 288,
+      "all_event_lifetimes_covered_within_horizon": 288,
+      "supported_but_some_events_extend_beyond_horizon": 168
+    },
+    {
+      "duration": 4,
+      "horizon": 6,
+      "allowed_histories": 729,
+      "supported_at_all_observed_slots": 263,
+      "all_event_lifetimes_covered_within_horizon": 263,
+      "supported_but_some_events_extend_beyond_horizon": 181
+    }
+  ],
+  "post_result_nonoverlap_finite_horizon_counts": [
+    {
+      "duration": 1,
+      "horizon": 6,
+      "allowed_histories": 729,
+      "supported_at_all_observed_slots": 729,
+      "all_event_lifetimes_covered_within_horizon": 729,
+      "supported_but_some_events_extend_beyond_horizon": 0
+    },
+    {
+      "duration": 2,
+      "horizon": 6,
+      "allowed_histories": 448,
+      "supported_at_all_observed_slots": 239,
+      "all_event_lifetimes_covered_within_horizon": 239,
+      "supported_but_some_events_extend_beyond_horizon": 70
+    },
+    {
+      "duration": 3,
+      "horizon": 6,
+      "allowed_histories": 352,
+      "supported_at_all_observed_slots": 161,
+      "all_event_lifetimes_covered_within_horizon": 161,
+      "supported_but_some_events_extend_beyond_horizon": 64
+    },
+    {
+      "duration": 4,
+      "horizon": 6,
+      "allowed_histories": 304,
+      "supported_at_all_observed_slots": 137,
+      "all_event_lifetimes_covered_within_horizon": 137,
+      "supported_but_some_events_extend_beyond_horizon": 61
+    }
+  ],
+  "examples": {
+    "continuous_base_stops_duration_3": {
+      "base": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "active_event_counts": [
+        1,
+        2,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    "two_starts_duration_3": {
+      "production": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "active_event_counts": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    "sequential_events_duration_3": {
+      "base": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "production": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "active_event_counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "limitations": "A formal base bit is not a complete microstate; event occupancy is not an established phenomenal field, experience, personal identity or cause. Outside-horizon support is not tested.",
+  "plan": "KLINGE_EVENT_SUSTAINMENT_FIXED_PLAN.md"
+}

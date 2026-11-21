@@ -2,6 +2,8 @@
 
 ## Decision
 
+The [Klinge event-sustainment gate](KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md) adds a conditional production-versus-current-support distinction. Its continuous modeled activity can consist of distinct sequential events; neither the activity indicator nor causal production by itself establishes temporal field unity or person identity.
+
 The [collective experience and moral-parody audit](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) sharpens this stopping rule: a collective phenomenal predicate does not itself individuate lived perspectives, and a field-first identity carries an explicit primitive-field cost. It supplies no new J or physical-to-phenomenal law.
 
 The [plural experiential-ground analysis](PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md) compares alternative ontological premises and adds a restricted symmetry constraint for dominant-node selection. It does not select an experiential incidence law.
