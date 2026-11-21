@@ -2,6 +2,8 @@
 
 ## Result
 
+**Later source follow-up:** the [task-source and prompt-order audit](PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md) locates a public candidate PAINgen task implementation and derives its idealized prompt-order distribution. It identifies named per-prompt timing fields but does not verify the executed version, BIDS conversion or original condition-mean export; all 21 discrepancies remain open.
+
 After applying the published response-time rule as a candidate, **35 of 4,400** overlapping finite paired means still differed from the author export. A further retrospective check found:
 
 - **14** had one relevant event run rejected by our strict whole-run grammar. A predeclared *within-this-follow-up* cue-bounded recovery rule finds intact candidate episodes in those rejected files. Adding the in-range recovered pairs makes all 14 match both exported means, with **no regressions** among the 4,365 prior matches.

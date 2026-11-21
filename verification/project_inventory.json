@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 510,
-  "bytes": 6603937,
-  "line_count": 61613,
-  "document_count_with_risk_phrases": 480,
+  "document_count": 513,
+  "bytes": 6621137,
+  "line_count": 61703,
+  "document_count_with_risk_phrases": 483,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4242,9 +4242,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "a8d497fae27448dc0d1ef03a3f10278402066b76a94fa0d5e493eec1d88dc33a",
-      "bytes": 36134,
-      "lines": 145,
+      "sha256": "e69966224d4b979da7f725c603606cf95588d73017934fc3e520d67967aee873",
+      "bytes": 36691,
+      "lines": 147,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4256,6 +4256,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
         "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
         "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
         "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
@@ -4320,22 +4321,23 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        17,
-        21,
-        27,
+        5,
+        9,
+        19,
+        23,
         29,
-        43,
-        47,
-        59,
-        67,
+        31,
+        45,
+        49,
+        61,
         69,
-        73,
-        89,
-        99,
-        116,
-        133,
-        139
+        71,
+        75,
+        91,
+        101,
+        118,
+        135,
+        141
       ]
     },
     {
@@ -4514,9 +4516,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3ae6329b33e7ab3b722a1f0eb5a840e0228d6506c6b9acb7e7d1b1c0c409fb9b",
-      "bytes": 125990,
-      "lines": 1004,
+      "sha256": "b0745855b628516adab9b2da1df0c4b4c782c1515dfb2f9a32f38f82efffa1ee",
+      "bytes": 126883,
+      "lines": 1011,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4784,12 +4786,15 @@
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+        "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md",
         "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
         "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+        "PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md",
         "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
         "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
+        "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
         "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
         "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
@@ -5314,12 +5319,16 @@
         "verification/paingen_intensity_unpleasantness_gate_test.py",
         "verification/paingen_partial_run_salvage.py",
         "verification/paingen_partial_run_salvage_test.py",
+        "verification/paingen_prompt_order_control.py",
+        "verification/paingen_prompt_order_control_test.py",
         "verification/paingen_remaining_mismatch_runs.py",
         "verification/paingen_remaining_mismatch_runs_test.py",
         "verification/paingen_response_time_reconstruction.py",
         "verification/paingen_response_time_reconstruction_test.py",
         "verification/paingen_source_crosscheck.py",
         "verification/paingen_stimulus_only_valence_test.py",
+        "verification/paingen_task_source_metadata.py",
+        "verification/paingen_task_source_metadata_test.py",
         "verification/paingen_trial_provenance_audit.py",
         "verification/paingen_trial_provenance_audit_test.py",
         "verification/paingen_unpleasantness_baselines.py",
@@ -5514,16 +5523,16 @@
         182,
         233,
         262,
-        300,
-        323,
-        370,
-        456,
-        471,
-        507,
-        516,
+        303,
+        326,
+        373,
+        459,
+        474,
+        510,
         519,
         522,
-        586
+        525,
+        589
       ]
     },
     {
@@ -9279,10 +9288,26 @@
       ]
     },
     {
+      "path": "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md",
+      "sha256": "055991e75dce47366344d58d32a49787e28f21732f23d01497bd1e3adf82dce2",
+      "bytes": 2356,
+      "lines": 13,
+      "title": "Fixed source-discovery plan: PAINgen processing records",
+      "headings": [
+        "Fixed source-discovery plan: PAINgen processing records",
+        "Scope and prior knowledge",
+        "Bounded, privacy-preserving discovery"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        11
+      ]
+    },
+    {
       "path": "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
-      "sha256": "8bb6a48ebe0fdf728f7593aa6f8c32ba6c6315c2340b7552154fc68a0a364eff",
-      "bytes": 8913,
-      "lines": 62,
+      "sha256": "243dde065a422ee52972c72206ec7fb0fef91b1f30252343668abb3ff3096f55",
+      "bytes": 9310,
+      "lines": 64,
       "title": "PAINgen residual discrepancies: partial-run recovery and its limits",
       "headings": [
         "PAINgen residual discrepancies: partial-run recovery and its limits",
@@ -9293,6 +9318,7 @@
         "4. Reproduction and scope"
       ],
       "local_links": [
+        "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
         "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
@@ -9305,10 +9331,10 @@
         "verification/paingen_partial_run_salvage.json"
       ],
       "risk_phrase_lines": [
-        17,
-        32,
-        40,
-        62
+        19,
+        34,
+        42,
+        64
       ]
     },
     {
@@ -9332,6 +9358,25 @@
         16,
         17,
         18
+      ]
+    },
+    {
+      "path": "PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md",
+      "sha256": "b58da89b7a1aaa9c8194bf80e8872a663f8494c173ae95cf5901fdfa84af169e",
+      "bytes": 2064,
+      "lines": 11,
+      "title": "Fixed follow-up: the public PAINgen task's prompt-order assignment",
+      "headings": [
+        "Fixed follow-up: the public PAINgen task's prompt-order assignment",
+        "Timing and scope",
+        "Fixed calculation"
+      ],
+      "local_links": [
+        "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11
       ]
     },
     {
@@ -9431,6 +9476,38 @@
         21,
         27,
         31
+      ]
+    },
+    {
+      "path": "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
+      "sha256": "92270ff13d2567f5518a595eff1a4cb3ecfb7e987715400dcb1f74a96e24e1b3",
+      "bytes": 10933,
+      "lines": 55,
+      "title": "PAINgen: public task-source discovery and prompt-order control",
+      "headings": [
+        "PAINgen: public task-source discovery and prompt-order control",
+        "Decision",
+        "1. What was found and pinned",
+        "2. What the candidate source says about responses",
+        "3. A design consequence: run-level dependence",
+        "4. Next evidence and reproduction"
+      ],
+      "local_links": [
+        "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md",
+        "PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md",
+        "verification/paingen_task_source_metadata.json",
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
+        "verification/paingen_prompt_order_control.json",
+        "verification/paingen_task_source_metadata.json",
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        25,
+        37,
+        43,
+        47
       ]
     },
     {

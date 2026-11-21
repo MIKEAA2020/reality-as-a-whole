@@ -1,0 +1,27 @@
+{
+  "results": {
+    "count_table": {
+      "0": 1,
+      "1": 64,
+      "2": 784,
+      "3": 3136,
+      "4": 4900,
+      "5": 3136,
+      "6": 784,
+      "7": 64,
+      "8": 1
+    },
+    "independent_fair_coin_prob_all_same": "1/128",
+    "independent_fair_coin_variance": "2",
+    "mean": "4",
+    "prob_all_same": "1/6435",
+    "prob_exactly_four": "490/1287",
+    "prob_three_to_five": "1862/2145",
+    "total": 12870,
+    "variance": "16/15"
+  },
+  "scope": "exact combinatorial control, not participant data or a randomization audit",
+  "task_generator_blob_git_sha1": "8df967543bb5e4d72fdd3ce975cee9b97b64a9cc",
+  "task_source_commit": "89ec44cc82d09a6cddced6e7fcf2dd73c8a87281",
+  "task_source_repository": "canlab/Paradigms_Public"
+}

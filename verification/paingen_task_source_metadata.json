@@ -1,0 +1,38 @@
+{
+  "scope": "source-code identity checks only; no raw logs, event rows or outcomes",
+  "source_commit": "89ec44cc82d09a6cddced6e7fcf2dd73c8a87281",
+  "tree_entries": 18338,
+  "truncated": false,
+  "verified_source_files": {
+    "RUN_cond_and_test.m": {
+      "git_blob_sha1": "cc3c0b719ad384e69c7f090dfaed2e4355ff7968",
+      "sha256": "5c295edb8e503d8f08bb76420b1913576ef1ba861f241288e9950d4f45f66b15",
+      "size": 1407
+    },
+    "generate_ts_pain_only_test.m": {
+      "git_blob_sha1": "4d6a7bc547174355b0773152b5a63820d27ddedf",
+      "sha256": "a9bb8482ca95013095f52c6b36558da3c4af9e78fa4ae87adc4e0933900091a5",
+      "size": 2933
+    },
+    "generate_ts_pain_test.m": {
+      "git_blob_sha1": "8df967543bb5e4d72fdd3ce975cee9b97b64a9cc",
+      "sha256": "f89fc82218d1d65997130bf1c0204c30d17c4ca3f0f48b84ac232b556ac77a9f",
+      "size": 4000
+    },
+    "get_overallratings.m": {
+      "git_blob_sha1": "9a1b691418ca1515f844d3790fce10d5bb497cd8",
+      "sha256": "3f3329f172333b7a89c75ced6372f52b469cce41dea5ff599b0d6683a9617797",
+      "size": 3487
+    },
+    "main.m": {
+      "git_blob_sha1": "79704eb0e40b7a541de71410bdc43617bf80493b",
+      "sha256": "24ad962821e586f6af7dd5d9ba513c2b25fbfd8bd5173c3d4be5951067088525",
+      "size": 45376
+    },
+    "parse_trial_sequence.m": {
+      "git_blob_sha1": "685763cc8ee907e2a2de6165e0662008cf531e1b",
+      "sha256": "a5166a59cae885d5dace87495a3c6e543b91360f698aa011d8513c5084a1319b",
+      "size": 2202
+    }
+  }
+}

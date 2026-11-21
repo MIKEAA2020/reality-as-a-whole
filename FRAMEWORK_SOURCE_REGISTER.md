@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 467 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 404 verification Python scripts.
+- 470 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 408 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -266,12 +266,15 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) — PAINgen condition means: which discrepancies admit a trial-subset explanation?
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
+- [PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md](PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md) — Fixed source-discovery plan: PAINgen processing records
 - [PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) — PAINgen residual discrepancies: partial-run recovery and its limits
 - [PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md](PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md) — Post-result plan: conservative partial-run episode recovery
+- [PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md](PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md) — Fixed follow-up: the public PAINgen task's prompt-order assignment
 - [PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md](PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md) — Plan: remaining PAINgen mismatches and run completeness
 - [PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md](PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md) — PAINgen published response-time rule: retrospective reconstruction plan
 - [PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) — PAINgen condition means: a published response-time rule explains most discrepancies
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
+- [PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md](PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md) — PAINgen: public task-source discovery and prompt-order control
 - [PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md](PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md) — PAINgen trial provenance and rating-order audit: fixed plan
 - [PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md](PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md) — PAINgen trial provenance: post-inspection onset-order amendment
 - [PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md](PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md) — Unpleasantness: empirical baselines and the missing mismatch measurement
@@ -810,12 +813,16 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
 - [verification/paingen_partial_run_salvage.py](verification/paingen_partial_run_salvage.py)
 - [verification/paingen_partial_run_salvage_test.py](verification/paingen_partial_run_salvage_test.py)
+- [verification/paingen_prompt_order_control.py](verification/paingen_prompt_order_control.py)
+- [verification/paingen_prompt_order_control_test.py](verification/paingen_prompt_order_control_test.py)
 - [verification/paingen_remaining_mismatch_runs.py](verification/paingen_remaining_mismatch_runs.py)
 - [verification/paingen_remaining_mismatch_runs_test.py](verification/paingen_remaining_mismatch_runs_test.py)
 - [verification/paingen_response_time_reconstruction.py](verification/paingen_response_time_reconstruction.py)
 - [verification/paingen_response_time_reconstruction_test.py](verification/paingen_response_time_reconstruction_test.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
 - [verification/paingen_stimulus_only_valence_test.py](verification/paingen_stimulus_only_valence_test.py)
+- [verification/paingen_task_source_metadata.py](verification/paingen_task_source_metadata.py)
+- [verification/paingen_task_source_metadata_test.py](verification/paingen_task_source_metadata_test.py)
 - [verification/paingen_trial_provenance_audit.py](verification/paingen_trial_provenance_audit.py)
 - [verification/paingen_trial_provenance_audit_test.py](verification/paingen_trial_provenance_audit_test.py)
 - [verification/paingen_unpleasantness_baselines.py](verification/paingen_unpleasantness_baselines.py)

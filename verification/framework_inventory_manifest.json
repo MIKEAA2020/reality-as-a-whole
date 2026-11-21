@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "baebe41295fd2e3adc7ca270a3ebb13f92e56e8d",
-  "file_count": 1584,
+  "base_head": "230f304200655f4572744e2404a3a669f1b38590",
+  "file_count": 1593,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 36134,
-      "sha256": "a8d497fae27448dc0d1ef03a3f10278402066b76a94fa0d5e493eec1d88dc33a"
+      "bytes": 36691,
+      "sha256": "e69966224d4b979da7f725c603606cf95588d73017934fc3e520d67967aee873"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 125990,
-      "sha256": "3ae6329b33e7ab3b722a1f0eb5a840e0228d6506c6b9acb7e7d1b1c0c409fb9b"
+      "bytes": 126883,
+      "sha256": "b0745855b628516adab9b2da1df0c4b4c782c1515dfb2f9a32f38f82efffa1ee"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1289,14 +1289,24 @@
       "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754"
     },
     {
+      "path": "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md",
+      "bytes": 2356,
+      "sha256": "055991e75dce47366344d58d32a49787e28f21732f23d01497bd1e3adf82dce2"
+    },
+    {
       "path": "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
-      "bytes": 8913,
-      "sha256": "8bb6a48ebe0fdf728f7593aa6f8c32ba6c6315c2340b7552154fc68a0a364eff"
+      "bytes": 9310,
+      "sha256": "243dde065a422ee52972c72206ec7fb0fef91b1f30252343668abb3ff3096f55"
     },
     {
       "path": "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
       "bytes": 4947,
       "sha256": "87e7e038d9a1a6366c4b7560231d59b025af2d0c7af2d6d1d8429502bd31358b"
+    },
+    {
+      "path": "PAINGEN_PROMPT_ORDER_SOURCE_CONTROL_PLAN.md",
+      "bytes": 2064,
+      "sha256": "b58da89b7a1aaa9c8194bf80e8872a663f8494c173ae95cf5901fdfa84af169e"
     },
     {
       "path": "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
@@ -1317,6 +1327,11 @@
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
       "bytes": 5767,
       "sha256": "00cbaeb46da0b5abdab19d00cb2093c0d0db107f88e0956d3b311aa52ed6f80c"
+    },
+    {
+      "path": "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
+      "bytes": 10933,
+      "sha256": "92270ff13d2567f5518a595eff1a4cb3ecfb7e987715400dcb1f74a96e24e1b3"
     },
     {
       "path": "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
@@ -5914,6 +5929,21 @@
       "sha256": "69e3b656d97f56862473fa0b40700352f0b4ee56dcb24f469153092aba2133f7"
     },
     {
+      "path": "verification/paingen_prompt_order_control.json",
+      "bytes": 744,
+      "sha256": "7d7869da3c8f31bdfcd10e6d9e551a0634fab6475e61632e5eaaf8624e567848"
+    },
+    {
+      "path": "verification/paingen_prompt_order_control.py",
+      "bytes": 2516,
+      "sha256": "d94a7f1cdf848bf518c523cb29f96100639621576e02a49801b4d5fb2f44ee07"
+    },
+    {
+      "path": "verification/paingen_prompt_order_control_test.py",
+      "bytes": 1163,
+      "sha256": "9a6042baff66ccccb22f35e03c74281ecb651517d18aed18ebc7c36e28814ade"
+    },
+    {
       "path": "verification/paingen_remaining_mismatch_runs.json",
       "bytes": 2158,
       "sha256": "74b9507be9611416ceda0cfcf8e8de0c1313b2670c22346af98994c9e807c1af"
@@ -5962,6 +5992,21 @@
       "path": "verification/paingen_stimulus_only_valence_test.py",
       "bytes": 6267,
       "sha256": "d3c41e78297fb2256c19f1aafc730d8916cef435d68454f6a00aacd99d12706c"
+    },
+    {
+      "path": "verification/paingen_task_source_metadata.json",
+      "bytes": 1471,
+      "sha256": "3112f2563af5c5b2b90b15d2e71168ba9e8c7dce937bf850096490d97632bde2"
+    },
+    {
+      "path": "verification/paingen_task_source_metadata.py",
+      "bytes": 3410,
+      "sha256": "7d885c379af7c179539a1d700a359a1d6c59ec61d91c3ac80862dc0df4c47f24"
+    },
+    {
+      "path": "verification/paingen_task_source_metadata_test.py",
+      "bytes": 1665,
+      "sha256": "a49ac3ba1ad51786f64fbe5e1d796166854d627c67494b9be26f68b885050aea"
     },
     {
       "path": "verification/paingen_trial_provenance_audit.json",
@@ -6175,8 +6220,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 640397,
-      "sha256": "eb480fa80451e8157eaf21169e1c871368585a04ac5dd4857d6f5886ce801dd0"
+      "bytes": 643215,
+      "sha256": "4253dc02b17ae573a3b2d61b515b2147e3649f64b07aab905200453b8597e9e3"
     },
     {
       "path": "verification/project_inventory.py",
