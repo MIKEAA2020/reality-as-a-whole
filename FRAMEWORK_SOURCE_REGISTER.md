@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 519 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 422 verification Python scripts.
+- 521 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 424 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -332,6 +332,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) — Ptito's attentional-blink study: a partial methods recovery
 - [PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md](PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md) — Fixed plan: Ptito thesis and the attentional-blink evidence
 - [QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md](QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md) — Particle emergence, locality and the subject-boundary question
+- [QPV_SYMMETRIC_GEOMETRY_FOLLOWUP_PLAN.md](QPV_SYMMETRIC_GEOMETRY_FOLLOWUP_PLAN.md) — Retrospective plan: symmetric QPV timing geometry
+- [QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md](QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md) — Quantum position verification: a symmetric geometry control
 - [QUALITATIVE_EQUIVALENCE_AUDIT.md](QUALITATIVE_EQUIVALENCE_AUDIT.md) — Is the remaining qualitative ambiguity substantive or representational?
 - [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
 - [QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md](QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md) — Quantum access is not a subject count
@@ -901,6 +903,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)
 - [verification/qpv_causal_records_gate.py](verification/qpv_causal_records_gate.py)
+- [verification/qpv_symmetric_geometry.py](verification/qpv_symmetric_geometry.py)
+- [verification/qpv_symmetric_geometry_test.py](verification/qpv_symmetric_geometry_test.py)
 - [verification/qualitative_anchor_check.py](verification/qualitative_anchor_check.py)
 - [verification/quantum_access_subject_count_gate.py](verification/quantum_access_subject_count_gate.py)
 - [verification/quantum_agreement_record_gate.py](verification/quantum_agreement_record_gate.py)

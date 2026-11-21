@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9ccb9712ba7cd37daf9ed35aa2b510c0393fe72f",
-  "file_count": 1663,
+  "base_head": "0203c12af87b9d63ae3eaf0e8b4d4c4a49fc498f",
+  "file_count": 1668,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 137183,
-      "sha256": "b7b9a178083444e416925926915d3ac4bcffa8bf422fbafd430819bb6a048cca"
+      "bytes": 137647,
+      "sha256": "47798b71ece80caf434b96a8c6d382a06da5d18317d0ab62c2c1b30f767ec6d1"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -975,8 +975,8 @@
     },
     {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
-      "bytes": 11420,
-      "sha256": "6ec37d5e5332d6f8f0d68b20625695058a277114dae094266e6d73cbf1df3196"
+      "bytes": 11623,
+      "sha256": "30a8c8da932e360b762c6baaac44816bd1bb0bc74fc1db5146f189b27fd62afb"
     },
     {
       "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
@@ -1617,6 +1617,16 @@
       "path": "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
       "bytes": 11515,
       "sha256": "120cc69fd7120a664f0a04f49b7077786222648d5954f08cf71595b694f8f1ec"
+    },
+    {
+      "path": "QPV_SYMMETRIC_GEOMETRY_FOLLOWUP_PLAN.md",
+      "bytes": 2036,
+      "sha256": "9cf913e53cc2d554b9379d8136880310b78bd6fb9392eaa2178d223c9e6091d2"
+    },
+    {
+      "path": "QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md",
+      "bytes": 7968,
+      "sha256": "0a3429c75efb9cee627e2fb326d5097e3a08e01eff34bdb3ffefd129db7d6968"
     },
     {
       "path": "QUALITATIVE_EQUIVALENCE_AUDIT.md",
@@ -6490,8 +6500,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 693344,
-      "sha256": "ae4591ef4acbe752f60438bc69cda19f7e5d6b8213a5c9eadd546e067b5ca47b"
+      "bytes": 695116,
+      "sha256": "45e6c7e7e75d04e5ac42adb416b2047afc28ea322505c9ed4ba23200577e1e48"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6517,6 +6527,21 @@
       "path": "verification/qpv_causal_records_gate.py",
       "bytes": 3902,
       "sha256": "5635151f37b1ed723b2f085e94a50cd861770ebba8fd14577b5998937dbfd9be"
+    },
+    {
+      "path": "verification/qpv_symmetric_geometry.json",
+      "bytes": 632,
+      "sha256": "0b36e47449c56239aee8d82f999bc8bb06e1fa9e6260992ad8541139041e3af9"
+    },
+    {
+      "path": "verification/qpv_symmetric_geometry.py",
+      "bytes": 5181,
+      "sha256": "cd4a7e5d628696f66acf4df93b1bc0f5dd6103b56325e823f6a13f2b1e4716cd"
+    },
+    {
+      "path": "verification/qpv_symmetric_geometry_test.py",
+      "bytes": 2051,
+      "sha256": "549fb2cb80ab5c20025f1c3cdc93620ab30e6ac9f16976ea0c40747c657b1704"
     },
     {
       "path": "verification/qualitative_anchor_check.json",

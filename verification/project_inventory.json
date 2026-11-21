@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 562,
-  "bytes": 7092320,
-  "line_count": 63912,
-  "document_count_with_risk_phrases": 522,
+  "document_count": 564,
+  "bytes": 7102991,
+  "line_count": 63997,
+  "document_count_with_risk_phrases": 524,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b7b9a178083444e416925926915d3ac4bcffa8bf422fbafd430819bb6a048cca",
-      "bytes": 137183,
-      "lines": 1074,
+      "sha256": "47798b71ece80caf434b96a8c6d382a06da5d18317d0ab62c2c1b30f767ec6d1",
+      "bytes": 137647,
+      "lines": 1078,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5120,6 +5120,8 @@
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
         "PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md",
         "QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md",
+        "QPV_SYMMETRIC_GEOMETRY_FOLLOWUP_PLAN.md",
+        "QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md",
         "QUALITATIVE_EQUIVALENCE_AUDIT.md",
         "QUALITATIVE_IDENTITY_PURSUIT.md",
         "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
@@ -5675,6 +5677,8 @@
         "verification/project_inventory.py",
         "verification/q1_agreement_stability_gate.py",
         "verification/qpv_causal_records_gate.py",
+        "verification/qpv_symmetric_geometry.py",
+        "verification/qpv_symmetric_geometry_test.py",
         "verification/qualitative_anchor_check.py",
         "verification/quantum_access_subject_count_gate.py",
         "verification/quantum_agreement_record_gate.py",
@@ -5855,15 +5859,15 @@
         255,
         284,
         330,
-        355,
-        414,
-        508,
-        523,
-        559,
-        568,
-        571,
-        574,
-        638
+        357,
+        416,
+        510,
+        525,
+        561,
+        570,
+        573,
+        576,
+        640
       ]
     },
     {
@@ -7398,8 +7402,8 @@
     },
     {
       "path": "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
-      "sha256": "6ec37d5e5332d6f8f0d68b20625695058a277114dae094266e6d73cbf1df3196",
-      "bytes": 11420,
+      "sha256": "30a8c8da932e360b762c6baaac44816bd1bb0bc74fc1db5146f189b27fd62afb",
+      "bytes": 11623,
       "lines": 54,
       "title": "Kavuri et al.: supplied quantum-position-verification PDF audit",
       "headings": [
@@ -7414,7 +7418,8 @@
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/qpv_causal_records_gate.py",
-        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md"
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md"
       ],
       "risk_phrase_lines": []
     },
@@ -11096,6 +11101,49 @@
         40,
         55,
         62
+      ]
+    },
+    {
+      "path": "QPV_SYMMETRIC_GEOMETRY_FOLLOWUP_PLAN.md",
+      "sha256": "9cf913e53cc2d554b9379d8136880310b78bd6fb9392eaa2178d223c9e6091d2",
+      "bytes": 2036,
+      "lines": 8,
+      "title": "Retrospective plan: symmetric QPV timing geometry",
+      "headings": [
+        "Retrospective plan: symmetric QPV timing geometry"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
+      ]
+    },
+    {
+      "path": "QPV_SYMMETRIC_SPATIAL_GEOMETRY_AUDIT.md",
+      "sha256": "0a3429c75efb9cee627e2fb326d5097e3a08e01eff34bdb3ffefd129db7d6968",
+      "bytes": 7968,
+      "lines": 73,
+      "title": "Quantum position verification: a symmetric geometry control",
+      "headings": [
+        "Quantum position verification: a symmetric geometry control",
+        "Bottom line",
+        "Setup and assumptions",
+        "Derivation",
+        "Length, projected area and volume",
+        "Numerical toy and checks",
+        "Interpretation and limits"
+      ],
+      "local_links": [
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md",
+        "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
+        "verification/qpv_symmetric_geometry.py",
+        "verification/qpv_symmetric_geometry_test.py",
+        "verification/qpv_symmetric_geometry.json",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "KAVURI_QUANTUM_POSITION_VERIFICATION_SUPPLIED_PDF_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        67,
+        73
       ]
     },
     {
