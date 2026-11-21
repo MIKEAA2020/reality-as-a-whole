@@ -1,0 +1,49 @@
+{
+  "D_off": 0.8472978603872036,
+  "D_on": 1.7917594692280547,
+  "cases": {
+    "0.3": {
+      "sign": "+",
+      "target_interval": [
+        0.3409482916649517,
+        3.1050382556661704
+      ]
+    },
+    "1.2": {
+      "sign": "unresolved",
+      "target_interval": [
+        -1.1181034166700965,
+        4.90503825566617
+      ]
+    }
+  },
+  "delta": 0.9444616088408512,
+  "delta_interval": [
+    0.6409482916649517,
+    1.2525191278330852
+  ],
+  "epsilon_simultaneous_95pct": 0.015929805107461024,
+  "observationally_identical_rivals": [
+    {
+      "K": 1,
+      "R_off": 0.8472978603872036,
+      "R_on": 0.7917594692280547,
+      "delta_residual": -0.055538391159148826,
+      "lambda": 1
+    },
+    {
+      "K": -0.25,
+      "R_off": 0.8472978603872036,
+      "R_on": 2.0417594692280545,
+      "delta_residual": 1.194461608840851,
+      "lambda": 1
+    }
+  ],
+  "probabilities": {
+    "off_minus": 0.3,
+    "off_plus": 0.5,
+    "on_minus": 0.2,
+    "on_plus": 0.6
+  },
+  "scope": "invented probabilities and calibration assumptions; not neural data"
+}

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "908b797fe8d8368f0c5d80749a8c8d722e452f47",
-  "file_count": 1579,
+  "base_head": "baebe41295fd2e3adc7ca270a3ebb13f92e56e8d",
+  "file_count": 1584,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 35466,
-      "sha256": "8913a89dbd8c5e489ed39a4aaa5629d410ef4971666fe2e37e5563a8fdc4ba70"
+      "bytes": 36134,
+      "sha256": "a8d497fae27448dc0d1ef03a3f10278402066b76a94fa0d5e493eec1d88dc33a"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 125411,
-      "sha256": "1f5019a3e3069725b7bf1b0e4bcdcc9cbf84af02ee535956b1bb019146ba3319"
+      "bytes": 125990,
+      "sha256": "3ae6329b33e7ab3b722a1f0eb5a840e0228d6506c6b9acb7e7d1b1c0c409fb9b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1959,6 +1959,16 @@
       "sha256": "66bbd80b2a1fd258eafac5bac27afbc3ed8dbfb355801f053bb7635397d21572"
     },
     {
+      "path": "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
+      "bytes": 13300,
+      "sha256": "fd410ee71c89b197f48b45a900577b5037dfe9f2294c67bd78637ce21dbfd2bd"
+    },
+    {
+      "path": "SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md",
+      "bytes": 4093,
+      "sha256": "f9ae10cae162d0e9c123728d24fef3939897e66ab7383afd69f3811bb6154f1d"
+    },
+    {
       "path": "SYNTHESIS.md",
       "bytes": 110032,
       "sha256": "2c21fdb05244ae8173e2eca65028338ffb03aa333e7c77b6b675eac48f887b8c"
@@ -2050,8 +2060,8 @@
     },
     {
       "path": "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
-      "bytes": 10000,
-      "sha256": "2a09281f480bce474141d9ff7918a7e90bd9ce6b3b898668627296f6c50e9602"
+      "bytes": 10296,
+      "sha256": "4d5c522c9502993b6a717737c95b77d1163606979df5c86cee6fb1a38923f60c"
     },
     {
       "path": "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
@@ -6165,8 +6175,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 638467,
-      "sha256": "370823e04486da0f2cfe3cd65e82314320d42e7b1bb4ae5e5d9922b4505b3158"
+      "bytes": 640397,
+      "sha256": "eb480fa80451e8157eaf21169e1c871368585a04ac5dd4857d6f5886ce801dd0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7347,6 +7357,21 @@
       "path": "verification/swapping_herald_selection_gate.py",
       "bytes": 5791,
       "sha256": "0891ba9de23638e9135452cfde56111010ddf22d0eefe481feec11c94083783e"
+    },
+    {
+      "path": "verification/synaptic_preference_calibration.json",
+      "bytes": 1063,
+      "sha256": "2f2438356955b08d9ca1e09cb4b37c500db05c15096eebe1ff50d78a838b15fa"
+    },
+    {
+      "path": "verification/synaptic_preference_calibration.py",
+      "bytes": 3431,
+      "sha256": "aa50bed92f596042a46875f0365cde97799478f4d96a94973be8867e739098d8"
+    },
+    {
+      "path": "verification/synaptic_preference_calibration_test.py",
+      "bytes": 2398,
+      "sha256": "d8c09d5e89fa9cfcfd8543967ab64250eee5ee809b2cd5f120c4918a32f2d637"
     },
     {
       "path": "verification/takesaki_dual_typeIII1.json",

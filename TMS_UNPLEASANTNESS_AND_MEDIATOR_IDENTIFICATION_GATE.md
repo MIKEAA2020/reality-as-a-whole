@@ -46,6 +46,8 @@ Another distinct lead, [Zhang et al. (2025)](https://www.nature.com/articles/s42
 
 ## Gate to revisit
 
+The subsequent [synaptic interaction preference and transport gate](SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md) specifies one candidate neuronal pathway, a selective-gate sensitivity calculation and the remaining same-person transport barrier. It does not assign q to these datasets.
+
 Before opening target outcomes for a new comparison, designate the physical variables and interaction, specify what the binary states mean and why the proposed binary model applies, and obtain a rating-independent calibration of the preferred relation `τ`, with uncertainty and evidence that the intervention distinguishes that interaction from other channels. Independently verify participant, trial/block and timing linkage to separately measured unpleasantness. Then fix the inclusion criteria, preprocessing, leakage controls, participants held out, primary metric and uncertainty procedure, and compare calibrated `q` with stimulus-only and conventional physiological models on the **same held-out cases**. If any prerequisite fails, stop rather than relabel an ERP, phase, microstate or correlation `q`. A predictive advantage alone would not establish phenomenal constitution.
 
 The [prior Rao screen](NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md) and [physical selectivity control](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) remain relevant; [PAINgen's 21 remaining discrepancies](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) remain unresolved pending original processing records. This work does not resolve C3, B4–B5/F2, B9/F3 or B10.

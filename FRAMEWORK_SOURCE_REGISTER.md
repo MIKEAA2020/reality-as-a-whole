@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 465 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 402 verification Python scripts.
+- 467 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 404 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -400,6 +400,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md](SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md) — Substrate, context and the time horizon of an organizational match
 - [SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md](SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md) — Substrate-independence, context and the boundaries of subjects
 - [SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md](SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md) — Entanglement swapping, heralding and perspective selection
+- [SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md](SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md) — A concrete synaptic calibration—and why it does not yet reach experience
+- [SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md](SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md) — Fixed plan: a concrete synaptic preference calibration and transport gate
 - [SYNTHESIS.md](SYNTHESIS.md) — Reality as a Whole
 - [SYNTHESIS_WDW_TIME.md](SYNTHESIS_WDW_TIME.md) — Synthesis: internal-time quantum gravity and the absolute-as-perspectives account
 - [TAKESAKI_DUAL_TYPEIII1.md](TAKESAKI_DUAL_TYPEIII1.md) — Takesaki duality and the type III₁ universal Tomita weight
@@ -938,6 +940,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_measure_selection_gate.py](verification/subject_measure_selection_gate.py)
 - [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)
 - [verification/swapping_herald_selection_gate.py](verification/swapping_herald_selection_gate.py)
+- [verification/synaptic_preference_calibration.py](verification/synaptic_preference_calibration.py)
+- [verification/synaptic_preference_calibration_test.py](verification/synaptic_preference_calibration_test.py)
 - [verification/takesaki_dual_typeIII1.py](verification/takesaki_dual_typeIII1.py)
 - [verification/target_symmetric_support_robustness.py](verification/target_symmetric_support_robustness.py)
 - [verification/temporal_marginal_parity_gate.py](verification/temporal_marginal_parity_gate.py)

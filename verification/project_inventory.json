@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 508,
-  "bytes": 6585001,
-  "line_count": 61503,
-  "document_count_with_risk_phrases": 478,
+  "document_count": 510,
+  "bytes": 6603937,
+  "line_count": 61613,
+  "document_count_with_risk_phrases": 480,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4242,9 +4242,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8913a89dbd8c5e489ed39a4aaa5629d410ef4971666fe2e37e5563a8fdc4ba70",
-      "bytes": 35466,
-      "lines": 143,
+      "sha256": "a8d497fae27448dc0d1ef03a3f10278402066b76a94fa0d5e493eec1d88dc33a",
+      "bytes": 36134,
+      "lines": 145,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4256,6 +4256,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
         "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
         "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
         "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
@@ -4319,22 +4320,22 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        15,
-        19,
-        25,
+        7,
+        17,
+        21,
         27,
-        41,
-        45,
-        57,
-        65,
+        29,
+        43,
+        47,
+        59,
         67,
-        71,
-        87,
-        97,
-        114,
-        131,
-        137
+        69,
+        73,
+        89,
+        99,
+        116,
+        133,
+        139
       ]
     },
     {
@@ -4513,9 +4514,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1f5019a3e3069725b7bf1b0e4bcdcc9cbf84af02ee535956b1bb019146ba3319",
-      "bytes": 125411,
-      "lines": 1000,
+      "sha256": "3ae6329b33e7ab3b722a1f0eb5a840e0228d6506c6b9acb7e7d1b1c0c409fb9b",
+      "bytes": 125990,
+      "lines": 1004,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4917,6 +4918,8 @@
         "SUBSTRATE_CONTEXT_HORIZON_AND_ROBUSTNESS.md",
         "SUBSTRATE_INDEPENDENCE_CONTEXT_AND_SUBJECTS.md",
         "SWAPPING_HERALDING_AND_PERSPECTIVE_SELECTION_GATE.md",
+        "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
+        "SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md",
         "SYNTHESIS.md",
         "SYNTHESIS_WDW_TIME.md",
         "TAKESAKI_DUAL_TYPEIII1.md",
@@ -5441,6 +5444,8 @@
         "verification/subject_measure_selection_gate.py",
         "verification/substrate_self_existent_interface.py",
         "verification/swapping_herald_selection_gate.py",
+        "verification/synaptic_preference_calibration.py",
+        "verification/synaptic_preference_calibration_test.py",
         "verification/takesaki_dual_typeIII1.py",
         "verification/target_symmetric_support_robustness.py",
         "verification/temporal_marginal_parity_gate.py",
@@ -5512,13 +5517,13 @@
         300,
         323,
         370,
-        454,
-        469,
-        505,
-        514,
-        517,
-        520,
-        584
+        456,
+        471,
+        507,
+        516,
+        519,
+        522,
+        586
       ]
     },
     {
@@ -13440,6 +13445,50 @@
       ]
     },
     {
+      "path": "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
+      "sha256": "fd410ee71c89b197f48b45a900577b5037dfe9f2294c67bd78637ce21dbfd2bd",
+      "bytes": 13300,
+      "lines": 83,
+      "title": "A concrete synaptic calibration—and why it does not yet reach experience",
+      "headings": [
+        "A concrete synaptic calibration—and why it does not yet reach experience",
+        "1. One specified target",
+        "2. What evidence could justify—or defeat—the calibration?",
+        "3. Fixed invented-probability control",
+        "4. Decision for the available pain studies"
+      ],
+      "local_links": [
+        "SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md",
+        "verification/synaptic_preference_calibration.json",
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        41,
+        55,
+        73,
+        75
+      ]
+    },
+    {
+      "path": "SYNAPTIC_PREFERENCE_CALIBRATION_FIXED_PLAN.md",
+      "sha256": "f9ae10cae162d0e9c123728d24fef3939897e66ab7383afd69f3811bb6154f1d",
+      "bytes": 4093,
+      "lines": 19,
+      "title": "Fixed plan: a concrete synaptic preference calibration and transport gate",
+      "headings": [
+        "Fixed plan: a concrete synaptic preference calibration and transport gate",
+        "Prior access and scope",
+        "Chosen physical target",
+        "Fixed synthetic control",
+        "Decision and eventual comparison"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        15
+      ]
+    },
+    {
       "path": "SYNTHESIS.md",
       "sha256": "2c21fdb05244ae8173e2eca65028338ffb03aa333e7c77b6b675eac48f887b8c",
       "bytes": 110032,
@@ -14180,9 +14229,9 @@
     },
     {
       "path": "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
-      "sha256": "2a09281f480bce474141d9ff7918a7e90bd9ce6b3b898668627296f6c50e9602",
-      "bytes": 10000,
-      "lines": 51,
+      "sha256": "4d5c522c9502993b6a717737c95b77d1163606979df5c86cee6fb1a38923f60c",
+      "bytes": 10296,
+      "lines": 53,
       "title": "rTMS, unpleasantness and mediator identification",
       "headings": [
         "rTMS, unpleasantness and mediator identification",
@@ -14194,6 +14243,7 @@
       "local_links": [
         "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
         "verification/tms_mediator_identification.json",
+        "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
         "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md"
