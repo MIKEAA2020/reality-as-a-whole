@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "230f304200655f4572744e2404a3a669f1b38590",
-  "file_count": 1593,
+  "base_head": "65616796ece7e061601a1249fda7154ddc1f2338",
+  "file_count": 1598,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 36691,
-      "sha256": "e69966224d4b979da7f725c603606cf95588d73017934fc3e520d67967aee873"
+      "bytes": 37270,
+      "sha256": "36afa6588d6cb6b07acbc9f01a02735bb1856ded9ec600fdefbf68376541c6c2"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 126883,
-      "sha256": "b0745855b628516adab9b2da1df0c4b4c782c1515dfb2f9a32f38f82efffa1ee"
+      "bytes": 127427,
+      "sha256": "8952dd342ea4e4bd8687e5495f55e8062d8c0fee061b79f7666bf2621916bbe4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1289,14 +1289,24 @@
       "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754"
     },
     {
+      "path": "PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md",
+      "bytes": 9043,
+      "sha256": "67431deaf3644ff58434b38f3e448130d5f27142e8c0a75fd9d7812836ece4fd"
+    },
+    {
+      "path": "PAINGEN_ORDER_RT_SELECTION_FIXED_PLAN.md",
+      "bytes": 4678,
+      "sha256": "062f4cc0ed28ded2c5ce03294083697aae6fa524ba342271da1b12df7b6b7393"
+    },
+    {
       "path": "PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md",
       "bytes": 2356,
       "sha256": "055991e75dce47366344d58d32a49787e28f21732f23d01497bd1e3adf82dce2"
     },
     {
       "path": "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
-      "bytes": 9310,
-      "sha256": "243dde065a422ee52972c72206ec7fb0fef91b1f30252343668abb3ff3096f55"
+      "bytes": 9644,
+      "sha256": "8e94fa67d17f9ddb0d5dc6ec66374c3101e04b64612120fba9a9512fd2fa5c74"
     },
     {
       "path": "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
@@ -5914,6 +5924,21 @@
       "sha256": "0fc0b0fcf646081a55b6341f5ed025eecd959a73e4ab1bb996652df820635f8a"
     },
     {
+      "path": "verification/paingen_order_rt_selection.json",
+      "bytes": 4669,
+      "sha256": "bc50707f62e1e75818308ba087ab8edb44d7e25b25e26dbcd1790c8afc9c28fd"
+    },
+    {
+      "path": "verification/paingen_order_rt_selection.py",
+      "bytes": 8608,
+      "sha256": "c83429da5d435a43315098a9e3f263230fe66640f6b7c2149b461c36403df6b6"
+    },
+    {
+      "path": "verification/paingen_order_rt_selection_test.py",
+      "bytes": 2467,
+      "sha256": "7b54fb36c9226d8c1a9dc19c8adab1d2491b1714a256e80bf03545b02c912c04"
+    },
+    {
       "path": "verification/paingen_partial_run_salvage.json",
       "bytes": 2342,
       "sha256": "bff991ab8a128f5ca3a1a79e8dfef9e2eaf57cfaf6456981ff4ce1444d25faca"
@@ -6220,8 +6245,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 643215,
-      "sha256": "4253dc02b17ae573a3b2d61b515b2147e3649f64b07aab905200453b8597e9e3"
+      "bytes": 645539,
+      "sha256": "a48b24970c804cf4da212e0bb5ba7eade25864b9cb931fb8aa1d6f83b17f2d5b"
     },
     {
       "path": "verification/project_inventory.py",

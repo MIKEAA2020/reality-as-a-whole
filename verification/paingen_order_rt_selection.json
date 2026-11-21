@@ -1,0 +1,188 @@
+{
+  "status": "completed",
+  "scope": "retrospective metadata-only descriptive audit, not outcome or causal analysis",
+  "dataset_commit": "8a38ee30b870373547676bf0d0638e16160472a1",
+  "event_files_verified": 1574,
+  "accepted_runs": 1566,
+  "rejection_reasons": {
+    "row_count_not_32": 7,
+    "schema": 1
+  },
+  "episodes": 12528,
+  "orders": {
+    "intensity_first": {
+      "total": 6200,
+      "intensity_rt_status": {
+        "below": 44,
+        "in_range": 5351,
+        "above": 805,
+        "unavailable": 0
+      },
+      "intensity_in_range_proportion_all_episodes": 0.8630645161290322,
+      "unpleasantness_rt_status": {
+        "below": 97,
+        "in_range": 5582,
+        "above": 521,
+        "unavailable": 0
+      },
+      "unpleasantness_in_range_proportion_all_episodes": 0.9003225806451612
+    },
+    "unpleasantness_first": {
+      "total": 6328,
+      "intensity_rt_status": {
+        "below": 96,
+        "in_range": 5671,
+        "above": 561,
+        "unavailable": 0
+      },
+      "intensity_in_range_proportion_all_episodes": 0.8961757269279393,
+      "unpleasantness_rt_status": {
+        "below": 41,
+        "in_range": 5483,
+        "above": 804,
+        "unavailable": 0
+      },
+      "unpleasantness_in_range_proportion_all_episodes": 0.8664664981036663
+    }
+  },
+  "intensity_status_total": {
+    "below": 140,
+    "in_range": 11022,
+    "above": 1366,
+    "unavailable": 0
+  },
+  "unpleasantness_status_total": {
+    "below": 138,
+    "in_range": 11065,
+    "above": 1325,
+    "unavailable": 0
+  },
+  "joint_intensity_by_unpleasantness_status": {
+    "below": {
+      "below": 84,
+      "in_range": 48,
+      "above": 8,
+      "unavailable": 0
+    },
+    "in_range": {
+      "below": 41,
+      "in_range": 10640,
+      "above": 341,
+      "unavailable": 0
+    },
+    "above": {
+      "below": 13,
+      "in_range": 377,
+      "above": 976,
+      "unavailable": 0
+    },
+    "unavailable": {
+      "below": 0,
+      "in_range": 0,
+      "above": 0,
+      "unavailable": 0
+    }
+  },
+  "timing_fields": {
+    "int_rating:intensity_first": {
+      "categories": {
+        "within_0.001": 0,
+        "duration_greater": 6200,
+        "response_time_greater": 0,
+        "unusable": 0
+      },
+      "duration_minus_response_time": {
+        "count": 6200,
+        "min": 0.4999999999999949,
+        "p25": 0.5,
+        "median": 0.5,
+        "p75": 0.5,
+        "max": 0.5000000000000051
+      }
+    },
+    "int_rating:unpleasantness_first": {
+      "categories": {
+        "within_0.001": 0,
+        "duration_greater": 6328,
+        "response_time_greater": 0,
+        "unusable": 0
+      },
+      "duration_minus_response_time": {
+        "count": 6328,
+        "min": 0.4999999999999949,
+        "p25": 0.5,
+        "median": 0.5,
+        "p75": 0.5,
+        "max": 0.5000000000000051
+      }
+    },
+    "unp_rating:intensity_first": {
+      "categories": {
+        "within_0.001": 0,
+        "duration_greater": 6200,
+        "response_time_greater": 0,
+        "unusable": 0
+      },
+      "duration_minus_response_time": {
+        "count": 6200,
+        "min": 0.4999999999999949,
+        "p25": 0.5,
+        "median": 0.5,
+        "p75": 0.5,
+        "max": 0.5000000000000051
+      }
+    },
+    "unp_rating:unpleasantness_first": {
+      "categories": {
+        "within_0.001": 0,
+        "duration_greater": 6328,
+        "response_time_greater": 0,
+        "unusable": 0
+      },
+      "duration_minus_response_time": {
+        "count": 6328,
+        "min": 0.4999999999999949,
+        "p25": 0.5,
+        "median": 0.5,
+        "p75": 0.5,
+        "max": 0.5000000000000051
+      }
+    }
+  },
+  "person_level_descriptive": {
+    "eligible_people": 394,
+    "intensity_first_higher": 68,
+    "unpleasantness_first_higher": 163,
+    "equal": 163,
+    "with_any_unavailable_rt": 0,
+    "mean_person_rate_difference": -0.03246439531683923,
+    "mean_person_rate_difference_exact": "-22805791/702486240"
+  },
+  "synthetic_selection_control": {
+    "joint": {
+      "O=0,Y=0,R=0": "1/16",
+      "O=0,Y=0,R=1": "3/16",
+      "O=0,Y=1,R=0": "3/16",
+      "O=0,Y=1,R=1": "1/16",
+      "O=1,Y=0,R=0": "3/16",
+      "O=1,Y=0,R=1": "1/16",
+      "O=1,Y=1,R=0": "1/16",
+      "O=1,Y=1,R=1": "3/16"
+    },
+    "retention_given_order": {
+      "0": "1/2",
+      "1": "1/2"
+    },
+    "outcome_mean_given_order_and_retained": {
+      "0": "1/4",
+      "1": "3/4"
+    },
+    "full_outcome_mean_given_order": {
+      "0": "1/2",
+      "1": "1/2"
+    },
+    "population_effect": "0",
+    "retained_contrast_order1_minus_order0": "1/2"
+  },
+  "privacy": "No identifiers, individual records, rating values, outcome tables or MRI saved."
+}

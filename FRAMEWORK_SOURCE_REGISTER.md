@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 470 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 408 verification Python scripts.
+- 472 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -266,6 +266,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) — PAINgen condition means: which discrepancies admit a trial-subset explanation?
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
+- [PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md](PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md) — PAINgen recorded prompt order, RT selection and timing: retrospective audit
+- [PAINGEN_ORDER_RT_SELECTION_FIXED_PLAN.md](PAINGEN_ORDER_RT_SELECTION_FIXED_PLAN.md) — Fixed retrospective plan: rating order, response-time selection and timing fields
 - [PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md](PAINGEN_ORIGINAL_RECORDS_SOURCE_DISCOVERY_PLAN.md) — Fixed source-discovery plan: PAINgen processing records
 - [PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) — PAINgen residual discrepancies: partial-run recovery and its limits
 - [PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md](PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md) — Post-result plan: conservative partial-run episode recovery
@@ -811,6 +813,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/paingen_condition_subset_diagnostic_test.py](verification/paingen_condition_subset_diagnostic_test.py)
 - [verification/paingen_intensity_unpleasantness_gate.py](verification/paingen_intensity_unpleasantness_gate.py)
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
+- [verification/paingen_order_rt_selection.py](verification/paingen_order_rt_selection.py)
+- [verification/paingen_order_rt_selection_test.py](verification/paingen_order_rt_selection_test.py)
 - [verification/paingen_partial_run_salvage.py](verification/paingen_partial_run_salvage.py)
 - [verification/paingen_partial_run_salvage_test.py](verification/paingen_partial_run_salvage_test.py)
 - [verification/paingen_prompt_order_control.py](verification/paingen_prompt_order_control.py)

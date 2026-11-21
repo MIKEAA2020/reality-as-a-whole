@@ -1,0 +1,23 @@
+# Fixed retrospective plan: rating order, response-time selection and timing fields
+
+## Previous knowledge and purpose
+
+The aggregate PAINgen data and prior exported-mean results were examined previously: 12,528 accepted episodes have recorded rating orders 6,200 intensity-first and 6,328 unpleasantness-first; the candidate published intensity-RT filter retains 11,022, with 140 below and 1,366 above range. A public task source newly located describes per-prompt RTs and a constrained order shuffle, but its use and BIDS conversion are not established. Before writing this plan, no counts stratifying RT selection by order, comparisons between RT and rating-event duration, or person-level order-retention summaries were calculated. This is a retrospective provenance and selection audit, not an outcome-blind replication.
+
+## Fixed input and descriptive checks
+
+Use precisely the pinned ds004746 v1.0.0 recursive tree, archive, blob verification and accepted-run parser from the [prior audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md): 1,574 event blobs, 1,566 accepted complete runs and 12,528 episodes. Do not examine individual pain scores, original MAT files, MRI or the author's outcome table. Do not relax the grammar to recover partial runs; report counts only, no identifiers or individual records. Stop if counts or schema disagree. Treat recorded onset order as recorded order, not proof of randomized assignment.
+
+For the two recorded first-prompt orders, tabulate the intensity-event `response_time` as below 0.02, inclusive 0.02–5.01, above 5.01, or unavailable, and compute the in-range proportion among all episodes in each order. Tabulate the same status for the unpleasantness event, cross-tab intensity/unpleasantness status in aggregate, and record missing or nonfinite values explicitly. Do not invent units: seconds is only a candidate interpretation based on the paper, and equivalence of BIDS timing with author timing is unverified. No reclassification, imputation or tests of reported pain.
+
+For each rating type, compare finite positive BIDS event `duration` and finite nonnegative `response_time`: count pairs with absolute difference ≤ 0.001 in the stored values, duration greater by more than 0.001, response time greater by more than 0.001, or unusable. Summarize signed `duration−response_time` by predeclared median, quartiles and min/max separately by rating type and observed order, with counts. These values are an internal consistency diagnostic, not an inferred conversion or device calibration. Detect and count inappropriate duration/RT values as unusable rather than excluding them silently.
+
+As an aggregate clustering diagnostic, for each person represented by at least one recorded episode in both orders, calculate their candidate in-range rate for intensity first minus their candidate in-range rate for unpleasantness first. Report the number with positive, negative or zero differences (exact integer cross products), and the mean of those per-person differences. This is unadjusted descriptive information; individuals and family members are correlated, response-time selection occurs after the order, and no causal effect is asserted. Track unavailable RT separately; report the mean using in-range counts divided by all episodes in each order, and explicitly report the number of people with any unavailable RT. No significance test, effect of order on pain, or claimed independent trial count.
+
+## Independent exact selection-bias control
+
+Define a synthetic binary randomly assigned order O, independent Bernoulli(1/2) potential outcomes with `Y(0)=Y(1)=U` and U uniform binary. For `O=Y`, let retained R be Bernoulli(3/4); otherwise Bernoulli(1/4), independent conditional on O,Y. Calculate exact joint probabilities, retention rates in both arms, population outcome difference and retained outcome difference. Verify that equal arm-level retention and zero individual treatment effects can nevertheless yield a selected-sample contrast. This is not a model or estimate of PAINgen participants; it illustrates why even equal removal rates do not exclude selection bias.
+
+## Failures and interpretation
+
+Implement and test synthetic counterexample, boundary classifications, within-person grouping and timing categories, archive count invariants and complete totals. Do not infer equality of two timestamps from correlation, prove a converter, identify an omitted trial, modify the original reconciliation or claim q. Keep the 21 unresolved discrepancies pending source processing records. Describe ordinary physiology, pain intensity, unpleasantness and the separate physical `q` as different targets.

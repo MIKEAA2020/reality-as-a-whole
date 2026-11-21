@@ -2,6 +2,8 @@
 
 ## Result
 
+**Later metadata follow-up:** the [order, RT selection and timing audit](PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md) finds descriptive order-dependent candidate retention and a uniform internal duration-minus-RT offset. It does not fit the unresolved discrepancies, establish the original pipeline, or measure an effect on pain.
+
 **Later source follow-up:** the [task-source and prompt-order audit](PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md) locates a public candidate PAINgen task implementation and derives its idealized prompt-order distribution. It identifies named per-prompt timing fields but does not verify the executed version, BIDS conversion or original condition-mean export; all 21 discrepancies remain open.
 
 After applying the published response-time rule as a candidate, **35 of 4,400** overlapping finite paired means still differed from the author export. A further retrospective check found:
