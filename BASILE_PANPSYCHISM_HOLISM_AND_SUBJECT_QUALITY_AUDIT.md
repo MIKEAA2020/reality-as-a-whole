@@ -2,6 +2,8 @@
 
 ## Decision
 
+**Follow-up:** [Private local and global fields](PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md) specifies one three-field, private-token completion and compares its content-type conjunctions with L-exclusive, C-full and C-layered. It makes incidence, quality and correspondence explicit postulates rather than presenting the construction as a solution.
+
 Pierfrancesco Basile's paper gives the project a more precise challenge than “how can many minds make one?” His proposed contradiction depends on **shared numerical experience tokens**, **phenomenal essentialism**, and a strong form of **holism** under which a difference in the surrounding experienced field changes an aspect's qualitative nature. It cannot be transferred automatically to E-L, which does not posit fundamental microsubjects or shared experience tokens. Yet it exposes a real unresolved choice if E-L or a layered rival later claims both local subjects and an encompassing subject: are their experiential aspects numerically shared, distinct but related, or only descriptions of one subject's field?
 
 Basile considers panpsychism seriously because of the apparent difficulty of deriving felt experience from a wholly non-experiential basis. He does **not** claim to have completed a theory of composition; he concludes that its impossibility has not been established. His favored privacy constraint is a substantive philosophical proposal, not a theorem from first-person experience alone. Neither his argument nor our comparison determines the actual subjects, their number or the felt character of `q`.

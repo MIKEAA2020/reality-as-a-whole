@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 482 root Markdown documents including this register; 43 research Markdown documents.
+- 484 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -307,6 +307,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md](PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md) — Strong actuality and the experiential-grounding problem
 - [PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md](PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md) — Plural subjects in an experiential relational ground
 - [POST_ROY_FRAMEWORK_CRITICAL_PATH.md](POST_ROY_FRAMEWORK_CRITICAL_PATH.md) — After the Roy data: decision and framework critical path
+- [PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md](PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md) — Private local and global fields: one explicit completion
+- [PRIVATE_NESTED_FIELDS_COMPARISON_FIXED_PLAN.md](PRIVATE_NESTED_FIELDS_COMPARISON_FIXED_PLAN.md) — Fixed plan: privately related local and global fields
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed

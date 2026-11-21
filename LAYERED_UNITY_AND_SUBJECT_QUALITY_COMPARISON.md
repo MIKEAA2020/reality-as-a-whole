@@ -2,6 +2,8 @@
 
 ## Verdict
 
+**Private-token follow-up:** [Private local and global fields](PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md) adds a stipulated three-subject nested candidate. Under newly defined content-type targets it matches the C-layered local/global conjunction pattern while differing in subject incidence; the follow-up does not assume the earlier occurrence-specific targets are numerically identical across candidates.
+
 **Primary-evidence follow-up:** the [attention-capacity audit](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) checks accessible abstracts and excerpts of three studies underlying the attention argument, distinguishes their tasks and patient groups, and identifies where the inference to experienced centrality remains open. Full primary methods and results were not available in that follow-up.
 
 The integrated candidate's two-subject L rule and the one-subject C rival do **not** by themselves predict everything needed for a test of lived unity. In particular, a coarse aspect of two sides might be experienced together while detailed aspects are not. A. Lopez's layered account develops this as a serious, experience-respecting possibility, not as a new patient measurement. Taking it seriously exposes an extra assumption in our earlier binary test: a positive **global** conjunction contradicts the earlier *exclusive two-field package* only if that package also rules out an encompassing field or a global conjunction within an existing field. Conversely, evidence of global conjunction does not by itself establish conjunction of the detailed local aspects.
