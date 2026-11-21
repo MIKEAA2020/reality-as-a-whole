@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [IIT 4.0 exclusion and private-fields audit](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) identifies a principled non-overlap rival to P, while separating individual experiential definiteness from the additional maximal-existence competition rule. No IIT calculation has been performed on the spin toy; subject incidence, quality and the substantive gates remain open.
+
 The [private nested-fields comparison](PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md) explicitly postulates two local fields and a separate global field with distinct related experience tokens and an independently stipulated whole-quality rule. On common content-type targets it matches a one-subject layered completion while differing in subject incidence. Physical overlap, first-person access and the proposed q laws do not establish those fields; the substantive gates remain open.
 
 The [Basile panpsychism and composition audit](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) reads the supplied full paper and applies its conditional holism, essentialism and shared-token argument to possible nested-field completions. Shared tokens, distinct related occurrences and multiple descriptions have different explanatory costs; none follows from the physical selectors. Contextual variation in full quality does not alone refute E-L's coarse q contrast, and the subjective bridges remain open.

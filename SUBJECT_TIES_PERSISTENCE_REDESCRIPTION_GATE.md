@@ -99,6 +99,8 @@ A defensible redescription gate therefore needs:
 
 This is related to, not a replacement for, established causal-abstraction conditions. Not every coarse-graining is an exact equivalence, and demanding identical results under every arbitrary coarse-graining would itself be unjustified. Our pairwise influence rule randomized and clamped individual neighbors; it has **not** passed this gate for constrained or coarse-grained physical descriptions.
 
+Follow-up: the [IIT 4.0 exclusion audit](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) independently inspects the primary tie supplement and distinguishes its rule from this toy's tie procedures.
+
 ## 6. Where this leaves the framework
 
 The tie examples eliminate a false shortcut: **causal cohesion plus symmetry does not automatically yield a unique subject, an identity through change, or an invariant physical basis.** The largest-subset tie-break shows that some cases can be resolved, while the three-spin obstruction identifies the cost of simultaneously requiring top-score maximality, exclusion, nonempty selection and symmetry. Existing IIT theory supplies its own more elaborate procedure; whether any such rule is metaphysically justified and matches empirical experience is a separate question.

@@ -2,6 +2,8 @@
 
 ## Result
 
+Follow-up: the [IIT 4.0 exclusion audit](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) compares P with a separately motivated non-overlap principle without treating the project selector as IIT.
+
 A candidate can postulate **two local subjects and a distinct encompassing subject** while denying that any one experience token belongs to more than one subject. The encompassing subject can experience a coarse left–right conjunction; the two local subjects can separately experience detailed aspects. This avoids Basile's *shared-token* premise and does not require one subject to have Lopez's nontransitive unity structure. But it pays for that move with three assumed fields, a correspondence between their different experiences, and an unexplained rule making overlapping physical sets into distinct subjects. It is not a derivation of consciousness.
 
 The important comparison is not merely a new diagram. Once the targets are made **content-type based**, the private nested candidate and a one-subject layered candidate agree on coarse global conjunction and lack of detailed local conjunction. They differ on whether local and global occurrences belong to distinct subjects. Consequently, a well-supported global conjunction alone could challenge a specified exclusive-L package but **cannot choose between those two alternatives**. No validated method for the additional subject-identity judgment is assumed here.

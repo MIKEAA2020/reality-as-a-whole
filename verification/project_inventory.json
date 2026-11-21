@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 527,
-  "bytes": 6759382,
-  "line_count": 62355,
-  "document_count_with_risk_phrases": 495,
+  "document_count": 529,
+  "bytes": 6783564,
+  "line_count": 62451,
+  "document_count_with_risk_phrases": 496,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4334,9 +4334,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "a8f52a58d515bd9d179d0b81263c64d83b49f1f994c9e3a9ace231c75ab442e5",
-      "bytes": 40426,
-      "lines": 161,
+      "sha256": "1e5f283c98ec5a1d9f0d70555142c806462bc9ea7610bca18d70ac2593c04048",
+      "bytes": 40806,
+      "lines": 163,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4348,6 +4348,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
         "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
@@ -4420,24 +4421,24 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        17,
         19,
-        23,
-        33,
-        37,
-        43,
+        21,
+        25,
+        35,
+        39,
         45,
-        59,
-        63,
-        75,
-        83,
+        47,
+        61,
+        65,
+        77,
         85,
-        89,
-        105,
-        115,
-        132,
-        149,
-        155
+        87,
+        91,
+        107,
+        117,
+        134,
+        151,
+        157
       ]
     },
     {
@@ -4616,9 +4617,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "681d64059893c10c9ce75dc1ee943e5bf1dd277731a291c140f496a5484a06af",
-      "bytes": 129469,
-      "lines": 1027,
+      "sha256": "fb999e17bda6b188d885622058992e5c80ff25c98031ae027adc44b6a8d2bc87",
+      "bytes": 129784,
+      "lines": 1029,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4796,6 +4797,8 @@
         "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
+        "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
+        "IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md",
         "INCOMING_CONSTRAINT_PREPARATION.md",
         "INFINITE_COHERENCE_CONSTRUCTION.md",
         "INFINITE_RELATIONAL_CLOCK.md",
@@ -5636,19 +5639,19 @@
         57,
         67,
         137,
-        187,
-        240,
-        269,
-        314,
-        339,
-        386,
-        473,
-        488,
-        524,
-        533,
-        536,
-        539,
-        603
+        189,
+        242,
+        271,
+        316,
+        341,
+        388,
+        475,
+        490,
+        526,
+        535,
+        538,
+        541,
+        605
       ]
     },
     {
@@ -6418,6 +6421,55 @@
         125,
         139
       ]
+    },
+    {
+      "path": "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
+      "sha256": "960e94a114d6f1ca02497c52589eb34728fa0453432704cb4181d184c02ff014",
+      "bytes": 19477,
+      "lines": 71,
+      "title": "IIT 4.0 exclusion versus private nested subjects",
+      "headings": [
+        "IIT 4.0 exclusion versus private nested subjects",
+        "Verdict",
+        "1. Sources and inspection limits",
+        "2. Where the exclusion argument comes from",
+        "3. What IIT actually computes—and what it identifies",
+        "4. Comparison at the four-spin interface",
+        "5. Ontology challenge, with possible reply",
+        "6. What could discriminate, and what cannot"
+      ],
+      "local_links": [
+        "IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md",
+        "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "research/causal_exclusion_candidate/REPORT.md",
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        13,
+        23,
+        35
+      ]
+    },
+    {
+      "path": "IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md",
+      "sha256": "3441621b36a862bfca7a8c5b60c13426f4f894e7603081ef38d8aaf7e1cb4a4c",
+      "bytes": 3608,
+      "lines": 17,
+      "title": "Fixed plan: IIT 4.0 exclusion and private nested fields",
+      "headings": [
+        "Fixed plan: IIT 4.0 exclusion and private nested fields",
+        "Known before reading",
+        "Planned source and analysis scope",
+        "Deliverable"
+      ],
+      "local_links": [
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",
@@ -10414,9 +10466,9 @@
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
-      "sha256": "5cf7e1a54b0795556ab68bd37034f41d1ec7a154c1455fc0bbffc89d28a9d433",
-      "bytes": 17583,
-      "lines": 80,
+      "sha256": "9e3d09f19fa8a89af0943b85dc4084f6739b84a5ac51e7d67e52d242b3a7a028",
+      "bytes": 17783,
+      "lines": 82,
       "title": "Private local and global fields: one explicit completion",
       "headings": [
         "Private local and global fields: one explicit completion",
@@ -10429,16 +10481,17 @@
         "6. Assessment and next substantive work"
       ],
       "local_links": [
+        "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_COMPARISON_FIXED_PLAN.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md"
       ],
       "risk_phrase_lines": [
-        23,
-        26,
-        27,
-        54,
+        25,
+        28,
+        29,
         56,
-        78
+        58,
+        80
       ]
     },
     {
@@ -13718,9 +13771,9 @@
     },
     {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
-      "sha256": "9bcf6441583a40eb12eb6df368a0d4b5f21e0e1c7234f4b5a0a667a4ced769bf",
-      "bytes": 12632,
-      "lines": 110,
+      "sha256": "8d7cbfe48bba989f74be19d107399b55815ffe2daa7681b9d757cc6515077d0b",
+      "bytes": 12834,
+      "lines": 112,
       "title": "Subject constitution: ties, persistence and redescriptions",
       "headings": [
         "Subject constitution: ties, persistence and redescriptions",
@@ -13735,6 +13788,7 @@
       "local_links": [
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
         "verification/subject_cohesion_identity_redescription.json"
       ],
       "risk_phrase_lines": [
@@ -13749,8 +13803,8 @@
         85,
         91,
         100,
-        104,
-        110
+        106,
+        112
       ]
     },
     {

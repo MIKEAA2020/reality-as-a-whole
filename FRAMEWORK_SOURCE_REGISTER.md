@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 484 root Markdown documents including this register; 43 research Markdown documents.
+- 486 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -176,6 +176,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md](HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md) — Higher-order causality and the subject-selection problem
 - [HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) — How accurate must a first-person mismatch test be?
 - [HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md](HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md) — History weights: local checks, consistency and the infinite limit
+- [IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md](IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md) — IIT 4.0 exclusion versus private nested subjects
+- [IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md](IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md) — Fixed plan: IIT 4.0 exclusion and private nested fields
 - [INCOMING_CONSTRAINT_PREPARATION.md](INCOMING_CONSTRAINT_PREPARATION.md) — On-shell incoming preparation without a polar controller
 - [INFINITE_COHERENCE_CONSTRUCTION.md](INFINITE_COHERENCE_CONSTRUCTION.md) — An explicit infinite coherence construction
 - [INFINITE_RELATIONAL_CLOCK.md](INFINITE_RELATIONAL_CLOCK.md) — An infinite relational clock without a global clock distribution

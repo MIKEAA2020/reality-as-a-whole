@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "086112a15b7203dd849fee5e6abb8a2aef674220",
-  "file_count": 1610,
+  "base_head": "b733cc7cc1782506e50fb74a17518c4c174fd0bc",
+  "file_count": 1612,
   "files": [
     {
       "path": ".gitattributes",
@@ -675,8 +675,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 40426,
-      "sha256": "a8f52a58d515bd9d179d0b81263c64d83b49f1f994c9e3a9ace231c75ab442e5"
+      "bytes": 40806,
+      "sha256": "1e5f283c98ec5a1d9f0d70555142c806462bc9ea7610bca18d70ac2593c04048"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -710,8 +710,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 129469,
-      "sha256": "681d64059893c10c9ce75dc1ee943e5bf1dd277731a291c140f496a5484a06af"
+      "bytes": 129784,
+      "sha256": "fb999e17bda6b188d885622058992e5c80ff25c98031ae027adc44b6a8d2bc87"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -832,6 +832,16 @@
       "path": "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
       "bytes": 14044,
       "sha256": "9707d68a18408c6ceca5c8d1b61bbc6fdf095edcf6542a9a58d2e1e1a485b995"
+    },
+    {
+      "path": "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
+      "bytes": 19477,
+      "sha256": "960e94a114d6f1ca02497c52589eb34728fa0453432704cb4181d184c02ff014"
+    },
+    {
+      "path": "IIT4_EXCLUSION_PRIVATE_FIELDS_READING_PLAN.md",
+      "bytes": 3608,
+      "sha256": "3441621b36a862bfca7a8c5b60c13426f4f894e7603081ef38d8aaf7e1cb4a4c"
     },
     {
       "path": "INCOMING_CONSTRAINT_PREPARATION.md",
@@ -1495,8 +1505,8 @@
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
-      "bytes": 17583,
-      "sha256": "5cf7e1a54b0795556ab68bd37034f41d1ec7a154c1455fc0bbffc89d28a9d433"
+      "bytes": 17783,
+      "sha256": "9e3d09f19fa8a89af0943b85dc4084f6739b84a5ac51e7d67e52d242b3a7a028"
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_COMPARISON_FIXED_PLAN.md",
@@ -2020,8 +2030,8 @@
     },
     {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
-      "bytes": 12632,
-      "sha256": "9bcf6441583a40eb12eb6df368a0d4b5f21e0e1c7234f4b5a0a667a4ced769bf"
+      "bytes": 12834,
+      "sha256": "8d7cbfe48bba989f74be19d107399b55815ffe2daa7681b9d757cc6515077d0b"
     },
     {
       "path": "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
@@ -6305,8 +6315,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 657131,
-      "sha256": "ca643ef49d81cdec4415e51462ec96c5442a2479eb7efc0dd9bd86ce82137451"
+      "bytes": 659301,
+      "sha256": "1cb3237cc032c2ce28997ecafc591306bb14737b9f1fe9abb317b876a2fe5b48"
     },
     {
       "path": "verification/project_inventory.py",
