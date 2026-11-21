@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2419f421c3b6cef39cc3b9996ad22c893ddb127c",
-  "file_count": 1440,
+  "base_head": "4c1c9abcb3718b156ae5ea9472041e3d297153e2",
+  "file_count": 1446,
   "files": [
     {
       "path": ".gitattributes",
@@ -600,8 +600,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 20679,
-      "sha256": "c2d22af48c0e3c31c158b9fa4d474a8723e937d028718f2885659d3068ba335c"
+      "bytes": 21166,
+      "sha256": "f0d6d4151adef12d5b6408e3f6eb94a245a64eec01606817d1ff0062bc73560b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -625,8 +625,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 110445,
-      "sha256": "d3d0af1dfbafc4e307633ec4dfc87d367928fbbe242febf0a690dfa0a23cbc5f"
+      "bytes": 111180,
+      "sha256": "97bf3f62892619f7d2bb75321e37faa366690f5adc617ad5287378a072cc2f55"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1644,6 +1644,16 @@
       "sha256": "f5a9492551713c918efe9737d9f6828dba1e7991cfcf64d677b87b0c9973703f"
     },
     {
+      "path": "STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md",
+      "bytes": 5803,
+      "sha256": "b3c8c4dc80a25bf84fc7aee2430ce45d01a6da4641fb342bf9b3dc3f462fa641"
+    },
+    {
+      "path": "STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md",
+      "bytes": 1481,
+      "sha256": "8dc72615d08fb28c992acc71100f5111bdf4edbf4a2544ad10f16ac408e65239"
+    },
+    {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
       "bytes": 11897,
       "sha256": "c9184d78b8b63ad19c911cff41014349f3b20c3ae48bdada722526ef12a4f86f"
@@ -1907,6 +1917,11 @@
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
       "bytes": 14541,
       "sha256": "db3a2ed9f3c093641be4dac4cf9dda3a22ff204b0aaa57feea45815a49e331a6"
+    },
+    {
+      "path": "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
+      "bytes": 8740,
+      "sha256": "f83d67a311ab3fcb6010c10cf5ae9a1fb0815f69f7a52cf17765bb5f5583508e"
     },
     {
       "path": "WDW_ANGULAR_COUPLING.md",
@@ -5515,8 +5530,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 573380,
-      "sha256": "d0f38556b540131969718e56ac990689df1e2b9712168fbbbfb3741904d0db4a"
+      "bytes": 575904,
+      "sha256": "c138ba596332d5dfd2168ec0727f934497da01209f1250a3a076cb6946bf3429"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6942,6 +6957,21 @@
       "path": "verification/vedral_free_spread_gate.py",
       "bytes": 2132,
       "sha256": "594287242d778e1e15bbbc24505f6c82161b6330da953e8471bcf44f988a13bb"
+    },
+    {
+      "path": "verification/visual_stimulation_report_benchmark.json",
+      "bytes": 3309,
+      "sha256": "368018e41e6ef1f38234f59b6c0aebeae945b17afb417f65a387338d2b806e9e"
+    },
+    {
+      "path": "verification/visual_stimulation_report_benchmark.py",
+      "bytes": 7663,
+      "sha256": "d4760eca4caed91f8e79b6bc34ee9a2b0914cbd699a32f135c9ee1b8c688ba13"
+    },
+    {
+      "path": "verification/visual_stimulation_report_benchmark_test.py",
+      "bytes": 2348,
+      "sha256": "4ba5618413f814fb8c97ec891b2bc4d6935513f8e6e1659d8354a37df02550c6"
     },
     {
       "path": "verification/wdw_angular_coupling.json",

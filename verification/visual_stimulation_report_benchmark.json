@@ -1,0 +1,102 @@
+{
+  "commit": "ff529027bef934f384e7385f1b83d7190ef307d0",
+  "root_tree": "d8e1eb561d4352dd37662677372f5572099c2082",
+  "archive_bytes": 258150,
+  "archive_sha256": "67563eb8385e3276ab6fc6e5696a4685ff131d47d6738b140f12addc3ee54ef5",
+  "git_blobs_verified": 224,
+  "event_files": 112,
+  "strict_plan_eligible": 7,
+  "strict_plan_exclusions": {
+    "event structure": 105
+  },
+  "primary_benchmark_status": "suppressed: strict eligibility excludes most files",
+  "amended_events": 112,
+  "amended_patients": 20,
+  "amended_event_row_count": {
+    "3": 7,
+    "4": 105
+  },
+  "post_marker_present": 111,
+  "current_at_most_1ma": 90,
+  "all_annotations": {
+    "sym_central": 9,
+    "sym_color": 32,
+    "sym_combined_visual_symptoms": 13,
+    "sym_complex": 1,
+    "sym_continuous_hallucination": 68,
+    "sym_dynamic": 25,
+    "sym_elementary": 95,
+    "sym_intermittent_hallucination": 28,
+    "sym_left_visual_hemifield": 17,
+    "sym_lower_left_quadrant": 3,
+    "sym_lower_right_quadrant": 6,
+    "sym_minus_hallucination": 1,
+    "sym_multimodal_hallucinations": 3,
+    "sym_non_color": 60,
+    "sym_peripheric": 8,
+    "sym_plus_hallucination": 95,
+    "sym_right_visual_hemifield": 8,
+    "sym_static": 71,
+    "sym_upper_left_quadrant": 14,
+    "sym_upper_right_quadrant": 5,
+    "sym_whole_visual_field": 28
+  },
+  "all_zero_flag_rows": 0,
+  "stimulation_marker_zero_duration": 112,
+  "pre_window_ends_before_marker": 111,
+  "post_window_starts_after_marker": 111,
+  "text_present": 112,
+  "contacts_present": 112,
+  "explicit_sham_text": 0,
+  "explicit_lower_intensity_text": 0,
+  "signal_file_paths": {
+    "ieeg.eeg_paths": 112,
+    "ieeg.eeg_symlinks": 112,
+    "ieeg.vhdr_paths": 112,
+    "ieeg.vhdr_symlinks": 112,
+    "ieeg.vmrk_paths": 112,
+    "ieeg.vmrk_symlinks": 112
+  },
+  "color_sidecar_description_pairs": [
+    {
+      "color": "Color (black and white) hallucinations",
+      "non_color": "Non-color (black and white) hallucinations",
+      "files": 112
+    }
+  ],
+  "amended_exploratory_same_patient_current": {
+    "sym_static": {
+      "ones": 71,
+      "patients_with_one": 17,
+      "same_patient_current_repeated_groups": 24,
+      "same_patient_current_mixed_groups": 11,
+      "oracle_in_sample_mistakes": 17,
+      "oracle_in_sample_mistake_fraction": 0.15178571428571427
+    },
+    "sym_dynamic": {
+      "ones": 25,
+      "patients_with_one": 10,
+      "same_patient_current_repeated_groups": 24,
+      "same_patient_current_mixed_groups": 10,
+      "oracle_in_sample_mistakes": 12,
+      "oracle_in_sample_mistake_fraction": 0.10714285714285714
+    },
+    "sym_continuous_hallucination": {
+      "ones": 68,
+      "patients_with_one": 16,
+      "same_patient_current_repeated_groups": 24,
+      "same_patient_current_mixed_groups": 10,
+      "oracle_in_sample_mistakes": 14,
+      "oracle_in_sample_mistake_fraction": 0.125
+    },
+    "sym_intermittent_hallucination": {
+      "ones": 28,
+      "patients_with_one": 9,
+      "same_patient_current_repeated_groups": 24,
+      "same_patient_current_mixed_groups": 10,
+      "oracle_in_sample_mistakes": 15,
+      "oracle_in_sample_mistake_fraction": 0.13392857142857142
+    }
+  },
+  "scope": "only selected annotated metadata events, not iEEG, validated experiential absence, causal effect of current, q or a framework pass"
+}

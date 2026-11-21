@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 457,
-  "bytes": 6001248,
-  "line_count": 58024,
-  "document_count_with_risk_phrases": 429,
+  "document_count": 460,
+  "bytes": 6018494,
+  "line_count": 58104,
+  "document_count_with_risk_phrases": 432,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3876,9 +3876,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "c2d22af48c0e3c31c158b9fa4d474a8723e937d028718f2885659d3068ba335c",
-      "bytes": 20679,
-      "lines": 83,
+      "sha256": "f0d6d4151adef12d5b6408e3f6eb94a245a64eec01606817d1ff0062bc73560b",
+      "bytes": 21166,
+      "lines": 85,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3890,6 +3890,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
         "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
@@ -3919,14 +3920,14 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        11,
-        27,
-        37,
-        54,
-        71,
-        77
+        9,
+        13,
+        29,
+        39,
+        56,
+        73,
+        79
       ]
     },
     {
@@ -4032,9 +4033,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d3d0af1dfbafc4e307633ec4dfc87d367928fbbe242febf0a690dfa0a23cbc5f",
-      "bytes": 110445,
-      "lines": 889,
+      "sha256": "97bf3f62892619f7d2bb75321e37faa366690f5adc617ad5287378a072cc2f55",
+      "bytes": 111180,
+      "lines": 894,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4373,6 +4374,8 @@
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
         "STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md",
+        "STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md",
+        "STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md",
         "STRING_DUALITY_SUBJECT_SELECTION.md",
         "STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md",
         "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
@@ -4426,6 +4429,7 @@
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
+        "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
         "WDW_ANGULAR_COUPLING.md",
         "WDW_ANHARMONIC.md",
         "WDW_BKL_ROTATIONAL_STABILITY.md",
@@ -4880,6 +4884,8 @@
         "verification/ur_spinor_classical_control_gate.py",
         "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_free_spread_gate.py",
+        "verification/visual_stimulation_report_benchmark.py",
+        "verification/visual_stimulation_report_benchmark_test.py",
         "verification/wdw_angular_coupling.py",
         "verification/wdw_anharmonic.py",
         "verification/wdw_bkl_rotational_stability.py",
@@ -4919,13 +4925,13 @@
         258,
         280,
         327,
-        403,
-        418,
-        454,
-        463,
+        406,
+        421,
+        457,
         466,
         469,
-        529
+        472,
+        532
       ]
     },
     {
@@ -11399,6 +11405,40 @@
       ]
     },
     {
+      "path": "STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md",
+      "sha256": "b3c8c4dc80a25bf84fc7aee2430ce45d01a6da4641fb342bf9b3dc3f462fa641",
+      "bytes": 5803,
+      "lines": 26,
+      "title": "Fixed retrospective plan: stimulation and reported visual qualities",
+      "headings": [
+        "Fixed retrospective plan: stimulation and reported visual qualities",
+        "Aim",
+        "Bounded metadata inspection",
+        "Primary held-out comparison",
+        "Additional in-sample negative control"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        9,
+        24
+      ]
+    },
+    {
+      "path": "STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md",
+      "sha256": "8dc72615d08fb28c992acc71100f5111bdf4edbf4a2544ad10f16ac408e65239",
+      "bytes": 1481,
+      "lines": 5,
+      "title": "Metadata eligibility amendment",
+      "headings": [
+        "Metadata eligibility amendment"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        3,
+        5
+      ]
+    },
+    {
       "path": "STRING_DUALITY_SUBJECT_SELECTION.md",
       "sha256": "c9184d78b8b63ad19c911cff41014349f3b20c3ae48bdada722526ef12a4f86f",
       "bytes": 11897,
@@ -13389,6 +13429,34 @@
       ],
       "risk_phrase_lines": [
         49
+      ]
+    },
+    {
+      "path": "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
+      "sha256": "f83d67a311ab3fcb6010c10cf5ae9a1fb0815f69f7a52cf17765bb5f5583508e",
+      "bytes": 8740,
+      "lines": 42,
+      "title": "Visual stimulation: what same-current reports do and do not identify",
+      "headings": [
+        "Visual stimulation: what same-current reports do and do not identify",
+        "Decision",
+        "What was actually checked",
+        "Matched-current descriptive constraint",
+        "Why this cannot constitute subjects or felt quality",
+        "Source coverage and reconciliation"
+      ],
+      "local_links": [
+        "STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md",
+        "STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md",
+        "verification/visual_stimulation_report_benchmark.json",
+        "verification/visual_stimulation_report_benchmark.py",
+        "verification/visual_stimulation_report_benchmark_test.py",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        13,
+        19
       ]
     },
     {

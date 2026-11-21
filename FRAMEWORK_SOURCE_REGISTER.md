@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 414 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 346 verification Python scripts.
+- 417 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 348 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -337,6 +337,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) — Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
 - [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md](STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md) — State mismatch: a bounded contrast and a falsification gate
+- [STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md](STIMULATION_VISUAL_REPORT_MATCHED_INTENSITY_FIXED_PLAN.md) — Fixed retrospective plan: stimulation and reported visual qualities
+- [STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md](STIMULATION_VISUAL_REPORT_METADATA_AMENDMENT.md) — Metadata eligibility amendment
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md](STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md) — Full structural and experiential intelligibility: two supplied papers
 - [STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md](STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md) — Structured void, neutrino oscillations and explanatory identifiability
@@ -390,6 +392,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md](VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md) — Quantum waves, records, and experiential plurality
 - [VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md](VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md) — Vedral's quantum-wave article: sources, conservation and perspective
 - [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
+- [VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md](VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md) — Visual stimulation: what same-current reports do and do not identify
 - [WDW_ANGULAR_COUPLING.md](WDW_ANGULAR_COUPLING.md) — Angular scalar–tensor coupling: adiabatic decoupling of non-spherical modes
 - [WDW_ANHARMONIC.md](WDW_ANHARMONIC.md) — Anharmonic self-interaction as a Kato perturbation of the quadratic WdW sector
 - [WDW_BKL_ROTATIONAL_STABILITY.md](WDW_BKL_ROTATIONAL_STABILITY.md) — BKL/mixmaster stability with rotation: scalar still quenches chaos for sub-extremal Kerr
@@ -858,6 +861,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)
 - [verification/vedral_free_spread_gate.py](verification/vedral_free_spread_gate.py)
+- [verification/visual_stimulation_report_benchmark.py](verification/visual_stimulation_report_benchmark.py)
+- [verification/visual_stimulation_report_benchmark_test.py](verification/visual_stimulation_report_benchmark_test.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)
 - [verification/wdw_anharmonic.py](verification/wdw_anharmonic.py)
 - [verification/wdw_bkl_rotational_stability.py](verification/wdw_bkl_rotational_stability.py)
