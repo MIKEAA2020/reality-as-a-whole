@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 539,
-  "bytes": 6898505,
-  "line_count": 62999,
-  "document_count_with_risk_phrases": 505,
+  "document_count": 540,
+  "bytes": 6914398,
+  "line_count": 63065,
+  "document_count_with_risk_phrases": 506,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4385,9 +4385,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "bcfc84907a29efabbb0ed39c1986b00dce24d923e9cda5c3a797c2e755e68d3e",
-      "bytes": 42907,
-      "lines": 173,
+      "sha256": "3bbd8d7d9bc5cffa36719d5dd3afc6fb98691b002951f070c4f948dd05bac115",
+      "bytes": 43347,
+      "lines": 175,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4399,6 +4399,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
@@ -4477,26 +4478,26 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        29,
+        13,
         31,
-        35,
-        45,
-        49,
-        55,
+        33,
+        37,
+        47,
+        51,
         57,
-        71,
-        75,
-        87,
-        95,
+        59,
+        73,
+        77,
+        89,
         97,
-        101,
-        117,
-        127,
-        144,
-        161,
-        167
+        99,
+        103,
+        119,
+        129,
+        146,
+        163,
+        169
       ]
     },
     {
@@ -4675,9 +4676,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "22a76f51fbdc4a92ecea76305b0a909fad0eed32222e481c6c604118dc366b9b",
-      "bytes": 131608,
-      "lines": 1039,
+      "sha256": "a72caece385a45fbf850d5e99dc4c36375449d49ce1d0b04ab5fe2502be68bd0",
+      "bytes": 131794,
+      "lines": 1040,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4983,6 +4984,7 @@
         "PHENOMENAL_IDENTITY_THESIS.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "PHOTON_ECHO_READOUT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
         "PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md",
         "PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md",
@@ -5710,16 +5712,16 @@
         191,
         248,
         277,
-        322,
-        347,
-        394,
-        485,
-        500,
-        536,
-        545,
-        548,
-        551,
-        615
+        323,
+        348,
+        395,
+        486,
+        501,
+        537,
+        546,
+        549,
+        552,
+        616
       ]
     },
     {
@@ -10276,6 +10278,29 @@
       "risk_phrase_lines": []
     },
     {
+      "path": "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
+      "sha256": "5104225e75557a02f5c8ce59c7e343a314150799f7b0f5bd39d6d10910fd1020",
+      "bytes": 13819,
+      "lines": 63,
+      "title": "Pinto 2017 supplement: first-person reports and selection limits",
+      "headings": [
+        "Pinto 2017 supplement: first-person reports and selection limits",
+        "Result",
+        "1. Source and scope",
+        "2. The questions and the participants' actual answers",
+        "3. The extensive interview is a distinct source item",
+        "4. Experimental procedures and selective retention",
+        "5. What changes for subject constitution?"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        36
+      ]
+    },
+    {
       "path": "PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md",
       "sha256": "c1a06f11814e2f360cf64f7cdf38ac0e4891ca022a26e69d607cb31bfd975808",
       "bytes": 15381,
@@ -13373,8 +13398,8 @@
     },
     {
       "path": "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
-      "sha256": "8e52e44baf513271912e961621f6ee7b21121715880c16abbd971f1a90dbab03",
-      "bytes": 16838,
+      "sha256": "0f39ba70b261c3fab6a90e07650c38783e6dea578a866d11cf9ad6bd9af7a0f5",
+      "bytes": 16979,
       "lines": 107,
       "title": "Split-brain evidence: deeper source and task audit",
       "headings": [
@@ -13389,6 +13414,7 @@
       ],
       "local_links": [
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
@@ -13409,8 +13435,8 @@
     },
     {
       "path": "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
-      "sha256": "23e55130a6d7835d9186927d1f3c0a9ad6620f869bcfc5aaf9b13e5df25ec61f",
-      "bytes": 14273,
+      "sha256": "c847017bdf5a8025ece4cf48e1d09cfe052789ab023d50900db96f5a5825ec26",
+      "bytes": 15366,
       "lines": 77,
       "title": "First-person unity against competing boundary rules: what a real case constrains",
       "headings": [
@@ -13425,14 +13451,17 @@
       ],
       "local_links": [
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
         37,
         53
@@ -13440,8 +13469,8 @@
     },
     {
       "path": "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
-      "sha256": "c3f8dcfa4d437505497157791c62882495b75378d11456686dde8d1e88ebcce2",
-      "bytes": 23496,
+      "sha256": "2b1dd160b765999a8922853ea46d2744021bc2e6e0433fe3ecc698018b8490ac",
+      "bytes": 23710,
       "lines": 94,
       "title": "Private nested subjects versus a layered subject: the evidence gap",
       "headings": [
@@ -13458,6 +13487,8 @@
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
@@ -13466,7 +13497,6 @@
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md"
       ],
       "risk_phrase_lines": [
-        15,
         51,
         63,
         75,

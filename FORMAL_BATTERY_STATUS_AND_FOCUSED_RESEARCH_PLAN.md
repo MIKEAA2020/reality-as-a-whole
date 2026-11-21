@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Pinto 2017 supplement audit](PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md) reads the user-supplied individual first-person answers and translated DDC interview. It qualifies the main article's broad summary of felt continuity and identifies substantial detection-task eye-data exclusions; the authors report a similar pattern without those exclusions, but raw trial data remain uninspected. Subject incidence remains open.
+
 The [1971 tactile-writing primary-source audit](LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md) corrects an earlier conflation of L.B.'s separate-letter arrangement and preformed-word writing tasks. The passive-movement check supports a possible feedback route, not its exclusivity or a subject census; the archival Table II OCR is misaligned and its image was not visually inspected.
 
 The [indirect-communication and nesting audit](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) examines Schechter's candidate thinker-individuation argument and its strong psychological-independence premise. A demonstrated lateral sensory relay does not establish the local/global subject distinction in P; a mental-interaction map, first-person evidence and defended incidence principle remain open.

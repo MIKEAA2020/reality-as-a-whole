@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 496 root Markdown documents including this register; 43 research Markdown documents.
+- 497 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -304,6 +304,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PHENOMENAL_IDENTITY_THESIS.md](PHENOMENAL_IDENTITY_THESIS.md) — Russellian identity thesis: experience as the intrinsic being of modular events
 - [PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md](PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md) — Can phenomenal unity identify genuinely plural subjects?
 - [PHOTON_ECHO_READOUT.md](PHOTON_ECHO_READOUT.md) — Asymptotic photon-echo relational readout for the static spherical clock
+- [PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md](PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md) — Pinto 2017 supplement: first-person reports and selection limits
 - [PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md](PITCH_DERIVED_FRUSTRATION_INVERSION_GATE.md) — When a pitch-to-frustration explanation cannot work
 - [PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md](PLANCK_DEBATE_RELATIONAL_EXPERIENCE_AND_EMPIRICAL_GATE.md) — Planck, consciousness and the relational whole
 - [PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md](PLEASANTNESS_CONTEXT_AND_NEURAL_HARMONICITY_GATE.md) — Pleasantness, preceding context and neural harmonicity
