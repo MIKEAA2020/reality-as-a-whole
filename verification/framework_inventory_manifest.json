@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1e4ac6b288917d02b73acd9733b860896e1ad44a",
-  "file_count": 1457,
+  "base_head": "a410b265dd030bce1373a06a24c8396363de5883",
+  "file_count": 1463,
   "files": [
     {
       "path": ".gitattributes",
@@ -620,8 +620,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 22190,
-      "sha256": "bff644bf288c118841c944bec173d5799ef10d2250761759e675b58f88043cb3"
+      "bytes": 22668,
+      "sha256": "004f20cc24bd4b219c94a4a8416538a79370da9ca82ece2dff107421f32d8f43"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -645,8 +645,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 112381,
-      "sha256": "17ea9bbbb873a96bb6ddb5172bd6d4a755371ea2800eb9a309eed77251bb86ea"
+      "bytes": 113066,
+      "sha256": "29606246481f471a0eb707f8ad6624d90d001884d1cfdfc47f1cb303d8cc1e38"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -800,8 +800,8 @@
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
-      "bytes": 12114,
-      "sha256": "d9151917e600ef7c0567be6af31744b4bd901be3fb7a9d67ca38f2d91b336091"
+      "bytes": 12688,
+      "sha256": "ff75abddeb2ca42153078585f6eb56b15443f92e3e75f5d5c0e4981ff909dc6f"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md",
@@ -847,6 +847,16 @@
       "path": "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
       "bytes": 14935,
       "sha256": "0675168f8c524b68a4b12613e9672debe12a8b5305272b3b32c99e9c2795860f"
+    },
+    {
+      "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
+      "bytes": 2700,
+      "sha256": "50a74892a2e600593aaf4d20168fda38f4fb64b7b10e4bcd26ae667f72c2ff19"
+    },
+    {
+      "path": "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
+      "bytes": 8960,
+      "sha256": "adb42a2247025569059d79cc0c5c111353a77eb5fd54ab515bee77ee832eea4a"
     },
     {
       "path": "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -3499,6 +3509,11 @@
       "sha256": "0544f943486a1f6009d42e8b2442438acfc62b24392376f71eff62fdf48029ed"
     },
     {
+      "path": "sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf",
+      "bytes": 9555655,
+      "sha256": "8380bc85e6740a4baac5ad811fc0ad81db625e430511d300e856869d08350537"
+    },
+    {
       "path": "sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf",
       "bytes": 1664034,
       "sha256": "2b4959a7409144a5d8e6ca4e9f6d0c35c098476c3af9f3781fd46432ed4b7ee5"
@@ -4530,13 +4545,13 @@
     },
     {
       "path": "verification/framework_battery.json",
-      "bytes": 7898,
-      "sha256": "27a12aba5a6e9773d4192cece8c5ed586870421294d5cc128287d6306cf0d6ec"
+      "bytes": 8080,
+      "sha256": "729cca9d8c661b610584e1aa9d4c5fb670e83b48c8e8fdcad40e9222fc74fdd2"
     },
     {
       "path": "verification/framework_battery.py",
-      "bytes": 5808,
-      "sha256": "ec98d04c2a776ad97225160a8b5cd4bb5ab379b30a7e9117e57b15a6aef66bff"
+      "bytes": 5906,
+      "sha256": "cd0964d2b3e34a043bf6731fa9a9e0f38b97b93d2c351e791678595cc674db77"
     },
     {
       "path": "verification/friction_conflict_audit.json",
@@ -4932,6 +4947,21 @@
       "path": "verification/k_pairwise_constraint_and_gauge_gate.py",
       "bytes": 3787,
       "sha256": "97b9171db52b86645739117f3ee3ecca36ae4b5407e2e29b8d46aab2f5fbb450"
+    },
+    {
+      "path": "verification/kemeny_snell_reversible_projection.json",
+      "bytes": 4326,
+      "sha256": "77cee04d74db940beba68081ccfd4ae5205a518f5ce2a1474f3e8087d920a9d4"
+    },
+    {
+      "path": "verification/kemeny_snell_reversible_projection.py",
+      "bytes": 4985,
+      "sha256": "666757339c576225c10f44a289702d0502815dfefa59fd607815bb8ef03de839"
+    },
+    {
+      "path": "verification/kemeny_snell_reversible_projection_test.py",
+      "bytes": 2027,
+      "sha256": "b9bc5e418b6c49bfde9fbfb5c50feb7c31f0414a59cd5d146fe1eae38026ad3c"
     },
     {
       "path": "verification/kent_final_record_toy_gate.json",
@@ -5585,8 +5615,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 580321,
-      "sha256": "ac24e7cb43d6f576457e4f6b486615629f9a10961535497bc587ce3acb95e598"
+      "bytes": 583011,
+      "sha256": "e20d838817eb914c80489508ca9762fe5f6767c83a2946d69a8751d0c4f4b19b"
     },
     {
       "path": "verification/project_inventory.py",

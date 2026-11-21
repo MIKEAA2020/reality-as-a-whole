@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Kemeny–Snell reversible weak-lumpability audit](KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md) verifies the hypotheses of a known theorem for the existing four-spin sector. None of the five previously non-lumpable projections becomes an exact homogeneous first-order Markov chain for any initial distribution; the three-edge projection works for all. This is a stronger physical constraint, not a subject or experience bridge. B4–B5/F2, B9/F3 and B10 remain open.
+
 The [full Chalmers manuscript and structure audit](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) reads the complete supplied manuscript, including the previously truncated structural argument. It tests the paper's narrow/broad physical distinction against four projections of the same kernel: they have different support graphs, but two lose autonomous transition predictability. Available broader structure does not establish phenomenal constitution or settle subject boundaries; B4–B5/F2, B9/F3 and B10 remain open.
 
 The [cross-grain facet gate](CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md) shows that either previously proposed whole-level scalar is insufficient to reconstruct two separately marked pair facets, under an additional facet-transport premise. A structured code repairs that informational deficit but not subject constitution, shared experience, or phenomenal quality. The original scalar laws do not claim to encode all experience and are not refuted. B4–B5/F2, B9/F3 and B10 remain open.

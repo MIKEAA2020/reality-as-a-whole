@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 464,
-  "bytes": 6053058,
-  "line_count": 58289,
-  "document_count_with_risk_phrases": 436,
+  "document_count": 466,
+  "bytes": 6067109,
+  "line_count": 58386,
+  "document_count_with_risk_phrases": 438,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3986,9 +3986,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "bff644bf288c118841c944bec173d5799ef10d2250761759e675b58f88043cb3",
-      "bytes": 22190,
-      "lines": 89,
+      "sha256": "004f20cc24bd4b219c94a4a8416538a79370da9ca82ece2dff107421f32d8f43",
+      "bytes": 22668,
+      "lines": 91,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4000,6 +4000,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
@@ -4032,14 +4033,15 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
+        5,
         13,
-        17,
-        33,
-        43,
-        60,
-        77,
-        83
+        15,
+        19,
+        35,
+        45,
+        62,
+        79,
+        85
       ]
     },
     {
@@ -4145,9 +4147,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c51b05e03f1fdeab192e972cc3541261de924a21fd19424ba72288d5b72a2da4",
-      "bytes": 111727,
-      "lines": 898,
+      "sha256": "29606246481f471a0eb707f8ad6624d90d001884d1cfdfc47f1cb303d8cc1e38",
+      "bytes": 113066,
+      "lines": 908,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4191,6 +4193,8 @@
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "CHAIN_COMPLETE.md",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+        "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
@@ -4326,6 +4330,8 @@
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
+        "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
+        "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md",
         "KERR_BOUNCE_ROTATIONAL.md",
@@ -4643,6 +4649,7 @@
         "sources/uploads/Display_Spike_Trains.pdf",
         "sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf",
         "sources/uploads/JHEP02(2024)193.pdf",
+        "sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf",
         "sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf",
         "sources/uploads/RKLS-TR07.pdf",
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
@@ -4650,6 +4657,7 @@
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf",
         "sources/uploads/bain2000.pdf",
+        "sources/uploads/combination.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
         "sources/uploads/decombination-export-provenance.json",
@@ -4697,6 +4705,8 @@
         "verification/cardiac_pain_xml_crosscheck.py",
         "verification/causal_influence_subject_gate.py",
         "verification/causal_record_lineage.py",
+        "verification/chalmers_structural_alternatives.py",
+        "verification/chalmers_structural_alternatives_test.py",
         "verification/cie_metamer_experiential_gate.py",
         "verification/clock_choice.py",
         "verification/cogitate_analysis_audit.py",
@@ -4805,6 +4815,8 @@
         "verification/intrinsic_clock_phase_erasure_gate.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
+        "verification/kemeny_snell_reversible_projection.py",
+        "verification/kemeny_snell_reversible_projection_test.py",
         "verification/kent_final_record_toy_gate.py",
         "verification/kerr_bounce_rotational.py",
         "verification/kms_beta_two_pi.py",
@@ -5033,21 +5045,21 @@
         17,
         31,
         44,
-        48,
-        57,
-        125,
-        170,
-        212,
-        260,
-        282,
-        329,
-        408,
-        423,
-        459,
-        468,
-        471,
-        474,
-        534
+        50,
+        59,
+        127,
+        172,
+        216,
+        264,
+        286,
+        333,
+        412,
+        427,
+        463,
+        472,
+        475,
+        478,
+        540
       ]
     },
     {
@@ -6141,9 +6153,9 @@
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
-      "sha256": "d9151917e600ef7c0567be6af31744b4bd901be3fb7a9d67ca38f2d91b336091",
-      "bytes": 12114,
-      "lines": 84,
+      "sha256": "ff75abddeb2ca42153078585f6eb56b15443f92e3e75f5d5c0e4981ff909dc6f",
+      "bytes": 12688,
+      "lines": 86,
       "title": "The selected subject's context: exact relational dynamics and its limits",
       "headings": [
         "The selected subject's context: exact relational dynamics and its limits",
@@ -6155,23 +6167,26 @@
         "5. Literature, status and reproducibility"
       ],
       "local_links": [
+        "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "INTEGRATED_SUBJECT_CONTEXT_DYNAMICS_PLAN.md",
         "verification/integrated_subject_context_dynamics.py",
         "verification/integrated_subject_context_dynamics_test.py",
         "verification/integrated_subject_context_dynamics.json",
-        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md"
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
+        "sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf",
+        "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md"
       ],
       "risk_phrase_lines": [
         1,
-        7,
-        27,
-        50,
+        9,
+        29,
         52,
         54,
-        73,
-        74
+        56,
+        75,
+        76
       ]
     },
     {
@@ -6450,6 +6465,60 @@
       "risk_phrase_lines": [
         26,
         80
+      ]
+    },
+    {
+      "path": "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
+      "sha256": "50a74892a2e600593aaf4d20168fda38f4fb64b7b10e4bcd26ae667f72c2ff19",
+      "bytes": 2700,
+      "lines": 12,
+      "title": "Fixed plan: reversible weak-lumpability check on E-L",
+      "headings": [
+        "Fixed plan: reversible weak-lumpability check on E-L",
+        "Objective and source",
+        "Prespecified exact checks"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "path": "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
+      "sha256": "adb42a2247025569059d79cc0c5c111353a77eb5fd54ab515bee77ee832eea4a",
+      "bytes": 8960,
+      "lines": 71,
+      "title": "Reversible weak lumpability: a stronger constraint on the integrated candidate",
+      "headings": [
+        "Reversible weak lumpability: a stronger constraint on the integrated candidate",
+        "Result",
+        "Source and coverage",
+        "Verification in the same four-spin sector",
+        "A directly calculated two-step consequence",
+        "Why the reversible assumption matters",
+        "Consequences for the framework"
+      ],
+      "local_links": [
+        "sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf",
+        "KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md",
+        "verification/kemeny_snell_reversible_projection.py",
+        "verification/kemeny_snell_reversible_projection_test.py",
+        "verification/kemeny_snell_reversible_projection.json",
+        "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        15,
+        23,
+        25,
+        38,
+        49,
+        67,
+        69
       ]
     },
     {

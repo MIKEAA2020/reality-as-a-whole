@@ -1,0 +1,164 @@
+{
+  "model": "four-spin random-site heat-bath at t=1/4",
+  "assumptions": {
+    "positive_stationary_distribution": true,
+    "row_stochastic": true,
+    "stationary": true,
+    "detailed_balance_all_state_pairs": true,
+    "p4_all_entries_positive": true
+  },
+  "projections": {
+    "pair_state": {
+      "maximum_strong_block_tv": "1/21",
+      "homogeneous_markov_for_some_initial_distribution": "no",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 4,
+        "max_block_gap": "5/2352",
+        "gap_source": [
+          1,
+          -1
+        ],
+        "gap_destination": [
+          1,
+          1
+        ],
+        "actual_two_step": "15/56",
+        "square_one_step": "635/2352"
+      }
+    },
+    "left_q": {
+      "maximum_strong_block_tv": "1/21",
+      "homogeneous_markov_for_some_initial_distribution": "no",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 2,
+        "max_block_gap": "5/2352",
+        "gap_source": [
+          1
+        ],
+        "gap_destination": [
+          1
+        ],
+        "actual_two_step": "201/448",
+        "square_one_step": "4201/9408"
+      }
+    },
+    "left_middle_q": {
+      "maximum_strong_block_tv": "5/42",
+      "homogeneous_markov_for_some_initial_distribution": "no",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 4,
+        "max_block_gap": "25/3528",
+        "gap_source": [
+          1,
+          1
+        ],
+        "gap_destination": [
+          1,
+          1
+        ],
+        "actual_two_step": "547/2016",
+        "square_one_step": "1243/4704"
+      }
+    },
+    "left_right_q": {
+      "maximum_strong_block_tv": "2/21",
+      "homogeneous_markov_for_some_initial_distribution": "no",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 4,
+        "max_block_gap": "25/4704",
+        "gap_source": [
+          1,
+          1
+        ],
+        "gap_destination": [
+          1,
+          1
+        ],
+        "actual_two_step": "3131/18816",
+        "square_one_step": "433/2688"
+      }
+    },
+    "edge_qs": {
+      "maximum_strong_block_tv": "0",
+      "homogeneous_markov_for_some_initial_distribution": "yes",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 8,
+        "max_block_gap": "0",
+        "gap_source": [
+          1,
+          1,
+          1
+        ],
+        "gap_destination": [
+          1,
+          1,
+          1
+        ],
+        "actual_two_step": "97/1152",
+        "square_one_step": "97/1152"
+      }
+    },
+    "any_mismatch": {
+      "maximum_strong_block_tv": "5/24",
+      "homogeneous_markov_for_some_initial_distribution": "no",
+      "verdict_basis": "Kemeny-Snell 6.3.2 and 6.4.8 after regularity/reversibility checks",
+      "stationary_Q2_vs_actual_two_step": {
+        "blocks": 2,
+        "max_block_gap": "1651/95616",
+        "gap_source": [
+          0
+        ],
+        "gap_destination": [
+          1
+        ],
+        "actual_two_step": "383/1152",
+        "square_one_step": "1045/2988"
+      }
+    }
+  },
+  "book_nonreversible_example_6_4_2": {
+    "matrix": [
+      [
+        "1/4",
+        "1/4",
+        "1/2"
+      ],
+      [
+        "0",
+        "1/6",
+        "5/6"
+      ],
+      [
+        "7/8",
+        "1/8",
+        "0"
+      ]
+    ],
+    "stationary": [
+      "7/16",
+      "3/16",
+      "3/8"
+    ],
+    "regular_power": 2,
+    "reversible": false,
+    "unequal_destination_singleton_probabilities": [
+      "0",
+      "7/8"
+    ],
+    "stationary_block_conditionals_preserved": true,
+    "stationary_two_step": {
+      "blocks": 2,
+      "max_block_gap": "0",
+      "gap_source": 1,
+      "gap_destination": 1,
+      "actual_two_step": "11/18",
+      "square_one_step": "11/18"
+    }
+  },
+  "scope": "exact finite physical model; homogeneous first-order Markovity, not approximate/inhomogeneous models, subjects, felt qualities or quantum gravity"
+}

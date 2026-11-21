@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 421 root Markdown documents including this register; 43 research Markdown documents.
-- 54 original uploaded files, including provenance metadata; 352 verification Python scripts.
+- 423 root Markdown documents including this register; 43 research Markdown documents.
+- 55 original uploaded files, including provenance metadata; 354 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -179,6 +179,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) — Participatory realism and intelligibility from within the whole
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
+- [KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md](KEMENY_SNELL_REVERSIBLE_PROJECTION_FIXED_PLAN.md) — Fixed plan: reversible weak-lumpability check on E-L
+- [KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md](KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md) — Reversible weak lumpability: a stronger constraint on the integrated candidate
 - [KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md](KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md) — Kent's Lorentzian quantum reality: full-paper and beable audit
 - [KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md](KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md) — From Kent-like histories to observed quantum statistics
 - [KERR_BOUNCE_ROTATIONAL.md](KERR_BOUNCE_ROTATIONAL.md) — Non-Perturbative Kerr Bounce via BKL Rotational Decoupling
@@ -506,6 +508,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Display_Spike_Trains.pdf](sources/uploads/Display_Spike_Trains.pdf)
 - [sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf](sources/uploads/Dynamical-simulations-of-many-body-quantum-chaos-on-a-quantum-computer.pdf)
 - [sources/uploads/JHEP02(2024)193.pdf](sources/uploads/JHEP02%282024%29193.pdf)
+- [sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf](sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf)
 - [sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf](sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
 - [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
@@ -675,6 +678,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/intrinsic_clock_phase_erasure_gate.py](verification/intrinsic_clock_phase_erasure_gate.py)
 - [verification/joint_access_common_source_gate.py](verification/joint_access_common_source_gate.py)
 - [verification/k_pairwise_constraint_and_gauge_gate.py](verification/k_pairwise_constraint_and_gauge_gate.py)
+- [verification/kemeny_snell_reversible_projection.py](verification/kemeny_snell_reversible_projection.py)
+- [verification/kemeny_snell_reversible_projection_test.py](verification/kemeny_snell_reversible_projection_test.py)
 - [verification/kent_final_record_toy_gate.py](verification/kent_final_record_toy_gate.py)
 - [verification/kerr_bounce_rotational.py](verification/kerr_bounce_rotational.py)
 - [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
