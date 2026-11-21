@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "05aa52da24852f7dfebaf3ebbed811655756014c",
-  "file_count": 1628,
+  "base_head": "5c0380ede56e61f80397349cec01772d98a727b9",
+  "file_count": 1630,
   "files": [
     {
       "path": ".gitattributes",
@@ -735,8 +735,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 132707,
-      "sha256": "4c5fd110f2ee86ddf11284ac6b1c95d4ae10c8e40a32ca1e9053d6ba542532ae"
+      "bytes": 133072,
+      "sha256": "4f5a8241f094f8678bfda574fa3059c5994f371162cb201a52baa509acf242da"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1919,9 +1919,19 @@
       "sha256": "e60f284798adb48b1774880151d794bc7e7488ad2ce301906e1cab9cb413e9e1"
     },
     {
+      "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+      "bytes": 8733,
+      "sha256": "a44ff57b6f1ca5ca2cb7226f0960a1969dbaba3357e1fc1e7ee01c0458a0d534"
+    },
+    {
+      "path": "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
+      "bytes": 1768,
+      "sha256": "21b7a7a9437e623f3e5f529ead35979bf33c8ecceb08399adf02a2c0ccd16ba3"
+    },
+    {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "bytes": 7966,
-      "sha256": "ee8465d924c7b8697301787d049e2f232ec78874401d27b7b660fbd2369d50df"
+      "bytes": 8290,
+      "sha256": "c3fe99453f55122ea3e6fb146381ce21377946506d035be95d516f8572adbd2c"
     },
     {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
@@ -6395,8 +6405,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 676892,
-      "sha256": "45515c6c80e1094670f4619afc6eb327af3f41ab8d2bb5e59f674bc3ae67e19f"
+      "bytes": 678490,
+      "sha256": "5bba13361dd35ff1ef22b6e5ed9c332b39ca93147f93bc3a654679f1b6e75835"
     },
     {
       "path": "verification/project_inventory.py",

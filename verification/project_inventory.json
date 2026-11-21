@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 545,
-  "bytes": 6966178,
-  "line_count": 63273,
-  "document_count_with_risk_phrases": 510,
+  "document_count": 547,
+  "bytes": 6977368,
+  "line_count": 63335,
+  "document_count_with_risk_phrases": 512,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4747,9 +4747,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4c5fd110f2ee86ddf11284ac6b1c95d4ae10c8e40a32ca1e9053d6ba542532ae",
-      "bytes": 132707,
-      "lines": 1045,
+      "sha256": "4f5a8241f094f8678bfda574fa3059c5994f371162cb201a52baa509acf242da",
+      "bytes": 133072,
+      "lines": 1047,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5143,6 +5143,8 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+        "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
         "SHLAER_TIME_COMPARISON.md",
@@ -5790,14 +5792,14 @@
         280,
         326,
         351,
-        399,
-        491,
-        506,
-        542,
-        551,
-        554,
-        557,
-        621
+        401,
+        493,
+        508,
+        544,
+        553,
+        556,
+        559,
+        623
       ]
     },
     {
@@ -13065,10 +13067,49 @@
       ]
     },
     {
+      "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+      "sha256": "a44ff57b6f1ca5ca2cb7226f0960a1969dbaba3357e1fc1e7ee01c0458a0d534",
+      "bytes": 8733,
+      "lines": 49,
+      "title": "Shelat 2026: registration, model dependence and material access",
+      "headings": [
+        "Shelat 2026: registration, model dependence and material access",
+        "Bottom line",
+        "1. What is actually registered for experiment 1",
+        "2. Why the pooled coefficient needs its interaction context",
+        "3. Precise file access and next gate",
+        "4. Implications for the project"
+      ],
+      "local_links": [
+        "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        33
+      ]
+    },
+    {
+      "path": "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
+      "sha256": "21b7a7a9437e623f3e5f529ead35979bf33c8ecceb08399adf02a2c0ccd16ba3",
+      "bytes": 1768,
+      "lines": 9,
+      "title": "Retrospective plan: checking the 2026 attention study's shared materials",
+      "headings": [
+        "Retrospective plan: checking the 2026 attention study's shared materials"
+      ],
+      "local_links": [
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        8
+      ]
+    },
+    {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "sha256": "ee8465d924c7b8697301787d049e2f232ec78874401d27b7b660fbd2369d50df",
-      "bytes": 7966,
-      "lines": 31,
+      "sha256": "c3fe99453f55122ea3e6fb146381ce21377946506d035be95d516f8572adbd2c",
+      "bytes": 8290,
+      "lines": 33,
       "title": "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
       "headings": [
         "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
@@ -13076,7 +13117,9 @@
         "Design and findings",
         "What follows, and what remains open"
       ],
-      "local_links": [],
+      "local_links": [
+        "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md"
+      ],
       "risk_phrase_lines": []
     },
     {
