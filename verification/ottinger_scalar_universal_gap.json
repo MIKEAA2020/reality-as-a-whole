@@ -1,0 +1,70 @@
+{
+  "scope": "finite mode cubes and Gauss quadrature, h=m=1, |k|^2=1",
+  "exact_universal_normalized_coefficient": "3/(128*pi^4)",
+  "exact_raw_short_time_coefficient": 19.739208802178716,
+  "exact_gap_for_L_2pi_k2_1": 14.804406601634037,
+  "samples": [
+    {
+      "epsilon": 0.5,
+      "N": 8,
+      "gap_k_squared_1": 1.5133177065584176
+    },
+    {
+      "epsilon": 0.5,
+      "N": 12,
+      "gap_k_squared_1": 1.514472941979885
+    },
+    {
+      "epsilon": 0.5,
+      "N": 20,
+      "gap_k_squared_1": 1.5144901054458992
+    },
+    {
+      "epsilon": 0.25,
+      "N": 12,
+      "gap_k_squared_1": 4.211648777195523
+    },
+    {
+      "epsilon": 0.25,
+      "N": 20,
+      "gap_k_squared_1": 4.227858545151718
+    },
+    {
+      "epsilon": 0.25,
+      "N": 32,
+      "gap_k_squared_1": 4.2280799728744585
+    },
+    {
+      "epsilon": 0.125,
+      "N": 20,
+      "gap_k_squared_1": 7.414564423824227
+    },
+    {
+      "epsilon": 0.125,
+      "N": 32,
+      "gap_k_squared_1": 7.473077556734528
+    },
+    {
+      "epsilon": 0.125,
+      "N": 48,
+      "gap_k_squared_1": 7.475361246162331
+    }
+  ],
+  "kernel_samples": [
+    {
+      "t": 0.5,
+      "N": 20,
+      "t_cubed_A0": 7.080976964989204
+    },
+    {
+      "t": 0.25,
+      "N": 36,
+      "t_cubed_A0": 13.10230621939095
+    },
+    {
+      "t": 0.125,
+      "N": 64,
+      "t_cubed_A0": 16.959943369878633
+    }
+  ]
+}

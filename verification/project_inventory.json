@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 485,
-  "bytes": 6358658,
-  "line_count": 60190,
-  "document_count_with_risk_phrases": 456,
+  "document_count": 486,
+  "bytes": 6367081,
+  "line_count": 60323,
+  "document_count_with_risk_phrases": 457,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2644,8 +2644,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "sha256": "341bf256a1f808d436893575b82133cf1d155e39beb4d8f7319c6366d5b4bd22",
-      "bytes": 12399,
+      "sha256": "e0b6f417a487f50e9d954424ff617f7479ae969ae4825378493c90e25eeda03c",
+      "bytes": 12463,
       "lines": 83,
       "title": "A necessary intermediate step: what can converge uniformly?",
       "headings": [
@@ -2660,6 +2660,7 @@
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+        "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
@@ -4196,8 +4197,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "f9c47dfbd576ad4144a636d5255b265e4536970e03938a2c5b19b162cc3cb5bb",
-      "bytes": 29309,
+      "sha256": "f5295c18b4202f859641c31c93372461ad8ba8bb447264e91ac765d99f18c6ab",
+      "bytes": 29424,
       "lines": 121,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4213,6 +4214,7 @@
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+        "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
@@ -4260,6 +4262,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
+        5,
         19,
         23,
         35,
@@ -4449,9 +4452,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e5fa6588fc07a78040b7f666830a2b105e046f6f27592148dc17145e56de9a79",
-      "bytes": 118678,
-      "lines": 951,
+      "sha256": "07745fa830f8e791e89957194ba8deff27a9c03d03506751b5e2b0116bc9139c",
+      "bytes": 119039,
+      "lines": 954,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4706,6 +4709,7 @@
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+        "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
@@ -5205,6 +5209,8 @@
         "verification/ottinger_annihilation_gate_test.py",
         "verification/ottinger_scalar_regulator_gate.py",
         "verification/ottinger_scalar_regulator_gate_test.py",
+        "verification/ottinger_scalar_universal_gap.py",
+        "verification/ottinger_scalar_universal_gap_test.py",
         "verification/page_wootters_static_clock.py",
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
@@ -5395,16 +5401,17 @@
         132,
         181,
         229,
-        281,
-        303,
-        350,
-        431,
-        446,
-        482,
-        491,
-        494,
-        497,
-        561
+        256,
+        282,
+        304,
+        351,
+        432,
+        447,
+        483,
+        492,
+        495,
+        498,
+        562
       ]
     },
     {
@@ -8741,8 +8748,8 @@
     },
     {
       "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
-      "sha256": "53136ec002036aae50f7949e53ed84b0d8b5c1fa1b53fe8cd8156e7c71f70930",
-      "bytes": 13745,
+      "sha256": "ef474a89ea2938030afaf20419c498f0363a7f030b9f21182ebc5b3124c88078",
+      "bytes": 13838,
       "lines": 85,
       "title": "Öttinger’s full book: scalar and QED follow-up",
       "headings": [
@@ -8765,7 +8772,8 @@
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "verification/ottinger_annihilation_gate.py",
         "verification/ottinger_annihilation_gate.json",
-        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md"
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+        "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md"
       ],
       "risk_phrase_lines": [
         35,
@@ -8776,9 +8784,9 @@
     },
     {
       "path": "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
-      "sha256": "f97757dd6669eb0c6051a8dd4f3544b5cb04b7f13cd13c6cd68d1e459224a119",
-      "bytes": 11430,
-      "lines": 158,
+      "sha256": "8f1f03e80bd241d1a5a278763aa5aa8d9e8c788e447ba801b22ebc68ee0ad569",
+      "bytes": 11753,
+      "lines": 160,
       "title": "Öttinger’s scalar lattice sum: a proper-time regulator gate",
       "headings": [
         "Öttinger’s scalar lattice sum: a proper-time regulator gate",
@@ -8790,6 +8798,7 @@
         "5. Consequences for the project"
       ],
       "local_links": [
+        "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "verification/ottinger_scalar_regulator_gate.py",
@@ -8798,10 +8807,39 @@
         "CUTOFF_INSTRUMENT_UNIFORMITY.md"
       ],
       "risk_phrase_lines": [
-        85,
-        95,
-        108,
-        145
+        5,
+        87,
+        97,
+        110,
+        147
+      ]
+    },
+    {
+      "path": "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
+      "sha256": "6769e9c22945c469e0a5df4bd6fd1b40cc0bf92644f82a9efb46f00fb38b821e",
+      "bytes": 7467,
+      "lines": 128,
+      "title": "Scalar lattice regulators: the exact finite scheme difference",
+      "headings": [
+        "Scalar lattice regulators: the exact finite scheme difference",
+        "Result",
+        "1. The exact difference",
+        "2. Short-time coefficient",
+        "3. Removal of the regulator",
+        "4. Independent finite-mode checks",
+        "5. What remains open"
+      ],
+      "local_links": [
+        "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
+        "verification/ottinger_scalar_universal_gap.py",
+        "verification/ottinger_scalar_universal_gap.json",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        15,
+        93,
+        105
       ]
     },
     {

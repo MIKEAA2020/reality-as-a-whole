@@ -2,6 +2,8 @@
 
 ## Result and limitations
 
+**Follow-up:** The [universal-gap calculation](OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md) strengthens the result below: it derives the exact limiting difference and establishes convergence of the common-exponential prescription as well. Statements below about what is not proved refer to this original gate in isolation.
+
 For the massive three-dimensional finite-volume lattice in Öttinger’s eq. (2.51), a **specified proper-time regularization of the grouped expression has a finite cutoff-removal limit**. The argument below isolates the ultraviolet cancellation analytically; it is not a proof of the book’s original sharp momentum-cutoff limit or of a dissipative QFT. In fact, a seemingly innocuous alternative—multiplying the original summands by a common exponential—differs from our prescription by a positive amount bounded away from zero as the regulator is removed, for nonzero external momentum. The two prescriptions therefore cannot be identified without a finite counterterm or further analysis.
 
 This advances the question identified on printed p. 125 of the [full-book audit](OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md) while leaving it open in its original form. The proof below is an analytic derivation under stated assumptions, not an independently peer-reviewed theorem or a consequence of the numerical tests.
