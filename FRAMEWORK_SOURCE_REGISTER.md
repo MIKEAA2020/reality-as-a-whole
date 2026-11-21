@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 513 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 417 verification Python scripts.
+- 515 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 419 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -395,11 +395,13 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
 - [SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) — Shared experience versus duplicated experiential tokens
 - [SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md](SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md) — Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction
+- [SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md](SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md) — Shelat 2026: physical color contingency and R-model status
 - [SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md) — Shelat 2026: experiment archives and a limited descriptive replication
 - [SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md](SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md) — Shelat 2026: registration, model dependence and material access
 - [SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md](SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md) — Shelat 2026: reward versus selection in accuracy and RT; R workflow attempt
 - [SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md](SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md) — Retrospective plan: reward versus selection, response time and R workflow
 - [SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md](SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md) — Retrospective plan: Shelat 2026 supplied analysis scripts
+- [SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md](SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md) — Plan: attempt a focused local WebAssembly R/lme4 comparison
 - [SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md](SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md) — Retrospective plan: checking the 2026 attention study's shared materials
 - [SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md](SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md) — Shelat and Giesbrecht 2026: reward, lapses and attentional capture
 - [SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md](SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md) — Shewmon's four children: clinical evidence and the constitution gap
@@ -975,6 +977,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/shelat_2026_laplace_accuracy_reproduction_test.py](verification/shelat_2026_laplace_accuracy_reproduction_test.py)
 - [verification/shelat_2026_rt_mixed_reproduction.py](verification/shelat_2026_rt_mixed_reproduction.py)
 - [verification/shelat_2026_rt_mixed_reproduction_test.py](verification/shelat_2026_rt_mixed_reproduction_test.py)
+- [verification/shelat_2026_warning_cue_audit.py](verification/shelat_2026_warning_cue_audit.py)
+- [verification/shelat_2026_warning_cue_audit_test.py](verification/shelat_2026_warning_cue_audit_test.py)
 - [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
 - [verification/smooth_field_clock.py](verification/smooth_field_clock.py)
 - [verification/smooth_switched_locality_gate.py](verification/smooth_switched_locality_gate.py)

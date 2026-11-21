@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "991f45db0058153765a8e308b0fd0e6cf31c37dd",
-  "file_count": 1649,
+  "base_head": "67700e46933f50c6c069ef1e506d309375459f89",
+  "file_count": 1654,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 135640,
-      "sha256": "bc7dfba1b246303ecdf17deb597303e890e4750646c94d3c436418d6efb611f6"
+      "bytes": 136155,
+      "sha256": "382829bac208633cc74dfd27fc86f57d352a646755a6b082428deb8df98690f0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1934,6 +1934,11 @@
       "sha256": "4e6aa69d3e23976ac3d429be7f6e38c95b66a98df9307c09f43cce84d80971cc"
     },
     {
+      "path": "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
+      "bytes": 8764,
+      "sha256": "b4d8382e6ac68217ced472bfd27d51e94ee8e9b08cbddb327dfb5b38fe04ea43"
+    },
+    {
       "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
       "bytes": 9043,
       "sha256": "1e19b871f2afb1ce8d9b101f509bb4b0e183fafe1922ded208ffb843689a1d44"
@@ -1945,8 +1950,8 @@
     },
     {
       "path": "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
-      "bytes": 12616,
-      "sha256": "64a115ac3e12b08140c1d7ffc1d5580368ea66d5bafb4652f3306e1119be035c"
+      "bytes": 12889,
+      "sha256": "fbff2eecfda1093eb81be30064548da433d59a72b8d8bb74f207284bf021b194"
     },
     {
       "path": "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
@@ -1957,6 +1962,11 @@
       "path": "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
       "bytes": 2044,
       "sha256": "3b805c7a48e207e1f6a82248ea4d8aa4a5883ccd5bef13489ad0495ca5b20d8a"
+    },
+    {
+      "path": "SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md",
+      "bytes": 2372,
+      "sha256": "12110db6082adb63661bfd0b51ac720f15c70b4d9e40e89abee80008e0aad90a"
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
@@ -6450,8 +6460,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 688096,
-      "sha256": "63b20c5a8606d7e41ed876dc285bbf17c1131a423dbd34dac9d691664b0c9cce"
+      "bytes": 689707,
+      "sha256": "9fcbbebd397f7d92af2a69b2cfec2f10bce62a10047049e8ef21bde07eab9f4c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7392,6 +7402,21 @@
       "path": "verification/shelat_2026_rt_mixed_reproduction_test.py",
       "bytes": 4676,
       "sha256": "a8c4087d76dd3110b032ab5585854d6573f8e6055272313b03a469256322fd9d"
+    },
+    {
+      "path": "verification/shelat_2026_warning_cue_audit.json",
+      "bytes": 2415,
+      "sha256": "99e6ea5baf259eb31bd792c9cccd7a96b5c1e5b40924b2d6d42db4d3eec5e6b0"
+    },
+    {
+      "path": "verification/shelat_2026_warning_cue_audit.py",
+      "bytes": 5583,
+      "sha256": "1a9be8fa4308c6cf419efd86954dd24c14b036876a8b7f2cf58094b015cbdaef"
+    },
+    {
+      "path": "verification/shelat_2026_warning_cue_audit_test.py",
+      "bytes": 2408,
+      "sha256": "95a11b6efe971496fac5e7a895a972e72dcf75d69b6205ac96bc67f271a36e28"
     },
     {
       "path": "verification/shlaer_time_comparison.json",

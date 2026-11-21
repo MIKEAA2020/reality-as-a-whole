@@ -1,0 +1,97 @@
+{
+  "scope": "All SART rows including fixed triggers and rows excluded from response models; physical array RGB presence, not awareness or perceived salience.",
+  "experiments": [
+    {
+      "experiment": 1,
+      "archive_sha256": "3b7f349012efd0a6b6acdc89f902de429860b22b324f81a986bfce9787b875de",
+      "subjects": 50,
+      "data_rows": 119400,
+      "matched_structure_rows": 119400,
+      "structure_rows": 119400,
+      "counts_by_trigger_and_actual_color_category": {
+        "nontrigger": {
+          "neutral": 110934,
+          "novel": 0,
+          "reward": 0,
+          "selection": 0
+        },
+        "fixed": {
+          "neutral": 287,
+          "novel": 314,
+          "reward": 296,
+          "selection": 297
+        },
+        "fast": {
+          "neutral": 978,
+          "novel": 994,
+          "reward": 990,
+          "selection": 1013
+        },
+        "slow": {
+          "neutral": 846,
+          "novel": 813,
+          "reward": 800,
+          "selection": 838
+        }
+      },
+      "rare_given_rgb": {
+        "numerator": 6355,
+        "denominator": 6355
+      },
+      "rare_given_no_rgb": {
+        "numerator": 2111,
+        "denominator": 113045
+      },
+      "rgb_given_rare": {
+        "numerator": 6355,
+        "denominator": 8466
+      }
+    },
+    {
+      "experiment": 2,
+      "archive_sha256": "1b036ddcd105799e7a288e2a7479396398dc621a94c44a8249339d3815db0ea0",
+      "subjects": 50,
+      "data_rows": 115800,
+      "matched_structure_rows": 115800,
+      "structure_rows": 118200,
+      "counts_by_trigger_and_actual_color_category": {
+        "nontrigger": {
+          "neutral": 107602,
+          "novel": 0,
+          "reward": 0,
+          "selection": 0
+        },
+        "fixed": {
+          "neutral": 318,
+          "novel": 280,
+          "reward": 281,
+          "selection": 279
+        },
+        "fast": {
+          "neutral": 1053,
+          "novel": 951,
+          "reward": 994,
+          "selection": 962
+        },
+        "slow": {
+          "neutral": 778,
+          "novel": 766,
+          "reward": 749,
+          "selection": 787
+        }
+      },
+      "rare_given_rgb": {
+        "numerator": 6049,
+        "denominator": 6049
+      },
+      "rare_given_no_rgb": {
+        "numerator": 2149,
+        "denominator": 109751
+      },
+      "rgb_given_rare": {
+        "numerator": 6049,
+        "denominator": 8198
+      }
+    }
+  ]
+}

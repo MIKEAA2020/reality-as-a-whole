@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 556,
-  "bytes": 7051668,
-  "line_count": 63727,
-  "document_count_with_risk_phrases": 518,
+  "document_count": 558,
+  "bytes": 7063592,
+  "line_count": 63775,
+  "document_count_with_risk_phrases": 520,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bc7dfba1b246303ecdf17deb597303e890e4750646c94d3c436418d6efb611f6",
-      "bytes": 135640,
-      "lines": 1063,
+      "sha256": "382829bac208633cc74dfd27fc86f57d352a646755a6b082428deb8df98690f0",
+      "bytes": 136155,
+      "lines": 1067,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5183,11 +5183,13 @@
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+        "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
         "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
         "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
         "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
+        "SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
@@ -5749,6 +5751,8 @@
         "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
         "verification/shelat_2026_rt_mixed_reproduction.py",
         "verification/shelat_2026_rt_mixed_reproduction_test.py",
+        "verification/shelat_2026_warning_cue_audit.py",
+        "verification/shelat_2026_warning_cue_audit_test.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
         "verification/smooth_switched_locality_gate.py",
@@ -5845,14 +5849,14 @@
         282,
         328,
         353,
-        408,
-        502,
-        517,
-        553,
-        562,
-        565,
-        568,
-        632
+        410,
+        504,
+        519,
+        555,
+        564,
+        567,
+        570,
+        634
       ]
     },
     {
@@ -13149,6 +13153,31 @@
       ]
     },
     {
+      "path": "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
+      "sha256": "b4d8382e6ac68217ced472bfd27d51e94ee8e9b08cbddb327dfb5b38fe04ea43",
+      "bytes": 8764,
+      "lines": 36,
+      "title": "Shelat 2026: physical color contingency and R-model status",
+      "headings": [
+        "Shelat 2026: physical color contingency and R-model status",
+        "What was checked",
+        "What this changes—and what it does not",
+        "R/lme4 feasibility: not executed",
+        "Verification"
+      ],
+      "local_links": [
+        "verification/shelat_2026_warning_cue_audit.py",
+        "verification/shelat_2026_warning_cue_audit.json",
+        "SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md",
+        "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        16,
+        18,
+        30
+      ]
+    },
+    {
       "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
       "sha256": "1e19b871f2afb1ce8d9b101f509bb4b0e183fafe1922ded208ffb843689a1d44",
       "bytes": 9043,
@@ -13200,8 +13229,8 @@
     },
     {
       "path": "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
-      "sha256": "64a115ac3e12b08140c1d7ffc1d5580368ea66d5bafb4652f3306e1119be035c",
-      "bytes": 12616,
+      "sha256": "fbff2eecfda1093eb81be30064548da433d59a72b8d8bb74f207284bf021b194",
+      "bytes": 12889,
       "lines": 80,
       "title": "Shelat 2026: reward versus selection in accuracy and RT; R workflow attempt",
       "headings": [
@@ -13214,6 +13243,7 @@
         "5. Interpretation and next discriminating test"
       ],
       "local_links": [
+        "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
         "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "verification/shelat_2026_rt_mixed_reproduction.py",
@@ -13255,6 +13285,22 @@
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
       ],
       "risk_phrase_lines": [
+        7
+      ]
+    },
+    {
+      "path": "SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md",
+      "sha256": "12110db6082adb63661bfd0b51ac720f15c70b4d9e40e89abee80008e0aad90a",
+      "bytes": 2372,
+      "lines": 8,
+      "title": "Plan: attempt a focused local WebAssembly R/lme4 comparison",
+      "headings": [
+        "Plan: attempt a focused local WebAssembly R/lme4 comparison"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        6,
         7
       ]
     },
