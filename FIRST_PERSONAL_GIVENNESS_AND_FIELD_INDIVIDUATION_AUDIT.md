@@ -84,6 +84,8 @@ The window refinement clarifies how to handle descriptions *after* fields and th
 
 ## 7. Next substantive obligation
 
+**Follow-on:** [The field-lineage persistence and fission gate](FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md) separates thin field-subjects from continuant persons, examines a branch-locality tradeoff, and compares two explicit persistence bookkeeping rules and overlapping-person alternatives. It derives no actual subjects or persistence law.
+
 A successful candidate should present, in one place, (1) a defended account of the locally present first-personal character, without requiring an explicit self-judgment; (2) an independently motivated individuation and scope law that makes a physical realization **this** field rather than another field or mere redescription; (3) a quality law anchored in warranted first-person contrasts; and (4) explicit persistence, fission and representation rules. It must compare its primitives and explanatory costs against subject-first, field-first and neutral-ground accounts, including Barbieri's priority argument and Zahavi's theoretical motivation.
 
 The argument here is an identity constraint on a particular field-first package, not a claim that that package is true or false. C3 remains **full structural and experiential intelligibility**, jointly with C1–C7. B4–B5/F2, B9/F3 and B10 remain open; no experiential bridge, external replay or substantive battery pass is claimed.

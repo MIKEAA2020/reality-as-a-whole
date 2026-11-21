@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2ecee9f6e76630f64b50d1d67291b4f13c884b06",
-  "file_count": 1501,
+  "base_head": "0d91284783f961fd9e2b99bd4ae7aa03f402bb02",
+  "file_count": 1505,
   "files": [
     {
       "path": ".gitattributes",
@@ -495,8 +495,8 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "bytes": 11486,
-      "sha256": "dff151a33bfc6099229d7569ff99ba3b527a3ddcfec9dcd51423ad9a4984e383"
+      "bytes": 11707,
+      "sha256": "bb7927e6626295329afbbf3bbe2bf1918852b42939f17e3e26fd44a553e6e7a3"
     },
     {
       "path": "EQUILIBRIUM_MISMATCH_AND_COARSE_GRAINING_GATE.md",
@@ -584,6 +584,11 @@
       "sha256": "057e35d9ea1c5b6ad29962935e551b58ad9a9d5d8d794d1bd9d331fce1d24bb7"
     },
     {
+      "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+      "bytes": 16596,
+      "sha256": "f706374fb3550fd6c010cde460b084e0159c98dca78b3c08824f1c4adbe9d86d"
+    },
+    {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
       "bytes": 9928,
       "sha256": "1f8f719eaa56a7ae766f91cf4eeb9de914f2cd47dc8c4be7c315e2733b4ed263"
@@ -630,8 +635,8 @@
     },
     {
       "path": "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
-      "bytes": 17281,
-      "sha256": "a956987b53244cb3e10d951fac8e8937f51d1d640d3c69fe4d05b9c789981f9d"
+      "bytes": 17628,
+      "sha256": "f19c3b002647edb61458c155632eb0f6cceb38ae2344ad86ffa8ce0915290224"
     },
     {
       "path": "FIXED_GAP_SOURCE_CLOCK.md",
@@ -645,8 +650,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 28156,
-      "sha256": "b2c3bec20e2aa87fa46830517d7ae92a6c6c988b360c02b7d75f0e8e09813486"
+      "bytes": 28452,
+      "sha256": "545b47a96c8036a6442a6dccb03897266741a2e9a059aece3c2cda6cf4379e9e"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -680,8 +685,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 117227,
-      "sha256": "0411f8e16f1631cd3b6df54f286344cf4601b35e310fe0aee7b8122f794558bf"
+      "bytes": 117602,
+      "sha256": "ffc41653a4d0728b66be3760bd2e58bc9c708a36d467e8e22d5e12db2d685cbd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1815,8 +1820,8 @@
     },
     {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
-      "bytes": 12292,
-      "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71"
+      "bytes": 12632,
+      "sha256": "9bcf6441583a40eb12eb6df368a0d4b5f21e0e1c7234f4b5a0a667a4ced769bf"
     },
     {
       "path": "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
@@ -4529,6 +4534,21 @@
       "sha256": "6d92838f70656dc7b1731e057e0edd38145694da6051b1162640157a88188c15"
     },
     {
+      "path": "verification/field_lineage_persistence_gate.json",
+      "bytes": 871,
+      "sha256": "8ed84286117473ee4764ef6579ebc6ff8142c2afff062ff6dac36dd75f4fb3d9"
+    },
+    {
+      "path": "verification/field_lineage_persistence_gate.py",
+      "bytes": 4665,
+      "sha256": "3f0e4d382f07380f3df3686792b661148801e7e373aba06a4550605b0b52ac58"
+    },
+    {
+      "path": "verification/field_lineage_persistence_gate_test.py",
+      "bytes": 843,
+      "sha256": "44901e812cb90023edada73d9a6d3101a6603caa2e1b8417d9bf83628e31784d"
+    },
+    {
       "path": "verification/field_readout_energy_bound.json",
       "bytes": 4335,
       "sha256": "4c695dcb8895722781997b2ef57825bb6824f825491374e844ce6bceed7495b2"
@@ -5805,8 +5825,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 604121,
-      "sha256": "d1bd730725650218683c8d0b5536688a421a55f78c3d455206078b9c5d7cdee9"
+      "bytes": 605842,
+      "sha256": "ef1a4ad956c74975b2b3e574fd15fceb286344978ae6601d0ba969cd2836d695"
     },
     {
       "path": "verification/project_inventory.py",

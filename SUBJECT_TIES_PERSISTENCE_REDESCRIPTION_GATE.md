@@ -50,6 +50,8 @@ Possible responses include relaxing overlap-exclusion, admitting indeterminacy, 
 
 ## 4. Persistence: symmetry and strict numerical identity
 
+The [later field-lineage gate](FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md) treats the fission direction and a conditional edge-locality tradeoff, distinguishes thin field-tokens from continuant persons, and compares conservative local and unique-maximum matching conventions. It complements rather than replaces the fusion result here.
+
 In the four-spin benchmark, imagine local descriptions before and at the tie, with a reflection-symmetric transition. The equilibrium parameter family does not by itself specify a physical process that changes the coupling; this comparison supplies only the hypothetical boundary assignments:
 
 ```

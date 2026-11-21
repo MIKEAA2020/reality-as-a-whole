@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [field-lineage persistence and fission gate](FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md) tests a conditional locality tradeoff and two identity-bookkeeping rules, distinguishing field-subject tokens from continuant persons. It is not a physical-to-phenomenal or temporal-persistence law.
+
 The [first-personal givenness and field-individuation audit](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) tests the field-first proposal against Guillot, Zahavi's reply, and Barbieri's state-priority argument. A nested-window identity constraint exposes a risk of counting descriptions as subjects; it supplies no field-realization law or substantive battery pass.
 
 The [joint-action versus lived-perspective audit](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) reads Schechter's action-unity article and distinguishes a response controlled by both inputs from phenomenal conjunction. It computes different one-input bounds for balanced preparations and the original equilibrium; no actual assay, subject identity or substantive battery pass follows.

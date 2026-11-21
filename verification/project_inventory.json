@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 481,
-  "bytes": 6292613,
-  "line_count": 59674,
-  "document_count_with_risk_phrases": 452,
+  "document_count": 482,
+  "bytes": 6310788,
+  "line_count": 59795,
+  "document_count_with_risk_phrases": 453,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3241,8 +3241,8 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "sha256": "dff151a33bfc6099229d7569ff99ba3b527a3ddcfec9dcd51423ad9a4984e383",
-      "bytes": 11486,
+      "sha256": "bb7927e6626295329afbbf3bbe2bf1918852b42939f17e3e26fd44a553e6e7a3",
+      "bytes": 11707,
       "lines": 132,
       "title": "Reformulating composition: incidence, temporal extent, and persistence",
       "headings": [
@@ -3259,6 +3259,7 @@
         "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md"
       ],
@@ -3722,6 +3723,47 @@
       ]
     },
     {
+      "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+      "sha256": "f706374fb3550fd6c010cde460b084e0159c98dca78b3c08824f1c4adbe9d86d",
+      "bytes": 16596,
+      "lines": 112,
+      "title": "Field lineage, persistence, and fission: a conditional comparison",
+      "headings": [
+        "Field lineage, persistence, and fission: a conditional comparison",
+        "Result",
+        "1. Source and existing work",
+        "2. Objects, relations and a restricted domain",
+        "3. The fission-direction locality obstruction",
+        "4. Two usable—but unvalidated—selection rules",
+        "5. An overlapping-person alternative",
+        "6. Interface to evidence and to the four-spin comparison"
+      ],
+      "local_links": [
+        "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "CAUSAL_RECORD_LINEAGE.md",
+        "verification/field_lineage_persistence_gate.py",
+        "verification/field_lineage_persistence_gate.json"
+      ],
+      "risk_phrase_lines": [
+        15,
+        19,
+        57,
+        59,
+        63,
+        65,
+        67,
+        69,
+        75,
+        77,
+        89,
+        91,
+        95,
+        110
+      ]
+    },
+    {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
       "sha256": "1f8f719eaa56a7ae766f91cf4eeb9de914f2cd47dc8c4be7c315e2733b4ed263",
       "bytes": 9928,
@@ -4050,9 +4092,9 @@
     },
     {
       "path": "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
-      "sha256": "a956987b53244cb3e10d951fac8e8937f51d1d640d3c69fe4d05b9c789981f9d",
-      "bytes": 17281,
-      "lines": 89,
+      "sha256": "f19c3b002647edb61458c155632eb0f6cceb38ae2344ad86ffa8ce0915290224",
+      "bytes": 17628,
+      "lines": 91,
       "title": "First-personal givenness and the individuation of fields",
       "headings": [
         "First-personal givenness and the individuation of fields",
@@ -4067,7 +4109,8 @@
       "local_links": [
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "ARTICULATED_SELF_PRESENCE.md",
-        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md"
+        "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md"
       ],
       "risk_phrase_lines": []
     },
@@ -4149,9 +4192,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b2c3bec20e2aa87fa46830517d7ae92a6c6c988b360c02b7d75f0e8e09813486",
-      "bytes": 28156,
-      "lines": 117,
+      "sha256": "545b47a96c8036a6442a6dccb03897266741a2e9a059aece3c2cda6cf4379e9e",
+      "bytes": 28452,
+      "lines": 119,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4163,6 +4206,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
         "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
@@ -4209,17 +4253,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        19,
-        31,
-        39,
+        17,
+        21,
+        33,
         41,
-        45,
-        61,
-        71,
-        88,
-        105,
-        111
+        43,
+        47,
+        63,
+        73,
+        90,
+        107,
+        113
       ]
     },
     {
@@ -4398,9 +4442,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0411f8e16f1631cd3b6df54f286344cf4601b35e310fe0aee7b8122f794558bf",
-      "bytes": 117227,
-      "lines": 939,
+      "sha256": "ffc41653a4d0728b66be3760bd2e58bc9c708a36d467e8e22d5e12db2d685cbd",
+      "bytes": 117602,
+      "lines": 942,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4529,6 +4573,7 @@
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
         "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
         "FINITE_COMPLETION_CLOCK.md",
@@ -5033,6 +5078,8 @@
         "verification/experiential_mismatch_transport_gate.py",
         "verification/faced_report_baseline.py",
         "verification/faced_report_baseline_test.py",
+        "verification/field_lineage_persistence_gate.py",
+        "verification/field_lineage_persistence_gate_test.py",
         "verification/field_readout_energy_bound.py",
         "verification/finite_agreement_bell_gate.py",
         "verification/finite_completion_clock.py",
@@ -5329,19 +5376,19 @@
         46,
         52,
         62,
-        131,
-        180,
-        228,
-        277,
-        299,
-        346,
-        427,
-        442,
-        478,
-        487,
-        490,
-        493,
-        557
+        132,
+        181,
+        229,
+        278,
+        300,
+        347,
+        428,
+        443,
+        479,
+        488,
+        491,
+        494,
+        558
       ]
     },
     {
@@ -12480,9 +12527,9 @@
     },
     {
       "path": "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
-      "sha256": "47c014f26cb7bca70ba81c543652d3de7779a43f2c3ea7e1cc97adfb74719a71",
-      "bytes": 12292,
-      "lines": 108,
+      "sha256": "9bcf6441583a40eb12eb6df368a0d4b5f21e0e1c7234f4b5a0a667a4ced769bf",
+      "bytes": 12632,
+      "lines": 110,
       "title": "Subject constitution: ties, persistence and redescriptions",
       "headings": [
         "Subject constitution: ties, persistence and redescriptions",
@@ -12496,6 +12543,7 @@
       ],
       "local_links": [
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "verification/subject_cohesion_identity_redescription.json"
       ],
       "risk_phrase_lines": [
@@ -12505,12 +12553,13 @@
         25,
         27,
         49,
-        67,
-        83,
-        89,
-        98,
-        102,
-        108
+        53,
+        69,
+        85,
+        91,
+        100,
+        104,
+        110
       ]
     },
     {
