@@ -2,6 +2,8 @@
 
 ## The result for this project
 
+The [subsequent bonding and subject-composition audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) reads the Miller–Siddharth exchange and examines Mørch's draft objection to subject-indexing. It distinguishes an introspective conditional interpretation from independent evidence for shared tokens or subject-parts.
+
 Gregory Miller's supplied paper identifies a serious challenge for a **cosmic subject containing other subjects as proper parts**: how can the whole have one unified experience while its parts are bounded subjects? He proposes indexing unity and boundedness to different subjects. In that formulation, a local subject can be bounded **for itself** even though a larger subject unifies some of the very same experiences **for the larger subject**.
 
 That is an important prior proposal, not a solution discovered by this project. It offers a coherent *response to a particular incompatibility argument*, conditional on its assumptions. It does not establish that such overlapping subjects exist, explain which subjects or qualities are constituted, or select a boundary law. Conversely, the present E-L candidate proposes an experiential ground without asserting a single cosmic subject: Miller's specific cosmic-subject reductio is therefore not automatically a reductio of E-L. E-L still owes an intelligible account of experiential grounding and plural subject incidence. Avoiding one premise is not solving those debts.

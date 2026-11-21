@@ -2,6 +2,8 @@
 
 ## 1. The question and the result
 
+The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) compares this incidence model with Mørch's stronger unindexed no-external-unity condition. Facet maximality alone does not imply that condition or exclusive token ownership; the model stipulates, rather than derives, subjects and shared tokens.
+
 Can one relational whole include several genuinely distinct, individually unified subjects without the whole itself being one universal subject? **A finite formal model can represent that combination without contradiction among its stipulated rules.** But the model does not establish that its stipulated experiences or subjects exist, that shared experiences are metaphysically coherent, or that our world has this structure.
 
 The construction distinguishes a whole's relational connectedness from the phenomenal unity of a subject. In the example, the same experienced aspect is shared between two individually unified fields. The resulting structure is connected, but no field contains all its aspects. Individual finite same-subject closure holds even though the existential relation “some subject experiences these two aspects together” is not transitive. Thus the weaker, existential relation cannot replace Bayne and Chalmers' subject-indexed unity principle, and connectedness of the whole does not produce a universal subject.

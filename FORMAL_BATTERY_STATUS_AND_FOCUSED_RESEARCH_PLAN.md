@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) traces the Siddharth–Miller exchange and Mørch's draft: experiential unity does not independently establish shared tokens or subject-parts, while an unindexed maximal-bundle contradiction depends on a substantive exclusion premise. A subject-indexed constitution also owes a non-circular account of the indices. B4–B5/F2, B9/F3 and B10 remain open.
+
 The [Miller subject-parthood audit](MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md) reads the supplied full paper and compares his subject-relative boundedness proposal with the current non-universal-subject ground on the same four-spin interface. It distinguishes a conditional response to an incompatibility argument from a derivation of subject incidence or token identity. B4–B5/F2, B9/F3 and B10 remain open.
 
 The [laser-pain single-trial provenance gate](LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md) identifies 95 people and a potential same-trial pain-intensity/EEG resource, but its supplementary table has unresolved trial joins, fractional ratings, NaNs and zero-energy suffixes. An exploratory baseline was calculated and then suppressed because the fixed provenance stop condition was not met. Pain intensity is not independently measured unpleasantness; neither mismatch nor a subject bridge was tested. B4–B5/F2, B9/F3 and B10 remain open.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 470,
-  "bytes": 6100918,
-  "line_count": 58542,
-  "document_count_with_risk_phrases": 442,
+  "document_count": 471,
+  "bytes": 6118638,
+  "line_count": 58631,
+  "document_count_with_risk_phrases": 443,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3987,9 +3987,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5a08f0e5c2a347e900bc609fe420434622a97b4246ccd3cd25689a14bde3acdf",
-      "bytes": 23635,
-      "lines": 95,
+      "sha256": "0baf5f04ba912fed255475659aec83546f4d68409845eaec54e3487f92142830",
+      "bytes": 24084,
+      "lines": 97,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4001,6 +4001,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
         "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
         "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
@@ -4036,15 +4037,15 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        17,
+        11,
         19,
-        23,
-        39,
-        49,
-        66,
-        83,
-        89
+        21,
+        25,
+        41,
+        51,
+        68,
+        85,
+        91
       ]
     },
     {
@@ -6119,9 +6120,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "b432fbeeecd6979fd74bb9a8fe69eb9c27b67c4d07166868a216d1bde13f9ad4",
-      "bytes": 20529,
-      "lines": 123,
+      "sha256": "929dfa051d86a7da0e9c36cb5af37f6dbe06eaf461367aa646266d08d0b8696c",
+      "bytes": 20933,
+      "lines": 125,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6134,6 +6135,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
@@ -6155,12 +6157,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        64,
-        68,
-        101,
-        123
+        13,
+        66,
+        70,
+        103,
+        125
       ]
     },
     {
@@ -7259,9 +7261,9 @@
     },
     {
       "path": "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
-      "sha256": "0bff40bb08329e0a1859fdb6d03409f4fdb8786a4ee84acc55b568594ffd6640",
-      "bytes": 14388,
-      "lines": 60,
+      "sha256": "55aa5a6bf3578bdfe18190064bbe2bf491d6e25b3ce2f34422e33a13f4e50ea5",
+      "bytes": 14720,
+      "lines": 62,
       "title": "Miller on subject-parts: what relativized unity does and does not explain",
       "headings": [
         "Miller on subject-parts: what relativized unity does and does not explain",
@@ -7274,13 +7276,14 @@
         "5. Consequence for the battery"
       ],
       "local_links": [
+        "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "sources/uploads/miller2017.pdf",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
       ],
       "risk_phrase_lines": [
-        52,
-        60
+        54,
+        62
       ]
     },
     {
@@ -8502,6 +8505,32 @@
         "verification/perspectival_finitude.json"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
+      "sha256": "90119810d9d4aea7f73e8e60ad3874da840a110da26f078e91e5de02bf2a5d39",
+      "bytes": 16194,
+      "lines": 81,
+      "title": "From experienced unity to subject constitution: the missing inference",
+      "headings": [
+        "From experienced unity to subject constitution: the missing inference",
+        "Decision",
+        "1. The actual exchange and source coverage",
+        "2. The exact inferential step",
+        "3. What unity and privacy do—and do not—license",
+        "4. What this means for the proposed E-L bridge",
+        "5. What would change the result"
+      ],
+      "local_links": [
+        "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+        "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        38
+      ]
     },
     {
       "path": "PHENOMENAL_GWT_RUSSELLIAN.md",
@@ -10082,9 +10111,9 @@
     },
     {
       "path": "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
-      "sha256": "16cb33bc179f74646a58213b3df36bbd85ed4ea14f013b5b9cce8c74096c7547",
-      "bytes": 16060,
-      "lines": 104,
+      "sha256": "d9165300e773b21e5cba37b0d81eae543a423c4c052a52439bcb30fcade750f9",
+      "bytes": 16401,
+      "lines": 106,
       "title": "A relational whole with plural unified subjects: a finite constitution model",
       "headings": [
         "A relational whole with plural unified subjects: a finite constitution model",
@@ -10097,21 +10126,22 @@
         "7. What a full account still owes"
       ],
       "local_links": [
+        "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
         "verification/phenomenal_facet_subject_gate.py",
         "verification/phenomenal_facet_subject_gate.json"
       ],
       "risk_phrase_lines": [
-        9,
-        17,
-        25,
+        11,
+        19,
         27,
-        37,
-        47,
-        59,
-        65,
-        80
+        29,
+        39,
+        49,
+        61,
+        67,
+        82
       ]
     },
     {

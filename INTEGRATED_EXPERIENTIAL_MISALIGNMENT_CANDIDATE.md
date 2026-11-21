@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) distinguishes access to one's conjoint experience from independent evidence of smaller subjects, numerically shared tokens and their constitutive relation. It also specifies why the L subject and q quality postulates remain open, and compares indexed unity with Mørch's conditional maximal-bundle objection.
+
 The [Miller subject-parthood audit](MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md) distinguishes this candidate's experiential ground from a cosmic subject containing subject-parts. Miller's proposed subject-relative boundaries can coherently express a nested alternative under stipulated shared tokens, but neither his proposal nor the absence of an assumed cosmic subject derives E-L's local subjects or qualities.
 
 The [cross-grain facet gate](CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md) adds a conditional constraint: neither proposed whole-level scalar determines two independently marked pair facets, although a richer structured code can preserve them. It does not assume those facets belong to the whole, and does not refute scalar unpleasantness laws understood as partial descriptions. The subjective bridge remains open.
