@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 486 root Markdown documents including this register; 43 research Markdown documents.
+- 488 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -40,6 +40,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) — Basile on panpsychism: the composition and quality fork
 - [BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md](BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md) — Bell-pair preparation versus an infinite-temperature correlation
 - [BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) — Benovsky on dual aspects, mineness and no-self: full-book audit
+- [BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) — Bigaj on field quanta: what counts, what exists, and what the project owes
+- [BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md](BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md) — Fixed reading plan: Bigaj on field quanta
 - [BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) — Bohn's plural collective consciousness: full-paper audit and subject interface
 - [BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md](BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md) — Placebo, nociception and pain: full-paper audit
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions

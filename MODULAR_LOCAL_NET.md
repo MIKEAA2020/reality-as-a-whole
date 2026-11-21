@@ -1,5 +1,7 @@
 # Localization, transport and records in one modular construction
 
+**Interpretive follow-up:** The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) distinguishes the conditional Fock and local-algebra construction here from any claim that its modes are fundamental objects or subjects.
+
 ## 1. Constructive result and scope
 
 Starting with the **same** Fock space, vacuum, half-line algebra M and recovered translation group from [modular clock selection](MODULAR_CLOCK_SELECTION.md), define

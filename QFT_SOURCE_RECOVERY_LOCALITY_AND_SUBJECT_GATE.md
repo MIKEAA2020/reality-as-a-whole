@@ -1,5 +1,7 @@
 # Particle emergence, locality and the subject-boundary question
 
+**Further source:** The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) examines a supplied full corrected proof, including its challenges to both particle and field ontologies and limitations of its continuum occupation argument.
+
 ## The supplied sources and what was read
 
 - Jonathan Bain, **“Against Particle/Field Duality: Asymptotic Particle States and Interpolating Fields in Interacting QFT (Or: Who's Afraid of Haag's Theorem?)”**, *Erkenntnis* 53, 375–406, [DOI 10.1023/A:1026482100470](https://doi.org/10.1023/A:1026482100470). The supplied [journal PDF](sources/uploads/bain2000.pdf) has 32 pages. We extracted and read text from all pages, including notes and appendix; formulas suffered font/encoding extraction artifacts, the two figures were not separately visually inspected, and the underlying mathematical proofs were not independently reconstructed. SHA-256: `f7a58319ae3e089e6de77c10238ecaa5ef50192f0a8088ac79a8e42901dfc83c`.
