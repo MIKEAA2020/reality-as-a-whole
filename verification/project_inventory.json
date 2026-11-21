@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 548,
-  "bytes": 6987130,
-  "line_count": 63401,
-  "document_count_with_risk_phrases": 513,
+  "document_count": 550,
+  "bytes": 7002609,
+  "line_count": 63481,
+  "document_count_with_risk_phrases": 515,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4747,9 +4747,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "58ebfa7e14d235c198331dbd74fc4695d8d05bf8956fe67915a5c8e352b450a0",
-      "bytes": 133486,
-      "lines": 1050,
+      "sha256": "2a63f9e8b98e3cdca118248d72a9ffa8b26b917ff9d8286104fa59d996fd6873",
+      "bytes": 134120,
+      "lines": 1054,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5143,8 +5143,10 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+        "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
@@ -5700,6 +5702,8 @@
         "verification/shared_vs_independent_reports.py",
         "verification/shelat_2026_archive_descriptives.py",
         "verification/shelat_2026_archive_descriptives_test.py",
+        "verification/shelat_2026_laplace_accuracy_reproduction.py",
+        "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
         "verification/smooth_switched_locality_gate.py",
@@ -5795,14 +5799,14 @@
         280,
         326,
         351,
-        402,
-        494,
-        509,
-        545,
-        554,
-        557,
-        560,
-        624
+        404,
+        496,
+        511,
+        547,
+        556,
+        559,
+        562,
+        626
       ]
     },
     {
@@ -13070,10 +13074,37 @@
       ]
     },
     {
-      "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
-      "sha256": "9318dfc6329cc497b03ce475ea45a404460c35e20e9af10dcce7dafe691a0735",
-      "bytes": 8617,
+      "path": "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+      "sha256": "6e1a26c0201eb0afdd91e4651285e9419fb8de294c9f30dd7aab7ff2251ade6b",
+      "bytes": 11875,
       "lines": 63,
+      "title": "Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction",
+      "headings": [
+        "Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction",
+        "1. Registration and sources",
+        "2. What the original code says",
+        "3. Independent model and numerical checks",
+        "4. How to rerun",
+        "5. Interpretive boundary"
+      ],
+      "local_links": [
+        "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+        "verification/shelat_2026_laplace_accuracy_reproduction.py",
+        "verification/shelat_2026_laplace_accuracy_reproduction.json",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        48
+      ]
+    },
+    {
+      "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+      "sha256": "1e19b871f2afb1ce8d9b101f509bb4b0e183fafe1922ded208ffb843689a1d44",
+      "bytes": 9043,
+      "lines": 65,
       "title": "Shelat 2026: experiment archives and a limited descriptive replication",
       "headings": [
         "Shelat 2026: experiment archives and a limited descriptive replication",
@@ -13084,20 +13115,21 @@
         "4. Verification, limitations and next step"
       ],
       "local_links": [
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "verification/shelat_2026_archive_descriptives.py",
         "verification/shelat_2026_archive_descriptives.json"
       ],
       "risk_phrase_lines": [
-        7,
-        61
+        9,
+        63
       ]
     },
     {
       "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
-      "sha256": "ac5fe7baa1763e572be17b7a241c26ced8b2415f7fa9b7bc839369eef5e8712b",
-      "bytes": 9011,
-      "lines": 49,
+      "sha256": "cc3a0d8a63f1639623aff271452ce06637478c6a730b9fd4a2dac6ebdc72343c",
+      "bytes": 9324,
+      "lines": 51,
       "title": "Shelat 2026: registration, model dependence and material access",
       "headings": [
         "Shelat 2026: registration, model dependence and material access",
@@ -13108,13 +13140,30 @@
         "4. Implications for the project"
       ],
       "local_links": [
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
       ],
       "risk_phrase_lines": [
-        33
+        35
+      ]
+    },
+    {
+      "path": "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
+      "sha256": "3b805c7a48e207e1f6a82248ea4d8aa4a5883ccd5bef13489ad0495ca5b20d8a",
+      "bytes": 2044,
+      "lines": 9,
+      "title": "Retrospective plan: Shelat 2026 supplied analysis scripts",
+      "headings": [
+        "Retrospective plan: Shelat 2026 supplied analysis scripts"
+      ],
+      "local_links": [
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
+      ],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {
@@ -13136,8 +13185,8 @@
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "sha256": "401fcfb94fe68888b318d5c464df6f9181e28fc0c393c2845c6d0825b0e85a9a",
-      "bytes": 8630,
+      "sha256": "9a7eae4b1876015c2d60ffdac34e2825324830e8dead37acaf7deff701de05a6",
+      "bytes": 8817,
       "lines": 33,
       "title": "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
       "headings": [
@@ -13148,7 +13197,8 @@
       ],
       "local_links": [
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
-        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md"
       ],
       "risk_phrase_lines": []
     },

@@ -2,9 +2,11 @@
 
 ## Bottom line
 
-The published 2026 attention study provides a suggestive, task-specific performance effect. In a later [archive follow-up](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md), both datasets were supplied via GitHub and their reported Table 1 counts were descriptively reproduced; the experiment-2 preregistration and original analysis code remain uninspected, and its mixed models have not been reproduced. The accessible experiment-1 registration substantiates the paper's distinction between its originally planned suppression analyses and its exploratory recoupling analyses. The reported pooled reward coefficient is a **conditional parameter in an interaction model**, not a single average improvement that applies uniformly across blocks and triggers.
+**Later update:** the user supplied the analysis scripts, which were inspected, and selected logistic mixed-model results were closely reproduced with an independent Python Laplace fit; the authors' R code was not run. See the [code and model follow-up](SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md). The experiment-2 preregistration still has not been accessed.
 
-This is a [retrospective check](SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md), planned after the results were known. It builds on the [full-main-text and supplement audit](SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md). It is not a replication or an audit of the actual scripts and participant records.
+The published 2026 attention study provides a suggestive, task-specific performance effect. In a later [archive follow-up](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md), both datasets were supplied via GitHub and their reported Table 1 counts were descriptively reproduced. The accessible experiment-1 registration substantiates the paper's distinction between its originally planned suppression analyses and its exploratory recoupling analyses. The reported pooled reward coefficient is a **conditional parameter in an interaction model**, not a single average improvement that applies uniformly across blocks and triggers.
+
+This is a [retrospective check](SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md), planned after the results were known. It builds on the [full-main-text and supplement audit](SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md). At this stage it was not a replication or an audit of the actual scripts and participant records; the subsequent work is described in the update above.
 
 ## 1. What is actually registered for experiment 1
 
