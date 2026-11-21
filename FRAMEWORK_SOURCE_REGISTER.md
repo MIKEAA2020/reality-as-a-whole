@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 463 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 400 verification Python scripts.
+- 465 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 402 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -418,6 +418,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md](TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md) — Timeless whole, local time and a quantum world
 - [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
 - [TIME_SOLUTION_EVIDENCE_AUDIT.md](TIME_SOLUTION_EVIDENCE_AUDIT.md) — Problem of time: evidence and novelty audit
+- [TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md](TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md) — rTMS, unpleasantness and mediator identification
+- [TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md](TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md) — Fixed plan: perturbation, unpleasantness and mediator identification
 - [TOLMAN_COCYCLE.md](TOLMAN_COCYCLE.md) — Tolman–Ehrenfest law via the Connes–Rovelli cocycle
 - [TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md](TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md) — Toothachewise paraphrase: preserving pain without assuming the bridge
 - [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) — Top Yukawa and Higgs Mass from the Spectral Action: 1-Loop RGE Verification
@@ -949,6 +951,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/time_recovery_benchmark.py](verification/time_recovery_benchmark.py)
 - [verification/timeless_symmetrized_class_gate.py](verification/timeless_symmetrized_class_gate.py)
 - [verification/timeless_whole_location_gate.py](verification/timeless_whole_location_gate.py)
+- [verification/tms_mediator_identification.py](verification/tms_mediator_identification.py)
+- [verification/tms_mediator_identification_test.py](verification/tms_mediator_identification_test.py)
 - [verification/tolman_cocycle.py](verification/tolman_cocycle.py)
 - [verification/top_higgs_spectral_prediction.py](verification/top_higgs_spectral_prediction.py)
 - [verification/torus_gravity_second_order.py](verification/torus_gravity_second_order.py)

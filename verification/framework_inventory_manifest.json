@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5847271b4da0f175f917c58f0aa1f295a5c75ec6",
-  "file_count": 1574,
+  "base_head": "908b797fe8d8368f0c5d80749a8c8d722e452f47",
+  "file_count": 1579,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 34734,
-      "sha256": "e52a91ce2c385598e93c5d3ab3fd06bcae81c0e005dad70beb616c6a816dbb3b"
+      "bytes": 35466,
+      "sha256": "8913a89dbd8c5e489ed39a4aaa5629d410ef4971666fe2e37e5563a8fdc4ba70"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 124855,
-      "sha256": "598eaabb96923fda0baed97bcddb1e8c714b109d10379e5deefd3ce69bbec889"
+      "bytes": 125411,
+      "sha256": "1f5019a3e3069725b7bf1b0e4bcdcc9cbf84af02ee535956b1bb019146ba3319"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2047,6 +2047,16 @@
       "path": "TIME_SOLUTION_EVIDENCE_AUDIT.md",
       "bytes": 5613,
       "sha256": "5a0635bae7dbd24d4be431ec024cca310cb668813b898965244a0c2e25bbc79e"
+    },
+    {
+      "path": "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
+      "bytes": 10000,
+      "sha256": "2a09281f480bce474141d9ff7918a7e90bd9ce6b3b898668627296f6c50e9602"
+    },
+    {
+      "path": "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
+      "bytes": 2990,
+      "sha256": "3820094961f410ad87478b569da81719f0506bda5b50184ee1d8cab0da0ad056"
     },
     {
       "path": "TOLMAN_COCYCLE.md",
@@ -6155,8 +6165,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 636572,
-      "sha256": "98ce0ce5b66de42982171cb0bff3d852e6e08338cfb8a5e49b02e96ccfce9c10"
+      "bytes": 638467,
+      "sha256": "370823e04486da0f2cfe3cd65e82314320d42e7b1bb4ae5e5d9922b4505b3158"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7462,6 +7472,21 @@
       "path": "verification/timeless_whole_location_gate.py",
       "bytes": 2649,
       "sha256": "f23d3ffef2876c61f6613183040133f027454ad47cf3b8f86d4d248f81bff21d"
+    },
+    {
+      "path": "verification/tms_mediator_identification.json",
+      "bytes": 866,
+      "sha256": "7496cbd19d85b2f54588cda070eb5c39fdf150f75cc1d7c8bf587cdd623693b2"
+    },
+    {
+      "path": "verification/tms_mediator_identification.py",
+      "bytes": 2782,
+      "sha256": "866b89d93439e8f13fb7a97c1b7685169843c5959fc0f4986f03d8f0564c758b"
+    },
+    {
+      "path": "verification/tms_mediator_identification_test.py",
+      "bytes": 1831,
+      "sha256": "07f359a7387fe33b5c9557cdfcdf49133298c94c64b0c0902eb6612dddb580d7"
     },
     {
       "path": "verification/tolman_cocycle.py",

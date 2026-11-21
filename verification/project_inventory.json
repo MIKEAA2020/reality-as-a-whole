@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 506,
-  "bytes": 6570723,
-  "line_count": 61433,
-  "document_count_with_risk_phrases": 476,
+  "document_count": 508,
+  "bytes": 6585001,
+  "line_count": 61503,
+  "document_count_with_risk_phrases": 478,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4242,9 +4242,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "e52a91ce2c385598e93c5d3ab3fd06bcae81c0e005dad70beb616c6a816dbb3b",
-      "bytes": 34734,
-      "lines": 141,
+      "sha256": "8913a89dbd8c5e489ed39a4aaa5629d410ef4971666fe2e37e5563a8fdc4ba70",
+      "bytes": 35466,
+      "lines": 143,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4256,6 +4256,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
         "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
         "KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
@@ -4318,21 +4319,22 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        17,
-        23,
+        5,
+        15,
+        19,
         25,
-        39,
-        43,
-        55,
-        63,
+        27,
+        41,
+        45,
+        57,
         65,
-        69,
-        85,
-        95,
-        112,
-        129,
-        135
+        67,
+        71,
+        87,
+        97,
+        114,
+        131,
+        137
       ]
     },
     {
@@ -4511,9 +4513,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "598eaabb96923fda0baed97bcddb1e8c714b109d10379e5deefd3ce69bbec889",
-      "bytes": 124855,
-      "lines": 996,
+      "sha256": "1f5019a3e3069725b7bf1b0e4bcdcc9cbf84af02ee535956b1bb019146ba3319",
+      "bytes": 125411,
+      "lines": 1000,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4933,6 +4935,8 @@
         "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
         "TIME_RESEARCH_ROADMAP.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
+        "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
         "TOLMAN_COCYCLE.md",
         "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "TOP_HIGGS_SPECTRAL_PREDICTION.md",
@@ -5450,6 +5454,8 @@
         "verification/time_recovery_benchmark.py",
         "verification/timeless_symmetrized_class_gate.py",
         "verification/timeless_whole_location_gate.py",
+        "verification/tms_mediator_identification.py",
+        "verification/tms_mediator_identification_test.py",
         "verification/tolman_cocycle.py",
         "verification/top_higgs_spectral_prediction.py",
         "verification/torus_gravity_second_order.py",
@@ -5506,13 +5512,13 @@
         300,
         323,
         370,
-        452,
-        467,
-        503,
-        512,
-        515,
-        518,
-        582
+        454,
+        469,
+        505,
+        514,
+        517,
+        520,
+        584
       ]
     },
     {
@@ -14170,6 +14176,50 @@
       "risk_phrase_lines": [
         10,
         26
+      ]
+    },
+    {
+      "path": "TMS_UNPLEASANTNESS_AND_MEDIATOR_IDENTIFICATION_GATE.md",
+      "sha256": "2a09281f480bce474141d9ff7918a7e90bd9ce6b3b898668627296f6c50e9602",
+      "bytes": 10000,
+      "lines": 51,
+      "title": "rTMS, unpleasantness and mediator identification",
+      "headings": [
+        "rTMS, unpleasantness and mediator identification",
+        "What the study actually gives us",
+        "Exact control: identical randomized observations, different mediation",
+        "Data availability and a useful next lead",
+        "Gate to revisit"
+      ],
+      "local_links": [
+        "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
+        "verification/tms_mediator_identification.json",
+        "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        15,
+        19,
+        26
+      ]
+    },
+    {
+      "path": "TMS_UNPLEASANTNESS_MEDIATOR_IDENTIFICATION_FIXED_PLAN.md",
+      "sha256": "3820094961f410ad87478b569da81719f0506bda5b50184ee1d8cab0da0ad056",
+      "bytes": 2990,
+      "lines": 13,
+      "title": "Fixed plan: perturbation, unpleasantness and mediator identification",
+      "headings": [
+        "Fixed plan: perturbation, unpleasantness and mediator identification",
+        "Scope and prior access",
+        "Fixed finite control",
+        "Decision rules"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        9
       ]
     },
     {
