@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Ptito thesis methods follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) locates an embedded manuscript of the same 2009 study, not a replication. Accessible partial methods reveal separate hemifield digit-count reports and different patient/control response procedures; the later results remain inaccessible in the extraction. This narrows the behavioral interpretation without establishing experiential conjunction, a neural-to-spin mapping or q calibration.
+
 The [attention-capacity and lived-unity evidence audit](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) checks accessible primary abstracts and excerpts behind Lopez's attention argument. Ptito's four-stream design addresses a real stream-layout confound, but its nonsignificant within/across comparison is not equivalence; Arguin's task includes predominantly partial callosotomies. Neither directly supplies a four-spin mapping or same-window conjunction assay. The substantive bridge remains open.
 
 The [layered unity and subject–quality comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) reads Lopez's 2025 account and distinguishes local from global conjoint experience on the existing four-spin L/C interface. A global-only conjunction would challenge a specifically exclusive L completion, but neither the known clinical reports nor attention tasks establish the required target, model mapping or subject coverage. Incidence, partial unity and q-to-quality remain additional commitments; the substantive experiential gates remain open.

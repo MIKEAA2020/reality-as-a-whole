@@ -2,6 +2,8 @@
 
 ## Bottom line
 
+**Methods update:** the later [Ptito thesis follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) recovers part of the embedded manuscript's methods: participants reported the number of digits seen in each hemifield, rather than the identities of successive targets. The complete results and final published methods remain uninspected. Read this earlier general account of second-target report in that light.
+
 The studies cited in Lopez's [layered-unity proposal](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) give **relevant, task-specific evidence** about residual attention after callosotomy. They do not by themselves establish a single *experienced* centrality structure, the number of subjects, or the project's four-spin L/C incidence rule. That does not refute Lopez's proposal: she offers an additional philosophical argument connecting experienced attention to phenomenal unity, rather than simply defining a reaction-time effect as an experience.
 
 The most informative source detail is that Ptito et al.'s four-stream design addressed a real within- versus across-hemifield **stream confound**, while its reported nonsignificant field comparison does not establish equivalent blink effects. Arguin et al.'s 500 ms arrow-cue result concerns a different attentional task and mostly **partial** callosotomies; it should not be treated as a direct, same-person test of the blink or as an experimentally measured universal timing threshold. These qualifications refine the empirical support without erasing the reported findings.

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 476 root Markdown documents including this register; 43 research Markdown documents.
+- 478 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -308,6 +308,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
 - [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
+- [PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) — Ptito's attentional-blink study: a partial methods recovery
+- [PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md](PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md) — Fixed plan: Ptito thesis and the attentional-blink evidence
 - [QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md](QFT_SOURCE_RECOVERY_LOCALITY_AND_SUBJECT_GATE.md) — Particle emergence, locality and the subject-boundary question
 - [QUALITATIVE_EQUIVALENCE_AUDIT.md](QUALITATIVE_EQUIVALENCE_AUDIT.md) — Is the remaining qualitative ambiguity substantive or representational?
 - [QUALITATIVE_IDENTITY_PURSUIT.md](QUALITATIVE_IDENTITY_PURSUIT.md) — Pursuing a warranted qualitative identity
