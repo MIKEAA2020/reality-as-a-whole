@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 491,
-  "bytes": 6436863,
-  "line_count": 60719,
-  "document_count_with_risk_phrases": 462,
+  "document_count": 494,
+  "bytes": 6463226,
+  "line_count": 60830,
+  "document_count_with_risk_phrases": 464,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -802,8 +802,8 @@
     },
     {
       "path": "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
-      "sha256": "1e8a77968f138abc0c5805b6fbb0d85af4084c26c4459c56a5e28779a4029fb9",
-      "bytes": 14426,
+      "sha256": "a10c7168a47f08c92c88ca65d9b3cd53619360ca5050543b1c868dfb5533ff05",
+      "bytes": 14731,
       "lines": 54,
       "title": "Placebo, nociception and pain: full-paper audit",
       "headings": [
@@ -815,6 +815,7 @@
         "Consequences for the project"
       ],
       "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md"
       ],
       "risk_phrase_lines": [
@@ -4240,9 +4241,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b99f7efe8c7eaaee98e25d1d1fe946dca67c731f73e1265142a70af525d3d043",
-      "bytes": 31012,
-      "lines": 127,
+      "sha256": "9f4522ccdc61e9f4544837f4c0e90bc242f2320bd3889f8b22710fad959bb926",
+      "bytes": 31490,
+      "lines": 129,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4254,6 +4255,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
@@ -4309,19 +4311,19 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        25,
-        29,
-        41,
-        49,
+        13,
+        27,
+        31,
+        43,
         51,
-        55,
-        71,
-        81,
-        98,
-        115,
-        121
+        53,
+        57,
+        73,
+        83,
+        100,
+        117,
+        123
       ]
     },
     {
@@ -4500,9 +4502,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "08dbc77047532daf9e767dbddc173fbd1a551d2ad1437d5beb7be3e1d2923e43",
-      "bytes": 119964,
-      "lines": 961,
+      "sha256": "11aa5723fc85c39fe500f3524e0293b1eb434769072198ba7afc5f8f8e796123",
+      "bytes": 120567,
+      "lines": 965,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4761,6 +4763,8 @@
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
         "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
@@ -5269,6 +5273,8 @@
         "verification/page_wootters_static_clock.py",
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
+        "verification/paingen_intensity_unpleasantness_gate.py",
+        "verification/paingen_intensity_unpleasantness_gate_test.py",
         "verification/paingen_source_crosscheck.py",
         "verification/paingen_stimulus_only_valence_test.py",
         "verification/paingen_unpleasantness_baselines.py",
@@ -5457,16 +5463,16 @@
         182,
         230,
         258,
-        284,
-        306,
-        353,
-        435,
-        450,
-        486,
-        495,
-        498,
-        501,
-        565
+        286,
+        308,
+        355,
+        437,
+        452,
+        488,
+        497,
+        500,
+        503,
+        567
       ]
     },
     {
@@ -7510,8 +7516,8 @@
     },
     {
       "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
-      "sha256": "0fc798e568f49192fc0cc026f0766a08e1581be91ec6b17a7381137e3fff5a01",
-      "bytes": 11561,
+      "sha256": "9c5755b190d930b2c057b4f84393f53fd2c970bb51d53db439ace9b74dd8e4f0",
+      "bytes": 11879,
       "lines": 67,
       "title": "Matched stimulus, reported unpleasantness and the missing bridge",
       "headings": [
@@ -7524,6 +7530,7 @@
         "5. Battery, source scope and reproduction"
       ],
       "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
@@ -8958,9 +8965,42 @@
       ]
     },
     {
+      "path": "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+      "sha256": "728961fe4d2808dff16e9ac1ca840728116c0e85ab3e6e861dd51a1ba5445d16",
+      "bytes": 12386,
+      "lines": 57,
+      "title": "PAINgen trial order and condition-mean provenance",
+      "headings": [
+        "PAINgen trial order and condition-mean provenance",
+        "Decision",
+        "1. Sources and audit sequence",
+        "2. What the exported event sequences support",
+        "3. Provisional reconstruction of condition means",
+        "4. Implications for the project",
+        "5. Reproduction and current status"
+      ],
+      "local_links": [
+        "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
+        "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
+        "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
+        "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
+        "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
+        "verification/paingen_trial_provenance_audit.json",
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+        "verification/paingen_trial_provenance_audit.py",
+        "verification/paingen_trial_provenance_audit_test.py",
+        "verification/paingen_trial_provenance_audit.json"
+      ],
+      "risk_phrase_lines": [
+        19,
+        21,
+        55
+      ]
+    },
+    {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
-      "sha256": "3f7a6fc62a088306db2924c1133de77eab73edce295c53f9e668776c9a227256",
-      "bytes": 13442,
+      "sha256": "081c73d4b93825691358a36c0b4a647ce175ab3525e996a09a1946483a31ef8d",
+      "bytes": 13892,
       "lines": 64,
       "title": "Pain intensity and unpleasantness: a common-interface benchmark",
       "headings": [
@@ -8976,6 +9016,7 @@
         "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate.json",
@@ -9035,9 +9076,48 @@
       ]
     },
     {
+      "path": "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
+      "sha256": "4ff5562b0cd74ca298d8fdc935d856cc6600b2956eea1f7a3df0ead879d3a59e",
+      "bytes": 8115,
+      "lines": 35,
+      "title": "PAINgen trial provenance and rating-order audit: fixed plan",
+      "headings": [
+        "PAINgen trial provenance and rating-order audit: fixed plan",
+        "Purpose and existing knowledge",
+        "Fixed sources and integrity",
+        "Event parsing and stop rules",
+        "Condition-mean comparison",
+        "Interpretation"
+      ],
+      "local_links": [
+        "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+        "verification/paingen_source_crosscheck.py"
+      ],
+      "risk_phrase_lines": [
+        17,
+        19,
+        29
+      ]
+    },
+    {
+      "path": "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
+      "sha256": "3ab29d481d235069639ef40ab4977d573543d17313c8a18440b2d7b98d4b1a15",
+      "bytes": 3369,
+      "lines": 13,
+      "title": "PAINgen trial provenance: post-inspection onset-order amendment",
+      "headings": [
+        "PAINgen trial provenance: post-inspection onset-order amendment",
+        "Later post-result diagnostic"
+      ],
+      "local_links": [
+        "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "sha256": "6557d0c5cfcfc36779a40b4301950a7e82cc760317539e00d2c7368a804d719b",
-      "bytes": 13550,
+      "sha256": "9e131eeb6a1d21229cd8faa45f9ad4df687a0cb5689d02d3ab8390f4db9d37c2",
+      "bytes": 13889,
       "lines": 76,
       "title": "Unpleasantness: empirical baselines and the missing mismatch measurement",
       "headings": [
@@ -9053,6 +9133,7 @@
         "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/paingen_unpleasantness_baselines.json",

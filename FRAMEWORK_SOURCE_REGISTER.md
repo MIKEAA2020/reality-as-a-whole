@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 448 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 384 verification Python scripts.
+- 451 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 386 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -257,9 +257,12 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md](OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md) — Öttinger’s scalar lattice sum: a proper-time regulator gate
 - [OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md](OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md) — Scalar lattice regulators: the exact finite scheme difference
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
+- [PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) — PAINgen trial order and condition-mean provenance
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
+- [PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md](PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md) — PAINgen trial provenance and rating-order audit: fixed plan
+- [PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md](PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md) — PAINgen trial provenance: post-inspection onset-order amendment
 - [PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md](PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md) — Unpleasantness: empirical baselines and the missing mismatch measurement
 - [PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md](PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md) — Pain unpleasantness: fixed secondary-analysis plan
 - [PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md](PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md) — A first-person pain/aversion dataset: what can and cannot anchor the candidate
@@ -785,6 +788,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
 - [verification/paingen_stimulus_only_valence_test.py](verification/paingen_stimulus_only_valence_test.py)
+- [verification/paingen_trial_provenance_audit.py](verification/paingen_trial_provenance_audit.py)
+- [verification/paingen_trial_provenance_audit_test.py](verification/paingen_trial_provenance_audit_test.py)
 - [verification/paingen_unpleasantness_baselines.py](verification/paingen_unpleasantness_baselines.py)
 - [verification/pairwise_marginal_information_gate.py](verification/pairwise_marginal_information_gate.py)
 - [verification/perspectival_finitude.py](verification/perspectival_finitude.py)

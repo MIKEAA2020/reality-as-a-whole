@@ -1,0 +1,214 @@
+{
+  "status": "completed",
+  "scope": "BIDS event and same-study condition-export provenance, not validated physical timing, q, cause, subject boundaries or experiential identity.",
+  "sources": {
+    "dataset_version": "1.0.0",
+    "commit": "8a38ee30b870373547676bf0d0638e16160472a1",
+    "tree_sha256": "4a68281dc147b8436167466550ec5dedb4abb9fc86c27291a5a21fe60769799f",
+    "archive_sha256": "b8a04bcc0130edcd65067ccdc98e6f480b403f6165417898f8292f48148a8be7",
+    "archive_bytes": 2954589,
+    "dataset_declared_license": "CC0",
+    "behavior_commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+    "behavior_sha256": "b40b4a1b1e001f2317fea07a49c6ee6de062f181a20affe149fe50a81b58545b"
+  },
+  "event_files_verified": 1574,
+  "file_outcomes": {
+    "accepted": 1566,
+    "row_count_not_32": 7,
+    "schema": 1
+  },
+  "files_with_inversions_in_original_row_order": 1572,
+  "accepted_episode_count": 12528,
+  "rating_order_counts": {
+    "int_rating": 6200,
+    "unp_rating": 6328
+  },
+  "rating_interval_relationship": {
+    "first_end_at_or_before_second_start": 12528
+  },
+  "rating_order_by_run": {
+    "01": {
+      "int_rating": 1514,
+      "unp_rating": 1598
+    },
+    "02": {
+      "int_rating": 1582,
+      "unp_rating": 1554
+    },
+    "03": {
+      "int_rating": 1552,
+      "unp_rating": 1584
+    },
+    "04": {
+      "int_rating": 1552,
+      "unp_rating": 1592
+    }
+  },
+  "people_by_recorded_order": {
+    "both": 394
+  },
+  "stimulus_row_rating_status": {
+    "int_rating": {
+      "both_equal": 12528
+    },
+    "unp_rating": {
+      "both_equal": 12528
+    }
+  },
+  "stimulus_row_validity": {
+    "int_rating": {
+      "valid": 12528
+    },
+    "unp_rating": {
+      "valid": 12528
+    }
+  },
+  "event_duration_seconds": {
+    "warning_cue": {
+      "finite_positive": 12528,
+      "invalid_or_nonpositive": 0,
+      "min": 1.00266477853074,
+      "p25": 1.01671612820019,
+      "median": 1.01674225000079,
+      "p75": 1.0168376818219225,
+      "max": 1.03343959999984
+    },
+    "heat": {
+      "finite_positive": 6264,
+      "invalid_or_nonpositive": 0,
+      "min": 12.4606400956582,
+      "p25": 12.515176299999425,
+      "median": 12.90748817011265,
+      "p75": 12.995815361465725,
+      "max": 17.4710353
+    },
+    "press": {
+      "finite_positive": 6264,
+      "invalid_or_nonpositive": 0,
+      "min": 10.0031747000003,
+      "p25": 10.0402826592772,
+      "median": 10.059886850000051,
+      "p75": 11.04237877594275,
+      "max": 11.3650897295483
+    },
+    "int_rating": {
+      "finite_positive": 12528,
+      "invalid_or_nonpositive": 0,
+      "min": 0.514143200000035,
+      "p25": 2.081770749999575,
+      "median": 2.96574299050735,
+      "p75": 4.048722340705355,
+      "max": 5.52394859999913
+    },
+    "unp_rating": {
+      "finite_positive": 12528,
+      "invalid_or_nonpositive": 0,
+      "min": 0.513212091522291,
+      "p25": 1.9997264815481226,
+      "median": 2.882241215189425,
+      "p75": 3.949438001784185,
+      "max": 5.52230221461286
+    }
+  },
+  "observed_stimulus_levels": {
+    "heat": [
+      46.5,
+      47.0,
+      47.5
+    ],
+    "press": [
+      3.0,
+      4.0,
+      5.0
+    ]
+  },
+  "contributors_per_reconstructed_mean": {
+    "Yint": {
+      "1": 130,
+      "2": 1684,
+      "3": 2574,
+      "4": 289,
+      "5": 28,
+      "6": 2
+    },
+    "Yunp": {
+      "1": 130,
+      "2": 1684,
+      "3": 2574,
+      "4": 289,
+      "5": 28,
+      "6": 2
+    }
+  },
+  "behavioral_mean_comparison": {
+    "reconstructed_keys": 4707,
+    "export_keys": 4709,
+    "overlap_keys": 4707,
+    "reconstructed_only_keys": 0,
+    "export_only_keys": 2,
+    "outcomes": {
+      "Yint_both_equal": 3790,
+      "Yint_both_unequal": 610,
+      "Yint_export_missing_only": 307,
+      "Yunp_both_equal": 3792,
+      "Yunp_both_unequal": 608,
+      "Yunp_export_missing_only": 307
+    },
+    "maximum_finite_absolute_difference": 0.513671875
+  },
+  "posthoc_mean_discrepancy_strata": {
+    "scope": "Post-result descriptive diagnostic; no revised mapping or exclusion.",
+    "overall": {
+      "both_equal": 3780,
+      "both_unequal": 598,
+      "either_mean_missing": 307,
+      "intensity_only_unequal": 12,
+      "unpleasantness_only_unequal": 10
+    },
+    "strata": {
+      "modality:mechanical": {
+        "both_equal": 1937,
+        "both_unequal": 248,
+        "either_mean_missing": 152,
+        "intensity_only_unequal": 7,
+        "unpleasantness_only_unequal": 5
+      },
+      "modality:thermal": {
+        "both_equal": 1843,
+        "both_unequal": 350,
+        "either_mean_missing": 155,
+        "intensity_only_unequal": 5,
+        "unpleasantness_only_unequal": 5
+      },
+      "run_completion:fewer_accepted_runs": {
+        "both_equal": 74,
+        "both_unequal": 20,
+        "intensity_only_unequal": 2
+      },
+      "run_completion:four_accepted_runs": {
+        "both_equal": 3706,
+        "both_unequal": 578,
+        "either_mean_missing": 307,
+        "intensity_only_unequal": 10,
+        "unpleasantness_only_unequal": 10
+      },
+      "treatment:control": {
+        "both_equal": 1810,
+        "both_unequal": 380,
+        "either_mean_missing": 156,
+        "intensity_only_unequal": 5,
+        "unpleasantness_only_unequal": 4
+      },
+      "treatment:placebo": {
+        "both_equal": 1970,
+        "both_unequal": 218,
+        "either_mean_missing": 151,
+        "intensity_only_unequal": 7,
+        "unpleasantness_only_unequal": 6
+      }
+    }
+  },
+  "plan": "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
+  "amendment": "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
+  "privacy": "No participant or family identifiers or individual observations are written."
+}

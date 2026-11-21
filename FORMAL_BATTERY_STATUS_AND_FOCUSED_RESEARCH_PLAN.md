@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [PAINgen BIDS trial-order and provenance audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) finds internally paired intensity/unpleasantness event fields after sorting by recorded onset, but hundreds of provisional trial averages do not match the author condition export. The origin is unresolved; prior calculations remain analyses of that export, not independently reconstructed trial results. No q, causal order effect or experiential bridge was established.
+
 The [PAINgen intensity–unpleasantness comparison](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) evaluates a contemporaneous intensity-report baseline on the same condition means and held-out families as the prior unpleasantness benchmark. It is a strong report comparator; the small, uncertain incremental signature improvement does not identify mismatch or prove the dimensions identical. Raw paired-trial validation, subject/quality constitution and substantive battery gates remain open.
 
 The [toothachewise paraphrase and real-aspects audit](TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md) distinguishes eliminating a composite pain-object from denying felt pain, and compares Benovsky with Le Bihan's fully read rejoinder preprint and experience-respecting rivals. A primitive phenomenal translation may preserve pain without deriving a physical bridge; asserting common ground does not establish the particular constitution. No new empirical assay or substantive battery pass follows.

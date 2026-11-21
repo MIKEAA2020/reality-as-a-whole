@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b584e83e8a9c690d4cdeccd15c903ee63bf74cf6",
-  "file_count": 1535,
+  "base_head": "b7b3610e6ce22807d08254614ae75d6035033ad3",
+  "file_count": 1541,
   "files": [
     {
       "path": ".gitattributes",
@@ -135,8 +135,8 @@
     },
     {
       "path": "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
-      "bytes": 14426,
-      "sha256": "1e8a77968f138abc0c5805b6fbb0d85af4084c26c4459c56a5e28779a4029fb9"
+      "bytes": 14731,
+      "sha256": "a10c7168a47f08c92c88ca65d9b3cd53619360ca5050543b1c868dfb5533ff05"
     },
     {
       "path": "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 31012,
-      "sha256": "b99f7efe8c7eaaee98e25d1d1fe946dca67c731f73e1265142a70af525d3d043"
+      "bytes": 31490,
+      "sha256": "9f4522ccdc61e9f4544837f4c0e90bc242f2320bd3889f8b22710fad959bb926"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 120567,
-      "sha256": "11aa5723fc85c39fe500f3524e0293b1eb434769072198ba7afc5f8f8e796123"
+      "bytes": 121272,
+      "sha256": "688d0f9ecda1590244b1c3485e96e450aa899bbb944094e1b32c7e26d5720cc2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1010,8 +1010,8 @@
     },
     {
       "path": "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
-      "bytes": 11561,
-      "sha256": "0fc798e568f49192fc0cc026f0766a08e1581be91ec6b17a7381137e3fff5a01"
+      "bytes": 11879,
+      "sha256": "9c5755b190d930b2c057b4f84393f53fd2c970bb51d53db439ace9b74dd8e4f0"
     },
     {
       "path": "MEEG_BOUNDED_SIGNAL_AND_PIPELINE_AUDIT.md",
@@ -1244,9 +1244,14 @@
       "sha256": "5c2da6e99dfc9a8bd3b49915cd14c6998fdbf2d122e44cc8d9e3592b21f2463f"
     },
     {
+      "path": "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+      "bytes": 12386,
+      "sha256": "728961fe4d2808dff16e9ac1ca840728116c0e85ab3e6e861dd51a1ba5445d16"
+    },
+    {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
-      "bytes": 13442,
-      "sha256": "3f7a6fc62a088306db2924c1133de77eab73edce295c53f9e668776c9a227256"
+      "bytes": 13892,
+      "sha256": "081c73d4b93825691358a36c0b4a647ce175ab3525e996a09a1946483a31ef8d"
     },
     {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
@@ -1259,9 +1264,19 @@
       "sha256": "00cbaeb46da0b5abdab19d00cb2093c0d0db107f88e0956d3b311aa52ed6f80c"
     },
     {
+      "path": "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
+      "bytes": 8115,
+      "sha256": "4ff5562b0cd74ca298d8fdc935d856cc6600b2956eea1f7a3df0ead879d3a59e"
+    },
+    {
+      "path": "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
+      "bytes": 3369,
+      "sha256": "3ab29d481d235069639ef40ab4977d573543d17313c8a18440b2d7b98d4b1a15"
+    },
+    {
       "path": "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
-      "bytes": 13550,
-      "sha256": "6557d0c5cfcfc36779a40b4301950a7e82cc760317539e00d2c7368a804d719b"
+      "bytes": 13889,
+      "sha256": "9e131eeb6a1d21229cd8faa45f9ad4df687a0cb5689d02d3ab8390f4db9d37c2"
     },
     {
       "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
@@ -5779,6 +5794,21 @@
       "sha256": "d3c41e78297fb2256c19f1aafc730d8916cef435d68454f6a00aacd99d12706c"
     },
     {
+      "path": "verification/paingen_trial_provenance_audit.json",
+      "bytes": 5656,
+      "sha256": "54f839999a32b49aa6940ddb90507c7d8a86c2ab4af271ac9502d7fcaa128282"
+    },
+    {
+      "path": "verification/paingen_trial_provenance_audit.py",
+      "bytes": 15786,
+      "sha256": "4a0e1bf96ea501e26bb3934d6fe79c4770b7003278faa50b2fdedb449d2e581e"
+    },
+    {
+      "path": "verification/paingen_trial_provenance_audit_test.py",
+      "bytes": 3814,
+      "sha256": "c5031bf94bb66cf2c63c5732650256cf2f2c29d033639f961d1f17e6ec4900d6"
+    },
+    {
       "path": "verification/paingen_unpleasantness_baselines.json",
       "bytes": 8246,
       "sha256": "c55d6d3f5afc0f97cad95d0f5d72f4053799c2defbabaaf66759d0623f45e9b9"
@@ -5975,8 +6005,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 619149,
-      "sha256": "a59f545ed67e9c7354775d043a71d3dd49e05a60f149ad34faafc41d5592e60a"
+      "bytes": 622388,
+      "sha256": "77180e619046a08eb26a6804438290bc8aef66d92924b7eb9d61803e34af5d52"
     },
     {
       "path": "verification/project_inventory.py",
