@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 426 root Markdown documents including this register; 43 research Markdown documents.
-- 55 original uploaded files, including provenance metadata; 356 verification Python scripts.
+- 427 root Markdown documents including this register; 43 research Markdown documents.
+- 56 original uploaded files, including provenance metadata; 356 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -207,6 +207,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md](MET_MUSIC_RATINGS_AND_ALIGNMENT_FIXED_PLAN.md) — Fixed retrospective screen: music valence reports and EEG alignment
 - [MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md](MET_MUSIC_VALENCE_LABEL_AND_NEURAL_ACCESS_AUDIT.md) — Music valence reports: a keyed dataset and held-out baselines
 - [MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md](MICROTUBULE_QUANTUM_CAUSAL_DISCRIMINATION_GATE.md) — Microtubules, anesthesia and quantum consciousness: a causal discrimination gate
+- [MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md](MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md) — Miller on subject-parts: what relativized unity does and does not explain
 - [MODULAR_CLOCK_SELECTION.md](MODULAR_CLOCK_SELECTION.md) — A worked modular clock-selection construction
 - [MODULAR_LOCAL_NET.md](MODULAR_LOCAL_NET.md) — Localization, transport and records in one modular construction
 - [MULTI_CLOCK_CONSTRAINT_CLOSURE.md](MULTI_CLOCK_CONSTRAINT_CLOSURE.md) — Two clock constraints: closure, path consistency and the averaging measure
@@ -531,6 +532,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/leibniz-monadology-latta.pdf](sources/uploads/leibniz-monadology-latta.pdf)
 - [sources/uploads/mass-and-the-structure-of-the-void-1.pdf](sources/uploads/mass-and-the-structure-of-the-void-1.pdf)
 - [sources/uploads/merker2007.pdf](sources/uploads/merker2007.pdf)
+- [sources/uploads/miller2017.pdf](sources/uploads/miller2017.pdf)
 - [sources/uploads/qftlocarx.txt](sources/uploads/qftlocarx.txt)
 - [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
 - [sources/uploads/rainville1997.pdf](sources/uploads/rainville1997.pdf)
