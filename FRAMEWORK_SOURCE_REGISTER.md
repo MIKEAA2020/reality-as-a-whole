@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 515 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 419 verification Python scripts.
+- 517 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 421 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -396,6 +396,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) — Shared experience versus duplicated experiential tokens
 - [SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md](SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md) — Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction
 - [SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md](SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md) — Shelat 2026: physical color contingency and R-model status
+- [SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md](SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md) — Retrospective plan: early exposure to predictive colored displays
+- [SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md](SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md) — Early color exposure: a trigger confound and a bounded follow-up
 - [SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md) — Shelat 2026: experiment archives and a limited descriptive replication
 - [SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md](SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md) — Shelat 2026: registration, model dependence and material access
 - [SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md](SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md) — Shelat 2026: reward versus selection in accuracy and RT; R workflow attempt
@@ -973,6 +975,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)
 - [verification/shelat_2026_archive_descriptives.py](verification/shelat_2026_archive_descriptives.py)
 - [verification/shelat_2026_archive_descriptives_test.py](verification/shelat_2026_archive_descriptives_test.py)
+- [verification/shelat_2026_color_exposure_followup.py](verification/shelat_2026_color_exposure_followup.py)
+- [verification/shelat_2026_color_exposure_followup_test.py](verification/shelat_2026_color_exposure_followup_test.py)
 - [verification/shelat_2026_laplace_accuracy_reproduction.py](verification/shelat_2026_laplace_accuracy_reproduction.py)
 - [verification/shelat_2026_laplace_accuracy_reproduction_test.py](verification/shelat_2026_laplace_accuracy_reproduction_test.py)
 - [verification/shelat_2026_rt_mixed_reproduction.py](verification/shelat_2026_rt_mixed_reproduction.py)

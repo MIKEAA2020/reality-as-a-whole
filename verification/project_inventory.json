@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 558,
-  "bytes": 7063592,
-  "line_count": 63775,
-  "document_count_with_risk_phrases": 520,
+  "document_count": 560,
+  "bytes": 7076642,
+  "line_count": 63838,
+  "document_count_with_risk_phrases": 522,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "382829bac208633cc74dfd27fc86f57d352a646755a6b082428deb8df98690f0",
-      "bytes": 136155,
-      "lines": 1067,
+      "sha256": "604894d5be0e79bb416c6ba179fbe654ed64f4d4e66d07c21e630c122c51173e",
+      "bytes": 136734,
+      "lines": 1071,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5184,6 +5184,8 @@
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
+        "SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md",
+        "SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
         "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
@@ -5747,6 +5749,8 @@
         "verification/shared_vs_independent_reports.py",
         "verification/shelat_2026_archive_descriptives.py",
         "verification/shelat_2026_archive_descriptives_test.py",
+        "verification/shelat_2026_color_exposure_followup.py",
+        "verification/shelat_2026_color_exposure_followup_test.py",
         "verification/shelat_2026_laplace_accuracy_reproduction.py",
         "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
         "verification/shelat_2026_rt_mixed_reproduction.py",
@@ -5849,14 +5853,14 @@
         282,
         328,
         353,
-        410,
-        504,
-        519,
-        555,
-        564,
-        567,
-        570,
-        634
+        412,
+        506,
+        521,
+        557,
+        566,
+        569,
+        572,
+        636
       ]
     },
     {
@@ -13154,8 +13158,8 @@
     },
     {
       "path": "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
-      "sha256": "b4d8382e6ac68217ced472bfd27d51e94ee8e9b08cbddb327dfb5b38fe04ea43",
-      "bytes": 8764,
+      "sha256": "b93e9c2aeb424654f504eebd725fbdaa6bf50d9ae9bc895c20e79786fc8fccaa",
+      "bytes": 9031,
       "lines": 36,
       "title": "Shelat 2026: physical color contingency and R-model status",
       "headings": [
@@ -13168,6 +13172,7 @@
       "local_links": [
         "verification/shelat_2026_warning_cue_audit.py",
         "verification/shelat_2026_warning_cue_audit.json",
+        "SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md",
         "SHELAT_2026_WEBR_LME4_ATTEMPT_PLAN.md",
         "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md"
       ],
@@ -13175,6 +13180,50 @@
         16,
         18,
         30
+      ]
+    },
+    {
+      "path": "SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md",
+      "sha256": "b2910d8cada5c0f71eb0e3eab79339fbca6a644c5f6b68c898fb65c28a26ea97",
+      "bytes": 3631,
+      "lines": 10,
+      "title": "Retrospective plan: early exposure to predictive colored displays",
+      "headings": [
+        "Retrospective plan: early exposure to predictive colored displays"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        6
+      ]
+    },
+    {
+      "path": "SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md",
+      "sha256": "7db62e4961207f4d3061de8bf34c9da14cf3fea5424483bb59cce0a8917314f8",
+      "bytes": 8573,
+      "lines": 49,
+      "title": "Early color exposure: a trigger confound and a bounded follow-up",
+      "headings": [
+        "Early color exposure: a trigger confound and a bounded follow-up",
+        "Bottom line",
+        "Definitions and data",
+        "First versus tenth RGB display, regardless of trigger",
+        "Post-result comparisons within trigger",
+        "Reproducibility and scope"
+      ],
+      "local_links": [
+        "SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md",
+        "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
+        "verification/shelat_2026_color_exposure_followup.json",
+        "verification/shelat_2026_color_exposure_followup.py",
+        "verification/shelat_2026_color_exposure_followup_test.py"
+      ],
+      "risk_phrase_lines": [
+        17,
+        23,
+        31,
+        45,
+        49
       ]
     },
     {

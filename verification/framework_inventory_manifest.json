@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "67700e46933f50c6c069ef1e506d309375459f89",
-  "file_count": 1654,
+  "base_head": "7912e3ca039e11140f1bd179dd0423ad58532683",
+  "file_count": 1659,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 136155,
-      "sha256": "382829bac208633cc74dfd27fc86f57d352a646755a6b082428deb8df98690f0"
+      "bytes": 136734,
+      "sha256": "604894d5be0e79bb416c6ba179fbe654ed64f4d4e66d07c21e630c122c51173e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1935,8 +1935,18 @@
     },
     {
       "path": "SHELAT_2026_COLOR_CONTINGENCY_AND_WEBR_STATUS.md",
-      "bytes": 8764,
-      "sha256": "b4d8382e6ac68217ced472bfd27d51e94ee8e9b08cbddb327dfb5b38fe04ea43"
+      "bytes": 9031,
+      "sha256": "b93e9c2aeb424654f504eebd725fbdaa6bf50d9ae9bc895c20e79786fc8fccaa"
+    },
+    {
+      "path": "SHELAT_2026_COLOR_EXPOSURE_FOLLOWUP_PLAN.md",
+      "bytes": 3631,
+      "sha256": "b2910d8cada5c0f71eb0e3eab79339fbca6a644c5f6b68c898fb65c28a26ea97"
+    },
+    {
+      "path": "SHELAT_2026_EARLY_COLOR_EXPOSURE_AND_TRIGGER_CONFOUND.md",
+      "bytes": 8573,
+      "sha256": "7db62e4961207f4d3061de8bf34c9da14cf3fea5424483bb59cce0a8917314f8"
     },
     {
       "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
@@ -6460,8 +6470,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 689707,
-      "sha256": "9fcbbebd397f7d92af2a69b2cfec2f10bce62a10047049e8ef21bde07eab9f4c"
+      "bytes": 691542,
+      "sha256": "a03ebd575c0256d7bd5f0b26f9af436c022bc78ab8ddba3d94436c2b8b7ee5a9"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7372,6 +7382,21 @@
       "path": "verification/shelat_2026_archive_descriptives_test.py",
       "bytes": 2559,
       "sha256": "19c1a4d22d1e4aa1bbc1d373fde46a4e2b6f21d4308ae11613945a4b8e644017"
+    },
+    {
+      "path": "verification/shelat_2026_color_exposure_followup.json",
+      "bytes": 20136,
+      "sha256": "76929c81177597c1d76e220065fa85cf5cd27e6536e88d831dc2fd4bb8e7fbca"
+    },
+    {
+      "path": "verification/shelat_2026_color_exposure_followup.py",
+      "bytes": 6543,
+      "sha256": "42e78e97f05a04396abc795a9a434512dd17bdb5464e7fa399f4051261928842"
+    },
+    {
+      "path": "verification/shelat_2026_color_exposure_followup_test.py",
+      "bytes": 3291,
+      "sha256": "9153f516d97af39e72aa60ab77c152306c66c1773a780490ea1f7c204d00d755"
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction.json",
