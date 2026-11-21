@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 428 root Markdown documents including this register; 43 research Markdown documents.
+- 429 root Markdown documents including this register; 43 research Markdown documents.
 - 56 original uploaded files, including provenance metadata; 356 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -353,6 +353,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [STRING_DUALITY_SUBJECT_SELECTION.md](STRING_DUALITY_SUBJECT_SELECTION.md) — String theory, duality and the selection of subjects
 - [STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md](STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md) — Full structural and experiential intelligibility: two supplied papers
 - [STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md](STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md) — Structured void, neutrino oscillations and explanatory identifiability
+- [SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) — Subjective character, unity, and a field-first bridge
 - [SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md](SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md) — Subject-boundary robustness when the rest of the system is unknown
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol

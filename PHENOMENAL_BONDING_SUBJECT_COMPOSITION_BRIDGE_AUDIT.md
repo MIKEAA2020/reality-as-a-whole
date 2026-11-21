@@ -2,6 +2,8 @@
 
 ## Decision
 
+The [subsequent subjective-character analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) considers a positive, field-first alternative: its no-extra-observer identity avoids one circularity, but it starts with first-personal fields and does not independently derive their physical selection or qualities.
+
 Ordinary first-person experience can give genuine evidence that contents are experienced together. It does **not by itself establish** that those contents belong to additional smaller subjects, that they are numerically shared between subjects, or that the subject is constituted by them. Conversely, it does not show that such composition is impossible. The dispute between S Siddharth and Gregory Miller makes this distinction explicit and corrects the tempting inference that a positive conception of *intra*-subject unity automatically gives an independently established *inter*-subject bonding relation.
 
 For the present E-L candidate, this is not simply another name for a micro-subject combination problem: E-L does not postulate that fundamental physical particles are subjects. The direct challenge is nevertheless serious. E-L's L rule outputs physical subsets and its q rule assigns a proposed unpleasant/neutral contrast; neither determines why the subsets are subjects or why q has that felt character. An experiential ground and familiar lived unity motivate the inquiry, but do not yet fill that gap. B4–B5/F2 remain open.

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [subjective-character and field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) examines Barbieri's personal-level unity proposal and develops a field-first alternative. The former assumes a common subject; the latter takes first-personal field occurrences as primitive. Neither independently derives the L subject rule or q-to-quality identification. B4–B5/F2, B9/F3 and B10 remain open.
+
 The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) traces the Siddharth–Miller exchange and Mørch's draft: experiential unity does not independently establish shared tokens or subject-parts, while an unindexed maximal-bundle contradiction depends on a substantive exclusion premise. A subject-indexed constitution also owes a non-circular account of the indices. B4–B5/F2, B9/F3 and B10 remain open.
 
 The [Miller subject-parthood audit](MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md) reads the supplied full paper and compares his subject-relative boundedness proposal with the current non-universal-subject ground on the same four-spin interface. It distinguishes a conditional response to an incompatibility argument from a derivation of subject incidence or token identity. B4–B5/F2, B9/F3 and B10 remain open.

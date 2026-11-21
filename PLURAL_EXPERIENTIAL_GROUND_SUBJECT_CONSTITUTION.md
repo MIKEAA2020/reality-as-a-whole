@@ -2,6 +2,8 @@
 
 ## Aim and status
 
+The [subjective-character and field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) develops an explicit alternative to a subject-free base: take concrete first-personal fields as basic and identify thin local subjects with them. This avoids an added observer but assumes subject-like fields and their individuation; it does not derive the E-L subject or quality rule.
+
 The proposed whole is self-sufficient and timeless, with experience intrinsic and fundamental relations not presumed to be embedded in spacetime. It need not be one universal subject. Actual experience is a datum, not an illusion to be explained away. The ambition is to satisfy all seven criteria together, including C3, **full structural and experiential intelligibility**, and C7, elegance and parsimony. None is declared satisfied by this note.
 
 This note isolates what is needed for the preferred experiential-ground proposal to yield genuinely plural subjects, rather than redescribing one subject, counting qualities, or attaching a subject label to every arbitrarily chosen region. It compares alternatives and gives a symmetry constraint on one of them. It is not a derivation of subjecthood or evidence that any toy graph is conscious. A later [finite relational constitution model](RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md) shows precisely how a connected whole can represent distinct unified subjects without a universal subject, and which extra assumptions determine or leave open their count; its phenomenal premises remain stipulated.
