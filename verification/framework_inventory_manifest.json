@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5c0380ede56e61f80397349cec01772d98a727b9",
-  "file_count": 1630,
+  "base_head": "ab3826684ed7d43543755cfba781cdc7dcf6b38a",
+  "file_count": 1634,
   "files": [
     {
       "path": ".gitattributes",
@@ -735,8 +735,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 133072,
-      "sha256": "4f5a8241f094f8678bfda574fa3059c5994f371162cb201a52baa509acf242da"
+      "bytes": 133486,
+      "sha256": "58ebfa7e14d235c198331dbd74fc4695d8d05bf8956fe67915a5c8e352b450a0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1919,9 +1919,14 @@
       "sha256": "e60f284798adb48b1774880151d794bc7e7488ad2ce301906e1cab9cb413e9e1"
     },
     {
+      "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+      "bytes": 8617,
+      "sha256": "9318dfc6329cc497b03ce475ea45a404460c35e20e9af10dcce7dafe691a0735"
+    },
+    {
       "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
-      "bytes": 8733,
-      "sha256": "a44ff57b6f1ca5ca2cb7226f0960a1969dbaba3357e1fc1e7ee01c0458a0d534"
+      "bytes": 9011,
+      "sha256": "ac5fe7baa1763e572be17b7a241c26ced8b2415f7fa9b7bc839369eef5e8712b"
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
@@ -1930,8 +1935,8 @@
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "bytes": 8290,
-      "sha256": "c3fe99453f55122ea3e6fb146381ce21377946506d035be95d516f8572adbd2c"
+      "bytes": 8630,
+      "sha256": "401fcfb94fe68888b318d5c464df6f9181e28fc0c393c2845c6d0825b0e85a9a"
     },
     {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
@@ -1995,8 +2000,8 @@
     },
     {
       "path": "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
-      "bytes": 15973,
-      "sha256": "4ac2c8c521858baeeba43437d9641de6e4a566539fdf32ea8593105bf44b8ad3"
+      "bytes": 16086,
+      "sha256": "b6ba69b650e8ec9f69c2132a49497fda327ada8c9d088237eb8260a9caebf32e"
     },
     {
       "path": "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
@@ -6405,8 +6410,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 678490,
-      "sha256": "5bba13361dd35ff1ef22b6e5ed9c332b39ca93147f93bc3a654679f1b6e75835"
+      "bytes": 679888,
+      "sha256": "3b23c08ca6d6e946266f4a8775fb10f0c6aa1fd773adcd883095ee28a9f4fa5b"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7302,6 +7307,21 @@
       "path": "verification/shared_vs_independent_reports.py",
       "bytes": 5879,
       "sha256": "07c7607a4a2adaf1723620bddb434218791b3114e3f0bec5f8e2d2be49ec796a"
+    },
+    {
+      "path": "verification/shelat_2026_archive_descriptives.json",
+      "bytes": 6776,
+      "sha256": "8c03d243fb8f1e05712dfe89b2d1ddd86c88b1bf5bea9543167230befab9a239"
+    },
+    {
+      "path": "verification/shelat_2026_archive_descriptives.py",
+      "bytes": 6919,
+      "sha256": "7b8a14126e4c2c25f0bf2bd31e17ca2d10233e7484db2fbb1280bdcc6a367f8c"
+    },
+    {
+      "path": "verification/shelat_2026_archive_descriptives_test.py",
+      "bytes": 2559,
+      "sha256": "19c1a4d22d1e4aa1bbc1d373fde46a4e2b6f21d4308ae11613945a4b8e644017"
     },
     {
       "path": "verification/shlaer_time_comparison.json",

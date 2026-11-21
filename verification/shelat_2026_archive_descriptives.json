@@ -1,0 +1,195 @@
+{
+  "scope": "Descriptive reconstruction only; no author scripts or mixed-model reproduction.",
+  "exclusions": "Fast/slow triggered trials, then no response/missing RT, then RT < 200 ms.",
+  "color_mapping": "Training trial structure counterbalance_condition = rewarded, condition_nonrew = selected; remaining RGB = novel.",
+  "experiments": [
+    {
+      "experiment": 1,
+      "archive_sha256": "3b7f349012efd0a6b6acdc89f902de429860b22b324f81a986bfce9787b875de",
+      "sart_subject_folders": 50,
+      "numeric_sart_data_blocks": 199,
+      "sart_data_rows": 119400,
+      "raw_fast_slow_trials": 7272,
+      "excluded_no_response_or_missing_rt": 246,
+      "excluded_no_response_or_missing_rt_pct_of_raw": 3.382838283828383,
+      "excluded_lt200_after_no_response": 245,
+      "excluded_lt200_pct_after_no_response": 3.4870481070310277,
+      "trigger_accuracy": {
+        "fast": {
+          "retained_n": 3657,
+          "correct_n": 1580,
+          "pooled_accuracy": 0.43204812687995625,
+          "participant_mean_accuracy": 0.43109422397555225,
+          "participants_with_trigger": 50
+        },
+        "slow": {
+          "retained_n": 3124,
+          "correct_n": 2398,
+          "pooled_accuracy": 0.7676056338028169,
+          "participant_mean_accuracy": 0.7603011038852708,
+          "participants_with_trigger": 50
+        }
+      },
+      "trigger_condition_counts": {
+        "fast_neutral": {
+          "raw_n": 978,
+          "retained_n": 902,
+          "correct_n": 369,
+          "pooled_accuracy": 0.4090909090909091,
+          "participant_count_mean": 18.04,
+          "participant_count_sample_sd": 3.784824693322489
+        },
+        "fast_novel": {
+          "raw_n": 994,
+          "retained_n": 917,
+          "correct_n": 416,
+          "pooled_accuracy": 0.4536532170119956,
+          "participant_count_mean": 18.34,
+          "participant_count_sample_sd": 5.297708399460496
+        },
+        "fast_reward": {
+          "raw_n": 990,
+          "retained_n": 909,
+          "correct_n": 402,
+          "pooled_accuracy": 0.44224422442244227,
+          "participant_count_mean": 18.18,
+          "participant_count_sample_sd": 5.720318244322297
+        },
+        "fast_selection": {
+          "raw_n": 1013,
+          "retained_n": 929,
+          "correct_n": 393,
+          "pooled_accuracy": 0.42303552206673845,
+          "participant_count_mean": 18.58,
+          "participant_count_sample_sd": 5.514692805106543
+        },
+        "slow_neutral": {
+          "raw_n": 846,
+          "retained_n": 801,
+          "correct_n": 610,
+          "pooled_accuracy": 0.7615480649188514,
+          "participant_count_mean": 16.02,
+          "participant_count_sample_sd": 4.537777933243161
+        },
+        "slow_novel": {
+          "raw_n": 813,
+          "retained_n": 778,
+          "correct_n": 589,
+          "pooled_accuracy": 0.7570694087403599,
+          "participant_count_mean": 15.56,
+          "participant_count_sample_sd": 4.941122734516015
+        },
+        "slow_reward": {
+          "raw_n": 800,
+          "retained_n": 758,
+          "correct_n": 598,
+          "pooled_accuracy": 0.7889182058047494,
+          "participant_count_mean": 15.16,
+          "participant_count_sample_sd": 4.862853785461322
+        },
+        "slow_selection": {
+          "raw_n": 838,
+          "retained_n": 787,
+          "correct_n": 601,
+          "pooled_accuracy": 0.7636594663278272,
+          "participant_count_mean": 15.74,
+          "participant_count_sample_sd": 5.47651758857389
+        }
+      }
+    },
+    {
+      "experiment": 2,
+      "archive_sha256": "1b036ddcd105799e7a288e2a7479396398dc621a94c44a8249339d3815db0ea0",
+      "sart_subject_folders": 50,
+      "numeric_sart_data_blocks": 193,
+      "sart_data_rows": 115800,
+      "raw_fast_slow_trials": 7040,
+      "excluded_no_response_or_missing_rt": 300,
+      "excluded_no_response_or_missing_rt_pct_of_raw": 4.261363636363637,
+      "excluded_lt200_after_no_response": 293,
+      "excluded_lt200_pct_after_no_response": 4.347181008902077,
+      "trigger_accuracy": {
+        "fast": {
+          "retained_n": 3592,
+          "correct_n": 1394,
+          "pooled_accuracy": 0.3880846325167038,
+          "participant_mean_accuracy": 0.39349905433685195,
+          "participants_with_trigger": 50
+        },
+        "slow": {
+          "retained_n": 2855,
+          "correct_n": 2209,
+          "pooled_accuracy": 0.7737302977232925,
+          "participant_mean_accuracy": 0.7583997863907511,
+          "participants_with_trigger": 50
+        }
+      },
+      "trigger_condition_counts": {
+        "fast_neutral": {
+          "raw_n": 1053,
+          "retained_n": 954,
+          "correct_n": 348,
+          "pooled_accuracy": 0.36477987421383645,
+          "participant_count_mean": 19.08,
+          "participant_count_sample_sd": 5.805838018928949
+        },
+        "fast_novel": {
+          "raw_n": 951,
+          "retained_n": 864,
+          "correct_n": 325,
+          "pooled_accuracy": 0.3761574074074074,
+          "participant_count_mean": 17.28,
+          "participant_count_sample_sd": 4.785351798638706
+        },
+        "fast_reward": {
+          "raw_n": 994,
+          "retained_n": 901,
+          "correct_n": 368,
+          "pooled_accuracy": 0.40843507214206437,
+          "participant_count_mean": 18.02,
+          "participant_count_sample_sd": 5.758720095894325
+        },
+        "fast_selection": {
+          "raw_n": 962,
+          "retained_n": 873,
+          "correct_n": 353,
+          "pooled_accuracy": 0.4043528064146621,
+          "participant_count_mean": 17.46,
+          "participant_count_sample_sd": 5.179275814163953
+        },
+        "slow_neutral": {
+          "raw_n": 778,
+          "retained_n": 721,
+          "correct_n": 551,
+          "pooled_accuracy": 0.7642163661581137,
+          "participant_count_mean": 14.42,
+          "participant_count_sample_sd": 4.777028364998475
+        },
+        "slow_novel": {
+          "raw_n": 766,
+          "retained_n": 718,
+          "correct_n": 542,
+          "pooled_accuracy": 0.754874651810585,
+          "participant_count_mean": 14.36,
+          "participant_count_sample_sd": 4.779889845883011
+        },
+        "slow_reward": {
+          "raw_n": 749,
+          "retained_n": 684,
+          "correct_n": 533,
+          "pooled_accuracy": 0.7792397660818714,
+          "participant_count_mean": 13.68,
+          "participant_count_sample_sd": 4.249561802139613
+        },
+        "slow_selection": {
+          "raw_n": 787,
+          "retained_n": 732,
+          "correct_n": 583,
+          "pooled_accuracy": 0.796448087431694,
+          "participant_count_mean": 14.64,
+          "participant_count_sample_sd": 5.0980588542731295
+        }
+      }
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Bottom line
 
-The published 2026 attention study provides a suggestive, task-specific performance effect, but neither the experiment-2 preregistration nor its data and code could be independently checked in this environment. The accessible experiment-1 registration substantiates the paper's distinction between its originally planned suppression analyses and its exploratory recoupling analyses. The reported pooled reward coefficient is a **conditional parameter in an interaction model**, not a single average improvement that applies uniformly across blocks and triggers.
+The published 2026 attention study provides a suggestive, task-specific performance effect. In a later [archive follow-up](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md), both datasets were supplied via GitHub and their reported Table 1 counts were descriptively reproduced; the experiment-2 preregistration and original analysis code remain uninspected, and its mixed models have not been reproduced. The accessible experiment-1 registration substantiates the paper's distinction between its originally planned suppression analyses and its exploratory recoupling analyses. The reported pooled reward coefficient is a **conditional parameter in an interaction model**, not a single average improvement that applies uniformly across blocks and triggers.
 
 This is a [retrospective check](SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md), planned after the results were known. It builds on the [full-main-text and supplement audit](SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md). It is not a replication or an audit of the actual scripts and participant records.
 
@@ -34,7 +34,7 @@ The study's fast-trigger selection uses preceding RT, but an induced rare-trial 
 
 ## 3. Precise file access and next gate
 
-The [authors' OSF project](https://osf.io/anwzx/) and metadata list the following files. The web service gave HTTP 500 for the three direct ZIP downloads; the workspace's ordinary outbound network restrictions also do not permit direct OSF download. Metadata and an OSF ZIP-content preview are **not the contents** and are not independent verification of hashes or analyses.
+At the time of this check, the [authors' OSF project](https://osf.io/anwzx/) and metadata listed the following files; the web service gave HTTP 500 for the three direct ZIP downloads. This table is a historical access record: the subsequent [archive follow-up](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md) obtained both experiment ZIPs from GitHub, verified their hashes and inspected selected CSVs. The analysis ZIP remains missing.
 
 | Listed file | Link | Metadata size and SHA-256 | Observed access |
 |---|---|---|---|

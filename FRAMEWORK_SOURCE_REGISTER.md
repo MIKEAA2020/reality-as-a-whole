@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 504 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
+- 505 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 412 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -392,6 +392,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md](SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md) — Self-presence and the impossibility of nothingness: one foundation or two?
 - [SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md](SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md) — Best working synthesis under the seven criteria
 - [SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md](SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md) — Shared experience versus duplicated experiential tokens
+- [SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md](SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md) — Shelat 2026: experiment archives and a limited descriptive replication
 - [SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md](SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md) — Shelat 2026: registration, model dependence and material access
 - [SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md](SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md) — Retrospective plan: checking the 2026 attention study's shared materials
 - [SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md](SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md) — Shelat and Giesbrecht 2026: reward, lapses and attentional capture
@@ -960,6 +961,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/shared_subject_two_time.py](verification/shared_subject_two_time.py)
 - [verification/shared_token_disagreement_gate.py](verification/shared_token_disagreement_gate.py)
 - [verification/shared_vs_independent_reports.py](verification/shared_vs_independent_reports.py)
+- [verification/shelat_2026_archive_descriptives.py](verification/shelat_2026_archive_descriptives.py)
+- [verification/shelat_2026_archive_descriptives_test.py](verification/shelat_2026_archive_descriptives_test.py)
 - [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
 - [verification/smooth_field_clock.py](verification/smooth_field_clock.py)
 - [verification/smooth_switched_locality_gate.py](verification/smooth_switched_locality_gate.py)

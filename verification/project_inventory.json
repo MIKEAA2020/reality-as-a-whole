@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 547,
-  "bytes": 6977368,
-  "line_count": 63335,
-  "document_count_with_risk_phrases": 512,
+  "document_count": 548,
+  "bytes": 6987130,
+  "line_count": 63401,
+  "document_count_with_risk_phrases": 513,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4747,9 +4747,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4f5a8241f094f8678bfda574fa3059c5994f371162cb201a52baa509acf242da",
-      "bytes": 133072,
-      "lines": 1047,
+      "sha256": "58ebfa7e14d235c198331dbd74fc4695d8d05bf8956fe67915a5c8e352b450a0",
+      "bytes": 133486,
+      "lines": 1050,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5143,6 +5143,7 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
@@ -5697,6 +5698,8 @@
         "verification/shared_subject_two_time.py",
         "verification/shared_token_disagreement_gate.py",
         "verification/shared_vs_independent_reports.py",
+        "verification/shelat_2026_archive_descriptives.py",
+        "verification/shelat_2026_archive_descriptives_test.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
         "verification/smooth_switched_locality_gate.py",
@@ -5792,14 +5795,14 @@
         280,
         326,
         351,
-        401,
-        493,
-        508,
-        544,
-        553,
-        556,
-        559,
-        623
+        402,
+        494,
+        509,
+        545,
+        554,
+        557,
+        560,
+        624
       ]
     },
     {
@@ -13067,9 +13070,33 @@
       ]
     },
     {
+      "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+      "sha256": "9318dfc6329cc497b03ce475ea45a404460c35e20e9af10dcce7dafe691a0735",
+      "bytes": 8617,
+      "lines": 63,
+      "title": "Shelat 2026: experiment archives and a limited descriptive replication",
+      "headings": [
+        "Shelat 2026: experiment archives and a limited descriptive replication",
+        "What changed",
+        "1. Provenance and archive coverage",
+        "2. Sequential exclusions reproduce the paper's percentages",
+        "3. Table 1 reproduced descriptively",
+        "4. Verification, limitations and next step"
+      ],
+      "local_links": [
+        "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
+        "verification/shelat_2026_archive_descriptives.py",
+        "verification/shelat_2026_archive_descriptives.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        61
+      ]
+    },
+    {
       "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
-      "sha256": "a44ff57b6f1ca5ca2cb7226f0960a1969dbaba3357e1fc1e7ee01c0458a0d534",
-      "bytes": 8733,
+      "sha256": "ac5fe7baa1763e572be17b7a241c26ced8b2415f7fa9b7bc839369eef5e8712b",
+      "bytes": 9011,
       "lines": 49,
       "title": "Shelat 2026: registration, model dependence and material access",
       "headings": [
@@ -13081,8 +13108,10 @@
         "4. Implications for the project"
       ],
       "local_links": [
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
-        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md"
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
       ],
       "risk_phrase_lines": [
         33
@@ -13107,8 +13136,8 @@
     },
     {
       "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
-      "sha256": "c3fe99453f55122ea3e6fb146381ce21377946506d035be95d516f8572adbd2c",
-      "bytes": 8290,
+      "sha256": "401fcfb94fe68888b318d5c464df6f9181e28fc0c393c2845c6d0825b0e85a9a",
+      "bytes": 8630,
       "lines": 33,
       "title": "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
       "headings": [
@@ -13118,7 +13147,8 @@
         "What follows, and what remains open"
       ],
       "local_links": [
-        "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md"
+        "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md"
       ],
       "risk_phrase_lines": []
     },
@@ -13507,8 +13537,8 @@
     },
     {
       "path": "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
-      "sha256": "4ac2c8c521858baeeba43437d9641de6e4a566539fdf32ea8593105bf44b8ad3",
-      "bytes": 15973,
+      "sha256": "b6ba69b650e8ec9f69c2132a49497fda327ada8c9d088237eb8260a9caebf32e",
+      "bytes": 16086,
       "lines": 65,
       "title": "Split-brain attentional blink: the two primary results now read",
       "headings": [
@@ -13524,6 +13554,7 @@
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md"
       ],
