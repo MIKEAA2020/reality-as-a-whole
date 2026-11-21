@@ -2,6 +2,8 @@
 
 ## Result
 
+**Later follow-up:** the [published RT-rule reconstruction](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) selects a matching subset in all 585 proper-subset cases, leaves the 35 no-subset cases mismatched, and causes no paired regressions. This is a source-supported candidate, not verified trial-selection history.
+
 The [previous BIDS audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) found 620 condition keys for which at least one of the published intensity and unpleasantness means differs from a simple average of all retained BIDS trial pairs. Under the same provisional join, **585 of those 620 keys have at least one proper subset of the recorded trial pairs whose two means jointly match the published values** within `10⁻¹⁰`. The remaining **35** have no such nonempty common-subset match.
 
 This narrows an arithmetic question; it does **not** identify the actual trial-selection procedure or establish that the authors excluded those trials. Even a unique matching subset is unique only among the inspected retained trials and the specified tolerance; other data, transformations, weighting, rounding or processing histories could generate the same mean. Nor does an unmatched key prove a data error. We have not found or replayed the code that generated the condition table. The earlier held-out calculations remain calculations on that table, with their event-to-export provenance unresolved.

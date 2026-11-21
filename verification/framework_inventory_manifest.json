@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b02aa27a02876beb31bbe077bd8efbc6e4dedd40",
-  "file_count": 1546,
+  "base_head": "f5a14a5934ccb634d70f583f212d5c991762a56a",
+  "file_count": 1551,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 31841,
-      "sha256": "d41725a90a0b5dd4a7776612663626ba4dfb84d5ebd35244d72a336037e93792"
+      "bytes": 32531,
+      "sha256": "b1dcef888a3965850e4238e10fb63e42ff2c65ca93e7d7053f131e2d949c4a4d"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 121853,
-      "sha256": "eff2aa33be9a984e1c26acaf79dbd35976836e63d06da8c7d2b1c79af6b4e777"
+      "bytes": 122451,
+      "sha256": "01e69a4bcf4d0e67b6a3cec37094c61d8bfc6400aae79a9ab76960d9b75928da"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1245,8 +1245,8 @@
     },
     {
       "path": "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
-      "bytes": 12548,
-      "sha256": "d4e6778dc7cdc8a61f35fea6b882249fd432d5739e82ac9e7843b794636061ad"
+      "bytes": 13284,
+      "sha256": "8ae8c86494c95f5817a072e41e39be9af56fc932c0a66d74b4f0a635baf5e274"
     },
     {
       "path": "PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md",
@@ -1255,18 +1255,28 @@
     },
     {
       "path": "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
-      "bytes": 8987,
-      "sha256": "dfdd414683c0f974675e6be0c15efedacd92e10a76c5e2f54712bd32f31d2eb5"
+      "bytes": 9310,
+      "sha256": "ba2f0fa6132705cd7cc6986ada1955a639817297cfb93e737677b161e5c3aeea"
     },
     {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
-      "bytes": 14088,
-      "sha256": "eaa892f404cf470d930d7df44482ac2af770c9cb894f649b9fb6734911373a0d"
+      "bytes": 14379,
+      "sha256": "4c1ea552f930c58321e2eccb4b4aecee49c6fcd969a031e64e260ccec04e9905"
     },
     {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
       "bytes": 6522,
       "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754"
+    },
+    {
+      "path": "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
+      "bytes": 7058,
+      "sha256": "b6707ada36d963218440f641da21ed0f438d9c8d34700e0be9e83f8bb0aa9767"
+    },
+    {
+      "path": "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
+      "bytes": 8330,
+      "sha256": "d54217bdad4310058abc135f08279b5ac0f5edffa8904709a4d0835ce9864ac6"
     },
     {
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
@@ -5799,6 +5809,21 @@
       "sha256": "0fc0b0fcf646081a55b6341f5ed025eecd959a73e4ab1bb996652df820635f8a"
     },
     {
+      "path": "verification/paingen_response_time_reconstruction.json",
+      "bytes": 6770,
+      "sha256": "5b7edfde592a4b300cc5e6cb95382c94c69221e38c6030d1cd2668481db164f3"
+    },
+    {
+      "path": "verification/paingen_response_time_reconstruction.py",
+      "bytes": 10591,
+      "sha256": "87379500364b812626d721afd58bf3c92f7dcc2ee617b39511d3aa0323c41d29"
+    },
+    {
+      "path": "verification/paingen_response_time_reconstruction_test.py",
+      "bytes": 2456,
+      "sha256": "e77287bee95e258eeb347b3f77bad127edb5e220200aa693515cf814699ad6f0"
+    },
+    {
       "path": "verification/paingen_source_crosscheck.json",
       "bytes": 765,
       "sha256": "0f4d6dff54c44fdc23d44696b3cbd6fef83343d3110194bc28bdd6b3a2b1944a"
@@ -6030,8 +6055,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 625019,
-      "sha256": "b8bc9643f5d764402e521a2d6842992cd038d22a00cac514486e32e70b499323"
+      "bytes": 627651,
+      "sha256": "2d6ac08a15d3ad0defb01618e481bae79643667a596b76cc87efc265900a7e0b"
     },
     {
       "path": "verification/project_inventory.py",

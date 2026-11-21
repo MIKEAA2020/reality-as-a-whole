@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 453 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 388 verification Python scripts.
+- 455 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 390 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -262,6 +262,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) — PAINgen condition means: which discrepancies admit a trial-subset explanation?
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
+- [PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md](PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md) — PAINgen published response-time rule: retrospective reconstruction plan
+- [PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) — PAINgen condition means: a published response-time rule explains most discrepancies
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
 - [PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md](PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md) — PAINgen trial provenance and rating-order audit: fixed plan
 - [PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md](PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md) — PAINgen trial provenance: post-inspection onset-order amendment
@@ -790,6 +792,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/paingen_condition_subset_diagnostic_test.py](verification/paingen_condition_subset_diagnostic_test.py)
 - [verification/paingen_intensity_unpleasantness_gate.py](verification/paingen_intensity_unpleasantness_gate.py)
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
+- [verification/paingen_response_time_reconstruction.py](verification/paingen_response_time_reconstruction.py)
+- [verification/paingen_response_time_reconstruction_test.py](verification/paingen_response_time_reconstruction_test.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
 - [verification/paingen_stimulus_only_valence_test.py](verification/paingen_stimulus_only_valence_test.py)
 - [verification/paingen_trial_provenance_audit.py](verification/paingen_trial_provenance_audit.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 496,
-  "bytes": 6480010,
-  "line_count": 60931,
-  "document_count_with_risk_phrases": 466,
+  "document_count": 498,
+  "bytes": 6498036,
+  "line_count": 61025,
+  "document_count_with_risk_phrases": 468,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4241,9 +4241,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d41725a90a0b5dd4a7776612663626ba4dfb84d5ebd35244d72a336037e93792",
-      "bytes": 31841,
-      "lines": 131,
+      "sha256": "b1dcef888a3965850e4238e10fb63e42ff2c65ca93e7d7053f131e2d949c4a4d",
+      "bytes": 32531,
+      "lines": 133,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4255,6 +4255,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
@@ -4312,19 +4313,21 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        13,
+        5,
+        9,
         15,
-        29,
-        33,
-        45,
-        53,
+        17,
+        31,
+        35,
+        47,
         55,
-        59,
-        75,
-        85,
-        102,
-        119,
-        125
+        57,
+        61,
+        77,
+        87,
+        104,
+        121,
+        127
       ]
     },
     {
@@ -4503,9 +4506,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "eff2aa33be9a984e1c26acaf79dbd35976836e63d06da8c7d2b1c79af6b4e777",
-      "bytes": 121853,
-      "lines": 974,
+      "sha256": "01e69a4bcf4d0e67b6a3cec37094c61d8bfc6400aae79a9ab76960d9b75928da",
+      "bytes": 122451,
+      "lines": 978,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4769,6 +4772,8 @@
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+        "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
         "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
@@ -5283,6 +5288,8 @@
         "verification/paingen_condition_subset_diagnostic_test.py",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate_test.py",
+        "verification/paingen_response_time_reconstruction.py",
+        "verification/paingen_response_time_reconstruction_test.py",
         "verification/paingen_source_crosscheck.py",
         "verification/paingen_stimulus_only_valence_test.py",
         "verification/paingen_trial_provenance_audit.py",
@@ -5473,16 +5480,16 @@
         182,
         230,
         258,
-        291,
-        313,
-        360,
-        442,
-        457,
-        493,
-        502,
-        505,
-        508,
-        572
+        293,
+        315,
+        362,
+        444,
+        459,
+        495,
+        504,
+        507,
+        510,
+        574
       ]
     },
     {
@@ -8976,9 +8983,9 @@
     },
     {
       "path": "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
-      "sha256": "d4e6778dc7cdc8a61f35fea6b882249fd432d5739e82ac9e7843b794636061ad",
-      "bytes": 12548,
-      "lines": 57,
+      "sha256": "8ae8c86494c95f5817a072e41e39be9af56fc932c0a66d74b4f0a635baf5e274",
+      "bytes": 13284,
+      "lines": 59,
       "title": "PAINgen trial order and condition-mean provenance",
       "headings": [
         "PAINgen trial order and condition-mean provenance",
@@ -8990,6 +8997,7 @@
         "5. Reproduction and current status"
       ],
       "local_links": [
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
@@ -9003,9 +9011,10 @@
         "verification/paingen_trial_provenance_audit.json"
       ],
       "risk_phrase_lines": [
-        19,
+        5,
         21,
-        55
+        23,
+        57
       ]
     },
     {
@@ -9035,9 +9044,9 @@
     },
     {
       "path": "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
-      "sha256": "dfdd414683c0f974675e6be0c15efedacd92e10a76c5e2f54712bd32f31d2eb5",
-      "bytes": 8987,
-      "lines": 59,
+      "sha256": "ba2f0fa6132705cd7cc6986ada1955a639817297cfb93e737677b161e5c3aeea",
+      "bytes": 9310,
+      "lines": 61,
       "title": "PAINgen condition means: which discrepancies admit a trial-subset explanation?",
       "headings": [
         "PAINgen condition means: which discrepancies admit a trial-subset explanation?",
@@ -9048,6 +9057,7 @@
         "4. Reproduction and status"
       ],
       "local_links": [
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md",
         "verification/paingen_condition_subset_diagnostic.py",
@@ -9056,19 +9066,19 @@
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        34,
-        35,
+        9,
         36,
-        42,
-        50,
-        57
+        37,
+        38,
+        44,
+        52,
+        59
       ]
     },
     {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
-      "sha256": "eaa892f404cf470d930d7df44482ac2af770c9cb894f649b9fb6734911373a0d",
-      "bytes": 14088,
+      "sha256": "4c1ea552f930c58321e2eccb4b4aecee49c6fcd969a031e64e260ccec04e9905",
+      "bytes": 14379,
       "lines": 64,
       "title": "Pain intensity and unpleasantness: a common-interface benchmark",
       "headings": [
@@ -9086,6 +9096,7 @@
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate.json",
@@ -9117,6 +9128,61 @@
       "risk_phrase_lines": [
         9,
         34
+      ]
+    },
+    {
+      "path": "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
+      "sha256": "b6707ada36d963218440f641da21ed0f438d9c8d34700e0be9e83f8bb0aa9767",
+      "bytes": 7058,
+      "lines": 36,
+      "title": "PAINgen published response-time rule: retrospective reconstruction plan",
+      "headings": [
+        "PAINgen published response-time rule: retrospective reconstruction plan",
+        "Motivation and source",
+        "Source and fixed operational interpretation",
+        "Fixed comparisons",
+        "Interpretation and stop rules",
+        "Post-result extension: missing cells"
+      ],
+      "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        13,
+        30
+      ]
+    },
+    {
+      "path": "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
+      "sha256": "d54217bdad4310058abc135f08279b5ac0f5edffa8904709a4d0835ce9864ac6",
+      "bytes": 8330,
+      "lines": 48,
+      "title": "PAINgen condition means: a published response-time rule explains most discrepancies",
+      "headings": [
+        "PAINgen condition means: a published response-time rule explains most discrepancies",
+        "Result and scope",
+        "Fixed paired-mean comparison",
+        "Event counts and missing exports",
+        "What changes, and what does not",
+        "Reproduction and limitations"
+      ],
+      "local_links": [
+        "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
+        "verification/paingen_response_time_reconstruction.json",
+        "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "verification/paingen_response_time_reconstruction.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        21,
+        25,
+        29
       ]
     },
     {

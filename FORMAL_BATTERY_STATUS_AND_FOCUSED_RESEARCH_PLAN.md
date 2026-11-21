@@ -2,9 +2,11 @@
 
 ## Direct assessment
 
+The [PAINgen response-time reconstruction](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) applies the paper's published intensity RT rule to a candidate BIDS field: 585 of 620 previously mismatched paired means become matches, 35 remain mismatched, and no prior paired matches regress. A post-result missingness check is consistent with the same candidate rule. This is retrospective and shared-provenance; exact source processing and field semantics remain unverified. It is not a physical mismatch `q` assay or an experiential bridge; B4–B5/F2, B9/F3, B10 and C3 remain open.
+
 The [PAINgen paired-subset diagnostic](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) finds a common proper-subset witness for 585 of 620 mismatched paired condition means; 35 have none among the retained events. These post hoc numerical witnesses do not identify the authors' actual inclusion decisions or validate the experiential bridge.
 
-The [PAINgen BIDS trial-order and provenance audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) finds internally paired intensity/unpleasantness event fields after sorting by recorded onset, but hundreds of provisional trial averages do not match the author condition export. The origin is unresolved; prior calculations remain analyses of that export, not independently reconstructed trial results. No q, causal order effect or experiential bridge was established.
+The [PAINgen BIDS trial-order and provenance audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) finds internally paired intensity/unpleasantness event fields after sorting by recorded onset, but hundreds of provisional trial averages do not match the author condition export. The published RT-rule candidate above accounts for most discrepancies arithmetically, but the exact origin is not fully verified; prior calculations remain analyses of that export, not independently reconstructed trial results. No q, causal order effect or experiential bridge was established.
 
 The [PAINgen intensity–unpleasantness comparison](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) evaluates a contemporaneous intensity-report baseline on the same condition means and held-out families as the prior unpleasantness benchmark. It is a strong report comparator; the small, uncertain incremental signature improvement does not identify mismatch or prove the dimensions identical. Raw paired-trial validation, subject/quality constitution and substantive battery gates remain open.
 
