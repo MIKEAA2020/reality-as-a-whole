@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 535,
-  "bytes": 6853032,
-  "line_count": 62800,
-  "document_count_with_risk_phrases": 501,
+  "document_count": 537,
+  "bytes": 6878231,
+  "line_count": 62908,
+  "document_count_with_risk_phrases": 503,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4385,9 +4385,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d73e0953cb399f6e1645d39981faffbfad1bc20798f0b5df09bfffe1e2719f15",
-      "bytes": 42095,
-      "lines": 169,
+      "sha256": "e1503e916b6c1a43fd60d6a6c8f70a1eed890cdbb8cadde6c302b9dcc3290e83",
+      "bytes": 42512,
+      "lines": 171,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4399,6 +4399,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
@@ -4475,26 +4476,26 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        25,
+        9,
         27,
-        31,
-        41,
-        45,
-        51,
+        29,
+        33,
+        43,
+        47,
         53,
-        67,
-        71,
-        83,
-        91,
+        55,
+        69,
+        73,
+        85,
         93,
-        97,
-        113,
-        123,
-        140,
-        157,
-        163
+        95,
+        99,
+        115,
+        125,
+        142,
+        159,
+        165
       ]
     },
     {
@@ -10578,9 +10579,9 @@
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
-      "sha256": "477d9d3ce63468a18fc5447615049a337f3a2e3df9bd1fb539fbd5957e3d73d4",
-      "bytes": 18333,
-      "lines": 86,
+      "sha256": "36ffce8444564f2945d050f7f06950000d20ca160248a4492340ed9e40e5217a",
+      "bytes": 18687,
+      "lines": 88,
       "title": "Private local and global fields: one explicit completion",
       "headings": [
         "Private local and global fields: one explicit completion",
@@ -10593,6 +10594,7 @@
         "6. Assessment and next substantive work"
       ],
       "local_links": [
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
@@ -10600,12 +10602,12 @@
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md"
       ],
       "risk_phrase_lines": [
-        29,
-        32,
-        33,
-        60,
+        31,
+        34,
+        35,
         62,
-        84
+        64,
+        86
       ]
     },
     {
@@ -13385,9 +13387,9 @@
     },
     {
       "path": "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
-      "sha256": "2d756b36b04404968e50d97a50c054fd474847211563eb2ef5be95b2240147fb",
-      "bytes": 23187,
-      "lines": 92,
+      "sha256": "c3f8dcfa4d437505497157791c62882495b75378d11456686dde8d1e88ebcce2",
+      "bytes": 23496,
+      "lines": 94,
       "title": "Private nested subjects versus a layered subject: the evidence gap",
       "headings": [
         "Private nested subjects versus a layered subject: the evidence gap",
@@ -13400,6 +13402,7 @@
         "6. A realistic evidential contract, not a promised assay"
       ],
       "local_links": [
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_SUBJECT_INCIDENCE_EVIDENCE_READING_PLAN.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
@@ -13410,11 +13413,11 @@
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        49,
-        61,
-        73,
-        90
+        15,
+        51,
+        63,
+        75,
+        92
       ]
     },
     {
@@ -13830,6 +13833,52 @@
         91,
         95,
         108
+      ]
+    },
+    {
+      "path": "SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md",
+      "sha256": "5a1f47fe5226dcf604f2b199997ef87b451d48430fee0f8be504553a5b7b70c7",
+      "bytes": 2954,
+      "lines": 13,
+      "title": "Retrospective reading plan: subject incidence and indirect communication",
+      "headings": [
+        "Retrospective reading plan: subject incidence and indirect communication",
+        "Starting point",
+        "Fixed objectives"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        9
+      ]
+    },
+    {
+      "path": "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
+      "sha256": "a92f849cedb0a681cb29ce3a79ebc33ce230e50ab8208cf56fde55685ac53aae",
+      "bytes": 21165,
+      "lines": 89,
+      "title": "Can indirect communication individuate nested subjects?",
+      "headings": [
+        "Can indirect communication individuate nested subjects?",
+        "Result",
+        "1. Reading record",
+        "2. Schechter's argument and its empirical ambition",
+        "3. L.B.'s tactile words: what the source actually says",
+        "4. A disciplined candidate bridge—not a new discovery",
+        "5. Applying it to P and C-layered",
+        "6. What would genuinely advance the comparison?"
+      ],
+      "local_links": [
+        "SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md",
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        35,
+        66,
+        80,
+        81
       ]
     },
     {

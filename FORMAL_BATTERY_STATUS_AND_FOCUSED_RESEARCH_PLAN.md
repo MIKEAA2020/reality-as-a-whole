@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [indirect-communication and nesting audit](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) examines Schechter's candidate thinker-individuation argument and its strong psychological-independence premise. A demonstrated lateral sensory relay does not establish the local/global subject distinction in P; a mental-interaction map, first-person evidence and defended incidence principle remain open.
+
 The [split-brain private-subject identity evidence audit](SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md) examines DDC's simultaneous-task confidence and anecdotal felt ease, distinguishing these first-person observations from coarse conjunction and distinct-owner evidence. Positive `N` could challenge a closed one-subject package; a negative `N` would require subject coverage not established here. Neither P nor C-layered is demonstrated, and the substantive gates remain open.
 
 The [local-net classical-substrate bridge](LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md) shows that one existing quantum measurement bit is not a closed preparation-independent state for a specified sequential protocol, while the complete protocol is translation-covariant. The result is not a universal classical-model or IIT no-go; no incidence, quality or substantive battery gate is thereby resolved.

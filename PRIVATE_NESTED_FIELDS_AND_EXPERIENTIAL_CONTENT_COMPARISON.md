@@ -2,6 +2,8 @@
 
 ## Result
 
+The [indirect-communication and nesting audit](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) tests an independently motivated thinker-individuation argument against the local/global pair. It identifies additional mental-interaction, occurrence and identity premises; neither physical overlap nor a lateral relay determines the outcome.
+
 The [split-brain private-subject identity evidence audit](SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md) follows up the P/C-layered incidence gap using a simultaneous-task confidence report and a sequential-task control. It does not establish either package or a clinical subject count.
 
 The [Bigaj field-quanta audit](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) further distinguishes these postulated first-person fields from quantum field operators, modes and local algebras; no subject mapping follows from the shared terminology.

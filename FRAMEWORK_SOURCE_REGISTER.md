@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 492 root Markdown documents including this register; 43 research Markdown documents.
+- 494 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -417,6 +417,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol
 - [SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) — A subject-constitution and record interface: bounded results
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
+- [SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md](SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md) — Retrospective reading plan: subject incidence and indirect communication
+- [SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) — Can indirect communication individuate nested subjects?
 - [SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md](SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md) — From quantum weights to plural perspectives: an observation-selection gate
 - [SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md](SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md) — Subject-pluralist experiential synthesis: a provisional reassessment
 - [SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md](SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md) — Subject-rule robustness with hidden edges and imperfect interventions
