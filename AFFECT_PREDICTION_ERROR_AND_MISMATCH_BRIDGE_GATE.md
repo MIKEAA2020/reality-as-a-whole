@@ -33,6 +33,8 @@ The result is compatible with the published commentary's reanalysis, but is not 
 
 ## A crossed physical-history test that could actually discriminate
 
+The later [current-mismatch versus history gate](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) completes an onset-only experiential rival on the same four-spin physical domain, checks matched full current states, and qualifies a real pain-intensity history experiment. Its prospective extensions explicitly address post-treatment selection and assay invariance.
+
 The smallest decisive design is not simply to correlate a mismatch proxy with a report. First specify, on independent grounds, the subject candidate, a physically measurable q or calibrated observable with measurement error, and its units and sampling interval. Define `q₀` and `q₁` at two locally ordered moments, interventions and measurement schedule before observing the target ratings. Use distinct experimental arms to manipulate present level and prior history as independently as possible while measuring both. A schematic target design is:
 
 | Cell | Previous mismatch q₀ | Current mismatch q₁ | Δq |

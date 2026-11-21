@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 430 root Markdown documents including this register; 43 research Markdown documents.
-- 56 original uploaded files, including provenance metadata; 356 verification Python scripts.
+- 431 root Markdown documents including this register; 43 research Markdown documents.
+- 56 original uploaded files, including provenance metadata; 358 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -85,6 +85,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md](CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md) — Fixed plan: cross-grain quality facets in the integrated candidate
 - [CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md](CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md) — Subject boundaries and qualitative facets across grains
 - [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
+- [CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) — Current mismatch versus experiential history: a common-domain gate
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
 - [DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md](DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md) — Fixed audit plan: can affective-music events support a same-trial analysis?
 - [DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md](DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md) — Music EEG comparator: timing and event-order audit
@@ -677,6 +678,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/integrated_cross_scale_quality.py](verification/integrated_cross_scale_quality.py)
 - [verification/integrated_cross_scale_quality_test.py](verification/integrated_cross_scale_quality_test.py)
 - [verification/integrated_experiential_misalignment_candidate.py](verification/integrated_experiential_misalignment_candidate.py)
+- [verification/integrated_level_history_contrast.py](verification/integrated_level_history_contrast.py)
+- [verification/integrated_level_history_contrast_test.py](verification/integrated_level_history_contrast_test.py)
 - [verification/integrated_subject_context_dynamics.py](verification/integrated_subject_context_dynamics.py)
 - [verification/integrated_subject_context_dynamics_test.py](verification/integrated_subject_context_dynamics_test.py)
 - [verification/integrated_subject_horizon_audit.py](verification/integrated_subject_horizon_audit.py)

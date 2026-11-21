@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "18a3c7fe832b8058ec4b760499885fbe9a0db802",
-  "file_count": 1474,
+  "base_head": "5b3542a3b57bd28860f4315097ae8185410071f7",
+  "file_count": 1478,
   "files": [
     {
       "path": ".gitattributes",
@@ -50,8 +50,8 @@
     },
     {
       "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
-      "bytes": 13941,
-      "sha256": "9717b70237fccd8513098fc5b412cde51100b38dffeae65988f6efaa116e7ddc"
+      "bytes": 14312,
+      "sha256": "566756f8c43e933005094a8bbaf2536e3cbf4e6b63f6715576f45d6b6481fcc1"
     },
     {
       "path": "ARTICULATED_SELF_PRESENCE.md",
@@ -374,6 +374,11 @@
       "sha256": "07dafe3b2cd0c470760b7a40ba777eec9ef51e06a53943044cad4d598404770c"
     },
     {
+      "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+      "bytes": 15098,
+      "sha256": "6d6f7841321e98fd79ed068cd50afc254a9818967b8cefd988ce37cc9d7b6731"
+    },
+    {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
       "bytes": 11660,
       "sha256": "b27a4d170a7274d62f0c008e1926ceb2df8e6f763613ed29b4621bf45f121099"
@@ -620,8 +625,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 24934,
-      "sha256": "fe5f5c8cb09c544d706acc90122e925ed86e0ed98de028cc570d408a66c93c23"
+      "bytes": 25382,
+      "sha256": "fd15d9ce90c0772cbe049130751387c61eb7603d2072e6832c60f17aff0791e8"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -645,8 +650,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 114545,
-      "sha256": "bd7377ce3bc0d3186711935345262b10c6910d40a6e0741dcb6b6f011701fbf3"
+      "bytes": 114947,
+      "sha256": "cab21006a27c1e29e296599ac0358f0ee555e391f42b5cd027401167e8d31ccc"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -795,8 +800,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 21661,
-      "sha256": "c8297ef13ed15499d60b7e118e6ef4efd379067943b0b6c9db529b2e36cf5352"
+      "bytes": 22098,
+      "sha256": "d92578c991af03bcf11a6f3fcd1072a09888dbca151ca93afae381fe6e5800d4"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -4904,6 +4909,21 @@
       "sha256": "56129b8df541b24857b60717a813e1a199981724d15b673e45c79656b870de25"
     },
     {
+      "path": "verification/integrated_level_history_contrast.json",
+      "bytes": 882,
+      "sha256": "c1f96629e376518dc2ac6327c4adc0b8639b0c8ef57f5795f96a3378575b30be"
+    },
+    {
+      "path": "verification/integrated_level_history_contrast.py",
+      "bytes": 3273,
+      "sha256": "8b2b60d5d23deb36a161d0502cebc93262105162a9102529021adf4e4205a8e8"
+    },
+    {
+      "path": "verification/integrated_level_history_contrast_test.py",
+      "bytes": 1078,
+      "sha256": "3c6abfa4599abf036f3382b81e9125d57981213d4462ed521eaad9f40cbc4b93"
+    },
+    {
       "path": "verification/integrated_subject_context_dynamics.json",
       "bytes": 6561,
       "sha256": "57eb4434a8b7b0748a55d93127bdd7628871285e80e27a3d74e2800f562d8ec7"
@@ -5670,8 +5690,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 591095,
-      "sha256": "033d8584febfc97c0438501c6f21e3ea994326347c3b92b823a02ec3c6bfbdbf"
+      "bytes": 592712,
+      "sha256": "e91f59579f8c9882d0115d17f4827ecdc6ed71bdedde3ac73e391fd8c88dc27c"
     },
     {
       "path": "verification/project_inventory.py",

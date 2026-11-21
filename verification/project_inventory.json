@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 473,
-  "bytes": 6151591,
-  "line_count": 58806,
-  "document_count_with_risk_phrases": 445,
+  "document_count": 474,
+  "bytes": 6168347,
+  "line_count": 58894,
+  "document_count_with_risk_phrases": 446,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -254,9 +254,9 @@
     },
     {
       "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
-      "sha256": "9717b70237fccd8513098fc5b412cde51100b38dffeae65988f6efaa116e7ddc",
-      "bytes": 13941,
-      "lines": 73,
+      "sha256": "566756f8c43e933005094a8bbaf2536e3cbf4e6b63f6715576f45d6b6481fcc1",
+      "bytes": 14312,
+      "lines": 75,
       "title": "Discriminating mismatch from affect-prediction error",
       "headings": [
         "Discriminating mismatch from affect-prediction error",
@@ -271,6 +271,7 @@
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
         "verification/affect_choice_heldout.py",
         "verification/affect_choice_heldout.json",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "verification/requirements-affective-choice.txt",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
@@ -279,7 +280,7 @@
         "KENT_PLENITUDE_OBSERVATION_SELECTION_RECOVERY.md"
       ],
       "risk_phrase_lines": [
-        73
+        75
       ]
     },
     {
@@ -2507,6 +2508,38 @@
       ]
     },
     {
+      "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+      "sha256": "6d6f7841321e98fd79ed068cd50afc254a9818967b8cefd988ce37cc9d7b6731",
+      "bytes": 15098,
+      "lines": 79,
+      "title": "Current mismatch versus experiential history: a common-domain gate",
+      "headings": [
+        "Current mismatch versus experiential history: a common-domain gate",
+        "Result and status",
+        "1. The common domain and two completed assignments",
+        "2. Stronger control: even the entire current toy state can be insufficient",
+        "3. What the pain experiment actually establishes",
+        "4. A prospective discrimination, not an already completed experiment",
+        "5. What advances and what remains open"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "verification/integrated_level_history_contrast.py",
+        "verification/integrated_level_history_contrast.json",
+        "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        15,
+        16,
+        27,
+        73,
+        79
+      ]
+    },
+    {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
       "sha256": "b27a4d170a7274d62f0c008e1926ceb2df8e6f763613ed29b4621bf45f121099",
       "bytes": 11660,
@@ -3987,9 +4020,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "fe5f5c8cb09c544d706acc90122e925ed86e0ed98de028cc570d408a66c93c23",
-      "bytes": 24934,
-      "lines": 101,
+      "sha256": "fd15d9ce90c0772cbe049130751387c61eb7603d2072e6832c60f17aff0791e8",
+      "bytes": 25382,
+      "lines": 103,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4001,6 +4034,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
@@ -4039,15 +4073,16 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        23,
+        5,
+        17,
         25,
-        29,
-        45,
-        55,
-        72,
-        89,
-        95
+        27,
+        31,
+        47,
+        57,
+        74,
+        91,
+        97
       ]
     },
     {
@@ -4153,9 +4188,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bd7377ce3bc0d3186711935345262b10c6910d40a6e0741dcb6b6f011701fbf3",
-      "bytes": 114545,
-      "lines": 918,
+      "sha256": "cab21006a27c1e29e296599ac0358f0ee555e391f42b5cd027401167e8d31ccc",
+      "bytes": 114947,
+      "lines": 921,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4242,6 +4277,7 @@
         "CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
         "DALY_EXISTING_EEG_COMPARATOR_AND_EVENT_ORDER_AUDIT.md",
@@ -4820,6 +4856,8 @@
         "verification/integrated_cross_scale_quality.py",
         "verification/integrated_cross_scale_quality_test.py",
         "verification/integrated_experiential_misalignment_candidate.py",
+        "verification/integrated_level_history_contrast.py",
+        "verification/integrated_level_history_contrast_test.py",
         "verification/integrated_subject_context_dynamics.py",
         "verification/integrated_subject_context_dynamics_test.py",
         "verification/integrated_subject_horizon_audit.py",
@@ -5063,19 +5101,19 @@
         44,
         50,
         59,
-        127,
-        172,
-        220,
-        269,
-        291,
-        338,
-        419,
-        434,
-        470,
-        479,
-        482,
-        485,
-        548
+        128,
+        173,
+        221,
+        270,
+        292,
+        339,
+        420,
+        435,
+        471,
+        480,
+        483,
+        486,
+        549
       ]
     },
     {
@@ -6125,9 +6163,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "c8297ef13ed15499d60b7e118e6ef4efd379067943b0b6c9db529b2e36cf5352",
-      "bytes": 21661,
-      "lines": 129,
+      "sha256": "d92578c991af03bcf11a6f3fcd1072a09888dbca151ca93afae381fe6e5800d4",
+      "bytes": 22098,
+      "lines": 131,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6140,6 +6178,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
@@ -6164,12 +6203,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        15,
         17,
-        70,
-        74,
-        107,
-        129
+        19,
+        72,
+        76,
+        109,
+        131
       ]
     },
     {

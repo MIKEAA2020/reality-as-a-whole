@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "scope": "Post-inspection mathematical comparison; q is not an empirical measure, free energy, feeling, or a derived subject. No causal report channel is supplied.",
+  "probabilities": {
+    "0->0": "295/448",
+    "0->1": "41/448",
+    "1->0": "41/448",
+    "1->1": "71/448"
+  },
+  "level_vs_onset_disagreement": "71/448",
+  "best_full_current_state_only_error_for_onset": "41/448",
+  "matched_current_witness": {
+    "current": [
+      1,
+      -1,
+      1,
+      1
+    ],
+    "previous_aligned": [
+      -1,
+      -1,
+      1,
+      1
+    ],
+    "previous_mismatched": [
+      1,
+      -1,
+      1,
+      1
+    ],
+    "aligned_to_current_joint_mass": "27/4096",
+    "mismatched_to_current_joint_mass": "57/3584"
+  },
+  "checks": "exact detailed balance for every represented transition, all 16 complete current states, exact joint event probabilities"
+}
