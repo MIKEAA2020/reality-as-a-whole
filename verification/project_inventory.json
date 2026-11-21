@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 537,
-  "bytes": 6878231,
-  "line_count": 62908,
-  "document_count_with_risk_phrases": 503,
+  "document_count": 539,
+  "bytes": 6898505,
+  "line_count": 62999,
+  "document_count_with_risk_phrases": 505,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4385,9 +4385,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "e1503e916b6c1a43fd60d6a6c8f70a1eed890cdbb8cadde6c302b9dcc3290e83",
-      "bytes": 42512,
-      "lines": 171,
+      "sha256": "bcfc84907a29efabbb0ed39c1986b00dce24d923e9cda5c3a797c2e755e68d3e",
+      "bytes": 42907,
+      "lines": 173,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4399,6 +4399,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "LOCAL_NET_CLASSICAL_SUBJECT_INCIDENCE_BRIDGE.md",
@@ -4476,26 +4477,26 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        27,
+        11,
         29,
-        33,
-        43,
-        47,
-        53,
+        31,
+        35,
+        45,
+        49,
         55,
-        69,
-        73,
-        85,
-        93,
+        57,
+        71,
+        75,
+        87,
         95,
-        99,
-        115,
-        125,
-        142,
-        159,
-        165
+        97,
+        101,
+        117,
+        127,
+        144,
+        161,
+        167
       ]
     },
     {
@@ -4674,9 +4675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3112aaad0b81bb783646c713b4367e61ebbbb34e96949e406123ff9b7cd1e5e1",
-      "bytes": 130845,
-      "lines": 1035,
+      "sha256": "22a76f51fbdc4a92ecea76305b0a909fad0eed32222e481c6c604118dc366b9b",
+      "bytes": 131608,
+      "lines": 1039,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4894,6 +4895,8 @@
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md",
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
+        "LEVY_NEBES_SPERRY_1971_FEEDBACK_PRIMARY_READING_PLAN.md",
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
         "LOCALIZED_CONSTRAINT_CLOCK.md",
@@ -5095,6 +5098,8 @@
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
+        "SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md",
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
         "SUBJECT_PLURALIST_EXPERIENTIAL_SYNTHESIS.md",
         "SUBJECT_ROBUSTNESS_HIDDEN_EDGES_AND_INTERVENTION_ERROR.md",
@@ -5703,18 +5708,18 @@
         69,
         139,
         191,
-        246,
-        275,
-        320,
-        345,
-        392,
-        481,
-        496,
-        532,
-        541,
-        544,
-        547,
-        611
+        248,
+        277,
+        322,
+        347,
+        394,
+        485,
+        500,
+        536,
+        545,
+        548,
+        551,
+        615
       ]
     },
     {
@@ -7715,6 +7720,53 @@
         "NECESSARY_ARTICULATED_UNITY.md"
       ],
       "risk_phrase_lines": []
+    },
+    {
+      "path": "LEVY_NEBES_SPERRY_1971_FEEDBACK_PRIMARY_READING_PLAN.md",
+      "sha256": "1dd5ac397bc2a0acba5ce14e8acd9432c2c3243951bf2362d91c6f9c85909245",
+      "bytes": 3101,
+      "lines": 13,
+      "title": "Fixed retrospective plan: 1971 tactile-writing and feedback source",
+      "headings": [
+        "Fixed retrospective plan: 1971 tactile-writing and feedback source",
+        "What was known before this plan",
+        "Tasks"
+      ],
+      "local_links": [
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        9
+      ]
+    },
+    {
+      "path": "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
+      "sha256": "f77a482c8e364cb11f046a5b21c217de6e5986a84f1a78abb21c2f0e9103221f",
+      "bytes": 15003,
+      "lines": 70,
+      "title": "Tactile words, hidden writing and feedback: the 1971 primary study",
+      "headings": [
+        "Tactile words, hidden writing and feedback: the 1971 primary study",
+        "Result and correction",
+        "1. Source, access and reading scope",
+        "2. Who was tested and why?",
+        "3. L.B.: three separate tasks",
+        "4. A.A.: an informative different case",
+        "5. What the feedback data do—and do not—identify",
+        "6. Consequences for Schechter and the P/C-layered comparison"
+      ],
+      "local_links": [
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
+        "LEVY_NEBES_SPERRY_1971_FEEDBACK_PRIMARY_READING_PLAN.md",
+        "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        20,
+        22,
+        58,
+        68,
+        70
+      ]
     },
     {
       "path": "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -10579,8 +10631,8 @@
     },
     {
       "path": "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
-      "sha256": "36ffce8444564f2945d050f7f06950000d20ca160248a4492340ed9e40e5217a",
-      "bytes": 18687,
+      "sha256": "6c087360ac5dbc226cba25ec6506819d81ade19bf3da6d3461732dabec1edd1e",
+      "bytes": 18861,
       "lines": 88,
       "title": "Private local and global fields: one explicit completion",
       "headings": [
@@ -10595,6 +10647,7 @@
       ],
       "local_links": [
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "IIT4_EXCLUSION_AND_PRIVATE_NESTED_FIELDS_AUDIT.md",
@@ -13855,9 +13908,9 @@
     },
     {
       "path": "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
-      "sha256": "a92f849cedb0a681cb29ce3a79ebc33ce230e50ab8208cf56fde55685ac53aae",
-      "bytes": 21165,
-      "lines": 89,
+      "sha256": "e040010ef775b6d66ae2dc16346443a246354a9ebdbdfbe6b4b96823bdcfe048",
+      "bytes": 22003,
+      "lines": 91,
       "title": "Can indirect communication individuate nested subjects?",
       "headings": [
         "Can indirect communication individuate nested subjects?",
@@ -13870,15 +13923,17 @@
         "6. What would genuinely advance the comparison?"
       ],
       "local_links": [
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md",
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
+        "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
       ],
       "risk_phrase_lines": [
-        35,
-        66,
-        80,
-        81
+        68,
+        82,
+        83
       ]
     },
     {

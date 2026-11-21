@@ -2,7 +2,7 @@
 
 ## Result
 
-The [indirect-communication and nesting audit](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) tests an independently motivated thinker-individuation argument against the local/global pair. It identifies additional mental-interaction, occurrence and identity premises; neither physical overlap nor a lateral relay determines the outcome.
+The [indirect-communication and nesting audit](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) tests an independently motivated thinker-individuation argument against the local/global pair. It identifies additional mental-interaction, occurrence and identity premises; neither physical overlap nor a lateral relay determines the outcome. The [1971 primary-source follow-up](LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md) corrects a conflation of L.B.'s tactile tasks and bounds the feedback inference.
 
 The [split-brain private-subject identity evidence audit](SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md) follows up the P/C-layered incidence gap using a simultaneous-task confidence report and a sequential-task control. It does not establish either package or a clinical subject count.
 
