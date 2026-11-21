@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 544,
-  "bytes": 6957928,
-  "line_count": 63241,
+  "document_count": 545,
+  "bytes": 6966178,
+  "line_count": 63273,
   "document_count_with_risk_phrases": 510,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -4747,9 +4747,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "00259f70640087e7cdd26a29b7b80e7abf822d94b265cc44d4194d96a7e60ff5",
-      "bytes": 132527,
-      "lines": 1044,
+      "sha256": "4c5fd110f2ee86ddf11284ac6b1c95d4ae10c8e40a32ca1e9053d6ba542532ae",
+      "bytes": 132707,
+      "lines": 1045,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5143,6 +5143,7 @@
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
         "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
         "SHLAER_TIME_COMPARISON.md",
         "SIMULATION_PLENITUDE_CONSOLIDATION.md",
@@ -5789,14 +5790,14 @@
         280,
         326,
         351,
-        398,
-        490,
-        505,
-        541,
-        550,
-        553,
-        556,
-        620
+        399,
+        491,
+        506,
+        542,
+        551,
+        554,
+        557,
+        621
       ]
     },
     {
@@ -13064,6 +13065,21 @@
       ]
     },
     {
+      "path": "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
+      "sha256": "ee8465d924c7b8697301787d049e2f232ec78874401d27b7b660fbd2369d50df",
+      "bytes": 7966,
+      "lines": 31,
+      "title": "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
+      "headings": [
+        "Shelat and Giesbrecht 2026: reward, lapses and attentional capture",
+        "What this study contributes",
+        "Design and findings",
+        "What follows, and what remains open"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
       "path": "SHEWMON_FOUR_CHILDREN_CLINICAL_EVIDENCE_AND_CONSTITUTION_GATE.md",
       "sha256": "5f4ca1a3caf41b46bd099b39d9678c8ed0c5b0e392e0a97ba32eea931603d2fa",
       "bytes": 10264,
@@ -13448,8 +13464,8 @@
     },
     {
       "path": "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
-      "sha256": "ab9236edb2f155849963123070ea1c837b4d7967047fcc8ba0c120b5890ca1e0",
-      "bytes": 15869,
+      "sha256": "4ac2c8c521858baeeba43437d9641de6e4a566539fdf32ea8593105bf44b8ad3",
+      "bytes": 15973,
       "lines": 65,
       "title": "Split-brain attentional blink: the two primary results now read",
       "headings": [
@@ -13464,6 +13480,7 @@
       "local_links": [
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
+        "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md"
       ],
