@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 419 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 350 verification Python scripts.
+- 421 root Markdown documents including this register; 43 research Markdown documents.
+- 54 original uploaded files, including provenance metadata; 352 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -42,6 +42,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md) — From coupled dynamics to candidate subject boundaries
 - [CAUSAL_RECORD_LINEAGE.md](CAUSAL_RECORD_LINEAGE.md) — From supplied identity markers to derived causal transport
 - [CHAIN_COMPLETE.md](CHAIN_COMPLETE.md) — The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
+- [CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) — The combination problem: full supplied paper and the relational candidate
+- [CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md](CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md) — Fixed calculation plan: physical structures and the combination argument
 - [CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md) — Cicurel's *Brain-centric*: an audit for the experiential and quantum program
 - [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
 - [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
@@ -511,6 +513,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf](sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
+- [sources/uploads/combination.pdf](sources/uploads/combination.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
 - [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
 - [sources/uploads/decombination-export-provenance.json](sources/uploads/decombination-export-provenance.json)
@@ -562,6 +565,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cardiac_pain_xml_crosscheck.py](verification/cardiac_pain_xml_crosscheck.py)
 - [verification/causal_influence_subject_gate.py](verification/causal_influence_subject_gate.py)
 - [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
+- [verification/chalmers_structural_alternatives.py](verification/chalmers_structural_alternatives.py)
+- [verification/chalmers_structural_alternatives_test.py](verification/chalmers_structural_alternatives_test.py)
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)
 - [verification/clock_choice.py](verification/clock_choice.py)
 - [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)

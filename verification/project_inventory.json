@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 462,
-  "bytes": 6035511,
-  "line_count": 58204,
-  "document_count_with_risk_phrases": 434,
+  "document_count": 464,
+  "bytes": 6053058,
+  "line_count": 58289,
+  "document_count_with_risk_phrases": 436,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -935,6 +935,60 @@
         114,
         120,
         122
+      ]
+    },
+    {
+      "path": "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+      "sha256": "6814ff22fc9fc0a7ef2ba1e0464a5bb4003a7fc380d4dd9429985ac617c454d3",
+      "bytes": 13342,
+      "lines": 64,
+      "title": "The combination problem: full supplied paper and the relational candidate",
+      "headings": [
+        "The combination problem: full supplied paper and the relational candidate",
+        "Source and scope",
+        "1. What the complete argument adds",
+        "2. A constructive test of the narrow/broad distinction",
+        "3. What this does and does not answer",
+        "4. Same-domain rivals and next decisive obligations"
+      ],
+      "local_links": [
+        "sources/uploads/combination.pdf",
+        "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
+        "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
+        "verification/chalmers_structural_alternatives.py",
+        "verification/chalmers_structural_alternatives_test.py",
+        "verification/chalmers_structural_alternatives.json",
+        "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
+        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        25,
+        34,
+        36,
+        46
+      ]
+    },
+    {
+      "path": "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
+      "sha256": "f28522bf54b22436039ef2abf4a53b09107069a86798bb4fd8c1a8b9b5528905",
+      "bytes": 2857,
+      "lines": 15,
+      "title": "Fixed calculation plan: physical structures and the combination argument",
+      "headings": [
+        "Fixed calculation plan: physical structures and the combination argument",
+        "Question and scope",
+        "Prespecified calculations",
+        "Assessment"
+      ],
+      "local_links": [
+        "sources/uploads/combination.pdf"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11
       ]
     },
     {
@@ -2352,8 +2406,8 @@
     },
     {
       "path": "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
-      "sha256": "b11f1cea807d202e3e2d79baf3f769d7c3ffbb909d7528dbda52c2af80a0ddb5",
-      "bytes": 12653,
+      "sha256": "8b985413668086e1b6bd59b6067d14f60634ce14ec8fd7b25057719741bf6b73",
+      "bytes": 12774,
       "lines": 81,
       "title": "Subject boundaries and qualitative facets across grains",
       "headings": [
@@ -2372,7 +2426,9 @@
         "verification/cross_grain_facet_identifiability.py",
         "verification/cross_grain_facet_identifiability_test.py",
         "verification/cross_grain_facet_identifiability.json",
-        "COMMON_CONSTITUTION_CLOSURE.md"
+        "COMMON_CONSTITUTION_CLOSURE.md",
+        "sources/uploads/combination.pdf",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md"
       ],
       "risk_phrase_lines": [
         9,
@@ -3930,9 +3986,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "a1fa45cd7c117245b1e829edb97457bbdda0c1ee4d0f43108a6cf57d2eba326b",
-      "bytes": 21659,
-      "lines": 87,
+      "sha256": "bff644bf288c118841c944bec173d5799ef10d2250761759e675b58f88043cb3",
+      "bytes": 22190,
+      "lines": 89,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3944,6 +4000,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
         "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
@@ -3975,14 +4032,14 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        15,
-        31,
-        41,
-        58,
-        75,
-        81
+        13,
+        17,
+        33,
+        43,
+        60,
+        77,
+        83
       ]
     },
     {
@@ -4088,9 +4145,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "97bf3f62892619f7d2bb75321e37faa366690f5adc617ad5287378a072cc2f55",
-      "bytes": 111180,
-      "lines": 894,
+      "sha256": "c51b05e03f1fdeab192e972cc3541261de924a21fd19424ba72288d5b72a2da4",
+      "bytes": 111727,
+      "lines": 898,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4172,6 +4229,8 @@
         "CRN_COCYCLE_STATE_INDEPENDENT_TIME.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
         "CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md",
+        "CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md",
+        "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "CUTOFF_INSTRUMENT_UNIFORMITY.md",
         "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
@@ -4665,6 +4724,8 @@
         "verification/crn_cocycle.py",
         "verification/cross_framework_causal_cutoff.py",
         "verification/cross_framework_local_bracket.py",
+        "verification/cross_grain_facet_identifiability.py",
+        "verification/cross_grain_facet_identifiability_test.py",
         "verification/cutoff_instrument_uniformity.py",
         "verification/daly_affective_music_event_alignment.py",
         "verification/daly_affective_music_event_alignment_test.py",
@@ -4974,19 +5035,19 @@
         44,
         48,
         57,
-        123,
-        168,
-        210,
-        258,
-        280,
-        327,
-        406,
-        421,
-        457,
-        466,
-        469,
-        472,
-        532
+        125,
+        170,
+        212,
+        260,
+        282,
+        329,
+        408,
+        423,
+        459,
+        468,
+        471,
+        474,
+        534
       ]
     },
     {
@@ -8671,8 +8732,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "2de99cdf1eeb00e9e7e394da69408f0918d6fc9fd511d58a43e79597d61a30ff",
-      "bytes": 17397,
+      "sha256": "37e56c4c8a5fcd7a101984d36967f0b55bd2ddf20776cfa5049110af654d6002",
+      "bytes": 17546,
       "lines": 80,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
@@ -8688,6 +8749,7 @@
       "local_links": [
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "verification/plural_ground_dominance_symmetry_gate.py",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"

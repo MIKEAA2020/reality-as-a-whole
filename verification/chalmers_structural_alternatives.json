@@ -1,0 +1,66 @@
+{
+  "model": "same four-spin t=1/4 one-update heat-bath kernel",
+  "graphs": {
+    "fine_spins": {
+      "vertices": 16,
+      "edges": 32,
+      "sorted_degrees": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "max_projected_transition_tv": "0"
+    },
+    "all_edges": {
+      "vertices": 8,
+      "edges": 16,
+      "sorted_degrees": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "max_projected_transition_tv": "0"
+    },
+    "outer_edges": {
+      "vertices": 4,
+      "edges": 4,
+      "sorted_degrees": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "max_projected_transition_tv": "2/21"
+    },
+    "any_mismatch": {
+      "vertices": 2,
+      "edges": 1,
+      "sorted_degrees": [
+        1,
+        1
+      ],
+      "max_projected_transition_tv": "5/24"
+    }
+  },
+  "strong_lumpability": "zero max TV iff all fine rows in each projected fiber agree on projected next-block probabilities",
+  "relabelling_states_checked": 16,
+  "scope": "physical support graph only: no phenomenal identification, subject boundary, autonomous dynamics for non-lumpable projections, or physical substrate claim"
+}

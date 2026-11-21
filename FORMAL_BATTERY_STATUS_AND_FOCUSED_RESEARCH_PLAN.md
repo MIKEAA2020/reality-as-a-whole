@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [full Chalmers manuscript and structure audit](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) reads the complete supplied manuscript, including the previously truncated structural argument. It tests the paper's narrow/broad physical distinction against four projections of the same kernel: they have different support graphs, but two lose autonomous transition predictability. Available broader structure does not establish phenomenal constitution or settle subject boundaries; B4–B5/F2, B9/F3 and B10 remain open.
+
 The [cross-grain facet gate](CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md) shows that either previously proposed whole-level scalar is insufficient to reconstruct two separately marked pair facets, under an additional facet-transport premise. A structured code repairs that informational deficit but not subject constitution, shared experience, or phenomenal quality. The original scalar laws do not claim to encode all experience and are not refuted. B4–B5/F2, B9/F3 and B10 remain open.
 
 The [visual stimulation annotation gate](VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md) finds that different report flags occur in the same patient at the same recorded current, defeating only a dose-plus-patient annotation lookup. The fixed held-out benchmark was suppressed after its strict schema excluded most files; the all-file oracle is an explicitly post-inspection descriptive amendment, not a bridge or a test of the mismatch model. B4–B5/F2, B9/F3 and B10 remain open.

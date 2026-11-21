@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "97ce09330aa54ffa9c7619ab1d5934a4d1b95a85",
-  "file_count": 1451,
+  "base_head": "1e4ac6b288917d02b73acd9733b860896e1ad44a",
+  "file_count": 1457,
   "files": [
     {
       "path": ".gitattributes",
@@ -157,6 +157,16 @@
       "path": "CHAIN_COMPLETE.md",
       "bytes": 9494,
       "sha256": "6dbbeb9ad4d3a705535b360caf9278ded9b800273e12fca0942b20138a22c2a4"
+    },
+    {
+      "path": "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+      "bytes": 13342,
+      "sha256": "6814ff22fc9fc0a7ef2ba1e0464a5bb4003a7fc380d4dd9429985ac617c454d3"
+    },
+    {
+      "path": "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
+      "bytes": 2857,
+      "sha256": "f28522bf54b22436039ef2abf4a53b09107069a86798bb4fd8c1a8b9b5528905"
     },
     {
       "path": "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
@@ -355,8 +365,8 @@
     },
     {
       "path": "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
-      "bytes": 12653,
-      "sha256": "b11f1cea807d202e3e2d79baf3f769d7c3ffbb909d7528dbda52c2af80a0ddb5"
+      "bytes": 12774,
+      "sha256": "8b985413668086e1b6bd59b6067d14f60634ce14ec8fd7b25057719741bf6b73"
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
@@ -610,8 +620,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 21659,
-      "sha256": "a1fa45cd7c117245b1e829edb97457bbdda0c1ee4d0f43108a6cf57d2eba326b"
+      "bytes": 22190,
+      "sha256": "bff644bf288c118841c944bec173d5799ef10d2250761759e675b58f88043cb3"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -635,8 +645,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 111727,
-      "sha256": "c51b05e03f1fdeab192e972cc3541261de924a21fd19424ba72288d5b72a2da4"
+      "bytes": 112381,
+      "sha256": "17ea9bbbb873a96bb6ddb5172bd6d4a755371ea2800eb9a309eed77251bb86ea"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1225,8 +1235,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "bytes": 17397,
-      "sha256": "2de99cdf1eeb00e9e7e394da69408f0918d6fc9fd511d58a43e79597d61a30ff"
+      "bytes": 17546,
+      "sha256": "37e56c4c8a5fcd7a101984d36967f0b55bd2ddf20776cfa5049110af654d6002"
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
@@ -3524,6 +3534,11 @@
       "sha256": "f7a58319ae3e089e6de77c10238ecaa5ef50192f0a8088ac79a8e42901dfc83c"
     },
     {
+      "path": "sources/uploads/combination.pdf",
+      "bytes": 135911,
+      "sha256": "e7948184f9db70613d5dd8048436d640cd0ab1059018e979bd0d55772e40f8ee"
+    },
+    {
       "path": "sources/uploads/complete-intelligibility-side-by-side.md",
       "bytes": 148632,
       "sha256": "e2871d94da86645e1f9af6f4df2e01878b2e31e37f79651dfb5677206aae6e4c"
@@ -3857,6 +3872,21 @@
       "path": "verification/causal_record_lineage.py",
       "bytes": 7858,
       "sha256": "e1d24dd43e713bb1845a698ea4990f6f1865f10892bd120fc4ab87664fafec6a"
+    },
+    {
+      "path": "verification/chalmers_structural_alternatives.json",
+      "bytes": 1319,
+      "sha256": "74d4725db56b78f9a1ca65bb03633c906d818bb06e32ca288f0a7a371376c63e"
+    },
+    {
+      "path": "verification/chalmers_structural_alternatives.py",
+      "bytes": 3580,
+      "sha256": "e9b50a2d216aaacc0e1d8592e8da4ee4cb06f41d382f953ff50f46424cfa6af8"
+    },
+    {
+      "path": "verification/chalmers_structural_alternatives_test.py",
+      "bytes": 1258,
+      "sha256": "022219bce12e8afaf68d7b3a48ef835902810dc219627dba6ef2b3b2d36012d9"
     },
     {
       "path": "verification/cie_metamer_experiential_gate.json",
@@ -5555,8 +5585,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 577818,
-      "sha256": "9114a0c48ac731e3558c85deb223139a85d4fc209e04c79f79c46b0252b7c654"
+      "bytes": 580321,
+      "sha256": "ac24e7cb43d6f576457e4f6b486615629f9a10961535497bc587ce3acb95e598"
     },
     {
       "path": "verification/project_inventory.py",
