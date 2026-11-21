@@ -2,6 +2,8 @@
 
 ## Aim and status
 
+The [collective experience and moral-parody audit](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) distinguishes a phenomenal property, its occurrence and its lived perspective, and compares fixed plural-property facts with alternative singular subject counts. Blaesi's parity challenge imposes the same explanatory standard on the preferred ground and its rivals; the subject bridge remains open.
+
 The [full supplied Bohn paper audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) adds an irreducibly collective-property alternative that does not require microsubjects. Its trickling-down principle and basic plural facts remain distinct from a derived E-L subject/quality rule, and its grounding assumptions need comparison with a whole-first ontology.
 
 The [subjective-character and field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) develops an explicit alternative to a subject-free base: take concrete first-personal fields as basic and identify thin local subjects with them. This avoids an added observer but assumes subject-like fields and their individuation; it does not derive the E-L subject or quality rule.

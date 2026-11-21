@@ -8,6 +8,8 @@ Bohn offers a genuine positive alternative to composing already conscious micro-
 
 This matters directly to the project: it supplies a serious prior formulation of an irreducibly plural experiential base, rather than another version of micro-subject bonding. Yet neither the plural predicate nor the proposed **trickling-down principle** independently chooses the E-L pair subjects, their `q` qualities, or a subject's identity across changing realizers. The [finite common-domain check](verification/bohn_collective_property_gate.py) shows, under clearly stated extra assumptions, that the same two local quality facts and one-way trickling principle permit both presence and absence of a designated *whole-plurality* quality fact. It does not show that such formal interpretations are metaphysically possible or establish the number of subjects.
 
+**Subsequent comparison:** [Collective experience, subject multiplicity, and the moral-parody challenge](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) holds a whole-plurality property fixed while varying singular subject facts, and reads Blaesi's challenge to the explanatory parity of panpsychism and pannormism. Neither comparison supplies subject individuation.
+
 ## 1. Bohn's actual proposal
 
 On pp. 1–2 Bohn defines basic objects and properties in terms of absence of a **full metaphysical explanation**, and initially assumes that nonfundamental facts are ultimately grounded in fundamental facts. His simplified traditional panpsychism attributes basic consciousness properties to individual basic objects; he explicitly says he is not defending panpsychism against physicalism or dualism as such. At the end he considers a non-well-founded alternative.

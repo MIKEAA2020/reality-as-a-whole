@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 435 root Markdown documents including this register; 43 research Markdown documents.
+- 436 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 366 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -54,6 +54,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md](COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md) — Cold-atom entropic time: source audit and connection to our time work
 - [COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md](COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md) — A moving-window test of the cosmological collapse model
 - [COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md](COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md) — Collective causal response is not necessarily collective mechanism
+- [COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) — Collective experience, subject multiplicity, and the moral-parody challenge
 - [COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md](COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md) — From an assumed boundary budget to a conditional intervention test
 - [COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md](COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md) — Color experience and physical structure: an independently anchored test
 - [COMMON_CONSTITUTION_CLOSURE.md](COMMON_CONSTITUTION_CLOSURE.md) — Common constitution: from a correspondence to an intelligible determination

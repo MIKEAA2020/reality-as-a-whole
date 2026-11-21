@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 478,
-  "bytes": 6238232,
-  "line_count": 59369,
-  "document_count_with_risk_phrases": 450,
+  "document_count": 479,
+  "bytes": 6255804,
+  "line_count": 59458,
+  "document_count_with_risk_phrases": 451,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -695,9 +695,9 @@
     },
     {
       "path": "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
-      "sha256": "ce1149e32ad983a14e579a1a40d34b464152448015d12fd8d20944d4eadb2cc2",
-      "bytes": 20350,
-      "lines": 92,
+      "sha256": "06ae69b796226025439f72a4e00399b1c7befda21394811e39d087f39bc57811",
+      "bytes": 20721,
+      "lines": 94,
       "title": "Bohn's plural collective consciousness: full-paper audit and subject interface",
       "headings": [
         "Bohn's plural collective consciousness: full-paper audit and subject interface",
@@ -712,17 +712,18 @@
       "local_links": [
         "sources/uploads/bohn2018.pdf",
         "verification/bohn_collective_property_gate.py",
+        "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "verification/bohn_collective_property_gate.py",
         "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "verification/bohn_collective_property_gate.json"
       ],
       "risk_phrase_lines": [
-        24,
-        44,
-        63,
+        26,
+        46,
         65,
-        92
+        67,
+        94
       ]
     },
     {
@@ -1334,6 +1335,37 @@
         58,
         110,
         118
+      ]
+    },
+    {
+      "path": "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
+      "sha256": "dcee0e5cad5d2db24c19e6a4cf3c2c13077611e00fcae22c3792a288d2132cf2",
+      "bytes": 15896,
+      "lines": 80,
+      "title": "Collective experience, subject multiplicity, and the moral-parody challenge",
+      "headings": [
+        "Collective experience, subject multiplicity, and the moral-parody challenge",
+        "Decision",
+        "1. Sources and reading limits",
+        "2. What a collective phenomenal property must do",
+        "3. One bearer-extension, different subject counts: a narrow counterexample",
+        "4. A conditional bridge and its cost",
+        "5. Blaesi's parity challenge, accurately scoped",
+        "6. Evidence and next discriminating work"
+      ],
+      "local_links": [
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "EPISODE_INCIDENCE_REFORMULATION.md"
+      ],
+      "risk_phrase_lines": [
+        30,
+        51,
+        54,
+        66,
+        70
       ]
     },
     {
@@ -3173,9 +3205,9 @@
     },
     {
       "path": "EPISODE_INCIDENCE_REFORMULATION.md",
-      "sha256": "2ca5779212a115daf2dfd5706f72495cf4ddd163bbec882326039ef07f86a819",
-      "bytes": 10710,
-      "lines": 128,
+      "sha256": "f107f608f9bce01630f89a766e5dcf76502acd39af6e2e27fc58286383155698",
+      "bytes": 11045,
+      "lines": 130,
       "title": "Reformulating composition: incidence, temporal extent, and persistence",
       "headings": [
         "Reformulating composition: incidence, temporal extent, and persistence",
@@ -3188,14 +3220,15 @@
         "6. Explicit stopping rule against simulated discovery"
       ],
       "local_links": [
+        "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md"
       ],
       "risk_phrase_lines": [
-        47,
-        67,
-        116
+        49,
+        69,
+        118
       ]
     },
     {
@@ -4056,9 +4089,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d6221948222bad7070fc66bbccd93368efacf5e0f2bcf258535e5a90832b688c",
-      "bytes": 26997,
-      "lines": 111,
+      "sha256": "8a2642fae247af1a5e34227582e943fc80f9c7c57005a8f803f1c4ff2ffbcf58",
+      "bytes": 27380,
+      "lines": 113,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4070,6 +4103,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
@@ -4113,17 +4147,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        25,
-        33,
+        11,
+        15,
+        27,
         35,
-        39,
-        55,
-        65,
-        82,
-        99,
-        105
+        37,
+        41,
+        57,
+        67,
+        84,
+        101,
+        107
       ]
     },
     {
@@ -4302,9 +4336,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4dd072c681c678b5a83564ad1d6ace8dc28920dfc2021e79334309ece444385a",
-      "bytes": 116516,
-      "lines": 934,
+      "sha256": "8c30045fbffeee070b33bc1307d842e8cb2a448ada57dc6e9456c5c81de753bb",
+      "bytes": 116701,
+      "lines": 935,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4360,6 +4394,7 @@
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
         "COLLAPSE_MOVING_WINDOW_HISTORY_GATE.md",
         "COLLECTIVE_CAUSAL_RESPONSE_AND_COMMON_CAUSE_GATE.md",
+        "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "COLLECTIVE_INTERVENTION_SUBJECT_CONTEXT_GATE.md",
         "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
         "COMMON_CONSTITUTION_CLOSURE.md",
@@ -5227,20 +5262,20 @@
         31,
         45,
         51,
-        60,
-        129,
-        177,
-        225,
-        274,
-        296,
-        343,
-        424,
-        439,
-        475,
-        484,
-        487,
-        490,
-        554
+        61,
+        130,
+        178,
+        226,
+        275,
+        297,
+        344,
+        425,
+        440,
+        476,
+        485,
+        488,
+        491,
+        555
       ]
     },
     {
@@ -9142,9 +9177,9 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "35a0b60b8d81a32e88d2fdd1a36420c3878a5715bccee4b04f47a18c01945a8d",
-      "bytes": 18963,
-      "lines": 85,
+      "sha256": "257885f51d10e88231332e2eafd6d590966f946f582523a3fa34784aeda8b826",
+      "bytes": 19365,
+      "lines": 87,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
         "Plural subjects in an experiential relational ground",
@@ -9157,6 +9192,7 @@
         "6. A productive next experiment in reasoning and evidence"
       ],
       "local_links": [
+        "COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
@@ -9168,10 +9204,10 @@
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
       ],
       "risk_phrase_lines": [
-        60,
-        66,
+        62,
         68,
-        82
+        70,
+        84
       ]
     },
     {
