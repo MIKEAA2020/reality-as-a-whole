@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 515,
-  "bytes": 6636315,
-  "line_count": 61797,
-  "document_count_with_risk_phrases": 485,
+  "document_count": 517,
+  "bytes": 6660870,
+  "line_count": 61909,
+  "document_count_with_risk_phrases": 487,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4242,9 +4242,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "36afa6588d6cb6b07acbc9f01a02735bb1856ded9ec600fdefbf68376541c6c2",
-      "bytes": 37270,
-      "lines": 149,
+      "sha256": "042eb1c36abcebaaad4c2beb6ff9f7d29349e55ec7572c21999155181d9ca9b3",
+      "bytes": 37824,
+      "lines": 151,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4256,6 +4256,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md",
         "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
         "SYNAPTIC_INTERACTION_PREFERENCE_AND_TRANSPORT_GATE.md",
@@ -4322,24 +4323,24 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        11,
-        21,
-        25,
-        31,
+        9,
+        13,
+        23,
+        27,
         33,
-        47,
-        51,
-        63,
-        71,
+        35,
+        49,
+        53,
+        65,
         73,
-        77,
-        93,
-        103,
-        120,
-        137,
-        143
+        75,
+        79,
+        95,
+        105,
+        122,
+        139,
+        145
       ]
     },
     {
@@ -4518,9 +4519,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8952dd342ea4e4bd8687e5495f55e8062d8c0fee061b79f7666bf2621916bbe4",
-      "bytes": 127427,
-      "lines": 1015,
+      "sha256": "5279a847e7f1bedcb70297f098970f962285d87740d59d7259326f7f93b06622",
+      "bytes": 127768,
+      "lines": 1017,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4726,6 +4727,8 @@
         "LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md",
         "LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md",
         "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md",
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
@@ -5527,18 +5530,18 @@
         63,
         133,
         182,
-        233,
-        262,
-        305,
-        328,
-        375,
-        461,
-        476,
-        512,
-        521,
-        524,
-        527,
-        591
+        235,
+        264,
+        307,
+        330,
+        377,
+        463,
+        478,
+        514,
+        523,
+        526,
+        529,
+        593
       ]
     },
     {
@@ -6618,9 +6621,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "749e109b8dfeedf44a7515af8802718fe2fbade6a6573d39e6f5a25e6e9a07c0",
-      "bytes": 23925,
-      "lines": 141,
+      "sha256": "fd9cfbd40c301d8891d5eb0a08818aa6416aecab965c63d690ec89df78947bd1",
+      "bytes": 24319,
+      "lines": 143,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6633,6 +6636,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
@@ -6663,12 +6667,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        27,
         29,
-        82,
-        86,
-        119,
-        141
+        31,
+        84,
+        88,
+        121,
+        143
       ]
     },
     {
@@ -7395,6 +7399,53 @@
         31,
         37,
         50
+      ]
+    },
+    {
+      "path": "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+      "sha256": "00a2e0ddfed77c755028cf365331d38bf68675a225d2a9fb4b0e81aa363d4d02",
+      "bytes": 18935,
+      "lines": 85,
+      "title": "Layered unity and the subject–quality bridge: a common-domain comparison",
+      "headings": [
+        "Layered unity and the subject–quality bridge: a common-domain comparison",
+        "Verdict",
+        "1. Lopez's actual proposal and its support",
+        "2. One physical sector, three explicitly completed packages",
+        "3. What evidence would discriminate the packages?",
+        "4. Quality is a separate question",
+        "5. What would make the comparison informative?",
+        "6. Framework consequences"
+      ],
+      "local_links": [
+        "LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        55
+      ]
+    },
+    {
+      "path": "LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md",
+      "sha256": "15309983391d6d2d775aa854c5dfd5562e2550473952b10446d423a7e8d162ff",
+      "bytes": 3969,
+      "lines": 19,
+      "title": "Fixed plan: layered unity and the integrated subject/quality bridge",
+      "headings": [
+        "Fixed plan: layered unity and the integrated subject/quality bridge",
+        "Question and prior knowledge",
+        "Fixed analysis",
+        "Verification and output"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        7
       ]
     },
     {
@@ -12883,9 +12934,9 @@
     },
     {
       "path": "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
-      "sha256": "da67808691c595bb6df11047872bc2bfdede80513225069a92b35d573509e3a0",
-      "bytes": 13590,
-      "lines": 73,
+      "sha256": "0144adacb788129bc989b8c624d32a4b8622116b92d067aeaee9a4cd5b0d0879",
+      "bytes": 13952,
+      "lines": 75,
       "title": "First-person unity against competing boundary rules: what a real case constrains",
       "headings": [
         "First-person unity against competing boundary rules: what a real case constrains",
@@ -12898,16 +12949,17 @@
         "6. Implication for the framework"
       ],
       "local_links": [
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        33,
-        49
+        9,
+        35,
+        51
       ]
     },
     {

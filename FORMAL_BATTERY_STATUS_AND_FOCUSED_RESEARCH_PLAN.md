@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [layered unity and subject–quality comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) reads Lopez's 2025 account and distinguishes local from global conjoint experience on the existing four-spin L/C interface. A global-only conjunction would challenge a specifically exclusive L completion, but neither the known clinical reports nor attention tasks establish the required target, model mapping or subject coverage. Incidence, partial unity and q-to-quality remain additional commitments; the substantive experiential gates remain open.
+
 The [PAINgen order, response-time selection and timing audit](PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md) finds candidate intensity RT retention of 86.31% versus 89.62% by recorded first-prompt order, and a 0.5 stored-value duration-minus-RT offset for all accepted rating events. This retrospective metadata pattern does not establish causation, timestamp equivalence or the original pipeline. An independent exact synthetic example shows that equal retention rates alone cannot rule out selection bias. The 21 discrepancies and substantive experiential gates remain open.
 
 The [PAINgen task-source and prompt-order audit](PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md) identifies a public candidate task implementation with per-prompt timestamps and a constrained random-order generator. Under an ideal uniform permutation, the eight painful-trial orders are dependent and exactly balanced only with probability 490/1287. Source execution, BIDS conversion and CSV generation remain unverified; the 21 residual discrepancies are still open. No new individual records or outcomes were inspected, and this is not a physical q test.

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 472 root Markdown documents including this register; 43 research Markdown documents.
+- 474 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -204,6 +204,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md](LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md) — Post-schema amendment: actual laser energy, not condition rank
 - [LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md](LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md) — Fixed retrospective plan: laser-pain supplementary ratings
 - [LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md](LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md) — Laser pain reports: promising data, unresolved trial-label provenance
+- [LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) — Layered unity and the subject–quality bridge: a common-domain comparison
+- [LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md](LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md) — Fixed plan: layered unity and the integrated subject/quality bridge
 - [LEIBNIZ_CREATION_AND_APPEARANCE.md](LEIBNIZ_CREATION_AND_APPEARANCE.md) — Leibniz: continuous creation, distinct substances, and perspective
 - [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
 - [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation

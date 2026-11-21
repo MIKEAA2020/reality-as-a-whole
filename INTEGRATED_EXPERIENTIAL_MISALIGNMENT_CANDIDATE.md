@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [layered-unity comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) distinguishes a global conjoint aspect from conjunction of detailed local aspects, applying Lopez's alternative to explicitly completed L/C packages on this same sector. It identifies new incidence and content assumptions without establishing a brain-to-spin map, first-person conjunction assay or q-quality law.
+
 The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) adds a non-constitutive causal-emergence rival to the subject and quality interface, and distinguishes immediate microcausal sufficiency from stronger closure. His producing powers, downward coupling and subject/quality selection remain unverified; neither rival derives the q-to-quality bridge.
 
 The [Bohn plural collective consciousness audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) reads the supplied paper and compares his basic plural-property and trickling-down account with the L/C sector. It offers a genuine non-microsubject alternative, but does not derive the selected subjects or the q-to-quality identity.

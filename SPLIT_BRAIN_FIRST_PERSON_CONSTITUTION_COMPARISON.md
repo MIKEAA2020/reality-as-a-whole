@@ -2,6 +2,8 @@
 
 ## Decision
 
+**Later refinement:** the [layered-unity common-domain comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) distinguishes global from detailed local conjunction. Its conditional challenge to an exclusive L package depends on the specified aspects and the absence of a cross-side field; neither form of conjunction is established in this clinical study.
+
 Pinto and colleagues' 2017 study provides **actual first-person evidence**, alongside behavioral results, relevant to the project's subject-boundary question. Both participants reported seeing their entire visual field and experiencing unchanged conscious unity after surgery. These reports deserve positive evidential weight. They are not, however, a directly calibrated trial-by-trial measurement of the four-spin model's L-versus-C target. The main article does not establish the exact circumstances of the broader phenomenological interview, and its supplementary account has not been inspected here.
 
 On the existing four-spin sector, L and C do make opposite *conditional* claims about joint experience when each selected set is postulated to be exactly one unified field with all its specified contents. An independently warranted, same-window first-person conjunction could distinguish those **completed field packages**. The original toy has no such measured report, no established mapping to split-brain anatomy, and no model for the corresponding human intervention. Thus the 2017 findings neither validate C nor falsify L as defined. They do challenge an oversimplified clinical model that predicts rigidly lateralized response abilities.
