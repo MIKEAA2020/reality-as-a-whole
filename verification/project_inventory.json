@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 540,
-  "bytes": 6914398,
-  "line_count": 63065,
-  "document_count_with_risk_phrases": 506,
+  "document_count": 542,
+  "bytes": 6935412,
+  "line_count": 63152,
+  "document_count_with_risk_phrases": 508,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -375,9 +375,25 @@
       "risk_phrase_lines": []
     },
     {
+      "path": "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
+      "sha256": "0285dd68ddb5b8fa37179a00b710faede048fe4f56ba88ab99bcee906e040d2e",
+      "bytes": 2534,
+      "lines": 13,
+      "title": "Retrospective plan: user-supplied attentional-blink papers",
+      "headings": [
+        "Retrospective plan: user-supplied attentional-blink papers",
+        "Starting point",
+        "Procedure"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        10
+      ]
+    },
+    {
       "path": "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
-      "sha256": "695a690b950f25c374c53883a4a30ca10906e0d303a6e6beb55f16c615a703a1",
-      "bytes": 17096,
+      "sha256": "b5cad32293af0bbb962fc65578fa0d9cb539eae8a8899bc55c5cc76d01902f21",
+      "bytes": 17087,
       "lines": 72,
       "title": "Attention capacity and lived unity: what the cited studies establish",
       "headings": [
@@ -390,15 +406,14 @@
         "Status"
       ],
       "local_links": [
-        "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
-        "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md"
       ],
       "risk_phrase_lines": [
-        27,
         33,
         42,
         45,
@@ -4385,9 +4400,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "3bbd8d7d9bc5cffa36719d5dd3afc6fb98691b002951f070c4f948dd05bac115",
-      "bytes": 43347,
-      "lines": 175,
+      "sha256": "67c463d28cda7a2a85a8bd98c22ca3e72427a44a4ce41e44f570410b9a2ac3ba",
+      "bytes": 43920,
+      "lines": 177,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4399,6 +4414,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
@@ -4478,26 +4494,26 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
         13,
-        31,
+        15,
         33,
-        37,
-        47,
-        51,
-        57,
+        35,
+        39,
+        49,
+        53,
         59,
-        73,
-        77,
-        89,
-        97,
+        61,
+        75,
+        79,
+        91,
         99,
-        103,
-        119,
-        129,
-        146,
-        163,
-        169
+        101,
+        105,
+        121,
+        131,
+        148,
+        165,
+        171
       ]
     },
     {
@@ -4676,9 +4692,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a72caece385a45fbf850d5e99dc4c36375449d49ce1d0b04ab5fe2502be68bd0",
-      "bytes": 131794,
-      "lines": 1040,
+      "sha256": "a0c544847e982daab4b9d8ff08c5ffc83be299fbb4d7a4c139a1ccec5df1f6a1",
+      "bytes": 132143,
+      "lines": 1042,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4704,6 +4720,7 @@
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
+        "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md",
         "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
         "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
         "AUTONOMOUS_RECORD_INSTRUMENT.md",
@@ -5081,6 +5098,7 @@
         "SPECTRAL_ACTION_BOUNCE.md",
         "SPECTRAL_ACTION_FINITE_SM.md",
         "SPHERICAL_SCALAR_RADIATION.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
@@ -5704,24 +5722,24 @@
       ],
       "risk_phrase_lines": [
         17,
-        34,
-        53,
-        59,
-        69,
-        139,
-        191,
-        248,
-        277,
-        323,
-        348,
-        395,
-        486,
-        501,
-        537,
-        546,
-        549,
-        552,
-        616
+        35,
+        54,
+        60,
+        70,
+        140,
+        192,
+        249,
+        278,
+        324,
+        349,
+        396,
+        488,
+        503,
+        539,
+        548,
+        551,
+        554,
+        618
       ]
     },
     {
@@ -10847,9 +10865,9 @@
     },
     {
       "path": "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
-      "sha256": "1d548f58999421f65d69f63bfbbd500596072029c382eb5b69afbe99ec71726a",
-      "bytes": 11606,
-      "lines": 47,
+      "sha256": "263f77766c0757cd3fbfdfac121b9d9ec8a882d0a5efde2043f51ce2f178f78c",
+      "bytes": 12148,
+      "lines": 49,
       "title": "Ptito's attentional-blink study: a partial methods recovery",
       "headings": [
         "Ptito's attentional-blink study: a partial methods recovery",
@@ -10861,14 +10879,16 @@
         "5. Next evidence gate"
       ],
       "local_links": [
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
-        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md"
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        29,
-        33,
-        43
+        35
       ]
     },
     {
@@ -13370,10 +13390,35 @@
       "risk_phrase_lines": []
     },
     {
+      "path": "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+      "sha256": "38806a41153af64c845cd1b7fed163986ae41b9bd063d8c22105e695b044bcd9",
+      "bytes": 16319,
+      "lines": 66,
+      "title": "Split-brain attentional blink: the two primary results now read",
+      "headings": [
+        "Split-brain attentional blink: the two primary results now read",
+        "Answer and corrections",
+        "1. What was accessed",
+        "2. Giesbrecht and Kingstone 2004: actual methods and results",
+        "3. Ptito 2009: what the reported blink actually is",
+        "4. Layout and task comparison without the previous conflation",
+        "5. Consequences and missing inputs"
+      ],
+      "local_links": [
+        "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
+        "ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md"
+      ],
+      "risk_phrase_lines": [
+        25,
+        56,
+        60
+      ]
+    },
+    {
       "path": "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
-      "sha256": "4b389e2e3480ae2252601201ffe73c3d0441ed24f2fae7c65553dea3a97ae2d7",
-      "bytes": 12921,
-      "lines": 57,
+      "sha256": "18245633ca5642ba0c9b442605cb0b873d0ac4e310b8c4587f6253d62bceae18",
+      "bytes": 13627,
+      "lines": 59,
       "title": "Two split-brain blink studies: what is being conditioned on?",
       "headings": [
         "Two split-brain blink studies: what is being conditioned on?",
@@ -13386,14 +13431,18 @@
         "6. Next evidence gate"
       ],
       "local_links": [
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
-        "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md"
+        "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
+        "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        21,
-        38,
-        47
+        9,
+        23,
+        49
       ]
     },
     {

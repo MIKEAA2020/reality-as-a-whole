@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 497 root Markdown documents including this register; 43 research Markdown documents.
+- 499 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -24,6 +24,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md](AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md) — Discriminating mismatch from affect-prediction error
 - [ARTICULATED_SELF_PRESENCE.md](ARTICULATED_SELF_PRESENCE.md) — Articulated self-presence: positive warrant and a composition consequence
 - [ASPHERICAL_QUADRUPOLE_LOSS.md](ASPHERICAL_QUADRUPOLE_LOSS.md) — Weak aspherical quadrupole losses beyond perfect spherical symmetry
+- [ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md](ATTENTIONAL_BLINK_SUPPLIED_PAPERS_READING_PLAN.md) — Retrospective plan: user-supplied attentional-blink papers
 - [ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) — Attention capacity and lived unity: what the cited studies establish
 - [ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md](ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md) — Fixed plan: attention evidence and the subject bridge
 - [AUTONOMOUS_RECORD_INSTRUMENT.md](AUTONOMOUS_RECORD_INSTRUMENT.md) — Autonomous finite-time detector–memory registration
@@ -401,6 +402,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
+- [SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md](SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md) — Split-brain attentional blink: the two primary results now read
 - [SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md](SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md) — Two split-brain blink studies: what is being conditioned on?
 - [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
 - [SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) — First-person unity against competing boundary rules: what a real case constrains
