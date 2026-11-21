@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c7ab6c7a49c2da6e4ed67f2ab4f9420361202b7d",
-  "file_count": 1509,
+  "base_head": "32b1a710a6299e0b5c5ae399cf32153a79f6b841",
+  "file_count": 1513,
   "files": [
     {
       "path": ".gitattributes",
@@ -395,8 +395,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "bytes": 12046,
-      "sha256": "beb2882d250003ea24aa51354b369e87536f20e2cc491f10d09c262003eab3ea"
+      "bytes": 12199,
+      "sha256": "6a543dd8aff739d371fdf4e087b50f44907b4263871b844a6a73f614fcce1f9a"
     },
     {
       "path": "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
@@ -650,8 +650,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 28870,
-      "sha256": "c038c7cbf911ad513851a243b3dc0704694c7839bd7ebeca6ccaad4e1c9c718c"
+      "bytes": 29127,
+      "sha256": "2627639df29016a1337793f25ef21ea66c101885a71ba31a1d045bf95a95a1e7"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -685,8 +685,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 117969,
-      "sha256": "c356239fc182db27cb402d0535ca4e75e62e2db6135806a904207b5a6d244fbb"
+      "bytes": 118304,
+      "sha256": "c48cc7850c1ccfe66dc3a1d917eed0e780f2eedb21254aa5bef193ee3c146227"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1210,8 +1210,13 @@
     },
     {
       "path": "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
-      "bytes": 19263,
-      "sha256": "ce698f45bd0c5e763bfd74364c8fd406c5b67d9d39ebf54d873a40ac0d94b146"
+      "bytes": 19479,
+      "sha256": "7b9ba81ab2b3744d026b654ed6836657d5c45d949cb34e1b0920e67a514edd9c"
+    },
+    {
+      "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+      "bytes": 13649,
+      "sha256": "b5c63c6ee5253051996903ee407bd5a5590743a3dce6c9561100bac55a885b07"
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
@@ -1900,8 +1905,8 @@
     },
     {
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
-      "bytes": 12688,
-      "sha256": "43d712ae50d7c4e14bedd9f4c3dc69555816ad31078d488b2c91af9e2db7db75"
+      "bytes": 12857,
+      "sha256": "17916a8687d8261a887f81bb9b055aa007e45905938c68fc91a4257b0d0f183b"
     },
     {
       "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
@@ -5604,6 +5609,21 @@
       "sha256": "b6e114abb090c563c08d1574b68f2806262bc5920ad1e81c65b772361928171f"
     },
     {
+      "path": "verification/ottinger_annihilation_gate.json",
+      "bytes": 1352,
+      "sha256": "2c085af451fc5dcab47697ca6995c394e3e8e28d3f11cd683c660514c064f113"
+    },
+    {
+      "path": "verification/ottinger_annihilation_gate.py",
+      "bytes": 3271,
+      "sha256": "7c56c295f357cc8a711819e75a36d3b3377db762dbd8a3056275c5d9e43e46ec"
+    },
+    {
+      "path": "verification/ottinger_annihilation_gate_test.py",
+      "bytes": 926,
+      "sha256": "59cc830d74005217da835f86c14f6bbea6b2d617983af8e811575c7cbec746e8"
+    },
+    {
       "path": "verification/page_wootters_static_clock.json",
       "bytes": 1357,
       "sha256": "2ffc85d9aef72a45af91afa0ff94dc82411bc32f14b24dca79a2591689790429"
@@ -5845,8 +5865,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 607264,
-      "sha256": "ec7b96ebf97414367e39a209448dab4facfbe3ed1d5f6e92c031a5e4a4cc5acf"
+      "bytes": 608978,
+      "sha256": "290acd5d4f76ee3db132546ca12c76e6eb81f0f4e20ead685dc2fce46cd7d39f"
     },
     {
       "path": "verification/project_inventory.py",

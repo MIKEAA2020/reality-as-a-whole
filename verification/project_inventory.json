@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 483,
-  "bytes": 6331597,
-  "line_count": 59939,
-  "document_count_with_risk_phrases": 454,
+  "document_count": 484,
+  "bytes": 6346376,
+  "line_count": 60029,
+  "document_count_with_risk_phrases": 455,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2644,8 +2644,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "sha256": "beb2882d250003ea24aa51354b369e87536f20e2cc491f10d09c262003eab3ea",
-      "bytes": 12046,
+      "sha256": "6a543dd8aff739d371fdf4e087b50f44907b4263871b844a6a73f614fcce1f9a",
+      "bytes": 12199,
       "lines": 83,
       "title": "A necessary intermediate step: what can converge uniformly?",
       "headings": [
@@ -2658,6 +2658,7 @@
       ],
       "local_links": [
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md",
         "DEPENDENCY_DRIVEN_RESEARCH_PLAN.md",
         "CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md",
@@ -4193,8 +4194,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "c038c7cbf911ad513851a243b3dc0704694c7839bd7ebeca6ccaad4e1c9c718c",
-      "bytes": 28870,
+      "sha256": "2627639df29016a1337793f25ef21ea66c101885a71ba31a1d045bf95a95a1e7",
+      "bytes": 29127,
       "lines": 121,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4208,6 +4209,7 @@
       ],
       "local_links": [
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
@@ -4444,9 +4446,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c356239fc182db27cb402d0535ca4e75e62e2db6135806a904207b5a6d244fbb",
-      "bytes": 117969,
-      "lines": 945,
+      "sha256": "c48cc7850c1ccfe66dc3a1d917eed0e780f2eedb21254aa5bef193ee3c146227",
+      "bytes": 118304,
+      "lines": 948,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4699,6 +4701,7 @@
         "OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md",
         "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
@@ -5194,6 +5197,8 @@
         "verification/oph_icosahedral_chsh_gate.py",
         "verification/oph_unification_koide_gate.py",
         "verification/orientation_visibility_contrast.py",
+        "verification/ottinger_annihilation_gate.py",
+        "verification/ottinger_annihilation_gate_test.py",
         "verification/page_wootters_static_clock.py",
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
@@ -5384,16 +5389,16 @@
         132,
         181,
         229,
-        279,
-        301,
-        348,
-        429,
-        444,
-        480,
-        489,
-        492,
-        495,
-        559
+        280,
+        302,
+        349,
+        430,
+        445,
+        481,
+        490,
+        493,
+        496,
+        560
       ]
     },
     {
@@ -8697,9 +8702,9 @@
     },
     {
       "path": "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
-      "sha256": "ce698f45bd0c5e763bfd74364c8fd406c5b67d9d39ebf54d873a40ac0d94b146",
-      "bytes": 19263,
-      "lines": 135,
+      "sha256": "7b9ba81ab2b3744d026b654ed6836657d5c45d949cb34e1b0920e67a514edd9c",
+      "bytes": 19479,
+      "lines": 137,
       "title": "Öttinger’s dissipative QFT: uploaded excerpt and limit audit",
       "headings": [
         "Öttinger’s dissipative QFT: uploaded excerpt and limit audit",
@@ -8712,19 +8717,53 @@
         "6. Ontology, information and measurement"
       ],
       "local_links": [
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
         "verification/dissipative_qft_limit_gate.py",
         "verification/dissipative_qft_limit_gate.json"
       ],
       "risk_phrase_lines": [
-        5,
-        34,
-        38,
+        7,
+        36,
+        40,
+        49,
+        54,
+        75,
+        120,
+        133
+      ]
+    },
+    {
+      "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
+      "sha256": "b5c63c6ee5253051996903ee407bd5a5590743a3dce6c9561100bac55a885b07",
+      "bytes": 13649,
+      "lines": 85,
+      "title": "Öttinger’s full book: scalar and QED follow-up",
+      "headings": [
+        "Öttinger’s full book: scalar and QED follow-up",
+        "Decision and scope",
+        "1. Source and access",
+        "2. What the later chapters actually establish or propose",
+        "3. Framework interface",
+        "4. Independent gate: angular limit and forward nonuniformity",
+        "5. A numerical source warning: electron-mass units",
+        "6. Reproduction and next decisive work"
+      ],
+      "local_links": [
+        "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
+        "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
+        "research/quasilocal_limit/REPORT.md",
+        "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "verification/ottinger_annihilation_gate.py",
+        "verification/ottinger_annihilation_gate.json"
+      ],
+      "risk_phrase_lines": [
+        35,
         47,
-        52,
-        73,
-        118,
-        131
+        81
       ]
     },
     {
@@ -13239,8 +13278,8 @@
     },
     {
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
-      "sha256": "43d712ae50d7c4e14bedd9f4c3dc69555816ad31078d488b2c91af9e2db7db75",
-      "bytes": 12688,
+      "sha256": "17916a8687d8261a887f81bb9b055aa007e45905938c68fc91a4257b0d0f183b",
+      "bytes": 12857,
       "lines": 157,
       "title": "A 3+1-dimensional smooth-probe gate: what survives the ultraviolet obstacle",
       "headings": [
@@ -13256,6 +13295,7 @@
       "local_links": [
         "THREE_DIMENSIONAL_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+        "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
         "SMOOTH_SWITCHING_ZERO_MODE_LOCALITY_GATE.md",
         "LOCAL_TWO_FIELD_PROBE_AND_CUTOFF_ORDER.md",

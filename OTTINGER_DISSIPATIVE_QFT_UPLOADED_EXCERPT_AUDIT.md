@@ -2,6 +2,8 @@
 
 ## Decision
 
+**Update:** A later attachment includes the full book. See the [scalar and QED follow-up](OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md). The missing-chapter statements below describe only the earlier `qft_teaser.pdf`.
+
 The supplied `qft_teaser.pdf` is not a paper or the complete book. It contains the front matter and Chapter 1 of Hans Christian Öttinger’s *A Philosophical Approach to Quantum Field Theory* (2017), ending **mid-sentence at printed page 109**. The later scalar-field, QED, gravity-related perspectives, appendices and bibliography listed in its contents are not included. The chapter proposes a thermodynamic quantum master-equation approach in which dissipation acts as a dynamical UV regulator; it does not, in the supplied excerpt, establish a complete interacting QFT, a unique ontology, a Planck-scale law, or a solution of the measurement problem.
 
 A specific useful constraint follows already in the book’s **free zero-temperature equation**. Even in its invariant vacuum/one-particle sector, equilibration and removal of dissipation need not commute. With initially one quantum, the final excitation probability is zero if one equilibrates first at fixed positive damping, but one if one sets the damping to zero first. Along joint limits intermediate values occur. Moreover, damping vanishes on each fixed momentum while failing to vanish uniformly over arbitrarily high momenta. These are elementary consequences of a deliberately restricted free model—not a refutation of the book’s renormalized correlation-function proposal, which uses specified limiting prescriptions and additional structure.

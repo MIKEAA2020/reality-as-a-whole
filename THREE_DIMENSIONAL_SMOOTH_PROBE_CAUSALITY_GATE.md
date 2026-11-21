@@ -4,7 +4,7 @@
 
 ## Results
 
-**Related uploaded-source audit:** [Öttinger’s dissipative QFT excerpt](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) distinguishes finite-mode delta kernels from the continuum distribution and analyzes relaxation/cutoff limit order in a free damped mode. The present reversible two-field estimates do not automatically transfer to his nonlinear interacting model.
+**Related uploaded-source audit:** [Öttinger’s dissipative QFT excerpt](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) distinguishes finite-mode delta kernels from the continuum distribution and analyzes relaxation/cutoff limit order in a free damped mode. The [full-book follow-up](OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md) distinguishes later scalar/QED calculations from the still-open interacting continuum construction. The present reversible two-field estimates do not automatically transfer to his nonlinear interacting model.
 
 The prior [1+1 two-field continuum proof](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) cannot simply be copied to three spatial dimensions: its instantaneous pair-creation kernel is not Hilbert–Schmidt. Three further results distinguish that failure from a failure of the physical proposal:
 

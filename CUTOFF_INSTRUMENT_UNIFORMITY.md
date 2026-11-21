@@ -1,6 +1,6 @@
 # A necessary intermediate step: what can converge uniformly?
 
-**Related comparison:** [Öttinger’s dissipative QFT excerpt](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) gives a free-sector example where damping vanishes at each fixed momentum but not uniformly across all unbounded momenta, and where weak-damping and equilibration limits differ. It does not establish this note's instrument bounds for the dissipative interacting model.
+**Related comparison:** [Öttinger’s dissipative QFT excerpt](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) gives a free-sector example where damping vanishes at each fixed momentum but not uniformly across all unbounded momenta, and where weak-damping and equilibration limits differ. The [full-book follow-up](OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md) adds a distinct nonuniform forward-angle limit in the zero-dissipation QED benchmark. Neither establishes this note's instrument bounds for the dissipative interacting model.
 
 **Subsequent restricted advance:** [the common-Fock-space continuum comparison](CONTINUUM_COMPLETE_INSTRUMENT_CONVERGENCE.md) establishes bounds for each complete ordered instrument under a different normal-ordered oscillator-energy constraint and zero-mode regulator. It does not establish the original kinetic-only continuum claim or a physical probe; this note retains its original fixed-cutoff scope.
 

@@ -1,0 +1,67 @@
+{
+  "scope": "quoted lowest-order zero-dissipation expressions; not an amplitude derivation",
+  "exact_rational_comparisons": 36,
+  "threshold_shape": "1",
+  "forward_shape": "1+2*x^2",
+  "moving_angle_scaled_limit": "2/3",
+  "moving_angle_samples": [
+    {
+      "x": 10,
+      "scaled_amplitude": 0.6700371360499323
+    },
+    {
+      "x": 100,
+      "scaled_amplitude": 0.6667000037038024
+    },
+    {
+      "x": 1000,
+      "scaled_amplitude": 0.6666670000003704
+    },
+    {
+      "x": 10000,
+      "scaled_amplitude": 0.66666667
+    }
+  ],
+  "fixed_angle_integrals": [
+    {
+      "z": 0.1,
+      "simpson": 0.100670695462151,
+      "closed": 0.10067069546215124
+    },
+    {
+      "z": 0.5,
+      "simpson": 0.5986122886681101,
+      "closed": 0.5986122886681098
+    },
+    {
+      "z": 0.742,
+      "simpson": 1.16782957249084,
+      "closed": 1.1678295724908305
+    },
+    {
+      "z": 0.9,
+      "simpson": 2.0444389791672157,
+      "closed": 2.044438979166441
+    }
+  ],
+  "finite_x_integrals": [
+    {
+      "x": 5,
+      "integral": 1.21048597810164
+    },
+    {
+      "x": 20,
+      "integral": 1.1708390166950347
+    },
+    {
+      "x": 100,
+      "integral": 1.1679509108618809
+    },
+    {
+      "x": 1000,
+      "integral": 1.1678307862730801
+    }
+  ],
+  "electron_mass_MeV_rounded": 0.511,
+  "electron_mass_GeV_rounded": 0.000511
+}
