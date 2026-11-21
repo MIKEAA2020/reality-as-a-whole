@@ -2,6 +2,8 @@
 
 ## Verdict
 
+**Primary-evidence follow-up:** the [attention-capacity audit](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) checks accessible abstracts and excerpts of three studies underlying the attention argument, distinguishes their tasks and patient groups, and identifies where the inference to experienced centrality remains open. Full primary methods and results were not available in that follow-up.
+
 The integrated candidate's two-subject L rule and the one-subject C rival do **not** by themselves predict everything needed for a test of lived unity. In particular, a coarse aspect of two sides might be experienced together while detailed aspects are not. A. Lopez's layered account develops this as a serious, experience-respecting possibility, not as a new patient measurement. Taking it seriously exposes an extra assumption in our earlier binary test: a positive **global** conjunction contradicts the earlier *exclusive two-field package* only if that package also rules out an encompassing field or a global conjunction within an existing field. Conversely, evidence of global conjunction does not by itself establish conjunction of the detailed local aspects.
 
 The research advance is a sharper **conditional decision table**, not a newly discovered subject or a physical-to-phenomenal law. Existing split-brain findings and first-person testimony are relevant but do not implement this table on the four-spin sector. The `q`-to-unpleasantness identity remains an independent postulate, and neither a boundary result nor a report prediction settles whether experience is the intrinsic ground of the whole.

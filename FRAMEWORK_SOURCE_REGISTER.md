@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 474 root Markdown documents including this register; 43 research Markdown documents.
+- 476 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -24,6 +24,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md](AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md) — Discriminating mismatch from affect-prediction error
 - [ARTICULATED_SELF_PRESENCE.md](ARTICULATED_SELF_PRESENCE.md) — Articulated self-presence: positive warrant and a composition consequence
 - [ASPHERICAL_QUADRUPOLE_LOSS.md](ASPHERICAL_QUADRUPOLE_LOSS.md) — Weak aspherical quadrupole losses beyond perfect spherical symmetry
+- [ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) — Attention capacity and lived unity: what the cited studies establish
+- [ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md](ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md) — Fixed plan: attention evidence and the subject bridge
 - [AUTONOMOUS_RECORD_INSTRUMENT.md](AUTONOMOUS_RECORD_INSTRUMENT.md) — Autonomous finite-time detector–memory registration
 - [AUTONOMOUS_RECORD_TAPE.md](AUTONOMOUS_RECORD_TAPE.md) — One physical clock, a finite noisy record tape
 - [AUTONOMOUS_STOP_CLOCK.md](AUTONOMOUS_STOP_CLOCK.md) — An autonomous stopped-clock event instrument

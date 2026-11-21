@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [attention-capacity and lived-unity evidence audit](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) checks accessible primary abstracts and excerpts behind Lopez's attention argument. Ptito's four-stream design addresses a real stream-layout confound, but its nonsignificant within/across comparison is not equivalence; Arguin's task includes predominantly partial callosotomies. Neither directly supplies a four-spin mapping or same-window conjunction assay. The substantive bridge remains open.
+
 The [layered unity and subject–quality comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) reads Lopez's 2025 account and distinguishes local from global conjoint experience on the existing four-spin L/C interface. A global-only conjunction would challenge a specifically exclusive L completion, but neither the known clinical reports nor attention tasks establish the required target, model mapping or subject coverage. Incidence, partial unity and q-to-quality remain additional commitments; the substantive experiential gates remain open.
 
 The [PAINgen order, response-time selection and timing audit](PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md) finds candidate intensity RT retention of 86.31% versus 89.62% by recorded first-prompt order, and a 0.5 stored-value duration-minus-RT offset for all accepted rating events. This retrospective metadata pattern does not establish causation, timestamp equivalence or the original pipeline. An independent exact synthetic example shows that equal retention rates alone cannot rule out selection bias. The 21 discrepancies and substantive experiential gates remain open.

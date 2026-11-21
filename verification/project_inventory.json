@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 517,
-  "bytes": 6660870,
-  "line_count": 61909,
-  "document_count_with_risk_phrases": 487,
+  "document_count": 519,
+  "bytes": 6682121,
+  "line_count": 62001,
+  "document_count_with_risk_phrases": 488,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -371,6 +371,53 @@
         "PHOTON_ECHO_READOUT.md",
         "verification/aspherical_quadrupole_loss.py",
         "verification/aspherical_quadrupole_loss.json"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
+      "sha256": "0737b127611364e7a720c356a1622fc0aa23cce428f4537a8d2c8efa57ff82a3",
+      "bytes": 16379,
+      "lines": 70,
+      "title": "Attention capacity and lived unity: what the cited studies establish",
+      "headings": [
+        "Attention capacity and lived unity: what the cited studies establish",
+        "Bottom line",
+        "1. Source access and the actual observations",
+        "2. The inferential chain and what could break it",
+        "3. Return to the existing L/C decision",
+        "4. A realistic next evidence gate",
+        "Status"
+      ],
+      "local_links": [
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        25,
+        31,
+        40,
+        43,
+        59
+      ]
+    },
+    {
+      "path": "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
+      "sha256": "b0005b3d35abfe31dbcfb515bda9a152e73834b227c46ee8f7d1b3b7072a2b07",
+      "bytes": 3608,
+      "lines": 16,
+      "title": "Fixed plan: attention evidence and the subject bridge",
+      "headings": [
+        "Fixed plan: attention evidence and the subject bridge",
+        "Question and prior knowledge",
+        "Scope and fixed checks",
+        "Deliverable and validation"
+      ],
+      "local_links": [
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
+        "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md"
       ],
       "risk_phrase_lines": []
     },
@@ -4242,9 +4289,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "042eb1c36abcebaaad4c2beb6ff9f7d29349e55ec7572c21999155181d9ca9b3",
-      "bytes": 37824,
-      "lines": 151,
+      "sha256": "2a25376e78a279597291f58602f3500c34702700a0c95e6171bd660a8ea361c7",
+      "bytes": 38335,
+      "lines": 153,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4256,6 +4303,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "PAINGEN_ORDER_RT_SELECTION_AND_TIMING_AUDIT.md",
         "PAINGEN_TASK_SOURCE_AND_PROMPT_ORDER_AUDIT.md",
@@ -4323,24 +4371,24 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        13,
-        23,
-        27,
-        33,
+        11,
+        15,
+        25,
+        29,
         35,
-        49,
-        53,
-        65,
-        73,
+        37,
+        51,
+        55,
+        67,
         75,
-        79,
-        95,
-        105,
-        122,
-        139,
-        145
+        77,
+        81,
+        97,
+        107,
+        124,
+        141,
+        147
       ]
     },
     {
@@ -4519,9 +4567,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5279a847e7f1bedcb70297f098970f962285d87740d59d7259326f7f93b06622",
-      "bytes": 127768,
-      "lines": 1017,
+      "sha256": "753fde6828dd1ebbf64c313fb6e804ac2c6d92a26f2ad549eb8b32d8dd8589b8",
+      "bytes": 128115,
+      "lines": 1019,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4547,6 +4595,8 @@
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
+        "ATTENTION_UNITY_PRIMARY_EVIDENCE_FIXED_PLAN.md",
         "AUTONOMOUS_RECORD_INSTRUMENT.md",
         "AUTONOMOUS_RECORD_TAPE.md",
         "AUTONOMOUS_STOP_CLOCK.md",
@@ -5524,24 +5574,24 @@
       ],
       "risk_phrase_lines": [
         17,
-        32,
-        47,
-        53,
-        63,
-        133,
-        182,
-        235,
-        264,
-        307,
-        330,
-        377,
-        463,
-        478,
-        514,
-        523,
-        526,
-        529,
-        593
+        34,
+        49,
+        55,
+        65,
+        135,
+        184,
+        237,
+        266,
+        309,
+        332,
+        379,
+        465,
+        480,
+        516,
+        525,
+        528,
+        531,
+        595
       ]
     },
     {
@@ -7403,9 +7453,9 @@
     },
     {
       "path": "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
-      "sha256": "00a2e0ddfed77c755028cf365331d38bf68675a225d2a9fb4b0e81aa363d4d02",
-      "bytes": 18935,
-      "lines": 85,
+      "sha256": "8c39f08ec2c887f24589535433bd180fa209d6fec55ed2e1324feac472361c4b",
+      "bytes": 19341,
+      "lines": 87,
       "title": "Layered unity and the subject–quality bridge: a common-domain comparison",
       "headings": [
         "Layered unity and the subject–quality bridge: a common-domain comparison",
@@ -7418,6 +7468,7 @@
         "6. Framework consequences"
       ],
       "local_links": [
+        "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
         "LAYERED_UNITY_COMMON_DOMAIN_FIXED_PLAN.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md",
@@ -7427,8 +7478,8 @@
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md"
       ],
       "risk_phrase_lines": [
-        19,
-        55
+        21,
+        57
       ]
     },
     {
