@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [laser-pain single-trial provenance gate](LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md) identifies 95 people and a potential same-trial pain-intensity/EEG resource, but its supplementary table has unresolved trial joins, fractional ratings, NaNs and zero-energy suffixes. An exploratory baseline was calculated and then suppressed because the fixed provenance stop condition was not met. Pain intensity is not independently measured unpleasantness; neither mismatch nor a subject bridge was tested. B4–B5/F2, B9/F3 and B10 remain open.
+
 The [Kemeny–Snell reversible weak-lumpability audit](KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md) verifies the hypotheses of a known theorem for the existing four-spin sector. None of the five previously non-lumpable projections becomes an exact homogeneous first-order Markov chain for any initial distribution; the three-edge projection works for all. This is a stronger physical constraint, not a subject or experience bridge. B4–B5/F2, B9/F3 and B10 remain open.
 
 The [full Chalmers manuscript and structure audit](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) reads the complete supplied manuscript, including the previously truncated structural argument. It tests the paper's narrow/broad physical distinction against four projections of the same kernel: they have different support graphs, but two lose autonomous transition predictability. Available broader structure does not establish phenomenal constitution or settle subject boundaries; B4–B5/F2, B9/F3 and B10 remain open.

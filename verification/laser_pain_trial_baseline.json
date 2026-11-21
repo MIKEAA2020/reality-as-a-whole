@@ -1,0 +1,32 @@
+{
+  "git_blob": "8b995c541e7084bc616501c626f90505b35a89cf",
+  "sha256": "12b5d1384ffc64a5f02c22a72ebcc9a29074f2bafac0da8f96f5a37a08861f2b",
+  "rows": 7600,
+  "distinct_ids": 95,
+  "rows_per_id_distribution": {
+    "80": 95
+  },
+  "field_flags": {
+    "positive_energy_finite_rating": 6238,
+    "fractional_rating": 1241,
+    "zero_energy": 309,
+    "nonfinite_rating": 1053
+  },
+  "ids_with_nonfinite_rating": 90,
+  "ids_with_fractional_rating": 56,
+  "ids_with_zero_energy": 56,
+  "zero_energy_ids_with_suffix_only": 56,
+  "energy_counts": {
+    "0": 309,
+    "2": 371,
+    "2.25": 986,
+    "2.5": 878,
+    "3": 1853,
+    "3.5": 854,
+    "3.75": 973,
+    "4": 469,
+    "4.5": 907
+  },
+  "score_status": "suppressed: trial-level label construction, scale and excluded records not independently validated",
+  "scope": "author supplementary table only; no raw EEG, observed pain, unpleasantness, physical mismatch or subject inference"
+}

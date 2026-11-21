@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 423 root Markdown documents including this register; 43 research Markdown documents.
-- 55 original uploaded files, including provenance metadata; 354 verification Python scripts.
+- 426 root Markdown documents including this register; 43 research Markdown documents.
+- 55 original uploaded files, including provenance metadata; 356 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -188,6 +188,9 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md](KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md) — Knowability and actuality: a foundation gate
 - [KO_DIMENSION6_SM.md](KO_DIMENSION6_SM.md) — KO-dimension 6 and the 3-generation constraint
 - [K_PAIRWISE_CONSTRAINTS_GAUGE_AND_FRAMEWORK.md](K_PAIRWISE_CONSTRAINTS_GAUGE_AND_FRAMEWORK.md) — Collective statistics, parameter gauge, and the limits of a relational inference
+- [LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md](LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md) — Post-schema amendment: actual laser energy, not condition rank
+- [LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md](LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md) — Fixed retrospective plan: laser-pain supplementary ratings
+- [LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md](LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md) — Laser pain reports: promising data, unresolved trial-label provenance
 - [LEIBNIZ_CREATION_AND_APPEARANCE.md](LEIBNIZ_CREATION_AND_APPEARANCE.md) — Leibniz: continuous creation, distinct substances, and perspective
 - [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
 - [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation
@@ -685,6 +688,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/kms_beta_two_pi.py](verification/kms_beta_two_pi.py)
 - [verification/knowability_actuality_gate.py](verification/knowability_actuality_gate.py)
 - [verification/ko_dimension6_sm.py](verification/ko_dimension6_sm.py)
+- [verification/laser_pain_trial_baseline.py](verification/laser_pain_trial_baseline.py)
+- [verification/laser_pain_trial_baseline_test.py](verification/laser_pain_trial_baseline_test.py)
 - [verification/latent_experience_three_probes.py](verification/latent_experience_three_probes.py)
 - [verification/linearized_lattice_curvature.py](verification/linearized_lattice_curvature.py)
 - [verification/linearized_spherical_record.py](verification/linearized_spherical_record.py)

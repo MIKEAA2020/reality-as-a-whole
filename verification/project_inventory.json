@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 466,
-  "bytes": 6067109,
-  "line_count": 58386,
-  "document_count_with_risk_phrases": 438,
+  "document_count": 469,
+  "bytes": 6084486,
+  "line_count": 58473,
+  "document_count_with_risk_phrases": 441,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3986,9 +3986,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "004f20cc24bd4b219c94a4a8416538a79370da9ca82ece2dff107421f32d8f43",
-      "bytes": 22668,
-      "lines": 91,
+      "sha256": "be63c2723a4981093c3b4ae6f0c4ddd8d34e43575bf230ac22b9eb5545ff94f6",
+      "bytes": 23214,
+      "lines": 93,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4000,6 +4000,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
         "KEMENY_SNELL_REVERSIBLE_WEAK_LUMPABILITY_AUDIT.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
@@ -4033,15 +4034,15 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        13,
+        7,
         15,
-        19,
-        35,
-        45,
-        62,
-        79,
-        85
+        17,
+        21,
+        37,
+        47,
+        64,
+        81,
+        87
       ]
     },
     {
@@ -4147,9 +4148,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "29606246481f471a0eb707f8ad6624d90d001884d1cfdfc47f1cb303d8cc1e38",
-      "bytes": 113066,
-      "lines": 908,
+      "sha256": "2b555105de621f11d0207bc17ddd9e16a4a7e27726f60c2472dd4ec570e540c3",
+      "bytes": 113741,
+      "lines": 913,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4339,6 +4340,9 @@
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "KO_DIMENSION6_SM.md",
         "K_PAIRWISE_CONSTRAINTS_GAUGE_AND_FRAMEWORK.md",
+        "LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md",
+        "LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md",
+        "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
@@ -4822,6 +4826,8 @@
         "verification/kms_beta_two_pi.py",
         "verification/knowability_actuality_gate.py",
         "verification/ko_dimension6_sm.py",
+        "verification/laser_pain_trial_baseline.py",
+        "verification/laser_pain_trial_baseline_test.py",
         "verification/latent_experience_three_probes.py",
         "verification/linearized_lattice_curvature.py",
         "verification/linearized_spherical_record.py",
@@ -5049,17 +5055,17 @@
         59,
         127,
         172,
-        216,
-        264,
-        286,
-        333,
-        412,
-        427,
-        463,
-        472,
+        219,
+        267,
+        289,
+        336,
+        415,
+        430,
+        466,
         475,
         478,
-        540
+        481,
+        543
       ]
     },
     {
@@ -6109,9 +6115,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "cdb38a691be29d6453e4967a7871e67edc8175f8793db98176fbe9476bb8e9fd",
-      "bytes": 19712,
-      "lines": 119,
+      "sha256": "88b30adbbab720eefb13727b695159389893d5f9aff95a443472532e93e669fa",
+      "bytes": 20106,
+      "lines": 121,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6139,6 +6145,7 @@
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
+        "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
@@ -6148,7 +6155,7 @@
         62,
         66,
         99,
-        119
+        121
       ]
     },
     {
@@ -6730,6 +6737,70 @@
         17,
         23,
         29
+      ]
+    },
+    {
+      "path": "LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md",
+      "sha256": "90004e73a5a0212ec398f787b3edf1e9305404b9875a6cd795dd1c588d3687a5",
+      "bytes": 2261,
+      "lines": 7,
+      "title": "Post-schema amendment: actual laser energy, not condition rank",
+      "headings": [
+        "Post-schema amendment: actual laser energy, not condition rank"
+      ],
+      "local_links": [
+        "LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md"
+      ],
+      "risk_phrase_lines": [
+        5
+      ]
+    },
+    {
+      "path": "LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md",
+      "sha256": "0b7f87afd3aa430272ef700a15e138057973bc2a7a0f0108118809044526b861",
+      "bytes": 4467,
+      "lines": 21,
+      "title": "Fixed retrospective plan: laser-pain supplementary ratings",
+      "headings": [
+        "Fixed retrospective plan: laser-pain supplementary ratings",
+        "Purpose and stop rule",
+        "Source and required checks",
+        "Bounded comparisons, if eligible",
+        "Implications and controls"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        11
+      ]
+    },
+    {
+      "path": "LASER_PAIN_SINGLE_TRIAL_DATA_PROVENANCE_GATE.md",
+      "sha256": "e8ff37a5b0185e59c508b27020d3f29b68f4bfd8f425fce35f83202c5c8a31ea",
+      "bytes": 9034,
+      "lines": 50,
+      "title": "Laser pain reports: promising data, unresolved trial-label provenance",
+      "headings": [
+        "Laser pain reports: promising data, unresolved trial-label provenance",
+        "Result",
+        "What was inspected",
+        "Exact table-readiness checks",
+        "Protocol transparency",
+        "Reproduction without redistribution"
+      ],
+      "local_links": [
+        "verification/laser_pain_trial_baseline.py",
+        "verification/laser_pain_trial_baseline_test.py",
+        "verification/laser_pain_trial_baseline.json",
+        "LASER_PAIN_SAME_TRIAL_READINESS_FIXED_PLAN.md",
+        "LASER_PAIN_SAME_TRIAL_PLAN_AMENDMENT.md",
+        "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
+        "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        31,
+        37,
+        50
       ]
     },
     {
