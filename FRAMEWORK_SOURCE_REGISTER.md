@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 429 root Markdown documents including this register; 43 research Markdown documents.
+- 430 root Markdown documents including this register; 43 research Markdown documents.
 - 56 original uploaded files, including provenance metadata; 356 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -345,6 +345,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
 - [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
+- [SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) — First-person unity against competing boundary rules: what a real case constrains
 - [SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) — Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
 - [SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md](SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md) — Split-brain research: pooled timing, visual rivalry, and what integration tests show
 - [STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md](STATE_MISMATCH_CONTRAST_AND_FALSIFICATION_GATE.md) — State mismatch: a bounded contrast and a falsification gate

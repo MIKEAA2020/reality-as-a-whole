@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [split-brain first-person comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) reads Pinto et al.'s 2017 published main text and matches the L/C subject question to its actual report targets. Preserved first-person unity reports are relevant evidence, while the clinical-to-spin map and trial-specific conjunction assay remain unestablished; no q-valence test follows. B4–B5/F2, B9/F3 and B10 remain open.
+
 The [subjective-character and field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) examines Barbieri's personal-level unity proposal and develops a field-first alternative. The former assumes a common subject; the latter takes first-personal field occurrences as primitive. Neither independently derives the L subject rule or q-to-quality identification. B4–B5/F2, B9/F3 and B10 remain open.
 
 The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) traces the Siddharth–Miller exchange and Mørch's draft: experiential unity does not independently establish shared tokens or subject-parts, while an unindexed maximal-bundle contradiction depends on a substantive exclusion premise. A subject-indexed constitution also owes a non-circular account of the indices. B4–B5/F2, B9/F3 and B10 remain open.

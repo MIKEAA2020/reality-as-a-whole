@@ -2,6 +2,8 @@
 
 ## Result
 
+The [subsequent first-person constitution comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) tests this field-first proposal's boundary interface against Pinto et al.'s 2017 clinical report, distinguishing genuine general first-person evidence from the unestablished trial-specific and physical-to-spin mappings.
+
 A positive starting point is available: a conscious episode is not just a list of qualities; it is qualitatively present **as an experience**. The experienced togetherness of distinguishable contents is real evidence to be accommodated. It need not be explained by positing a second inner observer. But the step from this local datum to a law selecting *which* subjects exist, and which physical states have which felt character, remains unproved.
 
 Alberto Barbieri's 2025 account helps pinpoint the remaining step. It proposes that the *subjective character* of concurrent experiences grounds their phenomenal unity. Crucially, its explanans already refers to **one and the same subject** being aware of those experiences. That is a serious candidate account of unity *for an already identified subject*, but not by itself a subject-constitution rule for the current project. It is not thereby refuted: these are different explanatory jobs.

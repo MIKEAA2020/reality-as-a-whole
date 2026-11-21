@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [split-brain first-person comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) states conditions under which an actual same-window conjoint experience would challenge a completed exclusive-L package against C. Pinto et al.'s general first-person reports are relevant evidence, but do not establish the required clinical-to-spin mapping or q-valence law.
+
 The [field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) evaluates an alternative that takes concrete first-personal fields as basic, rather than treating subjectless qualities as already experienced. Applying it to L still assumes the physical-to-field mapping and the q-to-felt-quality identity; it does not derive either.
 
 The [phenomenal bonding bridge audit](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) distinguishes access to one's conjoint experience from independent evidence of smaller subjects, numerically shared tokens and their constitutive relation. It also specifies why the L subject and q quality postulates remain open, and compares indexed unity with Mørch's conditional maximal-bundle objection.
