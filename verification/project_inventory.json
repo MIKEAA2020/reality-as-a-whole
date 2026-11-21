@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 494,
-  "bytes": 6463226,
-  "line_count": 60830,
-  "document_count_with_risk_phrases": 464,
+  "document_count": 496,
+  "bytes": 6480010,
+  "line_count": 60931,
+  "document_count_with_risk_phrases": 466,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4241,9 +4241,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "9f4522ccdc61e9f4544837f4c0e90bc242f2320bd3889f8b22710fad959bb926",
-      "bytes": 31490,
-      "lines": 129,
+      "sha256": "d41725a90a0b5dd4a7776612663626ba4dfb84d5ebd35244d72a336037e93792",
+      "bytes": 31841,
+      "lines": 131,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4255,6 +4255,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
@@ -4311,19 +4312,19 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
         13,
-        27,
-        31,
-        43,
-        51,
+        15,
+        29,
+        33,
+        45,
         53,
-        57,
-        73,
-        83,
-        100,
-        117,
-        123
+        55,
+        59,
+        75,
+        85,
+        102,
+        119,
+        125
       ]
     },
     {
@@ -4502,9 +4503,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "11aa5723fc85c39fe500f3524e0293b1eb434769072198ba7afc5f8f8e796123",
-      "bytes": 120567,
-      "lines": 965,
+      "sha256": "eff2aa33be9a984e1c26acaf79dbd35976836e63d06da8c7d2b1c79af6b4e777",
+      "bytes": 121853,
+      "lines": 974,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4763,9 +4764,14 @@
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
         "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
         "PAGE_WOOTTERS_STATIC_CLOCK.md",
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
+        "PAINGEN_TRIAL_PROVENANCE_ORDER_FIXED_PLAN.md",
+        "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
         "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
@@ -5273,10 +5279,14 @@
         "verification/page_wootters_static_clock.py",
         "verification/pain_aversion_readiness.py",
         "verification/pain_aversion_readiness_test.py",
+        "verification/paingen_condition_subset_diagnostic.py",
+        "verification/paingen_condition_subset_diagnostic_test.py",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate_test.py",
         "verification/paingen_source_crosscheck.py",
         "verification/paingen_stimulus_only_valence_test.py",
+        "verification/paingen_trial_provenance_audit.py",
+        "verification/paingen_trial_provenance_audit_test.py",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/pairwise_marginal_information_gate.py",
         "verification/perspectival_finitude.py",
@@ -5463,16 +5473,16 @@
         182,
         230,
         258,
-        286,
-        308,
-        355,
-        437,
-        452,
-        488,
-        497,
-        500,
-        503,
-        567
+        291,
+        313,
+        360,
+        442,
+        457,
+        493,
+        502,
+        505,
+        508,
+        572
       ]
     },
     {
@@ -8966,8 +8976,8 @@
     },
     {
       "path": "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
-      "sha256": "728961fe4d2808dff16e9ac1ca840728116c0e85ab3e6e861dd51a1ba5445d16",
-      "bytes": 12386,
+      "sha256": "d4e6778dc7cdc8a61f35fea6b882249fd432d5739e82ac9e7843b794636061ad",
+      "bytes": 12548,
       "lines": 57,
       "title": "PAINgen trial order and condition-mean provenance",
       "headings": [
@@ -8986,6 +8996,7 @@
         "PAINGEN_TRIAL_PROVENANCE_ORDER_PLAN_AMENDMENT.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "verification/paingen_trial_provenance_audit.json",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "verification/paingen_trial_provenance_audit.py",
         "verification/paingen_trial_provenance_audit_test.py",
@@ -8998,9 +9009,66 @@
       ]
     },
     {
+      "path": "PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md",
+      "sha256": "1da529bce36acc9070d443f0149a9a561d9ecede031f07bac6f5d9240370cd25",
+      "bytes": 5802,
+      "lines": 31,
+      "title": "PAINgen condition means: subset diagnostic plan",
+      "headings": [
+        "PAINgen condition means: subset diagnostic plan",
+        "Question and scope",
+        "Sources and pre-existing inspection",
+        "Exact combinatorial comparison",
+        "Consequence and stopping rules"
+      ],
+      "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        15,
+        17,
+        25,
+        31
+      ]
+    },
+    {
+      "path": "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
+      "sha256": "dfdd414683c0f974675e6be0c15efedacd92e10a76c5e2f54712bd32f31d2eb5",
+      "bytes": 8987,
+      "lines": 59,
+      "title": "PAINgen condition means: which discrepancies admit a trial-subset explanation?",
+      "headings": [
+        "PAINgen condition means: which discrepancies admit a trial-subset explanation?",
+        "Result",
+        "1. Method and provenance",
+        "2. Exhaustive paired-subset results",
+        "3. What this changes—and what it does not",
+        "4. Reproduction and status"
+      ],
+      "local_links": [
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md",
+        "verification/paingen_condition_subset_diagnostic.py",
+        "verification/paingen_condition_subset_diagnostic_test.py",
+        "verification/paingen_condition_subset_diagnostic.json",
+        "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        34,
+        35,
+        36,
+        42,
+        50,
+        57
+      ]
+    },
+    {
       "path": "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
-      "sha256": "081c73d4b93825691358a36c0b4a647ce175ab3525e996a09a1946483a31ef8d",
-      "bytes": 13892,
+      "sha256": "eaa892f404cf470d930d7df44482ac2af770c9cb894f649b9fb6734911373a0d",
+      "bytes": 14088,
       "lines": 64,
       "title": "Pain intensity and unpleasantness: a common-interface benchmark",
       "headings": [
@@ -9017,6 +9085,7 @@
         "PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
+        "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate.json",

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [PAINgen paired-subset diagnostic](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) finds a common proper-subset witness for 585 of 620 mismatched paired condition means; 35 have none among the retained events. These post hoc numerical witnesses do not identify the authors' actual inclusion decisions or validate the experiential bridge.
+
 The [PAINgen BIDS trial-order and provenance audit](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) finds internally paired intensity/unpleasantness event fields after sorting by recorded onset, but hundreds of provisional trial averages do not match the author condition export. The origin is unresolved; prior calculations remain analyses of that export, not independently reconstructed trial results. No q, causal order effect or experiential bridge was established.
 
 The [PAINgen intensity–unpleasantness comparison](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) evaluates a contemporaneous intensity-report baseline on the same condition means and held-out families as the prior unpleasantness benchmark. It is a strong report comparator; the small, uncertain incremental signature improvement does not identify mismatch or prove the dimensions identical. Raw paired-trial validation, subject/quality constitution and substantive battery gates remain open.

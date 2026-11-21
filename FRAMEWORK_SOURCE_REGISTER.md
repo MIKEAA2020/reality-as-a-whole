@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 451 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 386 verification Python scripts.
+- 453 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 388 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -258,6 +258,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md](OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md) — Scalar lattice regulators: the exact finite scheme difference
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
 - [PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md](PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md) — PAINgen trial order and condition-mean provenance
+- [PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md](PAINGEN_CONDITION_MEAN_SUBSET_DIAGNOSTIC_PLAN.md) — PAINgen condition means: subset diagnostic plan
+- [PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) — PAINgen condition means: which discrepancies admit a trial-subset explanation?
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
@@ -784,6 +786,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
 - [verification/pain_aversion_readiness.py](verification/pain_aversion_readiness.py)
 - [verification/pain_aversion_readiness_test.py](verification/pain_aversion_readiness_test.py)
+- [verification/paingen_condition_subset_diagnostic.py](verification/paingen_condition_subset_diagnostic.py)
+- [verification/paingen_condition_subset_diagnostic_test.py](verification/paingen_condition_subset_diagnostic_test.py)
 - [verification/paingen_intensity_unpleasantness_gate.py](verification/paingen_intensity_unpleasantness_gate.py)
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)
