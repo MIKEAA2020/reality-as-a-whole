@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 476,
-  "bytes": 6200641,
-  "line_count": 59138,
-  "document_count_with_risk_phrases": 448,
+  "document_count": 477,
+  "bytes": 6215941,
+  "line_count": 59265,
+  "document_count_with_risk_phrases": 449,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4024,9 +4024,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "c03c5d4570329b5b382c23b9dac435796b2ce42a4cbcdc4361b2a6d4ee3812cf",
-      "bytes": 26193,
-      "lines": 107,
+      "sha256": "5171e2238489eaca8c423c29b05a96ed830e4ef27772be315c6aafbe45fe57e9",
+      "bytes": 26592,
+      "lines": 109,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4038,6 +4038,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -4079,17 +4080,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        21,
-        29,
+        7,
+        11,
+        23,
         31,
-        35,
-        51,
-        61,
-        78,
-        95,
-        101
+        33,
+        37,
+        53,
+        63,
+        80,
+        97,
+        103
       ]
     },
     {
@@ -4194,10 +4195,42 @@
       ]
     },
     {
+      "path": "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
+      "sha256": "deb9fe38800442880a0fa82ee747d3d1077d066310bb77bd8211c46c240e0430",
+      "bytes": 13589,
+      "lines": 116,
+      "title": "How selective must a physical mismatch intervention be?",
+      "headings": [
+        "How selective must a physical mismatch intervention be?",
+        "Result and limits",
+        "1. Two models, two interventions, one definition of selectivity",
+        "2. Exact sign and magnitude implications",
+        "3. Apply the imperfect gate to the existing physical rivals",
+        "4. An intervention can look decisive while the channel stays ambiguous",
+        "5. What is required before an affect test",
+        "Reproduction and status"
+      ],
+      "local_links": [
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+        "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
+        "verification/imperfect_channel_gate.json"
+      ],
+      "risk_phrase_lines": [
+        39,
+        41,
+        49,
+        59,
+        68,
+        95,
+        116
+      ]
+    },
+    {
       "path": "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
-      "sha256": "cae026e6a9c40f09c07aeecbd55fcb3254d7878a5b5f5fb1c8131771c81d1ad4",
-      "bytes": 14389,
-      "lines": 117,
+      "sha256": "e7d248fecadec6685408f29f5c68fb6b2dbc4e2185be62e02564778dabcf3305",
+      "bytes": 14725,
+      "lines": 119,
       "title": "A conditional physical mismatch measurement in the four-spin sector",
       "headings": [
         "A conditional physical mismatch measurement in the four-spin sector",
@@ -4210,6 +4243,7 @@
         "Reproduction and status"
       ],
       "local_links": [
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "verification/four_spin_mismatch_measurement_gate.py",
@@ -4222,22 +4256,22 @@
         "verification/four_spin_mismatch_measurement_gate.json"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        38,
-        46,
-        64,
-        73,
-        101,
-        108,
-        117
+        11,
+        40,
+        48,
+        66,
+        75,
+        103,
+        110,
+        119
       ]
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "00933de024622645e8d4059534a43ab094b98befdead9f43ece57383acfc4c80",
-      "bytes": 115704,
-      "lines": 927,
+      "sha256": "689087cf584f7def1cc91648b340e5e19a1ec1c029cdfe6e11d42a3d4af50951",
+      "bytes": 116047,
+      "lines": 930,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4379,6 +4413,7 @@
         "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
         "FOUNDATION_OF_DUE_REGARD.md",
         "FOUR_CRITERIA_CONSOLIDATION.md",
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
@@ -4900,6 +4935,8 @@
         "verification/hubble_reference_uncertainty.py",
         "verification/hubble_static_joint.py",
         "verification/hubble_static_stratified.py",
+        "verification/imperfect_channel_gate.py",
+        "verification/imperfect_channel_gate_test.py",
         "verification/incoming_constraint_preparation.py",
         "verification/infinite_coherence.py",
         "verification/infinite_relational_clock.py",
@@ -5155,18 +5192,18 @@
         50,
         59,
         128,
-        175,
-        223,
-        272,
-        294,
-        341,
-        422,
-        437,
-        473,
-        482,
-        485,
-        488,
-        551
+        176,
+        224,
+        273,
+        295,
+        342,
+        423,
+        438,
+        474,
+        483,
+        486,
+        489,
+        552
       ]
     },
     {
@@ -6246,9 +6283,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "b5ba6e1cfd432927e5541090a0720fa596c3109bbd520014cd0f33051ce7bf26",
-      "bytes": 22839,
-      "lines": 135,
+      "sha256": "48c0cd46320fbe4750cfe8ab0f5fc44daba19d94eb4817a0e49bcf15d7622f85",
+      "bytes": 23189,
+      "lines": 137,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6261,6 +6298,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -6288,12 +6326,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        21,
         23,
-        76,
-        80,
-        113,
-        135
+        25,
+        78,
+        82,
+        115,
+        137
       ]
     },
     {
@@ -11133,9 +11171,9 @@
     },
     {
       "path": "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
-      "sha256": "d5e01a3faf9f5fe1e6f3bbe47525c60fac00c9f4e82158a2521e400e2ca1a846",
-      "bytes": 13163,
-      "lines": 139,
+      "sha256": "8ad4e5d4fc6d5f527edc32e1a41f3624a7bdb867eef37899c2f9a1ba53ae19d6",
+      "bytes": 13446,
+      "lines": 141,
       "title": "Can selective interventions identify relational frustration?",
       "headings": [
         "Can selective interventions identify relational frustration?",
@@ -11148,15 +11186,16 @@
         "6. Exact failure test: a different potential fits both quadratures"
       ],
       "local_links": [
+        "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "verification/selective_phase_channel_certificate.json"
       ],
       "risk_phrase_lines": [
-        42,
-        86,
-        108,
-        139
+        44,
+        88,
+        110,
+        141
       ]
     },
     {

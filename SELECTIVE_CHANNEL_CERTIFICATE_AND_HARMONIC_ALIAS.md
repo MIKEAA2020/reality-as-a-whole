@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+The later [four-spin imperfect-intervention gate](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) develops a related, discrete-spin sign certificate using conditional odds and a bounded change in residual coupling. It does not establish that any real intervention is selective.
+
 This is the next step from [the hidden-channel gate](FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md). It addresses a specific problem: equal opposing phase channels can cancel in the net dynamics, leaving their channel-level frustration unidentified by phase-only observations and phase-setting interventions.
 
 A **selective channel intervention**, if independently calibrated and sufficiently well isolated, can break that ambiguity. Under a specified reciprocal first-harmonic phase model, two phase settings per channel produce conditional bounds on its preferred offset and coupling strength; those bounds feed directly into the earlier cycle-frustration certificate. Surprisingly, the gate need not remove a known fraction of the channel: an unknown, phase-independent fraction between zero and one still yields a valid lower bound on the original strength.

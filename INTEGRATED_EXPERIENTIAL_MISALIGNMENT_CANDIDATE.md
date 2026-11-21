@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [four-spin imperfect-intervention gate](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) quantifies when a bounded, imperfect gate would identify the sign of a designated physical channel; a counterexample shows why an unrestricted residual response can reverse it. Its examples and calibrations are hypothetical, not an experiential bridge.
+
 The [physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) works out a report-independent preference calibration and conditional noisy-readout error in this same four-spin sector. Its passive-identification control distinguishes a net interaction from an independently selected channel; none of the assumed real-world measurement or phenomenal bridges is established.
 
 The [history-comparison first-person assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) gives conditional error thresholds for distinguishing level and onset assignments, including physical-history misclassification and report errors. The calibration values are hypothetical; no actual q or phenomenal reference is established.

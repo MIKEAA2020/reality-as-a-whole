@@ -1,0 +1,94 @@
+{
+  "status": "passed",
+  "scope": "Hypothetical equilibrium Ising gate; no physical or experiential human data.",
+  "exact_conditional_odds": {
+    "baseline": "9",
+    "A_gate": "1",
+    "B_gate": "81"
+  },
+  "hypothetical_n_per_condition": 7360,
+  "sampling_epsilon": "1/50",
+  "simultaneous_Hoeffding_failure_bound": 0.04436025900725154,
+  "baseline_conditional_frequencies": [
+    "15/32",
+    "9/32",
+    "3/32",
+    "5/32"
+  ],
+  "baseline_odds_interval": [
+    "75031/12831",
+    "94231/6431"
+  ],
+  "intervention_assumptions": {
+    "residual_drift_bound": 0.1,
+    "attenuation_fraction": [
+      0.8,
+      1.0
+    ]
+  },
+  "hypothetical_results": {
+    "A": {
+      "hypothetical_frequencies": [
+        "5/16",
+        "3/16",
+        "3/16",
+        "5/16"
+      ],
+      "odds_interval": [
+        "7839/11039",
+        "11039/7839"
+      ],
+      "delta_interval": [
+        0.3559285154321105,
+        0.7567355872926967
+      ],
+      "target_J_interval": [
+        0.2559285154321105,
+        1.070919484115871
+      ]
+    },
+    "B": {
+      "hypothetical_frequencies": [
+        "9/16",
+        "27/80",
+        "3/80",
+        "1/16"
+      ],
+      "odds_interval": [
+        "27559/759",
+        "33319/119"
+      ],
+      "delta_interval": [
+        -0.9671805867890018,
+        -0.22686587381556583
+      ],
+      "target_J_interval": [
+        -1.3339757334862523,
+        -0.12686587381556583
+      ]
+    }
+  },
+  "nonselective_opposite_target_counterexample": {
+    "net_couplings": [
+      "1/2",
+      "1/5"
+    ],
+    "attenuation": "1",
+    "max_residual_drift": "2/5",
+    "models": [
+      {
+        "target_J": "1/2",
+        "residual_on": "0",
+        "residual_off": "1/5",
+        "residual_drift": "-1/5"
+      },
+      {
+        "target_J": "-1/10",
+        "residual_on": "3/5",
+        "residual_off": "1/5",
+        "residual_drift": "2/5"
+      }
+    ]
+  },
+  "rational_grid_containment_checks": 729
+}

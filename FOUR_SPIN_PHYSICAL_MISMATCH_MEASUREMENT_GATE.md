@@ -2,6 +2,8 @@
 
 ## Result and limits
 
+The follow-up [imperfect-intervention gate](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) derives a conditional sign certificate allowing bounded residual coupling drift and unknown attenuation, with hypothetical finite-sample intervals and an opposite-channel confounding control. No real selective intervention is established.
+
 The previous [assay-error gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) requires an independently justified physical-history error bound `ρ`, but did not say how to obtain one. Here we construct a **complete, explicitly conditional measurement model** for the existing four-spin system. It specifies a way to learn the pair's preferred sign without using any affect reports, accounts for noisy spin readout and the common calibration error, and computes the conditional error in the critical observed `11` cell.
 
 Under the exact toy equilibrium law, 19 independent, perfectly read calibration states select the wrong pair orientation with probability **0.00890**. If each of the four spin readings in a subsequent two-time episode has independent 5% error, the resulting physical-history error **conditional on observed `11`** is about **0.1704**, including calibration failure. These are model predictions with invented sensor parameters, not an experiment or a real calibration. The numerical answer averages over repeated calibration datasets; it is not automatically a valid bound conditional on a single realized calibration.
