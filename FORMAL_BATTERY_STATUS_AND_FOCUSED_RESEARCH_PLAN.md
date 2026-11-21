@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [neural perturbation and first-person q identification gate](NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md) screens stimulation studies and verifies aggregate event metadata in a pinned open Rao iEEG conversion. Only three people have both continuous-stimulation and single-pulse files, and their 45 event rows mark whole recordings, not stimulation, pulse or report times. No behavioral outcomes or signals were analyzed; independently calibrated interaction preferences and unpleasantness pairing remain unestablished, so the comparison stops. C3, B4–B5/F2, B9/F3 and B10 remain open.
+
 The [Klinge event-sustainment gate](KLINGE_EVENT_PRODUCTION_AND_SUSTAINMENT_GATE.md) distinguishes historical production, base accompaniment during an event and continuity of a series. Its finite successive-event control shows that the first does not entail the second without an additional condition; it does not establish a real phenomenon, refute Klinge's view or identify subject persistence. C3, B4–B5/F2, B9/F3 and B10 remain open.
 
 The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) examines selected passages of the uploaded book as an experience-respecting, non-constitutive rival. Its finite causal illustration separates an immediate microcause from closure of an earlier micro-transition, while flagging that interventions on a dependent macro-variable may be inadmissible. Klinge's emergence, pairing and phenomenal selection rules are substantive hypotheses, not verified physics or a resolution of C3; B4–B5/F2, B9/F3 and B10 remain open.

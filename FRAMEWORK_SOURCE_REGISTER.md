@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 461 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 398 verification Python scripts.
+- 463 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 400 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -235,6 +235,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NECESSARY_OCCURRENCE_CANDIDATE.md](NECESSARY_OCCURRENCE_CANDIDATE.md) — Necessary occurrence: the essence–instance gap and an actuality-first candidate
 - [NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md](NECESSARY_PLENITUDE_PLURAL_SUBJECTS_SIMULATION.md) — Necessary plenitude, plural subjects and simulation: a constructed candidate
 - [NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md](NET_RESPONSE_STATE_MISMATCH_WORK_GATE.md) — Can total response identify state mismatch without resolving every channel?
+- [NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md](NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md) — Neural perturbation and first-person reports: does this identify `q`?
 - [NEURAL_TIMING_CONSTITUTION_AUDIT.md](NEURAL_TIMING_CONSTITUTION_AUDIT.md) — Can neural activation duration supply the missing episode clock?
 - [NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md](NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md) — Wave-function realism, relational structure and plural experience
 - [NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md](NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md) — Bell experiments and quantum information: the Nobel research
@@ -312,6 +313,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
 - [RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md](RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md) — Pain affect, sensory intensity and the experiential-misalignment proposal
+- [RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md](RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md) — Fixed metadata-readiness plan: Rao intracranial stimulation and mood
 - [README.md](README.md) — Reality as a Whole
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
 - [RECOLLAPSING_GRAVITATIONAL_CLOCK.md](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) — A recollapsing Einstein–scalar clock and completed-event representations
@@ -845,6 +847,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/quantum_static_spherical_clock.py](verification/quantum_static_spherical_clock.py)
 - [verification/race_context_and_joint_content_gate.py](verification/race_context_and_joint_content_gate.py)
 - [verification/random_audit_experience_bridge.py](verification/random_audit_experience_bridge.py)
+- [verification/rao_stim_metadata_readiness.py](verification/rao_stim_metadata_readiness.py)
+- [verification/rao_stim_metadata_readiness_test.py](verification/rao_stim_metadata_readiness_test.py)
 - [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
 - [verification/refinement_acceptance_budget.py](verification/refinement_acceptance_budget.py)
 - [verification/register_roughness_heldout_gate.py](verification/register_roughness_heldout_gate.py)

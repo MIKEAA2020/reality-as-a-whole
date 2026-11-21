@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9d4609715cea06d95bd9302117499602c056a90b",
-  "file_count": 1569,
+  "base_head": "5847271b4da0f175f917c58f0aa1f295a5c75ec6",
+  "file_count": 1574,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 34128,
-      "sha256": "cf0d0aa9c32647a8276b47371b14e8d27c3783a7b0ff428d713ddf659e48c95e"
+      "bytes": 34734,
+      "sha256": "e52a91ce2c385598e93c5d3ab3fd06bcae81c0e005dad70beb616c6a816dbb3b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 124282,
-      "sha256": "2154c36f6928b0ce72140845f2b470db1ac208db2cd35f8e3ef1aa46cfdeb879"
+      "bytes": 124855,
+      "sha256": "598eaabb96923fda0baed97bcddb1e8c714b109d10379e5deefd3ce69bbec889"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1134,6 +1134,11 @@
       "sha256": "030e2d2dcae4e67e492c87889c2b698bced2b1b193b8b276102b61b707e3f14a"
     },
     {
+      "path": "NEURAL_PERTURBATION_FIRST_PERSON_Q_IDENTIFICATION_GATE.md",
+      "bytes": 15561,
+      "sha256": "b196bcaef5bde82613a3b689090b66b660615bda015cc87340af29c483d321bd"
+    },
+    {
       "path": "NEURAL_TIMING_CONSTITUTION_AUDIT.md",
       "bytes": 12396,
       "sha256": "13515745fbdacf5d4888c99d3b8a262274b7d4baed0ecc2b7821646f7322cee8"
@@ -1517,6 +1522,11 @@
       "path": "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
       "bytes": 12375,
       "sha256": "6822fce8395e5cf6c110603ca22b3051c18d68540ae8ff1268256bcd280f7ca8"
+    },
+    {
+      "path": "RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md",
+      "bytes": 4019,
+      "sha256": "d336f5698aee922577e24e4b8ecbd20cd8e6a33eea28b85cb7020f4b99e48a5b"
     },
     {
       "path": "README.md",
@@ -6145,8 +6155,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 634510,
-      "sha256": "2596d553d92e1003f9160f5de66ff66a45cdc4e85db260a4d7e806dd5fa43729"
+      "bytes": 636572,
+      "sha256": "98ce0ce5b66de42982171cb0bff3d852e6e08338cfb8a5e49b02e96ccfce9c10"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6257,6 +6267,21 @@
       "path": "verification/random_audit_experience_bridge.py",
       "bytes": 4702,
       "sha256": "271dd3109b2ea0b2775a7cf0be730161a254cda2582e9187145fb4f7fb195d45"
+    },
+    {
+      "path": "verification/rao_stim_metadata_readiness.json",
+      "bytes": 1419,
+      "sha256": "cc95882c49ce133b41ddd3a3069c796754d03832d266ec219ab2b8588af14e8c"
+    },
+    {
+      "path": "verification/rao_stim_metadata_readiness.py",
+      "bytes": 6879,
+      "sha256": "f6b9fce0396e1a0f1634e3de4fdc3ba199250660986204055cea199631438c54"
+    },
+    {
+      "path": "verification/rao_stim_metadata_readiness_test.py",
+      "bytes": 3563,
+      "sha256": "b2fef0bfd376a95727d9e80f4ad5aa2e39fefc1b33dbfa5eb114bfa08f7fff95"
     },
     {
       "path": "verification/realization-v0_5-provenance.json",

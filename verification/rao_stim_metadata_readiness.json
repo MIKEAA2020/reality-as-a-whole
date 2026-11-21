@@ -1,0 +1,56 @@
+{
+  "archive_sha256": "e74bcc9da6c8dc0f1c323705995456e08d6190a2605115c1fac458a651085ef4",
+  "commit": "c4fb7e96fb314b1c222ab9a826ce2a6e565ff6e6",
+  "limitations": [
+    "person overlap is not contact, block, or trial pairing",
+    "recording-span onset is not stimulation or report onset",
+    "no outcome, behavioral table, or neural signal inspected"
+  ],
+  "people_with_both_tasks": 3,
+  "tasks": {
+    "sps": {
+      "duration": {
+        "valid": 5
+      },
+      "files": 5,
+      "labels": {
+        "recording_sps": 5
+      },
+      "onset": {
+        "valid": 5
+      },
+      "people": 5,
+      "rows": 5,
+      "runs_with_documented_stimulus_or_report_event": 0,
+      "schema_patterns": {
+        "duration, onset, trial_type": 5
+      },
+      "timing_documentation": {
+        "not_annotated_recording_span_only": 5
+      }
+    },
+    "stim": {
+      "duration": {
+        "valid": 40
+      },
+      "files": 40,
+      "labels": {
+        "recording_stim": 40
+      },
+      "onset": {
+        "valid": 40
+      },
+      "people": 15,
+      "rows": 40,
+      "runs_with_documented_stimulus_or_report_event": 0,
+      "schema_patterns": {
+        "duration, onset, trial_type": 40
+      },
+      "timing_documentation": {
+        "not_annotated_recording_span_only": 40
+      }
+    }
+  },
+  "tree_sha256": "343cc64aaaad93d44fb2a7ed0052d729a621b1f1881ef47d2e9c5ccc19590e55",
+  "verified_target_blobs": 93
+}
