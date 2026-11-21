@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [cross-scale subject and quality gate](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) now completes two competing, explicitly postulated quality outputs for the same E-L sector and contrasts them on the whole selected by the nine-update query. They agree on all original pair outputs and differ on non-extreme whole states; a conditional error-bound discrimination is stated, but no validated assay or subject bridge was found. B4–B5/F2, B9/F3 and B10 remain open.
+
 **The recent unity work has produced real clarifications and conditional constraints, but it has not made the non-incremental breakthrough needed to pass the formal battery.** The subject-incidence models make a substantial conceptual distinction clearer: a connected relational whole can be represented with multiple individually unified fields without making the whole a subject. However, the fields, phenomenal character and ownership in that representation are stipulated. It does not explain why actual subjects exist, determine their boundaries, establish their qualities or derive physics. Calling that a solved constitution would be an overclaim.
 
 More broadly, identifying invalid arguments, withdrawing unsupported closure claims and distinguishing the user's plural-subject target from universal consciousness are genuine methodological and conceptual improvements. They are important because they prevent false passes. They are not themselves a decisive positive derivation of the requested framework. The user is right to demand progress against the substantive battery rather than another series of toy checks.

@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The subsequent [cross-scale subject and quality gate](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) supplies two explicitly postulated, inequivalent whole-subject quality extensions on this same sector. They agree on every original pair output but do not resolve subject constitution or pass B4–B5/F2.
+
 This is a **new, explicitly incomplete successor candidate**, not a revision of the frozen v1 dossier or a claim to have passed its battery. It puts the current commitments and one worked subject/valence interface together, then compares a neutral-ground rival on exactly the same interface. The worked sector reuses the prior four-spin construction; it is not a physical theory of brains or fundamental strings.
 
 The substantive result is a constraint on what the candidate can claim. In the specified sector, two local mismatch values have the **same joint distribution** when the two pairs are disconnected as when they are weakly coupled. Yet two explicit subject rules disagree about whether the weakly coupled configuration contains one subject or two. A physical measure of mismatch—even if computed perfectly—does not by itself resolve that disagreement. Nor does it select an experiential ground over a neutral ground designed to have the same experiences and records.

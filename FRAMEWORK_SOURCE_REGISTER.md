@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 406 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 338 verification Python scripts.
+- 408 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 340 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -160,6 +160,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INFINITE_RELATIONAL_CLOCK.md](INFINITE_RELATIONAL_CLOCK.md) — An infinite relational clock without a global clock distribution
 - [INFINITE_WINDING_COUNTER.md](INFINITE_WINDING_COUNTER.md) — An infinite turning clock with a correlated cycle counter
 - [INTEGRATED_ACCOUNT.md](INTEGRATED_ACCOUNT.md) — Toward one account accommodating all the frameworks
+- [INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md](INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md) — Fixed scope for an integrated subject–quality extension
+- [INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) — Integrated subject and quality across two query horizons
 - [INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md) — An integrated experiential candidate: first worked sector and rival
 - [INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md](INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md) — Integrated candidate: subject horizon, valence and persistence
 - [INTERACTING_CLOCK_RATE.md](INTERACTING_CLOCK_RATE.md) — A system-dependent clock rate: constraint, rigging and physical evolution
@@ -641,6 +643,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/infinite_coherence.py](verification/infinite_coherence.py)
 - [verification/infinite_relational_clock.py](verification/infinite_relational_clock.py)
 - [verification/infinite_winding_clock.py](verification/infinite_winding_clock.py)
+- [verification/integrated_cross_scale_quality.py](verification/integrated_cross_scale_quality.py)
+- [verification/integrated_cross_scale_quality_test.py](verification/integrated_cross_scale_quality_test.py)
 - [verification/integrated_experiential_misalignment_candidate.py](verification/integrated_experiential_misalignment_candidate.py)
 - [verification/integrated_subject_horizon_audit.py](verification/integrated_subject_horizon_audit.py)
 - [verification/integration_overlap.py](verification/integration_overlap.py)

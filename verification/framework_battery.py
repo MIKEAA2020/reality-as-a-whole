@@ -43,6 +43,7 @@ TESTS = [
     ('correlation_clustering_certificate', 'verification/correlation_clustering_asymmetric_certificate.py'),
     ('plural_ground_dominance_symmetry', 'verification/plural_ground_dominance_symmetry_gate.py'),
     ('experiential_mismatch_transport', 'verification/experiential_mismatch_transport_gate.py'),
+    ('integrated_cross_scale_quality', 'verification/integrated_cross_scale_quality.py'),
     ('awareness_ignition_calibration', 'verification/awareness_ignition_partial_identification.py'),
     ('random_report_audit', 'verification/random_audit_experience_bridge.py'),
     ('valence_proxy', 'verification/phase_frustration_audit.py'),

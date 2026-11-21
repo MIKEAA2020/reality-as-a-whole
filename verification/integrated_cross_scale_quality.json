@@ -1,0 +1,83 @@
+{
+  "scope": "fixed t=1/4 spin sector, two postulated subjective laws; not an empirical or battery pass",
+  "horizon_1_L_sets": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "horizon_9_L_sets": [
+    [
+      0,
+      1,
+      2,
+      3
+    ]
+  ],
+  "weights": {
+    "outer": "ln(3)",
+    "middle": "ln(5/3)",
+    "total": "2 ln(3)+ln(5/3)"
+  },
+  "quality_distribution": [
+    {
+      "outer_mismatch_count": 0,
+      "middle_mismatch": 0,
+      "probability": "45/128",
+      "graded": 0.0,
+      "binary": 0
+    },
+    {
+      "outer_mismatch_count": 0,
+      "middle_mismatch": 1,
+      "probability": "27/128",
+      "graded": 0.1886322578355742,
+      "binary": 1
+    },
+    {
+      "outer_mismatch_count": 1,
+      "middle_mismatch": 0,
+      "probability": "15/64",
+      "graded": 0.4056838710822129,
+      "binary": 1
+    },
+    {
+      "outer_mismatch_count": 1,
+      "middle_mismatch": 1,
+      "probability": "9/64",
+      "graded": 0.5943161289177871,
+      "binary": 1
+    },
+    {
+      "outer_mismatch_count": 2,
+      "middle_mismatch": 0,
+      "probability": "5/128",
+      "graded": 0.8113677421644258,
+      "binary": 1
+    },
+    {
+      "outer_mismatch_count": 2,
+      "middle_mismatch": 1,
+      "probability": "3/128",
+      "graded": 1.0,
+      "binary": 1
+    }
+  ],
+  "pair_quality_equal_for_all_states": true,
+  "relabeling_and_sign_transport_checks": 18432,
+  "model_probability_of_law_disagreement": "5/8",
+  "mean_binary_minus_graded": 0.37485846777055326,
+  "conditional_contrast": {
+    "event": "one outer mismatch, middle matched",
+    "probability": "15/64",
+    "graded": 0.4056838710822129,
+    "binary": 1.0,
+    "minimum_gap": 0.5943161289177872,
+    "strict_assay_error_threshold": 0.2971580644588936
+  },
+  "interpretation": "distribution is a physical equilibrium model; phenomenality and calibrated readout are extra postulates"
+}

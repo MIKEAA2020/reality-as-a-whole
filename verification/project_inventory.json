@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 449,
-  "bytes": 5929216,
-  "line_count": 57625,
-  "document_count_with_risk_phrases": 421,
+  "document_count": 451,
+  "bytes": 5945441,
+  "line_count": 57717,
+  "document_count_with_risk_phrases": 423,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3826,9 +3826,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "442c4cf849dda5dffe5b7202e83bca733d07a8bfe5e307921bf0e016d89e8866",
-      "bytes": 19294,
-      "lines": 81,
+      "sha256": "8119c5a7b79cf06d4f4b6e4ab2516c512e0f7b1cb7e6cf6c61f356c2480336a3",
+      "bytes": 19767,
+      "lines": 83,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -3840,6 +3840,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
@@ -3865,13 +3866,13 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        25,
-        35,
-        52,
-        69,
-        75
+        7,
+        11,
+        27,
+        37,
+        54,
+        71,
+        77
       ]
     },
     {
@@ -3977,9 +3978,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "76cc884111f7abcb970511c1fa19e316a0a148f3e8a25b73b11b0e4ec1d65564",
-      "bytes": 108145,
-      "lines": 873,
+      "sha256": "f1912e07d0bef322bebce36ca723f943ef52382fd58c0e7fc3ca6b20437319ec",
+      "bytes": 108684,
+      "lines": 877,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4141,6 +4142,8 @@
         "INFINITE_RELATIONAL_CLOCK.md",
         "INFINITE_WINDING_COUNTER.md",
         "INTEGRATED_ACCOUNT.md",
+        "INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md",
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "INTERACTING_CLOCK_RATE.md",
@@ -4608,6 +4611,8 @@
         "verification/infinite_coherence.py",
         "verification/infinite_relational_clock.py",
         "verification/infinite_winding_clock.py",
+        "verification/integrated_cross_scale_quality.py",
+        "verification/integrated_cross_scale_quality_test.py",
         "verification/integrated_experiential_misalignment_candidate.py",
         "verification/integrated_subject_horizon_audit.py",
         "verification/integration_overlap.py",
@@ -4843,17 +4848,17 @@
         48,
         57,
         121,
-        204,
-        250,
-        272,
-        319,
-        395,
-        410,
-        446,
-        455,
-        458,
-        461,
-        521
+        206,
+        252,
+        274,
+        321,
+        397,
+        412,
+        448,
+        457,
+        460,
+        463,
+        523
       ]
     },
     {
@@ -5850,10 +5855,62 @@
       ]
     },
     {
+      "path": "INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md",
+      "sha256": "b3eb785fb3849d3b4999767685e79d75e017082e3ef7c0a17a3a569049cb7b72",
+      "bytes": 4818,
+      "lines": 20,
+      "title": "Fixed scope for an integrated subject–quality extension",
+      "headings": [
+        "Fixed scope for an integrated subject–quality extension",
+        "Battery target and success criterion",
+        "Candidate defined before the computation",
+        "Necessary structural checks"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        11,
+        15,
+        17,
+        20
+      ]
+    },
+    {
+      "path": "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
+      "sha256": "428dfd936768c9640c28daf6b0d9a5111a64b3d00bd3dbee4ba2cde5794d6e1d",
+      "bytes": 10088,
+      "lines": 64,
+      "title": "Integrated subject and quality across two query horizons",
+      "headings": [
+        "Integrated subject and quality across two query horizons",
+        "Result and boundary of the result",
+        "One physical sector, two query scales",
+        "Same-domain quality rivals",
+        "A conditional discriminating target",
+        "Subject persistence and invariance are still missing",
+        "Battery consequences and next necessary step"
+      ],
+      "local_links": [
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_CANDIDATE_CROSS_SCALE_COMPLETION_PLAN.md",
+        "verification/integrated_cross_scale_quality.py",
+        "verification/integrated_cross_scale_quality_test.py",
+        "verification/integrated_cross_scale_quality.json",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "verification/integrated_experiential_misalignment_candidate.py"
+      ],
+      "risk_phrase_lines": [
+        19,
+        30
+      ]
+    },
+    {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "7af73c7339e076a1b1373b53ffc7acd29d4db3837ad42441c659670989ac85b3",
-      "bytes": 18243,
-      "lines": 115,
+      "sha256": "417e6d4bfca1f4eeb17d79e073bce62ee48fca7e424b76128fde5c4883c28a38",
+      "bytes": 18550,
+      "lines": 117,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -5866,6 +5923,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md",
         "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -5880,11 +5938,11 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        5,
-        58,
-        62,
-        95,
-        115
+        7,
+        60,
+        64,
+        97,
+        117
       ]
     },
     {
