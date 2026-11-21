@@ -147,26 +147,37 @@ def fit(counts, mode):
         terms[name] = {'estimate': float(b), 'se': float(s),
                        'wald_95_ci': [float(b-1.959963984540054*s), float(b+1.959963984540054*s)],
                        'z': float(b/s), 'p': float(2*ndtr(-abs(b/s)))}
-    contrasts = {}
+    contrasts, midpoint = {}, {}
+
+    def contrast(vector):
+        estimate = float(vector @ beta)
+        stderr = float(np.sqrt(vector @ covariance[:-1, :-1] @ vector))
+        return {'estimate': estimate, 'se': stderr,
+                'wald_95_ci': [estimate-1.959963984540054*stderr, estimate+1.959963984540054*stderr],
+                'z': estimate/stderr, 'p_unadjusted': float(2*ndtr(-abs(estimate/stderr)))}
+
     if mode == 'full':
+        def vector(block, trigger, reference):
+            return (np.array(design(block, 'reward', trigger, mode)) -
+                    np.array(design(block, reference, trigger, mode)))
         for block in range(1, 5):
             for trigger in ('fast', 'slow'):
                 for reference in ('neutral', 'selection'):
-                    vector = (np.array(design(block, 'reward', trigger, mode)) -
-                              np.array(design(block, reference, trigger, mode)))
-                    estimate = float(vector @ beta)
-                    stderr = float(np.sqrt(vector @ covariance[:-1, :-1] @ vector))
-                    contrasts[f'block{block}:{trigger}:reward_vs_{reference}'] = {
-                        'estimate': estimate, 'se': stderr,
-                        'wald_95_ci': [estimate-1.959963984540054*stderr, estimate+1.959963984540054*stderr],
-                        'z': estimate/stderr, 'p_unadjusted': float(2*ndtr(-abs(estimate/stderr)))}
+                    contrasts[f'block{block}:{trigger}:reward_vs_{reference}'] = contrast(vector(block, trigger, reference))
+        for reference in ('neutral', 'selection'):
+            fast = vector(2.5, 'fast', reference)
+            slow = vector(2.5, 'slow', reference)
+            midpoint[f'fast:reward_vs_{reference}'] = contrast(fast)
+            midpoint[f'slow:reward_vs_{reference}'] = contrast(slow)
+            midpoint[f'slow_minus_fast:reward_vs_{reference}'] = contrast(slow-fast)
     return {'mode': mode, 'participants': group_count, 'retained_trials': int(n.sum()),
             'optimizer_success': bool(opt.success), 'optimizer_message': str(opt.message),
             'max_abs_gradient': float(np.max(np.abs(opt.jac))),
             'gradient_check_max_abs_difference': gradient_check,
             'hessian_min_eigenvalue': float(eig.min()),
             'random_intercept_sd': float(np.exp(opt.x[-1])), 'terms': terms,
-            'exploratory_observed_block_contrasts': contrasts}
+            'exploratory_observed_block_contrasts': contrasts,
+            'exploratory_block_2_5_contrasts': midpoint}
 
 
 def main():

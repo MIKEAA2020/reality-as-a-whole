@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 554,
-  "bytes": 7035487,
-  "line_count": 63632,
-  "document_count_with_risk_phrases": 516,
+  "document_count": 556,
+  "bytes": 7051668,
+  "line_count": 63727,
+  "document_count_with_risk_phrases": 518,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4784,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d3d1052bc3f364fb25dd5a02b8b31dbee0ead3e5796624f1d3f706799612e22f",
-      "bytes": 135024,
-      "lines": 1059,
+      "sha256": "bc7dfba1b246303ecdf17deb597303e890e4750646c94d3c436418d6efb611f6",
+      "bytes": 135640,
+      "lines": 1063,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5185,6 +5185,8 @@
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
+        "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
+        "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
         "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
         "SHELAT_GIESBRECHT_2026_MATERIALS_CHECK_PLAN.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
@@ -5745,6 +5747,8 @@
         "verification/shelat_2026_archive_descriptives_test.py",
         "verification/shelat_2026_laplace_accuracy_reproduction.py",
         "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
+        "verification/shelat_2026_rt_mixed_reproduction.py",
+        "verification/shelat_2026_rt_mixed_reproduction_test.py",
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
         "verification/smooth_switched_locality_gate.py",
@@ -5841,14 +5845,14 @@
         282,
         328,
         353,
-        406,
-        500,
-        515,
-        551,
-        560,
-        563,
-        566,
-        630
+        408,
+        502,
+        517,
+        553,
+        562,
+        565,
+        568,
+        632
       ]
     },
     {
@@ -13117,8 +13121,8 @@
     },
     {
       "path": "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
-      "sha256": "81c1230cf730893bcccfa2d84bbec2fea62e73ebee4d3d565da0a877cfea760c",
-      "bytes": 12126,
+      "sha256": "4e6aa69d3e23976ac3d429be7f6e38c95b66a98df9307c09f43cce84d80971cc",
+      "bytes": 12362,
       "lines": 63,
       "title": "Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction",
       "headings": [
@@ -13130,6 +13134,7 @@
         "5. Interpretive boundary"
       ],
       "local_links": [
+        "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
         "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "verification/shelat_2026_laplace_accuracy_reproduction.py",
@@ -13191,6 +13196,50 @@
       ],
       "risk_phrase_lines": [
         35
+      ]
+    },
+    {
+      "path": "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
+      "sha256": "64a115ac3e12b08140c1d7ffc1d5580368ea66d5bafb4652f3306e1119be035c",
+      "bytes": 12616,
+      "lines": 80,
+      "title": "Shelat 2026: reward versus selection in accuracy and RT; R workflow attempt",
+      "headings": [
+        "Shelat 2026: reward versus selection in accuracy and RT; R workflow attempt",
+        "Bottom line",
+        "1. Data, outcome and original model",
+        "2. Independent Gaussian random-intercept REML fit",
+        "3. Direct accuracy contrasts at the block midpoint",
+        "4. R/lme4 attempt and reproducibility",
+        "5. Interpretation and next discriminating test"
+      ],
+      "local_links": [
+        "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
+        "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
+        "verification/shelat_2026_rt_mixed_reproduction.py",
+        "verification/shelat_2026_rt_mixed_reproduction.json",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+        "verification/shelat_2026_laplace_accuracy_reproduction.json",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        13,
+        78
+      ]
+    },
+    {
+      "path": "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
+      "sha256": "882fa48e8aaa38f60e82edb892c9c227399ff475d667f4029711fe03a20a3625",
+      "bytes": 2478,
+      "lines": 9,
+      "title": "Retrospective plan: reward versus selection, response time and R workflow",
+      "headings": [
+        "Retrospective plan: reward versus selection, response time and R workflow"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        6
       ]
     },
     {
@@ -16049,9 +16098,9 @@
     },
     {
       "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
-      "sha256": "9d3edc0865eea189d32aa46f7ffc3022058caf9404effbe67c817c82c0df4f52",
-      "bytes": 14112,
-      "lines": 64,
+      "sha256": "634e6c06641f470195b4240488714052939772c07390f6d93b29fbfe332c18e1",
+      "bytes": 14347,
+      "lines": 66,
       "title": "Reward, prior selection and the persistence of attentional capture",
       "headings": [
         "Reward, prior selection and the persistence of attentional capture",
@@ -16063,6 +16112,7 @@
       ],
       "local_links": [
         "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
+        "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
         "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "verification/shelat_2026_laplace_accuracy_reproduction.py",
@@ -16071,8 +16121,8 @@
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md"
       ],
       "risk_phrase_lines": [
-        19,
-        64
+        21,
+        66
       ]
     },
     {

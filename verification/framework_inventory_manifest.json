@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "785a76772fe1e12ba5ff86769c097349dbce6011",
-  "file_count": 1644,
+  "base_head": "991f45db0058153765a8e308b0fd0e6cf31c37dd",
+  "file_count": 1649,
   "files": [
     {
       "path": ".gitattributes",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 135024,
-      "sha256": "d3d1052bc3f364fb25dd5a02b8b31dbee0ead3e5796624f1d3f706799612e22f"
+      "bytes": 135640,
+      "sha256": "bc7dfba1b246303ecdf17deb597303e890e4750646c94d3c436418d6efb611f6"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1930,8 +1930,8 @@
     },
     {
       "path": "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
-      "bytes": 12126,
-      "sha256": "81c1230cf730893bcccfa2d84bbec2fea62e73ebee4d3d565da0a877cfea760c"
+      "bytes": 12362,
+      "sha256": "4e6aa69d3e23976ac3d429be7f6e38c95b66a98df9307c09f43cce84d80971cc"
     },
     {
       "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
@@ -1942,6 +1942,16 @@
       "path": "SHELAT_2026_PREREGISTRATION_AND_MODEL_DEPENDENCY_CHECK.md",
       "bytes": 9324,
       "sha256": "cc3a0d8a63f1639623aff271452ce06637478c6a730b9fd4a2dac6ebdc72343c"
+    },
+    {
+      "path": "SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md",
+      "bytes": 12616,
+      "sha256": "64a115ac3e12b08140c1d7ffc1d5580368ea66d5bafb4652f3306e1119be035c"
+    },
+    {
+      "path": "SHELAT_2026_REWARD_SELECTION_RT_WORKFLOW_FOLLOWUP_PLAN.md",
+      "bytes": 2478,
+      "sha256": "882fa48e8aaa38f60e82edb892c9c227399ff475d667f4029711fe03a20a3625"
     },
     {
       "path": "SHELAT_2026_SUPPLIED_ANALYSIS_SCRIPTS_REPRODUCTION_PLAN.md",
@@ -2365,8 +2375,8 @@
     },
     {
       "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
-      "bytes": 14112,
-      "sha256": "9d3edc0865eea189d32aa46f7ffc3022058caf9404effbe67c817c82c0df4f52"
+      "bytes": 14347,
+      "sha256": "634e6c06641f470195b4240488714052939772c07390f6d93b29fbfe332c18e1"
     },
     {
       "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
@@ -6440,8 +6450,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 685920,
-      "sha256": "53735f18b4711ba4ab48ba88976523dd64b86b3646e3ae7afd4ba057ab722ed7"
+      "bytes": 688096,
+      "sha256": "63b20c5a8606d7e41ed876dc285bbf17c1131a423dbd34dac9d691664b0c9cce"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7355,18 +7365,33 @@
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction.json",
-      "bytes": 36597,
-      "sha256": "4e9622a136f5418a425cac0317e7dfd8be231573a3a07458ee07f6c886431354"
+      "bytes": 42599,
+      "sha256": "aa6171c86cdd86a6fb9bbda547257bac1c66c6676d48a46a1a75268eec953786"
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction.py",
-      "bytes": 8443,
-      "sha256": "1d2704e8249302c4b5dbbc67cee47b69bf759bcfeb3a320e81b3787a6838f4c8"
+      "bytes": 8937,
+      "sha256": "3cc9a34b032920486eb146e9c3ccffca2f2473b312a8f512549f9c962fac1fd0"
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
-      "bytes": 4251,
-      "sha256": "1ec26bc2406ab54bff62d0c25de1e2dd0454e6b43b65fec57fdd9cef3eb9d582"
+      "bytes": 4681,
+      "sha256": "8dfabdb7683e7f12f55dd092bb31a5ef839a34d17d7296b61e47638343bb258d"
+    },
+    {
+      "path": "verification/shelat_2026_rt_mixed_reproduction.json",
+      "bytes": 15281,
+      "sha256": "273c56e86cef489fd26acfbe5f4a2ba3a3c63d7ddaec3cb63d78d0238a89577d"
+    },
+    {
+      "path": "verification/shelat_2026_rt_mixed_reproduction.py",
+      "bytes": 6799,
+      "sha256": "679a9d5f64408aa627bc7ee62878cb352fc938889c6de45a69daf6c9d59d0263"
+    },
+    {
+      "path": "verification/shelat_2026_rt_mixed_reproduction_test.py",
+      "bytes": 4676,
+      "sha256": "a8c4087d76dd3110b032ab5585854d6573f8e6055272313b03a469256322fd9d"
     },
     {
       "path": "verification/shlaer_time_comparison.json",

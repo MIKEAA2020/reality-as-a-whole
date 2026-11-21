@@ -4,6 +4,8 @@
 
 The [2011 Anderson et al. experiment](ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md) is not the end of the evidence. Later direct contrasts provide stronger support that **reward history can affect subsequent search beyond simply having selected a color before**. But the effect varies with the paradigm, and a former-target bias can also occur without monetary reward. Neither conclusion requires a wholly separate neural mechanism or a claim about phenomenal subject unity.
 
+A [subsequent follow-up](SHELAT_2026_REWARD_SELECTION_RT_AND_R_WORKFLOW_AUDIT.md) adds an independent RT-model fit and exploratory accuracy and RT contrasts between reward and selection, and documents an unsuccessful R setup attempt.
+
 A further exploratory contrast in our previously fitted 2026 model compares reward-colored with selected-but-unrewarded distractors at observed blocks. In the **pooled fast-trigger, block-1** contrast, the estimate is **0.186 log odds**, 95% Wald CI **[−0.047, 0.420]**, unadjusted p=.118. The interval is compatible with either direction: this does not establish equality or a lack of reward specificity. These contrasts are retrospective and model-dependent, and the pooled analysis was unregistered.
 
 This is a targeted, non-systematic follow-up, with the main results and some search snippets known before the [plan](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md). We read relevant methods and results in the linked primary sources; no 2013, 2016, 2017, 2018 or 2023 participant-level data or code was independently reproduced. The 2026 calculation is a new contrast from the existing independently fitted model, not an execution of the authors' R scripts.
