@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Bohn plural collective consciousness audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) reads the supplied full paper, including its trickling-down and infinite-descent discussion, and tests the scope of its one-way principle on the existing four-spin interface. It neither derives E-L's incidence nor resolves the subject/quality or grounding questions; battery verdicts remain open.
+
 The [four-spin imperfect-intervention gate](FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md) derives a conditional channel-sign certificate under bounded residual drift, provides hypothetical sampling intervals and constructs observationally equivalent opposite target channels when drift is too large. It identifies no real channel, subject or feeling and does not change the battery verdicts.
 
 The [four-spin physical mismatch measurement gate](FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md) develops a conditional report-independent calibration and exact selected-cell sensor-error example, while showing that passive records need not identify a separately designated channel preference. It supplies no real neural q measurement or experiential assay; battery verdicts remain open.

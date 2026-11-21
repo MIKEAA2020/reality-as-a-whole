@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 477,
-  "bytes": 6215941,
-  "line_count": 59265,
-  "document_count_with_risk_phrases": 449,
+  "document_count": 478,
+  "bytes": 6238232,
+  "line_count": 59369,
+  "document_count_with_risk_phrases": 450,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -691,6 +691,38 @@
         110,
         116,
         127
+      ]
+    },
+    {
+      "path": "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
+      "sha256": "ce1149e32ad983a14e579a1a40d34b464152448015d12fd8d20944d4eadb2cc2",
+      "bytes": 20350,
+      "lines": 92,
+      "title": "Bohn's plural collective consciousness: full-paper audit and subject interface",
+      "headings": [
+        "Bohn's plural collective consciousness: full-paper audit and subject interface",
+        "Source and direct result",
+        "1. Bohn's actual proposal",
+        "2. What he claims, and what he leaves open",
+        "3. A fair comparison with the project's proposals",
+        "4. The one-way principle on the same four-spin sector",
+        "5. A useful warning about a singular fundamental whole",
+        "6. Infinite descent and the explanatory demand"
+      ],
+      "local_links": [
+        "sources/uploads/bohn2018.pdf",
+        "verification/bohn_collective_property_gate.py",
+        "verification/bohn_collective_property_gate.py",
+        "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+        "verification/bohn_collective_property_gate.json"
+      ],
+      "risk_phrase_lines": [
+        24,
+        44,
+        63,
+        65,
+        92
       ]
     },
     {
@@ -4024,9 +4056,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5171e2238489eaca8c423c29b05a96ed830e4ef27772be315c6aafbe45fe57e9",
-      "bytes": 26592,
-      "lines": 109,
+      "sha256": "d6221948222bad7070fc66bbccd93368efacf5e0f2bcf258535e5a90832b688c",
+      "bytes": 26997,
+      "lines": 111,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4038,6 +4070,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
@@ -4080,17 +4113,17 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
-        23,
-        31,
+        9,
+        13,
+        25,
         33,
-        37,
-        53,
-        63,
-        80,
-        97,
-        103
+        35,
+        39,
+        55,
+        65,
+        82,
+        99,
+        105
       ]
     },
     {
@@ -4269,9 +4302,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "689087cf584f7def1cc91648b340e5e19a1ec1c029cdfe6e11d42a3d4af50951",
-      "bytes": 116047,
-      "lines": 930,
+      "sha256": "4dd072c681c678b5a83564ad1d6ace8dc28920dfc2021e79334309ece444385a",
+      "bytes": 116516,
+      "lines": 934,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4307,6 +4340,7 @@
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
         "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
@@ -4790,6 +4824,7 @@
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
         "sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf",
         "sources/uploads/bain2000.pdf",
+        "sources/uploads/bohn2018.pdf",
         "sources/uploads/combination.pdf",
         "sources/uploads/complete-intelligibility-side-by-side.md",
         "sources/uploads/complete-intelligibility-side-by-side.provenance.json",
@@ -4831,6 +4866,8 @@
         "verification/bakas_paper_consistency_test.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/bell_preparation_correlation_gate.py",
+        "verification/bohn_collective_property_gate.py",
+        "verification/bohn_collective_property_gate_test.py",
         "verification/boundary_cut_workspace.py",
         "verification/bowling_pairwise_transfer_audit.py",
         "verification/brain_centric_blockworld_gates.py",
@@ -5188,22 +5225,22 @@
       "risk_phrase_lines": [
         17,
         31,
-        44,
-        50,
-        59,
-        128,
-        176,
-        224,
-        273,
-        295,
-        342,
-        423,
-        438,
-        474,
-        483,
-        486,
-        489,
-        552
+        45,
+        51,
+        60,
+        129,
+        177,
+        225,
+        274,
+        296,
+        343,
+        424,
+        439,
+        475,
+        484,
+        487,
+        490,
+        554
       ]
     },
     {
@@ -6283,9 +6320,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "48c0cd46320fbe4750cfe8ab0f5fc44daba19d94eb4817a0e49bcf15d7622f85",
-      "bytes": 23189,
-      "lines": 137,
+      "sha256": "9b6e89b30ace9cfccdeb73bf3a3869f4bcf46353051c58fac29a333fb5a2bb1f",
+      "bytes": 23531,
+      "lines": 139,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6298,6 +6335,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "FOUR_SPIN_IMPERFECT_SELECTIVE_INTERVENTION_GATE.md",
         "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
         "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
@@ -6326,12 +6364,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        23,
         25,
-        78,
-        82,
-        115,
-        137
+        27,
+        80,
+        84,
+        117,
+        139
       ]
     },
     {
@@ -8678,9 +8716,9 @@
     },
     {
       "path": "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
-      "sha256": "b4cc5ec24cfb7bac0f1b5953adafb901b640c1956dadbd4b454e0e6d6870c342",
-      "bytes": 16512,
-      "lines": 83,
+      "sha256": "980cca0736ec9630984d2c3e4b04d39360dff2b3fb654981fff17ef54ea4cb63",
+      "bytes": 16868,
+      "lines": 85,
       "title": "From experienced unity to subject constitution: the missing inference",
       "headings": [
         "From experienced unity to subject constitution: the missing inference",
@@ -8692,6 +8730,7 @@
         "5. What would change the result"
       ],
       "local_links": [
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
@@ -8699,8 +8738,8 @@
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
-        21,
-        40
+        23,
+        42
       ]
     },
     {
@@ -9103,9 +9142,9 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "0fa572cb005fd57fb082987c8c78cf0f6aec80449b5aaf8ada7911b9b91b9b7e",
-      "bytes": 18594,
-      "lines": 83,
+      "sha256": "35a0b60b8d81a32e88d2fdd1a36420c3878a5715bccee4b04f47a18c01945a8d",
+      "bytes": 18963,
+      "lines": 85,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
         "Plural subjects in an experiential relational ground",
@@ -9118,6 +9157,7 @@
         "6. A productive next experiment in reasoning and evidence"
       ],
       "local_links": [
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
@@ -9128,10 +9168,10 @@
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
       ],
       "risk_phrase_lines": [
-        58,
-        64,
+        60,
         66,
-        80
+        68,
+        82
       ]
     },
     {

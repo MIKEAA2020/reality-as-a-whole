@@ -2,6 +2,8 @@
 
 ## Aim and status
 
+The [full supplied Bohn paper audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) adds an irreducibly collective-property alternative that does not require microsubjects. Its trickling-down principle and basic plural facts remain distinct from a derived E-L subject/quality rule, and its grounding assumptions need comparison with a whole-first ontology.
+
 The [subjective-character and field-first bridge analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) develops an explicit alternative to a subject-free base: take concrete first-personal fields as basic and identify thin local subjects with them. This avoids an added observer but assumes subject-like fields and their individuation; it does not derive the E-L subject or quality rule.
 
 The proposed whole is self-sufficient and timeless, with experience intrinsic and fundamental relations not presumed to be embedded in spacetime. It need not be one universal subject. Actual experience is a datum, not an illusion to be explained away. The ambition is to satisfy all seven criteria together, including C3, **full structural and experiential intelligibility**, and C7, elegance and parsimony. None is declared satisfied by this note.

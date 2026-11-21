@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 434 root Markdown documents including this register; 43 research Markdown documents.
-- 56 original uploaded files, including provenance metadata; 364 verification Python scripts.
+- 435 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 366 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -34,6 +34,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md](BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md) — Structural realism, effective particles and plural experience
 - [BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md](BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md) — Music appraisal: full-paper reading and centrality consistency audit
 - [BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md](BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md) — Bell-pair preparation versus an infinite-temperature correlation
+- [BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) — Bohn's plural collective consciousness: full-paper audit and subject interface
 - [BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md](BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md) — Placebo, nociception and pain: full-paper audit
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions
 - [BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md) — Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates
@@ -527,6 +528,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
 - [sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf](sources/uploads/WMJ-JPQN-25-146-A-Complete-Universal-Field-Theory-for-Our-Universe-Built-from-Nothing-Using-Only-Organization.pdf)
 - [sources/uploads/bain2000.pdf](sources/uploads/bain2000.pdf)
+- [sources/uploads/bohn2018.pdf](sources/uploads/bohn2018.pdf)
 - [sources/uploads/combination.pdf](sources/uploads/combination.pdf)
 - [sources/uploads/complete-intelligibility-side-by-side.md](sources/uploads/complete-intelligibility-side-by-side.md)
 - [sources/uploads/complete-intelligibility-side-by-side.provenance.json](sources/uploads/complete-intelligibility-side-by-side.provenance.json)
@@ -572,6 +574,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/bakas_paper_consistency_test.py](verification/bakas_paper_consistency_test.py)
 - [verification/bekir_split_brain_public_data_audit.py](verification/bekir_split_brain_public_data_audit.py)
 - [verification/bell_preparation_correlation_gate.py](verification/bell_preparation_correlation_gate.py)
+- [verification/bohn_collective_property_gate.py](verification/bohn_collective_property_gate.py)
+- [verification/bohn_collective_property_gate_test.py](verification/bohn_collective_property_gate_test.py)
 - [verification/boundary_cut_workspace.py](verification/boundary_cut_workspace.py)
 - [verification/bowling_pairwise_transfer_audit.py](verification/bowling_pairwise_transfer_audit.py)
 - [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)

@@ -2,6 +2,8 @@
 
 ## Decision
 
+The [Bohn plural collective consciousness audit](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) examines a different strategy: basic collective consciousness properties rather than a bonding relation among microsubjects. It clarifies the remaining plurality-to-perspective and grounding obligations without treating Bohn as a bonding theorist.
+
 The [subsequent subjective-character analysis](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) considers a positive, field-first alternative: its no-extra-observer identity avoids one circularity, but it starts with first-personal fields and does not independently derive their physical selection or qualities.
 
 Ordinary first-person experience can give genuine evidence that contents are experienced together. It does **not by itself establish** that those contents belong to additional smaller subjects, that they are numerically shared between subjects, or that the subject is constituted by them. Conversely, it does not show that such composition is impossible. The dispute between S Siddharth and Gregory Miller makes this distinction explicit and corrects the tempting inference that a positive conception of *intra*-subject unity automatically gives an independently established *inter*-subject bonding relation.
