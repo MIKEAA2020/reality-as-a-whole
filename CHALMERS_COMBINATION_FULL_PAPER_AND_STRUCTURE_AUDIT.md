@@ -1,5 +1,7 @@
 # The combination problem: full supplied paper and the relational candidate
 
+**Related rival:** The [Benovsky full-book audit](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) examines his proto-mental and no-distinct-bearer approach: avoiding micro-subject summing does not by itself determine felt quality, experiential unity or constitution.
+
 ## Source and scope
 
 The supplied [*The Combination Problem for Panpsychism*](sources/uploads/combination.pdf) by David J. Chalmers is a 37-page author manuscript. All pages, including the previously truncated sections 8–9 and references, were read from its extracted text; all pages contain text, and the PDF reports no embedded raster images. The source file is retained without modification, SHA-256 `e7948184f9db70613d5dd8048436d640cd0ab1059018e979bd0d55772e40f8ee`. The [published chapter DOI](https://doi.org/10.1093/acprof:oso/9780199359943.003.0008) identifies the work, but the published version has **not** been compared with this supplied manuscript; page numbers below refer to the manuscript. Other works cited in it have not been independently verified merely by reading its references.

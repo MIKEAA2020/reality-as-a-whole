@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1c068d955bf031fb91d5ae876a064227ed5a32de",
-  "file_count": 1525,
+  "base_head": "3bfaf0ceae60e4f35f2de853f324e33dbca66a28",
+  "file_count": 1529,
   "files": [
     {
       "path": ".gitattributes",
@@ -124,6 +124,11 @@
       "sha256": "d03c61daf9b4dc4df6b6fb794b2ffb46bd5312a4ddcc96f0139b5b59242838a3"
     },
     {
+      "path": "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
+      "bytes": 16918,
+      "sha256": "e1ebe26925829bfca1f98bc8b0b0eba093efb433e63fdd777edd30cf18cc1077"
+    },
+    {
       "path": "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
       "bytes": 20721,
       "sha256": "06ae69b796226025439f72a4e00399b1c7befda21394811e39d087f39bc57811"
@@ -170,8 +175,8 @@
     },
     {
       "path": "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
-      "bytes": 13641,
-      "sha256": "e62e6769c310f733087fc264a779b76a78fc5c8e98245c0b5a09385031bcb65d"
+      "bytes": 13910,
+      "sha256": "55c9a1cc591c9ef1f3b14c54ef0ef0ad61e74a852aa75ef050acdb998638e511"
     },
     {
       "path": "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
@@ -585,8 +590,8 @@
     },
     {
       "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
-      "bytes": 16596,
-      "sha256": "f706374fb3550fd6c010cde460b084e0159c98dca78b3c08824f1c4adbe9d86d"
+      "bytes": 16868,
+      "sha256": "64b7097fde51b81e01db8cf3ab5a8354577a8c18e39e36e76857db4f120236a8"
     },
     {
       "path": "FIELD_READOUT_ENERGY_TRADEOFF.md",
@@ -635,8 +640,8 @@
     },
     {
       "path": "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
-      "bytes": 17628,
-      "sha256": "f19c3b002647edb61458c155632eb0f6cceb38ae2344ad86ffa8ce0915290224"
+      "bytes": 17944,
+      "sha256": "93f28f89fc6c716464da4afa57147495eeccc4cce210ce2d094e233c1ea44b48"
     },
     {
       "path": "FIXED_GAP_SOURCE_CLOCK.md",
@@ -650,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 29573,
-      "sha256": "f7c157cb2198d6fc775542369b3021e51f6fd42ad4929fe839ddc9d0b9752d6e"
+      "bytes": 30006,
+      "sha256": "412ec78770ba0032de383ae1ca9486a511738ede8aa3b10ffe98c28101ae365c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -685,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 119398,
-      "sha256": "17952278fd3e19338d89e4ffee4ffc884f3c349f7a9feb9b5d3b77f980fb4c1c"
+      "bytes": 119783,
+      "sha256": "3b8296cdd42601a335c3e586009d6067734b44472ba97fd7e8d32fe41526e31c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1800,8 +1805,8 @@
     },
     {
       "path": "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
-      "bytes": 16661,
-      "sha256": "ecb4002e5a3026f9742333dbb3397ac5fa8274e91c6fe89f2848d272947e1c6d"
+      "bytes": 16955,
+      "sha256": "1afbb8adf542c77f429c4aefec7f9d95327f738466d83493a7e81969ba45f172"
     },
     {
       "path": "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
@@ -3939,6 +3944,21 @@
       "sha256": "4e6580b6fd9c72bea41532eff6f5c3c1a754e54d3de5007a39e657ffaef86739"
     },
     {
+      "path": "verification/benovsky_mineness_partition_gate.json",
+      "bytes": 830,
+      "sha256": "87075e67ab964fe1d003c2823d13afd1468f93aed2b97b43ce094bf0d808e2a6"
+    },
+    {
+      "path": "verification/benovsky_mineness_partition_gate.py",
+      "bytes": 2774,
+      "sha256": "39e446c882cf4a81b4774c4e72d956134b9af2123e22264cd4bc72aae756c29e"
+    },
+    {
+      "path": "verification/benovsky_mineness_partition_gate_test.py",
+      "bytes": 1429,
+      "sha256": "bd5db8330f16358720f9f00cf9b90fa7036678684ece34a45e3ca337cbd8efef"
+    },
+    {
       "path": "verification/bohn_collective_property_gate.json",
       "bytes": 654,
       "sha256": "d84eb5194dc9d959a709c34d7d931319bcf89d65199161bc9ecb460e4e509ad9"
@@ -5925,8 +5945,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 613372,
-      "sha256": "8be9a4bc83179df0a715249e52406084f888bf49b4ea6e91adf1a8963ece30ff"
+      "bytes": 615346,
+      "sha256": "738c91f48bc93b2abfb74fc32e467f994dd0a87cf0e979df9d97cdb24fa1643a"
     },
     {
       "path": "verification/project_inventory.py",

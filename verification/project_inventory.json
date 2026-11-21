@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 487,
-  "bytes": 6377080,
-  "line_count": 60446,
-  "document_count_with_risk_phrases": 458,
+  "document_count": 488,
+  "bytes": 6395967,
+  "line_count": 60537,
+  "document_count_with_risk_phrases": 459,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -729,6 +729,42 @@
       ]
     },
     {
+      "path": "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
+      "sha256": "e1ebe26925829bfca1f98bc8b0b0eba093efb433e63fdd777edd30cf18cc1077",
+      "bytes": 16918,
+      "lines": 78,
+      "title": "Benovsky on dual aspects, mineness and no-self: full-book audit",
+      "headings": [
+        "Benovsky on dual aspects, mineness and no-self: full-book audit",
+        "Decision",
+        "1. Source and reading scope",
+        "2. The book’s position, without collapsing its components",
+        "3. What the argument buys—and what it still owes",
+        "4. What the perceptual example supports",
+        "5. A small invariant-mineness grouping gate",
+        "6. Project integration and next obligations"
+      ],
+      "local_links": [
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+        "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "verification/benovsky_mineness_partition_gate.py",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
+        "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
+        "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "verification/benovsky_mineness_partition_gate.json"
+      ],
+      "risk_phrase_lines": [
+        38,
+        65,
+        67,
+        69,
+        78
+      ]
+    },
+    {
       "path": "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
       "sha256": "06ae69b796226025439f72a4e00399b1c7befda21394811e39d087f39bc57811",
       "bytes": 20721,
@@ -1008,9 +1044,9 @@
     },
     {
       "path": "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
-      "sha256": "e62e6769c310f733087fc264a779b76a78fc5c8e98245c0b5a09385031bcb65d",
-      "bytes": 13641,
-      "lines": 66,
+      "sha256": "55c9a1cc591c9ef1f3b14c54ef0ef0ad61e74a852aa75ef050acdb998638e511",
+      "bytes": 13910,
+      "lines": 68,
       "title": "The combination problem: full supplied paper and the relational candidate",
       "headings": [
         "The combination problem: full supplied paper and the relational candidate",
@@ -1021,6 +1057,7 @@
         "4. Same-domain rivals and next decisive obligations"
       ],
       "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "sources/uploads/combination.pdf",
         "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
         "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
@@ -1034,11 +1071,11 @@
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        25,
-        34,
+        9,
+        27,
         36,
-        46
+        38,
+        48
       ]
     },
     {
@@ -3729,9 +3766,9 @@
     },
     {
       "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
-      "sha256": "f706374fb3550fd6c010cde460b084e0159c98dca78b3c08824f1c4adbe9d86d",
-      "bytes": 16596,
-      "lines": 112,
+      "sha256": "64b7097fde51b81e01db8cf3ab5a8354577a8c18e39e36e76857db4f120236a8",
+      "bytes": 16868,
+      "lines": 114,
       "title": "Field lineage, persistence, and fission: a conditional comparison",
       "headings": [
         "Field lineage, persistence, and fission: a conditional comparison",
@@ -3744,6 +3781,7 @@
         "6. Interface to evidence and to the four-spin comparison"
       ],
       "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
@@ -3752,20 +3790,20 @@
         "verification/field_lineage_persistence_gate.json"
       ],
       "risk_phrase_lines": [
-        15,
-        19,
-        57,
+        17,
+        21,
         59,
-        63,
+        61,
         65,
         67,
         69,
-        75,
+        71,
         77,
-        89,
+        79,
         91,
-        95,
-        110
+        93,
+        97,
+        112
       ]
     },
     {
@@ -4097,9 +4135,9 @@
     },
     {
       "path": "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
-      "sha256": "f19c3b002647edb61458c155632eb0f6cceb38ae2344ad86ffa8ce0915290224",
-      "bytes": 17628,
-      "lines": 91,
+      "sha256": "93f28f89fc6c716464da4afa57147495eeccc4cce210ce2d094e233c1ea44b48",
+      "bytes": 17944,
+      "lines": 93,
       "title": "First-personal givenness and the individuation of fields",
       "headings": [
         "First-personal givenness and the individuation of fields",
@@ -4112,6 +4150,7 @@
         "6. Applying the fork to the current framework"
       ],
       "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md",
@@ -4197,9 +4236,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "f7c157cb2198d6fc775542369b3021e51f6fd42ad4929fe839ddc9d0b9752d6e",
-      "bytes": 29573,
-      "lines": 121,
+      "sha256": "412ec78770ba0032de383ae1ca9486a511738ede8aa3b10ffe98c28101ae365c",
+      "bytes": 30006,
+      "lines": 123,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4211,6 +4250,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
         "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
@@ -4264,17 +4304,18 @@
       ],
       "risk_phrase_lines": [
         5,
-        19,
-        23,
-        35,
-        43,
+        7,
+        21,
+        25,
+        37,
         45,
-        49,
-        65,
-        75,
-        92,
-        109,
-        115
+        47,
+        51,
+        67,
+        77,
+        94,
+        111,
+        117
       ]
     },
     {
@@ -4453,9 +4494,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "17952278fd3e19338d89e4ffee4ffc884f3c349f7a9feb9b5d3b77f980fb4c1c",
-      "bytes": 119398,
-      "lines": 957,
+      "sha256": "3b8296cdd42601a335c3e586009d6067734b44472ba97fd7e8d32fe41526e31c",
+      "bytes": 119783,
+      "lines": 960,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4492,6 +4533,7 @@
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
         "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
@@ -5028,6 +5070,8 @@
         "verification/bakas_paper_consistency_test.py",
         "verification/bekir_split_brain_public_data_audit.py",
         "verification/bell_preparation_correlation_gate.py",
+        "verification/benovsky_mineness_partition_gate.py",
+        "verification/benovsky_mineness_partition_gate_test.py",
         "verification/bohn_collective_property_gate.py",
         "verification/bohn_collective_property_gate_test.py",
         "verification/boundary_cut_workspace.py",
@@ -5399,23 +5443,23 @@
       "risk_phrase_lines": [
         17,
         32,
-        46,
-        52,
-        62,
-        132,
-        181,
-        229,
-        257,
-        283,
-        305,
-        352,
-        433,
-        448,
-        484,
-        493,
-        496,
-        499,
-        563
+        47,
+        53,
+        63,
+        133,
+        182,
+        230,
+        258,
+        284,
+        306,
+        353,
+        434,
+        449,
+        485,
+        494,
+        497,
+        500,
+        564
       ]
     },
     {
@@ -12422,9 +12466,9 @@
     },
     {
       "path": "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
-      "sha256": "ecb4002e5a3026f9742333dbb3397ac5fa8274e91c6fe89f2848d272947e1c6d",
-      "bytes": 16661,
-      "lines": 87,
+      "sha256": "1afbb8adf542c77f429c4aefec7f9d95327f738466d83493a7e81969ba45f172",
+      "bytes": 16955,
+      "lines": 89,
       "title": "Subjective character, unity, and a field-first bridge",
       "headings": [
         "Subjective character, unity, and a field-first bridge",
@@ -12437,15 +12481,16 @@
         "6. What could make the proposal more than a stopping point?"
       ],
       "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
         "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        25,
-        29,
-        58
+        27,
+        31,
+        60
       ]
     },
     {

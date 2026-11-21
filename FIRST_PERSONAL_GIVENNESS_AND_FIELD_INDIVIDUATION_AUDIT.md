@@ -2,6 +2,8 @@
 
 ## Decision
 
+**Related rival:** The [Benovsky full-book audit](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) examines a no-distinct-bearer account that retains first-personal experience, and separates generic mineness from a rule for continuant grouping. It does not establish that this account or field identity is correct.
+
 First-person experience gives the project an indispensable positive starting point: a qualitative occurrence can be lived, not merely described from outside. But “first-personal,” “self-aware,” “experienced as mine,” and “one numerically individuated subject” are not interchangeable claims. Reading Zahavi's reply to Guillot and Barbieri's challenge exposes a specific debt in our own **field-first** proposal: identifying a thin subject with a first-personal field is a substantive identity proposal, not a derivation of the existence or count of fields, and it does not automatically explain a persisting person.
 
 There is a concrete consequence for the field-first identity. If every distinct local-window field token is itself a subject, then two distinct nested-window tokens cannot also be **the same numerical thin subject**. Treating every analysis window as a new field risks multiplying subjects by changing the description. A disciplined alternative distinguishes actual subject-field occurrences from their window-relative descriptions, but it must still justify the actual fields and their scope. This is a correction to how the candidate must be formulated, not an empirical discovery of subjects or a proof of temporal ontology.

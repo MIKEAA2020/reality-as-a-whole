@@ -2,6 +2,8 @@
 
 ## Result
 
+**Related comparison:** The [Benovsky full-book audit](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) uses a nonbranching parallel-path toy to separate generic mineness from an additional diachronic grouping rule. Its no-link option need not posit a subject per token.
+
 The previous [field-individuation audit](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) identified a tension in calling two distinct field tokens *the same thin field-subject*. This continuation asks a different question: can **distinct field-occurrences be stages associated with one persisting person**? Yes as a formal proposal, if the persisting person is not simply identical to each distinct field token. That is an ontological choice, not a proof that people are streams, sets, fields or substances.
 
 Two explicit rules can turn a stipulated lineage graph into strict one-to-one stage links, but they disagree. A symmetric fork also shows a cost of demanding both ordinary single-successor persistence and a decision depending only on each individual edge's unchanged local description: if either equally supported successor gets the predecessor's identity, symmetry forces the other to get it too. Distinct simultaneous successors then violate transitivity of identity. A branch-sensitive rule can consistently deny persistence in the fork, but it gives up the specified edge-local independence. This is an **additional locality tradeoff**, not a new discovery of the familiar identity-versus-fission argument.

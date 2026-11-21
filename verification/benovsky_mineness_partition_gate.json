@@ -1,0 +1,33 @@
+{
+  "scope": "partition semantics for four stipulated event tokens; not evidence of subjects",
+  "all_four_event_partitions": 15,
+  "at_most_one_per_time": 7,
+  "and_edge_supported": 4,
+  "and_exchange_invariant": 2,
+  "general_parallel_examples": [
+    {
+      "parallel_paths": 1,
+      "edge_supported_groupings": 2,
+      "permutation_invariant_groupings": 2
+    },
+    {
+      "parallel_paths": 2,
+      "edge_supported_groupings": 4,
+      "permutation_invariant_groupings": 2
+    },
+    {
+      "parallel_paths": 3,
+      "edge_supported_groupings": 8,
+      "permutation_invariant_groupings": 2
+    },
+    {
+      "parallel_paths": 4,
+      "edge_supported_groupings": 16,
+      "permutation_invariant_groupings": 2
+    }
+  ],
+  "two_exchange_invariant_extremes": [
+    "no temporal links",
+    "all temporal links"
+  ]
+}
