@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2224d714842860b022880de11942c12bc10e349a",
-  "file_count": 1521,
+  "base_head": "1c068d955bf031fb91d5ae876a064227ed5a32de",
+  "file_count": 1525,
   "files": [
     {
       "path": ".gitattributes",
@@ -650,8 +650,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 29424,
-      "sha256": "f5295c18b4202f859641c31c93372461ad8ba8bb447264e91ac765d99f18c6ab"
+      "bytes": 29573,
+      "sha256": "f7c157cb2198d6fc775542369b3021e51f6fd42ad4929fe839ddc9d0b9752d6e"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -685,8 +685,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 119039,
-      "sha256": "07745fa830f8e791e89957194ba8deff27a9c03d03506751b5e2b0116bc9139c"
+      "bytes": 119398,
+      "sha256": "17952278fd3e19338d89e4ffee4ffc884f3c349f7a9feb9b5d3b77f980fb4c1c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1215,18 +1215,23 @@
     },
     {
       "path": "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
-      "bytes": 13838,
-      "sha256": "ef474a89ea2938030afaf20419c498f0363a7f030b9f21182ebc5b3124c88078"
+      "bytes": 14033,
+      "sha256": "78f86896678142f94e1a25d394dc9ccd00acb77894ba31c47e96486410d4c3b7"
+    },
+    {
+      "path": "OTTINGER_SCALAR_CONTINUUM_EXPLICIT_GATE.md",
+      "bytes": 8875,
+      "sha256": "d88823c4cf5b01216fd08b93aa289122cb0f958c92e8b0935a97bb04c35fed08"
     },
     {
       "path": "OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md",
-      "bytes": 11753,
-      "sha256": "8f1f03e80bd241d1a5a278763aa5aa8d9e8c788e447ba801b22ebc68ee0ad569"
+      "bytes": 11885,
+      "sha256": "dfd4e5ca30041e99b7a00812d771e1ab4c908d9f93d052a627020462ff76b142"
     },
     {
       "path": "OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md",
-      "bytes": 7467,
-      "sha256": "6769e9c22945c469e0a5df4bd6fd1b40cc0bf92644f82a9efb46f00fb38b821e"
+      "bytes": 7756,
+      "sha256": "9c2e51a2a503b365b605a830f24cca76601aabd19f7c02fb4d93c63f17b298d0"
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
@@ -5634,6 +5639,21 @@
       "sha256": "59cc830d74005217da835f86c14f6bbea6b2d617983af8e811575c7cbec746e8"
     },
     {
+      "path": "verification/ottinger_scalar_continuum.json",
+      "bytes": 1005,
+      "sha256": "eb29c99cd7fbf4fbfaf5ebbd3b12cd7167e25db1a1f778038d22e772252e9352"
+    },
+    {
+      "path": "verification/ottinger_scalar_continuum.py",
+      "bytes": 2242,
+      "sha256": "7215a10934bc29d4bd811a3a99b44c49d72604a8d3b39b0b7ff9e76416da5a32"
+    },
+    {
+      "path": "verification/ottinger_scalar_continuum_test.py",
+      "bytes": 1401,
+      "sha256": "d0e4de6787c02f2bc25b168d5971bc8c3709c509980f832e5aa70e03c9ac94a5"
+    },
+    {
       "path": "verification/ottinger_scalar_regulator_gate.json",
       "bytes": 2239,
       "sha256": "8f456e087590bb8ddda14f01e20b34f17778a600a2b7ac57dfe02ba47bc2624f"
@@ -5905,8 +5925,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 611816,
-      "sha256": "3b3d1539e81ce715a9940af79a0f87af638ed892cd5b2334d7da6917072cecf6"
+      "bytes": 613372,
+      "sha256": "8be9a4bc83179df0a715249e52406084f888bf49b4ea6e91adf1a8963ece30ff"
     },
     {
       "path": "verification/project_inventory.py",

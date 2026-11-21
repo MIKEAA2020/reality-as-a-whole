@@ -2,6 +2,8 @@
 
 ## Result
 
+**Follow-up:** The [continuum proper-time gate](OTTINGER_SCALAR_CONTINUUM_EXPLICIT_GATE.md) derives an infinite-volume limit and its interchange with this proper-time cutoff, plus an explicit finite continuum integral. It does not address the source's dissipation or sharp-cutoff limits.
+
 Under the assumptions and proper-time convergence argument of the [previous scalar lattice gate](OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md), the difference between its two regulated versions of Öttinger’s sum has a definite limit. For a periodic cube of side `L>0`, mass `m>0`, lattice external momentum `k∈(2π/L)Z³`, and the **raw momentum sums** defined below,
 
 ```text

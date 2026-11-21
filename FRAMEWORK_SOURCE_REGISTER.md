@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 443 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 378 verification Python scripts.
+- 444 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 380 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -252,6 +252,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md](ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md) — A concrete orientation-experience test: what existing TMS evidence can and cannot decide
 - [OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) — Öttinger’s dissipative QFT: uploaded excerpt and limit audit
 - [OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md](OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md) — Öttinger’s full book: scalar and QED follow-up
+- [OTTINGER_SCALAR_CONTINUUM_EXPLICIT_GATE.md](OTTINGER_SCALAR_CONTINUUM_EXPLICIT_GATE.md) — Scalar proper-time gate: infinite volume and an explicit continuum integral
 - [OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md](OTTINGER_SCALAR_LATTICE_TIME_REGULATOR_GATE.md) — Öttinger’s scalar lattice sum: a proper-time regulator gate
 - [OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md](OTTINGER_SCALAR_REGULATOR_UNIVERSAL_GAP.md) — Scalar lattice regulators: the exact finite scheme difference
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
@@ -765,6 +766,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/orientation_visibility_contrast.py](verification/orientation_visibility_contrast.py)
 - [verification/ottinger_annihilation_gate.py](verification/ottinger_annihilation_gate.py)
 - [verification/ottinger_annihilation_gate_test.py](verification/ottinger_annihilation_gate_test.py)
+- [verification/ottinger_scalar_continuum.py](verification/ottinger_scalar_continuum.py)
+- [verification/ottinger_scalar_continuum_test.py](verification/ottinger_scalar_continuum_test.py)
 - [verification/ottinger_scalar_regulator_gate.py](verification/ottinger_scalar_regulator_gate.py)
 - [verification/ottinger_scalar_regulator_gate_test.py](verification/ottinger_scalar_regulator_gate_test.py)
 - [verification/ottinger_scalar_universal_gap.py](verification/ottinger_scalar_universal_gap.py)
