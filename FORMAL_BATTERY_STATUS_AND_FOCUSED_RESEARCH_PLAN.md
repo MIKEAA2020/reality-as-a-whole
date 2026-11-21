@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [Basile panpsychism and composition audit](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) reads the supplied full paper and applies its conditional holism, essentialism and shared-token argument to possible nested-field completions. Shared tokens, distinct related occurrences and multiple descriptions have different explanatory costs; none follows from the physical selectors. Contextual variation in full quality does not alone refute E-L's coarse q contrast, and the subjective bridges remain open.
+
 The [split-brain blink conditional-report comparison](SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md) identifies a first-target conditioning issue in Giesbrecht and Kingstone's 2004 study: the patient’s lag-collapsed T1 identification differed by field, while T2 was analyzed conditional on correct T1. That is a meaningful performance estimand, but differing selected trial populations complicate comparisons. Ptito's different patient and digit-count protocol offer a related extension rather than an identical replication; full results and experiential conjunction remain unverified.
 
 The [Ptito thesis methods follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) locates an embedded manuscript of the same 2009 study, not a replication. Accessible partial methods reveal separate hemifield digit-count reports and different patient/control response procedures; the later results remain inaccessible in the extraction. This narrows the behavioral interpretation without establishing experiential conjunction, a neural-to-spin mapping or q calibration.

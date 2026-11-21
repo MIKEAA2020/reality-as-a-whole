@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [Basile mental-composition audit](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) distinguishes shared experience tokens from distinct related occurrences and multiple descriptions of one field. Basile's conditional holism/privacy argument does not automatically apply to E-L, which assumes no fundamental microsubjects, but it sharpens what a nested local/global completion must specify. The q contrast does not by itself fix full qualitative character or subject incidence.
+
 The [layered-unity comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) distinguishes a global conjoint aspect from conjunction of detailed local aspects, applying Lopez's alternative to explicitly completed L/C packages on this same sector. It identifies new incidence and content assumptions without establishing a brain-to-spin map, first-person conjunction assay or q-quality law.
 
 The [Klinge emergent-panpsychism audit](KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md) adds a non-constitutive causal-emergence rival to the subject and quality interface, and distinguishes immediate microcausal sufficiency from stronger closure. His producing powers, downward coupling and subject/quality selection remain unverified; neither rival derives the q-to-quality bridge.

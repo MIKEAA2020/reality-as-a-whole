@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 480 root Markdown documents including this register; 43 research Markdown documents.
+- 482 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -36,6 +36,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
 - [BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md](BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md) — Structural realism, effective particles and plural experience
 - [BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md](BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md) — Music appraisal: full-paper reading and centrality consistency audit
+- [BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md](BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md) — Fixed reading plan: Basile on panpsychism and mental composition
+- [BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) — Basile on panpsychism: the composition and quality fork
 - [BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md](BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md) — Bell-pair preparation versus an infinite-temperature correlation
 - [BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) — Benovsky on dual aspects, mineness and no-self: full-book audit
 - [BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) — Bohn's plural collective consciousness: full-paper audit and subject interface

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 523,
-  "bytes": 6715705,
-  "line_count": 62151,
-  "document_count_with_risk_phrases": 492,
+  "document_count": 525,
+  "bytes": 6737013,
+  "line_count": 62250,
+  "document_count_with_risk_phrases": 493,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -747,6 +747,48 @@
         22,
         45,
         57
+      ]
+    },
+    {
+      "path": "BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md",
+      "sha256": "81929f4aafa75c34e376de17896178ad55345fcfc7ada030fa40f4a4dd0023d2",
+      "bytes": 3483,
+      "lines": 19,
+      "title": "Fixed reading plan: Basile on panpsychism and mental composition",
+      "headings": [
+        "Fixed reading plan: Basile on panpsychism and mental composition",
+        "Source and prior information",
+        "Reading and evaluation",
+        "Deliverable"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
+      "sha256": "41b1c812e0c8de2d03da924d007616fe3e0cc907c8c51b0627bab03cdd8d77ad",
+      "bytes": 16474,
+      "lines": 74,
+      "title": "Basile on panpsychism: the composition and quality fork",
+      "headings": [
+        "Basile on panpsychism: the composition and quality fork",
+        "Decision",
+        "1. The source and scope",
+        "2. Why take the proposal seriously?",
+        "3. Ubiquity does not make every whole a subject",
+        "4. His exact composition argument",
+        "5. A concrete nested-field decision for the project",
+        "6. How far does Leibniz help?"
+      ],
+      "local_links": [
+        "BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md",
+        "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
+        "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        35,
+        72
       ]
     },
     {
@@ -4291,9 +4333,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "ae7611758adb855b37e9a0c48d3e2e3f62f9bbd2e1336db50244c24c2e2782fc",
-      "bytes": 39407,
-      "lines": 157,
+      "sha256": "4a9dc46fdfb7f60451f5bdc57dee7c5b56abe31c53227ee80722c4b75685f37b",
+      "bytes": 39924,
+      "lines": 159,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4305,6 +4347,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
         "ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md",
@@ -4375,24 +4418,24 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        13,
         15,
-        19,
-        29,
-        33,
-        39,
+        17,
+        21,
+        31,
+        35,
         41,
-        55,
-        59,
-        71,
-        79,
+        43,
+        57,
+        61,
+        73,
         81,
-        85,
-        101,
-        111,
-        128,
-        145,
-        151
+        83,
+        87,
+        103,
+        113,
+        130,
+        147,
+        153
       ]
     },
     {
@@ -4571,9 +4614,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ca359926e39fdc261160a7d7f4e38bccb544e722597cb5d978c511299ed16e4e",
-      "bytes": 128779,
-      "lines": 1023,
+      "sha256": "f7c8eb04338f59e71cda67f8a15717118153bd7042405bee51ed5a14640865ee",
+      "bytes": 129124,
+      "lines": 1025,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4611,6 +4654,8 @@
         "AXIOLOGY_STATUS.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
         "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
+        "BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md",
+        "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "BELL_PREPARATION_AND_CORRELATOR_IDENTIFICATION_GATE.md",
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
@@ -5583,23 +5628,23 @@
       "risk_phrase_lines": [
         17,
         34,
-        49,
-        55,
-        65,
-        135,
-        185,
-        238,
-        267,
-        310,
-        335,
-        382,
-        469,
-        484,
-        520,
-        529,
-        532,
-        535,
-        599
+        51,
+        57,
+        67,
+        137,
+        187,
+        240,
+        269,
+        312,
+        337,
+        384,
+        471,
+        486,
+        522,
+        531,
+        534,
+        537,
+        601
       ]
     },
     {
@@ -6699,9 +6744,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "fd9cfbd40c301d8891d5eb0a08818aa6416aecab965c63d690ec89df78947bd1",
-      "bytes": 24319,
-      "lines": 143,
+      "sha256": "5202b689ef8d89d8475de0f963a2e01f36c775a1a7b516f56f092e90bd069fd3",
+      "bytes": 24808,
+      "lines": 145,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6714,6 +6759,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
@@ -6745,12 +6791,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        29,
         31,
-        84,
-        88,
-        121,
-        143
+        33,
+        86,
+        90,
+        123,
+        145
       ]
     },
     {
