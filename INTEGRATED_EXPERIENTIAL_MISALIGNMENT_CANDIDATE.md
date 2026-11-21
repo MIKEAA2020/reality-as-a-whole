@@ -2,7 +2,7 @@
 
 ## Purpose and status
 
-The subsequent [cross-scale subject and quality gate](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) supplies two explicitly postulated, inequivalent whole-subject quality extensions on this same sector. They agree on every original pair output but do not resolve subject constitution or pass B4–B5/F2. The [relational dynamics gate](INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md) shows exact dependence on external context and a model-specific relational predictive repair, without assuming that subjects must be dynamically closed.
+The subsequent [cross-scale subject and quality gate](INTEGRATED_CROSS_SCALE_SUBJECT_QUALITY_GATE.md) supplies two explicitly postulated, inequivalent whole-subject quality extensions on this same sector. They agree on every original pair output but do not resolve subject constitution or pass B4–B5/F2. The [relational dynamics gate](INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md) shows exact dependence on external context and a model-specific relational predictive repair, without assuming that subjects must be dynamically closed. The [pain/aversion readiness gate](PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md) identifies a continuous first-person dataset but finds no independently measured physical mismatch or validated subject bridge.
 
 This is a **new, explicitly incomplete successor candidate**, not a revision of the frozen v1 dossier or a claim to have passed its battery. It puts the current commitments and one worked subject/valence interface together, then compares a neutral-ground rival on exactly the same interface. The worked sector reuses the prior four-spin construction; it is not a physical theory of brains or fundamental strings.
 

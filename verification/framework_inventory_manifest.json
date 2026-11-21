@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d796bd4a91716eaacaca01c40576d8cba9970a9a",
-  "file_count": 1430,
+  "base_head": "aef293c8097c4166f6064f972fb83b8bf4fbd360",
+  "file_count": 1435,
   "files": [
     {
       "path": ".gitattributes",
@@ -590,8 +590,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 20096,
-      "sha256": "f3382b48cc5fd0466b8d76799982d47f063fc0bb0eb9b15e9226cf83d7658929"
+      "bytes": 20411,
+      "sha256": "67c64fb4b13781884ec368ddf158b84a08c86abf72266c516b0073026bfce47c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -615,8 +615,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 109281,
-      "sha256": "8c93f144cb03efbd406ebdfa6ba82c4e08e0f0810d03e8d73ab9e65480a5171c"
+      "bytes": 109856,
+      "sha256": "5ed8626c4f456eee6ed9df2c7c0f78835808d8d1efb5f9953b99a6234f4a67f4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 18794,
-      "sha256": "5a9a8673791bc8fbc1c41a8bc1cd034a9193157bcf0168d3257dd9aecc2ed468"
+      "bytes": 19018,
+      "sha256": "4dc3eb9938a6ca1c1103efab4d8f25e70e32d5a388225720f4b3c8bd2495f7eb"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -1122,6 +1122,16 @@
       "path": "PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md",
       "bytes": 7112,
       "sha256": "35c0d1a3bfd18e59dd7ff5edf9f13ac842557b9a094ad656f6e8edb1a2622e15"
+    },
+    {
+      "path": "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
+      "bytes": 14388,
+      "sha256": "22185c5fdec975ba6836a69b0f75d1a7fb5c5f3148da005d211ece5d42b0b096"
+    },
+    {
+      "path": "PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md",
+      "bytes": 4137,
+      "sha256": "d59a7cd707a3ce44be116dd66ed0451fc297cb52d2dc2101f138ab4c05ec30ca"
     },
     {
       "path": "PERSPECTIVAL_FINITUDE.md",
@@ -5249,6 +5259,21 @@
       "sha256": "92dae1f465bc1018fd2102776925c78ffb022853f2ad9d09e90dfa6eb19f51e5"
     },
     {
+      "path": "verification/pain_aversion_readiness.json",
+      "bytes": 1911,
+      "sha256": "d90a10d4556080a94687d14aab764a66184b5c2092483e5ce585bf750be1bc70"
+    },
+    {
+      "path": "verification/pain_aversion_readiness.py",
+      "bytes": 5805,
+      "sha256": "37a826ad8d5d4d589298db923761ef0750b7b6cd1d87c4306f9679cebbc1f057"
+    },
+    {
+      "path": "verification/pain_aversion_readiness_test.py",
+      "bytes": 2275,
+      "sha256": "3e616ed2a20bb7505a12eedb2ca708197ea2d7a26af9ab97c8f2160bb2dcb794"
+    },
+    {
       "path": "verification/paingen_source_crosscheck.json",
       "bytes": 765,
       "sha256": "0f4d6dff54c44fdc23d44696b3cbd6fef83343d3110194bc28bdd6b3a2b1944a"
@@ -5465,8 +5490,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 569058,
-      "sha256": "670e9acc6286fb6f071a3f93b7de34000ebac2346e5c69ae1b0bde81bb6b6a0a"
+      "bytes": 571166,
+      "sha256": "4caa240e45266aae870fe061e15ca796becc0390eafce4019bb4ceac77445e4a"
     },
     {
       "path": "verification/project_inventory.py",

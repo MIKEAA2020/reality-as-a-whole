@@ -1,0 +1,72 @@
+# A first-person pain/aversion dataset: what can and cannot anchor the candidate
+
+## Decision
+
+A potentially valuable source for a future test is Champagne and colleagues' [*A comprehensive physiological dataset of pain and aversive modalities for pain biomarkers research*](https://doi.org/10.64898/2026.09.29.755497), an **uncertified preprint**, with [OpenNeuro dataset ds008349 v2.0.1](https://doi.org/10.18112/openneuro.ds008349.v2.0.1). It includes continuous first-person ratings and simultaneous EEG in more than one kind of stimulus. The comparison is closer to the user's proposed discomfort bridge than preselected music categories, but the dataset does **not** itself identify the model's preferred interaction, frustration, `q`, subject boundary or phenomenal constitution.
+
+Our bounded audit of its pinned GitHub metadata found that the thermal-active and auditory-active event files share the *same fixed level sequence in all inspected files*. The source also reports substantially different group mean ratings under nominally corresponding calibrated levels. That does **not** establish a failure of the candidate: thermal asks for pain intensity, auditory asks for unpleasantness, and the model's internal mismatch has not been measured. It does exclude one overly simple empirical shortcut: treating the nominal target labels as if they already established equal mean reports across these two tasks.
+
+This is a dataset-readiness and metadata audit, not a new pain experiment, analysis of EEG, validation of a report instrument, or B4–B5/F2 pass. The [fixed analysis plan](PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md), [code](verification/pain_aversion_readiness.py), [tests](verification/pain_aversion_readiness_test.py), and [receipt](verification/pain_aversion_readiness.json) preserve the inspection and calculation. Experience is an accepted datum; measurement and task interpretation require care precisely because it matters.
+
+## 1. What the study actually measures
+
+The authors describe 125 pain-free adult participants, with EEG in four stimulation types: thermal pain, chemical oral pain, aversive sound and bitter taste. ECG and galvanic skin response were collected in a subset. Each stimulation was delivered once without continuous ratings and then once with continuous ratings. Thermal and auditory tasks use three individualized target levels, each presented three times; the authors report 50 Hz rating acquisition and 1 kHz EEG. Data availability differs across task and participant, with some missingness due to intolerable stimulation, poor signal quality or technical error. The target group is not a representative clinical chronic-pain population.
+
+**Crucial construct distinction:** the active thermal task asks how *painful* the heat is; active auditory asks how *unpleasant* the sound is. On each 0–200 visual analogue scale, the midpoint is labeled “very mild pain” or “very mild unpleasantness,” respectively. A common number is not automatically a calibrated common measure of intensity, hedonic tone or suffering, and pain intensity is not the same as pain unpleasantness. The individualized stimulus calibration also uses self-reports: target category is not a report-independent natural intensity scale. Thermal target temperatures were manually adjusted for 48 participants for device safety, according to the preprint. The study does not give a second simultaneous pain-unpleasantness rating for the thermal task in the inspected protocol.
+
+The source's ratings are real participants' evidence about their own experience, not merely stimulus-class labels. They remain continuous report streams subject to response lag, motor behavior, attention, memory of anchors and task context; none of those qualifications denies the reality of experience. Here we did **not** inspect the underlying rating streams. Individual participants were already exposed to varying thermal, auditory and oral tasks; no additional intervention is proposed for this project.
+
+## 2. Reproducible bounded metadata check
+
+The dataset README, description, one subject's event and sidecar examples and the participant-table **schema** were inspected before the plan; no participant questionnaire answers or session comments were analyzed. We then downloaded a **774,492-byte** GitHub metadata archive at commit [`3252827891885aa1890e6b1531a2d3aeefeaa5fd`](https://github.com/OpenNeuroDatasets/ds008349/tree/3252827891885aa1890e6b1531a2d3aeefeaa5fd), plus its nontruncated recursive tree. The inspected 248 event files and 248 EEG JSON sidecars were verified against the corresponding Git blob hashes returned by GitHub. We did not dereference the 248 rating or 248 EEG symlinks, fetch raw signals, execute external code, or independently verify the GitHub tree against OpenNeuro's separate storage.
+
+| Active task | Event files / distinct people | Event files with complete expected sequence and increasing nonnegative onsets | Matching 1 kHz sidecars | Rating paths / EEG paths |
+|---|---:|---:|---:|---:|
+| Auditory | 124 / 124 | 124 | 124 | 124 / 124, all Git symlinks |
+| Thermal | 124 / 124 | 124 | 124 | 124 / 124, all Git symlinks |
+
+The intersection contains **123 people with both event files**, not necessarily 123 people with valid simultaneous EEG and usable ratings in both tasks. The prescribed sequence in every inspected event file is `50,150,100,50,150,100,150,50,100`, followed by an end marker. All 2,480 event rows passed the sequence and nonnegative increasing-onset checks. Comparing each row's onset and sample index using the 1 kHz sidecar yielded a maximum difference just under **one sample**. This is internal metadata consistency only; it does not verify independent clock synchronization, real temperature, playback time or rating alignment. Symlinks demonstrate dataset paths, not that their content has been read or validated.
+
+**Design consequence:** in these files, trial position and nominal level follow a common schedule. A model can exploit time within the fixed protocol to predict planned intensity, without learning a subject's internal experience. Within-trial temporal dependence and overlapping windows can also inflate apparent generalization if neighboring windows or the same person's data occur in both train and test. This is a design risk, not a finding that the authors' analyses leaked data; their published analysis is not our proposed held-out decoder. A strong evaluation must group by person and complete runs, compare schedule/stimulus baselines, and treat genuinely new schedules or protocols as a separate transport test.
+
+There is an additional contrast limitation: passive always precedes active. Comparing those tasks confounds rating activity with order and possible adaptation; because the passive run has no concurrent ratings, its subjective target is not directly observed in the same way. A contrast of passive versus active EEG cannot automatically isolate motor/report effects or assume identical experiences.
+
+## 3. The matched-label shortcut fails at the reported aggregate level
+
+The preprint's own reported target-level means, not a reanalysis of individual ratings, are:
+
+| Individualized nominal target | Thermal pain mean | Auditory unpleasantness mean | Auditory minus thermal |
+|---:|---:|---:|---:|
+| 50 | 28.11 | 30.62 | 2.51 |
+| 100 | 64.76 | 86.08 | 21.32 |
+| 150 | 111.00 | 157.99 | 46.99 |
+
+These are rounded published group summaries; authors report thermal repeated-measures `t` tests with 122 degrees of freedom and auditory with 123, so the displayed summaries need not use identical sets of people. Even where event files overlap, we have not established which participants contributed to each published summary. Neither the within-person contrasts nor their uncertainty can be reconstructed from these six means.
+
+Suppose a deliberately restricted predictor assigns **one identical group-mean prediction per nominal target** to both modalities, and its loss weights these six displayed means equally. The best possible value at each target is the average of its two displayed means. Its optimal RMSE on the six summaries is
+
+```text
+sqrt[(2.51² + 21.32² + 46.99²)/12] ≈ 14.913 displayed VAS units.
+```
+
+This is an exact arithmetic fit floor for the **rounded displayed numbers**, not held-out prediction performance, a test of significant differences, a bound on individual error, or a calibrated measure of felt suffering. The floor can be zero if the model includes an unrestricted task-specific mean, which is why such a task/stimulus baseline should be included in any genuine comparison. It illustrates that nominal calibration targets are not interchangeable, **not** that pain and unpleasantness must have different mechanisms, that the modalities are equated, or that the mismatch proposal is false. The authors already reported these means and the study's associations; no discovery of a new physiological phenomenon is claimed.
+
+## 4. Path from this source to a real candidate test
+
+The usable evidence would require more than a path list:
+
+1. **Obtain and validate a bounded paired subset.** Retrieve the actual EEG, rating streams, stimulus channels and relevant event sidecars through an authorized data route; check original units, missing/sentinel values, temporal synchronization, hardware changes, artifact rejection and rating latency. The authors report the streams are synchronized; that claim has not been independently tested here. Use aggregated outputs and respect participant privacy. Do not infer synchronization just from `onset` and `sample` consistency.
+2. **Fix the physical predictor independently of the target.** Define channels, interaction model, preferred offsets and the subject-scale boundary without using the held-out reports. Passive observed phase lags are not automatically preferred interaction parameters; common input and reference choices remain challenges, as in the [phase-identification gate](OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md). If the needed interventions or physical identification are absent, call it an unvalidated *descriptive signal*, not mismatch or frustration.
+3. **Compare appropriately defined targets.** For pain-intensity and sound-unpleasantness, first report separate task-specific results; do not interpret equal 0–200 ratings as proven phenomenological equality. A claimed general discomfort law needs a defensible common target or additional same-person measures of unpleasantness, with independently anchored measurement and a transport argument.
+4. **Beat fair baselines on held-out people and runs.** Include fixed schedule/nominal target, actual recorded stimulus and task, previous report where available, simple power/physiological predictors, and any independently motivated non-mismatch experiential rival. Fit every normalization and tuning step within training folds. A fixed protocol provides no fully independent new-schedule validation, and a sensory-modality holdout would be particularly hard because tasks, stimuli, scales, orders and hardware are not balanced as one randomized factor. Specify exclusion, missingness and uncertainty before outcomes; do not count overlapping 5-second epochs as independent people.
+5. **Interpret positive evidence narrowly.** If a predeclared, independently measured candidate beats the baselines on held-out observations, it would constrain a bounded report-prediction claim. It would not alone derive why the state feels unpleasant, determine numerical subject unity or persistence, establish substrate independence, or prove the whole is intrinsically experiential. Strong illusionism remains ineligible: possible reporting errors do not erase experience.
+
+## 5. Battery, source scope and reproduction
+
+B4–B5/F2, B9/F3 and B10 remain open; no validated physical-to-experiential anchor was constructed here. C3 remains **full structural and experiential intelligibility**, jointly with C1–C7. This source does not supply the missing external battery artifacts or a replay.
+
+**Primary source scope:** for Champagne et al., [preprint full text](https://www.biorxiv.org/content/10.64898/2026.09.29.755497v1.full), abstract, introduction, methods, data-record section, reported behavioral results and the beginning of EEG results (chunks 0–10 of 28) were read. Figure captions were read, **not the figure images**; the later results, discussion, supplementary materials, raw recordings and analysis code were not systematically inspected. The dataset README still has a placeholder rather than a working analysis-code link. Its self-reported calibration and synchronization claims have not been independently checked. The source is a preprint, not a certified peer-reviewed finding. The metadata-only archive is a Git mirror; annex contents were not fetched.
+
+**Other sources triaged, not used for a numerical result:** Yih et al., [*Intensity of affective experience is modulated by magnitude of intracranial electrical stimulation in human orbitofrontal, cingulate and insular cortices*](https://doi.org/10.1093/scan/nsz015); Duong et al., [*Subjective states induced by intracranial electrical stimulation matches the cytoarchitectonic organization of the human insula*](https://doi.org/10.1016/j.brs.2023.11.001); and Liu et al., [*Stable insular spectral patterns underlie dynamic pain encoding in chronic neuropathic pain*](https://doi.org/10.1093/braincomms/fcag299). Only search excerpts and their abstract/initial page portions were inspected here, not full methods, figures, supplementary material, underlying data or code. They may motivate future work but were not treated as proof of an experiential bridge.
+
+To reproduce the metadata audit, fetch the [pinned recursive tree](https://api.github.com/repos/OpenNeuroDatasets/ds008349/git/trees/5243c0dec6dd0d47f06a4e218255c0a0a6121220?recursive=1) and [commit archive](https://codeload.github.com/OpenNeuroDatasets/ds008349/tar.gz/3252827891885aa1890e6b1531a2d3aeefeaa5fd) to local files with the 15 MB compressed limit, then run `python verification/pain_aversion_readiness.py --tree TREE --archive ARCHIVE` and `PYTHONPATH=verification python -m unittest -v pain_aversion_readiness_test`. The script verifies target Git blobs, reads no participant table, and writes only the aggregate receipt; it does not validate scientific conclusions.

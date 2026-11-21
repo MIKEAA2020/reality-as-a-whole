@@ -1,0 +1,68 @@
+{
+  "dataset_commit": "3252827891885aa1890e6b1531a2d3aeefeaa5fd",
+  "source_archive_sha256": "39874c3d14a108f2eac5121c89880bf126507308a425cb1666858933acca704a",
+  "tree_entries": 8239,
+  "archive_bytes": 774492,
+  "checked_git_blobs": 496,
+  "tasks": {
+    "audioactive": {
+      "event_checks": {
+        "files": 124,
+        "sequence_ok": 124,
+        "time_valid": 124,
+        "total_rows": 1240
+      },
+      "event_subjects": 124,
+      "eeg_sidecars": {
+        "files": 124,
+        "sampling_1000": 124
+      },
+      "event_subjects_with_matching_eeg_sidecar": 124,
+      "maximum_sample_onset_difference_samples_at_1khz": 0.999999999992724,
+      "rating_paths": 124,
+      "rating_paths_symlink": 124,
+      "eeg_paths": 124,
+      "eeg_paths_symlink": 124
+    },
+    "thermalactive": {
+      "event_checks": {
+        "files": 124,
+        "sequence_ok": 124,
+        "time_valid": 124,
+        "total_rows": 1240
+      },
+      "event_subjects": 124,
+      "eeg_sidecars": {
+        "files": 124,
+        "sampling_1000": 124
+      },
+      "event_subjects_with_matching_eeg_sidecar": 124,
+      "maximum_sample_onset_difference_samples_at_1khz": 0.999999999992724,
+      "rating_paths": 124,
+      "rating_paths_symlink": 124,
+      "eeg_paths": 124,
+      "eeg_paths_symlink": 124
+    }
+  },
+  "subjects_with_both_event_files": 123,
+  "published_mean_comparison": {
+    "thermal_mean": [
+      "28.11",
+      "64.76",
+      "111.00"
+    ],
+    "auditory_mean": [
+      "30.62",
+      "86.08",
+      "157.99"
+    ],
+    "auditory_minus_thermal": [
+      "2.51",
+      "21.32",
+      "46.99"
+    ],
+    "equal_output_oracle_rmse_over_six_published_means": 14.913368164167341,
+    "scope": "published rounded group means, not individual pairs, statistics or empirical physical mismatch"
+  },
+  "scope": "metadata-only, no EEG, continuous rating data, physical mismatch or experiential bridge"
+}
