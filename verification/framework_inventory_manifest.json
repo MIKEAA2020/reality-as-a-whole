@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f5a14a5934ccb634d70f583f212d5c991762a56a",
-  "file_count": 1551,
+  "base_head": "220de4860280aa4f8d2cab528da7ee234df4cbbc",
+  "file_count": 1560,
   "files": [
     {
       "path": ".gitattributes",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 32531,
-      "sha256": "b1dcef888a3965850e4238e10fb63e42ff2c65ca93e7d7053f131e2d949c4a4d"
+      "bytes": 33123,
+      "sha256": "02a9cfa75cff72ad21c3005b8c71ff7775d312a711b1e97d71f4a1584dbef4ef"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -690,8 +690,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 122451,
-      "sha256": "01e69a4bcf4d0e67b6a3cec37094c61d8bfc6400aae79a9ab76960d9b75928da"
+      "bytes": 123358,
+      "sha256": "6890dfda182d4dddd8de3605ef6d08bfa622dce9e09a14bc4c47aa4b4b70f185"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1269,14 +1269,29 @@
       "sha256": "ceca1875dd30d5001063ef03e1f443fe0aec9d4b5b07d377a7db5b4c0a191754"
     },
     {
+      "path": "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
+      "bytes": 8913,
+      "sha256": "8bb6a48ebe0fdf728f7593aa6f8c32ba6c6315c2340b7552154fc68a0a364eff"
+    },
+    {
+      "path": "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+      "bytes": 4947,
+      "sha256": "87e7e038d9a1a6366c4b7560231d59b025af2d0c7af2d6d1d8429502bd31358b"
+    },
+    {
+      "path": "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
+      "bytes": 2822,
+      "sha256": "08bcfa11197bfe6acaaa403cd1b14e2306701c09808ef1eb36292e7ddff63882"
+    },
+    {
       "path": "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
       "bytes": 7058,
       "sha256": "b6707ada36d963218440f641da21ed0f438d9c8d34700e0be9e83f8bb0aa9767"
     },
     {
       "path": "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
-      "bytes": 8330,
-      "sha256": "d54217bdad4310058abc135f08279b5ac0f5edffa8904709a4d0835ce9864ac6"
+      "bytes": 8742,
+      "sha256": "adfb4aa5045be32a2811820380d7bf3511388a96c3b739d234029bd1f0864530"
     },
     {
       "path": "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
@@ -5809,6 +5824,36 @@
       "sha256": "0fc0b0fcf646081a55b6341f5ed025eecd959a73e4ab1bb996652df820635f8a"
     },
     {
+      "path": "verification/paingen_partial_run_salvage.json",
+      "bytes": 2342,
+      "sha256": "bff991ab8a128f5ca3a1a79e8dfef9e2eaf57cfaf6456981ff4ce1444d25faca"
+    },
+    {
+      "path": "verification/paingen_partial_run_salvage.py",
+      "bytes": 10785,
+      "sha256": "bbdcdf4fa6c3ccec0cf7d8faac2ec3ea6cf928c9379b6730163d33112daec34e"
+    },
+    {
+      "path": "verification/paingen_partial_run_salvage_test.py",
+      "bytes": 2534,
+      "sha256": "69e3b656d97f56862473fa0b40700352f0b4ee56dcb24f469153092aba2133f7"
+    },
+    {
+      "path": "verification/paingen_remaining_mismatch_runs.json",
+      "bytes": 2158,
+      "sha256": "74b9507be9611416ceda0cfcf8e8de0c1313b2670c22346af98994c9e807c1af"
+    },
+    {
+      "path": "verification/paingen_remaining_mismatch_runs.py",
+      "bytes": 7635,
+      "sha256": "cadc1c91e65f7c233d4545674fc43cc6241ec0d56b39e55b9693b32b0f568a1e"
+    },
+    {
+      "path": "verification/paingen_remaining_mismatch_runs_test.py",
+      "bytes": 1171,
+      "sha256": "e6a8ce5cd6cd5ffc1e8e33500b375694897f2c06609306e9646c5eb43a35f398"
+    },
+    {
       "path": "verification/paingen_response_time_reconstruction.json",
       "bytes": 6770,
       "sha256": "5b7edfde592a4b300cc5e6cb95382c94c69221e38c6030d1cd2668481db164f3"
@@ -6055,8 +6100,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 627651,
-      "sha256": "2d6ac08a15d3ad0defb01618e481bae79643667a596b76cc87efc265900a7e0b"
+      "bytes": 630752,
+      "sha256": "c534b632ace2f86b4697e8aa343b2dba3f28435fc6419c0dd85cdf962265f8da"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,0 +1,78 @@
+{
+  "status": "completed",
+  "scope": "Post-result descriptive run completeness, not evidence of causal inclusion or original pipeline.",
+  "dataset_commit": "8a38ee30b870373547676bf0d0638e16160472a1",
+  "tree_sha256": "4a68281dc147b8436167466550ec5dedb4abb9fc86c27291a5a21fe60769799f",
+  "archive_sha256": "b8a04bcc0130edcd65067ccdc98e6f480b403f6165417898f8292f48148a8be7",
+  "behavior_commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+  "behavior_sha256": "b40b4a1b1e001f2317fea07a49c6ee6de062f181a20affe149fe50a81b58545b",
+  "verified_event_files": 1574,
+  "accepted_runs": 1566,
+  "rejected_runs": {
+    "row_count_not_32": 7,
+    "schema": 1
+  },
+  "episodes": 12528,
+  "overlap": 4707,
+  "missing_export": 307,
+  "cell_counts_by_relevant_run_category": {
+    "one_accepted_one_absent": {
+      "match": 15,
+      "mismatch": 3
+    },
+    "one_accepted_one_rejected": {
+      "match": 28,
+      "mismatch": 14
+    },
+    "two_accepted": {
+      "match": 4322,
+      "mismatch": 18
+    }
+  },
+  "distinct_people_by_category_and_match_status": {
+    "one_accepted_one_absent": {
+      "match": 2,
+      "mismatch": 1
+    },
+    "one_accepted_one_rejected": {
+      "match": 6,
+      "mismatch": 5
+    },
+    "two_accepted": {
+      "match": 375,
+      "mismatch": 2
+    }
+  },
+  "mismatch_dimensions": {
+    "both_mismatch": 33,
+    "intensity_only_mismatch": 2
+  },
+  "mismatch_retained_trial_count_distribution": {
+    "1": 14,
+    "2": 13,
+    "3": 8
+  },
+  "mismatch_run_category_by_strata": {
+    "modality:mechanical": {
+      "one_accepted_one_absent": 1,
+      "one_accepted_one_rejected": 4,
+      "two_accepted": 9
+    },
+    "modality:thermal": {
+      "one_accepted_one_absent": 2,
+      "one_accepted_one_rejected": 10,
+      "two_accepted": 9
+    },
+    "treatment:control": {
+      "one_accepted_one_absent": 3,
+      "one_accepted_one_rejected": 9,
+      "two_accepted": 12
+    },
+    "treatment:placebo": {
+      "one_accepted_one_rejected": 5,
+      "two_accepted": 6
+    }
+  },
+  "plan": "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
+  "privacy": "No IDs, trial rows, demographic data or individual outcomes are written."
+}

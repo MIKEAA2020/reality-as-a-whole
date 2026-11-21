@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 455 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 390 verification Python scripts.
+- 458 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 394 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -262,6 +262,9 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) — PAINgen condition means: which discrepancies admit a trial-subset explanation?
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md](PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md) — Pain intensity and unpleasantness: a common-interface benchmark
 - [PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md](PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md) — PAINgen intensity–unpleasantness held-out comparison: fixed retrospective plan
+- [PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) — PAINgen residual discrepancies: partial-run recovery and its limits
+- [PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md](PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md) — Post-result plan: conservative partial-run episode recovery
+- [PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md](PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md) — Plan: remaining PAINgen mismatches and run completeness
 - [PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md](PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md) — PAINgen published response-time rule: retrospective reconstruction plan
 - [PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) — PAINgen condition means: a published response-time rule explains most discrepancies
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
@@ -792,6 +795,10 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/paingen_condition_subset_diagnostic_test.py](verification/paingen_condition_subset_diagnostic_test.py)
 - [verification/paingen_intensity_unpleasantness_gate.py](verification/paingen_intensity_unpleasantness_gate.py)
 - [verification/paingen_intensity_unpleasantness_gate_test.py](verification/paingen_intensity_unpleasantness_gate_test.py)
+- [verification/paingen_partial_run_salvage.py](verification/paingen_partial_run_salvage.py)
+- [verification/paingen_partial_run_salvage_test.py](verification/paingen_partial_run_salvage_test.py)
+- [verification/paingen_remaining_mismatch_runs.py](verification/paingen_remaining_mismatch_runs.py)
+- [verification/paingen_remaining_mismatch_runs_test.py](verification/paingen_remaining_mismatch_runs_test.py)
 - [verification/paingen_response_time_reconstruction.py](verification/paingen_response_time_reconstruction.py)
 - [verification/paingen_response_time_reconstruction_test.py](verification/paingen_response_time_reconstruction_test.py)
 - [verification/paingen_source_crosscheck.py](verification/paingen_source_crosscheck.py)

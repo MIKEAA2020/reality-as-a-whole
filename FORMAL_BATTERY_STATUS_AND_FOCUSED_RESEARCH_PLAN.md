@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [PAINgen partial-run follow-up](PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md) recovers complete cue-bounded candidate episodes from seven previously rejected event files. Adding in-range pairs resolves 14 of 35 residual mean mismatches without regressions; 21 remain, 18 in cells with both relevant runs accepted and three with an absent relevant run. Both previously export-only pairs also match in a separately flagged post-result check. This is shared-provenance, retrospective arithmetic, not validated trial-selection history, a physical `q` assay or a substantive battery pass.
+
 The [PAINgen response-time reconstruction](PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md) applies the paper's published intensity RT rule to a candidate BIDS field: 585 of 620 previously mismatched paired means become matches, 35 remain mismatched, and no prior paired matches regress. A post-result missingness check is consistent with the same candidate rule. This is retrospective and shared-provenance; exact source processing and field semantics remain unverified. It is not a physical mismatch `q` assay or an experiential bridge; B4–B5/F2, B9/F3, B10 and C3 remain open.
 
 The [PAINgen paired-subset diagnostic](PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md) finds a common proper-subset witness for 585 of 620 mismatched paired condition means; 35 have none among the retained events. These post hoc numerical witnesses do not identify the authors' actual inclusion decisions or validate the experiential bridge.

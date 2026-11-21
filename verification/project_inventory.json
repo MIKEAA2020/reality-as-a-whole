@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 498,
-  "bytes": 6498036,
-  "line_count": 61025,
-  "document_count_with_risk_phrases": 468,
+  "document_count": 501,
+  "bytes": 6516629,
+  "line_count": 61136,
+  "document_count_with_risk_phrases": 471,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4241,9 +4241,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b1dcef888a3965850e4238e10fb63e42ff2c65ca93e7d7053f131e2d949c4a4d",
-      "bytes": 32531,
-      "lines": 133,
+      "sha256": "02a9cfa75cff72ad21c3005b8c71ff7775d312a711b1e97d71f4a1584dbef4ef",
+      "bytes": 33123,
+      "lines": 135,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4255,6 +4255,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
@@ -4313,21 +4314,21 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        15,
+        7,
+        11,
         17,
-        31,
-        35,
-        47,
-        55,
+        19,
+        33,
+        37,
+        49,
         57,
-        61,
-        77,
-        87,
-        104,
-        121,
-        127
+        59,
+        63,
+        79,
+        89,
+        106,
+        123,
+        129
       ]
     },
     {
@@ -4506,9 +4507,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "01e69a4bcf4d0e67b6a3cec37094c61d8bfc6400aae79a9ab76960d9b75928da",
-      "bytes": 122451,
-      "lines": 978,
+      "sha256": "6890dfda182d4dddd8de3605ef6d08bfa622dce9e09a14bc4c47aa4b4b70f185",
+      "bytes": 123358,
+      "lines": 985,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4772,6 +4773,9 @@
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md",
         "PAINGEN_INTENSITY_UNPLEASANTNESS_HELDOUT_PLAN.md",
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
+        "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+        "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
         "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
         "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
         "PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md",
@@ -5288,6 +5292,10 @@
         "verification/paingen_condition_subset_diagnostic_test.py",
         "verification/paingen_intensity_unpleasantness_gate.py",
         "verification/paingen_intensity_unpleasantness_gate_test.py",
+        "verification/paingen_partial_run_salvage.py",
+        "verification/paingen_partial_run_salvage_test.py",
+        "verification/paingen_remaining_mismatch_runs.py",
+        "verification/paingen_remaining_mismatch_runs_test.py",
         "verification/paingen_response_time_reconstruction.py",
         "verification/paingen_response_time_reconstruction_test.py",
         "verification/paingen_source_crosscheck.py",
@@ -5480,16 +5488,16 @@
         182,
         230,
         258,
-        293,
-        315,
-        362,
-        444,
-        459,
-        495,
-        504,
+        296,
+        318,
+        365,
+        447,
+        462,
+        498,
         507,
         510,
-        574
+        513,
+        577
       ]
     },
     {
@@ -9131,6 +9139,80 @@
       ]
     },
     {
+      "path": "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
+      "sha256": "8bb6a48ebe0fdf728f7593aa6f8c32ba6c6315c2340b7552154fc68a0a364eff",
+      "bytes": 8913,
+      "lines": 62,
+      "title": "PAINgen residual discrepancies: partial-run recovery and its limits",
+      "headings": [
+        "PAINgen residual discrepancies: partial-run recovery and its limits",
+        "Result",
+        "1. Why inspect rejected runs?",
+        "2. Conservative cue-bounded recovery",
+        "3. What is still needed",
+        "4. Reproduction and scope"
+      ],
+      "local_links": [
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
+        "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
+        "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+        "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
+        "OBSERVED_PHASE_LAGS_VERSUS_PHYSICAL_FRUSTRATION_GATE.md",
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
+        "verification/paingen_remaining_mismatch_runs.py",
+        "verification/paingen_partial_run_salvage.py",
+        "verification/paingen_remaining_mismatch_runs.json",
+        "verification/paingen_partial_run_salvage.json"
+      ],
+      "risk_phrase_lines": [
+        17,
+        32,
+        40,
+        62
+      ]
+    },
+    {
+      "path": "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+      "sha256": "87e7e038d9a1a6366c4b7560231d59b025af2d0c7af2d6d1d8429502bd31358b",
+      "bytes": 4947,
+      "lines": 25,
+      "title": "Post-result plan: conservative partial-run episode recovery",
+      "headings": [
+        "Post-result plan: conservative partial-run episode recovery",
+        "Why this follow-up",
+        "Fixed recovery procedure",
+        "Post-result extension: formerly export-only means"
+      ],
+      "local_links": [
+        "verification/paingen_remaining_mismatch_runs.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "path": "PAINGEN_REMAINING_MISMATCH_RUN_COMPLETENESS_PLAN.md",
+      "sha256": "08bcfa11197bfe6acaaa403cd1b14e2306701c09808ef1eb36292e7ddff63882",
+      "bytes": 2822,
+      "lines": 13,
+      "title": "Plan: remaining PAINgen mismatches and run completeness",
+      "headings": [
+        "Plan: remaining PAINgen mismatches and run completeness",
+        "Question and chronology",
+        "Fixed procedure"
+      ],
+      "local_links": [
+        "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        9
+      ]
+    },
+    {
       "path": "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
       "sha256": "b6707ada36d963218440f641da21ed0f438d9c8d34700e0be9e83f8bb0aa9767",
       "bytes": 7058,
@@ -9157,9 +9239,9 @@
     },
     {
       "path": "PAINGEN_RESPONSE_TIME_RULE_RECONSTRUCTION_AUDIT.md",
-      "sha256": "d54217bdad4310058abc135f08279b5ac0f5edffa8904709a4d0835ce9864ac6",
-      "bytes": 8330,
-      "lines": 48,
+      "sha256": "adfb4aa5045be32a2811820380d7bf3511388a96c3b739d234029bd1f0864530",
+      "bytes": 8742,
+      "lines": 50,
       "title": "PAINgen condition means: a published response-time rule explains most discrepancies",
       "headings": [
         "PAINgen condition means: a published response-time rule explains most discrepancies",
@@ -9170,6 +9252,7 @@
         "Reproduction and limitations"
       ],
       "local_links": [
+        "PAINGEN_PARTIAL_RUN_AND_REMAINING_MEAN_AUDIT.md",
         "PAINGEN_RESPONSE_TIME_RECONSTRUCTION_PLAN.md",
         "PAINGEN_BIDS_TRIAL_ORDER_AND_MEAN_PROVENANCE_AUDIT.md",
         "PAINGEN_CONDITION_MEAN_SUBSET_PROVENANCE_DIAGNOSTIC.md",
@@ -9179,10 +9262,10 @@
         "verification/paingen_response_time_reconstruction.py"
       ],
       "risk_phrase_lines": [
-        7,
-        21,
-        25,
-        29
+        9,
+        23,
+        27,
+        31
       ]
     },
     {

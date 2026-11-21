@@ -1,0 +1,71 @@
+{
+  "status": "completed",
+  "scope": "Post-result candidate episode recovery from rejected runs; not verified original processing.",
+  "dataset_commit": "8a38ee30b870373547676bf0d0638e16160472a1",
+  "tree_sha256": "4a68281dc147b8436167466550ec5dedb4abb9fc86c27291a5a21fe60769799f",
+  "archive_sha256": "b8a04bcc0130edcd65067ccdc98e6f480b403f6165417898f8292f48148a8be7",
+  "behavior_commit": "da46f2f9739ad2e9eeb9658711582be6357c1026",
+  "behavior_sha256": "b40b4a1b1e001f2317fea07a49c6ee6de062f181a20affe149fe50a81b58545b",
+  "files_verified": 1574,
+  "accepted_files_replayed": 1566,
+  "accepted_episodes_replayed": 12528,
+  "prior_rejected_runs": {
+    "row_count_not_32": 7,
+    "schema": 1
+  },
+  "rejected_files_with_recovered_episodes": 7,
+  "rejected_files_recovery_counts": {
+    "file_schema": 1,
+    "valid_episodes": 21
+  },
+  "recovered_episode_rt_counts": {
+    "above": 3,
+    "below": 0,
+    "in_range": 18,
+    "unavailable": 0
+  },
+  "original_eligible_cells": 4400,
+  "original_export_missing": 307,
+  "eligible_cells_with_added_in_range_episode": 14,
+  "paired_transitions": {
+    "match_to_match": 4365,
+    "match_to_mismatch": 0,
+    "mismatch_to_match": 14,
+    "mismatch_to_mismatch": 21
+  },
+  "dimension_transitions": {
+    "intensity_match_to_match": 4365,
+    "intensity_match_to_mismatch": 0,
+    "intensity_mismatch_to_match": 14,
+    "intensity_mismatch_to_mismatch": 21,
+    "unpleasantness_match_to_match": 4367,
+    "unpleasantness_match_to_mismatch": 0,
+    "unpleasantness_mismatch_to_match": 13,
+    "unpleasantness_mismatch_to_mismatch": 20
+  },
+  "unresolved_augmented": {},
+  "original_mismatch_by_run_category": {
+    "one_accepted_one_absent": {
+      "still_mismatch": 3
+    },
+    "one_accepted_one_rejected": {
+      "now_match": 14
+    },
+    "two_accepted": {
+      "still_mismatch": 18
+    }
+  },
+  "export_only_keys": 2,
+  "export_only_keys_now_covered_by_in_range_episode": 2,
+  "export_only_keys_covered_with_both_finite_means": 2,
+  "posthoc_export_only_mean_agreement": {
+    "intensity_match": 2,
+    "intensity_mismatch": 0,
+    "pair_match": 2,
+    "pair_mismatch": 0,
+    "unpleasantness_match": 2,
+    "unpleasantness_mismatch": 0
+  },
+  "plan": "PAINGEN_PARTIAL_RUN_EPISODE_SALVAGE_PLAN.md",
+  "privacy": "No participant identifiers, episode rows or individual outcomes written."
+}
