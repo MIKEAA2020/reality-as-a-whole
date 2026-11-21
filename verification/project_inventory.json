@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 552,
-  "bytes": 7018186,
-  "line_count": 63555,
-  "document_count_with_risk_phrases": 515,
+  "document_count": 554,
+  "bytes": 7035487,
+  "line_count": 63632,
+  "document_count_with_risk_phrases": 516,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -331,9 +331,9 @@
     },
     {
       "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
-      "sha256": "28b3ba5d5d5f76c70c68d018c62889c6e8a87f7d2df09bb0c6f7108cd25400fa",
-      "bytes": 13341,
-      "lines": 62,
+      "sha256": "6a4cdadb4fd0f8dae388ba44a1f1f385bef545bc93db5646bee4030dbcb99ca1",
+      "bytes": 13836,
+      "lines": 64,
       "title": "Anderson, Laurent and Yantis 2011: what value-driven capture does and does not show",
       "headings": [
         "Anderson, Laurent and Yantis 2011: what value-driven capture does and does not show",
@@ -347,6 +347,7 @@
       ],
       "local_links": [
         "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
+        "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
@@ -4783,9 +4784,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4a1ff3337afb84b37e15d6696395b805c35e0bfd3678ce050d7880f8d3232106",
-      "bytes": 134544,
-      "lines": 1056,
+      "sha256": "d3d1052bc3f364fb25dd5a02b8b31dbee0ead3e5796624f1d3f706799612e22f",
+      "bytes": 135024,
+      "lines": 1059,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5268,6 +5269,8 @@
         "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
         "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
         "V4_FEF_ORIENTATION_GATE.md",
+        "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
+        "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -5794,6 +5797,7 @@
         "verification/unity_triple_partition_calibration_gate.py",
         "verification/universal_subject_lf_tradeoff.py",
         "verification/ur_spinor_classical_control_gate.py",
+        "verification/value_capture_followup_test.py",
         "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_free_spread_gate.py",
         "verification/visual_stimulation_report_benchmark.py",
@@ -5838,13 +5842,13 @@
         328,
         353,
         406,
-        498,
-        513,
-        549,
-        558,
-        561,
-        564,
-        628
+        500,
+        515,
+        551,
+        560,
+        563,
+        566,
+        630
       ]
     },
     {
@@ -13113,8 +13117,8 @@
     },
     {
       "path": "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
-      "sha256": "6e1a26c0201eb0afdd91e4651285e9419fb8de294c9f30dd7aab7ff2251ade6b",
-      "bytes": 11875,
+      "sha256": "81c1230cf730893bcccfa2d84bbec2fea62e73ebee4d3d565da0a877cfea760c",
+      "bytes": 12126,
       "lines": 63,
       "title": "Shelat & Giesbrecht 2026: supplied code and independent accuracy-model reproduction",
       "headings": [
@@ -13130,6 +13134,7 @@
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "verification/shelat_2026_laplace_accuracy_reproduction.py",
         "verification/shelat_2026_laplace_accuracy_reproduction.json",
+        "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
         "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
         "SHELAT_GIESBRECHT_2026_SUSTAINED_ATTENTION_AUDIT.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md"
@@ -16041,6 +16046,46 @@
         9,
         49
       ]
+    },
+    {
+      "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
+      "sha256": "9d3edc0865eea189d32aa46f7ffc3022058caf9404effbe67c817c82c0df4f52",
+      "bytes": 14112,
+      "lines": 64,
+      "title": "Reward, prior selection and the persistence of attentional capture",
+      "headings": [
+        "Reward, prior selection and the persistence of attentional capture",
+        "Bottom line",
+        "1. What later direct comparisons say about 2011",
+        "2. Persistence is possible, not unconditional",
+        "3. What the 2026 data say about reward versus selection",
+        "4. Evidence and experiential boundary"
+      ],
+      "local_links": [
+        "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
+        "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
+        "verification/shelat_2026_laplace_accuracy_reproduction.py",
+        "verification/shelat_2026_laplace_accuracy_reproduction.json",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        64
+      ]
+    },
+    {
+      "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
+      "sha256": "bc7c312f3d56dc378548b1adfed648e57de1a0e9fd7e0f2091838738811a0730",
+      "bytes": 1963,
+      "lines": 8,
+      "title": "Retrospective follow-up plan: reward, selection history and persistence",
+      "headings": [
+        "Retrospective follow-up plan: reward, selection history and persistence"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
     },
     {
       "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",

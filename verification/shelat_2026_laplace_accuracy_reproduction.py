@@ -147,12 +147,26 @@ def fit(counts, mode):
         terms[name] = {'estimate': float(b), 'se': float(s),
                        'wald_95_ci': [float(b-1.959963984540054*s), float(b+1.959963984540054*s)],
                        'z': float(b/s), 'p': float(2*ndtr(-abs(b/s)))}
+    contrasts = {}
+    if mode == 'full':
+        for block in range(1, 5):
+            for trigger in ('fast', 'slow'):
+                for reference in ('neutral', 'selection'):
+                    vector = (np.array(design(block, 'reward', trigger, mode)) -
+                              np.array(design(block, reference, trigger, mode)))
+                    estimate = float(vector @ beta)
+                    stderr = float(np.sqrt(vector @ covariance[:-1, :-1] @ vector))
+                    contrasts[f'block{block}:{trigger}:reward_vs_{reference}'] = {
+                        'estimate': estimate, 'se': stderr,
+                        'wald_95_ci': [estimate-1.959963984540054*stderr, estimate+1.959963984540054*stderr],
+                        'z': estimate/stderr, 'p_unadjusted': float(2*ndtr(-abs(estimate/stderr)))}
     return {'mode': mode, 'participants': group_count, 'retained_trials': int(n.sum()),
             'optimizer_success': bool(opt.success), 'optimizer_message': str(opt.message),
             'max_abs_gradient': float(np.max(np.abs(opt.jac))),
             'gradient_check_max_abs_difference': gradient_check,
             'hessian_min_eigenvalue': float(eig.min()),
-            'random_intercept_sd': float(np.exp(opt.x[-1])), 'terms': terms}
+            'random_intercept_sd': float(np.exp(opt.x[-1])), 'terms': terms,
+            'exploratory_observed_block_contrasts': contrasts}
 
 
 def main():

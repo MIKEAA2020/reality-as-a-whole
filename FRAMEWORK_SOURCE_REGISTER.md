@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 509 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 414 verification Python scripts.
+- 511 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 415 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -481,6 +481,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) — Universal consciousness, shared experience and persistence through quantum reversal
 - [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
 - [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
+- [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md) — Reward, prior selection and the persistence of attentional capture
+- [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md) — Retrospective follow-up plan: reward, selection history and persistence
 - [VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md](VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md) — Quantum waves, records, and experiential plurality
 - [VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md](VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md) — Vedral's quantum-wave article: sources, conservation and perspective
 - [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
@@ -1021,6 +1023,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/unity_triple_partition_calibration_gate.py](verification/unity_triple_partition_calibration_gate.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
 - [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)
+- [verification/value_capture_followup_test.py](verification/value_capture_followup_test.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)
 - [verification/vedral_free_spread_gate.py](verification/vedral_free_spread_gate.py)
 - [verification/visual_stimulation_report_benchmark.py](verification/visual_stimulation_report_benchmark.py)

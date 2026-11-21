@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a7eaadfe28c18834c8c886c578d656cc14c61968",
-  "file_count": 1641,
+  "base_head": "785a76772fe1e12ba5ff86769c097349dbce6011",
+  "file_count": 1644,
   "files": [
     {
       "path": ".gitattributes",
@@ -65,8 +65,8 @@
     },
     {
       "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
-      "bytes": 13341,
-      "sha256": "28b3ba5d5d5f76c70c68d018c62889c6e8a87f7d2df09bb0c6f7108cd25400fa"
+      "bytes": 13836,
+      "sha256": "6a4cdadb4fd0f8dae388ba44a1f1f385bef545bc93db5646bee4030dbcb99ca1"
     },
     {
       "path": "ARTICULATED_SELF_PRESENCE.md",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 134544,
-      "sha256": "4a1ff3337afb84b37e15d6696395b805c35e0bfd3678ce050d7880f8d3232106"
+      "bytes": 135024,
+      "sha256": "d3d1052bc3f364fb25dd5a02b8b31dbee0ead3e5796624f1d3f706799612e22f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1930,8 +1930,8 @@
     },
     {
       "path": "SHELAT_2026_ANALYSIS_CODE_AND_MODEL_REPRODUCTION.md",
-      "bytes": 11875,
-      "sha256": "6e1a26c0201eb0afdd91e4651285e9419fb8de294c9f30dd7aab7ff2251ade6b"
+      "bytes": 12126,
+      "sha256": "81c1230cf730893bcccfa2d84bbec2fea62e73ebee4d3d565da0a877cfea760c"
     },
     {
       "path": "SHELAT_2026_EXPERIMENT_ARCHIVES_DESCRIPTIVE_REPLICATION.md",
@@ -2362,6 +2362,16 @@
       "path": "V4_FEF_ORIENTATION_GATE.md",
       "bytes": 15153,
       "sha256": "c354a1ea81e7382987b143683e0f4a62e25b991828a84ed2f62686765c777268"
+    },
+    {
+      "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
+      "bytes": 14112,
+      "sha256": "9d3edc0865eea189d32aa46f7ffc3022058caf9404effbe67c817c82c0df4f52"
+    },
+    {
+      "path": "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
+      "bytes": 1963,
+      "sha256": "bc7c312f3d56dc378548b1adfed648e57de1a0e9fd7e0f2091838738811a0730"
     },
     {
       "path": "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
@@ -6430,8 +6440,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 683889,
-      "sha256": "9cf1b717c38d554a4d90a0ac99860199036ff8c042a5e2d70b9a16975e8c0b4c"
+      "bytes": 685920,
+      "sha256": "53735f18b4711ba4ab48ba88976523dd64b86b3646e3ae7afd4ba057ab722ed7"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7345,18 +7355,18 @@
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction.json",
-      "bytes": 20942,
-      "sha256": "047437a06c88d5c93dd4b9cd081a52d43a784ef246252cf50321a0532a101be9"
+      "bytes": 36597,
+      "sha256": "4e9622a136f5418a425cac0317e7dfd8be231573a3a07458ee07f6c886431354"
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction.py",
-      "bytes": 7549,
-      "sha256": "dbadccf1055ea48e3762638753b45ffc11a1aae3994b27c34d6c143d83aa608f"
+      "bytes": 8443,
+      "sha256": "1d2704e8249302c4b5dbbc67cee47b69bf759bcfeb3a320e81b3787a6838f4c8"
     },
     {
       "path": "verification/shelat_2026_laplace_accuracy_reproduction_test.py",
-      "bytes": 3332,
-      "sha256": "6f4fec3ef7086d27cf5e873c099320b474b92083eca3d80c6d0a71bf5a373a03"
+      "bytes": 4251,
+      "sha256": "1ec26bc2406ab54bff62d0c25de1e2dd0454e6b43b65fec57fdd9cef3eb9d582"
     },
     {
       "path": "verification/shlaer_time_comparison.json",
@@ -7912,6 +7922,11 @@
       "path": "verification/ur_spinor_classical_control_gate.py",
       "bytes": 3361,
       "sha256": "785c71e960b99b2f4402bc3224bfc22475a43692864097567795a2d7290aedd1"
+    },
+    {
+      "path": "verification/value_capture_followup_test.py",
+      "bytes": 1691,
+      "sha256": "564fd26f8f05d6a8f2e4a2585905d0ef752e750b969e370550eed8382e7ab718"
     },
     {
       "path": "verification/vedral_energy_and_locality_gate.json",

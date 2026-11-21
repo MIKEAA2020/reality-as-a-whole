@@ -35,6 +35,14 @@ class AccuracyChecks(unittest.TestCase):
             self.assertAlmostEqual(reward['estimate'], beta, delta=.0051)
             self.assertAlmostEqual(reward['p'], p, delta=.0006)
         pooled = results['pooled_full']['terms']
+        contrasts = results['pooled_full']['exploratory_observed_block_contrasts']
+        self.assertEqual(len(contrasts), 16)
+        c = contrasts['block1:fast:reward_vs_selection']
+        expected = (pooled['distractor_reward']['estimate'] - pooled['distractor_selection']['estimate'] +
+                    pooled['block:distractor_reward']['estimate'] - pooled['block:distractor_selection']['estimate'])
+        self.assertAlmostEqual(c['estimate'], expected, places=10)
+        self.assertLess(c['wald_95_ci'][0], c['estimate'])
+        self.assertGreater(c['wald_95_ci'][1], c['estimate'])
         for term, beta, p in [('block:distractor_reward', -.15, .020),
                               ('distractor_reward:trigger_slow', -.65, .030),
                               ('block:distractor_reward:trigger_slow', .21, .053)]:
@@ -56,6 +64,9 @@ class AccuracyChecks(unittest.TestCase):
             for term, stats in fitted['terms'].items():
                 for name in ('estimate', 'se', 'p'):
                     self.assertAlmostEqual(stats[name], saved[model]['terms'][term][name], delta=1e-5, msg=model + ':' + term)
+            for contrast, stats in fitted['exploratory_observed_block_contrasts'].items():
+                for name in ('estimate', 'se', 'p_unadjusted'):
+                    self.assertAlmostEqual(stats[name], saved[model]['exploratory_observed_block_contrasts'][contrast][name], delta=1e-5, msg=model + ':' + contrast)
 
 
 if __name__ == '__main__':
