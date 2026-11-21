@@ -2,6 +2,8 @@
 
 ## Result
 
+**Important qualification:** [The first-personal givenness and field-individuation audit](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) compares Guillot, Zahavi's reply, and Barbieri's distinct state-priority critique. The field identity below avoids a particular two-item explanatory cycle only by positing first-personal fields; it does not solve their individuation or temporal scope. Distinct nested-window field tokens cannot also be numerically the same thin field-subject under that identity.
+
 The [subsequent first-person constitution comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) tests this field-first proposal's boundary interface against Pinto et al.'s 2017 clinical report, distinguishing genuine general first-person evidence from the unestablished trial-specific and physical-to-spin mappings.
 
 A positive starting point is available: a conscious episode is not just a list of qualities; it is qualitatively present **as an experience**. The experienced togetherness of distinguishable contents is real evidence to be accommodated. It need not be explained by positing a second inner observer. But the step from this local datum to a law selecting *which* subjects exist, and which physical states have which felt character, remains unproved.

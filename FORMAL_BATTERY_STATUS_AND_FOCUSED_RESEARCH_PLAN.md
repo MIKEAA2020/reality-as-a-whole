@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [first-personal givenness and field-individuation audit](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) tests the field-first proposal against Guillot, Zahavi's reply, and Barbieri's state-priority argument. A nested-window identity constraint exposes a risk of counting descriptions as subjects; it supplies no field-realization law or substantive battery pass.
+
 The [joint-action versus lived-perspective audit](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) reads Schechter's action-unity article and distinguishes a response controlled by both inputs from phenomenal conjunction. It computes different one-input bounds for balanced preparations and the original equilibrium; no actual assay, subject identity or substantive battery pass follows.
 
 The [collective experience and moral-parody audit](COLLECTIVE_EXPERIENCE_SUBJECT_AND_PARODY_AUDIT.md) distinguishes plural property instantiation from occurrence and subject individuation, and applies Blaesi's parity challenge equally to the preferred experiential ground and its rivals. It adds no subject-count assay or constitutive bridge; B4–B5/F2, B9/F3 and B10 remain open.

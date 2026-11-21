@@ -1,5 +1,7 @@
 # Articulated self-presence: positive warrant and a composition consequence
 
+**Subsequent qualification:** [First-personal givenness and field individuation](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) distinguishes local experiential presence from an explicit awareness of ownership, considers objections to the field-first identity, and identifies a nested-window identity fork. It does not establish a local constitution law.
+
 ## 1. The constitutive proposal
 
 > Begin from concrete qualitative occurrence, not a bare actuality awaiting illumination. Where experience occurs, its qualitative character is actually present; it need not be presented to an additional, independently existing inner observer. Distinguishable contents can be jointly present in one experiential organization. The proposed ultimate nature is the complete, internally articulated actuality of which such organizations are real modes, rather than an undifferentiated experiential medium to which form and owners are independently attached.

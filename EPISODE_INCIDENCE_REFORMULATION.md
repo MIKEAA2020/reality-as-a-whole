@@ -16,6 +16,8 @@ The next candidate should distinguish:
 
 This is a revision of the proposed theory's output structure, not an empirical finding that experience has a particular temporal form. The physical/phenomenal identification is still missing.
 
+**Subsequent refinement:** [First-personal givenness and field individuation](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) shows that, if each field token is identical to a thin subject, distinct tokens assigned to nested windows cannot also denote the same thin subject. It proposes treating window-relative views as descriptions rather than automatically new subject tokens; actual scopes and persistence remain unresolved.
+
 ## 1. Why a global connectivity class is too strong a default
 
 Consider a purely formal candidate history:

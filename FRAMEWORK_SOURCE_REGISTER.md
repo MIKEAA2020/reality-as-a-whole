@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 437 root Markdown documents including this register; 43 research Markdown documents.
+- 438 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 368 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -136,6 +136,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md](FINITE_STRENGTH_POINTER_CONTINUUM_GATE.md) — A finite-strength pointer: convergence, energy and a sharp-readout obstruction
 - [FINITE_TURNING_COUNTER_INSTRUMENT.md](FINITE_TURNING_COUNTER_INSTRUMENT.md) — A bounded turning-clock record in one constrained history
 - [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
+- [FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) — First-personal givenness and the individuation of fields
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
 - [FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md](FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md) — Formal battery: current status and focused research plan
