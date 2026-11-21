@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [split-brain blink conditional-report comparison](SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md) identifies a first-target conditioning issue in Giesbrecht and Kingstone's 2004 study: the patient’s lag-collapsed T1 identification differed by field, while T2 was analyzed conditional on correct T1. That is a meaningful performance estimand, but differing selected trial populations complicate comparisons. Ptito's different patient and digit-count protocol offer a related extension rather than an identical replication; full results and experiential conjunction remain unverified.
+
 The [Ptito thesis methods follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) locates an embedded manuscript of the same 2009 study, not a replication. Accessible partial methods reveal separate hemifield digit-count reports and different patient/control response procedures; the later results remain inaccessible in the extraction. This narrows the behavioral interpretation without establishing experiential conjunction, a neural-to-spin mapping or q calibration.
 
 The [attention-capacity and lived-unity evidence audit](ATTENTION_CAPACITY_VERSUS_LIVED_UNITY_EVIDENCE_AUDIT.md) checks accessible primary abstracts and excerpts behind Lopez's attention argument. Ptito's four-stream design addresses a real stream-layout confound, but its nonsignificant within/across comparison is not equivalence; Arguin's task includes predominantly partial callosotomies. Neither directly supplies a four-spin mapping or same-window conjunction assay. The substantive bridge remains open.

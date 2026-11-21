@@ -2,7 +2,7 @@
 
 ## Bottom line
 
-**Methods update:** the later [Ptito thesis follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) recovers part of the embedded manuscript's methods: participants reported the number of digits seen in each hemifield, rather than the identities of successive targets. The complete results and final published methods remain uninspected. Read this earlier general account of second-target report in that light.
+**Methods update:** the later [Ptito thesis follow-up](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) recovers part of the embedded manuscript's methods: participants reported the number of digits seen in each hemifield, rather than the identities of successive targets. The complete results and final published methods remain uninspected. Read this earlier general account of second-target report in that light. A [comparison with Giesbrecht and Kingstone 2004](SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md) further distinguishes that earlier study's T2 identification conditional on correct T1 and its field-dependent T1 accuracy from Ptito's counting task; neither full results section was accessible.
 
 The studies cited in Lopez's [layered-unity proposal](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) give **relevant, task-specific evidence** about residual attention after callosotomy. They do not by themselves establish a single *experienced* centrality structure, the number of subjects, or the project's four-spin L/C incidence rule. That does not refute Lopez's proposal: she offers an additional philosophical argument connecting experienced attention to phenomenal unity, rather than simply defining a reaction-time effect as an experience.
 

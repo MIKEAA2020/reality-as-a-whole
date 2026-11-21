@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 478 root Markdown documents including this register; 43 research Markdown documents.
+- 480 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 410 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -159,6 +159,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FRW_INTERNAL_POVM.md](FRW_INTERNAL_POVM.md) — An unregulated internal-clock POVM in one FRW branch
 - [FRW_MODULAR_CLOCK.md](FRW_MODULAR_CLOCK.md) — Scalar-clock FRW and modular flow: a regulated calculation and an obstruction
 - [GAUGE_UNIFICATION_SPECTRAL.md](GAUGE_UNIFICATION_SPECTRAL.md) — Gauge Coupling Unification from the Spectral Action
+- [GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md](GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md) — Fixed plan: earlier split-brain attentional-blink experiment
 - [GLOBAL_COHERENCE_AND_DECISION_PLAN.md](GLOBAL_COHERENCE_AND_DECISION_PLAN.md) — One global plan: from experiential actuality to recoverable physics
 - [GLOBAL_WORKSPACE_REASSESSMENT.md](GLOBAL_WORKSPACE_REASSESSMENT.md) — Global Workspace Theory as a candidate implementation
 - [GOAL_RELATIVE_VALUE_ARGUMENT.md](GOAL_RELATIVE_VALUE_ARGUMENT.md) — Goal-relative evaluation: the rigorous result and its limits
@@ -387,6 +388,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SPECTRAL_ACTION_BOUNCE.md](SPECTRAL_ACTION_BOUNCE.md) — Spectral action on the bounce-regularized geometry
 - [SPECTRAL_ACTION_FINITE_SM.md](SPECTRAL_ACTION_FINITE_SM.md) — Finite noncommutative algebra of the spectral Standard Model
 - [SPHERICAL_SCALAR_RADIATION.md](SPHERICAL_SCALAR_RADIATION.md) — Spherical scalar radiation and post-causal Bondi mass loss
+- [SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md](SPLIT_BRAIN_BLINK_CONDITIONAL_REPORT_COMPARISON.md) — Two split-brain blink studies: what is being conditioned on?
 - [SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md](SPLIT_BRAIN_DEEP_EVIDENCE_AND_TASK_AUDIT.md) — Split-brain evidence: deeper source and task audit
 - [SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) — First-person unity against competing boundary rules: what a real case constrains
 - [SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md](SPLIT_BRAIN_PUBLIC_DATA_AND_NETWORK_EVIDENCE.md) — Split-brain evidence: public data, anatomical sparing, and the limits of unity claims
