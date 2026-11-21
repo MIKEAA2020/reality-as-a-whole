@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [history-comparison first-person assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) derives sharp conditional bounds for testing two stipulated quality assignments with potentially dependent report and physical-classification errors. It highlights conditional calibration and validation as unresolved prerequisites; the results do not establish a real assay or change the substantive battery verdicts.
+
 The [current-mismatch versus history gate](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) constructs an experience-respecting onset rival on the same four-spin kernel and proves an exact full-current-state reconstruction limit for its stipulated labels. A published heat-history study supplies relevant first-person pain-intensity data, not an independent q or unpleasantness assay; the substantive bridge and battery verdicts remain open.
 
 The [split-brain first-person comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) reads Pinto et al.'s 2017 published main text and matches the L/C subject question to its actual report targets. Preserved first-person unity reports are relevant evidence, while the clinical-to-spin map and trial-specific conjunction assay remain unestablished; no q-valence test follows. B4–B5/F2, B9/F3 and B10 remain open.

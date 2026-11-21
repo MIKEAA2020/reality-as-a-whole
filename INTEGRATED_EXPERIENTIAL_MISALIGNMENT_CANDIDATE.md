@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [history-comparison first-person assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) gives conditional error thresholds for distinguishing level and onset assignments, including physical-history misclassification and report errors. The calibration values are hypothetical; no actual q or phenomenal reference is established.
+
 The [current-mismatch versus history gate](CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md) compares the original pair-quality postulate with an experience-respecting onset-only rival on the same equilibrium kernel. They disagree on 71/448 of transitions, and a matched full-current-state witness demonstrates a finite information limitation. An actual heat-pain history result motivates, but does not test, the internal q bridge.
 
 The [split-brain first-person comparison](SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md) states conditions under which an actual same-window conjoint experience would challenge a completed exclusive-L package against C. Pinto et al.'s general first-person reports are relevant evidence, but do not establish the required clinical-to-spin mapping or q-valence law.

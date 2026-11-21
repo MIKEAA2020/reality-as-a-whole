@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "scope": "conditional finite arithmetic only; no empirical q sensor, experiential anchor, or real-world outcome",
+  "conditional_cell": "observed 11",
+  "grid_joint_tables": 330,
+  "grid_rule_and_error_budget_cases": 50,
+  "inequalities": {
+    "level_report_rate": "[max(0,1-rho-eta), 1]",
+    "onset_report_rate": "[0, min(1,rho+eta)]"
+  },
+  "overlap_example": {
+    "rho": "1/4",
+    "eta": "1/4",
+    "observed_positive_rate": "1/2",
+    "note": "witnesses use different latent physical mixtures"
+  },
+  "known_conditional_physical_mixture": {
+    "P_C11": "7/10",
+    "level_true_positive_rate": "4/5",
+    "onset_true_positive_rate": "1/10"
+  },
+  "global_budget_example": {
+    "observed_cell_mass": "71/448",
+    "global_assay_budget": "1/20",
+    "global_physical_cell_budget": "1/50",
+    "conditional_sum_upper_bound": "784/1775"
+  }
+}

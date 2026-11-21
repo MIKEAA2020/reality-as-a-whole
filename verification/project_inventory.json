@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 474,
-  "bytes": 6168347,
-  "line_count": 58894,
-  "document_count_with_risk_phrases": 446,
+  "document_count": 475,
+  "bytes": 6184087,
+  "line_count": 59008,
+  "document_count_with_risk_phrases": 447,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2509,9 +2509,9 @@
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
-      "sha256": "6d6f7841321e98fd79ed068cd50afc254a9818967b8cefd988ce37cc9d7b6731",
-      "bytes": 15098,
-      "lines": 79,
+      "sha256": "c4279baecc18696553ec0d6052c523f1dcba48bc00705ced177131321233fe96",
+      "bytes": 15417,
+      "lines": 81,
       "title": "Current mismatch versus experiential history: a common-domain gate",
       "headings": [
         "Current mismatch versus experiential history: a common-domain gate",
@@ -2527,6 +2527,7 @@
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "verification/integrated_level_history_contrast.py",
         "verification/integrated_level_history_contrast.json",
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md"
       ],
       "risk_phrase_lines": [
@@ -2535,8 +2536,8 @@
         15,
         16,
         27,
-        73,
-        79
+        75,
+        81
       ]
     },
     {
@@ -3515,9 +3516,9 @@
     },
     {
       "path": "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
-      "sha256": "fe2972df5baa71f2d650c67e5c68ba3ebf7807ca635ae8ed7873ab04cdedfc97",
-      "bytes": 12547,
-      "lines": 102,
+      "sha256": "6d098d1f1f1082c565984f02c8ca0ce1d8ab9826e4faccecd3b6b84a5b23e6c6",
+      "bytes": 12844,
+      "lines": 104,
       "title": "Transporting an experiential mismatch test between conditions",
       "headings": [
         "Transporting an experiential mismatch test between conditions",
@@ -3530,14 +3531,15 @@
         "6. What this does and does not advance"
       ],
       "local_links": [
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "verification/experiential_mismatch_transport_gate.py",
         "verification/experiential_mismatch_transport_gate.json"
       ],
       "risk_phrase_lines": [
-        7,
-        36,
-        49
+        9,
+        38,
+        51
       ]
     },
     {
@@ -4020,9 +4022,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "fd15d9ce90c0772cbe049130751387c61eb7603d2072e6832c60f17aff0791e8",
-      "bytes": 25382,
-      "lines": 103,
+      "sha256": "4fdc410e8489c6ddf9aedce3a73a0f5c50b2dff74db3c411a9f8577108390ae3",
+      "bytes": 25801,
+      "lines": 105,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4034,6 +4036,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
@@ -4073,16 +4076,16 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        17,
-        25,
+        7,
+        19,
         27,
-        31,
-        47,
-        57,
-        74,
-        91,
-        97
+        29,
+        33,
+        49,
+        59,
+        76,
+        93,
+        99
       ]
     },
     {
@@ -4188,9 +4191,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "cab21006a27c1e29e296599ac0358f0ee555e391f42b5cd027401167e8d31ccc",
-      "bytes": 114947,
-      "lines": 921,
+      "sha256": "ce8ccbf353d62972e5e1f6aebdc6b3f5016df95d83ac5de88437c3117bf95f31",
+      "bytes": 115303,
+      "lines": 924,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4353,6 +4356,7 @@
         "HAWKING_PAGE_CURVE.md",
         "HEMISPHEROTOMY_ANESTHESIA_AND_SUBJECT_BOUNDARIES.md",
         "HIGHER_ORDER_CAUSALITY_AND_SUBJECT_SELECTION_GATE.md",
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
         "INCOMING_CONSTRAINT_PREPARATION.md",
         "INFINITE_COHERENCE_CONSTRUCTION.md",
@@ -4889,6 +4893,8 @@
         "verification/met_label_alignment_screen.py",
         "verification/met_label_alignment_screen_test.py",
         "verification/microtubule_mediation_rival.py",
+        "verification/mismatch_history_assay_gate.py",
+        "verification/mismatch_history_assay_gate_test.py",
         "verification/modular_clock.py",
         "verification/modular_local_net.py",
         "verification/multi_clock.py",
@@ -5102,18 +5108,18 @@
         50,
         59,
         128,
-        173,
-        221,
-        270,
-        292,
-        339,
-        420,
-        435,
-        471,
-        480,
-        483,
-        486,
-        549
+        174,
+        222,
+        271,
+        293,
+        340,
+        421,
+        436,
+        472,
+        481,
+        484,
+        487,
+        550
       ]
     },
     {
@@ -5803,6 +5809,35 @@
       ]
     },
     {
+      "path": "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
+      "sha256": "b3e39761c48f29a2951c7620a5e1649a89e9e3a8f3db1132a31e3be852f2f34e",
+      "bytes": 14008,
+      "lines": 103,
+      "title": "How accurate must a first-person mismatch test be?",
+      "headings": [
+        "How accurate must a first-person mismatch test be?",
+        "Result and scope",
+        "1. The objects, without circular calibration",
+        "2. The sharp discrimination threshold",
+        "3. Stronger physical calibration can sharpen the comparison",
+        "4. Why global accuracy may be too weak",
+        "5. Calibration and causal interpretation: stop conditions",
+        "6. Related evidence and reproducibility"
+      ],
+      "local_links": [
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "verification/mismatch_history_assay_gate.py",
+        "verification/mismatch_history_assay_gate_test.py",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "verification/mismatch_history_assay_gate.json"
+      ],
+      "risk_phrase_lines": [
+        46,
+        103
+      ]
+    },
+    {
       "path": "HISTORY_WEIGHT_CONSISTENCY_AND_INFINITE_LIMIT_GATE.md",
       "sha256": "9707d68a18408c6ceca5c8d1b61bbc6fdf095edcf6542a9a58d2e1e1a485b995",
       "bytes": 14044,
@@ -6163,9 +6198,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "d92578c991af03bcf11a6f3fcd1072a09888dbca151ca93afae381fe6e5800d4",
-      "bytes": 22098,
-      "lines": 131,
+      "sha256": "653ca307913108526a22b81ae54b7a8d2bdf803f4664c538c7755f81df096a4c",
+      "bytes": 22439,
+      "lines": 133,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -6178,6 +6213,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
         "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
         "SPLIT_BRAIN_FIRST_PERSON_CONSTITUTION_COMPARISON.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
@@ -6203,12 +6239,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        17,
         19,
-        72,
-        76,
-        109,
-        131
+        21,
+        74,
+        78,
+        111,
+        133
       ]
     },
     {

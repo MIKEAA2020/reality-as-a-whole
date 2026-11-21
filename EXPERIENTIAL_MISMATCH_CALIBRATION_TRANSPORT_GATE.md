@@ -2,6 +2,8 @@
 
 ## Aim and result
 
+The later [history-comparison assay gate](HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md) complements this source-to-target transport bound with sharp, within-target constraints for report error and physical-history misclassification. Neither gate provides an actual experiential calibration.
+
 A serious test of the proposed connection between misalignment and discomfort must do more than find a physical quantity that predicts a report. It must say which **experienced contrast** is being tested, how it is anchored, and whether the anchor remains valid in the new condition. This gate addresses a specific step in that chain: how much a condition-specific calibration, if independently justified, can constrain errors in another condition.
 
 The result is an **exact finite worst-case bound** under an explicitly stipulated stable experiential-contrast kernel. In a hypothetical example where the source calibration error is at most 5%, the sharp bound in a shifted target is 15%, not 5%. It can be attained even when the same conditional relation holds in both settings. A second example shows that equal physical mismatch distributions do not guarantee equal experiential error when relevant context is omitted.
