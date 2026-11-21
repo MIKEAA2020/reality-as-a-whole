@@ -4,6 +4,8 @@
 
 ## Results
 
+**Related uploaded-source audit:** [Öttinger’s dissipative QFT excerpt](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) distinguishes finite-mode delta kernels from the continuum distribution and analyzes relaxation/cutoff limit order in a free damped mode. The present reversible two-field estimates do not automatically transfer to his nonlinear interacting model.
+
 The prior [1+1 two-field continuum proof](TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md) cannot simply be copied to three spatial dimensions: its instantaneous pair-creation kernel is not Hilbert–Schmidt. Three further results distinguish that failure from a failure of the physical proposal:
 
 1. For the specified smooth, spacelike-separated 3+1-dimensional **finite-cutoff** source and two-field interaction, an energy-constrained bound on the difference of the **complete operation orders** tends to zero faster than any power of the cutoff. It includes both retained fields, arbitrary probe-only readout/records and arbitrary references. This is an order comparison, **not** a cutoff-to-continuum instrument theorem.

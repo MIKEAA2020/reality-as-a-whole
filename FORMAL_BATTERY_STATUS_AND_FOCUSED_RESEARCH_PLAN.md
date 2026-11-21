@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [uploaded Öttinger QFT excerpt audit](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) distinguishes the source's proposed nonlinear thermodynamic dynamics from a checked free amplitude-damping sector; weak-damping, equilibration and ultraviolet limits need explicit order and domain. The upload lacks the book's later scalar and QED chapters and supplies no full interacting-QFT or experiential bridge pass.
+
 The [field-lineage persistence and fission gate](FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md) tests a conditional locality tradeoff and two identity-bookkeeping rules, distinguishing field-subject tokens from continuant persons. It is not a physical-to-phenomenal or temporal-persistence law.
 
 The [first-personal givenness and field-individuation audit](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) tests the field-first proposal against Guillot, Zahavi's reply, and Barbieri's state-priority argument. A nested-window identity constraint exposes a risk of counting descriptions as subjects; it supplies no field-realization law or substantive battery pass.

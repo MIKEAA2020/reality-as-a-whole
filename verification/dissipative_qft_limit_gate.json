@@ -1,0 +1,50 @@
+{
+  "status": "passed",
+  "choi_principal_minors_checked": 135,
+  "q_values": 9,
+  "semigroup_q_pairs": 81,
+  "sampled_energy_bound_checks": 9,
+  "sampled_abel_paths": [
+    {
+      "n": 4,
+      "slow_s": "1/9",
+      "balanced_s": "1/3",
+      "fast_s": "1/2"
+    },
+    {
+      "n": 100,
+      "slow_s": "1/201",
+      "balanced_s": "1/3",
+      "fast_s": "5/6"
+    },
+    {
+      "n": 10000,
+      "slow_s": "1/20001",
+      "balanced_s": "1/3",
+      "fast_s": "50/51"
+    }
+  ],
+  "moving_momentum_probe": [
+    {
+      "k": 2,
+      "gamma": "1/16",
+      "excited_population": 0.1353352832366127
+    },
+    {
+      "k": 4,
+      "gamma": "1/256",
+      "excited_population": 0.1353352832366127
+    },
+    {
+      "k": 8,
+      "gamma": "1/4096",
+      "excited_population": 0.1353352832366127
+    },
+    {
+      "k": 16,
+      "gamma": "1/65536",
+      "excited_population": 0.1353352832366127
+    }
+  ],
+  "scope": "Finite one-mode free zero-temperature amplitude damping on the vacuum/one-particle sector only. Neither the interacting nonlinear thermodynamic equation nor a QFT continuum, Lorentz covariance, gauge symmetry, or measurement interpretation is derived by these checks."
+}

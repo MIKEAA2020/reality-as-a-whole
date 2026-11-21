@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0d91284783f961fd9e2b99bd4ae7aa03f402bb02",
-  "file_count": 1505,
+  "base_head": "c7ab6c7a49c2da6e4ed67f2ab4f9420361202b7d",
+  "file_count": 1509,
   "files": [
     {
       "path": ".gitattributes",
@@ -395,8 +395,8 @@
     },
     {
       "path": "CUTOFF_INSTRUMENT_UNIFORMITY.md",
-      "bytes": 11660,
-      "sha256": "b27a4d170a7274d62f0c008e1926ceb2df8e6f763613ed29b4621bf45f121099"
+      "bytes": 12046,
+      "sha256": "beb2882d250003ea24aa51354b369e87536f20e2cc491f10d09c262003eab3ea"
     },
     {
       "path": "DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md",
@@ -650,8 +650,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 28452,
-      "sha256": "545b47a96c8036a6442a6dccb03897266741a2e9a059aece3c2cda6cf4379e9e"
+      "bytes": 28870,
+      "sha256": "c038c7cbf911ad513851a243b3dc0704694c7839bd7ebeca6ccaad4e1c9c718c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -685,8 +685,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 117602,
-      "sha256": "ffc41653a4d0728b66be3760bd2e58bc9c708a36d467e8e22d5e12db2d685cbd"
+      "bytes": 117969,
+      "sha256": "c356239fc182db27cb402d0535ca4e75e62e2db6135806a904207b5a6d244fbb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1207,6 +1207,11 @@
       "path": "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
       "bytes": 12721,
       "sha256": "880a57872b5fa957af33791e5876baffbfeed12db093fac38b7a142d57b8a39b"
+    },
+    {
+      "path": "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
+      "bytes": 19263,
+      "sha256": "ce698f45bd0c5e763bfd74364c8fd406c5b67d9d39ebf54d873a40ac0d94b146"
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
@@ -1895,8 +1900,8 @@
     },
     {
       "path": "THREE_DIMENSIONAL_SMOOTH_PROBE_CAUSALITY_GATE.md",
-      "bytes": 12313,
-      "sha256": "03e8e7e0f1f3beca190c15072194dc4c04497b1c515287c8f7e4e5eb1e9054bb"
+      "bytes": 12688,
+      "sha256": "43d712ae50d7c4e14bedd9f4c3dc69555816ad31078d488b2c91af9e2db7db75"
     },
     {
       "path": "THREE_UNITY_PAPERS_READING_AND_FRAMEWORK_AUDIT.md",
@@ -4394,6 +4399,21 @@
       "sha256": "69bd60f7f4d44b7ef0c207b2312e4008be966304005dc144849d4d9d0a1872ba"
     },
     {
+      "path": "verification/dissipative_qft_limit_gate.json",
+      "bytes": 1196,
+      "sha256": "bc25c6ad8c1cb0edf9164d6a29ed0b8b9e439e6ee35e56a426b95013510d6d02"
+    },
+    {
+      "path": "verification/dissipative_qft_limit_gate.py",
+      "bytes": 3997,
+      "sha256": "e79151623edf66ee8281f5f7eb524740c6b92641b3f21f151f2ac3e575fb965a"
+    },
+    {
+      "path": "verification/dissipative_qft_limit_gate_test.py",
+      "bytes": 742,
+      "sha256": "873b123621c02643547eafd257d98700262b44557329ec170d70031208c396b1"
+    },
+    {
       "path": "verification/dust_clock_record.json",
       "bytes": 5217,
       "sha256": "f6134a5a3ac023148013323da0b82ce8ae39da20992e30acfd4f3a2adbba6ced"
@@ -5825,8 +5845,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 605842,
-      "sha256": "ef1a4ad956c74975b2b3e574fd15fceb286344978ae6601d0ba969cd2836d695"
+      "bytes": 607264,
+      "sha256": "ec7b96ebf97414367e39a209448dab4facfbe3ed1d5f6e92c031a5e4a4cc5acf"
     },
     {
       "path": "verification/project_inventory.py",

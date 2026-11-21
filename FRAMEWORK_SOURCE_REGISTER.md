@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 439 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 370 verification Python scripts.
+- 440 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 372 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -250,6 +250,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md](OPH_REPOSITORY_AND_CUTOFF_BRIDGE.md) — Observer Patch Holography: source audit and a cutoff-calibration bridge
 - [OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md](OPH_UNIFICATION_SOURCE_CHAIN_AUDIT.md) — OPH unification: source-chain and falsifiability audit
 - [ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md](ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md) — A concrete orientation-experience test: what existing TMS evidence can and cannot decide
+- [OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md](OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md) — Öttinger’s dissipative QFT: uploaded excerpt and limit audit
 - [PAGE_WOOTTERS_STATIC_CLOCK.md](PAGE_WOOTTERS_STATIC_CLOCK.md) — Page–Wootters conditional time and the static spherical gravitational clock
 - [PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md](PAINGEN_STIMULUS_ONLY_VALENCE_STRESS_TEST_PLAN.md) — Matched-stimulus valence stress test: analysis plan
 - [PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md](PAINGEN_UNPLEASANTNESS_BASELINE_AND_MISMATCH_GATE.md) — Unpleasantness: empirical baselines and the missing mismatch measurement
@@ -631,6 +632,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/direct_stimulation_affect_audit_test.py](verification/direct_stimulation_affect_audit_test.py)
 - [verification/disclosure_observation_identifiability.py](verification/disclosure_observation_identifiability.py)
 - [verification/disclosure_scope_check.py](verification/disclosure_scope_check.py)
+- [verification/dissipative_qft_limit_gate.py](verification/dissipative_qft_limit_gate.py)
+- [verification/dissipative_qft_limit_gate_test.py](verification/dissipative_qft_limit_gate_test.py)
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)
 - [verification/eeg_baseline_deviation_valence_gate.py](verification/eeg_baseline_deviation_valence_gate.py)
 - [verification/eeg_baseline_deviation_valence_gate_test.py](verification/eeg_baseline_deviation_valence_gate_test.py)
