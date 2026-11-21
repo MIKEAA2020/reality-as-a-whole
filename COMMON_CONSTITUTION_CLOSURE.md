@@ -14,7 +14,7 @@ There are three distinct obligations:
 2. **Constitutive warrant:** the determination follows from what that concrete occurrence is, rather than an independently added dictionary or merely predictive fit.
 3. **Ultimate closure:** the nature, determining principles, domain, and actuality themselves have no unexplained residue.
 
-A successful result at one level does not automatically supply the others. Conversely, incomplete ultimate closure does not make a well-supported local identity false.
+A successful result at one level does not automatically supply the others. Conversely, incomplete ultimate closure does not make a well-supported local identity false. The [toothachewise and real-aspects comparison](TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md) applies these distinctions to a phenomenal-preserving eliminative paraphrase and to rival common-ground proposals, without requiring an extra composite pain-object.
 
 ## 2. An exact sufficiency criterion
 

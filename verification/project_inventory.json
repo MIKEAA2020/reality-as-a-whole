@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 488,
-  "bytes": 6395967,
-  "line_count": 60537,
-  "document_count_with_risk_phrases": 459,
+  "document_count": 489,
+  "bytes": 6415670,
+  "line_count": 60616,
+  "document_count_with_risk_phrases": 460,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -730,8 +730,8 @@
     },
     {
       "path": "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
-      "sha256": "e1ebe26925829bfca1f98bc8b0b0eba093efb433e63fdd777edd30cf18cc1077",
-      "bytes": 16918,
+      "sha256": "e1d9fb82c97797411a06bb4a8977037e0cb5d9732271888a8fae26de85d58397",
+      "bytes": 17443,
       "lines": 78,
       "title": "Benovsky on dual aspects, mineness and no-self: full-book audit",
       "headings": [
@@ -746,8 +746,11 @@
       ],
       "local_links": [
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "verification/benovsky_mineness_partition_gate.py",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
@@ -1504,8 +1507,8 @@
     },
     {
       "path": "COMMON_CONSTITUTION_CLOSURE.md",
-      "sha256": "97b9f440928f0adf69b85b931a7fa65d8de39570a754addf22493cd0ee137bd2",
-      "bytes": 15943,
+      "sha256": "6163a0098e14069f185a9044874cf982429b17e3b6067e9c5d55f32d39de0e15",
+      "bytes": 16208,
       "lines": 151,
       "title": "Common constitution: from a correspondence to an intelligible determination",
       "headings": [
@@ -1520,6 +1523,7 @@
       ],
       "local_links": [
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "REPORTED_CONTENT_REFERENCE_CASE.md",
         "verification/constitution_factorization_check.py",
         "verification/constitution_factorization_check.json",
@@ -4236,9 +4240,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "412ec78770ba0032de383ae1ca9486a511738ede8aa3b10ffe98c28101ae365c",
-      "bytes": 30006,
-      "lines": 123,
+      "sha256": "3e56758547c3ae401880a073a3b88ad175dbc8c4fcab2d2b4dd1ad7e29f91b00",
+      "bytes": 30510,
+      "lines": 125,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4250,6 +4254,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "OTTINGER_DISSIPATIVE_QFT_UPLOADED_EXCERPT_AUDIT.md",
         "OTTINGER_FULL_BOOK_SCALAR_QED_FOLLOWUP.md",
@@ -4303,19 +4308,19 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        21,
-        25,
-        37,
-        45,
+        9,
+        23,
+        27,
+        39,
         47,
-        51,
-        67,
-        77,
-        94,
-        111,
-        117
+        49,
+        53,
+        69,
+        79,
+        96,
+        113,
+        119
       ]
     },
     {
@@ -13707,6 +13712,37 @@
         162,
         167,
         213
+      ]
+    },
+    {
+      "path": "TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md",
+      "sha256": "2f2a3195ec4309ebc225071ab8f94c04c979d5f2ec520a42a8c0f61693766835",
+      "bytes": 18409,
+      "lines": 77,
+      "title": "Toothachewise paraphrase: preserving pain without assuming the bridge",
+      "headings": [
+        "Toothachewise paraphrase: preserving pain without assuming the bridge",
+        "Decision",
+        "1. Sources, scope and textual caution",
+        "2. A preservation test that does not require a pain-object",
+        "3. What Le Bihan actually argues",
+        "4. Same pain case, rival explanatory commitments",
+        "5. A non-circular next step on an actual interface",
+        "Status"
+      ],
+      "local_links": [
+        "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
+        "EPISODE_INCIDENCE_REFORMULATION.md",
+        "COMMON_CONSTITUTION_CLOSURE.md",
+        "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md",
+        "COMMON_CONSTITUTION_CLOSURE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        21,
+        77
       ]
     },
     {

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 445 root Markdown documents including this register; 43 research Markdown documents.
+- 446 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 382 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -402,6 +402,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TIME_RESEARCH_ROADMAP.md](TIME_RESEARCH_ROADMAP.md) — A top-down research program for the problem of time
 - [TIME_SOLUTION_EVIDENCE_AUDIT.md](TIME_SOLUTION_EVIDENCE_AUDIT.md) — Problem of time: evidence and novelty audit
 - [TOLMAN_COCYCLE.md](TOLMAN_COCYCLE.md) — Tolman–Ehrenfest law via the Connes–Rovelli cocycle
+- [TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md](TOOTHACHEWISE_PARAPHRASE_AND_REAL_ASPECTS_AUDIT.md) — Toothachewise paraphrase: preserving pain without assuming the bridge
 - [TOP_HIGGS_SPECTRAL_PREDICTION.md](TOP_HIGGS_SPECTRAL_PREDICTION.md) — Top Yukawa and Higgs Mass from the Spectral Action: 1-Loop RGE Verification
 - [TORUS_SECOND_ORDER_GRAVITY_MATTER.md](TORUS_SECOND_ORDER_GRAVITY_MATTER.md) — A second-order gravity–matter obstruction on the torus
 - [TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md](TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md) — Testing exclusive phenomenal unity with randomized pair and triple probes
