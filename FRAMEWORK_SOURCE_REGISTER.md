@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 417 root Markdown documents including this register; 43 research Markdown documents.
-- 53 original uploaded files, including provenance metadata; 348 verification Python scripts.
+- 419 root Markdown documents including this register; 43 research Markdown documents.
+- 53 original uploaded files, including provenance metadata; 350 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -80,6 +80,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CRN_COCYCLE_STATE_INDEPENDENT_TIME.md](CRN_COCYCLE_STATE_INDEPENDENT_TIME.md) — Connes–Rovelli cocycle: state-independent physical time
 - [CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md](CROSS_FRAMEWORK_CAUSALITY_RECORD_TEST.md) — A cross-framework test: a cutoff can fabricate a causal record
 - [CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md](CROSS_FRAMEWORK_GRAVITY_CONSTRAINTS.md) — Constraining emergent gravity across frameworks
+- [CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md](CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md) — Fixed plan: cross-grain quality facets in the integrated candidate
+- [CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md](CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md) — Subject boundaries and qualitative facets across grains
 - [CURRENT_FRAMEWORK_BATTERY_DOSSIER.md](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) — Self-Existent Experiential Plenitude
 - [CUTOFF_INSTRUMENT_UNIFORMITY.md](CUTOFF_INSTRUMENT_UNIFORMITY.md) — A necessary intermediate step: what can converge uniformly?
 - [DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md](DALY_AFFECTIVE_MUSIC_EVENT_ALIGNMENT_AUDIT_PLAN.md) — Fixed audit plan: can affective-music events support a same-trial analysis?
@@ -587,6 +589,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/crn_cocycle.py](verification/crn_cocycle.py)
 - [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
 - [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)
+- [verification/cross_grain_facet_identifiability.py](verification/cross_grain_facet_identifiability.py)
+- [verification/cross_grain_facet_identifiability_test.py](verification/cross_grain_facet_identifiability_test.py)
 - [verification/cutoff_instrument_uniformity.py](verification/cutoff_instrument_uniformity.py)
 - [verification/daly_affective_music_event_alignment.py](verification/daly_affective_music_event_alignment.py)
 - [verification/daly_affective_music_event_alignment_test.py](verification/daly_affective_music_event_alignment_test.py)

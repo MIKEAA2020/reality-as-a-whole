@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "4c1c9abcb3718b156ae5ea9472041e3d297153e2",
-  "file_count": 1446,
+  "base_head": "97ce09330aa54ffa9c7619ab1d5934a4d1b95a85",
+  "file_count": 1451,
   "files": [
     {
       "path": ".gitattributes",
@@ -349,6 +349,16 @@
       "sha256": "e43c388d1b9bfc86f0a50a899b17c51de92b223cb926f5a2a4a8ae78e7c3eb60"
     },
     {
+      "path": "CROSS_GRAIN_FELT_FACET_IDENTIFIABILITY_PLAN.md",
+      "bytes": 3453,
+      "sha256": "d0582e9a0d41f8051d8ef16415baa13796d0b96a9567b6f7128d9e2ca783d929"
+    },
+    {
+      "path": "CROSS_GRAIN_SUBJECT_FACET_AND_QUALITY_GATE.md",
+      "bytes": 12653,
+      "sha256": "b11f1cea807d202e3e2d79baf3f769d7c3ffbb909d7528dbda52c2af80a0ddb5"
+    },
+    {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
       "bytes": 37647,
       "sha256": "07dafe3b2cd0c470760b7a40ba777eec9ef51e06a53943044cad4d598404770c"
@@ -600,8 +610,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 21166,
-      "sha256": "f0d6d4151adef12d5b6408e3f6eb94a245a64eec01606817d1ff0062bc73560b"
+      "bytes": 21659,
+      "sha256": "a1fa45cd7c117245b1e829edb97457bbdda0c1ee4d0f43108a6cf57d2eba326b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -625,8 +635,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 111180,
-      "sha256": "97bf3f62892619f7d2bb75321e37faa366690f5adc617ad5287378a072cc2f55"
+      "bytes": 111727,
+      "sha256": "c51b05e03f1fdeab192e972cc3541261de924a21fd19424ba72288d5b72a2da4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -775,8 +785,8 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "bytes": 19294,
-      "sha256": "d70c53d488c194346dd0882b2aee1dc18d36e4895ae654e01e5e7b1e2aab0286"
+      "bytes": 19712,
+      "sha256": "cdb38a691be29d6453e4967a7871e67edc8175f8793db98176fbe9476bb8e9fd"
     },
     {
       "path": "INTEGRATED_SUBJECT_CONTEXT_AND_RELATIONAL_DYNAMICS_GATE.md",
@@ -4119,6 +4129,21 @@
       "sha256": "a96383c9dac1896cbd4d10714146623fb3ab5b9037ef8a7aa8e6ed2b2492bae7"
     },
     {
+      "path": "verification/cross_grain_facet_identifiability.json",
+      "bytes": 1282,
+      "sha256": "2ea37427adb3674cbe5ea95a34666f042aa6550ae0f0219b94b0bcd3093adf87"
+    },
+    {
+      "path": "verification/cross_grain_facet_identifiability.py",
+      "bytes": 3486,
+      "sha256": "55d19f5912c2352d9bf818b758a4be9fdfefe8a1dc245da58d854ec44758ba61"
+    },
+    {
+      "path": "verification/cross_grain_facet_identifiability_test.py",
+      "bytes": 1615,
+      "sha256": "50ba82516f2cf48204e55dca3bc6f0f5939eae9f4e0b4ceec2a8095412763b79"
+    },
+    {
       "path": "verification/cutoff_instrument_uniformity.json",
       "bytes": 2033,
       "sha256": "f80599937dfb3eee916be93ec2aa08efe4c14477ccf6ac326d5def13619d8a61"
@@ -5530,8 +5555,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 575904,
-      "sha256": "c138ba596332d5dfd2168ec0727f934497da01209f1250a3a076cb6946bf3429"
+      "bytes": 577818,
+      "sha256": "9114a0c48ac731e3558c85deb223139a85d4fc209e04c79f79c46b0252b7c654"
     },
     {
       "path": "verification/project_inventory.py",

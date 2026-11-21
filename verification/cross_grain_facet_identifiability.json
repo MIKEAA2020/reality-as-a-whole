@@ -1,0 +1,59 @@
+{
+  "model": "existing equilibrium four-spin t=1/4, q-left/middle/right",
+  "edge_mismatch_probabilities": {
+    "000": "45/128",
+    "001": "15/128",
+    "010": "27/128",
+    "011": "9/128",
+    "100": "15/128",
+    "101": "5/128",
+    "110": "9/128",
+    "111": "3/128"
+  },
+  "results": {
+    "binary": {
+      "scalar_classes": 2,
+      "facet_from_scalar": false,
+      "left_and_right_oracle_error": "1/4",
+      "structured_classes": 5,
+      "minimal_fixed_length_binary_digits": 3,
+      "scalar_and_both_facets_factor_through_structured_code": true
+    },
+    "graded": {
+      "scalar_classes": 6,
+      "facet_from_scalar": false,
+      "left_and_right_oracle_error": "3/16",
+      "structured_classes": 8,
+      "minimal_fixed_length_binary_digits": 3,
+      "scalar_and_both_facets_factor_through_structured_code": true
+    }
+  },
+  "witnesses": {
+    "binary": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        1
+      ]
+    ],
+    "graded": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ]
+  },
+  "reflection_states_checked": 8,
+  "scope": "conditional same-field facet-transport hypothesis; idealized physical model, no demonstrated phenomenology or subject identity"
+}
