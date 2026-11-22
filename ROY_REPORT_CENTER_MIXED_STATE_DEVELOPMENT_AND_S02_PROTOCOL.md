@@ -1,5 +1,7 @@
 # Brief mixed reports: development result and frozen S02 test protocol
 
+> **Later update:** the planned S02 test has now been run; see the [S02 results](ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md). This document otherwise preserves the pre-test development and protocol.
+
 ## Bottom line
 
 The earlier 75%-of-two-seconds target missed every S01 mixed window. A revised **report-at-center** target can count very brief mixed reports while retaining a two-second EEG feature, but it has an important cost: the EEG window usually includes other reports before and after the mixed center. It does not isolate a mixed-specific neural signal.

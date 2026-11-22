@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 589,
-  "bytes": 7298615,
-  "line_count": 65117,
-  "document_count_with_risk_phrases": 544,
+  "document_count": 590,
+  "bytes": 7309899,
+  "line_count": 65212,
+  "document_count_with_risk_phrases": 545,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "26b1772f7e8ad562378e5f4839261442dbc83e91153311160b61eefe865e4e2b",
-      "bytes": 40181,
+      "sha256": "7e70f3a56646b14384e2abda6cd879d98e1ab9f52ffca7197b673da0dc81ea7f",
+      "bytes": 40437,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2862,6 +2862,7 @@
         "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
+        "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4893,9 +4894,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3d7b737971656b1e3604f22397620d0dd41b9783cf902d77b83dd3ec2efa45d3",
-      "bytes": 143793,
-      "lines": 1123,
+      "sha256": "2ac76fb68995adf288e3920fefab6cce020f6f7a506bcf4f0bb3a6db7dc1f677",
+      "bytes": 144407,
+      "lines": 1128,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5290,6 +5291,7 @@
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -5863,10 +5865,14 @@
         "verification/roof_duality_robust_boundary_gate.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
+        "verification/roy_report_center_development.py",
+        "verification/roy_report_center_development_test.py",
         "verification/roy_s01_frozen_three_state_transfer.py",
         "verification/roy_s01_frozen_three_state_transfer_test.py",
         "verification/roy_s01_mixed_coverage_diagnostic.py",
         "verification/roy_s01_mixed_coverage_diagnostic_test.py",
+        "verification/roy_s02_frozen_center_transfer.py",
+        "verification/roy_s02_frozen_center_transfer_test.py",
         "verification/roy_s08_fixed_transfer.py",
         "verification/roy_s08_fixed_transfer_test.py",
         "verification/roy_s08_mri_qc.py",
@@ -6014,14 +6020,14 @@
         302,
         348,
         377,
-        440,
-        534,
-        549,
-        585,
-        594,
-        597,
-        600,
-        664
+        441,
+        535,
+        550,
+        586,
+        595,
+        598,
+        601,
+        665
       ]
     },
     {
@@ -13065,9 +13071,9 @@
     },
     {
       "path": "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
-      "sha256": "7ffeb69041c2e5ae970e633f4608c67217344aa66d06a20c68b1bc1069a72e3f",
-      "bytes": 11174,
-      "lines": 62,
+      "sha256": "1018b2fae831ced966a661cb38b94740225da596774d52e2f6855d807ee90eae",
+      "bytes": 11380,
+      "lines": 64,
       "title": "Brief mixed reports: development result and frozen S02 test protocol",
       "headings": [
         "Brief mixed reports: development result and frozen S02 test protocol",
@@ -13079,6 +13085,7 @@
         "5. Reproduction and checks"
       ],
       "local_links": [
+        "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "verification/roy_report_center_development.json",
         "verification/roy_s02_frozen_center_transfer.py",
@@ -13086,9 +13093,9 @@
         "verification/roy_report_center_development.json"
       ],
       "risk_phrase_lines": [
-        21,
         23,
-        44
+        25,
+        46
       ]
     },
     {
@@ -13137,6 +13144,35 @@
       ],
       "risk_phrase_lines": [
         13
+      ]
+    },
+    {
+      "path": "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
+      "sha256": "f9f963b2d0605fbc46c5155492d0a677e70785eaec4d7143ac20eaed449dd452",
+      "bytes": 10208,
+      "lines": 88,
+      "title": "S02 frozen report-center EEG transfer: results",
+      "headings": [
+        "S02 frozen report-center EEG transfer: results",
+        "Bottom line",
+        "1. Inputs, provenance and checks",
+        "2. Prespecified method and coverage",
+        "3. Pooled confusion matrices and baselines",
+        "4. Per-scan results and segment diagnostic",
+        "5. What follows"
+      ],
+      "local_links": [
+        "verification/roy_s02_dropbox_integrity_receipt.json",
+        "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
+        "verification/roy_s02_frozen_center_transfer.json",
+        "verification/roy_s02_frozen_center_transfer.py",
+        "verification/roy_report_center_development.json",
+        "verification/roy_s02_frozen_center_transfer.json",
+        "verification/roy_s02_dropbox_integrity_receipt.json"
+      ],
+      "risk_phrase_lines": [
+        13,
+        23
       ]
     },
     {

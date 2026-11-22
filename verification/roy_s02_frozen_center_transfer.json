@@ -1,0 +1,718 @@
+{
+  "scope": "One new participant S02; exploratory transfer to report-center labels, not population or experiential validation.",
+  "scans": [
+    1,
+    2,
+    4,
+    6,
+    8,
+    11
+  ],
+  "model_receipt_sha256": "60ab958fad3249591ca48e82cc67101748e47677455501b6819e2c778e9bdb44",
+  "source_sha256": {
+    "1": "64abe552db791db0c4e89d790278c433470d5e11f5a3d0e2117b797322844e30",
+    "2": "bcb52ceaad3180bef4382d2519fe45171b11fc51757177205d45b32c11b3e3d0",
+    "4": "69a2f43536ba973dec6feae94036841e2b5ead31e0b3c540c22f4ad00d1f02c5",
+    "6": "4ff71e50fcb5352c68bdd67668c136cf3a8a18207f94dcf7314e9676d1049593",
+    "8": "44c9534d93787aead291501b31fc3696d73066c4157457cec53414235195c2f8",
+    "11": "c7be8cb0ab1ca9bc5ee4414ea0944b03a428a38f636e44875717f240e95c15b9"
+  },
+  "source_caveat": "Source manifest must be independently recorded; self-computed hashes do not establish public-source authenticity.",
+  "results": {
+    "per_scan": {
+      "1": {
+        "total_centers": 1005,
+        "unknown_centers": 1,
+        "artifact_centers": 85,
+        "unknown_artifact_overlap": 0,
+        "labeled_clean_centers": 919,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                154,
+                221,
+                34
+              ],
+              [
+                157,
+                202,
+                25
+              ],
+              [
+                48,
+                74,
+                4
+              ]
+            ],
+            "recalls": [
+              0.3765281173594132,
+              0.5260416666666666,
+              0.031746031746031744
+            ],
+            "macro_recall": 0.3114386052573705,
+            "accuracy": 0.39173014145810664,
+            "mixed_precision": 0.06349206349206349,
+            "mixed_eligible_segments": 45,
+            "mixed_segment_equal_weight_recall": 0.01759259259259259,
+            "mixed_segments_with_any_hit": 3
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                409,
+                0
+              ],
+              [
+                0,
+                384,
+                0
+              ],
+              [
+                0,
+                126,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.4178454842219804,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 45,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                175,
+                234,
+                0
+              ],
+              [
+                149,
+                235,
+                0
+              ],
+              [
+                26,
+                100,
+                0
+              ]
+            ],
+            "recalls": [
+              0.4278728606356968,
+              0.6119791666666666,
+              0.0
+            ],
+            "macro_recall": 0.3466173424341212,
+            "accuracy": 0.44613710554951036,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 45,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      },
+      "2": {
+        "total_centers": 1005,
+        "unknown_centers": 3,
+        "artifact_centers": 24,
+        "unknown_artifact_overlap": 0,
+        "labeled_clean_centers": 978,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                217,
+                279,
+                36
+              ],
+              [
+                156,
+                198,
+                28
+              ],
+              [
+                39,
+                20,
+                5
+              ]
+            ],
+            "recalls": [
+              0.40789473684210525,
+              0.518324607329843,
+              0.078125
+            ],
+            "macro_recall": 0.3347814480573161,
+            "accuracy": 0.4294478527607362,
+            "mixed_precision": 0.07246376811594203,
+            "mixed_eligible_segments": 33,
+            "mixed_segment_equal_weight_recall": 0.04242424242424242,
+            "mixed_segments_with_any_hit": 2
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                532,
+                0
+              ],
+              [
+                0,
+                382,
+                0
+              ],
+              [
+                0,
+                64,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.39059304703476483,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 33,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                181,
+                351,
+                0
+              ],
+              [
+                153,
+                229,
+                0
+              ],
+              [
+                27,
+                37,
+                0
+              ]
+            ],
+            "recalls": [
+              0.34022556390977443,
+              0.599476439790576,
+              0.0
+            ],
+            "macro_recall": 0.31323400123345013,
+            "accuracy": 0.41922290388548056,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 33,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      },
+      "4": {
+        "total_centers": 1005,
+        "unknown_centers": 1,
+        "artifact_centers": 106,
+        "unknown_artifact_overlap": 0,
+        "labeled_clean_centers": 898,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                138,
+                259,
+                28
+              ],
+              [
+                124,
+                199,
+                25
+              ],
+              [
+                48,
+                72,
+                5
+              ]
+            ],
+            "recalls": [
+              0.3247058823529412,
+              0.5718390804597702,
+              0.04
+            ],
+            "macro_recall": 0.3121816542709038,
+            "accuracy": 0.38084632516703787,
+            "mixed_precision": 0.08620689655172414,
+            "mixed_eligible_segments": 49,
+            "mixed_segment_equal_weight_recall": 0.014440321583178725,
+            "mixed_segments_with_any_hit": 4
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                425,
+                0
+              ],
+              [
+                0,
+                348,
+                0
+              ],
+              [
+                0,
+                125,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.38752783964365256,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 49,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                166,
+                259,
+                0
+              ],
+              [
+                125,
+                223,
+                0
+              ],
+              [
+                45,
+                80,
+                0
+              ]
+            ],
+            "recalls": [
+              0.3905882352941176,
+              0.6408045977011494,
+              0.0
+            ],
+            "macro_recall": 0.3437976109984224,
+            "accuracy": 0.43318485523385303,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 49,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      },
+      "6": {
+        "total_centers": 1005,
+        "unknown_centers": 1,
+        "artifact_centers": 43,
+        "unknown_artifact_overlap": 0,
+        "labeled_clean_centers": 961,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                185,
+                198,
+                33
+              ],
+              [
+                158,
+                211,
+                30
+              ],
+              [
+                60,
+                77,
+                9
+              ]
+            ],
+            "recalls": [
+              0.44471153846153844,
+              0.5288220551378446,
+              0.06164383561643835
+            ],
+            "macro_recall": 0.34505914307194047,
+            "accuracy": 0.4214360041623309,
+            "mixed_precision": 0.125,
+            "mixed_eligible_segments": 40,
+            "mixed_segment_equal_weight_recall": 0.024401709401709402,
+            "mixed_segments_with_any_hit": 7
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                416,
+                0
+              ],
+              [
+                0,
+                399,
+                0
+              ],
+              [
+                0,
+                146,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.41519250780437045,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 40,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                178,
+                238,
+                0
+              ],
+              [
+                138,
+                261,
+                0
+              ],
+              [
+                45,
+                101,
+                0
+              ]
+            ],
+            "recalls": [
+              0.42788461538461536,
+              0.6541353383458647,
+              0.0
+            ],
+            "macro_recall": 0.36067331791016,
+            "accuracy": 0.45681581685744016,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 40,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      },
+      "8": {
+        "total_centers": 1005,
+        "unknown_centers": 3,
+        "artifact_centers": 153,
+        "unknown_artifact_overlap": 2,
+        "labeled_clean_centers": 851,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                131,
+                216,
+                22
+              ],
+              [
+                123,
+                170,
+                26
+              ],
+              [
+                58,
+                94,
+                11
+              ]
+            ],
+            "recalls": [
+              0.35501355013550134,
+              0.5329153605015674,
+              0.06748466257668712
+            ],
+            "macro_recall": 0.31847119107125194,
+            "accuracy": 0.36662749706227965,
+            "mixed_precision": 0.1864406779661017,
+            "mixed_eligible_segments": 29,
+            "mixed_segment_equal_weight_recall": 0.06293103448275862,
+            "mixed_segments_with_any_hit": 7
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                369,
+                0
+              ],
+              [
+                0,
+                319,
+                0
+              ],
+              [
+                0,
+                163,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.37485311398354876,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 29,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                126,
+                243,
+                0
+              ],
+              [
+                120,
+                199,
+                0
+              ],
+              [
+                83,
+                80,
+                0
+              ]
+            ],
+            "recalls": [
+              0.34146341463414637,
+              0.6238244514106583,
+              0.0
+            ],
+            "macro_recall": 0.32176262201493494,
+            "accuracy": 0.381903642773208,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 29,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      },
+      "11": {
+        "total_centers": 1005,
+        "unknown_centers": 6,
+        "artifact_centers": 244,
+        "unknown_artifact_overlap": 0,
+        "labeled_clean_centers": 755,
+        "models": {
+          "eeg": {
+            "confusion_true_rows_pred_columns": [
+              [
+                107,
+                121,
+                14
+              ],
+              [
+                196,
+                181,
+                24
+              ],
+              [
+                48,
+                56,
+                8
+              ]
+            ],
+            "recalls": [
+              0.44214876033057854,
+              0.4513715710723192,
+              0.07142857142857142
+            ],
+            "macro_recall": 0.32164963427715637,
+            "accuracy": 0.3920529801324503,
+            "mixed_precision": 0.17391304347826086,
+            "mixed_eligible_segments": 30,
+            "mixed_segment_equal_weight_recall": 0.1311815635345047,
+            "mixed_segments_with_any_hit": 7
+          },
+          "majority": {
+            "confusion_true_rows_pred_columns": [
+              [
+                0,
+                242,
+                0
+              ],
+              [
+                0,
+                401,
+                0
+              ],
+              [
+                0,
+                112,
+                0
+              ]
+            ],
+            "recalls": [
+              0.0,
+              1.0,
+              0.0
+            ],
+            "macro_recall": 0.3333333333333333,
+            "accuracy": 0.5311258278145695,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 30,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          },
+          "time_only": {
+            "confusion_true_rows_pred_columns": [
+              [
+                104,
+                138,
+                0
+              ],
+              [
+                153,
+                248,
+                0
+              ],
+              [
+                43,
+                69,
+                0
+              ]
+            ],
+            "recalls": [
+              0.4297520661157025,
+              0.6184538653366584,
+              0.0
+            ],
+            "macro_recall": 0.34940197715078697,
+            "accuracy": 0.46622516556291393,
+            "mixed_precision": null,
+            "mixed_eligible_segments": 30,
+            "mixed_segment_equal_weight_recall": 0.0,
+            "mixed_segments_with_any_hit": 0
+          }
+        }
+      }
+    },
+    "pooled": {
+      "total_centers": 6030,
+      "unknown_centers": 15,
+      "artifact_centers": 655,
+      "unknown_artifact_overlap": 2,
+      "labeled_clean_centers": 5362,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              932,
+              1294,
+              167
+            ],
+            [
+              914,
+              1161,
+              158
+            ],
+            [
+              301,
+              393,
+              42
+            ]
+          ],
+          "recalls": [
+            0.38946928541579606,
+            0.5199283475145544,
+            0.057065217391304345
+          ],
+          "macro_recall": 0.3221542834405516,
+          "accuracy": 0.3981723237597911,
+          "mixed_precision": 0.11444141689373297,
+          "mixed_eligible_segments": 226,
+          "mixed_segment_equal_weight_recall": 0.042636096045778504,
+          "mixed_segments_with_any_hit": 30
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              2393,
+              0
+            ],
+            [
+              0,
+              2233,
+              0
+            ],
+            [
+              0,
+              736,
+              0
+            ]
+          ],
+          "recalls": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "macro_recall": 0.3333333333333333,
+          "accuracy": 0.4164490861618799,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 226,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              930,
+              1463,
+              0
+            ],
+            [
+              838,
+              1395,
+              0
+            ],
+            [
+              269,
+              467,
+              0
+            ]
+          ],
+          "recalls": [
+            0.38863351441704974,
+            0.6247201074787282,
+            0.0
+          ],
+          "macro_recall": 0.337784540631926,
+          "accuracy": 0.43360686311077956,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 226,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        }
+      }
+    }
+  }
+}

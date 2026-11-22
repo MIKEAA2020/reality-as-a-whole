@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 546 root Markdown documents including this register; 43 research Markdown documents.
+- 547 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 449 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -396,6 +396,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md](ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md) — Brief mixed reports: development result and frozen S02 test protocol
 - [ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md](ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md) — Frozen S09-to-S01 three-state EEG/report transfer plan
 - [ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md](ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md) — S09-trained EEG classifier tested on S01
+- [ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md](ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md) — S02 frozen report-center EEG transfer: results
 - [ROY_S08_FIXED_TRANSFER_PROTOCOL.md](ROY_S08_FIXED_TRANSFER_PROTOCOL.md) — Frozen S09-to-S08 EEG/report transfer protocol
 - [ROY_S08_FIXED_TRANSFER_RESULTS.md](ROY_S08_FIXED_TRANSFER_RESULTS.md) — Fixed S09-to-S08 EEG/report transfer: results and archive QC
 - [ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md](ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md) — Roy S09: three additional scans and a repeated report pattern

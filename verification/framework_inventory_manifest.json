@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "4f8e5946b318112ad83f8b68dc987df15ba220a2",
-  "file_count": 1730,
+  "base_head": "d8f76451a10025030966642787a2641c6dcb5b53",
+  "file_count": 1733,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 40181,
-      "sha256": "26b1772f7e8ad562378e5f4839261442dbc83e91153311160b61eefe865e4e2b"
+      "bytes": 40437,
+      "sha256": "7e70f3a56646b14384e2abda6cd879d98e1ab9f52ffca7197b673da0dc81ea7f"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 144407,
-      "sha256": "2ac76fb68995adf288e3920fefab6cce020f6f7a506bcf4f0bb3a6db7dc1f677"
+      "bytes": 144561,
+      "sha256": "436f29af7b754a3b8ffc3fbee54f7a22307dcfad52108171132605cd7072edea"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1925,8 +1925,8 @@
     },
     {
       "path": "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
-      "bytes": 11174,
-      "sha256": "7ffeb69041c2e5ae970e633f4608c67217344aa66d06a20c68b1bc1069a72e3f"
+      "bytes": 11380,
+      "sha256": "1018b2fae831ced966a661cb38b94740225da596774d52e2f6855d807ee90eae"
     },
     {
       "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
@@ -1937,6 +1937,11 @@
       "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
       "bytes": 10040,
       "sha256": "044b8aabd8a7fee4b9a160785ae347aeb049f0b2f4c1454292cb99b1d74cad96"
+    },
+    {
+      "path": "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
+      "bytes": 10208,
+      "sha256": "f9f963b2d0605fbc46c5155492d0a677e70785eaec4d7143ac20eaed449dd452"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -6725,8 +6730,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 719641,
-      "sha256": "64a74990cd881cbdde264e8f6dd7e0b29adb94de6612c38531ecbb2a139e0364"
+      "bytes": 721205,
+      "sha256": "71310a3b35fddac8110f4ebee2e39e2ba0e21446217f3d999345f969f0454448"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7207,6 +7212,16 @@
       "path": "verification/roy_s01_mixed_coverage_diagnostic_test.py",
       "bytes": 999,
       "sha256": "0f004ebdb1017515c2112ad1aaf31474c2099e90db72ce9d22b81628e307a043"
+    },
+    {
+      "path": "verification/roy_s02_dropbox_integrity_receipt.json",
+      "bytes": 1525,
+      "sha256": "d0e1cbcbfb4f446812c8c8bdfe3a1316de642e99b59e6a8047c005764f94b4f2"
+    },
+    {
+      "path": "verification/roy_s02_frozen_center_transfer.json",
+      "bytes": 18669,
+      "sha256": "c8b8d232f79a398461f24838e1eb2fe8b5d353bbc090c986fd0fa4a04ab41c2b"
     },
     {
       "path": "verification/roy_s02_frozen_center_transfer.py",
