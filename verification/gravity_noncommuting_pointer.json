@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "scope": "Exploratory numerical homogeneous spin-pointer scattering; not an orientation test, observation, or B7 pass.",
+  "parameters": {
+    "k_band": [
+      2,
+      2.01
+    ],
+    "initial_pointer": "Z=-1",
+    "amplitude": 0.8,
+    "pointer_energy_gap": 0.6,
+    "oscillator_energy": 0.3,
+    "right_whittaker_match": 1.6,
+    "left_jost_match": -1
+  },
+  "complete_ground_channel_packet_outcomes": {
+    "up": 0.27372901195693994,
+    "down": 0.7262709880440684
+  },
+  "complete_excited_channel_packet_outcomes": {
+    "up": 0.3431034758467424,
+    "down": 0.6568965241545729
+  },
+  "matched_reference_pointer_flip": 0.0,
+  "zero_gap_pointer_flip": 1.3504839419021289e-37,
+  "midband_flip": 0.2737297851630932,
+  "midband_unitarity_max_error": 1.6421277792061453e-12,
+  "midband_reference_vs_exact_morse_max_error": 1.0450422944681798e-10,
+  "midband_zero_gap_vs_exact_morse_max_error": 9.516342241266935e-11,
+  "midband_sign_reversal_matrix_error": 0.0,
+  "midband_solver_and_right_match_checks": [
+    {
+      "method": "DOP853",
+      "rtol": 1e-09,
+      "right_match": 1.1,
+      "flip": 0.2737297851284395,
+      "max_amplitude_difference": 1.59904568938066e-09
+    },
+    {
+      "method": "DOP853",
+      "rtol": 1e-11,
+      "right_match": 2.0,
+      "flip": 0.2737297851613921,
+      "max_amplitude_difference": 1.952376712937281e-11
+    },
+    {
+      "method": "RK45",
+      "rtol": 1e-10,
+      "right_match": 1.6,
+      "flip": 0.2737297851575231,
+      "max_amplitude_difference": 2.5279657798858156e-11
+    }
+  ],
+  "simpson_8_vs_16_panel_difference": 8.104628079763643e-15
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 606,
-  "bytes": 7535280,
-  "line_count": 66666,
-  "document_count_with_risk_phrases": 559,
+  "document_count": 607,
+  "bytes": 7547606,
+  "line_count": 66769,
+  "document_count_with_risk_phrases": 560,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4773,8 +4773,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5aef4657ed925690bcb1e9ab6e4b68674b2183a89e0b2546bd03d931661fdcbf",
-      "bytes": 45200,
+      "sha256": "6c8eeb4025642c940f7514c7414f81b10a3ef5f9a0be62f9400965ba534afd9a",
+      "bytes": 45383,
       "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4791,6 +4791,7 @@
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
         "GRAVITY_GRADIENT_POINTER_GATE.md",
+        "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -5073,9 +5074,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1345f9eb6fd9f210281452636cf95e30958f070a97b1008ec9aecef15a2224b4",
-      "bytes": 150282,
-      "lines": 1172,
+      "sha256": "8d54c9d28fdc09977eff184be77566c4bf3e991bd17205330bcf5507dd4b02e1",
+      "bytes": 150634,
+      "lines": 1175,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5263,6 +5264,7 @@
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
+        "GRAVITY_GRADIENT_POINTER_GATE.md",
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
         "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
@@ -5879,6 +5881,8 @@
         "verification/gravity_clock_complementarity.py",
         "verification/gravity_clock_duration_calibration.py",
         "verification/gravity_clock_duration_calibration_test.py",
+        "verification/gravity_gradient_pointer_gate.py",
+        "verification/gravity_gradient_pointer_gate_test.py",
         "verification/gravity_volume_clock_obstruction.py",
         "verification/gravity_volume_clock_obstruction_test.py",
         "verification/gravity_volume_jet_reconstruction.py",
@@ -6238,19 +6242,19 @@
         68,
         78,
         152,
-        210,
-        283,
-        312,
-        358,
-        388,
-        455,
-        551,
-        566,
-        602,
-        611,
-        614,
-        617,
-        681
+        211,
+        284,
+        313,
+        359,
+        389,
+        456,
+        552,
+        567,
+        603,
+        612,
+        615,
+        618,
+        682
       ]
     },
     {
@@ -6818,9 +6822,9 @@
     },
     {
       "path": "GRAVITY_GRADIENT_POINTER_GATE.md",
-      "sha256": "0a4f39c631f0580fbaeffc01d0661abeec002d701cf9c25158974582265fc3f7",
-      "bytes": 12994,
-      "lines": 120,
+      "sha256": "3fa04bfd23c2cd5ed92aca3420c201c7735dab3c7539850e328aa9554d7014a5",
+      "bytes": 13289,
+      "lines": 122,
       "title": "A source-coupled pointer that fails to record a gravitational turnaround",
       "headings": [
         "A source-coupled pointer that fails to record a gravitational turnaround",
@@ -6833,6 +6837,7 @@
       ],
       "local_links": [
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
+        "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
         "verification/gravity_gradient_pointer_gate.py",
         "verification/gravity_gradient_pointer_gate.json",
         "verification/gravity_gradient_pointer_gate_test.py"
@@ -6844,7 +6849,42 @@
         99,
         108,
         112,
-        118
+        120
+      ]
+    },
+    {
+      "path": "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
+      "sha256": "4b3b83c2b6dd8fd7935ae0410c27dad71f169f6f7e7acca60d0cc3fd5aa4ef71",
+      "bytes": 11496,
+      "lines": 98,
+      "title": "A noncommuting, gravitating pointer: a positive scattering signal, not yet a direction record",
+      "headings": [
+        "A noncommuting, gravitating pointer: a positive scattering signal, not yet a direction record",
+        "1. One specified source-coupled model",
+        "2. Why the previous exact cancellation no longer applies",
+        "3. Matched finite-packet test and complete outcomes",
+        "4. Exact tail matching and numerical controls",
+        "5. Why this does not establish a direction-reading clock"
+      ],
+      "local_links": [
+        "GRAVITY_GRADIENT_POINTER_GATE.md",
+        "GRAVITATING_PROPER_TIME_CLOCK.md",
+        "verification/gravity_noncommuting_pointer.py",
+        "verification/gravity_noncommuting_pointer.json",
+        "verification/gravity_noncommuting_pointer_test.py",
+        "verification/requirements-gravity-spin-pointer.txt",
+        "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        37,
+        44,
+        71,
+        75,
+        79,
+        80,
+        82,
+        84
       ]
     },
     {

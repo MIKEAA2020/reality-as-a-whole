@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 563 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 479 verification Python scripts.
+- 564 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 481 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -187,6 +187,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
 - [GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md](GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md) — Finite-range calibration of the existing gravitating clock
 - [GRAVITY_GRADIENT_POINTER_GATE.md](GRAVITY_GRADIENT_POINTER_GATE.md) — A source-coupled pointer that fails to record a gravitational turnaround
+- [GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md](GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md) — A noncommuting, gravitating pointer: a positive scattering signal, not yet a direction record
 - [GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md](GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md) — A volume-clock obstruction for the backreacting gravitational record
 - [GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md](GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md) — Reconstructing the backreacting gravity record from volume-boundary data
 - [HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md](HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md) — Hair, experience, and the intrinsic nature of reality
@@ -819,6 +820,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/gravity_clock_duration_calibration_test.py](verification/gravity_clock_duration_calibration_test.py)
 - [verification/gravity_gradient_pointer_gate.py](verification/gravity_gradient_pointer_gate.py)
 - [verification/gravity_gradient_pointer_gate_test.py](verification/gravity_gradient_pointer_gate_test.py)
+- [verification/gravity_noncommuting_pointer.py](verification/gravity_noncommuting_pointer.py)
+- [verification/gravity_noncommuting_pointer_test.py](verification/gravity_noncommuting_pointer_test.py)
 - [verification/gravity_volume_clock_obstruction.py](verification/gravity_volume_clock_obstruction.py)
 - [verification/gravity_volume_clock_obstruction_test.py](verification/gravity_volume_clock_obstruction_test.py)
 - [verification/gravity_volume_jet_reconstruction.py](verification/gravity_volume_jet_reconstruction.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "97f132a58ebb66c2fa1faf26803d33f69105cabb",
-  "file_count": 1794,
+  "base_head": "74fba8ed248f8494d5eae91609e95427c7fcad7f",
+  "file_count": 1799,
   "files": [
     {
       "path": ".gitattributes",
@@ -755,8 +755,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 45200,
-      "sha256": "5aef4657ed925690bcb1e9ab6e4b68674b2183a89e0b2546bd03d931661fdcbf"
+      "bytes": 45383,
+      "sha256": "6c8eeb4025642c940f7514c7414f81b10a3ef5f9a0be62f9400965ba534afd9a"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -790,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 150634,
-      "sha256": "8d54c9d28fdc09977eff184be77566c4bf3e991bd17205330bcf5507dd4b02e1"
+      "bytes": 151023,
+      "sha256": "c2b63c01ef591030d18b988dcc14c07ddc9f025c5b04972be47c062894d9e21b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -885,8 +885,13 @@
     },
     {
       "path": "GRAVITY_GRADIENT_POINTER_GATE.md",
-      "bytes": 12994,
-      "sha256": "0a4f39c631f0580fbaeffc01d0661abeec002d701cf9c25158974582265fc3f7"
+      "bytes": 13289,
+      "sha256": "3fa04bfd23c2cd5ed92aca3420c201c7735dab3c7539850e328aa9554d7014a5"
+    },
+    {
+      "path": "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
+      "bytes": 11496,
+      "sha256": "4b3b83c2b6dd8fd7935ae0410c27dad71f169f6f7e7acca60d0cc3fd5aa4ef71"
     },
     {
       "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
@@ -5579,6 +5584,21 @@
       "sha256": "c3119cd5c2dfea01666297dc9d352f198ae1a2e3aa338b7444d7b79472b71d01"
     },
     {
+      "path": "verification/gravity_noncommuting_pointer.json",
+      "bytes": 1626,
+      "sha256": "6a60de9390cab9aa468661aec4d1b016cfa5b20f648f943bbe4dacc84dc8a298"
+    },
+    {
+      "path": "verification/gravity_noncommuting_pointer.py",
+      "bytes": 6812,
+      "sha256": "653d7fc45f64b7a418bea2da9572bf6441d0e27e11e6ef9d9cc18104b52d3227"
+    },
+    {
+      "path": "verification/gravity_noncommuting_pointer_test.py",
+      "bytes": 2199,
+      "sha256": "60f075f20626439570f7df703b35998db930b7debedcac9774c2a5d25804ae9d"
+    },
+    {
       "path": "verification/gravity_volume_clock_obstruction.json",
       "bytes": 1512,
       "sha256": "8a603e22bdea0c131c41c672f438b83a83e705e5c9f1f0c898511cb25dd90430"
@@ -6975,8 +6995,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 744316,
-      "sha256": "db2684f5a952be888a006fb88d79c30f99ddd51f4c59f289ce4e09d4a0b511cb"
+      "bytes": 745892,
+      "sha256": "5b9dccac6e99f66f35196e7b0224af304edfeb41d469d55299fb84067d162997"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7292,6 +7312,11 @@
       "path": "verification/requirements-framework-battery.txt",
       "bytes": 95,
       "sha256": "feadceae6f85ddd77b7ce8c6cc8c749148d3aad41c504d1f4f7ac7b7de802eab"
+    },
+    {
+      "path": "verification/requirements-gravity-spin-pointer.txt",
+      "bytes": 110,
+      "sha256": "210d2800fb929e05850ee421fe24ea8907b75e2c744f358ba72552c6920e46bc"
     },
     {
       "path": "verification/requirements-rivalry-okn.txt",
