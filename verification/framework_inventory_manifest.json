@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "042d20a72a3f7e0ca0dc3322f7eda60acb8673e7",
-  "file_count": 1807,
+  "base_head": "bccc22c21d0f365082c53b45e558da1397fb38df",
+  "file_count": 1811,
   "files": [
     {
       "path": ".gitattributes",
@@ -280,8 +280,8 @@
     },
     {
       "path": "CLUES_CROSS_PROJECT_ASSESSMENT.md",
-      "bytes": 15812,
-      "sha256": "fe1693ba1d09e76493583d74397938b846c10d3365c742c162521bc432b04a0c"
+      "bytes": 16072,
+      "sha256": "16220a86e30ef0b833f4a2ecf569cc9e0101e1c4a78949c7a19da9c3e482ed52"
     },
     {
       "path": "COLD_ATOM_CLOCK_COMPARISON.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 45764,
-      "sha256": "d8f2b1bdcfc2f19066d03cd2fc9482b01f2b984a1974fb01ced1d4e86a28edad"
+      "bytes": 46078,
+      "sha256": "a902161811942c2afbd452228cb668a1b5425c2438248802551f1b0acada50d7"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -800,8 +800,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 151682,
-      "sha256": "320fb4c8c5f08b32d77c62e2d1bffb13c1b28eda1f33235869c447ebe4eaa0bf"
+      "bytes": 152044,
+      "sha256": "c8615b20dd7680fd131223dfb28f4e682f896112b972a805e00f2b8941165312"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1232,6 +1232,11 @@
       "path": "LICENSE",
       "bytes": 1067,
       "sha256": "ad6eee64a46bf630e43fe974071621f4bc6beffd315026fc28dc274898feaf9c"
+    },
+    {
+      "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
+      "bytes": 13913,
+      "sha256": "57475f7be74e3faa6179c9847c53cebe7f41d2220c7f5191f5bafae2e58aac0f"
     },
     {
       "path": "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -6214,6 +6219,21 @@
       "sha256": "d11db9dd8d7887e200276b47f09b7c59dbba9cd1ebb6511c6ade7ff97932972a"
     },
     {
+      "path": "verification/lighthouse_trace_time_check.json",
+      "bytes": 718,
+      "sha256": "f57d5db4d6d2f1989d6b6078b57cfad0867780b0b2af879a377d0831dda5479e"
+    },
+    {
+      "path": "verification/lighthouse_trace_time_check.py",
+      "bytes": 3324,
+      "sha256": "70853f7af925d5d886710f7d3880a25ffa85b050f36b557cc26fdd8da63f75ba"
+    },
+    {
+      "path": "verification/lighthouse_trace_time_check_test.py",
+      "bytes": 1401,
+      "sha256": "453f4f515e1c006ab21dbfe810c3dba6d6e0f6764453c51f9372be132a39ad54"
+    },
+    {
       "path": "verification/linearized_lattice_curvature.json",
       "bytes": 974,
       "sha256": "30945e44c5cd2c344f6f8eb2b2420c2e4af05d471b14f34a5fb96f9c21617faf"
@@ -7035,8 +7055,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 748676,
-      "sha256": "3fee99e8e6c37478309431a99951a1313c4ff57ac6e71678bc71d4a253240012"
+      "bytes": 750323,
+      "sha256": "d846f1ebb134947a242eb39d42e048143e6e756b2d6a675026c2a1374109cb17"
     },
     {
       "path": "verification/project_inventory.py",

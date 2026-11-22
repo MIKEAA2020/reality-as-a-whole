@@ -1,5 +1,7 @@
 # Cross-project assessment: the `arena-max--physics` clues
 
+**Follow-up:** the separately linked [Lighthouse v2.2 document assessment](LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md) reads that document in full and sharpens the trace/modular-flow issue. It does not supersede the source and proof-audit limits recorded here.
+
 **Source snapshot:** [`clues/` at commit `703239cb9849bec4e2d23a414db63d500be4ad2e`](https://github.com/MIKEAA2020/arena-max--physics/tree/703239cb9849bec4e2d23a414db63d500be4ad2e/clues), accessed 6 November 2026. This is the user's linked repository, not independent confirmation of its contents. The source repository identifies substantial AI-assisted work. Its own [publication scope](https://github.com/MIKEAA2020/arena-max--physics/blob/703239cb9849bec4e2d23a414db63d500be4ad2e/PUBLICATION-SCOPE.md) distinguishes working outputs, reproduction inputs and outstanding audit requirements.
 
 **Method and limits:** inventoried all 15 files in the linked directory, read the short clue files and selected sections, headings and abstracts of the three largest manuscripts, and inspected related assessment material. I did not audit the long manuscripts line by line, run their verification suites, independently verify their references or reproduce their numerics. A source's label “theorem,” its reported check count and a published DOI are not themselves independent verification. The two HTML visualizers were inventoried, not executed. This is an initial triage and interface proposal, not certification of the repository.

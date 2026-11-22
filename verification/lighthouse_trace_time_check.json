@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "scope": "Finite matrix controls only; not type-II gravity or a solution of time.",
+  "state_density_relative_to_standard_trace": [
+    0.75,
+    0.25
+  ],
+  "trace_density_relative_to_standard_trace": [
+    0.5,
+    0.5
+  ],
+  "selected_modular_parameter": 1.4298004336900634,
+  "trace_modular_flow_fixes_X": true,
+  "nontracial_modular_flow_X_off_diagonal": [
+    2.7755575615628914e-16,
+    0.9999999999999999
+  ],
+  "nontracial_state_is_stationary": true,
+  "sample_state_entropy_before": 0.589514485735048,
+  "sample_state_entropy_after": 0.5895144857350482,
+  "distinct_commutative_states_same_trivial_flow": [
+    [
+      0.75,
+      0.25
+    ],
+    [
+      0.5,
+      0.5
+    ]
+  ]
+}

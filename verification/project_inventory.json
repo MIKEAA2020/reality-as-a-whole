@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 609,
-  "bytes": 7572753,
-  "line_count": 66983,
-  "document_count_with_risk_phrases": 562,
+  "document_count": 610,
+  "bytes": 7587586,
+  "line_count": 67056,
+  "document_count_with_risk_phrases": 563,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1626,9 +1626,9 @@
     },
     {
       "path": "CLUES_CROSS_PROJECT_ASSESSMENT.md",
-      "sha256": "fe1693ba1d09e76493583d74397938b846c10d3365c742c162521bc432b04a0c",
-      "bytes": 15812,
-      "lines": 49,
+      "sha256": "16220a86e30ef0b833f4a2ecf569cc9e0101e1c4a78949c7a19da9c3e482ed52",
+      "bytes": 16072,
+      "lines": 51,
       "title": "Cross-project assessment: the `arena-max--physics` clues",
       "headings": [
         "Cross-project assessment: the `arena-max--physics` clues",
@@ -1638,6 +1638,7 @@
         "4. Next work, in dependency order"
       ],
       "local_links": [
+        "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "PROJECT_COHERENCE_AUDIT.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "TIME_RESEARCH_ROADMAP.md",
@@ -1652,9 +1653,9 @@
         "WDW_INTERFACE_CORRECTIONS.md"
       ],
       "risk_phrase_lines": [
-        23,
         25,
-        39
+        27,
+        41
       ]
     },
     {
@@ -4836,9 +4837,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d8f2b1bdcfc2f19066d03cd2fc9482b01f2b984a1974fb01ced1d4e86a28edad",
-      "bytes": 45764,
-      "lines": 179,
+      "sha256": "a902161811942c2afbd452228cb668a1b5425c2438248802551f1b0acada50d7",
+      "bytes": 46078,
+      "lines": 181,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4850,6 +4851,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
@@ -4940,27 +4942,27 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        15,
+        7,
         17,
-        35,
+        19,
         37,
-        41,
-        51,
-        55,
-        61,
+        39,
+        43,
+        53,
+        57,
         63,
-        77,
-        81,
-        93,
-        101,
+        65,
+        79,
+        83,
+        95,
         103,
-        107,
-        123,
-        133,
-        150,
-        167,
-        173
+        105,
+        109,
+        125,
+        135,
+        152,
+        169,
+        175
       ]
     },
     {
@@ -5139,9 +5141,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b06dfa067dd4894041ebcd91870c130735f6136bb3f630a942fcd8c31b908e96",
-      "bytes": 151336,
-      "lines": 1181,
+      "sha256": "320fb4c8c5f08b32d77c62e2d1bffb13c1b28eda1f33235869c447ebe4eaa0bf",
+      "bytes": 151682,
+      "lines": 1184,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5266,6 +5268,7 @@
         "DUE_REGARD_ARGUMENT.md",
         "DUST_CLOCK_RECORD.md",
         "DUST_ORIENTATION_RECORD.md",
+        "DUST_UNSHARP_VOLUME_ORIENTATION.md",
         "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
         "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
         "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
@@ -5903,6 +5906,8 @@
         "verification/dust_clock_record.py",
         "verification/dust_orientation_record.py",
         "verification/dust_orientation_record_test.py",
+        "verification/dust_unsharp_volume_orientation.py",
+        "verification/dust_unsharp_volume_orientation_test.py",
         "verification/eeg_baseline_deviation_valence_gate.py",
         "verification/eeg_baseline_deviation_valence_gate_test.py",
         "verification/energy_conditions_bounce.py",
@@ -6312,20 +6317,20 @@
         61,
         68,
         78,
-        153,
-        213,
-        286,
-        315,
-        361,
-        391,
-        458,
-        554,
-        569,
-        605,
-        614,
-        617,
-        620,
-        684
+        154,
+        214,
+        287,
+        316,
+        362,
+        392,
+        459,
+        555,
+        570,
+        606,
+        615,
+        618,
+        621,
+        685
       ]
     },
     {
@@ -8896,6 +8901,41 @@
       "risk_phrase_lines": [
         53,
         75
+      ]
+    },
+    {
+      "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
+      "sha256": "57475f7be74e3faa6179c9847c53cebe7f41d2220c7f5191f5bafae2e58aac0f",
+      "bytes": 13913,
+      "lines": 66,
+      "title": "Lighthouse v2.2: comparison with the framework, battery and time programme",
+      "headings": [
+        "Lighthouse v2.2: comparison with the framework, battery and time programme",
+        "Scope and verdict",
+        "1. The two metaphysical frameworks",
+        "2. Conjecture M: the trace/modular-flow fork",
+        "3. Arrow, probability and categorical claims",
+        "4. What changes for the formal battery?",
+        "5. Concrete next tests, without assuming the conjecture"
+      ],
+      "local_links": [
+        "CLUES_CROSS_PROJECT_ASSESSMENT.md",
+        "ZERO_RESIDUE_CLAIM_CORRECTION.md",
+        "verification/lighthouse_trace_time_check.py",
+        "verification/lighthouse_trace_time_check_test.py",
+        "verification/lighthouse_trace_time_check.json",
+        "RELATIONAL_MODULAR_CLOCK.md",
+        "FRW_MODULAR_CLOCK.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
+        "DUST_UNSHARP_VOLUME_ORIENTATION.md",
+        "TIME_RESEARCH_ROADMAP.md",
+        "CLUES_CROSS_PROJECT_ASSESSMENT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        15,
+        33
       ]
     },
     {
