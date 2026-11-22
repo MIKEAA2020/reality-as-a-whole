@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "538e4504cbed10ec79652a34a467af8fb2d6803a",
-  "file_count": 1716,
+  "base_head": "c98216788f7ec20ff858591b03b86f490dcc5ad6",
+  "file_count": 1724,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 39557,
-      "sha256": "903b9452a8e2fbf5ad9649e3997b81120061f6db7665c6c776e987bb60d233a1"
+      "bytes": 39864,
+      "sha256": "7369f1cb74d3e4bfc56cfca198a7f6cf5d8a35f7b6e669bbfaef9597052f650b"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 143013,
-      "sha256": "d8c5ec8e8f44cdfa35ec453c112ad31f86b74fdefa5752b8d87ed375f4ee3666"
+      "bytes": 143793,
+      "sha256": "3d7b737971656b1e3604f22397620d0dd41b9783cf902d77b83dd3ec2efa45d3"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1922,6 +1922,16 @@
       "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
       "bytes": 7136,
       "sha256": "c5c4a321a332b3e7a16dd430a2bf10b9b3c81fd772092eac967cc31b6f925971"
+    },
+    {
+      "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
+      "bytes": 3067,
+      "sha256": "4aa1a93a646b340ee22683e31385de7c504911b4949646de98faf0e43a8eead5"
+    },
+    {
+      "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
+      "bytes": 10040,
+      "sha256": "044b8aabd8a7fee4b9a160785ae347aeb049f0b2f4c1454292cb99b1d74cad96"
     },
     {
       "path": "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
@@ -6710,8 +6720,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 715999,
-      "sha256": "e93ce137b851c6136548bd1e6ca23f5a41a373f165fb5ef6bad91118c588207e"
+      "bytes": 718511,
+      "sha256": "93507ec720925f61760ef1ab9897a3faf64da996d095c715d0607afb9b99783e"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7147,6 +7157,36 @@
       "path": "verification/roy_mri_pair_inventory_test.py",
       "bytes": 1476,
       "sha256": "3e72f48426fd93ca87f5594afddd6c3e67716c9fc8dc8169078745cc587ce7b3"
+    },
+    {
+      "path": "verification/roy_s01_frozen_three_state_transfer.json",
+      "bytes": 19861,
+      "sha256": "0ed71c5b4517e179b4c7d252512d7625462aea527b14241cce8bd2d93da7dcbf"
+    },
+    {
+      "path": "verification/roy_s01_frozen_three_state_transfer.py",
+      "bytes": 4071,
+      "sha256": "1c4bf93cf37fd412f4e1aa98cc173913a6093d5515f98a7fe42f0ee45ae4ebfc"
+    },
+    {
+      "path": "verification/roy_s01_frozen_three_state_transfer_test.py",
+      "bytes": 2421,
+      "sha256": "be0d356ee138e605465756b319605b58ab7fb4742e4b1c75919e59bd49ad25a1"
+    },
+    {
+      "path": "verification/roy_s01_mixed_coverage_diagnostic.json",
+      "bytes": 3320,
+      "sha256": "0af3f42188a5e3aca88f48e6bea7c35c053832a8073d0373f2e2d0585ca8e8b0"
+    },
+    {
+      "path": "verification/roy_s01_mixed_coverage_diagnostic.py",
+      "bytes": 3590,
+      "sha256": "7f7db2cc9b9380410be56b0e211503c43c65510084b3c6ab44fe0214a9b33382"
+    },
+    {
+      "path": "verification/roy_s01_mixed_coverage_diagnostic_test.py",
+      "bytes": 999,
+      "sha256": "0f004ebdb1017515c2112ad1aaf31474c2099e90db72ce9d22b81628e307a043"
     },
     {
       "path": "verification/roy_s08_fixed_transfer.json",

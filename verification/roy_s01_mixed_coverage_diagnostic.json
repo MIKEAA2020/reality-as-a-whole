@@ -1,0 +1,133 @@
+{
+  "scope": "Post-test descriptive report-code coverage, same provisional carry-forward reconstruction; no accuracy, experience, or tuning.",
+  "per_scan": {
+    "1": {
+      "event_counts_within_trial": {
+        "1": 45,
+        "2": 47,
+        "3": 85
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 4.6,
+        "1": 96.508,
+        "2": 100.128,
+        "3": 8.764
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 82,
+      "windows_mixed_at_least_50pct": 0,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.36
+    },
+    "3": {
+      "event_counts_within_trial": {
+        "1": 45,
+        "2": 46,
+        "3": 86
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 3.604,
+        "1": 89.088,
+        "2": 104.004,
+        "3": 13.304
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 84,
+      "windows_mixed_at_least_50pct": 0,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.382
+    },
+    "5": {
+      "event_counts_within_trial": {
+        "1": 50,
+        "2": 50,
+        "3": 95
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 3.26,
+        "1": 88.32,
+        "2": 98.372,
+        "3": 20.048
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 90,
+      "windows_mixed_at_least_50pct": 1,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.584
+    },
+    "7": {
+      "event_counts_within_trial": {
+        "1": 48,
+        "2": 50,
+        "3": 94
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 4.592,
+        "1": 91.552,
+        "2": 97.516,
+        "3": 16.34
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 89,
+      "windows_mixed_at_least_50pct": 0,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.296
+    },
+    "10": {
+      "event_counts_within_trial": {
+        "1": 46,
+        "2": 43,
+        "3": 84
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 3.516,
+        "1": 95.02,
+        "2": 97.072,
+        "3": 14.392
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 79,
+      "windows_mixed_at_least_50pct": 0,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.408
+    },
+    "12": {
+      "event_counts_within_trial": {
+        "1": 42,
+        "2": 42,
+        "3": 79
+      },
+      "total_trial_samples": 52500,
+      "time_by_report_code_seconds": {
+        "0": 3.204,
+        "1": 93.0,
+        "2": 103.68,
+        "3": 10.116
+      },
+      "windows": 105,
+      "windows_with_any_mixed": 79,
+      "windows_mixed_at_least_50pct": 0,
+      "windows_mixed_at_least_75pct": 0,
+      "max_mixed_fraction_of_any_window": 0.266
+    }
+  },
+  "pooled": {
+    "total_trial_samples": 315000,
+    "time_by_report_code_seconds": {
+      "0": 22.776,
+      "1": 553.488,
+      "2": 600.772,
+      "3": 82.964
+    },
+    "windows": 630,
+    "windows_with_any_mixed": 503,
+    "windows_mixed_at_least_50pct": 1,
+    "windows_mixed_at_least_75pct": 0,
+    "max_mixed_fraction_of_any_window": 0.584
+  }
+}

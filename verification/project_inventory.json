@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 586,
-  "bytes": 7272390,
-  "line_count": 64963,
-  "document_count_with_risk_phrases": 541,
+  "document_count": 588,
+  "bytes": 7287124,
+  "line_count": 65055,
+  "document_count_with_risk_phrases": 543,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "903b9452a8e2fbf5ad9649e3997b81120061f6db7665c6c776e987bb60d233a1",
-      "bytes": 39557,
+      "sha256": "7369f1cb74d3e4bfc56cfca198a7f6cf5d8a35f7b6e669bbfaef9597052f650b",
+      "bytes": 39864,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2860,6 +2860,7 @@
         "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
         "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
         "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
+        "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4891,9 +4892,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4dfda8a858033a4942e273301b136c603870104674bdeeb1b1a9f9c6edb66ed6",
-      "bytes": 142473,
-      "lines": 1113,
+      "sha256": "3d7b737971656b1e3604f22397620d0dd41b9783cf902d77b83dd3ec2efa45d3",
+      "bytes": 143793,
+      "lines": 1123,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5288,6 +5289,8 @@
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
+        "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -5305,6 +5308,8 @@
         "ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md",
         "ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md",
         "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
         "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
         "SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
@@ -5857,6 +5862,10 @@
         "verification/roof_duality_robust_boundary_gate.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
+        "verification/roy_s01_frozen_three_state_transfer.py",
+        "verification/roy_s01_frozen_three_state_transfer_test.py",
+        "verification/roy_s01_mixed_coverage_diagnostic.py",
+        "verification/roy_s01_mixed_coverage_diagnostic_test.py",
         "verification/roy_s08_fixed_transfer.py",
         "verification/roy_s08_fixed_transfer_test.py",
         "verification/roy_s08_mri_qc.py",
@@ -5887,6 +5896,8 @@
         "verification/roy_s09_scan1_offset_sensitivity.py",
         "verification/roy_s09_scan1_offset_sensitivity_test.py",
         "verification/roy_s09_scan_inspection.py",
+        "verification/roy_s09_three_state_pilot.py",
+        "verification/roy_s09_three_state_pilot_test.py",
         "verification/roy_s09_two_scan_offset_comparison.py",
         "verification/roy_s09_two_scan_offset_comparison_test.py",
         "verification/roy_structural_pair_inventory.py",
@@ -6002,14 +6013,14 @@
         302,
         348,
         377,
-        436,
-        530,
-        545,
-        581,
-        590,
-        593,
-        596,
-        660
+        440,
+        534,
+        549,
+        585,
+        594,
+        597,
+        600,
+        664
       ]
     },
     {
@@ -13049,6 +13060,54 @@
         31,
         37,
         41
+      ]
+    },
+    {
+      "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
+      "sha256": "4aa1a93a646b340ee22683e31385de7c504911b4949646de98faf0e43a8eead5",
+      "bytes": 3067,
+      "lines": 11,
+      "title": "Frozen S09-to-S01 three-state EEG/report transfer plan",
+      "headings": [
+        "Frozen S09-to-S01 three-state EEG/report transfer plan"
+      ],
+      "local_links": [
+        "verification/roy_s09_three_state_pilot.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9
+      ]
+    },
+    {
+      "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
+      "sha256": "044b8aabd8a7fee4b9a160785ae347aeb049f0b2f4c1454292cb99b1d74cad96",
+      "bytes": 10040,
+      "lines": 71,
+      "title": "S09-trained EEG classifier tested on S01",
+      "headings": [
+        "S09-trained EEG classifier tested on S01",
+        "Result",
+        "1. Files and integrity",
+        "2. Frozen test",
+        "3. Why the mixed class was absent from the score",
+        "4. What this does and does not establish",
+        "5. Reproduction and checks"
+      ],
+      "local_links": [
+        "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
+        "verification/roy_s01_mixed_coverage_diagnostic.json",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
+        "verification/roy_s01_frozen_three_state_transfer.py",
+        "verification/roy_s01_frozen_three_state_transfer.json",
+        "verification/roy_s01_mixed_coverage_diagnostic.py",
+        "verification/roy_s01_mixed_coverage_diagnostic.json",
+        "verification/roy_s01_frozen_three_state_transfer_test.py",
+        "verification/roy_s01_mixed_coverage_diagnostic_test.py"
+      ],
+      "risk_phrase_lines": [
+        13
       ]
     },
     {
