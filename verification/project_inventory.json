@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 605,
-  "bytes": 7521413,
-  "line_count": 66543,
-  "document_count_with_risk_phrases": 558,
+  "document_count": 606,
+  "bytes": 7535280,
+  "line_count": 66666,
+  "document_count_with_risk_phrases": 559,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4773,8 +4773,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4a63b31a8d91432b78efcded198543286cbaea8bf0c33f11c19dab7cca8ca5fc",
-      "bytes": 44997,
+      "sha256": "5aef4657ed925690bcb1e9ab6e4b68674b2183a89e0b2546bd03d931661fdcbf",
+      "bytes": 45200,
       "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4790,6 +4790,7 @@
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
+        "GRAVITY_GRADIENT_POINTER_GATE.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -5072,9 +5073,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5510e2906fd21f61456cd0e9b03c8c26ec8ae683580062f8bdbad9698d2fbada",
-      "bytes": 149886,
-      "lines": 1169,
+      "sha256": "1345f9eb6fd9f210281452636cf95e30958f070a97b1008ec9aecef15a2224b4",
+      "bytes": 150282,
+      "lines": 1172,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5263,6 +5264,7 @@
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
+        "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
         "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "HAMILTONIAN_CLOCK_DETECTOR.md",
@@ -5879,6 +5881,8 @@
         "verification/gravity_clock_duration_calibration_test.py",
         "verification/gravity_volume_clock_obstruction.py",
         "verification/gravity_volume_clock_obstruction_test.py",
+        "verification/gravity_volume_jet_reconstruction.py",
+        "verification/gravity_volume_jet_reconstruction_test.py",
         "verification/ground_support_factorization_gate.py",
         "verification/halliwell_green_coefficient_gate.py",
         "verification/halliwell_unordered_and_relational_records_gate.py",
@@ -6234,19 +6238,19 @@
         68,
         78,
         152,
-        209,
-        282,
-        311,
-        357,
-        387,
-        454,
-        550,
-        565,
-        601,
-        610,
-        613,
-        616,
-        680
+        210,
+        283,
+        312,
+        358,
+        388,
+        455,
+        551,
+        566,
+        602,
+        611,
+        614,
+        617,
+        681
       ]
     },
     {
@@ -6813,6 +6817,37 @@
       ]
     },
     {
+      "path": "GRAVITY_GRADIENT_POINTER_GATE.md",
+      "sha256": "0a4f39c631f0580fbaeffc01d0661abeec002d701cf9c25158974582265fc3f7",
+      "bytes": 12994,
+      "lines": 120,
+      "title": "A source-coupled pointer that fails to record a gravitational turnaround",
+      "headings": [
+        "A source-coupled pointer that fails to record a gravitational turnaround",
+        "1. Action, source and comparison",
+        "2. Classical pointer comparison across both crossings",
+        "3. Exact quantum cancellation on the physical sector",
+        "4. A complete pointer-and-Ramsey boundary readout",
+        "5. What could evade the failure, and what would count",
+        "6. Checks and battery status"
+      ],
+      "local_links": [
+        "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
+        "verification/gravity_gradient_pointer_gate.py",
+        "verification/gravity_gradient_pointer_gate.json",
+        "verification/gravity_gradient_pointer_gate_test.py"
+      ],
+      "risk_phrase_lines": [
+        3,
+        60,
+        73,
+        99,
+        108,
+        112,
+        118
+      ]
+    },
+    {
       "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
       "sha256": "3638f752797ae38452a7e00375dc5995bd4608d99e712574696e5e1761b22227",
       "bytes": 13832,
@@ -6846,8 +6881,8 @@
     },
     {
       "path": "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
-      "sha256": "20ba4fc948b30d83fd856d0168d9208c7de4f19625698b6d8bd09790459f40ae",
-      "bytes": 12395,
+      "sha256": "40e773153c64c7b30f6c25a71dfae6be16f081931f38dc7973825bddf249961b",
+      "bytes": 12669,
       "lines": 107,
       "title": "Reconstructing the backreacting gravity record from volume-boundary data",
       "headings": [
@@ -6864,7 +6899,8 @@
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "verification/gravity_volume_jet_reconstruction.py",
         "verification/gravity_volume_jet_reconstruction.json",
-        "verification/gravity_volume_jet_reconstruction_test.py"
+        "verification/gravity_volume_jet_reconstruction_test.py",
+        "GRAVITY_GRADIENT_POINTER_GATE.md"
       ],
       "risk_phrase_lines": [
         5,

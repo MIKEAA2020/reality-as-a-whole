@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f2fe032e789a9f527bf87709f03bf8b4bf35511e",
-  "file_count": 1790,
+  "base_head": "97f132a58ebb66c2fa1faf26803d33f69105cabb",
+  "file_count": 1794,
   "files": [
     {
       "path": ".gitattributes",
@@ -755,8 +755,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 44997,
-      "sha256": "4a63b31a8d91432b78efcded198543286cbaea8bf0c33f11c19dab7cca8ca5fc"
+      "bytes": 45200,
+      "sha256": "5aef4657ed925690bcb1e9ab6e4b68674b2183a89e0b2546bd03d931661fdcbf"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -790,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 150282,
-      "sha256": "1345f9eb6fd9f210281452636cf95e30958f070a97b1008ec9aecef15a2224b4"
+      "bytes": 150634,
+      "sha256": "8d54c9d28fdc09977eff184be77566c4bf3e991bd17205330bcf5507dd4b02e1"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -884,14 +884,19 @@
       "sha256": "67749cf66dcbad55234fe7c0b5c75c46eeed300c9853a3d5995326a008dea0b6"
     },
     {
+      "path": "GRAVITY_GRADIENT_POINTER_GATE.md",
+      "bytes": 12994,
+      "sha256": "0a4f39c631f0580fbaeffc01d0661abeec002d701cf9c25158974582265fc3f7"
+    },
+    {
       "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
       "bytes": 13832,
       "sha256": "3638f752797ae38452a7e00375dc5995bd4608d99e712574696e5e1761b22227"
     },
     {
       "path": "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
-      "bytes": 12395,
-      "sha256": "20ba4fc948b30d83fd856d0168d9208c7de4f19625698b6d8bd09790459f40ae"
+      "bytes": 12669,
+      "sha256": "40e773153c64c7b30f6c25a71dfae6be16f081931f38dc7973825bddf249961b"
     },
     {
       "path": "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
@@ -5559,6 +5564,21 @@
       "sha256": "c26735f4c1d1756bd60fd0031933088b94e890351b78e53f2abc9108a7650464"
     },
     {
+      "path": "verification/gravity_gradient_pointer_gate.json",
+      "bytes": 2854,
+      "sha256": "42ff70ba70f285a3d49e179f122e6cc1553f20d2cf8755afebb5a945a83841f4"
+    },
+    {
+      "path": "verification/gravity_gradient_pointer_gate.py",
+      "bytes": 7595,
+      "sha256": "fc9ce8a3f34b4dec731b94b088a7a2edca7c04d5c7fed00ec32bf00afe3cb204"
+    },
+    {
+      "path": "verification/gravity_gradient_pointer_gate_test.py",
+      "bytes": 2263,
+      "sha256": "c3119cd5c2dfea01666297dc9d352f198ae1a2e3aa338b7444d7b79472b71d01"
+    },
+    {
       "path": "verification/gravity_volume_clock_obstruction.json",
       "bytes": 1512,
       "sha256": "8a603e22bdea0c131c41c672f438b83a83e705e5c9f1f0c898511cb25dd90430"
@@ -6955,8 +6975,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 742923,
-      "sha256": "4f8833f31dbebcec97191461bc3fc71d1f35b22822cc7595c741b62a9fb88054"
+      "bytes": 744316,
+      "sha256": "db2684f5a952be888a006fb88d79c30f99ddd51f4c59f289ce4e09d4a0b511cb"
     },
     {
       "path": "verification/project_inventory.py",

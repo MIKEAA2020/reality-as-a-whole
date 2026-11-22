@@ -1,0 +1,98 @@
+{
+  "status": "passed",
+  "scope": "Exact cancellation for one source-accounted pure-gradient coupling, not a universal detector no-go or a B7 pass.",
+  "max_covariant_morse_ode_residual": 9.665819432848932e-16,
+  "classical_example": {
+    "k": 2.0,
+    "pointer_momentum": 0.4,
+    "pointer_mass": 1.3,
+    "kappa_including_pointer_energy": 0.241025641025641,
+    "turning_volume": 2.255496628563516,
+    "chosen_volume": 0.7788007830714049,
+    "scalar_crossing_times": [
+      -1.6378510642319866,
+      1.6378510642319866
+    ],
+    "extra_pointer_shift_at_crossings": [
+      -0.2201660154856272,
+      -0.22016601532160276
+    ],
+    "extra_pointer_shift_full_cycle": 1.6308244976324428e-17,
+    "max_trajectory_shift_error": 1.3854278997769685e-09,
+    "samples": [
+      {
+        "scalar_T": -4.0,
+        "x": -2.616859505241596,
+        "direction": 1,
+        "extra_pointer_shift": 0.0,
+        "minus_G": -0.0
+      },
+      {
+        "scalar_T": -2.0,
+        "x": -0.606745857645256,
+        "direction": 1,
+        "extra_pointer_shift": -0.044289871128806606,
+        "minus_G": -0.04428987111709189
+      },
+      {
+        "scalar_T": -0.8,
+        "x": 0.48890177724856676,
+        "direction": 1,
+        "extra_pointer_shift": -0.7124363304212098,
+        "minus_G": -0.7124363303789896
+      },
+      {
+        "scalar_T": 0.0,
+        "x": 0.8133701831028449,
+        "direction": 0,
+        "extra_pointer_shift": -0.7943754753902313,
+        "minus_G": -0.7943754753750476
+      },
+      {
+        "scalar_T": 0.8,
+        "x": 0.48890177724856676,
+        "direction": -1,
+        "extra_pointer_shift": -0.7124363302458966,
+        "minus_G": -0.7124363303789896
+      },
+      {
+        "scalar_T": 2.0,
+        "x": -0.606745857645256,
+        "direction": -1,
+        "extra_pointer_shift": -0.044289871567981365,
+        "minus_G": -0.04428987111709189
+      },
+      {
+        "scalar_T": 4.0,
+        "x": -2.616859505241596,
+        "direction": -1,
+        "extra_pointer_shift": -1.3854278997769685e-09,
+        "minus_G": -0.0
+      }
+    ]
+  },
+  "energy_matched_reference": {
+    "p_plus_at_p_0": 0.5764069666950054,
+    "p_plus_at_p_0_6": 0.5587397936697176,
+    "uniform_k_2_to_2_01_and_p_minus_0_6_to_0_6": 0.5707125090808003,
+    "coupled_and_reference_scattering_identical_by_unitary_conjugation": true
+  },
+  "complete_finite_packet_pointer_and_ramsey_readout": {
+    "q_interval": [
+      -4,
+      4
+    ],
+    "pointer_wavefunction": "sqrt(15/(16a))*(1-(p/a)^2) for |p|<=a, a=0.6",
+    "k_band": [
+      2,
+      2.01
+    ],
+    "probabilities": {
+      "plus_inside": 0.5165122624993337,
+      "plus_outside": 0.057563213824382356,
+      "minus_inside": 0.3837772214725156,
+      "minus_outside": 0.04214731710490835
+    },
+    "max_128_vs_256_panel_difference_at_midband": 4.997568137099506e-09
+  }
+}
