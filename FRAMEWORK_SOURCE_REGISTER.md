@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 564 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 481 verification Python scripts.
+- 565 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 483 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -122,6 +122,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md](DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md) — Split-brain dual-task and divided-cue evidence: primary-source audit
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
+- [DUST_ORIENTATION_RECORD.md](DUST_ORIENTATION_RECORD.md) — A finite orientation-record protocol in the existing dust-clock model
 - [EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) — A neural-signal deviation candidate against reported valence
 - [EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md](EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md) — Retrospective EEG baseline-deviation test: fixed analysis plan
 - [EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md](EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md) — Effective theories and graphical models: reading progress
@@ -771,6 +772,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/dissipative_qft_limit_gate.py](verification/dissipative_qft_limit_gate.py)
 - [verification/dissipative_qft_limit_gate_test.py](verification/dissipative_qft_limit_gate_test.py)
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)
+- [verification/dust_orientation_record.py](verification/dust_orientation_record.py)
+- [verification/dust_orientation_record_test.py](verification/dust_orientation_record_test.py)
 - [verification/eeg_baseline_deviation_valence_gate.py](verification/eeg_baseline_deviation_valence_gate.py)
 - [verification/eeg_baseline_deviation_valence_gate_test.py](verification/eeg_baseline_deviation_valence_gate_test.py)
 - [verification/energy_conditions_bounce.py](verification/energy_conditions_bounce.py)

@@ -1,0 +1,137 @@
+{
+  "status": "passed",
+  "scope": "Engineered dust-model readout of code-projected dilation; not a crossing-triggered device or B7 pass.",
+  "model": {
+    "n_range": [
+      6,
+      15
+    ],
+    "p_band": [
+      -0.1,
+      0.1
+    ],
+    "lambda": -0.75,
+    "pulse_width": 1.0,
+    "pointer_reference_energy": 1.0
+  },
+  "analytic_bounds": {
+    "mean_absolute_lower": 21.108845419518946,
+    "second_moment_upper": 483.2138225191809,
+    "cantelli_wrong_sign_upper": 0.07787539557095591,
+    "A_min": 10.104436171968946,
+    "A_max": 23.625,
+    "h_max": 7.283185307179586,
+    "relational_dust_energy_lower": 2.8212508647893593,
+    "relational_dust_energy_upper": 22.625
+  },
+  "band_endpoint_and_midpoint": [
+    {
+      "p": -0.1,
+      "nu": 0.47258156262526085,
+      "minimum_code_sign_gap": 2.9375301457456557,
+      "cases": [
+        {
+          "prepared": "expanding",
+          "p_expanding": 0.9999974469041705,
+          "p_contracting": 2.5530958286385577e-06,
+          "mean_full_dilation": -21.557365492108943,
+          "full_dilation_second_moment": 481.86209052184626,
+          "free_volume_slope": 16.168024119081707,
+          "A_mean_before": 16.85443617196895,
+          "A_mean_after_nonselective": 16.854649999149437,
+          "A_mean_change": 0.0002138271804881242
+        },
+        {
+          "prepared": "contracting",
+          "p_expanding": 2.553095828651016e-06,
+          "p_contracting": 0.9999974469041715,
+          "mean_full_dilation": 21.557365492108943,
+          "full_dilation_second_moment": 481.86209052184626,
+          "free_volume_slope": -16.168024119081707,
+          "A_mean_before": 16.85443617196895,
+          "A_mean_after_nonselective": 16.854649999149473,
+          "A_mean_change": 0.00021382718052365135
+        }
+      ]
+    },
+    {
+      "p": 0.0,
+      "nu": 0.5,
+      "minimum_code_sign_gap": 2.9416691062062448,
+      "cases": [
+        {
+          "prepared": "expanding",
+          "p_expanding": 0.9999974543634316,
+          "p_contracting": 2.5456365683556847e-06,
+          "mean_full_dilation": -21.58309305975495,
+          "full_dilation_second_moment": 482.9814021977331,
+          "free_volume_slope": 16.18731979481621,
+          "A_mean_before": 16.875,
+          "A_mean_after_nonselective": 16.875213495569394,
+          "A_mean_change": 0.0002134955693939844
+        },
+        {
+          "prepared": "contracting",
+          "p_expanding": 2.545636568355383e-06,
+          "p_contracting": 0.9999974543634311,
+          "mean_full_dilation": 21.58309305975495,
+          "full_dilation_second_moment": 482.9814021977331,
+          "free_volume_slope": -16.18731979481621,
+          "A_mean_before": 16.875,
+          "A_mean_after_nonselective": 16.87521349556938,
+          "A_mean_change": 0.00021349556937977354
+        }
+      ]
+    },
+    {
+      "p": 0.1,
+      "nu": 0.47258156262526085,
+      "minimum_code_sign_gap": 2.9375301457456557,
+      "cases": [
+        {
+          "prepared": "expanding",
+          "p_expanding": 0.9999974469041705,
+          "p_contracting": 2.5530958286385577e-06,
+          "mean_full_dilation": -21.557365492108943,
+          "full_dilation_second_moment": 481.86209052184626,
+          "free_volume_slope": 16.168024119081707,
+          "A_mean_before": 16.85443617196895,
+          "A_mean_after_nonselective": 16.854649999149437,
+          "A_mean_change": 0.0002138271804881242
+        },
+        {
+          "prepared": "contracting",
+          "p_expanding": 2.553095828651016e-06,
+          "p_contracting": 0.9999974469041715,
+          "mean_full_dilation": 21.557365492108943,
+          "full_dilation_second_moment": 481.86209052184626,
+          "free_volume_slope": -16.168024119081707,
+          "A_mean_before": 16.85443617196895,
+          "A_mean_after_nonselective": 16.854649999149473,
+          "A_mean_change": 0.00021382718052365135
+        }
+      ]
+    }
+  ],
+  "uniform_p_packet": {
+    "p_expanding": 0.9999974519092073,
+    "p_contracting": 2.5480907928579765e-06,
+    "delta_mean_A": 0.00021360470071230727
+  },
+  "volume_density_control": {
+    "p": 0.06,
+    "integral_r_0_to_12": 0.999999999999927,
+    "quadrature_error_estimate": 4.404645045683162e-09,
+    "max_pointwise_difference": 0.0
+  },
+  "midband_pulse_ode_control": {
+    "max_state_error": 3.2928276821683315e-11,
+    "state_norm_error": 6.758149595498253e-12,
+    "qutrit_probabilities": [
+      1.0640715326614627e-21,
+      0.9999974517267475,
+      2.5482664945294935e-06
+    ],
+    "pointers_are_complete": 0.9999999999932419
+  }
+}

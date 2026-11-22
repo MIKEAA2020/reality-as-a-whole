@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 607,
-  "bytes": 7547606,
-  "line_count": 66769,
-  "document_count_with_risk_phrases": 560,
+  "document_count": 608,
+  "bytes": 7560836,
+  "line_count": 66882,
+  "document_count_with_risk_phrases": 561,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3553,9 +3553,9 @@
     },
     {
       "path": "DUST_CLOCK_RECORD.md",
-      "sha256": "0b737be2ef51727522a03ca1e04e4861bbc3aab681a59bfc9dae9e57163f8899",
-      "bytes": 16289,
-      "lines": 241,
+      "sha256": "3061ba71574ce76378b733e9a4618622f6bd1afa3742c499d71559f64ad8fcbb",
+      "bytes": 16722,
+      "lines": 243,
       "title": "A finite proper-time record operation inside a gravitational constraint",
       "headings": [
         "A finite proper-time record operation inside a gravitational constraint",
@@ -3570,7 +3570,8 @@
       "local_links": [
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "verification/dust_clock_record.json",
-        "FINITE_REFERENCE_GRAVITY.md"
+        "FINITE_REFERENCE_GRAVITY.md",
+        "DUST_ORIENTATION_RECORD.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -3589,6 +3590,37 @@
         237,
         239,
         241
+      ]
+    },
+    {
+      "path": "DUST_ORIENTATION_RECORD.md",
+      "sha256": "db84f7492e761f3516179bf803ed2c61865ba09afe49c97f7640c7558c6a2313",
+      "bytes": 11876,
+      "lines": 106,
+      "title": "A finite orientation-record protocol in the existing dust-clock model",
+      "headings": [
+        "A finite orientation-record protocol in the existing dust-clock model",
+        "1. Fixed gravitational sector and a real orientation observable",
+        "2. Matched wavepackets and an analytic sign check",
+        "3. A finite pulse and all three register outcomes",
+        "4. Self-adjoint constraint and source budget—including the correction",
+        "5. What is tested, and what still blocks B7"
+      ],
+      "local_links": [
+        "DUST_CLOCK_RECORD.md",
+        "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
+        "verification/dust_orientation_record.py",
+        "verification/dust_orientation_record.json",
+        "verification/dust_orientation_record_test.py",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        27,
+        73,
+        81,
+        83,
+        102,
+        104
       ]
     },
     {
@@ -4773,8 +4805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "6c8eeb4025642c940f7514c7414f81b10a3ef5f9a0be62f9400965ba534afd9a",
-      "bytes": 45383,
+      "sha256": "b7d3ccdcf3db941dacabfc72dc286fba1b72e8a3544c61d052f6bd6aedc25326",
+      "bytes": 45586,
       "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4792,6 +4824,7 @@
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
         "GRAVITY_GRADIENT_POINTER_GATE.md",
         "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
+        "DUST_ORIENTATION_RECORD.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -5074,9 +5107,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8d54c9d28fdc09977eff184be77566c4bf3e991bd17205330bcf5507dd4b02e1",
-      "bytes": 150634,
-      "lines": 1175,
+      "sha256": "c2b63c01ef591030d18b988dcc14c07ddc9f025c5b04972be47c062894d9e21b",
+      "bytes": 151023,
+      "lines": 1178,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5265,6 +5298,7 @@
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "GRAVITY_GRADIENT_POINTER_GATE.md",
+        "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
         "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
         "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
@@ -5883,6 +5917,8 @@
         "verification/gravity_clock_duration_calibration_test.py",
         "verification/gravity_gradient_pointer_gate.py",
         "verification/gravity_gradient_pointer_gate_test.py",
+        "verification/gravity_noncommuting_pointer.py",
+        "verification/gravity_noncommuting_pointer_test.py",
         "verification/gravity_volume_clock_obstruction.py",
         "verification/gravity_volume_clock_obstruction_test.py",
         "verification/gravity_volume_jet_reconstruction.py",
@@ -6242,19 +6278,19 @@
         68,
         78,
         152,
-        211,
-        284,
-        313,
-        359,
-        389,
-        456,
-        552,
-        567,
-        603,
-        612,
-        615,
-        618,
-        682
+        212,
+        285,
+        314,
+        360,
+        390,
+        457,
+        553,
+        568,
+        604,
+        613,
+        616,
+        619,
+        683
       ]
     },
     {
@@ -6854,9 +6890,9 @@
     },
     {
       "path": "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
-      "sha256": "4b3b83c2b6dd8fd7935ae0410c27dad71f169f6f7e7acca60d0cc3fd5aa4ef71",
-      "bytes": 11496,
-      "lines": 98,
+      "sha256": "e589ec6bc412e9e9114c99194e53c1f17e25221c1069d7fe4e938885037842cd",
+      "bytes": 11825,
+      "lines": 100,
       "title": "A noncommuting, gravitating pointer: a positive scattering signal, not yet a direction record",
       "headings": [
         "A noncommuting, gravitating pointer: a positive scattering signal, not yet a direction record",
@@ -6873,7 +6909,8 @@
         "verification/gravity_noncommuting_pointer.json",
         "verification/gravity_noncommuting_pointer_test.py",
         "verification/requirements-gravity-spin-pointer.txt",
-        "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md"
+        "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
+        "DUST_ORIENTATION_RECORD.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -6884,7 +6921,8 @@
         79,
         80,
         82,
-        84
+        84,
+        98
       ]
     },
     {

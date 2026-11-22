@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "74fba8ed248f8494d5eae91609e95427c7fcad7f",
-  "file_count": 1799,
+  "base_head": "a8eb893db7ca79d78104b69f21b9c42291a07866",
+  "file_count": 1803,
   "files": [
     {
       "path": ".gitattributes",
@@ -555,8 +555,13 @@
     },
     {
       "path": "DUST_CLOCK_RECORD.md",
-      "bytes": 16289,
-      "sha256": "0b737be2ef51727522a03ca1e04e4861bbc3aab681a59bfc9dae9e57163f8899"
+      "bytes": 16722,
+      "sha256": "3061ba71574ce76378b733e9a4618622f6bd1afa3742c499d71559f64ad8fcbb"
+    },
+    {
+      "path": "DUST_ORIENTATION_RECORD.md",
+      "bytes": 11876,
+      "sha256": "db84f7492e761f3516179bf803ed2c61865ba09afe49c97f7640c7558c6a2313"
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
@@ -755,8 +760,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 45383,
-      "sha256": "6c8eeb4025642c940f7514c7414f81b10a3ef5f9a0be62f9400965ba534afd9a"
+      "bytes": 45586,
+      "sha256": "b7d3ccdcf3db941dacabfc72dc286fba1b72e8a3544c61d052f6bd6aedc25326"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -790,8 +795,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 151023,
-      "sha256": "c2b63c01ef591030d18b988dcc14c07ddc9f025c5b04972be47c062894d9e21b"
+      "bytes": 151336,
+      "sha256": "b06dfa067dd4894041ebcd91870c130735f6136bb3f630a942fcd8c31b908e96"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -890,8 +895,8 @@
     },
     {
       "path": "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
-      "bytes": 11496,
-      "sha256": "4b3b83c2b6dd8fd7935ae0410c27dad71f169f6f7e7acca60d0cc3fd5aa4ef71"
+      "bytes": 11825,
+      "sha256": "e589ec6bc412e9e9114c99194e53c1f17e25221c1069d7fe4e938885037842cd"
     },
     {
       "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
@@ -5134,6 +5139,21 @@
       "sha256": "2bf07b749412768c1ac6f8f578cf41b8376648c0436f1d791ce34d5dfe710f11"
     },
     {
+      "path": "verification/dust_orientation_record.json",
+      "bytes": 4569,
+      "sha256": "c42d8c5d1661641b41c53925f14afb39d1bab8b610dafaa657c53ad76f989e94"
+    },
+    {
+      "path": "verification/dust_orientation_record.py",
+      "bytes": 7465,
+      "sha256": "eabab3d19ba06149e7c599b37bf7921c7d4838ede70c6210993f18e6e02c9931"
+    },
+    {
+      "path": "verification/dust_orientation_record_test.py",
+      "bytes": 2508,
+      "sha256": "cc66868cdc1888de8a53048469878701382550849a6a313196a74b282c0fad81"
+    },
+    {
       "path": "verification/eeg_baseline_deviation_valence_gate.json",
       "bytes": 2539,
       "sha256": "f0e2bda5e79e9e65c8835a4f3d471758aac473367b36f709b05c2ad75d58bb5c"
@@ -6995,8 +7015,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 745892,
-      "sha256": "5b9dccac6e99f66f35196e7b0224af304edfeb41d469d55299fb84067d162997"
+      "bytes": 747354,
+      "sha256": "b21c5404dfe521e88da5f691e763535a01c17a4bf2932cf18843f7808256c586"
     },
     {
       "path": "verification/project_inventory.py",
