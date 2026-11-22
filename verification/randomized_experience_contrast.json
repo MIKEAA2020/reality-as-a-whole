@@ -1,0 +1,59 @@
+{
+  "scope": "Synthetic exact population probabilities, not an empirical experience assay.",
+  "report_arm_probabilities": [
+    "1/2",
+    "7/10"
+  ],
+  "shared_rate_contrast_bounds": {
+    "lower": "4/17",
+    "upper": "4/11"
+  },
+  "endpoint_prevalences": [
+    [
+      "9/17",
+      "13/17"
+    ],
+    [
+      "6/11",
+      "10/11"
+    ]
+  ],
+  "witnesses": {
+    "stable_monotone": {
+      "p": [
+        "9/17",
+        "13/17"
+      ],
+      "q": [
+        "1/2",
+        "7/10"
+      ],
+      "benefit": "4/17",
+      "harm": "0"
+    },
+    "stable_mixed": {
+      "p": [
+        "9/17",
+        "13/17"
+      ],
+      "q": [
+        "1/2",
+        "7/10"
+      ],
+      "benefit": "8/17",
+      "harm": "4/17"
+    },
+    "channel_drift_no_experiential_effect": {
+      "p": [
+        "1/2",
+        "1/2"
+      ],
+      "q": [
+        "1/2",
+        "7/10"
+      ],
+      "benefit": "0",
+      "harm": "0"
+    }
+  }
+}

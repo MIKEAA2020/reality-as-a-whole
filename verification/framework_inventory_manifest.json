@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "322568c8f9ca512e16eef3097c958ce5fab50279",
-  "file_count": 1699,
+  "base_head": "143e215ebb4e4bde55dfe3d1e23a34a99a7f7828",
+  "file_count": 1704,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 38673,
-      "sha256": "186d55ea6584936fce3243e1bce19d23accc3a516276f24b467b495e547ea74d"
+      "bytes": 38900,
+      "sha256": "cb823350ecb2c606c59ddb31f5a7f9e7bf9272f11c781c8ba3b171ba103667b2"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -655,8 +655,8 @@
     },
     {
       "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
-      "bytes": 14193,
-      "sha256": "b74b1a034a6b4bb6d585fa029aac021626d0404ffa88e3c0a69a4a9f6c70fe52"
+      "bytes": 14519,
+      "sha256": "4aef38e441195d9a3f1fe904a08be730c91540c1a0c46b294680e22c37d46309"
     },
     {
       "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 141086,
-      "sha256": "29553cf48e354886072141f5eaf4ed986464620a8295478d624eb2fa4bdc8c52"
+      "bytes": 141683,
+      "sha256": "e88e0cfe3f89bf6df8ba57b7b0b447bf91e9ee4cf92f9562335299136648c24e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1762,6 +1762,16 @@
       "path": "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
       "bytes": 12375,
       "sha256": "6822fce8395e5cf6c110603ca22b3051c18d68540ae8ff1268256bcd280f7ca8"
+    },
+    {
+      "path": "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
+      "bytes": 11888,
+      "sha256": "132094ec8d44484a1f4920163262ab73d72f0408ba1b2ed55dbaf48459d094e7"
+    },
+    {
+      "path": "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION_PLAN.md",
+      "bytes": 1499,
+      "sha256": "f400daf88f416050a6fb4d65071ce4d698d91b61afd864b4084c970dea3782d1"
     },
     {
       "path": "RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md",
@@ -6655,8 +6665,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 708315,
-      "sha256": "be938b20e35f36d42e5352ae2e551c2dc299644b62d82f18914a8cdc253e2798"
+      "bytes": 710598,
+      "sha256": "af3866e37a124397dc939e7fea0bd8ba28b3d85662caa883f899841cec1aeaf5"
     },
     {
       "path": "verification/project_inventory.py",
@@ -6782,6 +6792,21 @@
       "path": "verification/random_audit_experience_bridge.py",
       "bytes": 4702,
       "sha256": "271dd3109b2ea0b2775a7cf0be730161a254cda2582e9187145fb4f7fb195d45"
+    },
+    {
+      "path": "verification/randomized_experience_contrast.json",
+      "bytes": 927,
+      "sha256": "d474f65abb2170c6e36c3efef1542d1dea1256c9c6bcd87df52265ee5917a870"
+    },
+    {
+      "path": "verification/randomized_experience_contrast.py",
+      "bytes": 3047,
+      "sha256": "d607a36b77a3786fa42ed45017bcdace38c03fb47f0535209c67407e752e8e83"
+    },
+    {
+      "path": "verification/randomized_experience_contrast_test.py",
+      "bytes": 2126,
+      "sha256": "1ce3a16745a34879ff94ee9c8ebecea4c525c6fc16d7fbf97c02ae73e4faaa67"
     },
     {
       "path": "verification/rao_stim_metadata_readiness.json",

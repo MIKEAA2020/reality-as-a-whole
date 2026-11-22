@@ -55,6 +55,8 @@ In particular, a yes/no incidence rule does not tell us whether there is one sub
 
 The resulting evidence can incrementally constrain rival theories, but bridge premises themselves remain contestable. Even successful human predictions may leave qualitative mapping and substrate extrapolation open, and some identity questions may be underdetermined by all proposed tests rather than merely awaiting larger samples.
 
+A subsequent [randomized experiential-contrast analysis](RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md) derives sharp illustrative prevalence bounds under a shared calibrated report channel, contrasts an equal-report channel-drift countermodel, and shows why individual counterfactual changes remain unidentified.
+
 ## 5. Relationship to the existing gates
 
 - [Realized-process candidate](REALIZED_PROCESS_CANDIDATE.md): supplies a proposed physical realization basis but leaves Γ and χ as obligations. The toy isolates a causal comparison; it does not fill those maps.

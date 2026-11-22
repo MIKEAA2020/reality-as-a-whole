@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 578,
-  "bytes": 7210399,
-  "line_count": 64622,
-  "document_count_with_risk_phrases": 536,
+  "document_count": 580,
+  "bytes": 7224904,
+  "line_count": 64720,
+  "document_count_with_risk_phrases": 538,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "186d55ea6584936fce3243e1bce19d23accc3a516276f24b467b495e547ea74d",
-      "bytes": 38673,
+      "sha256": "cb823350ecb2c606c59ddb31f5a7f9e7bf9272f11c781c8ba3b171ba103667b2",
+      "bytes": 38900,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2856,6 +2856,7 @@
         "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
         "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
         "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
+        "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4072,9 +4073,9 @@
     },
     {
       "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
-      "sha256": "b74b1a034a6b4bb6d585fa029aac021626d0404ffa88e3c0a69a4a9f6c70fe52",
-      "bytes": 14193,
-      "lines": 65,
+      "sha256": "4aef38e441195d9a3f1fe904a08be730c91540c1a0c46b294680e22c37d46309",
+      "bytes": 14519,
+      "lines": 67,
       "title": "From adaptive organization to an experiencer: a bridge audit",
       "headings": [
         "From adaptive organization to an experiencer: a bridge audit",
@@ -4090,6 +4091,7 @@
         "verification/feedback_replay_phenomenal_bridge.py",
         "verification/feedback_replay_phenomenal_bridge_test.py",
         "verification/feedback_replay_phenomenal_bridge.json",
+        "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
         "REALIZED_PROCESS_CANDIDATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
@@ -4102,7 +4104,7 @@
       "risk_phrase_lines": [
         18,
         49,
-        65
+        67
       ]
     },
     {
@@ -4886,9 +4888,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8174ded82adb8169e8177cac7598719853631c089f9af7201d5fe98f3f9115b0",
-      "bytes": 140521,
-      "lines": 1099,
+      "sha256": "29553cf48e354886072141f5eaf4ed986464620a8295478d624eb2fa4bdc8c52",
+      "bytes": 141086,
+      "lines": 1103,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5031,6 +5033,8 @@
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
         "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
+        "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
+        "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md",
         "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
         "FIELD_READOUT_ENERGY_TRADEOFF.md",
         "FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md",
@@ -5622,6 +5626,8 @@
         "verification/experiential_mismatch_transport_gate.py",
         "verification/faced_report_baseline.py",
         "verification/faced_report_baseline_test.py",
+        "verification/feedback_replay_phenomenal_bridge.py",
+        "verification/feedback_replay_phenomenal_bridge_test.py",
         "verification/field_lineage_persistence_gate.py",
         "verification/field_lineage_persistence_gate_test.py",
         "verification/field_readout_energy_bound.py",
@@ -5977,20 +5983,20 @@
         57,
         64,
         74,
-        146,
-        198,
-        267,
-        296,
-        342,
-        369,
-        428,
-        522,
-        537,
-        573,
-        582,
-        585,
-        588,
-        652
+        148,
+        200,
+        269,
+        298,
+        344,
+        371,
+        430,
+        524,
+        539,
+        575,
+        584,
+        587,
+        590,
+        654
       ]
     },
     {
@@ -11890,6 +11896,58 @@
         31,
         37,
         47
+      ]
+    },
+    {
+      "path": "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
+      "sha256": "132094ec8d44484a1f4920163262ab73d72f0408ba1b2ed55dbaf48459d094e7",
+      "bytes": 11888,
+      "lines": 84,
+      "title": "Can a randomized intervention identify an experiential change?",
+      "headings": [
+        "Can a randomized intervention identify an experiential change?",
+        "Result in brief",
+        "1. What the experiment would need to mean",
+        "2. Identification under a shared calibrated channel",
+        "3. Same observed reports, no change in experience",
+        "4. Population change is not a census of individual changes",
+        "5. Decision sequence and connections to earlier gates",
+        "Verification and scope"
+      ],
+      "local_links": [
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
+        "verification/randomized_experience_contrast.py",
+        "verification/randomized_experience_contrast.json",
+        "verification/randomized_experience_contrast_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        34,
+        42,
+        53,
+        59,
+        84
+      ]
+    },
+    {
+      "path": "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION_PLAN.md",
+      "sha256": "f400daf88f416050a6fb4d65071ce4d698d91b61afd864b4084c970dea3782d1",
+      "bytes": 1499,
+      "lines": 8,
+      "title": "Plan: an intervention contrast with an imperfect experiential channel",
+      "headings": [
+        "Plan: an intervention contrast with an imperfect experiential channel"
+      ],
+      "local_links": [
+        "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        6,
+        8
       ]
     },
     {

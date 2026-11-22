@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 535 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 435 verification Python scripts.
+- 537 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 437 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -361,6 +361,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md](QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md) — Quantum position verification: records, location and subjects
 - [QUANTUM_STATIC_SPHERICAL_CLOCK.md](QUANTUM_STATIC_SPHERICAL_CLOCK.md) — Quantum static spherical clock: a reduced physical Hamiltonian in gravitational symmetry reduction
 - [RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md](RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md) — Pain affect, sensory intensity and the experiential-misalignment proposal
+- [RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md](RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md) — Can a randomized intervention identify an experiential change?
+- [RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION_PLAN.md](RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION_PLAN.md) — Plan: an intervention contrast with an imperfect experiential channel
 - [RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md](RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md) — Fixed metadata-readiness plan: Rao intracranial stimulation and mood
 - [README.md](README.md) — Reality as a Whole
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
@@ -939,6 +941,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/quantum_static_spherical_clock.py](verification/quantum_static_spherical_clock.py)
 - [verification/race_context_and_joint_content_gate.py](verification/race_context_and_joint_content_gate.py)
 - [verification/random_audit_experience_bridge.py](verification/random_audit_experience_bridge.py)
+- [verification/randomized_experience_contrast.py](verification/randomized_experience_contrast.py)
+- [verification/randomized_experience_contrast_test.py](verification/randomized_experience_contrast_test.py)
 - [verification/rao_stim_metadata_readiness.py](verification/rao_stim_metadata_readiness.py)
 - [verification/rao_stim_metadata_readiness_test.py](verification/rao_stim_metadata_readiness_test.py)
 - [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
