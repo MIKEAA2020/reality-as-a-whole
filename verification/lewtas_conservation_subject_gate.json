@@ -1,0 +1,55 @@
+{
+  "scope": "Toy interpretation counterexamples only; neither consciousness nor physical or metaphysical possibility is established.",
+  "cases": {
+    "fused_orange": {
+      "distinct_ingredient_mass": 2,
+      "sum_of_support_masses": 2,
+      "represented_subjects": 1,
+      "exclusive_ownership": true,
+      "quality": "orange",
+      "record": [
+        "integrated physical configuration",
+        "recorded response"
+      ]
+    },
+    "fused_violet": {
+      "distinct_ingredient_mass": 2,
+      "sum_of_support_masses": 2,
+      "represented_subjects": 1,
+      "exclusive_ownership": true,
+      "quality": "violet",
+      "record": [
+        "integrated physical configuration",
+        "recorded response"
+      ]
+    },
+    "separate": {
+      "distinct_ingredient_mass": 2,
+      "sum_of_support_masses": 2,
+      "represented_subjects": 2,
+      "exclusive_ownership": true,
+      "quality": "unassigned",
+      "record": [
+        "integrated physical configuration",
+        "recorded response"
+      ]
+    },
+    "nested": {
+      "distinct_ingredient_mass": 2,
+      "sum_of_support_masses": 4,
+      "represented_subjects": 3,
+      "exclusive_ownership": false,
+      "quality": "unassigned",
+      "record": [
+        "integrated physical configuration",
+        "recorded response"
+      ]
+    }
+  },
+  "lessons": [
+    "A distinct-token inventory is conserved in all four stipulations while subject assignments differ.",
+    "If quantity instead sums each subject support, nested case totals four rather than two; that stronger convention rules it out.",
+    "A quality label is not determined by a conserved amount unless additional qualitative or dynamical laws are specified.",
+    "Identical records were stipulated, not shown experimentally to arise from different real experiences."
+  ]
+}

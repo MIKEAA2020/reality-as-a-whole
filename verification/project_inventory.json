@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 592,
-  "bytes": 7325952,
-  "line_count": 65310,
-  "document_count_with_risk_phrases": 545,
+  "document_count": 593,
+  "bytes": 7345000,
+  "line_count": 65411,
+  "document_count_with_risk_phrases": 546,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "29030cd8955b323c6ff6d13b8072826e80b814868ad46383bbc8581f03887abd",
-      "bytes": 40734,
+      "sha256": "42daa02b67d445a1a84caee8174134edb933f9ccd160507f33f95050f12b7110",
+      "bytes": 41065,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2864,6 +2864,7 @@
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
         "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
         "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
+        "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4895,9 +4896,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "436f29af7b754a3b8ffc3fbee54f7a22307dcfad52108171132605cd7072edea",
-      "bytes": 144561,
-      "lines": 1129,
+      "sha256": "951bf2c88490b9b8ce37c6acd33aeb2b3a21a7647d7c039ee29fc3d49bcb18a8",
+      "bytes": 145106,
+      "lines": 1133,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5292,6 +5293,8 @@
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
+        "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
@@ -5865,6 +5868,8 @@
         "verification/robust_disclosure_separation.py",
         "verification/robust_quantum_agreement_bound.py",
         "verification/roof_duality_robust_boundary_gate.py",
+        "verification/roy_mixed_transition_context.py",
+        "verification/roy_mixed_transition_context_test.py",
         "verification/roy_mri_pair_inventory.py",
         "verification/roy_mri_pair_inventory_test.py",
         "verification/roy_report_center_development.py",
@@ -6022,14 +6027,14 @@
         302,
         348,
         377,
-        442,
-        536,
-        551,
-        587,
-        596,
-        599,
-        602,
-        666
+        444,
+        538,
+        553,
+        589,
+        598,
+        601,
+        604,
+        668
       ]
     },
     {
@@ -8375,6 +8380,36 @@
         58,
         68,
         70
+      ]
+    },
+    {
+      "path": "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+      "sha256": "2f8da5b864856bafa9066ae4d79ee1cd09e5b415e336a83a8f2974a79c5f7a79",
+      "bytes": 18172,
+      "lines": 97,
+      "title": "Lewtas on mental chemistry: what it adds and what remains open",
+      "headings": [
+        "Lewtas on mental chemistry: what it adds and what remains open",
+        "Conclusion",
+        "1. What was read",
+        "2. The paper's actual proposal",
+        "3. Why this challenges the framework",
+        "4. The split-brain argument: possibility versus observation",
+        "5. Conservation and subject count",
+        "6. Blending, explanation and the causal-base reply"
+      ],
+      "local_links": [
+        "SPLIT_BRAIN_TIMING_RIVALRY_AND_POOLED_EVIDENCE.md",
+        "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
+        "verification/lewtas_conservation_subject_gate.py",
+        "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
+        "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        69,
+        79,
+        93
       ]
     },
     {

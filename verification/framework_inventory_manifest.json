@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "980f02292f6509cb677ebf9aacfeb061cc5c6766",
-  "file_count": 1738,
+  "base_head": "d0bd7db02e7340a5fe5c474a0427a9ad28a80a4e",
+  "file_count": 1742,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 40734,
-      "sha256": "29030cd8955b323c6ff6d13b8072826e80b814868ad46383bbc8581f03887abd"
+      "bytes": 41065,
+      "sha256": "42daa02b67d445a1a84caee8174134edb933f9ccd160507f33f95050f12b7110"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 145106,
-      "sha256": "951bf2c88490b9b8ce37c6acd33aeb2b3a21a7647d7c039ee29fc3d49bcb18a8"
+      "bytes": 145498,
+      "sha256": "dbb1067a3bf61cd28788ea65608d020f089eab6a5c76cd8dc9754bdfb3badf47"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1157,6 +1157,11 @@
       "path": "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
       "bytes": 15003,
       "sha256": "f77a482c8e364cb11f046a5b21c217de6e5986a84f1a78abb21c2f0e9103221f"
+    },
+    {
+      "path": "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+      "bytes": 18172,
+      "sha256": "2f8da5b864856bafa9066ae4d79ee1cd09e5b415e336a83a8f2974a79c5f7a79"
     },
     {
       "path": "LICENSE",
@@ -5934,6 +5939,21 @@
       "sha256": "7da26fe1106aa8d3e7b86139e002132ad6629d207e720a7bb8d9df864d9b0d46"
     },
     {
+      "path": "verification/lewtas_conservation_subject_gate.json",
+      "bytes": 1823,
+      "sha256": "c8df4afd0fdf1fdba0c6fc87d9caba51b3ac3aebd2b7d3277ed95ac6c313f690"
+    },
+    {
+      "path": "verification/lewtas_conservation_subject_gate.py",
+      "bytes": 2888,
+      "sha256": "94f55a2a5bd1873631cdd74a28775c6c229c6f5eb280f076c2661dc195dddb4a"
+    },
+    {
+      "path": "verification/lewtas_conservation_subject_gate_test.py",
+      "bytes": 1737,
+      "sha256": "80e8a003f1dc217a5259585292b0705295828fa21f12c9a75380a24ecbe74010"
+    },
+    {
       "path": "verification/linearized_lattice_curvature.json",
       "bytes": 974,
       "sha256": "30945e44c5cd2c344f6f8eb2b2420c2e4af05d471b14f34a5fb96f9c21617faf"
@@ -6740,8 +6760,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 722912,
-      "sha256": "74833639ee3fb1c77727583433c8961255a374d421380fd8eb4bb7cd878dbe41"
+      "bytes": 724401,
+      "sha256": "eeffee08ffd9c54296992fa69bc2f06c8b651d5d2a3676f04ff2b830c534d6c3"
     },
     {
       "path": "verification/project_inventory.py",
