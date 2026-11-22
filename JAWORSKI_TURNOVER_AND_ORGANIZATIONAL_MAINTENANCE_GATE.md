@@ -69,6 +69,8 @@ Likewise, one may append different *stipulated* labels for subject count or qual
 
 ## 6. Next empirical and theoretical obligations
 
+A subsequent [bacterial chemotaxis audit](BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md) examines a real feedback subsystem, evidence for both robust adaptation and limitations, and the remaining metaphysical underdetermination; it is not a whole-organism or experiential model.
+
 A genuine biological comparison must define a measured capacity and system boundary, model material and energy flows, and identify a repair or regulatory pathway that can ethically be perturbed. Compare a prespecified mechanistic account against alternatives with measured inputs and matched controls; test recovery, failure rates, and timing under interventions. Record off-target effects and resource costs. An artificial error-correcting device may be more controllable, but is not evidence about the phenomenality of an organism or a machine. A successful mechanistic explanation would help with organizational function; it would not, without further premises, settle whether that function is metaphysically fundamental or explain what it feels like.
 
 For the project's experiential constitution, a next formal test is to specify candidate incidence and quality rules separately from the operational model, identify how the rules differ under feasible independently anchored observations, and explicitly allow unresolved ties or underidentification. Neither the phrase “dynamic structure” nor the label “self-maintaining” supplies that mapping. The framework's claims about a necessary timeless whole and the actuality of genuine possibilities are likewise not decided by this finite example.

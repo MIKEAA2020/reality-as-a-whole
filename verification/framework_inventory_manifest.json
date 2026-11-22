@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "729188d8cb2cc1a3ea5727239fd018e312f02f2a",
-  "file_count": 1689,
+  "base_head": "f97caa7eab2e5949368ee9fd9355bbc6dd28e87a",
+  "file_count": 1694,
   "files": [
     {
       "path": ".gitattributes",
@@ -134,6 +134,11 @@
       "sha256": "ca50782f6cd33d9a45896ea9f8e33d7958131e3304484ade9d8d35b64b0170f9"
     },
     {
+      "path": "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
+      "bytes": 16186,
+      "sha256": "75def4bae4a6bf8d9ab264d74e894efc758983078b32eedf673d1469239cd8ec"
+    },
+    {
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
       "bytes": 9172,
       "sha256": "fd85108f050c8742e4ebad33a7f82887ac7d6f8ea20217eaa87e5500059eac88"
@@ -227,6 +232,11 @@
       "path": "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
       "bytes": 2857,
       "sha256": "f28522bf54b22436039ef2abf4a53b09107069a86798bb4fd8c1a8b9b5528905"
+    },
+    {
+      "path": "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
+      "bytes": 2039,
+      "sha256": "b86ba58b85247febcf78f1a1338aba682b2c98a215e31ebcfa0ac53fd3f81dad"
     },
     {
       "path": "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
@@ -435,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 38151,
-      "sha256": "3169a172421a0d9b8ad7ac88e7324535bb57692dd187091cc06b446a8915a4c3"
+      "bytes": 38388,
+      "sha256": "32e180af5178ebe5f1954b91b227f76cf31f71abbbd004389bce3f40ade92ba4"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -745,8 +755,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 139936,
-      "sha256": "0697f712d27fec6108fe09cffc4c2df40e21a0ede5286af7343b36c24a5bd163"
+      "bytes": 140521,
+      "sha256": "8174ded82adb8169e8177cac7598719853631c089f9af7201d5fe98f3f9115b0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -970,8 +980,8 @@
     },
     {
       "path": "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
-      "bytes": 12417,
-      "sha256": "6ffae02c85f6fba8c8287a3c5b347aae6235d0f260b7ea1a4aafdc57e5f498b3"
+      "bytes": 12710,
+      "sha256": "4e5ff4e450a25c44d8246deffb039209f5b314b0fd5a95fdd1a025cef59f1e0f"
     },
     {
       "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
@@ -4499,6 +4509,21 @@
       "sha256": "022219bce12e8afaf68d7b3a48ef835902810dc219627dba6ef2b3b2d36012d9"
     },
     {
+      "path": "verification/chemotaxis_integral_feedback_example.json",
+      "bytes": 1254,
+      "sha256": "2e018646b402b49941d691fc0a7cbc9b05f0c6a2c0602ada2da68090b988ff0c"
+    },
+    {
+      "path": "verification/chemotaxis_integral_feedback_example.py",
+      "bytes": 2992,
+      "sha256": "7170da09193a2e29ba578ea288a21afc104ec15fa66a71578c458b458eb578af"
+    },
+    {
+      "path": "verification/chemotaxis_integral_feedback_example_test.py",
+      "bytes": 1819,
+      "sha256": "188fad3d16393d0e935d7f53c00a0faf73d835d24dc50c4c3065d74a638ba241"
+    },
+    {
       "path": "verification/cie_metamer_experiential_gate.json",
       "bytes": 1554,
       "sha256": "bcf33b0e6a4658a93bf16f7ee8e2efdc76397ac955d84d4637879ca8b7d7917d"
@@ -6605,8 +6630,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 703846,
-      "sha256": "d7c35dba71b38ef3e3e4d0aaebcc1c30007148b6758e7a7ac9b5e5015336fd47"
+      "bytes": 705955,
+      "sha256": "13b31461dbd3b97b0ce932f3fcabcab7502170d291e2c9a003f5e091349f486a"
     },
     {
       "path": "verification/project_inventory.py",

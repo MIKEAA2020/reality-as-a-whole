@@ -1,0 +1,43 @@
+{
+  "scope": "Illustrative invented dimensionless ODE, not a fitted bacterial model, experiment, proof of biology or consciousness.",
+  "activity": "(1+z)/(1+z+L)",
+  "controller": "dz/dt = k*(1/2 - activity); stop outward drift at 0 or cap in bounded case",
+  "initial_ligand": 1,
+  "initial_z": 0,
+  "initial_activity": 0.5,
+  "unbounded_ligand_2": {
+    "immediate_activity": 0.3333333333333333,
+    "asymptotic_z": 1,
+    "asymptotic_activity": 0.5,
+    "rk4_at_t20": {
+      "z": 0.9350252345715606,
+      "activity": 0.49174404717184567,
+      "time": 20.0
+    },
+    "independent_analytic_z_at_t20": 0.9350252345715617
+  },
+  "frozen_ligand_2": {
+    "activity": 0.3333333333333333
+  },
+  "bounded_ligand_8": {
+    "upper_z_bound": 2,
+    "unconstrained_equilibrium_z": 7,
+    "bounded_equilibrium_activity": 0.2727272727272727,
+    "bounded_equilibrium_error": 0.22727272727272727,
+    "analytical_first_hit_time": 6.767111571878813,
+    "projected_rk4_at_t20": {
+      "z": 2,
+      "activity": 0.2727272727272727,
+      "time": 20.0
+    }
+  },
+  "half_gain_ligand_2": {
+    "asymptotic_z": 1,
+    "asymptotic_activity": 0.5,
+    "rk4_at_t20": {
+      "z": 0.7632655895881054,
+      "activity": 0.468546677775431,
+      "time": 20.0
+    }
+  }
+}

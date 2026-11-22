@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 574,
-  "bytes": 7174049,
-  "line_count": 64439,
-  "document_count_with_risk_phrases": 533,
+  "document_count": 576,
+  "bytes": 7193371,
+  "line_count": 64544,
+  "document_count_with_risk_phrases": 535,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -747,6 +747,39 @@
       ]
     },
     {
+      "path": "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
+      "sha256": "75def4bae4a6bf8d9ab264d74e894efc758983078b32eedf673d1469239cd8ec",
+      "bytes": 16186,
+      "lines": 90,
+      "title": "Bacterial chemotaxis: what organization explains, and what it does not",
+      "headings": [
+        "Bacterial chemotaxis: what organization explains, and what it does not",
+        "Bottom line",
+        "1. The system and what adaptation means",
+        "2. What the primary studies report",
+        "3. The control principle and its assumptions",
+        "4. What does the organizational explanation add?",
+        "5. Jaworski and the framework",
+        "Source-access and verification ledger"
+      ],
+      "local_links": [
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
+        "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
+        "verification/chemotaxis_integral_feedback_example.py",
+        "verification/chemotaxis_integral_feedback_example_test.py",
+        "verification/chemotaxis_integral_feedback_example.json",
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        27,
+        38,
+        66,
+        74,
+        89
+      ]
+    },
+    {
       "path": "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
       "sha256": "fd85108f050c8742e4ebad33a7f82887ac7d6f8ea20217eaa87e5500059eac88",
       "bytes": 9172,
@@ -1298,6 +1331,21 @@
       "risk_phrase_lines": [
         9,
         11
+      ]
+    },
+    {
+      "path": "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
+      "sha256": "b86ba58b85247febcf78f1a1338aba682b2c98a215e31ebcfa0ac53fd3f81dad",
+      "bytes": 2039,
+      "lines": 9,
+      "title": "Plan: empirical bacterial chemotaxis and organization",
+      "headings": [
+        "Plan: empirical bacterial chemotaxis and organization"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": [
+        5,
+        7
       ]
     },
     {
@@ -2786,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "3169a172421a0d9b8ad7ac88e7324535bb57692dd187091cc06b446a8915a4c3",
-      "bytes": 38151,
+      "sha256": "32e180af5178ebe5f1954b91b227f76cf31f71abbbd004389bce3f40ade92ba4",
+      "bytes": 38388,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2806,6 +2854,7 @@
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
         "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
+        "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4786,9 +4835,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "53baced96da5df0fdefa111796eaf7c5149f8a03c9b495ecf8f9ed77466b7fbc",
-      "bytes": 139369,
-      "lines": 1091,
+      "sha256": "0697f712d27fec6108fe09cffc4c2df40e21a0ede5286af7343b36c24a5bd163",
+      "bytes": 139936,
+      "lines": 1095,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4992,6 +5041,8 @@
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
         "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
+        "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
+        "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
@@ -5576,6 +5627,8 @@
         "verification/interacting_clock.py",
         "verification/internal_reference_event.py",
         "verification/intrinsic_clock_phase_erasure_gate.py",
+        "verification/jaworski_organization_turnover.py",
+        "verification/jaworski_organization_turnover_test.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
         "verification/kavuri_qpv_asymmetric_geometry.py",
@@ -5871,18 +5924,18 @@
         72,
         144,
         196,
-        263,
-        292,
-        338,
-        365,
-        424,
-        518,
-        533,
-        569,
-        578,
-        581,
-        584,
-        648
+        265,
+        294,
+        340,
+        367,
+        426,
+        520,
+        535,
+        571,
+        580,
+        583,
+        586,
+        650
       ]
     },
     {
@@ -7394,9 +7447,9 @@
     },
     {
       "path": "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
-      "sha256": "6ffae02c85f6fba8c8287a3c5b347aae6235d0f260b7ea1a4aafdc57e5f498b3",
-      "bytes": 12417,
-      "lines": 78,
+      "sha256": "4e5ff4e450a25c44d8246deffb039209f5b314b0fd5a95fdd1a025cef59f1e0f",
+      "bytes": 12710,
+      "lines": 80,
       "title": "Organization through turnover: a finite comparison after Jaworski",
       "headings": [
         "Organization through turnover: a finite comparison after Jaworski",
@@ -7412,6 +7465,7 @@
         "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
         "constitutive-reality-thesis.md",
         "verification/jaworski_organization_turnover.json",
+        "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
         "verification/jaworski_organization_turnover.py",
         "verification/jaworski_organization_turnover.json",
         "verification/jaworski_organization_turnover_test.py",
@@ -7425,7 +7479,7 @@
         41,
         43,
         57,
-        78
+        80
       ]
     },
     {

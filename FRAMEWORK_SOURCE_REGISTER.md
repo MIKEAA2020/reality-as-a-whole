@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 531 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 431 verification Python scripts.
+- 533 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 433 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -37,6 +37,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [AXIARCHIC_BRIDGE_AUDIT.md](AXIARCHIC_BRIDGE_AUDIT.md) — The axiarchic bridge: granting a unique Good still does not derive actuality
 - [AXIARCHIC_CONSTITUTION_CANDIDATE.md](AXIARCHIC_CONSTITUTION_CANDIDATE.md) — From goodness of being to axiarchic constitution
 - [AXIOLOGY_STATUS.md](AXIOLOGY_STATUS.md) — Axiology: consolidated argument, rival accounts, and next decisive work
+- [BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md](BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md) — Bacterial chemotaxis: what organization explains, and what it does not
 - [BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md](BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md) — Structural realism, effective particles and plural experience
 - [BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md](BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md) — Music appraisal: full-paper reading and centrality consistency audit
 - [BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md](BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md) — Fixed reading plan: Basile on panpsychism and mental composition
@@ -56,6 +57,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CHAIN_COMPLETE.md](CHAIN_COMPLETE.md) — The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
 - [CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) — The combination problem: full supplied paper and the relational candidate
 - [CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md](CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md) — Fixed calculation plan: physical structures and the combination argument
+- [CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md](CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md) — Plan: empirical bacterial chemotaxis and organization
 - [CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md) — Cicurel's *Brain-centric*: an audit for the experiential and quantum program
 - [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
 - [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
@@ -686,6 +688,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
 - [verification/chalmers_structural_alternatives.py](verification/chalmers_structural_alternatives.py)
 - [verification/chalmers_structural_alternatives_test.py](verification/chalmers_structural_alternatives_test.py)
+- [verification/chemotaxis_integral_feedback_example.py](verification/chemotaxis_integral_feedback_example.py)
+- [verification/chemotaxis_integral_feedback_example_test.py](verification/chemotaxis_integral_feedback_example_test.py)
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)
 - [verification/clock_choice.py](verification/clock_choice.py)
 - [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)
