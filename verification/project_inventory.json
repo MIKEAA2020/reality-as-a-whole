@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 593,
-  "bytes": 7345000,
-  "line_count": 65411,
-  "document_count_with_risk_phrases": 546,
+  "document_count": 594,
+  "bytes": 7356621,
+  "line_count": 65500,
+  "document_count_with_risk_phrases": 547,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "42daa02b67d445a1a84caee8174134edb933f9ccd160507f33f95050f12b7110",
-      "bytes": 41065,
+      "sha256": "0188bd42a2f6d745b03762fca563038edf9df9dd2980a7e135aed8261d75f71a",
+      "bytes": 41389,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2865,6 +2865,7 @@
         "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
         "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
         "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+        "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4896,9 +4897,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "951bf2c88490b9b8ce37c6acd33aeb2b3a21a7647d7c039ee29fc3d49bcb18a8",
-      "bytes": 145106,
-      "lines": 1133,
+      "sha256": "dbb1067a3bf61cd28788ea65608d020f089eab6a5c76cd8dc9754bdfb3badf47",
+      "bytes": 145498,
+      "lines": 1136,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5141,6 +5142,7 @@
         "LEIBNIZ_CREATION_AND_APPEARANCE.md",
         "LEVY_NEBES_SPERRY_1971_FEEDBACK_PRIMARY_READING_PLAN.md",
         "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
+        "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
         "LOCALIZED_CONSTRAINT_CLOCK.md",
@@ -5736,6 +5738,8 @@
         "verification/laser_pain_trial_baseline.py",
         "verification/laser_pain_trial_baseline_test.py",
         "verification/latent_experience_three_probes.py",
+        "verification/lewtas_conservation_subject_gate.py",
+        "verification/lewtas_conservation_subject_gate_test.py",
         "verification/linearized_lattice_curvature.py",
         "verification/linearized_spherical_record.py",
         "verification/local_preparation.py",
@@ -6023,18 +6027,18 @@
         74,
         148,
         202,
-        273,
-        302,
-        348,
-        377,
-        444,
-        538,
-        553,
-        589,
-        598,
-        601,
-        604,
-        668
+        274,
+        303,
+        349,
+        378,
+        445,
+        539,
+        554,
+        590,
+        599,
+        602,
+        605,
+        669
       ]
     },
     {
@@ -8410,6 +8414,36 @@
         69,
         79,
         93
+      ]
+    },
+    {
+      "path": "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
+      "sha256": "2280688e33c0d54de7f9ea1ac5e2ea23a0de97bf30f7057a5bf82d74dc9013e4",
+      "bytes": 10905,
+      "lines": 86,
+      "title": "When fusion and persistent private subjects make the same reports",
+      "headings": [
+        "When fusion and persistent private subjects make the same reports",
+        "Result",
+        "1. The two completed toy cases",
+        "2. A common observation channel",
+        "3. A conditional discriminator and its burden",
+        "4. Relation to the paper and the framework",
+        "5. Practical consequence",
+        "6. Checks"
+      ],
+      "local_links": [
+        "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+        "verification/lewtas_fusion_nested_observation_gate.py",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md",
+        "verification/lewtas_fusion_nested_observation_gate.py",
+        "verification/lewtas_fusion_nested_observation_gate_test.py",
+        "verification/lewtas_fusion_nested_observation_gate.json"
+      ],
+      "risk_phrase_lines": [
+        51,
+        73
       ]
     },
     {

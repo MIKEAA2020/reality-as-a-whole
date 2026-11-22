@@ -1,0 +1,45 @@
+{
+  "scope": "Invented finite model, not biological evidence or a subject census.",
+  "scenarios": {
+    "selected_fusion": "a and b fuse; c and d remain separate",
+    "private_copy": "a and b persist; c and d fuse into a type-corresponding field"
+  },
+  "state_quantities": {
+    "0": {
+      "total": 4,
+      "by_type": {
+        "red": 2,
+        "blue": 2
+      },
+      "subjects": 4
+    },
+    "1": {
+      "total": 4,
+      "by_type": {
+        "red": 2,
+        "blue": 2
+      },
+      "subjects": 3
+    }
+  },
+  "number_of_equal_record_histories_by_length": {
+    "1": 8,
+    "2": 64,
+    "3": 512,
+    "4": 4096
+  },
+  "designated_original_locals_persist_with_global_after_0_to_1": {
+    "selected_fusion": false,
+    "private_copy": true
+  },
+  "idealized_positive_assay_gap_example": {
+    "false_positive_upper_bound": 0.1,
+    "false_negative_upper_bound": 0.2,
+    "gap_lower_bound": 0.7
+  },
+  "caveats": [
+    "Identical observation mapping is assumed, not an empirical discovery.",
+    "Subject identity, experience, compositional amounts, types, and quality are all stipulated.",
+    "The illustrative assay error bounds are not measured or established."
+  ]
+}

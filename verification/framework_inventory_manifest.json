@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d0bd7db02e7340a5fe5c474a0427a9ad28a80a4e",
-  "file_count": 1742,
+  "base_head": "f5e5dd4049bc0a63be9d614d6aa943d0170684b4",
+  "file_count": 1746,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 41065,
-      "sha256": "42daa02b67d445a1a84caee8174134edb933f9ccd160507f33f95050f12b7110"
+      "bytes": 41389,
+      "sha256": "0188bd42a2f6d745b03762fca563038edf9df9dd2980a7e135aed8261d75f71a"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 145498,
-      "sha256": "dbb1067a3bf61cd28788ea65608d020f089eab6a5c76cd8dc9754bdfb3badf47"
+      "bytes": 145909,
+      "sha256": "2eaff0425c5a3ee7bf5e6f7a81295e1ccd79a07c237c10cad444a5c3fa94f786"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1162,6 +1162,11 @@
       "path": "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
       "bytes": 18172,
       "sha256": "2f8da5b864856bafa9066ae4d79ee1cd09e5b415e336a83a8f2974a79c5f7a79"
+    },
+    {
+      "path": "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
+      "bytes": 10905,
+      "sha256": "2280688e33c0d54de7f9ea1ac5e2ea23a0de97bf30f7057a5bf82d74dc9013e4"
     },
     {
       "path": "LICENSE",
@@ -5954,6 +5959,21 @@
       "sha256": "80e8a003f1dc217a5259585292b0705295828fa21f12c9a75380a24ecbe74010"
     },
     {
+      "path": "verification/lewtas_fusion_nested_observation_gate.json",
+      "bytes": 1183,
+      "sha256": "5e8aa09c713b6f6425f2f7890711582b77164638e72e7123902f671a94935aad"
+    },
+    {
+      "path": "verification/lewtas_fusion_nested_observation_gate.py",
+      "bytes": 4405,
+      "sha256": "b4ee5cd788e4c30a2b4d2d4633a280bb62a6eab046ab50f3344f1c22d9ea0197"
+    },
+    {
+      "path": "verification/lewtas_fusion_nested_observation_gate_test.py",
+      "bytes": 1855,
+      "sha256": "d11db9dd8d7887e200276b47f09b7c59dbba9cd1ebb6511c6ade7ff97932972a"
+    },
+    {
       "path": "verification/linearized_lattice_curvature.json",
       "bytes": 974,
       "sha256": "30945e44c5cd2c344f6f8eb2b2420c2e4af05d471b14f34a5fb96f9c21617faf"
@@ -6760,8 +6780,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 724401,
-      "sha256": "eeffee08ffd9c54296992fa69bc2f06c8b651d5d2a3676f04ff2b830c534d6c3"
+      "bytes": 725870,
+      "sha256": "8280148df6d255ad18b3e3921c7121fb442ab5ebd2761a9b3ad95c051bcbe648"
     },
     {
       "path": "verification/project_inventory.py",
