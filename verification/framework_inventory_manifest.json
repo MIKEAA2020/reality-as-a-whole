@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7b2bc20c128e9a42ce846363d99a4b54d5de7345",
-  "file_count": 1778,
+  "base_head": "8828602943ec7c1332db11abd4f7c91c5997eeb0",
+  "file_count": 1782,
   "files": [
     {
       "path": ".gitattributes",
@@ -755,8 +755,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 44215,
-      "sha256": "dc8fea9a83a9aee34d973ad37c7a55559c8b9ecb7d4baafdd5d959b3d6b25f9e"
+      "bytes": 44552,
+      "sha256": "974298d2824321ece863883aed3e8827200ec9d3b72fb943be21af93db5020e0"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -790,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 149130,
-      "sha256": "b71ae3accc0ef45cf3aa68c55de6dbd66b449b7d0fc0e2824de8037bc2db5ea5"
+      "bytes": 149506,
+      "sha256": "a08a7e504748541c7081cab5dc78ad5b741e78e41d57caac5ee2bfa5451f5010"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -877,6 +877,11 @@
       "path": "GRAVITATING_PROPER_TIME_CLOCK.md",
       "bytes": 18982,
       "sha256": "b68786f7fa0ced4be08af3cde5a55bb0e47a3c095b953d399d0c433003618c6e"
+    },
+    {
+      "path": "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
+      "bytes": 10586,
+      "sha256": "a558adbe5ceee5ea9f6efce2641634698579e2ba4d26013a1898d96f2d3f7b50"
     },
     {
       "path": "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
@@ -2490,8 +2495,8 @@
     },
     {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
-      "bytes": 13966,
-      "sha256": "392acd75c44e327aa15d1e04d68858c3f8f2fadae03385c01e4ace66ac472cb3"
+      "bytes": 14161,
+      "sha256": "0e523b44be0b94c77d123dec811bb65c023ea5101dba5ba4cb6f066c9a65f8e7"
     },
     {
       "path": "TIME_QUANTUM_WHOLE_MAUDLIN_VEDRAL.md",
@@ -5529,6 +5534,21 @@
       "sha256": "06854c462d75c8bd176770c9cdfb048a4a5fb0b1ff09ae225db391655e33bca5"
     },
     {
+      "path": "verification/gravity_clock_duration_calibration.json",
+      "bytes": 2180,
+      "sha256": "91832eea71b477da94e5201091975775ddbb66f4dfce7d54be3346225197e1a7"
+    },
+    {
+      "path": "verification/gravity_clock_duration_calibration.py",
+      "bytes": 4306,
+      "sha256": "33e81bb4e2cf4fc9811f5b91bb1304eb20f89c11606ecbb36ec7eeb47bd23db2"
+    },
+    {
+      "path": "verification/gravity_clock_duration_calibration_test.py",
+      "bytes": 2436,
+      "sha256": "c26735f4c1d1756bd60fd0031933088b94e890351b78e53f2abc9108a7650464"
+    },
+    {
       "path": "verification/ground_support_factorization_gate.json",
       "bytes": 776,
       "sha256": "345df5cd3fbfc1485d8a644ed84b730ee539268a84fdf63dfbb029c9e2364084"
@@ -6895,8 +6915,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 738418,
-      "sha256": "b010df516ceea676462e0dd5d33f8bdf543bccd403efaf31deb910c1a5fb2154"
+      "bytes": 739891,
+      "sha256": "53beab55cf088ebd138019ea6113f029cbf70226ef1c2a2ac8b0cb25636f813a"
     },
     {
       "path": "verification/project_inventory.py",

@@ -4,6 +4,8 @@
 
 **Target:** a self-contained physical account of internal change, records and emergent spacetime without an external clock for the timeless whole. Conscious experience and the metaphysical actuality of that whole remain separate explanatory obligations, not consequences of any operator identity here. No assumption that a particular clock must be globally valid is made.
 
+**Follow-up:** [finite-range calibration](GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md) bounds a conditional estimator of the energy-averaged quantum response; the full problem and B7 remain open.
+
 ## 1. Select the best existing bridge, not a new toy by default
 
 The repository already contains a nontrivial benchmark: [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md). It augments a flat FLRW Einstein–massless-scalar model with negative cosmological constant and a **specified homogeneous, smeared comoving oscillator**. Its energy enters the gravitational constraint. In a declared ordering, the two oscillator-energy channels scatter off different Morse potentials. The source describes the physical continuum, the frequency sector, and why negative auxiliary bound modes are excluded by its real-momentum constraint. The source's action and spectral construction are premises of the present calculation; their full derivations have not been independently re-audited here.

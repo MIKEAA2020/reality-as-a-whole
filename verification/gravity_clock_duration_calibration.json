@@ -1,0 +1,73 @@
+{
+  "status": "passed",
+  "scope": "Conditional numerical checks, not B7 or an experimental result.",
+  "bounds": {
+    "phase_lower": 0.7955368849629701,
+    "phase_upper": 2.056637061435917,
+    "sin_lower": 0.7142394743936888,
+    "response_lipschitz": 3.4609053497942384,
+    "statistical_probability_error": 0.0030368073095415255,
+    "statistical_duration_error": 0.01417268492531604,
+    "band_duration_error": 0.03460905349794238,
+    "total_duration_error": 0.04878173842325842,
+    "n": 200000,
+    "alpha": 0.05
+  },
+  "examples": [
+    {
+      "band": [
+        2,
+        2.01
+      ],
+      "p_plus": 0.5766069811051273,
+      "estimated_response_at_mean_probability": 2.3616275086110763,
+      "midband_response": 2.361626930463059,
+      "midband_classical_at_kappa_0_4": 2.356949693832798,
+      "difference_from_midband": 5.781480174604781e-07
+    },
+    {
+      "band": [
+        2.5,
+        2.51
+      ],
+      "p_plus": 0.5924912812599322,
+      "estimated_response_at_mean_probability": 2.3079036803301447,
+      "midband_response": 2.3079033887354314,
+      "midband_classical_at_kappa_0_4": 2.305520245033769,
+      "difference_from_midband": 2.915947132642316e-07
+    },
+    {
+      "band": [
+        4,
+        4.01
+      ],
+      "p_plus": 0.6160199346669729,
+      "estimated_response_at_mean_probability": 2.2277034324858147,
+      "midband_response": 2.2277033621814666,
+      "midband_classical_at_kappa_0_4": 2.2271218265231654,
+      "difference_from_midband": 7.0304348120942e-08
+    },
+    {
+      "band": [
+        6,
+        6.01
+      ],
+      "p_plus": 0.6289487545692994,
+      "estimated_response_at_mean_probability": 2.183251435767774,
+      "midband_response": 2.183251415038316,
+      "midband_classical_at_kappa_0_4": 2.1830789689143004,
+      "difference_from_midband": 2.0729458150015034e-08
+    },
+    {
+      "band": [
+        7.99,
+        8.0
+      ],
+      "p_plus": 0.6353517554675147,
+      "estimated_response_at_mean_probability": 2.161120955786041,
+      "midband_response": 2.161120947026329,
+      "midband_classical_at_kappa_0_4": 2.1610478853769823,
+      "difference_from_midband": 8.759712066819247e-09
+    }
+  ]
+}

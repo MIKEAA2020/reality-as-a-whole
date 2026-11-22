@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [finite-range gravity-clock calibration](GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md) gives an assumption-dependent confidence bound for the existing homogeneous clock response, not a B7 pass, local clock, or solution of time.
+
 The [complete 2004/2009 attentional-blink results audit](SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md) uses the user-supplied Ptito article and the newly accessible extracted Giesbrecht–Kingstone paper. It corrects Ptito's patient SOA to 233 ms and notes that the earlier study put T2 at a different location even on same-field trials; its figure image was subsequently visually inspected in the [dual-task and cue audit](DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md); both studies' raw trials remain uninspected. Behavioral lag effects do not establish subject incidence or phenomenal unity.
 
 The [Pinto 2017 supplement audit](PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md) reads the user-supplied individual first-person answers and translated DDC interview. It qualifies the main article's broad summary of felt continuity and identifies substantial detection-task eye-data exclusions; the authors report a similar pattern without those exclusions, but raw trial data remain uninspected. Subject incidence remains open.
@@ -162,7 +164,7 @@ Do not start another standalone graph gate or add another regression merely beca
 4. **B9/F3: measure.** Once a subject/experience reference class has a justified definition, specify what its weights measure, derive or independently defend normalization and transformation invariance, and work one prediction against an explicit alternative. A finite normalized distribution or a count of toy subjects is not a derived self-location measure.
 5. **B6–B8/B10: recover and test a common physical sector.** The *same candidate* must recover a specified established physical result with its domains and resources, and make a risky rival-discriminating prediction only where the intervention and experiential measurements are justified. Cite known derivations rather than presenting them as original. Local clock success is not a solution of gravity, and a good report predictor is not by itself an experiential bridge.
 
-These are a dependency-guided program, not an assertion that B4 must be solved before B1, or that the full account will be completed in a fixed number of turns. The immediate task is to focus on the integrated candidate's **subject/quality constitution and its comparison on a common domain**, using the existing worked sector and known failures rather than generating a new independent toy. The goal is to find a real bridge or demonstrate precisely why the currently proposed bridge fails—not to force a favorable verdict.
+These are a dependency-guided program, not an assertion that B4 must be solved before B1, or that the full account will be completed in a fixed number of turns. The current priority is B7's unresolved time/gravity gate and its B6/B8 connections, using the existing backreacting model rather than adding standalone toys; see the [finite-range calibration and next focused gate](GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md). The subject/quality constitution and common-domain rival comparison remain essential open obligations, as do actuality and measure. The goal is a real bridge or a precise failure—not a forced favorable verdict.
 
 ## 4. Real-recording feasibility update
 

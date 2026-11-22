@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 602,
-  "bytes": 7482202,
-  "line_count": 66239,
-  "document_count_with_risk_phrases": 555,
+  "document_count": 603,
+  "bytes": 7493724,
+  "line_count": 66318,
+  "document_count_with_risk_phrases": 556,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4773,9 +4773,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "dc8fea9a83a9aee34d973ad37c7a55559c8b9ecb7d4baafdd5d959b3d6b25f9e",
-      "bytes": 44215,
-      "lines": 177,
+      "sha256": "974298d2824321ece863883aed3e8827200ec9d3b72fb943be21af93db5020e0",
+      "bytes": 44552,
+      "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4787,6 +4787,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -4864,31 +4865,32 @@
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
         "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        13,
         15,
-        33,
+        17,
         35,
-        39,
-        49,
-        53,
-        59,
+        37,
+        41,
+        51,
+        55,
         61,
-        75,
-        79,
-        91,
-        99,
+        63,
+        77,
+        81,
+        93,
         101,
-        105,
-        121,
-        131,
-        148,
-        165,
-        171
+        103,
+        107,
+        123,
+        133,
+        150,
+        167,
+        173
       ]
     },
     {
@@ -5067,9 +5069,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "03d4d0999b3abad0c0760fca6ec3afabd8bc7197fa409be8c56c9f1a2a717011",
-      "bytes": 148726,
-      "lines": 1160,
+      "sha256": "b71ae3accc0ef45cf3aa68c55de6dbd66b449b7d0fc0e2824de8037bc2db5ea5",
+      "bytes": 149130,
+      "lines": 1163,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5544,6 +5546,7 @@
         "STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md",
         "STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
+        "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md",
         "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
@@ -6139,6 +6142,8 @@
         "verification/string_t_duality_selector.py",
         "verification/structured_void_oscillation_identifiability_gate.py",
         "verification/subject_assay_dependence_control.py",
+        "verification/subject_boundary_dense_weak_links.py",
+        "verification/subject_boundary_dense_weak_links_test.py",
         "verification/subject_boundary_external_budget_gate.py",
         "verification/subject_cohesion_identity_redescription.py",
         "verification/subject_constitution_candidate_comparison.py",
@@ -6226,13 +6231,13 @@
         355,
         385,
         452,
-        547,
-        562,
-        598,
-        607,
-        610,
-        613,
-        677
+        548,
+        563,
+        599,
+        608,
+        611,
+        614,
+        678
       ]
     },
     {
@@ -6764,6 +6769,36 @@
         266,
         268,
         270
+      ]
+    },
+    {
+      "path": "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
+      "sha256": "a558adbe5ceee5ea9f6efce2641634698579e2ba4d26013a1898d96f2d3f7b50",
+      "bytes": 10586,
+      "lines": 72,
+      "title": "Finite-range calibration of the existing gravitating clock",
+      "headings": [
+        "Finite-range calibration of the existing gravitating clock",
+        "1. The target and assumptions",
+        "2. Certified phase branch and spectral variation",
+        "3. Estimator and confidence statement",
+        "4. Reproducible numerical controls and limits",
+        "5. Connection to the formal battery and next decisive step"
+      ],
+      "local_links": [
+        "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
+        "GRAVITATING_PROPER_TIME_CLOCK.md",
+        "verification/gravity_clock_duration_calibration.py",
+        "verification/gravity_clock_duration_calibration.json",
+        "verification/gravity_clock_duration_calibration_test.py",
+        "CLOCK_CHOICE_EQUIVALENCE.md",
+        "TURNING_CLOCK_ATLAS.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        15,
+        39,
+        64
       ]
     },
     {
@@ -16522,9 +16557,9 @@
     },
     {
       "path": "TIME_DECISIVE_TEST_GRAVITY_RECORD.md",
-      "sha256": "392acd75c44e327aa15d1e04d68858c3f8f2fadae03385c01e4ace66ac472cb3",
-      "bytes": 13966,
-      "lines": 114,
+      "sha256": "0e523b44be0b94c77d123dec811bb65c023ea5101dba5ba4cb6f066c9a65f8e7",
+      "bytes": 14161,
+      "lines": 116,
       "title": "Problem of time: a decisive test on a gravitating clock, and the remaining gap",
       "headings": [
         "Problem of time: a decisive test on a gravitating clock, and the remaining gap",
@@ -16536,6 +16571,7 @@
         "6. Connection to time and decisive open tests"
       ],
       "local_links": [
+        "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "GRAVITATING_PROPER_TIME_CLOCK.md",
         "DUST_CLOCK_RECORD.md",
         "COLD_ATOM_ENTROPIC_CLOCK_AUDIT.md",
@@ -16546,9 +16582,9 @@
         "TIME_SOLUTION_EVIDENCE_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        27,
-        39,
-        53
+        29,
+        41,
+        55
       ]
     },
     {

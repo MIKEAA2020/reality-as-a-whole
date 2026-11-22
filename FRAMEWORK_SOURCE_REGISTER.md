@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 559 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 471 verification Python scripts.
+- 560 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 473 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -185,6 +185,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [GOAL_RELATIVE_VALUE_ARGUMENT.md](GOAL_RELATIVE_VALUE_ARGUMENT.md) — Goal-relative evaluation: the rigorous result and its limits
 - [GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md](GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md) — Relaxations, persistence, and what an optimizer can establish
 - [GRAVITATING_PROPER_TIME_CLOCK.md](GRAVITATING_PROPER_TIME_CLOCK.md) — A gravitating proper-time clock and its derived readout instrument
+- [GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md](GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md) — Finite-range calibration of the existing gravitating clock
 - [HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md](HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md) — Hair, experience, and the intrinsic nature of reality
 - [HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md](HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md) — Timeless detectors and relational order
 - [HAMILTONIAN_CLOCK_DETECTOR.md](HAMILTONIAN_CLOCK_DETECTOR.md) — A finite-mass Hamiltonian clock and spatially triggered quantum detector
@@ -811,6 +812,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/graded_rivalry_witness_test.py](verification/graded_rivalry_witness_test.py)
 - [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
+- [verification/gravity_clock_duration_calibration.py](verification/gravity_clock_duration_calibration.py)
+- [verification/gravity_clock_duration_calibration_test.py](verification/gravity_clock_duration_calibration_test.py)
 - [verification/ground_support_factorization_gate.py](verification/ground_support_factorization_gate.py)
 - [verification/halliwell_green_coefficient_gate.py](verification/halliwell_green_coefficient_gate.py)
 - [verification/halliwell_unordered_and_relational_records_gate.py](verification/halliwell_unordered_and_relational_records_gate.py)
