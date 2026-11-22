@@ -2,6 +2,8 @@
 
 ## The correction
 
+For the subsequent proposal that a global energy-like or experiential quantity might have a zero total, including the user's clarification about convergent paths to truth, see [the updated chat audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md). That proposal is under examination; zero net, literal nonexistence, and the continued reality of local experience are distinct claims.
+
 The user subsequently preferred material substrate-independence alongside the intrinsically experiential ground. For that refined candidate, its finite implementation and symmetry checks, and the distinction between self-existence and a temporal act of self-creation, see [Self-existent experiential reality and substrate-independence](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md).
 
 For the next conditional necessity and symmetry results, and the linked dependency-driven gap plan, see [Necessary experiential plenitude: narrowing the foundational gaps](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md). For a current, version-pinned assessment of FloatingPragma's possible contributions, see [the framework gap assessment](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md).

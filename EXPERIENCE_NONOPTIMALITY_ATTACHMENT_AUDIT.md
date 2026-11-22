@@ -1,5 +1,7 @@
 # Experience, a non-optimal world, and the attached DPMRS discussion
 
+**Updated transcript:** the [zero-total and intelligibility audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md) reads the later added conversation, preserves the user's correction about convergent paths to truth, and tests the chat's closure-to-zero inference. It does not adopt the chat's claimed zero-residue completion.
+
 > **Later user correction:** The original interpretation and open decision in this historical audit have been superseded: the current target is a relational, intrinsically experiential whole with genuine plurality, not an assumed universal consciousness; strongest possibility=actuality includes genuine local possibilities as actual within the whole. See [the later two-transcript synthesis](TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md) and [current correction](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md). The conditional objections below remain useful, but references to the former governing target are historical.
 
 ## Purpose and interpretation

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 611,
-  "bytes": 7600026,
-  "line_count": 67163,
-  "document_count_with_risk_phrases": 564,
+  "document_count": 612,
+  "bytes": 7614828,
+  "line_count": 67246,
+  "document_count_with_risk_phrases": 565,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4122,9 +4122,9 @@
     },
     {
       "path": "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
-      "sha256": "5b13265c1fdbb20f6a59cd40fa357e0cbbfd4a09a29df563942a08825a7e8048",
-      "bytes": 11039,
-      "lines": 68,
+      "sha256": "393b809ca4227d0d61cf71b03cdd96981907f1dd8225df19381042fcbf911fc1",
+      "bytes": 11378,
+      "lines": 70,
       "title": "Experience, a non-optimal world, and the attached DPMRS discussion",
       "headings": [
         "Experience, a non-optimal world, and the attached DPMRS discussion",
@@ -4137,6 +4137,7 @@
         "6. Result and next dependencies"
       ],
       "local_links": [
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "NECESSARY_ARTICULATED_UNITY.md",
@@ -4148,9 +4149,10 @@
         "ZERO_RESIDUE_CLAIM_CORRECTION.md"
       ],
       "risk_phrase_lines": [
-        33,
-        66,
-        68
+        3,
+        35,
+        68,
+        70
       ]
     },
     {
@@ -4870,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4a3454b34bec17e9929991790d084ae32a1d6866aa086373fac9153377d2739c",
-      "bytes": 46518,
-      "lines": 183,
+      "sha256": "ffee1147174487b574664a9236619919f050a42941f566e61d61928598a3312b",
+      "bytes": 46960,
+      "lines": 185,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4884,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
@@ -4976,27 +4979,28 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        19,
+        5,
+        11,
         21,
-        39,
+        23,
         41,
-        45,
-        55,
-        59,
-        65,
+        43,
+        47,
+        57,
+        61,
         67,
-        81,
-        85,
-        97,
-        105,
+        69,
+        83,
+        87,
+        99,
         107,
-        111,
-        127,
-        137,
-        154,
-        171,
-        177
+        109,
+        113,
+        129,
+        139,
+        156,
+        173,
+        179
       ]
     },
     {
@@ -5175,9 +5179,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c8615b20dd7680fd131223dfb28f4e682f896112b972a805e00f2b8941165312",
-      "bytes": 152044,
-      "lines": 1187,
+      "sha256": "40b4d97c53a839e5b59459ae1ae10d69cbb2738673c3b492ee7c74c2df906107",
+      "bytes": 152402,
+      "lines": 1190,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5244,6 +5248,7 @@
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
+        "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "CLOSURE_SYNTHESIS.md",
         "CLUES_CROSS_PROJECT_ASSESSMENT.md",
         "COLD_ATOM_CLOCK_COMPARISON.md",
@@ -5899,6 +5904,8 @@
         "verification/chemotaxis_integral_feedback_example_test.py",
         "verification/cie_metamer_experiential_gate.py",
         "verification/clock_choice.py",
+        "verification/clock_smearing_modular_comparison.py",
+        "verification/clock_smearing_modular_comparison_test.py",
         "verification/cogitate_analysis_audit.py",
         "verification/cold_atom_clock.py",
         "verification/cold_atom_comparison.py",
@@ -6352,22 +6359,22 @@
         17,
         39,
         61,
-        68,
-        78,
-        154,
-        214,
-        288,
-        317,
-        363,
-        393,
-        460,
-        556,
-        571,
-        607,
-        616,
-        619,
-        622,
-        686
+        69,
+        79,
+        155,
+        215,
+        289,
+        318,
+        364,
+        394,
+        461,
+        557,
+        572,
+        608,
+        617,
+        620,
+        623,
+        687
       ]
     },
     {
@@ -14412,9 +14419,9 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "826d3ac9f8ff3e06454a29dbcfdb30d50f43893305c3a33fa1541ea571d6600f",
-      "bytes": 13050,
-      "lines": 92,
+      "sha256": "9143c71d24472fbf9b48716363651e52d8ff739da0db266d63d227f609829b6d",
+      "bytes": 13448,
+      "lines": 94,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -14427,6 +14434,7 @@
         "Verification and status"
       ],
       "local_links": [
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
@@ -14437,9 +14445,9 @@
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
-        23,
-        33,
-        49
+        25,
+        35,
+        51
       ]
     },
     {
@@ -17669,6 +17677,42 @@
         67,
         69,
         100
+      ]
+    },
+    {
+      "path": "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
+      "sha256": "be93aa4d1588bb4ddda1d73f6a5d12a084b61b27f9be7fd910b50cee6cc108dc",
+      "bytes": 13265,
+      "lines": 74,
+      "title": "Updated experience and non-optimal-world chat: zero, closure and intelligibility",
+      "headings": [
+        "Updated experience and non-optimal-world chat: zero, closure and intelligibility",
+        "What changed and how it is being interpreted",
+        "1. The chat's closure theorem is false as stated",
+        "2. The linked zero-energy hypothesis is a real lead",
+        "3. “Everything is energy” as a substantive candidate",
+        "4. Zero net awareness and actual experience",
+        "5. Parsimony, infinity and next research gate"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt",
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
+        "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "verification/closed_quantity_zero_controls.py",
+        "verification/closed_quantity_zero_controls_test.py",
+        "verification/closed_quantity_zero_controls.json",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        14,
+        24,
+        37,
+        41,
+        43,
+        54,
+        72
       ]
     },
     {

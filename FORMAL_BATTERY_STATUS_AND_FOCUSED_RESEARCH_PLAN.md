@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [updated experience and zero-total chat audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md) tests the claim that closed signed conserved quantities must vanish, gives exact nonzero and zero controls, and retains the user's generalized-energy proposal as a research candidate. It does not derive a cosmological energy or a bridge from net experiential balance to subject constitution; the substantive battery remains open.
+
 The [finite clock-smearing comparison](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) shows in one constrained qutrit history that identical Gibbs modular flow can accompany different conditional records; a stochastic clock-only relabelling cannot universally undo the specified noisy joint effects. Its declared measurement operations leave the constraint sector, and their disturbance is not gravitational backreaction. No B7 pass follows.
 
 The [Lighthouse v2.2 comparative assessment](LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md) distinguishes its theological commitments from this project's targets, and flags that the literal trace has trivial modular flow. Its research programme and our finite-matrix controls do not close B7 or the experience bridge.

@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "model": "three-node closed oriented graph, exact integers",
+  "nonzero_conserved_signed_charge_before": [
+    2,
+    -1,
+    2
+  ],
+  "nonzero_conserved_signed_charge_after": [
+    4,
+    2,
+    -3
+  ],
+  "conserved_total": 3,
+  "additional_gauss_law_edge_field": [
+    1,
+    2,
+    0
+  ],
+  "gauss_vertex_charge": [
+    -1,
+    -1,
+    2
+  ],
+  "gauss_total": 0,
+  "symmetry_invariant_configuration": [
+    1,
+    0,
+    -1
+  ],
+  "symmetry_fixed_total": 0,
+  "toy_signed_labelled_occurrences": [
+    [
+      "A",
+      2
+    ],
+    [
+      "B",
+      -2
+    ]
+  ],
+  "toy_net_score": 0,
+  "scope": "Algebraic controls only; not a derivation of energy, subject incidence, valence aggregation, or actual cosmology."
+}
