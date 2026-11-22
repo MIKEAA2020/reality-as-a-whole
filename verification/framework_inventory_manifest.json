@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e9cbd6c4502ec918899cd52884fc4b51f8f15220",
-  "file_count": 1786,
+  "base_head": "f2fe032e789a9f527bf87709f03bf8b4bf35511e",
+  "file_count": 1790,
   "files": [
     {
       "path": ".gitattributes",
@@ -755,8 +755,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 44833,
-      "sha256": "44ea89eb54ce65c7d8dc98c11463672cd6cc0965297025eba8d5745c162d457f"
+      "bytes": 44997,
+      "sha256": "4a63b31a8d91432b78efcded198543286cbaea8bf0c33f11c19dab7cca8ca5fc"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -790,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 149886,
-      "sha256": "5510e2906fd21f61456cd0e9b03c8c26ec8ae683580062f8bdbad9698d2fbada"
+      "bytes": 150282,
+      "sha256": "1345f9eb6fd9f210281452636cf95e30958f070a97b1008ec9aecef15a2224b4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -885,8 +885,13 @@
     },
     {
       "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
-      "bytes": 13538,
-      "sha256": "f1a6072a2283003953aa61d6c3ba87283df7bbe0a26664d0f8abd2a826524c30"
+      "bytes": 13832,
+      "sha256": "3638f752797ae38452a7e00375dc5995bd4608d99e712574696e5e1761b22227"
+    },
+    {
+      "path": "GRAVITY_VOLUME_JET_RECONSTRUCTION_AND_LIMIT.md",
+      "bytes": 12395,
+      "sha256": "20ba4fc948b30d83fd856d0168d9208c7de4f19625698b6d8bd09790459f40ae"
     },
     {
       "path": "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
@@ -5569,6 +5574,21 @@
       "sha256": "9890a3fe4191ff5830368c6296639671245a45cae9c26fc36015cc72a73d7482"
     },
     {
+      "path": "verification/gravity_volume_jet_reconstruction.json",
+      "bytes": 1428,
+      "sha256": "d9c33586fc330b66515dd8b646b985feffd8f5df91ce14810aad556ec70de05b"
+    },
+    {
+      "path": "verification/gravity_volume_jet_reconstruction.py",
+      "bytes": 6775,
+      "sha256": "69565831cd3bd8bfaccfa1a9066e6e22da115495925daf366d8491a7a20625a4"
+    },
+    {
+      "path": "verification/gravity_volume_jet_reconstruction_test.py",
+      "bytes": 2939,
+      "sha256": "c301b177af1d7c77cd6818f84a9e81cfd28fc57fdb2b80aef8a67fab9d8c75bc"
+    },
+    {
       "path": "verification/ground_support_factorization_gate.json",
       "bytes": 776,
       "sha256": "345df5cd3fbfc1485d8a644ed84b730ee539268a84fdf63dfbb029c9e2364084"
@@ -6935,8 +6955,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 741451,
-      "sha256": "6b979f5774d371cbea23a56507e39e5e3e658972b6312d8cb252bdf1514d73cf"
+      "bytes": 742923,
+      "sha256": "4f8833f31dbebcec97191461bc3fc71d1f35b22822cc7595c741b62a9fb88054"
     },
     {
       "path": "verification/project_inventory.py",

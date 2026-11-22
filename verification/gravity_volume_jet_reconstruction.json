@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "scope": "Conditional mathematical jet reconstruction, not a physical volume-clock instrument or B7 pass.",
+  "uniform_chart_bounds_b_0_to_1": {
+    "max_integrated_abs_potential": 2.767215318081707,
+    "lower_squared_norm": 0.002500194511309135,
+    "upper_squared_norm": 2.5328325252303237,
+    "certified_joint_success_probability": 0.0009871140260573601
+  },
+  "bounds_at_b_0": {
+    "max_integrated_abs_potential": 0.7,
+    "lower_squared_norm": 0.019758501441298336,
+    "upper_squared_norm": 0.3204986975586139,
+    "certified_joint_success_probability": 0.061649240985401615
+  },
+  "all_classical_turns_chart_b_max": 2.1543714065647133,
+  "all_classical_turns_analytic_bound": {
+    "max_integrated_abs_potential": 33.88449368961054,
+    "lower_squared_norm": 7.65440626026794e-17,
+    "upper_squared_norm": 82731093207279.56,
+    "certified_joint_success_probability": 9.25215171651379e-31
+  },
+  "sampling": {
+    "count": 366,
+    "squared_norm_min": 0.03969302858011987,
+    "squared_norm_max": 0.170125741420174
+  },
+  "max_derivative_finite_difference_error": 1.7350248347901653e-10,
+  "max_frame_inverse_error": 3.331391796911832e-16,
+  "max_chart_transport_error": 3.3306690738754696e-16,
+  "max_two_event_probability_error": 2.220446049250313e-16,
+  "phase_calibrated_uniform_packet_band": [
+    2.49,
+    2.5
+  ],
+  "distinguishability_after_tracing_jet_and_k": 0.8517742323682111
+}
