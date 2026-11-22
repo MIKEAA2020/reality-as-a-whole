@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 571,
-  "bytes": 7138764,
-  "line_count": 64235,
-  "document_count_with_risk_phrases": 530,
+  "document_count": 572,
+  "bytes": 7159053,
+  "line_count": 64351,
+  "document_count_with_risk_phrases": 531,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2786,8 +2786,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "07dafe3b2cd0c470760b7a40ba777eec9ef51e06a53943044cad4d598404770c",
-      "bytes": 37647,
+      "sha256": "ce9a122ea96cf618d76b45273a089dba608972e85ddaa4aea7820db0bb49edd5",
+      "bytes": 37921,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2804,6 +2804,7 @@
         "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4784,9 +4785,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e8887362f276f0dcee303d289cb91be6d25cdcb2fb3975daff5553eba2f4558f",
-      "bytes": 138585,
-      "lines": 1085,
+      "sha256": "e0ee08941749e829d81c1158db4d88951ae4a3036c3b13a09e17f5153d525790",
+      "bytes": 139168,
+      "lines": 1090,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4993,6 +4994,9 @@
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
         "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
+        "KAVURI_QPV_AXIAL_IDENTITY_AND_AUTHOR_QUERY_PLAN.md",
+        "KAVURI_QPV_AXIAL_IDENTITY_AUDIT.md",
+        "KAVURI_QPV_DRAFT_AUTHOR_QUERY.md",
         "KAVURI_QPV_PREPRINT_SUPPLEMENT_DISCREPANCY_FOLLOWUP.md",
         "KAVURI_QPV_SUPPLEMENT_DATA_DISCREPANCY_PLAN.md",
         "KAVURI_QUANTUM_POSITION_VERIFICATION_READING_PLAN.md",
@@ -5574,6 +5578,8 @@
         "verification/k_pairwise_constraint_and_gauge_gate.py",
         "verification/kavuri_qpv_asymmetric_geometry.py",
         "verification/kavuri_qpv_asymmetric_geometry_test.py",
+        "verification/kavuri_qpv_axial_identity.py",
+        "verification/kavuri_qpv_axial_identity_test.py",
         "verification/kavuri_qpv_discrepancy_checks.py",
         "verification/kavuri_qpv_pdf_audit.py",
         "verification/kemeny_snell_reversible_projection.py",
@@ -5863,18 +5869,18 @@
         72,
         144,
         196,
-        259,
-        288,
-        334,
-        361,
-        420,
-        514,
-        529,
-        565,
-        574,
+        262,
+        291,
+        337,
+        364,
+        423,
+        517,
+        532,
+        568,
         577,
         580,
-        644
+        583,
+        647
       ]
     },
     {
@@ -7332,6 +7338,37 @@
         25,
         31,
         50
+      ]
+    },
+    {
+      "path": "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
+      "sha256": "d6dd501b7aaa79d6cb090f3a2e6c3b65533fa55b850991e616c4ae2db051a503",
+      "bytes": 19432,
+      "lines": 111,
+      "title": "Jaworski on biological structure: assessment and relevance to the framework",
+      "headings": [
+        "Jaworski on biological structure: assessment and relevance to the framework",
+        "Bottom line",
+        "Source and method",
+        "1. What the argument actually says",
+        "2. What the evidence supports—and the central gap",
+        "3. Concrete comparison with our existing model",
+        "4. Consequences for our framework",
+        "5. How to make the comparison sharper"
+      ],
+      "local_links": [
+        "constitutive-reality-thesis.md",
+        "verification/constitutive_checks.py",
+        "constitutive-reality-thesis.md",
+        "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
+        "constitutive-reality-thesis.md",
+        "UNIFIED_CONSTITUTION_MAP.md",
+        "substrate-independence-thesis.md"
+      ],
+      "risk_phrase_lines": [
+        52,
+        65,
+        79
       ]
     },
     {

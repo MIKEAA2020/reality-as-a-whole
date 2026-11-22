@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 528 root Markdown documents including this register; 43 research Markdown documents.
+- 529 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 429 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -201,6 +201,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [INTERVENTION_CONSCIOUSNESS_CALIBRATION.md](INTERVENTION_CONSCIOUSNESS_CALIBRATION.md) — Can the maintained-disclosure contrast be tested in a real intervention?
 - [INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md](INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md) — Timelessness, intrinsic time and the cost of removing a clock
 - [ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md](ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md) — Participatory realism and intelligibility from within the whole
+- [JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md](JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md) — Jaworski on biological structure: assessment and relevance to the framework
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
 - [KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md](KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md) — Plan: independent asymmetric QPV geometry check
