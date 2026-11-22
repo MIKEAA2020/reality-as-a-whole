@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 556 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 467 verification Python scripts.
+- 557 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 469 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -158,6 +158,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FINITE_TURNING_COUNTER_INSTRUMENT.md](FINITE_TURNING_COUNTER_INSTRUMENT.md) — A bounded turning-clock record in one constrained history
 - [FINITE_WINDING_READOUT.md](FINITE_WINDING_READOUT.md) — Finite winding clock: calibration, erasure and readout bias
 - [FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md](FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md) — First-personal givenness and the individuation of fields
+- [FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md](FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md) — First-person positive evidence: a less demanding test, and its limit
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
 - [FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md](FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md) — Formal battery: current status and focused research plan
@@ -959,6 +960,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/plenitude_symmetry_measure_gate.py](verification/plenitude_symmetry_measure_gate.py)
 - [verification/plenitude_truthmaker_relevance.py](verification/plenitude_truthmaker_relevance.py)
 - [verification/plural_ground_dominance_symmetry_gate.py](verification/plural_ground_dominance_symmetry_gate.py)
+- [verification/positive_experience_witness_gate.py](verification/positive_experience_witness_gate.py)
+- [verification/positive_experience_witness_gate_test.py](verification/positive_experience_witness_gate_test.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)

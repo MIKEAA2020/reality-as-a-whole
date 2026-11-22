@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "51e90edfab00d1ea1fbd19565c44e731fe09697b",
-  "file_count": 1769,
+  "base_head": "383758884324e34ad4e641f5d5d432e48d48298f",
+  "file_count": 1773,
   "files": [
     {
       "path": ".gitattributes",
@@ -465,8 +465,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 43038,
-      "sha256": "82d8c2d572a13bb5a4eec8c581ca4e465b4d94acd6a1547b85570afcc82d11a0"
+      "bytes": 43491,
+      "sha256": "5cbb8d3754e024717175a230ed0576ff17cb73ef19f3fe28eff74e77d32dbd94"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -739,6 +739,11 @@
       "sha256": "93f28f89fc6c716464da4afa57147495eeccc4cce210ce2d094e233c1ea44b48"
     },
     {
+      "path": "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
+      "bytes": 16402,
+      "sha256": "98c6b23a5cb60a40a1510d489e29fe010d99c9d81646ee6f79c8c94168e3cff1"
+    },
+    {
       "path": "FIXED_GAP_SOURCE_CLOCK.md",
       "bytes": 17473,
       "sha256": "ef5e9de196aa2bd8ee98286d0a63ef38e85a3f500c839a724dd74615003cc7d4"
@@ -785,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 148147,
-      "sha256": "61f67da18fb44d54cd23e59ca8c24d4c14b94e6902fa1b8a8c2829636a1dee91"
+      "bytes": 148557,
+      "sha256": "bba76fc7b1b35da5804aa7560dae6ce328d83f40ae41f9fbab1782012a6a1b68"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2335,8 +2340,8 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
-      "bytes": 18900,
-      "sha256": "8d7c658d0dacf6dec7c0ffa4e69eded747ff99175299f5c6598ad5d37bcb3e3d"
+      "bytes": 19701,
+      "sha256": "c9e67332ce468179893a595f12633014f0b57f0359519515c728bf7b9d516398"
     },
     {
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -6854,6 +6859,21 @@
       "sha256": "6f18dbe27b0b586bf5a7a50a5212d97fd3c50ddb1fd06f980bf13bcd7188eb95"
     },
     {
+      "path": "verification/positive_experience_witness_gate.json",
+      "bytes": 1562,
+      "sha256": "fc0e8b1f566a6c810c7f6cea4293e7fb3e2d90bb2de4b500e56bd382ebfcd15e"
+    },
+    {
+      "path": "verification/positive_experience_witness_gate.py",
+      "bytes": 2284,
+      "sha256": "aa686880167839eba73d7e3dd76c53879ae4f5fda3f0ffc36f02c5c61d68cbd4"
+    },
+    {
+      "path": "verification/positive_experience_witness_gate_test.py",
+      "bytes": 2180,
+      "sha256": "392642667e466978a22c210e1185879bce816ce5d3645daa73fd5292d25a36bf"
+    },
+    {
       "path": "verification/problem_of_time_closed.json",
       "bytes": 1986,
       "sha256": "b813a6e0ef0fb92e20d228d59dc87578914d1aab87d3b1120b853cfc0d19296b"
@@ -6865,8 +6885,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 733993,
-      "sha256": "8633de6d7e22d1e24ee4f6dc803c2b9196c43a9bdb970b7bb9cd5950994d2035"
+      "bytes": 735577,
+      "sha256": "4fe7433fcf0356b956d0b86275ad427cecea7b8e1f6c2a8ea9573384df4b961f"
     },
     {
       "path": "verification/project_inventory.py",

@@ -1,0 +1,56 @@
+{
+  "scope": "Invented one-sided calibration and report rates; no observations or validated assay.",
+  "population_example": {
+    "positive_rate": {
+      "fraction": "7/10",
+      "decimal": 0.7
+    },
+    "false_positive_upper_bound": {
+      "fraction": "1/10",
+      "decimal": 0.1
+    },
+    "sharp_lower_bound_reporter_experience": {
+      "fraction": "2/3",
+      "decimal": 0.6666666666666666
+    },
+    "attaining_example": {
+      "reporter_target_probability": {
+        "fraction": "2/3",
+        "decimal": 0.6666666666666666
+      },
+      "sensitivity": {
+        "fraction": "1",
+        "decimal": 1.0
+      },
+      "false_positive_rate": {
+        "fraction": "1/10",
+        "decimal": 0.1
+      },
+      "resulting_positive_rate": {
+        "fraction": "7/10",
+        "decimal": 0.7
+      }
+    }
+  },
+  "sampling_example": {
+    "n": 30,
+    "threshold": 16,
+    "per_trial_false_positive_bound": {
+      "fraction": "1/10",
+      "decimal": 0.1
+    },
+    "arbitrary_dependence_sharp_tail_bound": {
+      "fraction": "3/16",
+      "decimal": 0.1875
+    },
+    "independence_or_conditional_risk_control_tail_bound": {
+      "fraction": "91436772348183970519/25000000000000000000000000000",
+      "decimal": 3.6574708939273587e-09
+    },
+    "dependence_attainment": "With probability 3/16, choose 16 of 30 trials uniformly to be positive; otherwise none. Each trial is positive with probability 1/10.",
+    "max_alpha_for_5_percent_arbitrary_dependence_bound": {
+      "fraction": "2/75",
+      "decimal": 0.02666666666666667
+    }
+  }
+}

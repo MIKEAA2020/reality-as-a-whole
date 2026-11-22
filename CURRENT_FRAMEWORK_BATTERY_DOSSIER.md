@@ -10,6 +10,8 @@ The [Noble order–disorder audit](DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPE
 
 The [three-candidate constitution critical test](SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md) applies maximal, marked-local and private-nested rules to one common causal system. Their stipulated subject counts diverge, but identical physical readouts remain possible unless an additional calibrated experiential and physical observation law is justified. None of the rules is established or explains qualitative character.
 
+The [first-person positive-witness analysis](FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md) corrects an overly restrictive stop condition: challenging a no-conjunction package with credible positive experience does not require a false-negative bound or complete negative census. A valid target, reporter coverage and justified positive-error interpretation remain essential, and even a perfect witness does not count inaccessible subjects.
+
 ## 1. What the framework represents
 
 ### 1.1 One whole, multiple subjects
