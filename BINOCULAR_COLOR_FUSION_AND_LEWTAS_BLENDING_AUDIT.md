@@ -8,6 +8,8 @@ The most informative step for the framework is to separate **input combination, 
 
 This is a reading and arithmetic audit of published articles, not a reanalysis of participant-level data. The article text was read online; no independent stimulus calibration, original data, or replication was performed.
 
+The follow-up [appearance-versus-eye-history model](BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md) gives explicit, contrasting probe predictions and a conditional mismatch bound; its parameters are illustrative and no new experiment was performed.
+
 ## 1. What Lewtas needs, and what the analogy changes
 
 Lewtas distinguishes *choosing*, *placing* and *blending*: which experiences participate, where they belong in a subject's field, and how qualities might yield a different quality. He asks why red and yellow **experiences**, not merely paints or light, might constitute orange experience, and acknowledges that he has no satisfactory direct solution (user-supplied paper, printed advance pp. 30–34; PDF pp. 31–35). He argues that selected subjects can cease when their experiences transform, while allowing unselected experiences to persist. The empirical eyes in the studies below are **sensory input channels of an observer**, not demonstrated subjects with separately owned red and yellow experiences.

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "54a44d3332e6bc6549e776d425d24f32c9a2bbf0",
-  "file_count": 1750,
+  "base_head": "f09d0562af4eaf2b8c3e972d8a581fa5ff7a5ebe",
+  "file_count": 1754,
   "files": [
     {
       "path": ".gitattributes",
@@ -179,9 +179,14 @@
       "sha256": "6c6eb7f616f596af342385a9fb036ce07f480b1dae817d741174a6e126eb2ed8"
     },
     {
+      "path": "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
+      "bytes": 14840,
+      "sha256": "da0d505eb2676df9abcede33d1205df8da2af341574a2283072213c95602018b"
+    },
+    {
       "path": "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
-      "bytes": 16705,
-      "sha256": "83114d696749378f280789c0cfdc1e36750068fbf5e6b48bc8afeaddb47f1abc"
+      "bytes": 16957,
+      "sha256": "e317d247d11ec64db2135573e407f77ae72adb19edf725f41fb12097d8958c79"
     },
     {
       "path": "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
@@ -300,8 +305,8 @@
     },
     {
       "path": "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
-      "bytes": 11656,
-      "sha256": "532108a086ae8d086b2deb61fff2fd9784fbc922079469b69f1d29b008dda875"
+      "bytes": 11823,
+      "sha256": "9097cfa5f57fd1034031ee90eeadcc1c036bd2d156ae832ee8b9cb2e05d5c6fd"
     },
     {
       "path": "COMMON_CONSTITUTION_CLOSURE.md",
@@ -450,8 +455,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 41711,
-      "sha256": "a17e12f6aef3b97d9e27339969b116d1dbef42ff674e2b53e2d4c7fa7445da9d"
+      "bytes": 41988,
+      "sha256": "a73d7199599c3343edb82a5c91e11eb5591c63d9a920f43e213f9d8183e2cf84"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -770,8 +775,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 146311,
-      "sha256": "649366450c86a9943c93f93231fe20f766802aff164ae45a2c1814d7ca6a8d10"
+      "bytes": 146706,
+      "sha256": "72dd7f53787b8421a0693e6b87286ceb7ac3843c70ea644e21a8d4c5e328597c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4509,6 +4514,21 @@
       "sha256": "bd5db8330f16358720f9f00cf9b90fa7036678684ece34a45e3ca337cbd8efef"
     },
     {
+      "path": "verification/binocular_appearance_memory_gate.json",
+      "bytes": 766,
+      "sha256": "ade1f8e678bbcc0696a030a5a580b6eefb0398a84b45f6a6bd4a450a64e1a152"
+    },
+    {
+      "path": "verification/binocular_appearance_memory_gate.py",
+      "bytes": 2919,
+      "sha256": "2fb69c64bcf99d05540e737751b9645d9d0b3a81fd43ea06f6d1fba81c41dbd2"
+    },
+    {
+      "path": "verification/binocular_appearance_memory_gate_test.py",
+      "bytes": 1744,
+      "sha256": "65848b49fce1dfc4936b6c13143fbf69656c930fa28c8e652f1ac5f241a9a52b"
+    },
+    {
       "path": "verification/bohn_collective_property_gate.json",
       "bytes": 654,
       "sha256": "d84eb5194dc9d959a709c34d7d931319bcf89d65199161bc9ecb460e4e509ad9"
@@ -6800,8 +6820,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 727639,
-      "sha256": "04d38fd422a3d02cfd88b87e7b9257bedd709a93f92e5176248c447179524699"
+      "bytes": 729202,
+      "sha256": "929dcd8d6a041693567f6e0121ed4b7ccffb24d6f4bb61a299b40e87d3cdd921"
     },
     {
       "path": "verification/project_inventory.py",

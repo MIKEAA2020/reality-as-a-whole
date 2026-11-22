@@ -1,0 +1,31 @@
+{
+  "scope": "Exact arithmetic for stipulated abstract models; not participant data or measured gains.",
+  "amplitude": "1",
+  "gain": "1/4",
+  "eye_memory_predictions": {
+    "A": {
+      "appearance": "0",
+      "L": "-1/4",
+      "R": "1/4",
+      "both": "0"
+    },
+    "B": {
+      "appearance": "0",
+      "L": "1/4",
+      "R": "-1/4",
+      "both": "0"
+    }
+  },
+  "appearance_only_predictions": {
+    "interaction": "0",
+    "reason": "Same appearance history and probe conditions."
+  },
+  "eye_memory_interaction": "1",
+  "example_appearance_mismatch_bound": {
+    "epsilon": "1/20",
+    "K_left": "1",
+    "K_right": "1",
+    "interaction_absolute_upper_bound": "1/10",
+    "warning": "Invented bounds, not calibration or statistical uncertainty."
+  }
+}

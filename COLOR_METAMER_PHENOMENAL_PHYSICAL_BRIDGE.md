@@ -11,7 +11,7 @@ The result is two-sided:
 
 This is an application of known colorimetry, linear algebra and observational factorization—not a new law of color vision. The quantitative pair below is calculated from published standard-observer data; it was **not** presented to people or physically built in this work.
 
-The later [binocular color fusion and Lewtas audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) examines a different empirical case: similar reported appearance can coexist with eye-specific input effects revealed by a later probe. This is not the same physical mechanism as spectral metamerism, nor evidence that experiences or subjects fused.
+The later [binocular color fusion and Lewtas audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) examines a different empirical case: similar reported appearance can coexist with eye-specific input effects revealed by a later probe. The [appearance-versus-eye-history model](BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md) contrasts a restricted report-proxy state with explicit adaptation memory. This is not the same physical mechanism as spectral metamerism, nor evidence that experiences or subjects fused.
 
 ## 1. Independent experiential and physical targets
 
