@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 565 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 483 verification Python scripts.
+- 566 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 485 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -123,6 +123,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [DUE_REGARD_ARGUMENT.md](DUE_REGARD_ARGUMENT.md) — A worked argument for due regard: entitlement, consistency, and privation
 - [DUST_CLOCK_RECORD.md](DUST_CLOCK_RECORD.md) — A finite proper-time record operation inside a gravitational constraint
 - [DUST_ORIENTATION_RECORD.md](DUST_ORIENTATION_RECORD.md) — A finite orientation-record protocol in the existing dust-clock model
+- [DUST_UNSHARP_VOLUME_ORIENTATION.md](DUST_UNSHARP_VOLUME_ORIENTATION.md) — A finite-window, unsharp volume-and-orientation record
 - [EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md](EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md) — A neural-signal deviation candidate against reported valence
 - [EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md](EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md) — Retrospective EEG baseline-deviation test: fixed analysis plan
 - [EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md](EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md) — Effective theories and graphical models: reading progress
@@ -774,6 +775,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/dust_clock_record.py](verification/dust_clock_record.py)
 - [verification/dust_orientation_record.py](verification/dust_orientation_record.py)
 - [verification/dust_orientation_record_test.py](verification/dust_orientation_record_test.py)
+- [verification/dust_unsharp_volume_orientation.py](verification/dust_unsharp_volume_orientation.py)
+- [verification/dust_unsharp_volume_orientation_test.py](verification/dust_unsharp_volume_orientation_test.py)
 - [verification/eeg_baseline_deviation_valence_gate.py](verification/eeg_baseline_deviation_valence_gate.py)
 - [verification/eeg_baseline_deviation_valence_gate_test.py](verification/eeg_baseline_deviation_valence_gate_test.py)
 - [verification/energy_conditions_bounce.py](verification/energy_conditions_bounce.py)

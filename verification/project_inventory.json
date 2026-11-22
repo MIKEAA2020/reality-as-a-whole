@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 608,
-  "bytes": 7560836,
-  "line_count": 66882,
-  "document_count_with_risk_phrases": 561,
+  "document_count": 609,
+  "bytes": 7572753,
+  "line_count": 66983,
+  "document_count_with_risk_phrases": 562,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3594,9 +3594,9 @@
     },
     {
       "path": "DUST_ORIENTATION_RECORD.md",
-      "sha256": "db84f7492e761f3516179bf803ed2c61865ba09afe49c97f7640c7558c6a2313",
-      "bytes": 11876,
-      "lines": 106,
+      "sha256": "524200490f42529b2fc2341dff5cedbf01960bf559813228d346aca5bf7c7d59",
+      "bytes": 12201,
+      "lines": 108,
       "title": "A finite orientation-record protocol in the existing dust-clock model",
       "headings": [
         "A finite orientation-record protocol in the existing dust-clock model",
@@ -3612,7 +3612,8 @@
         "verification/dust_orientation_record.py",
         "verification/dust_orientation_record.json",
         "verification/dust_orientation_record_test.py",
-        "verification/requirements-gravity-spin-pointer.txt"
+        "verification/requirements-gravity-spin-pointer.txt",
+        "DUST_UNSHARP_VOLUME_ORIENTATION.md"
       ],
       "risk_phrase_lines": [
         27,
@@ -3621,6 +3622,36 @@
         83,
         102,
         104
+      ]
+    },
+    {
+      "path": "DUST_UNSHARP_VOLUME_ORIENTATION.md",
+      "sha256": "25bb78ebdfb3b591ccddd14e2e0599020c4ab1e53b8e14f81108baa8a419b68b",
+      "bytes": 11101,
+      "lines": 96,
+      "title": "A finite-window, unsharp volume-and-orientation record",
+      "headings": [
+        "A finite-window, unsharp volume-and-orientation record",
+        "1. The same dust sector, and what is being measured",
+        "2. What the finite-resolution labels guarantee",
+        "3. A complete finite dust-controlled instrument",
+        "4. Worked packet, including the outside outcome",
+        "5. Checks and remaining gate"
+      ],
+      "local_links": [
+        "DUST_ORIENTATION_RECORD.md",
+        "DUST_ORIENTATION_RECORD.md",
+        "verification/dust_unsharp_volume_orientation.py",
+        "verification/dust_unsharp_volume_orientation.json",
+        "verification/dust_unsharp_volume_orientation_test.py",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        27,
+        43,
+        60,
+        94,
+        96
       ]
     },
     {
@@ -4805,8 +4836,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b7d3ccdcf3db941dacabfc72dc286fba1b72e8a3544c61d052f6bd6aedc25326",
-      "bytes": 45586,
+      "sha256": "d8f2b1bdcfc2f19066d03cd2fc9482b01f2b984a1974fb01ced1d4e86a28edad",
+      "bytes": 45764,
       "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4825,6 +4856,7 @@
         "GRAVITY_GRADIENT_POINTER_GATE.md",
         "GRAVITY_NONCOMMUTING_POINTER_SCATTERING.md",
         "DUST_ORIENTATION_RECORD.md",
+        "DUST_UNSHARP_VOLUME_ORIENTATION.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -5107,9 +5139,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c2b63c01ef591030d18b988dcc14c07ddc9f025c5b04972be47c062894d9e21b",
-      "bytes": 151023,
-      "lines": 1178,
+      "sha256": "b06dfa067dd4894041ebcd91870c130735f6136bb3f630a942fcd8c31b908e96",
+      "bytes": 151336,
+      "lines": 1181,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5233,6 +5265,7 @@
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "DUE_REGARD_ARGUMENT.md",
         "DUST_CLOCK_RECORD.md",
+        "DUST_ORIENTATION_RECORD.md",
         "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
         "EEG_BASELINE_DEVIATION_VALENCE_ANALYSIS_PLAN.md",
         "EFT_AND_GRAPHICAL_MODELS_READING_PROGRESS.md",
@@ -5868,6 +5901,8 @@
         "verification/dissipative_qft_limit_gate.py",
         "verification/dissipative_qft_limit_gate_test.py",
         "verification/dust_clock_record.py",
+        "verification/dust_orientation_record.py",
+        "verification/dust_orientation_record_test.py",
         "verification/eeg_baseline_deviation_valence_gate.py",
         "verification/eeg_baseline_deviation_valence_gate_test.py",
         "verification/energy_conditions_bounce.py",
@@ -6277,20 +6312,20 @@
         61,
         68,
         78,
-        152,
-        212,
-        285,
-        314,
-        360,
-        390,
-        457,
-        553,
-        568,
-        604,
-        613,
-        616,
-        619,
-        683
+        153,
+        213,
+        286,
+        315,
+        361,
+        391,
+        458,
+        554,
+        569,
+        605,
+        614,
+        617,
+        620,
+        684
       ]
     },
     {

@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "scope": "Unsharp joint POVM with stipulated nonlocal dust control; not a localized crossing detector or B7 pass.",
+  "window_y": [
+    0.5,
+    1.5
+  ],
+  "corresponding_readout_volume": [
+    2.718281828459045,
+    20.085536923187668
+  ],
+  "gaussian_s": 0.25,
+  "q_readout_noise_standard_deviation": 0.17677669529663687,
+  "wrong_sign_marginal_bound_for_abs_D_at_least_8": 0.0023388674905236327,
+  "outside_expanded_window_accept_bound_for_delta_0_5": 0.0023388674905236327,
+  "uniform_scalar_packet_outcomes": {
+    "expanding": {
+      "expanding_label": 0.8993664670135796,
+      "contracting_label": 0.0007757169377909826,
+      "outside_window": 0.09985781604862952,
+      "delta_mean_A": 0.006289321758536322
+    },
+    "contracting": {
+      "expanding_label": 0.0007757169377910151,
+      "contracting_label": 0.8993664670135798,
+      "outside_window": 0.09985781604862948,
+      "delta_mean_A": 0.006289321758544908
+    }
+  },
+  "effect_eigenvalue_samples": [
+    {
+      "p": -0.1,
+      "minimum_effect_eigenvalues": [
+        1.1391651470088163e-07,
+        1.1391651474721071e-07,
+        0.03107956964848368
+      ]
+    },
+    {
+      "p": -0.07500000000000001,
+      "minimum_effect_eigenvalues": [
+        1.1342641552842176e-07,
+        1.1342641538102776e-07,
+        0.031129310500764236
+      ]
+    },
+    {
+      "p": -0.05,
+      "minimum_effect_eigenvalues": [
+        1.130844023259223e-07,
+        1.1308440219087616e-07,
+        0.03116416786230636
+      ]
+    },
+    {
+      "p": -0.024999999999999994,
+      "minimum_effect_eigenvalues": [
+        1.1288227485681268e-07,
+        1.128822747602295e-07,
+        0.031184827387371532
+      ]
+    },
+    {
+      "p": 0.0,
+      "minimum_effect_eigenvalues": [
+        1.1281539908792602e-07,
+        1.1281539909008375e-07,
+        0.031191672703580607
+      ]
+    },
+    {
+      "p": 0.024999999999999994,
+      "minimum_effect_eigenvalues": [
+        1.1288227485681268e-07,
+        1.128822747602295e-07,
+        0.031184827387371532
+      ]
+    },
+    {
+      "p": 0.05000000000000002,
+      "minimum_effect_eigenvalues": [
+        1.130844023259223e-07,
+        1.1308440219087616e-07,
+        0.03116416786230636
+      ]
+    },
+    {
+      "p": 0.07500000000000001,
+      "minimum_effect_eigenvalues": [
+        1.1342641552842176e-07,
+        1.1342641538102776e-07,
+        0.031129310500764236
+      ]
+    },
+    {
+      "p": 0.1,
+      "minimum_effect_eigenvalues": [
+        1.1391651470088163e-07,
+        1.1391651474721071e-07,
+        0.03107956964848368
+      ]
+    }
+  ],
+  "quadrature_refinement_max_effect_entry_difference": 4.027013485047092e-06,
+  "quadrature_refinement_max_effect_operator_difference": 1.3103441071847704e-05,
+  "midband_refinement_max_outcome_difference": 2.1625191803931187e-08,
+  "scalar_packet_simpson_4_vs_8_max_difference": 8.810228030453615e-08,
+  "abstract_dust_pulse_checks_at_p_0_05": {
+    "state_max_error": 3.403059011502872e-11,
+    "reflection_max_error": 4.952275502541242e-15,
+    "projector_max_error": 3.3307176465043304e-16,
+    "completeness_max_error": 2.220446049250313e-15,
+    "minimum_T_singular_value": 0.11124193616051642
+  },
+  "relational_dust_energy_lower_bound": 2.8212508647893593
+}

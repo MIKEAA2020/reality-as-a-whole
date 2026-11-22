@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a8eb893db7ca79d78104b69f21b9c42291a07866",
-  "file_count": 1803,
+  "base_head": "042d20a72a3f7e0ca0dc3322f7eda60acb8673e7",
+  "file_count": 1807,
   "files": [
     {
       "path": ".gitattributes",
@@ -560,8 +560,13 @@
     },
     {
       "path": "DUST_ORIENTATION_RECORD.md",
-      "bytes": 11876,
-      "sha256": "db84f7492e761f3516179bf803ed2c61865ba09afe49c97f7640c7558c6a2313"
+      "bytes": 12201,
+      "sha256": "524200490f42529b2fc2341dff5cedbf01960bf559813228d346aca5bf7c7d59"
+    },
+    {
+      "path": "DUST_UNSHARP_VOLUME_ORIENTATION.md",
+      "bytes": 11101,
+      "sha256": "25bb78ebdfb3b591ccddd14e2e0599020c4ab1e53b8e14f81108baa8a419b68b"
     },
     {
       "path": "EEG_BASELINE_DEVIATION_AND_VALENCE_GATE.md",
@@ -760,8 +765,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 45586,
-      "sha256": "b7d3ccdcf3db941dacabfc72dc286fba1b72e8a3544c61d052f6bd6aedc25326"
+      "bytes": 45764,
+      "sha256": "d8f2b1bdcfc2f19066d03cd2fc9482b01f2b984a1974fb01ced1d4e86a28edad"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -795,8 +800,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 151336,
-      "sha256": "b06dfa067dd4894041ebcd91870c130735f6136bb3f630a942fcd8c31b908e96"
+      "bytes": 151682,
+      "sha256": "320fb4c8c5f08b32d77c62e2d1bffb13c1b28eda1f33235869c447ebe4eaa0bf"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5154,6 +5159,21 @@
       "sha256": "cc66868cdc1888de8a53048469878701382550849a6a313196a74b282c0fad81"
     },
     {
+      "path": "verification/dust_unsharp_volume_orientation.json",
+      "bytes": 3260,
+      "sha256": "996d97828ee69551f09eb23a865491c7eac6b687390fe54e73f36c4d131f6536"
+    },
+    {
+      "path": "verification/dust_unsharp_volume_orientation.py",
+      "bytes": 7409,
+      "sha256": "b05815bf9adcf2f631a17756e3e5480ddbfc629d320dbdf44ff59ef2fc71d91b"
+    },
+    {
+      "path": "verification/dust_unsharp_volume_orientation_test.py",
+      "bytes": 2795,
+      "sha256": "cb165e8a3eeccf876715feb73ba669d0e361721613c7a66a584bb50dbbec6e03"
+    },
+    {
       "path": "verification/eeg_baseline_deviation_valence_gate.json",
       "bytes": 2539,
       "sha256": "f0e2bda5e79e9e65c8835a4f3d471758aac473367b36f709b05c2ad75d58bb5c"
@@ -7015,8 +7035,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 747354,
-      "sha256": "b21c5404dfe521e88da5f691e763535a01c17a4bf2932cf18843f7808256c586"
+      "bytes": 748676,
+      "sha256": "3fee99e8e6c37478309431a99951a1313c4ff57ac6e71678bc71d4a253240012"
     },
     {
       "path": "verification/project_inventory.py",
