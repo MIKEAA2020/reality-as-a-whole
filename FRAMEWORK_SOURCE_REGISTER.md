@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 551 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 455 verification Python scripts.
+- 552 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 457 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -46,6 +46,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md](BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md) — Benovsky on dual aspects, mineness and no-self: full-book audit
 - [BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md](BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md) — Bigaj on field quanta: what counts, what exists, and what the project owes
 - [BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md](BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md) — Fixed reading plan: Bigaj on field quanta
+- [BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) — Binocular color fusion is not fusion of subjects
 - [BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md](BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md) — Bohn's plural collective consciousness: full-paper audit and subject interface
 - [BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md](BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md) — Placebo, nociception and pain: full-paper audit
 - [BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md](BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md) — An empirical gate for relational and pairwise musical predictions
@@ -681,6 +682,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/action_unity_xor_gate.py](verification/action_unity_xor_gate.py)
 - [verification/action_unity_xor_gate_test.py](verification/action_unity_xor_gate_test.py)
 - [verification/affect_choice_heldout.py](verification/affect_choice_heldout.py)
+- [verification/anstis_rogers_2012_reported_arithmetic.py](verification/anstis_rogers_2012_reported_arithmetic.py)
+- [verification/anstis_rogers_2012_reported_arithmetic_test.py](verification/anstis_rogers_2012_reported_arithmetic_test.py)
 - [verification/aspherical_quadrupole_loss.py](verification/aspherical_quadrupole_loss.py)
 - [verification/assay_calibration_dependence.py](verification/assay_calibration_dependence.py)
 - [verification/autonomous_record.py](verification/autonomous_record.py)

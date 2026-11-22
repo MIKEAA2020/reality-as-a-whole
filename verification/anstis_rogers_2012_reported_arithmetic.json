@@ -1,0 +1,29 @@
+{
+  "scope": "Arithmetic on article HTML; not original observations, statistics, or evidence of consciousness.",
+  "exp3_reported_xy": {
+    "lime": {
+      "x": "0.627",
+      "y": "0.667",
+      "x_plus_y": "647/500",
+      "valid_nonnegative_XYZ_chromaticity": false
+    },
+    "orange": {
+      "x": "0.894",
+      "y": "0.608",
+      "x_plus_y": "751/500",
+      "valid_nonnegative_XYZ_chromaticity": false
+    }
+  },
+  "exp2_ratio_from_printed_coordinates": 6.038399138094748,
+  "exp4_ratio_from_printed_coordinates": 4.033704157566495,
+  "article_ratios": {
+    "exp2": 6.5,
+    "exp4": 4.67
+  },
+  "hypothetical_independent_400_fair_binary_success_probability": 3.8725919148493183e-121,
+  "source_cautions": [
+    "Article HTML has not been checked against original typeset figure images or raw data.",
+    "Ratio of distances between rounded aggregate coordinates is not necessarily the average individual ratio.",
+    "The probability 2^-400 assumes independent fair binary trials; actual experiment need not satisfy it."
+  ]
+}

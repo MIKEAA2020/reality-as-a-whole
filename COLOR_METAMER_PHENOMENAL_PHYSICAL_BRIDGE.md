@@ -11,6 +11,8 @@ The result is two-sided:
 
 This is an application of known colorimetry, linear algebra and observational factorization—not a new law of color vision. The quantitative pair below is calculated from published standard-observer data; it was **not** presented to people or physically built in this work.
 
+The later [binocular color fusion and Lewtas audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) examines a different empirical case: similar reported appearance can coexist with eye-specific input effects revealed by a later probe. This is not the same physical mechanism as spectral metamerism, nor evidence that experiences or subjects fused.
+
 ## 1. Independent experiential and physical targets
 
 **Experiential target.** A person may see two patches as matching in color and brightness even when the light sources have different spectra. That is an observer's visual appearance and matching judgment, not a spectrometer reading. Matching reports are evidence about perceived similarity, not a guarantee that two complete experiential episodes are intrinsically identical.

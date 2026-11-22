@@ -8,6 +8,8 @@ I constructed a small **stipulated** comparison. In both cases the total represe
 
 This is a mathematical illustration, not evidence that either history is metaphysically or physically possible, that actual subjects are sets, or that the two descriptions must be empirically indistinguishable in a real brain. The example concerns selected inputs only. Lewtas explicitly permits *unselected* experiences or subjects on a constituent to persist; it would be wrong to portray his paper as excluding every lower-level subject.
 
+The later [binocular color fusion audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) provides empirical constraints on reported appearance and eye-specific processing, but neither identifies the eyes as subjects nor supplies the independent identity assay required below.
+
 ## 1. The two completed toy cases
 
 There are four already-stipulated elementary ingredient tokens `a, b, c, d`, each with unit weight. Tokens `a,c` carry the same abstract content-type label `red`; `b,d` carry the same label `blue`. The labels are bookkeeping devices, not demonstrated visual qualities. Each subject in the toy is stipulated to own one support, and at each step the supports form an exclusive partition of the tokens. Their weights sum to **4**, with **2 red-type and 2 blue-type units**, in every state. No physical conservation law or actual phenomenal measure is inferred.
