@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "cd985befdc629cf8fb78d56e32b275b8be8bbfb8",
-  "file_count": 1711,
+  "base_head": "538e4504cbed10ec79652a34a467af8fb2d6803a",
+  "file_count": 1716,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 39324,
-      "sha256": "f98db5cd418a26b97cfea2dd17cdb0d715ad8b35fcf386566920fe8998926598"
+      "bytes": 39557,
+      "sha256": "903b9452a8e2fbf5ad9649e3997b81120061f6db7665c6c776e987bb60d233a1"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 142473,
-      "sha256": "4dfda8a858033a4942e273301b136c603870104674bdeeb1b1a9f9c6edb66ed6"
+      "bytes": 143013,
+      "sha256": "d8c5ec8e8f44cdfa35ec453c112ad31f86b74fdefa5752b8d87ed375f4ee3666"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1295,8 +1295,8 @@
     },
     {
       "path": "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
-      "bytes": 13230,
-      "sha256": "fe60cb9da27b2f16721d2d660c905a8784cdd938a7e8892474c635b3c9aea786"
+      "bytes": 13499,
+      "sha256": "bf9af217c8633c0e394bc5e0bb99857f9ed8f230da4cee33296578f19d23e2b6"
     },
     {
       "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
@@ -1955,8 +1955,8 @@
     },
     {
       "path": "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
-      "bytes": 7687,
-      "sha256": "ee1c26690151ee3184430f42f0695d4149081b8dec45784945b276cf7e07507b"
+      "bytes": 7962,
+      "sha256": "b3745e57ea06f1fb9c1a9a8f723f86546bc0b69c07f96981b6f15222020a48f5"
     },
     {
       "path": "ROY_S09_NINE_FMRI_SCANS_AND_STRUCTURAL.md",
@@ -2007,6 +2007,16 @@
       "path": "ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md",
       "bytes": 9189,
       "sha256": "23652ffd4ecc8659118cb69af97bcfd92a8ce0c9f5d84699fd44dab508b02d21"
+    },
+    {
+      "path": "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md",
+      "bytes": 4317,
+      "sha256": "4613997e96e6366d1f93b3214a877d7f03137260cf07ea6dddc24b73e724040d"
+    },
+    {
+      "path": "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
+      "bytes": 10728,
+      "sha256": "7ed0b9337c5669d7adcab7e6b60be7e4624e649dc6ba0ad42768b4610d739166"
     },
     {
       "path": "SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md",
@@ -6700,8 +6710,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 713913,
-      "sha256": "138fe0dc827b13393aaaaff22be29fe28f4136d31bc37bf3c8a7bb4653bb1300"
+      "bytes": 715999,
+      "sha256": "e93ce137b851c6136548bd1e6ca23f5a41a373f165fb5ef6bad91118c588207e"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7552,6 +7562,21 @@
       "path": "verification/roy_s09_structural_inventory.json",
       "bytes": 1515,
       "sha256": "700b83de6f13be38ccd2bb4fca9782f7e159a10d8bb0de76cbfbfaad2e45e7a6"
+    },
+    {
+      "path": "verification/roy_s09_three_state_pilot.json",
+      "bytes": 8401,
+      "sha256": "1b60b31e2aec8cb71df6380aaf531e331bc20323f9fc9985e1c6e073c3a105d7"
+    },
+    {
+      "path": "verification/roy_s09_three_state_pilot.py",
+      "bytes": 7786,
+      "sha256": "a5d582c1409725acb2cd116dcb32dd9882635ea8a08b8416d12071a3d4bea899"
+    },
+    {
+      "path": "verification/roy_s09_three_state_pilot_test.py",
+      "bytes": 2708,
+      "sha256": "4e92d7300bcb8486e6416eeb5fbf71bc1d91fabc4e9f7f6c9473c04df4c583b3"
     },
     {
       "path": "verification/roy_s09_two_scan_offset_comparison.json",

@@ -1,0 +1,412 @@
+{
+  "scope": "Previously inspected single participant: exploratory fit-held-out 3-state report prediction, not experience calibration.",
+  "input_hashes_match_prior_inspections": true,
+  "train_scans": [
+    1,
+    2,
+    3
+  ],
+  "test_scans": [
+    5,
+    7
+  ],
+  "scoring": "2 s windows, >=75% same nonzero report code; unknown or transitions unresolved; artifact abstention",
+  "training_model": {
+    "means": {
+      "1": -0.03450298354013717,
+      "2": 0.20677720977150044,
+      "3": 0.11163570228551473
+    },
+    "majority": 2,
+    "slot_rules": [
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "class_counts": {
+      "1": 59,
+      "2": 82,
+      "3": 25
+    }
+  },
+  "test_by_scan": {
+    "5": {
+      "total_windows": 105,
+      "report_unresolved_windows": 35,
+      "artifact_windows": 4,
+      "unresolved_artifact_overlap": 1,
+      "labeled_clean_windows": 67,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              19,
+              5,
+              4
+            ],
+            [
+              14,
+              13,
+              1
+            ],
+            [
+              8,
+              2,
+              1
+            ]
+          ],
+          "class_counts": [
+            28,
+            28,
+            11
+          ],
+          "class_recalls": [
+            0.6785714285714286,
+            0.4642857142857143,
+            0.09090909090909091
+          ],
+          "labeled_clean_accuracy": 0.4925373134328358,
+          "macro_recall": 0.4112554112554112,
+          "full_grid_correct_fraction": 0.3142857142857143,
+          "clean_unresolved_predictions": [
+            23,
+            11,
+            0
+          ]
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              28,
+              0
+            ],
+            [
+              0,
+              28,
+              0
+            ],
+            [
+              0,
+              11,
+              0
+            ]
+          ],
+          "class_counts": [
+            28,
+            28,
+            11
+          ],
+          "class_recalls": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "labeled_clean_accuracy": 0.417910447761194,
+          "macro_recall": 0.3333333333333333,
+          "full_grid_correct_fraction": 0.26666666666666666,
+          "clean_unresolved_predictions": [
+            0,
+            34,
+            0
+          ]
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              4,
+              24,
+              0
+            ],
+            [
+              5,
+              23,
+              0
+            ],
+            [
+              2,
+              9,
+              0
+            ]
+          ],
+          "class_counts": [
+            28,
+            28,
+            11
+          ],
+          "class_recalls": [
+            0.14285714285714285,
+            0.8214285714285714,
+            0.0
+          ],
+          "labeled_clean_accuracy": 0.40298507462686567,
+          "macro_recall": 0.3214285714285714,
+          "full_grid_correct_fraction": 0.2571428571428571,
+          "clean_unresolved_predictions": [
+            9,
+            25,
+            0
+          ]
+        }
+      }
+    },
+    "7": {
+      "total_windows": 105,
+      "report_unresolved_windows": 30,
+      "artifact_windows": 4,
+      "unresolved_artifact_overlap": 2,
+      "labeled_clean_windows": 73,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              15,
+              13,
+              2
+            ],
+            [
+              22,
+              17,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ]
+          ],
+          "class_counts": [
+            30,
+            40,
+            3
+          ],
+          "class_recalls": [
+            0.5,
+            0.425,
+            0.3333333333333333
+          ],
+          "labeled_clean_accuracy": 0.4520547945205479,
+          "macro_recall": 0.41944444444444445,
+          "full_grid_correct_fraction": 0.3142857142857143,
+          "clean_unresolved_predictions": [
+            15,
+            12,
+            1
+          ]
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              30,
+              0
+            ],
+            [
+              0,
+              40,
+              0
+            ],
+            [
+              0,
+              3,
+              0
+            ]
+          ],
+          "class_counts": [
+            30,
+            40,
+            3
+          ],
+          "class_recalls": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "labeled_clean_accuracy": 0.547945205479452,
+          "macro_recall": 0.3333333333333333,
+          "full_grid_correct_fraction": 0.38095238095238093,
+          "clean_unresolved_predictions": [
+            0,
+            28,
+            0
+          ]
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              9,
+              21,
+              0
+            ],
+            [
+              6,
+              34,
+              0
+            ],
+            [
+              0,
+              3,
+              0
+            ]
+          ],
+          "class_counts": [
+            30,
+            40,
+            3
+          ],
+          "class_recalls": [
+            0.3,
+            0.85,
+            0.0
+          ],
+          "labeled_clean_accuracy": 0.589041095890411,
+          "macro_recall": 0.3833333333333333,
+          "full_grid_correct_fraction": 0.4095238095238095,
+          "clean_unresolved_predictions": [
+            4,
+            24,
+            0
+          ]
+        }
+      }
+    }
+  },
+  "test_pooled": {
+    "total_windows": 210,
+    "report_unresolved_windows": 65,
+    "artifact_windows": 8,
+    "unresolved_artifact_overlap": 3,
+    "labeled_clean_windows": 140,
+    "models": {
+      "eeg": {
+        "confusion_true_rows_pred_columns": [
+          [
+            34,
+            18,
+            6
+          ],
+          [
+            36,
+            30,
+            2
+          ],
+          [
+            8,
+            4,
+            2
+          ]
+        ],
+        "class_counts": [
+          58,
+          68,
+          14
+        ],
+        "class_recalls": [
+          0.5862068965517241,
+          0.4411764705882353,
+          0.14285714285714285
+        ],
+        "labeled_clean_accuracy": 0.4714285714285714,
+        "macro_recall": 0.390080169999034,
+        "full_grid_correct_fraction": 0.3142857142857143,
+        "clean_unresolved_predictions": [
+          38,
+          23,
+          1
+        ]
+      },
+      "majority": {
+        "confusion_true_rows_pred_columns": [
+          [
+            0,
+            58,
+            0
+          ],
+          [
+            0,
+            68,
+            0
+          ],
+          [
+            0,
+            14,
+            0
+          ]
+        ],
+        "class_counts": [
+          58,
+          68,
+          14
+        ],
+        "class_recalls": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "labeled_clean_accuracy": 0.4857142857142857,
+        "macro_recall": 0.3333333333333333,
+        "full_grid_correct_fraction": 0.3238095238095238,
+        "clean_unresolved_predictions": [
+          0,
+          62,
+          0
+        ]
+      },
+      "time_only": {
+        "confusion_true_rows_pred_columns": [
+          [
+            13,
+            45,
+            0
+          ],
+          [
+            11,
+            57,
+            0
+          ],
+          [
+            2,
+            12,
+            0
+          ]
+        ],
+        "class_counts": [
+          58,
+          68,
+          14
+        ],
+        "class_recalls": [
+          0.22413793103448276,
+          0.8382352941176471,
+          0.0
+        ],
+        "labeled_clean_accuracy": 0.5,
+        "macro_recall": 0.3541244083840433,
+        "full_grid_correct_fraction": 0.3333333333333333,
+        "clean_unresolved_predictions": [
+          13,
+          49,
+          0
+        ]
+      }
+    }
+  }
+}

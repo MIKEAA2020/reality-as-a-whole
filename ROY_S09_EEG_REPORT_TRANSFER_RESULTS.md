@@ -1,5 +1,7 @@
 # S09 EEG–report test: later-run transfer
 
+> **Follow-up:** the [three-state S09 pilot](ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md) reuses the already supplied files with a different window-label rule and explicitly includes mixed reports. Its scores are not directly comparable to the binary pilot below.
+
 ## Result
 
 A simple POz frequency-tag rule fitted on documented rivalry scans 1–3 did **not consistently beat a timing-only baseline** on the two later documented rivalry scans. Among windows with a stable pure report and no `bad_epoch` samples, the EEG rule agreed with reports on **24/39 (61.5%)** in scan 5 and **25/50 (50.0%)** in scan 7. The corresponding timing-only results were **22/39 (56.4%)** and **31/50 (62.0%)**. On the pooled 89 eligible windows the EEG rule scored **49/89 (55.1%)**, versus **53/89 (59.6%)** for timing alone and **47/89 (52.8%)** for the training-majority rule. These are descriptive counts from one person, not independent Bernoulli trials or evidence of population differences.

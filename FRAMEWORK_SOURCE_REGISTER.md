@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 541 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 439 verification Python scripts.
+- 543 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 441 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -410,6 +410,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md](ROY_S09_SCAN3_AND_TRIGGER_MISMATCH_AUDIT.md) — S09 scan 3 and the MRI–EEG trigger-count mismatch
 - [ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md](ROY_S09_SCANS_7_8_9_ALL_FMRI_VOLUMES.md) — S09 scans 7–9: complete fMRI inspection and six-scan timing comparison
 - [ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md](ROY_S09_THREE_SCAN_EMPIRICAL_INSPECTION.md) — Roy S09: first inspection of three EEG scans
+- [ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md](ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md) — S09 three-state EEG/report pilot: fixed post-hoc plan
+- [ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md](ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md) — A three-state EEG–report pilot using the already supplied S09 files
 - [SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md](SCHLOSSHAUER_DECOHERENCE_RECORD_AND_SUBJECT_GATE.md) — Schlosshauer: decoherence, records and the subject boundary
 - [SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md](SELECTIVE_CHANNEL_CERTIFICATE_AND_HARMONIC_ALIAS.md) — Can selective interventions identify relational frustration?
 - [SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md) — Self-existent experiential reality and substrate-independence
@@ -1006,6 +1008,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_s09_scan1_offset_sensitivity.py](verification/roy_s09_scan1_offset_sensitivity.py)
 - [verification/roy_s09_scan1_offset_sensitivity_test.py](verification/roy_s09_scan1_offset_sensitivity_test.py)
 - [verification/roy_s09_scan_inspection.py](verification/roy_s09_scan_inspection.py)
+- [verification/roy_s09_three_state_pilot.py](verification/roy_s09_three_state_pilot.py)
+- [verification/roy_s09_three_state_pilot_test.py](verification/roy_s09_three_state_pilot_test.py)
 - [verification/roy_s09_two_scan_offset_comparison.py](verification/roy_s09_two_scan_offset_comparison.py)
 - [verification/roy_s09_two_scan_offset_comparison_test.py](verification/roy_s09_two_scan_offset_comparison_test.py)
 - [verification/roy_structural_pair_inventory.py](verification/roy_structural_pair_inventory.py)

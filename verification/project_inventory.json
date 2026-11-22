@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 584,
-  "bytes": 7256086,
-  "line_count": 64874,
-  "document_count_with_risk_phrases": 539,
+  "document_count": 586,
+  "bytes": 7272390,
+  "line_count": 64963,
+  "document_count_with_risk_phrases": 541,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "f98db5cd418a26b97cfea2dd17cdb0d715ad8b35fcf386566920fe8998926598",
-      "bytes": 39324,
+      "sha256": "903b9452a8e2fbf5ad9649e3997b81120061f6db7665c6c776e987bb60d233a1",
+      "bytes": 39557,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2859,6 +2859,7 @@
         "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
         "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
         "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4890,9 +4891,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "add0628a5f26ce9a04e4b8db69385fe8fcc9a1d0b147d773989973df94e37860",
-      "bytes": 141991,
-      "lines": 1109,
+      "sha256": "4dfda8a858033a4942e273301b136c603870104674bdeeb1b1a9f9c6edb66ed6",
+      "bytes": 142473,
+      "lines": 1113,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5160,6 +5161,8 @@
         "MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md",
         "MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md",
         "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
+        "NABER_2011_GRADED_REPORT_AND_TRANSITION_PLAN.md",
+        "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
         "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
         "NECESSARY_ARTICULATED_UNITY.md",
         "NECESSARY_EXISTENCE_ARGUMENT.md",
@@ -5659,6 +5662,8 @@
         "verification/frw_internal_povm.py",
         "verification/frw_modular_clock.py",
         "verification/gauge_unification_spectral.py",
+        "verification/graded_rivalry_witness.py",
+        "verification/graded_rivalry_witness_test.py",
         "verification/gravitating_clock_probe.py",
         "verification/gravity_clock_complementarity.py",
         "verification/ground_support_factorization_gate.py",
@@ -5993,18 +5998,18 @@
         74,
         148,
         202,
-        271,
-        300,
-        346,
-        375,
-        434,
-        528,
-        543,
-        579,
-        588,
-        591,
-        594,
-        658
+        273,
+        302,
+        348,
+        377,
+        436,
+        530,
+        545,
+        581,
+        590,
+        593,
+        596,
+        660
       ]
     },
     {
@@ -9085,9 +9090,9 @@
     },
     {
       "path": "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
-      "sha256": "fe60cb9da27b2f16721d2d660c905a8784cdd938a7e8892474c635b3c9aea786",
-      "bytes": 13230,
-      "lines": 65,
+      "sha256": "bf9af217c8633c0e394bc5e0bb99857f9ed8f230da4cee33296578f19d23e2b6",
+      "bytes": 13499,
+      "lines": 67,
       "title": "Graded rivalry, eye signals and the limits of report",
       "headings": [
         "Graded rivalry, eye signals and the limits of report",
@@ -9103,6 +9108,7 @@
         "verification/graded_rivalry_witness.py",
         "verification/graded_rivalry_witness_test.py",
         "verification/graded_rivalry_witness.json",
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
       ],
       "risk_phrase_lines": [
@@ -13166,9 +13172,9 @@
     },
     {
       "path": "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
-      "sha256": "ee1c26690151ee3184430f42f0695d4149081b8dec45784945b276cf7e07507b",
-      "bytes": 7687,
-      "lines": 48,
+      "sha256": "b3745e57ea06f1fb9c1a9a8f723f86546bc0b69c07f96981b6f15222020a48f5",
+      "bytes": 7962,
+      "lines": 50,
       "title": "S09 EEG–report test: later-run transfer",
       "headings": [
         "S09 EEG–report test: later-run transfer",
@@ -13179,6 +13185,7 @@
         "Reproduction"
       ],
       "local_links": [
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
         "ROY_S09_EEG_REPORT_HELD_OUT_PLAN.md",
         "verification/roy_s09_eeg_report_transfer.py",
         "ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md",
@@ -13462,6 +13469,52 @@
         37,
         59,
         63
+      ]
+    },
+    {
+      "path": "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md",
+      "sha256": "4613997e96e6366d1f93b3214a877d7f03137260cf07ea6dddc24b73e724040d",
+      "bytes": 4317,
+      "lines": 19,
+      "title": "S09 three-state EEG/report pilot: fixed post-hoc plan",
+      "headings": [
+        "S09 three-state EEG/report pilot: fixed post-hoc plan",
+        "Scope and data",
+        "Fixed target and decoder",
+        "Reports and limits"
+      ],
+      "local_links": [
+        "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md"
+      ],
+      "risk_phrase_lines": [
+        13
+      ]
+    },
+    {
+      "path": "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md",
+      "sha256": "7ed0b9337c5669d7adcab7e6b60be7e4624e649dc6ba0ad42768b4610d739166",
+      "bytes": 10728,
+      "lines": 62,
+      "title": "A three-state EEG–report pilot using the already supplied S09 files",
+      "headings": [
+        "A three-state EEG–report pilot using the already supplied S09 files",
+        "Result",
+        "1. Inputs, access and provenance",
+        "2. Analysis and denominators",
+        "3. What would make the next test stronger?",
+        "4. Verification and reproduction"
+      ],
+      "local_links": [
+        "ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_PLAN.md",
+        "ROY_S09_PUBLIC_SUPPORT_MOTION_AND_CONDITIONS.md",
+        "ROY_S09_EEG_REPORT_TRANSFER_RESULTS.md",
+        "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
+        "verification/roy_s09_three_state_pilot.py",
+        "verification/roy_s09_three_state_pilot.json",
+        "verification/roy_s09_three_state_pilot_test.py"
+      ],
+      "risk_phrase_lines": [
+        17
       ]
     },
     {

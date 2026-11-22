@@ -53,6 +53,8 @@ For the sequence `−1,−1,+1,−1,−1,−1`, take a causal three-sample movin
 
 The [exact script](verification/graded_rivalry_witness.py), [tests](verification/graded_rivalry_witness_test.py) and [receipt](verification/graded_rivalry_witness.json) check these two toy computations, not the paper's findings.
 
+A subsequent [three-state S09 EEG/report pilot](ROY_S09_THREE_STATE_EEG_REPORT_EXPLORATORY_RESULTS.md) includes a mixed-report class in a different, previously supplied dataset. It is exploratory and its global labels do not identify the local spatial patterns above.
+
 ## 5. A focused empirical next step
 
 A prospective, consent-based and ethics-reviewed human study could combine the strengths of both papers:
