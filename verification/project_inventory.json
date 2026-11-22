@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 576,
-  "bytes": 7193371,
-  "line_count": 64544,
-  "document_count_with_risk_phrases": 535,
+  "document_count": 578,
+  "bytes": 7210399,
+  "line_count": 64622,
+  "document_count_with_risk_phrases": 536,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "32e180af5178ebe5f1954b91b227f76cf31f71abbbd004389bce3f40ade92ba4",
-      "bytes": 38388,
+      "sha256": "186d55ea6584936fce3243e1bce19d23accc3a516276f24b467b495e547ea74d",
+      "bytes": 38673,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2855,6 +2855,7 @@
         "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
         "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
         "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
+        "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4070,6 +4071,56 @@
       ]
     },
     {
+      "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
+      "sha256": "b74b1a034a6b4bb6d585fa029aac021626d0404ffa88e3c0a69a4a9f6c70fe52",
+      "bytes": 14193,
+      "lines": 65,
+      "title": "From adaptive organization to an experiencer: a bridge audit",
+      "headings": [
+        "From adaptive organization to an experiencer: a bridge audit",
+        "Bottom line",
+        "1. A controlled replay comparison",
+        "2. An explicit underdetermination witness",
+        "3. The missing principles are different questions",
+        "4. What a serious test programme would require",
+        "5. Relationship to the existing gates"
+      ],
+      "local_links": [
+        "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
+        "verification/feedback_replay_phenomenal_bridge.py",
+        "verification/feedback_replay_phenomenal_bridge_test.py",
+        "verification/feedback_replay_phenomenal_bridge.json",
+        "REALIZED_PROCESS_CANDIDATE.md",
+        "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
+        "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
+        "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
+        "TRIPLE_UNITY_RANDOMIZED_REPORT_PARTITION_GATE.md",
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+        "ROBUST_EXPERIENTIAL_CONTRAST.md"
+      ],
+      "risk_phrase_lines": [
+        18,
+        49,
+        65
+      ]
+    },
+    {
+      "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md",
+      "sha256": "bc9f8f469750554eb944b17cab256685d1e515ade9b46c70dbcb9ebc0293e663",
+      "bytes": 1965,
+      "lines": 9,
+      "title": "Plan: from adaptive organization to phenomenal constitution",
+      "headings": [
+        "Plan: from adaptive organization to phenomenal constitution"
+      ],
+      "local_links": [
+        "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
+        "REALIZED_PROCESS_CANDIDATE.md"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
       "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
       "sha256": "64b7097fde51b81e01db8cf3ab5a8354577a8c18e39e36e76857db4f120236a8",
       "bytes": 16868,
@@ -4835,9 +4886,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0697f712d27fec6108fe09cffc4c2df40e21a0ede5286af7343b36c24a5bd163",
-      "bytes": 139936,
-      "lines": 1095,
+      "sha256": "8174ded82adb8169e8177cac7598719853631c089f9af7201d5fe98f3f9115b0",
+      "bytes": 140521,
+      "lines": 1099,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4876,6 +4927,7 @@
         "AXIARCHIC_BRIDGE_AUDIT.md",
         "AXIARCHIC_CONSTITUTION_CANDIDATE.md",
         "AXIOLOGY_STATUS.md",
+        "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
         "BAIN_STRUCTURAL_REALISM_AND_RELATIONAL_EXPERIENCE.md",
         "BAKAS_MUSIC_APPRAISAL_FULL_PAPER_AND_CENTRALITY_AUDIT.md",
         "BASILE_MENTAL_COMPOSITION_READING_FIXED_PLAN.md",
@@ -4895,6 +4947,7 @@
         "CHAIN_COMPLETE.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
+        "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
@@ -5511,6 +5564,8 @@
         "verification/causal_record_lineage.py",
         "verification/chalmers_structural_alternatives.py",
         "verification/chalmers_structural_alternatives_test.py",
+        "verification/chemotaxis_integral_feedback_example.py",
+        "verification/chemotaxis_integral_feedback_example_test.py",
         "verification/cie_metamer_experiential_gate.py",
         "verification/clock_choice.py",
         "verification/cogitate_analysis_audit.py",
@@ -5919,23 +5974,23 @@
       "risk_phrase_lines": [
         17,
         37,
-        56,
-        62,
-        72,
-        144,
-        196,
-        265,
-        294,
-        340,
-        367,
-        426,
-        520,
-        535,
-        571,
-        580,
-        583,
-        586,
-        650
+        57,
+        64,
+        74,
+        146,
+        198,
+        267,
+        296,
+        342,
+        369,
+        428,
+        522,
+        537,
+        573,
+        582,
+        585,
+        588,
+        652
       ]
     },
     {

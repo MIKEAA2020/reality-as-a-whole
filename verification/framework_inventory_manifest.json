@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f97caa7eab2e5949368ee9fd9355bbc6dd28e87a",
-  "file_count": 1694,
+  "base_head": "322568c8f9ca512e16eef3097c958ce5fab50279",
+  "file_count": 1699,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 38388,
-      "sha256": "32e180af5178ebe5f1954b91b227f76cf31f71abbbd004389bce3f40ade92ba4"
+      "bytes": 38673,
+      "sha256": "186d55ea6584936fce3243e1bce19d23accc3a516276f24b467b495e547ea74d"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -654,6 +654,16 @@
       "sha256": "057e35d9ea1c5b6ad29962935e551b58ad9a9d5d8d794d1bd9d331fce1d24bb7"
     },
     {
+      "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
+      "bytes": 14193,
+      "sha256": "b74b1a034a6b4bb6d585fa029aac021626d0404ffa88e3c0a69a4a9f6c70fe52"
+    },
+    {
+      "path": "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md",
+      "bytes": 1965,
+      "sha256": "bc9f8f469750554eb944b17cab256685d1e515ade9b46c70dbcb9ebc0293e663"
+    },
+    {
       "path": "FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md",
       "bytes": 16868,
       "sha256": "64b7097fde51b81e01db8cf3ab5a8354577a8c18e39e36e76857db4f120236a8"
@@ -755,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 140521,
-      "sha256": "8174ded82adb8169e8177cac7598719853631c089f9af7201d5fe98f3f9115b0"
+      "bytes": 141086,
+      "sha256": "29553cf48e354886072141f5eaf4ed986464620a8295478d624eb2fa4bdc8c52"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5049,6 +5059,21 @@
       "sha256": "6d92838f70656dc7b1731e057e0edd38145694da6051b1162640157a88188c15"
     },
     {
+      "path": "verification/feedback_replay_phenomenal_bridge.json",
+      "bytes": 3000,
+      "sha256": "3fd0e47c6d708e434d1acdabef3aa96f6f2dcea50190b9b35ce85cc441dfd992"
+    },
+    {
+      "path": "verification/feedback_replay_phenomenal_bridge.py",
+      "bytes": 3770,
+      "sha256": "48262d303da63f36ab98e62a95500ca9dbdcad434f9aa7f90a4a3a4f57a71fb2"
+    },
+    {
+      "path": "verification/feedback_replay_phenomenal_bridge_test.py",
+      "bytes": 2258,
+      "sha256": "84c751b32d88d631e2afeecdaabc8ce8047cf065663757f64722a3d78393dd9b"
+    },
+    {
       "path": "verification/field_lineage_persistence_gate.json",
       "bytes": 871,
       "sha256": "8ed84286117473ee4764ef6579ebc6ff8142c2afff062ff6dac36dd75f4fb3d9"
@@ -6630,8 +6655,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 705955,
-      "sha256": "13b31461dbd3b97b0ce932f3fcabcab7502170d291e2c9a003f5e091349f486a"
+      "bytes": 708315,
+      "sha256": "be938b20e35f36d42e5352ae2e551c2dc299644b62d82f18914a8cdc253e2798"
     },
     {
       "path": "verification/project_inventory.py",

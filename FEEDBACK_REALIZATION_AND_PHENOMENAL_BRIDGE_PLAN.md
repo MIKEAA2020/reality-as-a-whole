@@ -1,0 +1,9 @@
+# Plan: from adaptive organization to phenomenal constitution
+
+This is a retrospective continuation of the [chemotaxis audit](BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md) and existing [realized-process proposal](REALIZED_PROCESS_CANDIDATE.md), not a preregistration. The distinctions between behavioral replay, causal structure, experiential anchoring and subject identity were known from prior work. The finite example below is designed to clarify them, not to provide an empirical confirmation.
+
+1. Construct an explicit finite input–output history with adaptive feedback and a replay system that matches its outputs and internal memory on one nominal input schedule. Compare a different allowed input history; enumerate all four-step binary input histories and verify how often they differ. This illustrates observable, operational and mechanistic distinctions, not the real chemotaxis network or a brain.
+2. On a common hypothetical realization domain, spell out two rival **experience-respecting** candidate incidence rules that agree on a stipulated human anchor but disagree on a nonbiological feedback realization. Make their assumptions, limitations and shared physical observations explicit. Do not infer that any real machine, bacterium or particular person lacks or possesses a particular experience from the toy rules.
+3. Separate what a physical intervention can establish from what an independent experiential anchor would need to add; specify a conditional, ethically bounded decision sequence and stopping rules rather than treating a report as infallible or dismissing first-person experience.
+4. Contrast subject count, quality, numerical episode identity and persistence through turnover/fission. Explain which questions remain outside a binary experience indicator and beyond functional regulation.
+5. Link to prior work, run focused checks and selected regressions, refresh inventories, and save on the current active branch.

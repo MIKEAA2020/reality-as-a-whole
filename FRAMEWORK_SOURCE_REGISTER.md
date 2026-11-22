@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 533 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 433 verification Python scripts.
+- 535 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 435 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -141,6 +141,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md](FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md) — Post-trial felt valence: provenance, stimulus baselines and the EEG access gap
 - [FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md](FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md) — Fixed plan: post-video self-report provenance and baselines
+- [FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md](FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md) — From adaptive organization to an experiencer: a bridge audit
+- [FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md](FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_PLAN.md) — Plan: from adaptive organization to phenomenal constitution
 - [FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md](FIELD_LINEAGE_PERSISTENCE_AND_FISSION_GATE.md) — Field lineage, persistence, and fission: a conditional comparison
 - [FIELD_READOUT_ENERGY_TRADEOFF.md](FIELD_READOUT_ENERGY_TRADEOFF.md) — A detector-information bound and a stronger-coupling counterexample
 - [FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md](FINITE_CERTAINTY_AND_QUANTUM_AGREEMENT_TEST_GATE.md) — From exact quantum agreement to finite evidence
@@ -746,6 +748,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/faced_report_baseline.py](verification/faced_report_baseline.py)
 - [verification/faced_report_baseline_test.py](verification/faced_report_baseline_test.py)
+- [verification/feedback_replay_phenomenal_bridge.py](verification/feedback_replay_phenomenal_bridge.py)
+- [verification/feedback_replay_phenomenal_bridge_test.py](verification/feedback_replay_phenomenal_bridge_test.py)
 - [verification/field_lineage_persistence_gate.py](verification/field_lineage_persistence_gate.py)
 - [verification/field_lineage_persistence_gate_test.py](verification/field_lineage_persistence_gate_test.py)
 - [verification/field_readout_energy_bound.py](verification/field_readout_energy_bound.py)
