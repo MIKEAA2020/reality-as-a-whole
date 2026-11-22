@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c3416e9a0f40130bb5a449d608669a932ec5cdfa",
-  "file_count": 1706,
+  "base_head": "cd985befdc629cf8fb78d56e32b275b8be8bbfb8",
+  "file_count": 1711,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 39123,
-      "sha256": "455fb7852afee9c207cb6e8b52874584232aa4057d15787f157ff530b06d1aea"
+      "bytes": 39324,
+      "sha256": "f98db5cd418a26b97cfea2dd17cdb0d715ad8b35fcf386566920fe8998926598"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 141991,
-      "sha256": "add0628a5f26ce9a04e4b8db69385fe8fcc9a1d0b147d773989973df94e37860"
+      "bytes": 142473,
+      "sha256": "4dfda8a858033a4942e273301b136c603870104674bdeeb1b1a9f9c6edb66ed6"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -785,8 +785,8 @@
     },
     {
       "path": "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
-      "bytes": 14464,
-      "sha256": "476bd3621aeb2aefc8111fb2dc299964815b96165eaf77f931878a2e952db00e"
+      "bytes": 14679,
+      "sha256": "2845ae30a553cfcbbe45e00c4b20e945e94e69f3f4c867de0a90989866c500e4"
     },
     {
       "path": "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT_PLAN.md",
@@ -1287,6 +1287,16 @@
       "path": "MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md",
       "bytes": 9986,
       "sha256": "edba230d08ecc49215c121c8a6f07fe6a1142fccab21ec68e3549d329dd81988"
+    },
+    {
+      "path": "NABER_2011_GRADED_REPORT_AND_TRANSITION_PLAN.md",
+      "bytes": 822,
+      "sha256": "a8558e0b85440f4b65cfb3d66399fe6aa074780895130a2deaf11b26ef744098"
+    },
+    {
+      "path": "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
+      "bytes": 13230,
+      "sha256": "fe60cb9da27b2f16721d2d660c905a8784cdd938a7e8892474c635b3c9aea786"
     },
     {
       "path": "NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md",
@@ -5334,6 +5344,21 @@
       "sha256": "ab116e748d4d652a936fb713daccf631b06187f765f17c6acd0edbed99dc6b16"
     },
     {
+      "path": "verification/graded_rivalry_witness.json",
+      "bytes": 1178,
+      "sha256": "b5e484dc2dc9a578f3a9d521bf7c7e33fa9349b441e89aaec1bf3074935cd668"
+    },
+    {
+      "path": "verification/graded_rivalry_witness.py",
+      "bytes": 1906,
+      "sha256": "65b4058001d1144405f3cbd372e12fe5cc38f07742a8e88272198a3b93a9cc29"
+    },
+    {
+      "path": "verification/graded_rivalry_witness_test.py",
+      "bytes": 1420,
+      "sha256": "d8d9516cf077237576738064dbb26531f951400a5a08a0c74251fd6ac6fb3a77"
+    },
+    {
       "path": "verification/gravitating_clock_probe.json",
       "bytes": 3900,
       "sha256": "6a9db8fae0c7e4b840be77073882e6fa96a34e2876d15db2f8d11006b9a0d706"
@@ -6675,8 +6700,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 712214,
-      "sha256": "9748b17e4f0e28a3d3e8d4ff481d4aa5f94e088550746a1d197b794d80ecec73"
+      "bytes": 713913,
+      "sha256": "138fe0dc827b13393aaaaff22be29fe28f4136d31bc37bf3c8a7bb4653bb1300"
     },
     {
       "path": "verification/project_inventory.py",

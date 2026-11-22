@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 582,
-  "bytes": 7241310,
-  "line_count": 64802,
-  "document_count_with_risk_phrases": 538,
+  "document_count": 584,
+  "bytes": 7256086,
+  "line_count": 64874,
+  "document_count_with_risk_phrases": 539,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "455fb7852afee9c207cb6e8b52874584232aa4057d15787f157ff530b06d1aea",
-      "bytes": 39123,
+      "sha256": "f98db5cd418a26b97cfea2dd17cdb0d715ad8b35fcf386566920fe8998926598",
+      "bytes": 39324,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2858,6 +2858,7 @@
         "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
         "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
         "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
+        "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4889,9 +4890,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e88e0cfe3f89bf6df8ba57b7b0b447bf91e9ee4cf92f9562335299136648c24e",
-      "bytes": 141683,
-      "lines": 1107,
+      "sha256": "add0628a5f26ce9a04e4b8db69385fe8fcc9a1d0b147d773989973df94e37860",
+      "bytes": 141991,
+      "lines": 1109,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5059,6 +5060,8 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
         "FRASER_SCHNEIDMAN_SCALE_DYNAMICS_SOURCE_ASSESSMENT.md",
         "FRASER_SCHNEIDMAN_SOURCE_FOLLOWUP.md",
+        "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
+        "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT_PLAN.md",
         "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
         "FRUSTRATION_CYCLE_IDENTIFIABILITY_GATE.md",
         "FRW_CLOCK_WINDOW_MISMATCH.md",
@@ -5989,19 +5992,19 @@
         64,
         74,
         148,
-        200,
-        269,
-        298,
-        344,
-        373,
-        432,
-        526,
-        541,
-        577,
-        586,
-        589,
-        592,
-        656
+        202,
+        271,
+        300,
+        346,
+        375,
+        434,
+        528,
+        543,
+        579,
+        588,
+        591,
+        594,
+        658
       ]
     },
     {
@@ -6145,9 +6148,9 @@
     },
     {
       "path": "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
-      "sha256": "476bd3621aeb2aefc8111fb2dc299964815b96165eaf77f931878a2e952db00e",
-      "bytes": 14464,
-      "lines": 73,
+      "sha256": "2845ae30a553cfcbbe45e00c4b20e945e94e69f3f4c867de0a90989866c500e4",
+      "bytes": 14679,
+      "lines": 75,
       "title": "What does a no-report rivalry study actually calibrate?",
       "headings": [
         "What does a no-report rivalry study actually calibrate?",
@@ -6160,6 +6163,7 @@
       ],
       "local_links": [
         "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+        "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
         "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
         "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
       ],
@@ -9065,6 +9069,48 @@
         41,
         61,
         74
+      ]
+    },
+    {
+      "path": "NABER_2011_GRADED_REPORT_AND_TRANSITION_PLAN.md",
+      "sha256": "a8558e0b85440f4b65cfb3d66399fe6aa074780895130a2deaf11b26ef744098",
+      "bytes": 822,
+      "lines": 3,
+      "title": "Plan: prior graded-report and eye-signal study",
+      "headings": [
+        "Plan: prior graded-report and eye-signal study"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md",
+      "sha256": "fe60cb9da27b2f16721d2d660c905a8784cdd938a7e8892474c635b3c9aea786",
+      "bytes": 13230,
+      "lines": 65,
+      "title": "Graded rivalry, eye signals and the limits of report",
+      "headings": [
+        "Graded rivalry, eye signals and the limits of report",
+        "Bottom line",
+        "1. Four experiments, distinct questions",
+        "2. What graded reports add—and what they do not",
+        "3. Report effects, filtering and the comparison with 2014",
+        "4. Two finite illustrations of what can be hidden",
+        "5. A focused empirical next step"
+      ],
+      "local_links": [
+        "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
+        "verification/graded_rivalry_witness.py",
+        "verification/graded_rivalry_witness_test.py",
+        "verification/graded_rivalry_witness.json",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        20,
+        28,
+        30,
+        54
       ]
     },
     {

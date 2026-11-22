@@ -6,6 +6,8 @@
 
 This is a source audit, **not an independent analysis or replication**. I read the primary paper's methods, results, discussion and figure captions, the substantive text of [Zaretskaya and Narinyan's 2014 commentary](https://doi.org/10.3389/fnhum.2014.00527), the abstract of [Naber et al. (2011)](https://doi.org/10.1371/journal.pone.0020910), and the [Nichols et al. conjunction-method summary and abstract](https://www.nisox.org/research/ValConj/). I did not inspect the underlying participant data, fMRI maps, original code or a statistical design file. Reported results below are the paper's, not new estimates. The later [Roy–Jamison dataset assessment](RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md) concerns a **different experiment**.
 
+A subsequent [Naber 2011 graded-rivalry audit](NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md) examines the earlier pupil, OKN and joystick experiments in more detail, including spatial mixing and smoothing limits.
+
 ## 1. What was done
 
 Twenty healthy adults took part in an fMRI experiment with eight conditions: two stimulus/indicator types × rivalry versus physical replay × active report versus passive viewing, four 60.9-second trials per condition. For moving gratings, **optokinetic nystagmus** (OKN)—the slow phase of an eye movement—provided a proxy for motion direction. A separate set of static, differently colored, oriented and luminant gratings used **pupil size** as a proxy for which brightness was dominant. The channels were not simultaneous independent measures of one identical stimulus or target.

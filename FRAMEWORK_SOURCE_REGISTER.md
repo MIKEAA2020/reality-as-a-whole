@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 539 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 437 verification Python scripts.
+- 541 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 439 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -266,6 +266,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md](MUSIC_APPRAISAL_EEG_FEASIBILITY_AND_REPORT_GAP.md) — Actual music-listening EEG and the remaining report gap
 - [MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md](MUSIC_QUANTUM_EXPERIENCE_SOURCE_AUDIT.md) — Does musical structure help explain quantum physics and experience?
 - [MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md](MUSIC_TWO_ASPECT_SPECTRAL_CROSSOVER_GATE.md) — Music, quantum structure and a sharper relational test
+- [NABER_2011_GRADED_REPORT_AND_TRANSITION_PLAN.md](NABER_2011_GRADED_REPORT_AND_TRANSITION_PLAN.md) — Plan: prior graded-report and eye-signal study
+- [NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md](NABER_2011_GRADED_RIVALRY_AND_REPORT_AUDIT.md) — Graded rivalry, eye signals and the limits of report
 - [NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md](NANOPARTICLE_INTERFERENCE_COLLAPSE_AUDIT.md) — Nanoparticle interference and the limits of collapse-model transfer
 - [NECESSARY_ARTICULATED_UNITY.md](NECESSARY_ARTICULATED_UNITY.md) — Necessary articulated unity
 - [NECESSARY_EXISTENCE_ARGUMENT.md](NECESSARY_EXISTENCE_ARGUMENT.md) — The necessary-existence argument: strongest form, with what is and isn't proved
@@ -779,6 +781,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/frw_internal_povm.py](verification/frw_internal_povm.py)
 - [verification/frw_modular_clock.py](verification/frw_modular_clock.py)
 - [verification/gauge_unification_spectral.py](verification/gauge_unification_spectral.py)
+- [verification/graded_rivalry_witness.py](verification/graded_rivalry_witness.py)
+- [verification/graded_rivalry_witness_test.py](verification/graded_rivalry_witness_test.py)
 - [verification/gravitating_clock_probe.py](verification/gravitating_clock_probe.py)
 - [verification/gravity_clock_complementarity.py](verification/gravity_clock_complementarity.py)
 - [verification/ground_support_factorization_gate.py](verification/ground_support_factorization_gate.py)
