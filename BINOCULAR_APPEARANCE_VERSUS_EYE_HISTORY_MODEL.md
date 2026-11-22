@@ -9,7 +9,7 @@ Two toy models can give the **same binocular appearance throughout adaptation** 
 
 In the deliberately invented numerical example below, both histories have appearance `0`; the predicted **eye-by-history interaction** is `0` for the appearance-only model and `1` for the eye-history model. These are exact results for the stated equations, **not measured effect sizes or a new analysis of participants**. The model makes a concrete scientific distinction, but its extra variables are processing states, not extra subjects or demonstrated experiences.
 
-The [preceding source audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) reports that Anstis and Rogers found an analogous qualitative pattern. Their study does not calibrate this model's numerical parameters, and the proposed future experiment below is not a replication already performed.
+The [preceding source audit](BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md) reports that Anstis and Rogers found an analogous qualitative pattern. Their study does not calibrate this model's numerical parameters, and the proposed future experiment below is not a replication already performed. The later [probe-context audit](AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md) examines how test contours can alter afterimage judgments and why response shifts alone cannot uniquely identify the underlying modulation mechanism.
 
 ## 1. Set the terms before examining outcomes
 

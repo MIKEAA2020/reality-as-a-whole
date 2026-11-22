@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f09d0562af4eaf2b8c3e972d8a581fa5ff7a5ebe",
-  "file_count": 1754,
+  "base_head": "2671e379d4cbce86271b3756c559de294dc272c5",
+  "file_count": 1758,
   "files": [
     {
       "path": ".gitattributes",
@@ -57,6 +57,11 @@
       "path": "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
       "bytes": 14312,
       "sha256": "566756f8c43e933005094a8bbaf2536e3cbf4e6b63f6715576f45d6b6481fcc1"
+    },
+    {
+      "path": "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
+      "bytes": 12667,
+      "sha256": "328741f13f0be372bf11e7a63f65ed2ea520b826f0c8491a83ad26cda7eb0842"
     },
     {
       "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
@@ -180,8 +185,8 @@
     },
     {
       "path": "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
-      "bytes": 14840,
-      "sha256": "da0d505eb2676df9abcede33d1205df8da2af341574a2283072213c95602018b"
+      "bytes": 15076,
+      "sha256": "3f7e13d6434539bac2938b7d048846f45be297080a46d94f9856c0a0251ba9a2"
     },
     {
       "path": "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
@@ -455,8 +460,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 41988,
-      "sha256": "a73d7199599c3343edb82a5c91e11eb5591c63d9a920f43e213f9d8183e2cf84"
+      "bytes": 42257,
+      "sha256": "4f2c1faf39a82a504dbfcfeb5fcacd2fab9a2615d81bb03e9dc75885abc11191"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -775,8 +780,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 146706,
-      "sha256": "72dd7f53787b8421a0693e6b87286ceb7ac3843c70ea644e21a8d4c5e328597c"
+      "bytes": 147073,
+      "sha256": "f4e8b48ce5094f9cc9098d97e35de66a83b5b76afc484b63d82939e57b3ad14f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4379,6 +4384,21 @@
       "sha256": "c9035d7ba1193648b5396dc7abff07bb801183f20a8f13ec09c3588f730b8c3e"
     },
     {
+      "path": "verification/afterimage_probe_context_gate.json",
+      "bytes": 790,
+      "sha256": "a878fb9926cc445f4d1a77bca8c4a54a2bc89fc7f620555483beb1b8fc883faf"
+    },
+    {
+      "path": "verification/afterimage_probe_context_gate.py",
+      "bytes": 2658,
+      "sha256": "20510194287d9af3aecf8632358f0f9d45e93b69a14d11b0df96d0ff6be4b4c4"
+    },
+    {
+      "path": "verification/afterimage_probe_context_gate_test.py",
+      "bytes": 1623,
+      "sha256": "0800a613fe5f4c17755f219247b44ff57caf43bd7456f84646b4d6be092621b0"
+    },
+    {
       "path": "verification/anstis_rogers_2012_reported_arithmetic.json",
       "bytes": 1038,
       "sha256": "3966db2a5bf0e9f7f23762bd816a7e41a803afac1a355f3517362041d062183e"
@@ -6820,8 +6840,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 729202,
-      "sha256": "929dcd8d6a041693567f6e0121ed4b7ccffb24d6f4bb61a299b40e87d3cdd921"
+      "bytes": 730625,
+      "sha256": "7adc3be1e1a0691b6cb0760a104f81b040a3de1bee0f5471faf640359a5b3292"
     },
     {
       "path": "verification/project_inventory.py",

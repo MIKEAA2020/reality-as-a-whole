@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 596,
-  "bytes": 7390634,
-  "line_count": 65695,
-  "document_count_with_risk_phrases": 549,
+  "document_count": 597,
+  "bytes": 7404201,
+  "line_count": 65765,
+  "document_count_with_risk_phrases": 550,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -315,6 +315,36 @@
       ],
       "risk_phrase_lines": [
         75
+      ]
+    },
+    {
+      "path": "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
+      "sha256": "328741f13f0be372bf11e7a63f65ed2ea520b826f0c8491a83ad26cda7eb0842",
+      "bytes": 12667,
+      "lines": 67,
+      "title": "Afterimages: the probe changes what is reported",
+      "headings": [
+        "Afterimages: the probe changes what is reported",
+        "Main result",
+        "1. Same adaptor, different later contours",
+        "2. A nulling experiment tests more than visibility",
+        "3. An exact counterexample: gain versus criterion",
+        "4. Consequences for the earlier eye-history test",
+        "5. What this contributes to the framework"
+      ],
+      "local_links": [
+        "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
+        "verification/afterimage_probe_context_gate.py",
+        "verification/afterimage_probe_context_gate_test.py",
+        "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
+        "verification/afterimage_probe_context_gate.json"
+      ],
+      "risk_phrase_lines": [
+        7,
+        31,
+        45,
+        59,
+        63
       ]
     },
     {
@@ -1000,8 +1030,8 @@
     },
     {
       "path": "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
-      "sha256": "da0d505eb2676df9abcede33d1205df8da2af341574a2283072213c95602018b",
-      "bytes": 14840,
+      "sha256": "3f7e13d6434539bac2938b7d048846f45be297080a46d94f9856c0a0251ba9a2",
+      "bytes": 15076,
       "lines": 108,
       "title": "A testable color-blending model: appearance versus eye-specific history",
       "headings": [
@@ -1016,6 +1046,7 @@
       ],
       "local_links": [
         "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
+        "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
         "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "verification/binocular_appearance_memory_gate.py",
@@ -1023,6 +1054,7 @@
       ],
       "risk_phrase_lines": [
         10,
+        12,
         23,
         108
       ]
@@ -2898,8 +2930,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "a73d7199599c3343edb82a5c91e11eb5591c63d9a920f43e213f9d8183e2cf84",
-      "bytes": 41988,
+      "sha256": "4f2c1faf39a82a504dbfcfeb5fcacd2fab9a2615d81bb03e9dc75885abc11191",
+      "bytes": 42257,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2932,6 +2964,7 @@
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
         "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
+        "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4963,9 +4996,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "649366450c86a9943c93f93231fe20f766802aff164ae45a2c1814d7ca6a8d10",
-      "bytes": 146311,
-      "lines": 1142,
+      "sha256": "72dd7f53787b8421a0693e6b87286ceb7ac3843c70ea644e21a8d4c5e328597c",
+      "bytes": 146706,
+      "lines": 1145,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5013,6 +5046,7 @@
         "BENOVSKY_NO_SELF_DUAL_ASPECT_FULL_BOOK_AUDIT.md",
         "BIGAJ_FIELD_QUANTA_AND_PROJECT_ONTOLOGY_AUDIT.md",
         "BIGAJ_FIELD_QUANTA_ONTOLOGY_READING_PLAN.md",
+        "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
         "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
@@ -5650,6 +5684,8 @@
         "verification/bell_preparation_correlation_gate.py",
         "verification/benovsky_mineness_partition_gate.py",
         "verification/benovsky_mineness_partition_gate_test.py",
+        "verification/binocular_appearance_memory_gate.py",
+        "verification/binocular_appearance_memory_gate_test.py",
         "verification/bohn_collective_property_gate.py",
         "verification/bohn_collective_property_gate_test.py",
         "verification/boundary_cut_workspace.py",
@@ -6094,23 +6130,23 @@
       "risk_phrase_lines": [
         17,
         37,
-        58,
-        65,
-        75,
-        149,
-        203,
-        276,
-        305,
-        351,
-        380,
-        447,
-        541,
-        556,
-        592,
-        601,
-        604,
-        607,
-        671
+        59,
+        66,
+        76,
+        150,
+        204,
+        277,
+        306,
+        352,
+        381,
+        448,
+        542,
+        557,
+        593,
+        602,
+        605,
+        608,
+        672
       ]
     },
     {

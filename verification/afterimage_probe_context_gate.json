@@ -1,0 +1,39 @@
+{
+  "scope": "Invented finite response model; not measurements or a participant-data reanalysis.",
+  "grid": {
+    "probe_levels": [
+      "-2",
+      "-1",
+      "0",
+      "1",
+      "2"
+    ],
+    "history_levels": [
+      "-1",
+      "0",
+      "1"
+    ],
+    "context_gains": [
+      "1",
+      "2"
+    ],
+    "number_of_conditions": 30
+  },
+  "all_selective_and_criterion_choice_probabilities_equal": true,
+  "no_adaptation_probabilities_equal_across_contexts": true,
+  "example_h_1": {
+    "common_gain_nulls": [
+      "1",
+      "1"
+    ],
+    "selective_gain_nulls": [
+      "1",
+      "2"
+    ],
+    "criterion_shift_nulls": [
+      "1",
+      "2"
+    ]
+  },
+  "proof": "For all p,h,g: (p-h)-(g-1)h = p-gh. Common gain has a different slope and predicts a fixed null when g>0."
+}
