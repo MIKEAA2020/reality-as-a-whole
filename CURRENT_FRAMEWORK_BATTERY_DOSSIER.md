@@ -12,6 +12,8 @@ The [three-candidate constitution critical test](SUBJECT_CONSTITUTION_THREE_CAND
 
 The [first-person positive-witness analysis](FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md) corrects an overly restrictive stop condition: challenging a no-conjunction package with credible positive experience does not require a false-negative bound or complete negative census. A valid target, reporter coverage and justified positive-error interpretation remain essential, and even a perfect witness does not count inaccessible subjects.
 
+The [real-case and maximal-rule boundary test](REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md) distinguishes an actual bilateral-sight report from the missing simultaneous-detail witness, and shows a conditional conflict between an unrestricted all-scale connectivity selector and distinct interacting subjects. It does not establish the relevant biological graph or a clinical subject count.
+
 ## 1. What the framework represents
 
 ### 1.1 One whole, multiple subjects

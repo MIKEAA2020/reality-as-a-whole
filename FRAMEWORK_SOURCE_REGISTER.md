@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 557 root Markdown documents including this register; 43 research Markdown documents.
+- 558 root Markdown documents including this register; 43 research Markdown documents.
 - 57 original uploaded files, including provenance metadata; 469 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -377,6 +377,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md](RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md) — Fixed metadata-readiness plan: Rao intracranial stimulation and mood
 - [README.md](README.md) — Reality as a Whole
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
+- [REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md](REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md) — A real witness and a boundary test for the maximal rule
 - [RECOLLAPSING_GRAVITATIONAL_CLOCK.md](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) — A recollapsing Einstein–scalar clock and completed-event representations
 - [RELATIONAL_CALIBRATION_AND_READOUT.md](RELATIONAL_CALIBRATION_AND_READOUT.md) — Physical calibration, field readout and a separate quantum instrument
 - [RELATIONAL_INTERVENTIONS_AND_RECORDS.md](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) — Sequential interventions and persistent records in a constrained history

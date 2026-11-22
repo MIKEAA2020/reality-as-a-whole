@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 600,
-  "bytes": 7454933,
-  "line_count": 66065,
-  "document_count_with_risk_phrases": 553,
+  "document_count": 601,
+  "bytes": 7468923,
+  "line_count": 66133,
+  "document_count_with_risk_phrases": 554,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2962,9 +2962,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "5cbb8d3754e024717175a230ed0576ff17cb73ef19f3fe28eff74e77d32dbd94",
-      "bytes": 43491,
-      "lines": 267,
+      "sha256": "f1e911be8f01ff170406f51884b115c59a31b85dca46f0e5c39b1b6ba7fd399f",
+      "bytes": 43890,
+      "lines": 269,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -3003,6 +3003,7 @@
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
         "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
+        "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
@@ -3036,11 +3037,11 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
-        21,
-        121,
-        219,
-        249,
-        257
+        23,
+        123,
+        221,
+        251,
+        259
       ]
     },
     {
@@ -4661,8 +4662,8 @@
     },
     {
       "path": "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
-      "sha256": "98c6b23a5cb60a40a1510d489e29fe010d99c9d81646ee6f79c8c94168e3cff1",
-      "bytes": 16402,
+      "sha256": "d10324c915ca21b0493e130651651feb350c9c6b1d45ccad99bc2a62d1f058e5",
+      "bytes": 16630,
       "lines": 93,
       "title": "First-person positive evidence: a less demanding test, and its limit",
       "headings": [
@@ -4680,6 +4681,7 @@
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "SPLIT_BRAIN_PRIVATE_SUBJECT_IDENTITY_EVIDENCE_AUDIT.md",
+        "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
         "verification/positive_experience_witness_gate.json"
       ],
       "risk_phrase_lines": [
@@ -5063,9 +5065,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "61f67da18fb44d54cd23e59ca8c24d4c14b94e6902fa1b8a8c2829636a1dee91",
-      "bytes": 148147,
-      "lines": 1156,
+      "sha256": "bba76fc7b1b35da5804aa7560dae6ce328d83f40ae41f9fbab1782012a6a1b68",
+      "bytes": 148557,
+      "lines": 1159,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5225,6 +5227,7 @@
         "FINITE_TURNING_COUNTER_INSTRUMENT.md",
         "FINITE_WINDING_READOUT.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
+        "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
         "FIXED_GAP_SOURCE_CLOCK.md",
         "FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md",
         "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
@@ -6012,6 +6015,8 @@
         "verification/plenitude_symmetry_measure_gate.py",
         "verification/plenitude_truthmaker_relevance.py",
         "verification/plural_ground_dominance_symmetry_gate.py",
+        "verification/positive_experience_witness_gate.py",
+        "verification/positive_experience_witness_gate_test.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
         "verification/q1_agreement_stability_gate.py",
@@ -6212,19 +6217,19 @@
         68,
         78,
         152,
-        206,
-        279,
-        308,
-        354,
-        383,
-        450,
-        545,
-        560,
-        596,
-        605,
-        608,
-        611,
-        675
+        207,
+        280,
+        309,
+        355,
+        384,
+        451,
+        546,
+        561,
+        597,
+        606,
+        609,
+        612,
+        676
       ]
     },
     {
@@ -12593,6 +12598,31 @@
       ]
     },
     {
+      "path": "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
+      "sha256": "b4fcf016db0e510ffdc8bb8a52c916155be77ecb342d44899e78674f5cc9b2a4",
+      "bytes": 12612,
+      "lines": 63,
+      "title": "A real witness and a boundary test for the maximal rule",
+      "headings": [
+        "A real witness and a boundary test for the maximal rule",
+        "Verdict",
+        "1. An actual first-person report, and its exact target",
+        "2. What the actual experiments add—and do not add",
+        "3. A problem for our own maximal-connectivity candidate",
+        "4. Next decisive step"
+      ],
+      "local_links": [
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
+        "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
+        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        13,
+        32
+      ]
+    },
+    {
       "path": "RECOLLAPSING_GRAVITATIONAL_CLOCK.md",
       "sha256": "fc2a4d13f7aefc759e6048eef93b365237cf62dfddb90ae64d327a0a57d77917",
       "bytes": 14540,
@@ -15389,8 +15419,8 @@
     },
     {
       "path": "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
-      "sha256": "c9e67332ce468179893a595f12633014f0b57f0359519515c728bf7b9d516398",
-      "bytes": 19701,
+      "sha256": "fc143ddbbd139cd444133082b014d378c426f9c9819f27381b510ec9a5e95381",
+      "bytes": 20042,
       "lines": 114,
       "title": "Three candidate constitution rules: a constructive test and a verdict",
       "headings": [
@@ -15405,6 +15435,7 @@
       ],
       "local_links": [
         "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
+        "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
