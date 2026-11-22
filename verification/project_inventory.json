@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 597,
-  "bytes": 7404201,
-  "line_count": 65765,
-  "document_count_with_risk_phrases": 550,
+  "document_count": 598,
+  "bytes": 7417140,
+  "line_count": 65849,
+  "document_count_with_risk_phrases": 551,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -318,9 +318,39 @@
       ]
     },
     {
+      "path": "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
+      "sha256": "736f51c9731ee22a4121ddd1160187181a1fc6c51e54133d3d5c3b0bc3bb36a8",
+      "bytes": 11090,
+      "lines": 76,
+      "title": "Afterimage hue: when a sign-reversal toy stops being a color prediction",
+      "headings": [
+        "Afterimage hue: when a sign-reversal toy stops being a color prediction",
+        "Finding in brief",
+        "1. What the evidence says",
+        "2. Recheck of reported experiment 1a statistics",
+        "3. An exact, invented counterexample to automatic collinearity",
+        "4. Consequences for the existing model and a better test"
+      ],
+      "local_links": [
+        "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
+        "verification/witzel_2025_exp1a_aggregate_recheck.json",
+        "verification/afterimage_cone_contrast_geometry.py",
+        "verification/afterimage_cone_contrast_geometry.json",
+        "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        13,
+        47,
+        49,
+        69
+      ]
+    },
+    {
       "path": "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
-      "sha256": "328741f13f0be372bf11e7a63f65ed2ea520b826f0c8491a83ad26cda7eb0842",
-      "bytes": 12667,
+      "sha256": "749996095a8580b23cea50e5fa5c9115208dc5a093337d742a3b4f77847c5682",
+      "bytes": 12878,
       "lines": 67,
       "title": "Afterimages: the probe changes what is reported",
       "headings": [
@@ -334,6 +364,7 @@
       ],
       "local_links": [
         "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
+        "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
         "verification/afterimage_probe_context_gate.py",
         "verification/afterimage_probe_context_gate_test.py",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
@@ -1030,8 +1061,8 @@
     },
     {
       "path": "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
-      "sha256": "3f7e13d6434539bac2938b7d048846f45be297080a46d94f9856c0a0251ba9a2",
-      "bytes": 15076,
+      "sha256": "ec81e81e22cd91a42b5f58559133a64596e9f07a9d55e9014f44c928e40284a3",
+      "bytes": 15368,
       "lines": 108,
       "title": "A testable color-blending model: appearance versus eye-specific history",
       "headings": [
@@ -1047,6 +1078,7 @@
       "local_links": [
         "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
         "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
+        "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
         "COLOR_METAMER_PHENOMENAL_PHYSICAL_BRIDGE.md",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "verification/binocular_appearance_memory_gate.py",
@@ -2930,8 +2962,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "4f2c1faf39a82a504dbfcfeb5fcacd2fab9a2615d81bb03e9dc75885abc11191",
-      "bytes": 42257,
+      "sha256": "b73a4b4eeaa844c0083af58e51ad36e1349ec9ddc25321fef9d7e53c8ed44c9c",
+      "bytes": 42603,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2965,6 +2997,7 @@
         "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
         "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
         "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
+        "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4996,9 +5029,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "72dd7f53787b8421a0693e6b87286ceb7ac3843c70ea644e21a8d4c5e328597c",
-      "bytes": 146706,
-      "lines": 1145,
+      "sha256": "f0dfb20601446e18037bd4de4f67b1022a7f471b1ecc45c3c88ab8094edf842e",
+      "bytes": 147706,
+      "lines": 1153,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5022,6 +5055,8 @@
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
+        "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
+        "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
         "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
         "ANDERSON_LAURENT_YANTIS_2011_VALUE_DRIVEN_ATTENTIONAL_CAPTURE_AUDIT.md",
         "ARTICULATED_SELF_PRESENCE.md",
@@ -5669,6 +5704,10 @@
         "verification/action_unity_xor_gate.py",
         "verification/action_unity_xor_gate_test.py",
         "verification/affect_choice_heldout.py",
+        "verification/afterimage_cone_contrast_geometry.py",
+        "verification/afterimage_cone_contrast_geometry_test.py",
+        "verification/afterimage_probe_context_gate.py",
+        "verification/afterimage_probe_context_gate_test.py",
         "verification/anstis_rogers_2012_reported_arithmetic.py",
         "verification/anstis_rogers_2012_reported_arithmetic_test.py",
         "verification/aspherical_quadrupole_loss.py",
@@ -6122,6 +6161,8 @@
         "verification/weak_coupling_partial_observation_gate.py",
         "verification/weak_record_coarse_graining_gate.py",
         "verification/weyl2_conformal_anomaly_cc.py",
+        "verification/witzel_2025_exp1a_aggregate_recheck.py",
+        "verification/witzel_2025_exp1a_aggregate_recheck_test.py",
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
@@ -6129,24 +6170,24 @@
       ],
       "risk_phrase_lines": [
         17,
-        37,
-        59,
-        66,
-        76,
-        150,
-        204,
-        277,
-        306,
-        352,
-        381,
-        448,
-        542,
-        557,
-        593,
-        602,
-        605,
-        608,
-        672
+        39,
+        61,
+        68,
+        78,
+        152,
+        206,
+        279,
+        308,
+        354,
+        383,
+        450,
+        544,
+        559,
+        595,
+        604,
+        607,
+        610,
+        674
       ]
     },
     {

@@ -1,0 +1,168 @@
+{
+  "scope": "Retrospective recheck of author-aggregated participant medians, not raw-trial reanalysis, new participants, or independent replication.",
+  "provenance": {
+    "source": "https://github.com/christophWit/The-Non-Opponent-Nature-of-Colour-Afterimages",
+    "commit": "8901e132b6536a5b1333e7f8ba02bf14925e3a94",
+    "file": "aggdata.mat",
+    "bytes": 3672714,
+    "sha256": "9d380d2f0e7795f9755fa54e8660d084dde3672dfe583979aab284920202cd45",
+    "git_blob_sha1": "1a10e123ee6a6aad33f18029918d9038b67d6904",
+    "zenodo_v1_reported_md5": "76e7398d76b828d6215b6c107510306d",
+    "computed_md5": "76e7398d76b828d6215b6c107510306d"
+  },
+  "method": "Author-supplied participant medians minus central comparison hue on shortest signed arc; one-sample two-sided t tests, eight Bonferroni tests; confidence intervals unadjusted.",
+  "alpha_per_test": 0.00625,
+  "versions": {
+    "python": "3.11.2",
+    "numpy": "2.2.6",
+    "scipy": "1.15.3"
+  },
+  "conditions": [
+    {
+      "inducer_label": "red",
+      "n": 31,
+      "opposite_hue_degrees": 187.18384397141728,
+      "mean_signed_deviation_degrees": 11.290322580645162,
+      "t": 5.34574437217966,
+      "df": 30,
+      "p_two_sided": 8.774833346089566e-06,
+      "ci_95_unadjusted_degrees": [
+        6.977000950601347,
+        15.603644210688977
+      ],
+      "cohen_d": 0.9601240325232602,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 0,
+      "published_t_rounded_2dp": 5.35,
+      "abs_difference_from_published_t": 0.004255627820339392
+    },
+    {
+      "inducer_label": "orange",
+      "n": 31,
+      "opposite_hue_degrees": 207.5766620061866,
+      "mean_signed_deviation_degrees": 19.032258064516128,
+      "t": 9.996650156630817,
+      "df": 30,
+      "p_two_sided": 4.6110890520550575e-11,
+      "ci_95_unadjusted_degrees": [
+        15.144049933055573,
+        22.920466195976683
+      ],
+      "cohen_d": 1.795451370637685,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 1,
+      "published_t_rounded_2dp": 10.0,
+      "abs_difference_from_published_t": 0.003349843369182537
+    },
+    {
+      "inducer_label": "yellow",
+      "n": 31,
+      "opposite_hue_degrees": 267.86351474233,
+      "mean_signed_deviation_degrees": 2.4193548387096775,
+      "t": 1.976423537605237,
+      "df": 30,
+      "p_two_sided": 0.057364077476620326,
+      "ci_95_unadjusted_degrees": [
+        -0.08060615401494431,
+        4.919315831434299
+      ],
+      "cohen_d": 0.3549761464044155,
+      "significant_bonferroni_0_05_over_8": false,
+      "participant_medians_at_grid_edge": 0,
+      "published_t_rounded_2dp": 1.98,
+      "abs_difference_from_published_t": 0.003576462394762947
+    },
+    {
+      "inducer_label": "green",
+      "n": 31,
+      "opposite_hue_degrees": 322.5313753599171,
+      "mean_signed_deviation_degrees": -16.129032258064516,
+      "t": -7.147721193228705,
+      "df": 30,
+      "p_two_sided": 5.9530398629929124e-08,
+      "ci_95_unadjusted_degrees": [
+        -20.737477024858784,
+        -11.520587491270248
+      ],
+      "cohen_d": -1.2837686237130215,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 2,
+      "published_t_rounded_2dp": -7.15,
+      "abs_difference_from_published_t": 0.0022788067712955495
+    },
+    {
+      "inducer_label": "turquoise",
+      "n": 31,
+      "opposite_hue_degrees": 355.74985751759,
+      "mean_signed_deviation_degrees": 0.967741935483871,
+      "t": 0.6262242910851495,
+      "df": 30,
+      "p_two_sided": 0.5359039673821695,
+      "ci_95_unadjusted_degrees": [
+        -2.188304113482989,
+        4.123787984450731
+      ],
+      "cohen_d": 0.11247320293685129,
+      "significant_bonferroni_0_05_over_8": false,
+      "participant_medians_at_grid_edge": 0,
+      "published_t_rounded_2dp": 0.63,
+      "abs_difference_from_published_t": 0.003775708914850462
+    },
+    {
+      "inducer_label": "blue",
+      "n": 31,
+      "opposite_hue_degrees": 55.66197066506277,
+      "mean_signed_deviation_degrees": -22.258064516129032,
+      "t": -8.523499918736428,
+      "df": 30,
+      "p_two_sided": 1.6436484144399324e-09,
+      "ci_95_unadjusted_degrees": [
+        -27.591206127586343,
+        -16.92492290467172
+      ],
+      "cohen_d": -1.5308657772298475,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 4,
+      "published_t_rounded_2dp": -8.52,
+      "abs_difference_from_published_t": 0.003499918736428853
+    },
+    {
+      "inducer_label": "purple",
+      "n": 31,
+      "opposite_hue_degrees": 109.05752651454185,
+      "mean_signed_deviation_degrees": 12.096774193548388,
+      "t": 4.689332128270076,
+      "df": 30,
+      "p_two_sided": 5.59368104843351e-05,
+      "ci_95_unadjusted_degrees": [
+        6.828452805808833,
+        17.365095581287942
+      ],
+      "cohen_d": 0.842228913201806,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 1,
+      "published_t_rounded_2dp": 4.69,
+      "abs_difference_from_published_t": 0.0006678717299246628
+    },
+    {
+      "inducer_label": "magenta",
+      "n": 31,
+      "opposite_hue_degrees": 142.53137535991715,
+      "mean_signed_deviation_degrees": 6.290322580645161,
+      "t": 4.0013155731321,
+      "df": 30,
+      "p_two_sided": 0.0003804674756125535,
+      "ci_95_unadjusted_degrees": [
+        3.0797403826393523,
+        9.50090477865097
+      ],
+      "cohen_d": 0.7186574920168289,
+      "significant_bonferroni_0_05_over_8": true,
+      "participant_medians_at_grid_edge": 0,
+      "published_t_rounded_2dp": 4.0,
+      "abs_difference_from_published_t": 0.0013155731320999564
+    }
+  ],
+  "n_significant": 6,
+  "all_t_match_article_to_2_decimals": true
+}

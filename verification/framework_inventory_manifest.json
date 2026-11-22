@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2671e379d4cbce86271b3756c559de294dc272c5",
-  "file_count": 1758,
+  "base_head": "5b0a0e286c5fd8c6fba846d988bce78f11072140",
+  "file_count": 1765,
   "files": [
     {
       "path": ".gitattributes",
@@ -59,9 +59,14 @@
       "sha256": "566756f8c43e933005094a8bbaf2536e3cbf4e6b63f6715576f45d6b6481fcc1"
     },
     {
+      "path": "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
+      "bytes": 11090,
+      "sha256": "736f51c9731ee22a4121ddd1160187181a1fc6c51e54133d3d5c3b0bc3bb36a8"
+    },
+    {
       "path": "AFTERIMAGE_PROBE_CONTEXT_AND_IDENTIFICATION_AUDIT.md",
-      "bytes": 12667,
-      "sha256": "328741f13f0be372bf11e7a63f65ed2ea520b826f0c8491a83ad26cda7eb0842"
+      "bytes": 12878,
+      "sha256": "749996095a8580b23cea50e5fa5c9115208dc5a093337d742a3b4f77847c5682"
     },
     {
       "path": "ANDERSON_LAURENT_YANTIS_2011_VALUE_CAPTURE_READING_PLAN.md",
@@ -185,8 +190,8 @@
     },
     {
       "path": "BINOCULAR_APPEARANCE_VERSUS_EYE_HISTORY_MODEL.md",
-      "bytes": 15076,
-      "sha256": "3f7e13d6434539bac2938b7d048846f45be297080a46d94f9856c0a0251ba9a2"
+      "bytes": 15368,
+      "sha256": "ec81e81e22cd91a42b5f58559133a64596e9f07a9d55e9014f44c928e40284a3"
     },
     {
       "path": "BINOCULAR_COLOR_FUSION_AND_LEWTAS_BLENDING_AUDIT.md",
@@ -460,8 +465,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 42257,
-      "sha256": "4f2c1faf39a82a504dbfcfeb5fcacd2fab9a2615d81bb03e9dc75885abc11191"
+      "bytes": 42603,
+      "sha256": "b73a4b4eeaa844c0083af58e51ad36e1349ec9ddc25321fef9d7e53c8ed44c9c"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -780,8 +785,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 147073,
-      "sha256": "f4e8b48ce5094f9cc9098d97e35de66a83b5b76afc484b63d82939e57b3ad14f"
+      "bytes": 147706,
+      "sha256": "f0dfb20601446e18037bd4de4f67b1022a7f471b1ecc45c3c88ab8094edf842e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4384,6 +4389,21 @@
       "sha256": "c9035d7ba1193648b5396dc7abff07bb801183f20a8f13ec09c3588f730b8c3e"
     },
     {
+      "path": "verification/afterimage_cone_contrast_geometry.json",
+      "bytes": 636,
+      "sha256": "fdfbeeec6f5475c68c92b66933d2f3cd4b503b615bfafb973eb4fdd5d55e11cf"
+    },
+    {
+      "path": "verification/afterimage_cone_contrast_geometry.py",
+      "bytes": 1649,
+      "sha256": "13e4b9674dba1e4bb242711d54e9a78264955aa8ffc905f45c3dd0480953930a"
+    },
+    {
+      "path": "verification/afterimage_cone_contrast_geometry_test.py",
+      "bytes": 1158,
+      "sha256": "a257a34ad054116b71b8db36b987fda827d9d0c59a06a1053d55b56da7c5ea56"
+    },
+    {
       "path": "verification/afterimage_probe_context_gate.json",
       "bytes": 790,
       "sha256": "a878fb9926cc445f4d1a77bca8c4a54a2bc89fc7f620555483beb1b8fc883faf"
@@ -6840,8 +6860,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 730625,
-      "sha256": "7adc3be1e1a0691b6cb0760a104f81b040a3de1bee0f5471faf640359a5b3292"
+      "bytes": 732442,
+      "sha256": "afe3b70521f034293958b4dadb61346c8002cc71e418e9071256f722960280bd"
     },
     {
       "path": "verification/project_inventory.py",
@@ -8752,6 +8772,21 @@
       "path": "verification/weyl2_conformal_anomaly_cc.py",
       "bytes": 16717,
       "sha256": "fce45a6396506d634b93b369885edc73b0067b95982b6c16ddd282b1bb8b9818"
+    },
+    {
+      "path": "verification/witzel_2025_exp1a_aggregate_recheck.json",
+      "bytes": 5781,
+      "sha256": "652dcb5cbb0357148776138ec19722c3f9a72287be3fc8dcc4032a5f6ac5c1da"
+    },
+    {
+      "path": "verification/witzel_2025_exp1a_aggregate_recheck.py",
+      "bytes": 4862,
+      "sha256": "25ae035fe5efc8d1b6c7f36bacf49033e7999fa0bea0945fa900bcc9e78aa46e"
+    },
+    {
+      "path": "verification/witzel_2025_exp1a_aggregate_recheck_test.py",
+      "bytes": 1158,
+      "sha256": "a90fca2d652b92a163e2a28b3d5070e8f1f7a7dc711cc3248b9f3efc06e3c4bc"
     },
     {
       "path": "verification/workspace1-rerun-summary.json",

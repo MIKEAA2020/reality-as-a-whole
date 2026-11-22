@@ -53,7 +53,7 @@ E[Y_L] = −k h_L       E[Y_R] = −k h_R
 E[Y_both] = −k (h_L + h_R)/2.
 ```
 
-The minus sign defines an idealized complementary aftereffect, not a derived law of color vision. The binocular-control equation assumes equal weights and linearity; actual binocular combination, adaptation and afterimage appearance can be nonlinear and context dependent. These are deliberately testable restrictions.
+The minus sign defines an idealized complementary aftereffect, not a derived law of color vision or a 180° hue prediction. The later [hue-opponency audit](AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md) rechecks published deviations from a specified physical opponent prediction; those data challenge an uncalibrated universal-hue extension, not this abstract scalar equation itself. The binocular-control equation assumes equal weights and linearity; actual binocular combination, adaptation and afterimage appearance can be nonlinear and context dependent. These are deliberately testable restrictions.
 
 | History | `h_L` | `h_R` | Left probe | Right probe | Binocular control |
 |---|---:|---:|---:|---:|---:|
