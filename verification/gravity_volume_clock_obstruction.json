@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "scope": "Numerical consistency controls for assumed Morse model; not an operational clock or B7 pass.",
+  "volume": 1.0,
+  "numerical_mode_nodes_k": {
+    "kappa_0_2": 2.817906089935553,
+    "kappa_0_6": 2.496546215136184
+  },
+  "ground_response_at_excited_node": 0.1872742983568471,
+  "uniform_bands_centered_on_excited_node": [
+    {
+      "band": [
+        2.491546215136184,
+        2.501546215136184
+      ],
+      "root_record_plus_probability": 1.0,
+      "conditional_record_plus_probability": 0.5077793032152549,
+      "unnormalized_evaluation_weight": 0.017538199538296315
+    },
+    {
+      "band": [
+        2.495546215136184,
+        2.497546215136184
+      ],
+      "root_record_plus_probability": 1.0,
+      "conditional_record_plus_probability": 0.5015560847827552,
+      "unnormalized_evaluation_weight": 0.017535926138615623
+    },
+    {
+      "band": [
+        2.496346215136184,
+        2.496746215136184
+      ],
+      "root_record_plus_probability": 1.0,
+      "conditional_record_plus_probability": 0.5003112187499319,
+      "unnormalized_evaluation_weight": 0.017535835201569934
+    }
+  ],
+  "packet_2_49_to_2_50": {
+    "band": [
+      2.49,
+      2.5
+    ],
+    "root_record_plus_probability": 1.0,
+    "conditional_record_plus_probability": 0.5085203728634612,
+    "unnormalized_evaluation_weight": 0.017697024739577447
+  },
+  "classical_turning_volumes_at_k_2": [
+    2.209975124224178,
+    2.6880613017821102
+  ],
+  "classical_volume_between_turns": 2.4
+}

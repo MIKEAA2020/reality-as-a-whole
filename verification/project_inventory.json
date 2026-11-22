@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 603,
-  "bytes": 7493724,
-  "line_count": 66318,
-  "document_count_with_risk_phrases": 556,
+  "document_count": 604,
+  "bytes": 7508180,
+  "line_count": 66431,
+  "document_count_with_risk_phrases": 557,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4773,8 +4773,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "974298d2824321ece863883aed3e8827200ec9d3b72fb943be21af93db5020e0",
-      "bytes": 44552,
+      "sha256": "44ea89eb54ce65c7d8dc98c11463672cd6cc0965297025eba8d5745c162d457f",
+      "bytes": 44833,
       "lines": 179,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -4788,6 +4788,7 @@
       ],
       "local_links": [
         "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
+        "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
         "SPLIT_BRAIN_BLINK_2004_2009_COMPLETE_RESULTS_AUDIT.md",
         "DUAL_TASK_DIVIDED_CUE_PRIMARY_SOURCE_AND_SUBJECT_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
@@ -4871,6 +4872,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
+        5,
         15,
         17,
         35,
@@ -5069,9 +5071,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b71ae3accc0ef45cf3aa68c55de6dbd66b449b7d0fc0e2824de8037bc2db5ea5",
-      "bytes": 149130,
-      "lines": 1163,
+      "sha256": "a08a7e504748541c7081cab5dc78ad5b741e78e41d57caac5ee2bfa5451f5010",
+      "bytes": 149506,
+      "lines": 1166,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5258,6 +5260,7 @@
         "GOAL_RELATIVE_VALUE_ARGUMENT.md",
         "GRAPHICAL_RELAXATION_PERSISTENCY_AND_SUBJECT_LIMITS.md",
         "GRAVITATING_PROPER_TIME_CLOCK.md",
+        "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
         "HAIR_EXPERIENCE_INTRINSIC_NATURE_AND_STRUCTURE.md",
         "HALLIWELL_TIMELESS_DETECTORS_AND_ORDERED_RECORDS.md",
         "HAMILTONIAN_CLOCK_DETECTOR.md",
@@ -5870,6 +5873,8 @@
         "verification/graded_rivalry_witness_test.py",
         "verification/gravitating_clock_probe.py",
         "verification/gravity_clock_complementarity.py",
+        "verification/gravity_clock_duration_calibration.py",
+        "verification/gravity_clock_duration_calibration_test.py",
         "verification/ground_support_factorization_gate.py",
         "verification/halliwell_green_coefficient_gate.py",
         "verification/halliwell_unordered_and_relational_records_gate.py",
@@ -6225,19 +6230,19 @@
         68,
         78,
         152,
-        207,
-        280,
-        309,
-        355,
-        385,
-        452,
-        548,
-        563,
-        599,
-        608,
-        611,
-        614,
-        678
+        208,
+        281,
+        310,
+        356,
+        386,
+        453,
+        549,
+        564,
+        600,
+        609,
+        612,
+        615,
+        679
       ]
     },
     {
@@ -6773,8 +6778,8 @@
     },
     {
       "path": "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
-      "sha256": "a558adbe5ceee5ea9f6efce2641634698579e2ba4d26013a1898d96f2d3f7b50",
-      "bytes": 10586,
+      "sha256": "67749cf66dcbad55234fe7c0b5c75c46eeed300c9853a3d5995326a008dea0b6",
+      "bytes": 10847,
       "lines": 72,
       "title": "Finite-range calibration of the existing gravitating clock",
       "headings": [
@@ -6792,13 +6797,46 @@
         "verification/gravity_clock_duration_calibration.json",
         "verification/gravity_clock_duration_calibration_test.py",
         "CLOCK_CHOICE_EQUIVALENCE.md",
-        "TURNING_CLOCK_ATLAS.md"
+        "TURNING_CLOCK_ATLAS.md",
+        "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md"
       ],
       "risk_phrase_lines": [
         3,
         15,
         39,
-        64
+        64,
+        72
+      ]
+    },
+    {
+      "path": "GRAVITY_VOLUME_CLOCK_RECORD_OBSTRUCTION.md",
+      "sha256": "f1a6072a2283003953aa61d6c3ba87283df7bbe0a26664d0f8abd2a826524c30",
+      "bytes": 13538,
+      "lines": 110,
+      "title": "A volume-clock obstruction for the backreacting gravitational record",
+      "headings": [
+        "A volume-clock obstruction for the backreacting gravitational record",
+        "1. Two different classical turning surfaces",
+        "2. The actual physical space and candidate evaluation",
+        "3. Analytic node and unbounded-inverse result",
+        "4. Same record, filtered state: a finite packet witness",
+        "5. What a restricted recovery can and cannot show",
+        "6. Verification and the remaining gate"
+      ],
+      "local_links": [
+        "GRAVITY_CLOCK_FINITE_RANGE_CALIBRATION.md",
+        "GRAVITATING_PROPER_TIME_CLOCK.md",
+        "TURNING_CLOCK_ATLAS.md",
+        "CLOCK_CHOICE_EQUIVALENCE.md",
+        "CLOCK_CHOICE_EQUIVALENCE.md",
+        "verification/gravity_volume_clock_obstruction.py",
+        "verification/gravity_volume_clock_obstruction.json",
+        "verification/gravity_volume_clock_obstruction_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        64,
+        79
       ]
     },
     {
