@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 567 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 487 verification Python scripts.
+- 568 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 489 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -65,6 +65,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md) — Cicurel's *Brain-centric*: an audit for the experiential and quantum program
 - [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
 - [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
+- [CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) — Same modular flow, different clock records
 - [CLOSURE_SYNTHESIS.md](CLOSURE_SYNTHESIS.md) — Closure synthesis: the complete zero-residue account
 - [CLUES_CROSS_PROJECT_ASSESSMENT.md](CLUES_CROSS_PROJECT_ASSESSMENT.md) — Cross-project assessment: the `arena-max--physics` clues
 - [COLD_ATOM_CLOCK_COMPARISON.md](COLD_ATOM_CLOCK_COMPARISON.md) — Comparing clocks on all five released cold-atom traces
@@ -734,6 +735,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/chemotaxis_integral_feedback_example_test.py](verification/chemotaxis_integral_feedback_example_test.py)
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)
 - [verification/clock_choice.py](verification/clock_choice.py)
+- [verification/clock_smearing_modular_comparison.py](verification/clock_smearing_modular_comparison.py)
+- [verification/clock_smearing_modular_comparison_test.py](verification/clock_smearing_modular_comparison_test.py)
 - [verification/cogitate_analysis_audit.py](verification/cogitate_analysis_audit.py)
 - [verification/cold_atom_clock.py](verification/cold_atom_clock.py)
 - [verification/cold_atom_comparison.py](verification/cold_atom_comparison.py)

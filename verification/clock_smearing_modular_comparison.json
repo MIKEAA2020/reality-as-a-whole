@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "noise": 0.25,
+  "probabilities_gibbs": [
+    0.6652409557748218,
+    0.24472847105479764,
+    0.09003057317038046
+  ],
+  "adjacent_state_fidelity": 0.26581458683560694,
+  "sharp_joint_clock_then_B": [
+    [
+      0.3333333333333333,
+      5.176863161189916e-17
+    ],
+    [
+      0.0886048622785357,
+      0.2447284710547977
+    ],
+    [
+      0.08860486227853565,
+      0.2447284710547977
+    ]
+  ],
+  "noisy_joint_clock_then_B": [
+    [
+      0.27215121556963384,
+      0.06118211776369947
+    ],
+    [
+      0.14978698004223506,
+      0.18354635329109828
+    ],
+    [
+      0.08860486227853565,
+      0.24472847105479772
+    ]
+  ],
+  "sharp_B_yes_given_reading_zero": 0.9999999999999999,
+  "noisy_B_yes_given_reading_zero": 0.8164536467089015,
+  "conditional_system_entropy_nats_sharp": 0.0,
+  "conditional_system_entropy_nats_noisy": 0.44758986615203955,
+  "system_marginal_entropy_nats_both": 0.8323955818399389,
+  "clock_system_holevo_nats_sharp": 0.8323955818399389,
+  "clock_system_holevo_nats_noisy": 0.38480571568789934,
+  "kinematical_constraint_expectation_before": 0.0,
+  "kinematical_constraint_expectation_sharp_lueders": 1.3333333333333337,
+  "kinematical_constraint_expectation_noisy_lueders": 0.7559830641437075,
+  "scope": "One finite, cyclic, kinematical measurement; not gravitational backreaction, an autonomous clock, or an entropy of a gravity algebra."
+}

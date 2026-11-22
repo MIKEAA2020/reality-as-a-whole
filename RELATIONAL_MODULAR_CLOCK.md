@@ -2,6 +2,8 @@
 
 ## Result and limits
 
+**Readout continuation:** [same modular flow, different clock records](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) compares sharp and noisy clock POVMs in this same finite history. The Gibbs marginal remains fixed while conditioned records and entropies differ; the specified interventions are not constraint-preserving detectors.
+
 There is an exact example in which (i) a stationary constrained clock–system history has nontrivially changing clock-conditioned states, (ii) its unconditional system state is faithful and thermal, and (iii) its system modular flow reproduces the relational Heisenberg evolution after an explicit rescaling. The agreement depends on the thermal state and Hamiltonian being matched. A nonthermal counterexample shows it is not automatic.
 
 This is a **finite-dimensional toy model**, not a derivation of time in quantum gravity, an identification with Shlaer's clock, or evidence of a UV completion. The constraint, clock readings, initial state, Hamiltonian and temperature are supplied, not derived. It is a worked application of established ingredients, not a claim of a new foundational theorem. Numerical checks: [verification/relational_modular_clock.py](verification/relational_modular_clock.py); results: [verification/relational_modular_clock.json](verification/relational_modular_clock.json). The reasoning below is analytic; numerical tests illustrate it, not establish its generality.

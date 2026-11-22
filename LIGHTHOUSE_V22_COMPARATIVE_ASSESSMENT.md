@@ -58,6 +58,8 @@ Gleason/Busch-style representation theorems rely on their event structures and a
 
 ## 5. Concrete next tests, without assuming the conjecture
 
+**Finite readout follow-up:** [same modular flow, different clock records](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) implements a sharp/noisy POVM comparison in one qutrit constrained history and computes joint effects, conditional entropy and instrument-specific kinematical disturbance. It is not a comparison of local gravitational reference frames or a constraint-preserving detector, so item 2's gravitational task remains open.
+
 1. **Ask for a corrected M:** specify algebra `M`, trace/weight `tau`, physical state `omega`, geometry map and flow; explicitly compute `sigma^tau` and `sigma^omega`; state which parameter is a measurable clock reading and how its units and sign are fixed. Separate the propositions “an entropy matches” and “two measures are identical.” A single counterexample to a proposed universal identification suffices to revise it.
 2. **Clock-choice comparison in one fully specified model:** choose two physical clock POVMs and state, define a common relational observable and compare conditional distributions, clock backreaction and entropy using declared algebras and cutoffs. Give both an equivalence case and a failure case before extrapolating to gravity. The current dust instrument provides a concrete POVM but not yet the alternative local clock or cross-product identification required.
 3. **Arrow test:** specify a low-entropy ensemble and a coarse graining or nested family of horizon algebras; compare forward/backward record probabilities and prove only the monotonicity their hypotheses justify. Do not infer an arrow from reversible modular automorphisms alone.

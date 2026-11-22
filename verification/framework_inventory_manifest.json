@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "bccc22c21d0f365082c53b45e558da1397fb38df",
-  "file_count": 1811,
+  "base_head": "3fd64741391b0abb71fb7ef5cf1dfdd18af58d15",
+  "file_count": 1815,
   "files": [
     {
       "path": ".gitattributes",
@@ -272,6 +272,11 @@
       "path": "CLOCK_CHOICE_EQUIVALENCE.md",
       "bytes": 11481,
       "sha256": "8ddacec27713ca3a91ab0975296e819f86784697c0ee162049b07c2d7f75ca7e"
+    },
+    {
+      "path": "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
+      "bytes": 10869,
+      "sha256": "6682dc766038db36678135b9bcd2c271bce7d64b593e74173b066de2c2f00587"
     },
     {
       "path": "CLOSURE_SYNTHESIS.md",
@@ -765,8 +770,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 46078,
-      "sha256": "a902161811942c2afbd452228cb668a1b5425c2438248802551f1b0acada50d7"
+      "bytes": 46518,
+      "sha256": "4a3454b34bec17e9929991790d084ae32a1d6866aa086373fac9153377d2739c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -800,8 +805,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 152044,
-      "sha256": "c8615b20dd7680fd131223dfb28f4e682f896112b972a805e00f2b8941165312"
+      "bytes": 152402,
+      "sha256": "40b4d97c53a839e5b59459ae1ae10d69cbb2738673c3b492ee7c74c2df906107"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1235,8 +1240,8 @@
     },
     {
       "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
-      "bytes": 13913,
-      "sha256": "57475f7be74e3faa6179c9847c53cebe7f41d2220c7f5191f5bafae2e58aac0f"
+      "bytes": 14350,
+      "sha256": "619fc7cdef10e9247401b8a6837eeca442f3d675165886f42d04f17156f3a892"
     },
     {
       "path": "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -1910,8 +1915,8 @@
     },
     {
       "path": "RELATIONAL_MODULAR_CLOCK.md",
-      "bytes": 7960,
-      "sha256": "9c833cb99863a4ee31d89306be0db371e897ae501021857d7826845bdeca0e6b"
+      "bytes": 8292,
+      "sha256": "71801e3db78adccf73f36059f16f8a468a1deba13c94934139399a03b5b2d259"
     },
     {
       "path": "RELATIONAL_PERSPECTIVE.md",
@@ -4774,6 +4779,21 @@
       "sha256": "530904b4a9afc57004cc4adbf832af86eded7c785bf707fc4584f705a39cbc88"
     },
     {
+      "path": "verification/clock_smearing_modular_comparison.json",
+      "bytes": 1407,
+      "sha256": "a1a89d607d23e7aedfd93bd8295806368fe826292ee4570509ccfdacbecb1cd0"
+    },
+    {
+      "path": "verification/clock_smearing_modular_comparison.py",
+      "bytes": 4787,
+      "sha256": "b7264dcbba4e49070d24ae70ca8014ec5bf66a8f8bfa86ca73fb8449911b85f0"
+    },
+    {
+      "path": "verification/clock_smearing_modular_comparison_test.py",
+      "bytes": 4356,
+      "sha256": "43a30c846a2f4af9963de4a1e6bf5583298b8756b7f674aafa6e99848ea263da"
+    },
+    {
       "path": "verification/cogitate_analysis_audit.json",
       "bytes": 2552,
       "sha256": "341a76d5b56df3f4b9645bb775a52d60378d30d7042b7d515ea29159b7b5518b"
@@ -7055,8 +7075,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 750323,
-      "sha256": "d846f1ebb134947a242eb39d42e048143e6e756b2d6a675026c2a1374109cb17"
+      "bytes": 751820,
+      "sha256": "114e42ad62dae2bbe9898a362edb58b80dedaab5a867ebf9a70109e48d91df88"
     },
     {
       "path": "verification/project_inventory.py",
