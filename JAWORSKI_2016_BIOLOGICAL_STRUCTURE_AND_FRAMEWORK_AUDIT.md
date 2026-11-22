@@ -108,4 +108,4 @@ This is a proposed comparison, not a claim that the 2016 paper performed that ex
 
 ## Overall judgment
 
-**Retain:** structure, material exchange, realized powers, multilevel organization and persistence are central explanatory targets. **Do not infer:** the falsity of all physicalism, a separate vital force, the identity of life and experience, or the framework's preferred global metaphysics. The paper improves the questions our framework must answer, but it does not provide the missing answers.
+**Retain:** structure, material exchange, realized powers, multilevel organization and persistence are central explanatory targets. **Do not infer:** the falsity of all physicalism, a separate vital force, the identity of life and experience, or the framework's preferred global metaphysics. The paper improves the questions our framework must answer, but it does not provide the missing answers. The subsequent [turnover and maintenance comparison](JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md) works through an exact toy with a matched no-repair comparison and a failure case, without treating it as a biological or phenomenal model.

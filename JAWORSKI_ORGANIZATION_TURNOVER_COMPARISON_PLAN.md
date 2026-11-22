@@ -1,0 +1,9 @@
+# Plan: organization, material turnover and rival explanations
+
+This is a follow-up to the [Jaworski assessment](JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md), not a preregistration or a biological experiment. Jaworski's squashing and turnover examples, as well as the distinction between functional and phenomenal unity, were already known before this plan; the finite example is constructed to explore those distinctions, not to test a blind prediction.
+
+1. Define an exactly enumerable open-system toy in which site tokens are replaced while a redundant pattern is sometimes maintained by an explicitly stipulated repair operation. Compare the same initial states, replacement order and incoming bit sequences with and without repair, retaining intervention differences and environmental assumptions. Do not assume a real organism, autonomy, thermodynamic feasibility or consciousness.
+2. Include a failure case, and demonstrate explicitly when a coarse macro-variable does not determine its own evolution. Record a repair history rather than treating loss of information from the system as disappearance from the total account.
+3. Check the same finite results using independently expressed formulas and tests, not merely a printout of a model run. Keep token persistence, functional-pattern persistence and phenomenal subject identity distinct.
+4. Compare a physicalist organizational-realist interpretation and a hylomorphic interpretation without assuming either is Jaworski's exact full theory. Separate mathematical derivation within a stipulated model from metaphysical claims about the actual world. Specify what a real test and a phenomenal mapping would still need.
+5. Write an accessible assessment with clear limits, run focused tests and selected framework regressions, refresh inventories, and save to the current branch. The source PDF stays outside the repository.

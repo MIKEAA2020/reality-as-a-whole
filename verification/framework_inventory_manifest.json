@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5851f5ed844898999956adb11d7bfbed29955e69",
-  "file_count": 1684,
+  "base_head": "729188d8cb2cc1a3ea5727239fd018e312f02f2a",
+  "file_count": 1689,
   "files": [
     {
       "path": ".gitattributes",
@@ -435,8 +435,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 37921,
-      "sha256": "ce9a122ea96cf618d76b45273a089dba608972e85ddaa4aea7820db0bb49edd5"
+      "bytes": 38151,
+      "sha256": "3169a172421a0d9b8ad7ac88e7324535bb57692dd187091cc06b446a8915a4c3"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -745,8 +745,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 139369,
-      "sha256": "53baced96da5df0fdefa111796eaf7c5149f8a03c9b495ecf8f9ed77466b7fbc"
+      "bytes": 139936,
+      "sha256": "0697f712d27fec6108fe09cffc4c2df40e21a0ede5286af7343b36c24a5bd163"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -960,8 +960,18 @@
     },
     {
       "path": "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
-      "bytes": 19432,
-      "sha256": "d6dd501b7aaa79d6cb090f3a2e6c3b65533fa55b850991e616c4ae2db051a503"
+      "bytes": 19683,
+      "sha256": "105426d83ee7ef1304a4465b87c84950c804e61b93146a1f5e427f60a31bd425"
+    },
+    {
+      "path": "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
+      "bytes": 1897,
+      "sha256": "b10fbeeef9cde4314c898d490950aeb14f27cd920acde5367fcff7b9b0c415f5"
+    },
+    {
+      "path": "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
+      "bytes": 12417,
+      "sha256": "6ffae02c85f6fba8c8287a3c5b347aae6235d0f260b7ea1a4aafdc57e5f498b3"
     },
     {
       "path": "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
@@ -5589,6 +5599,21 @@
       "sha256": "a71190afb5805f2ee8f7cd53d8b15187f31c82748591cc20c071433b90b35cd4"
     },
     {
+      "path": "verification/jaworski_organization_turnover.json",
+      "bytes": 2456,
+      "sha256": "35702220afd921922e43f49889014e73271696544b6df62a2d15665d095710d2"
+    },
+    {
+      "path": "verification/jaworski_organization_turnover.py",
+      "bytes": 3953,
+      "sha256": "d3cbb3780e0b41fedb6169af96e00b678ee4097c61b53c7f4730a5be7cc52271"
+    },
+    {
+      "path": "verification/jaworski_organization_turnover_test.py",
+      "bytes": 3051,
+      "sha256": "0568fb60adfe7cff8d364db8cd6be2a2746d34f141671b251844d6c12167e6de"
+    },
+    {
       "path": "verification/joint_access_common_source_gate.json",
       "bytes": 900,
       "sha256": "606d49b2c1543f645be877c680c05b4e4cdc858935b4842e110af1112d759b86"
@@ -6580,8 +6605,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 701813,
-      "sha256": "278325e91c8c271eb1b89c79832e305cb8f0edad0b2c6cae648c30c17578275b"
+      "bytes": 703846,
+      "sha256": "d7c35dba71b38ef3e3e4d0aaebcc1c30007148b6758e7a7ac9b5e5015336fd47"
     },
     {
       "path": "verification/project_inventory.py",

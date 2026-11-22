@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 572,
-  "bytes": 7159053,
-  "line_count": 64351,
-  "document_count_with_risk_phrases": 531,
+  "document_count": 574,
+  "bytes": 7174049,
+  "line_count": 64439,
+  "document_count_with_risk_phrases": 533,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2786,8 +2786,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "ce9a122ea96cf618d76b45273a089dba608972e85ddaa4aea7820db0bb49edd5",
-      "bytes": 37921,
+      "sha256": "3169a172421a0d9b8ad7ac88e7324535bb57692dd187091cc06b446a8915a4c3",
+      "bytes": 38151,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2805,6 +2805,7 @@
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
         "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
+        "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4785,9 +4786,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e0ee08941749e829d81c1158db4d88951ae4a3036c3b13a09e17f5153d525790",
-      "bytes": 139168,
-      "lines": 1090,
+      "sha256": "53baced96da5df0fdefa111796eaf7c5149f8a03c9b495ecf8f9ed77466b7fbc",
+      "bytes": 139369,
+      "lines": 1091,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -4990,6 +4991,7 @@
         "INTERVENTION_CONSCIOUSNESS_CALIBRATION.md",
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
         "ISMAEL_PARTICIPATORY_REALISM_AND_EMBEDDED_INTELLIGIBILITY.md",
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
@@ -5869,18 +5871,18 @@
         72,
         144,
         196,
-        262,
-        291,
-        337,
-        364,
-        423,
-        517,
-        532,
-        568,
-        577,
-        580,
-        583,
-        647
+        263,
+        292,
+        338,
+        365,
+        424,
+        518,
+        533,
+        569,
+        578,
+        581,
+        584,
+        648
       ]
     },
     {
@@ -7342,8 +7344,8 @@
     },
     {
       "path": "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md",
-      "sha256": "d6dd501b7aaa79d6cb090f3a2e6c3b65533fa55b850991e616c4ae2db051a503",
-      "bytes": 19432,
+      "sha256": "105426d83ee7ef1304a4465b87c84950c804e61b93146a1f5e427f60a31bd425",
+      "bytes": 19683,
       "lines": 111,
       "title": "Jaworski on biological structure: assessment and relevance to the framework",
       "headings": [
@@ -7363,12 +7365,67 @@
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "constitutive-reality-thesis.md",
         "UNIFIED_CONSTITUTION_MAP.md",
-        "substrate-independence-thesis.md"
+        "substrate-independence-thesis.md",
+        "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md"
       ],
       "risk_phrase_lines": [
         52,
         65,
-        79
+        79,
+        111
+      ]
+    },
+    {
+      "path": "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
+      "sha256": "b10fbeeef9cde4314c898d490950aeb14f27cd920acde5367fcff7b9b0c415f5",
+      "bytes": 1897,
+      "lines": 9,
+      "title": "Plan: organization, material turnover and rival explanations",
+      "headings": [
+        "Plan: organization, material turnover and rival explanations"
+      ],
+      "local_links": [
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        8
+      ]
+    },
+    {
+      "path": "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
+      "sha256": "6ffae02c85f6fba8c8287a3c5b347aae6235d0f260b7ea1a4aafdc57e5f498b3",
+      "bytes": 12417,
+      "lines": 78,
+      "title": "Organization through turnover: a finite comparison after Jaworski",
+      "headings": [
+        "Organization through turnover: a finite comparison after Jaworski",
+        "Result",
+        "1. The setup",
+        "2. Exact comparison and a failure mode",
+        "3. When a macro-description is not closed",
+        "4. The environmental ledger",
+        "5. What the comparison does and does not settle",
+        "6. Next empirical and theoretical obligations"
+      ],
+      "local_links": [
+        "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
+        "constitutive-reality-thesis.md",
+        "verification/jaworski_organization_turnover.json",
+        "verification/jaworski_organization_turnover.py",
+        "verification/jaworski_organization_turnover.json",
+        "verification/jaworski_organization_turnover_test.py",
+        "JAWORSKI_2016_BIOLOGICAL_STRUCTURE_AND_FRAMEWORK_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        18,
+        34,
+        41,
+        43,
+        57,
+        78
       ]
     },
     {
