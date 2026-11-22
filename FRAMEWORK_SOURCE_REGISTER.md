@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 547 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 449 verification Python scripts.
+- 549 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 451 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -393,6 +393,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md](ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md) — Robust quantum agreement and rare records
 - [ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md](ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md) — Full roof-duality papers and a robust selector check
+- [ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md](ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md) — Exploratory mixed-report transition and EEG-window diagnostic plan
+- [ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md](ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md) — Mixed reports, transition controls and EEG-window context
 - [ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md](ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md) — Brief mixed reports: development result and frozen S02 test protocol
 - [ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md](ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md) — Frozen S09-to-S01 three-state EEG/report transfer plan
 - [ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md](ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md) — S09-trained EEG classifier tested on S01
@@ -980,6 +982,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
 - [verification/robust_quantum_agreement_bound.py](verification/robust_quantum_agreement_bound.py)
 - [verification/roof_duality_robust_boundary_gate.py](verification/roof_duality_robust_boundary_gate.py)
+- [verification/roy_mixed_transition_context.py](verification/roy_mixed_transition_context.py)
+- [verification/roy_mixed_transition_context_test.py](verification/roy_mixed_transition_context_test.py)
 - [verification/roy_mri_pair_inventory.py](verification/roy_mri_pair_inventory.py)
 - [verification/roy_mri_pair_inventory_test.py](verification/roy_mri_pair_inventory_test.py)
 - [verification/roy_report_center_development.py](verification/roy_report_center_development.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d8f76451a10025030966642787a2641c6dcb5b53",
-  "file_count": 1733,
+  "base_head": "980f02292f6509cb677ebf9aacfeb061cc5c6766",
+  "file_count": 1738,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 40437,
-      "sha256": "7e70f3a56646b14384e2abda6cd879d98e1ab9f52ffca7197b673da0dc81ea7f"
+      "bytes": 40734,
+      "sha256": "29030cd8955b323c6ff6d13b8072826e80b814868ad46383bbc8581f03887abd"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 144561,
-      "sha256": "436f29af7b754a3b8ffc3fbee54f7a22307dcfad52108171132605cd7072edea"
+      "bytes": 145106,
+      "sha256": "951bf2c88490b9b8ce37c6acd33aeb2b3a21a7647d7c039ee29fc3d49bcb18a8"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1922,6 +1922,16 @@
       "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
       "bytes": 7136,
       "sha256": "c5c4a321a332b3e7a16dd430a2bf10b9b3c81fd772092eac967cc31b6f925971"
+    },
+    {
+      "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
+      "bytes": 4802,
+      "sha256": "d1810153d7b8032bf4a2d74a50beb4c632658f316a825ab8e4c692a83b83b4c2"
+    },
+    {
+      "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
+      "bytes": 10800,
+      "sha256": "87fe7b8715f85380550559992536bcdb6094ee26167fed53d7836f1fd3016575"
     },
     {
       "path": "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
@@ -6730,8 +6740,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 721205,
-      "sha256": "71310a3b35fddac8110f4ebee2e39e2ba0e21446217f3d999345f969f0454448"
+      "bytes": 722912,
+      "sha256": "74833639ee3fb1c77727583433c8961255a374d421380fd8eb4bb7cd878dbe41"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7157,6 +7167,21 @@
       "path": "verification/roof_duality_robust_boundary_gate.py",
       "bytes": 3428,
       "sha256": "f68ee571981ec6ee65834e5005e32c6884578a5ecb3a0696d4634b5d596cc30e"
+    },
+    {
+      "path": "verification/roy_mixed_transition_context.json",
+      "bytes": 14021,
+      "sha256": "72865975238b9150db54f327c2dd91f582e2ceca8b944fdde237c37afe92fb9b"
+    },
+    {
+      "path": "verification/roy_mixed_transition_context.py",
+      "bytes": 10159,
+      "sha256": "5e73240473a51ba11b360789cc042d6b770f969ccda05bccc7b2891895d5b30f"
+    },
+    {
+      "path": "verification/roy_mixed_transition_context_test.py",
+      "bytes": 2603,
+      "sha256": "54d7dc179689bc270d8623aa5c64fe23b8056ff898bcbd50b181e0f2c4aec853"
     },
     {
       "path": "verification/roy_mri_pair_inventory.py",

@@ -1,0 +1,525 @@
+{
+  "scope": "Retrospective exploratory diagnostics in three previously inspected participants; no held-out validation.",
+  "scans": {
+    "S01": [
+      1,
+      3,
+      5,
+      7,
+      10,
+      12
+    ],
+    "S02": [
+      1,
+      2,
+      4,
+      6,
+      8,
+      11
+    ],
+    "S09": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  "per_participant": {
+    "S01": {
+      "participant": "S01",
+      "grid_centers_by_code_and_artifact": {
+        "0": {
+          "total": 5,
+          "artifact": 0,
+          "clean": 5
+        },
+        "1": {
+          "total": 2699,
+          "artifact": 41,
+          "clean": 2658
+        },
+        "2": {
+          "total": 2926,
+          "artifact": 13,
+          "clean": 2913
+        },
+        "3": {
+          "total": 400,
+          "artifact": 1,
+          "clean": 399
+        }
+      },
+      "clean_mixed_center_window_context": {
+        "mixed_fraction": {
+          "n": 399,
+          "mean": 0.16180952380952385,
+          "median": 0.116
+        },
+        "unknown_fraction": {
+          "n": 399,
+          "mean": 0.0022105263157894735,
+          "median": 0.0
+        },
+        "code1_fraction": {
+          "n": 399,
+          "mean": 0.4043107769423559,
+          "median": 0.45
+        },
+        "code2_fraction": {
+          "n": 399,
+          "mean": 0.43166917293233087,
+          "median": 0.458
+        },
+        "mixed_hann_squared_weight_fraction": {
+          "n": 399,
+          "mean": 0.3375196386054244,
+          "median": 0.2827509706810578
+        }
+      },
+      "matching_coverage": {
+        "mixed_segments_total": 523,
+        "mixed_segments_without_valid_grid_center": 219,
+        "mixed_segments_artifact_excluded": 1,
+        "eligible_mixed_segments": 303,
+        "clean_control_centers": 1025,
+        "matched_pairs": 303,
+        "unmatched_eligible_mixed_segments": 0
+      },
+      "matched_pair_summary": {
+        "log10_ratio_mixed_minus_control": {
+          "n": 303,
+          "mean": 0.03835981313550231,
+          "median": 0.031012517492082003
+        },
+        "fraction_positive": 0.5148514851485149,
+        "distance_seconds": {
+          "n": 303,
+          "mean": 2.4877887788778876,
+          "median": 2.2
+        },
+        "controls_before_mixed": 140,
+        "control_code_counts": {
+          "1": 152,
+          "2": 151
+        },
+        "mixed_context": {
+          "mixed_fraction": {
+            "n": 303,
+            "mean": 0.11773597359735974,
+            "median": 0.082
+          },
+          "unknown_fraction": {
+            "n": 303,
+            "mean": 0.002910891089108911,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 303,
+            "mean": 0.4291353135313531,
+            "median": 0.46
+          },
+          "code2_fraction": {
+            "n": 303,
+            "mean": 0.45021782178217823,
+            "median": 0.466
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 303,
+            "mean": 0.2676555603218891,
+            "median": 0.19585817070936448
+          }
+        },
+        "control_context": {
+          "mixed_fraction": {
+            "n": 303,
+            "mean": 0.09900990099009901,
+            "median": 0.058
+          },
+          "unknown_fraction": {
+            "n": 303,
+            "mean": 0.0,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 303,
+            "mean": 0.44405280528052804,
+            "median": 0.444
+          },
+          "code2_fraction": {
+            "n": 303,
+            "mean": 0.4569372937293729,
+            "median": 0.468
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 303,
+            "mean": 0.16922260593505223,
+            "median": 0.13103641534523863
+          }
+        },
+        "mixed_unchanged_0p2s_earlier": 0.15841584158415842,
+        "mixed_unchanged_0p2s_later": 0.12871287128712872,
+        "control_unchanged_0p2s_earlier": 0.5082508250825083,
+        "control_unchanged_0p2s_later": 0.4884488448844885,
+        "local_tag_flank_db": {
+          "mixed": {
+            "low": {
+              "n": 303,
+              "mean": 0.2105543051026919,
+              "median": 1.3606573157647441
+            },
+            "high": {
+              "n": 303,
+              "mean": -0.29439864279674693,
+              "median": 0.028234376979086807
+            }
+          },
+          "control": {
+            "low": {
+              "n": 303,
+              "mean": -0.19548133574746693,
+              "median": 0.4821712127274759
+            },
+            "high": {
+              "n": 303,
+              "mean": -0.40968822041588177,
+              "median": 0.2260153166001924
+            }
+          }
+        }
+      }
+    },
+    "S02": {
+      "participant": "S02",
+      "grid_centers_by_code_and_artifact": {
+        "0": {
+          "total": 15,
+          "artifact": 2,
+          "clean": 13
+        },
+        "1": {
+          "total": 2650,
+          "artifact": 257,
+          "clean": 2393
+        },
+        "2": {
+          "total": 2553,
+          "artifact": 320,
+          "clean": 2233
+        },
+        "3": {
+          "total": 812,
+          "artifact": 76,
+          "clean": 736
+        }
+      },
+      "clean_mixed_center_window_context": {
+        "mixed_fraction": {
+          "n": 736,
+          "mean": 0.5310516304347825,
+          "median": 0.558
+        },
+        "unknown_fraction": {
+          "n": 736,
+          "mean": 0.003097826086956522,
+          "median": 0.0
+        },
+        "code1_fraction": {
+          "n": 736,
+          "mean": 0.2086983695652174,
+          "median": 0.184
+        },
+        "code2_fraction": {
+          "n": 736,
+          "mean": 0.2571521739130435,
+          "median": 0.314
+        },
+        "mixed_hann_squared_weight_fraction": {
+          "n": 736,
+          "mean": 0.7090399026539183,
+          "median": 0.7759483463106275
+        }
+      },
+      "matching_coverage": {
+        "mixed_segments_total": 299,
+        "mixed_segments_without_valid_grid_center": 50,
+        "mixed_segments_artifact_excluded": 24,
+        "eligible_mixed_segments": 225,
+        "clean_control_centers": 525,
+        "matched_pairs": 202,
+        "unmatched_eligible_mixed_segments": 23
+      },
+      "matched_pair_summary": {
+        "log10_ratio_mixed_minus_control": {
+          "n": 202,
+          "mean": -0.06840978496969476,
+          "median": -0.11523340265982891
+        },
+        "fraction_positive": 0.4504950495049505,
+        "distance_seconds": {
+          "n": 202,
+          "mean": 2.9663366336633668,
+          "median": 2.6
+        },
+        "controls_before_mixed": 91,
+        "control_code_counts": {
+          "1": 94,
+          "2": 108
+        },
+        "mixed_context": {
+          "mixed_fraction": {
+            "n": 202,
+            "mean": 0.30835643564356435,
+            "median": 0.158
+          },
+          "unknown_fraction": {
+            "n": 202,
+            "mean": 0.0012673267326732674,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 202,
+            "mean": 0.3356534653465346,
+            "median": 0.417
+          },
+          "code2_fraction": {
+            "n": 202,
+            "mean": 0.3547227722772277,
+            "median": 0.426
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 202,
+            "mean": 0.5101914061553304,
+            "median": 0.38384652756781
+          }
+        },
+        "control_context": {
+          "mixed_fraction": {
+            "n": 202,
+            "mean": 0.20212871287128711,
+            "median": 0.126
+          },
+          "unknown_fraction": {
+            "n": 202,
+            "mean": 0.0,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 202,
+            "mean": 0.383039603960396,
+            "median": 0.414
+          },
+          "code2_fraction": {
+            "n": 202,
+            "mean": 0.4148316831683168,
+            "median": 0.504
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 202,
+            "mean": 0.25503485319876185,
+            "median": 0.2506868458489493
+          }
+        },
+        "mixed_unchanged_0p2s_earlier": 0.4306930693069307,
+        "mixed_unchanged_0p2s_later": 0.43564356435643564,
+        "control_unchanged_0p2s_earlier": 0.5148514851485149,
+        "control_unchanged_0p2s_later": 0.4900990099009901,
+        "local_tag_flank_db": {
+          "mixed": {
+            "low": {
+              "n": 202,
+              "mean": -1.2406501694998622,
+              "median": -0.8191204798480689
+            },
+            "high": {
+              "n": 202,
+              "mean": -0.23860073337141344,
+              "median": 0.19642266028523236
+            }
+          },
+          "control": {
+            "low": {
+              "n": 202,
+              "mean": -0.8723216924142261,
+              "median": -0.8206110159098737
+            },
+            "high": {
+              "n": 202,
+              "mean": -0.0575995382837647,
+              "median": 0.7212645244708185
+            }
+          }
+        }
+      }
+    },
+    "S09": {
+      "participant": "S09",
+      "grid_centers_by_code_and_artifact": {
+        "0": {
+          "total": 11,
+          "artifact": 9,
+          "clean": 2
+        },
+        "1": {
+          "total": 1809,
+          "artifact": 82,
+          "clean": 1727
+        },
+        "2": {
+          "total": 2100,
+          "artifact": 73,
+          "clean": 2027
+        },
+        "3": {
+          "total": 1105,
+          "artifact": 48,
+          "clean": 1057
+        }
+      },
+      "clean_mixed_center_window_context": {
+        "mixed_fraction": {
+          "n": 1057,
+          "mean": 0.6375894039735099,
+          "median": 0.626
+        },
+        "unknown_fraction": {
+          "n": 1057,
+          "mean": 0.0,
+          "median": 0.0
+        },
+        "code1_fraction": {
+          "n": 1057,
+          "mean": 0.16823462630085148,
+          "median": 0.084
+        },
+        "code2_fraction": {
+          "n": 1057,
+          "mean": 0.1941759697256386,
+          "median": 0.18
+        },
+        "mixed_hann_squared_weight_fraction": {
+          "n": 1057,
+          "mean": 0.8014175103458776,
+          "median": 0.869880065945035
+        }
+      },
+      "matching_coverage": {
+        "mixed_segments_total": 229,
+        "mixed_segments_without_valid_grid_center": 19,
+        "mixed_segments_artifact_excluded": 8,
+        "eligible_mixed_segments": 202,
+        "clean_control_centers": 414,
+        "matched_pairs": 188,
+        "unmatched_eligible_mixed_segments": 14
+      },
+      "matched_pair_summary": {
+        "log10_ratio_mixed_minus_control": {
+          "n": 188,
+          "mean": 0.1591513426722292,
+          "median": 0.16680791420510882
+        },
+        "fraction_positive": 0.5585106382978723,
+        "distance_seconds": {
+          "n": 188,
+          "mean": 3.7723404255319153,
+          "median": 3.8
+        },
+        "controls_before_mixed": 84,
+        "control_code_counts": {
+          "1": 93,
+          "2": 95
+        },
+        "mixed_context": {
+          "mixed_fraction": {
+            "n": 188,
+            "mean": 0.43281914893617024,
+            "median": 0.348
+          },
+          "unknown_fraction": {
+            "n": 188,
+            "mean": 0.0,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 188,
+            "mean": 0.279968085106383,
+            "median": 0.336
+          },
+          "code2_fraction": {
+            "n": 188,
+            "mean": 0.2872127659574468,
+            "median": 0.327
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 188,
+            "mean": 0.6842472278989934,
+            "median": 0.731815660234497
+          }
+        },
+        "control_context": {
+          "mixed_fraction": {
+            "n": 188,
+            "mean": 0.33509574468085107,
+            "median": 0.392
+          },
+          "unknown_fraction": {
+            "n": 188,
+            "mean": 0.001648936170212766,
+            "median": 0.0
+          },
+          "code1_fraction": {
+            "n": 188,
+            "mean": 0.32439361702127656,
+            "median": 0.40900000000000003
+          },
+          "code2_fraction": {
+            "n": 188,
+            "mean": 0.3388617021276596,
+            "median": 0.387
+          },
+          "mixed_hann_squared_weight_fraction": {
+            "n": 188,
+            "mean": 0.32888524339713665,
+            "median": 0.3261758352214216
+          }
+        },
+        "mixed_unchanged_0p2s_earlier": 0.6968085106382979,
+        "mixed_unchanged_0p2s_later": 0.723404255319149,
+        "control_unchanged_0p2s_earlier": 0.5053191489361702,
+        "control_unchanged_0p2s_later": 0.48936170212765956,
+        "local_tag_flank_db": {
+          "mixed": {
+            "low": {
+              "n": 188,
+              "mean": -0.3359928036936525,
+              "median": 0.1871178578635642
+            },
+            "high": {
+              "n": 188,
+              "mean": -0.5142695864005234,
+              "median": 0.4945885087872446
+            }
+          },
+          "control": {
+            "low": {
+              "n": 188,
+              "mean": -1.2740185197636555,
+              "median": -0.4084093000616854
+            },
+            "high": {
+              "n": 188,
+              "mean": 0.4331603493125071,
+              "median": 0.838254089623556
+            }
+          }
+        }
+      }
+    }
+  },
+  "limitations": [
+    "Fixed reconstructed report labels and timing are provisional.",
+    "Mixed and nonmixed controls are only partly matched; pairs across events can overlap.",
+    "Hann squared weight fractions are not additive decomposition of spectral power.",
+    "Local flank ratios are descriptive, not validated signal-to-noise or proof of experience."
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 590,
-  "bytes": 7309899,
-  "line_count": 65212,
+  "document_count": 592,
+  "bytes": 7325952,
+  "line_count": 65310,
   "document_count_with_risk_phrases": 545,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "7e70f3a56646b14384e2abda6cd879d98e1ab9f52ffca7197b673da0dc81ea7f",
-      "bytes": 40437,
+      "sha256": "29030cd8955b323c6ff6d13b8072826e80b814868ad46383bbc8581f03887abd",
+      "bytes": 40734,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2863,6 +2863,7 @@
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
         "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
+        "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4894,9 +4895,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2ac76fb68995adf288e3920fefab6cce020f6f7a506bcf4f0bb3a6db7dc1f677",
-      "bytes": 144407,
-      "lines": 1128,
+      "sha256": "436f29af7b754a3b8ffc3fbee54f7a22307dcfad52108171132605cd7072edea",
+      "bytes": 144561,
+      "lines": 1129,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5294,6 +5295,7 @@
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
         "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_RESULTS.md",
+        "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
         "ROY_S08_FIXED_TRANSFER_PROTOCOL.md",
         "ROY_S08_FIXED_TRANSFER_RESULTS.md",
         "ROY_S09_ADDITIONAL_SCANS_AND_REPEATED_REPORT_PATTERN.md",
@@ -6020,14 +6022,14 @@
         302,
         348,
         377,
-        441,
-        535,
-        550,
-        586,
-        595,
-        598,
-        601,
-        665
+        442,
+        536,
+        551,
+        587,
+        596,
+        599,
+        602,
+        666
       ]
     },
     {
@@ -13068,6 +13070,45 @@
         37,
         41
       ]
+    },
+    {
+      "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
+      "sha256": "d1810153d7b8032bf4a2d74a50beb4c632658f316a825ab8e4c692a83b83b4c2",
+      "bytes": 4802,
+      "lines": 14,
+      "title": "Exploratory mixed-report transition and EEG-window diagnostic plan",
+      "headings": [
+        "Exploratory mixed-report transition and EEG-window diagnostic plan",
+        "Diagnostics"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
+      "sha256": "87fe7b8715f85380550559992536bcdb6094ee26167fed53d7836f1fd3016575",
+      "bytes": 10800,
+      "lines": 83,
+      "title": "Mixed reports, transition controls and EEG-window context",
+      "headings": [
+        "Mixed reports, transition controls and EEG-window context",
+        "Bottom line",
+        "1. Scope and source integrity",
+        "2. Window context and artifact coverage",
+        "3. Matched nonmixed transition comparison",
+        "4. Timing and spectral cautions",
+        "5. Consequences and verification"
+      ],
+      "local_links": [
+        "ROY_S02_FROZEN_REPORT_CENTER_TRANSFER_RESULTS.md",
+        "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
+        "verification/roy_s02_dropbox_integrity_receipt.json",
+        "verification/roy_mixed_transition_context.json",
+        "verification/roy_mixed_transition_context.py",
+        "verification/roy_mixed_transition_context_test.py",
+        "verification/roy_mixed_transition_context.json"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
