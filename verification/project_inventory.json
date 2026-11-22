@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 580,
-  "bytes": 7224904,
-  "line_count": 64720,
+  "document_count": 582,
+  "bytes": 7241310,
+  "line_count": 64802,
   "document_count_with_risk_phrases": 538,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -2834,8 +2834,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "cb823350ecb2c606c59ddb31f5a7f9e7bf9272f11c781c8ba3b171ba103667b2",
-      "bytes": 38900,
+      "sha256": "455fb7852afee9c207cb6e8b52874584232aa4057d15787f157ff530b06d1aea",
+      "bytes": 39123,
       "lines": 263,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
@@ -2857,6 +2857,7 @@
         "BACTERIAL_CHEMOTAXIS_ORGANIZATION_AND_EXPLANATION_AUDIT.md",
         "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
         "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
+        "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
@@ -4888,9 +4889,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "29553cf48e354886072141f5eaf4ed986464620a8295478d624eb2fa4bdc8c52",
-      "bytes": 141086,
-      "lines": 1103,
+      "sha256": "e88e0cfe3f89bf6df8ba57b7b0b447bf91e9ee4cf92f9562335299136648c24e",
+      "bytes": 141683,
+      "lines": 1107,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5253,6 +5254,8 @@
         "QUANTUM_POSITION_VERIFICATION_AND_SUBJECT_LOCATION.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "RAINVILLE_PAIN_AFFECT_FULL_PAPER_AUDIT.md",
+        "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
+        "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION_PLAN.md",
         "RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md",
         "README.md",
         "REALIZED_PROCESS_CANDIDATE.md",
@@ -5817,6 +5820,8 @@
         "verification/quantum_static_spherical_clock.py",
         "verification/race_context_and_joint_content_gate.py",
         "verification/random_audit_experience_bridge.py",
+        "verification/randomized_experience_contrast.py",
+        "verification/randomized_experience_contrast_test.py",
         "verification/rao_stim_metadata_readiness.py",
         "verification/rao_stim_metadata_readiness_test.py",
         "verification/recollapsing_gravitational_clock.py",
@@ -5988,15 +5993,15 @@
         269,
         298,
         344,
-        371,
-        430,
-        524,
-        539,
-        575,
-        584,
-        587,
-        590,
-        654
+        373,
+        432,
+        526,
+        541,
+        577,
+        586,
+        589,
+        592,
+        656
       ]
     },
     {
@@ -6137,6 +6142,40 @@
       "risk_phrase_lines": [
         31
       ]
+    },
+    {
+      "path": "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
+      "sha256": "476bd3621aeb2aefc8111fb2dc299964815b96165eaf77f931878a2e952db00e",
+      "bytes": 14464,
+      "lines": 73,
+      "title": "What does a no-report rivalry study actually calibrate?",
+      "headings": [
+        "What does a no-report rivalry study actually calibrate?",
+        "Decision",
+        "1. What was done",
+        "2. What the behavioral comparisons show",
+        "3. What the fMRI contrast supports",
+        "4. The specific calibration gap",
+        "5. A sharper next test"
+      ],
+      "local_links": [
+        "RIVALRY_EEG_FMRI_FEASIBILITY_AND_REANALYSIS_GATE.md",
+        "RANDOMIZED_EXPERIENCE_CONTRAST_PARTIAL_IDENTIFICATION.md",
+        "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md"
+      ],
+      "risk_phrase_lines": []
+    },
+    {
+      "path": "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT_PLAN.md",
+      "sha256": "c0311b46b1c343c58a074bae07bbf3b077b084bc37fa07910ab07b3c13631d81",
+      "bytes": 859,
+      "lines": 3,
+      "title": "Plan: Frässle et al. and no-report calibration",
+      "headings": [
+        "Plan: Frässle et al. and no-report calibration"
+      ],
+      "local_links": [],
+      "risk_phrase_lines": []
     },
     {
       "path": "FRICTION_AND_UNPLEASANTNESS_AUDIT.md",
@@ -12830,9 +12869,9 @@
     },
     {
       "path": "RIVALRY_RANDOM_AUDIT_EXPERIENCE_BRIDGE.md",
-      "sha256": "47aefb755265a705c67e0849aca320ec3bb9d5abd1b6645363ca13b9cc2fbc1a",
-      "bytes": 14444,
-      "lines": 119,
+      "sha256": "9c25130613c9c2d4099007f4613944468b0b6675c7b092525cf841d4d8507c2b",
+      "bytes": 14707,
+      "lines": 121,
       "title": "A concrete subject-to-report hypothesis: randomized audits of rivalry",
       "headings": [
         "A concrete subject-to-report hypothesis: randomized audits of rivalry",
@@ -12845,6 +12884,7 @@
         "6. A falsifiable decision sequence and stopping rule"
       ],
       "local_links": [
+        "FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md",
         "ORIENTATION_EXPERIENCE_CONSTITUTION_TEST.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "MAINTAINED_DISCLOSURE_CANDIDATE.md",
@@ -12854,8 +12894,8 @@
         "verification/random_audit_experience_bridge.json"
       ],
       "risk_phrase_lines": [
-        13,
-        119
+        15,
+        121
       ]
     },
     {

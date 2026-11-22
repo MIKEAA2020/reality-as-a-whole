@@ -1,5 +1,7 @@
 # A concrete subject-to-report hypothesis: randomized audits of rivalry
 
+> **Source-specific follow-up:** the [Frässle 2014 no-report calibration audit](FRASSLE_2014_NO_REPORT_CALIBRATION_AUDIT.md) distinguishes the published, lag-optimized active-report agreement and fMRI interaction from target-condition experiential calibration.
+
 ## Decision
 
 This is a proposed **human perceptual calibration and decision gate**, not an experiment we have run. Its target is a participant's experienced direction of motion during binocular rivalry, not the direction physically presented to an eye, correct guessing, or consciousness in general.
