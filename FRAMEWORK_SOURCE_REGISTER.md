@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 555 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 465 verification Python scripts.
+- 556 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 467 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -475,6 +475,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol
 - [SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md](SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md) — A subject-constitution and record interface: bounded results
+- [SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md](SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md) — Three candidate constitution rules: a constructive test and a verdict
 - [SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md](SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md) — Subject identity under a reversible observation: a quantitative gate
 - [SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md](SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md) — Retrospective reading plan: subject incidence and indirect communication
 - [SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md](SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md) — Can indirect communication individuate nested subjects?
@@ -1079,6 +1080,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)
 - [verification/subject_boundary_external_budget_gate.py](verification/subject_boundary_external_budget_gate.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
+- [verification/subject_constitution_candidate_comparison.py](verification/subject_constitution_candidate_comparison.py)
+- [verification/subject_constitution_candidate_comparison_test.py](verification/subject_constitution_candidate_comparison_test.py)
 - [verification/subject_constitution_interface.py](verification/subject_constitution_interface.py)
 - [verification/subject_context_substrate_gate.py](verification/subject_context_substrate_gate.py)
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)

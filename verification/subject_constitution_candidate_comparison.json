@@ -1,0 +1,142 @@
+{
+  "scope": "Invented finite model; subject labels are additional stipulations, not empirical discoveries.",
+  "update": "a'=b xor (g and d) xor u_a; b'=a xor u_b; c'=d xor (g and b) xor u_c; d'=c xor u_d",
+  "cases": [
+    {
+      "coupled": false,
+      "edges": [
+        [
+          "a",
+          "b"
+        ],
+        [
+          "b",
+          "a"
+        ],
+        [
+          "c",
+          "d"
+        ],
+        [
+          "d",
+          "c"
+        ]
+      ],
+      "subjects": {
+        "maximal": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ]
+        ],
+        "marked_local": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ]
+        ],
+        "nested": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ]
+        ]
+      },
+      "global_subject_exists": {
+        "maximal": false,
+        "marked_local": false,
+        "nested": false
+      }
+    },
+    {
+      "coupled": true,
+      "edges": [
+        [
+          "a",
+          "b"
+        ],
+        [
+          "b",
+          "a"
+        ],
+        [
+          "b",
+          "c"
+        ],
+        [
+          "c",
+          "d"
+        ],
+        [
+          "d",
+          "a"
+        ],
+        [
+          "d",
+          "c"
+        ]
+      ],
+      "subjects": {
+        "maximal": [
+          [
+            "a",
+            "b",
+            "c",
+            "d"
+          ]
+        ],
+        "marked_local": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ]
+        ],
+        "nested": [
+          [
+            "a",
+            "b"
+          ],
+          [
+            "c",
+            "d"
+          ],
+          [
+            "a",
+            "b",
+            "c",
+            "d"
+          ]
+        ]
+      },
+      "global_subject_exists": {
+        "maximal": true,
+        "marked_local": false,
+        "nested": true
+      }
+    }
+  ],
+  "conditional_future_assay": {
+    "n_independent_trials": 30,
+    "positive_threshold": 16,
+    "false_positive_per_trial_upper_bound": 0.1,
+    "false_negative_per_trial_upper_bound": 0.1,
+    "null_false_positive_upper_bound": 3.6574708939273644e-09,
+    "alternative_power_lower_bound": 0.9999999644052073
+  }
+}

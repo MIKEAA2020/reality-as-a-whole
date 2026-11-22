@@ -12,6 +12,8 @@ The proposed whole is self-sufficient and timeless, with experience intrinsic an
 
 This note isolates what is needed for the preferred experiential-ground proposal to yield genuinely plural subjects, rather than redescribing one subject, counting qualities, or attaching a subject label to every arbitrarily chosen region. It compares alternatives and gives a symmetry constraint on one of them. It is not a derivation of subjecthood or evidence that any toy graph is conscious. A later [finite relational constitution model](RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md) shows precisely how a connected whole can represent distinct unified subjects without a universal subject, and which extra assumptions determine or leave open their count; its phenomenal premises remain stipulated.
 
+The later [three-candidate constitution critical test](SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md) implements a shared causal sector with three explicitly different incidence rules and states their individual failure modes and the additional assumptions needed for an empirical discriminator. It recommends none as an established constitution law.
+
 ## 1. The precise explanatory target
 
 Distinguish four questions, none interchangeable:

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5b0a0e286c5fd8c6fba846d988bce78f11072140",
-  "file_count": 1765,
+  "base_head": "51e90edfab00d1ea1fbd19565c44e731fe09697b",
+  "file_count": 1769,
   "files": [
     {
       "path": ".gitattributes",
@@ -465,8 +465,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 42603,
-      "sha256": "b73a4b4eeaa844c0083af58e51ad36e1349ec9ddc25321fef9d7e53c8ed44c9c"
+      "bytes": 43038,
+      "sha256": "82d8c2d572a13bb5a4eec8c581ca4e465b4d94acd6a1547b85570afcc82d11a0"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -785,8 +785,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 147706,
-      "sha256": "f0dfb20601446e18037bd4de4f67b1022a7f471b1ecc45c3c88ab8094edf842e"
+      "bytes": 148147,
+      "sha256": "61f67da18fb44d54cd23e59ca8c24d4c14b94e6902fa1b8a8c2829636a1dee91"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1685,8 +1685,8 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "bytes": 19365,
-      "sha256": "257885f51d10e88231332e2eafd6d590966f946f582523a3fa34784aeda8b826"
+      "bytes": 19726,
+      "sha256": "a1fbce4bec3296e3eaf1d965273bac6b1de83256cc7e2abc1555578d0175e964"
     },
     {
       "path": "POST_ROY_FRAMEWORK_CRITICAL_PATH.md",
@@ -2332,6 +2332,11 @@
       "path": "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
       "bytes": 10142,
       "sha256": "1efdb4ee30481ff5d7e85e579a906e6788ba972fb4d24f47f85fc585e22423cf"
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
+      "bytes": 18900,
+      "sha256": "8d7c658d0dacf6dec7c0ffa4e69eded747ff99175299f5c6598ad5d37bcb3e3d"
     },
     {
       "path": "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
@@ -6860,8 +6865,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 732442,
-      "sha256": "afe3b70521f034293958b4dadb61346c8002cc71e418e9071256f722960280bd"
+      "bytes": 733993,
+      "sha256": "8633de6d7e22d1e24ee4f6dc803c2b9196c43a9bdb970b7bb9cd5950994d2035"
     },
     {
       "path": "verification/project_inventory.py",
@@ -8167,6 +8172,21 @@
       "path": "verification/subject_cohesion_identity_redescription.py",
       "bytes": 4976,
       "sha256": "3617f6fcbe3f0cf31f4cae1ed8638e0a64e411e7fe4c966d858a5c945406a91f"
+    },
+    {
+      "path": "verification/subject_constitution_candidate_comparison.json",
+      "bytes": 2421,
+      "sha256": "b92cb3a5677f0226ca35397b6d939342d3d77ceb4ade2486ac1ac6e72acc1e0d"
+    },
+    {
+      "path": "verification/subject_constitution_candidate_comparison.py",
+      "bytes": 4029,
+      "sha256": "7fb2e15186e14d08f754a673a2d93d63e3ebadee3ee4fd13741e3f27a16e510d"
+    },
+    {
+      "path": "verification/subject_constitution_candidate_comparison_test.py",
+      "bytes": 2924,
+      "sha256": "f70c1f4d19d65f9f1804302050c131d690a67559688a2ba4bf1a6d95ab7c034f"
     },
     {
       "path": "verification/subject_constitution_interface.json",

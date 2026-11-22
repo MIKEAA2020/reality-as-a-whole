@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 598,
-  "bytes": 7417140,
-  "line_count": 65849,
-  "document_count_with_risk_phrases": 551,
+  "document_count": 599,
+  "bytes": 7437277,
+  "line_count": 65968,
+  "document_count_with_risk_phrases": 552,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2962,9 +2962,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "b73a4b4eeaa844c0083af58e51ad36e1349ec9ddc25321fef9d7e53c8ed44c9c",
-      "bytes": 42603,
-      "lines": 263,
+      "sha256": "82d8c2d572a13bb5a4eec8c581ca4e465b4d94acd6a1547b85570afcc82d11a0",
+      "bytes": 43038,
+      "lines": 265,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -3001,6 +3001,7 @@
         "PHENOMENAL_UNITY_AND_PLURAL_SUBJECT_IDENTIFICATION_GATE.md",
         "CORRELATION_CLUSTERING_FULL_PAPER_AND_SUBJECT_CERTIFICATE.md",
         "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
@@ -3034,11 +3035,11 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
-        17,
-        117,
-        215,
-        245,
-        253
+        19,
+        119,
+        217,
+        247,
+        255
       ]
     },
     {
@@ -5029,9 +5030,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f0dfb20601446e18037bd4de4f67b1022a7f471b1ecc45c3c88ab8094edf842e",
-      "bytes": 147706,
-      "lines": 1153,
+      "sha256": "61f67da18fb44d54cd23e59ca8c24d4c14b94e6902fa1b8a8c2829636a1dee91",
+      "bytes": 148147,
+      "lines": 1156,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5508,6 +5509,7 @@
         "SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md",
         "SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md",
         "SUBJECT_CONSTITUTION_INTERFACE_RESULTS.md",
+        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
         "SUBJECT_IDENTITY_LOCAL_FRIENDLINESS_TEST.md",
         "SUBJECT_INCIDENCE_COMMUNICATION_PRINCIPLE_READING_PLAN.md",
         "SUBJECT_INCIDENCE_INDIRECT_COMMUNICATION_AND_NESTING_AUDIT.md",
@@ -6098,6 +6100,8 @@
         "verification/subject_assay_dependence_control.py",
         "verification/subject_boundary_external_budget_gate.py",
         "verification/subject_cohesion_identity_redescription.py",
+        "verification/subject_constitution_candidate_comparison.py",
+        "verification/subject_constitution_candidate_comparison_test.py",
         "verification/subject_constitution_interface.py",
         "verification/subject_context_substrate_gate.py",
         "verification/subject_factorization_redescription_gate.py",
@@ -6181,13 +6185,13 @@
         354,
         383,
         450,
-        544,
-        559,
-        595,
-        604,
-        607,
-        610,
-        674
+        545,
+        560,
+        596,
+        605,
+        608,
+        611,
+        675
       ]
     },
     {
@@ -11452,9 +11456,9 @@
     },
     {
       "path": "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
-      "sha256": "257885f51d10e88231332e2eafd6d590966f946f582523a3fa34784aeda8b826",
-      "bytes": 19365,
-      "lines": 87,
+      "sha256": "a1fbce4bec3296e3eaf1d965273bac6b1de83256cc7e2abc1555578d0175e964",
+      "bytes": 19726,
+      "lines": 89,
       "title": "Plural subjects in an experiential relational ground",
       "headings": [
         "Plural subjects in an experiential relational ground",
@@ -11471,6 +11475,7 @@
         "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
         "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
+        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
         "EPISODE_INCIDENCE_REFORMULATION.md",
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
@@ -11479,10 +11484,10 @@
         "SHARED_EXPERIENCE_VERSUS_DUPLICATED_TOKENS_GATE.md"
       ],
       "risk_phrase_lines": [
-        62,
-        68,
+        64,
         70,
-        84
+        72,
+        86
       ]
     },
     {
@@ -15347,6 +15352,41 @@
         59,
         79,
         85
+      ]
+    },
+    {
+      "path": "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
+      "sha256": "8d7c658d0dacf6dec7c0ffa4e69eded747ff99175299f5c6598ad5d37bcb3e3d",
+      "bytes": 18900,
+      "lines": 112,
+      "title": "Three candidate constitution rules: a constructive test and a verdict",
+      "headings": [
+        "Three candidate constitution rules: a constructive test and a verdict",
+        "Executive verdict",
+        "1. The goal and the shared commitments",
+        "2. One public causal sector",
+        "3. The three proposed constitution principles",
+        "4. A serious failure test for each candidate",
+        "5. What is—and is not—an empirical prediction",
+        "6. What would count as non-incremental progress?"
+      ],
+      "local_links": [
+        "PLURAL_EXPERIENTIAL_GROUND_SUBJECT_CONSTITUTION.md",
+        "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
+        "PRIVATE_NESTED_FIELDS_AND_EXPERIENTIAL_CONTENT_COMPARISON.md",
+        "verification/subject_constitution_candidate_comparison.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        28,
+        43,
+        45,
+        47,
+        64,
+        75,
+        95,
+        99,
+        112
       ]
     },
     {
