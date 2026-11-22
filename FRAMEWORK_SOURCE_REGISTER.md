@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 569 root Markdown documents including this register; 43 research Markdown documents.
-- 58 original uploaded files, including provenance metadata; 491 verification Python scripts.
+- 570 root Markdown documents including this register; 43 research Markdown documents.
+- 59 original uploaded files, including provenance metadata; 493 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -571,6 +571,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
+- [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [brain-specificity-thesis.md](brain-specificity-thesis.md) — Brain specificity, organizational realization, and whole-reality intelligibility
 - [constitutive-reality-thesis.md](constitutive-reality-thesis.md) — Concrete constitution and reality as a whole
 - [identity-and-whole-thesis.md](identity-and-whole-thesis.md) — Identity, perspective, and reality as a whole
@@ -647,6 +648,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt)
+- [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt)
 - [sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt](sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt)
@@ -1086,6 +1088,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_structural_pair_inventory.py](verification/roy_structural_pair_inventory.py)
 - [verification/roy_structural_pair_inventory_test.py](verification/roy_structural_pair_inventory_test.py)
 - [verification/selective_phase_channel_certificate.py](verification/selective_phase_channel_certificate.py)
+- [verification/self_cancelling_performance_control.py](verification/self_cancelling_performance_control.py)
+- [verification/self_cancelling_performance_control_test.py](verification/self_cancelling_performance_control_test.py)
 - [verification/self_existing_plenitude_centers.py](verification/self_existing_plenitude_centers.py)
 - [verification/shared_subject_two_time.py](verification/shared_subject_two_time.py)
 - [verification/shared_token_disagreement_gate.py](verification/shared_token_disagreement_gate.py)

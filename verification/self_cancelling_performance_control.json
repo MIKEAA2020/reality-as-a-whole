@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "initial": [
+    1,
+    -1,
+    0
+  ],
+  "cyclic_trajectory": [
+    [
+      1,
+      -1,
+      0
+    ],
+    [
+      0,
+      1,
+      -1
+    ],
+    [
+      -1,
+      0,
+      1
+    ],
+    [
+      1,
+      -1,
+      0
+    ]
+  ],
+  "sum_at_each_stage": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "endpoint_returns_to_initial": true,
+  "trajectory_is_nontrivial": true,
+  "endpoint_alone_distinguishes_zero_from_three_steps": false,
+  "full_trajectory_distinguishes_zero_from_three_steps": true,
+  "zero_total_distinguishes_nonzero_from_zero_state": false,
+  "separate_component_witnesses_need_not_be_joint": true,
+  "scope": "Finite stipulated relation; no ontological or experiential result, physical apparatus, or zero-residue proof."
+}

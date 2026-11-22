@@ -2,6 +2,8 @@
 
 ## The correction
 
+The [latest performance and residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) records the user's strict demand for self-subsistence without any tolerated brute residue and considers whether zero-totality can support an internal performance. Its finite controls do not establish that outcome.
+
 For the subsequent proposal that a global energy-like or experiential quantity might have a zero total, including the user's clarification about convergent paths to truth, see [the updated chat audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md). That proposal is under examination; zero net, literal nonexistence, and the continued reality of local experience are distinct claims.
 
 The user subsequently preferred material substrate-independence alongside the intrinsically experiential ground. For that refined candidate, its finite implementation and symmetry checks, and the distinction between self-existence and a temporal act of self-creation, see [Self-existent experiential reality and substrate-independence](SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md).

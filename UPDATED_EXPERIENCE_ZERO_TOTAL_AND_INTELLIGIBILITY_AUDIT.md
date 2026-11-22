@@ -1,5 +1,7 @@
 # Updated experience and non-optimal-world chat: zero, closure and intelligibility
 
+**Further update:** [the performance and residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) examines the next exchange, including the user's insistence on full self-subsistence rather than tolerating residue. It distinguishes a determinacy requiring explanation from one shown to be unexplained.
+
 ## What changed and how it is being interpreted
 
 The supplied [updated chat](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt) is an exact byte-for-byte extension of the previously assessed [November 6 transcript](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt): the earlier 176,055 bytes are its prefix, followed by 61,024 new bytes. SHA-256 of the supplied file: `d3e6176673042429e8198fcc8d78fb7ec28083edb46a56f9c92bab5b60d3033d`. I read the added exchange in full and compared the earlier material with [its existing audit](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md); the chat's time labels are source metadata, not independent evidence of its claims. The response is a discussion, not an authoritative scientific source.

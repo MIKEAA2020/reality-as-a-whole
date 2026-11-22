@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 612,
-  "bytes": 7614828,
-  "line_count": 67246,
-  "document_count_with_risk_phrases": 565,
+  "document_count": 613,
+  "bytes": 7629763,
+  "line_count": 67345,
+  "document_count_with_risk_phrases": 566,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "ffee1147174487b574664a9236619919f050a42941f566e61d61928598a3312b",
-      "bytes": 46960,
-      "lines": 185,
+      "sha256": "d4e013dcf87dc5b191a7c734e260417f6e5ceb9fea8f242e067416b8ed361186",
+      "bytes": 47325,
+      "lines": 187,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
@@ -4979,28 +4980,28 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        11,
-        21,
+        7,
+        13,
         23,
-        41,
+        25,
         43,
-        47,
-        57,
-        61,
-        67,
+        45,
+        49,
+        59,
+        63,
         69,
-        83,
-        87,
-        99,
-        107,
+        71,
+        85,
+        89,
+        101,
         109,
-        113,
-        129,
-        139,
-        156,
-        173,
-        179
+        111,
+        115,
+        131,
+        141,
+        158,
+        175,
+        181
       ]
     },
     {
@@ -5179,9 +5180,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "40b4d97c53a839e5b59459ae1ae10d69cbb2738673c3b492ee7c74c2df906107",
-      "bytes": 152402,
-      "lines": 1190,
+      "sha256": "f811073e27555af14aa28252a923d9be38434287ce247c0c71242924d04c2d1e",
+      "bytes": 152971,
+      "lines": 1194,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5720,6 +5721,7 @@
         "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
         "UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md",
         "UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md",
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "V4_FEF_ORIENTATION_GATE.md",
         "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md",
         "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
@@ -5818,6 +5820,7 @@
         "sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt",
         "sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt",
         "sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt",
         "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt",
         "sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt",
@@ -5906,6 +5909,8 @@
         "verification/clock_choice.py",
         "verification/clock_smearing_modular_comparison.py",
         "verification/clock_smearing_modular_comparison_test.py",
+        "verification/closed_quantity_zero_controls.py",
+        "verification/closed_quantity_zero_controls_test.py",
         "verification/cogitate_analysis_audit.py",
         "verification/cold_atom_clock.py",
         "verification/cold_atom_comparison.py",
@@ -6368,13 +6373,13 @@
         364,
         394,
         461,
-        557,
-        572,
-        608,
-        617,
-        620,
-        623,
-        687
+        558,
+        573,
+        609,
+        618,
+        621,
+        624,
+        689
       ]
     },
     {
@@ -14419,9 +14424,9 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "9143c71d24472fbf9b48716363651e52d8ff739da0db266d63d227f609829b6d",
-      "bytes": 13448,
-      "lines": 94,
+      "sha256": "c0d63b44e79145fbccea0048b04d606f031624af3fde5125a19849b0cbaa5819",
+      "bytes": 13754,
+      "lines": 96,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -14434,6 +14439,7 @@
         "Verification and status"
       ],
       "local_links": [
+        "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -14445,9 +14451,9 @@
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
-        25,
-        35,
-        51
+        27,
+        37,
+        53
       ]
     },
     {
@@ -17681,9 +17687,9 @@
     },
     {
       "path": "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
-      "sha256": "be93aa4d1588bb4ddda1d73f6a5d12a084b61b27f9be7fd910b50cee6cc108dc",
-      "bytes": 13265,
-      "lines": 74,
+      "sha256": "bdd7943912cfa3d838db4993b96687550e8894d93aa3745d63754a07f0cac3df",
+      "bytes": 13574,
+      "lines": 76,
       "title": "Updated experience and non-optimal-world chat: zero, closure and intelligibility",
       "headings": [
         "Updated experience and non-optimal-world chat: zero, closure and intelligibility",
@@ -17695,6 +17701,7 @@
         "5. Parsimony, infinity and next research gate"
       ],
       "local_links": [
+        "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
@@ -17705,14 +17712,14 @@
         "TIME_SOLUTION_EVIDENCE_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        5,
-        14,
-        24,
-        37,
-        41,
+        7,
+        16,
+        26,
+        39,
         43,
-        54,
-        72
+        45,
+        56,
+        74
       ]
     },
     {
@@ -18643,6 +18650,37 @@
         8,
         9,
         26
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
+      "sha256": "78e1aa1fba8b329e4fc9b096076a312a735c60bb0c620cc21e70889d6ecd234c",
+      "bytes": 13386,
+      "lines": 89,
+      "title": "Can a performance leave no unexplained residue?",
+      "headings": [
+        "Can a performance leave no unexplained residue?",
+        "The updated question and answer",
+        "1. Where the chat changes the meaning of residue",
+        "2. What would count as success?",
+        "3. A useful control: a real difference between cancellation and explanation",
+        "4. When literal nothing and a performance conflict—and when they do not",
+        "5. Two-component intelligibility and the minimal-candidate argument",
+        "6. The next constructive target"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt",
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
+        "verification/self_cancelling_performance_control.py",
+        "verification/self_cancelling_performance_control_test.py",
+        "verification/self_cancelling_performance_control.json",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        62,
+        76,
+        89
       ]
     },
     {
