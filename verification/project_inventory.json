@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 601,
-  "bytes": 7468923,
-  "line_count": 66133,
-  "document_count_with_risk_phrases": 554,
+  "document_count": 602,
+  "bytes": 7482202,
+  "line_count": 66239,
+  "document_count_with_risk_phrases": 555,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1967,8 +1967,8 @@
     },
     {
       "path": "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
-      "sha256": "5176653459cf1c2d7c662b1ff9ddee9b8af3a267f8a24be19c414fa470355fa7",
-      "bytes": 23348,
+      "sha256": "8b2021af67f4092064c7d248fe1bdefd8e6adc6e4720487e4bbbb8fb05835360",
+      "bytes": 23771,
       "lines": 153,
       "title": "Competing rules for subjects: an explicit construction and locality test",
       "headings": [
@@ -1984,6 +1984,7 @@
       "local_links": [
         "verification/competing_subject_constitution_rules.py",
         "verification/competing_subject_constitution_rules.json",
+        "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
@@ -2962,9 +2963,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "f1e911be8f01ff170406f51884b115c59a31b85dca46f0e5c39b1b6ba7fd399f",
-      "bytes": 43890,
-      "lines": 269,
+      "sha256": "25ace52abdb0a30dc7e2af42930140476df078cec01704374a28fb7b419c95ae",
+      "bytes": 44324,
+      "lines": 271,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -3004,6 +3005,7 @@
         "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
         "FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md",
         "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
+        "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "TIMELESS_GROUND_LOCATED_TOTALITY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
@@ -3037,11 +3039,11 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
-        23,
-        123,
-        221,
-        251,
-        259
+        25,
+        125,
+        223,
+        253,
+        261
       ]
     },
     {
@@ -5065,9 +5067,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bba76fc7b1b35da5804aa7560dae6ce328d83f40ae41f9fbab1782012a6a1b68",
-      "bytes": 148557,
-      "lines": 1159,
+      "sha256": "03d4d0999b3abad0c0760fca6ec3afabd8bc7197fa409be8c56c9f1a2a717011",
+      "bytes": 148726,
+      "lines": 1160,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5446,6 +5448,7 @@
         "RAO_IEEG_STIMULATION_SOURCE_READINESS_FIXED_PLAN.md",
         "README.md",
         "REALIZED_PROCESS_CANDIDATE.md",
+        "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
         "RECOLLAPSING_GRAVITATIONAL_CLOCK.md",
         "RELATIONAL_CALIBRATION_AND_READOUT.md",
         "RELATIONAL_INTERVENTIONS_AND_RECORDS.md",
@@ -6221,15 +6224,15 @@
         280,
         309,
         355,
-        384,
-        451,
-        546,
-        561,
-        597,
-        606,
-        609,
-        612,
-        676
+        385,
+        452,
+        547,
+        562,
+        598,
+        607,
+        610,
+        613,
+        677
       ]
     },
     {
@@ -12599,9 +12602,9 @@
     },
     {
       "path": "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
-      "sha256": "b4fcf016db0e510ffdc8bb8a52c916155be77ecb342d44899e78674f5cc9b2a4",
-      "bytes": 12612,
-      "lines": 63,
+      "sha256": "39974ffd2cbb694ac16ff77f6c0e793e6f8e4470c1b823801f7ea4d11ce61178",
+      "bytes": 13009,
+      "lines": 65,
       "title": "A real witness and a boundary test for the maximal rule",
       "headings": [
         "A real witness and a boundary test for the maximal rule",
@@ -12614,7 +12617,8 @@
       "local_links": [
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
         "PINTO_2017_SUPPLEMENT_FIRST_PERSON_AND_METHODS_AUDIT.md",
-        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md"
+        "SUBJECT_CONSTITUTION_THREE_CANDIDATES_CRITICAL_TEST.md",
+        "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md"
       ],
       "risk_phrase_lines": [
         9,
@@ -15286,6 +15290,41 @@
         27,
         31,
         60
+      ]
+    },
+    {
+      "path": "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md",
+      "sha256": "5e35476a4c688de2e277670615762074aff2e36d290761d946b9a0e216c3f891",
+      "bytes": 11856,
+      "lines": 101,
+      "title": "A stronger subject-boundary candidate fails a many-weak-links test",
+      "headings": [
+        "A stronger subject-boundary candidate fails a many-weak-links test",
+        "Result",
+        "1. Reuse the actual existing rule",
+        "2. Two cohesive blocks, increasingly many weak links",
+        "3. A constructive repair—and its cost",
+        "4. What this requires of a serious realization rule",
+        "5. Status and reproduction"
+      ],
+      "local_links": [
+        "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
+        "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "SUBJECT_TIES_PERSISTENCE_REDESCRIPTION_GATE.md",
+        "verification/subject_boundary_dense_weak_links.py",
+        "verification/subject_boundary_dense_weak_links.json",
+        "verification/subject_boundary_dense_weak_links_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        42,
+        49,
+        50,
+        52,
+        58,
+        74,
+        94
       ]
     },
     {

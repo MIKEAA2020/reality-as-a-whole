@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 558 root Markdown documents including this register; 43 research Markdown documents.
-- 57 original uploaded files, including provenance metadata; 469 verification Python scripts.
+- 559 root Markdown documents including this register; 43 research Markdown documents.
+- 57 original uploaded files, including provenance metadata; 471 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -473,6 +473,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md](STRUCTURAL_EXPERIENTIAL_INTELLIGIBILITY_TWO_PAPER_AUDIT.md) — Full structural and experiential intelligibility: two supplied papers
 - [STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md](STRUCTURED_VOID_NEUTRINO_IDENTIFIABILITY_AND_FRAMEWORK_GATE.md) — Structured void, neutrino oscillations and explanatory identifiability
 - [SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md](SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md) — Subjective character, unity, and a field-first bridge
+- [SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md](SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md) — A stronger subject-boundary candidate fails a many-weak-links test
 - [SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md](SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md) — Subject-boundary robustness when the rest of the system is unknown
 - [SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md](SUBJECT_CONSTITUTION_FACTORIZATION_GATE.md) — Subject constitution: factorization, representation and symmetry
 - [SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md](SUBJECT_CONSTITUTION_INTERFACE_PROTOCOL.md) — Frozen finite constitution-and-record comparison: protocol
@@ -1082,6 +1083,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/string_t_duality_selector.py](verification/string_t_duality_selector.py)
 - [verification/structured_void_oscillation_identifiability_gate.py](verification/structured_void_oscillation_identifiability_gate.py)
 - [verification/subject_assay_dependence_control.py](verification/subject_assay_dependence_control.py)
+- [verification/subject_boundary_dense_weak_links.py](verification/subject_boundary_dense_weak_links.py)
+- [verification/subject_boundary_dense_weak_links_test.py](verification/subject_boundary_dense_weak_links_test.py)
 - [verification/subject_boundary_external_budget_gate.py](verification/subject_boundary_external_budget_gate.py)
 - [verification/subject_cohesion_identity_redescription.py](verification/subject_cohesion_identity_redescription.py)
 - [verification/subject_constitution_candidate_comparison.py](verification/subject_constitution_candidate_comparison.py)

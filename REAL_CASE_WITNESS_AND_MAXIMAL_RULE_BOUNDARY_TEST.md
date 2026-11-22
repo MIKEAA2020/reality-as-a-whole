@@ -56,6 +56,8 @@ The challenge is consequential because plausible interpersonal interactions crea
 
 Our verdict is to **reject the unrestricted all-scales version of M as a viable project principle under the stated distinct-person and graph premises**. Keep the original finite M as a diagnostic model only. This is a conditional constraint, not proof that every sophisticated maximality, exclusion, global-workspace, or integrated-information theory makes the same prediction; their actual realization rules and metrics must be analyzed on their own terms.
 
+The subsequent [many-weak-links stress test](SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md) applies the project's existing local-cut repair to a more demanding family: it can still select the whole when individual and relative aggregate cross-coupling vanish with size. A size-normalized variant fixes that example but does not justify the required physical grain or experiential bridge.
+
 ## 4. Next decisive step
 
 Do not keep multiplying unconstrained toy graphs. A serious candidate must now provide a **realization rule before a subject selector**: what physical degrees of freedom, interventions and time horizon define its admissible system, how the rule treats nested and coupled systems, and how it preserves a warranted ordinary plurality without assuming the conclusion. Then it must make a specific prediction for an independently measured case and state how a reporter's experience is anchored. If no candidate can state those ingredients without circularity or arbitrary exceptions, report that failure rather than declare a solution.

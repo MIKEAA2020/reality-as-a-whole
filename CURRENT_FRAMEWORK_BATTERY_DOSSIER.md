@@ -14,6 +14,8 @@ The [first-person positive-witness analysis](FIRST_PERSON_POSITIVE_WITNESS_AND_S
 
 The [real-case and maximal-rule boundary test](REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md) distinguishes an actual bilateral-sight report from the missing simultaneous-detail witness, and shows a conditional conflict between an unrestricted all-scale connectivity selector and distinct interacting subjects. It does not establish the relevant biological graph or a clinical subject count.
 
+The [many-weak-links boundary test](SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md) shows that the earlier overlap-local cut rule can select an encompassing support even when individual cross links and their aggregate weight relative to internal edges vanish with system size. A size-normalized variant fixes that construction but retains symmetry, grain and experiential-bridge problems; neither is a validated subject rule.
+
 ## 1. What the framework represents
 
 ### 1.1 One whole, multiple subjects

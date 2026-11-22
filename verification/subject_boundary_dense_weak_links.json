@@ -1,0 +1,423 @@
+{
+  "scope": "Exact abstract weighted-graph exercise, not physiological influence, subject counts or IIT.",
+  "blocks": "Two size-m complete graphs of within-edge weight 1, all cross-edges weight epsilon.",
+  "cases": [
+    {
+      "m": 3,
+      "regime": "sparse_total",
+      "cross_edge": "1/6",
+      "score": "unnormalized mincut",
+      "core_score": "2",
+      "whole_score": "3/2",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 3,
+      "regime": "sparse_total",
+      "cross_edge": "1/6",
+      "score": "mincut / subset size",
+      "core_score": "2/3",
+      "whole_score": "1/4",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 3,
+      "regime": "many_weak",
+      "cross_edge": "1/3",
+      "score": "unnormalized mincut",
+      "core_score": "2",
+      "whole_score": "3",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 3,
+      "regime": "many_weak",
+      "cross_edge": "1/3",
+      "score": "mincut / subset size",
+      "core_score": "2/3",
+      "whole_score": "1/2",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 3,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "unnormalized mincut",
+      "core_score": "2",
+      "whole_score": "5",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 3,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "mincut / subset size",
+      "core_score": "2/3",
+      "whole_score": "5/6",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "sparse_total",
+      "cross_edge": "1/8",
+      "score": "unnormalized mincut",
+      "core_score": "3",
+      "whole_score": "2",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "sparse_total",
+      "cross_edge": "1/8",
+      "score": "mincut / subset size",
+      "core_score": "3/4",
+      "whole_score": "1/4",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "many_weak",
+      "cross_edge": "1/4",
+      "score": "unnormalized mincut",
+      "core_score": "3",
+      "whole_score": "4",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "many_weak",
+      "cross_edge": "1/4",
+      "score": "mincut / subset size",
+      "core_score": "3/4",
+      "whole_score": "1/2",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "unnormalized mincut",
+      "core_score": "3",
+      "whole_score": "7",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 4,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "mincut / subset size",
+      "core_score": "3/4",
+      "whole_score": "7/8",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "sparse_total",
+      "cross_edge": "1/12",
+      "score": "unnormalized mincut",
+      "core_score": "5",
+      "whole_score": "3",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "sparse_total",
+      "cross_edge": "1/12",
+      "score": "mincut / subset size",
+      "core_score": "5/6",
+      "whole_score": "1/4",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "many_weak",
+      "cross_edge": "1/6",
+      "score": "unnormalized mincut",
+      "core_score": "5",
+      "whole_score": "6",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "many_weak",
+      "cross_edge": "1/6",
+      "score": "mincut / subset size",
+      "core_score": "5/6",
+      "whole_score": "1/2",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "unnormalized mincut",
+      "core_score": "5",
+      "whole_score": "11",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    },
+    {
+      "m": 6,
+      "regime": "uniform",
+      "cross_edge": "1",
+      "score": "mincut / subset size",
+      "core_score": "5/6",
+      "whole_score": "11/12",
+      "winner_supports": [
+        [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "unresolved_support_count": 0
+    }
+  ],
+  "closed_form_m_ge_3": {
+    "epsilon_1_over_2m": "Both selectors choose two cores.",
+    "epsilon_1_over_m": "Unnormalized chooses whole; size-normalized chooses two cores.",
+    "epsilon_1": "Both choose whole.",
+    "cross_edge_to_within_edge": "1/m",
+    "cross_total_to_within_total": "1/(m-1)",
+    "unnormalized_whole_vs_any_other_gap_lower_bound": "1/m",
+    "sufficient_uniform_edge_perturbation_radius": "eta < 1/(2*m^3)"
+  }
+}

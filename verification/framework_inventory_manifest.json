@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2cb8be29d4a3116eef406d9c351dea9a1241b072",
-  "file_count": 1774,
+  "base_head": "7b2bc20c128e9a42ce846363d99a4b54d5de7345",
+  "file_count": 1778,
   "files": [
     {
       "path": ".gitattributes",
@@ -330,8 +330,8 @@
     },
     {
       "path": "COMPETING_SUBJECT_CONSTITUTION_AND_LOCALITY_GATE.md",
-      "bytes": 23348,
-      "sha256": "5176653459cf1c2d7c662b1ff9ddee9b8af3a267f8a24be19c414fa470355fa7"
+      "bytes": 23771,
+      "sha256": "8b2021af67f4092064c7d248fe1bdefd8e6adc6e4720487e4bbbb8fb05835360"
     },
     {
       "path": "COMPLEMENTARY_CORRELATIONS_AND_ENTANGLEMENT_IDENTIFICATION.md",
@@ -465,8 +465,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 43890,
-      "sha256": "f1e911be8f01ff170406f51884b115c59a31b85dca46f0e5c39b1b6ba7fd399f"
+      "bytes": 44324,
+      "sha256": "25ace52abdb0a30dc7e2af42930140476df078cec01704374a28fb7b419c95ae"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -790,8 +790,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 148726,
-      "sha256": "03d4d0999b3abad0c0760fca6ec3afabd8bc7197fa409be8c56c9f1a2a717011"
+      "bytes": 149130,
+      "sha256": "b71ae3accc0ef45cf3aa68c55de6dbd66b449b7d0fc0e2824de8037bc2db5ea5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1845,8 +1845,8 @@
     },
     {
       "path": "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
-      "bytes": 12612,
-      "sha256": "b4fcf016db0e510ffdc8bb8a52c916155be77ecb342d44899e78674f5cc9b2a4"
+      "bytes": 13009,
+      "sha256": "39974ffd2cbb694ac16ff77f6c0e793e6f8e4470c1b823801f7ea4d11ce61178"
     },
     {
       "path": "RECOLLAPSING_GRAVITATIONAL_CLOCK.md",
@@ -2322,6 +2322,11 @@
       "path": "SUBJECTIVE_CHARACTER_AND_NONCIRCULAR_FIELD_BRIDGE.md",
       "bytes": 16955,
       "sha256": "1afbb8adf542c77f429c4aefec7f9d95327f738466d83493a7e81969ba45f172"
+    },
+    {
+      "path": "SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md",
+      "bytes": 11856,
+      "sha256": "5e35476a4c688de2e277670615762074aff2e36d290761d946b9a0e216c3f891"
     },
     {
       "path": "SUBJECT_BOUNDARY_UNKNOWN_CONTEXT_BUDGET.md",
@@ -6890,8 +6895,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 736886,
-      "sha256": "17f7b3dcb76928484262228cb8c60cd364dc807dda32cba895679a64b2e8d9e6"
+      "bytes": 738418,
+      "sha256": "b010df516ceea676462e0dd5d33f8bdf543bccd403efaf31deb910c1a5fb2154"
     },
     {
       "path": "verification/project_inventory.py",
@@ -8177,6 +8182,21 @@
       "path": "verification/subject_assay_dependence_control.py",
       "bytes": 2063,
       "sha256": "70f897a3dd533fb75f9cfada031b995ff6b42bbcaa2876fe588240d095f82c5e"
+    },
+    {
+      "path": "verification/subject_boundary_dense_weak_links.json",
+      "bytes": 7663,
+      "sha256": "96e46c210103b0f5df54495fd2b2c9897cb7c062412152f63b9bcc222d4b6291"
+    },
+    {
+      "path": "verification/subject_boundary_dense_weak_links.py",
+      "bytes": 4158,
+      "sha256": "52887c757494a0fe1212d25d1254a5c75b7941698dbc6d24666a5082d00bf4be"
+    },
+    {
+      "path": "verification/subject_boundary_dense_weak_links_test.py",
+      "bytes": 2736,
+      "sha256": "a8c56e00d849c4c2b76804a0e3ff234903461af3ea802c881cbfe093148b237d"
     },
     {
       "path": "verification/subject_boundary_external_budget_gate.json",

@@ -6,7 +6,7 @@ We can now put two candidate subject rules on the **same** physical dynamics, sp
 
 The comparison exposed a more specific defect. A global-maximization rule can remove the subject assigned to one isolated subsystem when a separate, physically disconnected subsystem becomes stronger, even though the first subsystem is unchanged. If isolated-component stability is required, that particular rule fails. A **local-overlap repair** passes this isolation test and a specified weak-link example, but produces unresolved ties in another benchmark. It is a better-behaved *candidate diagnostic*, not a demonstrated theory of experience.
 
-The executable checks are in [competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py), with [receipt](verification/competing_subject_constitution_rules.json). The [standalone framework](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) remains frozen.
+The executable checks are in [competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py), with [receipt](verification/competing_subject_constitution_rules.json). A later [many-weak-links stress test](SUBJECT_BOUNDARY_MANY_WEAK_CONNECTIONS_STRESS_TEST.md) shows that this local-overlap repair can select an encompassing whole despite each cross-edge and aggregate cross-strength relative to within-strength tending to zero; its single-link success is not a general guarantee. A size-normalized alternative fixes that example but inherits other unresolved boundary and tie problems. The [standalone framework](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) remains incomplete.
 
 ## 1. What already exists
 
