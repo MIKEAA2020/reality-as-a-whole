@@ -1,0 +1,283 @@
+{
+  "scope": "Exploratory development on previously inspected S01 and S09; leave-one-participant comparisons are not independent validation.",
+  "scans": {
+    "S01": [
+      1,
+      3,
+      5,
+      7,
+      10,
+      12
+    ],
+    "S09": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  "center_step_seconds": 0.2,
+  "eeg_window_seconds": 2,
+  "leave_one_development_participant_out": {
+    "S01": {
+      "total_centers": 6030,
+      "unknown_centers": 5,
+      "artifact_centers": 55,
+      "unknown_artifact_overlap": 0,
+      "labeled_clean_centers": 5970,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              1332,
+              1177,
+              149
+            ],
+            [
+              1047,
+              1708,
+              158
+            ],
+            [
+              153,
+              215,
+              31
+            ]
+          ],
+          "recalls": [
+            0.5011286681715575,
+            0.5863371095090971,
+            0.07769423558897243
+          ],
+          "macro_recall": 0.38838667108987573,
+          "accuracy": 0.5144053601340034,
+          "mixed_precision": 0.09171597633136094,
+          "mixed_eligible_segments": 303,
+          "mixed_segment_equal_weight_recall": 0.07079207920792079,
+          "mixed_segments_with_any_hit": 27
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              2658,
+              0
+            ],
+            [
+              0,
+              2913,
+              0
+            ],
+            [
+              0,
+              399,
+              0
+            ]
+          ],
+          "recalls": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "macro_recall": 0.3333333333333333,
+          "accuracy": 0.4879396984924623,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 303,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              831,
+              1827,
+              0
+            ],
+            [
+              1003,
+              1910,
+              0
+            ],
+            [
+              129,
+              270,
+              0
+            ]
+          ],
+          "recalls": [
+            0.3126410835214447,
+            0.6556814280810161,
+            0.0
+          ],
+          "macro_recall": 0.32277417053415364,
+          "accuracy": 0.4591289782244556,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 303,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        }
+      }
+    },
+    "S09": {
+      "total_centers": 5025,
+      "unknown_centers": 11,
+      "artifact_centers": 212,
+      "unknown_artifact_overlap": 9,
+      "labeled_clean_centers": 4811,
+      "models": {
+        "eeg": {
+          "confusion_true_rows_pred_columns": [
+            [
+              994,
+              613,
+              120
+            ],
+            [
+              901,
+              973,
+              153
+            ],
+            [
+              527,
+              457,
+              73
+            ]
+          ],
+          "recalls": [
+            0.5755645628257093,
+            0.48001973359644795,
+            0.06906338694418164
+          ],
+          "macro_recall": 0.374882561122113,
+          "accuracy": 0.42402826855123676,
+          "mixed_precision": 0.21098265895953758,
+          "mixed_eligible_segments": 204,
+          "mixed_segment_equal_weight_recall": 0.08158266145939157,
+          "mixed_segments_with_any_hit": 50
+        },
+        "majority": {
+          "confusion_true_rows_pred_columns": [
+            [
+              0,
+              1727,
+              0
+            ],
+            [
+              0,
+              2027,
+              0
+            ],
+            [
+              0,
+              1057,
+              0
+            ]
+          ],
+          "recalls": [
+            0.0,
+            1.0,
+            0.0
+          ],
+          "macro_recall": 0.3333333333333333,
+          "accuracy": 0.4213261276241946,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 204,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        },
+        "time_only": {
+          "confusion_true_rows_pred_columns": [
+            [
+              745,
+              982,
+              0
+            ],
+            [
+              870,
+              1157,
+              0
+            ],
+            [
+              420,
+              637,
+              0
+            ]
+          ],
+          "recalls": [
+            0.43138390272148236,
+            0.5707942772570301,
+            0.0
+          ],
+          "macro_recall": 0.33405939332617085,
+          "accuracy": 0.3953440033257119,
+          "mixed_precision": null,
+          "mixed_eligible_segments": 204,
+          "mixed_segment_equal_weight_recall": 0.0,
+          "mixed_segments_with_any_hit": 0
+        }
+      }
+    }
+  },
+  "pooled_development_model": {
+    "class_mean_features": [
+      -0.1351527434912427,
+      0.09298033728845195,
+      -0.01869194599824498
+    ],
+    "majority": 2,
+    "slot_rules": [
+      2,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "training_participants": [
+      "S01",
+      "S09"
+    ]
+  },
+  "limitations": [
+    "EEG windows overlap and contain context before and after the target report center.",
+    "Center code is report-derived, not an independently verified percept; marker timing remains provisional.",
+    "Mixed segment aggregates are descriptive and conditional on a clean in-trial center."
+  ]
+}

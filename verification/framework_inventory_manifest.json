@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c98216788f7ec20ff858591b03b86f490dcc5ad6",
-  "file_count": 1724,
+  "base_head": "4f8e5946b318112ad83f8b68dc987df15ba220a2",
+  "file_count": 1730,
   "files": [
     {
       "path": ".gitattributes",
@@ -445,8 +445,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 39864,
-      "sha256": "7369f1cb74d3e4bfc56cfca198a7f6cf5d8a35f7b6e669bbfaef9597052f650b"
+      "bytes": 40181,
+      "sha256": "26b1772f7e8ad562378e5f4839261442dbc83e91153311160b61eefe865e4e2b"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -765,8 +765,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 143793,
-      "sha256": "3d7b737971656b1e3604f22397620d0dd41b9783cf902d77b83dd3ec2efa45d3"
+      "bytes": 144407,
+      "sha256": "2ac76fb68995adf288e3920fefab6cce020f6f7a506bcf4f0bb3a6db7dc1f677"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1922,6 +1922,11 @@
       "path": "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
       "bytes": 7136,
       "sha256": "c5c4a321a332b3e7a16dd430a2bf10b9b3c81fd772092eac967cc31b6f925971"
+    },
+    {
+      "path": "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
+      "bytes": 11174,
+      "sha256": "7ffeb69041c2e5ae970e633f4608c67217344aa66d06a20c68b1bc1069a72e3f"
     },
     {
       "path": "ROY_S01_FROZEN_CROSS_PARTICIPANT_THREE_STATE_PLAN.md",
@@ -6720,8 +6725,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 718511,
-      "sha256": "93507ec720925f61760ef1ab9897a3faf64da996d095c715d0607afb9b99783e"
+      "bytes": 719641,
+      "sha256": "64a74990cd881cbdde264e8f6dd7e0b29adb94de6612c38531ecbb2a139e0364"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7159,6 +7164,21 @@
       "sha256": "3e72f48426fd93ca87f5594afddd6c3e67716c9fc8dc8169078745cc587ce7b3"
     },
     {
+      "path": "verification/roy_report_center_development.json",
+      "bytes": 6128,
+      "sha256": "60ab958fad3249591ca48e82cc67101748e47677455501b6819e2c778e9bdb44"
+    },
+    {
+      "path": "verification/roy_report_center_development.py",
+      "bytes": 8175,
+      "sha256": "760128ffb92652d2ae51c9969c6948f07dd99711a326a95a10653839d394e798"
+    },
+    {
+      "path": "verification/roy_report_center_development_test.py",
+      "bytes": 2607,
+      "sha256": "64c268f4250a0f7934ee9b057d84fdb80358c7675b4edfc75e61920daa08482c"
+    },
+    {
       "path": "verification/roy_s01_frozen_three_state_transfer.json",
       "bytes": 19861,
       "sha256": "0ed71c5b4517e179b4c7d252512d7625462aea527b14241cce8bd2d93da7dcbf"
@@ -7187,6 +7207,16 @@
       "path": "verification/roy_s01_mixed_coverage_diagnostic_test.py",
       "bytes": 999,
       "sha256": "0f004ebdb1017515c2112ad1aaf31474c2099e90db72ce9d22b81628e307a043"
+    },
+    {
+      "path": "verification/roy_s02_frozen_center_transfer.py",
+      "bytes": 3817,
+      "sha256": "5e5bd8c4861f98d4aee1992c3691b44c3e028dc98b592c702d0340ad1436c817"
+    },
+    {
+      "path": "verification/roy_s02_frozen_center_transfer_test.py",
+      "bytes": 2266,
+      "sha256": "921cd54a9cdd4d056323b68913b7fb65d38269964aaf4401bb7936ba98fa1e86"
     },
     {
       "path": "verification/roy_s08_fixed_transfer.json",
