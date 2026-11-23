@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "fc291aa8c305fd1ffed95f227a3d803327827ba9",
-  "file_count": 1850,
+  "base_head": "5b575dd843ef7c3b98c511a5bad197c22c853be3",
+  "file_count": 1853,
   "files": [
     {
       "path": ".gitattributes",
@@ -770,8 +770,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 51603,
-      "sha256": "409faaf807b5315b1903f6fb391e854b69614540439faaef3ed55216ae8ecb3b"
+      "bytes": 52001,
+      "sha256": "8274f8187871ce70317e97093b70c42ba2afce6b590e328bdb12bcaeb2e06b13"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 156259,
-      "sha256": "59303840562d89b5b85f05ae90f0ec2740ed93b6b77ee9420a7b83e7a1007a62"
+      "bytes": 156703,
+      "sha256": "fdd609c67150c733942665f6a55ce974a871381b69cdb469d3077eb1f53ee98f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2644,9 +2644,14 @@
       "sha256": "42655fff44a80e42b8890cb25681bdeeb7cb8f3ee54917a6ae4952dfb42ed7c4"
     },
     {
+      "path": "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
+      "bytes": 15370,
+      "sha256": "79579ad0d5bf002a1e0a9a83a3dc7d494817491c3d564e4173eec58b791a9e4e"
+    },
+    {
       "path": "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
-      "bytes": 13840,
-      "sha256": "7b81db54773eba6943ee745bd1ad77de8210d9f44c20a2f4a1fc32f81928a02d"
+      "bytes": 14259,
+      "sha256": "cd2c1da54f031c354b616bff6b29a1e7b7a53a6e6f9ea1d9332bb395164bb71b"
     },
     {
       "path": "V4_FEF_ORIENTATION_GATE.md",
@@ -2820,8 +2825,8 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "bytes": 12075,
-      "sha256": "8d6893ab7bce10f7e902001c79688bd3ac0f556efa44e6335313668e2ef03d6b"
+      "bytes": 12362,
+      "sha256": "bebfdabd3b9aa3b2531a8d6d834a37432ff53454284b6708dde0e5edafe4ab92"
     },
     {
       "path": "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
@@ -4272,6 +4277,11 @@
       "path": "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt",
       "bytes": 285264,
       "sha256": "9f4ece3374b4c1188918edfd227923c78e8f4054b6125cf45a7455fca8fd1c53"
+    },
+    {
+      "path": "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+      "bytes": 308696,
+      "sha256": "dee32ee7dc83282a653835e432a28ab3551046d3354300557a16c6c9b5206d14"
     },
     {
       "path": "sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt",
@@ -7170,8 +7180,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 772253,
-      "sha256": "a1496bdcf402a09e7d447014a347414352e116cbe9f7863a6b1eacc85a441dda"
+      "bytes": 773901,
+      "sha256": "0eda6b42a4b33830830c1046b22a50aceab73355e5b5ada3548c77bc6c426a5a"
     },
     {
       "path": "verification/project_inventory.py",
@@ -8862,6 +8872,11 @@
       "path": "verification/universal_subject_lf_tradeoff.py",
       "bytes": 3473,
       "sha256": "6f5070d6d7973be1b184f7d3422c68a195e560cb7ba1f929f6534877d924b3e8"
+    },
+    {
+      "path": "verification/updated_experience_energy_chat_test.py",
+      "bytes": 1832,
+      "sha256": "ac78181c21f7365274f7ca87f297418f411a249ef260407f0d5eb570593f6153"
     },
     {
       "path": "verification/ur_spinor_classical_control_gate.json",

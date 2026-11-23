@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [updated experience, energy and time chat audit](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) records the user's correction to experience rather than awareness, derives a conditional signed-cancellation result, checks the 30% Newtonian estimate, and distinguishes relational clocks from physical preferred foliations. No general global-energy or experiential-constitution result follows.
+
 The [FLRW constraint and energy analysis](ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md) derives positive scalar-field density and relational classical evolution on a zero-constraint surface, while distinguishing the constraint from an established global physical energy and from energy-sign reversal. It does not solve time or experience.
 
 The [modal symmetry bridge](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) derives global zero from genuine possibility of the sign-reversed global value and a specified global possibility–actuality principle, and identifies why local plenitude alone does not supply that premise. The sign reversal, objective Q and experiential constitution remain unproved.

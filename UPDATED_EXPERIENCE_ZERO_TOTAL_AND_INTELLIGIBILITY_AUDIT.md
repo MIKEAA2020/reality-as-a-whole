@@ -1,5 +1,7 @@
 # Updated experience and non-optimal-world chat: zero, closure and intelligibility
 
+**User correction:** the later [experience, energy and time chat audit](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) records that the user meant **experience, not awareness**, as the alternative global quantity, and examines the proposed experiential cancellation and the latest gravity/time questions. Earlier uses of “awareness” in this historical audit should not be taken as the user's corrected wording.
+
 **Further update:** [the performance and residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) examines the next exchange, including the user's insistence on full self-subsistence rather than tolerating residue. It distinguishes a determinacy requiring explanation from one shown to be unexplained.
 
 ## What changed and how it is being interpreted

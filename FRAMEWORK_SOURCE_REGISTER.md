@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 582 root Markdown documents including this register; 43 research Markdown documents.
-- 59 original uploaded files, including provenance metadata; 502 verification Python scripts.
+- 583 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 503 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -537,6 +537,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md](UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md) — One universal subject and many finite subjects
 - [UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) — Universal consciousness, shared experience and persistence through quantum reversal
 - [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
+- [UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) — Updated chat: experience, gravitational cancellation and the problem of time
 - [UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md) — Updated experience and non-optimal-world chat: zero, closure and intelligibility
 - [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
 - [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md) — Reward, prior selection and the persistence of attentional capture
@@ -661,6 +662,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt)
+- [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt)
 - [sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt](sources/uploads/DeepSeek_Hair-strand-no-feeling-dead-tip_20261120-0209.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt)
 - [sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt](sources/uploads/DeepSeek_Not-identical-equivalent_20261031-1815.txt.txt)
@@ -1171,6 +1173,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
 - [verification/unity_triple_partition_calibration_gate.py](verification/unity_triple_partition_calibration_gate.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
+- [verification/updated_experience_energy_chat_test.py](verification/updated_experience_energy_chat_test.py)
 - [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)
 - [verification/value_capture_followup_test.py](verification/value_capture_followup_test.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)
