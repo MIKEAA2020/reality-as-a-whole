@@ -2,6 +2,8 @@
 
 ## The question
 
+**Experiential continuation:** [equivalence and subject incidence](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) makes the subject-preservation requirement explicit and shows how the same signed zero can admit inequivalent subject organizations and relational histories.
+
 The [previous candidate](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) obtained nonzero zero-sum local responses from a single assumed relational functional, without fixing unequal references. But in its differentiated regime, the minima form a continuous family. Is the particular internal organization another unexplained selection?
 
 A constructive possibility is that **an additional intrinsic relation distinguishes the organizations without naming a preferred location**. In the finite example below, a permutation-symmetric term reduces the entire family of minima to one permutation orbit. It yields positive and negative nonzero responses and a zero total at every minimum. No externally selected index is built into the term.

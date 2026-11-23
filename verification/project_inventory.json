@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 635,
-  "bytes": 7913793,
-  "line_count": 69869,
-  "document_count_with_risk_phrases": 588,
+  "document_count": 636,
+  "bytes": 7925345,
+  "line_count": 69966,
+  "document_count_with_risk_phrases": 589,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "6ec38c5f39d0178ef855422996a9287b9165c9ec1cc23276cf84cde55c428870",
-      "bytes": 55345,
-      "lines": 231,
+      "sha256": "3e07c6222a21b42248a35021053ffa3aab3fa3ee3c2996653450edef829a0469",
+      "bytes": 55708,
+      "lines": 233,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
         "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
@@ -5223,33 +5224,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        19,
-        29,
-        45,
+        13,
+        21,
+        31,
         47,
-        51,
-        57,
-        67,
+        49,
+        53,
+        59,
         69,
-        87,
+        71,
         89,
-        93,
-        103,
-        107,
-        113,
+        91,
+        95,
+        105,
+        109,
         115,
-        129,
-        133,
-        145,
-        153,
+        117,
+        131,
+        135,
+        147,
         155,
-        159,
-        175,
-        185,
-        202,
-        219,
-        225
+        157,
+        161,
+        177,
+        187,
+        204,
+        221,
+        227
       ]
     },
     {
@@ -5428,9 +5429,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "53c8fdfcc6ffe0dfe3eb89c6c4c857700e77b270ae342b5542b0de5ff111b353",
-      "bytes": 158990,
-      "lines": 1238,
+      "sha256": "c8100f11e5f3c29610cb0fd6f75fadca4b233560b8d37b8cbbee3e3a50f97271",
+      "bytes": 159274,
+      "lines": 1240,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6015,6 +6016,7 @@
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
+        "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
@@ -6323,6 +6325,7 @@
         "verification/internal_differentiation_candidate_test.py",
         "verification/internal_reference_event.py",
         "verification/intrinsic_clock_phase_erasure_gate.py",
+        "verification/intrinsic_orientation_selection_test.py",
         "verification/jaworski_organization_turnover.py",
         "verification/jaworski_organization_turnover_test.py",
         "verification/joint_access_common_source_gate.py",
@@ -6667,11 +6670,11 @@
         468,
         566,
         581,
-        631,
-        640,
-        643,
-        646,
-        713
+        632,
+        641,
+        644,
+        647,
+        714
       ]
     },
     {
@@ -19012,6 +19015,34 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
+      "sha256": "c84daea26ac21f66e2d02f4a25a4fc2077d665c55c161c4d76fb22a79423977d",
+      "bytes": 10614,
+      "lines": 91,
+      "title": "When does a symmetry preserve actual experience?",
+      "headings": [
+        "When does a symmetry preserve actual experience?",
+        "The problem",
+        "1. A candidate for experiential equivalence",
+        "2. Same zero, five incidence structures",
+        "3. Temporal relations are further structure",
+        "4. A constructive constitution to investigate",
+        "5. Consequences for the zero-totality programme",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
+        "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "ARTICULATED_SELF_PRESENCE.md"
+      ],
+      "risk_phrase_lines": [
+        43,
+        81,
+        85
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
       "sha256": "bebfdabd3b9aa3b2531a8d6d834a37432ff53454284b6708dde0e5edafe4ab92",
       "bytes": 12362,
@@ -19114,9 +19145,9 @@
     },
     {
       "path": "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
-      "sha256": "f23e1b673ec06f09c2515a16f1b9c3f48f96c4a02348f91466775a219e5caf62",
-      "bytes": 9289,
-      "lines": 112,
+      "sha256": "01f07f68bceca8b5da71e5c85f84fc419e985769ea5fb5d81375476277fecc02",
+      "bytes": 9580,
+      "lines": 114,
       "title": "Can intrinsic symmetry determine the differentiated organization?",
       "headings": [
         "Can intrinsic symmetry determine the differentiated organization?",
@@ -19129,6 +19160,7 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
@@ -19136,10 +19168,10 @@
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        36,
-        53,
-        85,
-        110
+        38,
+        55,
+        87,
+        112
       ]
     },
     {

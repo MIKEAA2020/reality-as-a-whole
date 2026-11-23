@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 592 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 512 verification Python scripts.
+- 593 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 513 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -580,6 +580,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
+- [ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) — When does a symmetry preserve actual experience?
 - [ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md](ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md) — A physical zero-constraint route: what it gives and what it does not
 - [ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) — Can relational symmetry explain a zero total?
 - [ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) — Can one relational constitution produce its own nonzero differences?
@@ -823,6 +824,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experiential_actual_incidence_test.py](verification/experiential_actual_incidence_test.py)
 - [verification/experiential_anatomical_witness_gate.py](verification/experiential_anatomical_witness_gate.py)
 - [verification/experiential_energy_response_test.py](verification/experiential_energy_response_test.py)
+- [verification/experiential_equivalence_incidence_test.py](verification/experiential_equivalence_incidence_test.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
 - [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/experiential_polarity_calibration_test.py](verification/experiential_polarity_calibration_test.py)
