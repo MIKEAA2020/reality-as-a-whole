@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [zero-total loop consistency test](ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md) gives a finite gauge-invariant three-link event whose joint probabilities can differ while all single-link distributions and pairwise flip statistics agree. The loop law, measures, physical gravity and experience remain ungrounded; no substantive battery pass follows.
+
 The [zero-total internal connection](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) constructs a finite linked event invariant under independent frame changes, and exhibits two invariant measures with identical pairwise marginals but different relational-event weights. The link, measure and physical realization are not derived; this is not a foundational, F3 measure, experience or B7 pass.
 
 The [zero-total symmetry and measure follow-up](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) derives unique maximum-entropy laws under two different choices of finite alternatives, which yield different event weights, and makes the record's cross-snapshot alignment assumption explicit. It is a conditional calculation, not a self-subsistence, experience, physical time or F3 measure pass.

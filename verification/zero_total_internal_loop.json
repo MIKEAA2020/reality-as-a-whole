@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "arithmetic": "exact integer and rational",
+  "flat_flip_pattern_probability": {
+    "000": "7/12",
+    "001": "1/9",
+    "010": "1/9",
+    "011": "1/36",
+    "100": "1/9",
+    "101": "1/36",
+    "110": "1/36",
+    "111": "0"
+  },
+  "haar_flip_pattern_probability": {
+    "000": "125/216",
+    "001": "25/216",
+    "010": "25/216",
+    "011": "5/216",
+    "100": "25/216",
+    "101": "5/216",
+    "110": "5/216",
+    "111": "1/216"
+  },
+  "one_link_flip_probability_both": "1/6",
+  "two_link_flip_probability_both": "1/36",
+  "three_flip_probability_flat": "0",
+  "three_flip_probability_haar": "1/216",
+  "full_support_half_flat_mixture_three_flip": "1/432",
+  "half_flat_mixture_flat_probability": "13/24",
+  "total_variation_three_bit_distributions": "1/54",
+  "total_variation_haar_vs_half_flat": "1/108",
+  "two_link_marginals_equal": true,
+  "flat_event_blind_to_nontrivial_stabilizer_holonomy": true,
+  "scope": "Finite formal connection and stipulated measures; not emergent gravity, actual clocks, consciousness, or proof of zero-residue."
+}

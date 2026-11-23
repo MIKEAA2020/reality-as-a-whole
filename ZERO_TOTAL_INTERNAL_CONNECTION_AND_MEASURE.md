@@ -2,6 +2,8 @@
 
 ## Result
 
+**Three-link continuation:** [loop consistency and measure](ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md) extends this link to a triangle, constructs gauge-invariant holonomy, and compares full-support measures that agree on single-link statistics but differ on a three-link event. It does not derive gravitational curvature or the loop law.
+
 I constructed a finite internal link that makes the prior zero-total event well-defined under **independent relabelling of each snapshot**. The link can be set to the identity by a change of description; what remains is exactly the earlier relative event, with no preferred external frame. An ideal reversible record of that event is likewise invariant.
 
 This repairs a specific representational gap in [the previous comparison](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md). It does **not** derive a physical connection, the model's actual existence, or an experience from zero. The link, its transformation law, allowed states and register remain declared ingredients. The aim is to investigate the user's zero-totality candidate without adding an external creator or downgrading the no-brute-remainder demand; it is not to declare the candidate impossible.
