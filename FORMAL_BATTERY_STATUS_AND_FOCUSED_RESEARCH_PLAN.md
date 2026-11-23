@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [relational experiential scale candidate](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) shows conditionally how consistent cardinal comparisons could fix a shared scale without a global sign-reversing pairing. It distinguishes calibration from balance and examines disconnected scales; the comparator, experiential constitution, weights and balance are not derived.
+
 The [experiential polarity calibration argument](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md) derives a unique linear odd contribution, up to scale, from a specified positive/negative polarity map; the map already encodes relative calibration, and its experiential reality and whole symmetry remain open.
 
 The [experiential-zero candidate](EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md) models positive, negative, neutral and mixed contributions without cancelling actual suffering, identifies the common-scale requirement, and tests a limited local energy identification. Its experiential quantities and global zero remain hypotheses, not foundation-battery passes.

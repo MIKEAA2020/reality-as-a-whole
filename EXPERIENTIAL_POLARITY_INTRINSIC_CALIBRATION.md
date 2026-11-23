@@ -2,6 +2,8 @@
 
 ## The proposed principle
 
+**Alternative continuation:** [relational scale without global symmetry](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) shows how independently fixed cardinal comparisons could determine a common scale without requiring a pairwise symmetry of the actual whole; the experiential comparison relations and balance still need grounding.
+
 The [previous candidate](EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md) represented an experiential contribution as positive intensity minus negative intensity. Its weakness was clear: if the relative scale is freely chosen *after* the total is known, we can always make the total zero.
 
 A promising alternative is to ground the relative scale in an **intrinsic polarity transformation**: a physically and experientially meaningful relation that exchanges positive and negative components. If that relation is fixed independently, and if the desired quantity is linear and changes sign under it, the relative coefficient is determined rather than fitted to the total.
