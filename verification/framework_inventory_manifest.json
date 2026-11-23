@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "09769ecfa67335083801d9f5e27867a43d5247e2",
-  "file_count": 1893,
+  "base_head": "3c74774f5ae2a9aec98cd5d075fa4607a4f336a1",
+  "file_count": 1897,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 60272,
-      "sha256": "01f33be2685ee4474d6a6c280b09597fcdb434e98071c66703b0921716f518da"
+      "bytes": 60502,
+      "sha256": "8c315b2494322b7c9e47f6329d9a57a4abe44dcd13aa29598a519524497c5a05"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 162361,
-      "sha256": "db269ad171b49f7d50b43caab5f402f7a6452adbc1c7bd654082d024aec2d5f2"
+      "bytes": 162737,
+      "sha256": "1b194f45b94a6ded215138bb8f87e0dbbaf76f6d598fd9dd60c6e94b8324fc1e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2880,8 +2880,8 @@
     },
     {
       "path": "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
-      "bytes": 20317,
-      "sha256": "d946f1ff2af5873a243502efbacf26318de97c606ceb830ea668d804cc880a37"
+      "bytes": 20695,
+      "sha256": "5c2851d38e7cb1438ae8c1a064af3026650733e8a04bff2c5b0bb2928b291ee6"
     },
     {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
@@ -2937,6 +2937,11 @@
       "path": "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
       "bytes": 11649,
       "sha256": "b0cc9ba5d538c0531040ed637aa112f79cdfe68e8d55e6322e80288c2115ef77"
+    },
+    {
+      "path": "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+      "bytes": 12620,
+      "sha256": "40ed5008f356b6f910c4d8d18d2e9acc003d0ea2b4f50588213ab3d16315194e"
     },
     {
       "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
@@ -5239,6 +5244,16 @@
       "sha256": "10fee9bed4804479754db465d571c57fe989f10d184bdc4313cd7f25f9c71c9b"
     },
     {
+      "path": "verification/covariant_zero_evolution_receipt.json",
+      "bytes": 7537,
+      "sha256": "6581445d7f6fc0b087cea5f65a14ce0ddf2e899591ffc6099ad16d9fc55574be"
+    },
+    {
+      "path": "verification/covariant_zero_evolution_test.py",
+      "bytes": 5158,
+      "sha256": "aa69926a09f4d6179f6d64ada89ca4e6057f720a76698aeff808bf8a1f02e256"
+    },
+    {
       "path": "verification/crn_cocycle.py",
       "bytes": 10925,
       "sha256": "fea788c92c6ef214b265686d83b7e9bba343426d58a7ab18d780ce6fa5e02054"
@@ -5482,6 +5497,11 @@
       "path": "verification/eraser_bell_selection_gate.py",
       "bytes": 8586,
       "sha256": "6328c305f747e82b28f6ecaacdff75cefcee5400083a185c969b5f97e6f3a130"
+    },
+    {
+      "path": "verification/evolve_covariant_zero_initial_data.py",
+      "bytes": 10654,
+      "sha256": "8920a395e11ca6d836c0d1ff8ed65f67e8d76a0df9114c78ca717366594e7b1a"
     },
     {
       "path": "verification/experience_collapse_identifiability.json",
@@ -7360,8 +7380,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 801474,
-      "sha256": "4da4aff67ff806c85f12d13fe5e9401269f81a05ef14f7a4bc1fca8775495d00"
+      "bytes": 803984,
+      "sha256": "45050eac6418e27f2410c879bc78dc36551b05e26612c6bb2d780352e2a3d9b4"
     },
     {
       "path": "verification/project_inventory.py",

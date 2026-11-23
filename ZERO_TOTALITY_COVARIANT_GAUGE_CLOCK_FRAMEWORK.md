@@ -8,6 +8,8 @@ The concrete starting point is generally covariant gravity coupled to a U(1) gau
 
 This is a physically specified *effective candidate*, not a derivation of quantum gravity or a claim that experience actually is electric charge. General relativity and spacetime here are recovery targets, not presumed ultimate. The experiential bridge, actual incidence and the derivation of this action from zero's self-subsistent nature are not yet established. The exact calculations are genuine consequences of the declared theory, but do not solve physics as a whole.
 
+**Continuation:** [Nonlinear gravity–clock evolution](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) evolves these initial data, checks numerical constraint convergence and compares gravity with a fixed-metric control at the same clock reading.
+
 ## 1. A single covariant candidate
 
 In a classical regime where a smooth four-dimensional Lorentzian description is valid, consider
@@ -190,7 +192,7 @@ The slice quantity may itself be the relevant global experiential invariant **if
 
 This candidate now has an action, fields, constraints, an explicit constrained initial configuration, an internal clock reduction, an experiential hypothesis and concrete restrictions on observable behavior. The next substantive steps are:
 
-1. **Evolve the coupled initial state:** develop the explicit constraint-satisfying GR initial data above in a controlled gauge, check constraint propagation numerically and analytically, and calculate relational observables and backreaction. Assess whether any parameter regime approximates observed physics; the separate flat-field energy calculation is not the nonlinear gravitational evolution.
+1. **Develop the coupled evolution:** [the continuation](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) now evolves the initial state in a controlled planar gauge, checks numerical constraint convergence and makes a limited clock-matched backreaction comparison. Next establish a fully relational observable and broader gauge/three-dimensional controls, and assess whether any parameter regime approximates observed physics; the separate flat-field energy calculation here is not the nonlinear gravitational evolution.
 2. **Specify and test B:** define actual local subjects and the incidence/quality rule independently of the desired zero. Derive how χ and A couple to ordinary matter and a reportable local valence measure, then test the conservation and wavelength-cost predictions against existing evidence.
 3. **Unify the quantities:** identify whether the candidate's charge, the relevant all-history experiential total and a physically meaningful whole-level energy have a common origin or are distinct constraints. Do not equate them merely because they each can be zero.
 4. **Derive rather than merely assume:** show how the action, parameters, topology/domain, clock, gauge constraint and experiential bridge follow from zero-totality's own self-subsistent constitution, or replace this effective action with a deeper theory that recovers it. No law, occurrence or qualitative fact is accepted as a final unexplained residue.

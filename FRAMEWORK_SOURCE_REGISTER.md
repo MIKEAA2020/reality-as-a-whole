@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 603 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 523 verification Python scripts.
+- 604 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 525 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -596,6 +596,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) — Zero-totality as intrinsic relational accounting
 - [ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) — Can zero balance be locally realized without superluminal signalling?
 - [ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) — Can possibility-as-actuality make the whole symmetric?
+- [ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) — Evolving the coupled zero-charge gravity and clock candidate
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?
 - [ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) — A candidate incidence principle for a plural experiential whole
@@ -802,6 +803,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cosmological_constant_cancel.py](verification/cosmological_constant_cancel.py)
 - [verification/coupled_subject_boundary_gate.py](verification/coupled_subject_boundary_gate.py)
 - [verification/covariant_gauge_clock_framework_test.py](verification/covariant_gauge_clock_framework_test.py)
+- [verification/covariant_zero_evolution_test.py](verification/covariant_zero_evolution_test.py)
 - [verification/crn_cocycle.py](verification/crn_cocycle.py)
 - [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
 - [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)
@@ -831,6 +833,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
 - [verification/equilibrium_mismatch_coarse_graining.py](verification/equilibrium_mismatch_coarse_graining.py)
 - [verification/eraser_bell_selection_gate.py](verification/eraser_bell_selection_gate.py)
+- [verification/evolve_covariant_zero_initial_data.py](verification/evolve_covariant_zero_initial_data.py)
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_actual_incidence_test.py](verification/experiential_actual_incidence_test.py)

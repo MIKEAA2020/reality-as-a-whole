@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 646,
-  "bytes": 8080187,
-  "line_count": 71424,
-  "document_count_with_risk_phrases": 599,
+  "document_count": 647,
+  "bytes": 8093415,
+  "line_count": 71557,
+  "document_count_with_risk_phrases": 600,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,8 +5093,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "01f33be2685ee4474d6a6c280b09597fcdb434e98071c66703b0921716f518da",
-      "bytes": 60272,
+      "sha256": "8c315b2494322b7c9e47f6329d9a57a4abe44dcd13aa29598a519524497c5a05",
+      "bytes": 60502,
       "lines": 255,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5109,6 +5109,7 @@
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
@@ -19176,9 +19177,9 @@
     },
     {
       "path": "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
-      "sha256": "d946f1ff2af5873a243502efbacf26318de97c606ceb830ea668d804cc880a37",
-      "bytes": 20317,
-      "lines": 205,
+      "sha256": "5c2851d38e7cb1438ae8c1a064af3026650733e8a04bff2c5b0bb2928b291ee6",
+      "bytes": 20695,
+      "lines": 207,
       "title": "A covariant zero-totality candidate: dynamics, clock and experience",
       "headings": [
         "A covariant zero-totality candidate: dynamics, clock and experience",
@@ -19191,6 +19192,8 @@
         "6. The actual-history total is not automatic"
       ],
       "local_links": [
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
@@ -19198,7 +19201,7 @@
       "risk_phrase_lines": [
         5,
         9,
-        203
+        205
       ]
     },
     {
@@ -19568,6 +19571,36 @@
       "risk_phrase_lines": [
         5,
         11,
+        84
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+      "sha256": "40ed5008f356b6f910c4d8d18d2e9acc003d0ea2b4f50588213ab3d16315194e",
+      "bytes": 12620,
+      "lines": 131,
+      "title": "Evolving the coupled zero-charge gravity and clock candidate",
+      "headings": [
+        "Evolving the coupled zero-charge gravity and clock candidate",
+        "Result",
+        "1. Model and reduction",
+        "2. Constraints and method",
+        "3. Same clock, gravity versus a control",
+        "4. What the result does—and does not—advance",
+        "Reproduction"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "verification/covariant_zero_evolution_receipt.json",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        36,
+        74,
         84
       ]
     },
