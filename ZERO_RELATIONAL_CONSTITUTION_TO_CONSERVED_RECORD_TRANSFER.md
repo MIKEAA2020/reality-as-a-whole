@@ -1,5 +1,7 @@
 # From relational zero to a unique correlated state and conserved record transfer
 
+**Reciprocal continuation:** [the subject-candidate exchange and incidence construction](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) uses this same selected sphere state to drive nonzero opposite changes within the two proposed memory subjects, with separate battery balance and an autonomous clock. It also proves that positive exchange-covariant history weights can spoil that balance; subjecthood and actual incidence are not derived.
+
 ## The non-decorative connection
 
 This is a single conditional construction joining the prior [finite tetrahedral sphere](FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md), the [conserved record exchange](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md), and the [additive-channel no-go](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md). It does more than give the parts similar names:

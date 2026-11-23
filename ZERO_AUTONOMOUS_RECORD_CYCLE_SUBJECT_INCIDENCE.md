@@ -1,5 +1,7 @@
 # An autonomous zero-spin record cycle and its subject boundary
 
+**Reciprocal subject-candidate continuation:** [the spherical reciprocal exchange](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) embeds direction-correlated opposite memory changes in a related autonomous clock cycle, without counting the batteries as subjects. Positive exchange-covariant incidence weights can still yield a nonzero subject-weighted total; no subject or feeling is thereby established.
+
 **Spherical symmetry continuation:** [the spherical-reference construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) combines a normalized full-support direction reference with opposite logical records for every direction, distinguishing branchwise record balance from a spherical average and from actual experiential incidence.
 
 ## Result in brief

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e99b519efe345b0e1b64d104b3ad13a0f176f5d1",
-  "file_count": 1999,
+  "base_head": "79f9aa2769b7fd43b5b1281903fc8dcbe144430d",
+  "file_count": 2001,
   "files": [
     {
       "path": ".gitattributes",
@@ -820,8 +820,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 82188,
-      "sha256": "270c3bba0d651a8ccd444d6b0ea8aced4eba06d53a091a30c5eff06a0a018d7d"
+      "bytes": 82695,
+      "sha256": "7a3488e70aefad0a1f09ea43d205353ba53f290e7838621ad6c26af13aae46d8"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 175906,
-      "sha256": "53fb4062df2d7ae97f937a21749a00e81f6a59f7b58f97209b7c5f4b3b40fff7"
+      "bytes": 176193,
+      "sha256": "2a02a51a093b7771c672a2b21f20e5ff37f8658da8dfdbae0852704443e9b8c0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2885,8 +2885,8 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
-      "bytes": 13353,
-      "sha256": "099743ca5403d6090e8536e3ccd0552675a84a84978d8780fe30638d37ab3a1e"
+      "bytes": 13763,
+      "sha256": "1188c30a0017e9d56b8fdf9a4e891d08b57aa52a6708dfe8f27bec627d46d319"
     },
     {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
@@ -2979,9 +2979,14 @@
       "sha256": "058a223ce9e70ac9471f0d3404a9580ff97c3d6acddd629db635c091cd36a214"
     },
     {
+      "path": "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
+      "bytes": 15800,
+      "sha256": "346f3b3e663b529ddb146dcb6566ff4fa60a7fb33ddc0b1c4b115527615a76f6"
+    },
+    {
       "path": "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
-      "bytes": 17285,
-      "sha256": "e0aead5df0b4b895a3f380e20d331d4cd8aed3984d4ad893635ab3dc670c7d37"
+      "bytes": 17731,
+      "sha256": "ca0fcac39bfa8627e5bf1441f30af9e7391781eb3b2951ff03f115369a7b504c"
     },
     {
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7695,8 +7700,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 861576,
-      "sha256": "cfc4cc0526d3eda2232f11af87afb8b944b992b07aa4a0e4c8d2fed80c14fb07"
+      "bytes": 862881,
+      "sha256": "be883b52a02f4b2e812d09b42e5137fb2bfa36f86c7f3abfe8a058faacd08ef5"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9837,6 +9842,11 @@
       "path": "verification/zero_point_blowup_test.py",
       "bytes": 2130,
       "sha256": "3f6f9c5af9ac1be27f55027a3e4d58d719fd6b966bc0641d56f81aa334c1e322"
+    },
+    {
+      "path": "verification/zero_reciprocal_subject_exchange_test.py",
+      "bytes": 11045,
+      "sha256": "53c3f8bb69ba7af10b59950d2f3b071f69912171bf0267482c1d1fcf34d8be57"
     },
     {
       "path": "verification/zero_relational_sphere_cycle_test.py",

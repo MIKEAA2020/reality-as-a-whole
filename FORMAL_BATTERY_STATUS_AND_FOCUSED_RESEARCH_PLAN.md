@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Reciprocal candidate-subject exchange:** [the reciprocal sphere–record construction](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) gives both proposed memory subjects nonzero opposite physical changes, without treating the batteries as subjects, and embeds the stages in an autonomous clock. It proves a positive, exchange-covariant history-weight counterexample to automatic experiential balance. Subjecthood, the felt-value mapping, incidence and the underlying interactions remain unjustified.
+
 **Integrated relational selector and conserved transfer:** [the joint construction](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) selects the existing spherical recorded state using commuting matching and coherence relations, proves a fidelity bound, and links the same records to conserved memory–battery exchanges in a unique gapped joint ground state. Its representation, constraints, Hamiltonian and physical–experiential bridge are not derived from zero, and its bare conserved energy is positive.
 
 **Additive channel actions and exact radius:** [the Abaee additive-dynamics audit](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md) distinguishes composition-additive channel scalars from state-dependent conserved transfers, relates relational purity to the tetrahedral construction, and gives an all-dimension proof that the paper's certified 2/d² diamond ball is the exact geometric in-radius, contrary to its strict-larger remark. The compression lower bound itself survives; the paper's supplement was not run and the subject/experience bridge remains open.
