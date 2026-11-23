@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Autonomous record cycle and subject incidence:** [the clock–record construction](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) embeds the encoded energy-conserving writer in a time-independent periodic Hamiltonian, correlates internal clock labels with recorded and reset states, and tests energy-closed subject candidates. Minimal pairs have zero net energy change; a positive joint clock–work weighting can instead leave a nonzero cycle-integrated current. Actual subjects, felt quality, robust memory, localization and a non-circular whole-level zero are not thereby derived.
+
 **Conserved-energy record dynamics:** [the encoded energy-exchange construction](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) writes three conserved-sphere pointer outcomes into memory using physical spin-zero blocks and Hamiltonian energy transfer from batteries. Opposite energy changes are exact branchwise; commuting pointer flags coexist with noncommuting sharp memory-energy presence and current. Bare energy is positive and conserved, and interpreting memory/battery exchange as actual subject valence or whole-level zero is not derived.
 
 **Zero-sector memory and causal incidence:** [the memory continuation](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) builds an invariant encoded record copy and gapped ideal storage, identifies source/receiver causal roles and a branchwise opposite-signed observable candidate, and demonstrates both equal-time exchange symmetry and an incidence-multiplicity obstruction. The sign and subject identities, autonomous/local implementation, definite experience and empirical measure remain unproved.

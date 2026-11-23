@@ -164,6 +164,8 @@ A complementary next construction asks whether a zero condition can fix the quan
 
 The [conserved-energy record dynamics](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) realizes commuting pointer flags and nonzero physical energy currents in the same encoded zero-spin instrument. It also shows that memory-energy presence does not commute with its own current, and that summing only hypothesized memory subjects leaves a battery boundary flux.
 
+An [autonomous clock–record cycle](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) now realizes the encoded record transfer without externally switching its interaction. It exhibits minimal energy-closed pairs with zero net pair energy change and a positive quantum incidence weighting for which the cycle-integrated weighted current is nonzero. The weighting is a joint clock–work operator, not an established locally accessible subject incidence.
+
 ## Verification
 
 ```text

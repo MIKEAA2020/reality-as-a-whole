@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 684,
-  "bytes": 8588474,
-  "line_count": 76888,
-  "document_count_with_risk_phrases": 637,
+  "document_count": 685,
+  "bytes": 8603206,
+  "line_count": 77046,
+  "document_count_with_risk_phrases": 638,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5945299a1f0847d6893be9c5d840be97bccef98945f9528a6558cb351d62d08a",
-      "bytes": 78827,
-      "lines": 321,
+      "sha256": "b6b517d17140a27fec88eab8cdcd14544fb5ce0a310f4b5ea457f4b03348d011",
+      "bytes": 79418,
+      "lines": 323,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
@@ -5274,55 +5275,56 @@
       ],
       "risk_phrase_lines": [
         5,
-        11,
+        7,
         13,
-        19,
+        15,
         21,
-        25,
+        23,
         27,
         29,
         31,
-        35,
+        33,
         37,
-        41,
-        45,
+        39,
+        43,
         47,
         49,
         51,
         53,
-        61,
-        67,
+        55,
+        63,
         69,
-        73,
-        77,
-        83,
-        101,
-        109,
-        119,
-        135,
+        71,
+        75,
+        79,
+        85,
+        103,
+        111,
+        121,
         137,
-        141,
-        147,
-        157,
+        139,
+        143,
+        149,
         159,
-        177,
+        161,
         179,
-        183,
-        193,
-        197,
-        203,
+        181,
+        185,
+        195,
+        199,
         205,
-        219,
-        223,
-        235,
-        243,
+        207,
+        221,
+        225,
+        237,
         245,
-        249,
-        265,
-        275,
-        292,
-        309,
-        315
+        247,
+        251,
+        267,
+        277,
+        294,
+        311,
+        317
       ]
     },
     {
@@ -5501,9 +5503,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3e6306d5207c677ddd3fe561f44278d4b11a20a89977a21c2a9dfa7d73a450d3",
-      "bytes": 173841,
-      "lines": 1349,
+      "sha256": "c6e373af6699b6a02575ad6a5630b80b839c5923ae10ba24ffb59965d37488df",
+      "bytes": 174116,
+      "lines": 1351,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6106,6 +6108,7 @@
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
+        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -6812,6 +6815,7 @@
         "verification/zero_point_blowup_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_sector_memory_incidence_test.py",
+        "verification/zero_sector_record_energy_exchange_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
         "verification/zero_sphere_conservation_born_bridge_test.py",
@@ -6851,13 +6855,13 @@
         472,
         570,
         603,
-        605,
         606,
-        680,
-        689,
-        692,
-        695,
-        763
+        607,
+        681,
+        690,
+        693,
+        696,
+        764
       ]
     },
     {
@@ -19265,6 +19269,41 @@
       ]
     },
     {
+      "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
+      "sha256": "63f9db345a28d474a2db6a2bd31533ed2d5e2216605facb318a995b89527d166",
+      "bytes": 13005,
+      "lines": 150,
+      "title": "An autonomous zero-spin record cycle and its subject boundary",
+      "headings": [
+        "An autonomous zero-spin record cycle and its subject boundary",
+        "Result in brief",
+        "1. One closed Hamiltonian for writing, storage and reset",
+        "2. The clock–record correlations",
+        "3. What energy conservation does for candidate subjects",
+        "4. A whole cycle does not automatically fix incidence",
+        "5. Necessity, frequencies and what remains to be derived",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        10,
+        15,
+        41,
+        43,
+        62,
+        82,
+        88,
+        90,
+        96,
+        134,
+        136,
+        150
+      ]
+    },
+    {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee",
       "bytes": 13079,
@@ -19545,9 +19584,9 @@
     },
     {
       "path": "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
-      "sha256": "249dc12137cec550d2d2b541bd4b1aadf74f5cf0851f63e61a48bcd4f260fe89",
-      "bytes": 12390,
-      "lines": 173,
+      "sha256": "a93138b3b63b40b47c373608f6524e7ad3ae65065a00a739c9104fb75c633b1c",
+      "bytes": 12847,
+      "lines": 175,
       "title": "Local subject incidence and a conserved quantum current",
       "headings": [
         "Local subject incidence and a conserved quantum current",
@@ -19563,7 +19602,8 @@
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
-        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md"
+        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
+        "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19576,7 +19616,8 @@
         141,
         154,
         163,
-        173
+        167,
+        175
       ]
     },
     {
@@ -19818,9 +19859,9 @@
     },
     {
       "path": "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
-      "sha256": "575d1fe709978741e023eb508c98238e5a6ea1fc7342c67708c5a6750613f4dd",
-      "bytes": 12469,
-      "lines": 157,
+      "sha256": "1d881b541c7c2a038eceab8c236fd92fda099ad875eeeee1e1e5203472ffaf28",
+      "bytes": 12873,
+      "lines": 159,
       "title": "Conserved energy exchange writes zero-sector records",
       "headings": [
         "Conserved energy exchange writes zero-sector records",
@@ -19833,20 +19874,22 @@
         "6. What this does and does not establish"
       ],
       "local_links": [
+        "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        7,
-        63,
-        75,
-        99,
-        131,
-        147,
+        3,
+        9,
+        65,
+        77,
+        101,
+        133,
         149,
-        157
+        151,
+        159
       ]
     },
     {

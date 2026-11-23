@@ -1,5 +1,7 @@
 # Conserved energy exchange writes zero-sector records
 
+**Autonomous continuation:** [the clock–record cycle and subject-incidence test](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) embeds the same writing unitary in one time-independent Hamiltonian, tests minimal energy-closed subject candidates and gives a positive-incidence weighted-cycle counterexample. The cycle and proposed incidence rule are conditional models, not established experiences.
+
 ## Main result
 
 The earlier [zero-sector memory construction](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) used assigned opposite signs for a record source and receiver. Here the signs instead arise from an actual Hamiltonian exchange in the **same conserved-sphere measurement setting**.
