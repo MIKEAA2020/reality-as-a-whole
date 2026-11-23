@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Zero-sector memory and causal incidence:** [the memory continuation](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) builds an invariant encoded record copy and gapped ideal storage, identifies source/receiver causal roles and a branchwise opposite-signed observable candidate, and demonstrates both equal-time exchange symmetry and an incidence-multiplicity obstruction. The sign and subject identities, autonomous/local implementation, definite experience and empirical measure remain unproved.
+
 **Zero-sector sphere instrument:** [the invariant steering construction](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) encodes two logical qubits and a pointer in physical spin-zero blocks and gives an invariant unitary dilation of the conserved-ray triple POVMs. The logical singlet yields the prior steering weights while each pointer-conditioned branch retains physical spin zero. The construction assumes the logical-frame identification, preparation and interaction; no relativistic dynamics, actual experiential records or no-residue foundation follow.
 
 **Zero-constrained quantum constitution:** [the zero-spin construction](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) derives the unique two-spin singlet from a specified total-spin zero and constructs an internal `CP¹` sphere of four-spin zero states distinguished by constraint-preserving relational observables. The strict two-spin singlet sector does not itself support independent sharp local spin records; a conserved apparatus must be supplied. The representation, realistic physics, actual subjects, phenomenal identity and whole-level zero are not derived.

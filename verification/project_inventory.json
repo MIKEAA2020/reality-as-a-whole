@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 682,
-  "bytes": 8558175,
-  "line_count": 76571,
-  "document_count_with_risk_phrases": 635,
+  "document_count": 683,
+  "bytes": 8574445,
+  "line_count": 76723,
+  "document_count_with_risk_phrases": 636,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "c80563730a8c8f3e59ab2b5c08b13690db57452489f17f3b56f8ce2456cc15f2",
-      "bytes": 77772,
-      "lines": 317,
+      "sha256": "3006631a100beb715c5a4401bfa1588557648a85697e66f61b6c94c54e822175",
+      "bytes": 78277,
+      "lines": 319,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -5271,55 +5272,55 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        15,
+        11,
         17,
-        21,
+        19,
         23,
         25,
         27,
-        31,
+        29,
         33,
-        37,
-        41,
+        35,
+        39,
         43,
         45,
         47,
         49,
-        57,
-        63,
+        51,
+        59,
         65,
-        69,
-        73,
-        79,
-        97,
-        105,
-        115,
-        131,
+        67,
+        71,
+        75,
+        81,
+        99,
+        107,
+        117,
         133,
-        137,
-        143,
-        153,
+        135,
+        139,
+        145,
         155,
-        173,
+        157,
         175,
-        179,
-        189,
-        193,
-        199,
+        177,
+        181,
+        191,
+        195,
         201,
-        215,
-        219,
-        231,
-        239,
+        203,
+        217,
+        221,
+        233,
         241,
-        245,
-        261,
-        271,
-        288,
-        305,
-        311
+        243,
+        247,
+        263,
+        273,
+        290,
+        307,
+        313
       ]
     },
     {
@@ -5498,9 +5499,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3ffcbebe6fbb32e0dcaa25fbe87a565ab6811be693d2c2cddf74346dc5aaa392",
-      "bytes": 173290,
-      "lines": 1345,
+      "sha256": "ef4c3c79baeb1bc56cd60bdeb04ea41d8dcc1b6102394b9d8bf858bd7ac66f34",
+      "bytes": 173563,
+      "lines": 1347,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6090,6 +6091,7 @@
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
+        "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -6796,6 +6798,7 @@
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
+        "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
@@ -6843,14 +6846,14 @@
         404,
         472,
         570,
-        602,
         603,
         604,
-        678,
-        687,
-        690,
-        693,
-        761
+        605,
+        679,
+        688,
+        691,
+        694,
+        762
       ]
     },
     {
@@ -19446,9 +19449,9 @@
     },
     {
       "path": "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
-      "sha256": "30a1f379972d01f7ba529e48643220c5fc891af292b6a194b02afdd16d4f67a1",
-      "bytes": 12139,
-      "lines": 147,
+      "sha256": "086c5535a1526ea2a551e507830114f6a240ea4a89aabae1da24e3da6fc41c94",
+      "bytes": 12522,
+      "lines": 149,
       "title": "A conservation-preserving instrument for the internal sphere",
       "headings": [
         "A conservation-preserving instrument for the internal sphere",
@@ -19461,16 +19464,17 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        58,
-        139,
-        147
+        13,
+        60,
+        141,
+        149
       ]
     },
     {
@@ -19537,9 +19541,9 @@
     },
     {
       "path": "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
-      "sha256": "400653bf88fc7cf64caf789495697407d5d7a2b3da822ac6d33f330d432b09d5",
-      "bytes": 11631,
-      "lines": 169,
+      "sha256": "08d322f515bae4e89be32fd34ba343e242fb5346d4ce7accb361ef6029c5ce7b",
+      "bytes": 12025,
+      "lines": 171,
       "title": "Local subject incidence and a conserved quantum current",
       "headings": [
         "Local subject incidence and a conserved quantum current",
@@ -19553,6 +19557,7 @@
       ],
       "local_links": [
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
@@ -19565,8 +19570,8 @@
         100,
         141,
         154,
-        161,
-        169
+        163,
+        171
       ]
     },
     {
@@ -19804,6 +19809,34 @@
         8,
         9,
         26
+      ]
+    },
+    {
+      "path": "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
+      "sha256": "604bddf3c0a7dfd4adf60fe995e5c52bb779b4b488016b660e07ddc44b31a817",
+      "bytes": 14715,
+      "lines": 144,
+      "title": "Zero-sector memory, causal roles and experiential incidence",
+      "headings": [
+        "Zero-sector memory, causal roles and experiential incidence",
+        "Result in brief",
+        "1. One system from conservation through memory",
+        "2. A storage mechanism, with its limits",
+        "3. Branchwise signed zero from the causal relation",
+        "4. Why causal history matters—and what it does not settle",
+        "5. Memory multiplicity can change a weighted balance",
+        "6. Necessary records and weights"
+      ],
+      "local_links": [
+        "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
+        "verification/zero_invariant_sphere_instrument_test.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        10,
+        43,
+        122
       ]
     },
     {
