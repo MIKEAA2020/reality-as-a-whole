@@ -1,5 +1,7 @@
 # Zero as a point with an internally differentiated sphere
 
+**Confined-domain continuation:** [held surface position and optional interfaces](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) formalizes the user's corrected rule that A remains the surface position during a room journey and changes to B on return, then tests inaccessible and coupled sectors on the existing five-ray state. The richer structure and its experiential significance are not derived from the bare point.
+
 **Continuations:** [the relativistic point–sphere construction](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) connects an internal direction sphere to null cones, shows how an embedded cone fixes a local metric up to conformal scale, and replaces frame-dependent angular comparisons with Lorentz-invariant relations. [The intrinsic sign and constitution test](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) constructs a signed four-direction invariant and tests the physically real role distinctions, actual incidence and phenomenal identity it would require. Neither derives spacetime or experience from zero.
 
 **Symmetry and plenitude continuation:** [the spherical-reference and opposite-record construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) places all directions in the support of a rotationally invariant reference and produces opposite encoded records for every direction. The full sphere and the physical–experiential interpretation remain assumptions, not deductions from a bare point.

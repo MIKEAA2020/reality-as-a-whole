@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 694,
-  "bytes": 8756008,
-  "line_count": 78511,
-  "document_count_with_risk_phrases": 647,
+  "document_count": 695,
+  "bytes": 8773956,
+  "line_count": 78671,
+  "document_count_with_risk_phrases": 648,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5210,9 +5210,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "30de37e6f64cf88c41863f9e0334555cd014c9d9a7b198722fd011ca97972042",
-      "bytes": 84346,
-      "lines": 341,
+      "sha256": "4800b699be2cc12fc377a9d26b3bb7a1788465e0e852185081d636e98a6ae49f",
+      "bytes": 84748,
+      "lines": 343,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5224,6 +5224,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
@@ -5400,7 +5401,6 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
         11,
         13,
@@ -5410,55 +5410,56 @@
         21,
         23,
         25,
-        31,
+        27,
         33,
-        39,
+        35,
         41,
-        45,
+        43,
         47,
         49,
         51,
-        55,
+        53,
         57,
-        61,
-        65,
+        59,
+        63,
         67,
         69,
         71,
         73,
-        81,
-        87,
+        75,
+        83,
         89,
-        93,
-        97,
-        103,
-        121,
-        129,
-        139,
-        155,
+        91,
+        95,
+        99,
+        105,
+        123,
+        131,
+        141,
         157,
-        161,
-        167,
-        177,
+        159,
+        163,
+        169,
         179,
-        197,
+        181,
         199,
-        203,
-        213,
-        217,
-        223,
+        201,
+        205,
+        215,
+        219,
         225,
-        239,
-        243,
-        255,
-        263,
+        227,
+        241,
+        245,
+        257,
         265,
-        269,
-        285,
-        295,
-        312,
-        329,
-        335
+        267,
+        271,
+        287,
+        297,
+        314,
+        331,
+        337
       ]
     },
     {
@@ -5637,9 +5638,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "13089473156480e655aba8d7b3b6c7f53f96b20d99f95f31590d0f96aa9b0eea",
-      "bytes": 176861,
-      "lines": 1369,
+      "sha256": "806d05ffd226e5571aa08bf0fe6fec50e5db21ea259815030648eb22ebc8aafb",
+      "bytes": 177170,
+      "lines": 1371,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6260,6 +6261,7 @@
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
@@ -6973,6 +6975,7 @@
         "verification/zero_sphere_five_ray_conservation.py",
         "verification/zero_sphere_five_ray_conservation_test.py",
         "verification/zero_sphere_intrinsic_orientation_test.py",
+        "verification/zero_sphere_mismatch_experience_comparison_test.py",
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
@@ -7011,11 +7014,11 @@
         609,
         613,
         614,
-        690,
-        699,
-        702,
-        705,
-        773
+        691,
+        700,
+        703,
+        706,
+        774
       ]
     },
     {
@@ -19460,6 +19463,35 @@
       ]
     },
     {
+      "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
+      "sha256": "2a8b8e11e129fbc8e5cdfdc6520be2bbe491e264681b52de4c5a77622a390ce5",
+      "bytes": 16508,
+      "lines": 152,
+      "title": "Confined realms: held position, richer activity and an optional interface",
+      "headings": [
+        "Confined realms: held position, richer activity and an optional interface",
+        "What this builds",
+        "1. The geometry, stated with the held-position rule",
+        "2. Chess time is a different parameter, not an invisible string of moves",
+        "3. One quantum implementation on the existing sphere state",
+        "4. The extension preserves the earlier physics rather than replacing it",
+        "5. What this says about zero and necessary actuality",
+        "6. Further connections and limits"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        49,
+        81,
+        152
+      ]
+    },
+    {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee",
       "bytes": 13079,
@@ -19910,9 +19942,9 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "fa4ffdcdcfc6ee955e9d53e6f95e3e5e1f4e88ddc2456a6f6746861ea376d53d",
-      "bytes": 11105,
-      "lines": 117,
+      "sha256": "4be3787591dbaf4544cd8bbc650b25ba7e6fb3963ee4a4a18c278fea5da0b00d",
+      "bytes": 11532,
+      "lines": 119,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -19925,16 +19957,17 @@
         "6. What your idea advances"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        71,
-        99,
+        15,
+        73,
         101,
-        111
+        103,
+        113
       ]
     },
     {
@@ -20296,9 +20329,9 @@
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
-      "sha256": "cf433680bb34beb9cdea9dd8d6aa5276886734e8a8a5d9d5ddb6b190600891e9",
-      "bytes": 15247,
-      "lines": 182,
+      "sha256": "be92966e20d77c253f8a06ceaac49564a627254cc647b8777069dfa49e66bc35",
+      "bytes": 15549,
+      "lines": 184,
       "title": "One system linking sphere conservation, quantum records and opposite currents",
       "headings": [
         "One system linking sphere conservation, quantum records and opposite currents",
@@ -20311,20 +20344,21 @@
         "6. What the construction does for experience—and what it cannot decide"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md"
       ],
       "risk_phrase_lines": [
-        14,
-        25,
-        38,
-        65,
-        94,
-        98,
-        115,
-        143,
-        182
+        16,
+        27,
+        40,
+        67,
+        96,
+        100,
+        117,
+        145,
+        184
       ]
     },
     {

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Confined-realm continuation:** [held position and optional interfaces](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) implements the user's A-until-return rule, shows its dependence on history, and compares inaccessible and coupled extra sectors on the original five-ray state. It preserves the prior record/current relations; neither the richer sector nor its interface is derived from zero.
+
 **Common-domain experiential candidate and intervention:** [the sphere–mismatch comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) applies the earlier local-overlap selector to an explicitly extracted quantum coupling graph, compares record-odd, mismatch-only and current-identity packages on the same sphere state, and physically separates the first and third with a phase pulse. Report bounds and a pain–relief research gate are conditional; actual subjects, the preference, phenomenology and calibration are not derived.
 
 **Single-system conservation–record–current synthesis:** [the asymmetric five-ray construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) uses the conservation-derived fractions in one explicit singlet instrument, obtains the full rational joint record table and sharp opposite receiver currents, and proves equality of the entire receiver state across pair/triple settings. It extends to the calibrated clock. The geometric-to-logical identification, interaction, actual subjects and phenomenal response remain assumptions or open demands.
