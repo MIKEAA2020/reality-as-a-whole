@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c7854f56da0e5b6c93e26a11142d267a3e763862",
-  "file_count": 2009,
+  "base_head": "f60229b1adb07dbb37b10039584d3b0253c9c316",
+  "file_count": 2011,
   "files": [
     {
       "path": ".gitattributes",
@@ -820,8 +820,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 84748,
-      "sha256": "4800b699be2cc12fc377a9d26b3bb7a1788465e0e852185081d636e98a6ae49f"
+      "bytes": 84932,
+      "sha256": "4cddd2f5e27ebe6caa07e1a27ad0e651e434f8a45a8fa260db36361227f09a7b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 177466,
-      "sha256": "a326a253f2e9b66b4ee91fcb45a336dd42777a86d68dd2a2162cce6923405f3f"
+      "bytes": 177743,
+      "sha256": "53440f16bca3882895f13cba9829a303ebdba6b70b9df73287be8fb67c2755e4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2890,8 +2890,8 @@
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
-      "bytes": 16508,
-      "sha256": "2a8b8e11e129fbc8e5cdfdc6520be2bbe491e264681b52de4c5a77622a390ce5"
+      "bytes": 16945,
+      "sha256": "7141ffc252ac06392a523c5c6af2206611d8bf85e0e1cd04d476fee575aa7f46"
     },
     {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
@@ -2970,8 +2970,8 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "bytes": 11532,
-      "sha256": "4be3787591dbaf4544cd8bbc650b25ba7e6fb3963ee4a4a18c278fea5da0b00d"
+      "bytes": 11690,
+      "sha256": "ca70f51446b2c28ec391e6f28e7ac4f08f94fc828df3a7191b19c6e0460b7234"
     },
     {
       "path": "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
@@ -2982,6 +2982,11 @@
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
       "bytes": 9120,
       "sha256": "058a223ce9e70ac9471f0d3404a9580ff97c3d6acddd629db635c091cd36a214"
+    },
+    {
+      "path": "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
+      "bytes": 15304,
+      "sha256": "f4a0cb1c20701566f4cab52a17b23b3145acdc72a10da3296305e283fef13f40"
     },
     {
       "path": "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
@@ -7720,8 +7725,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 869168,
-      "sha256": "a9ae552e83a49d9094f2f998e085da1da2eb99ce54fa15538a6c7fc3c464b163"
+      "bytes": 870620,
+      "sha256": "0214ada8f44e9763f744fc1e1fd855601e22bbb5e601f988e29a480ca3f6a154"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9872,6 +9877,11 @@
       "path": "verification/zero_point_blowup_test.py",
       "bytes": 2130,
       "sha256": "3f6f9c5af9ac1be27f55027a3e4d58d719fd6b966bc0641d56f81aa334c1e322"
+    },
+    {
+      "path": "verification/zero_realm_restriction_without_interaction_test.py",
+      "bytes": 6664,
+      "sha256": "40cab48b1a67f3a1b60fd0de57bad63885538c9f19ae9a21820bd9bc06aa2ab9"
     },
     {
       "path": "verification/zero_reciprocal_subject_exchange_test.py",

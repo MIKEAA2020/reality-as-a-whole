@@ -1,5 +1,7 @@
 # Confined realms: held position, richer activity and an optional interface
 
+**Correction and continuation:** [confined succession without an interaction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) addresses the user's clarification: the game does not need a mechanism to keep its move number fixed while the player thinks. The circuits below are optional physical models, not necessary conditions for confinement. The continuation constructs the basic relation without an interaction or a fundamental clock.
+
 ## What this builds
 
 The user's correction is the starting rule, not something to be argued away: **in the surface-restricted description, the traveler remains at A during the room journey and changes to B upon return.** In the room description, the traveler follows the intermediate points of the chord. These are descriptions in different domains, not a claim that the traveler is physically at A in the room throughout the journey.

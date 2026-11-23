@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 695,
-  "bytes": 8773956,
-  "line_count": 78671,
-  "document_count_with_risk_phrases": 648,
+  "document_count": 696,
+  "bytes": 8790335,
+  "line_count": 78826,
+  "document_count_with_risk_phrases": 649,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5210,8 +5210,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4800b699be2cc12fc377a9d26b3bb7a1788465e0e852185081d636e98a6ae49f",
-      "bytes": 84748,
+      "sha256": "4cddd2f5e27ebe6caa07e1a27ad0e651e434f8a45a8fa260db36361227f09a7b",
+      "bytes": 84932,
       "lines": 343,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5224,6 +5224,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
@@ -5638,9 +5639,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "806d05ffd226e5571aa08bf0fe6fec50e5db21ea259815030648eb22ebc8aafb",
-      "bytes": 177170,
-      "lines": 1371,
+      "sha256": "a326a253f2e9b66b4ee91fcb45a336dd42777a86d68dd2a2162cce6923405f3f",
+      "bytes": 177466,
+      "lines": 1373,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6228,6 +6229,7 @@
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -6949,6 +6951,7 @@
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_celestial_geometry_test.py",
+        "verification/zero_confined_realms_interface_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
@@ -7010,15 +7013,15 @@
         407,
         475,
         573,
-        608,
         609,
-        613,
+        610,
         614,
-        691,
-        700,
-        703,
-        706,
-        774
+        615,
+        692,
+        701,
+        704,
+        707,
+        775
       ]
     },
     {
@@ -19464,9 +19467,9 @@
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
-      "sha256": "2a8b8e11e129fbc8e5cdfdc6520be2bbe491e264681b52de4c5a77622a390ce5",
-      "bytes": 16508,
-      "lines": 152,
+      "sha256": "7141ffc252ac06392a523c5c6af2206611d8bf85e0e1cd04d476fee575aa7f46",
+      "bytes": 16945,
+      "lines": 154,
       "title": "Confined realms: held position, richer activity and an optional interface",
       "headings": [
         "Confined realms: held position, richer activity and an optional interface",
@@ -19479,16 +19482,17 @@
         "6. Further connections and limits"
       ],
       "local_links": [
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
       ],
       "risk_phrase_lines": [
-        13,
-        49,
-        81,
-        152
+        15,
+        51,
+        83,
+        154
       ]
     },
     {
@@ -19942,8 +19946,8 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "4be3787591dbaf4544cd8bbc650b25ba7e6fb3963ee4a4a18c278fea5da0b00d",
-      "bytes": 11532,
+      "sha256": "ca70f51446b2c28ec391e6f28e7ac4f08f94fc828df3a7191b19c6e0460b7234",
+      "bytes": 11690,
       "lines": 119,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
@@ -19957,6 +19961,7 @@
         "6. What your idea advances"
       ],
       "local_links": [
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
@@ -20021,6 +20026,38 @@
         74,
         90,
         92
+      ]
+    },
+    {
+      "path": "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
+      "sha256": "f4a0cb1c20701566f4cab52a17b23b3145acdc72a10da3296305e283fef13f40",
+      "bytes": 15304,
+      "lines": 151,
+      "title": "Confined succession without an interaction",
+      "headings": [
+        "Confined succession without an interaction",
+        "Starting with the user's correction",
+        "1. The confined realm has its own succession",
+        "2. A richer structure without a universal time",
+        "3. Relation to the zero point and internal sphere",
+        "4. An exact, conditional zero on the same realm model",
+        "5. Connecting to the preceding physical and experiential results",
+        "6. Where this takes the programme"
+      ],
+      "local_links": [
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        53,
+        59,
+        62,
+        67,
+        93,
+        126,
+        151
       ]
     },
     {

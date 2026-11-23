@@ -2,7 +2,7 @@
 
 ## Direct assessment
 
-**Confined-realm continuation:** [held position and optional interfaces](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) implements the user's A-until-return rule, shows its dependence on history, and compares inaccessible and coupled extra sectors on the original five-ray state. It preserves the prior record/current relations; neither the richer sector nor its interface is derived from zero.
+**Confined-realm correction and continuation:** [confined succession without an interaction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) expresses held position through realm-specific order, not a holding mechanism, and works a symmetry-and-zero split alongside a nonuniqueness control. The preceding [held-position and interface model](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) gives optional circuits on the original five-ray state; they are not necessary for confinement. Neither the richer sector nor its physical or experiential interpretation is derived from zero.
 
 **Common-domain experiential candidate and intervention:** [the sphere–mismatch comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) applies the earlier local-overlap selector to an explicitly extracted quantum coupling graph, compares record-odd, mismatch-only and current-identity packages on the same sphere state, and physically separates the first and third with a phase pulse. Report bounds and a pain–relief research gate are conditional; actual subjects, the preference, phenomenology and calibration are not derived.
 
