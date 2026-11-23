@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [field-incidence and experiential-accounting candidate](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) proposes field-first subject identity and distinguishes token totals from subject-incidence totals in a hypothetical overlap. Conserved allocations do not establish actual fields, shared experiences, the correct quantity, or balance from zero's constitution.
+
 The [experiential equivalence and incidence audit](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) specifies a conditional preservation criterion and shows that the same signed zero admits inequivalent subject organizations and internal orders. The incidence law, phenomenal identity, physical equivalence and complete constitution remain open.
 
 The [intrinsic orientation-selection candidate](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) shows that an assumed permutation-symmetric term can restrict differentiated minima to one formal permutation orbit without selecting a named index. The term, its sign, actual configuration, experiential character and legitimacy of quotienting full subject relations remain open.

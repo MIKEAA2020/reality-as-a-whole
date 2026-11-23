@@ -2,6 +2,8 @@
 
 ## The problem
 
+**Incidence continuation:** [subject fields and experiential accounting](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) proposes a field-first incidence candidate and shows how token-based and subject-incidence totals can differ when a token is hypothesized to be shared.
+
 The [previous candidate](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) reduced a finite zero-sum model to one orbit of permutations. That is not enough to establish one **physical–experiential** whole: a list of signed contributions does not say who experiences what, how experiences are related, or whether they happen at all.
 
 This report makes the missing condition explicit. A legitimate change of description must carry along the relevant qualitative character, subject incidence and internal relations—not just permute numbers. In a finite control, the same signed list and the same global zero admit **five non-isomorphic subject-incidence organizations**. Even fixing the number of subjects and their signed totals does not determine all the qualitative incidence facts.

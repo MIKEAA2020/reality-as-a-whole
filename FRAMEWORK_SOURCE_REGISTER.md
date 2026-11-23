@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 593 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 513 verification Python scripts.
+- 594 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 514 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -589,6 +589,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) — Can possibility-as-actuality make the whole symmetric?
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?
+- [ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) — A candidate incidence principle for a plural experiential whole
 - [ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) — Can the actual whole force its own zero total?
 - [ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) — Can intrinsic symmetry select the zero level?
 - [ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) — An internal connection for zero-total relations
@@ -1162,6 +1163,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/subject_context_substrate_gate.py](verification/subject_context_substrate_gate.py)
 - [verification/subject_factorization_redescription_gate.py](verification/subject_factorization_redescription_gate.py)
 - [verification/subject_friend_quantum_extensions.py](verification/subject_friend_quantum_extensions.py)
+- [verification/subject_incidence_experiential_accounting_test.py](verification/subject_incidence_experiential_accounting_test.py)
 - [verification/subject_measure_selection_gate.py](verification/subject_measure_selection_gate.py)
 - [verification/substrate_self_existent_interface.py](verification/substrate_self_existent_interface.py)
 - [verification/swapping_herald_selection_gate.py](verification/swapping_herald_selection_gate.py)
