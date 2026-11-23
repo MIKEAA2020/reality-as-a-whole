@@ -2,6 +2,8 @@
 
 ## Why try a different route?
 
+**Differentiation continuation:** [one internal relational functional](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) replaces fixed unequal reference values with dynamically varied internal coordinates and obtains nonzero balanced responses at every global minimum under a specified instability condition; its constitutive assumptions and remaining degeneracy are explicit.
+
 The [previous investigation](EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md) found a gap between a zero statistical expectation and a zero sum over **actual** experiences. Here is a different constructive route: a variational relation defined directly over actual occurrences, with no probability distribution over alternatives required.
 
 > Suppose actual experiential aspects are constitutively related through one intrinsic stationary organization. Each has a signed contribution given by its own part's response to a common admissible internal variation. If all other terms in the organization are unchanged by that variation, the actual contributions sum to zero.

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [internal differentiation candidate](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) replaces fixed unequal references with varied internal coordinates and conditionally obtains nonzero zero-sum responses at every global minimum. The instability, functional, actual minimum, experiential identity and orientation remain assumptions or open questions, not foundation-battery passes.
+
 The [actual-experience stationary-response candidate](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) derives a zero sum over stipulated actual aspects from common-direction stationarity and a shift-invariant relational term, with an explicit nontrivial finite solution. The functional, nontrivial references, admissible variation, subject incidence and experiential identity are not derived from zero.
 
 The [energy, organization and actual-incidence continuation](EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md) tests a joint-feature score, conditional locality tension, and exact versus statistical actual balance. It does not derive experiential identity, the actual-incidence measure or global energy equivalence.
