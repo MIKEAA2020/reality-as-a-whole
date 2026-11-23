@@ -1,5 +1,7 @@
 # From the internal sphere to a Lorentz cone: the next step
 
+**Continuation:** [zero, relational balance and opposition](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) proves that the relativistic sphere alone has no nontrivial observer-independent partner map, and constructs a conditional Lorentz-invariant relational zero with nonzero local entries. It does not identify those entries with energy or experience.
+
 ## The direct answer to “what next?”
 
 The next move is to reverse the previous argument. Instead of starting with four-dimensional relativity and finding a sphere of lightlike directions, **start with the sphere's intrinsic projective structure and ask what spacetime structure it can produce**.

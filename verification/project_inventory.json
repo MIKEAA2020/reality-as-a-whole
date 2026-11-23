@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 660,
-  "bytes": 8274118,
-  "line_count": 73373,
-  "document_count_with_risk_phrases": 612,
+  "document_count": 661,
+  "bytes": 8285824,
+  "line_count": 73503,
+  "document_count_with_risk_phrases": 613,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,8 +5093,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "eae1d712fb49a78df1b6da9b1c02a59681868900db5b8caac8a3aa87901f62d4",
-      "bytes": 65713,
+      "sha256": "a516596d1a1dc644b5dce020f05218fac1fd144478bac1d3135843d392d92297",
+      "bytes": 66069,
       "lines": 275,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5109,6 +5109,7 @@
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
@@ -5249,6 +5250,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
+        7,
         15,
         21,
         23,
@@ -5460,9 +5462,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "32c6e66adc18649c5e9117f0e4ba41f457ab51893b986f4c2fcc81ed4853ff97",
-      "bytes": 166549,
-      "lines": 1296,
+      "sha256": "f59ba51e7017f76a8533ffe5761cbca531d15eebf0d7098bb17ad196a8ced641",
+      "bytes": 166789,
+      "lines": 1298,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6049,6 +6051,7 @@
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
@@ -6526,6 +6529,7 @@
         "verification/positive_experience_witness_gate_test.py",
         "verification/problem_of_time_closed.py",
         "verification/project_inventory.py",
+        "verification/projective_sphere_lorentz_test.py",
         "verification/q1_agreement_stability_gate.py",
         "verification/qpv_causal_records_gate.py",
         "verification/qpv_symmetric_geometry.py",
@@ -6756,12 +6760,12 @@
         404,
         472,
         570,
-        588,
-        656,
-        665,
-        668,
-        671,
-        738
+        589,
+        657,
+        666,
+        669,
+        672,
+        739
       ]
     },
     {
@@ -19260,9 +19264,9 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
-      "sha256": "ab8037c9da3d45a6deee8a124ca95dea318ff048df14fa83b8d0417e380896c7",
-      "bytes": 8762,
-      "lines": 119,
+      "sha256": "058a223ce9e70ac9471f0d3404a9580ff97c3d6acddd629db635c091cd36a214",
+      "bytes": 9120,
+      "lines": 121,
       "title": "From the internal sphere to a Lorentz cone: the next step",
       "headings": [
         "From the internal sphere to a Lorentz cone: the next step",
@@ -19274,12 +19278,15 @@
         "5. A useful limitation: directions do not uniquely select a history",
         "6. Concrete next research step"
       ],
-      "local_links": [],
+      "local_links": [
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md"
+      ],
       "risk_phrase_lines": [
-        70,
+        3,
         72,
-        88,
-        90
+        74,
+        90,
+        92
       ]
     },
     {
@@ -19308,6 +19315,35 @@
         8,
         9,
         26
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
+      "sha256": "8ac504d6f746d27ab26c4fa6d0be45ca53c1fad84d9177bb7af65d9e1c89402c",
+      "bytes": 10752,
+      "lines": 126,
+      "title": "Zero, internal relations and the problem of opposites",
+      "headings": [
+        "Zero, internal relations and the problem of opposites",
+        "Main result",
+        "1. Why the spherical “opposite” needs more than the sphere",
+        "2. Replace opposites of points with two sides of a relation",
+        "3. A nonzero zero-balanced example",
+        "4. Why this does not yet prove experiential cancellation",
+        "5. What follows for zero's own constitution",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        43,
+        67,
+        85,
+        99,
+        106,
+        126
       ]
     },
     {
