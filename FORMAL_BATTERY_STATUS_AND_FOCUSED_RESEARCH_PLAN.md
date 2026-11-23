@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Spherical plenitude and branchwise record balance:** [the symmetric reference construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) assumes a rotation-invariant full-support sphere reference and constructs zero-spin encoded opposite records for every reference direction. It separates exact record-operator zero from averaging and tests a conditional-mean no-signalling obstruction. The reference, physical realization, all-possibilities ontology and actual experiential identification remain assumptions or open demands.
+
 **Autonomous record cycle and subject incidence:** [the clock–record construction](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) embeds the encoded energy-conserving writer in a time-independent periodic Hamiltonian, correlates internal clock labels with recorded and reset states, and tests energy-closed subject candidates. Minimal pairs have zero net energy change; a positive joint clock–work weighting can instead leave a nonzero cycle-integrated current. Actual subjects, felt quality, robust memory, localization and a non-circular whole-level zero are not thereby derived.
 
 **Conserved-energy record dynamics:** [the encoded energy-exchange construction](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) writes three conserved-sphere pointer outcomes into memory using physical spin-zero blocks and Hamiltonian energy transfer from batteries. Opposite energy changes are exact branchwise; commuting pointer flags coexist with noncommuting sharp memory-energy presence and current. Bare energy is positive and conserved, and interpreting memory/battery exchange as actual subject valence or whole-level zero is not derived.

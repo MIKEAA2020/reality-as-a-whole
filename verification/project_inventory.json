@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 685,
-  "bytes": 8603206,
-  "line_count": 77046,
-  "document_count_with_risk_phrases": 638,
+  "document_count": 686,
+  "bytes": 8617450,
+  "line_count": 77207,
+  "document_count_with_risk_phrases": 639,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b6b517d17140a27fec88eab8cdcd14544fb5ce0a310f4b5ea457f4b03348d011",
-      "bytes": 79418,
-      "lines": 323,
+      "sha256": "b0d4dbac42dfb3f246f6887fc8c5455a61cc11786c9136015e62faa62ca50b5d",
+      "bytes": 79962,
+      "lines": 325,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
@@ -5276,55 +5277,56 @@
       "risk_phrase_lines": [
         5,
         7,
-        13,
+        9,
         15,
-        21,
+        17,
         23,
-        27,
+        25,
         29,
         31,
         33,
-        37,
+        35,
         39,
-        43,
-        47,
+        41,
+        45,
         49,
         51,
         53,
         55,
-        63,
-        69,
+        57,
+        65,
         71,
-        75,
-        79,
-        85,
-        103,
-        111,
-        121,
-        137,
+        73,
+        77,
+        81,
+        87,
+        105,
+        113,
+        123,
         139,
-        143,
-        149,
-        159,
+        141,
+        145,
+        151,
         161,
-        179,
+        163,
         181,
-        185,
-        195,
-        199,
-        205,
+        183,
+        187,
+        197,
+        201,
         207,
-        221,
-        225,
-        237,
-        245,
+        209,
+        223,
+        227,
+        239,
         247,
-        251,
-        267,
-        277,
-        294,
-        311,
-        317
+        249,
+        253,
+        269,
+        279,
+        296,
+        313,
+        319
       ]
     },
     {
@@ -5503,9 +5505,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c6e373af6699b6a02575ad6a5630b80b839c5923ae10ba24ffb59965d37488df",
-      "bytes": 174116,
-      "lines": 1351,
+      "sha256": "a15fd17124639e5a0b52859ce17e719d53ce858939da83c3b4ab58ea0778be2b",
+      "bytes": 174408,
+      "lines": 1353,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6089,6 +6091,7 @@
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
+        "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -6799,6 +6802,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
@@ -6854,14 +6858,14 @@
         404,
         472,
         570,
-        603,
-        606,
+        604,
         607,
-        681,
-        690,
-        693,
-        696,
-        764
+        608,
+        682,
+        691,
+        694,
+        697,
+        765
       ]
     },
     {
@@ -19270,9 +19274,9 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
-      "sha256": "63f9db345a28d474a2db6a2bd31533ed2d5e2216605facb318a995b89527d166",
-      "bytes": 13005,
-      "lines": 150,
+      "sha256": "099743ca5403d6090e8536e3ccd0552675a84a84978d8780fe30638d37ab3a1e",
+      "bytes": 13353,
+      "lines": 152,
       "title": "An autonomous zero-spin record cycle and its subject boundary",
       "headings": [
         "An autonomous zero-spin record cycle and its subject boundary",
@@ -19285,22 +19289,23 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md"
       ],
       "risk_phrase_lines": [
-        5,
-        10,
-        15,
-        41,
+        7,
+        12,
+        17,
         43,
-        62,
-        82,
-        88,
+        45,
+        64,
+        84,
         90,
-        96,
-        134,
+        92,
+        98,
         136,
-        150
+        138,
+        152
       ]
     },
     {
@@ -19750,9 +19755,9 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "19cb0cdde7df64e711ca710516885fb9beef6f6aac69a1ffb40d7ffccc7cace4",
-      "bytes": 10694,
-      "lines": 115,
+      "sha256": "fa4ffdcdcfc6ee955e9d53e6f95e3e5e1f4e88ddc2456a6f6746861ea376d53d",
+      "bytes": 11105,
+      "lines": 117,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -19766,14 +19771,15 @@
       ],
       "local_links": [
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
-        "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md"
+        "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
+        "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        69,
-        97,
+        13,
+        71,
         99,
-        109
+        101,
+        111
       ]
     },
     {
@@ -20151,6 +20157,40 @@
         135,
         152,
         162
+      ]
+    },
+    {
+      "path": "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
+      "sha256": "c77b84865bb4b93edd69c6e3299edbe2e33c7270b4be3e0480cb8f9a1588ca09",
+      "bytes": 12649,
+      "lines": 153,
+      "title": "The complete internal sphere and branchwise zero",
+      "headings": [
+        "The complete internal sphere and branchwise zero",
+        "The idea developed",
+        "1. The whole point and its sphere of relations",
+        "2. One reference with all directions as quantum support",
+        "3. An opposite-record Hamiltonian for every direction",
+        "4. Zero holds for each correlated record outcome",
+        "5. Does this capture all possibilities?",
+        "6. A no-signalling test for the experiential bridge"
+      ],
+      "local_links": [
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
+        "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
+        "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        21,
+        34,
+        46,
+        48,
+        100,
+        107,
+        123,
+        142,
+        153
       ]
     },
     {

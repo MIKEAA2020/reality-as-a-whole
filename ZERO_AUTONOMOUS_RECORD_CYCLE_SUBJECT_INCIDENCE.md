@@ -1,5 +1,7 @@
 # An autonomous zero-spin record cycle and its subject boundary
 
+**Spherical symmetry continuation:** [the spherical-reference construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) combines a normalized full-support direction reference with opposite logical records for every direction, distinguishing branchwise record balance from a spherical average and from actual experiential incidence.
+
 ## Result in brief
 
 The preceding [conserved-energy record model](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) used a specified interaction interval to write a memory. This continuation incorporates that same interaction into a **time-independent, closed clock–record Hamiltonian**. A four-phase encoded clock correlates its own states with blank, written, maintained and reset memory states. All blocks remain in physical spin-zero sectors, and each memory–battery pair conserves its bare energy.
