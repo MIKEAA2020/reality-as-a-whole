@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0f4b62cb14f6a3a1d8091cf164773b8f32165fc6",
-  "file_count": 1855,
+  "base_head": "8626cede4ac52120985e0eb1cf03fbe288cfa363",
+  "file_count": 1857,
   "files": [
     {
       "path": ".gitattributes",
@@ -674,14 +674,19 @@
       "sha256": "6d098d1f1f1082c565984f02c8ca0ce1d8ab9826e4faccecd3b6b84a5b23e6c6"
     },
     {
+      "path": "EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md",
+      "bytes": 11021,
+      "sha256": "179beb4510e33804b37cb612493c38f7c4d1915f01d2b3f05a866de7d825b33f"
+    },
+    {
       "path": "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
       "bytes": 9549,
       "sha256": "c12e672e7b5cf0ba3a640c35598d6c8f6556ef72af4982ce52d9b62d9b77e3a1"
     },
     {
       "path": "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
-      "bytes": 13076,
-      "sha256": "c26ffa8140d2221eca9ae92ebd74b2c738837697ea228f1b6765aa8b4fa5b55a"
+      "bytes": 13380,
+      "sha256": "b6c4fbd2164ea752eb331714c8ef2ea910e2302fb022065ed81fec8b982b0cae"
     },
     {
       "path": "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
@@ -775,8 +780,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 52366,
-      "sha256": "d4b71c2e33d5204a6cb9ec1c0d31e14bf2e78065c9dc93ed6ff87fd2850a0e59"
+      "bytes": 52675,
+      "sha256": "e994bf9296e1fde133382011e82084177cd5e4654817378cf7ae3d14db967649"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -810,8 +815,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 156986,
-      "sha256": "353ab86bb294d1b7279f6af805e31b5bb8013059c7bb02b2d751ef988778da37"
+      "bytes": 157276,
+      "sha256": "e62d2d08296040b998b4ef3cfedef2d741fac883b0899f028b45af97826e2291"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5424,6 +5429,11 @@
       "sha256": "5a036e0cbd11e3f0b5104894b788790699c068b40adaf028961c9bf8075c38f5"
     },
     {
+      "path": "verification/experiential_polarity_calibration_test.py",
+      "bytes": 2651,
+      "sha256": "ca3abcae6f55f5d9ba3e562eb734f6609f215c6875180c2aed2193ab9e705720"
+    },
+    {
       "path": "verification/experiential_zero_candidate_test.py",
       "bytes": 2216,
       "sha256": "e96ff88b93b45c291987a91cd879a36ae238108c5efe5be67d500756fa86ef59"
@@ -7190,8 +7200,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 775525,
-      "sha256": "61516c62b1b81f2e8626404cd614807930ca4067ff7786dc2b0bd9ccefcc7ada"
+      "bytes": 776759,
+      "sha256": "6262517d89a9b717cd6b7f1f6a1f5fbf197b05d570ac6df00a2810607e1bec96"
     },
     {
       "path": "verification/project_inventory.py",

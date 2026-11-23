@@ -2,6 +2,8 @@
 
 ## The candidate
 
+**Calibration continuation:** [intrinsic experiential polarity](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md) derives a unique linear odd quantity up to scale from a specified polarity relation, and examines whether that relation is independently justified or merely moves the calibration assumption.
+
 The user asks whether suffering could be **negative experience**, and agrees with pursuing relational or emergent time. The constructive candidate explored here is:
 
 > Real experiences have intrinsically positive, negative, neutral or mixed qualitative character. Their appropriately defined contributions to a whole-level experiential quantity balance to zero. Suffering is real negative character within that whole; it is not the nonexistence of experience. The whole's zero, its experienced differences and their relations would ultimately be one self-subsistent constitution rather than separate externally imposed facts.

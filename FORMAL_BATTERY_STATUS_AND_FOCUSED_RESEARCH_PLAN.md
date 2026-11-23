@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [experiential polarity calibration argument](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md) derives a unique linear odd contribution, up to scale, from a specified positive/negative polarity map; the map already encodes relative calibration, and its experiential reality and whole symmetry remain open.
+
 The [experiential-zero candidate](EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md) models positive, negative, neutral and mixed contributions without cancelling actual suffering, identifies the common-scale requirement, and tests a limited local energy identification. Its experiential quantities and global zero remain hypotheses, not foundation-battery passes.
 
 The [updated experience, energy and time chat audit](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) records the user's correction to experience rather than awareness, derives a conditional signed-cancellation result, checks the 30% Newtonian estimate, and distinguishes relational clocks from physical preferred foliations. No general global-energy or experiential-constitution result follows.
