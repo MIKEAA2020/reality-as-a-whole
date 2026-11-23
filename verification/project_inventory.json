@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 643,
-  "bytes": 8015243,
-  "line_count": 70853,
-  "document_count_with_risk_phrases": 596,
+  "document_count": 644,
+  "bytes": 8030474,
+  "line_count": 71006,
+  "document_count_with_risk_phrases": 597,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8acdf54da60aafa9255f51720e2b56cdfe60c70cefac22d7a4e5c3731124f799",
-      "bytes": 58367,
-      "lines": 247,
+      "sha256": "54232fffaa4ab7f01a5779c78fcec0375306abb753da802bd95727bae4067a47",
+      "bytes": 58719,
+      "lines": 249,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -5231,34 +5232,35 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        27,
-        35,
-        45,
-        61,
+        5,
+        11,
+        29,
+        37,
+        47,
         63,
-        67,
-        73,
-        83,
+        65,
+        69,
+        75,
         85,
-        103,
+        87,
         105,
-        109,
-        119,
-        123,
-        129,
+        107,
+        111,
+        121,
+        125,
         131,
-        145,
-        149,
-        161,
-        169,
+        133,
+        147,
+        151,
+        163,
         171,
-        175,
-        191,
-        201,
-        218,
-        235,
-        241
+        173,
+        177,
+        193,
+        203,
+        220,
+        237,
+        243
       ]
     },
     {
@@ -5437,9 +5439,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "035421dface534dffca80bb26d98c510dd94bc229da1ec0a6871b29fa42d9eb0",
-      "bytes": 161513,
-      "lines": 1256,
+      "sha256": "bf9202ec49b0e886311e52712f6ef571711711fcfd53bb99043718b494bd7445",
+      "bytes": 161794,
+      "lines": 1258,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6027,6 +6029,7 @@
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
+        "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
@@ -6262,6 +6265,7 @@
         "verification/experiential_equivalence_incidence_test.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/experiential_mismatch_transport_gate.py",
+        "verification/experiential_one_form_loop_test.py",
         "verification/experiential_polarity_calibration_test.py",
         "verification/experiential_relational_scale_test.py",
         "verification/experiential_score_invariant_test.py",
@@ -6694,11 +6698,11 @@
         472,
         570,
         585,
-        640,
-        649,
-        652,
-        655,
-        722
+        641,
+        650,
+        653,
+        656,
+        723
       ]
     },
     {
@@ -11723,9 +11727,9 @@
     },
     {
       "path": "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
-      "sha256": "a429078af5e52d0317b0c1bd8a76365a9f544c77e4a1db0fde3ba32dddff1394",
-      "bytes": 11988,
-      "lines": 113,
+      "sha256": "ba0ba34700abcd0fc7ad6d81a293ac4e30d0c3e3d7e308a2230b2d0f17c462a5",
+      "bytes": 12392,
+      "lines": 117,
       "title": "Can adaptation explain experiential balance without tuning?",
       "headings": [
         "Can adaptation explain experiential balance without tuning?",
@@ -11740,6 +11744,7 @@
       "local_links": [
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
@@ -11748,7 +11753,8 @@
         51,
         98,
         105,
-        107
+        107,
+        111
       ]
     },
     {
@@ -19217,6 +19223,48 @@
         45,
         83,
         87
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
+      "sha256": "b3da41abc71747fa12ae557918fa3188d94f3ee42af4829dd18e7f0f78cf311b",
+      "bytes": 14194,
+      "lines": 145,
+      "title": "Could an internal relation determine experiential balance?",
+      "headings": [
+        "Could an internal relation determine experiential balance?",
+        "Constructive result",
+        "1. From an internal state to an exact contribution",
+        "2. Two nonzero histories, one exact combined relation",
+        "3. Return and sign reversal are not enough",
+        "4. Where this could advance the foundational proposal",
+        "5. Potential empirical discrimination",
+        "Verification"
+      ],
+      "local_links": [
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
+        "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        39,
+        41,
+        54,
+        68,
+        88,
+        106,
+        108,
+        124,
+        128,
+        133,
+        139,
+        143
       ]
     },
     {

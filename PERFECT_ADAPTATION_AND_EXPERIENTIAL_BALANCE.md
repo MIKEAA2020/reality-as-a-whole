@@ -106,6 +106,10 @@ Extend the earlier ethically constrained research design with independently cali
 
 Even good restricted predictive performance would support only the relevant conditional mapping and domain; it could not prove global zero or complete intelligibility. The positive payoff is a precise bridge to investigate: **independently motivated adaptation plus an independently validated linear experiential map** would yield a balance condition, while the nonlinear control shows exactly where the inference could break.
 
+## Relational-state continuation
+
+The [one-form and loop balance candidate](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) investigates when a combined signed contribution can be an exact differential of an internal state. It constructs nonzero, opposite subject-history totals with an exact combined form, and identifies path-dependence, topology, clock and experiential-identity conditions.
+
 ## Verification
 
 Run `python -m unittest verification.perfect_adaptation_balance_test -v`. The tests check step adaptation, finite-pulse area for distinct waveforms, a partial-adaptation control, the nonintegrable step boundary, and the nonlinear counterexample. They verify the stated models only, not biological data, actual phenomenal measurement or metaphysical necessity.

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [experiential one-form and loop continuation](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) explores a combined exact internal relation that balances two nonzero subject-history totals, and checks nonexact circulation and topology. The actual experiential mapping, incidence, closed boundary, scale and self-subsistent law remain open.
+
 The [perfect-adaptation and experiential-balance continuation](PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md) derives zero pulse area from step adaptation in stable linear time-invariant models, and constructs a nonlinear adapting counterexample with opposite phases but nonzero area. An independent experiential mapping and the whole's constitution remain open.
 
 The [pain, relief and opponent-process continuation](PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md) examines evidence for positively felt relief, distinguishes measurement scales and context, and demonstrates that opponent reversal and relaxation need not yield equal integrated areas. Its proposed ethical research design tests restricted mappings, not whole-level necessity.
