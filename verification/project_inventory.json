@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 665,
-  "bytes": 8335645,
-  "line_count": 74080,
-  "document_count_with_risk_phrases": 617,
+  "document_count": 666,
+  "bytes": 8347084,
+  "line_count": 74224,
+  "document_count_with_risk_phrases": 618,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "ee53c0386b125f370e3ac84371cfd056ffc15d2a46f55e95c645e0aeab48ee8f",
-      "bytes": 67810,
-      "lines": 283,
+      "sha256": "1360b423329fbbf80b8e8aa73b4a28612815afd01c95f9b3a170d4460021801f",
+      "bytes": 68149,
+      "lines": 285,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -5254,44 +5255,44 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
         11,
         13,
         15,
-        23,
-        29,
+        17,
+        25,
         31,
-        35,
-        39,
-        45,
-        63,
-        71,
-        81,
-        97,
+        33,
+        37,
+        41,
+        47,
+        65,
+        73,
+        83,
         99,
-        103,
-        109,
-        119,
+        101,
+        105,
+        111,
         121,
-        139,
+        123,
         141,
-        145,
-        155,
-        159,
-        165,
+        143,
+        147,
+        157,
+        161,
         167,
-        181,
-        185,
-        197,
-        205,
+        169,
+        183,
+        187,
+        199,
         207,
-        211,
-        227,
-        237,
-        254,
-        271,
-        277
+        209,
+        213,
+        229,
+        239,
+        256,
+        273,
+        279
       ]
     },
     {
@@ -5470,9 +5471,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "73a734d5fd421e86b20fbb56d1c645a2a1e2ad00cce40a325aee45144275973f",
-      "bytes": 168105,
-      "lines": 1308,
+      "sha256": "c599617169747fb7bdae78a2fbafd94834bdee9a3e8bc844ac6f927d3badece2",
+      "bytes": 168415,
+      "lines": 1310,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6060,6 +6061,7 @@
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
@@ -6753,6 +6755,7 @@
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
+        "verification/zero_sphere_intrinsic_orientation_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6778,14 +6781,14 @@
         404,
         472,
         570,
-        590,
         591,
         592,
-        661,
-        670,
-        673,
-        676,
-        743
+        593,
+        662,
+        671,
+        674,
+        677,
+        744
       ]
     },
     {
@@ -19314,9 +19317,9 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
-      "sha256": "9b934f3af2bff0ded9f1e26ab75925c05f57b0474b3e36c98148d4dc8955c27b",
-      "bytes": 11669,
-      "lines": 116,
+      "sha256": "5d6913afabd92a41440946aea4935e2b35fbbf223213b0b6dffc4431896b8078",
+      "bytes": 12015,
+      "lines": 118,
       "title": "Zero's internal sphere: a direct test of physical and experiential constitution",
       "headings": [
         "Zero's internal sphere: a direct test of physical and experiential constitution",
@@ -19329,12 +19332,13 @@
         "6. A sharper formulation of the research target"
       ],
       "local_links": [
+        "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        25,
-        96
+        9,
+        27,
+        98
       ]
     },
     {
@@ -19493,6 +19497,32 @@
         101,
         108,
         128
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
+      "sha256": "656059b029cb8d50b73292be5d7bcd5fdb75fd82ad458bf35bbdc340d0961aff",
+      "bytes": 10444,
+      "lines": 138,
+      "title": "A relative sign on the internal sphere without absolute handedness",
+      "headings": [
+        "A relative sign on the internal sphere without absolute handedness",
+        "Result",
+        "1. Same side or opposite side is relational",
+        "2. An explicit smooth invariant",
+        "3. The same relation directly in Lorentzian physics",
+        "4. What counts as a real distinction?",
+        "5. The remaining physical–experiential identity",
+        "6. Why this matters for the user's zero proposal"
+      ],
+      "local_links": [
+        "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        39,
+        47,
+        87,
+        138
       ]
     },
     {

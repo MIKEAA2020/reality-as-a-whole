@@ -4,6 +4,8 @@
 
 **User correction and priority:** the zero-or-infinity argument was already given in [the source conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt) at line 2082. The user considers the case against infinity settled and directs the programme to construct the actual framework and solve physics, not reopen that comparison. Retain the full no-residue demand, the correction to experience rather than awareness, and the distinction between a whole-level quantity and reality itself being a quantity.
 
+The [relative subject-orientation continuation](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) constructs a Lorentz- and parity-invariant same/opposite-side sign from three reference rays and two test rays, including a mixed-Gram expression. The physical grouping, actual subject, experiential mapping and global incidence remain unproved.
+
 The [intrinsic sign and constitution test](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) proves that, under the assumed projective Lorentz action, up to three distinct rays alone admit no nonconstant invariant, and constructs an alternating four-ray signed invariant. Role distinctions, the phenomenal identity, physical dynamics and the actual measure remain unproved; mathematical label permutations do not create experiences.
 
 The [asymmetrical closed-exchange continuation](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) gives an exact autonomous positive-energy example with zero integrated exchange and a 2/3 negative-time fraction, subject to a stipulated incidence/valence interpretation. Selecting the complementary positive-energy component reverses the signs; no actual subject or global zero is derived.

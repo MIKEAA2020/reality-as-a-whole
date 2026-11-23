@@ -1,5 +1,7 @@
 # Zero's internal sphere: a direct test of physical and experiential constitution
 
+**Continuation:** [relative subject orientation](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) constructs a parity-even, frame-independent sign from a grouped five-direction configuration, invariant under permutations within its reference and test roles. The grouping, actual subject, phenomenal identity and global balance remain to be derived.
+
 ## Why this is the next foundational step
 
 The target remains the user's stronger thesis: **zero's own constitution determines actual physical organization, real subjects and their felt character**, without an external creator or unexplained independent remainder. A global zero equation or a drawing of a point and sphere cannot by itself establish that thesis.

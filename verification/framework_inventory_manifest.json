@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "18ed6207af4e931152ae291b624577efec5d13cc",
-  "file_count": 1946,
+  "base_head": "7b3db32d3cec61173d6b73afc250409b6f898b60",
+  "file_count": 1949,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 67810,
-      "sha256": "ee53c0386b125f370e3ac84371cfd056ffc15d2a46f55e95c645e0aeab48ee8f"
+      "bytes": 68149,
+      "sha256": "1360b423329fbbf80b8e8aa73b4a28612815afd01c95f9b3a170d4460021801f"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 168415,
-      "sha256": "c599617169747fb7bdae78a2fbafd94834bdee9a3e8bc844ac6f927d3badece2"
+      "bytes": 168795,
+      "sha256": "07254c2cf74578755a511dfc19eb51b7e21ef130b6646ea00b9e65992fdf08fd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2890,8 +2890,8 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
-      "bytes": 11669,
-      "sha256": "9b934f3af2bff0ded9f1e26ab75925c05f57b0474b3e36c98148d4dc8955c27b"
+      "bytes": 12015,
+      "sha256": "5d6913afabd92a41440946aea4935e2b35fbbf223213b0b6dffc4431896b8078"
     },
     {
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
@@ -2917,6 +2917,11 @@
       "path": "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
       "bytes": 11156,
       "sha256": "403ef6a2d94d3d1096f2f617465fd7e878208f2eaaed0ee868d5916cec677cfe"
+    },
+    {
+      "path": "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
+      "bytes": 10444,
+      "sha256": "656059b029cb8d50b73292be5d7bcd5fdb75fd82ad458bf35bbdc340d0961aff"
     },
     {
       "path": "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -7545,8 +7550,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 827785,
-      "sha256": "a39e3b5f7db6d97853102db8fd939746f2a9fd4f8e9b0d031b3fd66d5cfa749c"
+      "bytes": 828947,
+      "sha256": "85b4bef75ece2ff733b45624de16636006a4441662fa3c0f5a1703704e1aad7d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9662,6 +9667,16 @@
       "path": "verification/zero_sphere_intrinsic_orientation_test.py",
       "bytes": 3032,
       "sha256": "3cf827c0595a21116e906ba674eed889dd754d283c6e33d2399f73ff5b1498e4"
+    },
+    {
+      "path": "verification/zero_sphere_relative_orientation.py",
+      "bytes": 1606,
+      "sha256": "7466e690cd6312dee21b039c78314e7b745a99e2b799c7470b5fd596d22103ea"
+    },
+    {
+      "path": "verification/zero_sphere_relative_orientation_test.py",
+      "bytes": 3545,
+      "sha256": "dbe8f9c5e3f19043eb04370286e1edee9bc2668e4ef264697ec6e5edc003be8a"
     },
     {
       "path": "verification/zero_total_flrw_constraint_test.py",
