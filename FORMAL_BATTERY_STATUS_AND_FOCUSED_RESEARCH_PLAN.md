@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [relational-symmetry investigation](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) derives zero charge and nontrivial relational dynamics from a specified zero-generator constraint, and compares source-permitting levels with the same gauge transformations. The physical level, energy interpretation and experiential constitution are not derived.
+
 The [intrinsic relational accounting argument](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) derives global zero and regional boundary accounting from an explicit interface-only principle, but shows that freely chosen interface values can merely re-express an assumed zero sum. Its physical and experiential identity remains unproved.
 
 The [experience-to-zero-constitution continuation](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) derives necessary internal experiential contrast from an actual contrast and explicitly stated modal and whole premises, but does not derive its qualitative constitution from the zero total.

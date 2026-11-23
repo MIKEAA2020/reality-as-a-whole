@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 620,
-  "bytes": 7721068,
-  "line_count": 68124,
-  "document_count_with_risk_phrases": 573,
+  "document_count": 621,
+  "bytes": 7733489,
+  "line_count": 68254,
+  "document_count_with_risk_phrases": 574,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d0b80bdc4497acddd3f9a5248a18775bb5a148f24fd0ff50c568f413ca7fdbc2",
-      "bytes": 49878,
-      "lines": 201,
+      "sha256": "026982297a0b85e65eaea3fe1ea8ee7abeba30e67578e8e336dc49a95acbf726",
+      "bytes": 50227,
+      "lines": 203,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
@@ -4987,30 +4988,30 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        15,
         17,
-        21,
-        27,
-        37,
+        19,
+        23,
+        29,
         39,
-        57,
+        41,
         59,
-        63,
-        73,
-        77,
-        83,
+        61,
+        65,
+        75,
+        79,
         85,
-        99,
-        103,
-        115,
-        123,
+        87,
+        101,
+        105,
+        117,
         125,
-        129,
-        145,
-        155,
-        172,
-        189,
-        195
+        127,
+        131,
+        147,
+        157,
+        174,
+        191,
+        197
       ]
     },
     {
@@ -5189,9 +5190,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1c404c68eeff1bcf9ec5a46ad55d203c37dcd3d48f27ee4637216ba085eb26e7",
-      "bytes": 155254,
-      "lines": 1212,
+      "sha256": "ce475404e7c45c79511069767f00ae32e402a9323010550b8878a755fbd5be41",
+      "bytes": 155410,
+      "lines": 1213,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5765,6 +5766,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -6402,11 +6404,11 @@
         461,
         558,
         573,
-        616,
-        625,
-        628,
-        631,
-        697
+        617,
+        626,
+        629,
+        632,
+        698
       ]
     },
     {
@@ -18712,10 +18714,43 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
+      "sha256": "5eaf0e01d7c33c0d76277a1f2729b88332c59036ec0a24867eae78271b2c689a",
+      "bytes": 11605,
+      "lines": 125,
+      "title": "Can relational symmetry explain a zero total?",
+      "headings": [
+        "Can relational symmetry explain a zero total?",
+        "Result",
+        "1. The relational principle, stated independently of the total",
+        "2. A nontrivial relational example",
+        "3. The decisive objection: identical symmetry, different levels",
+        "4. What actually distinguishes the two accounts?",
+        "5. What this does and does not say about energy and experience",
+        "6. Conclusion"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        50,
+        79,
+        99,
+        109,
+        113,
+        123
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
-      "sha256": "faeba428f03fe89d781da66c519ef192106fd342a30a38b8a267e59fc4fb6ad3",
-      "bytes": 14196,
-      "lines": 104,
+      "sha256": "cad191ecc75d1df15178c7c3b44d9d2151a7f04a6641d6f64fb86a8c201b9192",
+      "bytes": 14507,
+      "lines": 106,
       "title": "Zero-totality as intrinsic relational accounting",
       "headings": [
         "Zero-totality as intrinsic relational accounting",
@@ -18728,6 +18763,7 @@
         "6. Status and the next decisive investigation"
       ],
       "local_links": [
+        "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
@@ -18736,14 +18772,14 @@
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        29,
-        44,
+        13,
+        31,
         46,
-        59,
-        77,
-        92
+        48,
+        61,
+        79,
+        94
       ]
     },
     {

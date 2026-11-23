@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 577 root Markdown documents including this register; 43 research Markdown documents.
+- 578 root Markdown documents including this register; 43 research Markdown documents.
 - 59 original uploaded files, including provenance metadata; 501 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -572,6 +572,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
+- [ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) — Can relational symmetry explain a zero total?
 - [ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) — Zero-totality as intrinsic relational accounting
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?

@@ -2,6 +2,8 @@
 
 ## A concrete principle to investigate
 
+**Continuation:** [relational frame symmetry and the zero-generator principle](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) derives this accounting law in a specified constrained system, compares an identical-symmetry family with shifted levels, and identifies what local observations could discriminate them.
+
 The [previous continuation](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) left a precise challenge: find an intelligible principle that connects zero, real internal differentiation and experience without placing a creator or an unexplained selector outside the whole. Here is a constructive candidate:
 
 > **Intrinsic relational accounting:** the relevant global quantity expresses only contributions arising from relations *within* the whole. For any region, its net contribution is entirely accounted for by its interfaces with the rest of the whole; internal interfaces have opposite orientations on their two sides. There is no additional independent, unbalanced contribution to that quantity.
