@@ -1,5 +1,7 @@
 # Four connections: confinement, unchanged realm-time, coherence and experience
 
+**Relational-history continuation:** [a clocked confined-realm history](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) embeds the phase family in one stationary five-clock state, compares two synchronized clock factors and two alternative readouts, and shows that the same zero constraint admits an orthogonal history. No actual experiencer, preferred time or whole-level energy zero is established.
+
 ## Why this continuation
 
 The user asked whether all four proposed connections had actually been pursued and corrected a recurring mistake: **during the room journey, the traveler’s surface position remains A in the surface description, then becomes B on return.** The traveler is analogous to the player, not to a piece or surface inhabitant. There is no interaction required to keep the game’s half-move count fixed while the player thinks: thinking is not a half-move.

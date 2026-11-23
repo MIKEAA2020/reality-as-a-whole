@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Confined-realm relational history:** [the clock comparison](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) embeds the phase family in a stationary zero-constraint history, verifies an unchanged confined state, two synchronized clocks and readout controls, and exhibits a distinct orthogonal history under the same constraint. Actual experiencers and a uniquely necessary history are not derived.
+
 **Four realm connections:** [confinement, coherence and experience](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) connects an unchanged restricted state to continuously varying quantum correlations, a dephasing control and two explicit experiential hypotheses. The corrected A-until-B rule requires no holding interaction; neither experiential sequence, actual subject nor emergent spacetime is derived.
 
 **Realm–sphere incidence theorem:** [the common-state analysis](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) exhibits identical candidate-subsystem states with opposite sharp record–current correlations, and proves that nontrivial pairwise zero for both signs, a common response and fixed positive incidence force oddness and equal weights. Pairwise balance, actual subjects and the experience map remain conditional, not derived from global zero.
