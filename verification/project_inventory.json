@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 623,
-  "bytes": 7758530,
-  "line_count": 68476,
-  "document_count_with_risk_phrases": 576,
+  "document_count": 624,
+  "bytes": 7770575,
+  "line_count": 68569,
+  "document_count_with_risk_phrases": 577,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "66e6514a4bb860588d272cd4127c38db8192815aaed20d482e83d5adace38949",
-      "bytes": 50909,
-      "lines": 207,
+      "sha256": "cdcbcdfff83d1779e01bb145e22a6ba8a91082734d52204a87e4cdf95a57a24e",
+      "bytes": 51264,
+      "lines": 209,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
@@ -4990,31 +4991,31 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        21,
+        7,
         23,
-        27,
-        33,
-        43,
+        25,
+        29,
+        35,
         45,
-        63,
+        47,
         65,
-        69,
-        79,
-        83,
-        89,
+        67,
+        71,
+        81,
+        85,
         91,
-        105,
-        109,
-        121,
-        129,
+        93,
+        107,
+        111,
+        123,
         131,
-        135,
-        151,
-        161,
-        178,
-        195,
-        201
+        133,
+        137,
+        153,
+        163,
+        180,
+        197,
+        203
       ]
     },
     {
@@ -5193,9 +5194,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d9e3a34e52db777877d95b05dc2cf4570a8c95a94b16141839e486c4312311de",
-      "bytes": 155710,
-      "lines": 1215,
+      "sha256": "d18b8becd1c73a7d5a11994738fe00f11ac3c313de977719ea5d6cbe623ef4a5",
+      "bytes": 155850,
+      "lines": 1216,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5773,6 +5774,7 @@
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
@@ -6409,11 +6411,11 @@
         461,
         558,
         573,
-        619,
-        628,
-        631,
-        634,
-        700
+        620,
+        629,
+        632,
+        635,
+        701
       ]
     },
     {
@@ -18790,6 +18792,35 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
+      "sha256": "91f9aa8bd4176adc0fc14eff3661bf22aff8b30f29e471c6245ba6c37152ae40",
+      "bytes": 11282,
+      "lines": 88,
+      "title": "Can possibility-as-actuality make the whole symmetric?",
+      "headings": [
+        "Can possibility-as-actuality make the whole symmetric?",
+        "The constructive result",
+        "1. Direct proof for a global quantity",
+        "2. From a transformed complete whole to actual-whole symmetry",
+        "3. The load-bearing question: why is the reversal genuinely possible?",
+        "4. Why local plenitude is not the same proof",
+        "5. What the route achieves—and what it must not be used to claim",
+        "6. Next direct inquiry"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
+        "PLENITUDE_TRUTHMAKER_RELEVANCE_GATE.md",
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        82
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
       "sha256": "443ecdbff6339066cabf77e2f8c3874b8472c0e8a4f439604934960ae4232d06",
       "bytes": 14392,
@@ -18857,9 +18888,9 @@
     },
     {
       "path": "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
-      "sha256": "a109578ddd6e6279b282d65f848ceac4b52ebc946c37a232f04e3160c20f009b",
-      "bytes": 11733,
-      "lines": 106,
+      "sha256": "8476d02043124fa8cb4faf5a72208bfc801d94d46646eecae51d606544243e45",
+      "bytes": 12001,
+      "lines": 108,
       "title": "Can the actual whole force its own zero total?",
       "headings": [
         "Can the actual whole force its own zero total?",
@@ -18872,6 +18903,7 @@
         "6. Comparison and status"
       ],
       "local_links": [
+        "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
@@ -18880,9 +18912,9 @@
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        99,
-        102
+        7,
+        101,
+        104
       ]
     },
     {

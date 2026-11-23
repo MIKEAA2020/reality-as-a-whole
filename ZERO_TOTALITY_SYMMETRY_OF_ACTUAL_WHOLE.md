@@ -2,6 +2,8 @@
 
 ## The proposed route
 
+**Modal continuation:** [possibility–actuality and global reversal](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) derives zero from genuine global sign-reversal possibility and an explicitly global actuality principle, and distinguishes that bridge from local plenitude.
+
 The [last investigation](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) obtained zero from sign symmetry plus a unique admissible constraint level. That leaves an awkward question: why should there be only one level? A whole-first proposal can bypass that particular assumption:
 
 > If sign reversal is an intrinsic symmetry **of the actual whole itself**, and a well-defined global quantity changes sign under it, then the whole's value of that quantity is zero.
