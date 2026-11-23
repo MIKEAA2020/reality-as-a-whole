@@ -2,6 +2,8 @@
 
 ## The question and the result
 
+**Causal continuation:** [relaxation and boundary balance](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) derives zero for a specified stable, retarded response to a finite pulse and gives a coupled example with nonzero individual but zero combined history integrals.
+
 The [actual-history candidate](RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md) achieved a conditional zero using whole-domain means. Does that require an action-at-a-distance, or could the balance arise from local relations instead?
 
 A constructive alternative is possible **within a specified model**: replace the global mean coupling with local reciprocal interactions. Their internal contributions cancel when summed, leaving an exact zero under a stationarity and no-source condition. A local continuum analogue also gives zero **only if the net boundary contribution vanishes**. Neither result follows merely from saying the whole is closed, and neither identifies the resulting signed field with experience.

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e20641e9801f7b48b08a9f1828f69c7aabb6c4c3",
-  "file_count": 1881,
+  "base_head": "0bae286da49b06882aed2c1f87e94c54a9b13d6d",
+  "file_count": 1883,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 57216,
-      "sha256": "c7c183b80475b70d48675f40a26fad3390b005b0e6f9e4555bb5fb8b96e82401"
+      "bytes": 57616,
+      "sha256": "223bb42449734bf48e03e72bbb4050b8e7f65f1dc1549e30bddc558632a5786f"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 160726,
-      "sha256": "473a5502441db183a06d4906102ffb3801c3962053d9a0fe9d34c377ae5f95a1"
+      "bytes": 160985,
+      "sha256": "ad5abd01ece1483547320dd18cabcdee97b79da002d1325acee97bcbd8b3f6cb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2864,6 +2864,11 @@
       "sha256": "c044587a2049f41fa9b986b4aa0a9323a2848da0b6b20f8959c20608f75b1f28"
     },
     {
+      "path": "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+      "bytes": 9914,
+      "sha256": "e7d94e925255589299d4a899132fab54172b4d5382489187123dfbb63d02654d"
+    },
+    {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
       "bytes": 15636,
       "sha256": "588e012c2317a706cc13012e17c548db6306f5a9dcaea6af0d09cd6e297d2c7e"
@@ -2900,8 +2905,8 @@
     },
     {
       "path": "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
-      "bytes": 12180,
-      "sha256": "183ed9539fba0c97eee4aa39d00a0ca26dcf235ca0fd44cd3170d6b63d726bbe"
+      "bytes": 12451,
+      "sha256": "9ff1a22bfea3ed63a6c4e86c6a44c667225cdd83ddd96a08c2994564858eef21"
     },
     {
       "path": "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
@@ -4892,6 +4897,11 @@
       "path": "verification/causal_record_lineage.py",
       "bytes": 7858,
       "sha256": "e1d24dd43e713bb1845a698ea4990f6f1865f10892bd120fc4ab87664fafec6a"
+    },
+    {
+      "path": "verification/causal_relaxation_zero_test.py",
+      "bytes": 3682,
+      "sha256": "923c6e871cb6af8c95edb59a900c07bd63e151d67b9aeb0b5b7a5e54721c7f6c"
     },
     {
       "path": "verification/chalmers_structural_alternatives.json",
@@ -7300,8 +7310,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 793812,
-      "sha256": "10b2e762fbbf9164926dc6e0535e2dac484dca1d3bae96c6c04140f3f550b4f0"
+      "bytes": 795157,
+      "sha256": "7ccd5697e0599221656b9c78fe443fc769cd1ec51dcd7310c836ed0585092096"
     },
     {
       "path": "verification/project_inventory.py",

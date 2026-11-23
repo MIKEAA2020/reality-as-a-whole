@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 597 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 517 verification Python scripts.
+- 598 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 518 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -581,6 +581,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
+- [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
 - [ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) — When does a symmetry preserve actual experience?
 - [ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md](ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md) — A physical zero-constraint route: what it gives and what it does not
@@ -762,6 +763,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cardiac_pain_xml_crosscheck.py](verification/cardiac_pain_xml_crosscheck.py)
 - [verification/causal_influence_subject_gate.py](verification/causal_influence_subject_gate.py)
 - [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
+- [verification/causal_relaxation_zero_test.py](verification/causal_relaxation_zero_test.py)
 - [verification/chalmers_structural_alternatives.py](verification/chalmers_structural_alternatives.py)
 - [verification/chalmers_structural_alternatives_test.py](verification/chalmers_structural_alternatives_test.py)
 - [verification/chemotaxis_integral_feedback_example.py](verification/chemotaxis_integral_feedback_example.py)
