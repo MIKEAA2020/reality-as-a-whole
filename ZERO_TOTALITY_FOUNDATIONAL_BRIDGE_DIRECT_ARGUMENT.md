@@ -112,6 +112,60 @@ so the absolute integral is zero and `v=0` almost everywhere. These assumptions 
 
 The upshot is constructive: a genuine scaling route must show **how an invariant whole supports actual differentiated experiences without forcing the intensity field to vanish**. That is a sharper requirement than saying zero is the only scale-independent number. It also prevents mistaking a passive change of units for an explanation.
 
+### Follow-through: scale the imbalance, not the local differences
+
+There is a precise way around the preceding **pointwise** scaling obstruction. Consider a finite actual-incidence candidate with signed local values `q_i` and independently fixed positive weights `w_i`. Write
+
+```text
+Q = sum_i w_i q_i,      W = sum_i w_i > 0,
+S_c(q)_i = q_i + (c-1) Q/W,       c>0.
+```
+
+The map acts on the common imbalance mode, not by multiplying every local value by c. It obeys
+
+```text
+Q(S_c(q)) = c Q(q),
+S_c(q)_i - S_c(q)_j = q_i - q_j,
+S_c(S_d(q)) = S_(cd)(q).
+```
+
+If the **actual complete constitution** is fixed by this transformation for any `c!=1`, then `Q=0`, but q need not vanish. For instance `q=(2,-1,-1)` with unit weights is fixed for every c and contains both signs. This is a direct constructive answer to one problem raised above: a transformation can scale the whole's imbalance while preserving the real mathematical local differences. The previous theorem that every local intensity vanishes does not apply, because its pointwise scaling premise is absent here.
+
+These formulas use one finite common-scale representation and do not establish that the entries are subjects or felt valences. A shared parameter or simultaneous slice is not intended: the indices could label a specified finite set of actual incidences across a relational history. The proposed active transformation acts on the complete configuration, not a change of units. Nothing yet shows it to be a physical symmetry or its fixed configurations to be the actual whole.
+
+### Does this explain zero, or simply disguise it?
+
+Here is the decisive test. For **any** real level `ell`, define
+
+```text
+S_(c,ell)(q)_i = q_i + (c-1)(Q-ell)/W.
+```
+
+This equally well forms a positive scaling group; it preserves the same pairwise differences and satisfies
+
+```text
+Q(S_(c,ell)(q)) - ell = c (Q(q)-ell).
+```
+
+Its fixed configurations have `Q=ell`, not necessarily zero. Choosing the center `ell=0` is exactly what makes the first transformation select zero. Thus the mathematical construction can be manufactured around *any* chosen total; its existence alone provides no independent reason for zero. This is not evidence that a nonzero whole meets the no-residue demand. It exposes the burden on a positive zero argument: **derive the zero-centered transformation and its physical fixedness independently from the proposed constitution**, with an objectively meaningful zero.
+
+Even covariance of a plausible-looking law does not by itself choose the center. For equal weights, take a finite symmetric graph Laplacian L and the formal dynamics `dq/dt=-Lq`. Since `L 1=0` and `sum_i (Lq)_i=0`, the same dynamics is equivariant under **every** `S_(c,ell)` and preserves each value of Q. Selecting one actual fixed level remains an additional condition. The parameter t is only a declared ordering parameter, not an external fundamental time; the model also does not establish a closed physical energy or experience account.
+
+This strengthens the earlier [shifted-level gauge comparison](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md): preserving differences, allowing nontrivial dynamics and imposing no preferred *location* do not by themselves make the neutral level physically necessary. The two examples use different transformations, so their sectors should not be identified without further argument.
+
+### What remains at the zero level
+
+Even if the zero-centered symmetry were independently warranted and the actual whole were fixed, it would determine only the **level**, not the entire internal experiential organization. For three unit weights, both
+
+```text
+q_A = (2,-1,-1)/sqrt(3),
+q_B = (3,-2,-1)/sqrt(7)
+```
+
+have `Q=0`, the same squared magnitude `sum q_i²=2`, one positive and two negative entries, and are fixed by every `S_c`. They are not related by permutation: A has two equal entries and B does not. This is a diagnostic of what the symmetry leaves open, not a claim that either list is a physical or experiential possibility. The full organization might be fixed by further intrinsic structure; it is not fixed by this symmetry alone.
+
+Thus the scaling route now has an exact two-part assessment: it **can** preserve nontrivial internal differences while selecting a zero level conditionally, but its bare mathematical form can be centered on any level and does not determine experiential structure. A non-circular account needs an independent reason for this specific active symmetry, its zero center, its fixedness for the actual whole, and the qualitative significance of the invariant differences. None is a separate external creator, but neither has yet been derived.
+
 ## 6. Distinguish the two zeros without weakening either possibility
 
 A signed experiential total could vanish while actual positive and negative experiences remain; in the additive version, if negative and positive components have a justified common scale and `P-N=0`, then `P=N`. That does not remove the actual occurrences. It also does not show that the **entire experiential nature** is the scalar `P-N`, or that the opposing components are morally interchangeable. Neutral and mixed experiences, subject boundaries, weighting and infinite histories need their own account.
@@ -120,7 +174,7 @@ The user's stronger possibility is that the whole is zero or nothing in a sense 
 
 ## 7. What this attempt achieved, and what would change the verdict
 
-The best direct route is now explicit: **complete intelligibility -> intrinsically zero constitution -> experiential and physical determinacy**, with actual experience as evidence for what the constitution must account for. The first arrow is stronger than the user's zero-dominance thesis alone; the second requires experiential, not merely structural, uniqueness and an independently justified identity. This identifies a more stringent standard for a genuine breakthrough than producing another zero-sum example.
+The best direct route is now explicit: **complete intelligibility -> intrinsically zero constitution -> experiential and physical determinacy**, with actual experience as evidence for what the constitution must account for. The first arrow is stronger than the user's zero-dominance thesis alone; the second requires experiential, not merely structural, uniqueness and an independently justified identity. The imbalance-only scaling calculation removes one specific obstacle to preserving differences, but the arbitrary-center test shows that the construction does not itself establish either arrow. This identifies a more stringent standard for a genuine breakthrough than producing another zero-sum example.
 
 The next non-incremental result would have to supply at least one of the following, rather than another numerical illustration:
 
@@ -132,6 +186,6 @@ Whichever route succeeds must address the other obligations as well. No such der
 
 ## Verification and scope
 
-`python -m unittest verification.foundational_zero_bridge_test -v` checks the logical strength of the dominance implication, the finite chain diagnostic, and a finite version of the scaling obstruction. These are checks on inferences, not evidence that formal alternatives are metaphysically possible, or that experience, zero's nature, self-subsistence or physical laws have been derived.
+`python -m unittest verification.foundational_zero_bridge_test -v` checks the logical strength of the dominance implication, the finite chain diagnostic, the pointwise scaling obstruction, the collective-scaling group and shifted levels, and the stated equivariance and nonuniqueness controls. These are checks on inferences, not evidence that formal alternatives are metaphysically possible, or that experience, zero's nature, self-subsistence or physical laws have been derived.
 
 Related: [self-subsistence argument](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md), [experience to constitution](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md), [intrinsic relational accounting](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md), and [possibility and whole symmetry](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md).

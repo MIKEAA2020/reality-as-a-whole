@@ -2,7 +2,7 @@
 
 ## Direct assessment
 
-The [direct foundational bridge argument](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md) refocuses on whether complete self-sufficiency requires an intrinsically zero constitution that determines actual experiential organization. It separates the user's zero-dominance thesis from the stronger required identification, and structural uniqueness from experiential uniqueness. Neither main implication is yet established.
+The [direct foundational bridge argument](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md) refocuses on whether complete self-sufficiency requires an intrinsically zero constitution that determines actual experiential organization. Collective scaling preserves nontrivial local differences, but can be centered on any total and leaves distinct organizations fixed. It separates the user's zero-dominance thesis from the stronger required identification, and structural uniqueness from experiential uniqueness. Neither main implication is yet established.
 
 The [experiential one-form and loop continuation](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) explores a combined exact internal relation that balances two nonzero subject-history totals, and checks nonexact circulation and topology. The actual experiential mapping, incidence, closed boundary, scale and self-subsistent law remain open.
 
