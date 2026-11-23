@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "dcb7059676f692729df61a628675e7e469f8acf7",
-  "file_count": 1907,
+  "base_head": "5ce24229a532a94eb9422e101dc8b5062a1645cd",
+  "file_count": 1910,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 61865,
-      "sha256": "d2bb712c16cd55ac512eeee8069ad2a108c2dcf366c120c311e343882fa61616"
+      "bytes": 62213,
+      "sha256": "069ae291335616c1f52f8d7d1e8fa196f7e20f6969727f82e2393ea4b6f8c1b2"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 163856,
-      "sha256": "5bd21816f7193ec27005701e803a81120521499d876d7896e23e4c3a252f8c7b"
+      "bytes": 164258,
+      "sha256": "6ad7e70b5cab483a3d7cbcc7e4742492062b43ebb65596c61c662c613c47a5fa"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2884,6 +2884,11 @@
       "sha256": "01ef1770598eb631276d618dc250bd3d3f1c3440766ac8cc6695b90dbc9861c0"
     },
     {
+      "path": "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
+      "bytes": 13406,
+      "sha256": "08bfcb0db0cdda283d038293f2f3e34182916cd5962e507ff13aa176d45d0200"
+    },
+    {
       "path": "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
       "bytes": 15221,
       "sha256": "759115e5cbfe48f5e3e1648047a1cbe1c121d2c1f365e53a3a31606eb699ee50"
@@ -2975,8 +2980,8 @@
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
-      "bytes": 7157,
-      "sha256": "c20c25254227743df2a0f6ec24d72e546e3f5ba1037f256430e4466a41919639"
+      "bytes": 7470,
+      "sha256": "0ba575ebdfc56d16f7aa3666b0bcbdf77df974b60008e97e02d8af876d653f4c"
     },
     {
       "path": "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
@@ -7425,8 +7430,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 810159,
-      "sha256": "24a0ef3c83a39ed4b5f4f17e19f150ad46222ca5e1368db8b6613a275dc472ec"
+      "bytes": 811455,
+      "sha256": "856993b6b9ec46abb9f7cf32249d4557f96bc2e74037ef35b4760cb101ac32c8"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9462,6 +9467,16 @@
       "path": "verification/zero_energy_research_test.py",
       "bytes": 2500,
       "sha256": "9178dedba7bee6cbdcc49f2f31f026a4129a4db30d9e9f72945bcfd343c3b2b5"
+    },
+    {
+      "path": "verification/zero_incidence_clock_probability.py",
+      "bytes": 2228,
+      "sha256": "d46490a9028e37226b9d714a020949a6629a2d41fc56ac9ead7f94c4bd9ba57c"
+    },
+    {
+      "path": "verification/zero_incidence_clock_probability_test.py",
+      "bytes": 2210,
+      "sha256": "7855af14e8f40cc57dbfd71cce0977e588dbd00e53a396c1b9195f3e4ae76697"
     },
     {
       "path": "verification/zero_locality_boundary_test.py",

@@ -6,6 +6,8 @@ The user clarifies that invoking Bostrom is **not a request to take simulations 
 
 The useful move is much more general: **the character of a whole does not by itself determine what a particular subject finds themselves experiencing**. For self-location we need an account of the actual experiential incidences and their weights. We can then ask how probable a subject's experiential position is, given specified evidence. This is adapted from the observer-incidence structure of Bostrom's argument, not an endorsement of his simulation hypothesis or its assumptions.
 
+**Continuation:** [the clock–incidence probability bridge](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) constructs a conditional covariant incidence measure and valence ratio, derives their zero-mean and sign-frequency consequences, and identifies the physical support and experiential-identity gates.
+
 ## The framework-first proposal
 
 Let the whole contain actual differentiated experiential histories, realized through physical organization with emergent spacetime and relational time. No external observer, creator or cosmic subject is assumed. Where a finite effective description is appropriate, index distinguishable actual experience-incidences by `i`. An incidence could be a subject-history, an observer-moment or a duration-weighted occurrence, **but the choice must be specified and grounded**, not switched opportunistically.

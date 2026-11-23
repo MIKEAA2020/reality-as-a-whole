@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 651,
-  "bytes": 8165376,
-  "line_count": 72209,
-  "document_count_with_risk_phrases": 603,
+  "document_count": 652,
+  "bytes": 8179595,
+  "line_count": 72344,
+  "document_count_with_risk_phrases": 604,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,8 +5093,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d2bb712c16cd55ac512eeee8069ad2a108c2dcf366c120c311e343882fa61616",
-      "bytes": 61865,
+      "sha256": "069ae291335616c1f52f8d7d1e8fa196f7e20f6969727f82e2393ea4b6f8c1b2",
+      "bytes": 62213,
       "lines": 261,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5109,6 +5109,7 @@
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
+        "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -5240,6 +5241,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
+        7,
         9,
         13,
         17,
@@ -5449,9 +5451,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ba6dbb44c36ee5ce606c4b0e7c0742d40a78339e34109a542481b8034965b548",
-      "bytes": 163704,
-      "lines": 1273,
+      "sha256": "5bd21816f7193ec27005701e803a81120521499d876d7896e23e4c3a252f8c7b",
+      "bytes": 163856,
+      "lines": 1274,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6056,6 +6058,7 @@
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
         "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -6723,11 +6726,11 @@
         472,
         570,
         586,
-        647,
-        656,
-        659,
-        662,
-        729
+        648,
+        657,
+        660,
+        663,
+        730
       ]
     },
     {
@@ -19233,6 +19236,34 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
+      "sha256": "08bfcb0db0cdda283d038293f2f3e34182916cd5962e507ff13aa176d45d0200",
+      "bytes": 13406,
+      "lines": 132,
+      "title": "A clock–incidence bridge from zero balance to experiential probability",
+      "headings": [
+        "A clock–incidence bridge from zero balance to experiential probability",
+        "Constructive result",
+        "1. Physical definitions and exact conditions",
+        "2. Why the ratio is substantive, not a free fix",
+        "3. Conditional probability and an exact distribution relation",
+        "4. Worked covariant-current control",
+        "5. Relational time and scope",
+        "6. Concrete next physical gates"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
+        "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
+        "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        22,
+        54,
+        118
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
       "sha256": "759115e5cbfe48f5e3e1648047a1cbe1c121d2c1f365e53a3a31606eb699ee50",
       "bytes": 15221,
@@ -19835,9 +19866,9 @@
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
-      "sha256": "c20c25254227743df2a0f6ec24d72e546e3f5ba1037f256430e4466a41919639",
-      "bytes": 7157,
-      "lines": 76,
+      "sha256": "0ba575ebdfc56d16f7aa3666b0bcbdf77df974b60008e97e02d8af876d653f4c",
+      "bytes": 7470,
+      "lines": 78,
       "title": "Probabilistic self-location within zero totality",
       "headings": [
         "Probabilistic self-location within zero totality",
@@ -19849,6 +19880,7 @@
       ],
       "local_links": [
         "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
+        "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md"
