@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "911e9160bee0a25679a7502dc78fecb2a7604786",
-  "file_count": 1928,
+  "base_head": "26251e6afca6199be8d87f93dd024d51ad51ef44",
+  "file_count": 1930,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 64602,
-      "sha256": "014daad864e0286ab6070ec804facb8a81ee001f24b0f0e3c1d08aa75ed507a2"
+      "bytes": 65036,
+      "sha256": "05965a0d42a385a70aa11a538d9b55a8115831e1149f8f80271d6a444752a29f"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 166066,
-      "sha256": "16184f7980e87e6fdccf4ba9d2d504e1b1ae1d162abc50cf610095e9c0940df0"
+      "bytes": 166301,
+      "sha256": "b38661e4e1ffe00e9ab4d882983ea016c377c6e97c070d344f51b5bc202d348b"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2872,6 +2872,11 @@
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
       "bytes": 23603,
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0"
+    },
+    {
+      "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+      "bytes": 10073,
+      "sha256": "b23159e0e5819f9af2b7ab4a7120ccaa51b59b94646f3f1142334ceda8259225"
     },
     {
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7505,8 +7510,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 818135,
-      "sha256": "e32e36c21e7b3652ce1a7993a25e8ac6c7d67a8d3e4fcc12bc4829b89458618d"
+      "bytes": 819264,
+      "sha256": "2acd7de6c0bd46720fef7c19b407c9e8a4c70264bbee48b892fcb400b53a8f14"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9572,6 +9577,11 @@
       "path": "verification/zero_locality_boundary_test.py",
       "bytes": 4727,
       "sha256": "56b9a74033ff7569ed823bb4f44d18d1116c25fdbbc51ad252554b8e7dafd6e1"
+    },
+    {
+      "path": "verification/zero_point_blowup_test.py",
+      "bytes": 2130,
+      "sha256": "3f6f9c5af9ac1be27f55027a3e4d58d719fd6b966bc0641d56f81aa334c1e322"
     },
     {
       "path": "verification/zero_total_flrw_constraint_test.py",

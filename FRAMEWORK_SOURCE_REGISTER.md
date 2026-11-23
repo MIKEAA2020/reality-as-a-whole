@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 614 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 542 verification Python scripts.
+- 615 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 543 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -583,6 +583,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
+- [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
@@ -1277,6 +1278,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
+- [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)
