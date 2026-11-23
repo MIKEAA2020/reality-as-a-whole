@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 630 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 562 verification Python scripts.
+- 631 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 563 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -585,6 +585,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
+- [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
 - [ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) — Updated chat: necessity, probability and emergent spacetime
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
 - [ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) — Plenitude, two kinds of intelligibility, and necessity of the whole
@@ -1300,6 +1301,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_experience_steering_no_signalling_test.py](verification/zero_experience_steering_no_signalling_test.py)
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
+- [verification/zero_local_record_constitution_test.py](verification/zero_local_record_constitution_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)

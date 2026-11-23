@@ -1,5 +1,7 @@
 # A constraint on identifying experience with the steered sphere
 
+**Constructive continuation:** [the local recording and experience-constitution analysis](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) supplies an explicit nondemolition pointer Hamiltonian, derives the full no-signalling record distributions, and shows that even an identical signed first-moment operator can correspond to different outcome distributions. The local response, subject and phenomenal identity are not thereby derived.
+
 ## Result: zero mean is not enough
 
 The [last construction](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) showed how the conserved pair and triple of rays, under an assumed singlet, generate two ensembles of remote qubit states. Both ensembles have a weighted signed directional mean of zero.
