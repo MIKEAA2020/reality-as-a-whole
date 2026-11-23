@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 635 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 567 verification Python scripts.
+- 636 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 568 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -585,6 +585,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
+- [ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) — When normalized incidence is not a local experience
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
 - [ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md](ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md) — One joint subject–valence–energy candidate, tested
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
@@ -1324,6 +1325,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)
+- [verification/zero_subject_normalization_locality_test.py](verification/zero_subject_normalization_locality_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)

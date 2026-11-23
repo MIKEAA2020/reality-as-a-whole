@@ -1,5 +1,7 @@
 # A common incidence construction for overlap and the internal sphere
 
+**Locality correction:** [normalized incidence versus local experience](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) gives a commuting-projector example where a subject's normalized global share changes under an operation on a disconnected factor while its own local state does not. The frame formula remains valid, but its share is not automatically an A-local experience or measurement. Coexisting subject incidences need not form an exclusive normalized POVM.
+
 ## The constructive result
 
 The [previous analysis](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) showed that overlapping candidate subjects can spoil a physical zero when the same local contribution is counted more than once. Here is a principled **conditional** way to remove the extra counting, and a connection back to the user's sphere:

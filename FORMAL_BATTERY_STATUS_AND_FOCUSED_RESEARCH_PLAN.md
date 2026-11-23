@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Incidence normalization locality correction:** [the local-experience analysis](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) shows with commuting projectors that a globally normalized subject share can change under a remote-factor operation although the local state and local presence do not. The frame construction remains valid as global accounting, but its normalized share is not automatically locally accessible experience. Concurrent actual subject counts need not form an exclusive normalized POVM; actual phenomenal identity and whole-level balance remain open.
+
 **Incidence–sphere frame:** [the conservation incidence construction](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) derives reciprocal-overlap allocation from stated local budget and equal-response premises, then identifies its common normalized-frame form with the previously conserved `2+3` sphere POVMs. Noncommuting supports can be changed by normalization; incompatible incidence and signed observables require a genuine joint or sequential account. The premises, real subjects, felt character, actual measure and global zero remain to be justified.
 
 **Subject locality and overlap:** [the locality–incidence continuation](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) proves by exact enumeration that global modularity can merge an unchanged local subsystem when a disconnected remote coupling changes. A local minimal-module criterion avoids that specific dependence but permits overlapping supports. The identity `Q_subject=Σ_(i<j)(m_i−m_j)F_ij` shows that physical zero need not survive actual-incidence multiplicities. Neither the local criterion, phenomenal identity nor the incidence-sharing rule is established.

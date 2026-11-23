@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 678,
-  "bytes": 8507122,
-  "line_count": 75957,
-  "document_count_with_risk_phrases": 631,
+  "document_count": 679,
+  "bytes": 8517356,
+  "line_count": 76071,
+  "document_count_with_risk_phrases": 632,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5a17415087cc3656d08576a185d2703e3c8a0cea5705b0418350f0826780248c",
-      "bytes": 75459,
-      "lines": 309,
+      "sha256": "8617d9399112727ebb2ce452b5351dc33656b3b03f3c3da87fbbaf2374fc71d9",
+      "bytes": 76039,
+      "lines": 311,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
@@ -5267,53 +5268,53 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        13,
+        11,
         15,
         17,
         19,
-        23,
+        21,
         25,
-        29,
-        33,
+        27,
+        31,
         35,
         37,
         39,
         41,
-        49,
-        55,
+        43,
+        51,
         57,
-        61,
-        65,
-        71,
-        89,
-        97,
-        107,
-        123,
+        59,
+        63,
+        67,
+        73,
+        91,
+        99,
+        109,
         125,
-        129,
-        135,
-        145,
+        127,
+        131,
+        137,
         147,
-        165,
+        149,
         167,
-        171,
-        181,
-        185,
-        191,
+        169,
+        173,
+        183,
+        187,
         193,
-        207,
-        211,
-        223,
-        231,
+        195,
+        209,
+        213,
+        225,
         233,
-        237,
-        253,
-        263,
-        280,
-        297,
-        303
+        235,
+        239,
+        255,
+        265,
+        282,
+        299,
+        305
       ]
     },
     {
@@ -5492,9 +5493,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6fdb3d15ab828db04102c579c7f1dc90ae195a9bc710aec9b760ce53e80d66dd",
-      "bytes": 172456,
-      "lines": 1339,
+      "sha256": "8fbfba121366455497971d3d3225123e16ffde2650bf91681cfae5d51aa3431b",
+      "bytes": 172740,
+      "lines": 1341,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6081,6 +6082,7 @@
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
@@ -6806,6 +6808,7 @@
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
+        "verification/zero_subject_normalization_locality_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6831,14 +6834,14 @@
         404,
         472,
         570,
-        599,
         600,
         601,
-        675,
-        684,
-        687,
-        690,
-        758
+        602,
+        676,
+        685,
+        688,
+        691,
+        759
       ]
     },
     {
@@ -19247,9 +19250,9 @@
     },
     {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
-      "sha256": "7a44417688355fa2f01bb2776de9afde6a9b531520e7a715317b52cc32819911",
-      "bytes": 12607,
-      "lines": 174,
+      "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee",
+      "bytes": 13079,
+      "lines": 176,
       "title": "A common incidence construction for overlap and the internal sphere",
       "headings": [
         "A common incidence construction for overlap and the internal sphere",
@@ -19262,17 +19265,18 @@
         "6. What the construction contributes to the foundation"
       ],
       "local_links": [
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        24,
+        9,
         26,
-        33,
-        63,
-        111,
-        145
+        28,
+        35,
+        65,
+        113,
+        147
       ]
     },
     {
@@ -19341,6 +19345,31 @@
         109,
         122,
         130
+      ]
+    },
+    {
+      "path": "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+      "sha256": "fc85fe8eba81290758a4d1649249993c35161bd61e34f6cd300ab84729d90306",
+      "bytes": 8898,
+      "lines": 108,
+      "title": "When normalized incidence is not a local experience",
+      "headings": [
+        "When normalized incidence is not a local experience",
+        "Result and correction",
+        "1. Two independent subsystems, two simultaneous candidate incidences",
+        "2. Why the A-share is not an A-local physical quantity",
+        "3. Simultaneous subjects are not exclusive measurement outcomes",
+        "4. What changes in the balance proposal",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        67,
+        87
       ]
     },
     {
