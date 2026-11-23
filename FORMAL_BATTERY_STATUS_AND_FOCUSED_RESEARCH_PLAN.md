@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [experiential score invariant candidate](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) derives a zero weighted mean and unit weighted variance for a normalized score under explicit finite assumptions, with relational reparameterization and coarse-graining controls. Its distinguished variation, actual-experience measure, phenomenal identity, physical bridge and no-residue constitution are open.
+
 The [relational experiential scale candidate](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) shows conditionally how consistent cardinal comparisons could fix a shared scale without a global sign-reversing pairing. It distinguishes calibration from balance and examines disconnected scales; the comparator, experiential constitution, weights and balance are not derived.
 
 The [experiential polarity calibration argument](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md) derives a unique linear odd contribution, up to scale, from a specified positive/negative polarity map; the map already encodes relative calibration, and its experiential reality and whole symmetry remain open.

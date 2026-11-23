@@ -2,6 +2,8 @@
 
 ## Aim and result
 
+**Concrete continuation:** [normalized relational response as an experiential-invariant candidate](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) supplies a dimensionless signed score with zero weighted mean, tests its reparameterization and coarse-graining properties, and identifies the independent experiential and physical assumptions required.
+
 Can positive and negative experience have a common magnitude **without first assuming that the whole is symmetric or already balances**? One candidate is that their relation is fixed by a network of intrinsic comparisons within the experiential constitution. This extends the [polarity proposal](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md), but does not require every positive experience to have an actual equal-and-opposite counterpart.
 
 The precise conditional result is: if a finite network of **independently fixed, consistent cardinal ratio relations** connects all represented positive and negative components, those relations determine their relative magnitudes uniquely up to one common positive unit. With independently fixed occurrence weights and signs, whether the whole's additive total is zero is then a substantive question, not something that can be changed by rescaling one side alone.

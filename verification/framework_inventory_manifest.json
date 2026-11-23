@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "38c0361504f02c7cdd9425ee76d1070bebe98a0d",
-  "file_count": 1859,
+  "base_head": "85bf05eaba3fd59e1eddf32b0f48ec0974db90f5",
+  "file_count": 1861,
   "files": [
     {
       "path": ".gitattributes",
@@ -680,8 +680,13 @@
     },
     {
       "path": "EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md",
-      "bytes": 11690,
-      "sha256": "c5c87891ef9db244afd631f5ff152d98c44c4627b0f98de7aed9ddd28ee77a8b"
+      "bytes": 12036,
+      "sha256": "3253b0f203490960cdc05b7556f80319a25f9fb9b6654c4209307d2e2a55ea5c"
+    },
+    {
+      "path": "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
+      "bytes": 11805,
+      "sha256": "70523b53c8e70e6d955fec41e7d083b3a7f5082998ec0f301a550dbd3cb3ee67"
     },
     {
       "path": "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
@@ -785,8 +790,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 53058,
-      "sha256": "8a59e43da6911b72dc1db0d0617fecb97734495f91f38f65f0360e8a7f4584e6"
+      "bytes": 53457,
+      "sha256": "9018568782637e66283f85edd58f99b90b0a9a81da4a9f0fae030b8e2e32f3a1"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -820,8 +825,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 157571,
-      "sha256": "02c99da8e0e1538e377aca2b5af474ea54773d155b52d733b619ce84faa1fa01"
+      "bytes": 157850,
+      "sha256": "20c38f9b824958feda8c90d3395b4bc3e4f42cd46e76434b11462b1419613f21"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5444,6 +5449,11 @@
       "sha256": "84f100078a59cad75725ad48bedd459fe8a26a1a24d673ecbeda8f8f7241327b"
     },
     {
+      "path": "verification/experiential_score_invariant_test.py",
+      "bytes": 3542,
+      "sha256": "661e42c0fd4f3efab86ea56b26c7e5228cd9d12e182e6d0836c6566d084fc560"
+    },
+    {
       "path": "verification/experiential_zero_candidate_test.py",
       "bytes": 2216,
       "sha256": "e96ff88b93b45c291987a91cd879a36ae238108c5efe5be67d500756fa86ef59"
@@ -7210,8 +7220,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 778166,
-      "sha256": "ac9fa52c338b4f1d10153ec2ed433de39ee6bd1ba1880804264fc426978a7e5c"
+      "bytes": 779568,
+      "sha256": "9b2a77d934c4d29ee33d9680b2e2d3763caeb091943be41909d01dc1a144aa3c"
     },
     {
       "path": "verification/project_inventory.py",

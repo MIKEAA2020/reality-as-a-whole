@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 586 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 506 verification Python scripts.
+- 587 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 507 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -147,6 +147,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md](EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md) — Transporting an experiential mismatch test between conditions
 - [EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md](EXPERIENTIAL_POLARITY_INTRINSIC_CALIBRATION.md) — Can the relation between positive and negative experience be intrinsic?
 - [EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) — An intrinsic experiential scale without assuming global symmetry
+- [EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) — A concrete candidate: experiential character as a normalized relational response
 - [EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md](EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md) — A representation-stable support interface—and its limits
 - [EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md](EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md) — A candidate experiential zero: suffering, pleasure and the energy bridge
 - [FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md](FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md) — Post-trial felt valence: provenance, stimulus baselines and the EEG access gap
@@ -818,6 +819,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/experiential_polarity_calibration_test.py](verification/experiential_polarity_calibration_test.py)
 - [verification/experiential_relational_scale_test.py](verification/experiential_relational_scale_test.py)
+- [verification/experiential_score_invariant_test.py](verification/experiential_score_invariant_test.py)
 - [verification/experiential_zero_candidate_test.py](verification/experiential_zero_candidate_test.py)
 - [verification/faced_report_baseline.py](verification/faced_report_baseline.py)
 - [verification/faced_report_baseline_test.py](verification/faced_report_baseline_test.py)
