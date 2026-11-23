@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 634 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 566 verification Python scripts.
+- 635 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 567 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -582,6 +582,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
+- [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
@@ -1321,6 +1322,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)
 - [verification/zero_sphere_relative_orientation_test.py](verification/zero_sphere_relative_orientation_test.py)
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
+- [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)

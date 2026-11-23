@@ -1,5 +1,7 @@
 # Subject locality and the cost of overlapping experiences
 
+**Constructive continuation:** [the conservation–incidence frame construction](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) derives reciprocal-multiplicity sharing from explicit local accounting and equal-response premises, and shows that the same frame normalization recovers the earlier sphere POVMs. Its subject, incidence and phenomenal assumptions remain unproved, and noncommuting observables require an explicit joint or sequential account.
+
 ## What this continuation establishes
 
 The last [localized-module construction](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) used a global modularity maximum to select candidate subject supports. I tested its warning about distant dependence and found an exact failure:
