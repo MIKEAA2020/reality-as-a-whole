@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 650,
-  "bytes": 8157496,
-  "line_count": 72131,
+  "document_count": 651,
+  "bytes": 8165376,
+  "line_count": 72209,
   "document_count_with_risk_phrases": 603,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -5093,8 +5093,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "d849807d9ff8d86d5a9caa89f6fdf8c53d8756a94e1848e74bd6998e3242d52c",
-      "bytes": 61670,
+      "sha256": "d2bb712c16cd55ac512eeee8069ad2a108c2dcf366c120c311e343882fa61616",
+      "bytes": 61865,
       "lines": 261,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
         "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -19539,13 +19540,13 @@
     },
     {
       "path": "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
-      "sha256": "d8cdf6240c0fd7e8a3917891e8b7ccb2cb85d54fa0b0a24dc0d44430eb097436",
-      "bytes": 22120,
-      "lines": 191,
+      "sha256": "7137353724d45d2fd4757464046db568ef3183f782505380b844f93215f84eee",
+      "bytes": 22648,
+      "lines": 193,
       "title": "Adopting Bostrom's simulation argument inside a zero-totality framework",
       "headings": [
         "Adopting Bostrom's simulation argument inside a zero-totality framework",
-        "Direct answer",
+        "Direct answer (superseded as the intended framing)",
         "1. What Bostrom actually argues",
         "2. One whole, not a stack of unexplained external worlds",
         "3. The probability rule: actual incidences, not possible descriptions",
@@ -19554,6 +19555,7 @@
         "6. Computation and the local energy budget"
       ],
       "local_links": [
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -19565,10 +19567,10 @@
         "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md"
       ],
       "risk_phrase_lines": [
-        47,
-        88,
-        130,
-        164
+        49,
+        90,
+        132,
+        166
       ]
     },
     {
@@ -19830,6 +19832,28 @@
         34,
         96
       ]
+    },
+    {
+      "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
+      "sha256": "c20c25254227743df2a0f6ec24d72e546e3f5ba1037f256430e4466a41919639",
+      "bytes": 7157,
+      "lines": 76,
+      "title": "Probabilistic self-location within zero totality",
+      "headings": [
+        "Probabilistic self-location within zero totality",
+        "Correction and point of departure",
+        "The framework-first proposal",
+        "A simple consequence—and its limits",
+        "Connecting the probability to physics",
+        "Constructive target"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
+        "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",

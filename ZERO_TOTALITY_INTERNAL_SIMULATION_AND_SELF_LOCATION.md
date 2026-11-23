@@ -1,6 +1,8 @@
 # Adopting Bostrom's simulation argument inside a zero-totality framework
 
-## Direct answer
+> **User correction — governing interpretation:** The aim is not to posit literal simulations, simulators or nested computers. Take only the useful probabilistic structure of Bostrom's reasoning for the zero-totality framework. The literal-simulation construction below is an earlier, over-literal exploration, not the intended interpretation or an established component of the framework. See [the corrected subject-incidence formulation](ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md).
+
+## Direct answer (superseded as the intended framing)
 
 We can incorporate the **probabilistic structure** of Bostrom's argument without postulating that an external creator runs the whole of reality. The coherent proposal is an **internally implemented simulation hypothesis**:
 
