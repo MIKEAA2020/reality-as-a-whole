@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [zero-level symmetry selection argument](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) derives a zero constraint level from sign reversal and uniqueness in the declared relational system, while showing that symmetry of the laws or a zero quantum expectation alone is weaker. Its physical and self-subsistence premises remain open.
+
 The [relational-symmetry investigation](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) derives zero charge and nontrivial relational dynamics from a specified zero-generator constraint, and compares source-permitting levels with the same gauge transformations. The physical level, energy interpretation and experiential constitution are not derived.
 
 The [intrinsic relational accounting argument](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) derives global zero and regional boundary accounting from an explicit interface-only principle, but shows that freely chosen interface values can merely re-express an assumed zero sum. Its physical and experiential identity remains unproved.

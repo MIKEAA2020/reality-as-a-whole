@@ -2,6 +2,8 @@
 
 ## Result
 
+**Continuation:** [symmetry selection and the zero level](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) derives zero from sign reversal plus a unique admissible constraint level, and distinguishes that conditional result from symmetry of the laws or a zero quantum expectation alone.
+
 The [intrinsic accounting proposal](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) says that local contributions might arise entirely from relations internal to the whole, making the total zero. Here is an independently motivated **candidate mechanism**: require descriptions related by local changes of frame to represent the same physical situation, and impose the associated zero-generator constraints on a closed whole. In a simple explicitly defined system this produces the relational accounting law and forces the global charge to zero, while retaining nonzero local charges and nontrivial relational dynamics.
 
 The crucial qualification is equally exact: **the transformation symmetry alone does not fix the zero of its generator**. The very same transformations also admit shifted constraint levels with nonzero total. Selecting the zero level needs its own physical or constitutive justification. Thus this is more than a post-hoc rewrite of `Q=0`, but it is not yet an explanation of why the actual whole has that structure or why it is experiential. It is not a claim that the universe's energy or awareness is this model's charge.
