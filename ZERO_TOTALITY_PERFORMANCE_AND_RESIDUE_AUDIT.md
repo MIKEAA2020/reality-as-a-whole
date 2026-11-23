@@ -2,6 +2,8 @@
 
 ## The updated question and answer
 
+**Self-subsistence continuation:** [a positive conditional argument](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) derives intrinsic cancellation given a difference structure and experiential necessity given the stated modal premise, then identifies the still-unproved bridge from zero itself to actual experiential differentiation.
+
 **Measure follow-up:** [symmetry, measure and relational identification](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) gives exact conditional selection results and exposes the reference-measure and relational-alignment assumptions; it does not claim these assumptions are ultimately brute or proven necessary.
 
 **Constructive continuation:** [a zero-total relational event and record](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) derives an invariant-distribution result and a four-class family of event laws in a finite neutral sector. Its record and underlying resources are stipulated; it does not establish self-subsistence or experiential constitution.

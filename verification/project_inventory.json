@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 617,
-  "bytes": 7674132,
-  "line_count": 67784,
-  "document_count_with_risk_phrases": 570,
+  "document_count": 618,
+  "bytes": 7690113,
+  "line_count": 67904,
+  "document_count_with_risk_phrases": 571,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "751cb3e075a70f129a30413c0632113b667c5f02a062886c4393aff1fd551ab4",
-      "bytes": 48897,
-      "lines": 195,
+      "sha256": "8a9d433c788b015c26a554b7c3ccaacf73d888d909a89b66722a9fc09b1ba343",
+      "bytes": 49250,
+      "lines": 197,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
@@ -4984,30 +4985,30 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        15,
-        21,
-        31,
+        13,
+        17,
+        23,
         33,
-        51,
+        35,
         53,
-        57,
-        67,
-        71,
-        77,
+        55,
+        59,
+        69,
+        73,
         79,
-        93,
-        97,
-        109,
-        117,
+        81,
+        95,
+        99,
+        111,
         119,
-        123,
-        139,
-        149,
-        166,
-        183,
-        189
+        121,
+        125,
+        141,
+        151,
+        168,
+        185,
+        191
       ]
     },
     {
@@ -5186,9 +5187,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1ac7f97357947f859ac24be524573db469af08a8336148d983eab676c75cd3f3",
-      "bytes": 154591,
-      "lines": 1207,
+      "sha256": "282b8bd968046c030b66cf90f5dd741410afa2ab27b48e5e222cf64bf629838b",
+      "bytes": 155094,
+      "lines": 1211,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5762,7 +5763,9 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
+        "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "brain-specificity-thesis.md",
@@ -6373,6 +6376,8 @@
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
+        "verification/zero_total_internal_loop.py",
+        "verification/zero_total_internal_loop_test.py",
         "verification/zero_total_relational_record.py",
         "verification/zero_total_relational_record_test.py",
         "verification/zero_total_symmetry_measure.py",
@@ -6394,11 +6399,11 @@
         461,
         558,
         573,
-        613,
-        622,
-        625,
-        628,
-        694
+        615,
+        624,
+        627,
+        630,
+        696
       ]
     },
     {
@@ -18675,9 +18680,9 @@
     },
     {
       "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
-      "sha256": "92bf4c8eaacbcd9fcfef7c527e4d85a20b7e93ac68ebae81baeb32160ce98c8f",
-      "bytes": 14060,
-      "lines": 93,
+      "sha256": "443ecdbff6339066cabf77e2f8c3874b8472c0e8a4f439604934960ae4232d06",
+      "bytes": 14392,
+      "lines": 95,
       "title": "Can a performance leave no unexplained residue?",
       "headings": [
         "Can a performance leave no unexplained residue?",
@@ -18690,6 +18695,7 @@
         "6. The next constructive target"
       ],
       "local_links": [
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt",
@@ -18700,11 +18706,41 @@
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        15,
-        66,
-        80,
-        93
+        7,
+        17,
+        68,
+        82,
+        95
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+      "sha256": "ec64c80827d9e5075f3ef020d6aa8972e86bad533b358ded9a4381a8fdf650b9",
+      "bytes": 14793,
+      "lines": 112,
+      "title": "Can zero-totality be self-subsistent and internally differentiated?",
+      "headings": [
+        "Can zero-totality be self-subsistent and internally differentiated?",
+        "The task and the answer so far",
+        "1. A steelman: self-subsistence without a positive external ground",
+        "2. Positive structural result: cancellation needs no second pairing rule",
+        "3. Positive experiential result: actuality without an external actualizer",
+        "4. Can the two deductions become one explanation?",
+        "5. The most direct challenge to a no-selector derivation",
+        "6. A research verdict, without a substitute answer"
+      ],
+      "local_links": [
+        "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
+        "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
+        "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
+        "SELF_EXPLANATORY_ACTUALITY_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        31,
+        47,
+        57,
+        106
       ]
     },
     {
