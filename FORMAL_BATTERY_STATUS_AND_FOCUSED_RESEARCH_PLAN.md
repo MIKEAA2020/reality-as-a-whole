@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [experiential energy-response bridge](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) specializes the normalized score to a canonical distribution and derives a zero weighted response with positive energies and independent conditional ordering predictions. It does not establish experiential valence, actual-incidence weights, or an identity between experiential and physical global zeros.
+
 The [experiential score invariant candidate](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) derives a zero weighted mean and unit weighted variance for a normalized score under explicit finite assumptions, with relational reparameterization and coarse-graining controls. Its distinguished variation, actual-experience measure, phenomenal identity, physical bridge and no-residue constitution are open.
 
 The [relational experiential scale candidate](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) shows conditionally how consistent cardinal comparisons could fix a shared scale without a global sign-reversing pairing. It distinguishes calibration from balance and examines disconnected scales; the comparator, experiential constitution, weights and balance are not derived.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 587 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 507 verification Python scripts.
+- 588 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 508 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -142,6 +142,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md](EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md) — A joint witness gate for cortical necessity
 - [EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md](EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md) — Can multiple imperfect measures identify an experience?
 - [EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md](EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md) — Experience, a non-optimal world, and the attached DPMRS discussion
+- [EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) — A candidate bridge from energy differences to signed experience
 - [EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md](EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md) — Can experiential organization do the work of a physical basis?
 - [EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md](EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md) — Experiential grounding: a positive candidate and its strongest rival
 - [EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md](EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md) — Transporting an experiential mismatch test between conditions
@@ -815,6 +816,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/experience_collapse_identifiability.py](verification/experience_collapse_identifiability.py)
 - [verification/experience_ground_support_toy.py](verification/experience_ground_support_toy.py)
 - [verification/experiential_anatomical_witness_gate.py](verification/experiential_anatomical_witness_gate.py)
+- [verification/experiential_energy_response_test.py](verification/experiential_energy_response_test.py)
 - [verification/experiential_grounding_rival_gate.py](verification/experiential_grounding_rival_gate.py)
 - [verification/experiential_mismatch_transport_gate.py](verification/experiential_mismatch_transport_gate.py)
 - [verification/experiential_polarity_calibration_test.py](verification/experiential_polarity_calibration_test.py)

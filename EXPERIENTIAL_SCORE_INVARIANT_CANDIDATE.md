@@ -2,6 +2,8 @@
 
 ## The idea in brief
 
+**Energy-bridge continuation:** [energy-dependent normalized response](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) specializes the score to a canonical energy family, derives explicit signed relative-energy values and independent conditional predictions, and distinguishes an ensemble mean from an actual whole-level total.
+
 The [last investigation](EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md) asked for a candidate common constitutional invariant that could fix positive/negative comparisons without fitting them to a desired total. Here is a definite mathematical candidate, not a claim about established neuroscience:
 
 > Suppose the whole has an intrinsically specified, oriented relational variation, and a normalized measure over actual experiential components. A component's signed experiential magnitude is proportional to the component's **normalized relative response** to that variation.
