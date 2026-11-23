@@ -91,6 +91,10 @@ The empirical literature gives a positive reason to examine relationships betwee
 
 The user's stronger proposal may still locate the balance at the whole level rather than in every local episode. The evidence does not show that all pain must be followed by equal relief, and the no-residue programme must not depend on treating suffering as unreal or justified. Neither the empirical findings nor the simplified control derive—or rule out—the sought self-subsistent physical–experiential constitution.
 
+## Adaptation continuation
+
+The [perfect-adaptation analysis](PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md) shows that, within a stable linear time-invariant model, independently motivated perfect step adaptation entails zero area for every integrable pulse and forces equal gains in the opponent example. A nonlinear counterexample shows why adaptation and reversal alone do not suffice. Neither case establishes the experiential identity or a whole-level result.
+
 ## Verification
 
 `python -m unittest verification.pain_relief_opponent_zero_test -v` checks the model's pulse formulas, unequal/equal gains and scale-recoding counterexample. It tests mathematical assumptions, not human pain reports, actual experiential magnitudes or a cosmic total.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 642,
-  "bytes": 8002158,
-  "line_count": 70732,
-  "document_count_with_risk_phrases": 595,
+  "document_count": 643,
+  "bytes": 8015243,
+  "line_count": 70853,
+  "document_count_with_risk_phrases": 596,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "bde799bbc23eeb11a3a40b51bfdb434413bc42e423326348981adfb4fbc6f31a",
-      "bytes": 58002,
-      "lines": 245,
+      "sha256": "8acdf54da60aafa9255f51720e2b56cdfe60c70cefac22d7a4e5c3731124f799",
+      "bytes": 58367,
+      "lines": 247,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
@@ -5230,34 +5231,34 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        25,
-        33,
-        43,
-        59,
+        9,
+        27,
+        35,
+        45,
         61,
-        65,
-        71,
-        81,
+        63,
+        67,
+        73,
         83,
-        101,
+        85,
         103,
-        107,
-        117,
-        121,
-        127,
+        105,
+        109,
+        119,
+        123,
         129,
-        143,
-        147,
-        159,
-        167,
+        131,
+        145,
+        149,
+        161,
         169,
-        173,
-        189,
-        199,
-        216,
-        233,
-        239
+        171,
+        175,
+        191,
+        201,
+        218,
+        235,
+        241
       ]
     },
     {
@@ -5436,9 +5437,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "04c1050eba8fca999207e34740dfeb3a17794c7c2291602fb7d08893bc21bffe",
-      "bytes": 161249,
-      "lines": 1254,
+      "sha256": "035421dface534dffca80bb26d98c510dd94bc229da1ec0a6871b29fa42d9eb0",
+      "bytes": 161513,
+      "lines": 1256,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5787,6 +5788,7 @@
         "PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md",
         "PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md",
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
         "PERSPECTIVAL_FINITUDE.md",
         "PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md",
         "PHENOMENAL_GWT_RUSSELLIAN.md",
@@ -6445,6 +6447,7 @@
         "verification/paingen_trial_provenance_audit_test.py",
         "verification/paingen_unpleasantness_baselines.py",
         "verification/pairwise_marginal_information_gate.py",
+        "verification/perfect_adaptation_balance_test.py",
         "verification/perspectival_finitude.py",
         "verification/perspective_access_from_circuit.py",
         "verification/phase_frustration_audit.py",
@@ -6686,16 +6689,16 @@
         222,
         296,
         325,
-        372,
-        403,
-        471,
-        569,
-        584,
-        639,
-        648,
-        651,
-        654,
-        721
+        373,
+        404,
+        472,
+        570,
+        585,
+        640,
+        649,
+        652,
+        655,
+        722
       ]
     },
     {
@@ -11689,9 +11692,9 @@
     },
     {
       "path": "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
-      "sha256": "811009e17ab7b5affad79b1fb0e7ae1dc420be4c1235ff79da0b7f9b4cc0ed41",
-      "bytes": 12703,
-      "lines": 98,
+      "sha256": "9aae7b0ed97bc8a5cb08b3670dd60a90aadcc03da6a13a9aef01e1f1964e4303",
+      "bytes": 13171,
+      "lines": 102,
       "title": "Pain, relief and the proposed experiential zero",
       "headings": [
         "Pain, relief and the proposed experiential zero",
@@ -11705,6 +11708,7 @@
       ],
       "local_links": [
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
@@ -11715,6 +11719,36 @@
         63,
         84,
         90
+      ]
+    },
+    {
+      "path": "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
+      "sha256": "a429078af5e52d0317b0c1bd8a76365a9f544c77e4a1db0fde3ba32dddff1394",
+      "bytes": 11988,
+      "lines": 113,
+      "title": "Can adaptation explain experiential balance without tuning?",
+      "headings": [
+        "Can adaptation explain experiential balance without tuning?",
+        "Answer in brief",
+        "1. A specific physical motivation, not a universal premise",
+        "2. Conditional theorem: a whole class of pulse shapes",
+        "3. Equal gain follows in the earlier opponent model",
+        "4. Nonlinear counterexample: adaptation plus reversal, but no cancellation",
+        "5. Can this become a constitutional argument rather than a fitted output?",
+        "6. A discriminating follow-up"
+      ],
+      "local_links": [
+        "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
+        "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
+        "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
+      ],
+      "risk_phrase_lines": [
+        51,
+        98,
+        105,
+        107
       ]
     },
     {
