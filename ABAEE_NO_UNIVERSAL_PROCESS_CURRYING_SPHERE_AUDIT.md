@@ -1,5 +1,7 @@
 # Abaee's process-currying preprint and the internal sphere
 
+**Related subsequent preprint:** [additive-dynamics and compression audit](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md) treats the universal continuous compression floor, distinguishes it from restricted sphere programming, and corrects the geometric in-radius remark without challenging the stated floor.
+
 **Finite-reference continuation:** [the tetrahedral construction](FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md) shows that continuous rotational invariance of a particular finite joint state does not entail exact universal programming of all measurement directions. A tailored invariant state-preparing Hamiltonian is likewise distinct from a universal processor.
 
 ## Source and scope

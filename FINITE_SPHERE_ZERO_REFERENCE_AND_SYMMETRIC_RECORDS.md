@@ -1,5 +1,7 @@
 # A finite spherical reference with a continuously symmetric whole
 
+**Relational-purity continuation:** [the additive-dynamics audit](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md) checks that the two states below have equal local A and B marginals but AB purities 1/3 and 1, and separates state-dependent conserved transfers from composition-additive channel scalars.
+
 ## Main result
 
 The earlier [spherical-reference model](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) used an infinite-dimensional `L²(S²)` reference. Here is a finite alternative, in the same physical spin-zero framework:
