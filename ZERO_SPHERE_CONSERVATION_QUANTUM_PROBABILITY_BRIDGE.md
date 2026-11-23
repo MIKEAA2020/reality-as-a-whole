@@ -1,5 +1,7 @@
 # From intrinsic conservation to quantum weights and signed zero
 
+**Single-system synthesis:** [the conservation–record–current construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) uses the asymmetric five-ray fractions as actual POVM coefficients in one explicit joint state, then ties the same recorded outcomes to opposite sharp currents and proves equality of the complete receiver state across pair and triple settings. The ray-to-logical identification, Born rule and experiential bridge remain assumptions.
+
 **Continuation:** [the conserved-sphere steering and Bell construction](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) shows that, given an additional two-qubit singlet, the pair and triple weights also define remote conditional states and exact no-signalling. It builds a finite contextual record block with definite outcomes and Bell violation, explicitly exposing the locality and measure assumptions.
 
 **Constraint-preserving continuation:** [the zero-sector sphere instrument](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) implements the symmetric and asymmetric triple effects in a relational spin-zero qubit with a spin-zero pointer; its logical-frame identification, interaction and singlet preparation remain additional assumptions.

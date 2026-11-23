@@ -1,5 +1,7 @@
 # A constraint on identifying experience with the steered sphere
 
+**Unified asymmetric example:** [the single-system synthesis](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) combines the unequal conservation-derived triple weights, definite opposite record/current labels and equality of the full receiver density operator. Its explicit conditional means illustrate why locally treating them as definite values would signal.
+
 **Sharp relational-current continuation:** [the response analysis](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) gives an explicit model where equal reduced subsystem states coexist with opposite sharp joint currents, and tests which response rules would yield signed zero. Its four-body interaction is not relativistically local, and no accessible feeling or signalling claim follows.
 
 **Constructive continuation:** [the local recording and experience-constitution analysis](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) supplies an explicit nondemolition pointer Hamiltonian, derives the full no-signalling record distributions, and shows that even an identical signed first-moment operator can correspond to different outcome distributions. The local response, subject and phenomenal identity are not thereby derived.

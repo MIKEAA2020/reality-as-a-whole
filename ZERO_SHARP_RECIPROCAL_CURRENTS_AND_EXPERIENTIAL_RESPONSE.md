@@ -1,5 +1,7 @@
 # Sharp reciprocal currents and the experiential-response condition
 
+**Five-ray synthesis:** [the single-system construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) connects these opposite currents directly to an asymmetric conserved-ray instrument, with an explicit rational joint probability table and a full receiver-state no-signalling check. The axes, singlet, instrument and experiential mapping remain assumptions; this is not the same state as the tetrahedral reference.
+
 ## The advance
 
 The [reciprocal sphere–record construction](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) gave opposite memory currents as conditional expectations. There is a stronger exact fact: at one point in that same evolution, the two opposed currents are **simultaneously sharp**, nonzero and exactly correlated with the prior sphere record. This corrects the earlier report's overbroad suggestion that the displayed conditional currents are never sharp.

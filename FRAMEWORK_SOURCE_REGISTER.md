@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 649 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 581 verification Python scripts.
+- 650 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 582 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -613,6 +613,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
 - [ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) — From intrinsic conservation to quantum weights and signed zero
+- [ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) — One system linking sphere conservation, quantum records and opposite currents
 - [ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) — An intrinsic 2+3 grouping from the sphere and physical conservation
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
@@ -1321,6 +1322,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_energy_research_test.py](verification/zero_energy_research_test.py)
 - [verification/zero_experience_steering_no_signalling_test.py](verification/zero_experience_steering_no_signalling_test.py)
+- [verification/zero_five_ray_record_current_unification_test.py](verification/zero_five_ray_record_current_unification_test.py)
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)

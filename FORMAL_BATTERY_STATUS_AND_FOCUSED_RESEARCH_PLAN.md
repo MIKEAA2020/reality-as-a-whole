@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Single-system conservation–record–current synthesis:** [the asymmetric five-ray construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) uses the conservation-derived fractions in one explicit singlet instrument, obtains the full rational joint record table and sharp opposite receiver currents, and proves equality of the entire receiver state across pair/triple settings. It extends to the calibrated clock. The geometric-to-logical identification, interaction, actual subjects and phenomenal response remain assumptions or open demands.
+
 **Sharp currents and experiential-response criterion:** [the sharp-opposition continuation](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) identifies exact opposite current eigenvalues correlated with the sphere record, supplies a calibrated autonomous clock with the sharp probe state and nonzero conditional actual-current means, and derives the precise odd-response condition for subject-pair balance. The full clock current is not generally sharp; the interaction, subjects, felt sign and actual incidence remain unjustified.
 
 **Reciprocal candidate-subject exchange:** [the reciprocal sphere–record construction](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) gives both proposed memory subjects nonzero opposite physical changes, without treating the batteries as subjects, and embeds the stages in an autonomous clock. It proves a positive, exchange-covariant history-weight counterexample to automatic experiential balance. Subjecthood, the felt-value mapping, incidence and the underlying interactions remain unjustified.

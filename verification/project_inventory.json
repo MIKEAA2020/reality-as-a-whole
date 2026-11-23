@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 692,
-  "bytes": 8714897,
-  "line_count": 78145,
-  "document_count_with_risk_phrases": 645,
+  "document_count": 693,
+  "bytes": 8732335,
+  "line_count": 78337,
+  "document_count_with_risk_phrases": 646,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5210,9 +5210,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "657f29a52fe8f7c552d66a5f1ab6af58d594356144f7d0b371121709218d0dd5",
-      "bytes": 83240,
-      "lines": 337,
+      "sha256": "2c636c04c89f227e3f06961fd20d77ef274d8309b40067691b5bcffccbe6f9da",
+      "bytes": 83802,
+      "lines": 339,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5224,6 +5224,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
@@ -5407,55 +5408,56 @@
         17,
         19,
         21,
-        27,
+        23,
         29,
-        35,
+        31,
         37,
-        41,
+        39,
         43,
         45,
         47,
-        51,
+        49,
         53,
-        57,
-        61,
+        55,
+        59,
         63,
         65,
         67,
         69,
-        77,
-        83,
+        71,
+        79,
         85,
-        89,
-        93,
-        99,
-        117,
-        125,
-        135,
-        151,
+        87,
+        91,
+        95,
+        101,
+        119,
+        127,
+        137,
         153,
-        157,
-        163,
-        173,
+        155,
+        159,
+        165,
         175,
-        193,
+        177,
         195,
-        199,
-        209,
-        213,
-        219,
+        197,
+        201,
+        211,
+        215,
         221,
-        235,
-        239,
-        251,
-        259,
+        223,
+        237,
+        241,
+        253,
         261,
-        265,
-        281,
-        291,
-        308,
-        325,
-        331
+        263,
+        267,
+        283,
+        293,
+        310,
+        327,
+        333
       ]
     },
     {
@@ -5634,9 +5636,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2a02a51a093b7771c672a2b21f20e5ff37f8658da8dfdbae0852704443e9b8c0",
-      "bytes": 176193,
-      "lines": 1365,
+      "sha256": "13089473156480e655aba8d7b3b6c7f53f96b20d99f95f31590d0f96aa9b0eea",
+      "bytes": 176861,
+      "lines": 1369,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6247,9 +6249,11 @@
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
+        "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
@@ -6944,6 +6948,7 @@
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
+        "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
@@ -6960,6 +6965,7 @@
         "verification/zero_relational_stabilizer_constitution_test.py",
         "verification/zero_sector_memory_incidence_test.py",
         "verification/zero_sector_record_energy_exchange_test.py",
+        "verification/zero_sharp_opposition_and_experiential_response_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
         "verification/zero_sphere_conservation_born_bridge_test.py",
@@ -7002,13 +7008,13 @@
         573,
         608,
         609,
-        612,
         613,
-        688,
-        697,
-        700,
-        703,
-        771
+        614,
+        690,
+        699,
+        702,
+        705,
+        773
       ]
     },
     {
@@ -19559,9 +19565,9 @@
     },
     {
       "path": "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
-      "sha256": "8ee95196841942736b169a6dd456f4cad2034ca1f8a85a7ea9b5dc44e6f4c41b",
-      "bytes": 13323,
-      "lines": 132,
+      "sha256": "b85faf08de2cf990601d0678ae4e7ca50c624ed8ec4de4661345b0a12b472f0b",
+      "bytes": 13695,
+      "lines": 134,
       "title": "A constraint on identifying experience with the steered sphere",
       "headings": [
         "A constraint on identifying experience with the steered sphere",
@@ -19574,15 +19580,16 @@
         "6. Consequence for zero's constitution"
       ],
       "local_links": [
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md"
       ],
       "risk_phrase_lines": [
-        29,
-        111,
-        124,
-        132
+        31,
+        113,
+        126,
+        134
       ]
     },
     {
@@ -20149,9 +20156,9 @@
     },
     {
       "path": "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
-      "sha256": "88b0a7d682dd0e4ac199cb8d2f80369de34874cd7833915a82642d2e3c03fc80",
-      "bytes": 16904,
-      "lines": 171,
+      "sha256": "7329bfb3b870fb9637d5d52c69c9c1d0f09f8feea4df3e9989b31cf9665567e1",
+      "bytes": 17334,
+      "lines": 173,
       "title": "Sharp reciprocal currents and the experiential-response condition",
       "headings": [
         "Sharp reciprocal currents and the experiential-response condition",
@@ -20163,19 +20170,20 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        19,
-        86,
-        96,
-        100,
-        107,
+        7,
+        21,
+        88,
+        98,
+        102,
         109,
-        113,
-        171
+        111,
+        115,
+        173
       ]
     },
     {
@@ -20252,9 +20260,9 @@
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
-      "sha256": "6776995ef0a2de898c561d7dcf8a2a22153b3f8eb1278e3b90b3a9592d3880cc",
-      "bytes": 15065,
-      "lines": 182,
+      "sha256": "fcf797a5ec45c6e89596b048d298885e9d096da0917178826f74b099ec44d39c",
+      "bytes": 15537,
+      "lines": 184,
       "title": "From intrinsic conservation to quantum weights and signed zero",
       "headings": [
         "From intrinsic conservation to quantum weights and signed zero",
@@ -20267,6 +20275,7 @@
         "6. Why a Born-form probability is conditional, not unexplained chance"
       ],
       "local_links": [
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
@@ -20275,12 +20284,45 @@
       ],
       "risk_phrase_lines": [
         3,
-        11,
-        21,
-        91,
-        115,
-        152,
-        182
+        5,
+        13,
+        23,
+        93,
+        117,
+        154,
+        184
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+      "sha256": "493cc3ded456371faf437195b01987459f157e8c3c7a2c6b0c582c1eab4d85b1",
+      "bytes": 14934,
+      "lines": 180,
+      "title": "One system linking sphere conservation, quantum records and opposite currents",
+      "headings": [
+        "One system linking sphere conservation, quantum records and opposite currents",
+        "Result",
+        "1. One conserved configuration fixes the weights",
+        "2. One instrument and one joint state",
+        "3. The conservation weights now determine an actual joint table",
+        "4. No-signalling follows for the entire receiver, not only the average",
+        "5. One autonomous continuation, with the current distinction preserved",
+        "6. What the construction does for experience—and what it cannot decide"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
+        "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md"
+      ],
+      "risk_phrase_lines": [
+        12,
+        23,
+        36,
+        63,
+        92,
+        96,
+        113,
+        141,
+        180
       ]
     },
     {
