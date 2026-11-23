@@ -1,5 +1,7 @@
 # When normalized incidence is not a local experience
 
+**Constructive continuation:** [local incidence and quantum current](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) gives a site-local overlap rule that preserves a conserved quantum-current operator under explicit compatibility and coverage assumptions, tests it in a positive-energy hopping model, and shows why a sharp physical-excitation incidence can fail those assumptions.
+
 ## Result and correction
 
 The [incidence-frame construction](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) produced a common mathematical normalization for overlapping supports and the conserved sphere POVMs. That connection is valid. But interpreting the resulting normalized share as the **actual intensity of a local subject's experience** requires an additional condition that was not proved:

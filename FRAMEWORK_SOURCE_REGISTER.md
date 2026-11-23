@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 636 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 568 verification Python scripts.
+- 637 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 569 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -589,6 +589,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
 - [ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md](ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md) — One joint subject–valence–energy candidate, tested
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
+- [ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) — Local subject incidence and a conserved quantum current
 - [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
 - [ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) — Updated chat: necessity, probability and emergent spacetime
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
@@ -1307,6 +1308,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
 - [verification/zero_joint_subject_energy_candidate_test.py](verification/zero_joint_subject_energy_candidate_test.py)
+- [verification/zero_local_incidence_current_test.py](verification/zero_local_incidence_current_test.py)
 - [verification/zero_local_record_constitution_test.py](verification/zero_local_record_constitution_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
 - [verification/zero_localized_modules_boundary_test.py](verification/zero_localized_modules_boundary_test.py)

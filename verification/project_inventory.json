@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 679,
-  "bytes": 8517356,
-  "line_count": 76071,
-  "document_count_with_risk_phrases": 632,
+  "document_count": 680,
+  "bytes": 8529706,
+  "line_count": 76244,
+  "document_count_with_risk_phrases": 633,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8617d9399112727ebb2ce452b5351dc33656b3b03f3c3da87fbbaf2374fc71d9",
-      "bytes": 76039,
-      "lines": 311,
+      "sha256": "372da153672c2ce46882cf95bf00891ded36ee3bdd9d712ef2dda7f1b61fdddf",
+      "bytes": 76637,
+      "lines": 313,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
@@ -5268,53 +5269,54 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
+        5,
         11,
-        15,
+        13,
         17,
         19,
         21,
-        25,
+        23,
         27,
-        31,
-        35,
+        29,
+        33,
         37,
         39,
         41,
         43,
-        51,
-        57,
+        45,
+        53,
         59,
-        63,
-        67,
-        73,
-        91,
-        99,
-        109,
-        125,
+        61,
+        65,
+        69,
+        75,
+        93,
+        101,
+        111,
         127,
-        131,
-        137,
-        147,
+        129,
+        133,
+        139,
         149,
-        167,
+        151,
         169,
-        173,
-        183,
-        187,
-        193,
+        171,
+        175,
+        185,
+        189,
         195,
-        209,
-        213,
-        225,
-        233,
+        197,
+        211,
+        215,
+        227,
         235,
-        239,
-        255,
-        265,
-        282,
-        299,
-        305
+        237,
+        241,
+        257,
+        267,
+        284,
+        301,
+        307
       ]
     },
     {
@@ -5493,9 +5495,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8fbfba121366455497971d3d3225123e16ffde2650bf91681cfae5d51aa3431b",
-      "bytes": 172740,
-      "lines": 1341,
+      "sha256": "090c0cfc6cc65a41fdd04c7ae0ec61fb5c9b21915561fc943968d5003ffe2989",
+      "bytes": 173016,
+      "lines": 1343,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6086,6 +6088,7 @@
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
@@ -6790,6 +6793,7 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
+        "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
         "verification/zero_locality_boundary_test.py",
         "verification/zero_localized_modules_boundary_test.py",
@@ -6834,14 +6838,14 @@
         404,
         472,
         570,
-        600,
         601,
         602,
-        676,
-        685,
-        688,
-        691,
-        759
+        603,
+        677,
+        686,
+        689,
+        692,
+        760
       ]
     },
     {
@@ -19349,9 +19353,9 @@
     },
     {
       "path": "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
-      "sha256": "fc85fe8eba81290758a4d1649249993c35161bd61e34f6cd300ab84729d90306",
-      "bytes": 8898,
-      "lines": 108,
+      "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d",
+      "bytes": 9286,
+      "lines": 110,
       "title": "When normalized incidence is not a local experience",
       "headings": [
         "When normalized incidence is not a local experience",
@@ -19363,13 +19367,14 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        67,
-        87
+        7,
+        11,
+        69,
+        89
       ]
     },
     {
@@ -19461,6 +19466,38 @@
         101,
         121,
         149
+      ]
+    },
+    {
+      "path": "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
+      "sha256": "eff5df6ebd90ff32cd1f9091e5e93d7949266c8d0de4fce4cb93e3322a41627a",
+      "bytes": 11088,
+      "lines": 167,
+      "title": "Local subject incidence and a conserved quantum current",
+      "headings": [
+        "Local subject incidence and a conserved quantum current",
+        "Constructive result",
+        "1. A local operator identity",
+        "2. A closed quantum transport system",
+        "3. Overlapping local incidence patterns",
+        "4. A concrete obstruction when the incidence is not independent",
+        "5. What this means for the zero proposal",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        46,
+        60,
+        78,
+        92,
+        100,
+        141,
+        154,
+        167
       ]
     },
     {
