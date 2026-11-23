@@ -1,5 +1,7 @@
 # Conserved energy exchange writes zero-sector records
 
+**Integrated spherical-record continuation:** [the relational selector and conserved transfer](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) connects the tetrahedral reference and its opposite records directly to a pairwise-conserving memory–battery exchange, with one symmetric gapped joint selector. It does not derive subjecthood or experiential valence.
+
 **Autonomous continuation:** [the clock–record cycle and subject-incidence test](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) embeds the same writing unitary in one time-independent Hamiltonian, tests minimal energy-closed subject candidates and gives a positive-incidence weighted-cycle counterexample. The cycle and proposed incidence rule are conditional models, not established experiences.
 
 ## Main result

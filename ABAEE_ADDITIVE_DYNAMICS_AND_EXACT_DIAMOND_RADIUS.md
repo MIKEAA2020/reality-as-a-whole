@@ -1,5 +1,7 @@
 # Additive dynamics, zero balance and an exact diamond radius
 
+**Constructive continuation:** [the relational selector and conserved transfer](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) uses a specified joint state-sensitive Hamiltonian, outside the channel-only composition-additive assumptions, to select the sphere state and correlate its records with conserved transfers. This does not derive that Hamiltonian or experience from zero.
+
 ## Result and scope
 
 Amin Abaee's [No-Go Theorem for Additive Dynamics on Decorated Quantum Channels](https://doi.org/10.5281/zenodo.21808030), v1 (2026), addresses a specific universal **scalar action on channels**, additive under serial composition. It does not rule out a conserved signed quantity, a Hamiltonian, the sphere model, or the user's proposal that a zero whole differentiates internally. Its classification nevertheless sets a useful design constraint: a universal, channel-only action with those axioms cannot select the joint organization we seek.

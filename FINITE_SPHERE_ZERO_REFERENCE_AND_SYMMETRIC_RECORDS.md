@@ -1,5 +1,7 @@
 # A finite spherical reference with a continuously symmetric whole
 
+**Integrated relational continuation:** [the joint selector and transfer construction](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) adds explicit directional-matching and relational-coherence conditions that, together with opposite records and the invariant sector, uniquely select this recorded state. It carries those same records into conserved memory–battery transfers. These extra relations and their experiential interpretation remain to be derived.
+
 **Relational-purity continuation:** [the additive-dynamics audit](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md) checks that the two states below have equal local A and B marginals but AB purities 1/3 and 1, and separates state-dependent conserved transfers from composition-additive channel scalars.
 
 ## Main result

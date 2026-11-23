@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Integrated relational selector and conserved transfer:** [the joint construction](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) selects the existing spherical recorded state using commuting matching and coherence relations, proves a fidelity bound, and links the same records to conserved memory–battery exchanges in a unique gapped joint ground state. Its representation, constraints, Hamiltonian and physical–experiential bridge are not derived from zero, and its bare conserved energy is positive.
+
 **Additive channel actions and exact radius:** [the Abaee additive-dynamics audit](ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md) distinguishes composition-additive channel scalars from state-dependent conserved transfers, relates relational purity to the tetrahedral construction, and gives an all-dimension proof that the paper's certified 2/d² diamond ball is the exact geometric in-radius, contrary to its strict-larger remark. The compression lower bound itself survives; the paper's supplement was not run and the subject/experience bridge remains open.
 
 **Finite symmetric reference:** [the tetrahedral construction](FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md) realizes four exact reference labels in a six-spin singlet sector, produces opposite spin-zero encoded records, and constructs both an exactly continuous logical-rotation-invariant joint state and a tailored invariant preparation. A second orthogonal state has the same symmetry, record zero and label statistics but distinct internal correlations. The symmetry, factorization, interaction, actual subjects and felt character are not derived from zero.
