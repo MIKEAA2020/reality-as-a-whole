@@ -1,5 +1,7 @@
 # Conserved sphere, quantum steering and definite Bell records
 
+**Experiential continuation:** [the steering no-signalling constitution test](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) shows that the signed conditional means below cannot simply be identified with definite locally accessible qualities: their full distributions would reveal the remote setting, despite both means being zero. It proves a generic pair–triple constraint and gives an exact definite-outcome alternative under explicit assumptions.
+
 ## Main result
 
 The [conservation–quantum bridge](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) produced two decompositions of the same local state `I/2`: one from the conserved pair of rays, and one from the conserved triple. Here is the next connection:
