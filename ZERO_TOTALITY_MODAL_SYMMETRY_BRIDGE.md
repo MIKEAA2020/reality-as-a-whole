@@ -2,6 +2,8 @@
 
 ## The constructive result
 
+**Physical continuation:** [FLRW constraint and energy](ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md) develops a classical gravity–scalar example where a zero Hamiltonian constraint coexists with positive local energy density and relational evolution. Its zero does not depend on an energy-sign-reversal transformation or establish a unique global physical energy.
+
 The previous [whole-symmetry argument](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) needed the actual whole to be fixed by a sign-reversing transformation. The user's possibility–actuality thesis suggests a direct way to get there, **if it applies to complete global descriptions**:
 
 > If a sign-reversed version of the entire actual whole is genuinely possible, and every genuinely possible global description is actual of the very same whole, then the sign-reversed whole is actual. If its global quantity has the opposite value to the original and that quantity has one actual value, that value is zero.

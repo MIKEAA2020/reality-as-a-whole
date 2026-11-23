@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [FLRW constraint and energy analysis](ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md) derives positive scalar-field density and relational classical evolution on a zero-constraint surface, while distinguishing the constraint from an established global physical energy and from energy-sign reversal. It does not solve time or experience.
+
 The [modal symmetry bridge](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) derives global zero from genuine possibility of the sign-reversed global value and a specified global possibility–actuality principle, and identifies why local plenitude alone does not supply that premise. The sign reversal, objective Q and experiential constitution remain unproved.
 
 The [actual-whole symmetry argument](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) gives a conditional route to zero without a unique-level assumption: a well-defined global scalar odd under a symmetry fixing the actual whole vanishes. The full symmetry, aggregation, physical quantity and experiential constitution remain to be established.
