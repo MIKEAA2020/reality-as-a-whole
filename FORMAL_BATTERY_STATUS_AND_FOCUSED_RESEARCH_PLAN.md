@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [actual-whole symmetry argument](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) gives a conditional route to zero without a unique-level assumption: a well-defined global scalar odd under a symmetry fixing the actual whole vanishes. The full symmetry, aggregation, physical quantity and experiential constitution remain to be established.
+
 The [zero-level symmetry selection argument](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) derives a zero constraint level from sign reversal and uniqueness in the declared relational system, while showing that symmetry of the laws or a zero quantum expectation alone is weaker. Its physical and self-subsistence premises remain open.
 
 The [relational-symmetry investigation](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) derives zero charge and nontrivial relational dynamics from a specified zero-generator constraint, and compares source-permitting levels with the same gauge transformations. The physical level, energy interpretation and experiential constitution are not derived.

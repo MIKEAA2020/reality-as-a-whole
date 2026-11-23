@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 622,
-  "bytes": 7746035,
-  "line_count": 68365,
-  "document_count_with_risk_phrases": 575,
+  "document_count": 623,
+  "bytes": 7758530,
+  "line_count": 68476,
+  "document_count_with_risk_phrases": 576,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "ddf3a185486c4eb88dc69f4c07889836434c0cd930322d1df47d0a12f4b62185",
-      "bytes": 50569,
-      "lines": 205,
+      "sha256": "66e6514a4bb860588d272cd4127c38db8192815aaed20d482e83d5adace38949",
+      "bytes": 50909,
+      "lines": 207,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
@@ -4989,30 +4990,31 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        19,
+        5,
         21,
-        25,
-        31,
-        41,
+        23,
+        27,
+        33,
         43,
-        61,
+        45,
         63,
-        67,
-        77,
-        81,
-        87,
+        65,
+        69,
+        79,
+        83,
         89,
-        103,
-        107,
-        119,
-        127,
+        91,
+        105,
+        109,
+        121,
         129,
-        133,
-        149,
-        159,
-        176,
-        193,
-        199
+        131,
+        135,
+        151,
+        161,
+        178,
+        195,
+        201
       ]
     },
     {
@@ -5191,9 +5193,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5e3705adc5ec449ce6cdce0ec847e1679212bb1b70983e65813f1b7d239a4ffa",
-      "bytes": 155553,
-      "lines": 1214,
+      "sha256": "d9e3a34e52db777877d95b05dc2cf4570a8c95a94b16141839e486c4312311de",
+      "bytes": 155710,
+      "lines": 1215,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5771,6 +5773,7 @@
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+        "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
@@ -6406,11 +6409,11 @@
         461,
         558,
         573,
-        618,
-        627,
-        630,
-        633,
-        699
+        619,
+        628,
+        631,
+        634,
+        700
       ]
     },
     {
@@ -18853,10 +18856,40 @@
       ]
     },
     {
-      "path": "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
-      "sha256": "39157c7db3557859f4523d8f1fdb7d321aa3b59fdd994296efe8392d99a26399",
-      "bytes": 11770,
+      "path": "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
+      "sha256": "a109578ddd6e6279b282d65f848ceac4b52ebc946c37a232f04e3160c20f009b",
+      "bytes": 11733,
       "lines": 106,
+      "title": "Can the actual whole force its own zero total?",
+      "headings": [
+        "Can the actual whole force its own zero total?",
+        "The proposed route",
+        "1. The whole-first deduction",
+        "2. Nonzero local differences in the same symmetric whole",
+        "3. Can plenitude supply the symmetry?",
+        "4. An active symmetry is not the same as a gauge relabelling",
+        "5. Does this constitute experience?",
+        "6. Comparison and status"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
+        "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
+        "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
+        "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        99,
+        102
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
+      "sha256": "1c023359afcde9dcfff1b62515047ef60a78d9639c5979ccab7ba9850cf308c7",
+      "bytes": 12035,
+      "lines": 108,
       "title": "Can intrinsic symmetry select the zero level?",
       "headings": [
         "Can intrinsic symmetry select the zero level?",
@@ -18869,26 +18902,28 @@
         "6. The next question"
       ],
       "local_links": [
+        "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
-        7,
+        5,
         9,
-        13,
-        37,
-        40,
+        11,
+        15,
+        39,
         42,
         44,
-        53,
-        69,
-        92,
-        96,
-        97,
-        100,
-        104
+        46,
+        55,
+        71,
+        94,
+        98,
+        99,
+        102,
+        106
       ]
     },
     {

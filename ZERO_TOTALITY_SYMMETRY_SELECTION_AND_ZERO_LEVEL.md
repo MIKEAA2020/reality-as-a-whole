@@ -2,6 +2,8 @@
 
 ## A positive conditional answer
 
+**Whole-first continuation:** [symmetry of the actual whole](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) gives a different conditional route to zero that does not assume a unique admissible constraint level, and tests whether plenitude could motivate its premises.
+
 The [previous relational-gauge argument](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) left a specific question: why should the physical constraint have zero level, when the same local frame transformations also allow shifted levels? There is a direct, non-temporal candidate answer:
 
 > **If the whole's intrinsic laws reverse the sign of the relevant quantity, and there is exactly one admissible constraint level on which that sign reversal acts, then that level is zero.**

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 579 root Markdown documents including this register; 43 research Markdown documents.
+- 580 root Markdown documents including this register; 43 research Markdown documents.
 - 59 original uploaded files, including provenance metadata; 501 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -576,6 +576,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) — Zero-totality as intrinsic relational accounting
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?
+- [ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) — Can the actual whole force its own zero total?
 - [ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) — Can intrinsic symmetry select the zero level?
 - [ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) — An internal connection for zero-total relations
 - [ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md](ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md) — Zero-total internal relations: a three-link consistency test
