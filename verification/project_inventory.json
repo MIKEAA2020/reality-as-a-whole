@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 626,
-  "bytes": 7801710,
-  "line_count": 68798,
-  "document_count_with_risk_phrases": 579,
+  "document_count": 627,
+  "bytes": 7815733,
+  "line_count": 68909,
+  "document_count_with_risk_phrases": 580,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4272,6 +4272,35 @@
       ]
     },
     {
+      "path": "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
+      "sha256": "c26ffa8140d2221eca9ae92ebd74b2c738837697ea228f1b6765aa8b4fa5b55a",
+      "bytes": 13076,
+      "lines": 105,
+      "title": "A candidate experiential zero: suffering, pleasure and the energy bridge",
+      "headings": [
+        "A candidate experiential zero: suffering, pleasure and the energy bridge",
+        "The candidate",
+        "1. A first explicit quantity",
+        "2. What makes the number objective rather than fitted?",
+        "3. Whole-level balance is not a law of local time",
+        "4. An exact test of the simplest energy identity",
+        "5. How could this candidate gain evidence and explanatory force?",
+        "6. Result and next step"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
+        "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        53,
+        71,
+        103
+      ]
+    },
+    {
       "path": "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
       "sha256": "31a3296f605bb4af6f30ebd80424e0df4c7030839e82f7094bd51c2d12b0857e",
       "bytes": 11937,
@@ -4872,9 +4901,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8274f8187871ce70317e97093b70c42ba2afce6b590e328bdb12bcaeb2e06b13",
-      "bytes": 52001,
-      "lines": 213,
+      "sha256": "d4b71c2e33d5204a6cb9ec1c0d31e14bf2e78065c9dc93ed6ff87fd2850a0e59",
+      "bytes": 52366,
+      "lines": 215,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4915,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
         "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
@@ -4993,31 +5023,31 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        27,
+        13,
         29,
-        33,
-        39,
-        49,
+        31,
+        35,
+        41,
         51,
-        69,
+        53,
         71,
-        75,
-        85,
-        89,
-        95,
+        73,
+        77,
+        87,
+        91,
         97,
-        111,
-        115,
-        127,
-        135,
+        99,
+        113,
+        117,
+        129,
         137,
-        141,
-        157,
-        167,
-        184,
-        201,
-        207
+        139,
+        143,
+        159,
+        169,
+        186,
+        203,
+        209
       ]
     },
     {
@@ -5196,9 +5226,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fdd609c67150c733942665f6a55ce974a871381b69cdb469d3077eb1f53ee98f",
-      "bytes": 156703,
-      "lines": 1222,
+      "sha256": "353ab86bb294d1b7279f6af805e31b5bb8013059c7bb02b2d751ef988778da37",
+      "bytes": 156986,
+      "lines": 1224,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5346,6 +5376,7 @@
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
         "EXPERIENTIAL_SUPPORT_FACTORIZATION_BRIDGE.md",
+        "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md",
         "FACED_POSTTRIAL_REPORT_BASELINES_FIXED_PLAN.md",
         "FEEDBACK_REALIZATION_AND_PHENOMENAL_BRIDGE_AUDIT.md",
@@ -5999,6 +6030,7 @@
         "verification/experiential_anatomical_witness_gate.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/experiential_mismatch_transport_gate.py",
+        "verification/experiential_zero_candidate_test.py",
         "verification/faced_report_baseline.py",
         "verification/faced_report_baseline_test.py",
         "verification/feedback_replay_phenomenal_bridge.py",
@@ -6410,20 +6442,20 @@
         61,
         69,
         79,
-        155,
-        215,
-        289,
-        318,
-        364,
-        394,
-        461,
-        559,
-        574,
-        623,
-        632,
-        635,
-        638,
-        705
+        156,
+        216,
+        290,
+        319,
+        365,
+        395,
+        462,
+        560,
+        575,
+        624,
+        633,
+        636,
+        639,
+        706
       ]
     },
     {
@@ -17733,9 +17765,9 @@
     },
     {
       "path": "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
-      "sha256": "bd81dba5d1134d17f53803ce70f15b09caf3a59e2f99471f44e9537e73124214",
-      "bytes": 15941,
-      "lines": 86,
+      "sha256": "2dec0f911b180dd2a70340b0ddc4ef40351ed21be7802f8ae61ba62479edbe0c",
+      "bytes": 16240,
+      "lines": 88,
       "title": "Updated chat: experience, gravitational cancellation and the problem of time",
       "headings": [
         "Updated chat: experience, gravitational cancellation and the problem of time",
@@ -17748,6 +17780,7 @@
         "6. Next constructive step"
       ],
       "local_links": [
+        "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
@@ -17757,10 +17790,10 @@
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        22,
-        44,
-        58
+        9,
+        24,
+        46,
+        60
       ]
     },
     {
