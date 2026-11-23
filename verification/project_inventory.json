@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 656,
-  "bytes": 8231351,
-  "line_count": 72888,
-  "document_count_with_risk_phrases": 608,
+  "document_count": 657,
+  "bytes": 8243693,
+  "line_count": 73024,
+  "document_count_with_risk_phrases": 609,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "59c8bc6aaf07d1981e65af677c3a673f52dac34cb7f177a61ea53059301fa222",
-      "bytes": 63983,
-      "lines": 269,
+      "sha256": "014daad864e0286ab6070ec804facb8a81ee001f24b0f0e3c1d08aa75ed507a2",
+      "bytes": 64602,
+      "lines": 271,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
         "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
         "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
@@ -5245,39 +5246,39 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
+        11,
         17,
-        21,
-        25,
-        31,
-        49,
-        57,
-        67,
-        83,
+        19,
+        23,
+        27,
+        33,
+        51,
+        59,
+        69,
         85,
-        89,
-        95,
-        105,
+        87,
+        91,
+        97,
         107,
-        125,
+        109,
         127,
-        131,
-        141,
-        145,
-        151,
+        129,
+        133,
+        143,
+        147,
         153,
-        167,
-        171,
-        183,
-        191,
+        155,
+        169,
+        173,
+        185,
         193,
-        197,
-        213,
-        223,
-        240,
-        257,
-        263
+        195,
+        199,
+        215,
+        225,
+        242,
+        259,
+        265
       ]
     },
     {
@@ -5456,9 +5457,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fc6a6d1406b7cac5015e8265ad52ce81ada34823c68d8b9bd917272ba6504779",
-      "bytes": 165330,
-      "lines": 1286,
+      "sha256": "49cd935323d89c8283a8b1876289512c9bc88d9d9799d74d8ae8a6cefaa5b5c0",
+      "bytes": 165692,
+      "lines": 1289,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6049,6 +6050,7 @@
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
+        "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
@@ -6289,6 +6291,8 @@
         "verification/energy_exchange_clock.py",
         "verification/energy_exchange_incidence.py",
         "verification/energy_exchange_incidence_test.py",
+        "verification/energy_flow_locked_incidence.py",
+        "verification/energy_flow_locked_incidence_test.py",
         "verification/equilibrium_mismatch_coarse_graining.py",
         "verification/eraser_bell_selection_gate.py",
         "verification/evolve_covariant_zero_initial_data.py",
@@ -6743,11 +6747,11 @@
         472,
         570,
         586,
-        652,
-        661,
-        664,
-        667,
-        734
+        653,
+        662,
+        665,
+        668,
+        735
       ]
     },
     {
@@ -19347,6 +19351,36 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
+      "sha256": "06314754f337bf404f55c3de79c0d038646b92536197ee7297f52d293cc9c6e8",
+      "bytes": 10970,
+      "lines": 129,
+      "title": "Direct assessment: what has actually been established?",
+      "headings": [
+        "Direct assessment: what has actually been established?",
+        "Answer to the user's challenge",
+        "1. The exact gap between a zero constraint and actual physics",
+        "2. A previously underemphasized problem: whose energy flow?",
+        "3. Correction to the energy-locking proposal",
+        "4. A second physical obstruction: passive dissipation",
+        "5. What probabilistic structure adds—and does not add",
+        "6. What counts as genuine progress from here"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        14,
+        55,
+        99,
+        105,
+        117,
+        125
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
       "sha256": "c9b370208e791dd8a8de6b77e4595ddeb8ca8931333a4e4041cefb54276cd3f9",
       "bytes": 12229,
@@ -19379,9 +19413,9 @@
     },
     {
       "path": "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
-      "sha256": "30b20e6d00734f9617a2cbfc37b8494091d2fcf2e61549da320f1a4702c8db79",
-      "bytes": 10724,
-      "lines": 138,
+      "sha256": "abcc9aafe89e338f5ee6e19354cee6c9fa94c5f5984c45d2462b687500adf707",
+      "bytes": 11115,
+      "lines": 140,
       "title": "A constructive energy-locked incidence model",
       "headings": [
         "A constructive energy-locked incidence model",
@@ -19394,14 +19428,15 @@
         "Reproduction"
       ],
       "local_links": [
+        "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
         "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "verification/energy_flow_locked_incidence_receipt.json"
       ],
       "risk_phrase_lines": [
-        88,
-        92,
-        123,
-        127
+        90,
+        94,
+        125,
+        129
       ]
     },
     {

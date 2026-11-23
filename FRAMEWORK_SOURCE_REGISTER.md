@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 613 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 540 verification Python scripts.
+- 614 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 542 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -588,6 +588,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
 - [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
 - [ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) — A covariant zero-totality candidate: dynamics, clock and experience
+- [ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md](ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md) — Direct assessment: what has actually been established?
 - [ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md](ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md) — Energy exchange, experiential incidence and whole-history balance
 - [ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md](ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md) — A constructive energy-locked incidence model
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
@@ -881,6 +882,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/foundation_battery_report_spotcheck.py](verification/foundation_battery_report_spotcheck.py)
 - [verification/foundation_route_comparison.py](verification/foundation_route_comparison.py)
 - [verification/foundational_zero_bridge_test.py](verification/foundational_zero_bridge_test.py)
+- [verification/foundational_zero_frame_audit.py](verification/foundational_zero_frame_audit.py)
+- [verification/foundational_zero_frame_audit_test.py](verification/foundational_zero_frame_audit_test.py)
 - [verification/four_spin_hidden_edge_robustness.py](verification/four_spin_hidden_edge_robustness.py)
 - [verification/four_spin_mismatch_measurement_gate.py](verification/four_spin_mismatch_measurement_gate.py)
 - [verification/four_spin_mismatch_measurement_gate_test.py](verification/four_spin_mismatch_measurement_gate_test.py)

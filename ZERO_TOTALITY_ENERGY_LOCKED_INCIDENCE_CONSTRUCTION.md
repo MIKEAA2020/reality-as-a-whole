@@ -1,5 +1,7 @@
 # A constructive energy-locked incidence model
 
+> **Foundational correction:** [the direct frame and constraint audit](ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md) shows that laboratory-energy alignment does not in general remain alignment for energy defined in the proposed subject's own frame. The model below is valid as a fixed-frame conditional calculation, not a derived frame-independent physical–experiential identity.
+
 ## Result
 
 The preceding [organization–energy balance gate](ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md) identified an extra term when an experiential organization moves relative to physical energy flow. Here is a concrete way that term can vanish **without inserting a compensating contribution by hand**:
