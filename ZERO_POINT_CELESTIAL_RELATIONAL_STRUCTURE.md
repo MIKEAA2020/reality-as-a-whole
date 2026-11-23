@@ -1,5 +1,7 @@
 # A point–sphere structure compatible with relativity
 
+**Continuation:** [the projective sphere–Lorentz cone construction](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) reverses this direction: given a `CP¹` internal sphere and its complex lift, it constructs a four-real-dimensional Hermitian space with a Lorentz-signature determinant. The projective structure, physical interpretation and experiential identity remain substantive inputs.
+
 ## The result
 
 The user's idea—**a point as the unextended whole, and a sphere as its internal differentiation**—has a striking physical analogue. In relativity, the future-directed lightlike directions through a spacetime event form a sphere `S²`. The Lorentz group acts on that sphere without selecting a preferred observer. More importantly, a sufficiently specified cone of such directions determines the local spacetime metric **up to an overall scale**.

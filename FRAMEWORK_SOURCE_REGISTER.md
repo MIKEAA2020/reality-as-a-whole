@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 616 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 544 verification Python scripts.
+- 617 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 545 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -585,6 +585,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
 - [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
+- [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
@@ -1076,6 +1077,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/positive_experience_witness_gate_test.py](verification/positive_experience_witness_gate_test.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
+- [verification/projective_sphere_lorentz_test.py](verification/projective_sphere_lorentz_test.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)
 - [verification/qpv_causal_records_gate.py](verification/qpv_causal_records_gate.py)
 - [verification/qpv_symmetric_geometry.py](verification/qpv_symmetric_geometry.py)

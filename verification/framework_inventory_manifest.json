@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8188eaa1283606facf964e3a8a99ca48f326b93f",
-  "file_count": 1932,
+  "base_head": "7e247379c6768748c204a18d9a8456c21ac8dbc9",
+  "file_count": 1934,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 65332,
-      "sha256": "f6cf1d043b135cc9f0878cca10caaff9e4819292a95473ff50eaab2cfe129728"
+      "bytes": 65713,
+      "sha256": "eae1d712fb49a78df1b6da9b1c02a59681868900db5b8caac8a3aa87901f62d4"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 166549,
-      "sha256": "32c6e66adc18649c5e9117f0e4ba41f457ab51893b986f4c2fcc81ed4853ff97"
+      "bytes": 166789,
+      "sha256": "f59ba51e7017f76a8533ffe5761cbca531d15eebf0d7098bb17ad196a8ced641"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2875,13 +2875,18 @@
     },
     {
       "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
-      "bytes": 8867,
-      "sha256": "2c4bb031a5e5a5f332cdcc56329f9b68bc013c6ff45a85fd1e68b3bbddd5788d"
+      "bytes": 9249,
+      "sha256": "a62854a68e00e0ff806673075081949ada3f26ab90bd1ffd88252ea3685d53dd"
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
       "bytes": 10446,
       "sha256": "7744a12038853d047edd87324e66f8d6e9c5dbb398d8a176f13e895f83ad9f1c"
+    },
+    {
+      "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+      "bytes": 8762,
+      "sha256": "ab8037c9da3d45a6deee8a124ca95dea318ff048df14fa83b8d0417e380896c7"
     },
     {
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7515,13 +7520,18 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 820362,
-      "sha256": "daa25c0c7d6f123b1d273828525835f31ef1582c4d01c3283940819710765b74"
+      "bytes": 821451,
+      "sha256": "2181f0441ea9de9712d2c6d9b6b651e076e68bbaa8841893972bbbeaba5945ae"
     },
     {
       "path": "verification/project_inventory.py",
       "bytes": 3628,
       "sha256": "9300694af188cb6a5f5d4b74863edfb5ee96ea16aa6aa217f059c09d2edd4b8c"
+    },
+    {
+      "path": "verification/projective_sphere_lorentz_test.py",
+      "bytes": 2754,
+      "sha256": "f0699c50098f87b60ad960c4eeafd1810fd53283ca599ee67fadd7813fd8367b"
     },
     {
       "path": "verification/q1_agreement_stability_gate.json",
