@@ -1,5 +1,7 @@
 # The sphere, a closed plasma, and the experiential balance gate
 
+**Continuation:** [a zero-balanced asymmetrical history](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) constructs an autonomous two-mode system with positive internal energy components, zero net exchange and unequal positive/negative durations. Its subject, valence and incidence interpretations remain hypotheses; choosing the complementary component reverses the sign.
+
 ## Result
 
 The preceding work connected the proposed internal sphere to a two-component state space and a relativistic null cone. The next question was whether **physical dynamics can determine a weighted signed balance**, rather than putting it in by hand.
