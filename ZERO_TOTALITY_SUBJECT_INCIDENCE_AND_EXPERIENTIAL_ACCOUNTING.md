@@ -2,6 +2,8 @@
 
 ## The proposal
 
+**Relational-time continuation:** [a whole-level experiential total](RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md) tests a duration-weighted subject-history candidate, including clock reparameterization, overlapping windows, cross-subject calibration and infinite-sum limits.
+
 The [previous analysis](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) showed that a signed zero and its symmetry orbit do not by themselves say which experiences belong to which subjects. Here is a more explicit candidate, building on the project's earlier [relational subject-facet model](RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md) rather than replacing it:
 
 > Each actual subject is an intrinsically first-person experiential field-occurrence, constituted by a physically and experientially specified organization. The whole contains these fields and their actual aspects. A global signed quantity is calculated on a separately specified domain; subject-level accounts must preserve that domain's identity and measure rather than create or discard occurrences by relabelling them.

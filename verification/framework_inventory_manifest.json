@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9a4e8fe1e278641f7314e4b21176c8c85479e0b1",
-  "file_count": 1875,
+  "base_head": "419889fe4c083fecccad5f7ab4033177a6ac7429",
+  "file_count": 1877,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 56092,
-      "sha256": "8978c0880e7dcb0550c47ef1a905d60de7203da60fd41153ff846951f3de782a"
+      "bytes": 56470,
+      "sha256": "b450d64ae53a3bad46a6ddd9807034cb9e5685eddee1b115c7734df09f441d39"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 159907,
-      "sha256": "1697f326f159de6fd602ec120836163df5ebba0d75ca42449ffce573cadb6a43"
+      "bytes": 160173,
+      "sha256": "810bbe698b313126ede0e1433a7aa26ce00b9e89a7e19adcbe770ead04e52a4a"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1969,6 +1969,11 @@
       "sha256": "4ec4b4cc8e85cdde4bcd03c8dec25fe41d904d97262b3d607a2ad0610ba519d6"
     },
     {
+      "path": "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
+      "bytes": 11204,
+      "sha256": "e72a985f1a5c01a8aa0642bbbed76981583168dadc68101f42fe3dcee3d1c03d"
+    },
+    {
       "path": "RELATIONAL_TIME_CONSTRUCTION.md",
       "bytes": 15426,
       "sha256": "a20e56353448392a1ad50a6aa1a80edc7f0f35ced2e386869ddde35d8800ae1c"
@@ -2905,8 +2910,8 @@
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
-      "bytes": 13241,
-      "sha256": "3627acecc2944e1886c41295baa74ef33e81ce5c646e8ba0dbdd1318a06fc435"
+      "bytes": 13515,
+      "sha256": "2f70cc79413d6ad3b413f4262fe14513a6843c7943e7af7ca269d703d8bfb6d6"
     },
     {
       "path": "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
@@ -7285,8 +7290,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 789460,
-      "sha256": "06a3babcdf94d71ca782060034182f54ee6aba5661ecff0cb38d58a4f5adde77"
+      "bytes": 790875,
+      "sha256": "94d21e9735f3b8fce17849de42421826c02c5fd7557ee28c9e646214dbab790d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7512,6 +7517,11 @@
       "path": "verification/relational_detector_initial_data.py",
       "bytes": 4682,
       "sha256": "c063faf88daa15d94c3a26fba3682e8a2ddc57cd94d9925184c5cb0700e3c047"
+    },
+    {
+      "path": "verification/relational_experiential_total_test.py",
+      "bytes": 3390,
+      "sha256": "c28de5ddc2118cda52f62154b0b154f918238c09e5c4eb7ba09b100765def18a"
     },
     {
       "path": "verification/relational_friend_comparison.json",

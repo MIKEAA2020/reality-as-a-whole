@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 637,
-  "bytes": 7939563,
-  "line_count": 70093,
-  "document_count_with_risk_phrases": 590,
+  "document_count": 638,
+  "bytes": 7951749,
+  "line_count": 70198,
+  "document_count_with_risk_phrases": 591,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8978c0880e7dcb0550c47ef1a905d60de7203da60fd41153ff846951f3de782a",
-      "bytes": 56092,
-      "lines": 235,
+      "sha256": "b450d64ae53a3bad46a6ddd9807034cb9e5685eddee1b115c7734df09f441d39",
+      "bytes": 56470,
+      "lines": 237,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
@@ -5225,33 +5226,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        23,
-        33,
-        49,
+        17,
+        25,
+        35,
         51,
-        55,
-        61,
-        71,
+        53,
+        57,
+        63,
         73,
-        91,
+        75,
         93,
-        97,
-        107,
-        111,
-        117,
+        95,
+        99,
+        109,
+        113,
         119,
-        133,
-        137,
-        149,
-        157,
+        121,
+        135,
+        139,
+        151,
         159,
-        163,
-        179,
-        189,
-        206,
-        223,
-        229
+        161,
+        165,
+        181,
+        191,
+        208,
+        225,
+        231
       ]
     },
     {
@@ -5430,9 +5431,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d1a2634b108a7e9e2990d02c15e66e5a27006d8c9670e1b33bb86aa513376e08",
-      "bytes": 159577,
-      "lines": 1242,
+      "sha256": "1697f326f159de6fd602ec120836163df5ebba0d75ca42449ffce573cadb6a43",
+      "bytes": 159907,
+      "lines": 1244,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6023,6 +6024,7 @@
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -6582,6 +6584,7 @@
         "verification/subject_context_substrate_gate.py",
         "verification/subject_factorization_redescription_gate.py",
         "verification/subject_friend_quantum_extensions.py",
+        "verification/subject_incidence_experiential_accounting_test.py",
         "verification/subject_measure_selection_gate.py",
         "verification/substrate_self_existent_interface.py",
         "verification/swapping_herald_selection_gate.py",
@@ -6673,11 +6676,11 @@
         468,
         566,
         581,
-        633,
-        642,
-        645,
-        648,
-        715
+        634,
+        643,
+        646,
+        649,
+        716
       ]
     },
     {
@@ -13529,6 +13532,35 @@
       ]
     },
     {
+      "path": "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
+      "sha256": "e72a985f1a5c01a8aa0642bbbed76981583168dadc68101f42fe3dcee3d1c03d",
+      "bytes": 11204,
+      "lines": 99,
+      "title": "A whole-level experiential total without a preferred cosmic clock",
+      "headings": [
+        "A whole-level experiential total without a preferred cosmic clock",
+        "The candidate",
+        "1. A clock-relative construction",
+        "2. Reparameterization is not changing the physical clock",
+        "3. Exact finite example and window overlap",
+        "4. The cross-subject calibration problem remains",
+        "5. Infinite histories and order dependence",
+        "6. Foundational and experiential status"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
+        "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md"
+      ],
+      "risk_phrase_lines": [
+        45,
+        65,
+        85
+      ]
+    },
+    {
       "path": "RELATIONAL_TIME_CONSTRUCTION.md",
       "sha256": "a20e56353448392a1ad50a6aa1a80edc7f0f35ced2e386869ddde35d8800ae1c",
       "bytes": 15426,
@@ -19313,9 +19345,9 @@
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
-      "sha256": "3627acecc2944e1886c41295baa74ef33e81ce5c646e8ba0dbdd1318a06fc435",
-      "bytes": 13241,
-      "lines": 121,
+      "sha256": "2f70cc79413d6ad3b413f4262fe14513a6843c7943e7af7ca269d703d8bfb6d6",
+      "bytes": 13515,
+      "lines": 123,
       "title": "A candidate incidence principle for a plural experiential whole",
       "headings": [
         "A candidate incidence principle for a plural experiential whole",
@@ -19328,6 +19360,7 @@
         "6. What would make the incidence proposal more than a table?"
       ],
       "local_links": [
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md",
@@ -19338,8 +19371,8 @@
         "FIRST_PERSONAL_GIVENNESS_AND_FIELD_INDIVIDUATION_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        32,
-        94
+        34,
+        96
       ]
     },
     {
