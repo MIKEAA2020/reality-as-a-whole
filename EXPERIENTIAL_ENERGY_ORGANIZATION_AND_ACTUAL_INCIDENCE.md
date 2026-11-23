@@ -2,6 +2,8 @@
 
 ## The next step
 
+**Actual-occurrence continuation:** [relational stationary-response candidate](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) derives a finite zero sum over stipulated actual aspects rather than an ensemble expectation, and tests whether its references could simply be fitted to a desired balance.
+
 The [previous bridge](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) associated signed experience with an energy-dependent score. It gave zero **in an ensemble average**, but left open whether actual experiences have that distribution. It also made the proposed contribution depend only on an energy value within the specified ensemble.
 
 This continuation tests a more general candidate. Add an independently specified feature of physical organization to energy and use their joint response to define a signed scale. This can distinguish configurations with the same bare energy. However, the generalized quantity is still a centered score: its ensemble mean is automatically zero, and its identification with experience and actual incidence must be established independently.

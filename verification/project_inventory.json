@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 632,
-  "bytes": 7878785,
-  "line_count": 69498,
-  "document_count_with_risk_phrases": 585,
+  "document_count": 633,
+  "bytes": 7891698,
+  "line_count": 69629,
+  "document_count_with_risk_phrases": 586,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -240,6 +240,39 @@
       "risk_phrase_lines": [
         9,
         81
+      ]
+    },
+    {
+      "path": "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
+      "sha256": "d9cd3ee46d635ff9e444b62bc1f3c229e1e1309d1163d6e0b7429496d272bab8",
+      "bytes": 11922,
+      "lines": 125,
+      "title": "A candidate zero for actual experiential occurrences: relational stationarity",
+      "headings": [
+        "A candidate zero for actual experiential occurrences: relational stationarity",
+        "Why try a different route?",
+        "1. The general conditional argument",
+        "2. An explicit nontrivial finite constitution",
+        "3. Why this is not yet a derivation from zero",
+        "4. Is the construction genuinely relational?",
+        "5. What would make the candidate experiential?",
+        "6. Result"
+      ],
+      "local_links": [
+        "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md"
+      ],
+      "risk_phrase_lines": [
+        32,
+        49,
+        66,
+        78,
+        98,
+        111,
+        123
       ]
     },
     {
@@ -4157,9 +4190,9 @@
     },
     {
       "path": "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
-      "sha256": "5528104cf5909a69b339156960ba9e496cdb7c0c863a096b71e02edfa0bbeeb7",
-      "bytes": 11310,
-      "lines": 123,
+      "sha256": "0740d945778d628644a4061668b9129bc6eebe823d3c41e9ab3c50acabda01f4",
+      "bytes": 11611,
+      "lines": 125,
       "title": "Energy, organization and the actual experiential total",
       "headings": [
         "Energy, organization and the actual experiential total",
@@ -4172,18 +4205,19 @@
         "Verification"
       ],
       "local_links": [
+        "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
         "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md"
       ],
       "risk_phrase_lines": [
-        12,
-        25,
-        79,
-        88,
-        98,
-        117
+        14,
+        27,
+        81,
+        90,
+        100,
+        119
       ]
     },
     {
@@ -5058,9 +5092,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "0dc6acd809d713a6670e0082937fd551e0d7dbd9774b1abb4f79db1b7c1752c3",
-      "bytes": 54169,
-      "lines": 225,
+      "sha256": "e5e3ef42a5d0b7cf9fbf45e7edff3ba6a674c3385598f06149cd795d671bfa2b",
+      "bytes": 54574,
+      "lines": 227,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5072,6 +5106,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
         "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
         "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
@@ -5185,33 +5220,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        13,
-        23,
-        39,
+        7,
+        15,
+        25,
         41,
-        45,
-        51,
-        61,
+        43,
+        47,
+        53,
         63,
-        81,
+        65,
         83,
-        87,
-        97,
-        101,
-        107,
+        85,
+        89,
+        99,
+        103,
         109,
-        123,
-        127,
-        139,
-        147,
+        111,
+        125,
+        129,
+        141,
         149,
-        153,
-        169,
-        179,
-        196,
-        213,
-        219
+        151,
+        155,
+        171,
+        181,
+        198,
+        215,
+        221
       ]
     },
     {
@@ -5390,9 +5425,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ba1085bd8aff05ba4f50f5870860fd397355a1cd5d9b62867e6d27502565d292",
-      "bytes": 158106,
-      "lines": 1232,
+      "sha256": "c4b597f4733192619700ecb9ac12ee8e3156ab63d7bae89f19e53a296e19c3d9",
+      "bytes": 158391,
+      "lines": 1234,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5536,6 +5571,7 @@
         "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
+        "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
         "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
@@ -6195,6 +6231,7 @@
         "verification/eraser_bell_selection_gate.py",
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
+        "verification/experiential_actual_incidence_test.py",
         "verification/experiential_anatomical_witness_gate.py",
         "verification/experiential_energy_response_test.py",
         "verification/experiential_grounding_rival_gate.py",
@@ -6614,20 +6651,20 @@
         61,
         69,
         79,
-        160,
-        220,
-        294,
-        323,
-        369,
-        399,
-        466,
-        564,
-        579,
-        628,
-        637,
-        640,
-        643,
-        710
+        161,
+        221,
+        295,
+        324,
+        370,
+        400,
+        467,
+        565,
+        580,
+        629,
+        638,
+        641,
+        644,
+        711
       ]
     },
     {

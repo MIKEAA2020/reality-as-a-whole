@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [actual-experience stationary-response candidate](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) derives a zero sum over stipulated actual aspects from common-direction stationarity and a shift-invariant relational term, with an explicit nontrivial finite solution. The functional, nontrivial references, admissible variation, subject incidence and experiential identity are not derived from zero.
+
 The [energy, organization and actual-incidence continuation](EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md) tests a joint-feature score, conditional locality tension, and exact versus statistical actual balance. It does not derive experiential identity, the actual-incidence measure or global energy equivalence.
 
 The [experiential energy-response bridge](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) specializes the normalized score to a canonical distribution and derives a zero weighted response with positive energies and independent conditional ordering predictions. It does not establish experiential valence, actual-incidence weights, or an identity between experiential and physical global zeros.

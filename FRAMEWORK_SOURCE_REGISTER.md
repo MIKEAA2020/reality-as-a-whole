@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 589 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 509 verification Python scripts.
+- 590 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 510 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -19,6 +19,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md](ACOUSTIC_ROUGHNESS_REGISTER_FIXED_ANALYSIS_PLAN.md) — Fixed retrospective test of an acoustic roughness-only rule
 - [ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md](ACTION_UNITY_JOINT_CONTROL_VERSUS_LIVED_PERSPECTIVE.md) — Jointly controlled action versus a lived perspective
 - [ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md](ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md) — Actuality, interventions and Bell experiments
+- [ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) — A candidate zero for actual experiential occurrences: relational stationarity
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
 - [AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md](AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md) — Fixed retrospective analysis: valence, expectation and social choice
 - [AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md](AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md) — Discriminating mismatch from affect-prediction error
@@ -721,6 +722,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 
 - [verification/action_unity_xor_gate.py](verification/action_unity_xor_gate.py)
 - [verification/action_unity_xor_gate_test.py](verification/action_unity_xor_gate_test.py)
+- [verification/actual_experience_variational_zero_test.py](verification/actual_experience_variational_zero_test.py)
 - [verification/affect_choice_heldout.py](verification/affect_choice_heldout.py)
 - [verification/afterimage_cone_contrast_geometry.py](verification/afterimage_cone_contrast_geometry.py)
 - [verification/afterimage_cone_contrast_geometry_test.py](verification/afterimage_cone_contrast_geometry_test.py)

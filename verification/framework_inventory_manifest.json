@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "98af05ece2f6020cc59b8943194cb5ff18bbd1ee",
-  "file_count": 1865,
+  "base_head": "ab0c0b7e606d238db53b0e0d770b8bcc8f06ea8d",
+  "file_count": 1867,
   "files": [
     {
       "path": ".gitattributes",
@@ -42,6 +42,11 @@
       "path": "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
       "bytes": 12498,
       "sha256": "ee65dd4b1f2601f119b388cbccaf18ecd16ae00bac51f16e8f7ffa618bf05fa6"
+    },
+    {
+      "path": "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
+      "bytes": 11922,
+      "sha256": "d9cd3ee46d635ff9e444b62bc1f3c229e1e1309d1163d6e0b7429496d272bab8"
     },
     {
       "path": "ACTUAL_FULFILLMENT_AND_STANDING.md",
@@ -660,8 +665,8 @@
     },
     {
       "path": "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
-      "bytes": 11310,
-      "sha256": "5528104cf5909a69b339156960ba9e496cdb7c0c863a096b71e02edfa0bbeeb7"
+      "bytes": 11611,
+      "sha256": "0740d945778d628644a4061668b9129bc6eebe823d3c41e9ab3c50acabda01f4"
     },
     {
       "path": "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
@@ -800,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 54169,
-      "sha256": "0dc6acd809d713a6670e0082937fd551e0d7dbd9774b1abb4f79db1b7c1752c3"
+      "bytes": 54574,
+      "sha256": "e5e3ef42a5d0b7cf9fbf45e7edff3ba6a674c3385598f06149cd795d671bfa2b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -835,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 158391,
-      "sha256": "c4b597f4733192619700ecb9ac12ee8e3156ab63d7bae89f19e53a296e19c3d9"
+      "bytes": 158691,
+      "sha256": "1c71c2f66b071c8719992d202d553bc6102edd0282951de916692a1f4f50545e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -4564,6 +4569,11 @@
       "sha256": "2592bb50b1e4e376205fc3d33e1248b193a5f0fe36f894a3e06c5435462e71e1"
     },
     {
+      "path": "verification/actual_experience_variational_zero_test.py",
+      "bytes": 3668,
+      "sha256": "0683a63af6fea1884ec8c91f31f18f407b5e17c1ac5b6eeba5149a4f1065e453"
+    },
+    {
       "path": "verification/affect_choice_heldout.json",
       "bytes": 3187,
       "sha256": "e4946847a64272863cd79747b91a09d1f5a8664ba1b566d0106b6ba6b21c1dca"
@@ -7240,8 +7250,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 782230,
-      "sha256": "d54daf2cd5361749068cfc7718fd9068340f3fa00bb9252f58c9f120aec56efd"
+      "bytes": 783693,
+      "sha256": "13c2efdda8fac9c5d9c1f5be2198540448656a7ac7e03c5fd66adf847e40d5bf"
     },
     {
       "path": "verification/project_inventory.py",
