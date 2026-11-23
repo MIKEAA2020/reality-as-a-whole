@@ -2,6 +2,8 @@
 
 ## The correction
 
+**Further user clarification:** the user agrees with the relational or emergent-time direction and asks whether suffering is negative experience. It is a natural case of negative felt valence, and a candidate negative contribution to the experiential zero proposal, but its actual qualitative reality and moral significance are not erased by a global balance. See the [updated experience and time audit](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md).
+
 **Current clarification:** the user is pursuing zero-totality in the strongest appropriate sense as the candidate for an account with no brute remainder, not asking the project to select a separate positive external ground. The [symmetry and measure follow-up](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) tests conditional internal relations and measures within that programme; it does not establish the proposal or resolve its relation to the experiential plurality below.
 
 The [latest performance and residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) records the user's strict demand for self-subsistence without any tolerated brute residue and considers whether zero-totality can support an internal performance. Its finite controls do not establish that outcome.
