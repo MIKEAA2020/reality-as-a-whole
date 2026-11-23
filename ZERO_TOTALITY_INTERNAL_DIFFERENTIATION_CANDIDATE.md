@@ -2,6 +2,8 @@
 
 ## The next constructive step
 
+**Orientation continuation:** [intrinsic symmetry and organization](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) adds a permutation-symmetric term that conditionally reduces the continuous minima to one permutation orbit, and tests when that formal orbit might or might not represent one actual physical–experiential organization.
+
 The [stationary-response model](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) produced zero-sum local responses, but needed unequal reference values as inputs. Can we remove those **fixed unequal references** and have nonzero differences arise within one symmetric constitution?
 
 A finite candidate shows how this could work conditionally. Replace the fixed references with variables governed by the same functional, and give the relationally uniform configuration an instability stabilized by a higher-order term. Under an explicit parameter condition, every global minimum is internally differentiated; a corresponding signed response has zero total and nonzero local values. No externally specified list of unequal references, statistical ensemble, external creator or external time is required *within the model*.

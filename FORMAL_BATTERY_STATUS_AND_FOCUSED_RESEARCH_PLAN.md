@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [intrinsic orientation-selection candidate](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) shows that an assumed permutation-symmetric term can restrict differentiated minima to one formal permutation orbit without selecting a named index. The term, its sign, actual configuration, experiential character and legitimacy of quotienting full subject relations remain open.
+
 The [internal differentiation candidate](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) replaces fixed unequal references with varied internal coordinates and conditionally obtains nonzero zero-sum responses at every global minimum. The instability, functional, actual minimum, experiential identity and orientation remain assumptions or open questions, not foundation-battery passes.
 
 The [actual-experience stationary-response candidate](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) derives a zero sum over stipulated actual aspects from common-direction stationarity and a shift-invariant relational term, with an explicit nontrivial finite solution. The functional, nontrivial references, admissible variation, subject incidence and experiential identity are not derived from zero.
