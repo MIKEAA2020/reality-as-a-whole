@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 650 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 582 verification Python scripts.
+- 651 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 583 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -619,6 +619,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
 - [ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) — Conserved sphere, quantum steering and definite Bell records
 - [ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) — The complete internal sphere and branchwise zero
+- [ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) — One subject–experience candidate tested against two rivals
 - [ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) — Subject locality and the cost of overlapping experiences
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
@@ -1346,6 +1347,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_five_ray_conservation.py](verification/zero_sphere_five_ray_conservation.py)
 - [verification/zero_sphere_five_ray_conservation_test.py](verification/zero_sphere_five_ray_conservation_test.py)
 - [verification/zero_sphere_intrinsic_orientation_test.py](verification/zero_sphere_intrinsic_orientation_test.py)
+- [verification/zero_sphere_mismatch_experience_comparison_test.py](verification/zero_sphere_mismatch_experience_comparison_test.py)
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)
 - [verification/zero_sphere_relative_orientation_test.py](verification/zero_sphere_relative_orientation_test.py)
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)

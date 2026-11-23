@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Common-domain experiential candidate and intervention:** [the sphere–mismatch comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) applies the earlier local-overlap selector to an explicitly extracted quantum coupling graph, compares record-odd, mismatch-only and current-identity packages on the same sphere state, and physically separates the first and third with a phase pulse. Report bounds and a pain–relief research gate are conditional; actual subjects, the preference, phenomenology and calibration are not derived.
+
 **Single-system conservation–record–current synthesis:** [the asymmetric five-ray construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) uses the conservation-derived fractions in one explicit singlet instrument, obtains the full rational joint record table and sharp opposite receiver currents, and proves equality of the entire receiver state across pair/triple settings. It extends to the calibrated clock. The geometric-to-logical identification, interaction, actual subjects and phenomenal response remain assumptions or open demands.
 
 **Sharp currents and experiential-response criterion:** [the sharp-opposition continuation](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) identifies exact opposite current eigenvalues correlated with the sphere record, supplies a calibrated autonomous clock with the sharp probe state and nonzero conditional actual-current means, and derives the precise odd-response condition for subject-pair balance. The full clock current is not generally sharp; the interaction, subjects, felt sign and actual incidence remain unjustified.

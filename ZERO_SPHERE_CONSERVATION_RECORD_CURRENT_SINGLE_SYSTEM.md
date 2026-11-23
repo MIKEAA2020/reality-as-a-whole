@@ -2,6 +2,8 @@
 
 ## Result
 
+**Follow-up:** [A common-domain experiential comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) adds an explicitly specified subject-sector Hamiltonian and distinguishes mismatch and current response proposals by a physical phase intervention. Its experiential identifications remain conditional.
+
 This construction joins several previously separate results **in one state and one set of operators**. Starting with the existing asymmetric five-ray conservation relation, the same intrinsic fractions determine the effects of a specified Alice-side quantum instrument. On an assumed logical singlet, its outcomes are correlated with two opposite Bob-side records, which in turn control the reciprocal memory–battery exchange. The resulting physical currents are sharp and opposite in every record branch. The entire Bob-side density operator—not only the mean current—is identical for the conserved pair and triple instruments.
 
 This makes five connections load-bearing rather than decorative:
