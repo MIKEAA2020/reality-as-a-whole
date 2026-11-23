@@ -1,5 +1,7 @@
 # Reciprocal subject-candidate exchange within the spherical whole
 
+**Sharp-current continuation:** [the experiential-response analysis](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) identifies an exactly sharp opposite-current stage, embeds it in a five-state autonomous clock with a nonzero clock-conditioned actual-current mean, and proves the precise odd-response condition for pairwise balance. The full clock current is not generally sharp, and neither subjecthood nor felt quality is inferred.
+
 ## What is new
 
 The previous [relational sphere construction](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) correlated one energized memory with a battery loss. That was a genuine conserved transfer, but it left an important gap: the proposed subjects could not be made to balance merely by pointing to an unexperienced battery.
@@ -74,7 +76,7 @@ For `0<t<π/2`, conditioning on the record gives
 ⟨J_W₂⟩                     +sin(2t)          −sin(2t).
 ```
 
-Here these are *conditional quantum expectations*. They are not sharp simultaneous current values or direct readouts of feeling. The unconditional `⟨J_M₁⟩` is zero, because the two record branches have equal weight. At the writing endpoint `t=π/2`, the conditional mean currents vanish while the endpoint energy changes are nonzero:
+Here these are *conditional quantum expectations*, not direct readouts of feeling; they do not generally imply sharp current values. There is an important exception: [the sharp-current continuation](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) shows that at `t=π/4` both opposing currents are sharp in each record branch and exactly correlated with the reference. The unconditional `⟨J_M₁⟩` is zero, because the two record branches have equal weight. At the writing endpoint `t=π/2`, the conditional mean currents vanish while the endpoint energy changes are nonzero:
 
 | Record | A spin along reference | `(ΔN_M₁, ΔN_M₂)` | `(ΔN_W₁, ΔN_W₂)` |
 |---|---:|---|---|

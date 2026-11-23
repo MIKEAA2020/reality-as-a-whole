@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Sharp currents and experiential-response criterion:** [the sharp-opposition continuation](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) identifies exact opposite current eigenvalues correlated with the sphere record, supplies a calibrated autonomous clock with the sharp probe state and nonzero conditional actual-current means, and derives the precise odd-response condition for subject-pair balance. The full clock current is not generally sharp; the interaction, subjects, felt sign and actual incidence remain unjustified.
+
 **Reciprocal candidate-subject exchange:** [the reciprocal sphere–record construction](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) gives both proposed memory subjects nonzero opposite physical changes, without treating the batteries as subjects, and embeds the stages in an autonomous clock. It proves a positive, exchange-covariant history-weight counterexample to automatic experiential balance. Subjecthood, the felt-value mapping, incidence and the underlying interactions remain unjustified.
 
 **Integrated relational selector and conserved transfer:** [the joint construction](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) selects the existing spherical recorded state using commuting matching and coherence relations, proves a fidelity bound, and links the same records to conserved memory–battery exchanges in a unique gapped joint ground state. Its representation, constraints, Hamiltonian and physical–experiential bridge are not derived from zero, and its bare conserved energy is positive.
