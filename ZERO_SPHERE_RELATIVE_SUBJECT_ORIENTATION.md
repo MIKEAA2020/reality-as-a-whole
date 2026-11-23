@@ -1,5 +1,7 @@
 # A relative sign on the internal sphere without absolute handedness
 
+**Continuation:** [intrinsic five-ray conservation](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) derives a unique `2+3` grouping and positive four-momentum balance from five generic future null rays, removing the need to choose that grouping by hand. Its canonical relative sign is fixed, and actual interaction, subject and felt valence remain unproved.
+
 ## Result
 
 The preceding [intrinsic-sign test](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) found a sign on an ordered four-direction configuration, but that sign reverses under a spatial orientation reversal and can also reverse under a mere relabelling. A felt positive or negative value should not acquire its sign merely because we change coordinate handedness or rename indistinguishable internal roles.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 623 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 554 verification Python scripts.
+- 624 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 556 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -591,6 +591,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
+- [ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) — An intrinsic 2+3 grouping from the sphere and physical conservation
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
@@ -1295,6 +1296,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)
 - [verification/zero_sphere_asymmetric_closed_exchange.py](verification/zero_sphere_asymmetric_closed_exchange.py)
 - [verification/zero_sphere_asymmetric_closed_exchange_test.py](verification/zero_sphere_asymmetric_closed_exchange_test.py)
+- [verification/zero_sphere_five_ray_conservation.py](verification/zero_sphere_five_ray_conservation.py)
+- [verification/zero_sphere_five_ray_conservation_test.py](verification/zero_sphere_five_ray_conservation_test.py)
 - [verification/zero_sphere_intrinsic_orientation_test.py](verification/zero_sphere_intrinsic_orientation_test.py)
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)
 - [verification/zero_sphere_relative_orientation_test.py](verification/zero_sphere_relative_orientation_test.py)
