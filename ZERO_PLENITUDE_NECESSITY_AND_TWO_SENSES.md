@@ -1,5 +1,7 @@
 # Plenitude, two kinds of intelligibility, and necessity of the whole
 
+**Continuation:** [the necessary-whole constitutive test](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) shows conditionally how a unique physical–experiential constitution entails internal plenitude, and tests why unique physical structure plus zero balance does not alone determine the felt character of a distinguished role.
+
 ## The correction
 
 The user clarifies that complete intelligibility has **structural and experiential** senses; that there is only one whole in the strongest sense; and that every fact happens out of necessity, because a merely possible but unactualized genuine alternative would require an unexplained selection.

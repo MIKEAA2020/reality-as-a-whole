@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3b354294c397787644c521aca4d1d456eff071f1",
-  "file_count": 1954,
+  "base_head": "25973c7d07c73e682a0b1914228678baac8009f8",
+  "file_count": 1956,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 69244,
-      "sha256": "7cd8460cf806daf35e6971de14be22e51e88f126c01cd179f434126983d16ac0"
+      "bytes": 69692,
+      "sha256": "68af0d20d9e910da3be367cffcae726f9347618e888b9ae6d55a2367059fbb25"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 169446,
-      "sha256": "1a917b48ccd970e82a71f64edf7f713faa752ef90630f4a6a1a16ea501c06652"
+      "bytes": 169703,
+      "sha256": "42eaa24d5893e908e25a2b32c2e99b11151d6812eb15fc0db81d00ad08423390"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2879,9 +2879,14 @@
       "sha256": "3274e0b0653a33b790062c61397690b0eab546aaa2edac1397043b9c95c74733"
     },
     {
+      "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
+      "bytes": 9025,
+      "sha256": "cc45cdcd1efb739fb93d1c142d98e3c05c2077e9abacc5a66dd0af245f1a52a9"
+    },
+    {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
-      "bytes": 11376,
-      "sha256": "69ee01707b60f67ad620bd1156a20a64bd7eccf4ee15922515ac700f3ee2af04"
+      "bytes": 11707,
+      "sha256": "d6602a478dd44e50fe2fe61cbdfecab379110d8b9dccbde97b0e0cc3ed7fcc5a"
     },
     {
       "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -7560,8 +7565,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 831518,
-      "sha256": "02eecde9cfc60537deec821311150c84b4752d0a041745479358947b6dd7ab3c"
+      "bytes": 832664,
+      "sha256": "42aa41bb5c5c98587ab5f0c827770785e2f608041c1ed364a3f9fdea6948e390"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9652,6 +9657,11 @@
       "path": "verification/zero_locality_boundary_test.py",
       "bytes": 4727,
       "sha256": "56b9a74033ff7569ed823bb4f44d18d1116c25fdbbc51ad252554b8e7dafd6e1"
+    },
+    {
+      "path": "verification/zero_necessity_constitutive_gate_test.py",
+      "bytes": 2016,
+      "sha256": "5e71b88dc46341c05f98b3af801285b160254f284bd655480caf7e1c3fc08140"
     },
     {
       "path": "verification/zero_plenitude_necessity_test.py",

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Current direct constitutive work:** [the necessity–plenitude constitutive test](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) shows conditionally how an independently justified, unique physical–experiential constitution gives internal plenitude, and exhibits why unique physical structure, both signed types and zero balance do not alone determine felt character at a physically distinguished role. It does not construct that constitution.
+
 **Latest user clarification:** the exhaustive whole is one; full intelligibility is both structural and experiential, with no unexplained selection. The user proposes that every genuine possibility is actual and everything occurs necessarily. [The plenitude and necessity analysis](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) develops the conditional modal consequences, corrects the prior false contrast between a uniquely determined whole and possibility–actuality identity, and distinguishes necessity of the whole from temporal determinism. Deriving the modal principle, actual physical–experiential constitution and relevant zero remains the central task.
 
 **User correction and priority:** the zero-or-infinity argument was already given in [the source conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt) at line 2082. The user considers the case against infinity settled and directs the programme to construct the actual framework and solve physics, not reopen that comparison. Retain the full no-residue demand, the correction to experience rather than awareness, and the distinction between a whole-level quantity and reality itself being a quantity.

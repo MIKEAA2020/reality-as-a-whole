@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 668,
-  "bytes": 8371200,
-  "line_count": 74465,
-  "document_count_with_risk_phrases": 621,
+  "document_count": 669,
+  "bytes": 8381264,
+  "line_count": 74549,
+  "document_count_with_risk_phrases": 622,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "7cd8460cf806daf35e6971de14be22e51e88f126c01cd179f434126983d16ac0",
-      "bytes": 69244,
-      "lines": 289,
+      "sha256": "68af0d20d9e910da3be367cffcae726f9347618e888b9ae6d55a2367059fbb25",
+      "bytes": 69692,
+      "lines": 291,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
@@ -5258,45 +5259,46 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
-        13,
+        7,
+        11,
         15,
         17,
         19,
         21,
-        29,
-        35,
+        23,
+        31,
         37,
-        41,
-        45,
-        51,
-        69,
-        77,
-        87,
-        103,
+        39,
+        43,
+        47,
+        53,
+        71,
+        79,
+        89,
         105,
-        109,
-        115,
-        125,
+        107,
+        111,
+        117,
         127,
-        145,
+        129,
         147,
-        151,
-        161,
-        165,
-        171,
+        149,
+        153,
+        163,
+        167,
         173,
-        187,
-        191,
-        203,
-        211,
+        175,
+        189,
+        193,
+        205,
         213,
-        217,
-        233,
-        243,
-        260,
-        277,
-        283
+        215,
+        219,
+        235,
+        245,
+        262,
+        279,
+        285
       ]
     },
     {
@@ -5475,9 +5477,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b149b9c9ad97f431e6260e28f63ff9dfa6674da5c134229fffef6f85fcdf2e84",
-      "bytes": 169186,
-      "lines": 1316,
+      "sha256": "1a917b48ccd970e82a71f64edf7f713faa752ef90630f4a6a1a16ea501c06652",
+      "bytes": 169446,
+      "lines": 1318,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6063,6 +6065,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
+        "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
@@ -6757,6 +6760,7 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_locality_boundary_test.py",
+        "verification/zero_plenitude_necessity_test.py",
         "verification/zero_point_blowup_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
@@ -6791,14 +6795,14 @@
         404,
         472,
         570,
-        591,
         592,
         593,
-        664,
-        673,
-        676,
-        679,
-        746
+        594,
+        665,
+        674,
+        677,
+        680,
+        747
       ]
     },
     {
@@ -19276,10 +19280,36 @@
       ]
     },
     {
+      "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
+      "sha256": "cc45cdcd1efb739fb93d1c142d98e3c05c2077e9abacc5a66dd0af245f1a52a9",
+      "bytes": 9025,
+      "lines": 78,
+      "title": "One necessary whole: the constitutive test",
+      "headings": [
+        "One necessary whole: the constitutive test",
+        "The direct continuation",
+        "1. From a determining constitution to plenitude within one whole",
+        "2. The decisive test: structural uniqueness versus experiential identity",
+        "3. First-person evidence is not an external selector",
+        "4. Necessity is not moral or causal impotence",
+        "5. What zero still has to determine",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        35,
+        44,
+        74
+      ]
+    },
+    {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
-      "sha256": "69ee01707b60f67ad620bd1156a20a64bd7eccf4ee15922515ac700f3ee2af04",
-      "bytes": 11376,
-      "lines": 106,
+      "sha256": "d6602a478dd44e50fe2fe61cbdfecab379110d8b9dccbde97b0e0cc3ed7fcc5a",
+      "bytes": 11707,
+      "lines": 108,
       "title": "Plenitude, two kinds of intelligibility, and necessity of the whole",
       "headings": [
         "Plenitude, two kinds of intelligibility, and necessity of the whole",
@@ -19292,13 +19322,15 @@
         "6. What is established and what is not"
       ],
       "local_links": [
+        "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md"
       ],
       "risk_phrase_lines": [
-        7,
-        23,
-        61,
-        84
+        3,
+        9,
+        25,
+        63,
+        86
       ]
     },
     {
