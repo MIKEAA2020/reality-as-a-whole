@@ -1,5 +1,7 @@
 # Local recording, zero balance and the experience–physics identity
 
+**Constitutive continuation:** [the joint subject–valence–energy candidate](ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md) tests one physical relation as a proposed source of subject boundaries, felt sign and incidence weighting. It derives the subject-domain boundary-flux condition and identifies specific failures of a bare causal-component/energy-gain version, with a pain-and-relief empirical gate.
+
 ## What this adds
 
 The [preceding steering result](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) ruled out a direct identification of a **conditional quantum expectation** with a definite, locally accessible feeling. Here is a constructive alternative: an explicit local Hamiltonian turns the relevant qubit into a correlated physical record, preserves the appropriate local no-signalling statistics, and yields signed outcomes with zero weighted mean in the stipulated singlet state.
