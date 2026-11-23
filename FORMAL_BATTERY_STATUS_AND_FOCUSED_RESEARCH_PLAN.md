@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [zero-total relational event and record](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) gives a finite neutral sector with a unique invariant distribution, four classes of invariant event laws, and a reversible invariant record that distinguishes two such laws. The event law, model actuality, register resources and experiential interpretation remain supplied or open; no foundational or time battery pass follows.
+
 The [zero-totality performance audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) tests the chat's claim that a determinate act is necessarily unexplained, and gives a nontrivial zero-net cyclic control with a returning endpoint. Its law, state and experiential interpretation are not derived; neither self-subsistence nor a no-residue account is established.
 
 The [updated experience and zero-total chat audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md) tests the claim that closed signed conserved quantities must vanish, gives exact nonzero and zero controls, and retains the user's generalized-energy proposal as a research candidate. It does not derive a cosmological energy or a bridge from net experiential balance to subject constitution; the substantive battery remains open.

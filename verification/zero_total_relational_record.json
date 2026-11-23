@@ -1,0 +1,81 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational and integer",
+  "states": [
+    [
+      -1,
+      0,
+      1
+    ],
+    [
+      -1,
+      1,
+      0
+    ],
+    [
+      0,
+      -1,
+      1
+    ],
+    [
+      0,
+      1,
+      -1
+    ],
+    [
+      1,
+      -1,
+      0
+    ],
+    [
+      1,
+      0,
+      -1
+    ]
+  ],
+  "total_charge_all_states": 0,
+  "symmetry_group_order": 12,
+  "transition_orbit_sizes": {
+    "stay": 1,
+    "flip": 1,
+    "move": 2,
+    "both_moved": 2
+  },
+  "uniform_distribution_each_state": "1/6",
+  "invariant_kernel_family": "stay=a, flip=b, each move=c/2, each both_moved=d/2; a+b+c+d=1",
+  "two_successor_move_rule_forced_probabilities": [
+    "1/2",
+    "1/2"
+  ],
+  "comparison": {
+    "move": {
+      "weights": [
+        "0",
+        "0",
+        "1",
+        "0"
+      ],
+      "record_one_probability": "0"
+    },
+    "flip": {
+      "weights": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "record_one_probability": "1"
+    },
+    "mixture": {
+      "weights": [
+        "1/5",
+        "2/5",
+        "3/10",
+        "1/10"
+      ],
+      "record_one_probability": "2/5"
+    }
+  },
+  "record_map_is_involution_on_72_inputs": true,
+  "scope": "A finite formal classical model with stipulated sector, law and blank register; not cosmological energy, quantum gravity, experienced time, self-subsistence or subject constitution."
+}

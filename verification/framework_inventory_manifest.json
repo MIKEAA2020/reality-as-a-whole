@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a6229136dd0176507e93a9ada19dd76d90ee0d7d",
-  "file_count": 1825,
+  "base_head": "c045a5fd6920062610dcec3f43f8d74b78a2a43f",
+  "file_count": 1829,
   "files": [
     {
       "path": ".gitattributes",
@@ -770,8 +770,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 47325,
-      "sha256": "d4e013dcf87dc5b191a7c734e260417f6e5ceb9fea8f242e067416b8ed361186"
+      "bytes": 47742,
+      "sha256": "621c1cec1e026d418b3d78d2db37640d7f7cedd771765f839c4e70749c4e8a58"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 153501,
-      "sha256": "60aa095ecf77cfe5a8ca81c8ca292f751584da2c61b8cb7425639dbdc07ca17d"
+      "bytes": 153839,
+      "sha256": "6aacb6b3ccbcd8ff4ea712679775384fa9d221c90f3e0dc036d1f171bd2ffdf9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2645,8 +2645,8 @@
     },
     {
       "path": "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
-      "bytes": 13574,
-      "sha256": "bdd7943912cfa3d838db4993b96687550e8894d93aa3745d63754a07f0cac3df"
+      "bytes": 13840,
+      "sha256": "7b81db54773eba6943ee745bd1ad77de8210d9f44c20a2f4a1fc32f81928a02d"
     },
     {
       "path": "V4_FEF_ORIENTATION_GATE.md",
@@ -2815,8 +2815,13 @@
     },
     {
       "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
-      "bytes": 13386,
-      "sha256": "78e1aa1fba8b329e4fc9b096076a312a735c60bb0c620cc21e70889d6ecd234c"
+      "bytes": 13732,
+      "sha256": "eb6feb4ced8581f0b9dcaa89d5bbe5b7b98ff0225e7d3712292df22059cacffc"
+    },
+    {
+      "path": "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
+      "bytes": 9823,
+      "sha256": "4e137a8d47fd25d7c0a3c8beda25bea2edb60424421ffbc99e07de68ef63be65"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -7110,8 +7115,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 755468,
-      "sha256": "bae27c38536c6a59c1d55aa5e6042942f5fb349adfb8e70bc2ea105d8642e815"
+      "bytes": 757017,
+      "sha256": "00b9615adacdd5dda47933b93b67bea2b091e622da8b0eb285a7d1ab893cc383"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9122,6 +9127,21 @@
       "path": "verification/yukawa_seesaw_ckm.py",
       "bytes": 12342,
       "sha256": "e35471e4aacd27ef4f4d9d9973b68b8a78e125c14584958267c798dd56aeb4ba"
+    },
+    {
+      "path": "verification/zero_total_relational_record.json",
+      "bytes": 1397,
+      "sha256": "e4dc5572fda6e0d508f8cdb5291165f7337811c64290e9ca1f710c601cd3b855"
+    },
+    {
+      "path": "verification/zero_total_relational_record.py",
+      "bytes": 4496,
+      "sha256": "619171c4d6ef403f48d0f4599fcfffea9c35fa809472e8f896a611a779878df9"
+    },
+    {
+      "path": "verification/zero_total_relational_record_test.py",
+      "bytes": 2673,
+      "sha256": "9b67e155dd07996dad763caea9b1777493770c00e6cc39006ce77d6934bfb956"
     },
     {
       "path": "workspace1-verification-update.md",

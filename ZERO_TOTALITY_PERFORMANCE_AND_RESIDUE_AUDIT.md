@@ -2,6 +2,8 @@
 
 ## The updated question and answer
 
+**Constructive continuation:** [a zero-total relational event and record](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) derives an invariant-distribution result and a four-class family of event laws in a finite neutral sector. Its record and underlying resources are stipulated; it does not establish self-subsistence or experiential constitution.
+
 The new [chat export](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt) contains the entire previous upload unchanged, beginning at byte 81 after an added source header, followed by 48,104 bytes including an exporter footer. SHA-256: `9f4ece3374b4c1188918edfd227923c78e8f4054b6125cf45a7455fca8fd1c53`. I read the complete added exchange. Its timestamps are file content, not independent evidence. The preceding energy/zero argument is examined in [the earlier audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md).
 
 The user's sharpened proposal is **not** to choose a tolerable residue. It demands complete intelligibility: whatever remains must be self-sufficient, self-existent and self-subsistent, with no brute remainder. The proposed strongest form treats the totality as amounting to nothing or zero, rather than introducing an unexplained positive existent. Experience remains a valid datum, and structural and experiential intelligibility are distinct components. The user also explicitly asks the chat to stop using the misapplied proverb; I will not use that formulation.
