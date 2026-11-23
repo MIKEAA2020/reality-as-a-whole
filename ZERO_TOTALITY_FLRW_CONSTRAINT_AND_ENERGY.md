@@ -2,7 +2,9 @@
 
 ## Why this is relevant
 
-**Constructive continuation:** [the covariant gauge–clock framework](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) goes beyond the homogeneous model by supplying explicit nontrivial classical Einstein–gauge–matter–clock initial data that satisfy all constraint classes. It proposes an independently testable experiential bridge, without claiming nonlinear evolution, measured phenomenology or a fundamental derivation.
+**Constructive continuation:** [the covariant gauge–clock framework](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) goes beyond the homogeneous model by supplying nontrivial classical Einstein–gauge–matter–clock initial data that satisfy all constraint classes; its [nonlinear evolution](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) has since been numerically investigated in planar symmetry. The experiential bridge, observed phenomenology and fundamental derivation remain open.
+
+**Research continuation:** [the zero-energy-universe review](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) compares this constraint with Newtonian energy, gravitational boundary prescriptions, positive quasi-local energy, current observations and quantum-cosmology proposals.
 
 **Updated chat:** [experience, energy and time](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) records the user's correction from awareness to experience, checks the chat's 30% gravitational-energy claim, and compares relational, preferred-foliation and emergent approaches to time.
 
