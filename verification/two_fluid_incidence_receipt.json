@@ -1,0 +1,146 @@
+{
+  "description": "1D periodic fixed-background nonrelativistic two-fluid numerical control; no experiential identification or gravity derived",
+  "parameters": {
+    "amplitude": 0.1,
+    "modulation": 0.5,
+    "q": 1.0,
+    "mass": 1.0,
+    "k": 2,
+    "end": 1.0,
+    "cfl": 0.15
+  },
+  "runs": [
+    {
+      "n": 64,
+      "steps": 68,
+      "dt": 0.014705882352941176,
+      "initial": {
+        "min_species_density": 0.4526484003302917,
+        "max_abs_velocity": 0.0,
+        "gauss_rms": 1.6619684141833096e-16,
+        "valence_transport_residual_rms": 0.0,
+        "net_charge": 6.539753433766185e-17,
+        "incidence": 12.566370614359172,
+        "signed_total": 7.118794102380899e-17,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.34058910566596357,
+        "negative_fraction_interpolated": 0.3413548645747883,
+        "naive_weighted_total": 0.3141592653589794,
+        "electrostatic_plus_kinetic_energy": 0.003927378187858416
+      },
+      "final": {
+        "min_species_density": 0.47444744425128904,
+        "max_abs_velocity": 0.03553339939295434,
+        "gauss_rms": 5.911639239197576e-16,
+        "valence_transport_residual_rms": 2.270295477273951e-06,
+        "net_charge": -9.482642478960967e-16,
+        "incidence": 12.566370614359172,
+        "signed_total": -9.470721053430664e-16,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.4559233290636434,
+        "negative_fraction_interpolated": 0.43676905468710947,
+        "naive_weighted_total": 0.05174910731605392,
+        "electrostatic_plus_kinetic_energy": 0.003927378714696235
+      }
+    },
+    {
+      "n": 128,
+      "steps": 136,
+      "dt": 0.007352941176470588,
+      "initial": {
+        "min_species_density": 0.45066249908715517,
+        "max_abs_velocity": 0.0,
+        "gauss_rms": 2.9215174963228664e-16,
+        "valence_transport_residual_rms": 0.0,
+        "net_charge": -2.179917811255395e-17,
+        "incidence": 12.566370614359172,
+        "signed_total": -1.634938358441546e-17,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.34078112306956165,
+        "negative_fraction_interpolated": 0.340972793672403,
+        "naive_weighted_total": 0.3141592653589793,
+        "electrostatic_plus_kinetic_energy": 0.003927015109469674
+      },
+      "final": {
+        "min_species_density": 0.47225168149174895,
+        "max_abs_velocity": 0.03563813296429895,
+        "gauss_rms": 8.725540187207679e-16,
+        "valence_transport_residual_rms": 1.6345630424519645e-07,
+        "net_charge": -4.25083973194802e-16,
+        "incidence": 12.566370614359172,
+        "signed_total": -4.2495624363554875e-16,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.4340011072348708,
+        "negative_fraction_interpolated": 0.4380938817470865,
+        "naive_weighted_total": 0.05174931300258936,
+        "electrostatic_plus_kinetic_energy": 0.003927015141871293
+      }
+    },
+    {
+      "n": 256,
+      "steps": 272,
+      "dt": 0.003676470588235294,
+      "initial": {
+        "min_species_density": 0.4501656497170877,
+        "max_abs_velocity": 0.0,
+        "gauss_rms": 4.667779511393838e-16,
+        "valence_transport_residual_rms": 0.0,
+        "net_charge": -6.812243160173109e-17,
+        "incidence": 12.566370614359172,
+        "signed_total": -6.744120728571378e-17,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.3408290768185044,
+        "negative_fraction_interpolated": 0.3408770089054636,
+        "naive_weighted_total": 0.3141592653589792,
+        "electrostatic_plus_kinetic_energy": 0.003926992336567939
+      },
+      "final": {
+        "min_species_density": 0.4717060565507785,
+        "max_abs_velocity": 0.03565501560953327,
+        "gauss_rms": 1.7609264111611368e-15,
+        "valence_transport_residual_rms": 1.058643405147897e-08,
+        "net_charge": -6.131018844155798e-16,
+        "incidence": 12.566370614359172,
+        "signed_total": -6.126335426983179e-16,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.4340116393430821,
+        "negative_fraction_interpolated": 0.43834278313092906,
+        "naive_weighted_total": 0.05174932615227567,
+        "electrostatic_plus_kinetic_energy": 0.003926992338584797
+      }
+    },
+    {
+      "n": 512,
+      "steps": 544,
+      "dt": 0.001838235294117647,
+      "initial": {
+        "min_species_density": 0.4500414139884705,
+        "max_abs_velocity": 0.0,
+        "gauss_rms": 7.535243577737486e-16,
+        "valence_transport_residual_rms": 0.0,
+        "net_charge": -5.449794528138487e-17,
+        "incidence": 12.56637061435917,
+        "signed_total": -5.449794528138487e-17,
+        "negative_species_fraction": 0.5000000000000001,
+        "negative_fraction_grid": 0.3408410620962817,
+        "negative_fraction_interpolated": 0.34085304602038874,
+        "naive_weighted_total": 0.3141592653589792,
+        "electrostatic_plus_kinetic_energy": 0.003926990911981444
+      },
+      "final": {
+        "min_species_density": 0.4715698758767192,
+        "max_abs_velocity": 0.03565458873092259,
+        "gauss_rms": 2.7259689130708866e-15,
+        "valence_transport_residual_rms": 6.675799230098809e-10,
+        "net_charge": 1.689436303722931e-16,
+        "incidence": 12.566370614359172,
+        "signed_total": 1.6902878341179527e-16,
+        "negative_species_fraction": 0.5,
+        "negative_fraction_grid": 0.4393937362799716,
+        "negative_fraction_interpolated": 0.43840945706131157,
+        "naive_weighted_total": 0.051749326978604404,
+        "electrostatic_plus_kinetic_energy": 0.003926990912107376
+      }
+    }
+  ]
+}

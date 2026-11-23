@@ -1,5 +1,7 @@
 # A clock–incidence bridge from zero balance to experiential probability
 
+**Continuation:** [two-fluid incidence dynamics](ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md) constructs the two currents from interacting oppositely charged matter, evolves them, derives a local transport law and exposes the distinct mixture-versus-carrier incidence interpretations. Neither interpretation is established as actual experience.
+
 ## Constructive result
 
 The user's correction is decisive: **no literal simulations or simulators are assumed**. The useful structure is self-location among actual experiences. We can make a sharper physical–probabilistic proposal by combining the previous clock–current construction with a positive incidence current:

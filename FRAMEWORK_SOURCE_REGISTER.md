@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 609 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 532 verification Python scripts.
+- 610 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 534 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -607,6 +607,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md](ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md) — Probabilistic self-location within zero totality
 - [ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md](ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md) — Can the actual whole force its own zero total?
 - [ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) — Can intrinsic symmetry select the zero level?
+- [ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md](ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md) — Physical dynamics for the incidence–probability bridge
 - [ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) — An internal connection for zero-total relations
 - [ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md](ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md) — Zero-total internal relations: a three-link consistency test
 - [ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) — A zero-total relational event and its record
@@ -1220,6 +1221,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/turning_entropy_bridge.py](verification/turning_entropy_bridge.py)
 - [verification/two_field_instrument_continuum.py](verification/two_field_instrument_continuum.py)
 - [verification/two_field_spacetime_probe.py](verification/two_field_spacetime_probe.py)
+- [verification/two_fluid_incidence_dynamics.py](verification/two_fluid_incidence_dynamics.py)
+- [verification/two_fluid_incidence_dynamics_test.py](verification/two_fluid_incidence_dynamics_test.py)
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
 - [verification/unity_triple_partition_calibration_gate.py](verification/unity_triple_partition_calibration_gate.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5ce24229a532a94eb9422e101dc8b5062a1645cd",
-  "file_count": 1910,
+  "base_head": "0c5e2c0e351a227fa743ec8647d1033cff0a4cb1",
+  "file_count": 1914,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 62213,
-      "sha256": "069ae291335616c1f52f8d7d1e8fa196f7e20f6969727f82e2393ea4b6f8c1b2"
+      "bytes": 62705,
+      "sha256": "bb1128ce1510d53e374a3a9c09de207be99c0416b1b9ce2f6a18133f6ae9e4bd"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 164258,
-      "sha256": "6ad7e70b5cab483a3d7cbcc7e4742492062b43ebb65596c61c662c613c47a5fa"
+      "bytes": 164616,
+      "sha256": "3096e83e1183c46ce98871d6845ec75e0727786cd1740b8ebb38b085d3a74fe8"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2885,8 +2885,8 @@
     },
     {
       "path": "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
-      "bytes": 13406,
-      "sha256": "08bfcb0db0cdda283d038293f2f3e34182916cd5962e507ff13aa176d45d0200"
+      "bytes": 13754,
+      "sha256": "aeeeacb8f06e9bb9b7a39009dcaf5e630413debea4ac46005a119f5b63ca4d8f"
     },
     {
       "path": "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -2992,6 +2992,11 @@
       "path": "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
       "bytes": 12035,
       "sha256": "1c023359afcde9dcfff1b62515047ef60a78d9639c5979ccab7ba9850cf308c7"
+    },
+    {
+      "path": "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
+      "bytes": 11855,
+      "sha256": "909c9e483753493dad074e19af14bd65aaabaa969139ad693d068fdd550b1f63"
     },
     {
       "path": "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -7430,8 +7435,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 811455,
-      "sha256": "856993b6b9ec46abb9f7cf32249d4557f96bc2e74037ef35b4760cb101ac32c8"
+      "bytes": 812705,
+      "sha256": "dee585f1ea3cc69fc417bed32f1705ec013427da55768b0c622f4ccbd2f9ddab"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9097,6 +9102,21 @@
       "path": "verification/two_field_spacetime_probe.py",
       "bytes": 6683,
       "sha256": "9088917bddee8c4d19de8ee2a4fca9a1b5fd8ab26380379299029d22a1cbf139"
+    },
+    {
+      "path": "verification/two_fluid_incidence_dynamics.py",
+      "bytes": 4937,
+      "sha256": "0eaca66698abf944c7afeb20f4ba5e927d1aca8b79661e1cd26410ceeb52ee48"
+    },
+    {
+      "path": "verification/two_fluid_incidence_dynamics_test.py",
+      "bytes": 3569,
+      "sha256": "f446602123d987616095d2fa06fc4ed23d0b09c1a4a081e41017dbe639c347aa"
+    },
+    {
+      "path": "verification/two_fluid_incidence_receipt.json",
+      "bytes": 5701,
+      "sha256": "0e6669c15207d8a4806df689962f757fdc194c84f6a246f5c340646a24208488"
     },
     {
       "path": "verification/two_subject_reversible_selector.json",
