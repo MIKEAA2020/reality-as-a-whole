@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 631,
-  "bytes": 7866619,
-  "line_count": 69369,
-  "document_count_with_risk_phrases": 584,
+  "document_count": 632,
+  "bytes": 7878785,
+  "line_count": 69498,
+  "document_count_with_risk_phrases": 585,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4156,10 +4156,41 @@
       ]
     },
     {
+      "path": "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
+      "sha256": "5528104cf5909a69b339156960ba9e496cdb7c0c863a096b71e02edfa0bbeeb7",
+      "bytes": 11310,
+      "lines": 123,
+      "title": "Energy, organization and the actual experiential total",
+      "headings": [
+        "Energy, organization and the actual experiential total",
+        "The next step",
+        "1. A joint energy–organization candidate",
+        "2. Context dependence: a conditional locality test",
+        "3. From the ensemble to actual occurrences",
+        "4. What would a non-fitted bridge require?",
+        "5. Foundational status",
+        "Verification"
+      ],
+      "local_links": [
+        "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
+        "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
+        "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
+        "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md"
+      ],
+      "risk_phrase_lines": [
+        12,
+        25,
+        79,
+        88,
+        98,
+        117
+      ]
+    },
+    {
       "path": "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
-      "sha256": "cc02db5f9c98d79248591fe53966526057bd5c0f204a8762d57bb0be21f729fd",
-      "bytes": 12712,
-      "lines": 108,
+      "sha256": "0043257cb16a31dd34ad578e5df1468d6368e78208e5555d7fcd59f0560d2626",
+      "bytes": 12987,
+      "lines": 110,
       "title": "A candidate bridge from energy differences to signed experience",
       "headings": [
         "A candidate bridge from energy differences to signed experience",
@@ -4172,18 +4203,19 @@
         "6. Does this bridge the two global zeros?"
       ],
       "local_links": [
+        "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
         "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
         "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
         "EXPERIENTIAL_ZERO_CANDIDATE_AND_ENERGY_BRIDGE.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md"
       ],
       "risk_phrase_lines": [
-        43,
-        54,
-        70,
-        80,
-        102,
-        106
+        45,
+        56,
+        72,
+        82,
+        104,
+        108
       ]
     },
     {
@@ -5026,9 +5058,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "fd824e2c8f644f267c95be3c9fc3daa0ce0847956d257a3fc5e8d403b539205a",
-      "bytes": 53844,
-      "lines": 223,
+      "sha256": "0dc6acd809d713a6670e0082937fd551e0d7dbd9774b1abb4f79db1b7c1752c3",
+      "bytes": 54169,
+      "lines": 225,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5040,6 +5072,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
         "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md",
         "EXPERIENTIAL_RELATIONAL_SCALE_WITHOUT_GLOBAL_SYMMETRY.md",
@@ -5152,32 +5185,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        21,
-        37,
+        5,
+        13,
+        23,
         39,
-        43,
-        49,
-        59,
+        41,
+        45,
+        51,
         61,
-        79,
+        63,
         81,
-        85,
-        95,
-        99,
-        105,
+        83,
+        87,
+        97,
+        101,
         107,
-        121,
-        125,
-        137,
-        145,
+        109,
+        123,
+        127,
+        139,
         147,
-        151,
-        167,
-        177,
-        194,
-        211,
-        217
+        149,
+        153,
+        169,
+        179,
+        196,
+        213,
+        219
       ]
     },
     {
@@ -5356,9 +5390,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "20c38f9b824958feda8c90d3395b4bc3e4f42cd46e76434b11462b1419613f21",
-      "bytes": 157850,
-      "lines": 1230,
+      "sha256": "ba1085bd8aff05ba4f50f5870860fd397355a1cd5d9b62867e6d27502565d292",
+      "bytes": 158106,
+      "lines": 1232,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5502,6 +5536,7 @@
         "EXPERIENCE_AND_CORTICAL_NECESSITY_WITNESS_GATE.md",
         "EXPERIENCE_ASSAY_LATENT_IDENTIFIABILITY.md",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
+        "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
         "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md",
         "EXPERIENTIAL_MISMATCH_CALIBRATION_TRANSPORT_GATE.md",
@@ -6161,6 +6196,7 @@
         "verification/experience_collapse_identifiability.py",
         "verification/experience_ground_support_toy.py",
         "verification/experiential_anatomical_witness_gate.py",
+        "verification/experiential_energy_response_test.py",
         "verification/experiential_grounding_rival_gate.py",
         "verification/experiential_mismatch_transport_gate.py",
         "verification/experiential_polarity_calibration_test.py",
@@ -6578,20 +6614,20 @@
         61,
         69,
         79,
-        159,
-        219,
-        293,
-        322,
-        368,
-        398,
-        465,
-        563,
-        578,
-        627,
-        636,
-        639,
-        642,
-        709
+        160,
+        220,
+        294,
+        323,
+        369,
+        399,
+        466,
+        564,
+        579,
+        628,
+        637,
+        640,
+        643,
+        710
       ]
     },
     {

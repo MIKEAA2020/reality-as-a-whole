@@ -2,6 +2,8 @@
 
 ## Proposal and result
 
+**Continuation:** [energy, organization and actual incidence](EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md) introduces a pre-specified organizational feature, tests context dependence and distinguishes an ensemble zero from the actual finite experiential total.
+
 The [normalized-response candidate](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) left its variation unspecified. A more definite **conditional** bridge is to take a familiar energy-dependent statistical family and ask whether its normalized response could also be an experiential contribution:
 
 > In a specified physical organization, the signed experiential contribution of an occurrence is the negative of its energy's deviation from the internally weighted mean, divided by the corresponding energy standard deviation.

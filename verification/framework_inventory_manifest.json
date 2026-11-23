@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f84b69a5a66b7606fa2acf96acd830fc2cbb8b81",
-  "file_count": 1863,
+  "base_head": "98af05ece2f6020cc59b8943194cb5ff18bbd1ee",
+  "file_count": 1865,
   "files": [
     {
       "path": ".gitattributes",
@@ -659,9 +659,14 @@
       "sha256": "393b809ca4227d0d61cf71b03cdd96981907f1dd8225df19381042fcbf911fc1"
     },
     {
+      "path": "EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md",
+      "bytes": 11310,
+      "sha256": "5528104cf5909a69b339156960ba9e496cdb7c0c863a096b71e02edfa0bbeeb7"
+    },
+    {
       "path": "EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md",
-      "bytes": 12712,
-      "sha256": "cc02db5f9c98d79248591fe53966526057bd5c0f204a8762d57bb0be21f729fd"
+      "bytes": 12987,
+      "sha256": "0043257cb16a31dd34ad578e5df1468d6368e78208e5555d7fcd59f0560d2626"
     },
     {
       "path": "EXPERIENTIAL_FOUNDATION_POSITIVE_CONSTRUCTION.md",
@@ -795,8 +800,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 53844,
-      "sha256": "fd824e2c8f644f267c95be3c9fc3daa0ce0847956d257a3fc5e8d403b539205a"
+      "bytes": 54169,
+      "sha256": "0dc6acd809d713a6670e0082937fd551e0d7dbd9774b1abb4f79db1b7c1752c3"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -830,8 +835,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 158106,
-      "sha256": "ba1085bd8aff05ba4f50f5870860fd397355a1cd5d9b62867e6d27502565d292"
+      "bytes": 158391,
+      "sha256": "c4b597f4733192619700ecb9ac12ee8e3156ab63d7bae89f19e53a296e19c3d9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5414,6 +5419,11 @@
       "sha256": "f86fc5320210f4d83f2321e1a60d0ddc89f776e5c5603b28ab948449ea8d5de7"
     },
     {
+      "path": "verification/experiential_actual_incidence_test.py",
+      "bytes": 3219,
+      "sha256": "dd8c43a9fb0c54329915bac1da017aa1d91bdd213d638977e62d33199a7b8d24"
+    },
+    {
       "path": "verification/experiential_anatomical_witness_gate.json",
       "bytes": 406,
       "sha256": "9e89cad814e540d0ba149a91856465fb540a539e3fa1c2ef5703d4974937498b"
@@ -7230,8 +7240,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 780932,
-      "sha256": "92ba2043f006e87b72554d718a6c1c8a1c361d69611e95f38e0471cb8bec080d"
+      "bytes": 782230,
+      "sha256": "d54daf2cd5361749068cfc7718fd9068340f3fa00bb9252f58c9f120aec56efd"
     },
     {
       "path": "verification/project_inventory.py",

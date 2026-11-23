@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [energy, organization and actual-incidence continuation](EXPERIENTIAL_ENERGY_ORGANIZATION_AND_ACTUAL_INCIDENCE.md) tests a joint-feature score, conditional locality tension, and exact versus statistical actual balance. It does not derive experiential identity, the actual-incidence measure or global energy equivalence.
+
 The [experiential energy-response bridge](EXPERIENTIAL_ENERGY_RESPONSE_BRIDGE.md) specializes the normalized score to a canonical distribution and derives a zero weighted response with positive energies and independent conditional ordering predictions. It does not establish experiential valence, actual-incidence weights, or an identity between experiential and physical global zeros.
 
 The [experiential score invariant candidate](EXPERIENTIAL_SCORE_INVARIANT_CANDIDATE.md) derives a zero weighted mean and unit weighted variance for a normalized score under explicit finite assumptions, with relational reparameterization and coarse-graining controls. Its distinguished variation, actual-experience measure, phenomenal identity, physical bridge and no-residue constitution are open.
