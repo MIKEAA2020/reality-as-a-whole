@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**User correction:** the zero-or-infinity argument was already given in [the source conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt) at line 2082: ordinary finite nonzero total values are argued to require an unexplained selection, while infinity is challenged and zero is the candidate left. Do not restart by treating an arbitrary finite alternative as if that argument had not been made. Develop the zero/infinity comparison under the full no-residue demand, while preserving the user's later correction to experience rather than awareness and not assuming reality itself is a quantity. See the corrected [direct foundational argument](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md).
+
 The [direct foundational bridge argument](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md) refocuses on whether complete self-sufficiency requires an intrinsically zero constitution that determines actual experiential organization. Collective scaling preserves nontrivial local differences, but can be centered on any total and leaves distinct organizations fixed. It separates the user's zero-dominance thesis from the stronger required identification, and structural uniqueness from experiential uniqueness. Neither main implication is yet established.
 
 The [experiential one-form and loop continuation](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) explores a combined exact internal relation that balances two nonzero subject-history totals, and checks nonexact circulation and topology. The actual experiential mapping, incidence, closed boundary, scale and self-subsistent law remain open.
