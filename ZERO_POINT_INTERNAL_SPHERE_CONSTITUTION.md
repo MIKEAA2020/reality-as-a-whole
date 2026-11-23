@@ -1,6 +1,6 @@
 # Zero as a point with an internally differentiated sphere
 
-**Continuation:** [the relativistic point–sphere construction](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) connects an internal direction sphere to null cones, shows how an embedded cone fixes a local metric up to conformal scale, and replaces frame-dependent angular comparisons with Lorentz-invariant relations. It does not derive spacetime or experience from zero.
+**Continuations:** [the relativistic point–sphere construction](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) connects an internal direction sphere to null cones, shows how an embedded cone fixes a local metric up to conformal scale, and replaces frame-dependent angular comparisons with Lorentz-invariant relations. [The intrinsic sign and constitution test](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) constructs a signed four-direction invariant and tests the physically real role distinctions, actual incidence and phenomenal identity it would require. Neither derives spacetime or experience from zero.
 
 ## The user's idea
 

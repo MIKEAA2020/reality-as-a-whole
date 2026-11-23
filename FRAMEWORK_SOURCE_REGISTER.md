@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 621 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 551 verification Python scripts.
+- 622 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 552 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -586,6 +586,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
 - [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
+- [ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) — Zero's internal sphere: a direct test of physical and experiential constitution
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
@@ -1293,6 +1294,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)
 - [verification/zero_sphere_asymmetric_closed_exchange.py](verification/zero_sphere_asymmetric_closed_exchange.py)
 - [verification/zero_sphere_asymmetric_closed_exchange_test.py](verification/zero_sphere_asymmetric_closed_exchange_test.py)
+- [verification/zero_sphere_intrinsic_orientation_test.py](verification/zero_sphere_intrinsic_orientation_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)

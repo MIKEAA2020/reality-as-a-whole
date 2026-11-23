@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a5aa68f119debaa75863615c4ea99f024ec62118",
-  "file_count": 1944,
+  "base_head": "18ed6207af4e931152ae291b624577efec5d13cc",
+  "file_count": 1946,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 67372,
-      "sha256": "e93f4a8779e206d8e199b846a1e842d81313dab4b1a40ef7b7e621f816be43b5"
+      "bytes": 67810,
+      "sha256": "ee53c0386b125f370e3ac84371cfd056ffc15d2a46f55e95c645e0aeab48ee8f"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 168105,
-      "sha256": "73a734d5fd421e86b20fbb56d1c645a2a1e2ad00cce40a325aee45144275973f"
+      "bytes": 168415,
+      "sha256": "c599617169747fb7bdae78a2fbafd94834bdee9a3e8bc844ac6f927d3badece2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2885,8 +2885,13 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "bytes": 10446,
-      "sha256": "7744a12038853d047edd87324e66f8d6e9c5dbb398d8a176f13e895f83ad9f1c"
+      "bytes": 10694,
+      "sha256": "19cb0cdde7df64e711ca710516885fb9beef6f6aac69a1ffb40d7ffccc7cace4"
+    },
+    {
+      "path": "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
+      "bytes": 11669,
+      "sha256": "9b934f3af2bff0ded9f1e26ab75925c05f57b0474b3e36c98148d4dc8955c27b"
     },
     {
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
@@ -7540,8 +7545,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 826438,
-      "sha256": "0c58999136e71f448e135c5b77a624491d8d23b5a9b962d05f348efa162d7597"
+      "bytes": 827785,
+      "sha256": "a39e3b5f7db6d97853102db8fd939746f2a9fd4f8e9b0d031b3fd66d5cfa749c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9652,6 +9657,11 @@
       "path": "verification/zero_sphere_asymmetric_closed_exchange_test.py",
       "bytes": 2637,
       "sha256": "3583b8ac8f207a4332a83a52560c354298ebf12e79a53e63e0c462a1bdf379ca"
+    },
+    {
+      "path": "verification/zero_sphere_intrinsic_orientation_test.py",
+      "bytes": 3032,
+      "sha256": "3cf827c0595a21116e906ba674eed889dd754d283c6e33d2399f73ff5b1498e4"
     },
     {
       "path": "verification/zero_total_flrw_constraint_test.py",
