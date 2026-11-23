@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Finite symmetric reference:** [the tetrahedral construction](FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md) realizes four exact reference labels in a six-spin singlet sector, produces opposite spin-zero encoded records, and constructs both an exactly continuous logical-rotation-invariant joint state and a tailored invariant preparation. A second orthogonal state has the same symmetry, record zero and label statistics but distinct internal correlations. The symmetry, factorization, interaction, actual subjects and felt character are not derived from zero.
+
 **Abaee preprint and spherical reference correction:** [the process-currying analysis](ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md) distinguishes exact finite universal process programming from our specified spherical controlled interaction. Normalizable reference wavepackets give finite-resolution measurements, while the matched-record zero persists. Full-support continuum states do not supply exact individually preparable direction eigenstates. The preprint's supplementary verifier was not run; this is a scoped analysis, not a full proof audit.
 
 **Spherical plenitude and branchwise record balance:** [the symmetric reference construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) assumes a rotation-invariant full-support sphere reference and constructs zero-spin encoded opposite records for every reference direction. It separates exact record-operator zero from averaging and tests a conditional-mean no-signalling obstruction. The reference, physical realization, all-possibilities ontology and actual experiential identification remain assumptions or open demands.

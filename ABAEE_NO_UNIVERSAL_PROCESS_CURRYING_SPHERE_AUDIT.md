@@ -1,5 +1,7 @@
 # Abaee's process-currying preprint and the internal sphere
 
+**Finite-reference continuation:** [the tetrahedral construction](FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md) shows that continuous rotational invariance of a particular finite joint state does not entail exact universal programming of all measurement directions. A tailored invariant state-preparing Hamiltonian is likewise distinct from a universal processor.
+
 ## Source and scope
 
 The supplied [DOI](https://doi.org/10.5281/zenodo.21795780) resolves to Amin Abaee, *No Universal Process Currying: The Intercept Principle, Environmental Currying, and Finite-Dimensional Obstructions to Exact Process Storage, Evaluation, and Recovery*, Zenodo preprint, version 4, published 4 August 2026. The record lists a manuscript and a supplementary verification archive.
