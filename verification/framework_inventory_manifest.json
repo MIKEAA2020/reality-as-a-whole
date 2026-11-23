@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0c5e2c0e351a227fa743ec8647d1033cff0a4cb1",
-  "file_count": 1914,
+  "base_head": "d0a4b467890d3273f5d53003607c86e4493c96b7",
+  "file_count": 1918,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 62705,
-      "sha256": "bb1128ce1510d53e374a3a9c09de207be99c0416b1b9ce2f6a18133f6ae9e4bd"
+      "bytes": 63127,
+      "sha256": "81932c6f398f3c201d2b8179daaeff5784996878105ce22d22b8d820c6eff55f"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 164616,
-      "sha256": "3096e83e1183c46ce98871d6845ec75e0727786cd1740b8ebb38b085d3a74fe8"
+      "bytes": 164979,
+      "sha256": "c66bab52abf5f28b85145399f33f8cf21feb616eab6a70a547d93157e8cb7d42"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2899,6 +2899,11 @@
       "sha256": "b33c362b372fa4054d361366241418caf996ab277dfa74cb1d1c0ab564a29b85"
     },
     {
+      "path": "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
+      "bytes": 11854,
+      "sha256": "5c64dfe98fb95082757522908c765657aaa22ef6c6e804bafad344f2c3bdbf1b"
+    },
+    {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
       "bytes": 15636,
       "sha256": "588e012c2317a706cc13012e17c548db6306f5a9dcaea6af0d09cd6e297d2c7e"
@@ -2995,8 +3000,8 @@
     },
     {
       "path": "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
-      "bytes": 11855,
-      "sha256": "909c9e483753493dad074e19af14bd65aaabaa969139ad693d068fdd550b1f63"
+      "bytes": 12215,
+      "sha256": "d8ff02b56241c6e132a0e3eab63b50a57e3751dbf390727ca4c54d9433d7b3c3"
     },
     {
       "path": "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -5524,6 +5529,21 @@
       "sha256": "fcde1b4ea10b726542140f044257ea6c032dfa369406a2e68af1323ea01bddfc"
     },
     {
+      "path": "verification/energy_exchange_incidence.py",
+      "bytes": 3311,
+      "sha256": "1fee99aebf78fb8ae6171f1569aab2329c62602919063ce61bb88d5b1677785b"
+    },
+    {
+      "path": "verification/energy_exchange_incidence_receipt.json",
+      "bytes": 5325,
+      "sha256": "23e40c081ec9be1f1398fa062379767f277030e1118fe50a2fd2fe6ec9ce2c17"
+    },
+    {
+      "path": "verification/energy_exchange_incidence_test.py",
+      "bytes": 2650,
+      "sha256": "1dcdd2bddac454249cddd6298c6cf731e60c51bbdcaeadd8186de00619bb4072"
+    },
+    {
       "path": "verification/equilibrium_mismatch_coarse_graining.json",
       "bytes": 1865,
       "sha256": "b1ceabc7dd46eb35534c61c39c128cb4e6612391afa45d21abb06765be5ad827"
@@ -7435,8 +7455,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 812705,
-      "sha256": "dee585f1ea3cc69fc417bed32f1705ec013427da55768b0c622f4ccbd2f9ddab"
+      "bytes": 814083,
+      "sha256": "19bd05af36cf5afa1901e05b47fdc4efe1f661ada6ff195f913e224c7334346f"
     },
     {
       "path": "verification/project_inventory.py",

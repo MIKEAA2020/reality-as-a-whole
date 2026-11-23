@@ -1,5 +1,7 @@
 # Physical dynamics for the incidence–probability bridge
 
+**Continuation:** [the energy-exchange incidence bridge](ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md) replaces bare charge sign with a charge-conjugation-even energy-flow candidate, derives its boundary balance and tests both a nonzero one-sided history and a symmetric zero history. Experiential identity and the complete-domain condition remain open.
+
 ## What this continuation accomplishes
 
 The previous [clock–incidence bridge](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) introduced a signed current `J` and positive incidence current `K`, but did not construct them dynamically. Here we build both from a single concrete physical system: **two oppositely charged, conserved fluid populations interacting with an electric field**. This is a restricted fixed-background, nonrelativistic plasma model—not emergent spacetime, gravity, a brain, or a physical theory of experience.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 653,
-  "bytes": 8192692,
-  "line_count": 72481,
-  "document_count_with_risk_phrases": 605,
+  "document_count": 654,
+  "bytes": 8205686,
+  "line_count": 72610,
+  "document_count_with_risk_phrases": 606,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "bb1128ce1510d53e374a3a9c09de207be99c0416b1b9ce2f6a18133f6ae9e4bd",
-      "bytes": 62705,
-      "lines": 263,
+      "sha256": "81932c6f398f3c201d2b8179daaeff5784996878105ce22d22b8d820c6eff55f",
+      "bytes": 63127,
+      "lines": 265,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
@@ -5242,38 +5243,38 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        15,
-        19,
-        25,
-        43,
-        51,
-        61,
-        77,
+        13,
+        17,
+        21,
+        27,
+        45,
+        53,
+        63,
         79,
-        83,
-        89,
-        99,
+        81,
+        85,
+        91,
         101,
-        119,
+        103,
         121,
-        125,
-        135,
-        139,
-        145,
+        123,
+        127,
+        137,
+        141,
         147,
-        161,
-        165,
-        177,
-        185,
+        149,
+        163,
+        167,
+        179,
         187,
-        191,
-        207,
-        217,
-        234,
-        251,
-        257
+        189,
+        193,
+        209,
+        219,
+        236,
+        253,
+        259
       ]
     },
     {
@@ -5452,9 +5453,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6ad7e70b5cab483a3d7cbcc7e4742492062b43ebb65596c61c662c613c47a5fa",
-      "bytes": 164258,
-      "lines": 1277,
+      "sha256": "3096e83e1183c46ce98871d6845ec75e0727786cd1740b8ebb38b085d3a74fe8",
+      "bytes": 164616,
+      "lines": 1280,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6063,6 +6064,7 @@
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
         "ZERO_TOTALITY_SYMMETRY_OF_ACTUAL_WHOLE.md",
         "ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md",
+        "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
         "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
@@ -6662,6 +6664,8 @@
         "verification/turning_entropy_bridge.py",
         "verification/two_field_instrument_continuum.py",
         "verification/two_field_spacetime_probe.py",
+        "verification/two_fluid_incidence_dynamics.py",
+        "verification/two_fluid_incidence_dynamics_test.py",
         "verification/two_subject_reversible_selector.py",
         "verification/underground_collapse_scope.py",
         "verification/unity_triple_partition_calibration_gate.py",
@@ -6730,11 +6734,11 @@
         472,
         570,
         586,
-        649,
-        658,
-        661,
-        664,
-        731
+        650,
+        659,
+        662,
+        665,
+        732
       ]
     },
     {
@@ -19334,6 +19338,35 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
+      "sha256": "5c64dfe98fb95082757522908c765657aaa22ef6c6e804bafad344f2c3bdbf1b",
+      "bytes": 11854,
+      "lines": 122,
+      "title": "Energy exchange, experiential incidence and whole-history balance",
+      "headings": [
+        "Energy exchange, experiential incidence and whole-history balance",
+        "Why this is a better physical question",
+        "1. The physical identity",
+        "2. Candidate experience and self-location",
+        "3. Concrete numerical test: one interval does not balance",
+        "4. Exact conditional balance on a symmetric interval",
+        "5. Symmetries and an effective covariant extension",
+        "6. The next constitutive problem"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
+        "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
+        "verification/energy_exchange_incidence_receipt.json"
+      ],
+      "risk_phrase_lines": [
+        32,
+        61,
+        65,
+        107,
+        111
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
       "sha256": "588e012c2317a706cc13012e17c548db6306f5a9dcaea6af0d09cd6e297d2c7e",
       "bytes": 15636,
@@ -19966,9 +19999,9 @@
     },
     {
       "path": "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
-      "sha256": "909c9e483753493dad074e19af14bd65aaabaa969139ad693d068fdd550b1f63",
-      "bytes": 11855,
-      "lines": 130,
+      "sha256": "d8ff02b56241c6e132a0e3eab63b50a57e3751dbf390727ca4c54d9433d7b3c3",
+      "bytes": 12215,
+      "lines": 132,
       "title": "Physical dynamics for the incidence–probability bridge",
       "headings": [
         "Physical dynamics for the incidence–probability bridge",
@@ -19981,12 +20014,13 @@
         "Reproduction and checks"
       ],
       "local_links": [
+        "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "verification/two_fluid_incidence_receipt.json"
       ],
       "risk_phrase_lines": [
-        83,
-        98
+        85,
+        100
       ]
     },
     {

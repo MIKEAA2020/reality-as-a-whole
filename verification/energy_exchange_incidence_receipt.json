@@ -1,0 +1,137 @@
+{
+  "scope": "finite 1D two-fluid classical control, endpoint equality is imposed by time symmetry; no real experience or zero physical energy derived",
+  "runs": [
+    {
+      "n": 64,
+      "future": {
+        "n": 64,
+        "end": 1.0,
+        "steps": 68,
+        "initial_field_energy": 0.003927378187858416,
+        "final_field_energy": 0.00022634448598167365,
+        "signed_work_integral": -0.003701033717463816,
+        "field_energy_change": -0.0037010337018767423,
+        "work_identity_error": -1.558707373242041e-11,
+        "total_incidence": 12.566370614359167,
+        "negative_incidence_fraction": 0.962414644581642,
+        "end_density_min": 0.47444744425128904,
+        "end_speed_max": 0.03553339939295434
+      },
+      "past_reversed_orientation": {
+        "n": 64,
+        "end": -1.0,
+        "steps": 68,
+        "initial_field_energy": 0.003927378187858416,
+        "final_field_energy": 0.00022634448598167365,
+        "signed_work_integral": -0.003701033717463816,
+        "field_energy_change": -0.0037010337018767423,
+        "work_identity_error": -1.558707373242041e-11,
+        "total_incidence": 12.566370614359167,
+        "negative_incidence_fraction": 0.030232414241887377,
+        "end_density_min": 0.47444744425128904,
+        "end_speed_max": 0.03553339939295434
+      },
+      "symmetric_endpoint_field_energy_difference": 0.0,
+      "symmetric_negative_incidence_fraction": 0.4963235294117648
+    },
+    {
+      "n": 128,
+      "future": {
+        "n": 128,
+        "end": 1.0,
+        "steps": 136,
+        "initial_field_energy": 0.003927015109469674,
+        "final_field_energy": 0.00022632276107670992,
+        "signed_work_integral": -0.003700692349373166,
+        "field_energy_change": -0.0037006923483929636,
+        "work_identity_error": -9.802024643346119e-13,
+        "total_incidence": 12.566370614359196,
+        "negative_incidence_fraction": 0.9653788116702909,
+        "end_density_min": 0.47225168149174895,
+        "end_speed_max": 0.03563813296429895
+      },
+      "past_reversed_orientation": {
+        "n": 128,
+        "end": -1.0,
+        "steps": 136,
+        "initial_field_energy": 0.003927015109469674,
+        "final_field_energy": 0.00022632276107670992,
+        "signed_work_integral": -0.003700692349373166,
+        "field_energy_change": -0.0037006923483929636,
+        "work_identity_error": -9.802024643346119e-13,
+        "total_incidence": 12.566370614359196,
+        "negative_incidence_fraction": 0.030944717741473057,
+        "end_density_min": 0.47225168149174895,
+        "end_speed_max": 0.03563813296429895
+      },
+      "symmetric_endpoint_field_energy_difference": 0.0,
+      "symmetric_negative_incidence_fraction": 0.49816176470588197
+    },
+    {
+      "n": 256,
+      "future": {
+        "n": 256,
+        "end": 1.0,
+        "steps": 272,
+        "initial_field_energy": 0.003926992336567939,
+        "final_field_energy": 0.00022632139713604514,
+        "signed_work_integral": -0.003700670939493346,
+        "field_energy_change": -0.003700670939431894,
+        "work_identity_error": -6.14521454556094e-14,
+        "total_incidence": 12.566370614359139,
+        "negative_incidence_fraction": 0.9670331988411492,
+        "end_density_min": 0.4717060565507785,
+        "end_speed_max": 0.03565501560953327
+      },
+      "past_reversed_orientation": {
+        "n": 256,
+        "end": -1.0,
+        "steps": 272,
+        "initial_field_energy": 0.003926992336567939,
+        "final_field_energy": 0.00022632139713604514,
+        "signed_work_integral": -0.003700670939493346,
+        "field_energy_change": -0.003700670939431894,
+        "work_identity_error": -6.14521454556094e-14,
+        "total_incidence": 12.566370614359139,
+        "negative_incidence_fraction": 0.031128565864734125,
+        "end_density_min": 0.4717060565507785,
+        "end_speed_max": 0.03565501560953327
+      },
+      "symmetric_endpoint_field_energy_difference": 0.0,
+      "symmetric_negative_incidence_fraction": 0.4990808823529417
+    },
+    {
+      "n": 512,
+      "future": {
+        "n": 512,
+        "end": 1.0,
+        "steps": 544,
+        "initial_field_energy": 0.003926990911981444,
+        "final_field_energy": 0.0002263213117923087,
+        "signed_work_integral": -0.003700669600192982,
+        "field_energy_change": -0.0037006696001891356,
+        "work_identity_error": -3.8463156271095755e-15,
+        "total_incidence": 12.566370614359078,
+        "negative_incidence_fraction": 0.9679410544239129,
+        "end_density_min": 0.4715698758767192,
+        "end_speed_max": 0.03565458873092259
+      },
+      "past_reversed_orientation": {
+        "n": 512,
+        "end": -1.0,
+        "steps": 544,
+        "initial_field_energy": 0.003926990911981444,
+        "final_field_energy": 0.0002263213117923087,
+        "signed_work_integral": -0.003700669600192982,
+        "field_energy_change": -0.0037006696001891356,
+        "work_identity_error": -3.8463156271095755e-15,
+        "total_incidence": 12.566370614359078,
+        "negative_incidence_fraction": 0.031139827929029792,
+        "end_density_min": 0.4715698758767192,
+        "end_speed_max": 0.03565458873092259
+      },
+      "symmetric_endpoint_field_energy_difference": 0.0,
+      "symmetric_negative_incidence_fraction": 0.4995404411764713
+    }
+  ]
+}
