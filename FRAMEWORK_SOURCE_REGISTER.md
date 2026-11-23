@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 643 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 575 verification Python scripts.
+- 644 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 576 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -13,6 +13,7 @@
 
 Alphabetical order is not an endorsement or a precedence rule. Titles may themselves contain historical overclaims.
 
+- [ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md](ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md) — Abaee's process-currying preprint and the internal sphere
 - [ABSOLUTE_CONSTITUTION_FRAMEWORK.md](ABSOLUTE_CONSTITUTION_FRAMEWORK.md) — The complete absolute: consolidated framework and implementation plan
 - [ABSOLUTE_PERSPECTIVES_SYNTHESIS.md](ABSOLUTE_PERSPECTIVES_SYNTHESIS.md) — Absolute, perspectives, and the zero-residue account: synthesis with the spherical WdW chain
 - [ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md](ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md) — Acoustic mismatch, reported consonance and the experiential bridge
@@ -774,6 +775,7 @@ The user approved inclusion of the original uploads in this public repository. T
 
 Passing a script checks its encoded model or assertions only; historical closure aggregators and stipulated true flags are not proofs. The [selected regression battery](verification/framework_battery.py) has a narrower declared scope.
 
+- [verification/abaee_sphere_program_recovery_test.py](verification/abaee_sphere_program_recovery_test.py)
 - [verification/action_unity_xor_gate.py](verification/action_unity_xor_gate.py)
 - [verification/action_unity_xor_gate_test.py](verification/action_unity_xor_gate_test.py)
 - [verification/actual_experience_variational_zero_test.py](verification/actual_experience_variational_zero_test.py)

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Abaee preprint and spherical reference correction:** [the process-currying analysis](ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md) distinguishes exact finite universal process programming from our specified spherical controlled interaction. Normalizable reference wavepackets give finite-resolution measurements, while the matched-record zero persists. Full-support continuum states do not supply exact individually preparable direction eigenstates. The preprint's supplementary verifier was not run; this is a scoped analysis, not a full proof audit.
+
 **Spherical plenitude and branchwise record balance:** [the symmetric reference construction](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) assumes a rotation-invariant full-support sphere reference and constructs zero-spin encoded opposite records for every reference direction. It separates exact record-operator zero from averaging and tests a conditional-mean no-signalling obstruction. The reference, physical realization, all-possibilities ontology and actual experiential identification remain assumptions or open demands.
 
 **Autonomous record cycle and subject incidence:** [the clock–record construction](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) embeds the encoded energy-conserving writer in a time-independent periodic Hamiltonian, correlates internal clock labels with recorded and reset states, and tests energy-closed subject candidates. Minimal pairs have zero net energy change; a positive joint clock–work weighting can instead leave a nonzero cycle-integrated current. Actual subjects, felt quality, robust memory, localization and a non-circular whole-level zero are not thereby derived.

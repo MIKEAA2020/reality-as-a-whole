@@ -1,5 +1,7 @@
 # The complete internal sphere and branchwise zero
 
+**Reference-resolution correction:** [the Abaee process-programming analysis](ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md) distinguishes the exact direct-integral correlation below from a finite, universally programmable sharp measurement. Exact direction eigenkets of `L²(S²)` are generalized, non-normalizable states: finite-width normalizable reference wavepackets implement unsharp measurements relative to a chosen target direction, while the opposite-record correlation remains exact. The model does not give an on-demand exact programmable measurement for every direction.
+
 ## The idea developed
 
 Your point–sphere proposal suggests that zero is not a featureless absence, but one whole whose internal differentiation has no preferred direction. This continuation makes that idea concrete in a single quantum model:

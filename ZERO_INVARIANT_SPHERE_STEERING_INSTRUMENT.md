@@ -2,6 +2,8 @@
 
 **Continuation:** [zero-sector memory and causal incidence](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) adds a copyable encoded memory and ideal storage gap, constructs a branchwise opposite-sign candidate using source/receiver roles, and tests the resulting symmetry and record-multiplicity limitations. These physical records are not established subjects or experiences.
 
+**Process-storage scope:** [the Abaee preprint analysis](ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md) distinguishes our fixed, specified finite instrument from universal exact process programming, and distinguishes reversal of its coherent dilation from recovery after discarding the pointer.
+
 ## The connection
 
 The preceding [zero-spin constitution](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) found a sphere of relational states inside a four-spin zero sector, but an isolated two-spin singlet cannot accommodate sharp individual spin records while remaining in its strict zero sector. Separately, the [five-ray bridge](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) found conservation-derived probabilities and steering, assuming qubits and measurement operations.
