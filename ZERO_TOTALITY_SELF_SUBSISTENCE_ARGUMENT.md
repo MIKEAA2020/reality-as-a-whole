@@ -2,6 +2,8 @@
 
 ## The task and the answer so far
 
+**Continuation:** [from actual experience to constitution](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) gives a conditional route from an actual experiential contrast to necessary differentiation within a zero-total whole, then separates that result from the stronger claim that the zero nature constitutes and explains the contrast.
+
 The target is the user's proposed account: reality as a whole amounts to zero or nothing in its strongest appropriate sense, while local existence and experience are real. Nothing outside it creates, selects or sustains it, and no unexplained residue is tolerated. This is not a proposal for an empty universe, a perfect world, or an external cosmic agent. The structural and experiential sides must both be intelligible; experience need not be exhaustively captured in propositions.
 
 **The strongest constructive route I can currently formulate is conditional:** take zero-totality to be intrinsically relational rather than an empty numerical result; treat real local differences as mutually balancing internal determinations; and treat acquaintance as the actual self-presence of experience, not a second observer added to it. If the relations, their actual differentiation and their experiential character genuinely follow from that one nature, there is no independent creator or selector for them to require.

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [experience-to-zero-constitution continuation](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) derives necessary internal experiential contrast from an actual contrast and explicitly stated modal and whole premises, but does not derive its qualitative constitution from the zero total.
+
 The [zero-totality self-subsistence argument](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) develops a positive candidate and two conditional deductions, while distinguishing canonical balancing within an assumed structure from a derivation of actual experiential differences from zero itself. It does not establish or rule out complete intelligibility.
 
 The [zero-total loop consistency test](ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md) gives a finite gauge-invariant three-link event whose joint probabilities can differ while all single-link distributions and pairwise flip statistics agree. The loop law, measures, physical gravity and experience remain ungrounded; no substantive battery pass follows.
