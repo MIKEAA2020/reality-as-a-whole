@@ -1,5 +1,7 @@
 # When a zero constraint determines a nontrivial quantum constitution
 
+**Continuation:** [a zero-sector sphere instrument](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) builds an encoded multi-spin pointer and rotationally invariant measurement interaction, linking the relational qubit to the earlier conserved-ray steering weights without leaving physical total-spin zero. It does not derive definite experiential records.
+
 ## The main result
 
 Rather than starting from a selected quantum state and asking whether some average balances, consider the reverse question: **can a physical zero condition determine the state?**

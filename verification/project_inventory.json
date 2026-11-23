@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 681,
-  "bytes": 8544784,
-  "line_count": 76418,
-  "document_count_with_risk_phrases": 634,
+  "document_count": 682,
+  "bytes": 8558175,
+  "line_count": 76571,
+  "document_count_with_risk_phrases": 635,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "930b0d7da93b0c12086ba8e84ae0604ea2a8f8f18911081b5b73e4decdb177ac",
-      "bytes": 77212,
-      "lines": 315,
+      "sha256": "c80563730a8c8f3e59ab2b5c08b13690db57452489f17f3b56f8ce2456cc15f2",
+      "bytes": 77772,
+      "lines": 317,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
@@ -5270,55 +5271,55 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        13,
+        9,
         15,
-        19,
+        17,
         21,
         23,
         25,
-        29,
+        27,
         31,
-        35,
-        39,
+        33,
+        37,
         41,
         43,
         45,
         47,
-        55,
-        61,
+        49,
+        57,
         63,
-        67,
-        71,
-        77,
-        95,
-        103,
-        113,
-        129,
+        65,
+        69,
+        73,
+        79,
+        97,
+        105,
+        115,
         131,
-        135,
-        141,
-        151,
+        133,
+        137,
+        143,
         153,
-        171,
+        155,
         173,
-        177,
-        187,
-        191,
-        197,
+        175,
+        179,
+        189,
+        193,
         199,
-        213,
-        217,
-        229,
-        237,
+        201,
+        215,
+        219,
+        231,
         239,
-        243,
-        259,
-        269,
-        286,
-        303,
-        309
+        241,
+        245,
+        261,
+        271,
+        288,
+        305,
+        311
       ]
     },
     {
@@ -19289,9 +19290,9 @@
     },
     {
       "path": "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
-      "sha256": "c6facbd9c591c2ab052e85354990ec88875083edb9d20318a9d6b203f39e462e",
-      "bytes": 13686,
-      "lines": 168,
+      "sha256": "660d9762797bb26c2648a49a360ca1a5fc929ec0b00b3c1e5a0231dcf61ec557",
+      "bytes": 14041,
+      "lines": 170,
       "title": "When a zero constraint determines a nontrivial quantum constitution",
       "headings": [
         "When a zero constraint determines a nontrivial quantum constitution",
@@ -19304,19 +19305,20 @@
         "6. The direct foundational implication"
       ],
       "local_links": [
+        "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
-        17,
-        91,
+        9,
+        15,
+        19,
         93,
-        103,
-        107,
-        116,
-        134,
-        168
+        95,
+        105,
+        109,
+        118,
+        136,
+        170
       ]
     },
     {
@@ -19440,6 +19442,35 @@
         104,
         106,
         127
+      ]
+    },
+    {
+      "path": "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
+      "sha256": "30a1f379972d01f7ba529e48643220c5fc891af292b6a194b02afdd16d4f67a1",
+      "bytes": 12139,
+      "lines": 147,
+      "title": "A conservation-preserving instrument for the internal sphere",
+      "headings": [
+        "A conservation-preserving instrument for the internal sphere",
+        "The connection",
+        "1. The relational system and its partner",
+        "2. A pointer that also lives inside zero",
+        "3. Connecting the conserved trine to an invariant interaction",
+        "4. Steering and signed balance in the same zero sector",
+        "5. What is established and what remains essential",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
+        "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
+        "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11,
+        58,
+        139,
+        147
       ]
     },
     {
@@ -19849,9 +19880,9 @@
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
-      "sha256": "c92f5f5a7392e244f014b5dc12ce02e6e1d2a529c6c6503a343068cd986e07f6",
-      "bytes": 14728,
-      "lines": 180,
+      "sha256": "6776995ef0a2de898c561d7dcf8a2a22153b3f8eb1278e3b90b3a9592d3880cc",
+      "bytes": 15065,
+      "lines": 182,
       "title": "From intrinsic conservation to quantum weights and signed zero",
       "headings": [
         "From intrinsic conservation to quantum weights and signed zero",
@@ -19865,18 +19896,19 @@
       ],
       "local_links": [
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
+        "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md"
       ],
       "risk_phrase_lines": [
         3,
-        9,
-        19,
-        89,
-        113,
-        150,
-        180
+        11,
+        21,
+        91,
+        115,
+        152,
+        182
       ]
     },
     {

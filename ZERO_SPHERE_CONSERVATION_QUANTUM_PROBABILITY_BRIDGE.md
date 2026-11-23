@@ -2,6 +2,8 @@
 
 **Continuation:** [the conserved-sphere steering and Bell construction](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) shows that, given an additional two-qubit singlet, the pair and triple weights also define remote conditional states and exact no-signalling. It builds a finite contextual record block with definite outcomes and Bell violation, explicitly exposing the locality and measure assumptions.
 
+**Constraint-preserving continuation:** [the zero-sector sphere instrument](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) implements the symmetric and asymmetric triple effects in a relational spin-zero qubit with a spin-zero pointer; its logical-frame identification, interaction and singlet preparation remain additional assumptions.
+
 ## A new construction
 
 The [five-ray result](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) and the [qubit sphere](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) were previously parallel constructions. Here they meet:
