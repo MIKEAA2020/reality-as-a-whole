@@ -1,5 +1,7 @@
 # One joint subject–valence–energy candidate, tested
 
+**Constructive continuation:** [localized modules and interface energy](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) transports physical local interventions under canonical re-description, constructs a unique two-module optimum in a connected Hamiltonian example, and traces how shared interaction energy affects the proposed experiential balance. Localization, the modularity rule and phenomenological identities remain assumptions.
+
 ## The proposed next step, carried out
 
 The goal was not another free-standing cancellation example, but one candidate in which the **same physical organization** supplies subject boundaries, signed local contributions and their weights. Here is a concrete first attempt:
