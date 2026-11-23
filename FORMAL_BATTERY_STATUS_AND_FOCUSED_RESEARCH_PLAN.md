@@ -4,6 +4,8 @@
 
 **User correction and priority:** the zero-or-infinity argument was already given in [the source conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt) at line 2082. The user considers the case against infinity settled and directs the programme to construct the actual framework and solve physics, not reopen that comparison. Retain the full no-residue demand, the correction to experience rather than awareness, and the distinction between a whole-level quantity and reality itself being a quantity.
 
+The [internal simulation and self-location investigation](ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md) adapts Bostrom's conditional observer-counting structure to internal implementations in one whole, distinguishes self-location rules and experiential accounting, and gives finite arithmetic controls. Simulation realization, actual subject incidence, energy–experience identity, probabilities and no-residue constitution remain open.
+
 The [covariant clock–current history bridge](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) derives an exact conditional zero spacetime integral using the existing conserved current and dynamical clock, tests tilted slices in the nonlinear model, and shows explicitly why arbitrary subject-incidence weights can spoil the balance. Its clock selection, physical-energy and experiential identities, subject law and fundamental constitution remain open.
 
 The [zero-energy-universe deep research review](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) compares Newtonian mechanical cancellation, the compact GR Hamiltonian, positive quasi-local energy, observations, quantum cosmology and the outstanding experiential bridge.

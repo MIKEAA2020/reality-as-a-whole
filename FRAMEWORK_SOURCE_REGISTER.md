@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 606 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 528 verification Python scripts.
+- 607 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 530 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -594,6 +594,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md) — Can self-sufficient zero be intrinsically differentiated experience?
 - [ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) — Can relational symmetry explain a zero total?
 - [ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) — Can one relational constitution produce its own nonzero differences?
+- [ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md](ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md) — Adopting Bostrom's simulation argument inside a zero-totality framework
 - [ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) — Can intrinsic symmetry determine the differentiated organization?
 - [ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) — Zero-totality as intrinsic relational accounting
 - [ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) — Can zero balance be locally realized without superluminal signalling?
@@ -928,6 +929,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/interacting_clock.py](verification/interacting_clock.py)
 - [verification/internal_differentiation_candidate_test.py](verification/internal_differentiation_candidate_test.py)
 - [verification/internal_reference_event.py](verification/internal_reference_event.py)
+- [verification/internal_simulation_probability.py](verification/internal_simulation_probability.py)
+- [verification/internal_simulation_probability_test.py](verification/internal_simulation_probability_test.py)
 - [verification/intrinsic_clock_phase_erasure_gate.py](verification/intrinsic_clock_phase_erasure_gate.py)
 - [verification/intrinsic_orientation_selection_test.py](verification/intrinsic_orientation_selection_test.py)
 - [verification/jaworski_organization_turnover.py](verification/jaworski_organization_turnover.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "61ad85506998bab72ef2a0364d6310bfac730102",
-  "file_count": 1903,
+  "base_head": "4e27da7a14fefae927e0673581901040ce9b416a",
+  "file_count": 1906,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 61220,
-      "sha256": "5bb995835a33a87ef33c95f26c9cd73bdc409e5c0af8b63cd1cdca20cc6126e6"
+      "bytes": 61670,
+      "sha256": "d849807d9ff8d86d5a9caa89f6fdf8c53d8756a94e1848e74bd6998e3242d52c"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 163301,
-      "sha256": "8f03a85ed7ac7880d543098f4aec1f77271ef1468e272fd9b2de4ffa02ab3cbe"
+      "bytes": 163704,
+      "sha256": "ba6dbb44c36ee5ce606c4b0e7c0742d40a78339e34109a542481b8034965b548"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2927,6 +2927,11 @@
       "path": "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
       "bytes": 11054,
       "sha256": "ec0e0704b2d3a5bca89c35509a2430a88c33768f28137a418dcb694b9d950e23"
+    },
+    {
+      "path": "ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md",
+      "bytes": 22120,
+      "sha256": "d8cdf6240c0fd7e8a3917891e8b7ccb2cb85d54fa0b0a24dc0d44430eb097436"
     },
     {
       "path": "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
@@ -6314,6 +6319,16 @@
       "sha256": "63b51418e4b1f1c146e9d697109a5b765b44ee10262169884b9132a6e5a0135f"
     },
     {
+      "path": "verification/internal_simulation_probability.py",
+      "bytes": 2314,
+      "sha256": "e1c8de62656168d60ae49237fe27e840b2070c601955f35d43934a0af8b104a2"
+    },
+    {
+      "path": "verification/internal_simulation_probability_test.py",
+      "bytes": 2218,
+      "sha256": "6aa361c85629da57f99abfd62bd215d35395c13f583ea3fa5f1f24555bd24f5d"
+    },
+    {
       "path": "verification/intrinsic_clock_phase_erasure_gate.json",
       "bytes": 1142,
       "sha256": "727619b8c2c79c131d417706adb5e51ff04870fa8550876734688cb8166f6c69"
@@ -7405,8 +7420,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 807221,
-      "sha256": "fb1ce8db70092b1b2f8b85ccec45f35333a3edc94904a56aadb682bdbe89e9ad"
+      "bytes": 809115,
+      "sha256": "0d24be47c1adee6b78a2270359b3efac319b07bfa7b5297536ccb7a9bce1d606"
     },
     {
       "path": "verification/project_inventory.py",
