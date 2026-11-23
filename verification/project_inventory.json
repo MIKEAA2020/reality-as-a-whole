@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 658,
-  "bytes": 8254574,
-  "line_count": 73142,
-  "document_count_with_risk_phrases": 610,
+  "document_count": 659,
+  "bytes": 8264345,
+  "line_count": 73248,
+  "document_count_with_risk_phrases": 611,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,8 +5093,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "05965a0d42a385a70aa11a538d9b55a8115831e1149f8f80271d6a444752a29f",
-      "bytes": 65036,
+      "sha256": "f6cf1d043b135cc9f0878cca10caaff9e4819292a95473ff50eaab2cfe129728",
+      "bytes": 65332,
       "lines": 273,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5109,6 +5109,7 @@
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
         "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
         "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
@@ -5458,9 +5459,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "16184f7980e87e6fdccf4ba9d2d504e1b1ae1d162abc50cf610095e9c0940df0",
-      "bytes": 166066,
-      "lines": 1292,
+      "sha256": "b38661e4e1ffe00e9ab4d882983ea016c377c6e97c070d344f51b5bc202d348b",
+      "bytes": 166301,
+      "lines": 1294,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6045,6 +6046,7 @@
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
@@ -6725,6 +6727,7 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_locality_boundary_test.py",
+        "verification/zero_point_blowup_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6750,12 +6753,12 @@
         404,
         472,
         570,
-        586,
-        654,
-        663,
-        666,
-        669,
-        736
+        587,
+        655,
+        664,
+        667,
+        670,
+        737
       ]
     },
     {
@@ -19201,10 +19204,34 @@
       ]
     },
     {
+      "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
+      "sha256": "2c4bb031a5e5a5f332cdcc56329f9b68bc013c6ff45a85fd1e68b3bbddd5788d",
+      "bytes": 8867,
+      "lines": 102,
+      "title": "A point–sphere structure compatible with relativity",
+      "headings": [
+        "A point–sphere structure compatible with relativity",
+        "The result",
+        "1. One zero and a sphere of null directions",
+        "2. How a cone of internal directions constrains physical geometry",
+        "3. Internal relations without choosing an observer",
+        "4. A correction to simple spherical probabilities",
+        "5. What the physical analogy adds—and does not add",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md"
+      ],
+      "risk_phrase_lines": [
+        46,
+        76
+      ]
+    },
+    {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "b23159e0e5819f9af2b7ab4a7120ccaa51b59b94646f3f1142334ceda8259225",
-      "bytes": 10073,
-      "lines": 113,
+      "sha256": "7744a12038853d047edd87324e66f8d6e9c5dbb398d8a176f13e895f83ad9f1c",
+      "bytes": 10446,
+      "lines": 115,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -19216,13 +19243,15 @@
         "5. Space, time and physical energy",
         "6. What your idea advances"
       ],
-      "local_links": [],
+      "local_links": [
+        "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md"
+      ],
       "risk_phrase_lines": [
-        9,
-        67,
-        95,
+        11,
+        69,
         97,
-        107
+        99,
+        109
       ]
     },
     {

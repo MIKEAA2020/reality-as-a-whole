@@ -1,5 +1,7 @@
 # Zero as a point with an internally differentiated sphere
 
+**Continuation:** [the relativistic point–sphere construction](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) connects an internal direction sphere to null cones, shows how an embedded cone fixes a local metric up to conformal scale, and replaces frame-dependent angular comparisons with Lorentz-invariant relations. It does not derive spacetime or experience from zero.
+
 ## The user's idea
 
 The user proposes that a point is the zero-radius special case of a sphere. The point has no extension and can represent a whole with no external space or time; the sphere can represent its internal differentiation.
