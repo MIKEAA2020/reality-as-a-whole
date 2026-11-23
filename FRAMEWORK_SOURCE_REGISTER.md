@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 612 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 538 verification Python scripts.
+- 613 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 540 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -589,6 +589,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
 - [ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) — A covariant zero-totality candidate: dynamics, clock and experience
 - [ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md](ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md) — Energy exchange, experiential incidence and whole-history balance
+- [ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md](ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md) — A constructive energy-locked incidence model
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
 - [ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) — When does a symmetry preserve actual experience?
 - [ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) — Could an internal relation determine experiential balance?
@@ -843,6 +844,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/energy_exchange_clock.py](verification/energy_exchange_clock.py)
 - [verification/energy_exchange_incidence.py](verification/energy_exchange_incidence.py)
 - [verification/energy_exchange_incidence_test.py](verification/energy_exchange_incidence_test.py)
+- [verification/energy_flow_locked_incidence.py](verification/energy_flow_locked_incidence.py)
+- [verification/energy_flow_locked_incidence_test.py](verification/energy_flow_locked_incidence_test.py)
 - [verification/equilibrium_mismatch_coarse_graining.py](verification/equilibrium_mismatch_coarse_graining.py)
 - [verification/eraser_bell_selection_gate.py](verification/eraser_bell_selection_gate.py)
 - [verification/evolve_covariant_zero_initial_data.py](verification/evolve_covariant_zero_initial_data.py)

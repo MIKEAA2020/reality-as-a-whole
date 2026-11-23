@@ -1,5 +1,7 @@
 # Can organized experience inherit an energy-exchange zero?
 
+**Continuation:** [the energy-locked incidence construction](ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md) develops a conditional transport law that removes the relative-flow term, compares two conserved flows on the same Maxwell fields and checks both a complete cycle and a nontrivial partial interval. Its incidence and experiential identities remain unproved.
+
 ## Main result
 
 The previous [energy-exchange candidate](ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md) obtains a zero signed integral when the appropriate field-energy endpoints match. But real experience, if physically constituted, is presumably associated with **specific organization**, not indiscriminately with every electromagnetic energy transfer. Introducing an organization-dependent response or incidence measure changes the balance.

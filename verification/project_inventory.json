@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 655,
-  "bytes": 8219447,
-  "line_count": 72743,
-  "document_count_with_risk_phrases": 607,
+  "document_count": 656,
+  "bytes": 8231351,
+  "line_count": 72888,
+  "document_count_with_risk_phrases": 608,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "5dfbdd0001e210f8505cd463e6d63e8c079844a4fac436d1c79e51c5aa48ea5e",
-      "bytes": 63528,
-      "lines": 267,
+      "sha256": "59c8bc6aaf07d1981e65af677c3a673f52dac34cb7f177a61ea53059301fa222",
+      "bytes": 63983,
+      "lines": 269,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
         "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
@@ -5244,39 +5245,39 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
+        9,
         15,
-        19,
-        23,
-        29,
-        47,
-        55,
-        65,
-        81,
+        17,
+        21,
+        25,
+        31,
+        49,
+        57,
+        67,
         83,
-        87,
-        93,
-        103,
+        85,
+        89,
+        95,
         105,
-        123,
+        107,
         125,
-        129,
-        139,
-        143,
-        149,
+        127,
+        131,
+        141,
+        145,
         151,
-        165,
-        169,
-        181,
-        189,
+        153,
+        167,
+        171,
+        183,
         191,
-        195,
-        211,
-        221,
-        238,
-        255,
-        261
+        193,
+        197,
+        213,
+        223,
+        240,
+        257,
+        263
       ]
     },
     {
@@ -5455,9 +5456,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c66bab52abf5f28b85145399f33f8cf21feb616eab6a70a547d93157e8cb7d42",
-      "bytes": 164979,
-      "lines": 1283,
+      "sha256": "fc6a6d1406b7cac5015e8265ad52ce81ada34823c68d8b9bd917272ba6504779",
+      "bytes": 165330,
+      "lines": 1286,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6061,6 +6062,7 @@
         "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
@@ -6452,6 +6454,8 @@
         "verification/oph_cutoff_calibration_bridge.py",
         "verification/oph_icosahedral_chsh_gate.py",
         "verification/oph_unification_koide_gate.py",
+        "verification/organization_energy_gate.py",
+        "verification/organization_energy_gate_test.py",
         "verification/orientation_visibility_contrast.py",
         "verification/ottinger_annihilation_gate.py",
         "verification/ottinger_annihilation_gate_test.py",
@@ -6739,11 +6743,11 @@
         472,
         570,
         586,
-        651,
-        660,
-        663,
-        666,
-        733
+        652,
+        661,
+        664,
+        667,
+        734
       ]
     },
     {
@@ -19374,6 +19378,33 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
+      "sha256": "30b20e6d00734f9617a2cbfc37b8494091d2fcf2e61549da320f1a4702c8db79",
+      "bytes": 10724,
+      "lines": 138,
+      "title": "A constructive energy-locked incidence model",
+      "headings": [
+        "A constructive energy-locked incidence model",
+        "Result",
+        "1. Covariant form of the compatibility condition",
+        "2. Is electromagnetic energy flow a possible timelike incidence flow?",
+        "3. Explicit Maxwell test: two incidence flows, one physical field",
+        "4. Numerical verification and limits",
+        "5. What remains to derive",
+        "Reproduction"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
+        "verification/energy_flow_locked_incidence_receipt.json"
+      ],
+      "risk_phrase_lines": [
+        88,
+        92,
+        123,
+        127
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
       "sha256": "588e012c2317a706cc13012e17c548db6306f5a9dcaea6af0d09cd6e297d2c7e",
       "bytes": 15636,
@@ -19812,9 +19843,9 @@
     },
     {
       "path": "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
-      "sha256": "d92b27da8fb4a5f8c659ccbab77257e08a1351d4fecafdb481a82a4456237e4f",
-      "bytes": 12622,
-      "lines": 126,
+      "sha256": "f0076b157d53e7f8d1974f9b3b89ab9f3e67e35f174a7f678f4b39c5c49893af",
+      "bytes": 12996,
+      "lines": 128,
       "title": "Can organized experience inherit an energy-exchange zero?",
       "headings": [
         "Can organized experience inherit an energy-exchange zero?",
@@ -19827,18 +19858,19 @@
         "6. A constructive empirical and physical programme"
       ],
       "local_links": [
+        "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "verification/energy_exchange_incidence_receipt.json"
       ],
       "risk_phrase_lines": [
-        11,
-        21,
-        68,
-        93,
-        108,
-        120,
-        124
+        13,
+        23,
+        70,
+        95,
+        110,
+        122,
+        126
       ]
     },
     {
