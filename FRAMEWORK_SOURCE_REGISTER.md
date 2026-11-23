@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 605 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 526 verification Python scripts.
+- 606 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 528 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -585,6 +585,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
+- [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
 - [ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) — A covariant zero-totality candidate: dynamics, clock and experience
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
 - [ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) — When does a symmetry preserve actual experience?
@@ -803,6 +804,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cosmological_collapse_geometry_gate.py](verification/cosmological_collapse_geometry_gate.py)
 - [verification/cosmological_constant_cancel.py](verification/cosmological_constant_cancel.py)
 - [verification/coupled_subject_boundary_gate.py](verification/coupled_subject_boundary_gate.py)
+- [verification/covariant_clock_history_balance.py](verification/covariant_clock_history_balance.py)
+- [verification/covariant_clock_history_test.py](verification/covariant_clock_history_test.py)
 - [verification/covariant_gauge_clock_framework_test.py](verification/covariant_gauge_clock_framework_test.py)
 - [verification/covariant_zero_evolution_test.py](verification/covariant_zero_evolution_test.py)
 - [verification/crn_cocycle.py](verification/crn_cocycle.py)

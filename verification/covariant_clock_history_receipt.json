@@ -1,0 +1,128 @@
+{
+  "method": "planar RK4, fourth-order differences, linear time interpolation on T slices",
+  "results": [
+    {
+      "grid": 64,
+      "steps": 102,
+      "dt": 0.00980392156862745,
+      "kappa": 0.02,
+      "slices": [
+        {
+          "T": 0.3,
+          "charge": -1.1187761740469249e-14,
+          "omitting_tilt_flux": -2.4527016123336432e-14,
+          "tilt_flux_rms": 0.08441799769250223,
+          "unscaled_density_history_integrand": -3.442388227836692e-15,
+          "weighted_incidence_integrand": 58.21944646050087,
+          "min_local_slice_flux_density": -0.8166767375140037,
+          "max_local_slice_flux_density": 0.8166767375140045,
+          "sampled_min_clock_scale": 1.7067952330932612
+        },
+        {
+          "T": 0.6,
+          "charge": -1.721194113918346e-14,
+          "omitting_tilt_flux": -1.0327164683510076e-14,
+          "tilt_flux_rms": 0.08730244752045245,
+          "unscaled_density_history_integrand": 1.721194113918346e-15,
+          "weighted_incidence_integrand": 43.40221134478927,
+          "min_local_slice_flux_density": -0.6084716782430124,
+          "max_local_slice_flux_density": 0.6084716782430141,
+          "sampled_min_clock_scale": 1.5039406381860811
+        },
+        {
+          "T": 1.0,
+          "charge": -1.4845299232545733e-14,
+          "omitting_tilt_flux": -9.25141836231111e-15,
+          "tilt_flux_rms": 0.030953278204906603,
+          "unscaled_density_history_integrand": -8.848013491861498e-15,
+          "weighted_incidence_integrand": 15.646557238590178,
+          "min_local_slice_flux_density": -0.2964371832316369,
+          "max_local_slice_flux_density": 0.2964371832316372,
+          "sampled_min_clock_scale": 1.2835270536939039
+        }
+      ]
+    },
+    {
+      "grid": 128,
+      "steps": 204,
+      "dt": 0.004901960784313725,
+      "kappa": 0.02,
+      "slices": [
+        {
+          "T": 0.3,
+          "charge": 0.0,
+          "omitting_tilt_flux": -1.6781642610703874e-14,
+          "tilt_flux_rms": 0.0844204618368626,
+          "unscaled_density_history_integrand": -9.681716890790695e-15,
+          "weighted_incidence_integrand": 58.22032424481257,
+          "min_local_slice_flux_density": -0.8168961772485801,
+          "max_local_slice_flux_density": 0.8168961772485817,
+          "sampled_min_clock_scale": 1.706791131007689
+        },
+        {
+          "T": 0.6,
+          "charge": -4.9484330775152444e-15,
+          "omitting_tilt_flux": -1.1833209533188629e-14,
+          "tilt_flux_rms": 0.08730100171315786,
+          "unscaled_density_history_integrand": 3.980261388436175e-15,
+          "weighted_incidence_integrand": 43.40264805312067,
+          "min_local_slice_flux_density": -0.6084713309324189,
+          "max_local_slice_flux_density": 0.608471330932418,
+          "sampled_min_clock_scale": 1.5039234607280063
+        },
+        {
+          "T": 1.0,
+          "charge": -8.60597056959173e-16,
+          "omitting_tilt_flux": -1.8018750880082683e-15,
+          "tilt_flux_rms": 0.030940032258243638,
+          "unscaled_density_history_integrand": -7.933629118842376e-16,
+          "weighted_incidence_integrand": 15.646111268400597,
+          "min_local_slice_flux_density": -0.2973223173795523,
+          "max_local_slice_flux_density": 0.2973223173795426,
+          "sampled_min_clock_scale": 1.283500032337123
+        }
+      ]
+    },
+    {
+      "grid": 256,
+      "steps": 408,
+      "dt": 0.0024509803921568627,
+      "kappa": 0.02,
+      "slices": [
+        {
+          "T": 0.3,
+          "charge": 1.1080187108349352e-14,
+          "omitting_tilt_flux": 1.721194113918346e-15,
+          "tilt_flux_rms": 0.08442115832524902,
+          "unscaled_density_history_integrand": -1.2693806590147801e-14,
+          "weighted_incidence_integrand": 58.22055278319723,
+          "min_local_slice_flux_density": -0.8169039458717517,
+          "max_local_slice_flux_density": 0.8169039458717494,
+          "sampled_min_clock_scale": 1.7067896812589307
+        },
+        {
+          "T": 0.6,
+          "charge": 3.765112124196382e-15,
+          "omitting_tilt_flux": -7.852948144752453e-15,
+          "tilt_flux_rms": 0.08730134492341236,
+          "unscaled_density_history_integrand": -2.420429222697674e-15,
+          "weighted_incidence_integrand": 43.40284439425431,
+          "min_local_slice_flux_density": -0.6086394265565863,
+          "max_local_slice_flux_density": 0.6086394265565866,
+          "sampled_min_clock_scale": 1.5039213038018775
+        },
+        {
+          "T": 1.0,
+          "charge": -8.700098372696639e-15,
+          "omitting_tilt_flux": -6.198988175909043e-15,
+          "tilt_flux_rms": 0.03093948428413574,
+          "unscaled_density_history_integrand": -8.20928911364961e-15,
+          "weighted_incidence_integrand": 15.646144384964275,
+          "min_local_slice_flux_density": -0.29732280918439136,
+          "max_local_slice_flux_density": 0.29732280918438586,
+          "sampled_min_clock_scale": 1.2834970446980647
+        }
+      ]
+    }
+  ]
+}

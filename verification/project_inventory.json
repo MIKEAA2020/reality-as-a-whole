@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 648,
-  "bytes": 8117994,
-  "line_count": 71760,
-  "document_count_with_risk_phrases": 601,
+  "document_count": 649,
+  "bytes": 8134178,
+  "line_count": 71932,
+  "document_count_with_risk_phrases": 602,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "9e8f9a47c3608224b00d1e347bbeb57c6513ff12418eac1696395c5dcd4bdf74",
-      "bytes": 60764,
-      "lines": 257,
+      "sha256": "5bb995835a33a87ef33c95f26c9cd73bdc409e5c0af8b63cd1cdca20cc6126e6",
+      "bytes": 61220,
+      "lines": 259,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
@@ -5237,36 +5238,37 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        19,
-        37,
-        45,
-        55,
-        71,
+        7,
+        11,
+        15,
+        21,
+        39,
+        47,
+        57,
         73,
-        77,
-        83,
-        93,
+        75,
+        79,
+        85,
         95,
-        113,
+        97,
         115,
-        119,
-        129,
-        133,
-        139,
+        117,
+        121,
+        131,
+        135,
         141,
-        155,
-        159,
-        171,
-        179,
+        143,
+        157,
+        161,
+        173,
         181,
-        185,
-        201,
-        211,
-        228,
-        245,
-        251
+        183,
+        187,
+        203,
+        213,
+        230,
+        247,
+        253
       ]
     },
     {
@@ -5445,9 +5447,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1b194f45b94a6ded215138bb8f87e0dbbaf76f6d598fd9dd60c6e94b8324fc1e",
-      "bytes": 162737,
-      "lines": 1265,
+      "sha256": "fa2de485cb7722fcba44b80e0ab668fe40d062698a72d9fe0dae5371135d3d62",
+      "bytes": 162956,
+      "lines": 1267,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6031,6 +6033,7 @@
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
+        "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
@@ -6684,6 +6687,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_energy_research_test.py",
         "verification/zero_locality_boundary_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
@@ -6710,12 +6714,12 @@
         404,
         472,
         570,
-        585,
-        644,
-        653,
-        656,
-        659,
-        726
+        586,
+        645,
+        654,
+        657,
+        660,
+        727
       ]
     },
     {
@@ -19221,9 +19225,43 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
+      "sha256": "759115e5cbfe48f5e3e1648047a1cbe1c121d2c1f365e53a3a31606eb699ee50",
+      "bytes": 15221,
+      "lines": 168,
+      "title": "A covariant clock–current history balance",
+      "headings": [
+        "A covariant clock–current history balance",
+        "The constructive result",
+        "1. Definitions and derivation",
+        "2. Why the rate factor matters",
+        "3. Test against the existing coupled nonlinear solution",
+        "4. Actual incidence is the decisive bridge condition",
+        "5. Physical and experiential predictions of the candidate",
+        "6. Connection to zero energy and self-subsistence"
+      ],
+      "local_links": [
+        "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "verification/evolve_covariant_zero_initial_data.py",
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "verification/covariant_clock_history_receipt.json"
+      ],
+      "risk_phrase_lines": [
+        13,
+        15,
+        61,
+        102,
+        112,
+        137,
+        159
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
-      "sha256": "5c2851d38e7cb1438ae8c1a064af3026650733e8a04bff2c5b0bb2928b291ee6",
-      "bytes": 20695,
+      "sha256": "b33c362b372fa4054d361366241418caf996ab277dfa74cb1d1c0ab564a29b85",
+      "bytes": 20983,
       "lines": 207,
       "title": "A covariant zero-totality candidate: dynamics, clock and experience",
       "headings": [
@@ -19237,6 +19275,8 @@
         "6. The actual-history total is not automatic"
       ],
       "local_links": [
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",

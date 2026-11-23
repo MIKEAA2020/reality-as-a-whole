@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a81d0aacc26ab44c0be07fbef76d64f60fc05602",
-  "file_count": 1899,
+  "base_head": "61ad85506998bab72ef2a0364d6310bfac730102",
+  "file_count": 1903,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 60764,
-      "sha256": "9e8f9a47c3608224b00d1e347bbeb57c6513ff12418eac1696395c5dcd4bdf74"
+      "bytes": 61220,
+      "sha256": "5bb995835a33a87ef33c95f26c9cd73bdc409e5c0af8b63cd1cdca20cc6126e6"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 162956,
-      "sha256": "fa2de485cb7722fcba44b80e0ab668fe40d062698a72d9fe0dae5371135d3d62"
+      "bytes": 163301,
+      "sha256": "8f03a85ed7ac7880d543098f4aec1f77271ef1468e272fd9b2de4ffa02ab3cbe"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2884,9 +2884,14 @@
       "sha256": "01ef1770598eb631276d618dc250bd3d3f1c3440766ac8cc6695b90dbc9861c0"
     },
     {
+      "path": "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
+      "bytes": 15221,
+      "sha256": "759115e5cbfe48f5e3e1648047a1cbe1c121d2c1f365e53a3a31606eb699ee50"
+    },
+    {
       "path": "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
-      "bytes": 20695,
-      "sha256": "5c2851d38e7cb1438ae8c1a064af3026650733e8a04bff2c5b0bb2928b291ee6"
+      "bytes": 20983,
+      "sha256": "b33c362b372fa4054d361366241418caf996ab277dfa74cb1d1c0ab564a29b85"
     },
     {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
@@ -5244,6 +5249,21 @@
       "sha256": "3baf3e846cac4cc2f7f29bc4da9437a89c0baecf3d7e4c6083044cd0e3aa6f29"
     },
     {
+      "path": "verification/covariant_clock_history_balance.py",
+      "bytes": 3922,
+      "sha256": "62bd7a094da2deaddf9925a290c271c6804d3662cb10961a4e9d26bfe456433f"
+    },
+    {
+      "path": "verification/covariant_clock_history_receipt.json",
+      "bytes": 5021,
+      "sha256": "cc19029d63743116bb6da2f3564ee383dbfe29ddb2d907dbb9c4141054ddd250"
+    },
+    {
+      "path": "verification/covariant_clock_history_test.py",
+      "bytes": 3284,
+      "sha256": "aac56e107c7d78fe5b90f064daaa9b862660cd4b25d029720830d2eca3c03d64"
+    },
+    {
       "path": "verification/covariant_gauge_clock_framework_test.py",
       "bytes": 8192,
       "sha256": "10fee9bed4804479754db465d571c57fe989f10d184bdc4313cd7f25f9c71c9b"
@@ -7385,8 +7405,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 805690,
-      "sha256": "1096ec873ecd51bc988ac8bc691d8fdf85ab7e9c67dd4634376f8d50ffea2fda"
+      "bytes": 807221,
+      "sha256": "fb1ce8db70092b1b2f8b85ccec45f35333a3edc94904a56aadb682bdbe89e9ad"
     },
     {
       "path": "verification/project_inventory.py",
