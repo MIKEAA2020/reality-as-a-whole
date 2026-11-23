@@ -1,5 +1,7 @@
 # Zero-sector memory, causal roles and experiential incidence
 
+**Physical-exchange continuation:** [conserved-energy record dynamics](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) replaces the assigned source/receiver signs with a spin-zero Hamiltonian that writes a three-outcome record by transferring energy from batteries to memories. Physical balance, phenomenological incidence and the subject boundary remain distinct.
+
 ## Result in brief
 
 The preceding [zero-sector instrument](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) correlated a pointer with the conserved-sphere measurement without leaving physical total-spin zero. This continuation adds memory to that same model and tests what follows for subjects and signed incidence.

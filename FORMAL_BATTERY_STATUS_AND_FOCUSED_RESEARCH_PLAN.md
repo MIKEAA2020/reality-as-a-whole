@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Conserved-energy record dynamics:** [the encoded energy-exchange construction](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) writes three conserved-sphere pointer outcomes into memory using physical spin-zero blocks and Hamiltonian energy transfer from batteries. Opposite energy changes are exact branchwise; commuting pointer flags coexist with noncommuting sharp memory-energy presence and current. Bare energy is positive and conserved, and interpreting memory/battery exchange as actual subject valence or whole-level zero is not derived.
+
 **Zero-sector memory and causal incidence:** [the memory continuation](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) builds an invariant encoded record copy and gapped ideal storage, identifies source/receiver causal roles and a branchwise opposite-signed observable candidate, and demonstrates both equal-time exchange symmetry and an incidence-multiplicity obstruction. The sign and subject identities, autonomous/local implementation, definite experience and empirical measure remain unproved.
 
 **Zero-sector sphere instrument:** [the invariant steering construction](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) encodes two logical qubits and a pointer in physical spin-zero blocks and gives an invariant unitary dilation of the conserved-ray triple POVMs. The logical singlet yields the prior steering weights while each pointer-conditioned branch retains physical spin zero. The construction assumes the logical-frame identification, preparation and interaction; no relativistic dynamics, actual experiential records or no-residue foundation follow.

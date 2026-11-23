@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 640 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 572 verification Python scripts.
+- 641 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 573 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -601,6 +601,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) — Zero's internal sphere: a direct test of physical and experiential constitution
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
+- [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
@@ -1321,6 +1322,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
+- [verification/zero_sector_record_energy_exchange_test.py](verification/zero_sector_record_energy_exchange_test.py)
 - [verification/zero_sphere_asymmetric_closed_exchange.py](verification/zero_sphere_asymmetric_closed_exchange.py)
 - [verification/zero_sphere_asymmetric_closed_exchange_test.py](verification/zero_sphere_asymmetric_closed_exchange_test.py)
 - [verification/zero_sphere_conservation_born_bridge_test.py](verification/zero_sphere_conservation_born_bridge_test.py)

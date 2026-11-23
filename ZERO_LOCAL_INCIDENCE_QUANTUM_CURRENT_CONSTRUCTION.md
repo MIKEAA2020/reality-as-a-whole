@@ -162,6 +162,8 @@ The later [zero-sector memory and causal-incidence model](ZERO_SECTOR_MEMORY_CAU
 
 A complementary next construction asks whether a zero condition can fix the quantum organization itself rather than merely balance a current within a given organization. The [zero-spin constitution and internal sphere](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) derives a unique two-spin singlet from total-spin zero and, for four spins, constructs a relational qubit whose observables preserve that zero. It distinguishes these conditional mathematical results from experiential incidence and an actual conserved-record mechanism.
 
+The [conserved-energy record dynamics](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) realizes commuting pointer flags and nonzero physical energy currents in the same encoded zero-spin instrument. It also shows that memory-energy presence does not commute with its own current, and that summing only hypothesized memory subjects leaves a battery boundary flux.
+
 ## Verification
 
 ```text
