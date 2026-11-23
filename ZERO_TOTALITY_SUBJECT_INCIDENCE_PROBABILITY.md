@@ -1,10 +1,12 @@
 # Probabilistic self-location within zero totality
 
+**Latest clarification:** [the updated-chat necessity and probability audit](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) distinguishes necessitated outcomes from necessitated probability rules. The self-location weights below are conditional credences or structural measures, not a postulate of irreducible objective chance.
+
 ## Correction and point of departure
 
 The user clarifies that invoking Bostrom is **not a request to take simulations literally**. The task is to extract whatever probabilistic structure helps the framework; no simulator, computer, engineered virtual world or nested civilization is needed. The earlier [literal-simulation exploration](ZERO_TOTALITY_INTERNAL_SIMULATION_AND_SELF_LOCATION.md) is not the governing formulation.
 
-The useful move is much more general: **the character of a whole does not by itself determine what a particular subject finds themselves experiencing**. For self-location we need an account of the actual experiential incidences and their weights. We can then ask how probable a subject's experiential position is, given specified evidence. This is adapted from the observer-incidence structure of Bostrom's argument, not an endorsement of his simulation hypothesis or its assumptions.
+The useful move is much more general: **a coarse description of the whole does not by itself tell an observer what a particular subject finds themselves experiencing**. This is consistent with the user's thesis that the whole's complete constitution necessarily determines every actual incidence. For self-location we need an account of those incidences and their weights. We can then ask how probable a subject's experiential position is, given specified evidence. This is adapted from the observer-incidence structure of Bostrom's argument, not an endorsement of his simulation hypothesis or its assumptions.
 
 **Continuation:** [the clock–incidence probability bridge](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) constructs a conditional covariant incidence measure and valence ratio, derives their zero-mean and sign-frequency consequences, and identifies the physical support and experiential-identity gates.
 
