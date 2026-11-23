@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [intrinsic relational accounting argument](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) derives global zero and regional boundary accounting from an explicit interface-only principle, but shows that freely chosen interface values can merely re-express an assumed zero sum. Its physical and experiential identity remains unproved.
+
 The [experience-to-zero-constitution continuation](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) derives necessary internal experiential contrast from an actual contrast and explicitly stated modal and whole premises, but does not derive its qualitative constitution from the zero total.
 
 The [zero-totality self-subsistence argument](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) develops a positive candidate and two conditional deductions, while distinguishing canonical balancing within an assumed structure from a derivation of actual experiential differences from zero itself. It does not establish or rule out complete intelligibility.

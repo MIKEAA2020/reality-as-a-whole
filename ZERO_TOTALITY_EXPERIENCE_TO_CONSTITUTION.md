@@ -2,6 +2,8 @@
 
 ## The attempted bridge
 
+**Continuation:** [intrinsic relational accounting](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) develops a specific principle under which a zero total and real local contributions coexist, and tests whether its interface representation explains zero or merely rewrites an assumed zero total.
+
 The previous [self-subsistence argument](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) asked why zero should have actual internal differences and experience, rather than merely permitting them. A more promising approach is not to start from an empty mathematical zero and try to manufacture experience from it. **Start from actual qualitative differentiation, then ask whether its whole is necessarily self-subsistent and zero-total.** This reverses the order of discovery without assuming that experience existed before zero or was added to it.
 
 The proposal is:
