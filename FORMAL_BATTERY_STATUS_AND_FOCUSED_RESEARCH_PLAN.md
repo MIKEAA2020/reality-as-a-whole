@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**New integrated result:** [the conservation–quantum probability bridge](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) derives from generic five-ray conservation a common center-frame density matrix `I/2`, two distinct decompositions and POVMs whose Born weights equal intrinsic energy fractions, and a nontrivial signed zero on each side. An asymmetric exact example shows why equal incidence is not interchangeable with energy weighting. The physical state, measurements, actual subjects, experiential identity, global zero and zero's own constitution are not thereby derived.
+
 **Updated chat:** [necessity, chance and emergent spacetime](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) records the newly supplied exchange. A necessary particular outcome excludes irreducibly open chance in the user's sense; a necessary probability rule alone does not fix that outcome. Bell constrains local causality and auxiliary assumptions for stochastic as well as deterministic models, not determinism alone. The new standard-library tests check the inference and CHSH distinctions. Emergent spacetime is the research direction, but its parsimony depends on independent premises and its empirical recovery, including Born weights and subject incidence, remains to be constructed.
 
 **Current direct constitutive work:** [the necessity–plenitude constitutive test](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) shows conditionally how an independently justified, unique physical–experiential constitution gives internal plenitude, and exhibits why unique physical structure, both signed types and zero balance do not alone determine felt character at a physically distinguished role. It does not construct that constitution.

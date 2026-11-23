@@ -1,5 +1,7 @@
 # An intrinsic 2+3 grouping from the sphere and physical conservation
 
+**Constructive continuation:** [the conservation–quantum probability bridge](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) uses the intrinsic center frame and conservation coefficients to obtain two decompositions of the same maximally mixed qubit state, two POVMs with Born weights equal to energy fractions, and signed weighted zeros. The measurement, state and experience interpretations remain conditional.
+
 ## Main result
 
 The previous [relative-sign construction](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) needed three reference directions and two test directions, but did not determine which directions had which roles. There is a substantive way to determine a `2+3` split **from the directions themselves**, provided they are five generic future lightlike rays in an effective `3+1`-dimensional Lorentzian space:
