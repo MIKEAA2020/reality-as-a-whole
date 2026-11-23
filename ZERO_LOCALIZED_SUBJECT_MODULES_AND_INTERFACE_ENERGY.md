@@ -1,5 +1,7 @@
 # Intrinsic locality, candidate subjects and the energy at their interface
 
+**Locality and overlap continuation:** [the subject locality and incidence-balance analysis](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) gives an explicit disconnected-system counterexample to global modularity as a local subject rule, investigates a local alternative with overlapping candidate supports, and derives the exact multiplicity-weighted balance identity. No candidate is thereby established as a subject.
+
 ## Main result
 
 The [previous joint candidate](ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md) tried to identify subjects with strongly connected components of a causal graph. That rule merged reciprocally coupled systems and depended on the choice of dynamical variables. This continuation constructs a more discriminating **conditional** alternative:

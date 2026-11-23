@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 676,
-  "bytes": 8481885,
-  "line_count": 75624,
-  "document_count_with_risk_phrases": 629,
+  "document_count": 677,
+  "bytes": 8493213,
+  "line_count": 75777,
+  "document_count_with_risk_phrases": 630,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "ef5f7518ee266bcbfb5f280b541e493a43afe2a30b945d28d25c557b6bab3195",
-      "bytes": 74312,
-      "lines": 305,
+      "sha256": "9500e9cc56e5b7591faba9f80961975557a24439dc99d622e7f9cf88be1ff61e",
+      "bytes": 74896,
+      "lines": 307,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
@@ -5266,51 +5267,52 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
+        7,
         11,
         13,
         15,
-        19,
+        17,
         21,
-        25,
-        29,
+        23,
+        27,
         31,
         33,
         35,
         37,
-        45,
-        51,
+        39,
+        47,
         53,
-        57,
-        61,
-        67,
-        85,
-        93,
-        103,
-        119,
+        55,
+        59,
+        63,
+        69,
+        87,
+        95,
+        105,
         121,
-        125,
-        131,
-        141,
+        123,
+        127,
+        133,
         143,
-        161,
+        145,
         163,
-        167,
-        177,
-        181,
-        187,
+        165,
+        169,
+        179,
+        183,
         189,
-        203,
-        207,
-        219,
-        227,
+        191,
+        205,
+        209,
+        221,
         229,
-        233,
-        249,
-        259,
-        276,
-        293,
-        299
+        231,
+        235,
+        251,
+        261,
+        278,
+        295,
+        301
       ]
     },
     {
@@ -5489,9 +5491,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3e28ad7f7e0be29166119c468f0206b2bdab081f37e7f7ea52e41b75d37e032f",
-      "bytes": 171877,
-      "lines": 1335,
+      "sha256": "d5241a884bd5a07c0f801682dd4827b9e97b2a1c3f5bb5a0f1c665f1ce488983",
+      "bytes": 172174,
+      "lines": 1337,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6096,6 +6098,7 @@
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
+        "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -6799,6 +6802,7 @@
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
+        "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6827,11 +6831,11 @@
         598,
         599,
         600,
-        673,
-        682,
-        685,
-        688,
-        756
+        674,
+        683,
+        686,
+        689,
+        757
       ]
     },
     {
@@ -19368,9 +19372,9 @@
     },
     {
       "path": "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
-      "sha256": "b169061405f2271d82fc1278e0c4f453a57f15447e3d8c06a835b5dff14d116f",
-      "bytes": 11088,
-      "lines": 147,
+      "sha256": "7b029cdfa41171f7f354fb2ada97449d09b300ce2f2af0b53350b1f71bef877d",
+      "bytes": 11518,
+      "lines": 149,
       "title": "Intrinsic locality, candidate subjects and the energy at their interface",
       "headings": [
         "Intrinsic locality, candidate subjects and the energy at their interface",
@@ -19383,16 +19387,18 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md"
       ],
       "risk_phrase_lines": [
-        8,
-        57,
-        65,
-        90,
-        99,
-        119,
-        147
+        3,
+        10,
+        59,
+        67,
+        92,
+        101,
+        121,
+        149
       ]
     },
     {
@@ -19861,6 +19867,40 @@
         135,
         152,
         162
+      ]
+    },
+    {
+      "path": "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
+      "sha256": "33d5045d79087b4ee4d8826cb723a255084fb38dc8d21eb6ea35b92ba74da35c",
+      "bytes": 10017,
+      "lines": 147,
+      "title": "Subject locality and the cost of overlapping experiences",
+      "headings": [
+        "Subject locality and the cost of overlapping experiences",
+        "What this continuation establishes",
+        "1. The earlier global criterion fails a locality check",
+        "2. A local replacement—and its own assumptions",
+        "3. Exact balance with overlapping subject supports",
+        "4. Exact overlapping example",
+        "5. Consequence for the point–sphere programme",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        24,
+        25,
+        37,
+        49,
+        59,
+        71,
+        73,
+        81,
+        87,
+        99,
+        147
       ]
     },
     {
