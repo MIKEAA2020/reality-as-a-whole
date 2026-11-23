@@ -1,5 +1,7 @@
 # Confined facts, richer relations and a conditional experiential-zero theorem
 
+**Four-connection continuation:** [confinement, coherence and experience](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) extends the two endpoint states to a complete phase family, checks an actual dephased-mixture control and specifies competing hypotheses about richer experiential distinctions. No quantum subject or physical higher plane is inferred.
+
 ## What this step does
 
 The preceding [realm-order construction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) formalized the user's correction: a game position does not need an interaction to stay fixed while a player thinks. Here we connect that distinction to the **existing physical sphere–record system**, without imposing a holding interaction or treating thinking as an unseen game move.

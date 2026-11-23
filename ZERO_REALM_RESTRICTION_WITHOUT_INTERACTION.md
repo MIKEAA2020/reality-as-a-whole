@@ -1,5 +1,7 @@
 # Confined succession without an interaction
 
+**Four-connection continuation:** [confinement, coherence and experience](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) works the same sphere-record system across a phase family with an unchanged restricted state, a genuine dephasing control and explicit rival experiential histories. A stays A in the surface description; no holding mechanism or actual experiencing qubit is asserted.
+
 **Physical/experiential continuation:** [confined facts and the sphere-record incidence theorem](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) compares two static states of the existing sphere–record system, then derives conditional oddness and equal incidence from pairwise zero in both sharp orientations. It requires no holding interaction and does not identify quantum subsystems with actual subjects or metaphysical planes.
 
 ## Starting with the user's correction

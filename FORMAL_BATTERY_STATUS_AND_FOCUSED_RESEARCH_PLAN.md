@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Four realm connections:** [confinement, coherence and experience](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) connects an unchanged restricted state to continuously varying quantum correlations, a dephasing control and two explicit experiential hypotheses. The corrected A-until-B rule requires no holding interaction; neither experiential sequence, actual subject nor emergent spacetime is derived.
+
 **Realm–sphere incidence theorem:** [the common-state analysis](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) exhibits identical candidate-subsystem states with opposite sharp record–current correlations, and proves that nontrivial pairwise zero for both signs, a common response and fixed positive incidence force oddness and equal weights. Pairwise balance, actual subjects and the experience map remain conditional, not derived from global zero.
 
 **Confined-realm correction and continuation:** [confined succession without an interaction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) expresses held position through realm-specific order, not a holding mechanism, and works a symmetry-and-zero split alongside a nonuniqueness control. The preceding [held-position and interface model](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) gives optional circuits on the original five-ray state; they are not necessary for confinement. Neither the richer sector nor its physical or experiential interpretation is derived from zero.
