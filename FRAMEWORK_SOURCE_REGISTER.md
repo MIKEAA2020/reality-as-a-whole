@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 595 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 515 verification Python scripts.
+- 596 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 516 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -395,6 +395,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [REALIZED_PROCESS_CANDIDATE.md](REALIZED_PROCESS_CANDIDATE.md) — A concrete constitutive candidate: identity with a realized local process
 - [REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md](REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md) — A real witness and a boundary test for the maximal rule
 - [RECOLLAPSING_GRAVITATIONAL_CLOCK.md](RECOLLAPSING_GRAVITATIONAL_CLOCK.md) — A recollapsing Einstein–scalar clock and completed-event representations
+- [RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md](RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md) — A joint candidate: actual relational histories with a zero signed response
 - [RELATIONAL_CALIBRATION_AND_READOUT.md](RELATIONAL_CALIBRATION_AND_READOUT.md) — Physical calibration, field readout and a separate quantum instrument
 - [RELATIONAL_INTERVENTIONS_AND_RECORDS.md](RELATIONAL_INTERVENTIONS_AND_RECORDS.md) — Sequential interventions and persistent records in a constrained history
 - [RELATIONAL_MATTER_DETECTOR_GRAVITY.md](RELATIONAL_MATTER_DETECTOR_GRAVITY.md) — A relational matter detector with gravitational backreaction
@@ -1055,6 +1056,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/recollapsing_gravitational_clock.py](verification/recollapsing_gravitational_clock.py)
 - [verification/refinement_acceptance_budget.py](verification/refinement_acceptance_budget.py)
 - [verification/register_roughness_heldout_gate.py](verification/register_roughness_heldout_gate.py)
+- [verification/relational_actual_history_zero_test.py](verification/relational_actual_history_zero_test.py)
 - [verification/relational_calibrated_readout.py](verification/relational_calibrated_readout.py)
 - [verification/relational_constraint.py](verification/relational_constraint.py)
 - [verification/relational_detector_initial_data.py](verification/relational_detector_initial_data.py)

@@ -2,6 +2,8 @@
 
 ## The candidate
 
+**Joint-constitution continuation:** [actual histories and a relational zero response](RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md) combines the local-clock measure with a stipulated variational principle and derives a zero actual-domain integral together with nonzero responses under explicit assumptions.
+
 The [subject-incidence proposal](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) left open how actual experiences might be weighted across time. A concrete working direction is to integrate a signed experiential intensity against **each subject-history's own physically defined clock measure**, then combine the resulting contributions over the actual whole.
 
 Under explicit conditions, this construction needs no common simultaneity slice or external clock. It is invariant under a mere reparameterization of each clock, and overlapping descriptions of one history can be combined without double counting. It still assumes an actual subject-incidence domain, a common signed scale, a physically meaningful clock measure and an additive composition rule. It does not derive those ingredients—or the proposed zero—from self-subsistent zero-totality.

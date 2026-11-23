@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 638,
-  "bytes": 7951749,
-  "line_count": 70198,
-  "document_count_with_risk_phrases": 591,
+  "document_count": 639,
+  "bytes": 7964110,
+  "line_count": 70345,
+  "document_count_with_risk_phrases": 592,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "b450d64ae53a3bad46a6ddd9807034cb9e5685eddee1b115c7734df09f441d39",
-      "bytes": 56470,
-      "lines": 237,
+      "sha256": "90d247ecf11846f75526a02c0a4a3b6d753df6236e41b9cea5fb69eebccb760a",
+      "bytes": 56865,
+      "lines": 239,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
@@ -5226,33 +5227,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        17,
-        25,
-        35,
-        51,
+        19,
+        27,
+        37,
         53,
-        57,
-        63,
-        73,
+        55,
+        59,
+        65,
         75,
-        93,
+        77,
         95,
-        99,
-        109,
-        113,
-        119,
+        97,
+        101,
+        111,
+        115,
         121,
-        135,
-        139,
-        151,
-        159,
+        123,
+        137,
+        141,
+        153,
         161,
-        165,
-        181,
-        191,
-        208,
-        225,
-        231
+        163,
+        167,
+        183,
+        193,
+        210,
+        227,
+        233
       ]
     },
     {
@@ -5431,9 +5432,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1697f326f159de6fd602ec120836163df5ebba0d75ca42449ffce573cadb6a43",
-      "bytes": 159907,
-      "lines": 1244,
+      "sha256": "810bbe698b313126ede0e1433a7aa26ce00b9e89a7e19adcbe770ead04e52a4a",
+      "bytes": 160173,
+      "lines": 1246,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5837,6 +5838,7 @@
         "RELATIONAL_PERSPECTIVE.md",
         "RELATIONAL_PLENITUDE_HISTORY_AND_MEASURE.md",
         "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "RELATIONAL_TIME_CONSTRUCTION.md",
         "RELATIONAL_WHOLE_SUBJECT_FACET_CONSTITUTION.md",
         "RELATIVISTIC_BRAIN_SIMULATION_SUBJECT_AUDIT.md",
@@ -6478,6 +6480,7 @@
         "verification/relational_calibrated_readout.py",
         "verification/relational_constraint.py",
         "verification/relational_detector_initial_data.py",
+        "verification/relational_experiential_total_test.py",
         "verification/relational_friend_comparison.py",
         "verification/relational_memory_pulse.py",
         "verification/relational_modular_clock.py",
@@ -6673,14 +6676,14 @@
         325,
         371,
         401,
-        468,
-        566,
-        581,
-        634,
-        643,
-        646,
-        649,
-        716
+        469,
+        567,
+        582,
+        635,
+        644,
+        647,
+        650,
+        717
       ]
     },
     {
@@ -13306,6 +13309,34 @@
       ]
     },
     {
+      "path": "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
+      "sha256": "bf0212ecc8a6066af65bff58f495fa7483925a2adacbee39783f38f9574e1fb7",
+      "bytes": 11389,
+      "lines": 141,
+      "title": "A joint candidate: actual relational histories with a zero signed response",
+      "headings": [
+        "A joint candidate: actual relational histories with a zero signed response",
+        "The constructive question",
+        "1. The actual domain and measure",
+        "2. One explicitly stated relational functional",
+        "3. Conditional derivation of nonzero differences",
+        "4. A two-history example",
+        "5. Relational-clock invariance and its limits",
+        "6. The anti-fitting and determinacy tests"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
+        "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
+        "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md"
+      ],
+      "risk_phrase_lines": [
+        114,
+        127,
+        139
+      ]
+    },
+    {
       "path": "RELATIONAL_CALIBRATION_AND_READOUT.md",
       "sha256": "e623ada9db05b5ba23415b15d9e193f96c653946972b885057428f3572e92a80",
       "bytes": 11465,
@@ -13533,9 +13564,9 @@
     },
     {
       "path": "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
-      "sha256": "e72a985f1a5c01a8aa0642bbbed76981583168dadc68101f42fe3dcee3d1c03d",
-      "bytes": 11204,
-      "lines": 99,
+      "sha256": "115a99b1632525d07cf54f98f862a99b50c6a9ad2f56f912861ce5d2c7562f0d",
+      "bytes": 11515,
+      "lines": 101,
       "title": "A whole-level experiential total without a preferred cosmic clock",
       "headings": [
         "A whole-level experiential total without a preferred cosmic clock",
@@ -13548,6 +13579,7 @@
         "6. Foundational and experiential status"
       ],
       "local_links": [
+        "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
@@ -13555,9 +13587,9 @@
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md"
       ],
       "risk_phrase_lines": [
-        45,
-        65,
-        85
+        47,
+        67,
+        87
       ]
     },
     {

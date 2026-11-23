@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [actual-history relational zero candidate](RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md) combines a finite actual-incidence clock measure and a stipulated relational functional, deriving a zero signed integral and nonzero responses in a specified regime. Its physical/experiential interpretation, admissible variations, measure, law, coefficients and actual organization remain unproved.
+
 The [relational-time experiential total candidate](RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md) constructs a reparameterization-invariant duration-weighted history sum without a preferred global slice, and checks window overlap and infinite-order dependence. Its subject/experience domain, clock measure, common scale, physical realization and zero balance remain unestablished.
 
 The [field-incidence and experiential-accounting candidate](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) proposes field-first subject identity and distinguishes token totals from subject-incidence totals in a hypothetical overlap. Conserved allocations do not establish actual fields, shared experiences, the correct quantity, or balance from zero's constitution.

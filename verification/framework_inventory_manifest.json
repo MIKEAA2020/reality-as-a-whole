@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "419889fe4c083fecccad5f7ab4033177a6ac7429",
-  "file_count": 1877,
+  "base_head": "8966864acfdb89220fa1478345d3348a5ae49b4a",
+  "file_count": 1879,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 56470,
-      "sha256": "b450d64ae53a3bad46a6ddd9807034cb9e5685eddee1b115c7734df09f441d39"
+      "bytes": 56865,
+      "sha256": "90d247ecf11846f75526a02c0a4a3b6d753df6236e41b9cea5fb69eebccb760a"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 160173,
-      "sha256": "810bbe698b313126ede0e1433a7aa26ce00b9e89a7e19adcbe770ead04e52a4a"
+      "bytes": 160460,
+      "sha256": "ac47fe6797ddb68f6308f65114f5afd2e801cd4eb576662dc8e49d3c0a4d1ce5"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1934,6 +1934,11 @@
       "sha256": "fc2a4d13f7aefc759e6048eef93b365237cf62dfddb90ae64d327a0a57d77917"
     },
     {
+      "path": "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
+      "bytes": 11389,
+      "sha256": "bf0212ecc8a6066af65bff58f495fa7483925a2adacbee39783f38f9574e1fb7"
+    },
+    {
       "path": "RELATIONAL_CALIBRATION_AND_READOUT.md",
       "bytes": 11465,
       "sha256": "e623ada9db05b5ba23415b15d9e193f96c653946972b885057428f3572e92a80"
@@ -1970,8 +1975,8 @@
     },
     {
       "path": "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
-      "bytes": 11204,
-      "sha256": "e72a985f1a5c01a8aa0642bbbed76981583168dadc68101f42fe3dcee3d1c03d"
+      "bytes": 11515,
+      "sha256": "115a99b1632525d07cf54f98f862a99b50c6a9ad2f56f912861ce5d2c7562f0d"
     },
     {
       "path": "RELATIONAL_TIME_CONSTRUCTION.md",
@@ -7290,8 +7295,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 790875,
-      "sha256": "94d21e9735f3b8fce17849de42421826c02c5fd7557ee28c9e646214dbab790d"
+      "bytes": 792233,
+      "sha256": "2700786d5c1e1f3f9653b7f0f87e7cc25ab76f194b7cc5cb2c3068d55d487566"
     },
     {
       "path": "verification/project_inventory.py",
@@ -7487,6 +7492,11 @@
       "path": "verification/register_roughness_heldout_gate.py",
       "bytes": 4984,
       "sha256": "ae674158eb6f493d1e33de284cedd421afeaa341b9aa47252e6b39c6d700d783"
+    },
+    {
+      "path": "verification/relational_actual_history_zero_test.py",
+      "bytes": 4665,
+      "sha256": "5898822138b39c5258546b1c1206591cc66f9578e3004d3515bb87cac845f3e3"
     },
     {
       "path": "verification/relational_calibrated_readout.json",
