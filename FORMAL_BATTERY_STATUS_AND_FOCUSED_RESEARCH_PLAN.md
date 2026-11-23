@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Realm–sphere incidence theorem:** [the common-state analysis](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) exhibits identical candidate-subsystem states with opposite sharp record–current correlations, and proves that nontrivial pairwise zero for both signs, a common response and fixed positive incidence force oddness and equal weights. Pairwise balance, actual subjects and the experience map remain conditional, not derived from global zero.
+
 **Confined-realm correction and continuation:** [confined succession without an interaction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) expresses held position through realm-specific order, not a holding mechanism, and works a symmetry-and-zero split alongside a nonuniqueness control. The preceding [held-position and interface model](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) gives optional circuits on the original five-ray state; they are not necessary for confinement. Neither the richer sector nor its physical or experiential interpretation is derived from zero.
 
 **Common-domain experiential candidate and intervention:** [the sphere–mismatch comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) applies the earlier local-overlap selector to an explicitly extracted quantum coupling graph, compares record-odd, mismatch-only and current-identity packages on the same sphere state, and physically separates the first and third with a phase pulse. Report bounds and a pain–relief research gate are conditional; actual subjects, the preference, phenomenology and calibration are not derived.

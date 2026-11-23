@@ -1,5 +1,7 @@
 # Confined succession without an interaction
 
+**Physical/experiential continuation:** [confined facts and the sphere-record incidence theorem](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) compares two static states of the existing sphere–record system, then derives conditional oddness and equal incidence from pairwise zero in both sharp orientations. It requires no holding interaction and does not identify quantum subsystems with actual subjects or metaphysical planes.
+
 ## Starting with the user's correction
 
 A game does not need an interaction to keep its move number unchanged while a player thinks. The number changes **when a half-move occurs**; thinking in the player's realm is not a half-move. Likewise, under the user's surface rule, the confined position is A during the room journey and becomes B on return. There is no need to invent a force that holds A fixed or turns the intermediate room points into hidden surface points.

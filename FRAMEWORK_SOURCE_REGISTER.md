@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 653 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 585 verification Python scripts.
+- 654 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 586 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -587,6 +587,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) — An autonomous zero-spin record cycle and its subject boundary
 - [ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) — Confined realms: held position, richer activity and an optional interface
+- [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
@@ -1338,6 +1339,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)
 - [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
+- [verification/zero_realm_physical_zero_incidence_test.py](verification/zero_realm_physical_zero_incidence_test.py)
 - [verification/zero_realm_restriction_without_interaction_test.py](verification/zero_realm_restriction_without_interaction_test.py)
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)

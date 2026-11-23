@@ -1,5 +1,7 @@
 # One subject–experience candidate tested against two rivals
 
+**Realm and incidence continuation:** [the sphere-record zero theorem](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) compares the same reduced subject-candidate state with two distinguishable richer current correlations, then derives conditional response oddness and equal incidence jointly from pairwise zero for both orientations. No holding interaction, actual subject or global experiential zero is inferred.
+
 ## Outcome
 
 The requested next step was to put subject incidence, persistence, felt sign and the whole-level zero question into **one worked comparison**, not just construct another cancellation. This report does so using the actual state from the [single-system five-ray construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) and the local mismatch idea in the earlier [integrated experiential candidate](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md).

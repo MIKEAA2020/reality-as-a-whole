@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 696,
-  "bytes": 8790335,
-  "line_count": 78826,
-  "document_count_with_risk_phrases": 649,
+  "document_count": 697,
+  "bytes": 8806040,
+  "line_count": 78978,
+  "document_count_with_risk_phrases": 650,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5210,9 +5210,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "4cddd2f5e27ebe6caa07e1a27ad0e651e434f8a45a8fa260db36361227f09a7b",
-      "bytes": 84932,
-      "lines": 343,
+      "sha256": "8dc5326b1b036e34633b20d6ce1dafe1dcb5fb6c5891067ec1833848e976d2d7",
+      "bytes": 85396,
+      "lines": 345,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5224,6 +5224,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
@@ -5402,7 +5403,7 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
+        5,
         11,
         13,
         15,
@@ -5412,55 +5413,56 @@
         23,
         25,
         27,
-        33,
+        29,
         35,
-        41,
+        37,
         43,
-        47,
+        45,
         49,
         51,
         53,
-        57,
+        55,
         59,
-        63,
-        67,
+        61,
+        65,
         69,
         71,
         73,
         75,
-        83,
-        89,
+        77,
+        85,
         91,
-        95,
-        99,
-        105,
-        123,
-        131,
-        141,
-        157,
+        93,
+        97,
+        101,
+        107,
+        125,
+        133,
+        143,
         159,
-        163,
-        169,
-        179,
+        161,
+        165,
+        171,
         181,
-        199,
+        183,
         201,
-        205,
-        215,
-        219,
-        225,
+        203,
+        207,
+        217,
+        221,
         227,
-        241,
-        245,
-        257,
-        265,
+        229,
+        243,
+        247,
+        259,
         267,
-        271,
-        287,
-        297,
-        314,
-        331,
-        337
+        269,
+        273,
+        289,
+        299,
+        316,
+        333,
+        339
       ]
     },
     {
@@ -5639,9 +5641,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a326a253f2e9b66b4ee91fcb45a336dd42777a86d68dd2a2162cce6923405f3f",
-      "bytes": 177466,
-      "lines": 1373,
+      "sha256": "53440f16bca3882895f13cba9829a303ebdba6b70b9df73287be8fb67c2755e4",
+      "bytes": 177743,
+      "lines": 1375,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6248,6 +6250,7 @@
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -6966,6 +6969,7 @@
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_point_blowup_test.py",
+        "verification/zero_realm_restriction_without_interaction_test.py",
         "verification/zero_reciprocal_subject_exchange_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
@@ -7013,15 +7017,15 @@
         407,
         475,
         573,
-        609,
         610,
-        614,
+        611,
         615,
-        692,
-        701,
-        704,
-        707,
-        775
+        616,
+        693,
+        702,
+        705,
+        708,
+        776
       ]
     },
     {
@@ -19496,6 +19500,35 @@
       ]
     },
     {
+      "path": "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
+      "sha256": "d53f716bcb8e588babaa9a1222d1b53375c813c84e0350364f4e270438217315",
+      "bytes": 14098,
+      "lines": 144,
+      "title": "Confined facts, richer relations and a conditional experiential-zero theorem",
+      "headings": [
+        "Confined facts, richer relations and a conditional experiential-zero theorem",
+        "What this step does",
+        "1. A restricted realm and a richer physical description",
+        "2. What the richer relation contains",
+        "3. Whole-level zero does not automatically mean pairwise zero",
+        "4. The conditional theorem: nontrivial zero forces oddness and equal incidence",
+        "5. No-signalling, time and empirical status",
+        "6. What has advanced—and what must be derived"
+      ],
+      "local_links": [
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
+        "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        22,
+        61,
+        138,
+        144
+      ]
+    },
+    {
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee",
       "bytes": 13079,
@@ -20030,9 +20063,9 @@
     },
     {
       "path": "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
-      "sha256": "f4a0cb1c20701566f4cab52a17b23b3145acdc72a10da3296305e283fef13f40",
-      "bytes": 15304,
-      "lines": 151,
+      "sha256": "34e3dcd2a7efad93949e20c3fdf68e414ade343ad3121cfed014e8eabcb3627c",
+      "bytes": 15746,
+      "lines": 153,
       "title": "Confined succession without an interaction",
       "headings": [
         "Confined succession without an interaction",
@@ -20045,19 +20078,20 @@
         "6. Where this takes the programme"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
       ],
       "risk_phrase_lines": [
-        53,
-        59,
-        62,
-        67,
-        93,
-        126,
-        151
+        55,
+        61,
+        64,
+        69,
+        95,
+        128,
+        153
       ]
     },
     {
@@ -20565,9 +20599,9 @@
     },
     {
       "path": "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
-      "sha256": "afca1c602515a821b1ac7463d37ccba7298c5e40f6a0d52f61c48304375d208d",
-      "bytes": 22816,
-      "lines": 170,
+      "sha256": "b410ca9163348610971b9d9725ef80e726d2cc54923322a564796cfac8dbcf0b",
+      "bytes": 23240,
+      "lines": 172,
       "title": "One subject–experience candidate tested against two rivals",
       "headings": [
         "One subject–experience candidate tested against two rivals",
@@ -20580,6 +20614,7 @@
         "6. Pain–relief research: a concrete gate, not a fabricated result"
       ],
       "local_links": [
+        "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
@@ -20588,15 +20623,15 @@
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        48,
-        56,
-        71,
-        80,
-        94,
-        119,
-        123,
-        154
+        9,
+        50,
+        58,
+        73,
+        82,
+        96,
+        121,
+        125,
+        156
       ]
     },
     {
