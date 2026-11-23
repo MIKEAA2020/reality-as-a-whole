@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [pain, relief and opponent-process continuation](PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md) examines evidence for positively felt relief, distinguishes measurement scales and context, and demonstrates that opponent reversal and relaxation need not yield equal integrated areas. Its proposed ethical research design tests restricted mappings, not whole-level necessity.
+
 The [causal relaxation and boundary candidate](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) gives a stable retarded model in which finite inputs and return to the same reference state yield zero integrated response, including a coupled case with nonzero individual histories. It does not establish physical experience, universal endpoint conditions, a closed energy account or self-subsistence.
 
 The [locality and boundary balance continuation](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) derives a zero response in a specified local reciprocal model, identifies the corresponding continuum boundary term, and scopes the no-signalling test. Its local dynamics, vanishing flux, experiential mapping and full zero constitution remain unproved.

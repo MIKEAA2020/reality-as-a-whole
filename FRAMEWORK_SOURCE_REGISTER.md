@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 598 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 518 verification Python scripts.
+- 599 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 519 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -346,6 +346,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md](PAINGEN_UNPLEASANTNESS_PREDICTOR_PROTOCOL.md) — Pain unpleasantness: fixed secondary-analysis plan
 - [PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md](PAIN_AVERSION_CROSS_MODALITY_EXPERIENTIAL_READINESS_GATE.md) — A first-person pain/aversion dataset: what can and cannot anchor the candidate
 - [PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md](PAIN_AVERSION_CROSS_MODALITY_PROVENANCE_FIXED_PLAN.md) — Fixed bounded audit: pain and aversion data as an experiential anchor
+- [PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md](PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md) — Pain, relief and the proposed experiential zero
 - [PERSPECTIVAL_FINITUDE.md](PERSPECTIVAL_FINITUDE.md) — Perspectival finitude: why finite observers see limited information
 - [PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md](PHENOMENAL_BONDING_SUBJECT_COMPOSITION_BRIDGE_AUDIT.md) — From experienced unity to subject constitution: the missing inference
 - [PHENOMENAL_GWT_RUSSELLIAN.md](PHENOMENAL_GWT_RUSSELLIAN.md) — Phenomenal Constitution: Russellian Identity × Global Workspace from the Type-III₁ Algebra
@@ -995,6 +996,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/page_wootters_static_clock.py](verification/page_wootters_static_clock.py)
 - [verification/pain_aversion_readiness.py](verification/pain_aversion_readiness.py)
 - [verification/pain_aversion_readiness_test.py](verification/pain_aversion_readiness_test.py)
+- [verification/pain_relief_opponent_zero_test.py](verification/pain_relief_opponent_zero_test.py)
 - [verification/paingen_condition_subset_diagnostic.py](verification/paingen_condition_subset_diagnostic.py)
 - [verification/paingen_condition_subset_diagnostic_test.py](verification/paingen_condition_subset_diagnostic_test.py)
 - [verification/paingen_intensity_unpleasantness_gate.py](verification/paingen_intensity_unpleasantness_gate.py)

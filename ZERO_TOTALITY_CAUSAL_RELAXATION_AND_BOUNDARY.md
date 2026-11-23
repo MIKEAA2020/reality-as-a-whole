@@ -117,6 +117,10 @@ Several premises can fail without refuting the user's broader proposal:
 
 Causal relaxation provides a concrete *conditional* way for the relevant boundary term to vanish, and internal reciprocal coupling permits an exact zero across histories without requiring each history to have zero total. This improves the causal specificity of the candidate, while leaving the central physical, experiential and foundational identity open. It neither proves the zero-totality thesis nor shows that the no-residue demand is impossible.
 
+## Empirical continuation
+
+The [pain, relief and opponent-process analysis](PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md) examines primary experimental evidence and an unequal-gain control: reversal and return to baseline can occur with negative, zero or positive integrated valence. It identifies the equal-gain and measurement assumptions required for an empirical bridge, without treating local results as a verdict on the whole.
+
 ## Verification
 
 `python -m unittest verification.causal_relaxation_zero_test -v` checks the pulse formula and integrals, the non-returning counterexample, the two-site integrated response, and a numerical time-domain solution against its exact area identities. These are calculations in stipulated models, not measurements of felt valence or evidence of the universe's boundary conditions.
