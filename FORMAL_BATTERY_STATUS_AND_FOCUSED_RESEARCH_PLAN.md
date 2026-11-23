@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [zero-total symmetry and measure follow-up](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) derives unique maximum-entropy laws under two different choices of finite alternatives, which yield different event weights, and makes the record's cross-snapshot alignment assumption explicit. It is a conditional calculation, not a self-subsistence, experience, physical time or F3 measure pass.
+
 The [zero-total relational event and record](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) gives a finite neutral sector with a unique invariant distribution, four classes of invariant event laws, and a reversible invariant record that distinguishes two such laws. The event law, model actuality, register resources and experiential interpretation remain supplied or open; no foundational or time battery pass follows.
 
 The [zero-totality performance audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) tests the chat's claim that a determinate act is necessarily unexplained, and gives a nontrivial zero-net cyclic control with a returning endpoint. Its law, state and experiential interpretation are not derived; neither self-subsistence nor a no-residue account is established.

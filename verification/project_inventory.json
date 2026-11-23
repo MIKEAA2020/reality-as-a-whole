@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 614,
-  "bytes": 7641145,
-  "line_count": 67451,
-  "document_count_with_risk_phrases": 567,
+  "document_count": 615,
+  "bytes": 7653579,
+  "line_count": 67563,
+  "document_count_with_risk_phrases": 568,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "621c1cec1e026d418b3d78d2db37640d7f7cedd771765f839c4e70749c4e8a58",
-      "bytes": 47742,
-      "lines": 189,
+      "sha256": "fb633ff32317b282300bc7aa05c79db1a930cd6fc1b5af38b92d47b144d4be49",
+      "bytes": 48150,
+      "lines": 191,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
@@ -4982,28 +4983,29 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
-        15,
-        25,
+        7,
+        11,
+        17,
         27,
-        45,
+        29,
         47,
-        51,
-        61,
-        65,
-        71,
+        49,
+        53,
+        63,
+        67,
         73,
-        87,
-        91,
-        103,
-        111,
+        75,
+        89,
+        93,
+        105,
         113,
-        117,
-        133,
-        143,
-        160,
-        177,
-        183
+        115,
+        119,
+        135,
+        145,
+        162,
+        179,
+        185
       ]
     },
     {
@@ -5182,9 +5184,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "60aa095ecf77cfe5a8ca81c8ca292f751584da2c61b8cb7425639dbdc07ca17d",
-      "bytes": 153501,
-      "lines": 1198,
+      "sha256": "6aacb6b3ccbcd8ff4ea712679775384fa9d221c90f3e0dc036d1f171bd2ffdf9",
+      "bytes": 153839,
+      "lines": 1201,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5758,6 +5760,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
+        "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "brain-specificity-thesis.md",
         "constitutive-reality-thesis.md",
         "identity-and-whole-thesis.md",
@@ -6364,6 +6367,8 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_total_relational_record.py",
+        "verification/zero_total_relational_record_test.py",
         "verification/framework_inventory_manifest.json"
       ],
       "risk_phrase_lines": [
@@ -6381,11 +6386,11 @@
         461,
         558,
         573,
-        610,
-        619,
-        622,
-        625,
-        691
+        611,
+        620,
+        623,
+        626,
+        692
       ]
     },
     {
@@ -14430,9 +14435,9 @@
     },
     {
       "path": "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
-      "sha256": "c0d63b44e79145fbccea0048b04d606f031624af3fde5125a19849b0cbaa5819",
-      "bytes": 13754,
-      "lines": 96,
+      "sha256": "f769b77389f410df6438a244c702eb9e6a0e27af1088aa9db421cf95ecffb684",
+      "bytes": 14247,
+      "lines": 98,
       "title": "Correction: necessary plenitude as self-existent actuality, not literal simulation",
       "headings": [
         "Correction: necessary plenitude as self-existent actuality, not literal simulation",
@@ -14445,6 +14450,7 @@
         "Verification and status"
       ],
       "local_links": [
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "SELF_EXISTENT_EXPERIENTIAL_SUBSTRATE_INDEPENDENCE.md",
@@ -14457,9 +14463,9 @@
         "verification/self_existing_plenitude_centers.json"
       ],
       "risk_phrase_lines": [
-        27,
-        37,
-        53
+        29,
+        39,
+        55
       ]
     },
     {
@@ -18661,9 +18667,9 @@
     },
     {
       "path": "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
-      "sha256": "eb6feb4ced8581f0b9dcaa89d5bbe5b7b98ff0225e7d3712292df22059cacffc",
-      "bytes": 13732,
-      "lines": 91,
+      "sha256": "92bf4c8eaacbcd9fcfef7c527e4d85a20b7e93ac68ebae81baeb32160ce98c8f",
+      "bytes": 14060,
+      "lines": 93,
       "title": "Can a performance leave no unexplained residue?",
       "headings": [
         "Can a performance leave no unexplained residue?",
@@ -18676,6 +18682,7 @@
         "6. The next constructive target"
       ],
       "local_links": [
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
@@ -18685,17 +18692,18 @@
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md"
       ],
       "risk_phrase_lines": [
-        13,
-        64,
-        78,
-        91
+        5,
+        15,
+        66,
+        80,
+        93
       ]
     },
     {
       "path": "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
-      "sha256": "4e137a8d47fd25d7c0a3c8beda25bea2edb60424421ffbc99e07de68ef63be65",
-      "bytes": 9823,
-      "lines": 96,
+      "sha256": "b173475b8fb2c8f813da71347505bf455ea75bc95d2bd3407718e40e6bf1db5f",
+      "bytes": 10123,
+      "lines": 98,
       "title": "A zero-total relational event and its record",
       "headings": [
         "A zero-total relational event and its record",
@@ -18707,6 +18715,7 @@
         "5. What remains for full intelligibility"
       ],
       "local_links": [
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "verification/zero_total_relational_record.py",
         "verification/zero_total_relational_record_test.py",
@@ -18714,14 +18723,49 @@
         "AUTONOMOUS_RECORD_INSTRUMENT.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
+        7,
         11,
-        22,
-        39,
-        47,
-        54,
-        71
+        13,
+        24,
+        41,
+        49,
+        56,
+        73
+      ]
+    },
+    {
+      "path": "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+      "sha256": "dcabc3ef7335d64976e4aa8df10affd2ce4d577256e5dca7d84cd7770d8fe08c",
+      "bytes": 10567,
+      "lines": 101,
+      "title": "Zero totality: can symmetry and parsimony fix the internal measure?",
+      "headings": [
+        "Zero totality: can symmetry and parsimony fix the internal measure?",
+        "Result",
+        "1. One snapshot versus a relation",
+        "2. Two precise simplicity principles, different results",
+        "3. A stronger conditional selection—and its limitation",
+        "4. What this contributes to the zero-residue programme"
+      ],
+      "local_links": [
+        "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
+        "verification/zero_total_symmetry_measure.py",
+        "verification/zero_total_symmetry_measure_test.py",
+        "verification/zero_total_symmetry_measure.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        9,
+        37,
+        46,
+        55,
+        61,
+        73,
+        87,
+        91,
+        93,
+        101
       ]
     },
     {

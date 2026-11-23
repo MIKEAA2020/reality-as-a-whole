@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 571 root Markdown documents including this register; 43 research Markdown documents.
-- 59 original uploaded files, including provenance metadata; 495 verification Python scripts.
+- 572 root Markdown documents including this register; 43 research Markdown documents.
+- 59 original uploaded files, including provenance metadata; 497 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -573,6 +573,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) — A zero-total relational event and its record
+- [ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) — Zero totality: can symmetry and parsimony fix the internal measure?
 - [brain-specificity-thesis.md](brain-specificity-thesis.md) — Brain specificity, organizational realization, and whole-reality intelligibility
 - [constitutive-reality-thesis.md](constitutive-reality-thesis.md) — Concrete constitution and reality as a whole
 - [identity-and-whole-thesis.md](identity-and-whole-thesis.md) — Identity, perspective, and reality as a whole
@@ -1195,6 +1196,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
 - [verification/zero_total_relational_record.py](verification/zero_total_relational_record.py)
 - [verification/zero_total_relational_record_test.py](verification/zero_total_relational_record_test.py)
+- [verification/zero_total_symmetry_measure.py](verification/zero_total_symmetry_measure.py)
+- [verification/zero_total_symmetry_measure_test.py](verification/zero_total_symmetry_measure_test.py)
 
 ## Other materials
 

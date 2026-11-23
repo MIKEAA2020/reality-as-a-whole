@@ -2,6 +2,8 @@
 
 ## The updated question and answer
 
+**Measure follow-up:** [symmetry, measure and relational identification](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) gives exact conditional selection results and exposes the reference-measure and relational-alignment assumptions; it does not claim these assumptions are ultimately brute or proven necessary.
+
 **Constructive continuation:** [a zero-total relational event and record](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) derives an invariant-distribution result and a four-class family of event laws in a finite neutral sector. Its record and underlying resources are stipulated; it does not establish self-subsistence or experiential constitution.
 
 The new [chat export](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-2.txt) contains the entire previous upload unchanged, beginning at byte 81 after an added source header, followed by 48,104 bytes including an exporter footer. SHA-256: `9f4ece3374b4c1188918edfd227923c78e8f4054b6125cf45a7455fca8fd1c53`. I read the complete added exchange. Its timestamps are file content, not independent evidence. The preceding energy/zero argument is examined in [the earlier audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md).

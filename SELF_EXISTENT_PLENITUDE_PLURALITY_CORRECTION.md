@@ -2,6 +2,8 @@
 
 ## The correction
 
+**Current clarification:** the user is pursuing zero-totality in the strongest appropriate sense as the candidate for an account with no brute remainder, not asking the project to select a separate positive external ground. The [symmetry and measure follow-up](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) tests conditional internal relations and measures within that programme; it does not establish the proposal or resolve its relation to the experiential plurality below.
+
 The [latest performance and residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) records the user's strict demand for self-subsistence without any tolerated brute residue and considers whether zero-totality can support an internal performance. Its finite controls do not establish that outcome.
 
 For the subsequent proposal that a global energy-like or experiential quantity might have a zero total, including the user's clarification about convergent paths to truth, see [the updated chat audit](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md). That proposal is under examination; zero net, literal nonexistence, and the continued reality of local experience are distinct claims.

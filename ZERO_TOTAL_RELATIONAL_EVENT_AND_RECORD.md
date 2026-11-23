@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Continuation:** [symmetry, measure and relational identification](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) tests two explicit maximum-entropy principles, shows they give different invariant laws, and identifies the shared cross-snapshot structure needed for the record event.
+
 A small, explicit zero-total model can contain internal distinctions and a relational event. Within its chosen six-state sector, relabelling symmetry **uniquely fixes an invariant normalized distribution**, but leaves a family of different event laws. An invariant, reversible record operation distinguishes two of those laws exactly, while preserving the declared zero charge.
 
 This advances the constructive test proposed in [the performance-and-residue audit](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md): a net-zero constraint does not force a static or indistinguishable description. It also exposes what must still be explained. The sector, symmetry, admissible laws, probability interpretation, two-snapshot access and blank register are **stipulated**. Their existence and actuality are not derived from zero. There are no actual subjects, experiences, cosmological energy, local gravitational detector, or fundamental time in this construction. It is not an account without residue and does not pass the formal battery.
