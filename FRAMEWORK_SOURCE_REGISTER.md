@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 602 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 522 verification Python scripts.
+- 603 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 523 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -584,6 +584,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
+- [ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) — A covariant zero-totality candidate: dynamics, clock and experience
 - [ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md](ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md) — From actual experience to a self-differentiating zero-totality
 - [ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md](ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md) — When does a symmetry preserve actual experience?
 - [ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md](ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md) — Could an internal relation determine experiential balance?
@@ -800,6 +801,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cosmological_collapse_geometry_gate.py](verification/cosmological_collapse_geometry_gate.py)
 - [verification/cosmological_constant_cancel.py](verification/cosmological_constant_cancel.py)
 - [verification/coupled_subject_boundary_gate.py](verification/coupled_subject_boundary_gate.py)
+- [verification/covariant_gauge_clock_framework_test.py](verification/covariant_gauge_clock_framework_test.py)
 - [verification/crn_cocycle.py](verification/crn_cocycle.py)
 - [verification/cross_framework_causal_cutoff.py](verification/cross_framework_causal_cutoff.py)
 - [verification/cross_framework_local_bracket.py](verification/cross_framework_local_bracket.py)

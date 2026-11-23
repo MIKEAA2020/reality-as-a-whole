@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 645,
-  "bytes": 8058894,
-  "line_count": 71213,
-  "document_count_with_risk_phrases": 598,
+  "document_count": 646,
+  "bytes": 8080187,
+  "line_count": 71424,
+  "document_count_with_risk_phrases": 599,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "c07fc18afd736c286c5fc282a9885a86cc03c850477fd38a74703e7556bb0386",
-      "bytes": 60014,
-      "lines": 253,
+      "sha256": "01f33be2685ee4474d6a6c280b09597fcdb434e98071c66703b0921716f518da",
+      "bytes": 60272,
+      "lines": 255,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,7 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
-        "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
@@ -5235,35 +5235,36 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
-        33,
-        41,
-        51,
-        67,
+        7,
+        11,
+        17,
+        35,
+        43,
+        53,
         69,
-        73,
-        79,
-        89,
+        71,
+        75,
+        81,
         91,
-        109,
+        93,
         111,
-        115,
-        125,
-        129,
-        135,
+        113,
+        117,
+        127,
+        131,
         137,
-        151,
-        155,
-        167,
-        175,
+        139,
+        153,
+        157,
+        169,
         177,
-        181,
-        197,
-        207,
-        224,
-        241,
-        247
+        179,
+        183,
+        199,
+        209,
+        226,
+        243,
+        249
       ]
     },
     {
@@ -5442,9 +5443,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1c7d5070f1b60f670c181f6bfde7a5138add9a6807dbdcf4cb5e9d582acf091c",
-      "bytes": 162075,
-      "lines": 1260,
+      "sha256": "db269ad171b49f7d50b43caab5f402f7a6452adbc1c7bd654082d024aec2d5f2",
+      "bytes": 162361,
+      "lines": 1262,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6030,6 +6031,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
@@ -6232,6 +6234,7 @@
         "verification/cosmological_collapse_geometry_gate.py",
         "verification/cosmological_constant_cancel.py",
         "verification/coupled_subject_boundary_gate.py",
+        "verification/covariant_gauge_clock_framework_test.py",
         "verification/crn_cocycle.py",
         "verification/cross_framework_causal_cutoff.py",
         "verification/cross_framework_local_bracket.py",
@@ -6703,11 +6706,11 @@
         472,
         570,
         585,
-        642,
-        651,
-        654,
-        657,
-        724
+        643,
+        652,
+        655,
+        658,
+        725
       ]
     },
     {
@@ -19172,6 +19175,33 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+      "sha256": "d946f1ff2af5873a243502efbacf26318de97c606ceb830ea668d804cc880a37",
+      "bytes": 20317,
+      "lines": 205,
+      "title": "A covariant zero-totality candidate: dynamics, clock and experience",
+      "headings": [
+        "A covariant zero-totality candidate: dynamics, clock and experience",
+        "Purpose and status",
+        "1. A single covariant candidate",
+        "2. Physical local differences and whole-level zero",
+        "3. A nontrivial initial state in the actual field equations",
+        "4. Relational time in the coupled candidate",
+        "5. A concrete experiential bridge—and its physics prediction",
+        "6. The actual-history total is not automatic"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        203
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
       "sha256": "588e012c2317a706cc13012e17c548db6306f5a9dcaea6af0d09cd6e297d2c7e",
       "bytes": 15636,
@@ -19274,9 +19304,9 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "sha256": "bebfdabd3b9aa3b2531a8d6d834a37432ff53454284b6708dde0e5edafe4ab92",
-      "bytes": 12362,
-      "lines": 127,
+      "sha256": "ffdd807c9ad6ebf5368d6c751d9e3c7b35984b5678c85bd087e358cb7686579f",
+      "bytes": 12794,
+      "lines": 129,
       "title": "A physical zero-constraint route: what it gives and what it does not",
       "headings": [
         "A physical zero-constraint route: what it gives and what it does not",
@@ -19289,18 +19319,19 @@
         "6. Implication for zero-totality and experience"
       ],
       "local_links": [
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        51,
-        76,
-        88,
-        109,
-        127
+        15,
+        53,
+        78,
+        90,
+        111,
+        129
       ]
     },
     {

@@ -2,6 +2,8 @@
 
 ## Why this is relevant
 
+**Constructive continuation:** [the covariant gauge–clock framework](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) goes beyond the homogeneous model by supplying explicit nontrivial classical Einstein–gauge–matter–clock initial data that satisfy all constraint classes. It proposes an independently testable experiential bridge, without claiming nonlinear evolution, measured phenomenology or a fundamental derivation.
+
 **Updated chat:** [experience, energy and time](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) records the user's correction from awareness to experience, checks the chat's 30% gravitational-energy claim, and compares relational, preferred-foliation and emergent approaches to time.
 
 The [modal symmetry bridge](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) asked whether a sign-reversed *complete whole* is genuinely possible. There is another physically motivated route worth examining: in a generally covariant model, the generator of a change of time label can vanish as a constraint, while matter and relational evolution remain nontrivial. This is closer to the user's energy proposal than assigning arbitrary signed numbers to a graph.
