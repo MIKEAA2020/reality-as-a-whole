@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 661,
-  "bytes": 8285824,
-  "line_count": 73503,
-  "document_count_with_risk_phrases": 613,
+  "document_count": 662,
+  "bytes": 8298697,
+  "line_count": 73634,
+  "document_count_with_risk_phrases": 614,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "a516596d1a1dc644b5dce020f05218fac1fd144478bac1d3135843d392d92297",
-      "bytes": 66069,
-      "lines": 275,
+      "sha256": "2c5b58e17a065fbccbc1ec6e226936119dc0d272632dc3eb2d0fced7164ba2f5",
+      "bytes": 66521,
+      "lines": 277,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
@@ -5251,39 +5252,40 @@
       ],
       "risk_phrase_lines": [
         7,
-        15,
-        21,
+        9,
+        17,
         23,
-        27,
-        31,
-        37,
-        55,
-        63,
-        73,
-        89,
+        25,
+        29,
+        33,
+        39,
+        57,
+        65,
+        75,
         91,
-        95,
-        101,
-        111,
+        93,
+        97,
+        103,
         113,
-        131,
+        115,
         133,
-        137,
-        147,
-        151,
-        157,
+        135,
+        139,
+        149,
+        153,
         159,
-        173,
-        177,
-        189,
-        197,
+        161,
+        175,
+        179,
+        191,
         199,
-        203,
-        219,
-        229,
-        246,
-        263,
-        269
+        201,
+        205,
+        221,
+        231,
+        248,
+        265,
+        271
       ]
     },
     {
@@ -5462,9 +5464,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f59ba51e7017f76a8533ffe5761cbca531d15eebf0d7098bb17ad196a8ced641",
-      "bytes": 166789,
-      "lines": 1298,
+      "sha256": "c1a202fa859a3ca0e5bcf1bf04bd9df631c8ce4768fdedb134cdaf89952a7c57",
+      "bytes": 167055,
+      "lines": 1300,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6053,6 +6055,7 @@
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -6735,6 +6738,7 @@
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_locality_boundary_test.py",
         "verification/zero_point_blowup_test.py",
+        "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6761,11 +6765,11 @@
         472,
         570,
         589,
-        657,
-        666,
-        669,
-        672,
-        739
+        658,
+        667,
+        670,
+        673,
+        740
       ]
     },
     {
@@ -19211,6 +19215,33 @@
       ]
     },
     {
+      "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
+      "sha256": "0f29f435a70dde0ca8521e34c12df287da258065248e7c189f7cea34b6ec06d7",
+      "bytes": 11751,
+      "lines": 125,
+      "title": "The internal sphere, binary distinction, and actual incidence",
+      "headings": [
+        "The internal sphere, binary distinction, and actual incidence",
+        "Constructive result",
+        "1. Deriving the sphere from a two-level complex state space",
+        "2. The same sphere leads to a causal cone",
+        "3. A zero trace is not an experiential zero",
+        "4. The exact incidence condition for the relational network",
+        "5. What has and has not been obtained",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md"
+      ],
+      "risk_phrase_lines": [
+        92,
+        102,
+        104,
+        125
+      ]
+    },
+    {
       "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
       "sha256": "a62854a68e00e0ff806673075081949ada3f26ab90bd1ffd88252ea3685d53dd",
       "bytes": 9249,
@@ -19319,9 +19350,9 @@
     },
     {
       "path": "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
-      "sha256": "8ac504d6f746d27ab26c4fa6d0be45ca53c1fad84d9177bb7af65d9e1c89402c",
-      "bytes": 10752,
-      "lines": 126,
+      "sha256": "403ef6a2d94d3d1096f2f617465fd7e878208f2eaaed0ee868d5916cec677cfe",
+      "bytes": 11156,
+      "lines": 128,
       "title": "Zero, internal relations and the problem of opposites",
       "headings": [
         "Zero, internal relations and the problem of opposites",
@@ -19334,16 +19365,18 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        43,
-        67,
-        85,
-        99,
-        106,
-        126
+        3,
+        13,
+        45,
+        69,
+        87,
+        101,
+        108,
+        128
       ]
     },
     {

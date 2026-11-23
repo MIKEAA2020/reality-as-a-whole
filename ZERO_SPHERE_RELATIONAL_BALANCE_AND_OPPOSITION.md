@@ -1,5 +1,7 @@
 # Zero, internal relations and the problem of opposites
 
+**Continuation:** [the binary-state and incidence analysis](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) connects a stipulated complex two-level state space to the same projective sphere, distinguishes zero operator trace from actual state-weighted balance, and derives an exact weighted-network criterion. The complex state space and physical–experiential identity remain unproved inputs.
+
 ## Main result
 
 There is a way to combine the point–sphere proposal, relativistic frame independence and a nontrivial zero total, **provided additional relational structure is supplied**. The construction also reveals a constraint on a tempting simpler idea:
