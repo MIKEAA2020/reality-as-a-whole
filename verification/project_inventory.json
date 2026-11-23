@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 644,
-  "bytes": 8030474,
-  "line_count": 71006,
-  "document_count_with_risk_phrases": 597,
+  "document_count": 645,
+  "bytes": 8050810,
+  "line_count": 71149,
+  "document_count_with_risk_phrases": 598,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "54232fffaa4ab7f01a5779c78fcec0375306abb753da802bd95727bae4067a47",
-      "bytes": 58719,
-      "lines": 249,
+      "sha256": "b2a2e16c63c392678e137a4ef4e8aa75857fc3b728be19ae129d60fec59cffe7",
+      "bytes": 59147,
+      "lines": 251,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "PERFECT_ADAPTATION_AND_EXPERIENTIAL_BALANCE.md",
         "PAIN_RELIEF_OPPONENT_PROCESS_AND_EXPERIENTIAL_ZERO.md",
@@ -5232,35 +5233,35 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        11,
-        29,
-        37,
-        47,
-        63,
+        7,
+        13,
+        31,
+        39,
+        49,
         65,
-        69,
-        75,
-        85,
+        67,
+        71,
+        77,
         87,
-        105,
+        89,
         107,
-        111,
-        121,
-        125,
-        131,
+        109,
+        113,
+        123,
+        127,
         133,
-        147,
-        151,
-        163,
-        171,
+        135,
+        149,
+        153,
+        165,
         173,
-        177,
-        193,
-        203,
-        220,
-        237,
-        243
+        175,
+        179,
+        195,
+        205,
+        222,
+        239,
+        245
       ]
     },
     {
@@ -5439,9 +5440,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bf9202ec49b0e886311e52712f6ef571711711fcfd53bb99043718b494bd7445",
-      "bytes": 161794,
-      "lines": 1258,
+      "sha256": "1c7d5070f1b60f670c181f6bfde7a5138add9a6807dbdcf4cb5e9d582acf091c",
+      "bytes": 162075,
+      "lines": 1260,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6031,6 +6032,7 @@
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
         "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
@@ -6288,6 +6290,7 @@
         "verification/fixed_gap_source_clock.py",
         "verification/foundation_battery_report_spotcheck.py",
         "verification/foundation_route_comparison.py",
+        "verification/foundational_zero_bridge_test.py",
         "verification/four_spin_hidden_edge_robustness.py",
         "verification/four_spin_mismatch_measurement_gate.py",
         "verification/four_spin_mismatch_measurement_gate_test.py",
@@ -6698,11 +6701,11 @@
         472,
         570,
         585,
-        641,
-        650,
-        653,
-        656,
-        723
+        642,
+        651,
+        654,
+        657,
+        724
       ]
     },
     {
@@ -19299,6 +19302,37 @@
       ]
     },
     {
+      "path": "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
+      "sha256": "10ea79f3999f5a45dfd32284541d54172b41fe825aa13433422489e046062a8e",
+      "bytes": 19289,
+      "lines": 137,
+      "title": "Can self-sufficient zero be intrinsically differentiated experience?",
+      "headings": [
+        "Can self-sufficient zero be intrinsically differentiated experience?",
+        "Direct answer",
+        "1. Begin with what is actually given",
+        "2. The strongest identification argument",
+        "3. What would make the identification non-circular?",
+        "4. Why structural uniqueness is not yet experiential uniqueness",
+        "5. Can self-sufficiency require differentiation?",
+        "6. Distinguish the two zeros without weakening either possibility"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+        "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        34,
+        70,
+        76,
+        111
+      ]
+    },
+    {
       "path": "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
       "sha256": "edc4d9c8efbe5eaf0eb597e8db7af19aea2abd339133d8be2dfe1d39ff365d45",
       "bytes": 11896,
@@ -19536,9 +19570,9 @@
     },
     {
       "path": "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
-      "sha256": "544ba6d928cd319aefc578b978f0fd9450cdabf28c7532d0e174af12ce7cca3e",
-      "bytes": 15128,
-      "lines": 114,
+      "sha256": "f56343209aca31df7ae7c9ecd80adcc88d94a2d7d1116999f91b93a1c2e1992a",
+      "bytes": 15466,
+      "lines": 116,
       "title": "Can zero-totality be self-subsistent and internally differentiated?",
       "headings": [
         "Can zero-totality be self-subsistent and internally differentiated?",
@@ -19551,6 +19585,7 @@
         "6. A research verdict, without a substitute answer"
       ],
       "local_links": [
+        "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
@@ -19558,11 +19593,11 @@
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        11,
-        33,
-        49,
-        59,
-        108
+        13,
+        35,
+        51,
+        61,
+        110
       ]
     },
     {
