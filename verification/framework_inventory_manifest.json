@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ba64ea05689d90dbbd2ac0528bd29697ce901f91",
-  "file_count": 1938,
+  "base_head": "e9f003e8701422d6be1843bd9de877047ba06f08",
+  "file_count": 1941,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 66521,
-      "sha256": "2c5b58e17a065fbccbc1ec6e226936119dc0d272632dc3eb2d0fced7164ba2f5"
+      "bytes": 66989,
+      "sha256": "644f430ac69f631b1188b11812204eb5c58a14d76196705e4e4e4ce635964c2b"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 167345,
-      "sha256": "04f5185c6c033e5fdf044a34ce1fcce158eb0bf8cc277254d382374c60473ba9"
+      "bytes": 167713,
+      "sha256": "b7c2f2337841604093a98a048a8fce1618893e7b6c190dd8465e32ef3985fa6e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2875,8 +2875,8 @@
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
-      "bytes": 11751,
-      "sha256": "0f29f435a70dde0ca8521e34c12df287da258065248e7c189f7cea34b6ec06d7"
+      "bytes": 12106,
+      "sha256": "3274e0b0653a33b790062c61397690b0eab546aaa2edac1397043b9c95c74733"
     },
     {
       "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -2897,6 +2897,11 @@
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
       "bytes": 3789,
       "sha256": "c044587a2049f41fa9b986b4aa0a9323a2848da0b6b20f8959c20608f75b1f28"
+    },
+    {
+      "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
+      "bytes": 12449,
+      "sha256": "818b6a0a596b845460cc11e923d479eda7f9df722d18346dc8207342a1b11288"
     },
     {
       "path": "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
@@ -7530,8 +7535,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 823885,
-      "sha256": "4590670bee1fdfdfa19b34369cd77a56333bc5f636bc6802223d1669dbc9e703"
+      "bytes": 825170,
+      "sha256": "09bb6431e3efc20956b9f24503104076ed68ca01ecafe2eacbcc5329f0b5e249"
     },
     {
       "path": "verification/project_inventory.py",
@@ -8772,6 +8777,16 @@
       "path": "verification/spectral_action_finite_sm.py",
       "bytes": 9314,
       "sha256": "325a730232101ffec6a2728d335b7c26fa9a46543f370f5ff9d3de382d3ee39b"
+    },
+    {
+      "path": "verification/sphere_closed_plasma_incidence.py",
+      "bytes": 2346,
+      "sha256": "3684f76718d3f493f7420fff6a04015ec903f758702fef64b94468fc78d034a1"
+    },
+    {
+      "path": "verification/sphere_closed_plasma_incidence_test.py",
+      "bytes": 2534,
+      "sha256": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
     },
     {
       "path": "verification/sphere_qubit_experiential_zero_test.py",

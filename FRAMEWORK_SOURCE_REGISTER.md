@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 619 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 547 verification Python scripts.
+- 620 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 549 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -588,6 +588,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
+- [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
@@ -1193,6 +1194,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/specific_pathway_observability.py](verification/specific_pathway_observability.py)
 - [verification/spectral_action_bounce.py](verification/spectral_action_bounce.py)
 - [verification/spectral_action_finite_sm.py](verification/spectral_action_finite_sm.py)
+- [verification/sphere_closed_plasma_incidence.py](verification/sphere_closed_plasma_incidence.py)
+- [verification/sphere_closed_plasma_incidence_test.py](verification/sphere_closed_plasma_incidence_test.py)
 - [verification/sphere_qubit_experiential_zero_test.py](verification/sphere_qubit_experiential_zero_test.py)
 - [verification/spherical_scalar_radiation.py](verification/spherical_scalar_radiation.py)
 - [verification/split_brain_query_strategy_gate.py](verification/split_brain_query_strategy_gate.py)

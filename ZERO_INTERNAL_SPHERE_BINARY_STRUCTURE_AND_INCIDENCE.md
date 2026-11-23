@@ -1,5 +1,7 @@
 # The internal sphere, binary distinction, and actual incidence
 
+**Continuation:** [the closed-plasma incidence gate](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) realizes an equatorial sphere orbit in a self-consistent two-fluid–Maxwell model, and exhibits positive state-derived responses with zero and nonzero weighted exchange. The physical–experiential identity, actual subjects and a global zero remain open.
+
 ## Constructive result
 
 The point–sphere proposal suggests a more direct physical question than simply finding a sphere already present in relativity: **what minimal kind of internal distinction naturally has a sphere as its space of states?**
