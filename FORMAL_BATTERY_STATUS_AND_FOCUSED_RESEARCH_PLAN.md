@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Zero-constrained quantum constitution:** [the zero-spin construction](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) derives the unique two-spin singlet from a specified total-spin zero and constructs an internal `CP¹` sphere of four-spin zero states distinguished by constraint-preserving relational observables. The strict two-spin singlet sector does not itself support independent sharp local spin records; a conserved apparatus must be supplied. The representation, realistic physics, actual subjects, phenomenal identity and whole-level zero are not derived.
+
 **Local incidence/current construction:** [the quantum-current continuation](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) proves a site-local overlap allocation identity under commuting incidence/current and coverage assumptions, and instantiates it in a closed positive-energy hopping model with nonzero opposite subject-indexed expectations. It also shows an actual excitation-presence projector need not commute with the physical current. Auxiliary registers, the phenomenal identity, actual weights and cosmic zero remain unproved; operator expectations are not definite experiences.
 
 **Incidence normalization locality correction:** [the local-experience analysis](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) shows with commuting projectors that a globally normalized subject share can change under a remote-factor operation although the local state and local presence do not. The frame construction remains valid as global accounting, but its normalized share is not automatically locally accessible experience. Concurrent actual subject counts need not form an exclusive normalized POVM; actual phenomenal identity and whole-level balance remain open.

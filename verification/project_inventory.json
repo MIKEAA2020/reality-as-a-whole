@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 680,
-  "bytes": 8529706,
-  "line_count": 76244,
-  "document_count_with_risk_phrases": 633,
+  "document_count": 681,
+  "bytes": 8544784,
+  "line_count": 76418,
+  "document_count_with_risk_phrases": 634,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "372da153672c2ce46882cf95bf00891ded36ee3bdd9d712ef2dda7f1b61fdddf",
-      "bytes": 76637,
-      "lines": 313,
+      "sha256": "930b0d7da93b0c12086ba8e84ae0604ea2a8f8f18911081b5b73e4decdb177ac",
+      "bytes": 77212,
+      "lines": 315,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
@@ -5270,53 +5271,54 @@
       ],
       "risk_phrase_lines": [
         5,
-        11,
+        7,
         13,
-        17,
+        15,
         19,
         21,
         23,
-        27,
+        25,
         29,
-        33,
-        37,
+        31,
+        35,
         39,
         41,
         43,
         45,
-        53,
-        59,
+        47,
+        55,
         61,
-        65,
-        69,
-        75,
-        93,
-        101,
-        111,
-        127,
+        63,
+        67,
+        71,
+        77,
+        95,
+        103,
+        113,
         129,
-        133,
-        139,
-        149,
+        131,
+        135,
+        141,
         151,
-        169,
+        153,
         171,
-        175,
-        185,
-        189,
-        195,
+        173,
+        177,
+        187,
+        191,
         197,
-        211,
-        215,
-        227,
-        235,
+        199,
+        213,
+        217,
+        229,
         237,
-        241,
-        257,
-        267,
-        284,
-        301,
-        307
+        239,
+        243,
+        259,
+        269,
+        286,
+        303,
+        309
       ]
     },
     {
@@ -5495,9 +5497,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "090c0cfc6cc65a41fdd04c7ae0ec61fb5c9b21915561fc943968d5003ffe2989",
-      "bytes": 173016,
-      "lines": 1343,
+      "sha256": "3ffcbebe6fbb32e0dcaa25fbe87a565ab6811be693d2c2cddf74346dc5aaa392",
+      "bytes": 173290,
+      "lines": 1345,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6082,6 +6084,7 @@
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
+        "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
@@ -6810,6 +6813,7 @@
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
+        "verification/zero_spin_constitution_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_subject_normalization_locality_test.py",
@@ -6838,14 +6842,14 @@
         404,
         472,
         570,
-        601,
         602,
         603,
-        677,
-        686,
-        689,
-        692,
-        760
+        604,
+        678,
+        687,
+        690,
+        693,
+        761
       ]
     },
     {
@@ -19284,6 +19288,38 @@
       ]
     },
     {
+      "path": "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
+      "sha256": "c6facbd9c591c2ab052e85354990ec88875083edb9d20318a9d6b203f39e462e",
+      "bytes": 13686,
+      "lines": 168,
+      "title": "When a zero constraint determines a nontrivial quantum constitution",
+      "headings": [
+        "When a zero constraint determines a nontrivial quantum constitution",
+        "The main result",
+        "1. Why demanding zero as an operator is too strong",
+        "2. Two spinors: zero total spin fixes the state",
+        "3. Zero is stronger than a zero mean",
+        "4. A physical Hamiltonian—and what its zero means",
+        "5. The same zero does not always determine a unique organization",
+        "6. The direct foundational implication"
+      ],
+      "local_links": [
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        13,
+        17,
+        91,
+        93,
+        103,
+        107,
+        116,
+        134,
+        168
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0",
       "bytes": 23603,
@@ -19470,9 +19506,9 @@
     },
     {
       "path": "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
-      "sha256": "eff5df6ebd90ff32cd1f9091e5e93d7949266c8d0de4fce4cb93e3322a41627a",
-      "bytes": 11088,
-      "lines": 167,
+      "sha256": "400653bf88fc7cf64caf789495697407d5d7a2b3da822ac6d33f330d432b09d5",
+      "bytes": 11631,
+      "lines": 169,
       "title": "Local subject incidence and a conserved quantum current",
       "headings": [
         "Local subject incidence and a conserved quantum current",
@@ -19485,7 +19521,8 @@
         "Verification"
       ],
       "local_links": [
-        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md"
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19497,7 +19534,8 @@
         100,
         141,
         154,
-        167
+        161,
+        169
       ]
     },
     {

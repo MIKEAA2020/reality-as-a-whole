@@ -158,6 +158,8 @@ The result preserves nontrivial local contributions, and it avoids making a subj
 
 The transport example also makes the next physical test concrete: determine whether a plausible subject-constituting organization supplies incidence operators compatible with its relevant energy or other signed current. The most obvious excitation-presence choice fails that test. A replacement must handle noncommutation, actual records and subject plurality without forcing a preferred fundamental time or assigning phenomenology to an unexperienced environment.
 
+A complementary next construction asks whether a zero condition can fix the quantum organization itself rather than merely balance a current within a given organization. The [zero-spin constitution and internal sphere](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) derives a unique two-spin singlet from total-spin zero and, for four spins, constructs a relational qubit whose observables preserve that zero. It distinguishes these conditional mathematical results from experiential incidence and an actual conserved-record mechanism.
+
 ## Verification
 
 ```text
