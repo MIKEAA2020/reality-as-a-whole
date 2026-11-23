@@ -1,5 +1,7 @@
 # From intrinsic conservation to quantum weights and signed zero
 
+**Continuation:** [the conserved-sphere steering and Bell construction](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) shows that, given an additional two-qubit singlet, the pair and triple weights also define remote conditional states and exact no-signalling. It builds a finite contextual record block with definite outcomes and Bell violation, explicitly exposing the locality and measure assumptions.
+
 ## A new construction
 
 The [five-ray result](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) and the [qubit sphere](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) were previously parallel constructions. Here they meet:

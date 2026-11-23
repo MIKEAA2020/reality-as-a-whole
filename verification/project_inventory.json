@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 671,
-  "bytes": 8412357,
-  "line_count": 74841,
-  "document_count_with_risk_phrases": 624,
+  "document_count": 672,
+  "bytes": 8426148,
+  "line_count": 75007,
+  "document_count_with_risk_phrases": 625,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "a57d02ea2550889aa18d3b7a43a6e7c8fa39719421e3fbff128f1a21bc413a31",
-      "bytes": 70985,
-      "lines": 295,
+      "sha256": "8411aaa0b3749da3a064878da4854f543a5f749a3e3f355473cfb558b8c83026",
+      "bytes": 71691,
+      "lines": 297,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
@@ -5261,47 +5262,48 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
+        7,
         11,
-        15,
-        19,
+        13,
+        17,
         21,
         23,
         25,
         27,
-        35,
-        41,
+        29,
+        37,
         43,
-        47,
-        51,
-        57,
-        75,
-        83,
-        93,
-        109,
+        45,
+        49,
+        53,
+        59,
+        77,
+        85,
+        95,
         111,
-        115,
-        121,
-        131,
+        113,
+        117,
+        123,
         133,
-        151,
+        135,
         153,
-        157,
-        167,
-        171,
-        177,
+        155,
+        159,
+        169,
+        173,
         179,
-        193,
-        197,
-        209,
-        217,
+        181,
+        195,
+        199,
+        211,
         219,
-        223,
-        239,
-        249,
-        266,
-        283,
-        289
+        221,
+        225,
+        241,
+        251,
+        268,
+        285,
+        291
       ]
     },
     {
@@ -5480,9 +5482,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4a1173632a348f39071548526ca9264539d8fece504b36b37cfa7015c2ab56f1",
-      "bytes": 170435,
-      "lines": 1325,
+      "sha256": "058cbd480dfdc873b9b02ff10b00a6c4b15a4254e921dc42bb3e3b8f33b01755",
+      "bytes": 170714,
+      "lines": 1327,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6082,6 +6084,7 @@
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
+        "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -6780,6 +6783,7 @@
         "verification/zero_sphere_intrinsic_orientation_test.py",
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
+        "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6808,11 +6812,11 @@
         594,
         595,
         596,
-        668,
-        677,
-        680,
-        683,
-        751
+        669,
+        678,
+        681,
+        684,
+        752
       ]
     },
     {
@@ -19574,9 +19578,9 @@
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
-      "sha256": "227c5854b0579e33470eaa1bde2511111ef73cc23091562eeffcd6e9489a36c7",
-      "bytes": 14321,
-      "lines": 178,
+      "sha256": "c92f5f5a7392e244f014b5dc12ce02e6e1d2a529c6c6503a343068cd986e07f6",
+      "bytes": 14728,
+      "lines": 180,
       "title": "From intrinsic conservation to quantum weights and signed zero",
       "headings": [
         "From intrinsic conservation to quantum weights and signed zero",
@@ -19589,17 +19593,19 @@
         "6. Why a Born-form probability is conditional, not unexplained chance"
       ],
       "local_links": [
+        "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        17,
-        87,
-        111,
-        148,
-        178
+        3,
+        9,
+        19,
+        89,
+        113,
+        150,
+        180
       ]
     },
     {
@@ -19692,6 +19698,39 @@
         49,
         89,
         140
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
+      "sha256": "ec09a412d9042bf2c14d847dd1f76d60f085d2409f7a088315dc566c85789891",
+      "bytes": 12399,
+      "lines": 160,
+      "title": "Conserved sphere, quantum steering and definite Bell records",
+      "headings": [
+        "Conserved sphere, quantum steering and definite Bell records",
+        "Main result",
+        "1. From conservation to a singlet: what is assumed",
+        "2. The steering identity",
+        "3. A Bell test from the same intrinsic sphere",
+        "4. Definite records with the same Bell correlations",
+        "5. What Bell forces the definite-record account to give up",
+        "6. Remaining constitutive step"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
+        "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        66,
+        76,
+        120,
+        122,
+        131,
+        133,
+        150,
+        160
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 628 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 560 verification Python scripts.
+- 629 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 561 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -598,6 +598,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) — An intrinsic 2+3 grouping from the sphere and physical conservation
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
+- [ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) — Conserved sphere, quantum steering and definite Bell records
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
 - [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
@@ -1310,6 +1311,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_intrinsic_orientation_test.py](verification/zero_sphere_intrinsic_orientation_test.py)
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)
 - [verification/zero_sphere_relative_orientation_test.py](verification/zero_sphere_relative_orientation_test.py)
+- [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)
