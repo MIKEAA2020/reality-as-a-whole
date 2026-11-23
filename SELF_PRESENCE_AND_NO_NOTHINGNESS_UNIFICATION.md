@@ -1,5 +1,7 @@
 # Self-presence and the impossibility of nothingness: one foundation or two?
 
+**Later clarification:** [plenitude, necessity and the two senses of intelligibility](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) records the user's explicit one-whole, structural-and-experiential no-residue argument, corrects the contrast with a uniquely determined whole, and distinguishes metaphysical necessity from temporal determinism.
+
 ## The question and result
 
 Can experience's direct self-presence and the impossibility of absolute nothingness be shown to be two aspects of the **same self-existent actuality**, rather than independent assumptions?

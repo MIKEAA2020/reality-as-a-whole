@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Latest user clarification:** the exhaustive whole is one; full intelligibility is both structural and experiential, with no unexplained selection. The user proposes that every genuine possibility is actual and everything occurs necessarily. [The plenitude and necessity analysis](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) develops the conditional modal consequences, corrects the prior false contrast between a uniquely determined whole and possibility–actuality identity, and distinguishes necessity of the whole from temporal determinism. Deriving the modal principle, actual physical–experiential constitution and relevant zero remains the central task.
+
 **User correction and priority:** the zero-or-infinity argument was already given in [the source conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt) at line 2082. The user considers the case against infinity settled and directs the programme to construct the actual framework and solve physics, not reopen that comparison. Retain the full no-residue demand, the correction to experience rather than awareness, and the distinction between a whole-level quantity and reality itself being a quantity.
 
 The [intrinsic five-ray conservation result](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) proves that five generic future null rays in 3+1 dimensions determine a unique `2+3` partition with positive momentum balance and an intrinsic center-of-momentum frame. The canonical relative sign is fixed, not a derivation of valence; actual interactions, subjects, the phenomenological identity and whole-level zero remain unproved.

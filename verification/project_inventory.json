@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 667,
-  "bytes": 8358424,
-  "line_count": 74352,
-  "document_count_with_risk_phrases": 619,
+  "document_count": 668,
+  "bytes": 8371200,
+  "line_count": 74465,
+  "document_count_with_risk_phrases": 621,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8c116679437b7269c9c8109a37d84e5f596b62bb3ee02ba0e4b1c4025bcfe3f0",
-      "bytes": 68578,
-      "lines": 287,
+      "sha256": "7cd8460cf806daf35e6971de14be22e51e88f126c01cd179f434126983d16ac0",
+      "bytes": 69244,
+      "lines": 289,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
@@ -5256,45 +5257,46 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
+        5,
+        9,
         13,
         15,
         17,
         19,
-        27,
-        33,
+        21,
+        29,
         35,
-        39,
-        43,
-        49,
-        67,
-        75,
-        85,
-        101,
+        37,
+        41,
+        45,
+        51,
+        69,
+        77,
+        87,
         103,
-        107,
-        113,
-        123,
+        105,
+        109,
+        115,
         125,
-        143,
+        127,
         145,
-        149,
-        159,
-        163,
-        169,
+        147,
+        151,
+        161,
+        165,
         171,
-        185,
-        189,
-        201,
-        209,
+        173,
+        187,
+        191,
+        203,
         211,
-        215,
-        231,
-        241,
-        258,
-        275,
-        281
+        213,
+        217,
+        233,
+        243,
+        260,
+        277,
+        283
       ]
     },
     {
@@ -5473,9 +5475,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "07254c2cf74578755a511dfc19eb51b7e21ef130b6646ea00b9e65992fdf08fd",
-      "bytes": 168795,
-      "lines": 1313,
+      "sha256": "b149b9c9ad97f431e6260e28f63ff9dfa6674da5c134229fffef6f85fcdf2e84",
+      "bytes": 169186,
+      "lines": 1316,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6068,6 +6070,7 @@
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
+        "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -6758,6 +6761,8 @@
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
+        "verification/zero_sphere_five_ray_conservation.py",
+        "verification/zero_sphere_five_ray_conservation_test.py",
         "verification/zero_sphere_intrinsic_orientation_test.py",
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
@@ -6789,11 +6794,11 @@
         591,
         592,
         593,
-        663,
-        672,
-        675,
-        678,
-        745
+        664,
+        673,
+        676,
+        679,
+        746
       ]
     },
     {
@@ -15027,9 +15032,9 @@
     },
     {
       "path": "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md",
-      "sha256": "606b0cb0d6db8d2b6c92d8818d14e7018845ea7689a17b23eff561051817c1d6",
-      "bytes": 16995,
-      "lines": 114,
+      "sha256": "0c21a04e3d19ce21919c8a447bb759c157a1764b3a532a764a332621a85537cc",
+      "bytes": 17338,
+      "lines": 116,
       "title": "Self-presence and the impossibility of nothingness: one foundation or two?",
       "headings": [
         "Self-presence and the impossibility of nothingness: one foundation or two?",
@@ -15042,12 +15047,15 @@
         "6. Result for the whole-account battery"
       ],
       "local_links": [
+        "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KNOWABILITY_AND_ACTUALITY_FOUNDATION_GATE.md",
         "ARTICULATED_SELF_PRESENCE.md",
         "EXPERIENTIAL_GROUNDING_RIVAL_BATTERY_GATE.md"
       ],
-      "risk_phrase_lines": []
+      "risk_phrase_lines": [
+        3
+      ]
     },
     {
       "path": "SEVEN_CRITERIA_EXPERIENTIAL_SYNTHESIS.md",
@@ -19265,6 +19273,32 @@
         104,
         106,
         127
+      ]
+    },
+    {
+      "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
+      "sha256": "69ee01707b60f67ad620bd1156a20a64bd7eccf4ee15922515ac700f3ee2af04",
+      "bytes": 11376,
+      "lines": 106,
+      "title": "Plenitude, two kinds of intelligibility, and necessity of the whole",
+      "headings": [
+        "Plenitude, two kinds of intelligibility, and necessity of the whole",
+        "The correction",
+        "1. The user's argument in its strongest form",
+        "2. What follows if genuine possibility equals actuality?",
+        "3. Plenitude within one whole",
+        "4. Does this mean determinism?",
+        "5. Where the two senses must enter a non-circular derivation",
+        "6. What is established and what is not"
+      ],
+      "local_links": [
+        "SELF_PRESENCE_AND_NO_NOTHINGNESS_UNIFICATION.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        23,
+        61,
+        84
       ]
     },
     {
