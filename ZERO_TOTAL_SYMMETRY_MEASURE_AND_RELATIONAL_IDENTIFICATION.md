@@ -2,6 +2,8 @@
 
 ## Result
 
+**Connection follow-up:** [an internal connection for zero-total relations](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) makes the event invariant under independent frame changes and relates its gauge-fixed quotient to this diagonal comparison. It also constructs two invariant linked measures with identical pairwise marginals but different event weights; the link and measure remain stipulated.
+
 In the same [finite zero-total sector](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md), I tested a constructive route toward the user's proposal: impose symmetry, then use maximum entropy as an explicit parsimony/information principle to select an internal event law. It yields a **unique** law once the alternatives and measure to which the principle applies are specified. But two equally symmetry-respecting choices of alternatives give different laws. A second result pinpoints an even earlier dependency: the event itself requires a relation identifying the two snapshots across relabellings.
 
 This is progress in locating the exact work a self-sufficient account would have to perform, not a claim that an external chooser, cosmic lottery, or separate positive foundation exists. The user is seeking an account in which whatever genuinely remains is self-subsistent, with no brute residue. The principles below are **conditional candidates** for such an account; I have not derived them from zero or shown that they are fundamental.

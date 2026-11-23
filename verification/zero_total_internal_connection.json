@@ -1,0 +1,47 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational except entropy in nats",
+  "group_order": 12,
+  "independent_frame_group_order": 144,
+  "linked_triples": 432,
+  "gauge_orbits": {
+    "both_moved": {
+      "size": 144,
+      "stabilizer_order": 1
+    },
+    "flip": {
+      "size": 72,
+      "stabilizer_order": 2
+    },
+    "move": {
+      "size": 144,
+      "stabilizer_order": 1
+    },
+    "stay": {
+      "size": 72,
+      "stabilizer_order": 2
+    }
+  },
+  "fine_class_probabilities": {
+    "stay": "1/6",
+    "flip": "1/6",
+    "move": "1/3",
+    "both_moved": "1/3"
+  },
+  "orbit_uniform_class_probabilities": {
+    "stay": "1/4",
+    "flip": "1/4",
+    "move": "1/4",
+    "both_moved": "1/4"
+  },
+  "identical_pairwise_marginals": {
+    "q_r": "1/36",
+    "q_h": "1/72",
+    "r_h": "1/72"
+  },
+  "flip_event_fine": "1/6",
+  "flip_event_orbit_uniform": "1/4",
+  "orbit_measure_three_way_total_correlation_nats": 0.058891517828191686,
+  "gauge_invariant_record_is_reversible": true,
+  "scope": "Finite stipulated connection and distributions, not a gravitational link, emergent spacetime, physical clock, or experience."
+}

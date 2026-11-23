@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 615,
-  "bytes": 7653579,
-  "line_count": 67563,
-  "document_count_with_risk_phrases": 568,
+  "document_count": 616,
+  "bytes": 7664570,
+  "line_count": 67681,
+  "document_count_with_risk_phrases": 569,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -4872,9 +4872,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "fb633ff32317b282300bc7aa05c79db1a930cd6fc1b5af38b92d47b144d4be49",
-      "bytes": 48150,
-      "lines": 191,
+      "sha256": "564c7e872a58ae70ae5613f968554ab5fe892e097b08a8d4f38173df2006e7de",
+      "bytes": 48544,
+      "lines": 193,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -4886,6 +4886,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
@@ -4982,30 +4983,30 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        11,
-        17,
-        27,
+        9,
+        13,
+        19,
         29,
-        47,
+        31,
         49,
-        53,
-        63,
-        67,
-        73,
+        51,
+        55,
+        65,
+        69,
         75,
-        89,
-        93,
-        105,
-        113,
+        77,
+        91,
+        95,
+        107,
         115,
-        119,
-        135,
-        145,
-        162,
-        179,
-        185
+        117,
+        121,
+        137,
+        147,
+        164,
+        181,
+        187
       ]
     },
     {
@@ -5184,9 +5185,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6aacb6b3ccbcd8ff4ea712679775384fa9d221c90f3e0dc036d1f171bd2ffdf9",
-      "bytes": 153839,
-      "lines": 1201,
+      "sha256": "98308f7d5e66e2441dc0f7654d1c685257aecf1abf2ef3b3b4111aaf6349e869",
+      "bytes": 154234,
+      "lines": 1204,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5761,6 +5762,7 @@
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "brain-specificity-thesis.md",
         "constitutive-reality-thesis.md",
         "identity-and-whole-thesis.md",
@@ -6369,6 +6371,8 @@
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_total_relational_record.py",
         "verification/zero_total_relational_record_test.py",
+        "verification/zero_total_symmetry_measure.py",
+        "verification/zero_total_symmetry_measure_test.py",
         "verification/framework_inventory_manifest.json"
       ],
       "risk_phrase_lines": [
@@ -6386,11 +6390,11 @@
         461,
         558,
         573,
-        611,
-        620,
-        623,
-        626,
-        692
+        612,
+        621,
+        624,
+        627,
+        693
       ]
     },
     {
@@ -18700,10 +18704,38 @@
       ]
     },
     {
+      "path": "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
+      "sha256": "2a89d86d71f2e1f814236323d43c510a93098c8305074c4f45ab931b132780fc",
+      "bytes": 9459,
+      "lines": 109,
+      "title": "An internal connection for zero-total relations",
+      "headings": [
+        "An internal connection for zero-total relations",
+        "Result",
+        "1. The linked pair",
+        "2. Four genuine relative classes",
+        "3. Two measures with the same pairwise marginals",
+        "4. Relation to the zero-residue goal"
+      ],
+      "local_links": [
+        "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+        "verification/zero_total_internal_connection.py",
+        "verification/zero_total_internal_connection_test.py",
+        "verification/zero_total_internal_connection.json"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        73,
+        90,
+        98
+      ]
+    },
+    {
       "path": "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
-      "sha256": "b173475b8fb2c8f813da71347505bf455ea75bc95d2bd3407718e40e6bf1db5f",
-      "bytes": 10123,
-      "lines": 98,
+      "sha256": "0aa828faca7b4e6f5fd7dade5d29322fcc99b25ee06177c1425d707c87b8c215",
+      "bytes": 10466,
+      "lines": 100,
       "title": "A zero-total relational event and its record",
       "headings": [
         "A zero-total relational event and its record",
@@ -18715,6 +18747,7 @@
         "5. What remains for full intelligibility"
       ],
       "local_links": [
+        "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "verification/zero_total_relational_record.py",
@@ -18723,21 +18756,21 @@
         "AUTONOMOUS_RECORD_INSTRUMENT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
+        9,
         13,
-        24,
-        41,
-        49,
-        56,
-        73
+        15,
+        26,
+        43,
+        51,
+        58,
+        75
       ]
     },
     {
       "path": "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
-      "sha256": "dcabc3ef7335d64976e4aa8df10affd2ce4d577256e5dca7d84cd7770d8fe08c",
-      "bytes": 10567,
-      "lines": 101,
+      "sha256": "b36907b3793a174d5c912e5558fa14d522f181a625ec4918af260060d9094049",
+      "bytes": 10967,
+      "lines": 103,
       "title": "Zero totality: can symmetry and parsimony fix the internal measure?",
       "headings": [
         "Zero totality: can symmetry and parsimony fix the internal measure?",
@@ -18748,24 +18781,25 @@
         "4. What this contributes to the zero-residue programme"
       ],
       "local_links": [
+        "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_total_symmetry_measure.json"
       ],
       "risk_phrase_lines": [
-        5,
         7,
         9,
-        37,
-        46,
-        55,
-        61,
-        73,
-        87,
-        91,
+        11,
+        39,
+        48,
+        57,
+        63,
+        75,
+        89,
         93,
-        101
+        95,
+        103
       ]
     },
     {

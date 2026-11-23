@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Independent-frame continuation:** [the internal connection and measure](ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md) transforms a formal link along with both snapshots, makes the event gauge-invariant under separate relabellings, and clarifies which measure assumptions survive. It does not supply a physical detector or derive the link.
+
 **Continuation:** [symmetry, measure and relational identification](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) tests two explicit maximum-entropy principles, shows they give different invariant laws, and identifies the shared cross-snapshot structure needed for the record event.
 
 A small, explicit zero-total model can contain internal distinctions and a relational event. Within its chosen six-state sector, relabelling symmetry **uniquely fixes an invariant normalized distribution**, but leaves a family of different event laws. An invariant, reversible record operation distinguishes two of those laws exactly, while preserving the declared zero charge.
