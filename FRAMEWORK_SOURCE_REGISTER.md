@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 596 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 516 verification Python scripts.
+- 597 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 517 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -588,6 +588,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md](ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md) — Can one relational constitution produce its own nonzero differences?
 - [ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md](ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md) — Can intrinsic symmetry determine the differentiated organization?
 - [ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md](ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md) — Zero-totality as intrinsic relational accounting
+- [ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) — Can zero balance be locally realized without superluminal signalling?
 - [ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) — Can possibility-as-actuality make the whole symmetric?
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?
@@ -1233,6 +1234,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
+- [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8966864acfdb89220fa1478345d3348a5ae49b4a",
-  "file_count": 1879,
+  "base_head": "e20641e9801f7b48b08a9f1828f69c7aabb6c4c3",
+  "file_count": 1881,
   "files": [
     {
       "path": ".gitattributes",
@@ -805,8 +805,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 56865,
-      "sha256": "90d247ecf11846f75526a02c0a4a3b6d753df6236e41b9cea5fb69eebccb760a"
+      "bytes": 57216,
+      "sha256": "c7c183b80475b70d48675f40a26fad3390b005b0e6f9e4555bb5fb8b96e82401"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -840,8 +840,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 160460,
-      "sha256": "ac47fe6797ddb68f6308f65114f5afd2e801cd4eb576662dc8e49d3c0a4d1ce5"
+      "bytes": 160726,
+      "sha256": "473a5502441db183a06d4906102ffb3801c3962053d9a0fe9d34c377ae5f95a1"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1935,8 +1935,8 @@
     },
     {
       "path": "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
-      "bytes": 11389,
-      "sha256": "bf0212ecc8a6066af65bff58f495fa7483925a2adacbee39783f38f9574e1fb7"
+      "bytes": 11713,
+      "sha256": "1e1e03d8e507abb9a4bc31ccc634a362c71d10b394a675961d094adacd342fde"
     },
     {
       "path": "RELATIONAL_CALIBRATION_AND_READOUT.md",
@@ -2897,6 +2897,11 @@
       "path": "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
       "bytes": 14507,
       "sha256": "cad191ecc75d1df15178c7c3b44d9d2151a7f04a6641d6f64fb86a8c201b9192"
+    },
+    {
+      "path": "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
+      "bytes": 12180,
+      "sha256": "183ed9539fba0c97eee4aa39d00a0ca26dcf235ca0fd44cd3170d6b63d726bbe"
     },
     {
       "path": "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
@@ -7295,8 +7300,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 792233,
-      "sha256": "2700786d5c1e1f3f9653b7f0f87e7cc25ab76f194b7cc5cb2c3068d55d487566"
+      "bytes": 793812,
+      "sha256": "10b2e762fbbf9164926dc6e0535e2dac484dca1d3bae96c6c04140f3f550b4f0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9327,6 +9332,11 @@
       "path": "verification/yukawa_seesaw_ckm.py",
       "bytes": 12342,
       "sha256": "e35471e4aacd27ef4f4d9d9973b68b8a78e125c14584958267c798dd56aeb4ba"
+    },
+    {
+      "path": "verification/zero_locality_boundary_test.py",
+      "bytes": 4727,
+      "sha256": "56b9a74033ff7569ed823bb4f44d18d1116c25fdbbc51ad252554b8e7dafd6e1"
     },
     {
       "path": "verification/zero_total_flrw_constraint_test.py",

@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+The [locality and boundary balance continuation](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) derives a zero response in a specified local reciprocal model, identifies the corresponding continuum boundary term, and scopes the no-signalling test. Its local dynamics, vanishing flux, experiential mapping and full zero constitution remain unproved.
+
 The [actual-history relational zero candidate](RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md) combines a finite actual-incidence clock measure and a stipulated relational functional, deriving a zero signed integral and nonzero responses in a specified regime. Its physical/experiential interpretation, admissible variations, measure, law, coefficients and actual organization remain unproved.
 
 The [relational-time experiential total candidate](RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md) constructs a reparameterization-invariant duration-weighted history sum without a preferred global slice, and checks window overlap and infinite-order dependence. Its subject/experience domain, clock measure, common scale, physical realization and zero balance remain unestablished.

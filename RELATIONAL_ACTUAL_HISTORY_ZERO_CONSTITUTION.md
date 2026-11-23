@@ -2,6 +2,8 @@
 
 ## The constructive question
 
+**Locality continuation:** [local interactions and boundary balance](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) tests the whole-mean model's long-range dependence, derives zero from a stipulated local reciprocal functional, and distinguishes boundary conditions and operational no-signalling from formal stationarity.
+
 Can the recent strands be brought together rather than leaving an actual-history total and a zero-producing principle as unrelated assumptions? One explicit candidate is an **atemporal functional of the actual subject-incidence histories**. Its stationarity determines a signed response on those histories; under a further condition, every global minimum has genuinely nonzero positive and negative responses whose actual whole-level integral is zero.
 
 The construction uses separate local clock measures and does not require a preferred cosmic slice or an ensemble of merely possible outcomes. It replaces fixed unequal reference values by a second internally varied field. This is a conditional mathematical model: it does not establish that the fields are feelings, that its measure counts actual experience, that its functional is a law of nature, or that its assumptions follow from zero's self-subsistence. Its global coupling and its many possible minima also require interpretation.

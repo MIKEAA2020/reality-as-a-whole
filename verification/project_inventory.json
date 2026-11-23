@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 639,
-  "bytes": 7964110,
-  "line_count": 70345,
-  "document_count_with_risk_phrases": 592,
+  "document_count": 640,
+  "bytes": 7977518,
+  "line_count": 70496,
+  "document_count_with_risk_phrases": 593,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "90d247ecf11846f75526a02c0a4a3b6d753df6236e41b9cea5fb69eebccb760a",
-      "bytes": 56865,
-      "lines": 239,
+      "sha256": "c7c183b80475b70d48675f40a26fad3390b005b0e6f9e4555bb5fb8b96e82401",
+      "bytes": 57216,
+      "lines": 241,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5107,6 +5107,7 @@
         "5. What would change a verdict?"
       ],
       "local_links": [
+        "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
         "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
@@ -5227,33 +5228,33 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        19,
-        27,
-        37,
-        53,
+        21,
+        29,
+        39,
         55,
-        59,
-        65,
-        75,
+        57,
+        61,
+        67,
         77,
-        95,
+        79,
         97,
-        101,
-        111,
-        115,
-        121,
+        99,
+        103,
+        113,
+        117,
         123,
-        137,
-        141,
-        153,
-        161,
+        125,
+        139,
+        143,
+        155,
         163,
-        167,
-        183,
-        193,
-        210,
-        227,
-        233
+        165,
+        169,
+        185,
+        195,
+        212,
+        229,
+        235
       ]
     },
     {
@@ -5432,9 +5433,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "810bbe698b313126ede0e1433a7aa26ce00b9e89a7e19adcbe770ead04e52a4a",
-      "bytes": 160173,
-      "lines": 1246,
+      "sha256": "473a5502441db183a06d4906102ffb3801c3962053d9a0fe9d34c377ae5f95a1",
+      "bytes": 160726,
+      "lines": 1250,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5831,6 +5832,7 @@
         "REALIZED_PROCESS_CANDIDATE.md",
         "REAL_CASE_WITNESS_AND_MAXIMAL_RULE_BOUNDARY_TEST.md",
         "RECOLLAPSING_GRAVITATIONAL_CLOCK.md",
+        "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
         "RELATIONAL_CALIBRATION_AND_READOUT.md",
         "RELATIONAL_INTERVENTIONS_AND_RECORDS.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
@@ -6023,6 +6025,7 @@
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
         "ZERO_TOTALITY_INTRINSIC_ORIENTATION_SELECTION.md",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md",
         "ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
@@ -6477,6 +6480,7 @@
         "verification/recollapsing_gravitational_clock.py",
         "verification/refinement_acceptance_budget.py",
         "verification/register_roughness_heldout_gate.py",
+        "verification/relational_actual_history_zero_test.py",
         "verification/relational_calibrated_readout.py",
         "verification/relational_constraint.py",
         "verification/relational_detector_initial_data.py",
@@ -6653,6 +6657,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_locality_boundary_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -6675,15 +6680,15 @@
         296,
         325,
         371,
-        401,
-        469,
-        567,
-        582,
-        635,
-        644,
-        647,
-        650,
-        717
+        402,
+        470,
+        568,
+        583,
+        637,
+        646,
+        649,
+        652,
+        719
       ]
     },
     {
@@ -13310,9 +13315,9 @@
     },
     {
       "path": "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
-      "sha256": "bf0212ecc8a6066af65bff58f495fa7483925a2adacbee39783f38f9574e1fb7",
-      "bytes": 11389,
-      "lines": 141,
+      "sha256": "1e1e03d8e507abb9a4bc31ccc634a362c71d10b394a675961d094adacd342fde",
+      "bytes": 11713,
+      "lines": 143,
       "title": "A joint candidate: actual relational histories with a zero signed response",
       "headings": [
         "A joint candidate: actual relational histories with a zero signed response",
@@ -13325,15 +13330,16 @@
         "6. The anti-fitting and determinacy tests"
       ],
       "local_links": [
+        "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
         "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
         "ZERO_TOTALITY_INTERNAL_DIFFERENTIATION_CANDIDATE.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md"
       ],
       "risk_phrase_lines": [
-        114,
-        127,
-        139
+        116,
+        129,
+        141
       ]
     },
     {
@@ -19276,6 +19282,38 @@
         61,
         79,
         94
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md",
+      "sha256": "183ed9539fba0c97eee4aa39d00a0ca26dcf235ca0fd44cd3170d6b63d726bbe",
+      "bytes": 12180,
+      "lines": 143,
+      "title": "Can zero balance be locally realized without superluminal signalling?",
+      "headings": [
+        "Can zero balance be locally realized without superluminal signalling?",
+        "The question and the result",
+        "1. The whole-mean candidate has a global dependence",
+        "2. A local-interaction candidate",
+        "3. A local spacetime analogue and its boundary term",
+        "4. A scoped no-signalling gate",
+        "5. Foundational consequence",
+        "Verification"
+      ],
+      "local_links": [
+        "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
+        "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
+        "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
+        "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md",
+        "RELATIONAL_ACTUAL_HISTORY_ZERO_CONSTITUTION.md",
+        "RELATIONAL_TIME_AND_EXPERIENTIAL_TOTAL.md",
+        "SUBJECT_WEIGHT_STEERING_AND_NO_SIGNALLING_GATE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        64,
+        71,
+        98
       ]
     },
     {
