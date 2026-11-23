@@ -22,6 +22,14 @@ def rate(y,dx,q=1.):
     return float(-dx*np.sum(e*current))
 
 
+def weighted_rate(y, dx, q=1., strength=.5, scale=.001):
+    """Illustrative bounded response factor, not an empirical subject law."""
+    p,m,up,um,e=y
+    h=-q*(p*up-m*um)*e
+    chi=1+strength*h/(scale+np.abs(h))
+    return float(dx*np.sum(chi*h))
+
+
 def integrate(n=128, end=1., amplitude=.1, modulation=.5, cfl=.15):
     if end == 0 or cfl<=0: raise ValueError('end must be nonzero and cfl positive')
     dx=2*np.pi/n
@@ -29,7 +37,7 @@ def integrate(n=128, end=1., amplitude=.1, modulation=.5, cfl=.15):
     count=max(1,math.ceil(abs(end)/(cfl*dx)))
     dt=end/count
     U0=field_energy(y,dx)
-    work=0.; incidence=0.; negative=0.
+    work=0.; weighted_work=0.; incidence=0.; negative=0.
     for _ in range(count):
         a=rhs(y,dx); ya=y+dt*a/2
         b=rhs(ya,dx); yb=y+dt*b/2
@@ -37,6 +45,7 @@ def integrate(n=128, end=1., amplitude=.1, modulation=.5, cfl=.15):
         d=rhs(yc,dx)
         # Use the same RK4 stages to integrate ∫ -jE dt.
         work+=dt*(rate(y,dx)+2*rate(ya,dx)+2*rate(yb,dx)+rate(yc,dx))/6
+        weighted_work+=dt*(weighted_rate(y,dx)+2*weighted_rate(ya,dx)+2*weighted_rate(yb,dx)+weighted_rate(yc,dx))/6
         # Trapezoidal time quadrature and linearly interpolated spatial roots.
         def measure(z):
             p,m,up,um,e=z
@@ -51,6 +60,7 @@ def integrate(n=128, end=1., amplitude=.1, modulation=.5, cfl=.15):
         y=ynew
     return {'n':n,'end':end,'steps':count,'initial_field_energy':U0,
             'final_field_energy':field_energy(y,dx),'signed_work_integral':work,
+            'response_weighted_work_integral':weighted_work,
             'field_energy_change':field_energy(y,dx)-U0,
             'work_identity_error':work-(field_energy(y,dx)-U0),
             'total_incidence':incidence,'negative_incidence_fraction':negative/incidence,
@@ -69,6 +79,7 @@ def main():
         past=integrate(n,-1.)
         rows.append({'n':n,'future':future,'past_reversed_orientation':past,
                      'symmetric_endpoint_field_energy_difference':future['final_field_energy']-past['final_field_energy'],
+                     'symmetric_response_weighted_integral':future['response_weighted_work_integral']-past['response_weighted_work_integral'],
                      'symmetric_negative_incidence_fraction':(future['negative_incidence_fraction']*future['total_incidence']+past['negative_incidence_fraction']*past['total_incidence'])/(future['total_incidence']+past['total_incidence'])})
     data={'scope':'finite 1D two-fluid classical control, endpoint equality is imposed by time symmetry; no real experience or zero physical energy derived','runs':rows}
     Path(args.receipt).write_text(json.dumps(data,indent=2)+'\n')

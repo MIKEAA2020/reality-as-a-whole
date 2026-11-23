@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 654,
-  "bytes": 8205686,
-  "line_count": 72610,
-  "document_count_with_risk_phrases": 606,
+  "document_count": 655,
+  "bytes": 8219447,
+  "line_count": 72743,
+  "document_count_with_risk_phrases": 607,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5093,9 +5093,9 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "81932c6f398f3c201d2b8179daaeff5784996878105ce22d22b8d820c6eff55f",
-      "bytes": 63127,
-      "lines": 265,
+      "sha256": "5dfbdd0001e210f8505cd463e6d63e8c079844a4fac436d1c79e51c5aa48ea5e",
+      "bytes": 63528,
+      "lines": 267,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
         "Formal battery: current status and focused research plan",
@@ -5108,6 +5108,7 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
+        "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
         "ZERO_TOTALITY_SUBJECT_INCIDENCE_PROBABILITY.md",
@@ -5243,38 +5244,39 @@
         "FACED_FELT_VALENCE_PROVENANCE_AND_STIMULUS_BASELINE.md"
       ],
       "risk_phrase_lines": [
-        11,
+        7,
         13,
-        17,
-        21,
-        27,
-        45,
-        53,
-        63,
-        79,
+        15,
+        19,
+        23,
+        29,
+        47,
+        55,
+        65,
         81,
-        85,
-        91,
-        101,
+        83,
+        87,
+        93,
         103,
-        121,
+        105,
         123,
-        127,
-        137,
-        141,
-        147,
+        125,
+        129,
+        139,
+        143,
         149,
-        163,
-        167,
-        179,
-        187,
+        151,
+        165,
+        169,
+        181,
         189,
-        193,
-        209,
-        219,
-        236,
-        253,
-        259
+        191,
+        195,
+        211,
+        221,
+        238,
+        255,
+        261
       ]
     },
     {
@@ -5453,9 +5455,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3096e83e1183c46ce98871d6845ec75e0727786cd1740b8ebb38b085d3a74fe8",
-      "bytes": 164616,
-      "lines": 1280,
+      "sha256": "c66bab52abf5f28b85145399f33f8cf21feb616eab6a70a547d93157e8cb7d42",
+      "bytes": 164979,
+      "lines": 1283,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6045,6 +6047,7 @@
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "ZERO_TOTALITY_EXPERIENTIAL_EQUIVALENCE_AND_SUBJECT_INCIDENCE.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
@@ -6282,6 +6285,8 @@
         "verification/energy_conditions_bounce.py",
         "verification/energy_constrained_instrument_bound.py",
         "verification/energy_exchange_clock.py",
+        "verification/energy_exchange_incidence.py",
+        "verification/energy_exchange_incidence_test.py",
         "verification/equilibrium_mismatch_coarse_graining.py",
         "verification/eraser_bell_selection_gate.py",
         "verification/evolve_covariant_zero_initial_data.py",
@@ -6734,11 +6739,11 @@
         472,
         570,
         586,
-        650,
-        659,
-        662,
-        665,
-        732
+        651,
+        660,
+        663,
+        666,
+        733
       ]
     },
     {
@@ -19339,9 +19344,9 @@
     },
     {
       "path": "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
-      "sha256": "5c64dfe98fb95082757522908c765657aaa22ef6c6e804bafad344f2c3bdbf1b",
-      "bytes": 11854,
-      "lines": 122,
+      "sha256": "c9b370208e791dd8a8de6b77e4595ddeb8ca8931333a4e4041cefb54276cd3f9",
+      "bytes": 12229,
+      "lines": 124,
       "title": "Energy exchange, experiential incidence and whole-history balance",
       "headings": [
         "Energy exchange, experiential incidence and whole-history balance",
@@ -19354,16 +19359,18 @@
         "6. The next constitutive problem"
       ],
       "local_links": [
+        "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
         "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
         "verification/energy_exchange_incidence_receipt.json"
       ],
       "risk_phrase_lines": [
-        32,
-        61,
-        65,
-        107,
-        111
+        3,
+        34,
+        63,
+        67,
+        109,
+        113
       ]
     },
     {
@@ -19801,6 +19808,37 @@
         36,
         74,
         84
+      ]
+    },
+    {
+      "path": "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
+      "sha256": "d92b27da8fb4a5f8c659ccbab77257e08a1351d4fecafdb481a82a4456237e4f",
+      "bytes": 12622,
+      "lines": 126,
+      "title": "Can organized experience inherit an energy-exchange zero?",
+      "headings": [
+        "Can organized experience inherit an energy-exchange zero?",
+        "Main result",
+        "1. Why an organization condition is needed",
+        "2. Exact organization-weighted energy identity",
+        "3. The relative-flow condition",
+        "4. Exact counterexample: even an advected marker can spoil zero",
+        "5. The same obstruction in the evolving two-fluid system",
+        "6. A constructive empirical and physical programme"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
+        "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
+        "verification/energy_exchange_incidence_receipt.json"
+      ],
+      "risk_phrase_lines": [
+        11,
+        21,
+        68,
+        93,
+        108,
+        120,
+        124
       ]
     },
     {

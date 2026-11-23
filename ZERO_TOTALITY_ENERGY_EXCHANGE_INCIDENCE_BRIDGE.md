@@ -1,5 +1,7 @@
 # Energy exchange, experiential incidence and whole-history balance
 
+**Continuation:** [the organization–energy balance gate](ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md) derives the exact weighted energy identity and a relative-flow condition, and exhibits a conserved, co-moving incidence marker for which matched energy endpoints still do not ensure zero weighted balance. Its subject and phenomenology interpretations remain open.
+
 ## Why this is a better physical question
 
 The [two-fluid continuation](ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md) used electric charge as a signed candidate for valence. That made a concrete prediction, but it had an especially serious problem: exchanging the positive and negative charged species reverses the candidate valence, with no independent reason to expect pleasure and suffering to reverse.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 611 root Markdown documents including this register; 43 research Markdown documents.
-- 60 original uploaded files, including provenance metadata; 536 verification Python scripts.
+- 612 root Markdown documents including this register; 43 research Markdown documents.
+- 60 original uploaded files, including provenance metadata; 538 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -602,6 +602,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md](ZERO_TOTALITY_LOCALITY_AND_BOUNDARY_BALANCE.md) — Can zero balance be locally realized without superluminal signalling?
 - [ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md](ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md) — Can possibility-as-actuality make the whole symmetric?
 - [ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) — Evolving the coupled zero-charge gravity and clock candidate
+- [ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md](ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md) — Can organized experience inherit an energy-exchange zero?
 - [ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md](ZERO_TOTALITY_PERFORMANCE_AND_RESIDUE_AUDIT.md) — Can a performance leave no unexplained residue?
 - [ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md](ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md) — Can zero-totality be self-subsistent and internally differentiated?
 - [ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md](ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md) — A candidate incidence principle for a plural experiential whole
@@ -1007,6 +1008,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/oph_cutoff_calibration_bridge.py](verification/oph_cutoff_calibration_bridge.py)
 - [verification/oph_icosahedral_chsh_gate.py](verification/oph_icosahedral_chsh_gate.py)
 - [verification/oph_unification_koide_gate.py](verification/oph_unification_koide_gate.py)
+- [verification/organization_energy_gate.py](verification/organization_energy_gate.py)
+- [verification/organization_energy_gate_test.py](verification/organization_energy_gate_test.py)
 - [verification/orientation_visibility_contrast.py](verification/orientation_visibility_contrast.py)
 - [verification/ottinger_annihilation_gate.py](verification/ottinger_annihilation_gate.py)
 - [verification/ottinger_annihilation_gate_test.py](verification/ottinger_annihilation_gate_test.py)
