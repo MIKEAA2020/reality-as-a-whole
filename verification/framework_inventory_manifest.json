@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "cdabc6f682ca519ea69660732742ce8841fa8e83",
-  "file_count": 2087,
+  "base_head": "171ccc9a0e0f7c0991861dc0cd7a27fdd7787d0c",
+  "file_count": 2089,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 188902,
-      "sha256": "776a6086633ad2b27684c342ecd0fb123bb95d9337d7a2921215c3ab2b2c1d60"
+      "bytes": 189210,
+      "sha256": "855003ee763de194a2a635d24deae58623b7a6b5945d6c43f9b053594adcf276"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2915,8 +2915,8 @@
     },
     {
       "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
-      "bytes": 13603,
-      "sha256": "0ccd9b00b8b21c03f4ce5e76492c4e94e3b148bca29670bae3cec6f27dc1c2b2"
+      "bytes": 13948,
+      "sha256": "1d8bc76f19e1ca956cc9bf9beb8310a82df15d6717484e8fa02f7cd6969a85d3"
     },
     {
       "path": "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
@@ -2937,6 +2937,11 @@
       "path": "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
       "bytes": 11674,
       "sha256": "f08865de57f30d8af2bd886b44b2d617f11f40b6a08ede14a025e97e9eb7f05c"
+    },
+    {
+      "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+      "bytes": 11461,
+      "sha256": "87f414fa58b73eff04e1682c504dc2e6b3db78768c33b1b6dfcf8803ada5f5ce"
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -7940,8 +7945,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 919661,
-      "sha256": "3d21773ba4a69356fc8124eacebb571d7885bcbdcd52a13ab1aae32507c55f8a"
+      "bytes": 921091,
+      "sha256": "3ea5afb4a9cdf2ae07c9ef48d7883a1240c7bab94a51fa51c5a2d58671214aff"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10007,6 +10012,11 @@
       "path": "verification/yukawa_seesaw_ckm.py",
       "bytes": 12342,
       "sha256": "e35471e4aacd27ef4f4d9d9973b68b8a78e125c14584958267c798dd56aeb4ba"
+    },
+    {
+      "path": "verification/zero_all_sector_branchwise_balance_test.py",
+      "bytes": 8696,
+      "sha256": "9bfcb5f775033774785e5e6df1942b429e5e752ea667e68fe1068cc608a9dec3"
     },
     {
       "path": "verification/zero_all_sector_record_involution_test.py",

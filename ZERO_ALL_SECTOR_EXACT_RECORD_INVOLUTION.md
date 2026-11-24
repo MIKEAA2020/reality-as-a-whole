@@ -16,6 +16,8 @@ The target memory can physically record which h value occurred because it was ex
 
 Verifier: [verification/zero_all_sector_record_involution_test.py](verification/zero_all_sector_record_involution_test.py). This continues the [all-sector circuit](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md), the [subject-boundary result](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md), and the [Carreira–Gonzalo audit](CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md).
 
+**Branchwise continuation:** [exact branchwise balance and conditional selection](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md) identifies two commuting physical observables with opposite sharp values in each joint branch and constructs a charge-compatible Hamiltonian selecting the symmetric work–target state at fixed record value.
+
 ## 1. Where the pairing acts
 
 The preceding circuit keeps the two orthogonal global lab sectors: the encoded code of total weight `1/128` and its complement of weight `127/128`. The complement includes projectors `P_+` and `P_-` of ranks 158 and 96. A unitary on the same lab Hilbert space cannot exchange those projectors, because unitary conjugation preserves rank. This does not rule out more elaborate pairings with other resources; it rules out the proposed direct exchange on that space.

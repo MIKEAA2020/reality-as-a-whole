@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 733,
-  "bytes": 9332607,
-  "line_count": 84403,
-  "document_count_with_risk_phrases": 686,
+  "document_count": 734,
+  "bytes": 9344717,
+  "line_count": 84564,
+  "document_count_with_risk_phrases": 687,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4fac72be7197a9d29306c439931e35012b8f5f8aac7322be8c8913fd2663970f",
-      "bytes": 188598,
-      "lines": 1449,
+      "sha256": "776a6086633ad2b27684c342ecd0fb123bb95d9337d7a2921215c3ab2b2c1d60",
+      "bytes": 188902,
+      "lines": 1451,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6330,6 +6330,7 @@
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
+        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
@@ -7088,6 +7089,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_all_sector_record_involution_test.py",
         "verification/zero_all_sector_sphere_clock_work_test.py",
         "verification/zero_article_jet_dual_pair_test.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
@@ -7185,17 +7187,18 @@
         413,
         481,
         579,
-        625,
-        638,
+        594,
+        626,
         639,
-        643,
-        645,
-        659,
-        729,
-        738,
-        741,
-        744,
-        813
+        640,
+        644,
+        646,
+        660,
+        730,
+        739,
+        742,
+        745,
+        814
       ]
     },
     {
@@ -19708,9 +19711,9 @@
     },
     {
       "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
-      "sha256": "0ccd9b00b8b21c03f4ce5e76492c4e94e3b148bca29670bae3cec6f27dc1c2b2",
-      "bytes": 13603,
-      "lines": 153,
+      "sha256": "1d8bc76f19e1ca956cc9bf9beb8310a82df15d6717484e8fa02f7cd6969a85d3",
+      "bytes": 13948,
+      "lines": 155,
       "title": "An exact all-sector record involution: balanced incidences without exchanging unequal sectors",
       "headings": [
         "An exact all-sector record involution: balanced incidences without exchanging unequal sectors",
@@ -19726,15 +19729,17 @@
         "verification/zero_all_sector_record_involution_test.py",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
-        "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md"
+        "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md",
+        "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md"
       ],
       "risk_phrase_lines": [
         1,
         5,
-        109,
-        128,
-        144,
-        153
+        19,
+        111,
+        130,
+        146,
+        155
       ]
     },
     {
@@ -19867,6 +19872,42 @@
         75,
         84,
         102
+      ]
+    },
+    {
+      "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+      "sha256": "87f414fa58b73eff04e1682c504dc2e6b3db78768c33b1b6dfcf8803ada5f5ce",
+      "bytes": 11461,
+      "lines": 157,
+      "title": "Branchwise cancellation and conditional selection in the all-sector circuit",
+      "headings": [
+        "Branchwise cancellation and conditional selection in the all-sector circuit",
+        "Main result",
+        "1. From a copied relation to branchwise opposites",
+        "2. What exactly is selected by zero plus the involution?",
+        "3. An explicit charge-compatible selection Hamiltonian",
+        "4. A direct preparation control",
+        "5. Relevance to actual subjectivity and suffering",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
+        "verification/zero_all_sector_branchwise_balance_test.py",
+        "verification/zero_all_sector_record_involution_test.py",
+        "verification/zero_all_sector_sphere_clock_work_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        29,
+        66,
+        74,
+        80,
+        115,
+        122,
+        126,
+        138,
+        140,
+        148
       ]
     },
     {

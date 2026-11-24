@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 690 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 623 verification Python scripts.
+- 691 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 624 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -596,6 +596,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) — An autonomous zero-spin record cycle and its subject boundary
 - [ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md](ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md) — Autonomous geometry–pointer–memory dynamics in the constrained sphere model
 - [ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) — Two autonomous records in the constrained geometry–sphere model
+- [ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md) — Branchwise cancellation and conditional selection in the all-sector circuit
 - [ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) — Confined realms: held position, richer activity and an optional interface
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
@@ -1364,6 +1365,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
+- [verification/zero_all_sector_branchwise_balance_test.py](verification/zero_all_sector_branchwise_balance_test.py)
 - [verification/zero_all_sector_record_involution_test.py](verification/zero_all_sector_record_involution_test.py)
 - [verification/zero_all_sector_sphere_clock_work_test.py](verification/zero_all_sector_sphere_clock_work_test.py)
 - [verification/zero_article_jet_dual_pair_test.py](verification/zero_article_jet_dual_pair_test.py)
