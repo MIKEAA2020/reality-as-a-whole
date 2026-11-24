@@ -1,5 +1,7 @@
 # Full continuum geometry-slice map for the interacting model
 
+**Continuation:** [an autonomous pointer–memory interaction](ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md) includes a memory qubit in the constraint, tests its correlations and backaction, and extends this slice construction to the new interaction channels.
+
 ## Result
 
 For the specific interacting FLRW sector developed in the previous reports, the open embedded-eigenvalue problem can be settled by a direct estimate:

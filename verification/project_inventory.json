@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 712,
-  "bytes": 9027969,
-  "line_count": 81160,
-  "document_count_with_risk_phrases": 665,
+  "document_count": 713,
+  "bytes": 9040252,
+  "line_count": 81284,
+  "document_count_with_risk_phrases": 666,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5c8134b765de850d6bc542d9410f22619d02be3ce01f28424ed31ddfd528628d",
-      "bytes": 182403,
-      "lines": 1405,
+      "sha256": "9a54e7c9091a6aba19aeaa28a94e34ca419d5ab4e738bd40f310bc44df37345b",
+      "bytes": 182683,
+      "lines": 1407,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6244,6 +6244,7 @@
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
+        "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
@@ -6978,6 +6979,7 @@
         "verification/zero_energy_research_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
+        "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_interacting_clock_bound_transition_test.py",
@@ -7050,15 +7052,15 @@
         407,
         475,
         573,
-        621,
         622,
-        626,
-        628,
-        708,
-        717,
-        720,
-        723,
-        791
+        623,
+        627,
+        629,
+        709,
+        718,
+        721,
+        724,
+        792
       ]
     },
     {
@@ -19503,6 +19505,39 @@
       ]
     },
     {
+      "path": "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
+      "sha256": "f7d7fd86ce11dd3af64ed5c3824e7caf2e1fc21bd9ebbc361c2a962f92ba6e60",
+      "bytes": 11737,
+      "lines": 120,
+      "title": "Autonomous geometry–pointer–memory dynamics in the constrained sphere model",
+      "headings": [
+        "Autonomous geometry–pointer–memory dynamics in the constrained sphere model",
+        "Result",
+        "1. One constrained system, no scheduled coupling",
+        "2. The previous continuum clock result survives the memory",
+        "3. Pointer–memory correlations and disturbance",
+        "4. Does memory correlate with an earlier pointer reading?",
+        "5. The confined sphere sector remains distinct",
+        "6. What next?"
+      ],
+      "local_links": [
+        "verification/zero_autonomous_geometry_pointer_memory_test.py",
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+        "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
+        "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
+        "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        56,
+        66,
+        93,
+        100,
+        110,
+        120
+      ]
+    },
+    {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
       "sha256": "7141ffc252ac06392a523c5c6af2206611d8bf85e0e1cd04d476fee575aa7f46",
       "bytes": 16945,
@@ -19826,9 +19861,9 @@
     },
     {
       "path": "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
-      "sha256": "dce8d884e5ed2c2e521074aae15e73a213ec9ed64e98aa709a1d15d2acfe1f4e",
-      "bytes": 9357,
-      "lines": 138,
+      "sha256": "fcb08f48debda34745fb648e923f25ee784047589eade3c2df744d14f0b6c79f",
+      "bytes": 9623,
+      "lines": 140,
       "title": "Full continuum geometry-slice map for the interacting model",
       "headings": [
         "Full continuum geometry-slice map for the interacting model",
@@ -19841,20 +19876,21 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py"
       ],
       "risk_phrase_lines": [
-        8,
         10,
-        51,
-        72,
+        12,
+        53,
         74,
         76,
-        82,
-        105,
-        130
+        78,
+        84,
+        107,
+        132
       ]
     },
     {
