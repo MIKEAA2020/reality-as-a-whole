@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 684 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 617 verification Python scripts.
+- 685 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 618 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -652,6 +652,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md) — Subject boundaries, higher-body coupling and report causality
 - [ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) — One subject–experience candidate tested against two rivals
 - [ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) — Subject locality and the cost of overlapping experiences
+- [ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) — Exact three-balance sphere record in an encoded system
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
 - [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
@@ -1422,6 +1423,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)
 - [verification/zero_subject_normalization_locality_test.py](verification/zero_subject_normalization_locality_test.py)
+- [verification/zero_three_balance_encoded_sphere_record_test.py](verification/zero_three_balance_encoded_sphere_record_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)

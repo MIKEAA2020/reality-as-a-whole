@@ -89,6 +89,8 @@ The word **conditional** matters. The dual factor, three Xᵢ, their operator-eq
 
 ## 4. Connection to the actual five-ray sphere—and an interface cost
 
+**Encoded continuation:** [an exact three-balance sphere record](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) constructs a larger, locally conserving encoded realization of the same five-ray table. It does not establish a conserving dilation of the original bare-state readout.
+
 The same `|Φ₄⟩` can be factored as two qubit identity pairs. A local unitary on one paired qubit turns the first pair into the singlet used in our [five-ray construction](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md); the second qubit pair is a spectator. Transport the Qᵢ and C by the same unitary. On the first pair use the prior actual triple effects `Fᵢ=qᵢ(I+nᵢ·σ)` with
 
 ```text

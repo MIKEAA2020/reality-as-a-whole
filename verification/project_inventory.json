@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 727,
-  "bytes": 9246727,
-  "line_count": 83521,
-  "document_count_with_risk_phrases": 680,
+  "document_count": 728,
+  "bytes": 9257563,
+  "line_count": 83664,
+  "document_count_with_risk_phrases": 681,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "db4cb338a4cb3a4f9d02f7f04d25ba484c26524d34688827d0900029c36ce6d3",
-      "bytes": 186872,
-      "lines": 1437,
+      "sha256": "cf0544fa0dd0f0b5e69c3a8860590bc0cfbfff9f2774ea0a5b2587e6df6fd846",
+      "bytes": 187420,
+      "lines": 1441,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5915,6 +5915,7 @@
         "JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md",
         "JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md",
         "JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md",
+        "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md",
         "KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md",
         "KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md",
@@ -6330,6 +6331,7 @@
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
+        "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -7020,6 +7022,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_article_jet_dual_pair_test.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
         "verification/zero_autonomous_two_window_records_test.py",
@@ -7085,6 +7088,7 @@
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_subject_normalization_locality_test.py",
+        "verification/zero_three_balance_encoded_sphere_record_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -7107,22 +7111,23 @@
         83,
         165,
         227,
-        302,
-        331,
-        379,
-        410,
-        478,
-        576,
-        620,
-        633,
+        303,
+        332,
+        380,
+        411,
+        479,
+        577,
+        621,
         634,
-        638,
-        640,
-        723,
-        732,
-        735,
-        738,
-        807
+        635,
+        639,
+        641,
+        655,
+        725,
+        734,
+        737,
+        740,
+        809
       ]
     },
     {
@@ -8937,9 +8942,9 @@
     },
     {
       "path": "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
-      "sha256": "e0fc91f2e2cf912ad03237177f6fd6efc8051d6be4426aa24df0d373c23a1555",
-      "bytes": 12046,
-      "lines": 135,
+      "sha256": "db04aa628fc30b4f91e952653aa745975360835fffe1115a4856af7d44772eee",
+      "bytes": 12325,
+      "lines": 137,
       "title": "Zero as origin and limit: the linked article and the sphere proposal",
       "headings": [
         "Zero as origin and limit: the linked article and the sphere proposal",
@@ -8954,6 +8959,7 @@
       "local_links": [
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md"
@@ -8965,8 +8971,9 @@
         77,
         86,
         88,
-        115,
-        121
+        92,
+        117,
+        123
       ]
     },
     {
@@ -20569,8 +20576,8 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "775d091c699c6f9b489417ae7f0e2f113458be3eaa967797732d2ddad3d313a0",
-      "bytes": 15561,
+      "sha256": "6d94136b1cf49bac157c1ed3b697eca1fdbc39e5a6239dc023187623e57d20f2",
+      "bytes": 15752,
       "lines": 152,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
@@ -20586,6 +20593,7 @@
       "local_links": [
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
+        "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
@@ -21646,6 +21654,39 @@
         89,
         101,
         149
+      ]
+    },
+    {
+      "path": "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
+      "sha256": "3caf918a1aa0fe374f55eff32a569cee852328ce90790fde853053100a1e3548",
+      "bytes": 9818,
+      "lines": 137,
+      "title": "Exact three-balance sphere record in an encoded system",
+      "headings": [
+        "Exact three-balance sphere record in an encoded system",
+        "Result and scope",
+        "1. A local zero sector with internal alternatives",
+        "2. Compensation inside the record branches",
+        "3. Two local labs and a finite record",
+        "4. Retained sphere statistics and locality",
+        "5. What this adds to the zero proposal",
+        "Reproduce"
+      ],
+      "local_links": [
+        "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        9,
+        55,
+        71,
+        90,
+        108,
+        119,
+        123,
+        125
       ]
     },
     {

@@ -2,7 +2,7 @@
 
 **Physical-interface continuation:** [dual pairing and energy-conserving sphere readouts](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) constructs the five-ray measurement, two finite reference pairs and a relative-clock pointer in an exact zero-energy finite system.
 
-**Directional continuation:** [zero as origin, jet and paired constraint](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) specifies three directional operators whose paired zero constraints have a unique common state, and checks the disturbance from the five-ray readout.
+**Directional continuation:** [zero as origin, jet and paired constraint](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) specifies three directional operators whose paired zero constraints have a unique common state, and checks the disturbance from the five-ray readout. The [larger encoded record](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) preserves three balances exactly while recovering the same table, at the cost of an enlarged, non-unique zero sector.
 
 ## The proposal
 
