@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 729,
-  "bytes": 9274862,
-  "line_count": 83862,
-  "document_count_with_risk_phrases": 682,
+  "document_count": 730,
+  "bytes": 9288625,
+  "line_count": 84034,
+  "document_count_with_risk_phrases": 683,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5863efb5ff79d71e16d1a71a9bc3e2be6fc3ef67fbd5a7663a6f95c1b15e7234",
-      "bytes": 187730,
-      "lines": 1443,
+      "sha256": "ea52adc05ff875ff3315e5ad393f3d97c24f17d77e85a23d16aa35927b1fc5d5",
+      "bytes": 188016,
+      "lines": 1445,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6268,6 +6268,7 @@
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
@@ -7023,6 +7024,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_all_sector_sphere_clock_work_test.py",
         "verification/zero_article_jet_dual_pair_test.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
@@ -7119,17 +7121,17 @@
         411,
         479,
         577,
-        622,
-        635,
+        623,
         636,
-        640,
-        642,
-        656,
-        726,
-        735,
-        738,
-        741,
-        810
+        637,
+        641,
+        643,
+        657,
+        727,
+        736,
+        739,
+        742,
+        811
       ]
     },
     {
@@ -19641,6 +19643,34 @@
       ]
     },
     {
+      "path": "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+      "sha256": "2b5cfde5c0697cd917459e1dd682cf6a14fa113698993f034bd487fd20af2dfd",
+      "bytes": 13036,
+      "lines": 168,
+      "title": "The full paired state: clock and work records without discarding a sector",
+      "headings": [
+        "The full paired state: clock and work records without discarding a sector",
+        "Result",
+        "1. Decompose the whole, not only the preferred code",
+        "2. An explicit instrument over every sector",
+        "3. Clock, work and target on both sectors",
+        "4. The unselected table and the event",
+        "5. Conservation and locality, carefully scoped",
+        "6. Consequence for the larger proposal"
+      ],
+      "local_links": [
+        "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
+        "verification/zero_all_sector_sphere_clock_work_test.py"
+      ],
+      "risk_phrase_lines": [
+        57,
+        63,
+        87,
+        117,
+        145
+      ]
+    },
+    {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
       "sha256": "1188c30a0017e9d56b8fdf9a4e891d08b57aa52a6708dfe8f27bec627d46d319",
       "bytes": 13763,
@@ -19969,9 +19999,9 @@
     },
     {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
-      "sha256": "2e98ce88a5ae8ed8dcec7f80fc0d909a0df9501a3a39e5af2fbfd9d7d29a9291",
-      "bytes": 16384,
-      "lines": 192,
+      "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e",
+      "bytes": 16666,
+      "lines": 194,
       "title": "Encoded directional balance joined to the finite sphere, clock and work",
       "headings": [
         "Encoded directional balance joined to the finite sphere, clock and work",
@@ -19984,24 +20014,25 @@
         "6. Explicit globally balanced preparation, with failure retained"
       ],
       "local_links": [
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        8,
+        9,
         10,
-        14,
-        35,
-        45,
-        97,
+        12,
+        16,
+        37,
+        47,
         99,
-        111,
-        169,
-        181,
-        192
+        101,
+        113,
+        171,
+        183,
+        194
       ]
     },
     {
@@ -21698,8 +21729,8 @@
     },
     {
       "path": "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
-      "sha256": "7cac7b7234e871b77c1e6f1f744c4a65f2ae3e492f3597620cac15c4d0b5f4df",
-      "bytes": 10096,
+      "sha256": "18293d21ffd6a265b908a20e8e3c20d8c159b697fa99bb170bff23733dde602d",
+      "bytes": 10255,
       "lines": 139,
       "title": "Exact three-balance sphere record in an encoded system",
       "headings": [
@@ -21714,6 +21745,7 @@
       ],
       "local_links": [
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md"
       ],

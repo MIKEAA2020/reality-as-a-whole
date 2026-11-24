@@ -2,7 +2,7 @@
 
 ## Result and scope
 
-**Clock/work continuation:** [the encoded sphere–clock–work bridge](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) transports the actual finite instruments into the code, and gives a conditional charge-preserving preparation from an explicit global paired resource.
+**Clock/work continuation:** [the encoded sphere–clock–work bridge](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) transports the actual finite instruments into the code, and gives a conditional charge-preserving preparation from an explicit global paired resource. [The all-sector extension](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md) gives the complement its own conserving fixed-setting record and work/clock interface.
 
 The [zero-origin audit](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) found that a straightforward five-ray readout disturbs three directional zero constraints. There is an exact constructive alternative: **encode each two-level lab in a multiplicity of a local three-constraint zero sector**. A three-outcome local pointer can then record the same five-ray Born table while every pointer branch remains in the kernel of all three constraints, on each lab separately.
 

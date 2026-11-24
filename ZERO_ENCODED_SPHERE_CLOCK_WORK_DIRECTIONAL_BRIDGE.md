@@ -2,6 +2,8 @@
 
 ## Result
 
+**All-sector continuation:** [the full paired state with clock and work records](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md) develops the previously retained complement as well as the code branch, without claiming its fixed-setting instrument is the original quantum sphere POVM.
+
 The [three-balance encoded sphere](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) can be joined exactly to the *actual finite circuit* of the earlier [sphere, relative clock and work-current model](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md), not just matched to its ideal table. Replace each of that circuit's two spin qubits by the four-constituent zero-sector code, and transport the actual finite-reference instruments through the local code isometries. The resulting single specified model has:
 
 * all three directional generators exactly zero **on each encoded lab**, including every sphere and clock-pointer branch;
