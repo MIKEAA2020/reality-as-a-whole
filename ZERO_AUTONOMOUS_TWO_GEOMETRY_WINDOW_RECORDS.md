@@ -1,5 +1,7 @@
 # Two autonomous records in the constrained geometry–sphere model
 
+**Continuation:** [multichannel continuum geometry slices](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) establishes almost-everywhere scattering-state reconstruction and identifies the remaining bound-state rank problem.
+
 ## Result
 
 The preceding model had one memory inside the constraint but needed an additional external projection to compare a past pointer reading with later memory. Here **two memory qubits are included in the same closed constraint**, coupled to the pointer through different finite-resolution geometry windows. There is no intermediate projective operation or externally scheduled on/off switch in the primary calculation.

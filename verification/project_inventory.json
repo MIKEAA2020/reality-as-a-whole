@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 715,
-  "bytes": 9061252,
-  "line_count": 81507,
-  "document_count_with_risk_phrases": 668,
+  "document_count": 716,
+  "bytes": 9075117,
+  "line_count": 81631,
+  "document_count_with_risk_phrases": 669,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "22521aa53c96504f73ac52663909a59d2d547214d43b46c1c0d93bfe268c6740",
-      "bytes": 183285,
-      "lines": 1411,
+      "sha256": "fa445f0b07dbc801465837e9cd51e0a4a01020a0622c15c0423cf4ab3399df63",
+      "bytes": 183576,
+      "lines": 1413,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5694,6 +5694,7 @@
         "verification/project_inventory.json",
         "ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md",
         "ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md",
+        "ABAEE_PROCESS_RECOVERY_AUTONOMOUS_CLOCK_RECORDS.md",
         "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
         "ACOUSTIC_REGISTER_VALENCE_AND_SOURCE_AUDIT.md",
@@ -6468,6 +6469,7 @@
         "sources/uploads/williams2019.pdf",
         "verification/framework_battery.py",
         "verification/abaee_additive_dynamics_audit_test.py",
+        "verification/abaee_autonomous_memory_recovery_test.py",
         "verification/abaee_sphere_program_recovery_test.py",
         "verification/action_unity_xor_gate.py",
         "verification/action_unity_xor_gate_test.py",
@@ -7074,28 +7076,28 @@
       ],
       "risk_phrase_lines": [
         16,
-        19,
-        42,
-        64,
-        72,
-        82,
-        164,
-        225,
-        299,
-        328,
-        376,
-        407,
-        475,
-        573,
-        624,
+        20,
+        43,
+        65,
+        73,
+        83,
+        165,
+        226,
+        300,
+        329,
+        377,
+        408,
+        476,
+        574,
         625,
-        629,
-        631,
-        711,
-        720,
-        723,
-        726,
-        794
+        626,
+        630,
+        632,
+        712,
+        721,
+        724,
+        727,
+        795
       ]
     },
     {
@@ -19575,9 +19577,9 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
-      "sha256": "b58820479c2be5a858ee714873aaf5ed1874eb1fc38cf91bfa42de2756b85c3f",
-      "bytes": 11452,
-      "lines": 123,
+      "sha256": "f08865de57f30d8af2bd886b44b2d617f11f40b6a08ede14a025e97e9eb7f05c",
+      "bytes": 11674,
+      "lines": 125,
       "title": "Two autonomous records in the constrained geometry–sphere model",
       "headings": [
         "Two autonomous records in the constrained geometry–sphere model",
@@ -19590,16 +19592,17 @@
         "6. Next step"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "verification/zero_autonomous_two_window_records_test.py",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md"
       ],
       "risk_phrase_lines": [
-        5,
-        54,
-        73,
-        82,
-        100
+        7,
+        56,
+        75,
+        84,
+        102
       ]
     },
     {
@@ -22304,6 +22307,32 @@
         95,
         97,
         105
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+      "sha256": "5817eec76ae42ebef4990bc5e6c3d72d549b70461ba52f50355419507476b1c3",
+      "bytes": 13352,
+      "lines": 120,
+      "title": "Geometry slices for two autonomous records: a multichannel continuum result",
+      "headings": [
+        "Geometry slices for two autonomous records: a multichannel continuum result",
+        "Result",
+        "1. Four two-component channels—not eight independent scalar channels",
+        "2. Why one complete slice sees the scattering sector",
+        "3. Singular spectrum and bound states",
+        "4. Actual clock-slice transport",
+        "5. Checks and next target",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+        "verification/zero_two_window_continuum_slice_test.py",
+        "verification/zero_two_window_continuum_slice_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        111
       ]
     },
     {
