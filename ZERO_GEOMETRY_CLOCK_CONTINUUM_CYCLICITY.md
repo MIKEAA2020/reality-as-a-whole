@@ -1,5 +1,7 @@
 # The geometry-clock question: what can a continuum slice recover?
 
+**Continuation:** [Mourre and bound-spectrum analysis](ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md) rules out singular-continuous spectrum for this model and proves that each pointer channel has exactly one exterior bound eigenvalue. Embedded-eigenvalue multiplicity remains open.
+
 ## Answer
 
 The [preceding construction](ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md) left a definite question: can an interacting geometry slice recover the physical state, or does the slice necessarily lose information? For our band-projected FLRW model, there is a stronger **continuum** answer:

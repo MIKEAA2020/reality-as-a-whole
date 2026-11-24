@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 710,
-  "bytes": 9007159,
-  "line_count": 80884,
-  "document_count_with_risk_phrases": 663,
+  "document_count": 711,
+  "bytes": 9018375,
+  "line_count": 81020,
+  "document_count_with_risk_phrases": 664,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e6fad31eb8c0f826e83bfb51218415db6aa2770d37ae65739a06f26da62a2295",
-      "bytes": 181796,
-      "lines": 1401,
+      "sha256": "5c8134b765de850d6bc542d9410f22619d02be3ce01f28424ed31ddfd528628d",
+      "bytes": 182403,
+      "lines": 1405,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6243,6 +6243,8 @@
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
+        "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
+        "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
@@ -6979,6 +6981,8 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_interacting_clock_bound_transition_test.py",
+        "verification/zero_interacting_clock_mourre_spectrum_test.py",
+        "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
@@ -7046,15 +7050,15 @@
         407,
         475,
         573,
-        619,
-        620,
-        624,
+        621,
+        622,
         626,
-        706,
-        715,
-        718,
-        721,
-        789
+        628,
+        708,
+        717,
+        720,
+        723,
+        791
       ]
     },
     {
@@ -19789,9 +19793,9 @@
     },
     {
       "path": "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
-      "sha256": "e765d673f36f89987e570360abd8910fd4b975c7ea18b40a9f3e94d568ba28b3",
-      "bytes": 11534,
-      "lines": 123,
+      "sha256": "87d4c9fd0747019ba663c4d2939fcbc5fa49cd45080402cdd9ab04af3608c788",
+      "bytes": 11821,
+      "lines": 125,
       "title": "The geometry-clock question: what can a continuum slice recover?",
       "headings": [
         "The geometry-clock question: what can a continuum slice recover?",
@@ -19804,18 +19808,49 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md"
       ],
       "risk_phrase_lines": [
-        7,
+        3,
+        9,
+        13,
+        49,
+        81,
+        89,
+        109,
+        111
+      ]
+    },
+    {
+      "path": "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
+      "sha256": "10449a3419301e38864fb9a9a2f1a4e8e682697d6893ff74f712d4c4b7859861",
+      "bytes": 10322,
+      "lines": 130,
+      "title": "Geometry-clock spectrum: no singular-continuous sector and one exterior bound state",
+      "headings": [
+        "Geometry-clock spectrum: no singular-continuous sector and one exterior bound state",
+        "Result",
+        "1. Operator and window",
+        "2. Exactly one exterior eigenvalue in each pointer channel",
+        "3. No singular-continuous component: the Mourre estimate",
+        "4. What this changes for the slice question",
+        "5. Decisive next step",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
+        "verification/zero_interacting_clock_mourre_spectrum_test.py"
+      ],
+      "risk_phrase_lines": [
+        8,
         11,
-        47,
-        79,
-        87,
-        107,
-        109
+        34,
+        63,
+        65,
+        112
       ]
     },
     {

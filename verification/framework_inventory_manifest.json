@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d84587623e9f339e2b2f19b8ca8c1911500a43b3",
-  "file_count": 2039,
+  "base_head": "b97a58a5e0ac994a3dc42bec99db6cf7b60a1fc5",
+  "file_count": 2041,
   "files": [
     {
       "path": ".gitattributes",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 182087,
-      "sha256": "2c34eff58b516080b3fe30ed48fdaa61fc3a91edc61855c4d32482873e2718aa"
+      "bytes": 182403,
+      "sha256": "5c8134b765de850d6bc542d9410f22619d02be3ce01f28424ed31ddfd528628d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2935,8 +2935,13 @@
     },
     {
       "path": "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
-      "bytes": 11534,
-      "sha256": "e765d673f36f89987e570360abd8910fd4b975c7ea18b40a9f3e94d568ba28b3"
+      "bytes": 11821,
+      "sha256": "87d4c9fd0747019ba663c4d2939fcbc5fa49cd45080402cdd9ab04af3608c788"
+    },
+    {
+      "path": "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
+      "bytes": 10322,
+      "sha256": "10449a3419301e38864fb9a9a2f1a4e8e682697d6893ff74f712d4c4b7859861"
     },
     {
       "path": "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
@@ -7795,8 +7800,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 889461,
-      "sha256": "ddc98e776087e5b9efee9b423eee116dde7cff4c220a6f8bea4135b1fe81515a"
+      "bytes": 890784,
+      "sha256": "9309ccb57023f03fa487659073dbb78fc20e8956ed92df6c67c8fa18e10b1ad1"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9917,6 +9922,11 @@
       "path": "verification/zero_interacting_clock_bound_transition_test.py",
       "bytes": 5350,
       "sha256": "6f0cc48aa091ac2911484c9151812da61ecdb7499c82482bd18117bd5ab2430e"
+    },
+    {
+      "path": "verification/zero_interacting_clock_mourre_spectrum_test.py",
+      "bytes": 5095,
+      "sha256": "f4e23be83629593e1a66a1b2cde591e158d63d3176544341796f83fe552573e3"
     },
     {
       "path": "verification/zero_interacting_geometry_clock_cyclicity_test.py",
