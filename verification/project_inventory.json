@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 705,
-  "bytes": 8950396,
-  "line_count": 80343,
-  "document_count_with_risk_phrases": 658,
+  "document_count": 706,
+  "bytes": 8958665,
+  "line_count": 80411,
+  "document_count_with_risk_phrases": 659,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d17bf18cd99cde20449cc28ea6b50f545dfff5e838d6a807c63a0358ba44b1c4",
-      "bytes": 180572,
-      "lines": 1393,
+      "sha256": "8041af0d96d22687860cfe4614978557b903ba25b314ee4566437178be0b306b",
+      "bytes": 180876,
+      "lines": 1395,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6258,6 +6258,7 @@
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
@@ -6983,6 +6984,7 @@
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_point_blowup_test.py",
+        "verification/zero_qdesic_sphere_clock_connection_test.py",
         "verification/zero_realm_physical_zero_incidence_test.py",
         "verification/zero_realm_restriction_without_interaction_test.py",
         "verification/zero_reciprocal_subject_exchange_test.py",
@@ -7038,15 +7040,15 @@
         407,
         475,
         573,
-        615,
         616,
-        620,
-        622,
-        702,
-        711,
-        714,
-        717,
-        785
+        617,
+        621,
+        623,
+        703,
+        712,
+        715,
+        718,
+        786
       ]
     },
     {
@@ -20216,6 +20218,29 @@
         74,
         90,
         92
+      ]
+    },
+    {
+      "path": "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
+      "sha256": "c647d68539fae2af89183afd388c79bd8a4e1033a1eff71fe2311f13f8c15852",
+      "bytes": 7965,
+      "lines": 66,
+      "title": "Q–desics, mean geometry and the confined sphere: a conditional test",
+      "headings": [
+        "Q–desics, mean geometry and the confined sphere: a conditional test",
+        "Source and result",
+        "An exact, deliberately limited bridge",
+        "What happens to a clock?",
+        "Implication for the point–sphere programme",
+        "Reproducibility"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+        "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        66
       ]
     },
     {

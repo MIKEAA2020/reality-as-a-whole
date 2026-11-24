@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 662 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 594 verification Python scripts.
+- 663 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 595 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -610,6 +610,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) — Zero's internal sphere: a direct test of physical and experiential constitution
 - [ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) — Time from a zero whole: a sphere–record relational clock and a cosmological constraint
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
+- [ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md](ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md) — Q–desics, mean geometry and the confined sphere: a conditional test
 - [ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) — Confined succession without an interaction
 - [ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) — Reciprocal subject-candidate exchange within the spherical whole
 - [ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) — From relational zero to a unique correlated state and conserved record transfer
@@ -1349,6 +1350,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)
 - [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
+- [verification/zero_qdesic_sphere_clock_connection_test.py](verification/zero_qdesic_sphere_clock_connection_test.py)
 - [verification/zero_realm_physical_zero_incidence_test.py](verification/zero_realm_physical_zero_incidence_test.py)
 - [verification/zero_realm_restriction_without_interaction_test.py](verification/zero_realm_restriction_without_interaction_test.py)
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)
