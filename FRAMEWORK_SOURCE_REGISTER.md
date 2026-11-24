@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 691 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 624 verification Python scripts.
+- 692 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 625 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -601,6 +601,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
+- [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
@@ -1375,6 +1376,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_confined_realms_interface_test.py](verification/zero_confined_realms_interface_test.py)
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
+- [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
 - [verification/zero_dual_pair_sphere_energy_instrument_test.py](verification/zero_dual_pair_sphere_energy_instrument_test.py)
 - [verification/zero_encoded_sphere_clock_work_bridge_test.py](verification/zero_encoded_sphere_clock_work_bridge_test.py)

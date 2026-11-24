@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "171ccc9a0e0f7c0991861dc0cd7a27fdd7787d0c",
-  "file_count": 2089,
+  "base_head": "796a3c9278d50a43b3ff187a856639152ccea5d4",
+  "file_count": 2091,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 189210,
-      "sha256": "855003ee763de194a2a635d24deae58623b7a6b5945d6c43f9b053594adcf276"
+      "bytes": 189538,
+      "sha256": "ce6832e39fa769ee4d7fd7e1fac0bd1ac738a9846d80e9fb4d769e9038b257cd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2940,8 +2940,8 @@
     },
     {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
-      "bytes": 11461,
-      "sha256": "87f414fa58b73eff04e1682c504dc2e6b3db78768c33b1b6dfcf8803ada5f5ce"
+      "bytes": 11789,
+      "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -2962,6 +2962,11 @@
       "path": "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
       "bytes": 13079,
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee"
+    },
+    {
+      "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
+      "bytes": 16377,
+      "sha256": "793466a889e48141fe52079f6fba14196ff375837ecbfa297f2b529355111956"
     },
     {
       "path": "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
@@ -7945,8 +7950,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 921091,
-      "sha256": "3ea5afb4a9cdf2ae07c9ef48d7883a1240c7bab94a51fa51c5a2d58671214aff"
+      "bytes": 922671,
+      "sha256": "34af6635d216b0bd9b0bcfb043771916a12fe858868f4592a47dbf779c674822"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10062,6 +10067,11 @@
       "path": "verification/zero_confinement_coherence_experience_test.py",
       "bytes": 6829,
       "sha256": "dac0685fb510fdc94ba66ec0f488c0997d0afb175961eac6d195df26c6e902e7"
+    },
+    {
+      "path": "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+      "bytes": 13313,
+      "sha256": "8194b6f2f598b6a090bb3821b740c3682c45bda7472bb6af1bd69eeae56f8ce8"
     },
     {
       "path": "verification/zero_domain_restriction_sector_clock_code_test.py",

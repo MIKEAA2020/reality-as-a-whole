@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 734,
-  "bytes": 9344717,
-  "line_count": 84564,
-  "document_count_with_risk_phrases": 687,
+  "document_count": 735,
+  "bytes": 9362058,
+  "line_count": 84765,
+  "document_count_with_risk_phrases": 688,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "776a6086633ad2b27684c342ecd0fb123bb95d9337d7a2921215c3ab2b2c1d60",
-      "bytes": 188902,
-      "lines": 1451,
+      "sha256": "ce6832e39fa769ee4d7fd7e1fac0bd1ac738a9846d80e9fb4d769e9038b257cd",
+      "bytes": 189538,
+      "lines": 1455,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6335,10 +6335,12 @@
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+        "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
+        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
@@ -7089,6 +7091,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_all_sector_branchwise_balance_test.py",
         "verification/zero_all_sector_record_involution_test.py",
         "verification/zero_all_sector_sphere_clock_work_test.py",
         "verification/zero_article_jet_dual_pair_test.py",
@@ -7098,6 +7101,7 @@
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
+        "verification/zero_constitution_hamiltonian_phase_gate_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
@@ -7188,17 +7192,17 @@
         481,
         579,
         594,
-        626,
-        639,
-        640,
-        644,
+        628,
+        641,
+        642,
         646,
-        660,
-        730,
-        739,
-        742,
-        745,
-        814
+        648,
+        662,
+        732,
+        741,
+        744,
+        747,
+        816
       ]
     },
     {
@@ -19876,9 +19880,9 @@
     },
     {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
-      "sha256": "87f414fa58b73eff04e1682c504dc2e6b3db78768c33b1b6dfcf8803ada5f5ce",
-      "bytes": 11461,
-      "lines": 157,
+      "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261",
+      "bytes": 11789,
+      "lines": 159,
       "title": "Branchwise cancellation and conditional selection in the all-sector circuit",
       "headings": [
         "Branchwise cancellation and conditional selection in the all-sector circuit",
@@ -19893,21 +19897,22 @@
       "local_links": [
         "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
         "verification/zero_all_sector_branchwise_balance_test.py",
+        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "verification/zero_all_sector_record_involution_test.py",
         "verification/zero_all_sector_sphere_clock_work_test.py"
       ],
       "risk_phrase_lines": [
         5,
         29,
-        66,
-        74,
-        80,
-        115,
-        122,
-        126,
-        138,
+        68,
+        76,
+        82,
+        117,
+        124,
+        128,
         140,
-        148
+        142,
+        150
       ]
     },
     {
@@ -20032,6 +20037,40 @@
         65,
         113,
         147
+      ]
+    },
+    {
+      "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
+      "sha256": "793466a889e48141fe52079f6fba14196ff375837ecbfa297f2b529355111956",
+      "bytes": 16377,
+      "lines": 195,
+      "title": "Deriving the eigencondition and Hamiltonian from zero: a constructive program",
+      "headings": [
+        "Deriving the eigencondition and Hamiltonian from zero: a constructive program",
+        "The question and the advance",
+        "1. Three signed balances already present in the interface",
+        "2. The eigencondition follows from a complementary zero",
+        "3. The canonical zero-penalty from the algebra",
+        "4. The hidden active-sector requirement",
+        "5. The relative orientation problem: a concrete test, not an assertion",
+        "6. Step-by-step program to reach the user's full demand"
+      ],
+      "local_links": [
+        "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+        "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        18,
+        43,
+        54,
+        76,
+        111,
+        113,
+        157,
+        164,
+        183
       ]
     },
     {

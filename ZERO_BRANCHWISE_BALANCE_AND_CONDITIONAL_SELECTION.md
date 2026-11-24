@@ -30,6 +30,8 @@ select exactly **one maximally entangled work–target state for each fixed R va
 
 Verifier: [verification/zero_all_sector_branchwise_balance_test.py](verification/zero_all_sector_branchwise_balance_test.py). All conclusions are for the given finite model. In particular, A and B are not identified with objective total energy or felt valence; subjecthood and actual outcomes are not inferred from registers or Born weights.
 
+**Constitutive continuation:** [deriving the eigencondition and a Hamiltonian from complementary zero](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) derives the prior eigencondition from a second signed balance and constructs the common-zero Casimir, while testing the active-sector and relative-orientation inputs.
+
 ## 1. From a copied relation to branchwise opposites
 
 The established circuit has the active work states `|a⟩=|0110⟩`, `|b⟩=|1001⟩`, work observable `J₁=−Y_W`, record `Z_R`, and
