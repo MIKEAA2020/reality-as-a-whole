@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 678 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 611 verification Python scripts.
+- 679 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 612 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -268,6 +268,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md](LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md) — Tactile words, hidden writing and feedback: the 1971 primary study
 - [LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md](LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md) — Lewtas on mental chemistry: what it adds and what remains open
 - [LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md](LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md) — When fusion and persistent private subjects make the same reports
+- [LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md](LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md) — What Lighthouse can contribute to a zero-total-energy whole
 - [LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md](LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md) — Lighthouse v2.2: comparison with the framework, battery and time programme
 - [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
 - [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation
@@ -1047,6 +1048,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/lewtas_fusion_nested_observation_gate_test.py](verification/lewtas_fusion_nested_observation_gate_test.py)
 - [verification/lighthouse_trace_time_check.py](verification/lighthouse_trace_time_check.py)
 - [verification/lighthouse_trace_time_check_test.py](verification/lighthouse_trace_time_check_test.py)
+- [verification/lighthouse_zero_energy_internal_clock_test.py](verification/lighthouse_zero_energy_internal_clock_test.py)
 - [verification/linearized_lattice_curvature.py](verification/linearized_lattice_curvature.py)
 - [verification/linearized_spherical_record.py](verification/linearized_spherical_record.py)
 - [verification/local_preparation.py](verification/local_preparation.py)

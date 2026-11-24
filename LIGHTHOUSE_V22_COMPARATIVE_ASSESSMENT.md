@@ -1,5 +1,7 @@
 # Lighthouse v2.2: comparison with the framework, battery and time programme
 
+**Zero-energy adaptation:** [Lighthouse adapted to zero total energy](LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md) develops an exact energy-balanced sphere/clock/memory construction and tests its state and modular-flow assumptions.
+
 ## Scope and verdict
 
 I read the complete text and tables of the user-linked [Lighthouse and Plan v2.2](https://github.com/MIKEAA2020/arena-max--physics/blob/703239cb9849bec4e2d23a414db63d500be4ad2e/v2.2/Lighthouse-and-Plan-v2.2.docx), pinned to commit `703239cb9849bec4e2d23a414db63d500be4ad2e` (Git blob `62039fa73b2758c160174aadb5d258503822efa2`, file SHA-256 `1e8814e1bd5d150a820de8fcfbdf94722ef6ad1b43b13224b97e756b0f2ad80b`). This is a working synthesis dated 14–16 October 2026 from a related project, **not independent confirmation** of either project. I extracted its paragraphs and tables; I did not independently audit every proof, citation, textual interpretation or computation, or run its verification suite. Four relevant primary abstracts were checked below, not their full proofs.

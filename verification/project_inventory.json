@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 721,
-  "bytes": 9151160,
-  "line_count": 82474,
-  "document_count_with_risk_phrases": 674,
+  "document_count": 722,
+  "bytes": 9168619,
+  "line_count": 82646,
+  "document_count_with_risk_phrases": 675,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9815e0e7fe66c113c1889ec2d914b3d961be672fc8082f585032710813ff61ec",
-      "bytes": 185226,
-      "lines": 1425,
+      "sha256": "cde9e7c046ba2ec43d3b00a4ea1f2dfba25fd606a19efe33ed449e7ee57a00b9",
+      "bytes": 185481,
+      "lines": 1427,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6303,6 +6303,7 @@
         "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
+        "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
@@ -7046,6 +7047,7 @@
         "verification/zero_realm_physical_zero_incidence_test.py",
         "verification/zero_realm_restriction_without_interaction_test.py",
         "verification/zero_reciprocal_subject_exchange_test.py",
+        "verification/zero_recollapse_sphere_memory_test.py",
         "verification/zero_relational_history_experiential_clock_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
@@ -7101,15 +7103,15 @@
         409,
         477,
         575,
-        627,
         628,
-        632,
-        634,
-        717,
-        726,
-        729,
-        732,
-        801
+        629,
+        633,
+        635,
+        718,
+        727,
+        730,
+        733,
+        802
       ]
     },
     {
@@ -9717,10 +9719,41 @@
       ]
     },
     {
+      "path": "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+      "sha256": "841f2986b444b57c189dfd83a7ac043a3f83e76178f0298351ea7c6dd9f6b387",
+      "bytes": 16972,
+      "lines": 168,
+      "title": "What Lighthouse can contribute to a zero-total-energy whole",
+      "headings": [
+        "What Lighthouse can contribute to a zero-total-energy whole",
+        "The constructive proposal",
+        "1. What to take from the Lighthouse",
+        "2. An exact zero-energy state with an internal memory",
+        "3. Same zero and same marginals, different histories",
+        "4. What this says about the Lighthouse's Conjecture M",
+        "5. The interface and experience are not bypassed",
+        "6. Research priorities, in order"
+      ],
+      "local_links": [
+        "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md"
+      ],
+      "risk_phrase_lines": [
+        17,
+        35,
+        62,
+        69,
+        147,
+        159
+      ]
+    },
+    {
       "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
-      "sha256": "619fc7cdef10e9247401b8a6837eeca442f3d675165886f42d04f17156f3a892",
-      "bytes": 14350,
-      "lines": 68,
+      "sha256": "f53a1d0e001bb7a9e2c8b451407f01251509ba592a1a2b8965a3cff5cae73668",
+      "bytes": 14582,
+      "lines": 70,
       "title": "Lighthouse v2.2: comparison with the framework, battery and time programme",
       "headings": [
         "Lighthouse v2.2: comparison with the framework, battery and time programme",
@@ -9732,6 +9765,7 @@
         "5. Concrete next tests, without assuming the conjecture"
       ],
       "local_links": [
+        "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
         "CLUES_CROSS_PROJECT_ASSESSMENT.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "verification/lighthouse_trace_time_check.py",
@@ -9747,9 +9781,10 @@
         "CLUES_CROSS_PROJECT_ASSESSMENT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        15,
-        33
+        3,
+        9,
+        17,
+        35
       ]
     },
     {
