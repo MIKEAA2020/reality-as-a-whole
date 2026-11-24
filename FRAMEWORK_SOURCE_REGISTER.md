@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 683 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 616 verification Python scripts.
+- 684 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 617 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -236,6 +236,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md](JAWORSKI_ORGANIZATION_TURNOVER_COMPARISON_PLAN.md) — Plan: organization, material turnover and rival explanations
 - [JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md](JAWORSKI_TURNOVER_AND_ORGANIZATIONAL_MAINTENANCE_GATE.md) — Organization through turnover: a finite comparison after Jaworski
 - [JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md](JOINT_ACCESS_COMMON_SOURCE_DECISION_GATE.md) — Joint access versus a common source: a decision gate
+- [KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) — Zero as origin and limit: the linked article and the sphere proposal
 - [KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md](KAMMERER_ILLUSIONISM_AND_SELF_PRESENCE_AUDIT.md) — The illusion of conscious experience: source audit and the self-presence challenge
 - [KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md](KAVURI_QPV_ASYMMETRIC_GEOMETRY_CHECK_PLAN.md) — Plan: independent asymmetric QPV geometry check
 - [KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md](KAVURI_QPV_ASYMMETRIC_SPATIAL_RATIO_AUDIT.md) — QPV reported timings: an asymmetric spatial-geometry check
@@ -1355,6 +1356,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
+- [verification/zero_article_jet_dual_pair_test.py](verification/zero_article_jet_dual_pair_test.py)
 - [verification/zero_autonomous_clock_record_subject_test.py](verification/zero_autonomous_clock_record_subject_test.py)
 - [verification/zero_autonomous_geometry_pointer_memory_test.py](verification/zero_autonomous_geometry_pointer_memory_test.py)
 - [verification/zero_autonomous_two_window_records_test.py](verification/zero_autonomous_two_window_records_test.py)

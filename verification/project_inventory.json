@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 726,
-  "bytes": 9234109,
-  "line_count": 83382,
-  "document_count_with_risk_phrases": 679,
+  "document_count": 727,
+  "bytes": 9246727,
+  "line_count": 83521,
+  "document_count_with_risk_phrases": 680,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -8933,6 +8933,40 @@
         53,
         141,
         151
+      ]
+    },
+    {
+      "path": "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
+      "sha256": "e0fc91f2e2cf912ad03237177f6fd6efc8051d6be4426aa24df0d373c23a1555",
+      "bytes": 12046,
+      "lines": 135,
+      "title": "Zero as origin and limit: the linked article and the sphere proposal",
+      "headings": [
+        "Zero as origin and limit: the linked article and the sphere proposal",
+        "What the article says",
+        "1. Zero value and directional information",
+        "2. A finite algebraic version",
+        "3. An exact zero state determined by three directional balances",
+        "4. Connection to the actual five-ray sphere—and an interface cost",
+        "5. Implication for the user's proposal",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+        "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        43,
+        68,
+        77,
+        86,
+        88,
+        115,
+        121
       ]
     },
     {
@@ -20535,9 +20569,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "eb129c3b2520c609d397200bc668beb932ea304136c3d45cd2a90a95a93d7aa0",
-      "bytes": 15291,
-      "lines": 150,
+      "sha256": "775d091c699c6f9b489417ae7f0e2f113458be3eaa967797732d2ddad3d313a0",
+      "bytes": 15561,
+      "lines": 152,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -20551,21 +20585,23 @@
       ],
       "local_links": [
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+        "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
       "risk_phrase_lines": [
         1,
         3,
-        49,
-        55,
-        73,
-        85,
-        95,
+        5,
+        51,
+        57,
+        75,
+        87,
         97,
-        113,
-        141,
-        150
+        99,
+        115,
+        143,
+        152
       ]
     },
     {
@@ -20673,9 +20709,9 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "ca70f51446b2c28ec391e6f28e7ac4f08f94fc828df3a7191b19c6e0460b7234",
-      "bytes": 11690,
-      "lines": 119,
+      "sha256": "fca23526f0b835597cfebdb3990e2d093153ae576d94bc7145c9d01b3e192b17",
+      "bytes": 11992,
+      "lines": 121,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -20688,6 +20724,7 @@
         "6. What your idea advances"
       ],
       "local_links": [
+        "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -20695,11 +20732,12 @@
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        73,
-        101,
+        3,
+        17,
+        75,
         103,
-        113
+        105,
+        115
       ]
     },
     {
