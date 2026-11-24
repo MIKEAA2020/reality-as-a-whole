@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 670 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 602 verification Python scripts.
+- 671 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 603 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -587,6 +587,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
 - [ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) — An autonomous zero-spin record cycle and its subject boundary
 - [ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md](ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md) — Autonomous geometry–pointer–memory dynamics in the constrained sphere model
+- [ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) — Two autonomous records in the constrained geometry–sphere model
 - [ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) — Confined realms: held position, richer activity and an optional interface
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
@@ -1340,6 +1341,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
 - [verification/zero_autonomous_clock_record_subject_test.py](verification/zero_autonomous_clock_record_subject_test.py)
 - [verification/zero_autonomous_geometry_pointer_memory_test.py](verification/zero_autonomous_geometry_pointer_memory_test.py)
+- [verification/zero_autonomous_two_window_records_test.py](verification/zero_autonomous_two_window_records_test.py)
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_confined_realms_interface_test.py](verification/zero_confined_realms_interface_test.py)
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)

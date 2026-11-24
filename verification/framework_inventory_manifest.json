@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "43d323babbafd368dc4c2fb85ac1905d7e5b1c32",
-  "file_count": 2045,
+  "base_head": "bc395a4895a402df21564669ab3745c7f1e0cd28",
+  "file_count": 2047,
   "files": [
     {
       "path": ".gitattributes",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 182999,
-      "sha256": "64afda088ec7b52970a7fe40b7e087c34c4c18c71dc578e8a8389e3d9c300518"
+      "bytes": 183285,
+      "sha256": "22521aa53c96504f73ac52663909a59d2d547214d43b46c1c0d93bfe268c6740"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2890,8 +2890,13 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
-      "bytes": 11737,
-      "sha256": "f7d7fd86ce11dd3af64ed5c3824e7caf2e1fc21bd9ebbc361c2a962f92ba6e60"
+      "bytes": 11961,
+      "sha256": "d09683777666469dbcc5611137ecc81d05d72116f7d51daacd35368bea17284a"
+    },
+    {
+      "path": "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+      "bytes": 11452,
+      "sha256": "b58820479c2be5a858ee714873aaf5ed1874eb1fc38cf91bfa42de2756b85c3f"
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -7810,8 +7815,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 893295,
-      "sha256": "f59fce3a99dcdf8a1ad7f62ce4d8311b69c64b86122a8ffd6a6390433cade6a1"
+      "bytes": 894477,
+      "sha256": "363fd882d4723256a4b044eb69a6b5b43c8022ac6558086743f1b95a7a3381ca"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9887,6 +9892,11 @@
       "path": "verification/zero_autonomous_geometry_pointer_memory_test.py",
       "bytes": 11588,
       "sha256": "e8e873555b77185447b618e232c6893c9af9280649cc0abf41f1ae5c2af779c5"
+    },
+    {
+      "path": "verification/zero_autonomous_two_window_records_test.py",
+      "bytes": 10800,
+      "sha256": "cf395599562fd185949410aa5d147e6d213f64cd95e12ed89f891fc49394a514"
     },
     {
       "path": "verification/zero_celestial_geometry_test.py",

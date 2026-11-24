@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 713,
-  "bytes": 9040252,
-  "line_count": 81284,
-  "document_count_with_risk_phrases": 666,
+  "document_count": 714,
+  "bytes": 9052244,
+  "line_count": 81411,
+  "document_count_with_risk_phrases": 667,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9a54e7c9091a6aba19aeaa28a94e34ca419d5ab4e738bd40f310bc44df37345b",
-      "bytes": 182683,
-      "lines": 1407,
+      "sha256": "64afda088ec7b52970a7fe40b7e087c34c4c18c71dc578e8a8389e3d9c300518",
+      "bytes": 182999,
+      "lines": 1409,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6234,6 +6234,7 @@
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
+        "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
@@ -6972,6 +6973,7 @@
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
+        "verification/zero_autonomous_geometry_pointer_memory_test.py",
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
@@ -7052,15 +7054,15 @@
         407,
         475,
         573,
-        622,
         623,
-        627,
-        629,
-        709,
-        718,
-        721,
-        724,
-        792
+        624,
+        628,
+        630,
+        710,
+        719,
+        722,
+        725,
+        793
       ]
     },
     {
@@ -19506,9 +19508,9 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
-      "sha256": "f7d7fd86ce11dd3af64ed5c3824e7caf2e1fc21bd9ebbc361c2a962f92ba6e60",
-      "bytes": 11737,
-      "lines": 120,
+      "sha256": "d09683777666469dbcc5611137ecc81d05d72116f7d51daacd35368bea17284a",
+      "bytes": 11961,
+      "lines": 122,
       "title": "Autonomous geometry–pointer–memory dynamics in the constrained sphere model",
       "headings": [
         "Autonomous geometry–pointer–memory dynamics in the constrained sphere model",
@@ -19521,6 +19523,7 @@
         "6. What next?"
       ],
       "local_links": [
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
         "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
@@ -19528,13 +19531,42 @@
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md"
       ],
       "risk_phrase_lines": [
+        7,
+        58,
+        68,
+        95,
+        102,
+        112,
+        122
+      ]
+    },
+    {
+      "path": "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+      "sha256": "b58820479c2be5a858ee714873aaf5ed1874eb1fc38cf91bfa42de2756b85c3f",
+      "bytes": 11452,
+      "lines": 123,
+      "title": "Two autonomous records in the constrained geometry–sphere model",
+      "headings": [
+        "Two autonomous records in the constrained geometry–sphere model",
+        "Result",
+        "1. A single autonomous constraint",
+        "2. An unmeasured pair of records",
+        "3. Controls: disturbance, input and coherence",
+        "4. Clock comparison and the confined domain",
+        "5. Numerical method and limitations",
+        "6. Next step"
+      ],
+      "local_links": [
+        "verification/zero_autonomous_two_window_records_test.py",
+        "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
+        "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md"
+      ],
+      "risk_phrase_lines": [
         5,
-        56,
-        66,
-        93,
-        100,
-        110,
-        120
+        54,
+        73,
+        82,
+        100
       ]
     },
     {

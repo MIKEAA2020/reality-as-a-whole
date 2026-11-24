@@ -1,5 +1,7 @@
 # Autonomous geometry–pointer–memory dynamics in the constrained sphere model
 
+**Continuation:** [two autonomous geometry-window records](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) adds a second memory inside the constraint, with no intermediate projective measurement in the primary calculation.
+
 ## Result
 
 The previous construction had an exact geometry-slice representation but required ideal full-φ solution data and stipulated measurement checkpoints. Here the detector **and a new finite memory** interact continuously inside one φ-independent constraint. There is no externally scheduled on/off operation in this model. The Gaussian-smeared geometry window controls the interaction; the memory is a reversible qubit.
