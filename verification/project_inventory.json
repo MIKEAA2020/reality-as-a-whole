@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 722,
-  "bytes": 9168619,
-  "line_count": 82646,
-  "document_count_with_risk_phrases": 675,
+  "document_count": 723,
+  "bytes": 9185087,
+  "line_count": 82820,
+  "document_count_with_risk_phrases": 676,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "cde9e7c046ba2ec43d3b00a4ea1f2dfba25fd606a19efe33ed449e7ee57a00b9",
-      "bytes": 185481,
-      "lines": 1427,
+      "sha256": "d7f045aaab9490aed688859663d654d86b2f2857a58c7be095b784170f63437f",
+      "bytes": 185759,
+      "lines": 1429,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5947,6 +5947,7 @@
         "LEVY_NEBES_SPERRY_1971_TACTILE_WRITING_PRIMARY_AUDIT.md",
         "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
+        "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
         "LINEARIZED_SPHERICAL_RECORD.md",
@@ -6712,6 +6713,7 @@
         "verification/lewtas_fusion_nested_observation_gate_test.py",
         "verification/lighthouse_trace_time_check.py",
         "verification/lighthouse_trace_time_check_test.py",
+        "verification/lighthouse_zero_energy_internal_clock_test.py",
         "verification/linearized_lattice_curvature.py",
         "verification/linearized_spherical_record.py",
         "verification/local_preparation.py",
@@ -7097,21 +7099,21 @@
         83,
         165,
         227,
-        301,
-        330,
-        378,
-        409,
-        477,
-        575,
-        628,
+        302,
+        331,
+        379,
+        410,
+        478,
+        576,
         629,
-        633,
-        635,
-        718,
-        727,
-        730,
-        733,
-        802
+        630,
+        634,
+        636,
+        719,
+        728,
+        731,
+        734,
+        803
       ]
     },
     {
@@ -9720,9 +9722,9 @@
     },
     {
       "path": "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
-      "sha256": "841f2986b444b57c189dfd83a7ac043a3f83e76178f0298351ea7c6dd9f6b387",
-      "bytes": 16972,
-      "lines": 168,
+      "sha256": "f9e566b6e9fc67a46da376f316eda1033a37e189c2665f1c043f8c0f55f7714e",
+      "bytes": 17199,
+      "lines": 170,
       "title": "What Lighthouse can contribute to a zero-total-energy whole",
       "headings": [
         "What Lighthouse can contribute to a zero-total-energy whole",
@@ -9735,18 +9737,19 @@
         "6. Research priorities, in order"
       ],
       "local_links": [
+        "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md"
       ],
       "risk_phrase_lines": [
-        17,
-        35,
-        62,
-        69,
-        147,
-        159
+        19,
+        37,
+        64,
+        71,
+        149,
+        161
       ]
     },
     {
@@ -19872,6 +19875,42 @@
       ]
     },
     {
+      "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
+      "sha256": "2909f15977bed4c4d2f8cf9b593f10b2daddf3eb86eb36e411f9bb50b1f3ab4e",
+      "bytes": 15699,
+      "lines": 168,
+      "title": "A zero-energy clock for the recollapsing sphere–memory model",
+      "headings": [
+        "A zero-energy clock for the recollapsing sphere–memory model",
+        "Result",
+        "1. Start with the actual coupled rest system",
+        "2. An exactly zero-energy whole and a normalizable clock POVM",
+        "3. Controlled relation to the original recollapse calculation",
+        "4. Opposite memory arrows, same geometry and same energy ledger",
+        "5. A stronger coherence control: identical marginal states, different geometry history",
+        "6. The sphere–experience constraint still applies"
+      ],
+      "local_links": [
+        "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+        "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
+        "verification/zero_energy_recollapse_clock_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        11,
+        12,
+        43,
+        57,
+        83,
+        112,
+        134,
+        146,
+        150,
+        168
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0",
       "bytes": 23603,
@@ -20731,9 +20770,9 @@
     },
     {
       "path": "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
-      "sha256": "19240c12cb8346485fe567a8e33a02ae6c917510e2fcccd48a05403449acd78d",
-      "bytes": 16041,
-      "lines": 147,
+      "sha256": "bd4427c0805dfb65fdb95f358a01ddf137d9dc8667ed1bc84f078ebce764dd29",
+      "bytes": 16305,
+      "lines": 149,
       "title": "Recollapse, the sphere and record arrows in one constraint",
       "headings": [
         "Recollapse, the sphere and record arrows in one constraint",
@@ -20746,18 +20785,20 @@
         "6. What the construction establishes—and what would advance it"
       ],
       "local_links": [
+        "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
       "risk_phrase_lines": [
-        9,
-        57,
-        79,
-        103,
-        133,
-        137,
-        147
+        3,
+        11,
+        59,
+        81,
+        105,
+        135,
+        139,
+        149
       ]
     },
     {

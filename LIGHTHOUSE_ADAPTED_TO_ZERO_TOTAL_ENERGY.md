@@ -1,5 +1,7 @@
 # What Lighthouse can contribute to a zero-total-energy whole
 
+**Continuation:** [a zero-energy clock for the recollapsing sphere system](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) constructs the combined energy, geometry and memory model and compares its coherent and dephased whole states.
+
 ## The constructive proposal
 
 The most promising adaptation is to treat the Lighthouse's **polarity, measure, internal clock and interface** not as separate metaphors, but as requirements on one zero-energy state:

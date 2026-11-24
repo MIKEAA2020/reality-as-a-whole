@@ -1,5 +1,7 @@
 # Recollapse, the sphere and record arrows in one constraint
 
+**Energy-balanced continuation:** [zero-energy recollapse with a matched internal clock](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) adds an exactly cancelling finite clock to a spectrally rounded version of this coupled model, with an analytic rounding-error bound.
+
 ## Result
 
 We can now put **a dynamical recollapsing geometry, the actual five-ray sphere code and four autonomous detector/memory qubits in one constrained quantum model**. This is a new oscillator-geometry model, not a derivation of general relativity or a solution of Fukuyama's JT model. It replaces the geometry operator and clock constraint of the [earlier autonomous model](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md), while retaining its actual sphere states, K relation, detector, three memories and the same *forms* of their targeted and windowed couplings.

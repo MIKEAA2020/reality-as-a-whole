@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b03095fd994f77c5aeb61838051d0a514864138e",
-  "file_count": 2065,
+  "base_head": "f017e8ce569c0884ace980b9144c76d6f5562bf4",
+  "file_count": 2067,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 185759,
-      "sha256": "d7f045aaab9490aed688859663d654d86b2f2857a58c7be095b784170f63437f"
+      "bytes": 186014,
+      "sha256": "4b5c222a5d6060bee35ec9cb41d6b28fb8e72b1ceffbd74c2bfa04851bd55e93"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1300,8 +1300,8 @@
     },
     {
       "path": "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
-      "bytes": 16972,
-      "sha256": "841f2986b444b57c189dfd83a7ac043a3f83e76178f0298351ea7c6dd9f6b387"
+      "bytes": 17199,
+      "sha256": "f9e566b6e9fc67a46da376f316eda1033a37e189c2665f1c043f8c0f55f7714e"
     },
     {
       "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
@@ -2944,6 +2944,11 @@
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e"
     },
     {
+      "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
+      "bytes": 15699,
+      "sha256": "2909f15977bed4c4d2f8cf9b593f10b2daddf3eb86eb36e411f9bb50b1f3ab4e"
+    },
+    {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
       "bytes": 23603,
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0"
@@ -3085,8 +3090,8 @@
     },
     {
       "path": "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
-      "bytes": 16041,
-      "sha256": "19240c12cb8346485fe567a8e33a02ae6c917510e2fcccd48a05403449acd78d"
+      "bytes": 16305,
+      "sha256": "bd4427c0805dfb65fdb95f358a01ddf137d9dc8667ed1bc84f078ebce764dd29"
     },
     {
       "path": "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
@@ -7875,8 +7880,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 904618,
-      "sha256": "4f4762ebaf745d8ef04990905d5ba9c1c0d9e35ae7a877b4127769265cdeaf1f"
+      "bytes": 906068,
+      "sha256": "33948ea4b68375d0ceade11bad7a5efee6c1f27f12fc3fd76de831b1324cc778"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9977,6 +9982,11 @@
       "path": "verification/zero_domain_restriction_sector_clock_code_test.py",
       "bytes": 12104,
       "sha256": "54276c288aa7d1ae76ac89cd30a9201be90596168c817811d5df7e731ab13369"
+    },
+    {
+      "path": "verification/zero_energy_recollapse_clock_test.py",
+      "bytes": 9152,
+      "sha256": "9c7cc616ae9c113666ee0119d9504041ab2d10c851b253507b9ca24a87fd4819"
     },
     {
       "path": "verification/zero_energy_research_test.py",
