@@ -1,5 +1,7 @@
 # Subject boundaries, higher-body coupling and report causality
 
+**Energy-interface continuation:** [sphere, work relation and candidate incidence](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) repeats the record-local versus joint-relation test behind the finite relative-clock interface with nondegenerate work occupations and a targeted h-memory.
+
 ## Main result
 
 The [integrated sphere–clock model](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) left two issues open: whether the old candidate-subject graph includes the new interface, and whether a quality assigned using the richer work current can be reported as though it belonged to the confined record subsystem. Both can now be sharpened.

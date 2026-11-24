@@ -1,5 +1,7 @@
 # Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
 
+**Work/incidence continuation:** [energy-balanced sphere, K-memory and subject-boundary test](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) adds the actual four-qubit record–work relation, nondegenerate local work energies and a targeted memory to this finite-reference circuit.
+
 ## Result
 
 The preceding [sign-pairing construction](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) suggested that one zero whole might be constituted by dual contributions. Here we test that idea against a concrete physical interface rather than simply writing `+E−E=0`.
