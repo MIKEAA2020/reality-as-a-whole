@@ -1,5 +1,7 @@
 # An autonomous detector inside the sphere–cosmology constraint
 
+**Continuation:** [the interacting clock spectrum and bound states](ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md) proves sector-specific bound modes, constructs an asymptotic scattering representation, and tests full pointer transport.
+
 ## The new construction
 
 The preceding [finite-clock-instrument result](ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md) specified operations on a physical Hilbert space but did not derive a detector interaction. Here a two-state detector is added **to the same minisuperspace constraint as the geometry, scalar clock and encoded sphere–record qubit**. The detector's pointer changes under a fixed, scalar-independent coupling as a geometry wavepacket passes an interaction region; there is no externally scheduled switching in the model.

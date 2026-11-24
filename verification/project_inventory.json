@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 703,
-  "bytes": 8918281,
-  "line_count": 80025,
-  "document_count_with_risk_phrases": 656,
+  "document_count": 704,
+  "bytes": 8934416,
+  "line_count": 80181,
+  "document_count_with_risk_phrases": 657,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2ac52c007eb7cff31a1e34eab02e02c120acec66295fe47c4b880b5d5d4ff6a4",
-      "bytes": 179946,
-      "lines": 1389,
+      "sha256": "ea899626a4d4d6f63526a5a07d204f41b943118475b990034f96fe70fcc95a9f",
+      "bytes": 180277,
+      "lines": 1391,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6269,6 +6269,7 @@
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
         "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
@@ -6997,6 +6998,7 @@
         "verification/zero_sphere_five_ray_conservation.py",
         "verification/zero_sphere_five_ray_conservation_test.py",
         "verification/zero_sphere_flrw_normalizable_clock_test.py",
+        "verification/zero_sphere_interacting_clock_spectral_test.py",
         "verification/zero_sphere_intrinsic_orientation_test.py",
         "verification/zero_sphere_mismatch_experience_comparison_test.py",
         "verification/zero_sphere_relative_orientation.py",
@@ -7038,11 +7040,11 @@
         615,
         619,
         621,
-        700,
-        709,
-        712,
-        715,
-        783
+        701,
+        710,
+        713,
+        716,
+        784
       ]
     },
     {
@@ -20453,9 +20455,9 @@
     },
     {
       "path": "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
-      "sha256": "5e7f1d59242eb99604c17052e28fdb5d71a8adc23bf32b5eeb4fdb3a0a1693f5",
-      "bytes": 14621,
-      "lines": 137,
+      "sha256": "00df689c635cceb6292839760a3e23a7cf11bb1dbb6e1dd527c82d6f2820c506",
+      "bytes": 14872,
+      "lines": 139,
       "title": "An autonomous detector inside the sphere–cosmology constraint",
       "headings": [
         "An autonomous detector inside the sphere–cosmology constraint",
@@ -20468,14 +20470,16 @@
         "6. What this does and does not contribute to the whole"
       ],
       "local_links": [
+        "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
         "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
         "verification/zero_sphere_autonomous_detector_constraint_test.py",
         "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        111,
-        115,
-        127
+        3,
+        113,
+        117,
+        129
       ]
     },
     {
@@ -20583,6 +20587,35 @@
         117,
         145,
         184
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
+      "sha256": "b1f460c3c0acc9a73e013a3c6792958d028a7936834fbd93de8f7060b13b29d6",
+      "bytes": 15553,
+      "lines": 152,
+      "title": "The interacting clock switch: scattering, bound states and a clock obstruction",
+      "headings": [
+        "The interacting clock switch: scattering, bound states and a clock obstruction",
+        "Result",
+        "1. The operator and its physical spectrum",
+        "2. Analytic proof of bound eigenstates",
+        "3. A rigorous global-clock obstruction",
+        "4. Constructive recovery on the scattering sector",
+        "5. Transforming the pointer: an explicit finite check",
+        "6. Interpretation and next step"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+        "verification/zero_sphere_interacting_clock_spectral_test.py"
+      ],
+      "risk_phrase_lines": [
+        8,
+        72,
+        80,
+        92,
+        111,
+        123
       ]
     },
     {
