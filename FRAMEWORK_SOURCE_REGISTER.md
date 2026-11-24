@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 666 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 598 verification Python scripts.
+- 667 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 599 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -595,6 +595,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
+- [ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md](ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md) — The geometry-clock question: what can a continuum slice recover?
 - [ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) — When normalized incidence is not a local experience
 - [ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md](ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md) — Can time arise in a timeless whole? An interacting clock result
 - [ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md](ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md) — Interacting geometry clock: first reading, records and no reading
@@ -1345,6 +1346,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
 - [verification/zero_interacting_clock_bound_transition_test.py](verification/zero_interacting_clock_bound_transition_test.py)
+- [verification/zero_interacting_geometry_clock_cyclicity_test.py](verification/zero_interacting_geometry_clock_cyclicity_test.py)
 - [verification/zero_interacting_geometry_slice_clock_test.py](verification/zero_interacting_geometry_slice_clock_test.py)
 - [verification/zero_interacting_relational_first_reading_test.py](verification/zero_interacting_relational_first_reading_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)

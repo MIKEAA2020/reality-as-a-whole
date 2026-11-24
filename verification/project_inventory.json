@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 709,
-  "bytes": 8995325,
-  "line_count": 80759,
-  "document_count_with_risk_phrases": 662,
+  "document_count": 710,
+  "bytes": 9007159,
+  "line_count": 80884,
+  "document_count_with_risk_phrases": 663,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e9a0f2791860a879555919de1134bea96eedbb60fa562ddad7be6125640d3bb1",
-      "bytes": 181496,
-      "lines": 1399,
+      "sha256": "e6fad31eb8c0f826e83bfb51218415db6aa2770d37ae65739a06f26da62a2295",
+      "bytes": 181796,
+      "lines": 1401,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6246,6 +6246,7 @@
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
+        "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
@@ -6978,6 +6979,7 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_interacting_clock_bound_transition_test.py",
+        "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
@@ -7044,15 +7046,15 @@
         407,
         475,
         573,
-        618,
         619,
-        623,
-        625,
-        705,
-        714,
-        717,
-        720,
-        788
+        620,
+        624,
+        626,
+        706,
+        715,
+        718,
+        721,
+        789
       ]
     },
     {
@@ -19783,6 +19785,37 @@
         86,
         123,
         154
+      ]
+    },
+    {
+      "path": "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
+      "sha256": "e765d673f36f89987e570360abd8910fd4b975c7ea18b40a9f3e94d568ba28b3",
+      "bytes": 11534,
+      "lines": 123,
+      "title": "The geometry-clock question: what can a continuum slice recover?",
+      "headings": [
+        "The geometry-clock question: what can a continuum slice recover?",
+        "Answer",
+        "1. Precise model and slice map",
+        "2. The scattering sector is visible on almost every slice",
+        "3. The two extremal bound states are visible throughout a central interval",
+        "4. What remains and what this does not mean",
+        "5. Next calculation",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "verification/zero_interacting_geometry_clock_cyclicity_test.py",
+        "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        47,
+        79,
+        87,
+        107,
+        109
       ]
     },
     {
