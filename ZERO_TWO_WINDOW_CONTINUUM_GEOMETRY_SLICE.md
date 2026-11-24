@@ -1,5 +1,7 @@
 # Geometry slices for two autonomous records: a multichannel continuum result
 
+**Continuation:** [full-state multi-slice reconstruction](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) bounds all point-state multiplicities and proves that almost every 13-tuple of geometry slices recovers the complete state.
+
 ## Result
 
 The [two-window model](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) is a genuinely noncommuting geometry–pointer interaction, so the earlier scalar-channel slice proof cannot be copied unchanged. Nevertheless, its **complete complex geometry-slice signal**, with all pointer and memory components retained, determines its entire absolutely continuous (scattering) state for almost every α. This holds at the **actual chosen couplings**, simultaneously for both logical h levels and all four memory-y sectors. For any two such slices there is an exact unitary transport of scattering solution data, with the physical inner product transported with it.

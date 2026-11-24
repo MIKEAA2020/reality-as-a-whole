@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d76b9641ce4d3586946d4923e24f12a1bf8cec9d",
-  "file_count": 2051,
+  "base_head": "f45813ea7c03d26088e5f486197bdc2f2d4beb79",
+  "file_count": 2053,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 183860,
-      "sha256": "86b3b2584330dd77f215d1e0713c3d1c7b17bfd6565d9277160e5f370d56ec1b"
+      "bytes": 184094,
+      "sha256": "885c6c1e0c495d0d7898fbf369bdd8efe349a166225de4a59188a6b913ed9b17"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3330,8 +3330,13 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
-      "bytes": 13352,
-      "sha256": "5817eec76ae42ebef4990bc5e6c3d72d549b70461ba52f50355419507476b1c3"
+      "bytes": 13572,
+      "sha256": "2c98d002903ad5f8e47afd3399ee70d036f4ffd43c1ab15ee8a98bb911977bff"
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+      "bytes": 12297,
+      "sha256": "b397eae68e56c68046f099171006df679e1fb22bebbac028f6674a6e3951bb7c"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -7830,8 +7835,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 896802,
-      "sha256": "133f9a52fe43ba65a7a800b91d155f8cff587efa2b36e0cb4de99e22237052d4"
+      "bytes": 898006,
+      "sha256": "b5be79f3f8e744b213f61faf63777e7eedae2e1ebb46ca56d9aab34de160124c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10252,6 +10257,11 @@
       "path": "verification/zero_two_window_continuum_slice_test.py",
       "bytes": 5390,
       "sha256": "3add4db919f20ec4e1618a9eac4153ee664245f17f2dde845dfbbed536f73118"
+    },
+    {
+      "path": "verification/zero_two_window_full_slice_test.py",
+      "bytes": 5689,
+      "sha256": "a4a3b7c75c1d79e81e9362282a1c2c8b3099c3c3622a9faa0c324343463e4d30"
     },
     {
       "path": "workspace1-verification-update.md",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 716,
-  "bytes": 9075117,
-  "line_count": 81631,
-  "document_count_with_risk_phrases": 669,
+  "document_count": 717,
+  "bytes": 9088152,
+  "line_count": 81815,
+  "document_count_with_risk_phrases": 670,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fa445f0b07dbc801465837e9cd51e0a4a01020a0622c15c0423cf4ab3399df63",
-      "bytes": 183576,
-      "lines": 1413,
+      "sha256": "885c6c1e0c495d0d7898fbf369bdd8efe349a166225de4a59188a6b913ed9b17",
+      "bytes": 184094,
+      "lines": 1417,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6353,6 +6353,8 @@
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+        "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "brain-specificity-thesis.md",
         "constitutive-reality-thesis.md",
         "identity-and-whole-thesis.md",
@@ -7072,6 +7074,8 @@
         "verification/zero_total_relational_record_test.py",
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
+        "verification/zero_two_window_continuum_slice_test.py",
+        "verification/zero_two_window_full_slice_test.py",
         "verification/framework_inventory_manifest.json"
       ],
       "risk_phrase_lines": [
@@ -7093,11 +7097,11 @@
         626,
         630,
         632,
-        712,
-        721,
-        724,
-        727,
-        795
+        714,
+        723,
+        726,
+        729,
+        797
       ]
     },
     {
@@ -22311,9 +22315,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
-      "sha256": "5817eec76ae42ebef4990bc5e6c3d72d549b70461ba52f50355419507476b1c3",
-      "bytes": 13352,
-      "lines": 120,
+      "sha256": "2c98d002903ad5f8e47afd3399ee70d036f4ffd43c1ab15ee8a98bb911977bff",
+      "bytes": 13572,
+      "lines": 122,
       "title": "Geometry slices for two autonomous records: a multichannel continuum result",
       "headings": [
         "Geometry slices for two autonomous records: a multichannel continuum result",
@@ -22326,13 +22330,41 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_continuum_slice_test.py"
       ],
       "risk_phrase_lines": [
-        5,
-        111
+        3,
+        7,
+        113
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+      "sha256": "b397eae68e56c68046f099171006df679e1fb22bebbac028f6674a6e3951bb7c",
+      "bytes": 12297,
+      "lines": 178,
+      "title": "Full-state geometry data for two autonomous records",
+      "headings": [
+        "Full-state geometry data for two autonomous records",
+        "Main result",
+        "1. Operator and what is being reconstructed",
+        "2. At most four exterior states on each side",
+        "3. A uniform multiplicity bound inside the band",
+        "4. Why 13 generic slices see every point state",
+        "5. Full-state transport and the memory observables",
+        "6. Meaning and limitations"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+        "verification/zero_two_window_full_slice_test.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11,
+        171
       ]
     },
     {
