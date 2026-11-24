@@ -1,5 +1,7 @@
 # A normalizable quantum-cosmology packet for the sphere clock
 
+**Continuation:** [finite-resolution clock effects and physical instruments](ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md) compares two clock-readout POVMs and transports one instrument and its sequential observables across clock representations.
+
 ## What advances
 
 The [preceding integration](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) used a fixed, generalized cosmological momentum and then inserted its phase rates into a finite five-reading history. Here the geometry, scalar clock and sphere–record clock are instead placed **in one continuous constrained minisuperspace model**. We choose a normalizable wavepacket on a positive-scalar-momentum branch, specify a physical inner product and exhibit its exact relational evolution. The clock's two internal energy sectors have different relational geometry velocities; an initially unentangled geometry and logical clock become entangled, and their reduced clock visibility falls.
