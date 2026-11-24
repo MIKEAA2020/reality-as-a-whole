@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f017e8ce569c0884ace980b9144c76d6f5562bf4",
-  "file_count": 2067,
+  "base_head": "4ffd3bdd6e63c7e1c2535eab47b2a27dfc2b0398",
+  "file_count": 2069,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 186014,
-      "sha256": "4b5c222a5d6060bee35ec9cb41d6b28fb8e72b1ceffbd74c2bfa04851bd55e93"
+      "bytes": 186267,
+      "sha256": "7fe3aca73e6808ab650b9a0417d9c28ee35003837662d593a8bb039c016d164d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2945,8 +2945,8 @@
     },
     {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
-      "bytes": 15699,
-      "sha256": "2909f15977bed4c4d2f8cf9b593f10b2daddf3eb86eb36e411f9bb50b1f3ab4e"
+      "bytes": 15932,
+      "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca"
     },
     {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -3034,14 +3034,19 @@
       "sha256": "109a37386475677c415f597cda05d842adfce34ce0008b97d1633bf95865880b"
     },
     {
+      "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+      "bytes": 15013,
+      "sha256": "5d5f92fa3dfc8b9968de8b12ed3c6fd6aa818c0bd574370ae548f25f7121f352"
+    },
+    {
       "path": "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
       "bytes": 13603,
       "sha256": "3ff7a35da68f162b0eb30642165bc0fe8e67a87be615d0f5f2f609698cfdd9ab"
     },
     {
       "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
-      "bytes": 9025,
-      "sha256": "cc45cdcd1efb739fb93d1c142d98e3c05c2077e9abacc5a66dd0af245f1a52a9"
+      "bytes": 9251,
+      "sha256": "ae1e7251e428ee9787845ca31e8dd0406cea9fa94265a351868f5c1eac88cc0c"
     },
     {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -7880,8 +7885,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 906068,
-      "sha256": "33948ea4b68375d0ceade11bad7a5efee6c1f27f12fc3fd76de831b1324cc778"
+      "bytes": 907345,
+      "sha256": "e6fc9be32b4b26dcae5868984fc09de26dc31a3285256f06c889abe13d787b01"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10092,6 +10097,11 @@
       "path": "verification/zero_plenitude_necessity_test.py",
       "bytes": 3033,
       "sha256": "64897250f349861e099833ffae21574ec35a3f8e955298204c38d16b11ce3512"
+    },
+    {
+      "path": "verification/zero_plenitude_sign_pairing_test.py",
+      "bytes": 9140,
+      "sha256": "938cd2c4e5a8f17ae54ce8db28d0b7f527561b171228c411fdfb1258238db12d"
     },
     {
       "path": "verification/zero_point_blowup_test.py",

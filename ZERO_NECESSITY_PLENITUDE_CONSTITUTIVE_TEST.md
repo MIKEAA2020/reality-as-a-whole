@@ -1,5 +1,7 @@
 # One necessary whole: the constitutive test
 
+**Sign-pairing continuation:** [necessary plenitude as sign pairing](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) implements an energy-sign-reversing exchange and an identity-pair candidate in the integrated sphere/clock model.
+
 ## The direct continuation
 
 The user's proposal is that full intelligibility is **structural and experiential**, that the strongest whole is one, and that every genuine possibility is actual because nothing may be left to an unexplained selector. The task is to derive this from zero's own self-subsistent nature, including the physical organization and the character of actual experience.

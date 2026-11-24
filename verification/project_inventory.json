@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 723,
-  "bytes": 9185087,
-  "line_count": 82820,
-  "document_count_with_risk_phrases": 676,
+  "document_count": 724,
+  "bytes": 9200814,
+  "line_count": 82974,
+  "document_count_with_risk_phrases": 677,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d7f045aaab9490aed688859663d654d86b2f2857a58c7be095b784170f63437f",
-      "bytes": 185759,
-      "lines": 1429,
+      "sha256": "4b5c222a5d6060bee35ec9cb41d6b28fb8e72b1ceffbd74c2bfa04851bd55e93",
+      "bytes": 186014,
+      "lines": 1431,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6276,6 +6276,7 @@
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
+        "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
@@ -7023,6 +7024,7 @@
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
+        "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
@@ -7105,15 +7107,15 @@
         410,
         478,
         576,
-        629,
         630,
-        634,
-        636,
-        719,
-        728,
-        731,
-        734,
-        803
+        631,
+        635,
+        637,
+        720,
+        729,
+        732,
+        735,
+        804
       ]
     },
     {
@@ -19876,9 +19878,9 @@
     },
     {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
-      "sha256": "2909f15977bed4c4d2f8cf9b593f10b2daddf3eb86eb36e411f9bb50b1f3ab4e",
-      "bytes": 15699,
-      "lines": 168,
+      "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
+      "bytes": 15932,
+      "lines": 170,
       "title": "A zero-energy clock for the recollapsing sphere–memory model",
       "headings": [
         "A zero-energy clock for the recollapsing sphere–memory model",
@@ -19891,23 +19893,24 @@
         "6. The sphere–experience constraint still applies"
       ],
       "local_links": [
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "verification/zero_energy_recollapse_clock_test.py"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        11,
-        12,
-        43,
-        57,
-        83,
-        112,
-        134,
-        146,
-        150,
-        168
+        9,
+        13,
+        14,
+        45,
+        59,
+        85,
+        114,
+        136,
+        148,
+        152,
+        170
       ]
     },
     {
@@ -20452,6 +20455,39 @@
       ]
     },
     {
+      "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+      "sha256": "5d5f92fa3dfc8b9968de8b12ed3c6fd6aa818c0bd574370ae548f25f7121f352",
+      "bytes": 15013,
+      "lines": 148,
+      "title": "Necessary plenitude as sign pairing: an exact construction",
+      "headings": [
+        "Necessary plenitude as sign pairing: an exact construction",
+        "The proposal",
+        "1. A nontrivial sign-reversing exchange in the actual model",
+        "2. A stronger proposal: zero as the identity pairing of dual descriptions",
+        "3. Even full mode support and exact pairing leave a physical question",
+        "4. Energy, spatial mirrors and experiential opposites",
+        "5. The constructive research target",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        47,
+        53,
+        71,
+        83,
+        93,
+        95,
+        111,
+        139,
+        148
+      ]
+    },
+    {
       "path": "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
       "sha256": "3ff7a35da68f162b0eb30642165bc0fe8e67a87be615d0f5f2f609698cfdd9ab",
       "bytes": 13603,
@@ -20476,9 +20512,9 @@
     },
     {
       "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
-      "sha256": "cc45cdcd1efb739fb93d1c142d98e3c05c2077e9abacc5a66dd0af245f1a52a9",
-      "bytes": 9025,
-      "lines": 78,
+      "sha256": "ae1e7251e428ee9787845ca31e8dd0406cea9fa94265a351868f5c1eac88cc0c",
+      "bytes": 9251,
+      "lines": 80,
       "title": "One necessary whole: the constitutive test",
       "headings": [
         "One necessary whole: the constitutive test",
@@ -20491,13 +20527,14 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md"
       ],
       "risk_phrase_lines": [
-        9,
-        35,
-        44,
-        74
+        11,
+        37,
+        46,
+        76
       ]
     },
     {

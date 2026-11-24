@@ -1,5 +1,7 @@
 # A zero-energy clock for the recollapsing sphere–memory model
 
+**Sign-pairing continuation:** [necessary plenitude and identity pairing](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) constructs an encoded energy-sign-reversing exchange and tests a maximally symmetric dual-pair state in this model.
+
 ## Result
 
 We can combine the two preceding constructions **in one finite constrained system**: the actual five-ray sphere code, dynamical oscillator geometry, detector, two original memories, targeted memory B, and an internal clock with an explicitly matched positive/negative energy ledger. Every component of the constructed whole state has **exactly zero total energy eigenvalue** under the declared total operator.
