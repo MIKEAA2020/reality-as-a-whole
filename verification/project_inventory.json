@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 731,
-  "bytes": 9302777,
-  "line_count": 84153,
-  "document_count_with_risk_phrases": 684,
+  "document_count": 732,
+  "bytes": 9318409,
+  "line_count": 84246,
+  "document_count_with_risk_phrases": 685,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1440,6 +1440,37 @@
       ],
       "risk_phrase_lines": [
         65
+      ]
+    },
+    {
+      "path": "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md",
+      "sha256": "c7535368c6e24d310b5cb9a449f49dd50034b63e4c8e76be51027c5f69be62d2",
+      "bytes": 15632,
+      "lines": 93,
+      "title": "Carreira and Gonzalo: zero, creation, and an open universe",
+      "headings": [
+        "Carreira and Gonzalo: zero, creation, and an open universe",
+        "1. The strongest objection: a balanced whole is not an empty one",
+        "2. What the book actually argues",
+        "3. The age–curvature counterexample",
+        "4. Concrete bridge: the same zero constraint supports both examples",
+        "5. What a zero-constitution explanation must do next",
+        "Verification and related work"
+      ],
+      "local_links": [
+        "verification/carreira_gonzalo_age_curvature_constraint_test.py",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
+        "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        54,
+        75,
+        79,
+        91
       ]
     },
     {

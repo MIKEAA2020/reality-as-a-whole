@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 688 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 621 verification Python scripts.
+- 689 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 622 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -60,6 +60,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md](BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md) — Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates
 - [CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md](CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md) — Cardiac-feedback pain data: fixed exploratory comparison
 - [CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md](CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md) — Feedback direction, unpleasantness, and the mismatch proposal
+- [CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md](CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md) — Carreira and Gonzalo: zero, creation, and an open universe
 - [CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md](CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md) — From coupled dynamics to candidate subject boundaries
 - [CAUSAL_RECORD_LINEAGE.md](CAUSAL_RECORD_LINEAGE.md) — From supplied identity markers to derived causal transport
 - [CHAIN_COMPLETE.md](CHAIN_COMPLETE.md) — The Zero-Residue Account: Complete Chain (30 Steps, 80 Physics Verifiers, All PASS)
@@ -856,6 +857,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/build_framework_inventory.py](verification/build_framework_inventory.py)
 - [verification/cardiac_feedback_pain_predictions.py](verification/cardiac_feedback_pain_predictions.py)
 - [verification/cardiac_pain_xml_crosscheck.py](verification/cardiac_pain_xml_crosscheck.py)
+- [verification/carreira_gonzalo_age_curvature_constraint_test.py](verification/carreira_gonzalo_age_curvature_constraint_test.py)
 - [verification/causal_influence_subject_gate.py](verification/causal_influence_subject_gate.py)
 - [verification/causal_record_lineage.py](verification/causal_record_lineage.py)
 - [verification/causal_relaxation_zero_test.py](verification/causal_relaxation_zero_test.py)

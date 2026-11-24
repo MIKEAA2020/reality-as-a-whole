@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b9a86ffd627dedf02e4f99f38a0312decd80d2a1",
-  "file_count": 2083,
+  "base_head": "5d3181117018352c92077274776db8e6229dd3e4",
+  "file_count": 2085,
   "files": [
     {
       "path": ".gitattributes",
@@ -247,6 +247,11 @@
       "path": "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
       "bytes": 11396,
       "sha256": "fdbb64904731fa2503bf41376e10cae9d5e595c35fa06053fd8a03e7dd105735"
+    },
+    {
+      "path": "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md",
+      "bytes": 15632,
+      "sha256": "c7535368c6e24d310b5cb9a449f49dd50034b63e4c8e76be51027c5f69be62d2"
     },
     {
       "path": "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
@@ -865,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 188305,
-      "sha256": "5761bf3334b2f08e4a1f7fc7dfed30f6b982a50eabb20930459be4ba9b5b359e"
+      "bytes": 188598,
+      "sha256": "4fac72be7197a9d29306c439931e35012b8f5f8aac7322be8c8913fd2663970f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -5354,6 +5359,11 @@
       "sha256": "1df85b5690ec42ec045dd9ef9258443e3858375e5329de4529b7eb9c99449efc"
     },
     {
+      "path": "verification/carreira_gonzalo_age_curvature_constraint_test.py",
+      "bytes": 5861,
+      "sha256": "26150442ac2ba1d884edd640ce23c02315661db74bf88f867dbddaa9d407aa7c"
+    },
+    {
       "path": "verification/causal_influence_subject_gate.json",
       "bytes": 3129,
       "sha256": "f620edd0d850484e2cc0f7bd12e07d603a76d510f7adef35b760d7262dba25ad"
@@ -7925,8 +7935,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 917114,
-      "sha256": "fb5d8c58b833593125e2bab7612ad9c470106bc197613a5b53e19544b0b69c7e"
+      "bytes": 918319,
+      "sha256": "ae39ad1f2b43e41ba1611d22ebd883200d7c24bf73afa3018b7f3ece8e20818c"
     },
     {
       "path": "verification/project_inventory.py",
