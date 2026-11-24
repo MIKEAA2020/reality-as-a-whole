@@ -1,5 +1,7 @@
 # Geometry-clock spectrum: no singular-continuous sector and one exterior bound state
 
+**Continuation:** [the full continuum slice construction](ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md) proves that this specific model also has no embedded eigenvalues and obtains a full-state slice map for almost every geometry value.
+
 ## Result
 
 The last open question was whether the interacting geometry-slice model might hide a singular-continuous sector or additional exterior bound states. For the **specific band, window and coupling used in our model**, the following continuum results can be derived:

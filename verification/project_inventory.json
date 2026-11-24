@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 711,
-  "bytes": 9018375,
-  "line_count": 81020,
-  "document_count_with_risk_phrases": 664,
+  "document_count": 712,
+  "bytes": 9027969,
+  "line_count": 81160,
+  "document_count_with_risk_phrases": 665,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -19825,10 +19825,43 @@
       ]
     },
     {
+      "path": "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
+      "sha256": "dce8d884e5ed2c2e521074aae15e73a213ec9ed64e98aa709a1d15d2acfe1f4e",
+      "bytes": 9357,
+      "lines": 138,
+      "title": "Full continuum geometry-slice map for the interacting model",
+      "headings": [
+        "Full continuum geometry-slice map for the interacting model",
+        "Result",
+        "1. Model and a derivative bound",
+        "2. No embedded or endpoint eigenvalues",
+        "3. Exact continuum spectrum and the slice consequence",
+        "4. The continuum change of slice",
+        "5. What this does and does not resolve",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
+        "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
+        "verification/zero_geometry_clock_no_embedded_eigen_test.py"
+      ],
+      "risk_phrase_lines": [
+        8,
+        10,
+        51,
+        72,
+        74,
+        76,
+        82,
+        105,
+        130
+      ]
+    },
+    {
       "path": "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
-      "sha256": "10449a3419301e38864fb9a9a2f1a4e8e682697d6893ff74f712d4c4b7859861",
-      "bytes": 10322,
-      "lines": 130,
+      "sha256": "b110e11c87877d2434ed678fe73e5d2da3cbf5af60ecb0caf1378886eb106161",
+      "bytes": 10559,
+      "lines": 132,
       "title": "Geometry-clock spectrum: no singular-continuous sector and one exterior bound state",
       "headings": [
         "Geometry-clock spectrum: no singular-continuous sector and one exterior bound state",
@@ -19841,16 +19874,18 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "verification/zero_interacting_clock_mourre_spectrum_test.py"
       ],
       "risk_phrase_lines": [
-        8,
-        11,
-        34,
-        63,
+        3,
+        10,
+        13,
+        36,
         65,
-        112
+        67,
+        114
       ]
     },
     {
