@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 707,
-  "bytes": 8968906,
-  "line_count": 80509,
-  "document_count_with_risk_phrases": 660,
+  "document_count": 708,
+  "bytes": 8980977,
+  "line_count": 80622,
+  "document_count_with_risk_phrases": 661,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8041af0d96d22687860cfe4614978557b903ba25b314ee4566437178be0b306b",
-      "bytes": 180876,
-      "lines": 1395,
+      "sha256": "6779a3e41e4cccee098ceff67090ceab65ee7524811be660632a62ad7bbb3b02",
+      "bytes": 181192,
+      "lines": 1397,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6244,6 +6244,7 @@
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
@@ -6975,6 +6976,7 @@
         "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
+        "verification/zero_interacting_clock_bound_transition_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
         "verification/zero_local_incidence_current_test.py",
@@ -7040,15 +7042,15 @@
         407,
         475,
         573,
-        616,
         617,
-        621,
-        623,
-        703,
-        712,
-        715,
-        718,
-        786
+        618,
+        622,
+        624,
+        704,
+        713,
+        716,
+        719,
+        787
       ]
     },
     {
@@ -19833,6 +19835,37 @@
         47,
         49,
         88
+      ]
+    },
+    {
+      "path": "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
+      "sha256": "d270270572c585ab56abd467946197262f5cb4a0226ba740a7802cc634360826",
+      "bytes": 11755,
+      "lines": 111,
+      "title": "Interacting geometry clock: first reading, records and no reading",
+      "headings": [
+        "Interacting geometry clock: first reading, records and no reading",
+        "What is new here",
+        "1. One interacting constrained system and a defined protocol",
+        "2. A concrete comparison with the prior packet and detector",
+        "3. Bound-sector coherence is retained",
+        "4. Two representations, and what has *not* been switched",
+        "5. Consequence and next test",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_interacting_relational_first_reading_test.py",
+        "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
+        "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        29,
+        45,
+        61,
+        82,
+        93,
+        101
       ]
     },
     {

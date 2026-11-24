@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8a9f430b35ee3b79be1e954ebd5e2a608f69b272",
-  "file_count": 2033,
+  "base_head": "275f24bfd37a5b6664d09bf21f6f27d2ba8857c0",
+  "file_count": 2035,
   "files": [
     {
       "path": ".gitattributes",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 181192,
-      "sha256": "6779a3e41e4cccee098ceff67090ceab65ee7524811be660632a62ad7bbb3b02"
+      "bytes": 181496,
+      "sha256": "e9a0f2791860a879555919de1134bea96eedbb60fa562ddad7be6125640d3bb1"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2942,6 +2942,11 @@
       "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
       "bytes": 10241,
       "sha256": "764efc18ac9ebea1068fbba09b746e5fc52f0f85c896dd47d7b4b268dddff4b5"
+    },
+    {
+      "path": "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
+      "bytes": 11755,
+      "sha256": "d270270572c585ab56abd467946197262f5cb4a0226ba740a7802cc634360826"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -7780,8 +7785,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 885777,
-      "sha256": "06fde1c628f6c4e6b6fdb256ae62faff342d410d3579ef6be9690e4488162e30"
+      "bytes": 887024,
+      "sha256": "eb64a392b26ba5a9e76792d6c372c0663047b6f10a294e0f2b2184fba4539107"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9902,6 +9907,11 @@
       "path": "verification/zero_interacting_clock_bound_transition_test.py",
       "bytes": 5350,
       "sha256": "6f0cc48aa091ac2911484c9151812da61ecdb7499c82482bd18117bd5ab2430e"
+    },
+    {
+      "path": "verification/zero_interacting_relational_first_reading_test.py",
+      "bytes": 9900,
+      "sha256": "459d0e58d761414f67b11bb2defe0504f9c56c306230db703992cc1584598721"
     },
     {
       "path": "verification/zero_invariant_sphere_instrument_test.py",
