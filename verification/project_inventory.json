@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 730,
-  "bytes": 9288625,
-  "line_count": 84034,
-  "document_count_with_risk_phrases": 683,
+  "document_count": 731,
+  "bytes": 9302777,
+  "line_count": 84153,
+  "document_count_with_risk_phrases": 684,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1360,9 +1360,9 @@
     },
     {
       "path": "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
-      "sha256": "4aad2307c40651bcc95644aab786cd8fef53078fbb116f2cb4c9c29275e2d60f",
-      "bytes": 13426,
-      "lines": 103,
+      "sha256": "dc1c764a2f3161560f0eb0f8151f32fab0832ba7a4173ade8dddbdacd406f4be",
+      "bytes": 13685,
+      "lines": 105,
       "title": "Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates",
       "headings": [
         "Ciupa's brain-centric many-blockworlds proposal: quantum and subject gates",
@@ -1375,6 +1375,7 @@
         "5. A disciplined synthesis for our project"
       ],
       "local_links": [
+        "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "TEMPORARY_SUBJECT_RECORD_HISTORY_GATE.md",
@@ -1384,13 +1385,13 @@
         "TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md"
       ],
       "risk_phrase_lines": [
-        35,
         37,
-        46,
-        67,
+        39,
+        48,
         69,
-        85,
-        103
+        71,
+        87,
+        105
       ]
     },
     {
@@ -1654,6 +1655,34 @@
         62,
         71,
         103
+      ]
+    },
+    {
+      "path": "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
+      "sha256": "aba33ff7c67ac73b9d2afca9ed8901b5440c7f178d29a5196652671769204d3e",
+      "bytes": 13341,
+      "lines": 113,
+      "title": "Ciupa on zero, potential and observation: the paired whole",
+      "headings": [
+        "Ciupa on zero, potential and observation: the paired whole",
+        "The article and its central proposal",
+        "1. Law-bearing zero versus an external watcher",
+        "2. The specified whole and two versions of a record",
+        "3. A globally balanced interference test",
+        "4. What the article's other analogies do and do not establish",
+        "5. Implication for the zero-whole investigation",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        63,
+        81
       ]
     },
     {
@@ -5675,9 +5704,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ea52adc05ff875ff3315e5ad393f3d97c24f17d77e85a23d16aa35927b1fc5d5",
-      "bytes": 188016,
-      "lines": 1445,
+      "sha256": "5761bf3334b2f08e4a1f7fc7dfed30f6b982a50eabb20930459be4ba9b5b359e",
+      "bytes": 188305,
+      "lines": 1447,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5746,6 +5775,7 @@
         "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
         "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
+        "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
@@ -6528,6 +6558,7 @@
         "verification/chemotaxis_integral_feedback_example.py",
         "verification/chemotaxis_integral_feedback_example_test.py",
         "verification/cie_metamer_experiential_gate.py",
+        "verification/ciupa_zero_observer_paired_coherence_test.py",
         "verification/clock_choice.py",
         "verification/clock_smearing_modular_comparison.py",
         "verification/clock_smearing_modular_comparison_test.py",
@@ -7111,27 +7142,27 @@
         20,
         43,
         65,
-        73,
-        83,
-        165,
-        227,
-        303,
-        332,
-        380,
-        411,
-        479,
-        577,
-        623,
-        636,
+        74,
+        84,
+        166,
+        228,
+        304,
+        333,
+        381,
+        412,
+        480,
+        578,
+        624,
         637,
-        641,
-        643,
-        657,
-        727,
-        736,
-        739,
-        742,
-        811
+        638,
+        642,
+        644,
+        658,
+        728,
+        737,
+        740,
+        743,
+        812
       ]
     },
     {
@@ -19644,9 +19675,9 @@
     },
     {
       "path": "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
-      "sha256": "2b5cfde5c0697cd917459e1dd682cf6a14fa113698993f034bd487fd20af2dfd",
-      "bytes": 13036,
-      "lines": 168,
+      "sha256": "66dd3db076bfaccd63ea0521c3a69d9877ffb2a8bf0993175aec27d8dbd8a69a",
+      "bytes": 13299,
+      "lines": 170,
       "title": "The full paired state: clock and work records without discarding a sector",
       "headings": [
         "The full paired state: clock and work records without discarding a sector",
@@ -19659,15 +19690,16 @@
         "6. Consequence for the larger proposal"
       ],
       "local_links": [
+        "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "verification/zero_all_sector_sphere_clock_work_test.py"
       ],
       "risk_phrase_lines": [
-        57,
-        63,
-        87,
-        117,
-        145
+        59,
+        65,
+        89,
+        119,
+        147
       ]
     },
     {

@@ -2,6 +2,8 @@
 
 ## Source and scope
 
+**Related zero article:** [Ciupa on zero, potential and observation](CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md) addresses a different article and tests the distinction between local records and global coherence in the paired clock/work construction.
+
 Martin Ciupa, *Many Worlds, Many Minds: A Brain-Centric Interpretation of Quantum Mechanics/Relativity*, supplied in full by the user in this conversation. This corrects the limitation in our [previous Cicurel book audit](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md): I have now read Ciupa's actual text. I also inspected its linked historical review [arXiv:2405.06924](https://arxiv.org/html/2405.06924v1) and the [MIT Press overview](https://thereader.mitpress.mit.edu/the-many-worlds-theory/). The linked separate experimental-proposal page returned an HTTP error; **the specific experiments on that page were not read**. The article reproduced in chat is not itself copied here.
 
 ## What the article proposes
