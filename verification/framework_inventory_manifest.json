@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "992f31b2858c5dba0aeed0e25cb1a49315ce85cf",
-  "file_count": 2077,
+  "base_head": "1f28f7c78be91d57f6263a82c6022c815400b0cf",
+  "file_count": 2079,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 187420,
-      "sha256": "cf0544fa0dd0f0b5e69c3a8860590bc0cfbfff9f2774ea0a5b2587e6df6fd846"
+      "bytes": 187730,
+      "sha256": "5863efb5ff79d71e16d1a71a9bc3e2be6fc3ef67fbd5a7663a6f95c1b15e7234"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2954,14 +2954,19 @@
       "sha256": "c1373191089433cb6aa586bb691942272f944aacc43d5feae2bb8d6ce625f445"
     },
     {
+      "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
+      "bytes": 16384,
+      "sha256": "2e98ce88a5ae8ed8dcec7f80fc0d909a0df9501a3a39e5af2fbfd9d7d29a9291"
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "bytes": 15932,
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca"
     },
     {
       "path": "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
-      "bytes": 15632,
-      "sha256": "1022f65acf81f6ec37e790075b3a5957d3690d68d73d6de56c7c9228e6152670"
+      "bytes": 15959,
+      "sha256": "2c9902fb64e1b2cfb28b02e39ca8ac3578d855b9d61e685cd62f1d894a403b71"
     },
     {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -3220,8 +3225,8 @@
     },
     {
       "path": "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
-      "bytes": 9818,
-      "sha256": "3caf918a1aa0fe374f55eff32a569cee852328ce90790fde853053100a1e3548"
+      "bytes": 10096,
+      "sha256": "7cac7b7234e871b77c1e6f1f744c4a65f2ae3e492f3597620cac15c4d0b5f4df"
     },
     {
       "path": "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -7905,8 +7910,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 913095,
-      "sha256": "ede75c326892c1124c39782f535a482bbf998947005b7fda27a71737de4b1fe0"
+      "bytes": 914542,
+      "sha256": "3d788e27e0d61a78ae275e3ccfd0c55ad863caf82bd8149f2ad0f2e5b9c91ed0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10017,6 +10022,11 @@
       "path": "verification/zero_dual_pair_sphere_energy_instrument_test.py",
       "bytes": 19610,
       "sha256": "54f95d84eedd2806bf2b4b44a9147c6bdc3bc32cc9da63563b596e4d4b6b5d00"
+    },
+    {
+      "path": "verification/zero_encoded_sphere_clock_work_bridge_test.py",
+      "bytes": 14159,
+      "sha256": "d667a55c7614d016e1178a465a01a909415ecddee9b8ad1b9e84f007deaed29f"
     },
     {
       "path": "verification/zero_energy_recollapse_clock_test.py",

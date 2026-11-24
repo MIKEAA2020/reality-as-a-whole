@@ -2,6 +2,8 @@
 
 ## Result
 
+**Directional-balance continuation:** [the encoded sphere–clock–work bridge](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) transports this circuit into local three-generator zero sectors and provides an explicitly resourced conditional preparation, without identifying its declared Q with objective cosmic energy.
+
 The requested integration can be made explicit in one finite quantum circuit. It joins the [energy-conserving sphere and relative-clock interface](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) to the earlier **actual record–work operator** `K=Z_R₁J₁` and a targeted memory M. The four work qubits have nondegenerate local occupation energies; they are not made individually energy-degenerate to obtain the result.
 
 On the specified finite relative-clock window:

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 685 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 618 verification Python scripts.
+- 686 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 619 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -599,6 +599,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
+- [ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) — Encoded directional balance joined to the finite sphere, clock and work
 - [ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) — A zero-energy clock for the recollapsing sphere–memory model
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
@@ -1366,6 +1367,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
 - [verification/zero_dual_pair_sphere_energy_instrument_test.py](verification/zero_dual_pair_sphere_energy_instrument_test.py)
+- [verification/zero_encoded_sphere_clock_work_bridge_test.py](verification/zero_encoded_sphere_clock_work_bridge_test.py)
 - [verification/zero_energy_recollapse_clock_test.py](verification/zero_energy_recollapse_clock_test.py)
 - [verification/zero_energy_research_test.py](verification/zero_energy_research_test.py)
 - [verification/zero_energy_sphere_work_incidence_test.py](verification/zero_energy_sphere_work_incidence_test.py)

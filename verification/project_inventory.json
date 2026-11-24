@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 728,
-  "bytes": 9257563,
-  "line_count": 83664,
-  "document_count_with_risk_phrases": 681,
+  "document_count": 729,
+  "bytes": 9274862,
+  "line_count": 83862,
+  "document_count_with_risk_phrases": 682,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "cf0544fa0dd0f0b5e69c3a8860590bc0cfbfff9f2774ea0a5b2587e6df6fd846",
-      "bytes": 187420,
-      "lines": 1441,
+      "sha256": "5863efb5ff79d71e16d1a71a9bc3e2be6fc3ef67fbd5a7663a6f95c1b15e7234",
+      "bytes": 187730,
+      "lines": 1443,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6278,6 +6278,7 @@
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+        "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -7031,6 +7032,7 @@
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
+        "verification/zero_encoded_sphere_clock_work_bridge_test.py",
         "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_energy_sphere_work_incidence_test.py",
@@ -7117,17 +7119,17 @@
         411,
         479,
         577,
-        621,
-        634,
+        622,
         635,
-        639,
-        641,
-        655,
-        725,
-        734,
-        737,
-        740,
-        809
+        636,
+        640,
+        642,
+        656,
+        726,
+        735,
+        738,
+        741,
+        810
       ]
     },
     {
@@ -19966,6 +19968,43 @@
       ]
     },
     {
+      "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
+      "sha256": "2e98ce88a5ae8ed8dcec7f80fc0d909a0df9501a3a39e5af2fbfd9d7d29a9291",
+      "bytes": 16384,
+      "lines": 192,
+      "title": "Encoded directional balance joined to the finite sphere, clock and work",
+      "headings": [
+        "Encoded directional balance joined to the finite sphere, clock and work",
+        "Result",
+        "1. The local isometry and the actual instruments",
+        "2. Two kinds of zero, simultaneously",
+        "3. The same clock/work event retains internal cancellation",
+        "4. The energy cost has real internal structure",
+        "5. Preparation is not free",
+        "6. Explicit globally balanced preparation, with failure retained"
+      ],
+      "local_links": [
+        "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
+        "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
+        "verification/zero_encoded_sphere_clock_work_bridge_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        8,
+        10,
+        14,
+        35,
+        45,
+        97,
+        99,
+        111,
+        169,
+        181,
+        192
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
       "bytes": 15932,
@@ -20004,9 +20043,9 @@
     },
     {
       "path": "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
-      "sha256": "1022f65acf81f6ec37e790075b3a5957d3690d68d73d6de56c7c9228e6152670",
-      "bytes": 15632,
-      "lines": 182,
+      "sha256": "2c9902fb64e1b2cfb28b02e39ca8ac3578d855b9d61e685cd62f1d894a403b71",
+      "bytes": 15959,
+      "lines": 184,
       "title": "Energy-balanced sphere, work relation and candidate incidence",
       "headings": [
         "Energy-balanced sphere, work relation and candidate incidence",
@@ -20019,18 +20058,19 @@
         "6. No-signalling and conservation scope"
       ],
       "local_links": [
+        "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "verification/zero_energy_sphere_work_incidence_test.py",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
       "risk_phrase_lines": [
-        12,
         14,
-        39,
-        94,
-        123,
-        171,
-        182
+        16,
+        41,
+        96,
+        125,
+        173,
+        184
       ]
     },
     {
@@ -21658,9 +21698,9 @@
     },
     {
       "path": "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
-      "sha256": "3caf918a1aa0fe374f55eff32a569cee852328ce90790fde853053100a1e3548",
-      "bytes": 9818,
-      "lines": 137,
+      "sha256": "7cac7b7234e871b77c1e6f1f744c4a65f2ae3e492f3597620cac15c4d0b5f4df",
+      "bytes": 10096,
+      "lines": 139,
       "title": "Exact three-balance sphere record in an encoded system",
       "headings": [
         "Exact three-balance sphere record in an encoded system",
@@ -21673,20 +21713,21 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md"
       ],
       "risk_phrase_lines": [
         1,
-        5,
-        9,
-        55,
-        71,
-        90,
-        108,
-        119,
-        123,
-        125
+        7,
+        11,
+        57,
+        73,
+        92,
+        110,
+        121,
+        125,
+        127
       ]
     },
     {

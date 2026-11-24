@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Clock/work continuation:** [the encoded sphere–clock–work bridge](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) transports the actual finite instruments into the code, and gives a conditional charge-preserving preparation from an explicit global paired resource.
+
 The [zero-origin audit](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) found that a straightforward five-ray readout disturbs three directional zero constraints. There is an exact constructive alternative: **encode each two-level lab in a multiplicity of a local three-constraint zero sector**. A three-outcome local pointer can then record the same five-ray Born table while every pointer branch remains in the kernel of all three constraints, on each lab separately.
 
 This is not a dilation of the earlier measurement on its original bare two-factor state. It is a **new, larger encoded realization of the same probability table**. The original question—whether that particular bare identity pair, with its finite directional references and clocks, can be measured while preserving an appropriate three-charge extension—remains distinct. The logical Bloch sphere here is the sphere of the encoded qubit, not automatically the original physical `X_n` sphere or a spatial sphere.
