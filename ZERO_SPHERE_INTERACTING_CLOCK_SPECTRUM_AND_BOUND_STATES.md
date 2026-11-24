@@ -1,5 +1,7 @@
 # The interacting clock switch: scattering, bound states and a clock obstruction
 
+**Continuation:** [domains, sectors and clock recoverability](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) distinguishes spectral sectors from observable restrictions and constructs an explicit quantum recovery map for the existing sphere–record state.
+
 ## Result
 
 The [autonomous detector model](ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md) changed the geometry dynamics, so its free scalar-to-geometry Jacobian could not simply be reused. This continuation derives an interacting spectral description and finds an important obstruction that the free model did not expose:

@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3c547f1796232b3c29ba6033c84e3e46f273975a",
-  "file_count": 2027,
+  "base_head": "215e07d414c3913853be011ae29fffc1c13dd288",
+  "file_count": 2029,
   "files": [
     {
       "path": ".gitattributes",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 180277,
-      "sha256": "ea899626a4d4d6f63526a5a07d204f41b943118475b990034f96fe70fcc95a9f"
+      "bytes": 180572,
+      "sha256": "d17bf18cd99cde20449cc28ea6b50f545dfff5e838d6a807c63a0358ba44b1c4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2914,6 +2914,11 @@
       "sha256": "660d9762797bb26c2648a49a360ca1a5fc929ec0b00b3c1e5a0231dcf61ec557"
     },
     {
+      "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
+      "bytes": 15430,
+      "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e"
+    },
+    {
       "path": "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
       "bytes": 23603,
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0"
@@ -3065,8 +3070,8 @@
     },
     {
       "path": "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
-      "bytes": 15553,
-      "sha256": "b1f460c3c0acc9a73e013a3c6792958d028a7936834fbd93de8f7060b13b29d6"
+      "bytes": 15808,
+      "sha256": "f4e243a6155bc0b8274604c640ae817efcd096831154f02c055aad21ff051ce6"
     },
     {
       "path": "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
@@ -7765,8 +7770,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 882343,
-      "sha256": "322769b4bc24ad3beecdd436eacf49e5feb5eadc11a6fcf2da3607436205d686"
+      "bytes": 883751,
+      "sha256": "4c906f36e780a527fd856235f3d0253b9935f1f46064c6f58e4133e6034cb09b"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9852,6 +9857,11 @@
       "path": "verification/zero_confinement_coherence_experience_test.py",
       "bytes": 6829,
       "sha256": "dac0685fb510fdc94ba66ec0f488c0997d0afb175961eac6d195df26c6e902e7"
+    },
+    {
+      "path": "verification/zero_domain_restriction_sector_clock_code_test.py",
+      "bytes": 12104,
+      "sha256": "54276c288aa7d1ae76ac89cd30a9201be90596168c817811d5df7e731ab13369"
     },
     {
       "path": "verification/zero_energy_research_test.py",

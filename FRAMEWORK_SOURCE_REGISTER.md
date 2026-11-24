@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 661 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 593 verification Python scripts.
+- 662 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 594 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -591,6 +591,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
+- [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
@@ -1333,6 +1334,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_confined_realms_interface_test.py](verification/zero_confined_realms_interface_test.py)
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
+- [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
 - [verification/zero_energy_research_test.py](verification/zero_energy_research_test.py)
 - [verification/zero_experience_steering_no_signalling_test.py](verification/zero_experience_steering_no_signalling_test.py)
 - [verification/zero_five_ray_record_current_unification_test.py](verification/zero_five_ray_record_current_unification_test.py)
