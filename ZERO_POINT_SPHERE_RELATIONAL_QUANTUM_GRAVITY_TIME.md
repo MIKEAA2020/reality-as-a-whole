@@ -1,5 +1,7 @@
 # Time from a zero whole: a sphere–record relational clock and a cosmological constraint
 
+**Continuation:** [a normalizable quantum-cosmology sphere clock](ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md) constructs a continuous positive-frequency packet, exhibits clock–geometry entanglement, and compares scalar- and geometry-clock representations.
+
 ## The proposal and the result
 
 The most promising way to reconcile quantum and relativistic time in this programme is **not to make a single cosmic clock fundamental**. Treat the whole as externally timeless, while its internally differentiated structures contain clocks, records and relational changes. A clock's reading is a physical correlation within the whole; proper time is a particular relational quantity recovered when an appropriate spacetime and clock limit exists. Quantum theory supplies amplitudes and conditional probabilities for such correlations; relativity constrains how different physical clocks compare.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 657 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 589 verification Python scripts.
+- 658 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 590 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -621,6 +621,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) — From intrinsic conservation to quantum weights and signed zero
 - [ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) — One system linking sphere conservation, quantum records and opposite currents
 - [ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) — An intrinsic 2+3 grouping from the sphere and physical conservation
+- [ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md](ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md) — A normalizable quantum-cosmology packet for the sphere clock
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
 - [ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) — Conserved sphere, quantum steering and definite Bell records
@@ -1357,6 +1358,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_conservation_born_bridge_test.py](verification/zero_sphere_conservation_born_bridge_test.py)
 - [verification/zero_sphere_five_ray_conservation.py](verification/zero_sphere_five_ray_conservation.py)
 - [verification/zero_sphere_five_ray_conservation_test.py](verification/zero_sphere_five_ray_conservation_test.py)
+- [verification/zero_sphere_flrw_normalizable_clock_test.py](verification/zero_sphere_flrw_normalizable_clock_test.py)
 - [verification/zero_sphere_intrinsic_orientation_test.py](verification/zero_sphere_intrinsic_orientation_test.py)
 - [verification/zero_sphere_mismatch_experience_comparison_test.py](verification/zero_sphere_mismatch_experience_comparison_test.py)
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)

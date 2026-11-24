@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 700,
-  "bytes": 8865473,
-  "line_count": 79499,
-  "document_count_with_risk_phrases": 653,
+  "document_count": 701,
+  "bytes": 8886381,
+  "line_count": 79711,
+  "document_count_with_risk_phrases": 654,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7cdf099aaa1f12174bf5ff43b2b0e4cefdcb8cfdda99a53ba25b90ef70c627f2",
-      "bytes": 179021,
-      "lines": 1383,
+      "sha256": "6c48eeb6abf869c6d1b69141700409d531f1ac096949b8ac126318d378ee117c",
+      "bytes": 179314,
+      "lines": 1385,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6269,6 +6269,7 @@
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
+        "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
@@ -6991,6 +6992,7 @@
         "verification/zero_sphere_conservation_born_bridge_test.py",
         "verification/zero_sphere_five_ray_conservation.py",
         "verification/zero_sphere_five_ray_conservation_test.py",
+        "verification/zero_sphere_flrw_normalizable_clock_test.py",
         "verification/zero_sphere_intrinsic_orientation_test.py",
         "verification/zero_sphere_mismatch_experience_comparison_test.py",
         "verification/zero_sphere_relative_orientation.py",
@@ -7032,11 +7034,11 @@
         615,
         619,
         620,
-        697,
-        706,
-        709,
-        712,
-        780
+        698,
+        707,
+        710,
+        713,
+        781
       ]
     },
     {
@@ -20115,9 +20117,9 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
-      "sha256": "eb6c7a079f94436e9c7c860d055e9dd45cfcf852509756eac276acbff15423d5",
-      "bytes": 21604,
-      "lines": 138,
+      "sha256": "23dc9f63436e1b8ef8fea761aa5fa8fa6373e833159d8b61a0df0fc36090f9f5",
+      "bytes": 21872,
+      "lines": 140,
       "title": "Time from a zero whole: a sphere–record relational clock and a cosmological constraint",
       "headings": [
         "Time from a zero whole: a sphere–record relational clock and a cosmological constraint",
@@ -20130,6 +20132,7 @@
         "6. Clock choice, foliation and experience"
       ],
       "local_links": [
+        "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "verification/zero_sphere_relativistic_relational_time_test.py",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
@@ -20143,13 +20146,13 @@
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        29,
-        80,
-        96,
-        102,
-        114,
-        128
+        11,
+        31,
+        82,
+        98,
+        104,
+        116,
+        130
       ]
     },
     {
@@ -20582,6 +20585,36 @@
         105,
         111,
         123
+      ]
+    },
+    {
+      "path": "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
+      "sha256": "76ea7a954380c5858094d6518558b650cd47f82c9062b529047dc1b700b4f567",
+      "bytes": 20347,
+      "lines": 208,
+      "title": "A normalizable quantum-cosmology packet for the sphere clock",
+      "headings": [
+        "A normalizable quantum-cosmology packet for the sphere clock",
+        "What advances",
+        "1. One action and the clock coupling",
+        "2. Physical branch, packet and constraint",
+        "3. Zero with nonzero terms, now in a normalizable state",
+        "4. Clock phase, entanglement and geometry backreaction",
+        "5. Confined domain and the clock-neutral lesson",
+        "6. Changing from the scalar clock to an expanding-geometry clock"
+      ],
+      "local_links": [
+        "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
+        "verification/zero_sphere_flrw_normalizable_clock_test.py",
+        "FRW_MODULAR_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        33,
+        88,
+        99,
+        185,
+        208
       ]
     },
     {
