@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d2ddc3c0285bd3f67e7037f15e7e190b6927f9c1",
-  "file_count": 2023,
+  "base_head": "384d1f0ed47dbfaa286e1a0aecd916862d767f45",
+  "file_count": 2025,
   "files": [
     {
       "path": ".gitattributes",
@@ -855,8 +855,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 179646,
-      "sha256": "0f1a1942b6d26e3130d74d1220e8b81fe72dd063c452b5b34106a60e0ed7c647"
+      "bytes": 179946,
+      "sha256": "2ac52c007eb7cff31a1e34eab02e02c120acec66295fe47c4b880b5d5d4ff6a4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3044,6 +3044,11 @@
       "sha256": "235c7a894daa4c13556212bc9a7da3fc2af8c44fc7eac40c1069ae3cd814a359"
     },
     {
+      "path": "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+      "bytes": 14621,
+      "sha256": "5e7f1d59242eb99604c17052e28fdb5d71a8adc23bf32b5eeb4fdb3a0a1693f5"
+    },
+    {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
       "bytes": 12818,
       "sha256": "355d75c9ec047d233ecaaabf1da16840b58be495189d80fa3d75f3f753f38049"
@@ -3070,8 +3075,8 @@
     },
     {
       "path": "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
-      "bytes": 16121,
-      "sha256": "3d3babc6bf042c402aedb7dd2d449b3b52aac4cb690b71b2a471694aece9a165"
+      "bytes": 16386,
+      "sha256": "9780bf3f13ad8700a17d4bb5c446cf1e1bdf186003f00d0f48b5eb265abe4f99"
     },
     {
       "path": "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
@@ -7755,8 +7760,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 879786,
-      "sha256": "bd01db31e622afab82111fdf0d74847bee415041871a33fb34972dcfba86c7f8"
+      "bytes": 881082,
+      "sha256": "533469d098b68befe35f6c5d279fcb2fb1534390d07f32fb8198c5ea79dbb7d9"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9967,6 +9972,11 @@
       "path": "verification/zero_sphere_asymmetric_closed_exchange_test.py",
       "bytes": 2637,
       "sha256": "3583b8ac8f207a4332a83a52560c354298ebf12e79a53e63e0c462a1bdf379ca"
+    },
+    {
+      "path": "verification/zero_sphere_autonomous_detector_constraint_test.py",
+      "bytes": 11310,
+      "sha256": "f2bb1899c95ac438c6072009d3beca571c7cb75cf79d3b6b04ec8c64f77899b1"
     },
     {
       "path": "verification/zero_sphere_conservation_born_bridge_test.py",

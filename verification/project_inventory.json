@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 702,
-  "bytes": 8903095,
-  "line_count": 79884,
-  "document_count_with_risk_phrases": 655,
+  "document_count": 703,
+  "bytes": 8918281,
+  "line_count": 80025,
+  "document_count_with_risk_phrases": 656,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0f1a1942b6d26e3130d74d1220e8b81fe72dd063c452b5b34106a60e0ed7c647",
-      "bytes": 179646,
-      "lines": 1387,
+      "sha256": "2ac52c007eb7cff31a1e34eab02e02c120acec66295fe47c4b880b5d5d4ff6a4",
+      "bytes": 179946,
+      "lines": 1389,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6265,6 +6265,7 @@
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
@@ -6990,6 +6991,7 @@
         "verification/zero_sharp_opposition_and_experiential_response_test.py",
         "verification/zero_sphere_asymmetric_closed_exchange.py",
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
+        "verification/zero_sphere_autonomous_detector_constraint_test.py",
         "verification/zero_sphere_conservation_born_bridge_test.py",
         "verification/zero_sphere_finite_resolution_clock_instrument_test.py",
         "verification/zero_sphere_five_ray_conservation.py",
@@ -7035,12 +7037,12 @@
         614,
         615,
         619,
-        620,
-        699,
-        708,
-        711,
-        714,
-        782
+        621,
+        700,
+        709,
+        712,
+        715,
+        783
       ]
     },
     {
@@ -20450,6 +20452,33 @@
       ]
     },
     {
+      "path": "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+      "sha256": "5e7f1d59242eb99604c17052e28fdb5d71a8adc23bf32b5eeb4fdb3a0a1693f5",
+      "bytes": 14621,
+      "lines": 137,
+      "title": "An autonomous detector inside the sphere–cosmology constraint",
+      "headings": [
+        "An autonomous detector inside the sphere–cosmology constraint",
+        "The new construction",
+        "1. A single constraint with the pointer included",
+        "2. The detector's Kraus operators emerge from its unitary dynamics",
+        "3. Finite detection and a control",
+        "4. Backaction and zero balance with the detector present",
+        "5. A consequential clock-switch obstruction",
+        "6. What this does and does not contribute to the whole"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
+        "verification/zero_sphere_autonomous_detector_constraint_test.py",
+        "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        111,
+        115,
+        127
+      ]
+    },
+    {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
       "sha256": "355d75c9ec047d233ecaaabf1da16840b58be495189d80fa3d75f3f753f38049",
       "bytes": 12818,
@@ -20622,9 +20651,9 @@
     },
     {
       "path": "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
-      "sha256": "3d3babc6bf042c402aedb7dd2d449b3b52aac4cb690b71b2a471694aece9a165",
-      "bytes": 16121,
-      "lines": 169,
+      "sha256": "9780bf3f13ad8700a17d4bb5c446cf1e1bdf186003f00d0f48b5eb265abe4f99",
+      "bytes": 16386,
+      "lines": 171,
       "title": "Finite clock readings, physical instruments and a change of clock",
       "headings": [
         "Finite clock readings, physical instruments and a change of clock",
@@ -20637,16 +20666,17 @@
         "6. Relevance to the problem of time and to the whole"
       ],
       "local_links": [
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "verification/zero_sphere_finite_resolution_clock_instrument_test.py"
       ],
       "risk_phrase_lines": [
-        16,
-        20,
-        63,
-        92,
-        119,
-        125
+        18,
+        22,
+        65,
+        94,
+        121,
+        127
       ]
     },
     {

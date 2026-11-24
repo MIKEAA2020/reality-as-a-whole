@@ -1,5 +1,7 @@
 # Finite clock readings, physical instruments and a change of clock
 
+**Continuation:** [an autonomous detector inside the sphere–cosmology constraint](ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md) adds an explicit interacting pointer and tests finite record persistence, while identifying a new interacting clock-switch problem.
+
 ## Result
 
 The preceding [normalizable sphere–cosmology construction](ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md) compared two idealized clock descriptions of the same constrained quantum state. Here we replace the ideal clock coordinate by a **finite-resolution POVM**, and give an explicit two-outcome quantum instrument whose outputs remain in that same physical Hilbert space. We then transport both the instrument and the subsequent sphere-clock observable through the previously constructed change of clock.
