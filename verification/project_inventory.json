@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 714,
-  "bytes": 9052244,
-  "line_count": 81411,
-  "document_count_with_risk_phrases": 667,
+  "document_count": 715,
+  "bytes": 9061252,
+  "line_count": 81507,
+  "document_count_with_risk_phrases": 668,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -46,9 +46,9 @@
     },
     {
       "path": "ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md",
-      "sha256": "41f89988988433d57c82660f2f86f70d320daec01aa0855b2f961f26e821b9de",
-      "bytes": 12700,
-      "lines": 110,
+      "sha256": "a7baf66939f960ceb29a0c47ce6219d48f24155773ef35bb523d8d2c59ab9cad",
+      "bytes": 12932,
+      "lines": 112,
       "title": "Abaee's process-currying preprint and the internal sphere",
       "headings": [
         "Abaee's process-currying preprint and the internal sphere",
@@ -61,31 +61,62 @@
         "6. Implication for the user's programme"
       ],
       "local_links": [
+        "ABAEE_PROCESS_RECOVERY_AUTONOMOUS_CLOCK_RECORDS.md",
         "ABAEE_ADDITIVE_DYNAMICS_AND_EXACT_DIAMOND_RADIUS.md",
         "FINITE_SPHERE_ZERO_REFERENCE_AND_SYMMETRIC_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        21,
+        3,
+        7,
+        11,
         23,
-        41,
+        25,
         43,
         45,
         47,
         49,
-        57,
+        51,
         59,
         61,
-        77,
+        63,
         79,
-        83,
-        94,
-        98,
+        81,
+        85,
+        96,
         100,
         102,
-        110
+        104,
+        112
+      ]
+    },
+    {
+      "path": "ABAEE_PROCESS_RECOVERY_AUTONOMOUS_CLOCK_RECORDS.md",
+      "sha256": "2d9688107ed85b4aaa5247c618496cbbb883cef30513e3cd94b19bc42a589fe6",
+      "bytes": 8490,
+      "lines": 92,
+      "title": "Abaee's process-recovery distinction in the autonomous clock model",
+      "headings": [
+        "Abaee's process-recovery distinction in the autonomous clock model",
+        "Why revisit the DOI?",
+        "1. A continuum recovery test inside our constrained model",
+        "2. Quantitative checks at a finite scalar reading",
+        "3. The actual two-window calculation",
+        "4. Meaning for the larger proposal",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ABAEE_NO_UNIVERSAL_PROCESS_CURRYING_SPHERE_AUDIT.md",
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        40,
+        42,
+        53,
+        73,
+        81
       ]
     },
     {
@@ -5644,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "64afda088ec7b52970a7fe40b7e087c34c4c18c71dc578e8a8389e3d9c300518",
-      "bytes": 182999,
-      "lines": 1409,
+      "sha256": "22521aa53c96504f73ac52663909a59d2d547214d43b46c1c0d93bfe268c6740",
+      "bytes": 183285,
+      "lines": 1411,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6235,6 +6266,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
@@ -6974,6 +7006,7 @@
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
+        "verification/zero_autonomous_two_window_records_test.py",
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
@@ -7054,15 +7087,15 @@
         407,
         475,
         573,
-        623,
         624,
-        628,
-        630,
-        710,
-        719,
-        722,
-        725,
-        793
+        625,
+        629,
+        631,
+        711,
+        720,
+        723,
+        726,
+        794
       ]
     },
     {
