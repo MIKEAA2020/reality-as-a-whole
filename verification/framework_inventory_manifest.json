@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5d3181117018352c92077274776db8e6229dd3e4",
-  "file_count": 2085,
+  "base_head": "cdabc6f682ca519ea69660732742ce8841fa8e83",
+  "file_count": 2087,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 188598,
-      "sha256": "4fac72be7197a9d29306c439931e35012b8f5f8aac7322be8c8913fd2663970f"
+      "bytes": 188902,
+      "sha256": "776a6086633ad2b27684c342ecd0fb123bb95d9337d7a2921215c3ab2b2c1d60"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2914,9 +2914,14 @@
       "sha256": "538986801e5c84ae71329a51ad6be2afa2bf48be113a10e36b9df472fa601636"
     },
     {
+      "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
+      "bytes": 13603,
+      "sha256": "0ccd9b00b8b21c03f4ce5e76492c4e94e3b148bca29670bae3cec6f27dc1c2b2"
+    },
+    {
       "path": "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
-      "bytes": 13299,
-      "sha256": "66dd3db076bfaccd63ea0521c3a69d9877ffb2a8bf0993175aec27d8dbd8a69a"
+      "bytes": 13601,
+      "sha256": "2e397231285f0dc46834c3e4d4d9a78d7ceea3b4a3f2848612dad0590e822a12"
     },
     {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
@@ -7935,8 +7940,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 918319,
-      "sha256": "ae39ad1f2b43e41ba1611d22ebd883200d7c24bf73afa3018b7f3ece8e20818c"
+      "bytes": 919661,
+      "sha256": "3d21773ba4a69356fc8124eacebb571d7885bcbdcd52a13ab1aae32507c55f8a"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10002,6 +10007,11 @@
       "path": "verification/yukawa_seesaw_ckm.py",
       "bytes": 12342,
       "sha256": "e35471e4aacd27ef4f4d9d9973b68b8a78e125c14584958267c798dd56aeb4ba"
+    },
+    {
+      "path": "verification/zero_all_sector_record_involution_test.py",
+      "bytes": 8398,
+      "sha256": "40b5284fb50b6dd762f0f0ef5f9f841c8a12807c59efb037866bd8f4e5a680a7"
     },
     {
       "path": "verification/zero_all_sector_sphere_clock_work_test.py",

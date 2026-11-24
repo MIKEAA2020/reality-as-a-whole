@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 732,
-  "bytes": 9318409,
-  "line_count": 84246,
-  "document_count_with_risk_phrases": 685,
+  "document_count": 733,
+  "bytes": 9332607,
+  "line_count": 84403,
+  "document_count_with_risk_phrases": 686,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5761bf3334b2f08e4a1f7fc7dfed30f6b982a50eabb20930459be4ba9b5b359e",
-      "bytes": 188305,
-      "lines": 1447,
+      "sha256": "4fac72be7197a9d29306c439931e35012b8f5f8aac7322be8c8913fd2663970f",
+      "bytes": 188598,
+      "lines": 1449,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5799,6 +5799,7 @@
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
         "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
         "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
+        "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md",
         "CAUSAL_INFLUENCE_SUBJECT_CONSTITUTION_GATE.md",
         "CAUSAL_RECORD_LINEAGE.md",
         "CHAIN_COMPLETE.md",
@@ -6581,6 +6582,7 @@
         "verification/build_framework_inventory.py",
         "verification/cardiac_feedback_pain_predictions.py",
         "verification/cardiac_pain_xml_crosscheck.py",
+        "verification/carreira_gonzalo_age_curvature_constraint_test.py",
         "verification/causal_influence_subject_gate.py",
         "verification/causal_record_lineage.py",
         "verification/causal_relaxation_zero_test.py",
@@ -7172,28 +7174,28 @@
         16,
         20,
         43,
-        65,
-        74,
-        84,
-        166,
-        228,
-        304,
-        333,
-        381,
-        412,
-        480,
-        578,
-        624,
-        637,
+        66,
+        75,
+        85,
+        167,
+        229,
+        305,
+        334,
+        382,
+        413,
+        481,
+        579,
+        625,
         638,
-        642,
-        644,
-        658,
-        728,
-        737,
-        740,
-        743,
-        812
+        639,
+        643,
+        645,
+        659,
+        729,
+        738,
+        741,
+        744,
+        813
       ]
     },
     {
@@ -19705,10 +19707,41 @@
       ]
     },
     {
+      "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
+      "sha256": "0ccd9b00b8b21c03f4ce5e76492c4e94e3b148bca29670bae3cec6f27dc1c2b2",
+      "bytes": 13603,
+      "lines": 153,
+      "title": "An exact all-sector record involution: balanced incidences without exchanging unequal sectors",
+      "headings": [
+        "An exact all-sector record involution: balanced incidences without exchanging unequal sectors",
+        "Result",
+        "1. Where the pairing acts",
+        "2. The actual final state has the symmetry",
+        "3. Equal incidence weights with all relevant conditions retained",
+        "4. Does either confined register access the relation?",
+        "5. Why this is not yet a derivation from zero",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_all_sector_record_involution_test.py",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
+        "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        109,
+        128,
+        144,
+        153
+      ]
+    },
+    {
       "path": "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
-      "sha256": "66dd3db076bfaccd63ea0521c3a69d9877ffb2a8bf0993175aec27d8dbd8a69a",
-      "bytes": 13299,
-      "lines": 170,
+      "sha256": "2e397231285f0dc46834c3e4d4d9a78d7ceea3b4a3f2848612dad0590e822a12",
+      "bytes": 13601,
+      "lines": 172,
       "title": "The full paired state: clock and work records without discarding a sector",
       "headings": [
         "The full paired state: clock and work records without discarding a sector",
@@ -19722,15 +19755,17 @@
       ],
       "local_links": [
         "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
+        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "verification/zero_all_sector_sphere_clock_work_test.py"
       ],
       "risk_phrase_lines": [
-        59,
-        65,
-        89,
-        119,
-        147
+        7,
+        61,
+        67,
+        91,
+        121,
+        149
       ]
     },
     {

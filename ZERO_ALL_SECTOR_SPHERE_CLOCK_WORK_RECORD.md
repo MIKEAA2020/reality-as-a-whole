@@ -4,6 +4,8 @@
 
 **Observer and coherence continuation:** [the Ciupa zero article audit](CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md) retains all clock labels and distinguishes the coherent paired whole from a flag-dephased state using a global charge-balanced observable.
 
+**Within-sector pairing continuation:** [the exact all-sector record involution](ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md) exhibits a charge-preserving symmetry exchanging the h and target outcomes at each fixed clock and record label without exchanging the unequal 158- and 96-dimensional sectors.
+
 The previous [encoded clock/work bridge](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) put the full sphere–clock–work circuit on a `1/128` code branch and retained, but did not develop, the rest. Here the **entire specified paired state** gets a finite clock, three-outcome local record, two-outcome partner record, work exchange and relation-target memory. The earlier code branch keeps its original finite-reference quantum sphere instrument; an explicit symmetry-preserving instrument acts on the other `127/128` of the state.
 
 The completed finite circuit has the following properties:
