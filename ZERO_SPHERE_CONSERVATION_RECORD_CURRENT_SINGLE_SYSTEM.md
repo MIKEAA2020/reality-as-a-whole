@@ -2,6 +2,8 @@
 
 ## Result
 
+**Energy-interface continuation:** [dual-pair sphere readouts](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) implements the same five-ray weights with energy-conserving instruments and a relative-clock pointer; it does not yet include the work/current register below.
+
 **Confined-realm extension:** [held position and optional interfaces](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) adds an encoded register and a richer sector, checking that both the inaccessible and coupled variants preserve this system's probability table and branchwise current relations.
 
 **Follow-up:** [A common-domain experiential comparison](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) adds an explicitly specified subject-sector Hamiltonian and distinguishes mismatch and current response proposals by a physical phase intervention. Its experiential identifications remain conditional.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 724,
-  "bytes": 9200814,
-  "line_count": 82974,
-  "document_count_with_risk_phrases": 677,
+  "document_count": 725,
+  "bytes": 9217304,
+  "line_count": 83192,
+  "document_count_with_risk_phrases": 678,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4b5c222a5d6060bee35ec9cb41d6b28fb8e72b1ceffbd74c2bfa04851bd55e93",
-      "bytes": 186014,
-      "lines": 1431,
+      "sha256": "7fe3aca73e6808ab650b9a0417d9c28ee35003837662d593a8bb039c016d164d",
+      "bytes": 186267,
+      "lines": 1433,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6294,6 +6294,7 @@
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -7046,6 +7047,7 @@
         "verification/zero_localized_modules_boundary_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_plenitude_necessity_test.py",
+        "verification/zero_plenitude_sign_pairing_test.py",
         "verification/zero_point_blowup_test.py",
         "verification/zero_qdesic_sphere_clock_connection_test.py",
         "verification/zero_realm_physical_zero_incidence_test.py",
@@ -7107,15 +7109,16 @@
         410,
         478,
         576,
-        630,
+        618,
         631,
-        635,
-        637,
-        720,
-        729,
-        732,
-        735,
-        804
+        632,
+        636,
+        638,
+        721,
+        730,
+        733,
+        736,
+        805
       ]
     },
     {
@@ -19877,6 +19880,46 @@
       ]
     },
     {
+      "path": "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+      "sha256": "64dbdb3df590198457e775e0318da951a922465612fd1fdd8f8e5ef342ce3e26",
+      "bytes": 15681,
+      "lines": 212,
+      "title": "Dual pairing, sphere probabilities and an energy-conserving relative-clock interface",
+      "headings": [
+        "Dual pairing, sphere probabilities and an energy-conserving relative-clock interface",
+        "Result",
+        "1. The sphere data and the two dual pairs",
+        "2. What an exact conservation law demands of the interface",
+        "3. Exact zero survives a nontrivial interaction",
+        "4. The joint record table, and a clock that is itself an internal interface",
+        "5. No-signalling, access and experience",
+        "6. What this contributes to the zero–plenitude proposal"
+      ],
+      "local_links": [
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "verification/zero_dual_pair_sphere_energy_instrument_test.py",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        62,
+        64,
+        66,
+        102,
+        106,
+        114,
+        127,
+        153,
+        169,
+        185,
+        193,
+        198,
+        199,
+        212
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
       "bytes": 15932,
@@ -20456,9 +20499,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "5d5f92fa3dfc8b9968de8b12ed3c6fd6aa818c0bd574370ae548f25f7121f352",
-      "bytes": 15013,
-      "lines": 148,
+      "sha256": "eb129c3b2520c609d397200bc668beb932ea304136c3d45cd2a90a95a93d7aa0",
+      "bytes": 15291,
+      "lines": 150,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -20471,20 +20514,22 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
       "risk_phrase_lines": [
         1,
-        47,
-        53,
-        71,
-        83,
-        93,
+        3,
+        49,
+        55,
+        73,
+        85,
         95,
-        111,
-        139,
-        148
+        97,
+        113,
+        141,
+        150
       ]
     },
     {
@@ -21139,9 +21184,9 @@
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
-      "sha256": "be92966e20d77c253f8a06ceaac49564a627254cc647b8777069dfa49e66bc35",
-      "bytes": 15549,
-      "lines": 184,
+      "sha256": "619eddbe2b10fe2a9de0ad3f51abe89d4275ed9e1558765f640b22a471712629",
+      "bytes": 15827,
+      "lines": 186,
       "title": "One system linking sphere conservation, quantum records and opposite currents",
       "headings": [
         "One system linking sphere conservation, quantum records and opposite currents",
@@ -21154,21 +21199,22 @@
         "6. What the construction does for experience—and what it cannot decide"
       ],
       "local_links": [
+        "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md"
       ],
       "risk_phrase_lines": [
-        16,
-        27,
-        40,
-        67,
-        96,
-        100,
-        117,
-        145,
-        184
+        18,
+        29,
+        42,
+        69,
+        98,
+        102,
+        119,
+        147,
+        186
       ]
     },
     {

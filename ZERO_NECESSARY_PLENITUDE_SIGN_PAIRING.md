@@ -1,5 +1,7 @@
 # Necessary plenitude as sign pairing: an exact construction
 
+**Physical-interface continuation:** [dual pairing and energy-conserving sphere readouts](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) constructs the five-ray measurement, two finite reference pairs and a relative-clock pointer in an exact zero-energy finite system.
+
 ## The proposal
 
 The user's idea is that, if a contribution is genuinely possible, its sign-reversed counterpart is also genuinely possible; necessary plenitude then makes both actual, so the whole can be zero **through** its internal plenitude. This is stronger and more constructive than merely saying that a zero total permits nonzero parts.
