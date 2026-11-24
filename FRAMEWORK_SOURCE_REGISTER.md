@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 675 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 608 verification Python scripts.
+- 676 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 609 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -641,6 +641,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
 - [ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) — Conserved sphere, quantum steering and definite Bell records
 - [ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) — The complete internal sphere and branchwise zero
+- [ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md) — Subject boundaries, higher-body coupling and report causality
 - [ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) — One subject–experience candidate tested against two rivals
 - [ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) — Subject locality and the cost of overlapping experiences
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
@@ -1400,6 +1401,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_spherical_plenitude_opposite_records_test.py](verification/zero_spherical_plenitude_opposite_records_test.py)
 - [verification/zero_spin_constitution_test.py](verification/zero_spin_constitution_test.py)
+- [verification/zero_subject_boundary_full_constraint_test.py](verification/zero_subject_boundary_full_constraint_test.py)
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)
 - [verification/zero_subject_normalization_locality_test.py](verification/zero_subject_normalization_locality_test.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 718,
-  "bytes": 9104073,
-  "line_count": 81980,
-  "document_count_with_risk_phrases": 671,
+  "document_count": 719,
+  "bytes": 9117628,
+  "line_count": 82137,
+  "document_count_with_risk_phrases": 672,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "885c6c1e0c495d0d7898fbf369bdd8efe349a166225de4a59188a6b913ed9b17",
-      "bytes": 184094,
-      "lines": 1417,
+      "sha256": "805d5b2293b05c63d48fe3ed34244f1c875194e475261734a665a82cfda16082",
+      "bytes": 184520,
+      "lines": 1420,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6281,6 +6281,7 @@
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
@@ -7021,6 +7022,8 @@
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
+        "verification/zero_integrated_sphere_clock_experience_test.py",
+        "verification/zero_integrated_targeted_memory_test.py",
         "verification/zero_interacting_clock_bound_transition_test.py",
         "verification/zero_interacting_clock_mourre_spectrum_test.py",
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
@@ -7093,15 +7096,15 @@
         408,
         476,
         574,
-        625,
         626,
-        630,
-        632,
-        714,
-        723,
-        726,
-        729,
-        797
+        627,
+        631,
+        633,
+        715,
+        724,
+        727,
+        730,
+        798
       ]
     },
     {
@@ -20024,9 +20027,9 @@
     },
     {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
-      "sha256": "9458c0ac5cbc84f8f975114c3e769ade1c09aa544963aae197ed8e578c40f66c",
-      "bytes": 15382,
-      "lines": 161,
+      "sha256": "09536843c6cdaed74f918e6a23b11396a6d31481ab7bd65a2436341ed527c58f",
+      "bytes": 15613,
+      "lines": 163,
       "title": "A sphere, autonomous memories and competing experiential relations in one constraint",
       "headings": [
         "A sphere, autonomous memories and competing experiential relations in one constraint",
@@ -20039,6 +20042,7 @@
         "6. What this advances"
       ],
       "local_links": [
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "verification/zero_integrated_sphere_clock_experience_test.py",
         "verification/zero_integrated_targeted_memory_test.py",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
@@ -20046,12 +20050,12 @@
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        29,
-        52,
-        64,
-        101,
-        105,
-        142
+        31,
+        54,
+        66,
+        103,
+        107,
+        144
       ]
     },
     {
@@ -21237,6 +21241,33 @@
         127,
         146,
         157
+      ]
+    },
+    {
+      "path": "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
+      "sha256": "8980b1e242544289714e17013fba6b9d80d52ec96dda112eb9f45a00766ae708",
+      "bytes": 12898,
+      "lines": 152,
+      "title": "Subject boundaries, higher-body coupling and report causality",
+      "headings": [
+        "Subject boundaries, higher-body coupling and report causality",
+        "Main result",
+        "1. The full constraint contains interactions omitted by the old graph",
+        "2. Exact local-report constraint on the actual sphere state",
+        "3. A continuum influence result beyond the protected code",
+        "4. What this does—and does not—select",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "verification/zero_subject_boundary_full_constraint_test.py"
+      ],
+      "risk_phrase_lines": [
+        47,
+        51,
+        62,
+        72,
+        97
       ]
     },
     {

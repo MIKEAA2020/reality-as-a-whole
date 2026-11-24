@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "00aff9f6c8b8506a2525b5049fc03d3f696672c3",
-  "file_count": 2056,
+  "base_head": "ca2b6b2b03639edade7dd012e151b8de53bf7853",
+  "file_count": 2058,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 184520,
-      "sha256": "805d5b2293b05c63d48fe3ed34244f1c875194e475261734a665a82cfda16082"
+      "bytes": 184798,
+      "sha256": "9e50e6642075d79dacc865c513264592ec80f0cbcf4015d5db2f5980b3564f10"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2970,8 +2970,8 @@
     },
     {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
-      "bytes": 15382,
-      "sha256": "9458c0ac5cbc84f8f975114c3e769ade1c09aa544963aae197ed8e578c40f66c"
+      "bytes": 15613,
+      "sha256": "09536843c6cdaed74f918e6a23b11396a6d31481ab7bd65a2436341ed527c58f"
     },
     {
       "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
@@ -3162,6 +3162,11 @@
       "path": "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
       "bytes": 13666,
       "sha256": "e1afed73322be6322983176ce183a81dd615f814ec6ce246cf9531585f7e0f08"
+    },
+    {
+      "path": "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
+      "bytes": 12898,
+      "sha256": "8980b1e242544289714e17013fba6b9d80d52ec96dda112eb9f45a00766ae708"
     },
     {
       "path": "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
@@ -7840,8 +7845,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 899359,
-      "sha256": "6647bc7d98449afa7014f5e21d35a3ec6b25fdcf7f2e7503dc4f9200d89c61b5"
+      "bytes": 900558,
+      "sha256": "dd9280f87e9bcac487437c3cd0482c3b8499fc43c22c8f7c3b982b2b0f354af3"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10187,6 +10192,11 @@
       "path": "verification/zero_spin_constitution_test.py",
       "bytes": 7525,
       "sha256": "a05a3af1558b9c0f75ddcb7fc62a677ec46369e9fe55e728518cc70171f94150"
+    },
+    {
+      "path": "verification/zero_subject_boundary_full_constraint_test.py",
+      "bytes": 5579,
+      "sha256": "7780727a2aa01f6e3b0d44c6303b8c9912e8708f268b8c3aaa5d3dc2109dd722"
     },
     {
       "path": "verification/zero_subject_incidence_frame_test.py",

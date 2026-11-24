@@ -1,5 +1,7 @@
 # A sphere, autonomous memories and competing experiential relations in one constraint
 
+**Boundary continuation:** [higher-body coupling and report causality](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md) tests the full constraint's record–work interaction and the locality conditions on reporting the rival J-quality.
+
 ## Result
 
 We can connect the previously separate five-ray sphere–record construction, its candidate subject pairs and current probe, and the autonomous geometry-clock apparatus **in one specified constrained quantum model**. The connection produces both a warning and a constructive correction.
