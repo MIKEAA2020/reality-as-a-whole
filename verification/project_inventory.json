@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 720,
-  "bytes": 9134559,
-  "line_count": 82323,
-  "document_count_with_risk_phrases": 673,
+  "document_count": 721,
+  "bytes": 9151160,
+  "line_count": 82474,
+  "document_count_with_risk_phrases": 674,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -7436,9 +7436,9 @@
     },
     {
       "path": "FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md",
-      "sha256": "bdaecc8b216330078272eb457feb132dcdf7681352a2a6d66b98ac9a1d2ca579",
-      "bytes": 15996,
-      "lines": 179,
+      "sha256": "3e51cbf3fa520472a4e311681cf28ae1101464504f5699ea59754767a0a07fc5",
+      "bytes": 16248,
+      "lines": 181,
       "title": "Fukuyama on cosmic origin and the arrow of time: audit and constructive connection",
       "headings": [
         "Fukuyama on cosmic origin and the arrow of time: audit and constructive connection",
@@ -7451,20 +7451,21 @@
         "6. Curvature, topology and inflation"
       ],
       "local_links": [
+        "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf",
         "verification/fukuyama_origin_arrow_audit_test.py",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        14,
-        20,
+        16,
         22,
-        26,
-        40,
-        92,
-        117,
-        136,
-        148
+        24,
+        28,
+        42,
+        94,
+        119,
+        138,
+        150
       ]
     },
     {
@@ -20065,9 +20066,9 @@
     },
     {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
-      "sha256": "09536843c6cdaed74f918e6a23b11396a6d31481ab7bd65a2436341ed527c58f",
-      "bytes": 15613,
-      "lines": 163,
+      "sha256": "71edd75faa162f899c1a4e551d827b48892f2afe691b4296e910287ab0c4e7fe",
+      "bytes": 15921,
+      "lines": 165,
       "title": "A sphere, autonomous memories and competing experiential relations in one constraint",
       "headings": [
         "A sphere, autonomous memories and competing experiential relations in one constraint",
@@ -20081,6 +20082,7 @@
       ],
       "local_links": [
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
+        "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "verification/zero_integrated_sphere_clock_experience_test.py",
         "verification/zero_integrated_targeted_memory_test.py",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
@@ -20088,12 +20090,12 @@
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        31,
-        54,
-        66,
-        103,
-        107,
-        144
+        33,
+        56,
+        68,
+        105,
+        109,
+        146
       ]
     },
     {
@@ -20690,6 +20692,37 @@
         134,
         144,
         204
+      ]
+    },
+    {
+      "path": "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
+      "sha256": "19240c12cb8346485fe567a8e33a02ae6c917510e2fcccd48a05403449acd78d",
+      "bytes": 16041,
+      "lines": 147,
+      "title": "Recollapse, the sphere and record arrows in one constraint",
+      "headings": [
+        "Recollapse, the sphere and record arrows in one constraint",
+        "Result",
+        "1. One autonomous constraint",
+        "2. Two preparations at the actual turning boundary",
+        "3. Same mean scale, different branches and memory",
+        "4. Does the memory persist when read twice?",
+        "5. What happens to the sphere and the proposed experience bridge?",
+        "6. What the construction establishes—and what would advance it"
+      ],
+      "local_links": [
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        57,
+        79,
+        103,
+        133,
+        137,
+        147
       ]
     },
     {

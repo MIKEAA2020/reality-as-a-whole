@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d2410b44c2070b9a948055fc797272c2f1aabaf1",
-  "file_count": 2061,
+  "base_head": "839dbbfb020509d6c192760cb5efce51db67eac3",
+  "file_count": 2063,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 185226,
-      "sha256": "9815e0e7fe66c113c1889ec2d914b3d961be672fc8082f585032710813ff61ec"
+      "bytes": 185481,
+      "sha256": "cde9e7c046ba2ec43d3b00a4ea1f2dfba25fd606a19efe33ed449e7ee57a00b9"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -915,8 +915,8 @@
     },
     {
       "path": "FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md",
-      "bytes": 15996,
-      "sha256": "bdaecc8b216330078272eb457feb132dcdf7681352a2a6d66b98ac9a1d2ca579"
+      "bytes": 16248,
+      "sha256": "3e51cbf3fa520472a4e311681cf28ae1101464504f5699ea59754767a0a07fc5"
     },
     {
       "path": "GAUGE_UNIFICATION_SPECTRAL.md",
@@ -2975,8 +2975,8 @@
     },
     {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
-      "bytes": 15613,
-      "sha256": "09536843c6cdaed74f918e6a23b11396a6d31481ab7bd65a2436341ed527c58f"
+      "bytes": 15921,
+      "sha256": "71edd75faa162f899c1a4e551d827b48892f2afe691b4296e910287ab0c4e7fe"
     },
     {
       "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
@@ -3077,6 +3077,11 @@
       "path": "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
       "bytes": 16501,
       "sha256": "e98d4075d814c7bdfec4fb07b2eed68b967b725df48f31cafc914a998efed346"
+    },
+    {
+      "path": "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
+      "bytes": 16041,
+      "sha256": "19240c12cb8346485fe567a8e33a02ae6c917510e2fcccd48a05403449acd78d"
     },
     {
       "path": "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
@@ -7860,8 +7865,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 902140,
-      "sha256": "9346cc23622a337e1cf57559dd0e36603cba128a6df96808700bb692e780ed8a"
+      "bytes": 903325,
+      "sha256": "e7f4e408f76e8bbc39c57ac902963a327ecb934559212918bc1d3cbbf39ede56"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10092,6 +10097,11 @@
       "path": "verification/zero_reciprocal_subject_exchange_test.py",
       "bytes": 11045,
       "sha256": "53c3f8bb69ba7af10b59950d2f3b071f69912171bf0267482c1d1fcf34d8be57"
+    },
+    {
+      "path": "verification/zero_recollapse_sphere_memory_test.py",
+      "bytes": 12236,
+      "sha256": "d62ec780cd24cc948b9fca515da9e1f0b97002eca95259891a7ece8f55ef3972"
     },
     {
       "path": "verification/zero_relational_history_experiential_clock_test.py",

@@ -1,5 +1,7 @@
 # Fukuyama on cosmic origin and the arrow of time: audit and constructive connection
 
+**Continuation:** [recollapse, sphere and record arrows in one constraint](ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md) constructs a dynamical turning geometry coupled to the actual sphere code, with explicit boundary and sequential-measurement controls.
+
 ## What the paper adds
 
 The attached [paper](sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf) is Takeshi Fukuyama, “Revisiting the Origin of the Universe and the Arrow of Time,” *Symmetry* **17**, 1688 (2025), [DOI](https://doi.org/10.3390/sym17101688). It discusses tunnelling/no-boundary cosmology, intrinsic clocks and a two-sided thermodynamic arrow. Its explicit clock/arrow construction uses a reduced **two-dimensional Jackiw–Teitelboim (JT) gravity** model; the author expressly says the four-dimensional extension has not been shown. The paper is relevant prior work, not a proof of our zero-point/sphere thesis or of general quantum gravity.
