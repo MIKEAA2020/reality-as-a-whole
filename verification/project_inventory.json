@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 706,
-  "bytes": 8958665,
-  "line_count": 80411,
-  "document_count_with_risk_phrases": 659,
+  "document_count": 707,
+  "bytes": 8968906,
+  "line_count": 80509,
+  "document_count_with_risk_phrases": 660,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -19805,6 +19805,34 @@
         11,
         69,
         89
+      ]
+    },
+    {
+      "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
+      "sha256": "764efc18ac9ebea1068fbba09b746e5fc52f0f85c896dd47d7b4b268dddff4b5",
+      "bytes": 10241,
+      "lines": 98,
+      "title": "Can time arise in a timeless whole? An interacting clock result",
+      "headings": [
+        "Can time arise in a timeless whole? An interacting clock result",
+        "Answer and constructive proposal",
+        "1. A physical finite-region clock instrument",
+        "2. Exact bound-to-complement transition",
+        "3. Numerical check, not a continuum scattering calculation",
+        "4. What this says about the whole and experienced time",
+        "5. The next decisive step"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
+        "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
+        "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
+        "verification/zero_interacting_clock_bound_transition_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        47,
+        49,
+        88
       ]
     },
     {
