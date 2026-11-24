@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 719,
-  "bytes": 9117628,
-  "line_count": 82137,
-  "document_count_with_risk_phrases": 672,
+  "document_count": 720,
+  "bytes": 9134559,
+  "line_count": 82323,
+  "document_count_with_risk_phrases": 673,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5675,9 +5675,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "805d5b2293b05c63d48fe3ed34244f1c875194e475261734a665a82cfda16082",
-      "bytes": 184520,
-      "lines": 1420,
+      "sha256": "9815e0e7fe66c113c1889ec2d914b3d961be672fc8082f585032710813ff61ec",
+      "bytes": 185226,
+      "lines": 1425,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5871,6 +5871,7 @@
         "FRW_CLOCK_WINDOW_MISMATCH.md",
         "FRW_INTERNAL_POVM.md",
         "FRW_MODULAR_CLOCK.md",
+        "FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md",
         "GAUGE_UNIFICATION_SPECTRAL.md",
         "GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md",
         "GLOBAL_COHERENCE_AND_DECISION_PLAN.md",
@@ -6320,6 +6321,7 @@
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
+        "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -6436,6 +6438,7 @@
         "sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf",
         "sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf",
         "sources/uploads/RKLS-TR07.pdf",
+        "sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf",
         "sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf",
         "sources/uploads/Three-arguments-for-wave-function-realism.pdf",
         "sources/uploads/Towards a Realist View of QFT draft 2.pdf",
@@ -6625,6 +6628,7 @@
         "verification/frw_clock_window_mismatch.py",
         "verification/frw_internal_povm.py",
         "verification/frw_modular_clock.py",
+        "verification/fukuyama_origin_arrow_audit_test.py",
         "verification/gauge_unification_spectral.py",
         "verification/graded_rivalry_witness.py",
         "verification/graded_rivalry_witness_test.py",
@@ -7065,6 +7069,7 @@
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
+        "verification/zero_subject_boundary_full_constraint_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_subject_normalization_locality_test.py",
@@ -7089,22 +7094,22 @@
         73,
         83,
         165,
-        226,
-        300,
-        329,
-        377,
-        408,
-        476,
-        574,
-        626,
+        227,
+        301,
+        330,
+        378,
+        409,
+        477,
+        575,
         627,
-        631,
-        633,
-        715,
-        724,
-        727,
-        730,
-        798
+        628,
+        632,
+        634,
+        717,
+        726,
+        729,
+        732,
+        801
       ]
     },
     {
@@ -7427,6 +7432,39 @@
         5,
         58,
         97
+      ]
+    },
+    {
+      "path": "FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md",
+      "sha256": "bdaecc8b216330078272eb457feb132dcdf7681352a2a6d66b98ac9a1d2ca579",
+      "bytes": 15996,
+      "lines": 179,
+      "title": "Fukuyama on cosmic origin and the arrow of time: audit and constructive connection",
+      "headings": [
+        "Fukuyama on cosmic origin and the arrow of time: audit and constructive connection",
+        "What the paper adds",
+        "1. Claims and their scope",
+        "2. Exact Wheeler–DeWitt mode and a printed-equation issue",
+        "3. A scale turning point is not the same as a clock breakdown",
+        "4. Narrower off-diagonal width need not mean larger entropy",
+        "5. A constructive two-sided record model—with a boundary control",
+        "6. Curvature, topology and inflation"
+      ],
+      "local_links": [
+        "sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf",
+        "verification/fukuyama_origin_arrow_audit_test.py",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        20,
+        22,
+        26,
+        40,
+        92,
+        117,
+        136,
+        148
       ]
     },
     {
@@ -22407,9 +22445,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
-      "sha256": "ea515f07d473848a78c3416d1b6659d1e96ee2e50b13b48fdce072f2868493c1",
-      "bytes": 12553,
-      "lines": 180,
+      "sha256": "d1d03294f6a8d76a2f868745298291a1299d5421a150238fdb2726f9d167d663",
+      "bytes": 12782,
+      "lines": 182,
       "title": "Full-state geometry data for two autonomous records",
       "headings": [
         "Full-state geometry data for two autonomous records",
@@ -22423,13 +22461,15 @@
       ],
       "local_links": [
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "verification/zero_two_window_full_slice_test.py"
       ],
       "risk_phrase_lines": [
-        11,
+        5,
         13,
-        173
+        15,
+        175
       ]
     },
     {

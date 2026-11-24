@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 676 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 609 verification Python scripts.
+- 677 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 610 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -192,6 +192,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FRW_CLOCK_WINDOW_MISMATCH.md](FRW_CLOCK_WINDOW_MISMATCH.md) — A finite-window obstruction to clock–modular matching
 - [FRW_INTERNAL_POVM.md](FRW_INTERNAL_POVM.md) — An unregulated internal-clock POVM in one FRW branch
 - [FRW_MODULAR_CLOCK.md](FRW_MODULAR_CLOCK.md) — Scalar-clock FRW and modular flow: a regulated calculation and an obstruction
+- [FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md](FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md) — Fukuyama on cosmic origin and the arrow of time: audit and constructive connection
 - [GAUGE_UNIFICATION_SPECTRAL.md](GAUGE_UNIFICATION_SPECTRAL.md) — Gauge Coupling Unification from the Spectral Action
 - [GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md](GIESBRECHT_KINGSTONE_BLINK_PRIMARY_READING_PLAN.md) — Fixed plan: earlier split-brain attentional-blink experiment
 - [GLOBAL_COHERENCE_AND_DECISION_PLAN.md](GLOBAL_COHERENCE_AND_DECISION_PLAN.md) — One global plan: from experiential actuality to recoverable physics
@@ -768,6 +769,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf](sources/uploads/Kemeny_Snell_Finite_Markov_Chains.pdf)
 - [sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf](sources/uploads/On-the-estimate-of-music-appraisal-from-surface-EEG-a-dynamic-network-approach-based-on-cross.pdf)
 - [sources/uploads/RKLS-TR07.pdf](sources/uploads/RKLS-TR07.pdf)
+- [sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf](sources/uploads/Revisiting_the_Origin_of_the_Universe_and_the_Arro.pdf)
 - [sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf](sources/uploads/The_Everything-is-a-Quantum-Wave_Interpretation_of.pdf)
 - [sources/uploads/Three-arguments-for-wave-function-realism.pdf](sources/uploads/Three-arguments-for-wave-function-realism.pdf)
 - [sources/uploads/Towards a Realist View of QFT draft 2.pdf](sources/uploads/Towards%20a%20Realist%20View%20of%20QFT%20draft%202.pdf)
@@ -961,6 +963,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/frw_clock_window_mismatch.py](verification/frw_clock_window_mismatch.py)
 - [verification/frw_internal_povm.py](verification/frw_internal_povm.py)
 - [verification/frw_modular_clock.py](verification/frw_modular_clock.py)
+- [verification/fukuyama_origin_arrow_audit_test.py](verification/fukuyama_origin_arrow_audit_test.py)
 - [verification/gauge_unification_spectral.py](verification/gauge_unification_spectral.py)
 - [verification/graded_rivalry_witness.py](verification/graded_rivalry_witness.py)
 - [verification/graded_rivalry_witness_test.py](verification/graded_rivalry_witness_test.py)

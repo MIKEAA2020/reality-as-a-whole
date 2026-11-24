@@ -2,6 +2,8 @@
 
 **Integrated continuation:** [sphere, targeted memory and experiential candidates](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) adds a relation-specific third memory, and derives a new conservative 26-slice full-state bound for the changed constraint.
 
+**Related arrow-of-time audit:** [Fukuyama's closed-universe proposal](FUKUYAMA_ORIGIN_TIME_ARROW_SPHERE_AUDIT.md) distinguishes clock-patch changes from entropy and record arrows and compares a separate two-sided record model.
+
 ## Main result
 
 The preceding [multichannel analysis](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) established an almost-everywhere **single-slice scattering** reconstruction for the autonomous detector and two memories, but left degenerate bound eigenspaces unresolved. We can now include the entire point spectrum, including possible embedded and threshold eigenstates, without assuming simplicity:
