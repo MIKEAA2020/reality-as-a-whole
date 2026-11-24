@@ -1,5 +1,7 @@
 # A relational history with a fixed confined record
 
+**Continuation:** [the sphere–record relativistic relational-time construction](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) incorporates prescribed relativistic clock spectra and an FLRW constraint sector, with explicit limits.
+
 ## Result
 
 The prior [four-connection model](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) gave a family of richer quantum states but did not put them into one ordered history. This continuation constructs **one stationary, finite relational history** over the same asymmetric sphere–record system. The clock is a subsystem of the model, not a clock outside the whole.

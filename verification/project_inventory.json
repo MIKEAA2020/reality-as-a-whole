@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 699,
-  "bytes": 8842989,
-  "line_count": 79355,
-  "document_count_with_risk_phrases": 652,
+  "document_count": 700,
+  "bytes": 8865473,
+  "line_count": 79499,
+  "document_count_with_risk_phrases": 653,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5644,9 +5644,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1b5070658f614f15d54b8402d739d751cd28d55d6b4ab76fcfa03a914fed7ce1",
-      "bytes": 178382,
-      "lines": 1379,
+      "sha256": "7cdf099aaa1f12174bf5ff43b2b0e4cefdcb8cfdda99a53ba25b90ef70c627f2",
+      "bytes": 179021,
+      "lines": 1383,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6235,6 +6235,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
+        "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
@@ -6254,6 +6255,7 @@
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
+        "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
@@ -6978,6 +6980,7 @@
         "verification/zero_realm_physical_zero_incidence_test.py",
         "verification/zero_realm_restriction_without_interaction_test.py",
         "verification/zero_reciprocal_subject_exchange_test.py",
+        "verification/zero_relational_history_experiential_clock_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
         "verification/zero_sector_memory_incidence_test.py",
@@ -6992,6 +6995,7 @@
         "verification/zero_sphere_mismatch_experience_comparison_test.py",
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
+        "verification/zero_sphere_relativistic_relational_time_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
@@ -7024,15 +7028,15 @@
         407,
         475,
         573,
-        612,
-        613,
-        617,
-        618,
-        695,
-        704,
-        707,
-        710,
-        778
+        614,
+        615,
+        619,
+        620,
+        697,
+        706,
+        709,
+        712,
+        780
       ]
     },
     {
@@ -19508,9 +19512,9 @@
     },
     {
       "path": "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
-      "sha256": "728d1da408a70182f0994751e258bc27b2209fc958f62ce989cbb9d3a0fc5b4f",
-      "bytes": 17371,
-      "lines": 211,
+      "sha256": "3c530db6a3f93dd4fca87e69c466e07308605422c314aa8eeff0d874d267bf94",
+      "bytes": 17612,
+      "lines": 213,
       "title": "A relational history with a fixed confined record",
       "headings": [
         "A relational history with a fixed confined record",
@@ -19523,19 +19527,20 @@
         "6. No-signalling and empirical status"
       ],
       "local_links": [
+        "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        18,
-        72,
-        118,
-        126,
-        134,
-        205,
-        211
+        9,
+        20,
+        74,
+        120,
+        128,
+        136,
+        207,
+        213
       ]
     },
     {
@@ -20106,6 +20111,45 @@
         9,
         27,
         98
+      ]
+    },
+    {
+      "path": "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
+      "sha256": "eb6c7a079f94436e9c7c860d055e9dd45cfcf852509756eac276acbff15423d5",
+      "bytes": 21604,
+      "lines": 138,
+      "title": "Time from a zero whole: a sphere–record relational clock and a cosmological constraint",
+      "headings": [
+        "Time from a zero whole: a sphere–record relational clock and a cosmological constraint",
+        "The proposal and the result",
+        "1. What needs reconciling?",
+        "2. Point, sphere, domains and the physical target",
+        "3. The exact finite construction",
+        "4. Relativistic clock comparison in that same system",
+        "5. A second constraint: positive internal clock contributions in FLRW",
+        "6. Clock choice, foliation and experience"
+      ],
+      "local_links": [
+        "verification/zero_sphere_relativistic_relational_time_test.py",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
+        "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
+        "FRW_MODULAR_CLOCK.md",
+        "CLOCK_CHOICE_EQUIVALENCE.md",
+        "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        29,
+        80,
+        96,
+        102,
+        114,
+        128
       ]
     },
     {
