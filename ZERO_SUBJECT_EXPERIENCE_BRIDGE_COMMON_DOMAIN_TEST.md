@@ -1,5 +1,7 @@
 # One subject–experience candidate tested against two rivals
 
+**Autonomous-clock integration:** [one sphere state with targeted relational memory](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) places the same physical record–work distinction into a geometry constraint and compares the rival quality assignments on a common recorded event.
+
 **Realm and incidence continuation:** [the sphere-record zero theorem](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) compares the same reduced subject-candidate state with two distinguishable richer current correlations, then derives conditional response oddness and equal incidence jointly from pairwise zero for both orientations. No holding interaction, actual subject or global experiential zero is inferred.
 
 ## Outcome

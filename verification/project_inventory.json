@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 717,
-  "bytes": 9088152,
-  "line_count": 81815,
-  "document_count_with_risk_phrases": 670,
+  "document_count": 718,
+  "bytes": 9104073,
+  "line_count": 81980,
+  "document_count_with_risk_phrases": 671,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -20023,6 +20023,38 @@
       ]
     },
     {
+      "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+      "sha256": "9458c0ac5cbc84f8f975114c3e769ade1c09aa544963aae197ed8e578c40f66c",
+      "bytes": 15382,
+      "lines": 161,
+      "title": "A sphere, autonomous memories and competing experiential relations in one constraint",
+      "headings": [
+        "A sphere, autonomous memories and competing experiential relations in one constraint",
+        "Result",
+        "1. The same sphere state and the same constrained clock",
+        "2. What the unmodified memories do—and miss",
+        "3. An autonomous memory of the relation itself",
+        "4. Same event, different experiential assignments",
+        "5. No-signalling and clock representations",
+        "6. What this advances"
+      ],
+      "local_links": [
+        "verification/zero_integrated_sphere_clock_experience_test.py",
+        "verification/zero_integrated_targeted_memory_test.py",
+        "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        29,
+        52,
+        64,
+        101,
+        105,
+        142
+      ]
+    },
+    {
       "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
       "sha256": "764efc18ac9ebea1068fbba09b746e5fc52f0f85c896dd47d7b4b268dddff4b5",
       "bytes": 10241,
@@ -21209,9 +21241,9 @@
     },
     {
       "path": "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
-      "sha256": "b410ca9163348610971b9d9725ef80e726d2cc54923322a564796cfac8dbcf0b",
-      "bytes": 23240,
-      "lines": 172,
+      "sha256": "fd69ea7ab24ca999900bd5e5c5a8795f25e237bd23a89e5107303f0a6feb3193",
+      "bytes": 23523,
+      "lines": 174,
       "title": "One subject–experience candidate tested against two rivals",
       "headings": [
         "One subject–experience candidate tested against two rivals",
@@ -21224,6 +21256,7 @@
         "6. Pain–relief research: a concrete gate, not a fabricated result"
       ],
       "local_links": [
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
@@ -21233,15 +21266,15 @@
         "PAINGEN_INTENSITY_UNPLEASANTNESS_COMMON_INTERFACE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        50,
-        58,
-        73,
-        82,
-        96,
-        121,
-        125,
-        156
+        11,
+        52,
+        60,
+        75,
+        84,
+        98,
+        123,
+        127,
+        158
       ]
     },
     {
@@ -22343,9 +22376,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
-      "sha256": "b397eae68e56c68046f099171006df679e1fb22bebbac028f6674a6e3951bb7c",
-      "bytes": 12297,
-      "lines": 178,
+      "sha256": "ea515f07d473848a78c3416d1b6659d1e96ee2e50b13b48fdce072f2868493c1",
+      "bytes": 12553,
+      "lines": 180,
       "title": "Full-state geometry data for two autonomous records",
       "headings": [
         "Full-state geometry data for two autonomous records",
@@ -22358,13 +22391,14 @@
         "6. Meaning and limitations"
       ],
       "local_links": [
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "verification/zero_two_window_full_slice_test.py"
       ],
       "risk_phrase_lines": [
-        9,
         11,
-        171
+        13,
+        173
       ]
     },
     {

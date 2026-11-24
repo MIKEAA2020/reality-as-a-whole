@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f45813ea7c03d26088e5f486197bdc2f2d4beb79",
-  "file_count": 2053,
+  "base_head": "00aff9f6c8b8506a2525b5049fc03d3f696672c3",
+  "file_count": 2056,
   "files": [
     {
       "path": ".gitattributes",
@@ -860,8 +860,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 184094,
-      "sha256": "885c6c1e0c495d0d7898fbf369bdd8efe349a166225de4a59188a6b913ed9b17"
+      "bytes": 184520,
+      "sha256": "805d5b2293b05c63d48fe3ed34244f1c875194e475261734a665a82cfda16082"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2969,6 +2969,11 @@
       "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d"
     },
     {
+      "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+      "bytes": 15382,
+      "sha256": "9458c0ac5cbc84f8f975114c3e769ade1c09aa544963aae197ed8e578c40f66c"
+    },
+    {
       "path": "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
       "bytes": 10241,
       "sha256": "764efc18ac9ebea1068fbba09b746e5fc52f0f85c896dd47d7b4b268dddff4b5"
@@ -3160,8 +3165,8 @@
     },
     {
       "path": "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
-      "bytes": 23240,
-      "sha256": "b410ca9163348610971b9d9725ef80e726d2cc54923322a564796cfac8dbcf0b"
+      "bytes": 23523,
+      "sha256": "fd69ea7ab24ca999900bd5e5c5a8795f25e237bd23a89e5107303f0a6feb3193"
     },
     {
       "path": "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
@@ -3335,8 +3340,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
-      "bytes": 12297,
-      "sha256": "b397eae68e56c68046f099171006df679e1fb22bebbac028f6674a6e3951bb7c"
+      "bytes": 12553,
+      "sha256": "ea515f07d473848a78c3416d1b6659d1e96ee2e50b13b48fdce072f2868493c1"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -7835,8 +7840,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 898006,
-      "sha256": "b5be79f3f8e744b213f61faf63777e7eedae2e1ebb46ca56d9aab34de160124c"
+      "bytes": 899359,
+      "sha256": "6647bc7d98449afa7014f5e21d35a3ec6b25fdcf7f2e7503dc4f9200d89c61b5"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9967,6 +9972,16 @@
       "path": "verification/zero_incidence_clock_probability_test.py",
       "bytes": 2210,
       "sha256": "7855af14e8f40cc57dbfd71cce0977e588dbd00e53a396c1b9195f3e4ae76697"
+    },
+    {
+      "path": "verification/zero_integrated_sphere_clock_experience_test.py",
+      "bytes": 6514,
+      "sha256": "af77d64a228615594c346847fdd2e89b23f2022f48fa3712fc10dd11862d73f3"
+    },
+    {
+      "path": "verification/zero_integrated_targeted_memory_test.py",
+      "bytes": 6671,
+      "sha256": "2e95ee6fd86816793ff5dba17723dda3a48003762e8a7b11091ac8bb3084fdc8"
     },
     {
       "path": "verification/zero_interacting_clock_bound_transition_test.py",

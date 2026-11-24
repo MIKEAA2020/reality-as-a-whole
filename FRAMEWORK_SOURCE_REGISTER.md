@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 674 root Markdown documents including this register; 43 research Markdown documents.
-- 61 original uploaded files, including provenance metadata; 606 verification Python scripts.
+- 675 root Markdown documents including this register; 43 research Markdown documents.
+- 61 original uploaded files, including provenance metadata; 608 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -602,6 +602,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md](ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md) — Full continuum geometry-slice map for the interacting model
 - [ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md](ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md) — Geometry-clock spectrum: no singular-continuous sector and one exterior bound state
 - [ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) — When normalized incidence is not a local experience
+- [ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) — A sphere, autonomous memories and competing experiential relations in one constraint
 - [ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md](ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md) — Can time arise in a timeless whole? An interacting clock result
 - [ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md](ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md) — Interacting geometry clock: first reading, records and no reading
 - [ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md](ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md) — Interacting geometry slices: a regulated clock-perspective construction
@@ -1356,6 +1357,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_geometry_clock_no_embedded_eigen_test.py](verification/zero_geometry_clock_no_embedded_eigen_test.py)
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
+- [verification/zero_integrated_sphere_clock_experience_test.py](verification/zero_integrated_sphere_clock_experience_test.py)
+- [verification/zero_integrated_targeted_memory_test.py](verification/zero_integrated_targeted_memory_test.py)
 - [verification/zero_interacting_clock_bound_transition_test.py](verification/zero_interacting_clock_bound_transition_test.py)
 - [verification/zero_interacting_clock_mourre_spectrum_test.py](verification/zero_interacting_clock_mourre_spectrum_test.py)
 - [verification/zero_interacting_geometry_clock_cyclicity_test.py](verification/zero_interacting_geometry_clock_cyclicity_test.py)
