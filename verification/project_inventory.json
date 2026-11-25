@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 766,
-  "bytes": 9772777,
-  "line_count": 89000,
-  "document_count_with_risk_phrases": 719,
+  "document_count": 767,
+  "bytes": 9785305,
+  "line_count": 89140,
+  "document_count_with_risk_phrases": 720,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5759,9 +5759,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3793b467a5557ee551ab3a4cd711a369cb2ad461fad70f49a4ce6bbd1ed26c01",
-      "bytes": 198489,
-      "lines": 1516,
+      "sha256": "3f2384ffb2f551245d95891808be99c4b874bc9a6d42f8f24cbf0eeb02114030",
+      "bytes": 198827,
+      "lines": 1518,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6373,6 +6373,7 @@
         "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
         "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
+        "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
         "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
         "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
@@ -7162,6 +7163,7 @@
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_conserving_sphere_handedness_report_test.py",
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+        "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py",
         "verification/zero_covariant_pairing_reference_history_test.py",
         "verification/zero_covariant_sphere_subject_bridge_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
@@ -7277,19 +7279,19 @@
         483,
         581,
         597,
-        648,
-        652,
-        667,
-        670,
-        675,
-        677,
-        691,
-        726,
-        763,
-        772,
-        775,
-        778,
-        847
+        649,
+        653,
+        668,
+        671,
+        676,
+        678,
+        692,
+        727,
+        764,
+        773,
+        776,
+        779,
+        848
       ]
     },
     {
@@ -20399,6 +20401,32 @@
       ]
     },
     {
+      "path": "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
+      "sha256": "439ff9fbcac44cff32f8016dc12bac62f7bf89f2e4b9975d4e52403a8378afa5",
+      "bytes": 11910,
+      "lines": 136,
+      "title": "A symmetry between the two signs—and a relational way to report one",
+      "headings": [
+        "A symmetry between the two signs—and a relational way to report one",
+        "Result",
+        "1. The history-preserving transformation",
+        "2. Why state symmetry is not automatically gauge",
+        "3. Conditional no-go, with a nonzero invariant remainder",
+        "4. A sharp sign relative to a symmetric reference",
+        "5. Implication for zero, plenitude and subjects",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
+        "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py"
+      ],
+      "risk_phrase_lines": [
+        18,
+        40,
+        127
+      ]
+    },
+    {
       "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
       "sha256": "b10c412c7581cb987a45b94f1d7afc0181e1d9386c9f08ae66d6a99383793f13",
       "bytes": 11466,
@@ -22382,9 +22410,9 @@
     },
     {
       "path": "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
-      "sha256": "29eb8a207ddbf040f17ddf826a308e67c59da194e1f9a6cf8ccd84ca89cea46b",
-      "bytes": 13137,
-      "lines": 138,
+      "sha256": "8ee939ce02cae4f7e6e6ce8b7049ea44f53b8c3a5c65ccfa648aa9263b63452f",
+      "bytes": 13417,
+      "lines": 140,
       "title": "Sign selection by clock and reference symmetry",
       "headings": [
         "Sign selection by clock and reference symmetry",
@@ -22397,14 +22425,15 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
         "verification/zero_spin_reversal_sign_selection_test.py",
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        11,
-        21,
-        109,
-        129
+        13,
+        23,
+        111,
+        131
       ]
     },
     {

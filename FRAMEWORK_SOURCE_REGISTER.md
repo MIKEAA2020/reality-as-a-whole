@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 723 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 655 verification Python scripts.
+- 724 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 656 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -610,6 +610,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md](ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md) — A balanced relational sign with a charge-preserving record
 - [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
+- [ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md](ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md) — A symmetry between the two signs—and a relational way to report one
 - [ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) — A permutation-symmetric whole with a changing relational history
 - [ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) — One internal reference: zero, geometry, measurement and experience
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
@@ -1413,6 +1414,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
 - [verification/zero_conserving_sphere_handedness_report_test.py](verification/zero_conserving_sphere_handedness_report_test.py)
 - [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py)
+- [verification/zero_contextual_sign_symmetry_and_dressed_report_test.py](verification/zero_contextual_sign_symmetry_and_dressed_report_test.py)
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)

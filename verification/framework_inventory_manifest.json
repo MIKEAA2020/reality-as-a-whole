@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7173aa88efb2ed0e47349b7bfdb89d920f4f0ea8",
-  "file_count": 2152,
+  "base_head": "2f0c5d33c735401f236497e2b9ef83a9dfdf12cc",
+  "file_count": 2154,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 198489,
-      "sha256": "3793b467a5557ee551ab3a4cd711a369cb2ad461fad70f49a4ce6bbd1ed26c01"
+      "bytes": 198827,
+      "sha256": "3f2384ffb2f551245d95891808be99c4b874bc9a6d42f8f24cbf0eeb02114030"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3009,6 +3009,11 @@
       "sha256": "660d9762797bb26c2648a49a360ca1a5fc929ec0b00b3c1e5a0231dcf61ec557"
     },
     {
+      "path": "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
+      "bytes": 11910,
+      "sha256": "439ff9fbcac44cff32f8016dc12bac62f7bf89f2e4b9975d4e52403a8378afa5"
+    },
+    {
       "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
       "bytes": 11466,
       "sha256": "b10c412c7581cb987a45b94f1d7afc0181e1d9386c9f08ae66d6a99383793f13"
@@ -3315,8 +3320,8 @@
     },
     {
       "path": "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
-      "bytes": 13137,
-      "sha256": "29eb8a207ddbf040f17ddf826a308e67c59da194e1f9a6cf8ccd84ca89cea46b"
+      "bytes": 13417,
+      "sha256": "8ee939ce02cae4f7e6e6ce8b7049ea44f53b8c3a5c65ccfa648aa9263b63452f"
     },
     {
       "path": "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
@@ -8110,8 +8115,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 962478,
-      "sha256": "d9f5cf52a423e8a02e81d7c30c413ca34b263a811f5b10a3c55a6b69b545d9f0"
+      "bytes": 963623,
+      "sha256": "a2b164eeb95615cb93da6d6c8da7b8dc5af4a0aaf0b4eb171933957196e71293"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10252,6 +10257,11 @@
       "path": "verification/zero_constitution_hamiltonian_phase_gate_test.py",
       "bytes": 13313,
       "sha256": "8194b6f2f598b6a090bb3821b740c3682c45bda7472bb6af1bd69eeae56f8ce8"
+    },
+    {
+      "path": "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py",
+      "bytes": 8905,
+      "sha256": "93bde4b94dbe53c492db4d895d3b2de6b8c8f617c36bb8afe5e6043a6c5bf248"
     },
     {
       "path": "verification/zero_covariant_pairing_reference_history_test.py",

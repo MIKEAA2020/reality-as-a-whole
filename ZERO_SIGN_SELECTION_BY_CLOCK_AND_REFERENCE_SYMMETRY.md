@@ -1,5 +1,7 @@
 # Sign selection by clock and reference symmetry
 
+Follow-up: [A symmetry between the two signs—and a relational way to report one](ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md) constructs a history-preserving transformation exchanging the two signs and a sharp report relative to a symmetry-transforming reference.
+
 ## Result
 
 There is a genuine, conditional selection result in the **same 90-dimensional sign-preserving orientation and existing 72-dimensional report sector**. On the actual common-zero spin sector with the old work condition \(L=+1\), require a sharp Hermitian sign to:
