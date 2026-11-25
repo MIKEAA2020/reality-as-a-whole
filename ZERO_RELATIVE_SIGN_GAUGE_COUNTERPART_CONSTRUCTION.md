@@ -1,5 +1,7 @@
 # A relative sign that survives one genuine redundancy
 
+**Subsequent resource reduction:** [An internal reference pair from the original paired state](ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md) constructs the D/E singlet from the same original labs on a 96-dimensional sector, while retaining a genuinely noncommuting sphere there. It also states the sector-coverage tradeoff and remaining joint-interface assumptions.
+
 ## The question
 
 The [whole-program synthesis](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) exposed a possible conflict. A sign that reverses under a transformation cannot be a nonzero, well-defined felt value **if** that transformation identifies its two labels as the same subject incidence. But not every symmetry is automatically such a redundancy. Can a sign be invariant under a real redescription while still having distinguishable opposite values related by a different symmetry?

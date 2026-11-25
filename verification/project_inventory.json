@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 756,
-  "bytes": 9641056,
-  "line_count": 87853,
-  "document_count_with_risk_phrases": 709,
+  "document_count": 757,
+  "bytes": 9655040,
+  "line_count": 87982,
+  "document_count_with_risk_phrases": 710,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "dc85d153c57e6ff25f86a67adc0652dc5ad5249b7506c1db321b7229377b63eb",
-      "bytes": 195311,
-      "lines": 1495,
+      "sha256": "a112ccca79c02f5eab4cb82178392b451733acc28097ab8d8847e0717ac5797b",
+      "bytes": 195882,
+      "lines": 1499,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6367,6 +6367,7 @@
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
@@ -6397,6 +6398,7 @@
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
+        "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
@@ -7148,6 +7150,7 @@
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
+        "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_internal_reference_subject_report_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
@@ -7176,6 +7179,7 @@
         "verification/zero_relational_orientation_reference_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
+        "verification/zero_relative_gauge_invariant_report_test.py",
         "verification/zero_sector_memory_incidence_test.py",
         "verification/zero_sector_record_energy_exchange_test.py",
         "verification/zero_sharp_opposition_and_experiential_response_test.py",
@@ -7232,19 +7236,19 @@
         481,
         579,
         595,
-        642,
-        645,
-        659,
-        661,
-        665,
+        643,
+        646,
+        660,
+        663,
         667,
-        681,
-        716,
-        752,
-        761,
-        764,
-        767,
-        836
+        669,
+        683,
+        718,
+        754,
+        763,
+        766,
+        769,
+        838
       ]
     },
     {
@@ -20991,6 +20995,41 @@
       ]
     },
     {
+      "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
+      "sha256": "2c842f7bb38fb4b4b455e2e9427d093b7b1eb7cb80c4a1542d7fbb06e02e497d",
+      "bytes": 13040,
+      "lines": 123,
+      "title": "An internal reference pair from the original paired state",
+      "headings": [
+        "An internal reference pair from the original paired state",
+        "Result",
+        "1. The original state, not a replacement",
+        "2. A noncommuting sphere and an undisturbed reference",
+        "3. Relative sign, conservation and the joint interface",
+        "4. Whole-state accounting and the price paid",
+        "5. Significance and limits",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_internal_pair_sphere_report_test.py",
+        "verification/zero_all_sector_noncommuting_sphere_test.py",
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+        "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        60,
+        70,
+        74,
+        76,
+        94,
+        96,
+        108,
+        112,
+        114
+      ]
+    },
+    {
       "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
       "sha256": "48c4603761a9320e66b170691387b71757eca0623aa52b49e737128074f7310e",
       "bytes": 14844,
@@ -21953,9 +21992,9 @@
     },
     {
       "path": "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
-      "sha256": "844ada4d96fdc95efa18ee657cd106614997538252530ea1c835366a2a20e473",
-      "bytes": 13054,
-      "lines": 184,
+      "sha256": "115d3482af196e40fb53d9aea7056e539e41c4b77868af671e82ddcd8731af26",
+      "bytes": 13427,
+      "lines": 186,
       "title": "A relative sign that survives one genuine redundancy",
       "headings": [
         "A relative sign that survives one genuine redundancy",
@@ -21968,17 +22007,18 @@
         "6. The experience and measure test survives the improvement"
       ],
       "local_links": [
+        "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "verification/zero_relative_gauge_invariant_report_test.py",
         "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md"
       ],
       "risk_phrase_lines": [
-        81,
-        89,
-        106,
-        110,
-        173,
-        175
+        83,
+        91,
+        108,
+        112,
+        175,
+        177
       ]
     },
     {

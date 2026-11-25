@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 713 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 646 verification Python scripts.
+- 714 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 647 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -628,6 +628,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md](ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md) — Can time arise in a timeless whole? An interacting clock result
 - [ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md](ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md) — Interacting geometry clock: first reading, records and no reading
 - [ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md](ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md) — Interacting geometry slices: a regulated clock-perspective construction
+- [ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md](ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md) — An internal reference pair from the original paired state
 - [ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md](ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md) — A reference from the paired state, and what a confined subject could report
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
 - [ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) — A conservation-preserving instrument for the internal sphere
@@ -1424,6 +1425,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_interacting_geometry_clock_cyclicity_test.py](verification/zero_interacting_geometry_clock_cyclicity_test.py)
 - [verification/zero_interacting_geometry_slice_clock_test.py](verification/zero_interacting_geometry_slice_clock_test.py)
 - [verification/zero_interacting_relational_first_reading_test.py](verification/zero_interacting_relational_first_reading_test.py)
+- [verification/zero_internal_pair_sphere_report_test.py](verification/zero_internal_pair_sphere_report_test.py)
 - [verification/zero_internal_reference_subject_report_test.py](verification/zero_internal_reference_subject_report_test.py)
 - [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)
