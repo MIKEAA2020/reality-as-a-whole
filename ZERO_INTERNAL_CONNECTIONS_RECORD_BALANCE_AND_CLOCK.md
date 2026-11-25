@@ -4,6 +4,8 @@ This report strengthens the links **within the existing sphere construction** ra
 
 ## 1. What is now connected
 
+**Primary-source continuation:** [Page–Wootters (1983), stationary observables, and the sphere echo](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md) uses the original paper to construct stationary pre/post-echo joint observables and checks their actual distribution.
+
 The following four facts fit into one mathematical structure:
 
 1. The candidate incidence flag is a **conserved reference observable** in the actual 20-operation sphere echo.

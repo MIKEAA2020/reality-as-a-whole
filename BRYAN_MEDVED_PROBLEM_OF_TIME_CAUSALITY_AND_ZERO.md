@@ -4,6 +4,8 @@
 
 **Bottom line for our work.** The paper asks exactly the next question: how do internal clock correlations, physical interactions, memory and causal direction fit together in one isolated whole? It strengthens the demand for a *physical interface*, not just a mathematically ordered list. But some of its strongest necessity claims exceed the arguments given. In particular, isolated-clock correlations need not be inaccessible to every small subsystem, and recording interactions do not by themselves yield a universal thermodynamic arrow. I constructed explicit finite countermodels and connected them to our recent coherent memory echo; the checks are in [the verifier](verification/bryan_medved_relational_time_claims_test.py).
 
+**Original-source continuation:** [Page–Wootters (1983), stationary observables, and the sphere echo](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md) reads the original paper and derives the stationary pre/post sphere-echo relation.
+
 ## 1. What the authors argue
 
 The paper distinguishes a capacity for change (“time”) from a compulsion to move through configurations (“causality”). It considers how quantum theory and general relativity might have a common deeper temporal structure, then treats a Wheeler–DeWitt-type constraint `H|Ψ⟩=0` as an isolated-universe model. In the Page–Wootters construction, the stationary whole is partitioned into a clock and the rest; conditional states of the latter depend on the clock reading.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 783,
-  "bytes": 10017500,
-  "line_count": 91160,
-  "document_count_with_risk_phrases": 736,
+  "document_count": 784,
+  "bytes": 10032048,
+  "line_count": 91279,
+  "document_count_with_risk_phrases": 737,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1421,9 +1421,9 @@
     },
     {
       "path": "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
-      "sha256": "14d2f50dbbbb6ad6f3b9b928906bc1bbea7443d7658924c9aba76da2aa12131a",
-      "bytes": 14937,
-      "lines": 113,
+      "sha256": "925138c63fe8b24360b111e6d4f017b91fcda7eb71c11abf1e46b5eed680b037",
+      "bytes": 15171,
+      "lines": 115,
       "title": "Bryan and Medved: time, causality, records and the zero whole",
       "headings": [
         "Bryan and Medved: time, causality, records and the zero whole",
@@ -1437,19 +1437,20 @@
       ],
       "local_links": [
         "verification/bryan_medved_relational_time_claims_test.py",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md"
       ],
       "risk_phrase_lines": [
         5,
-        31,
-        45,
-        57,
-        74,
-        78,
-        88,
-        104
+        33,
+        47,
+        59,
+        76,
+        80,
+        90,
+        106
       ]
     },
     {
@@ -5793,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "22fe9ae634c70458566540a5535d449a1975769f66d57aa6c3643ecdc4bdc2bc",
-      "bytes": 203779,
-      "lines": 1551,
+      "sha256": "bfa4ba4fc47db4c33cfd869e3b0cc00dbb1c8317c92598173f8a6f795cf956e2",
+      "bytes": 204148,
+      "lines": 1554,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6462,6 +6463,7 @@
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -6640,6 +6642,7 @@
         "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
         "sources/uploads/merker2007.pdf",
         "sources/uploads/miller2017.pdf",
+        "sources/uploads/page1983.pdf",
         "sources/uploads/qftlocarx.txt",
         "sources/uploads/quantum_position_verification_main.txt",
         "sources/uploads/rainville1997.pdf",
@@ -7268,6 +7271,7 @@
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_orientation_extension_operational_boundary_test.py",
+        "verification/zero_page_wootters_original_sphere_connection_test.py",
         "verification/zero_persistent_sphere_subject_selection_test.py",
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
@@ -7348,17 +7352,17 @@
         600,
         660,
         664,
-        681,
-        684,
-        689,
-        691,
-        708,
-        743,
-        780,
-        789,
-        792,
-        795,
-        865
+        682,
+        685,
+        690,
+        692,
+        709,
+        744,
+        781,
+        790,
+        793,
+        796,
+        867
       ]
     },
     {
@@ -11890,9 +11894,9 @@
     },
     {
       "path": "PAGE_WOOTTERS_STATIC_CLOCK.md",
-      "sha256": "5c2da6e99dfc9a8bd3b49915cd14c6998fdbf2d122e44cc8d9e3592b21f2463f",
-      "bytes": 7193,
-      "lines": 136,
+      "sha256": "7ed173d4f40dd800bd9c66e9d4ef1921a45c828bae39c468136f20e052268f59",
+      "bytes": 7480,
+      "lines": 138,
       "title": "Page–Wootters conditional time and the static spherical gravitational clock",
       "headings": [
         "Page–Wootters conditional time and the static spherical gravitational clock",
@@ -11905,14 +11909,15 @@
       ],
       "local_links": [
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "QUANTUM_STATIC_SPHERICAL_CLOCK.md",
         "verification/page_wootters_static_clock.py",
         "ASPHERICAL_QUADRUPOLE_LOSS.md",
         "verification/page_wootters_static_clock.json"
       ],
       "risk_phrase_lines": [
-        15,
-        115
+        17,
+        117
       ]
     },
     {
@@ -21384,9 +21389,9 @@
     },
     {
       "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
-      "sha256": "95fba263de13f374da0b1d7b3f8b202ae03bf9ada54a898baca76566f6849a54",
-      "bytes": 13358,
-      "lines": 125,
+      "sha256": "598d933a55629fc24d078c02d476fbba255a5c0051353e4b5705415fc2976a6a",
+      "bytes": 13626,
+      "lines": 127,
       "title": "Internal connections: record algebra, signed balance, and the relational clock",
       "headings": [
         "Internal connections: record algebra, signed balance, and the relational clock",
@@ -21402,16 +21407,17 @@
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-        "verification/zero_internal_connection_flag_access_balance_test.py"
+        "verification/zero_internal_connection_flag_access_balance_test.py",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
       ],
       "risk_phrase_lines": [
         3,
-        10,
-        36,
-        70,
+        12,
+        38,
         72,
-        85,
-        125
+        74,
+        87,
+        127
       ]
     },
     {
@@ -22229,6 +22235,37 @@
         45,
         65,
         125
+      ]
+    },
+    {
+      "path": "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+      "sha256": "65709c3544a58c50cc70125c3c30a2e99f57d36f105b4a08a6975b6927415302",
+      "bytes": 13390,
+      "lines": 110,
+      "title": "Page–Wootters (1983), stationary observables, and the sphere echo",
+      "headings": [
+        "Page–Wootters (1983), stationary observables, and the sphere echo",
+        "Bottom line",
+        "1. What Page and Wootters actually argue",
+        "2. Why averaging the joint observable matters",
+        "3. A precise stationary observable for the existing sphere clock",
+        "4. Pre- and post-echo change as one stationary joint distribution",
+        "5. What “zero-energy whole” does and does not follow",
+        "6. What the paper strengthens in the one-reality program"
+      ],
+      "local_links": [
+        "sources/uploads/page1983.pdf",
+        "verification/zero_page_wootters_original_sphere_connection_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        17,
+        21,
+        35,
+        39,
+        92
       ]
     },
     {

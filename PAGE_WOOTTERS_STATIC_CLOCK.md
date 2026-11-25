@@ -2,6 +2,8 @@
 
 > **Historical warning:** The assertions below that an ADM/Killing generator already supplies an ideal continuous clock with zero clock error, and that this calculation verifies a Page–Wootters clock–system realization, are not established by the cited script. It evaluates numerical proxies and assumes the clock identification; it does not construct a clock Hilbert space, a covariant clock observable, a normalized physical history state or an operational readout with an error bound. Treat the claimed zero clock error and derivation of the PaW bridge as unsupported, not as results. The [intrinsic-time and correlation gate](INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md) states what a defensible bridge must preserve. This warning does not invalidate the abstract Page–Wootters formalism or every result in the underlying gravitational models.
 
+**Original-paper audit:** [Page–Wootters (1983), stationary observables, and the sphere echo](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md) reads the original paper, checks its spin-clock formulas, and constructs a separate finite sphere relation without assuming an ideal ADM clock.
+
 The paper “Magnetic clock for a harmonic oscillator” (Coppo, Cuccoli, Verrucchi,
 PRA 109, 052212, 2024; arXiv:2310.13386) implements the Page–Wootters (PaW)
 relational-time mechanism using two non-interacting, entangled quantum
