@@ -1,5 +1,7 @@
 # Keeping the sphere while sourcing its reference internally
 
+**Subsequent F-reference result:** [Sourcing F internally—and tracking the orientation it displaces](ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md) constructs F from the original paired state on a 72-dimensional sector. It also shows why the compensating partner must be retained and why the enlarged orientation is not zero in that construction.
+
 ## Main result: the earlier tradeoff was too strong
 
 The [previous construction](ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md) obtained an internal D/E singlet on 96 dimensions, but used a different sphere pairing and a neutral instrument elsewhere. That implementation **did not need to give up** the previous 190-dimensional exact-qubit sphere instrument.

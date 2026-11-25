@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "4be24f166559c60edbc57fa3f440d37c4c5393b8",
-  "file_count": 2137,
+  "base_head": "5836fcafd3ecd0ff779169c1f7f8eeeccaaea389",
+  "file_count": 2139,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 196173,
-      "sha256": "6c61ba860548707eb822b2a76c4782306d84774688d86c9a4a521e45f46e3cff"
+      "bytes": 196487,
+      "sha256": "6583e7808db7af051c1011fb7ccfed5b3c35f22ad7e152ec15aeb89da9e5fd1d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3099,6 +3099,11 @@
       "sha256": "8ddb7e148ee6f8e8e6d8270a023cde7449ad7680796c6fcd1fd7d8cf7f3621fe"
     },
     {
+      "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
+      "bytes": 12701,
+      "sha256": "67a23b63357289caa74dba3917b5cf5bdc8f04b4a8d725ae10a19a44345d8117"
+    },
+    {
       "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
       "bytes": 13528,
       "sha256": "ea6395fca0c31e2ce2be6faaab657297449c388d18e7c64822266257969f066d"
@@ -3175,8 +3180,8 @@
     },
     {
       "path": "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
-      "bytes": 13568,
-      "sha256": "7e8218ba2b380d997eac189e721f85cfdeb7cbf85a284dbd14ff024260166239"
+      "bytes": 13933,
+      "sha256": "ea00ade5c166092fbdccfce171d003da6264a50347f515d4881249263b927f27"
     },
     {
       "path": "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
@@ -8065,8 +8070,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 953747,
-      "sha256": "7208aa774eb17d6b69ea7d58b210f459205d4a03ad52436f3f9564d657f9d848"
+      "bytes": 955063,
+      "sha256": "9b396c5e63391044e1828cae598163710b3fe3e9639ad44438b6bf8abee858da"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10317,6 +10322,11 @@
       "path": "verification/zero_interacting_relational_first_reading_test.py",
       "bytes": 9900,
       "sha256": "459d0e58d761414f67b11bb2defe0504f9c56c306230db703992cc1584598721"
+    },
+    {
+      "path": "verification/zero_internal_f_reference_transfer_test.py",
+      "bytes": 12484,
+      "sha256": "7ad0fc45d82665f4a5efa9c76cb6810a39b5090e7fbb9261821be1866881bfe0"
     },
     {
       "path": "verification/zero_internal_pair_sphere_report_test.py",

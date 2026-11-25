@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 758,
-  "bytes": 9669387,
-  "line_count": 88123,
-  "document_count_with_risk_phrases": 711,
+  "document_count": 759,
+  "bytes": 9682453,
+  "line_count": 88260,
+  "document_count_with_risk_phrases": 712,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -20997,6 +20997,36 @@
       ]
     },
     {
+      "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
+      "sha256": "67a23b63357289caa74dba3917b5cf5bdc8f04b4a8d725ae10a19a44345d8117",
+      "bytes": 12701,
+      "lines": 135,
+      "title": "Sourcing F internally—and tracking the orientation it displaces",
+      "headings": [
+        "Sourcing F internally—and tracking the orientation it displaces",
+        "Result",
+        "1. Three pairs already inside one part of the original state",
+        "2. An exact swap replaces the added F isometry",
+        "3. What the swap conserves—and what it does not",
+        "4. The gauge-even sign survives, but the full balance does not",
+        "5. The no-go is broader than a missing gate",
+        "6. Consequence for the larger project"
+      ],
+      "local_links": [
+        "verification/zero_internal_f_reference_transfer_test.py",
+        "verification/zero_relational_orientation_reference_test.py",
+        "verification/zero_relative_gauge_invariant_report_test.py",
+        "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
+        "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        36,
+        89
+      ]
+    },
+    {
       "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
       "sha256": "ea6395fca0c31e2ce2be6faaab657297449c388d18e7c64822266257969f066d",
       "bytes": 13528,
@@ -21474,9 +21504,9 @@
     },
     {
       "path": "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
-      "sha256": "7e8218ba2b380d997eac189e721f85cfdeb7cbf85a284dbd14ff024260166239",
-      "bytes": 13568,
-      "lines": 137,
+      "sha256": "ea00ade5c166092fbdccfce171d003da6264a50347f515d4881249263b927f27",
+      "bytes": 13933,
+      "lines": 139,
       "title": "Keeping the sphere while sourcing its reference internally",
       "headings": [
         "Keeping the sphere while sourcing its reference internally",
@@ -21489,6 +21519,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_all_sector_noncommuting_sphere_test.py",
@@ -21496,18 +21527,18 @@
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        14,
-        22,
-        47,
-        55,
-        59,
-        86,
+        7,
+        11,
+        16,
+        24,
+        49,
+        57,
+        61,
         88,
-        92,
-        106,
-        114
+        90,
+        94,
+        108,
+        116
       ]
     },
     {
