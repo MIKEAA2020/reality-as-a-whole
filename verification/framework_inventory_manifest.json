@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b659bc16f472640c556856fa5a219fb103864070",
-  "file_count": 2109,
+  "base_head": "1437400d9907540c50f13015d7caece0b3ce9184",
+  "file_count": 2111,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 192183,
-      "sha256": "40cc050e6cf8d23d3a2331ac99e5e7bc8368cf0ac19bcd793b602909298fa014"
+      "bytes": 192440,
+      "sha256": "8147cabab532084df20a0ccfa1162d62b967741e20a94419d76b9e6e3d489cfe"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3130,8 +3130,13 @@
     },
     {
       "path": "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
-      "bytes": 9841,
-      "sha256": "a56708333eff63d1a373e4e71270b22328c8cc5fcd8a69898994308a65fee90b"
+      "bytes": 10130,
+      "sha256": "3d011c4c7d96ea6717e6e1d8341467baf0eb487428804fecef04f7a9df230533"
+    },
+    {
+      "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
+      "bytes": 11118,
+      "sha256": "b9904a7c817a4b42a9dd4a5183b8d3582f2686a29e6dcd533fd30cdefe4eb283"
     },
     {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -7995,8 +8000,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 934337,
-      "sha256": "fe601671db1d1240f2a47f5111b5bcea9f9f59d91e65a797e2ec7ec798cf9877"
+      "bytes": 935512,
+      "sha256": "5982121e69c03d3e6ee8451c1c024fefbf71e3f3612fa240aecb760277f17629"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10277,6 +10282,11 @@
       "path": "verification/zero_neutral_exchange_from_balance_test.py",
       "bytes": 7122,
       "sha256": "359723188097e3ea16d26519cdc19ae70831b8ff40a097a2a10348c3eb6da47f"
+    },
+    {
+      "path": "verification/zero_plenitude_coupling_clock_test.py",
+      "bytes": 6474,
+      "sha256": "63cb0ebc54535aed3d6648dc0aedeef1c43e1d4ec6a25cd25e4f2a4d61869ca3"
     },
     {
       "path": "verification/zero_plenitude_necessity_test.py",

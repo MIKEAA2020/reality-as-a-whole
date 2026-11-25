@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 744,
-  "bytes": 9470585,
-  "line_count": 86077,
-  "document_count_with_risk_phrases": 697,
+  "document_count": 745,
+  "bytes": 9482248,
+  "line_count": 86219,
+  "document_count_with_risk_phrases": 698,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a5a613fa414cd35a25c239fe9c5b3e43de1753fc6e6ef8744748b4e8076936bf",
-      "bytes": 191927,
-      "lines": 1471,
+      "sha256": "40cc050e6cf8d23d3a2331ac99e5e7bc8368cf0ac19bcd793b602909298fa014",
+      "bytes": 192183,
+      "lines": 1473,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6373,6 +6373,7 @@
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
+        "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
@@ -7141,6 +7142,7 @@
         "verification/zero_localized_modules_boundary_test.py",
         "verification/zero_minimal_symmetry_reference_record_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
+        "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
         "verification/zero_point_blowup_test.py",
@@ -7209,17 +7211,18 @@
         579,
         595,
         634,
-        647,
-        649,
-        653,
-        655,
-        669,
-        704,
-        740,
-        749,
-        752,
-        755,
-        824
+        637,
+        648,
+        650,
+        654,
+        656,
+        670,
+        705,
+        741,
+        750,
+        753,
+        756,
+        825
       ]
     },
     {
@@ -21147,9 +21150,9 @@
     },
     {
       "path": "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
-      "sha256": "a56708333eff63d1a373e4e71270b22328c8cc5fcd8a69898994308a65fee90b",
-      "bytes": 9841,
-      "lines": 156,
+      "sha256": "3d011c4c7d96ea6717e6e1d8341467baf0eb487428804fecef04f7a9df230533",
+      "bytes": 10130,
+      "lines": 158,
       "title": "A parity exchange from an exact zero-charge condition",
       "headings": [
         "A parity exchange from an exact zero-charge condition",
@@ -21163,18 +21166,50 @@
       ],
       "local_links": [
         "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
-        "verification/zero_neutral_exchange_from_balance_test.py"
+        "verification/zero_neutral_exchange_from_balance_test.py",
+        "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md"
       ],
       "risk_phrase_lines": [
         1,
         5,
         19,
-        51,
-        54,
-        68,
-        76,
-        141,
-        156
+        53,
+        56,
+        70,
+        78,
+        143,
+        158
+      ]
+    },
+    {
+      "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
+      "sha256": "b9904a7c817a4b42a9dd4a5183b8d3582f2686a29e6dcd533fd30cdefe4eb283",
+      "bytes": 11118,
+      "lines": 138,
+      "title": "A single zero whole containing frozen and changing couplings",
+      "headings": [
+        "A single zero whole containing frozen and changing couplings",
+        "What this resolves",
+        "1. One coupling operator instead of one chosen coupling",
+        "2. An independent relational clock",
+        "3. Same plenitude, different predictions",
+        "4. Why equal weighting over all integers is not a solution",
+        "5. What would count as the next genuine advance",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
+        "verification/zero_plenitude_coupling_clock_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        15,
+        26,
+        88,
+        98,
+        127,
+        138
       ]
     },
     {

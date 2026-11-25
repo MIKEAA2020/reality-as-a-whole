@@ -22,6 +22,8 @@ This is a substantive dependency reduction, but not yet a derivation from zero a
 
 Verifier: [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py).
 
+**Plenitude continuation:** [a single zero whole containing frozen and changing couplings](ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md) retains all integer couplings coherently, including zero, and tests whether full support and sign symmetry determine the measure or relational predictions.
+
 ## 1. From the four-state reference to an explicitly balanced pair
 
 The previous construction had a two-dimensional multiplicity reference R, a parity reference P and the two-dimensional spin-zero multiplicity V. Here add a qubit Q and define
