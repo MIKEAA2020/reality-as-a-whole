@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 788,
-  "bytes": 10090642,
-  "line_count": 91680,
-  "document_count_with_risk_phrases": 741,
+  "document_count": 789,
+  "bytes": 10102190,
+  "line_count": 91772,
+  "document_count_with_risk_phrases": 742,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d4a247d8a383788cb48f894d1cd3ed1b060464cd707e9375c05dd56a81e24312",
-      "bytes": 205288,
-      "lines": 1562,
+      "sha256": "e73c4cb061a2b009e830869c0e59ea9488e2ec2eb46d1b66225ea4e31ca0ad5b",
+      "bytes": 205604,
+      "lines": 1564,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6504,6 +6504,7 @@
         "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
+        "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
@@ -7321,6 +7322,7 @@
         "verification/zero_spin_reversal_sign_selection_test.py",
         "verification/zero_stationary_whole_unique_history_test.py",
         "verification/zero_structural_time_data_echo_test.py",
+        "verification/zero_structural_time_stationary_two_clock_test.py",
         "verification/zero_subject_boundary_full_constraint_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
@@ -7364,13 +7366,13 @@
         688,
         693,
         695,
-        713,
-        748,
-        785,
-        794,
-        797,
-        800,
-        871
+        714,
+        749,
+        786,
+        795,
+        798,
+        801,
+        872
       ]
     },
     {
@@ -20634,9 +20636,9 @@
     },
     {
       "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
-      "sha256": "95ddf31ab26ad2fca98d28eab30499bfa9cf46e9bfec55a251fb43803c8393e7",
-      "bytes": 15043,
-      "lines": 87,
+      "sha256": "3376a716be49f36913e08278a67d3758702e910e1128a25af0443f70e7d63844",
+      "bytes": 15320,
+      "lines": 89,
       "title": "Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits",
       "headings": [
         "Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits",
@@ -20648,6 +20650,7 @@
         "6. What it means for zero and subjectivity"
       ],
       "local_links": [
+        "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "verification/zero_structural_time_data_echo_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
@@ -20655,12 +20658,12 @@
         "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md"
       ],
       "risk_phrase_lines": [
-        13,
-        33,
-        39,
+        15,
+        35,
         41,
-        45,
-        71
+        43,
+        47,
+        73
       ]
     },
     {
@@ -23543,6 +23546,35 @@
         127,
         146,
         157
+      ]
+    },
+    {
+      "path": "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
+      "sha256": "1d1c5ef51a8d922b76ae0beb50caa26d5b303245bc7fa85b149bb4991a316656",
+      "bytes": 10955,
+      "lines": 88,
+      "title": "Structural time and two internal clocks: a stationary sphere comparison",
+      "headings": [
+        "Structural time and two internal clocks: a stationary sphere comparison",
+        "Result",
+        "1. Source and precise point of contact",
+        "2. The sphere orbit and the additional reference",
+        "3. Stationary comparison effects",
+        "4. Coarse clock access changes the actual echo prediction",
+        "5. Why this matters for zero's constitution"
+      ],
+      "local_links": [
+        "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
+        "verification/zero_structural_time_stationary_two_clock_test.py",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
+      ],
+      "risk_phrase_lines": [
+        39,
+        57,
+        71,
+        80,
+        84
       ]
     },
     {
