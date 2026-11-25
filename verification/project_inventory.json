@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 812,
-  "bytes": 10416194,
-  "line_count": 94289,
-  "document_count_with_risk_phrases": 765,
+  "document_count": 813,
+  "bytes": 10434512,
+  "line_count": 94425,
+  "document_count_with_risk_phrases": 766,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0fad9206817a0a2c9c2d8a2bf0267b99e3b59cbdbe5d398efb0e232bcb515e09",
-      "bytes": 213704,
-      "lines": 1626,
+      "sha256": "b90b97013b770a63dc64fb8e9de7c81cb78d4b705e72155846b229139b2db6de",
+      "bytes": 214101,
+      "lines": 1629,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6473,6 +6473,7 @@
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
         "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
         "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
         "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -7346,6 +7347,8 @@
         "verification/zero_relational_chirality_report_test.py",
         "verification/zero_relational_clock_reusable_memory_test.py",
         "verification/zero_relational_history_experiential_clock_test.py",
+        "verification/zero_relational_link_symmetry.py",
+        "verification/zero_relational_link_symmetry_test.py",
         "verification/zero_relational_orientation_reference_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
@@ -7427,19 +7430,19 @@
         484,
         584,
         603,
-        675,
-        679,
-        702,
-        705,
-        714,
-        717,
-        737,
-        772,
-        809,
-        818,
-        821,
-        824,
-        895
+        676,
+        680,
+        703,
+        706,
+        715,
+        718,
+        738,
+        773,
+        810,
+        819,
+        822,
+        825,
+        896
       ]
     },
     {
@@ -19947,9 +19950,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "a4d6eb17f1e760286e802f9b902937acfdae9b7a914e84b8e12f524caebfe339",
-      "bytes": 16573,
-      "lines": 63,
+      "sha256": "17b4d07860c1d292f4f1bcb151e49f05944983bced73500c9f3e1f6598b09872",
+      "bytes": 17269,
+      "lines": 65,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19978,7 +19981,8 @@
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
-        "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md"
+        "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19988,7 +19992,8 @@
         34,
         36,
         39,
-        52
+        43,
+        54
       ]
     },
     {
@@ -21073,9 +21078,9 @@
     },
     {
       "path": "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
-      "sha256": "5be582d8f3b43d2565f3122d8c28f85a7d5e8d8e4adfd1e4afd3dd8f8f8a2b60",
-      "bytes": 13796,
-      "lines": 109,
+      "sha256": "379a7070a3482b7b93d40452fe12f1c2db28ca0470332bfcba02a7ff2c685777",
+      "bytes": 14159,
+      "lines": 111,
       "title": "Dressed rotations through the full clock, reservoir and opposite pair",
       "headings": [
         "Dressed rotations through the full clock, reservoir and opposite pair",
@@ -21088,6 +21093,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "verification/zero_dressed_history_pair.py",
         "verification/zero_dressed_history_pair_test.py",
@@ -21096,10 +21102,10 @@
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
       ],
       "risk_phrase_lines": [
-        45,
-        53,
-        83,
-        99
+        47,
+        55,
+        85,
+        101
       ]
     },
     {
@@ -22521,6 +22527,39 @@
       ]
     },
     {
+      "path": "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+      "sha256": "e91c793904934c5256bc0f27e7d69177d57a3549cc97cca80acf32d1b31802d1",
+      "bytes": 16411,
+      "lines": 127,
+      "title": "Why the local-magnitude anomaly arises—and a deeper relational resolution",
+      "headings": [
+        "Why the local-magnitude anomaly arises—and a deeper relational resolution",
+        "Answer",
+        "1. The root: changing a relationship is not merely changing its description",
+        "2. A link makes independent frame changes truly relational",
+        "3. The resolution includes the real recorded and stationary model",
+        "4. The meta-level: why zero and symmetry do not yet determine a measure",
+        "5. A second meta-control: abstract symmetry can be tailored to a state",
+        "6. What this contributes to the user's whole"
+      ],
+      "local_links": [
+        "verification/zero_relational_link_symmetry.py",
+        "verification/zero_relational_link_symmetry_test.py",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        50,
+        58,
+        74,
+        76,
+        78,
+        90,
+        110,
+        118
+      ]
+    },
+    {
       "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
       "sha256": "1c3efdb354357250f3671f87b7407505db7e485131573c615f1a5d50638744bb",
       "bytes": 10923,
@@ -23891,9 +23930,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "f70ca60c61669b0d64d53bb9a75849a26602bf0cd7a0f32a8d1fb19e33eb602a",
-      "bytes": 21521,
-      "lines": 146,
+      "sha256": "9bda108455d0f35d01bc53f75d5743608032b4bc9893b975b5ff494aaf24d9e5",
+      "bytes": 21972,
+      "lines": 148,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23906,6 +23945,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
@@ -23931,21 +23971,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
+        11,
         17,
-        23,
+        19,
         25,
-        35,
-        66,
-        81,
-        112,
+        27,
+        37,
+        68,
+        83,
         114,
-        122,
-        125,
-        126,
+        116,
+        124,
         127,
-        134
+        128,
+        129,
+        136
       ]
     },
     {

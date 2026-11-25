@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Sixteenth-pass continuation:** [the relational magnitude root cause](ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md) distinguishes active changes of relative angle from independent internal frame changes. A relative-frame comparator preserves individual magnitudes as well as the zero sum, while explicit countermodels show that frame symmetry and zero alone do not determine orbit-space weights or the physical–experiential constitution.
+
 **Fifteenth-pass continuation:** [full-clock and opposite-pair dressing](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) carries the correlated rotation through the actual reversible echo and purified apparatus and the gauge-constrained pair. The combined stationary history and zero pair sum are preserved, but nonconstant individual magnitudes are not rotation-invariant; the action and its physical interpretation remain model inputs.
 
 **Fourteenth-pass continuation:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) implement independent rotations on the actual old quantum records and both sign branches, fixing their correlated post-echo spherical states and selecting a uniform scalar within one specified family. The dressing is constructed from the history rather than derived from zero; its extension to the full clock/reservoir history and additional constrained pair is not yet verified.
