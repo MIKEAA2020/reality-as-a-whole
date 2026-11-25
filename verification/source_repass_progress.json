@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "e639fe34c699e3aee6a4712f5051d51e5696f7ceef1abdc9fcd1fa688741db44",
+      "sha256": "da2cb922b299907c2fb5841197d90a398c83a69c99307fd03852c984ff9a41cc",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11025,7 +11025,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "9243a72de829cd8308e2c644be66b63f8e794e7af4a33b8afc3de50862295ef9",
+      "sha256": "46cdd82cdcfff40c4c683b1ce68f2c586f0038bfdf51f508e9023e808a69c588",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11365,6 +11365,25 @@
       }
     },
     {
+      "path": "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
+      "kind": "authored root document",
+      "sha256": "0cb4af1c20f8d1713fa1a14b6c6b73f24ec4f54655ccd26569f94a5a21713264",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
       "kind": "authored root document",
       "sha256": "7141ffc252ac06392a523c5c6af2206611d8bf85e0e1cd04d476fee575aa7f46",
@@ -11538,7 +11557,7 @@
     {
       "path": "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
       "kind": "authored root document",
-      "sha256": "8519946e6c87176eb9ee22899381da3664d391c9a05bf87d1824d1d45a0b2645",
+      "sha256": "59766cca1fb2669ac8d58c681d281a94d912f6471febc32eeb40c24bece719eb",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11861,7 +11880,7 @@
     {
       "path": "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
       "kind": "authored root document",
-      "sha256": "4b514bdd9ffcdfef9972aa734b6e93cf2c8e89094b455582ad1933fdf4d35354",
+      "sha256": "ff231b43a233b92ebd33eddacd3cbbf5d75bf71237dfd3bacb4c154d29cbc09e",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -12469,7 +12488,7 @@
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
       "kind": "authored root document",
-      "sha256": "5eff18e2e53c1ba1d71929538f80ea9c0666e12c8bfa92d1c161101cca4ae3c1",
+      "sha256": "51046c66f909a609ca91f1ddff0933ebdd89d919a07a8b6ca6f0d747f6003a76",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13229,7 +13248,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "94b95126fd34a5ec7e09e29405f67960117cbb725d2c932016bc61c6d1796795",
+      "sha256": "e9282a7519064ce53516be9b51a77a0ee473012cefe836a7d96fcb5a8673e99d",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -16561,14 +16580,17 @@
         "plan": {
           "status": "partial",
           "evidence": [
-            "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md"
+            "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
+            "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md"
           ]
         },
         "implemented": {
           "status": "partial",
           "evidence": [
             "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
-            "verification/zero_sphere_angular_echo.py"
+            "verification/zero_sphere_angular_echo.py",
+            "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
+            "verification/zero_coherent_signed_counterpart.py"
           ]
         }
       }

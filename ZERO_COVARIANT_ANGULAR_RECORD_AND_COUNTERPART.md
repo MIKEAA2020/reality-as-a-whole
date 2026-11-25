@@ -2,6 +2,8 @@
 
 ## Why this matters
 
+**Physical sign continuation:** [the clock-dressed coherent counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) constructs a separate sign-pointer reversal on the original quantum history, including the clock phase needed for coherence. The angular antipode below remains a different mathematical map; this continuation does not turn it into the pointer operation or derive actual incidence.
+
 The [coherent angular quantum echo](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) adds a physical-model record of the scalar cosine `u`. The earlier [celestial structure](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) explains that its uniform direction measure and antipodes are defined relative to a chosen observer. This continuation puts the two into one explicit interface: it transports the distribution, record thresholds and mathematical counterpart between observers, and checks the new bins on the **actual coherent echo vectors**.
 
 A passive coordinate change of a fixed physical observer is not the same thing as asking the same angle question with a different physical observer. We must distinguish them to avoid calling a frame-dependent threshold or symmetry an observer-independent law. The tests in [zero_angular_covariant_access_test.py](verification/zero_angular_covariant_access_test.py) are exact rational calculations plus the original quantum vectors. No detector, localized transmission or actual subject access is thereby constructed.

@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Tenth-pass continuation:** [the coherent clock-dressed sign counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) fixes a real relative-phase failure of the bare pointer flip and composes with the full-quality g₂ type-swap. It gives exact physical pairing and a four-way actual-incidence theorem under separately stated symmetry assumptions; it does not derive those assumptions or establish consciousness.
+
 **Ninth-pass continuation:** [intrinsic quality and angular reconstruction](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) derives the optimal old-carrier observables for both angular magnitude candidates, with exact irreducible physical reconstruction errors. The result does not equate either observable or its estimate with felt experience.
 
 **Eighth-pass continuation:** [the coherent angular reservoir clock](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) combines the original echo vectors with purified reversible source/reservoir branches and a stationary two-clock protocol. It shows an explicit magnitude-access obstruction for a carrier that lacks the added angular record; access to that record does not establish subjective experience.

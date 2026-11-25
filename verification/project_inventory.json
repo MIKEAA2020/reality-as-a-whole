@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 806,
-  "bytes": 10319313,
-  "line_count": 93466,
-  "document_count_with_risk_phrases": 759,
+  "document_count": 807,
+  "bytes": 10338665,
+  "line_count": 93630,
+  "document_count_with_risk_phrases": 760,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e639fe34c699e3aee6a4712f5051d51e5696f7ceef1abdc9fcd1fa688741db44",
-      "bytes": 211546,
-      "lines": 1608,
+      "sha256": "da2cb922b299907c2fb5841197d90a398c83a69c99307fd03852c984ff9a41cc",
+      "bytes": 211920,
+      "lines": 1611,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6413,6 +6413,7 @@
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
@@ -7252,6 +7253,8 @@
         "verification/zero_clock_relational_povm_test.py",
         "verification/zero_coherent_clock_angular_history.py",
         "verification/zero_coherent_clock_angular_history_test.py",
+        "verification/zero_coherent_signed_counterpart.py",
+        "verification/zero_coherent_signed_counterpart_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_conserving_sphere_handedness_report_test.py",
@@ -7409,19 +7412,19 @@
         484,
         584,
         603,
-        671,
-        675,
-        697,
-        700,
-        709,
-        712,
-        731,
-        766,
-        803,
-        812,
-        815,
-        818,
-        889
+        672,
+        676,
+        698,
+        701,
+        710,
+        713,
+        732,
+        767,
+        804,
+        813,
+        816,
+        819,
+        890
       ]
     },
     {
@@ -19929,9 +19932,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "9243a72de829cd8308e2c644be66b63f8e794e7af4a33b8afc3de50862295ef9",
-      "bytes": 12713,
-      "lines": 56,
+      "sha256": "46cdd82cdcfff40c4c683b1ce68f2c586f0038bfdf51f508e9023e808a69c588",
+      "bytes": 13326,
+      "lines": 57,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19954,7 +19957,8 @@
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
-        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md"
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19962,7 +19966,7 @@
         32,
         33,
         34,
-        45
+        46
       ]
     },
     {
@@ -20535,6 +20539,38 @@
       ]
     },
     {
+      "path": "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
+      "sha256": "0cb4af1c20f8d1713fa1a14b6c6b73f24ec4f54655ccd26569f94a5a21713264",
+      "bytes": 16834,
+      "lines": 152,
+      "title": "A sign-reversing counterpart of the coherent angular history",
+      "headings": [
+        "A sign-reversing counterpart of the coherent angular history",
+        "Result",
+        "1. From the input idea to one physical operation",
+        "2. The bare counterpart fails as a coherent-history symmetry",
+        "3. The repaired stationary counterpart",
+        "4. Pairing actual physical effects, not just total averages",
+        "5. Combine sign pairing and type exchange in one physical construction",
+        "6. From physical symmetry to actual incidence: the exact conditional theorem"
+      ],
+      "local_links": [
+        "verification/zero_coherent_signed_counterpart.py",
+        "verification/zero_coherent_signed_counterpart_test.py",
+        "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
+        "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        62,
+        117,
+        121
+      ]
+    },
+    {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
       "sha256": "7141ffc252ac06392a523c5c6af2206611d8bf85e0e1cd04d476fee575aa7f46",
       "bytes": 16945,
@@ -20821,9 +20857,9 @@
     },
     {
       "path": "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
-      "sha256": "8519946e6c87176eb9ee22899381da3664d391c9a05bf87d1824d1d45a0b2645",
-      "bytes": 6951,
-      "lines": 78,
+      "sha256": "59766cca1fb2669ac8d58c681d281a94d912f6471febc32eeb40c24bece719eb",
+      "bytes": 7350,
+      "lines": 80,
       "title": "Lorentz transport of the coherent angular record",
       "headings": [
         "Lorentz transport of the coherent angular record",
@@ -20834,16 +20870,17 @@
         "4. What this contributes and what it requires"
       ],
       "local_links": [
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "verification/zero_angular_covariant_access_test.py",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        37,
-        45,
-        63
+        9,
+        39,
+        47,
+        65
       ]
     },
     {
@@ -21394,9 +21431,9 @@
     },
     {
       "path": "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
-      "sha256": "4b514bdd9ffcdfef9972aa734b6e93cf2c8e89094b455582ad1933fdf4d35354",
-      "bytes": 10890,
-      "lines": 101,
+      "sha256": "ff231b43a233b92ebd33eddacd3cbbf5d75bf71237dfd3bacb4c154d29cbc09e",
+      "bytes": 11283,
+      "lines": 103,
       "title": "From the reduced type swap to the original coherent quantum echo",
       "headings": [
         "From the reduced type swap to the original coherent quantum echo",
@@ -21407,6 +21444,7 @@
         "4. Stationary lift, and what it would need for incidence"
       ],
       "local_links": [
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
         "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
@@ -21414,9 +21452,9 @@
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md"
       ],
       "risk_phrase_lines": [
-        48,
-        74,
-        80
+        50,
+        76,
+        82
       ]
     },
     {
@@ -22423,9 +22461,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "5eff18e2e53c1ba1d71929538f80ea9c0666e12c8bfa92d1c161101cca4ae3c1",
-      "bytes": 16090,
-      "lines": 154,
+      "sha256": "51046c66f909a609ca91f1ddff0933ebdd89d919a07a8b6ca6f0d747f6003a76",
+      "bytes": 16413,
+      "lines": 156,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -22438,6 +22476,7 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
@@ -22447,17 +22486,17 @@
       ],
       "risk_phrase_lines": [
         1,
-        3,
-        7,
-        53,
-        59,
-        77,
-        89,
-        99,
+        5,
+        9,
+        55,
+        61,
+        79,
+        91,
         101,
-        117,
-        145,
-        154
+        103,
+        119,
+        147,
+        156
       ]
     },
     {
@@ -23697,9 +23736,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "94b95126fd34a5ec7e09e29405f67960117cbb725d2c932016bc61c6d1796795",
-      "bytes": 19019,
-      "lines": 134,
+      "sha256": "e9282a7519064ce53516be9b51a77a0ee473012cefe836a7d96fcb5a8673e99d",
+      "bytes": 19435,
+      "lines": 136,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23712,6 +23751,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
@@ -23732,18 +23772,19 @@
       ],
       "risk_phrase_lines": [
         5,
-        11,
+        7,
         13,
-        23,
-        54,
-        69,
-        100,
+        15,
+        25,
+        56,
+        71,
         102,
-        110,
-        113,
-        114,
+        104,
+        112,
         115,
-        122
+        116,
+        117,
+        124
       ]
     },
     {

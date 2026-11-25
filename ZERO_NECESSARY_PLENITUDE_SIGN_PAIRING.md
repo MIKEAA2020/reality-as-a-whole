@@ -1,5 +1,7 @@
 # Necessary plenitude as sign pairing: an exact construction
 
+**Coherent-history continuation:** [the clock-dressed sign counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) implements a physical sign reversal in the same angular–reservoir quantum history and combines it with the compatible g₂ type-swap; actual-incidence invariance remains a separate constitutive premise.
+
 **Physical-interface continuation:** [dual pairing and energy-conserving sphere readouts](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) constructs the five-ray measurement, two finite reference pairs and a relative-clock pointer in an exact zero-energy finite system.
 
 **Incidence continuation:** [the actual source identity pair and incidence flag](ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md) recovers a conditional equal physical reference from the sphere-coupled reservoir model and tests whether a sharp flag can consistently supply type weights for all effects of the same pure physical state.

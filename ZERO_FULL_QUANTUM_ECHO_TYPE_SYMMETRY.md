@@ -2,6 +2,8 @@
 
 ## Result
 
+**Combined continuation:** [the coherent sign counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) includes the clock phase required by the exchange-odd Q pulse and shows that the sign-flip and full-quality g₂ type-swap commute on the actual support. Invariance of both *actual incidence* symmetries would imply equal type/sign weights; it is not derived from physical symmetry alone.
+
 **Continuation:** the [coherent angular construction](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) extends the recorded-band quantum example to one continuous scalar-angle Hilbert space and executes the original echo and inverse; its [covariant counterpart analysis](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) keeps physical observers and passive coordinates distinct.
 
 The [earlier source-integration pass](ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md) established an active transformation that swaps the binary candidate signs `sj` and `sjr` in a **reduced** stationary history. It explicitly left open whether this was a symmetry of the original coherent quantum construction. This pass supplies a concrete lift on that earlier physical echo, with a necessary correction: the operation must include the sign pointer M, not just flip j conditional on the echo memory.
