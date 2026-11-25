@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7a3bddb42ba4b782f08350204c2acb28e25c7f97",
-  "file_count": 2107,
+  "base_head": "b659bc16f472640c556856fa5a219fb103864070",
+  "file_count": 2109,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 191927,
-      "sha256": "a5a613fa414cd35a25c239fe9c5b3e43de1753fc6e6ef8744748b4e8076936bf"
+      "bytes": 192183,
+      "sha256": "40cc050e6cf8d23d3a2331ac99e5e7bc8368cf0ac19bcd793b602909298fa014"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3110,8 +3110,8 @@
     },
     {
       "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
-      "bytes": 10636,
-      "sha256": "6826713d970e04ce6f604aadda48c7780a57c5acfec703d6f5fc2788cacc4cd6"
+      "bytes": 10923,
+      "sha256": "1c3efdb354357250f3671f87b7407505db7e485131573c615f1a5d50638744bb"
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -3127,6 +3127,11 @@
       "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
       "bytes": 9251,
       "sha256": "ae1e7251e428ee9787845ca31e8dd0406cea9fa94265a351868f5c1eac88cc0c"
+    },
+    {
+      "path": "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
+      "bytes": 9841,
+      "sha256": "a56708333eff63d1a373e4e71270b22328c8cc5fcd8a69898994308a65fee90b"
     },
     {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -7990,8 +7995,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 933142,
-      "sha256": "7eb39c0d12ca901653fb1ae3916f5f0cfc4a6c7e5ee7dfe1984b9610fec5fce6"
+      "bytes": 934337,
+      "sha256": "fe601671db1d1240f2a47f5111b5bcea9f9f59d91e65a797e2ec7ec798cf9877"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10267,6 +10272,11 @@
       "path": "verification/zero_necessity_constitutive_gate_test.py",
       "bytes": 2016,
       "sha256": "5e71b88dc46341c05f98b3af801285b160254f284bd655480caf7e1c3fc08140"
+    },
+    {
+      "path": "verification/zero_neutral_exchange_from_balance_test.py",
+      "bytes": 7122,
+      "sha256": "359723188097e3ea16d26519cdc19ae70831b8ff40a097a2a10348c3eb6da47f"
     },
     {
       "path": "verification/zero_plenitude_necessity_test.py",

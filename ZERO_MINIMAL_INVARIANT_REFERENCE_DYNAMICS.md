@@ -17,6 +17,8 @@ The assumptions do significant work: in particular, parity-flipping excludes a f
 
 Verifier: [verification/zero_minimal_symmetry_reference_record_test.py](verification/zero_minimal_symmetry_reference_record_test.py). It builds directly on the [full embedding and group tests](verification/zero_covariant_pairing_reference_history_test.py).
 
+**Balanced-exchange continuation:** [an interaction derived conditionally from a zero charge](ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md) replaces the imposed parity flip with exact charge conservation in a specified bilinear symmetry class, while retaining the frozen-coupling alternative.
+
 ## 1. Why four reference states are minimal here
 
 The total-spin-zero subspace V of four spin halves has dimension two. Permutations act on it as the real irreducible `S₄` representation of type `[2,2]`; call this action D. The tests verify its irreducibility by calculating its commutant. It is the same V that was embedded in the earlier `C₁=C₂=C₃=0`, `L=S=+1` logical sector.
