@@ -8,20 +8,22 @@ My alleged counterexample concerned alternative hypothesized specifications of t
 
 ## Source audit and the actual record
 
-The seven files linked in the second wave are archived, byte-for-byte, in [the branch's second-wave folder](psr-5%20battery/2nd%20wave/). Their Git blob IDs were checked against the main commit named above. The authoritative packet is the [original folder's entry packet](psr-5%20battery/Plural_Structural_Realism_Entry_Packet_v5.md), SHA-256 `b0d2a0fe6c72f19437aa1804230d0c2ba41c26a878a26deffbf50bd93d901321`.
+The seven files originally linked in the second wave are archived, byte-for-byte, in [the branch's second-wave folder](psr-5%20battery/2nd%20wave/). Their Git blob IDs were checked against the main commit named above. The user later supplied the previously missing [R1 adjudication](psr-5%20battery/2nd%20wave/Point-Sphere_PSR-5_R1_Instantiation_and_Isomorphism_Adjudication_v1.md), pinned at main commit `66130452ba4368e32ff053afbfa903f68a436c44`; it too is archived unchanged and has the SHA-256 cited in R2. The authoritative packet is the [original folder's entry packet](psr-5%20battery/Plural_Structural_Realism_Entry_Packet_v5.md), SHA-256 `b0d2a0fe6c72f19437aa1804230d0c2ba41c26a878a26deffbf50bd93d901321`.
 
 There is an important source-identification wrinkle: the second-wave file **named** `Plural_Structural_Realism_Entry_Packet_v5.md` is byte-identical to the R0 *audit*, not to the original packet. Both second-wave files have SHA-256 `ac0bead7fee5f90ee0913af253b0e5effe43330af28af342a1cf894249e461da`. They are preserved under their original names; the mismatch is not silently repaired. The R0 adjudication cites the original packet's hash and that audit's hash, both of which are verifiable from the supplied files.
 
 | Stage | Evidence available in supplied second wave | Recorded result and scope |
 |---|---|---|
 | R0 | Submitted audit and independent adjudication | Restricted-formal pass: typed global carrier, actual plurality, quotient transport, finite closure and locality. |
-| R1 | **Adjudication itself absent from this folder.** R2 identifies it by filename and SHA-256 `e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462`, says it passed; R3.c lists its pass. | Restricted-formal pass **reported by later records**. I did not inspect the missing R1 adjudication. |
+| R1 | R1 adjudication, SHA-256 `e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462`, matching R2's cited hash and citing R0's actual hash. | Restricted-formal pass: the two declared actual classes, a nonactual structural candidate and a noncandidate; actual status is class-level and invariant under valid aliases. |
 | R2 | R2 adjudication | Actual-locus correct and error cases under the fixed structural pattern interface. |
 | R3.a | R3.a adjudication | Positive and negative phenomenal-interface controls, with a separately typed, declared actual experience and realization relation. |
 | R3.b | R3.b adjudication | Host-indexed veto, feasible successors and lexicographic normative interface. |
 | R3.c | R3.c adjudication | Ring5 physical interface and final restricted-formal completion. |
 
-The later adjudications name submitted R2/R3 audit files and hashes, but the audits themselves are not in the supplied folder. I checked the hashes of the files actually present; I did not independently establish the content of absent documents. The second-wave R3.c document is an explicit completion record, not merely an admission. This assessment does not claim to have replayed the entire external procedure or verified human/team independence.
+All six adjudications R0, R1, R2, R3.a, R3.b and R3.c have now been inspected; their cited predecessor-adjudication hashes match the files supplied. The R1–R3 adjudications also name submitted audit files and hashes, but those audits themselves are not in the supplied folder. I checked the hashes of the files actually present; I did not independently establish the content of absent documents. The second-wave R3.c document is an explicit completion record, not merely an admission. This assessment does not claim to have replayed the entire external procedure or verified human/team independence.
+
+The R1 adjudication's concrete code is `1110 N(0) N(0) = 1110100100`, an alias of `S_Σ`; its actual class is unchanged. This is a distinct accepted code for the class. Because the permutation index is zero, the example is not an independent check of a non-identity permutation; the general invariance under all valid carrier-renamings instead follows from the defined isomorphism and class-level extension. The primitive extension determines the stated cases within the model, but the adjudication correctly does not claim it has explained why those classes are actual.
 
 The [bounded verifier](verification/zero_psr5_adjudication_correction_test.py) independently calculates the Ring5 update: starting from `(1,0,0,0,0)`, the prescribed modulo-seven nearest-neighbor rule yields `(6,1,0,0,1)` then `(3,5,1,1,5)`, satisfying all ten update instances. A perturbed final row fails. This verifies that arithmetic, not the full global decoder or the battery as a whole.
 
@@ -65,4 +67,4 @@ OPENBLAS_NUM_THREADS=1 PYTHONPATH=.arena/python-deps:. python -m unittest \
   verification.zero_psr5_global_decoder_r0_test -v
 ```
 
-The tests independently check document hashes, the exact parse and finite isomorphism illustration, and the Ring5 recurrence. They do not replay the unavailable R1/audit documents, validate actual phenomenal realization, or establish the no-residue thesis.
+The tests independently check document hashes, the exact parse and finite isomorphism illustration, and the Ring5 recurrence. They do not replay the unavailable submitted R1–R3 audits, validate actual phenomenal realization, or establish the no-residue thesis.

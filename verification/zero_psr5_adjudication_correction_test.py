@@ -36,9 +36,11 @@ class PSR5AdjudicationCorrectionTests(unittest.TestCase):
         self.assertIn('R0 Global-Model and Finite-Locality Audit',misnamed.read_text())
         self.assertNotEqual(digest(misnamed),digest(packet))
 
-    def test_actual_adjudication_chain_and_reported_missing_r1(self):
+    def test_actual_adjudication_chain(self):
         sources=[('Point-Sphere_PSR-5_R0_Global_Model_and_Locality_Adjudication_v1.md',
                   '5528f8b6a924573f1411cc241d3a78bbb6010f239c7e567e9fb624331c80e36c'),
+                 ('Point-Sphere_PSR-5_R1_Instantiation_and_Isomorphism_Adjudication_v1.md',
+                  'e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462'),
                  ('Point-Sphere_PSR-5_R2_Presentation_Truth_and_Error_Adjudication_v1.md',
                   'fc67203e788c1fcbbc2c48b9b4cf13f5528bcc805606a3efae2c6126268ae3ea'),
                  ('Point-Sphere_PSR-5_R3a_Phenomenal_Interface_Adjudication_v1.md',
@@ -48,12 +50,16 @@ class PSR5AdjudicationCorrectionTests(unittest.TestCase):
                  ('Point-Sphere_PSR-5_R3c_Physical_Interface_Adjudication_v1.md',
                   'e0ee906a743b9c52b71d375fe8ee94254de6fa40276b10249a54f1c281cf3d07')]
         for name,expected in sources:self.assertEqual(digest(WAVE/name),expected)
-        r2=(WAVE/sources[1][0]).read_text()
+        for prior,current in zip(sources,sources[1:]):
+            self.assertIn(prior[1],(WAVE/current[0]).read_text())
+        r1=(WAVE/sources[1][0]).read_text()
+        self.assertIn('R1-Pass',r1)
+        self.assertIn('1110100100',r1)
+        self.assertIn('NoSelectorResidue',r1)
+        self.assertEqual('1110100100','1110'+nat(0)+nat(0))
+        self.assertEqual(parse_alias('1110100100',{0:16}),(0,0))
+        r2=(WAVE/sources[2][0]).read_text()
         self.assertIn('R1 passed in the PSR-5 docket',r2)
-        self.assertIn('e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462',r2)
-        r1=WAVE/'Point-Sphere_PSR-5_R1_Instantiation_and_Isomorphism_Adjudication_v1.md'
-        if r1.exists():
-            self.assertEqual(digest(r1),'e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462')
         r3c=(WAVE/sources[-1][0]).read_text()
         self.assertIn('Battery-Completed',r3c)
         self.assertIn('NoSelectorResidue',r3c)

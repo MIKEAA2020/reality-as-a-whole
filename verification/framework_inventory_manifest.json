@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3c05c48a036f78217273966c4657c56445a086ce",
-  "file_count": 2223,
+  "base_head": "d7e932fed6353c6dcb8810ef8399f9c2e382a213",
+  "file_count": 2224,
   "files": [
     {
       "path": ".gitattributes",
@@ -845,8 +845,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 87091,
-      "sha256": "ccd8b8c05ee94cd6f05e66d3b928e1c0ca431b679697b0b28972fc32b98719a4"
+      "bytes": 87138,
+      "sha256": "25db9a3440cba6acae64ec8561166559a8737772e544e36e1d8a6a53359060cd"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -3350,13 +3350,13 @@
     },
     {
       "path": "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
-      "bytes": 4977,
-      "sha256": "673926c1cfb285428196a061761886185d8439c0667eb000e19653cbfa81e72f"
+      "bytes": 4988,
+      "sha256": "15270c4cd229e5c7bed9826fac0fa604a483a18660e4f43a687fb8754747880d"
     },
     {
       "path": "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
-      "bytes": 10078,
-      "sha256": "214c03ee006bdc9b9070b90fea1fc9ce6141a3a39fad22d33bbbfe214c9746b0"
+      "bytes": 11137,
+      "sha256": "957ca8ffc9e40d784876f38d3ce48c125becbb69c48649a9dcc919a4c19e1f45"
     },
     {
       "path": "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
@@ -3440,8 +3440,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 16312,
-      "sha256": "5b863a897f40c923c70e2b08b51bb3633bb7d8d124561487c407e57d2975f148"
+      "bytes": 16326,
+      "sha256": "ae2d35af940d426345f25c7c4ccf95be05f89359fdec72e1ef7c2715101d80db"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -3767,6 +3767,11 @@
       "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R0_Global_Model_and_Locality_Audit_v1.md",
       "bytes": 5257,
       "sha256": "ac0bead7fee5f90ee0913af253b0e5effe43330af28af342a1cf894249e461da"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R1_Instantiation_and_Isomorphism_Adjudication_v1.md",
+      "bytes": 3854,
+      "sha256": "e4f5e35e90ec6f8db7d68f81c269672eae3745283915d0ee6cb1e6d76a2c6462"
     },
     {
       "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R2_Presentation_Truth_and_Error_Adjudication_v1.md",
@@ -8335,8 +8340,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1000925,
-      "sha256": "f151b8109eebff3138f2e78b29f668f20b577653498ed7b3f4fd576b77fc48cc"
+      "bytes": 1001486,
+      "sha256": "c3bd12ced86708bb18f32943110d287245178dfd0ca784f122800fa966eabcb1"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10785,8 +10790,8 @@
     },
     {
       "path": "verification/zero_psr5_adjudication_correction_test.py",
-      "bytes": 4732,
-      "sha256": "0e5473404ab3d47ea59fa18f8cbd987ddb15e63379141ae053c012f4f9d1ba1f"
+      "bytes": 4984,
+      "sha256": "53354bcde4eb3153e3f085703821951acf83703e36a521540e4f01fa5de608a6"
     },
     {
       "path": "verification/zero_psr5_global_decoder_r0_test.py",
