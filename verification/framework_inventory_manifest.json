@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d5404d72aeb8668d8788da5f6258882d8803531f",
-  "file_count": 2125,
+  "base_head": "f8d803c25abd19c88c7861ee1546131724b928e1",
+  "file_count": 2127,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 194448,
-      "sha256": "3ac2b611a4d3e83c05356e9b8aa46c140e27279ac9e6d5de805fb73181afbdb2"
+      "bytes": 194764,
+      "sha256": "309023134f59e43b1c659375b4c6711b647e176e843f52239c1de5b9fc9e36b6"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2995,8 +2995,8 @@
     },
     {
       "path": "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
-      "bytes": 14700,
-      "sha256": "593b03954a2f5315238d1ede3651f7cca3bb1800d137984a5c8cc2e85b38b20a"
+      "bytes": 15044,
+      "sha256": "1de052da62b15c2b306d38bb46e8d0d8dbbd6f5f7de1f1b5a910ed23cb7041d5"
     },
     {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
@@ -3092,6 +3092,11 @@
       "path": "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
       "bytes": 14044,
       "sha256": "8ddb7e148ee6f8e8e6d8270a023cde7449ad7680796c6fcd1fd7d8cf7f3621fe"
+    },
+    {
+      "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
+      "bytes": 14525,
+      "sha256": "567a94c977d4115f882f38e374be4cc96bfb694c7fac2d1f40ad1ac3c13ca8bf"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -8035,8 +8040,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 944757,
-      "sha256": "f5f0272b3ea08ebeffd0c6ba4565008320b42a2464fb787687111bc1d8db5b98"
+      "bytes": 946184,
+      "sha256": "5e9a55947fe259b05e9fe026dccff474c2089b3d615506528928a91cb15c0567"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10287,6 +10292,11 @@
       "path": "verification/zero_interacting_relational_first_reading_test.py",
       "bytes": 9900,
       "sha256": "459d0e58d761414f67b11bb2defe0504f9c56c306230db703992cc1584598721"
+    },
+    {
+      "path": "verification/zero_internal_reference_subject_report_test.py",
+      "bytes": 10417,
+      "sha256": "24935d7edd839192948e36257488cc0881d43f5f4d0189d1c8a1fe76a06f7776"
     },
     {
       "path": "verification/zero_invariant_all_history_record_clock_test.py",

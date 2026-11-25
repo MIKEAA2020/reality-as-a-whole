@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 752,
-  "bytes": 9572501,
-  "line_count": 87184,
-  "document_count_with_risk_phrases": 705,
+  "document_count": 753,
+  "bytes": 9587681,
+  "line_count": 87343,
+  "document_count_with_risk_phrases": 706,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "90d2daf6b86f02299b0f98f984840ebf880e7811fd94407dd97a2d7c03b85024",
-      "bytes": 194137,
-      "lines": 1487,
+      "sha256": "3ac2b611a4d3e83c05356e9b8aa46c140e27279ac9e6d5de805fb73181afbdb2",
+      "bytes": 194448,
+      "lines": 1489,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6346,6 +6346,7 @@
         "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
+        "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -7122,6 +7123,7 @@
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
         "verification/zero_covariant_pairing_reference_history_test.py",
+        "verification/zero_covariant_sphere_subject_bridge_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
@@ -7224,19 +7226,19 @@
         481,
         579,
         595,
-        639,
-        642,
-        655,
-        657,
-        661,
-        663,
-        677,
-        712,
-        748,
-        757,
-        760,
-        763,
-        832
+        640,
+        643,
+        656,
+        658,
+        662,
+        664,
+        678,
+        713,
+        749,
+        758,
+        761,
+        764,
+        833
       ]
     },
     {
@@ -20290,9 +20292,9 @@
     },
     {
       "path": "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
-      "sha256": "593b03954a2f5315238d1ede3651f7cca3bb1800d137984a5c8cc2e85b38b20a",
-      "bytes": 14700,
-      "lines": 153,
+      "sha256": "1de052da62b15c2b306d38bb46e8d0d8dbbd6f5f7de1f1b5a910ed23cb7041d5",
+      "bytes": 15044,
+      "lines": 155,
       "title": "One internal reference: zero, geometry, measurement and experience",
       "headings": [
         "One internal reference: zero, geometry, measurement and experience",
@@ -20305,20 +20307,21 @@
         "6. Necessity, incidence, and a constructive path"
       ],
       "local_links": [
+        "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
         "verification/zero_covariant_sphere_subject_bridge_test.py",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md"
       ],
       "risk_phrase_lines": [
-        7,
-        67,
-        79,
-        95,
-        112,
-        120,
-        144,
-        153
+        9,
+        69,
+        81,
+        97,
+        114,
+        122,
+        146,
+        155
       ]
     },
     {
@@ -20950,6 +20953,40 @@
         110,
         125,
         135
+      ]
+    },
+    {
+      "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
+      "sha256": "567a94c977d4115f882f38e374be4cc96bfb694c7fac2d1f40ad1ac3c13ca8bf",
+      "bytes": 14525,
+      "lines": 155,
+      "title": "A reference from the paired state, and what a confined subject could report",
+      "headings": [
+        "A reference from the paired state, and what a confined subject could report",
+        "Result in the larger program",
+        "1. The reference need not be defined from the measured directions",
+        "2. What the confined side can actually infer",
+        "3. A second constraint: reading \\(j\\) can disturb the orientation zero",
+        "4. Relativistic reference: a necessary enlargement, not an external clock",
+        "5. What this means for the broad thesis",
+        "Verification"
+      ],
+      "local_links": [
+        "verification/zero_internal_reference_subject_report_test.py",
+        "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
+        "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        48,
+        76,
+        104,
+        110,
+        124,
+        132,
+        140,
+        146,
+        155
       ]
     },
     {
