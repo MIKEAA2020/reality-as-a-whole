@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 757 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 693 verification Python scripts.
+- 759 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 696 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -633,6 +633,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
 - [ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) — Zero, flag-record incidence, and a physically reversible readout
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
+- [ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) — From the reduced type swap to the original coherent quantum echo
 - [ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md](ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md) — The geometry-clock question: what can a continuum slice recover?
 - [ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md](ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md) — Full continuum geometry-slice map for the interacting model
 - [ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md](ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md) — Geometry-clock spectrum: no singular-continuous sector and one exterior bound state
@@ -679,6 +680,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
 - [ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) — Zero's internal sphere: a direct test of physical and experiential constitution
 - [ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) — Time from a zero whole: a sphere–record relational clock and a cosmological constraint
+- [ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md](ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md) — Point–sphere, signed experiential candidates and the common echo
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md](ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md) — PSR-5 R0 review — correction after the later adjudications
 - [ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md](ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md) — PSR-5 second wave: correction, completed restricted battery, and what to learn
@@ -1471,6 +1473,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_experience_steering_no_signalling_test.py](verification/zero_experience_steering_no_signalling_test.py)
 - [verification/zero_five_ray_record_current_unification_test.py](verification/zero_five_ray_record_current_unification_test.py)
 - [verification/zero_flag_record_algebra_echo_test.py](verification/zero_flag_record_algebra_echo_test.py)
+- [verification/zero_full_echo_type_swap_test.py](verification/zero_full_echo_type_swap_test.py)
 - [verification/zero_geometry_all_history_incidence_bridge_test.py](verification/zero_geometry_all_history_incidence_bridge_test.py)
 - [verification/zero_geometry_clock_no_embedded_eigen_test.py](verification/zero_geometry_clock_no_embedded_eigen_test.py)
 - [verification/zero_identity_pair_incidence_record_test.py](verification/zero_identity_pair_incidence_record_test.py)
@@ -1532,6 +1535,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
 - [verification/zero_sector_record_energy_exchange_test.py](verification/zero_sector_record_energy_exchange_test.py)
 - [verification/zero_sharp_opposition_and_experiential_response_test.py](verification/zero_sharp_opposition_and_experiential_response_test.py)
+- [verification/zero_sphere_angular_echo.py](verification/zero_sphere_angular_echo.py)
+- [verification/zero_sphere_angular_echo_test.py](verification/zero_sphere_angular_echo_test.py)
 - [verification/zero_sphere_asymmetric_closed_exchange.py](verification/zero_sphere_asymmetric_closed_exchange.py)
 - [verification/zero_sphere_asymmetric_closed_exchange_test.py](verification/zero_sphere_asymmetric_closed_exchange_test.py)
 - [verification/zero_sphere_autonomous_detector_constraint_test.py](verification/zero_sphere_autonomous_detector_constraint_test.py)

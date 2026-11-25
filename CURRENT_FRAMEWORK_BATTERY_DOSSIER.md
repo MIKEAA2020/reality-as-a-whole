@@ -1,6 +1,6 @@
 # Self-Existent Experiential Plenitude
 
-**Current integration work:** [the whole-chat multi-pass workboard](WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md) tracks the user's audit → adapt → implement workflow across the preserved record. Its first four partial passes integrate the sphere battery interface, conditional subject-incidence symmetry, self-location refinements and clock-dependent joint predictions in one reduced stationary echo; they do not establish a full battery pass or no-residue constitution.
+**Current integration work:** [the whole-chat multi-pass workboard](WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md) tracks the user's audit → adapt → implement workflow across the preserved record. Its first six partial passes integrate the sphere battery interface, conditional subject-incidence symmetry, self-location refinements, clock-dependent joint predictions and a continuous angular point–sphere extension into one reduced echo, with the binary symmetry now lifted to the original coherent source/echo state; they do not establish a full battery pass or no-residue constitution.
 
 ## Abstract
 
