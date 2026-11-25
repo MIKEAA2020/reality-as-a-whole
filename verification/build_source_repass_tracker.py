@@ -22,6 +22,7 @@ SEVENTH='ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md'
 EIGHTH='ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md'
 NINTH='ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md'
 TENTH='ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md'
+ELEVENTH='ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -64,7 +65,10 @@ PARTIAL={
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt': {
   'audit':['UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md'],
-  'plan':[FIFTH,SEVENTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',SEVENTH,'verification/zero_quantum_angular_echo.py']},
+  'plan':[FIFTH,SEVENTH,ELEVENTH],
+  'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',SEVENTH,
+                 'verification/zero_quantum_angular_echo.py',ELEVENTH,
+                 'verification/zero_pairwise_angular_charge.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-4.txt': {
   'audit':['ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md'],
   'plan':[FIFTH,'ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md'],

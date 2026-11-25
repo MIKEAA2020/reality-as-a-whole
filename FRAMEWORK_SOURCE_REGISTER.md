@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 764 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 707 verification Python scripts.
+- 765 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 709 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -607,6 +607,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md](ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md) — Autonomous geometry–pointer–memory dynamics in the constrained sphere model
 - [ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) — Two autonomous records in the constrained geometry–sphere model
 - [ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md](ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md) — A charge-balanced reference prepared upstream: a topological research order
+- [ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) — A branchwise opposite pair in the coherent angular echo
 - [ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md) — Branchwise cancellation and conditional selection in the all-sector circuit
 - [ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) — One coherent angular echo, purified reservoir and relational clock
 - [ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) — A coherent angular sphere record in the original quantum echo
@@ -1526,6 +1527,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)
 - [verification/zero_orientation_extension_operational_boundary_test.py](verification/zero_orientation_extension_operational_boundary_test.py)
 - [verification/zero_page_wootters_original_sphere_connection_test.py](verification/zero_page_wootters_original_sphere_connection_test.py)
+- [verification/zero_pairwise_angular_charge.py](verification/zero_pairwise_angular_charge.py)
+- [verification/zero_pairwise_angular_charge_test.py](verification/zero_pairwise_angular_charge_test.py)
 - [verification/zero_persistent_sphere_subject_selection_test.py](verification/zero_persistent_sphere_subject_selection_test.py)
 - [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)

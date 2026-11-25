@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Eleventh-pass continuation:** [the branchwise angular pair](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) adds two distinct local model-charge carriers with opposite values on every supported joint record branch, using reversible globally charge-conserving gates. The ready pair is a stipulated zero-charge resource, and neither carrier is established as a subject.
+
 **Tenth-pass continuation:** [the coherent clock-dressed sign counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) fixes a real relative-phase failure of the bare pointer flip and composes with the full-quality g₂ type-swap. It gives exact physical pairing and a four-way actual-incidence theorem under separately stated symmetry assumptions; it does not derive those assumptions or establish consciousness.
 
 **Ninth-pass continuation:** [intrinsic quality and angular reconstruction](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) derives the optimal old-carrier observables for both angular magnitude candidates, with exact irreducible physical reconstruction errors. The result does not equate either observable or its estimate with felt experience.

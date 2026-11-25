@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8785e3bdca7b01778963bad51fddf46565a5ec1e",
-  "file_count": 2262,
+  "base_head": "5e11aa22a868deac00e17e8f32fc5ed373b3d3f6",
+  "file_count": 2265,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 211920,
-      "sha256": "da2cb922b299907c2fb5841197d90a398c83a69c99307fd03852c984ff9a41cc"
+      "bytes": 212267,
+      "sha256": "356d494dff7dcd70e275cfa60a8cbeb67cc67bfa11f433c60cd93e631f741e4d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2920,8 +2920,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 13326,
-      "sha256": "46cdd82cdcfff40c4c683b1ce68f2c586f0038bfdf51f508e9023e808a69c588"
+      "bytes": 13876,
+      "sha256": "63060567b3d53f2f70675014a3ec10c38a8d9bf26710535ff9c9515f62be27bb"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -2994,6 +2994,11 @@
       "sha256": "2660a083b6455f40408b9914ea44485463e7a3beb217644d38c96388ed8f3146"
     },
     {
+      "path": "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
+      "bytes": 12792,
+      "sha256": "2447a040e99d5d3b532b0f2510a5b83aeac8774e18a1ad9a0b76cadf3eabbc83"
+    },
+    {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
       "bytes": 11789,
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
@@ -3010,8 +3015,8 @@
     },
     {
       "path": "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
-      "bytes": 16834,
-      "sha256": "0cb4af1c20f8d1713fa1a14b6c6b73f24ec4f54655ccd26569f94a5a21713264"
+      "bytes": 17190,
+      "sha256": "ffd2664758240818469820ad4ef13beefffc377b6ca820e60e96ec28be147c1d"
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -3305,8 +3310,8 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "bytes": 16413,
-      "sha256": "51046c66f909a609ca91f1ddff0933ebdd89d919a07a8b6ca6f0d747f6003a76"
+      "bytes": 16740,
+      "sha256": "7716d464ab0430e346dd42d24b2fe846f0505ca0d0d785659eb597ac3e8d2a00"
     },
     {
       "path": "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
@@ -3505,8 +3510,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 19435,
-      "sha256": "e9282a7519064ce53516be9b51a77a0ee473012cefe836a7d96fcb5a8673e99d"
+      "bytes": 19800,
+      "sha256": "1da58bacfb43943bbdfe98cb581a2576d11b926a691036bafa5e636f68d5d659"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -5800,8 +5805,8 @@
     },
     {
       "path": "verification/build_source_repass_tracker.py",
-      "bytes": 7008,
-      "sha256": "dfd77a9e5e01ec4eb98151b94e962c456966c910783bd5386a30a8bcf15f5cc6"
+      "bytes": 7163,
+      "sha256": "26413e2a781118caf17c67c63768341c6b74a2aff5bfb41f6e2d6338e17b2be9"
     },
     {
       "path": "verification/cardiac_feedback_pain_predictions.json",
@@ -8410,8 +8415,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1024153,
-      "sha256": "48b0929f13d38469cd4c97b08c020a7499a4a9bb4969af71c6baccd1722b9f17"
+      "bytes": 1025744,
+      "sha256": "da225e285fb926cdb0f4f80a1da41b4947b1de7eb43265fea7b7e27bcdbdaa46"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9580,8 +9585,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 506714,
-      "sha256": "01df3acc7b87e57bf21df064ac087b8ee13552f9e2f3fda17b257b9341dc1ea2"
+      "bytes": 507423,
+      "sha256": "dfc2fa1452a7113e1acd47ab31f60f49f828e3f0ff3cd0d516460545644b8a0e"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10892,6 +10897,16 @@
       "path": "verification/zero_page_wootters_original_sphere_connection_test.py",
       "bytes": 8627,
       "sha256": "8da2d3c304f317487ebbbd316610740ee480394da85a7f9ab3091edaa605fedd"
+    },
+    {
+      "path": "verification/zero_pairwise_angular_charge.py",
+      "bytes": 2440,
+      "sha256": "27c33497bf970ab2b038ba1ddf3a67fd86e1b9c081864f9f5dbfc900bf2342d7"
+    },
+    {
+      "path": "verification/zero_pairwise_angular_charge_test.py",
+      "bytes": 7885,
+      "sha256": "417b366df5ceb11adc9b3258d408364ecfa3ee1bc5d6b4bc398781b81003e295"
     },
     {
       "path": "verification/zero_persistent_sphere_subject_selection_test.py",

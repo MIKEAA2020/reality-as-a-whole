@@ -2,6 +2,8 @@
 
 ## Result
 
+**Branchwise continuation:** [the angular opposite-pair construction](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) adds two distinct modeled carriers whose local signed charges cancel within each joint record branch, using globally charge-conserving reversible gates. Its prepared zero-charge resource and experiential interpretation remain explicit inputs.
+
 The user's proposal is that a genuinely differentiated zero whole may contain real opposite contributions, with a necessary pairing rather than one sign being absence. The previous angular construction demonstrated an equal-sign **physical distribution**, but its illustrative `u→−u` map was not the actual sign-pointer operation. This pass constructs the latter on the **original coherent angular echo, purified reservoir and stationary clock history**.
 
 A subtle correction is essential: the old internal exchange S anticommutes with the echo pulse Q on the valid sector. Flipping the sign pointer and applying S therefore produces a relative phase across clock readings. The bare operation does **not** stabilize the coherent history. A specific, cycle-compatible phase on the clock repairs it. The dressed operation commutes with the modeled cyclic shift on the valid sector, preserves the complete prepared history up to one global phase, and reverses both existing candidate signed-quality observables **pointwise for either angular magnitude law**. For every counterpart-invariant record event, the modeled positive and negative physical weights then pair exactly.

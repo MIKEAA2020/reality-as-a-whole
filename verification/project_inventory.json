@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 807,
-  "bytes": 10338665,
-  "line_count": 93630,
-  "document_count_with_risk_phrases": 760,
+  "document_count": 808,
+  "bytes": 10353402,
+  "line_count": 93777,
+  "document_count_with_risk_phrases": 761,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "da2cb922b299907c2fb5841197d90a398c83a69c99307fd03852c984ff9a41cc",
-      "bytes": 211920,
-      "lines": 1611,
+      "sha256": "356d494dff7dcd70e275cfa60a8cbeb67cc67bfa11f433c60cd93e631f741e4d",
+      "bytes": 212267,
+      "lines": 1614,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6410,6 +6410,7 @@
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
@@ -7315,6 +7316,8 @@
         "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_orientation_extension_operational_boundary_test.py",
         "verification/zero_page_wootters_original_sphere_connection_test.py",
+        "verification/zero_pairwise_angular_charge.py",
+        "verification/zero_pairwise_angular_charge_test.py",
         "verification/zero_persistent_sphere_subject_selection_test.py",
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
@@ -7412,19 +7415,19 @@
         484,
         584,
         603,
-        672,
-        676,
-        698,
-        701,
-        710,
-        713,
-        732,
-        767,
-        804,
-        813,
-        816,
-        819,
-        890
+        673,
+        677,
+        699,
+        702,
+        711,
+        714,
+        733,
+        768,
+        805,
+        814,
+        817,
+        820,
+        891
       ]
     },
     {
@@ -19932,9 +19935,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "46cdd82cdcfff40c4c683b1ce68f2c586f0038bfdf51f508e9023e808a69c588",
-      "bytes": 13326,
-      "lines": 57,
+      "sha256": "63060567b3d53f2f70675014a3ec10c38a8d9bf26710535ff9c9515f62be27bb",
+      "bytes": 13876,
+      "lines": 58,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19958,7 +19961,8 @@
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md"
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19966,7 +19970,8 @@
         32,
         33,
         34,
-        46
+        36,
+        47
       ]
     },
     {
@@ -20428,6 +20433,38 @@
       ]
     },
     {
+      "path": "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
+      "sha256": "2447a040e99d5d3b532b0f2510a5b83aeac8774e18a1ad9a0b76cadf3eabbc83",
+      "bytes": 12792,
+      "lines": 137,
+      "title": "A branchwise opposite pair in the coherent angular echo",
+      "headings": [
+        "A branchwise opposite pair in the coherent angular echo",
+        "Result",
+        "1. Why this advances the earlier pairing",
+        "2. Two local quantities and a zero-ready resource",
+        "3. Explicit unitary writes conserve the charge globally",
+        "4. The pair is actually coupled to the old quantum echo",
+        "5. Closed relational history, not an external creation story",
+        "6. What zero, by itself, still does not select"
+      ],
+      "local_links": [
+        "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
+        "verification/zero_pairwise_angular_charge.py",
+        "verification/zero_pairwise_angular_charge_test.py",
+        "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
+        "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        83,
+        100,
+        121,
+        127,
+        130
+      ]
+    },
+    {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261",
       "bytes": 11789,
@@ -20540,9 +20577,9 @@
     },
     {
       "path": "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
-      "sha256": "0cb4af1c20f8d1713fa1a14b6c6b73f24ec4f54655ccd26569f94a5a21713264",
-      "bytes": 16834,
-      "lines": 152,
+      "sha256": "ffd2664758240818469820ad4ef13beefffc377b6ca820e60e96ec28be147c1d",
+      "bytes": 17190,
+      "lines": 154,
       "title": "A sign-reversing counterpart of the coherent angular history",
       "headings": [
         "A sign-reversing counterpart of the coherent angular history",
@@ -20555,6 +20592,7 @@
         "6. From physical symmetry to actual incidence: the exact conditional theorem"
       ],
       "local_links": [
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "verification/zero_coherent_signed_counterpart.py",
         "verification/zero_coherent_signed_counterpart_test.py",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
@@ -20564,10 +20602,10 @@
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md"
       ],
       "risk_phrase_lines": [
-        7,
-        62,
-        117,
-        121
+        9,
+        64,
+        119,
+        123
       ]
     },
     {
@@ -22461,9 +22499,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "51046c66f909a609ca91f1ddff0933ebdd89d919a07a8b6ca6f0d747f6003a76",
-      "bytes": 16413,
-      "lines": 156,
+      "sha256": "7716d464ab0430e346dd42d24b2fe846f0505ca0d0d785659eb597ac3e8d2a00",
+      "bytes": 16740,
+      "lines": 158,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -22481,6 +22519,7 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
       ],
@@ -22488,15 +22527,15 @@
         1,
         5,
         9,
-        55,
-        61,
-        79,
-        91,
-        101,
+        57,
+        63,
+        81,
+        93,
         103,
-        119,
-        147,
-        156
+        105,
+        121,
+        149,
+        158
       ]
     },
     {
@@ -23736,9 +23775,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "e9282a7519064ce53516be9b51a77a0ee473012cefe836a7d96fcb5a8673e99d",
-      "bytes": 19435,
-      "lines": 136,
+      "sha256": "1da58bacfb43943bbdfe98cb581a2576d11b926a691036bafa5e636f68d5d659",
+      "bytes": 19800,
+      "lines": 138,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23751,6 +23790,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
@@ -23771,20 +23811,20 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        13,
+        9,
         15,
-        25,
-        56,
-        71,
-        102,
+        17,
+        27,
+        58,
+        73,
         104,
-        112,
-        115,
-        116,
+        106,
+        114,
         117,
-        124
+        118,
+        119,
+        126
       ]
     },
     {

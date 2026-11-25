@@ -10,6 +10,8 @@
 
 ## The proposal
 
+**Branchwise construction:** [two local angular charges](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) now cancel on each supported joint branch of the original coherent echo, rather than only across sign-weighted branches. The opposite pair and its physical–experiential meaning are not derived from zero by this construction.
+
 The user's idea is that, if a contribution is genuinely possible, its sign-reversed counterpart is also genuinely possible; necessary plenitude then makes both actual, so the whole can be zero **through** its internal plenitude. This is stronger and more constructive than merely saying that a zero total permits nonzero parts.
 
 The required inference can be stated precisely. Let actual incidences be paired by `T`, and let their signed contribution be q. If
