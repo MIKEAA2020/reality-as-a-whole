@@ -4,6 +4,8 @@
 
 ## Main result
 
+**Tensor-network continuation:** [Tensor networks, the actual sphere pair, and an internal projective sphere](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) tests the linked 2015 article against the existing sphere interface and its 20-step echo.
+
 The article usefully connects three research strands: relational quantum clocks, the two-photon Page–Wootters experiment, and the problem of describing a dynamical spacetime holographically. It is **not** evidence that our universe has been shown to emerge from entanglement, that de Sitter holography is solved, or that experience has been derived from a quantum state.
 
 The strongest connection to our work is operational. In the ideal photon example, the **same globally stationary entangled state** gives different conditional states when its clock photon is read in different orientations. But one set of clock–system coincidence statistics alone cannot establish global coherence: a dephased mixture gives the same statistics in that basis. A separate joint interference test can distinguish them. This is the same distinction made concretely in our [sphere flag and record construction](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md): internal records can be definite relative to an interface while a retained joint witness detects coherence.

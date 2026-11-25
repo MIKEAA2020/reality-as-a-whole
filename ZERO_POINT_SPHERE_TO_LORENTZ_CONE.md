@@ -1,6 +1,6 @@
 # From the internal sphere to a Lorentz cone: the next step
 
-**Continuation:** [zero, relational balance and opposition](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) proves that the relativistic sphere alone has no nontrivial observer-independent partner map, and constructs a conditional Lorentz-invariant relational zero with nonzero local entries. It does not identify those entries with energy or experience.
+**Continuation:** [zero, relational balance and opposition](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) proves that the relativistic sphere alone has no nontrivial observer-independent partner map, and constructs a conditional Lorentz-invariant relational zero with nonzero local entries. It does not identify those entries with energy or experience. [Tensor networks, sphere steering, and the echo](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) exhibits a conditional physical-qubit `CP¹` steering sphere in the existing circuit without assuming it is this cone's physical realization.
 
 ## The direct answer to “what next?”
 

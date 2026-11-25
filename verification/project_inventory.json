@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 785,
-  "bytes": 10046664,
-  "line_count": 91380,
-  "document_count_with_risk_phrases": 738,
+  "document_count": 786,
+  "bytes": 10061474,
+  "line_count": 91489,
+  "document_count_with_risk_phrases": 739,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "65446df89ce5e88df8df342f41affc89b4cea20c67ca9e6ee953dca0b6f59065",
-      "bytes": 204428,
-      "lines": 1556,
+      "sha256": "420e9809b00dd622d7650de3f732cba9e70258b70ed6f4503d5ce737a888e6c9",
+      "bytes": 204729,
+      "lines": 1558,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6505,6 +6505,7 @@
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
+        "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
@@ -7321,6 +7322,7 @@
         "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_subject_normalization_locality_test.py",
         "verification/zero_synthesis_gauge_incidence_test.py",
+        "verification/zero_tensor_network_sphere_pair_echo_test.py",
         "verification/zero_three_balance_encoded_sphere_record_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
@@ -7358,13 +7360,13 @@
         686,
         691,
         693,
-        710,
-        745,
-        782,
-        791,
-        794,
-        797,
-        868
+        711,
+        746,
+        783,
+        792,
+        795,
+        798,
+        869
       ]
     },
     {
@@ -21136,8 +21138,8 @@
     },
     {
       "path": "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
-      "sha256": "e0d1b1b436f411d8f9e5ac064c0d00b31313a22a3cc650bac74fc5980c15958e",
-      "bytes": 15100,
+      "sha256": "31d23f33eb9c6a68f762723dce243449d9d082ab9ca5de8eeb50190c7821fb59",
+      "bytes": 15333,
       "lines": 162,
       "title": "Can an actual zero-balanced pair determine incidence weights?",
       "headings": [
@@ -21152,6 +21154,7 @@
       ],
       "local_links": [
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+        "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "verification/zero_identity_pair_incidence_record_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -22491,8 +22494,8 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
-      "sha256": "058a223ce9e70ac9471f0d3404a9580ff97c3d6acddd629db635c091cd36a214",
-      "bytes": 9120,
+      "sha256": "dc83d639d75f6ffeb7a0d37432243e02198467ce2f22f43d1af61a1574aa110d",
+      "bytes": 9360,
       "lines": 121,
       "title": "From the internal sphere to a Lorentz cone: the next step",
       "headings": [
@@ -22506,7 +22509,8 @@
         "6. Concrete next research step"
       ],
       "local_links": [
-        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md"
+        "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
+        "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -22541,9 +22545,9 @@
     },
     {
       "path": "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
-      "sha256": "8fac72014cac054a7bfa158619841d39a92662c8af7082fe3623bed09af5c787",
-      "bytes": 13829,
-      "lines": 97,
+      "sha256": "03d104dc7cc67c75b82acde2ce6293189cdceba8232ead175f2d2082e87b82aa",
+      "bytes": 14079,
+      "lines": 99,
       "title": "Quanta’s time problem: photon clocks, coherence and de Sitter",
       "headings": [
         "Quanta’s time problem: photon clocks, coherence and de Sitter",
@@ -22558,12 +22562,13 @@
       "local_links": [
         "sources/uploads/page1983.pdf",
         "verification/zero_quanta_time_photons_horizon_test.py",
+        "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        76
+        9,
+        78
       ]
     },
     {
@@ -23574,6 +23579,38 @@
         89,
         101,
         149
+      ]
+    },
+    {
+      "path": "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
+      "sha256": "673a3582232e3a9cc59c8eb1457165a7049992230bc09880a8f12c62bf73f343",
+      "bytes": 13786,
+      "lines": 105,
+      "title": "Tensor networks, the actual sphere pair, and an internal projective sphere",
+      "headings": [
+        "Tensor networks, the actual sphere pair, and an internal projective sphere",
+        "Result",
+        "1. What the article contributes",
+        "2. A general tensor cut is an upper bound, not automatically an area law",
+        "3. Exact tensorization of the existing three-pair interface",
+        "4. Conditional Bell entanglement versus the actual unconditioned pair",
+        "5. What the actual 20-step echo does to that pair",
+        "6. The actual reference qubit has a projective sphere—but its access is conditional"
+      ],
+      "local_links": [
+        "verification/zero_tensor_network_sphere_pair_echo_test.py",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        33,
+        35,
+        45,
+        71,
+        79,
+        103
       ]
     },
     {

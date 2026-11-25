@@ -2,7 +2,7 @@
 
 ## Result
 
-**Continuation:** [Flag-record incidence and a reversible physical readout](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) proves the conditional uniqueness rule on compatible effects and tests actual echo-record access.
+**Continuation:** [Flag-record incidence and a reversible physical readout](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) proves the conditional uniqueness rule on compatible effects and tests actual echo-record access. [Tensor networks, sphere steering, and the echo](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) calculates the actual pair's conditional and unconditional entanglement and its connection to the reference qubit's projective sphere.
 
 The sphere/reservoir construction already contains a natural candidate for the missing equal-weight rule: its **actual first source–reference Bell pair**. Two exact relational zero conditions fix that pair, conditional on the sphere sign, and its reference bit has equal Born weight in either value. If those two physical reference values are **additionally** identified with the two proposed incidence types, they give the equal `1/2 : 1/2` type weights on the earlier coarse `(b,z,s)` records.
 
