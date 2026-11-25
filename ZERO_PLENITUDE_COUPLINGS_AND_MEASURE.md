@@ -14,6 +14,8 @@ Thus *support for every possibility* and *a measure over them* are mathematicall
 
 Verifier: [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py). The exact infinite argument is given below; the executable checks use normalized finite truncations with analytic tail bounds.
 
+**Measure-independent continuation:** [what zero balance fixes without choosing a coupling measure](ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md) derives exact reference-record agreement throughout the full invariant neutral sector, without selecting a history or distribution, and tests whether the remaining weights can be reconstructed from relational readouts.
+
 ## 1. One coupling operator instead of one chosen coupling
 
 Let H be the normalized neutral exchange from the prior report, with

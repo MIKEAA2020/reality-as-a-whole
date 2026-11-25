@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 702 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 635 verification Python scripts.
+- 703 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 636 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -630,6 +630,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
 - [ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) — Local subject incidence and a conserved quantum current
 - [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
+- [ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md](ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md) — What zero balance fixes without choosing a coupling measure
 - [ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md](ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md) — Minimal invariant reference and a constrained Hamiltonian
 - [ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) — Necessary plenitude as sign pairing: an exact construction
 - [ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) — Updated chat: necessity, probability and emergent spacetime
@@ -1416,6 +1417,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_local_record_constitution_test.py](verification/zero_local_record_constitution_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
 - [verification/zero_localized_modules_boundary_test.py](verification/zero_localized_modules_boundary_test.py)
+- [verification/zero_measure_independent_relational_record_test.py](verification/zero_measure_independent_relational_record_test.py)
 - [verification/zero_minimal_symmetry_reference_record_test.py](verification/zero_minimal_symmetry_reference_record_test.py)
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)

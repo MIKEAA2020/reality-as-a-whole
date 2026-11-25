@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1437400d9907540c50f13015d7caece0b3ce9184",
-  "file_count": 2111,
+  "base_head": "05b2f41e041da6fd3d46effec9762cc3efc715e3",
+  "file_count": 2113,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 192440,
-      "sha256": "8147cabab532084df20a0ccfa1162d62b967741e20a94419d76b9e6e3d489cfe"
+      "bytes": 192734,
+      "sha256": "641d55e0aaa3d3557cba260fbd346ed1b47ead986e20719e0ad985413fe09d1f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3109,6 +3109,11 @@
       "sha256": "109a37386475677c415f597cda05d842adfce34ce0008b97d1633bf95865880b"
     },
     {
+      "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
+      "bytes": 9384,
+      "sha256": "5643303ba49e050d217bdd0d6e3213db31b0dc7607363cae936becc4a938e1c6"
+    },
+    {
       "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
       "bytes": 10923,
       "sha256": "1c3efdb354357250f3671f87b7407505db7e485131573c615f1a5d50638744bb"
@@ -3135,8 +3140,8 @@
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
-      "bytes": 11118,
-      "sha256": "b9904a7c817a4b42a9dd4a5183b8d3582f2686a29e6dcd533fd30cdefe4eb283"
+      "bytes": 11485,
+      "sha256": "a38ddb7cd0edf920ddc6bdabffa6f769057f4caccd758143648a8634d5704eb1"
     },
     {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
@@ -8000,8 +8005,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 935512,
-      "sha256": "5982121e69c03d3e6ee8451c1c024fefbf71e3f3612fa240aecb760277f17629"
+      "bytes": 936678,
+      "sha256": "0a7a5c38e590138982e0fc49e2419fceb54b0e44d7c27e08aff3680f18b953a4"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10267,6 +10272,11 @@
       "path": "verification/zero_localized_modules_boundary_test.py",
       "bytes": 5021,
       "sha256": "2e2b7c48a537086511cadf66428f2f9e589f06725831b378204b6b5e1459d2ad"
+    },
+    {
+      "path": "verification/zero_measure_independent_relational_record_test.py",
+      "bytes": 5554,
+      "sha256": "125645ad42a6c6f4f8ad0c81a972d0c00d2ccbd46880fb8eb94be524573e52be"
     },
     {
       "path": "verification/zero_minimal_symmetry_reference_record_test.py",
