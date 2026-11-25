@@ -1,6 +1,6 @@
 # One candidate intrinsic quality through the actual sphere echo
 
-**Continuity continuation:** [Action-flow and two continuous stationary sphere histories](ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md) tests whether an added continuous relational flow is uniquely fixed by the same recorded echo and calculates its effect on these candidate signs.
+**Continuity continuation:** [Action-flow and two continuous stationary sphere histories](ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md) tests whether an added continuous relational flow is uniquely fixed by the same recorded echo and calculates its effect on these candidate signs. [The PSR-5 R0 review](ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md) compares a frozen independent rival's explicit experience residual with the same bridge problem without treating structural labels as felt quality.
 
 ## Result: a conditional selection, and its exact cost
 

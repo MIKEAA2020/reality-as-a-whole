@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "51f3c85107d6733504cd5dae8fab5d3e99239d13",
-  "file_count": 2204,
+  "base_head": "70b493019c10a024f44ddd467fc07be2cd0b1eec",
+  "file_count": 2212,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 206208,
-      "sha256": "3650ad4ac67d9beb2d9f736acfe0e9c1e5f8caa1e7910b14450cf024d710834a"
+      "bytes": 206438,
+      "sha256": "1065178395b081d64aa43c5e4b102dc12fadc866b722e920872a4bd6dc435b96"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3065,8 +3065,8 @@
     },
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
-      "bytes": 16549,
-      "sha256": "bacdd5eba252c13008099fe7db21c4890b844041d401ee4d9b4687654bd475ea"
+      "bytes": 16758,
+      "sha256": "cf1c6825d933dfe9eec29081b606cc0258dce126983046352ad72a68ee847919"
     },
     {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -3347,6 +3347,11 @@
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
       "bytes": 9360,
       "sha256": "dc83d639d75f6ffeb7a0d37432243e02198467ce2f22f43d1af61a1574aa110d"
+    },
+    {
+      "path": "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
+      "bytes": 12345,
+      "sha256": "1f7c9d53b682ff27d01c0994a845bc8aa9720c93ca93678b23926a240704d94d"
     },
     {
       "path": "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
@@ -3732,6 +3737,36 @@
       "path": "process-phenomenality-thesis.md",
       "bytes": 16933,
       "sha256": "87901f271dac1eb6a946c505a239081e22ca834468bcd08b164904f2c8c44f88"
+    },
+    {
+      "path": "psr-5 battery/1",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md",
+      "bytes": 26573,
+      "sha256": "b0d2a0fe6c72f19437aa1804230d0c2ba41c26a878a26deffbf50bd93d901321"
+    },
+    {
+      "path": "psr-5 battery/Plural_Structural_Realism_Independent_Rival_Family_Preregistration_v1.md",
+      "bytes": 12390,
+      "sha256": "991747dc8bf99f8c797bbbc9d3bb1f0cbea311d1b1260d03f2a21aeda5501fc6"
+    },
+    {
+      "path": "psr-5 battery/Point-Sphere_PSR-5_S2_Public_Truth_Error_Bridge_Preregistration_Evaluation_v1.md",
+      "bytes": 6877,
+      "sha256": "4d93da29f7878fa10ba4eafbfebc0ab707c638f0b54d450bd7f8e5db7a49d468"
+    },
+    {
+      "path": "psr-5 battery/Point-Sphere_Plural_Structural_Realism_PSR-5_Entry_Review_v1.md",
+      "bytes": 6522,
+      "sha256": "82a4a05b7afd79f022e8d07d0ea70fece125379dae87fcf79e9faa4de8d0faae"
+    },
+    {
+      "path": "psr-5 battery/Point-Sphere_Plural_Structural_Realism_Rival_Family_Preregistration_Validation_v1.md",
+      "bytes": 7002,
+      "sha256": "22918ef7e0530b6f3824d46bdaf60b0e3abf559baef64b83ddc863285de968a4"
     },
     {
       "path": "realization-perspective-thesis.md",
@@ -8255,8 +8290,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 996331,
-      "sha256": "43a946e0e02cb9e6e52708d068dae02c572b58244733224567022ffef4335342"
+      "bytes": 997667,
+      "sha256": "e76273cdc3628acdb970fe54bf8724f489030c0ee81bad35b030c1b514aad2c6"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10702,6 +10737,11 @@
       "path": "verification/zero_point_blowup_test.py",
       "bytes": 2130,
       "sha256": "3f6f9c5af9ac1be27f55027a3e4d58d719fd6b966bc0641d56f81aa334c1e322"
+    },
+    {
+      "path": "verification/zero_psr5_global_decoder_r0_test.py",
+      "bytes": 5744,
+      "sha256": "1158998803f6da87e23888795c81eb8d329b6d9ef80638ae2e8950f78bdccb10"
     },
     {
       "path": "verification/zero_qdesic_sphere_clock_connection_test.py",

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 791,
-  "bytes": 10134354,
-  "line_count": 92049,
-  "document_count_with_risk_phrases": 744,
+  "document_count": 792,
+  "bytes": 10147138,
+  "line_count": 92148,
+  "document_count_with_risk_phrases": 745,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3650ad4ac67d9beb2d9f736acfe0e9c1e5f8caa1e7910b14450cf024d710834a",
-      "bytes": 206208,
-      "lines": 1568,
+      "sha256": "1065178395b081d64aa43c5e4b102dc12fadc866b722e920872a4bd6dc435b96",
+      "bytes": 206438,
+      "lines": 1570,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6476,6 +6476,7 @@
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
         "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
         "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
@@ -7287,6 +7288,7 @@
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
         "verification/zero_point_blowup_test.py",
+        "verification/zero_psr5_global_decoder_r0_test.py",
         "verification/zero_qdesic_sphere_clock_connection_test.py",
         "verification/zero_quanta_time_photons_horizon_test.py",
         "verification/zero_realm_physical_zero_incidence_test.py",
@@ -7366,17 +7368,17 @@
         601,
         664,
         668,
-        687,
-        690,
-        695,
-        697,
-        716,
-        751,
-        788,
-        797,
-        800,
-        803,
-        874
+        688,
+        691,
+        696,
+        698,
+        717,
+        752,
+        789,
+        798,
+        801,
+        804,
+        875
       ]
     },
     {
@@ -20808,8 +20810,8 @@
     },
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
-      "sha256": "bacdd5eba252c13008099fe7db21c4890b844041d401ee4d9b4687654bd475ea",
-      "bytes": 16549,
+      "sha256": "cf1c6825d933dfe9eec29081b606cc0258dce126983046352ad72a68ee847919",
+      "bytes": 16758,
       "lines": 141,
       "title": "One candidate intrinsic quality through the actual sphere echo",
       "headings": [
@@ -20824,6 +20826,7 @@
       ],
       "local_links": [
         "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
+        "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
@@ -22660,6 +22663,46 @@
         74,
         90,
         92
+      ]
+    },
+    {
+      "path": "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
+      "sha256": "1f7c9d53b682ff27d01c0994a845bc8aa9720c93ca93678b23926a240704d94d",
+      "bytes": 12345,
+      "lines": 97,
+      "title": "PSR-5 battery: a frozen R0 decoder review",
+      "headings": [
+        "PSR-5 battery: a frozen R0 decoder review",
+        "Disposition",
+        "1. What this battery is for",
+        "2. The frozen code and the missing record",
+        "3. The same accepted alias has two nonisomorphic possible outputs",
+        "4. Precise limits of the result",
+        "5. A constructive fresh-candidate repair—not a PSR-5 amendment",
+        "6. Relation to the ongoing zero and sphere work"
+      ],
+      "local_links": [
+        "psr-5 battery",
+        "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md",
+        "psr-5 battery/Point-Sphere_Plural_Structural_Realism_PSR-5_Entry_Review_v1.md",
+        "verification/zero_psr5_global_decoder_r0_test.py",
+        "psr-5 battery/Point-Sphere_PSR-5_S2_Public_Truth_Error_Bridge_Preregistration_Evaluation_v1.md",
+        "psr-5 battery/Plural_Structural_Realism_Independent_Rival_Family_Preregistration_v1.md",
+        "psr-5 battery/Point-Sphere_Plural_Structural_Realism_Rival_Family_Preregistration_Validation_v1.md",
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        15,
+        35,
+        52,
+        64,
+        76,
+        80,
+        82,
+        86,
+        97
       ]
     },
     {
