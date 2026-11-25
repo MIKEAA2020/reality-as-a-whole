@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f8d803c25abd19c88c7861ee1546131724b928e1",
-  "file_count": 2127,
+  "base_head": "b52221223cc7c4a6ed7ad781a14ed3adb33ab629",
+  "file_count": 2129,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 194764,
-      "sha256": "309023134f59e43b1c659375b4c6711b647e176e843f52239c1de5b9fc9e36b6"
+      "bytes": 195039,
+      "sha256": "9b5127a2ca9917e21300d5c9272697f48936a783aa889e1761e071f7710ebb34"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2979,6 +2979,11 @@
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee"
     },
     {
+      "path": "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+      "bytes": 11334,
+      "sha256": "cd25dbe236b561d0caba196c634d0a67ea767c63b51c96846fa89d8ae8d500ef"
+    },
+    {
       "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
       "bytes": 16658,
       "sha256": "4bdc49a1a77b62b77335da6d5931461893b1da58dca5fe32b64f50125dcf13d5"
@@ -3095,8 +3100,8 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
-      "bytes": 14525,
-      "sha256": "567a94c977d4115f882f38e374be4cc96bfb694c7fac2d1f40ad1ac3c13ca8bf"
+      "bytes": 14844,
+      "sha256": "48c4603761a9320e66b170691387b71757eca0623aa52b49e737128074f7310e"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -8040,8 +8045,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 946184,
-      "sha256": "5e9a55947fe259b05e9fe026dccff474c2089b3d615506528928a91cb15c0567"
+      "bytes": 947352,
+      "sha256": "49b317214546aff2f6efc17547fe56793e33b1681db0e304bfecfa6ccca328cf"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10407,6 +10412,11 @@
       "path": "verification/zero_recollapse_sphere_memory_test.py",
       "bytes": 12236,
       "sha256": "d62ec780cd24cc948b9fca515da9e1f0b97002eca95259891a7ece8f55ef3972"
+    },
+    {
+      "path": "verification/zero_relational_chirality_report_test.py",
+      "bytes": 9247,
+      "sha256": "1af0b3eaad3b7df3a2ad3b97ed9b21b8c713303b49b5f411ea4dffe95b7d5b3d"
     },
     {
       "path": "verification/zero_relational_history_experiential_clock_test.py",

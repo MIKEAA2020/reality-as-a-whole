@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 753,
-  "bytes": 9587681,
-  "line_count": 87343,
-  "document_count_with_risk_phrases": 706,
+  "document_count": 754,
+  "bytes": 9599650,
+  "line_count": 87495,
+  "document_count_with_risk_phrases": 707,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3ac2b611a4d3e83c05356e9b8aa46c140e27279ac9e6d5de805fb73181afbdb2",
-      "bytes": 194448,
-      "lines": 1489,
+      "sha256": "309023134f59e43b1c659375b4c6711b647e176e843f52239c1de5b9fc9e36b6",
+      "bytes": 194764,
+      "lines": 1491,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6366,6 +6366,7 @@
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
@@ -7145,6 +7146,7 @@
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
+        "verification/zero_internal_reference_subject_report_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
@@ -7226,19 +7228,19 @@
         481,
         579,
         595,
-        640,
-        643,
-        656,
-        658,
-        662,
-        664,
-        678,
-        713,
-        749,
-        758,
-        761,
-        764,
-        833
+        641,
+        644,
+        657,
+        659,
+        663,
+        665,
+        679,
+        714,
+        750,
+        759,
+        762,
+        765,
+        834
       ]
     },
     {
@@ -20188,6 +20190,34 @@
       ]
     },
     {
+      "path": "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+      "sha256": "cd25dbe236b561d0caba196c634d0a67ea767c63b51c96846fa89d8ae8d500ef",
+      "bytes": 11334,
+      "lines": 148,
+      "title": "A balanced relational sign with a charge-preserving record",
+      "headings": [
+        "A balanced relational sign with a charge-preserving record",
+        "Result",
+        "1. The actual old orientation algebra",
+        "2. Add a balanced reference and build a scalar",
+        "3. A concrete pointer unitary, with branchwise zero",
+        "4. Pairing and the existing histories",
+        "5. What the new sign does—and does not—resolve",
+        "6. Next constitutive question"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
+        "verification/zero_relational_chirality_report_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        10,
+        46,
+        135,
+        148
+      ]
+    },
+    {
       "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
       "sha256": "4bdc49a1a77b62b77335da6d5931461893b1da58dca5fe32b64f50125dcf13d5",
       "bytes": 16658,
@@ -20957,9 +20987,9 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
-      "sha256": "567a94c977d4115f882f38e374be4cc96bfb694c7fac2d1f40ad1ac3c13ca8bf",
-      "bytes": 14525,
-      "lines": 155,
+      "sha256": "48c4603761a9320e66b170691387b71757eca0623aa52b49e737128074f7310e",
+      "bytes": 14844,
+      "lines": 157,
       "title": "A reference from the paired state, and what a confined subject could report",
       "headings": [
         "A reference from the paired state, and what a confined subject could report",
@@ -20972,21 +21002,22 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
         "verification/zero_internal_reference_subject_report_test.py",
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md"
       ],
       "risk_phrase_lines": [
-        11,
-        48,
-        76,
-        104,
-        110,
-        124,
-        132,
-        140,
-        146,
-        155
+        13,
+        50,
+        78,
+        106,
+        112,
+        126,
+        134,
+        142,
+        148,
+        157
       ]
     },
     {

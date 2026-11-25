@@ -1,5 +1,7 @@
 # A reference from the paired state, and what a confined subject could report
 
+> **Constructive continuation:** [A balanced relational sign with a charge-preserving record](ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md) supplies a paired reference and an explicit pointer unitary preserving the enlarged orientation charges. Its new relational sign is distinct from the old frame-dependent sign.
+
 ## Result in the larger program
 
 The proposal is that one self-sufficient, internally differentiated zero whole determines physical organization, genuine subjectivity, their relation and incidence, without an unexplained external selection. A meaningful next step is to stop introducing the geometrical reference, record, and observer as independent pictures and ask whether they can be extracted from the **same actual model state and dynamics**.

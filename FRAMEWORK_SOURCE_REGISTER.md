@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 710 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 643 verification Python scripts.
+- 711 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 644 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -604,6 +604,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
+- [ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md](ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md) — A balanced relational sign with a charge-preserving record
 - [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) — A permutation-symmetric whole with a changing relational history
@@ -1444,6 +1445,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_realm_restriction_without_interaction_test.py](verification/zero_realm_restriction_without_interaction_test.py)
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)
 - [verification/zero_recollapse_sphere_memory_test.py](verification/zero_recollapse_sphere_memory_test.py)
+- [verification/zero_relational_chirality_report_test.py](verification/zero_relational_chirality_report_test.py)
 - [verification/zero_relational_history_experiential_clock_test.py](verification/zero_relational_history_experiential_clock_test.py)
 - [verification/zero_relational_orientation_reference_test.py](verification/zero_relational_orientation_reference_test.py)
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)
