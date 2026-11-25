@@ -124,6 +124,10 @@ The constructive distinction is now sharper:
 
 The next substantive construction would derive the candidate boundary and admissible state/interaction algebra from a dynamical subject criterion, then test it under record-writing, splitting, merging and memory transport—not simply append a new preferred reference or declare the memory rival impossible. This respects the demand for a self-sufficient constitution while identifying the precise extra criterion on which this finite model still depends.
 
+## Subsequent dynamical memory and boundary test
+
+[Memory writing, use and attempted erasure](ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md) shows an exact coherent echo that turns the memory into a conserved-sphere record and compares two boundary rules on the same gate sequence. It distinguishes gate-support diagnostics from gauge-invariant interventions and actual subject incidence.
+
 ## Reproduce
 
 ```sh

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 771,
-  "bytes": 9836366,
-  "line_count": 89571,
-  "document_count_with_risk_phrases": 724,
+  "document_count": 772,
+  "bytes": 9849410,
+  "line_count": 89705,
+  "document_count_with_risk_phrases": 725,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5760,9 +5760,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5f38a3a2e0b02d1ba8bb1281577ab4c3abbc85d20923cb73b0e0f26fcf089240",
-      "bytes": 200055,
-      "lines": 1526,
+      "sha256": "778c2aa804ab17b9e579af50c5cbdf2f76bed0e979b27812394f7766bcace548",
+      "bytes": 200344,
+      "lines": 1528,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6380,6 +6380,7 @@
         "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
@@ -7174,6 +7175,7 @@
         "verification/zero_covariant_sphere_subject_bridge_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
+        "verification/zero_dynamic_subject_memory_echo_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
         "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
@@ -7288,19 +7290,19 @@
         483,
         581,
         598,
-        652,
-        656,
-        672,
-        675,
-        680,
-        682,
-        696,
-        731,
-        768,
-        777,
-        780,
-        783,
-        852
+        653,
+        657,
+        673,
+        676,
+        681,
+        683,
+        697,
+        732,
+        769,
+        778,
+        781,
+        784,
+        853
       ]
     },
     {
@@ -20603,6 +20605,41 @@
       ]
     },
     {
+      "path": "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+      "sha256": "56b5c18c383fc6768b81f3393a422c90e464f5ab597527c7cbe091015675546f",
+      "bytes": 12362,
+      "lines": 128,
+      "title": "A subject boundary through memory writing, use and attempted erasure",
+      "headings": [
+        "A subject boundary through memory writing, use and attempted erasure",
+        "1. Physical episode and notation",
+        "2. Exact coherent memory echo",
+        "3. Actually using the memory",
+        "4. A physical back-action that a classical copy misses",
+        "5. Two explicit boundary rules on the same gates",
+        "6. Whole-zero, incidence and the constructive next problem",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+        "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
+        "verification/zero_dynamic_subject_memory_echo_test.py"
+      ],
+      "risk_phrase_lines": [
+        3,
+        19,
+        21,
+        32,
+        40,
+        46,
+        52,
+        67,
+        71,
+        119,
+        128
+      ]
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e",
       "bytes": 16666,
@@ -21947,9 +21984,9 @@
     },
     {
       "path": "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
-      "sha256": "06e582ec8ecded0212b8fa4238d6472bcabc3daf3a0189f7f1c76e279c2b7892",
-      "bytes": 12825,
-      "lines": 134,
+      "sha256": "531e62c3c5e36798f7e7f0dccba741a79c348b44fd726db2fe8daef4937442f0",
+      "bytes": 13218,
+      "lines": 138,
       "title": "Can subject persistence determine experiential sign?",
       "headings": [
         "Can subject persistence determine experiential sign?",
@@ -21959,12 +21996,13 @@
         "4. Why the restricted theorem is not a full derivation",
         "5. What mirror balance adds",
         "6. Consequence for the generative programme",
-        "Reproduce"
+        "Subsequent dynamical memory and boundary test"
       ],
       "local_links": [
         "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
         "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
-        "verification/zero_persistent_sphere_subject_selection_test.py"
+        "verification/zero_persistent_sphere_subject_selection_test.py",
+        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -21972,7 +22010,8 @@
         44,
         89,
         106,
-        109
+        109,
+        129
       ]
     },
     {

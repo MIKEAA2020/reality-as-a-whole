@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "0518a5b09ae5cffdda66e77a14247554f3c3673f",
-  "file_count": 2162,
+  "base_head": "06c65323f198077674f37968a663f59e50452648",
+  "file_count": 2164,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 200055,
-      "sha256": "5f38a3a2e0b02d1ba8bb1281577ab4c3abbc85d20923cb73b0e0f26fcf089240"
+      "bytes": 200344,
+      "sha256": "778c2aa804ab17b9e579af50c5cbdf2f76bed0e979b27812394f7766bcace548"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3039,6 +3039,11 @@
       "sha256": "c1373191089433cb6aa586bb691942272f944aacc43d5feae2bb8d6ce625f445"
     },
     {
+      "path": "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+      "bytes": 12362,
+      "sha256": "56b5c18c383fc6768b81f3393a422c90e464f5ab597527c7cbe091015675546f"
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "bytes": 16666,
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e"
@@ -3245,8 +3250,8 @@
     },
     {
       "path": "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
-      "bytes": 12825,
-      "sha256": "06e582ec8ecded0212b8fa4238d6472bcabc3daf3a0189f7f1c76e279c2b7892"
+      "bytes": 13218,
+      "sha256": "531e62c3c5e36798f7e7f0dccba741a79c348b44fd726db2fe8daef4937442f0"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -8140,8 +8145,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 969913,
-      "sha256": "9e831f1b2dc1968c1ce84bd729815a1a7ad6fa0c72fe0024be8310d262f03fb2"
+      "bytes": 971276,
+      "sha256": "9874fe9164221644cb5d559cf016e769d6352ab01b00a5e40c03602df354bcca"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10307,6 +10312,11 @@
       "path": "verification/zero_dual_pair_sphere_energy_instrument_test.py",
       "bytes": 19610,
       "sha256": "54f95d84eedd2806bf2b4b44a9147c6bdc3bc32cc9da63563b596e4d4b6b5d00"
+    },
+    {
+      "path": "verification/zero_dynamic_subject_memory_echo_test.py",
+      "bytes": 12951,
+      "sha256": "88e0211eb9b1e0dcffc0fb8a197dc3c0678732cdd6ca454aa6d6c6ef7cab7b95"
     },
     {
       "path": "verification/zero_encoded_sphere_clock_work_bridge_test.py",
