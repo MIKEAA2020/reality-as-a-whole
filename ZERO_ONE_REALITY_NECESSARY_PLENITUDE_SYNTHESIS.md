@@ -89,6 +89,8 @@ This exposes why the following are not interchangeable:
 
 A complete theory has to derive how these layers relate. This constraint is not an objection to necessary plenitude: it says what would have to be shown before a proposed counterpart is counted as an additional actual incidence.
 
+**Constructive continuation:** [A relative sign that survives one genuine redundancy](ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md) distinguishes an explicitly trivial diagonal swap from a different sign-exchanging symmetry in the same conserved-report circuit. It constructs a relative sign and pointer observable invariant under the former, while leaving the interpretation of the latter—and subjecthood—open.
+
 ## 5. One whole, all genuine possibilities, and determinism
 
 The strongest whole is one: every genuinely actual occurrence belongs to it, even if it contains many finite subjects or effective universes. This does not make the whole one experiencer. Nor do incompatible claims about the **same whole in the same respect** become simultaneously true. Different local outcomes can coexist when their subject, record and context are correctly specified; a genuinely exclusive pair of global propositions cannot both hold in classical logic.

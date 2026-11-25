@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 755,
-  "bytes": 9627305,
-  "line_count": 87665,
-  "document_count_with_risk_phrases": 708,
+  "document_count": 756,
+  "bytes": 9641056,
+  "line_count": 87853,
+  "document_count_with_risk_phrases": 709,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9b5127a2ca9917e21300d5c9272697f48936a783aa889e1761e071f7710ebb34",
-      "bytes": 195039,
-      "lines": 1493,
+      "sha256": "dc85d153c57e6ff25f86a67adc0652dc5ad5249b7506c1db321b7229377b63eb",
+      "bytes": 195311,
+      "lines": 1495,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6383,6 +6383,7 @@
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -7200,6 +7201,7 @@
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
         "verification/zero_subject_normalization_locality_test.py",
+        "verification/zero_synthesis_gauge_incidence_test.py",
         "verification/zero_three_balance_encoded_sphere_record_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
@@ -7232,17 +7234,17 @@
         595,
         642,
         645,
-        658,
-        660,
-        664,
-        666,
-        680,
-        715,
-        751,
-        760,
-        763,
-        766,
-        835
+        659,
+        661,
+        665,
+        667,
+        681,
+        716,
+        752,
+        761,
+        764,
+        767,
+        836
       ]
     },
     {
@@ -21497,9 +21499,9 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "sha256": "d598d25e6ad453c3a712a65048c0ad32fc8d25448199e12c6354443126d06f16",
-      "bytes": 27098,
-      "lines": 166,
+      "sha256": "6d8e5778cfbcdff02ca80ab97aa9511cf994f42ac7949e07a46926e45e26b21b",
+      "bytes": 27523,
+      "lines": 168,
       "title": "One reality, zero, experience and necessary plenitude",
       "headings": [
         "One reality, zero, experience and necessary plenitude",
@@ -21518,6 +21520,7 @@
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "verification/zero_synthesis_gauge_incidence_test.py",
+        "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
@@ -21534,13 +21537,13 @@
         23,
         52,
         56,
-        98,
         100,
-        126,
+        102,
         128,
-        131,
-        152,
-        157
+        130,
+        133,
+        154,
+        159
       ]
     },
     {
@@ -21946,6 +21949,36 @@
         118,
         131,
         133
+      ]
+    },
+    {
+      "path": "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
+      "sha256": "844ada4d96fdc95efa18ee657cd106614997538252530ea1c835366a2a20e473",
+      "bytes": 13054,
+      "lines": 184,
+      "title": "A relative sign that survives one genuine redundancy",
+      "headings": [
+        "A relative sign that survives one genuine redundancy",
+        "The question",
+        "1. Two chirality conventions, already in the model",
+        "2. A simultaneous swap acts as identity on the whole zero sector",
+        "3. The relative sign and its exact report",
+        "4. This is an exact strengthening, not a new independent experiment",
+        "5. A distinct counterpart transformation, and the remaining choice",
+        "6. The experience and measure test survives the improvement"
+      ],
+      "local_links": [
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "verification/zero_relative_gauge_invariant_report_test.py",
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md"
+      ],
+      "risk_phrase_lines": [
+        81,
+        89,
+        106,
+        110,
+        173,
+        175
       ]
     },
     {
