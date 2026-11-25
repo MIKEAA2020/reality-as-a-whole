@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 763,
-  "bytes": 9736793,
-  "line_count": 88716,
-  "document_count_with_risk_phrases": 716,
+  "document_count": 764,
+  "bytes": 9746015,
+  "line_count": 88763,
+  "document_count_with_risk_phrases": 717,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -411,6 +411,28 @@
       ],
       "risk_phrase_lines": [
         24
+      ]
+    },
+    {
+      "path": "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
+      "sha256": "d50b5352fb91c41831e7a36ed49de5be57bafe2ed533b108d6d5cbceb559717f",
+      "bytes": 8789,
+      "lines": 44,
+      "title": "Advanced meditation: self, cessation and the zero framework",
+      "headings": [
+        "Advanced meditation: self, cessation and the zero framework",
+        "The article in context",
+        "What the article actually draws on",
+        "The crucial distinction: a gap in report is not necessarily a gap in experience",
+        "A constructive next step: distinguish four dimensions, not one",
+        "What this contributes to zero"
+      ],
+      "local_links": [
+        "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
+        "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md"
+      ],
+      "risk_phrase_lines": [
+        44
       ]
     },
     {
@@ -5735,9 +5757,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ff356461a19e415e912fb5ebc185b4a5edd599f5ba3a1b69c18d6f1fab2d1318",
-      "bytes": 197718,
-      "lines": 1511,
+      "sha256": "5c18779b65a6449db95dcbf591e403b46107d1eed43c8b626541d9f1008a4fcc",
+      "bytes": 197881,
+      "lines": 1512,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5763,6 +5785,7 @@
         "ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md",
         "ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md",
         "ACTUAL_FULFILLMENT_AND_STANDING.md",
+        "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
         "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
         "AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md",
         "AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md",
@@ -7235,32 +7258,32 @@
       "risk_phrase_lines": [
         16,
         20,
-        43,
-        66,
-        75,
-        85,
-        167,
-        229,
-        305,
-        335,
-        383,
-        414,
-        482,
-        580,
-        596,
-        646,
-        650,
-        665,
-        668,
-        672,
-        674,
-        688,
-        723,
-        760,
-        769,
-        772,
-        775,
-        844
+        44,
+        67,
+        76,
+        86,
+        168,
+        230,
+        306,
+        336,
+        384,
+        415,
+        483,
+        581,
+        597,
+        647,
+        651,
+        666,
+        669,
+        673,
+        675,
+        689,
+        724,
+        761,
+        770,
+        773,
+        776,
+        845
       ]
     },
     {
@@ -11126,9 +11149,9 @@
     },
     {
       "path": "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
-      "sha256": "f6ab36fc02a09fc612936758480dc62ba204d61a701a0b73154b2117b1174be1",
-      "bytes": 12567,
-      "lines": 93,
+      "sha256": "a0b987c78b3c98636ae32896c96f3c9c1a8f3181d32b75d50fc5206dd2f0c0e2",
+      "bytes": 12837,
+      "lines": 95,
       "title": "Non-dual experience, neural timescales and the one-reality program",
       "headings": [
         "Non-dual experience, neural timescales and the one-reality program",
@@ -11141,13 +11164,14 @@
         "Sources, limitations and reproduction"
       ],
       "local_links": [
+        "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
         "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
         "verification/nonduality_neural_timescale_identifiability_test.py"
       ],
       "risk_phrase_lines": [
-        19,
-        52,
-        67
+        21,
+        54,
+        69
       ]
     },
     {

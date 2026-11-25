@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 720 root Markdown documents including this register; 43 research Markdown documents.
+- 721 root Markdown documents including this register; 43 research Markdown documents.
 - 62 original uploaded files, including provenance metadata; 653 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -24,6 +24,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md](ACTUALITY_CAUSAL_INFERENCE_AND_BELL.md) — Actuality, interventions and Bell experiments
 - [ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md](ACTUAL_EXPERIENCE_VARIATIONAL_ZERO_CANDIDATE.md) — A candidate zero for actual experiential occurrences: relational stationarity
 - [ACTUAL_FULFILLMENT_AND_STANDING.md](ACTUAL_FULFILLMENT_AND_STANDING.md) — Actual fulfillment, welfare, and standing
+- [ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md](ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md) — Advanced meditation: self, cessation and the zero framework
 - [AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md](AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md) — Fixed retrospective analysis: valence, expectation and social choice
 - [AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md](AFFECT_PREDICTION_ERROR_AND_MISMATCH_BRIDGE_GATE.md) — Discriminating mismatch from affect-prediction error
 - [AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md](AFTERIMAGE_HUE_OPPONENCY_AND_CONE_CONTRAST_AUDIT.md) — Afterimage hue: when a sign-reversal toy stops being a color prediction

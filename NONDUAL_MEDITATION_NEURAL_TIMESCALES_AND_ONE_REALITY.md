@@ -1,5 +1,7 @@
 # Non-dual experience, neural timescales and the one-reality program
 
+Related source analysis: [Advanced meditation: self, cessation and the zero framework](ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md) distinguishes reported cessation, memory and phenomenal absence, and reviews the Sacchet–Brewer article and its underlying studies.
+
 **Subsequent theoretical connection:** [Extending the balanced orientation and opening a report boundary](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) constructs a tunable, conserved report interface and distinguishes formal sign recoverability from subjective experience. It is a mathematical analogy, not an analysis of the paper's EEG or a validated empirical mapping.
 
 ## The paper and the question
