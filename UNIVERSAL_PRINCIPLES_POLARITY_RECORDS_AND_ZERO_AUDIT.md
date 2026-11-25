@@ -62,6 +62,8 @@ Discrete excitations and counting are useful in particular models; it does not f
 
 Use the actual sphere-coupled finite-reservoir model, not a new disconnected spectator, and ask: **for a fixed locally accessible subsystem and a fixed allowed gate set, what is the minimum additional low-entropy memory needed to recover a specified record to a prescribed success probability after reuse, while retaining exact whole-level reversibility and the stipulated zero-charge constraint?** Compare pure and thermal fresh memories at fixed dimension, and separately measure the later ability to uncompute. A concrete first target is full-triple success above `9/16` under explicit accessibility and resource accounting; report whether it is achieved and by what resources, not as a prediction of inevitable dissipation. This could rule out a proposed *local* permanent-ledger mechanism or quantify its resource needs. It would not settle global energy, subjecthood, consciousness, necessary actualization, or the claim that zero determines the gate law. Those remain the central explanatory load of the user's framework, rather than optional labels.
 
+**Follow-up completed:** [the sphere-coupled auxiliary-memory test](ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md) obtains `3/4` full-triple success with one clean bit and `81/128` with two initially Gibbs bits in the stated gate family, versus `9/16` without auxiliary memory. Both signed constraints and the complete reversible clock are retained; the preparation and access assumptions remain essential.
+
 ## Reproduction
 
 `OPENBLAS_NUM_THREADS=1 PYTHONPATH=.arena/python-deps python -m unittest verification.universal_principles_steelmanning_audit_test -v`

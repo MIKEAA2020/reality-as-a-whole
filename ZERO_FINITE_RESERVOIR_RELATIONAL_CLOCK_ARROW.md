@@ -4,7 +4,7 @@
 
 In the forward segment the reservoir stores the three source readings with success probabilities **1, 3/4, 3/4**. The first memory is initially perfectly blank; later resets leave a thermal error probability 1/4. The reservoir gains `3ε/4` of energy, the working memory gains `ε/4`, and the energy store loses `ε`. The entire sequence then reverses and restores the original state and preparations. This is a concrete local arrow and resource ledger, not an irreversible whole, a derivation of consciousness, or proof of objective cosmic energy zero.
 
-The construction is an extension of [the previous reusable-memory clock](ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md), not a replacement for its original physical input. [The verifier](verification/zero_clock_finite_reservoir_reuse_test.py) checks all 16 old clock histories and the complete finite clock/battery dynamics.
+The construction is an extension of [the previous reusable-memory clock](ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md), not a replacement for its original physical input. [The verifier](verification/zero_clock_finite_reservoir_reuse_test.py) checks all 16 old clock histories and the complete finite clock/battery dynamics. A subsequent [auxiliary-memory extension](ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md) improves accessible full-triple recovery while retaining the explicit zero-charge and reversible-clock structure.
 
 ## 1. Add independent sources—and actually connect them to the sphere
 
