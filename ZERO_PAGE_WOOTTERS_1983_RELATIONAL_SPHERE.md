@@ -4,7 +4,7 @@
 
 ## Bottom line
 
-**Experimental and cosmological continuation:** [Quanta’s time problem: photon clocks, coherence and de Sitter](ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md) examines the linked 2016 article and the primary photon experiment, and distinguishes its record interfaces from de Sitter horizon claims.
+**Experimental and cosmological continuation:** [Quanta’s time problem: photon clocks, coherence and de Sitter](ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md) examines the linked 2016 article and the primary photon experiment, and distinguishes its record interfaces from de Sitter horizon claims. [Structural time, DATA and the sphere echo](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) uses a 2026 claim map to calculate record access, echo reflection and the extra information needed for a physical clock comparison.
 
 This is the original Page–Wootters paper, not a new discovery that time can be relational. Its important contribution to our present work is more specific: **a dynamical correlation can itself be represented by an observable commuting with the whole's evolution**. Applying that idea to the existing 20-step sphere echo gives a pair of stationary joint observables for the pre- and post-echo sphere signs. They commute, yet their exact joint distribution records a genuine change in half the ensemble.
 

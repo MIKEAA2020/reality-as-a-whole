@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 744 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 676 verification Python scripts.
+- 745 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 677 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -616,6 +616,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md](ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md) — A symmetry between the two signs—and a relational way to report one
 - [ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) — A permutation-symmetric whole with a changing relational history
 - [ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) — One internal reference: zero, geometry, measurement and experience
+- [ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) — Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
 - [ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md](ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md) — A subject boundary through memory writing, use and attempted erasure
@@ -1535,6 +1536,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_spin_constitution_test.py](verification/zero_spin_constitution_test.py)
 - [verification/zero_spin_reversal_sign_selection_test.py](verification/zero_spin_reversal_sign_selection_test.py)
 - [verification/zero_stationary_whole_unique_history_test.py](verification/zero_stationary_whole_unique_history_test.py)
+- [verification/zero_structural_time_data_echo_test.py](verification/zero_structural_time_data_echo_test.py)
 - [verification/zero_subject_boundary_full_constraint_test.py](verification/zero_subject_boundary_full_constraint_test.py)
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)

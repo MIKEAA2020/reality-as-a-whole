@@ -1,5 +1,7 @@
 # ER = EPR, the firewall, and actual access in the sphere echo
 
+**Related continuation:** [Structural time, DATA and the sphere echo](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) calculates the B information accessible from the echo record at every tick and distinguishes a retained copy from the original unmodified reversal.
+
 **Source:** K. C. Cole, [“Wormholes Untangle a Black Hole Paradox”](https://www.quantamagazine.org/wormhole-entanglement-and-the-firewall-paradox-20150424/), *Quanta Magazine*, 24 April 2015. I checked the original [AMPS paper](https://arxiv.org/abs/1207.3123v4), [Maldacena–Susskind ER = EPR proposal](https://arxiv.org/abs/1306.0533v2), and the later [Gao–Jafferis–Wall traversable-wormhole construction](https://arxiv.org/abs/1608.05687v3). The sphere calculation is checked by [the verifier](verification/zero_er_epr_access_teleportation_test.py).
 
 ## Result

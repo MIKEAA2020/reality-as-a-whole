@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "84b31ab156282e59587c4dd8b8e37acb8bba3912",
-  "file_count": 2196,
+  "base_head": "398d2d601dcb126131eb32fa103eef0c982d1cd6",
+  "file_count": 2198,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 204996,
-      "sha256": "02a87fc2da3ce4e4989054ab639f7a80988c5be964a234d1cf107c04a8c21b82"
+      "bytes": 205288,
+      "sha256": "d4a247d8a383788cb48f894d1cd3ed1b060464cd707e9375c05dd56a81e24312"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3039,6 +3039,11 @@
       "sha256": "06ff94677c8b2c1ec511b4f23584f12c6e9b72094e9e1ae5f2e40d78aa497397"
     },
     {
+      "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
+      "bytes": 15043,
+      "sha256": "95ddf31ab26ad2fca98d28eab30499bfa9cf46e9bfec55a251fb43803c8393e7"
+    },
+    {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
       "bytes": 15430,
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e"
@@ -3075,8 +3080,8 @@
     },
     {
       "path": "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
-      "bytes": 12732,
-      "sha256": "58732395406da12e16a93be0827eafb5c2df79bc3ef68199362c4d16b1ccf21d"
+      "bytes": 12997,
+      "sha256": "0702022875688f1c4d5accd00ea913b5cf619e81585d40c4c03b16916a242833"
     },
     {
       "path": "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
@@ -3290,8 +3295,8 @@
     },
     {
       "path": "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
-      "bytes": 13692,
-      "sha256": "16da7f02d059a08a9b054fa4191f1fde621eb7dce35f2a1b8fc1ca69e9086bc5"
+      "bytes": 13914,
+      "sha256": "9f794275e12286728258f0ea45f8b7e6ef42e696436b9a05dd84c54d1f0cd744"
     },
     {
       "path": "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
@@ -8235,8 +8240,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 990686,
-      "sha256": "c6fca5f06aa3d6e086af64f37e60e84212084dc01be6173de73776f23ebc7b9b"
+      "bytes": 993376,
+      "sha256": "345b51edbb51ab2e9966a571d2ab9148b9c5b0897f4a636b5ce4a4e64fa710d3"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10862,6 +10867,11 @@
       "path": "verification/zero_stationary_whole_unique_history_test.py",
       "bytes": 7540,
       "sha256": "b536c4d549cf8972e79268bb9927c7e6b6761e47ed5a156f87ec96b2d6503633"
+    },
+    {
+      "path": "verification/zero_structural_time_data_echo_test.py",
+      "bytes": 5227,
+      "sha256": "a04f060e9387b0f9f52eff8b60a1799a6f4f89ecf0304eec54ecdfc318a51dfc"
     },
     {
       "path": "verification/zero_subject_boundary_full_constraint_test.py",

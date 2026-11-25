@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 787,
-  "bytes": 10074820,
-  "line_count": 91589,
-  "document_count_with_risk_phrases": 740,
+  "document_count": 788,
+  "bytes": 10090642,
+  "line_count": 91680,
+  "document_count_with_risk_phrases": 741,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "02a87fc2da3ce4e4989054ab639f7a80988c5be964a234d1cf107c04a8c21b82",
-      "bytes": 204996,
-      "lines": 1560,
+      "sha256": "d4a247d8a383788cb48f894d1cd3ed1b060464cd707e9375c05dd56a81e24312",
+      "bytes": 205288,
+      "lines": 1562,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6414,6 +6414,7 @@
         "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
         "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
         "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
+        "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
@@ -7319,6 +7320,7 @@
         "verification/zero_spin_constitution_test.py",
         "verification/zero_spin_reversal_sign_selection_test.py",
         "verification/zero_stationary_whole_unique_history_test.py",
+        "verification/zero_structural_time_data_echo_test.py",
         "verification/zero_subject_boundary_full_constraint_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
@@ -7356,19 +7358,19 @@
         484,
         583,
         600,
-        661,
-        665,
-        684,
-        687,
-        692,
-        694,
-        712,
-        747,
-        784,
-        793,
-        796,
-        799,
-        870
+        662,
+        666,
+        685,
+        688,
+        693,
+        695,
+        713,
+        748,
+        785,
+        794,
+        797,
+        800,
+        871
       ]
     },
     {
@@ -20631,6 +20633,37 @@
       ]
     },
     {
+      "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
+      "sha256": "95ddf31ab26ad2fca98d28eab30499bfa9cf46e9bfec55a251fb43803c8393e7",
+      "bytes": 15043,
+      "lines": 87,
+      "title": "Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits",
+      "headings": [
+        "Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits",
+        "1. What the source adds to our question",
+        "2. A concrete realization of part of the grammar",
+        "3. A record forms, strengthens, and is erased without destroying the whole",
+        "4. A sharper distinction: the internal arrow needs an actual record",
+        "5. A clock map needs more than admissible order",
+        "6. What it means for zero and subjectivity"
+      ],
+      "local_links": [
+        "verification/zero_structural_time_data_echo_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+        "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md"
+      ],
+      "risk_phrase_lines": [
+        13,
+        33,
+        39,
+        41,
+        45,
+        71
+      ]
+    },
+    {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e",
       "bytes": 15430,
@@ -20886,9 +20919,9 @@
     },
     {
       "path": "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
-      "sha256": "58732395406da12e16a93be0827eafb5c2df79bc3ef68199362c4d16b1ccf21d",
-      "bytes": 12732,
-      "lines": 96,
+      "sha256": "0702022875688f1c4d5accd00ea913b5cf619e81585d40c4c03b16916a242833",
+      "bytes": 12997,
+      "lines": 98,
       "title": "ER = EPR, the firewall, and actual access in the sphere echo",
       "headings": [
         "ER = EPR, the firewall, and actual access in the sphere echo",
@@ -20901,14 +20934,15 @@
         "6. Connection to the one-reality and zero program"
       ],
       "local_links": [
+        "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
         "verification/zero_er_epr_access_teleportation_test.py",
         "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md"
       ],
       "risk_phrase_lines": [
-        7,
-        21,
-        53,
-        75
+        9,
+        23,
+        55,
+        77
       ]
     },
     {
@@ -22275,8 +22309,8 @@
     },
     {
       "path": "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
-      "sha256": "16da7f02d059a08a9b054fa4191f1fde621eb7dce35f2a1b8fc1ca69e9086bc5",
-      "bytes": 13692,
+      "sha256": "9f794275e12286728258f0ea45f8b7e6ef42e696436b9a05dd84c54d1f0cd744",
+      "bytes": 13914,
       "lines": 112,
       "title": "Page–Wootters (1983), stationary observables, and the sphere echo",
       "headings": [
@@ -22293,6 +22327,7 @@
         "sources/uploads/page1983.pdf",
         "verification/zero_page_wootters_original_sphere_connection_test.py",
         "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
+        "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md"
       ],
