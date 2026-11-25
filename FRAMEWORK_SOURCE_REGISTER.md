@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 732 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 664 verification Python scripts.
+- 733 root Markdown documents including this register; 43 research Markdown documents.
+- 63 original uploaded files, including provenance metadata; 665 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -557,6 +557,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md](TWO_SUBJECT_REVERSIBLE_SELECTOR_MODEL.md) — A two-subject, reversible-record selector: first finite model
 - [UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md](UNDERGROUND_RADIATION_COLLAPSE_MODEL_AUDIT.md) — Underground radiation tests, collapse operators, and the framework
 - [UNIFIED_CONSTITUTION_MAP.md](UNIFIED_CONSTITUTION_MAP.md) — How phenomenal constitution belongs to the unified mathematical account
+- [UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md](UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md) — Universal principles: useful ore, faithful repairs, and zero balance
 - [UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md](UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md) — One universal subject and many finite subjects
 - [UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md](UNIVERSAL_SUBJECT_PERSISTENCE_AND_QUANTUM_TIME.md) — Universal consciousness, shared experience and persistence through quantum reversal
 - [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
@@ -807,6 +808,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Data_Spike_Trains.txt](sources/uploads/Data_Spike_Trains.txt)
 - [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
 - [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
+- [sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt](sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt)
 - [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt)
 - [sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt)
@@ -1374,6 +1376,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/two_subject_reversible_selector.py](verification/two_subject_reversible_selector.py)
 - [verification/underground_collapse_scope.py](verification/underground_collapse_scope.py)
 - [verification/unity_triple_partition_calibration_gate.py](verification/unity_triple_partition_calibration_gate.py)
+- [verification/universal_principles_steelmanning_audit_test.py](verification/universal_principles_steelmanning_audit_test.py)
 - [verification/universal_subject_lf_tradeoff.py](verification/universal_subject_lf_tradeoff.py)
 - [verification/updated_experience_energy_chat_test.py](verification/updated_experience_energy_chat_test.py)
 - [verification/ur_spinor_classical_control_gate.py](verification/ur_spinor_classical_control_gate.py)

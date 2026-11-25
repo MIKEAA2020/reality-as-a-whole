@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f4ec1b80905e8ab81222b3e20485f00d244e5815",
-  "file_count": 2170,
+  "base_head": "f62125ba302d138f48bf6020241e5fe57ab1d8c8",
+  "file_count": 2173,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 201208,
-      "sha256": "c2ff4ef4d9a076f4a8f98c31e5729c4790b48f8034657ce2bb26442f4707bf92"
+      "bytes": 201676,
+      "sha256": "de8b4df96e6a614601607f239cf3ee8c8de4508e244cb11de52b13cb627a9177"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2742,6 +2742,11 @@
       "path": "UNIFIED_CONSTITUTION_MAP.md",
       "bytes": 47592,
       "sha256": "00ab3c3d3c86becec9dac33ece47796cc1a014cd8b7a4d8a00d687c8576ffdd0"
+    },
+    {
+      "path": "UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md",
+      "bytes": 14750,
+      "sha256": "8484a5660932487178aa5bed57d82b36f59ae04f9a2530028515a80a077c1f2f"
     },
     {
       "path": "UNIVERSAL_SUBJECT_AND_FINITE_SUBJECTS.md",
@@ -5002,6 +5007,11 @@
       "path": "sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt",
       "bytes": 45078,
       "sha256": "dab6dc853974f9cded032a930b864558f65fc401fb876d29e4b59f6c807d9e40"
+    },
+    {
+      "path": "sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt",
+      "bytes": 76932,
+      "sha256": "9fab757e95bda0ab6ce48c419a0ee822a6683d7fe3c95d951def111201f6fc26"
     },
     {
       "path": "sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt",
@@ -8165,8 +8175,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 975055,
-      "sha256": "75f4b36b26cea75337a875c3d8d74ed56d4e14a321c16a45a20c834e66716ffd"
+      "bytes": 976167,
+      "sha256": "0ce0488c3f49cf3ed19b681e67174daf4aa82e1309e2ca3d69261bbf51158385"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9897,6 +9907,11 @@
       "path": "verification/unity_triple_partition_calibration_gate.py",
       "bytes": 2930,
       "sha256": "4655f80f70751b3cbf6408c62eaea1625f0b352122f68d3fda90a93b793660e2"
+    },
+    {
+      "path": "verification/universal_principles_steelmanning_audit_test.py",
+      "bytes": 5710,
+      "sha256": "f8f0238a9119e80890e641c6b234a4301ba751266f4fc0c9e8500bf0e8952794"
     },
     {
       "path": "verification/universal_subject_lf_tradeoff.json",
