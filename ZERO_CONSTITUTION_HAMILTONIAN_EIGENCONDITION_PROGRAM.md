@@ -21,6 +21,8 @@ This moves the eigencondition and an explicitly constructed Hamiltonian-like ope
 
 Reproducible verifier: [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py). Prior construction: [branchwise balance and conditional selection](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md), [all-sector involution](ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md).
 
+**Orientation continuation:** [relative orientation and an internal reference](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md) builds a charge-balanced internal reference and an invariant relative-phase observable, and proves an uncorrelated-input preparation obstruction.
+
 ## 1. Three signed balances already present in the interface
 
 Within the original physical model, let W be the active two-state work subspace, R the record and T the target. Set `J₁=−Y_W`. Define two operator triples:

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 735,
-  "bytes": 9362058,
-  "line_count": 84765,
-  "document_count_with_risk_phrases": 688,
+  "document_count": 736,
+  "bytes": 9374811,
+  "line_count": 84915,
+  "document_count_with_risk_phrases": 689,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -20041,9 +20041,9 @@
     },
     {
       "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
-      "sha256": "793466a889e48141fe52079f6fba14196ff375837ecbfa297f2b529355111956",
-      "bytes": 16377,
-      "lines": 195,
+      "sha256": "4bdc49a1a77b62b77335da6d5931461893b1da58dca5fe32b64f50125dcf13d5",
+      "bytes": 16658,
+      "lines": 197,
       "title": "Deriving the eigencondition and Hamiltonian from zero: a constructive program",
       "headings": [
         "Deriving the eigencondition and Hamiltonian from zero: a constructive program",
@@ -20058,19 +20058,21 @@
       "local_links": [
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
-        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md"
+        "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
+        "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md"
       ],
       "risk_phrase_lines": [
         17,
         18,
-        43,
-        54,
-        76,
-        111,
+        24,
+        45,
+        56,
+        78,
         113,
-        157,
-        164,
-        183
+        115,
+        159,
+        166,
+        185
       ]
     },
     {
@@ -21250,6 +21252,36 @@
         162,
         168,
         180
+      ]
+    },
+    {
+      "path": "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
+      "sha256": "1045cf2b2ba6fb18b088b23256270ce47bc427810f99d6168a9fbb7f8e3eed96",
+      "bytes": 12472,
+      "lines": 148,
+      "title": "Relative orientation inside the zero-balanced whole",
+      "headings": [
+        "Relative orientation inside the zero-balanced whole",
+        "Result",
+        "1. Embed the original all-sector circuit without discarding a lab sector",
+        "2. A genuinely relational phase witness",
+        "3. Deriving a relational selection condition from complementary zeros",
+        "4. Relation to the old plus and minus eigenconditions",
+        "5. Why the reference resource matters",
+        "6. Meaning for experience and the next step"
+      ],
+      "local_links": [
+        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
+        "verification/zero_relational_orientation_reference_test.py"
+      ],
+      "risk_phrase_lines": [
+        13,
+        15,
+        16,
+        60,
+        116,
+        129,
+        131
       ]
     },
     {

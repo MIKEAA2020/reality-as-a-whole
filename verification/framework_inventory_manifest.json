@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "796a3c9278d50a43b3ff187a856639152ccea5d4",
-  "file_count": 2091,
+  "base_head": "7eb71124b31202f1344b8c99c453cf022e89164c",
+  "file_count": 2093,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 189538,
-      "sha256": "ce6832e39fa769ee4d7fd7e1fac0bd1ac738a9846d80e9fb4d769e9038b257cd"
+      "bytes": 189830,
+      "sha256": "c4dc89d56857f223725f2a19f855b071b3936d48b36d9c6f64a25c8576118839"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2965,8 +2965,8 @@
     },
     {
       "path": "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
-      "bytes": 16377,
-      "sha256": "793466a889e48141fe52079f6fba14196ff375837ecbfa297f2b529355111956"
+      "bytes": 16658,
+      "sha256": "4bdc49a1a77b62b77335da6d5931461893b1da58dca5fe32b64f50125dcf13d5"
     },
     {
       "path": "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
@@ -3152,6 +3152,11 @@
       "path": "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
       "bytes": 17731,
       "sha256": "ca0fcac39bfa8627e5bf1441f30af9e7391781eb3b2951ff03f115369a7b504c"
+    },
+    {
+      "path": "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
+      "bytes": 12472,
+      "sha256": "1045cf2b2ba6fb18b088b23256270ce47bc427810f99d6168a9fbb7f8e3eed96"
     },
     {
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7950,8 +7955,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 922671,
-      "sha256": "34af6635d216b0bd9b0bcfb043771916a12fe858868f4592a47dbf779c674822"
+      "bytes": 923813,
+      "sha256": "4a7d46c07b5600cc607654c51c5311e20587da4927cddb7a37316bfd1b27d218"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10242,6 +10247,11 @@
       "path": "verification/zero_relational_history_experiential_clock_test.py",
       "bytes": 10417,
       "sha256": "6ef5389d2efedd977700defc9d113108a19a8b433f5849e6e0cf3ab48869f752"
+    },
+    {
+      "path": "verification/zero_relational_orientation_reference_test.py",
+      "bytes": 10997,
+      "sha256": "cfd01d9d57d4c7abbde5ae08b7a7e356749092580edf9c60a80c38fbbfaa18be"
     },
     {
       "path": "verification/zero_relational_sphere_cycle_test.py",

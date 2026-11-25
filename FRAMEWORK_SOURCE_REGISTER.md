@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 692 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 625 verification Python scripts.
+- 693 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 626 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -639,6 +639,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) — Reciprocal subject-candidate exchange within the spherical whole
 - [ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md](ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md) — Recollapse, the sphere and record arrows in one constraint
 - [ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) — From relational zero to a unique correlated state and conserved record transfer
+- [ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md) — Relative orientation inside the zero-balanced whole
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
@@ -1411,6 +1412,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)
 - [verification/zero_recollapse_sphere_memory_test.py](verification/zero_recollapse_sphere_memory_test.py)
 - [verification/zero_relational_history_experiential_clock_test.py](verification/zero_relational_history_experiential_clock_test.py)
+- [verification/zero_relational_orientation_reference_test.py](verification/zero_relational_orientation_reference_test.py)
 - [verification/zero_relational_sphere_cycle_test.py](verification/zero_relational_sphere_cycle_test.py)
 - [verification/zero_relational_stabilizer_constitution_test.py](verification/zero_relational_stabilizer_constitution_test.py)
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
