@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 750,
-  "bytes": 9542931,
-  "line_count": 86893,
-  "document_count_with_risk_phrases": 703,
+  "document_count": 751,
+  "bytes": 9557237,
+  "line_count": 87027,
+  "document_count_with_risk_phrases": 704,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "29d8f8ad13f2d398e09ea61ecae9c659280c39c5bce727636e224436466193f7",
-      "bytes": 193560,
-      "lines": 1483,
+      "sha256": "7f7f8695586330dad0307ed0ded873228f414160dfcefc7a40ee0349ec6dd559",
+      "bytes": 193861,
+      "lines": 1485,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6357,6 +6357,7 @@
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
+        "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
@@ -7127,6 +7128,7 @@
         "verification/zero_energy_sphere_work_incidence_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
+        "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
@@ -7220,19 +7222,19 @@
         481,
         579,
         595,
-        638,
-        641,
-        653,
-        655,
-        659,
-        661,
-        675,
-        710,
-        746,
-        755,
-        758,
-        761,
-        830
+        639,
+        642,
+        654,
+        656,
+        660,
+        662,
+        676,
+        711,
+        747,
+        756,
+        759,
+        762,
+        831
       ]
     },
     {
@@ -20664,9 +20666,9 @@
     },
     {
       "path": "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
-      "sha256": "cc94a372d7cb6401fc63c1a308eda06149de0c4ffec7f0b92a69ca67971da8bf",
-      "bytes": 11426,
-      "lines": 113,
+      "sha256": "df15f19e3f6d5bef8d93afb32fcc1efcf16dced91381bb2d206833ae551c9f2d",
+      "bytes": 11728,
+      "lines": 115,
       "title": "From sphere balance to all-history records and incidence: an explicit join",
       "headings": [
         "From sphere balance to all-history records and incidence: an explicit join",
@@ -20679,6 +20681,7 @@
         "Verification"
       ],
       "local_links": [
+        "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
@@ -20686,14 +20689,14 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        24,
-        38,
+        13,
+        26,
         40,
-        50,
-        93,
-        101,
-        113
+        42,
+        52,
+        95,
+        103,
+        115
       ]
     },
     {
@@ -21350,6 +21353,39 @@
         78,
         143,
         158
+      ]
+    },
+    {
+      "path": "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
+      "sha256": "292ca8bc259747b1eab3fdb6cfaace242e02b13151f9970c178768341e966c06",
+      "bytes": 13703,
+      "lines": 130,
+      "title": "Noncommuting sphere readouts on the actual complement",
+      "headings": [
+        "Noncommuting sphere readouts on the actual complement",
+        "Result",
+        "1. The representation hidden in the existing charges",
+        "2. Construction A: maximal exact qubit support under the stated symmetry",
+        "3. Construction B: noncommuting unsharp directions on 229 dimensions",
+        "4. The actual paired input and coherent measurement",
+        "5. Clock, work and the remaining incidence question",
+        "6. What this advances and what it does not"
+      ],
+      "local_links": [
+        "verification/zero_all_sector_noncommuting_sphere_test.py",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+        "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        10,
+        46,
+        64,
+        77,
+        92,
+        108,
+        115,
+        119
       ]
     },
     {

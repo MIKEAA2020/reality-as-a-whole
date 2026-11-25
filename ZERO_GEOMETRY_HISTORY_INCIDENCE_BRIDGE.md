@@ -1,5 +1,7 @@
 # From sphere balance to all-history records and incidence: an explicit join
 
+> **Subsequent construction:** [Noncommuting sphere readouts on the actual complement](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) replaces much of the surrogate discussed here with explicit charge-preserving directional POVMs, while keeping the limitations and alternative joint tables distinct.
+
 ## The connection
 
 The earlier results can be joined more tightly than their separate presentations suggest. In the **same specified finite model**, one can start with a three-direction zero vector on the internal sphere, follow its unequal weights through the full code-plus-complement record/clock history, and ask which signed readout correlations the same symmetry actually cancels. The result is constructive but conditional: sphere balance, the Hamiltonian history, its conserved charges and an incidence rule are not automatically identical notions of zero.

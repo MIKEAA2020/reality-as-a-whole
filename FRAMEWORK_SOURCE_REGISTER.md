@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 707 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 640 verification Python scripts.
+- 708 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 641 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -640,6 +640,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) — Updated chat: necessity, probability and emergent spacetime
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
 - [ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md](ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md) — A parity exchange from an exact zero-charge condition
+- [ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) — Noncommuting sphere readouts on the actual complement
 - [ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md](ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md) — A single zero whole containing frozen and changing couplings
 - [ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) — Plenitude, two kinds of intelligibility, and necessity of the whole
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
@@ -1382,6 +1383,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
 - [verification/zero_all_sector_branchwise_balance_test.py](verification/zero_all_sector_branchwise_balance_test.py)
+- [verification/zero_all_sector_noncommuting_sphere_test.py](verification/zero_all_sector_noncommuting_sphere_test.py)
 - [verification/zero_all_sector_record_involution_test.py](verification/zero_all_sector_record_involution_test.py)
 - [verification/zero_all_sector_sphere_clock_work_test.py](verification/zero_all_sector_sphere_clock_work_test.py)
 - [verification/zero_article_jet_dual_pair_test.py](verification/zero_article_jet_dual_pair_test.py)
