@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "b52221223cc7c4a6ed7ad781a14ed3adb33ab629",
-  "file_count": 2129,
+  "base_head": "0506b298157f36c2fc831cf71f7f4822ed13cf01",
+  "file_count": 2131,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 195039,
-      "sha256": "9b5127a2ca9917e21300d5c9272697f48936a783aa889e1761e071f7710ebb34"
+      "bytes": 195311,
+      "sha256": "dc85d153c57e6ff25f86a67adc0652dc5ad5249b7506c1db321b7229377b63eb"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3000,8 +3000,8 @@
     },
     {
       "path": "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
-      "bytes": 15044,
-      "sha256": "1de052da62b15c2b306d38bb46e8d0d8dbbd6f5f7de1f1b5a910ed23cb7041d5"
+      "bytes": 15326,
+      "sha256": "06ff94677c8b2c1ec511b4f23584f12c6e9b72094e9e1ae5f2e40d78aa497397"
     },
     {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
@@ -3177,6 +3177,11 @@
       "path": "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
       "bytes": 13991,
       "sha256": "1825014e490463af40b458636bcfb67d7fcaaa056aea3e5e223c76f2dd130999"
+    },
+    {
+      "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+      "bytes": 27098,
+      "sha256": "d598d25e6ad453c3a712a65048c0ad32fc8d25448199e12c6354443126d06f16"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -8045,8 +8050,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 947352,
-      "sha256": "49b317214546aff2f6efc17547fe56793e33b1681db0e304bfecfa6ccca328cf"
+      "bytes": 949486,
+      "sha256": "690f604f01ddbe0087e33afa4026edddf4472a190ff32805edcf928402782303"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10562,6 +10567,11 @@
       "path": "verification/zero_subject_normalization_locality_test.py",
       "bytes": 4365,
       "sha256": "0f8ff9aad2b9a322f6429777001c9d0c46a1e16424b90016c5518809112afa26"
+    },
+    {
+      "path": "verification/zero_synthesis_gauge_incidence_test.py",
+      "bytes": 4966,
+      "sha256": "70994fc0f61d3139f1a3a5f0c984979a3ded8e3f8ec1b89f8d157e2fbb0efb1f"
     },
     {
       "path": "verification/zero_three_balance_encoded_sphere_record_test.py",

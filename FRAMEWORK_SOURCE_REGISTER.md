@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 711 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 644 verification Python scripts.
+- 712 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 645 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -644,6 +644,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
 - [ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md](ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md) — A parity exchange from an exact zero-charge condition
 - [ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) — Noncommuting sphere readouts on the actual complement
+- [ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) — One reality, zero, experience and necessary plenitude
 - [ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md](ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md) — A single zero whole containing frozen and changing couplings
 - [ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) — Plenitude, two kinds of intelligibility, and necessity of the whole
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
@@ -1475,6 +1476,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)
 - [verification/zero_subject_normalization_locality_test.py](verification/zero_subject_normalization_locality_test.py)
+- [verification/zero_synthesis_gauge_incidence_test.py](verification/zero_synthesis_gauge_incidence_test.py)
 - [verification/zero_three_balance_encoded_sphere_record_test.py](verification/zero_three_balance_encoded_sphere_record_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)

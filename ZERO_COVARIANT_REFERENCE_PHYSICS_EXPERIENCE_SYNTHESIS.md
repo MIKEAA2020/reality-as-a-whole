@@ -2,6 +2,8 @@
 
 > **Continuation:** [A reference from the paired state, and what a confined subject could report](ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md) extracts the reference from the existing pre-measurement marginal, derives local discrimination limits, and tests whether a direct work-sign report preserves the later reference constraints.
 
+> **Full-program synthesis:** [One reality, zero, experience and necessary plenitude](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) integrates the user's fourteen requirements and tests how gauge identity constrains experiential sign-pairing in the conserving report circuit.
+
 ## The broad proposal
 
 A possible route to a self-sufficient whole is to treat its physical and experiential sides as aspects of **one internally articulated reality**, rather than first constructing a physical mechanism and then attaching experience to it. The zero would characterize the whole without external position, time or uncancelled externally specified surplus; internal distinctions would be real relations within it. The point–sphere picture expresses that distinction: one whole externally, a potentially rich internal organization.
