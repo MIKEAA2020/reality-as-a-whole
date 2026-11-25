@@ -2,6 +2,8 @@
 
 ## Result
 
+**Continuation:** [Flag-record incidence and a reversible physical readout](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) proves the conditional uniqueness rule on compatible effects and tests actual echo-record access.
+
 The sphere/reservoir construction already contains a natural candidate for the missing equal-weight rule: its **actual first source–reference Bell pair**. Two exact relational zero conditions fix that pair, conditional on the sphere sign, and its reference bit has equal Born weight in either value. If those two physical reference values are **additionally** identified with the two proposed incidence types, they give the equal `1/2 : 1/2` type weights on the earlier coarse `(b,z,s)` records.
 
 That is a constructive answer, but not a derivation of the incidence rule from zero. The identification of reference value with subject type is an extra physical–experiential proposal, and the two reference outcomes are refinements of the physical history—not automatically two subjects.

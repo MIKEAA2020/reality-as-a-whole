@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 781,
-  "bytes": 9990273,
-  "line_count": 90929,
-  "document_count_with_risk_phrases": 734,
+  "document_count": 782,
+  "bytes": 10003142,
+  "line_count": 91029,
+  "document_count_with_risk_phrases": 735,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "34e2d1d509101a784911dddc58790a6ec58a9e618fd895be596b434b46038be4",
-      "bytes": 203163,
-      "lines": 1547,
+      "sha256": "9b3ce548b6a775557a681357367f52e12ae106f9796307998f4f92062346db94",
+      "bytes": 203446,
+      "lines": 1549,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6422,6 +6422,7 @@
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
@@ -7228,6 +7229,7 @@
         "verification/zero_energy_sphere_work_incidence_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
+        "verification/zero_flag_record_algebra_echo_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_identity_pair_incidence_record_test.py",
@@ -7342,19 +7344,19 @@
         484,
         583,
         600,
-        658,
-        662,
-        679,
-        682,
-        687,
-        689,
-        706,
-        741,
-        778,
-        787,
-        790,
-        793,
-        863
+        659,
+        663,
+        680,
+        683,
+        688,
+        690,
+        707,
+        742,
+        779,
+        788,
+        791,
+        794,
+        864
       ]
     },
     {
@@ -20925,6 +20927,37 @@
       ]
     },
     {
+      "path": "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+      "sha256": "bd5a04d6dc9eb9380db63df39e71e29c01c9f16212d59fb138451341d971d223",
+      "bytes": 12113,
+      "lines": 94,
+      "title": "Zero, flag-record incidence, and a physically reversible readout",
+      "headings": [
+        "Zero, flag-record incidence, and a physically reversible readout",
+        "Result in brief",
+        "1. Unique incidence on a flag-compatible effect algebra",
+        "2. Transport through the actual sphere echo",
+        "3. Actual record access: a conditional prediction",
+        "4. An explicit reversible flag record",
+        "5. Conditioning versus measurement, exactly",
+        "6. What this advances, and what would finish the constitutive step"
+      ],
+      "local_links": [
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "verification/zero_flag_record_algebra_echo_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        13,
+        49,
+        76,
+        80,
+        94
+      ]
+    },
+    {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
       "sha256": "db0e0d0ed67b79b0770d4527405eac1a4f65ac0515a5c08a881448dd52cf8bf5",
       "bytes": 17343,
@@ -21093,9 +21126,9 @@
     },
     {
       "path": "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
-      "sha256": "eb4f574180b4204a08fd1a891f2b8387019bdcbee3137539cc2f8b182d5648c8",
-      "bytes": 14873,
-      "lines": 160,
+      "sha256": "e0d1b1b436f411d8f9e5ac064c0d00b31313a22a3cc650bac74fc5980c15958e",
+      "bytes": 15100,
+      "lines": 162,
       "title": "Can an actual zero-balanced pair determine incidence weights?",
       "headings": [
         "Can an actual zero-balanced pair determine incidence weights?",
@@ -21108,6 +21141,7 @@
         "6. Is the equal flag a symmetry of the *whole* proposal?"
       ],
       "local_links": [
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "verification/zero_identity_pair_incidence_record_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -21115,14 +21149,15 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
-        35,
-        41,
-        56,
-        115,
-        119,
-        131,
-        148
+        7,
+        11,
+        37,
+        43,
+        58,
+        117,
+        121,
+        133,
+        150
       ]
     },
     {
@@ -21609,9 +21644,9 @@
     },
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
-      "sha256": "0e181d5e58c09dceb981246cb4d35f11a6d859884512d91d5ee03feed0c14870",
-      "bytes": 17063,
-      "lines": 163,
+      "sha256": "0164c16c623cc4622aeea0fe3268d637a534872f94ec4e900cdc8109227f8212",
+      "bytes": 17309,
+      "lines": 165,
       "title": "One history, two candidate incidences: constitution, measure and echo",
       "headings": [
         "One history, two candidate incidences: constitution, measure and echo",
@@ -21624,6 +21659,7 @@
         "6. Carry both candidates through the coherent echo"
       ],
       "local_links": [
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "verification/zero_joint_constitution_incidence_echo_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
@@ -21631,10 +21667,11 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
-        12,
-        69,
-        81,
-        154
+        5,
+        14,
+        71,
+        83,
+        156
       ]
     },
     {
