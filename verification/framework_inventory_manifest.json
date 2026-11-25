@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "17ef2bc0fa034f4288f25eba8b3b9150746a9d0d",
-  "file_count": 2101,
+  "base_head": "fd278734613f94dbe976f0c18dcab610948ee19e",
+  "file_count": 2103,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 191059,
-      "sha256": "d75bdbecd9c8236f816703e37e2bf90e2982ea6300df7149ed567433f2981f8d"
+      "bytes": 191350,
+      "sha256": "786efaf2f1e802cd286c6bb0befd78055d602c382a86e154bbde20b4e7263aff"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3079,6 +3079,11 @@
       "sha256": "b68a98c27cac78265c4164d0e5921186dcf82b955e7cbdec61fda5e7b684cd3b"
     },
     {
+      "path": "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
+      "bytes": 13852,
+      "sha256": "726504efc9841a6539cb516c62e5f4b7d1a9f3ca95d9e3438464368b452e22ed"
+    },
+    {
       "path": "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
       "bytes": 14641,
       "sha256": "b60aa401a1a20d359fdb21af2185e72c0230038bc4f0f2ca01f12d171d7d4552"
@@ -3450,8 +3455,8 @@
     },
     {
       "path": "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
-      "bytes": 11966,
-      "sha256": "3165fb303943bd2d5a3a7a363fb0668215cc1a8afba61fc433ffa60f800fe454"
+      "bytes": 12277,
+      "sha256": "9f7a6f68bf6687e5fec40783dbc11b0704f5ceb3624b8210dc2a3de5748381b0"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -7975,8 +7980,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 929358,
-      "sha256": "eda464aecd004a162a09f0b150e355cb4da9997a071710d4c9b21853732954f9"
+      "bytes": 930695,
+      "sha256": "c8543aa28012f257b89eb86deaa2a0aa48573170810eacba8252bdba4a17818d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10207,6 +10212,11 @@
       "path": "verification/zero_invariant_sphere_instrument_test.py",
       "bytes": 8259,
       "sha256": "a1c70d1f6c542d823b58aa232b53c4784a22c6f6a4e18c47617c04b89a4d9d21"
+    },
+    {
+      "path": "verification/zero_isotropic_singlet_history_test.py",
+      "bytes": 12545,
+      "sha256": "09681978eff8fee1b54d8a6bce7fa71ff8477c9fca48e8c160a5b44a8499517d"
     },
     {
       "path": "verification/zero_joint_subject_energy_candidate_test.py",

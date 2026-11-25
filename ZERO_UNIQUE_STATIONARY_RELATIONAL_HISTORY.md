@@ -10,6 +10,8 @@ The selected minimal history can be mapped isometrically to the earlier coherent
 
 Executable checks: [verification/zero_stationary_whole_unique_history_test.py](verification/zero_stationary_whole_unique_history_test.py).
 
+**Symmetry and plenitude continuation:** [isotropic zero, all pairings and relational dynamics](ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md) replaces the explicit phase and ready-direction selectors by rotational singlets and tests whether permutation symmetry can remove the remaining pairing choice.
+
 ## 1. Reduce the earlier zero sector to its logical content
 
 Work on the active R–W–T–F space. The earlier conditions are

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 740,
-  "bytes": 9422734,
-  "line_count": 85471,
-  "document_count_with_risk_phrases": 693,
+  "document_count": 741,
+  "bytes": 9437175,
+  "line_count": 85632,
+  "document_count_with_risk_phrases": 694,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1ec68e2e2f3ac0eb13c167b5b333f0d973065a4c85af0812b0b09df3dfc9261d",
-      "bytes": 190781,
-      "lines": 1463,
+      "sha256": "d75bdbecd9c8236f816703e37e2bf90e2982ea6300df7149ed567433f2981f8d",
+      "bytes": 191059,
+      "lines": 1465,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6437,6 +6437,7 @@
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
         "brain-specificity-thesis.md",
         "constitutive-reality-thesis.md",
         "identity-and-whole-thesis.md",
@@ -7166,6 +7167,7 @@
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
+        "verification/zero_stationary_whole_unique_history_test.py",
         "verification/zero_subject_boundary_full_constraint_test.py",
         "verification/zero_subject_incidence_frame_test.py",
         "verification/zero_subject_locality_overlap_balance_test.py",
@@ -7206,11 +7208,12 @@
         650,
         652,
         666,
-        736,
-        745,
-        748,
-        751,
-        820
+        701,
+        737,
+        746,
+        749,
+        752,
+        821
       ]
     },
     {
@@ -20820,6 +20823,43 @@
       ]
     },
     {
+      "path": "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
+      "sha256": "726504efc9841a6539cb516c62e5f4b7d1a9f3ca95d9e3438464368b452e22ed",
+      "bytes": 13852,
+      "lines": 157,
+      "title": "From chosen orientations to isotropic zero—and a test of plenitude",
+      "headings": [
+        "From chosen orientations to isotropic zero—and a test of plenitude",
+        "Answer in brief",
+        "1. Let balance determine a pair's relational state, not an axis",
+        "2. Exchange produces direction-independent record transfer",
+        "3. One invariant zero-eigenstate for the history",
+        "4. The decisive test: total zero does not pick a pairing",
+        "5. Can plenitude remove the pairing choice?",
+        "6. What has actually been derived, and what has not"
+      ],
+      "local_links": [
+        "verification/zero_isotropic_singlet_history_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        10,
+        12,
+        14,
+        34,
+        40,
+        92,
+        116,
+        122,
+        138,
+        140,
+        144,
+        146,
+        157
+      ]
+    },
+    {
       "path": "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
       "sha256": "b60aa401a1a20d359fdb21af2185e72c0230038bc4f0f2ca01f12d171d7d4552",
       "bytes": 14641,
@@ -23186,9 +23226,9 @@
     },
     {
       "path": "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
-      "sha256": "3165fb303943bd2d5a3a7a363fb0668215cc1a8afba61fc433ffa60f800fe454",
-      "bytes": 11966,
-      "lines": 158,
+      "sha256": "9f7a6f68bf6687e5fec40783dbc11b0704f5ceb3624b8210dc2a3de5748381b0",
+      "bytes": 12277,
+      "lines": 160,
       "title": "A unique zero-eigenstate for an entire relational history",
       "headings": [
         "A unique zero-eigenstate for an entire relational history",
@@ -23203,20 +23243,21 @@
       "local_links": [
         "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
         "verification/zero_stationary_whole_unique_history_test.py",
+        "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
         "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md"
       ],
       "risk_phrase_lines": [
         1,
         5,
         7,
-        78,
-        86,
+        80,
         88,
-        116,
-        126,
-        140,
-        144,
-        158
+        90,
+        118,
+        128,
+        142,
+        146,
+        160
       ]
     },
     {
