@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 748,
-  "bytes": 9518484,
-  "line_count": 86649,
-  "document_count_with_risk_phrases": 701,
+  "document_count": 749,
+  "bytes": 9530832,
+  "line_count": 86776,
+  "document_count_with_risk_phrases": 702,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "dba6d5a7733eeb77ccf5a023b86ed1914692bcdb83bf0c1427bd02d0576a7fdd",
-      "bytes": 193004,
-      "lines": 1479,
+      "sha256": "374c25bce26447ae7d8294dd806ebef1e77d22f431fd9f2df6c14be8deb3ba0f",
+      "bytes": 193301,
+      "lines": 1481,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6358,6 +6358,7 @@
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
@@ -7128,6 +7129,7 @@
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
+        "verification/zero_integrated_experience_necessity_test.py",
         "verification/zero_integrated_sphere_clock_experience_test.py",
         "verification/zero_integrated_targeted_memory_test.py",
         "verification/zero_interacting_clock_bound_transition_test.py",
@@ -7216,19 +7218,19 @@
         481,
         579,
         595,
-        636,
-        639,
-        651,
-        653,
-        657,
-        659,
-        673,
-        708,
-        744,
-        753,
-        756,
-        759,
-        828
+        637,
+        640,
+        652,
+        654,
+        658,
+        660,
+        674,
+        709,
+        745,
+        754,
+        757,
+        760,
+        829
       ]
     },
     {
@@ -20685,10 +20687,43 @@
       ]
     },
     {
+      "path": "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+      "sha256": "ed65fed50b340354dae412fbc3e94b271bb9061131aa863cbd911d960904b35a",
+      "bytes": 11727,
+      "lines": 123,
+      "title": "Can subject counting determine the Born weights?",
+      "headings": [
+        "Can subject counting determine the Born weights?",
+        "Result",
+        "1. Apply the test to the actual prior table",
+        "2. Redescription invariance has a precise premise",
+        "3. When effect consistency forces the Born form",
+        "4. Why context identity is not automatic",
+        "5. Consequence for the zero program",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
+        "verification/zero_incidence_refinement_born_test.py",
+        "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md",
+        "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+        "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        11,
+        42,
+        60,
+        90,
+        112
+      ]
+    },
+    {
       "path": "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
-      "sha256": "a942510fb77b01f304f48a77e3a7215495cc96243dd3d399cb425667d1cb1620",
-      "bytes": 15007,
-      "lines": 140,
+      "sha256": "a52914c7034de032c33540fed9cbdc046c38fda3a9bb7a58adf9ffa92c7297e8",
+      "bytes": 15331,
+      "lines": 142,
       "title": "Does zero's constitution determine experience and incidence?",
       "headings": [
         "Does zero's constitution determine experience and incidence?",
@@ -20702,15 +20737,17 @@
       ],
       "local_links": [
         "verification/zero_integrated_experience_necessity_test.py",
-        "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md"
+        "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
         9,
-        74,
-        86,
-        96,
+        13,
+        76,
+        88,
         98,
-        120
+        100,
+        122
       ]
     },
     {

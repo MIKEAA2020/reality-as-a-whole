@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "aeff7b90bbb05cde9cd354fe2cb067b6669f8db1",
-  "file_count": 2117,
+  "base_head": "6bf7e84322c51f97ed126fb73530b4c05a219ccd",
+  "file_count": 2119,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 193301,
-      "sha256": "374c25bce26447ae7d8294dd806ebef1e77d22f431fd9f2df6c14be8deb3ba0f"
+      "bytes": 193560,
+      "sha256": "29d8f8ad13f2d398e09ea61ecae9c659280c39c5bce727636e224436466193f7"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3054,9 +3054,14 @@
       "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d"
     },
     {
+      "path": "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+      "bytes": 11727,
+      "sha256": "ed65fed50b340354dae412fbc3e94b271bb9061131aa863cbd911d960904b35a"
+    },
+    {
       "path": "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
-      "bytes": 15007,
-      "sha256": "a942510fb77b01f304f48a77e3a7215495cc96243dd3d399cb425667d1cb1620"
+      "bytes": 15331,
+      "sha256": "a52914c7034de032c33540fed9cbdc046c38fda3a9bb7a58adf9ffa92c7297e8"
     },
     {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
@@ -8015,8 +8020,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 939182,
-      "sha256": "1c72c40153bfccc954d10b6f14056388d3c46fd898b13604c533a67f559e7d49"
+      "bytes": 940497,
+      "sha256": "214ca0e428ea512b2890071e6c8c6229335ca370ebe03100ba1642e87072da34"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10207,6 +10212,11 @@
       "path": "verification/zero_incidence_clock_probability_test.py",
       "bytes": 2210,
       "sha256": "7855af14e8f40cc57dbfd71cce0977e588dbd00e53a396c1b9195f3e4ae76697"
+    },
+    {
+      "path": "verification/zero_incidence_refinement_born_test.py",
+      "bytes": 5010,
+      "sha256": "baec7cf3604ff7a71a2b95fa6a7a69590c8c8b59932a682387a11948e82ba891"
     },
     {
       "path": "verification/zero_integrated_experience_necessity_test.py",

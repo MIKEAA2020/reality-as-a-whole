@@ -10,6 +10,8 @@ The test also identifies a constructive discriminant: if a physically accessible
 
 Executable test: [verification/zero_integrated_experience_necessity_test.py](verification/zero_integrated_experience_necessity_test.py). It uses the existing [mirror-paired whole](ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md), not another dynamical apparatus.
 
+**Incidence-measure continuation:** [refinement, counting and the Born measure](ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md) applies the existing effect-algebra reconstruction to this exact ten-slot example, tests equal- and unequal-weight refinements, and separates mathematical labels from genuinely distinct subjects.
+
 ## 1. The intended derivation, stated without weakening it
 
 The user's proposal is not merely the arithmetic equation `0=0`. The proposed zero is a self-sufficient whole, possibly with intrinsic relational constitution despite no external space or time. It is supposed to account together for
