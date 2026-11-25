@@ -1,5 +1,7 @@
 # Non-dual experience, neural timescales and the one-reality program
 
+**Subsequent theoretical connection:** [Extending the balanced orientation and opening a report boundary](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) constructs a tunable, conserved report interface and distinguishes formal sign recoverability from subjective experience. It is a mathematical analogy, not an analysis of the paper's EEG or a validated empirical mapping.
+
 ## The paper and the question
 
 Malipeddi Saketh and colleagues, [“Non-duality in brain and experience of advanced meditators—key role for intrinsic neural timescales,” *Communications Biology* 9, 1261 (2026)](https://www.nature.com/articles/s42003-026-10473-9), investigate whether reported weakening of the self–world boundary is associated with a measurable change in brain dynamics. The original article was published on 12 June 2026; the page lists a version of record dated 28 September 2026.

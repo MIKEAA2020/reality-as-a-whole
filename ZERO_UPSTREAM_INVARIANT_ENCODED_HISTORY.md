@@ -1,5 +1,7 @@
 # An invariant upstream source for the differentiated history
 
+**Subsequent extension and sharper accounting:** [Extending the balanced orientation and opening a report boundary](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) extends this chosen charge to additional sectors without changing the old sign gate. It also shows that only 54 of the 72 report-sector dimensions carry a nontrivial local orientation representation; the other 18 form a local singlet. A separate alternative reaches 108 nontrivial dimensions but does not preserve the old neutral-pointer report gate.
+
 ## Result
 
 There is a constructive way around the specific obstruction in the [previous F-transfer result](ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md): **do not prepare the old oriented A qubit as an extra physical system and then swap it into the labs**. Instead, use the lab's existing H qubit *as* the A orientation qubit from the start. Its F partner is already present in the original paired state.

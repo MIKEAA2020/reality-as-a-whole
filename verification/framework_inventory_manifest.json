@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "10dbae1e77caaf30189c6deeca08807274e6911f",
-  "file_count": 2143,
+  "base_head": "ac2a670bb7123f22c7d662684e1670a1245a76d4",
+  "file_count": 2145,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 197094,
-      "sha256": "66d4848be553678efe9c14563de6308eee89ecf5f4e4dc7b9891fc28d72563a6"
+      "bytes": 197427,
+      "sha256": "f2d5b1dc08186c53f7fc18f4e3782cb3397f6bf9c90693abca1b21d2d7872322"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1520,8 +1520,8 @@
     },
     {
       "path": "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
-      "bytes": 12180,
-      "sha256": "513e06375131f359f9315db76cf48e2cd84e624e4e545c258a3d8d48d88c07de"
+      "bytes": 12567,
+      "sha256": "f6ab36fc02a09fc612936758480dc62ba204d61a701a0b73154b2117b1174be1"
     },
     {
       "path": "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
@@ -3204,6 +3204,11 @@
       "sha256": "7b33cdd48f245b8b4bbc50b2e03fbd583340ba5c8acf2ff56d15366b7ee649e2"
     },
     {
+      "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+      "bytes": 14496,
+      "sha256": "2ab6f1a246a31363e2e34fec2e0fc11cf1a4c660a8969493476edec8cc9809ae"
+    },
+    {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
       "bytes": 11485,
       "sha256": "a38ddb7cd0edf920ddc6bdabffa6f769057f4caccd758143648a8634d5704eb1"
@@ -3555,8 +3560,8 @@
     },
     {
       "path": "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
-      "bytes": 12783,
-      "sha256": "acaa1201d09186623f947c968107b6c093c17895cc15fc19d42866b1cd49ef04"
+      "bytes": 13310,
+      "sha256": "6640225206a245b30e050499d6fec3726224dad4f45d412cae53abcee8a448eb"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -8085,8 +8090,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 957491,
-      "sha256": "9ecb8c7acc9e285372626d5a215f463cc8f75621bfdefcceb9c4d97db535f3bb"
+      "bytes": 958920,
+      "sha256": "37195e08d2393e2377f711dd756872347366e3d2a8d362fa9cbe7f685f32bdbf"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10422,6 +10427,11 @@
       "path": "verification/zero_neutral_exchange_from_balance_test.py",
       "bytes": 7122,
       "sha256": "359723188097e3ea16d26519cdc19ae70831b8ff40a097a2a10348c3eb6da47f"
+    },
+    {
+      "path": "verification/zero_orientation_extension_operational_boundary_test.py",
+      "bytes": 13248,
+      "sha256": "6ef7be39633111f77b10bcad20e752629436ff78d69a3710a981e8582e575183"
     },
     {
       "path": "verification/zero_plenitude_coupling_clock_test.py",

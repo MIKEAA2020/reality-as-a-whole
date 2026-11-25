@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 761,
-  "bytes": 9708832,
-  "line_count": 88477,
-  "document_count_with_risk_phrases": 714,
+  "document_count": 762,
+  "bytes": 9724565,
+  "line_count": 88623,
+  "document_count_with_risk_phrases": 715,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "90672f983569434c11a2ee1fbf783c97608f154bc12b097d48b81032130113a4",
-      "bytes": 196771,
-      "lines": 1505,
+      "sha256": "66d4848be553678efe9c14563de6308eee89ecf5f4e4dc7b9891fc28d72563a6",
+      "bytes": 197094,
+      "lines": 1507,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6051,6 +6051,7 @@
         "NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md",
         "NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md",
         "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
+        "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
         "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
         "NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md",
         "NONSTATIC_SPHERICAL_CAUSALITY.md",
@@ -6843,6 +6844,7 @@
         "verification/ney_relational_correlations_gate.py",
         "verification/no_signalling_subject_measure_gate.py",
         "verification/noble_symmetry_selection_gate.py",
+        "verification/nonduality_neural_timescale_identifiability_test.py",
         "verification/nonstatic_spherical_causality.py",
         "verification/nonstatic_spherical_midisuperspace.py",
         "verification/operational_accumulator.py",
@@ -7236,25 +7238,25 @@
         167,
         229,
         305,
-        334,
-        382,
-        413,
-        481,
-        579,
-        595,
-        644,
-        648,
-        662,
-        665,
-        669,
-        671,
-        685,
-        720,
-        757,
-        766,
-        769,
-        772,
-        841
+        335,
+        383,
+        414,
+        482,
+        580,
+        596,
+        645,
+        649,
+        663,
+        666,
+        670,
+        672,
+        686,
+        721,
+        758,
+        767,
+        770,
+        773,
+        842
       ]
     },
     {
@@ -11120,9 +11122,9 @@
     },
     {
       "path": "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
-      "sha256": "513e06375131f359f9315db76cf48e2cd84e624e4e545c258a3d8d48d88c07de",
-      "bytes": 12180,
-      "lines": 91,
+      "sha256": "f6ab36fc02a09fc612936758480dc62ba204d61a701a0b73154b2117b1174be1",
+      "bytes": 12567,
+      "lines": 93,
       "title": "Non-dual experience, neural timescales and the one-reality program",
       "headings": [
         "Non-dual experience, neural timescales and the one-reality program",
@@ -11135,12 +11137,13 @@
         "Sources, limitations and reproduction"
       ],
       "local_links": [
+        "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
         "verification/nonduality_neural_timescale_identifiability_test.py"
       ],
       "risk_phrase_lines": [
-        17,
-        50,
-        65
+        19,
+        52,
+        67
       ]
     },
     {
@@ -21689,6 +21692,37 @@
       ]
     },
     {
+      "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+      "sha256": "2ab6f1a246a31363e2e34fec2e0fc11cf1a4c660a8969493476edec8cc9809ae",
+      "bytes": 14496,
+      "lines": 140,
+      "title": "Extending the balanced orientation and opening a report boundary",
+      "headings": [
+        "Extending the balanced orientation and opening a report boundary",
+        "Result",
+        "1. The orientation is available in the old sphere commutant",
+        "2. Why 108 is the unrestricted maximum in this class",
+        "3. Why preserving the old sign report caps this construction at 90",
+        "4. A changing operational boundary, without assuming a subject",
+        "5. Connection to the meditation evidence—and its limits",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
+        "verification/zero_orientation_extension_operational_boundary_test.py",
+        "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        17,
+        25,
+        34,
+        43,
+        63,
+        123
+      ]
+    },
+    {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
       "sha256": "a38ddb7cd0edf920ddc6bdabffa6f769057f4caccd758143648a8634d5704eb1",
       "bytes": 11485,
@@ -23941,9 +23975,9 @@
     },
     {
       "path": "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
-      "sha256": "acaa1201d09186623f947c968107b6c093c17895cc15fc19d42866b1cd49ef04",
-      "bytes": 12783,
-      "lines": 118,
+      "sha256": "6640225206a245b30e050499d6fec3726224dad4f45d412cae53abcee8a448eb",
+      "bytes": 13310,
+      "lines": 120,
       "title": "An invariant upstream source for the differentiated history",
       "headings": [
         "An invariant upstream source for the differentiated history",
@@ -23956,16 +23990,17 @@
         "6. What this advances"
       ],
       "local_links": [
+        "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
         "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "verification/zero_upstream_invariant_internal_history_test.py",
         "verification/zero_internal_f_reference_transfer_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        24,
-        35,
-        107,
-        118
+        9,
+        26,
+        37,
+        109,
+        120
       ]
     },
     {
