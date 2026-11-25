@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 749 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 681 verification Python scripts.
+- 750 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 682 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -695,6 +695,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) — Sign selection by clock and reference symmetry
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md](ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md) — An autonomous detector inside the sphere–cosmology constraint
+- [ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md](ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md) — Toward passing the battery: one sphere–echo candidate, not another rival audit
 - [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
 - [ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md](ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md) — From intrinsic conservation to quantum weights and signed zero
 - [ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) — One system linking sphere conservation, quantum records and opposite currents
@@ -1524,6 +1525,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_asymmetric_closed_exchange.py](verification/zero_sphere_asymmetric_closed_exchange.py)
 - [verification/zero_sphere_asymmetric_closed_exchange_test.py](verification/zero_sphere_asymmetric_closed_exchange_test.py)
 - [verification/zero_sphere_autonomous_detector_constraint_test.py](verification/zero_sphere_autonomous_detector_constraint_test.py)
+- [verification/zero_sphere_battery_bridge_candidate_test.py](verification/zero_sphere_battery_bridge_candidate_test.py)
 - [verification/zero_sphere_conservation_born_bridge_test.py](verification/zero_sphere_conservation_born_bridge_test.py)
 - [verification/zero_sphere_finite_resolution_clock_instrument_test.py](verification/zero_sphere_finite_resolution_clock_instrument_test.py)
 - [verification/zero_sphere_five_ray_conservation.py](verification/zero_sphere_five_ray_conservation.py)

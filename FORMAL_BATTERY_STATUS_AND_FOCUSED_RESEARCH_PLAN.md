@@ -2,6 +2,8 @@
 
 ## Direct assessment
 
+**Integrated response to the PSR battery packet:** [the sphere–echo battery bridge candidate](ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md) takes PSR's typed interfaces and controls as constructive guidance, applying them to the existing sphere history, its two quality rules and alternative incidence weights. It specifies a physical claim/reference protocol and gives exact decoder, target, ready-memory and clock controls, but does not establish actual subjects, a public witness, a no-residue constitution or an external battery pass. The PSR-5 entry review says admitted for a later battery, not that the battery was executed there; any separately reported pass needs its actual artifacts.
+
 **Confined-realm relational history:** [the clock comparison](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) embeds the phase family in a stationary zero-constraint history, verifies an unchanged confined state, two synchronized clocks and readout controls, and exhibits a distinct orthogonal history under the same constraint. Actual experiencers and a uniquely necessary history are not derived.
 
 **Four realm connections:** [confinement, coherence and experience](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) connects an unchanged restricted state to continuously varying quantum correlations, a dephasing control and two explicit experiential hypotheses. The corrected A-until-B rule requires no holding interaction; neither experiential sequence, actual subject nor emergent spacetime is derived.

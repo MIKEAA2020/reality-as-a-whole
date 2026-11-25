@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "70b493019c10a024f44ddd467fc07be2cd0b1eec",
-  "file_count": 2212,
+  "base_head": "e9cbf34860dc58841baccf97577b3a7c3569e7ff",
+  "file_count": 2214,
   "files": [
     {
       "path": ".gitattributes",
@@ -845,8 +845,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 86224,
-      "sha256": "53e19d57a5010b7b1f446b6f9d381d33c405b7c5adb82d67d1b735557c6889e1"
+      "bytes": 86928,
+      "sha256": "8b9263bc6a614d6dadfc2e8fc41f6675a2ebcb454ce170d1feb3763a05d354e0"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 206438,
-      "sha256": "1065178395b081d64aa43c5e4b102dc12fadc866b722e920872a4bd6dc435b96"
+      "bytes": 206751,
+      "sha256": "82f74e58d7d0d5682b18a7548d460b15628e48217f301a99246ba9f5d3f959e0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3432,6 +3432,11 @@
       "path": "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
       "bytes": 14872,
       "sha256": "00df689c635cceb6292839760a3e23a7cf11bb1dbb6e1dd527c82d6f2820c506"
+    },
+    {
+      "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
+      "bytes": 16334,
+      "sha256": "61f825110630cc8e48b887a8b0ba60153694e98af011c1d03a7d692527cbb75d"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -8290,8 +8295,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 997667,
-      "sha256": "e76273cdc3628acdb970fe54bf8724f489030c0ee81bad35b030c1b514aad2c6"
+      "bytes": 999340,
+      "sha256": "892c11e54afc83d2e8126dbd700806f396e008234b3b63c7c2f41729b7ed770d"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10837,6 +10842,11 @@
       "path": "verification/zero_sphere_autonomous_detector_constraint_test.py",
       "bytes": 11310,
       "sha256": "f2bb1899c95ac438c6072009d3beca571c7cb75cf79d3b6b04ec8c64f77899b1"
+    },
+    {
+      "path": "verification/zero_sphere_battery_bridge_candidate_test.py",
+      "bytes": 6032,
+      "sha256": "909e04430c474fc7030d3ff87c6eb7a03943d6dc40e294de2fbcb41468627243"
     },
     {
       "path": "verification/zero_sphere_conservation_born_bridge_test.py",
