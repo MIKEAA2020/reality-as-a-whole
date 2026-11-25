@@ -2,7 +2,7 @@
 
 **Empirical boundary update:** [Non-dual experience, neural timescales and the one-reality program](NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md) examines Saketh et al. (2026), including its evidence, limitations, and a concrete proposal for testing dynamic subject-boundary relations without equating neural timescale differences with phenomenal valence or cosmic zero.
 
-**Constructive integration:** [Internal connections: record algebra, signed balance, and the relational clock](ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md) links compatible incidence, physical access, counterpart balance and coherent relational history in the actual sphere program, with explicit limits and a conditional report discriminator.
+**Constructive integration:** [Internal connections: record algebra, signed balance, and the relational clock](ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md) links compatible incidence, physical access, counterpart balance and coherent relational history in the actual sphere program, with explicit limits and a conditional report discriminator. [Intrinsic quality and incidence through the echo](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) derives a unique local diagonal candidate from stated calibration and composite-neutrality premises, and tests whether incidence balance determines the weights.
 
 ## 0. The proposal in one paragraph
 

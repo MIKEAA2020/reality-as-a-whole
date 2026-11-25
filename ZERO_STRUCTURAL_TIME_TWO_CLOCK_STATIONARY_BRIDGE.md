@@ -1,5 +1,7 @@
 # Structural time and two internal clocks: a stationary sphere comparison
 
+**Constitutive continuation:** [Intrinsic quality and incidence through the same echo](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) applies one fixed boundary rule to the actual physical echo and calculates its disagreement with a rival under these clock-reference conditions.
+
 **Source:** Ekarach Chandon and Unyanee Mooksombud, [*Structural Time, Measured Time, and Pre-Field DATA Order*, v1.0](https://doi.org/10.5281/zenodo.21436537), standalone preprint released 19 July 2026. This is the directly deposited companion to the [claim map](https://doi.org/10.5281/zenodo.21428534). I read the standalone DOI version: its central proposals and limits correspond to the companion copy analyzed in [the preceding report](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md). The deposited PDFs are not byte-identical—the standalone version includes its own DOI and release date—so they are cited separately rather than described as the same file. Neither document supplies the underlying 326-page Book I, which I have not read.
 
 **New calculation:** [verifier](verification/zero_structural_time_stationary_two_clock_test.py). This is an explicit extension of our existing [20-step sphere and stationary clock](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md), **not a calculation made by the preprint's authors**.

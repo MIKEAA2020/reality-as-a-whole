@@ -1,5 +1,7 @@
 # Local subject candidates and a coherent echo inside the reservoir clock
 
+**Constitutive continuation:** [A candidate intrinsic quality and incidence through this echo](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) derives a unique diagonal rule under explicit ready-calibration and composite-neutrality premises, and tests it through both internal clock schemes.
+
 ## Result
 
 I tested two explicit *candidate* physical–experiential constitutions on the existing sphere history, and joined the earlier memory echo to the actual finite-reservoir clock:

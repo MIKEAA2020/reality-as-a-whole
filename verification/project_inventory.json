@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 789,
-  "bytes": 10102190,
-  "line_count": 91772,
-  "document_count_with_risk_phrases": 742,
+  "document_count": 790,
+  "bytes": 10119575,
+  "line_count": 91917,
+  "document_count_with_risk_phrases": 743,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e73c4cb061a2b009e830869c0e59ea9488e2ec2eb46d1b66225ea4e31ca0ad5b",
-      "bytes": 205604,
-      "lines": 1564,
+      "sha256": "8b9cbf04fab6bcb01b377df1b1d69b3a764216120387baba80912df7ff9e8628",
+      "bytes": 205899,
+      "lines": 1566,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6418,6 +6418,7 @@
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
@@ -7232,6 +7233,7 @@
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_dynamic_subject_memory_echo_test.py",
+        "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
         "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
@@ -7360,19 +7362,19 @@
         484,
         583,
         600,
-        662,
-        666,
-        685,
-        688,
-        693,
-        695,
-        714,
-        749,
-        786,
-        795,
-        798,
-        801,
-        872
+        663,
+        667,
+        686,
+        689,
+        694,
+        696,
+        715,
+        750,
+        787,
+        796,
+        799,
+        802,
+        873
       ]
     },
     {
@@ -20773,6 +20775,42 @@
       ]
     },
     {
+      "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+      "sha256": "43459fa9a89727a551ee672868ab2348fbfc1c5c0687fa73c65a8281b31a0ee1",
+      "bytes": 16262,
+      "lines": 139,
+      "title": "One candidate intrinsic quality through the actual sphere echo",
+      "headings": [
+        "One candidate intrinsic quality through the actual sphere echo",
+        "Result: a conditional selection, and its exact cost",
+        "1. Exactly which physical system and candidate boundary?",
+        "2. Exact echo identity, then the conditional selection theorem",
+        "3. Why neither unitarity nor “persistent subject” gives the premise for free",
+        "4. Carry the same rule through the full 20-step history",
+        "5. Use both internal clock comparisons without changing the quality rule",
+        "6. The incidence measure: no hidden choice in a zero sum"
+      ],
+      "local_links": [
+        "verification/zero_echo_intrinsic_constitution_selection_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        7,
+        9,
+        15,
+        36,
+        60,
+        86,
+        120,
+        122,
+        128,
+        130
+      ]
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e",
       "bytes": 16666,
@@ -22229,8 +22267,8 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "sha256": "ad6684bce896c01e835669c9778683a0b045894f187ec7ac9bae052094fac95a",
-      "bytes": 28261,
+      "sha256": "f2c2fd3bcdeea7e1886212f0abf8c861e9d1589e883fa3d6b7f4fe4374982299",
+      "bytes": 28519,
       "lines": 172,
       "title": "One reality, zero, experience and necessary plenitude",
       "headings": [
@@ -22246,6 +22284,7 @@
       "local_links": [
         "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
         "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "verification/zero_synthesis_gauge_incidence_test.py",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
@@ -22265,6 +22304,7 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
+        5,
         13,
         27,
         56,
@@ -23260,9 +23300,9 @@
     },
     {
       "path": "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
-      "sha256": "c73a319d35bea30ccfb7f351cdb635b0ae2ca2f86bb3b26cf049eb7fbd8f9824",
-      "bytes": 14399,
-      "lines": 140,
+      "sha256": "c639395a58949646f8d154c7c16903b7b709dff0d2061fd4bf3453f4e39772b1",
+      "bytes": 14690,
+      "lines": 142,
       "title": "Local subject candidates and a coherent echo inside the reservoir clock",
       "headings": [
         "Local subject candidates and a coherent echo inside the reservoir clock",
@@ -23275,6 +23315,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "verification/zero_sphere_local_constitution_echo_test.py",
         "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
@@ -23282,11 +23323,12 @@
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py"
       ],
       "risk_phrase_lines": [
-        8,
-        9,
-        47,
-        110,
-        140
+        3,
+        10,
+        11,
+        49,
+        112,
+        142
       ]
     },
     {
@@ -23550,9 +23592,9 @@
     },
     {
       "path": "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
-      "sha256": "1d1c5ef51a8d922b76ae0beb50caa26d5b303245bc7fa85b149bb4991a316656",
-      "bytes": 10955,
-      "lines": 88,
+      "sha256": "a15bcfd2d21e137d4d0de5fdebd4523504a3f8d1556b9af3845304a1843f347f",
+      "bytes": 11234,
+      "lines": 90,
       "title": "Structural time and two internal clocks: a stationary sphere comparison",
       "headings": [
         "Structural time and two internal clocks: a stationary sphere comparison",
@@ -23564,17 +23606,18 @@
         "5. Why this matters for zero's constitution"
       ],
       "local_links": [
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
         "verification/zero_structural_time_stationary_two_clock_test.py",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
       ],
       "risk_phrase_lines": [
-        39,
-        57,
-        71,
-        80,
-        84
+        41,
+        59,
+        73,
+        82,
+        86
       ]
     },
     {

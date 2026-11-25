@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c9ba2c9933ed2ffc4f3d1f1c5bca709fdf911024",
-  "file_count": 2200,
+  "base_head": "5c34dc2692bc268939e5f886c9693a1655b64e43",
+  "file_count": 2202,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 205604,
-      "sha256": "e73c4cb061a2b009e830869c0e59ea9488e2ec2eb46d1b66225ea4e31ca0ad5b"
+      "bytes": 205899,
+      "sha256": "8b9cbf04fab6bcb01b377df1b1d69b3a764216120387baba80912df7ff9e8628"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3059,6 +3059,11 @@
       "sha256": "7eff3fbd394233d834b0d104e78e7f9a7d9ef35bcda1b374840a84466b6b609e"
     },
     {
+      "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+      "bytes": 16262,
+      "sha256": "43459fa9a89727a551ee672868ab2348fbfc1c5c0687fa73c65a8281b31a0ee1"
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "bytes": 16666,
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e"
@@ -3285,8 +3290,8 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "bytes": 28261,
-      "sha256": "ad6684bce896c01e835669c9778683a0b045894f187ec7ac9bae052094fac95a"
+      "bytes": 28519,
+      "sha256": "f2c2fd3bcdeea7e1886212f0abf8c861e9d1589e883fa3d6b7f4fe4374982299"
     },
     {
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
@@ -3445,8 +3450,8 @@
     },
     {
       "path": "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
-      "bytes": 14399,
-      "sha256": "c73a319d35bea30ccfb7f351cdb635b0ae2ca2f86bb3b26cf049eb7fbd8f9824"
+      "bytes": 14690,
+      "sha256": "c639395a58949646f8d154c7c16903b7b709dff0d2061fd4bf3453f4e39772b1"
     },
     {
       "path": "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
@@ -3490,8 +3495,8 @@
     },
     {
       "path": "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
-      "bytes": 10955,
-      "sha256": "1d1c5ef51a8d922b76ae0beb50caa26d5b303245bc7fa85b149bb4991a316656"
+      "bytes": 11234,
+      "sha256": "a15bcfd2d21e137d4d0de5fdebd4523504a3f8d1556b9af3845304a1843f347f"
     },
     {
       "path": "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
@@ -10427,6 +10432,11 @@
       "path": "verification/zero_dynamic_subject_memory_echo_test.py",
       "bytes": 12951,
       "sha256": "88e0211eb9b1e0dcffc0fb8a197dc3c0678732cdd6ca454aa6d6c6ef7cab7b95"
+    },
+    {
+      "path": "verification/zero_echo_intrinsic_constitution_selection_test.py",
+      "bytes": 8556,
+      "sha256": "a66b55b9faa1189df5fa46898bbe0cf1ea516ac63c56f82882d6400e3b76259f"
     },
     {
       "path": "verification/zero_encoded_sphere_clock_work_bridge_test.py",
