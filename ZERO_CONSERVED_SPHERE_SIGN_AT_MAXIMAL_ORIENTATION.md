@@ -1,5 +1,7 @@
 # A conserved sphere sign at maximal orientation
 
+Follow-up: [Sign selection by clock and reference symmetry](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) compares the old chirality with an additional nondisturbing sphere-dependent sign in their common 90-dimensional orientation setting and proves a conditional uniqueness result on the smaller algebra.
+
 ## Result: the trade-off can be bypassed, but not by recovering the old sign
 
 The [previous result](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) left a precise question: does increasing the additional orientation's nontrivial support from 90 to **108 local dimensions**, while retaining the original paired source and sphere instrument, rule out *any* conserved binary sign report? **No.** The old chirality gate fails for the 108-dimensional orientation, but another gate, acting on the existing sphere factor rather than on the orientation spectator, works exactly.

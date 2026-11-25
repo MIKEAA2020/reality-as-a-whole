@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 722 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 654 verification Python scripts.
+- 723 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 655 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -671,6 +671,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
 - [ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) — Sharp reciprocal currents and the experiential-response condition
+- [ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) — Sign selection by clock and reference symmetry
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md](ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md) — An autonomous detector inside the sphere–cosmology constraint
 - [ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md](ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md) — The sphere, a closed plasma, and the experiential balance gate
@@ -1489,6 +1490,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_spherical_plenitude_opposite_records_test.py](verification/zero_spherical_plenitude_opposite_records_test.py)
 - [verification/zero_spin_constitution_test.py](verification/zero_spin_constitution_test.py)
+- [verification/zero_spin_reversal_sign_selection_test.py](verification/zero_spin_reversal_sign_selection_test.py)
 - [verification/zero_stationary_whole_unique_history_test.py](verification/zero_stationary_whole_unique_history_test.py)
 - [verification/zero_subject_boundary_full_constraint_test.py](verification/zero_subject_boundary_full_constraint_test.py)
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 765,
-  "bytes": 9759042,
-  "line_count": 88858,
-  "document_count_with_risk_phrases": 718,
+  "document_count": 766,
+  "bytes": 9772777,
+  "line_count": 89000,
+  "document_count_with_risk_phrases": 719,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5759,9 +5759,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "416571e8a3535274b645a73fe2cf7e93eb8ed56c4b5736f0c4a7c833d6bb2687",
-      "bytes": 198208,
-      "lines": 1514,
+      "sha256": "3793b467a5557ee551ab3a4cd711a369cb2ad461fad70f49a4ce6bbd1ed26c01",
+      "bytes": 198489,
+      "lines": 1516,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6434,6 +6434,7 @@
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
+        "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -7238,6 +7239,7 @@
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
+        "verification/zero_spin_reversal_sign_selection_test.py",
         "verification/zero_stationary_whole_unique_history_test.py",
         "verification/zero_subject_boundary_full_constraint_test.py",
         "verification/zero_subject_incidence_frame_test.py",
@@ -7279,15 +7281,15 @@
         652,
         667,
         670,
-        674,
-        676,
-        690,
-        725,
-        762,
-        771,
-        774,
-        777,
-        846
+        675,
+        677,
+        691,
+        726,
+        763,
+        772,
+        775,
+        778,
+        847
       ]
     },
     {
@@ -20265,9 +20267,9 @@
     },
     {
       "path": "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
-      "sha256": "dcf954e6f9bee0a368dead903a06d092d9f91983ed598b97f461ff80b85c160e",
-      "bytes": 11322,
-      "lines": 87,
+      "sha256": "7efd9701eafd4f9159cf1a639d9d7186ffc55bf2a2ccbafa64a0cf8ea96c5c46",
+      "bytes": 11639,
+      "lines": 89,
       "title": "A conserved sphere sign at maximal orientation",
       "headings": [
         "A conserved sphere sign at maximal orientation",
@@ -20279,22 +20281,24 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
         "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
         "verification/zero_conserving_sphere_handedness_report_test.py"
       ],
       "risk_phrase_lines": [
-        5,
+        3,
         7,
         9,
-        21,
+        11,
         23,
         25,
         27,
-        31,
-        48,
-        59,
-        70,
-        72
+        29,
+        33,
+        50,
+        61,
+        72,
+        74
       ]
     },
     {
@@ -22374,6 +22378,33 @@
         111,
         115,
         173
+      ]
+    },
+    {
+      "path": "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
+      "sha256": "29eb8a207ddbf040f17ddf826a308e67c59da194e1f9a6cf8ccd84ca89cea46b",
+      "bytes": 13137,
+      "lines": 138,
+      "title": "Sign selection by clock and reference symmetry",
+      "headings": [
+        "Sign selection by clock and reference symmetry",
+        "Result",
+        "1. What is being compared",
+        "2. A constructive selection theorem",
+        "3. The existing sphere defeats uniqueness in a sharper way",
+        "4. What the actual history says about the two candidates",
+        "5. Pairing and plenitude: what follows, conditionally",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_spin_reversal_sign_selection_test.py",
+        "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        21,
+        109,
+        129
       ]
     },
     {

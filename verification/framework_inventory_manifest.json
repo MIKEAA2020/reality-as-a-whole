@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ec5362ada0ef79ca6b6545c7573f45fa133df3b0",
-  "file_count": 2150,
+  "base_head": "7173aa88efb2ed0e47349b7bfdb89d920f4f0ea8",
+  "file_count": 2152,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 198208,
-      "sha256": "416571e8a3535274b645a73fe2cf7e93eb8ed56c4b5736f0c4a7c833d6bb2687"
+      "bytes": 198489,
+      "sha256": "3793b467a5557ee551ab3a4cd711a369cb2ad461fad70f49a4ce6bbd1ed26c01"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2990,8 +2990,8 @@
     },
     {
       "path": "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
-      "bytes": 11322,
-      "sha256": "dcf954e6f9bee0a368dead903a06d092d9f91983ed598b97f461ff80b85c160e"
+      "bytes": 11639,
+      "sha256": "7efd9701eafd4f9159cf1a639d9d7186ffc55bf2a2ccbafa64a0cf8ea96c5c46"
     },
     {
       "path": "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
@@ -3312,6 +3312,11 @@
       "path": "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
       "bytes": 17334,
       "sha256": "7329bfb3b870fb9637d5d52c69c9c1d0f09f8feea4df3e9989b31cf9665567e1"
+    },
+    {
+      "path": "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
+      "bytes": 13137,
+      "sha256": "29eb8a207ddbf040f17ddf826a308e67c59da194e1f9a6cf8ccd84ca89cea46b"
     },
     {
       "path": "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
@@ -8105,8 +8110,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 961312,
-      "sha256": "312075ef004762b087d41c247f7a061cc729b7d80c4840919238b5ce602fb201"
+      "bytes": 962478,
+      "sha256": "d9f5cf52a423e8a02e81d7c30c413ca34b263a811f5b10a3c55a6b69b545d9f0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10632,6 +10637,11 @@
       "path": "verification/zero_spin_constitution_test.py",
       "bytes": 7525,
       "sha256": "a05a3af1558b9c0f75ddcb7fc62a677ec46369e9fe55e728518cc70171f94150"
+    },
+    {
+      "path": "verification/zero_spin_reversal_sign_selection_test.py",
+      "bytes": 15469,
+      "sha256": "13a504016f77c361e96d9f4dfbdb95432a0e59c4d784ae502f74c12c3f7a2891"
     },
     {
       "path": "verification/zero_stationary_whole_unique_history_test.py",
