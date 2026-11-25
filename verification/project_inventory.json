@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 809,
-  "bytes": 10369964,
-  "line_count": 93929,
-  "document_count_with_risk_phrases": 762,
+  "document_count": 810,
+  "bytes": 10387261,
+  "line_count": 94078,
+  "document_count_with_risk_phrases": 763,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "32821367fb5dfe04f5e09719fc2516f9df81eb1ba35e5fe95230dbc3a28af181",
-      "bytes": 212591,
-      "lines": 1617,
+      "sha256": "5a267ee9f4089ad03e8c11b7121cb387427f85ae469781a35362ee9c39173278",
+      "bytes": 212957,
+      "lines": 1620,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6533,6 +6533,7 @@
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -7367,6 +7368,8 @@
         "verification/zero_sphere_reuse_experiential_access_test.py",
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
+        "verification/zero_spherical_invariant_echo.py",
+        "verification/zero_spherical_invariant_echo_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
         "verification/zero_spin_reversal_sign_selection_test.py",
@@ -7424,13 +7427,13 @@
         703,
         712,
         715,
-        734,
-        769,
-        806,
-        815,
-        818,
-        821,
-        892
+        735,
+        770,
+        807,
+        816,
+        819,
+        822,
+        893
       ]
     },
     {
@@ -19938,9 +19941,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "acb7bd5fd712d189d295cefe8cead3a601233d1bd8756a02d28d7c9dae27edbe",
-      "bytes": 14473,
-      "lines": 59,
+      "sha256": "1e5e783a118e0051a136a987a8e3f6cc24d787ec81f4de54ec6ffc6e5d47f164",
+      "bytes": 15134,
+      "lines": 60,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19966,7 +19969,8 @@
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
-        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19975,7 +19979,7 @@
         33,
         34,
         36,
-        48
+        49
       ]
     },
     {
@@ -20543,9 +20547,9 @@
     },
     {
       "path": "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
-      "sha256": "170ab5db04edc885e2729f321404dac4f5b2c0512bda403a36b643f226bc242c",
-      "bytes": 11598,
-      "lines": 127,
+      "sha256": "6db764f6b425f4e7066ab237266ae30bc93119e7f6042e924405f01b8324e074",
+      "bytes": 11993,
+      "lines": 129,
       "title": "A coherent angular sphere record in the original quantum echo",
       "headings": [
         "A coherent angular sphere record in the original quantum echo",
@@ -20557,6 +20561,7 @@
         "5. Consequences for the common candidate"
       ],
       "local_links": [
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
@@ -20567,17 +20572,18 @@
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
+        5,
+        11,
         17,
-        18,
-        49,
-        71,
-        77,
-        100,
-        110,
-        116,
-        127
+        19,
+        20,
+        51,
+        73,
+        79,
+        102,
+        112,
+        118,
+        129
       ]
     },
     {
@@ -22971,9 +22977,9 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "fca23526f0b835597cfebdb3990e2d093153ae576d94bc7145c9d01b3e192b17",
-      "bytes": 11992,
-      "lines": 121,
+      "sha256": "3d35c0740e56416f975e8c26bcbf9c28777dd9d310a47f1ada364874c0857811",
+      "bytes": 12396,
+      "lines": 123,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -22991,15 +22997,16 @@
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
-        "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md"
+        "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
       ],
       "risk_phrase_lines": [
         3,
-        17,
-        75,
-        103,
+        19,
+        77,
         105,
-        115
+        107,
+        117
       ]
     },
     {
@@ -23814,9 +23821,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "983a159ba61747f9d61e0251e6113a6d38a09949679c505358fe6cc5ce8015f0",
-      "bytes": 20163,
-      "lines": 140,
+      "sha256": "c1ee79dce21b52cfe72e1909c38b8d35ece7d538f8f314fc027917dbedb94808",
+      "bytes": 20576,
+      "lines": 142,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23829,6 +23836,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -23851,20 +23859,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
+        5,
         11,
-        17,
+        13,
         19,
-        29,
-        60,
-        75,
-        106,
+        21,
+        31,
+        62,
+        77,
         108,
-        116,
-        119,
-        120,
+        110,
+        118,
         121,
-        128
+        122,
+        123,
+        130
       ]
     },
     {
@@ -24459,6 +24468,42 @@
         89,
         101,
         149
+      ]
+    },
+    {
+      "path": "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
+      "sha256": "bbf081d97ecd367ccba24b1a7fd0adcd79cbe6479963372ef3301b8e669cb6fd",
+      "bytes": 15058,
+      "lines": 139,
+      "title": "Symmetry, point–sphere and the coherent zero candidate",
+      "headings": [
+        "Symmetry, point–sphere and the coherent zero candidate",
+        "The unified proposal",
+        "1. One whole, distinct meanings of symmetry",
+        "2. The scalar-angle echo is an exact spherical sector",
+        "3. Lift the actual negative-band reflection to the sphere",
+        "4. A constructive no-preference route—and its scope",
+        "5. What the currently demonstrated symmetries select",
+        "6. Relate the structural result to energy and experience"
+      ],
+      "local_links": [
+        "verification/zero_spherical_invariant_echo.py",
+        "verification/zero_spherical_invariant_echo_test.py",
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+        "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
+        "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        21,
+        41,
+        73,
+        79,
+        103,
+        126,
+        130
       ]
     },
     {

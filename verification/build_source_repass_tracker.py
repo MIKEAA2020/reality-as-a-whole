@@ -24,6 +24,7 @@ NINTH='ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md'
 TENTH='ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md'
 ELEVENTH='ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md'
 TWELFTH='ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md'
+THIRTEENTH='ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -55,9 +56,10 @@ PARTIAL={
   'plan':[NINTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py']},
  'sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt': {
   'audit':['UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md'],
-  'plan':[FIFTH,TENTH],
+  'plan':[FIFTH,TENTH,THIRTEENTH],
   'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',TENTH,
-                 'verification/zero_coherent_signed_counterpart.py']},
+                 'verification/zero_coherent_signed_counterpart.py',THIRTEENTH,
+                 'verification/zero_spherical_invariant_echo.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt': {
   'audit':['UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md'],
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},

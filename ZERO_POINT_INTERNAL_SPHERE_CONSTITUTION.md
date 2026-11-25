@@ -10,6 +10,8 @@
 
 ## The user's idea
 
+**Quantum symmetry continuation:** [symmetry, point–sphere and quantum plenitude](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) embeds the existing coherent relative-angle echo in the rotation-invariant sector of a full two-direction spherical Hilbert space and tests what no-preference symmetry fixes. This remains a stipulated mathematical carrier, not a derivation of the sphere from bare zero.
+
 The user proposes that a point is the zero-radius special case of a sphere. The point has no extension and can represent a whole with no external space or time; the sphere can represent its internal differentiation.
 
 This is a promising conceptual move. It treats **zero and differentiation as two aspects of one proposed constitution**, rather than imagining a sphere produced inside an already existing space. It also gives a more direct picture of the user's thesis than the earlier loose energy-flow analogies.

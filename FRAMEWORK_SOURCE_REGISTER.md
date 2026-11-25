@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 766 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 711 verification Python scripts.
+- 767 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 713 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -730,6 +730,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md) — Subject boundaries, higher-body coupling and report causality
 - [ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md](ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md) — One subject–experience candidate tested against two rivals
 - [ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md](ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md) — Subject locality and the cost of overlapping experiences
+- [ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) — Symmetry, point–sphere and the coherent zero candidate
 - [ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) — Tensor networks, the actual sphere pair, and an internal projective sphere
 - [ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) — Exact three-balance sphere record in an encoded system
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
@@ -1578,6 +1579,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_reuse_experiential_access_test.py](verification/zero_sphere_reuse_experiential_access_test.py)
 - [verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py](verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py)
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
+- [verification/zero_spherical_invariant_echo.py](verification/zero_spherical_invariant_echo.py)
+- [verification/zero_spherical_invariant_echo_test.py](verification/zero_spherical_invariant_echo_test.py)
 - [verification/zero_spherical_plenitude_opposite_records_test.py](verification/zero_spherical_plenitude_opposite_records_test.py)
 - [verification/zero_spin_constitution_test.py](verification/zero_spin_constitution_test.py)
 - [verification/zero_spin_reversal_sign_selection_test.py](verification/zero_spin_reversal_sign_selection_test.py)

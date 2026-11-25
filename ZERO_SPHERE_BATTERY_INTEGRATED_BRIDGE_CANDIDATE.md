@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Thirteenth-pass continuation:** [symmetry, point–sphere and quantum plenitude](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) lifts the coherent scalar-angle echo to the exact simultaneous-rotation invariant sector of a full two-direction spherical Hilbert space. It geometrically realizes the type-swap reflection and distinguishes uniform-marginal selection from symmetry of the complete recorded state.
+
 **Twelfth-pass continuation:** [the gauge-constrained angular pair](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) makes opposite local values a property of the entire physical sector rather than a selected ready-pair state. Its physical signs remain gauge-invariant; the chosen gauge and the experiential identification are not derived from zero by this construction.
 
 **Eleventh-pass continuation:** [the branchwise angular pair](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) adds two distinct local model-charge carriers with opposite values on every supported joint record branch, using reversible globally charge-conserving gates. The ready pair is a stipulated zero-charge resource, and neither carrier is established as a subject.
