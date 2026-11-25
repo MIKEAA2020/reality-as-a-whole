@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3b3f4f908fad8af00d8451bf2bef61b312337144",
-  "file_count": 2185,
+  "base_head": "0b496c7c5c437d33902562bf9d67dee95e714c8d",
+  "file_count": 2187,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 203446,
-      "sha256": "9b3ce548b6a775557a681357367f52e12ae106f9796307998f4f92062346db94"
+      "bytes": 203779,
+      "sha256": "22fe9ae634c70458566540a5535d449a1975769f66d57aa6c3643ecdc4bdc2bc"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3085,8 +3085,8 @@
     },
     {
       "path": "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
-      "bytes": 12113,
-      "sha256": "bd5a04d6dc9eb9380db63df39e71e29c01c9f16212d59fb138451341d971d223"
+      "bytes": 12425,
+      "sha256": "38dd350070806ae82fe6928c9df6c037c5f0dcbc34934a8c6beeefc4020dbc76"
     },
     {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
@@ -3152,6 +3152,11 @@
       "path": "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
       "bytes": 14044,
       "sha256": "8ddb7e148ee6f8e8e6d8270a023cde7449ad7680796c6fcd1fd7d8cf7f3621fe"
+    },
+    {
+      "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
+      "bytes": 13358,
+      "sha256": "95fba263de13f374da0b1d7b3f8b202ae03bf9ada54a898baca76566f6849a54"
     },
     {
       "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
@@ -3270,8 +3275,8 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "bytes": 27906,
-      "sha256": "7b33cdd48f245b8b4bbc50b2e03fbd583340ba5c8acf2ff56d15366b7ee649e2"
+      "bytes": 28261,
+      "sha256": "ad6684bce896c01e835669c9778683a0b045894f187ec7ac9bae052094fac95a"
     },
     {
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
@@ -10492,6 +10497,11 @@
       "path": "verification/zero_interacting_relational_first_reading_test.py",
       "bytes": 9900,
       "sha256": "459d0e58d761414f67b11bb2defe0504f9c56c306230db703992cc1584598721"
+    },
+    {
+      "path": "verification/zero_internal_connection_flag_access_balance_test.py",
+      "bytes": 9243,
+      "sha256": "ae2baee65e4bfe3168ab930411f1e6dd79fb57330a72974498c56abf5abeed70"
     },
     {
       "path": "verification/zero_internal_contextual_reference_test.py",

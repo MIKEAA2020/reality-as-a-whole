@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 739 root Markdown documents including this register; 43 research Markdown documents.
-- 63 original uploaded files, including provenance metadata; 671 verification Python scripts.
+- 740 root Markdown documents including this register; 43 research Markdown documents.
+- 63 original uploaded files, including provenance metadata; 672 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -639,6 +639,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md](ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md) — Can time arise in a timeless whole? An interacting clock result
 - [ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md](ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md) — Interacting geometry clock: first reading, records and no reading
 - [ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md](ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md) — Interacting geometry slices: a regulated clock-perspective construction
+- [ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md](ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md) — Internal connections: record algebra, signed balance, and the relational clock
 - [ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md](ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md) — An internal reference from an existing record—and its unavoidable trade-off
 - [ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md](ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md) — Sourcing F internally—and tracking the orientation it displaces
 - [ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md](ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md) — An internal reference pair from the original paired state
@@ -1461,6 +1462,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_interacting_geometry_clock_cyclicity_test.py](verification/zero_interacting_geometry_clock_cyclicity_test.py)
 - [verification/zero_interacting_geometry_slice_clock_test.py](verification/zero_interacting_geometry_slice_clock_test.py)
 - [verification/zero_interacting_relational_first_reading_test.py](verification/zero_interacting_relational_first_reading_test.py)
+- [verification/zero_internal_connection_flag_access_balance_test.py](verification/zero_internal_connection_flag_access_balance_test.py)
 - [verification/zero_internal_contextual_reference_test.py](verification/zero_internal_contextual_reference_test.py)
 - [verification/zero_internal_f_reference_transfer_test.py](verification/zero_internal_f_reference_transfer_test.py)
 - [verification/zero_internal_pair_sphere_report_test.py](verification/zero_internal_pair_sphere_report_test.py)

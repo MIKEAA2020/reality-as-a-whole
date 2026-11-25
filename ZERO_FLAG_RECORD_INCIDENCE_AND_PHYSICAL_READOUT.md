@@ -4,6 +4,8 @@ This continues [the identity-pair construction](ZERO_IDENTITY_PAIR_PHYSICAL_FLAG
 
 ## Result in brief
 
+**Integrated continuation:** [Internal connections: record algebra, signed balance, and the relational clock](ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md) connects the rule to compatible sequential records, counterpart-selected local signs, the stationary clock, and competing actual reference flags.
+
 A sharp physical flag **does** determine a unique incidence rule for all effects compatible with that flag, if one stipulates that the two incidence types are exactly its two sectors. This is substantially stronger than choosing a free incidence parameter. In the actual echo, the relative weights update by ordinary conditionalization; they are not universally one half after a record is specified. At the midpoint, two existing records jointly identify the flag exactly, although neither the abstract availability of this joint observable nor a newly engineered readout establishes that the original confined inhabitant can access it.
 
 A concrete four-gate extension copies that very joint record into a new neutral memory, then uncomputes it, restoring the original 20-step cycle. Its charge accounting and label dynamics are checked for every permitted input. Coherence is not destroyed globally by copying: it is distributed into correlations. If the copy is discarded, the reduced system is dephased, while a joint dressed witness remains sharp when the memory is retained.

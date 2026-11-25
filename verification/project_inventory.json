@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 782,
-  "bytes": 10003142,
-  "line_count": 91029,
-  "document_count_with_risk_phrases": 735,
+  "document_count": 783,
+  "bytes": 10017500,
+  "line_count": 91160,
+  "document_count_with_risk_phrases": 736,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "9b3ce548b6a775557a681357367f52e12ae106f9796307998f4f92062346db94",
-      "bytes": 203446,
-      "lines": 1549,
+      "sha256": "22fe9ae634c70458566540a5535d449a1975769f66d57aa6c3643ecdc4bdc2bc",
+      "bytes": 203779,
+      "lines": 1551,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6436,6 +6436,7 @@
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
         "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
         "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
@@ -7244,6 +7245,7 @@
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
+        "verification/zero_internal_connection_flag_access_balance_test.py",
         "verification/zero_internal_contextual_reference_test.py",
         "verification/zero_internal_f_reference_transfer_test.py",
         "verification/zero_internal_pair_sphere_report_test.py",
@@ -7344,19 +7346,19 @@
         484,
         583,
         600,
-        659,
-        663,
-        680,
-        683,
-        688,
-        690,
-        707,
-        742,
-        779,
-        788,
-        791,
-        794,
-        864
+        660,
+        664,
+        681,
+        684,
+        689,
+        691,
+        708,
+        743,
+        780,
+        789,
+        792,
+        795,
+        865
       ]
     },
     {
@@ -20928,9 +20930,9 @@
     },
     {
       "path": "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
-      "sha256": "bd5a04d6dc9eb9380db63df39e71e29c01c9f16212d59fb138451341d971d223",
-      "bytes": 12113,
-      "lines": 94,
+      "sha256": "38dd350070806ae82fe6928c9df6c037c5f0dcbc34934a8c6beeefc4020dbc76",
+      "bytes": 12425,
+      "lines": 96,
       "title": "Zero, flag-record incidence, and a physically reversible readout",
       "headings": [
         "Zero, flag-record incidence, and a physically reversible readout",
@@ -20946,15 +20948,16 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
-        "verification/zero_flag_record_algebra_echo_test.py"
+        "verification/zero_flag_record_algebra_echo_test.py",
+        "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
-        49,
-        76,
-        80,
-        94
+        9,
+        15,
+        51,
+        78,
+        82,
+        96
       ]
     },
     {
@@ -21377,6 +21380,38 @@
         110,
         125,
         135
+      ]
+    },
+    {
+      "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
+      "sha256": "95fba263de13f374da0b1d7b3f8b202ae03bf9ada54a898baca76566f6849a54",
+      "bytes": 13358,
+      "lines": 125,
+      "title": "Internal connections: record algebra, signed balance, and the relational clock",
+      "headings": [
+        "Internal connections: record algebra, signed balance, and the relational clock",
+        "1. What is now connected",
+        "2. The compatible algebra is a dynamical structure, not an extra collapse",
+        "3. The same structure is transported by the relational clock",
+        "4. Whole balance and nonzero local signs are compatible in the same model",
+        "5. Three existing flags: accessibility narrows but does not solve selection",
+        "6. A discriminating prediction if an actual report interface exists",
+        "7. Relation to the zero/no-residue program"
+      ],
+      "local_links": [
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "verification/zero_internal_connection_flag_access_balance_test.py"
+      ],
+      "risk_phrase_lines": [
+        3,
+        10,
+        36,
+        70,
+        72,
+        85,
+        125
       ]
     },
     {
@@ -22115,9 +22150,9 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "sha256": "7b33cdd48f245b8b4bbc50b2e03fbd583340ba5c8acf2ff56d15366b7ee649e2",
-      "bytes": 27906,
-      "lines": 170,
+      "sha256": "ad6684bce896c01e835669c9778683a0b045894f187ec7ac9bae052094fac95a",
+      "bytes": 28261,
+      "lines": 172,
       "title": "One reality, zero, experience and necessary plenitude",
       "headings": [
         "One reality, zero, experience and necessary plenitude",
@@ -22131,6 +22166,7 @@
       ],
       "local_links": [
         "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
+        "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
         "verification/zero_synthesis_gauge_incidence_test.py",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
@@ -22150,17 +22186,17 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
-        11,
-        25,
-        54,
-        58,
-        102,
+        13,
+        27,
+        56,
+        60,
         104,
-        130,
+        106,
         132,
-        135,
-        156,
-        161
+        134,
+        137,
+        158,
+        163
       ]
     },
     {
