@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "f262e1f13c2ce6b5492ae77911442fcad985fadc",
-  "file_count": 2148,
+  "base_head": "ec5362ada0ef79ca6b6545c7573f45fa133df3b0",
+  "file_count": 2150,
   "files": [
     {
       "path": ".gitattributes",
@@ -70,8 +70,8 @@
     },
     {
       "path": "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
-      "bytes": 8789,
-      "sha256": "d50b5352fb91c41831e7a36ed49de5be57bafe2ed533b108d6d5cbceb559717f"
+      "bytes": 9073,
+      "sha256": "af033a4d660da3704fa5c54909e114d9dd4dd6e3d40f80581801455780928ee0"
     },
     {
       "path": "AFFECT_EXPECTATION_OUTCOME_HELDOUT_PLAN.md",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 197881,
-      "sha256": "5c18779b65a6449db95dcbf591e403b46107d1eed43c8b626541d9f1008a4fcc"
+      "bytes": 198208,
+      "sha256": "416571e8a3535274b645a73fe2cf7e93eb8ed56c4b5736f0c4a7c833d6bb2687"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3167,6 +3167,11 @@
       "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
       "bytes": 9666,
       "sha256": "3f3cd0a1a48cf837cb5b00106a6378cb9034fac33e4627777557554284a81ae8"
+    },
+    {
+      "path": "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
+      "bytes": 12416,
+      "sha256": "01c34ffdfffa6b3257482bdd4ba87a81eb34253b995d093cda0d99f41b20c7df"
     },
     {
       "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
@@ -8100,8 +8105,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 960322,
-      "sha256": "0c1cbd8e6ecb09d43107766a4f8a43849d2349138fd5bd8335101701a80deb9d"
+      "bytes": 961312,
+      "sha256": "312075ef004762b087d41c247f7a061cc729b7d80c4840919238b5ce602fb201"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10417,6 +10422,11 @@
       "path": "verification/zero_measure_independent_relational_record_test.py",
       "bytes": 5554,
       "sha256": "125645ad42a6c6f4f8ad0c81a972d0c00d2ccbd46880fb8eb94be524573e52be"
+    },
+    {
+      "path": "verification/zero_meditation_access_memory_identifiability_test.py",
+      "bytes": 4901,
+      "sha256": "f4446aade1e865d7b6d6444296392d5f422265a44646f54b91bcac374fdf69c0"
     },
     {
       "path": "verification/zero_minimal_symmetry_reference_record_test.py",

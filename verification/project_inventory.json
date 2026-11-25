@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 764,
-  "bytes": 9746015,
-  "line_count": 88763,
-  "document_count_with_risk_phrases": 717,
+  "document_count": 765,
+  "bytes": 9759042,
+  "line_count": 88858,
+  "document_count_with_risk_phrases": 718,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -415,9 +415,9 @@
     },
     {
       "path": "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
-      "sha256": "d50b5352fb91c41831e7a36ed49de5be57bafe2ed533b108d6d5cbceb559717f",
-      "bytes": 8789,
-      "lines": 44,
+      "sha256": "af033a4d660da3704fa5c54909e114d9dd4dd6e3d40f80581801455780928ee0",
+      "bytes": 9073,
+      "lines": 46,
       "title": "Advanced meditation: self, cessation and the zero framework",
       "headings": [
         "Advanced meditation: self, cessation and the zero framework",
@@ -428,11 +428,13 @@
         "What this contributes to zero"
       ],
       "local_links": [
+        "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
         "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
         "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md"
       ],
       "risk_phrase_lines": [
-        44
+        3,
+        46
       ]
     },
     {
@@ -5757,9 +5759,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5c18779b65a6449db95dcbf591e403b46107d1eed43c8b626541d9f1008a4fcc",
-      "bytes": 197881,
-      "lines": 1512,
+      "sha256": "416571e8a3535274b645a73fe2cf7e93eb8ed56c4b5736f0c4a7c833d6bb2687",
+      "bytes": 198208,
+      "lines": 1514,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6403,6 +6405,7 @@
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
         "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
+        "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
         "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
         "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -7193,6 +7196,7 @@
         "verification/zero_locality_boundary_test.py",
         "verification/zero_localized_modules_boundary_test.py",
         "verification/zero_measure_independent_relational_record_test.py",
+        "verification/zero_meditation_access_memory_identifiability_test.py",
         "verification/zero_minimal_symmetry_reference_record_test.py",
         "verification/zero_mirror_balanced_plenitude_subject_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
@@ -7271,19 +7275,19 @@
         483,
         581,
         597,
-        647,
-        651,
-        666,
-        669,
-        673,
-        675,
-        689,
-        724,
-        761,
-        770,
-        773,
-        776,
-        845
+        648,
+        652,
+        667,
+        670,
+        674,
+        676,
+        690,
+        725,
+        762,
+        771,
+        774,
+        777,
+        846
       ]
     },
     {
@@ -21445,6 +21449,32 @@
         59,
         117,
         130
+      ]
+    },
+    {
+      "path": "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
+      "sha256": "01c34ffdfffa6b3257482bdd4ba87a81eb34253b995d093cda0d99f41b20c7df",
+      "bytes": 12416,
+      "lines": 91,
+      "title": "From reported cessation to a discriminating experiment",
+      "headings": [
+        "From reported cessation to a discriminating experiment",
+        "Constructive result",
+        "1. A recognition gap has multiple mechanisms",
+        "2. The interface can change the process it measures",
+        "3. A separate phenomenal question",
+        "4. A preregistrable protocol",
+        "5. Consequence for the wider constitution",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
+        "verification/zero_meditation_access_memory_identifiability_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        50,
+        91
       ]
     },
     {

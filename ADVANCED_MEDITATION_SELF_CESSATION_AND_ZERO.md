@@ -1,5 +1,7 @@
 # Advanced meditation: self, cessation and the zero framework
 
+Follow-up: [From reported cessation to a discriminating experiment](ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md) gives an exact access-versus-memory identifiability example, tests the effect of a disruptive report interface, and develops a preregistrable protocol.
+
 ## The article in context
 
 Matthew D. Sacchet and Judson A. Brewer's [Scientific American article](https://www.scientificamerican.com/article/advanced-meditation-alters-consciousness-and-our-basic-sense-of-self/) (25 June 2024) surveys research on advanced meditation and the reported transformation of self-experience. It is a perspective by researchers in the field, not a new controlled trial. Its central relevance here is that **self-related narrative, the felt boundary of the self, consciousness, and pleasant or unpleasant valence can vary separately**. They should not be collapsed into a single quantity called “awareness,” nor should an experience of oneness be dismissed merely because it is not a proof of metaphysical oneness.
