@@ -1,5 +1,7 @@
 # Tensor networks, the actual sphere pair, and an internal projective sphere
 
+**Further development:** [ER = EPR, firewall assumptions and a teleportation/access calculation on this same echo](ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md).
+
 **Source:** Jennifer Ouellette, [“How Quantum Pairs Stitch Space-Time”](https://www.quantamagazine.org/tensor-networks-and-entanglement-20150428/), *Quanta Magazine*, 28 April 2015. I also checked [Swingle’s entanglement-renormalization proposal](https://arxiv.org/abs/0905.1317), [Ryu and Takayanagi’s holographic entropy paper](https://arxiv.org/abs/hep-th/0605073v3), and [Swingle and Van Raamsdonk’s gravity-from-entanglement paper](https://arxiv.org/abs/1405.2933). The calculations below use the **existing** sphere/source/reservoir circuit, with checks in [the verifier](verification/zero_tensor_network_sphere_pair_echo_test.py).
 
 ## Result

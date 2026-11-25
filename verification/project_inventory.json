@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 786,
-  "bytes": 10061474,
-  "line_count": 91489,
-  "document_count_with_risk_phrases": 739,
+  "document_count": 787,
+  "bytes": 10074820,
+  "line_count": 91589,
+  "document_count_with_risk_phrases": 740,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "420e9809b00dd622d7650de3f732cba9e70258b70ed6f4503d5ce737a888e6c9",
-      "bytes": 204729,
-      "lines": 1558,
+      "sha256": "02a87fc2da3ce4e4989054ab639f7a80988c5be964a234d1cf107c04a8c21b82",
+      "bytes": 204996,
+      "lines": 1560,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6421,6 +6421,7 @@
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
+        "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
@@ -7233,6 +7234,7 @@
         "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
         "verification/zero_energy_sphere_work_incidence_test.py",
+        "verification/zero_er_epr_access_teleportation_test.py",
         "verification/zero_experience_steering_no_signalling_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_flag_record_algebra_echo_test.py",
@@ -7354,19 +7356,19 @@
         484,
         583,
         600,
-        660,
-        664,
-        683,
-        686,
-        691,
-        693,
-        711,
-        746,
-        783,
-        792,
-        795,
-        798,
-        869
+        661,
+        665,
+        684,
+        687,
+        692,
+        694,
+        712,
+        747,
+        784,
+        793,
+        796,
+        799,
+        870
       ]
     },
     {
@@ -20883,6 +20885,33 @@
       ]
     },
     {
+      "path": "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
+      "sha256": "58732395406da12e16a93be0827eafb5c2df79bc3ef68199362c4d16b1ccf21d",
+      "bytes": 12732,
+      "lines": 96,
+      "title": "ER = EPR, the firewall, and actual access in the sphere echo",
+      "headings": [
+        "ER = EPR, the firewall, and actual access in the sphere echo",
+        "Result",
+        "1. What AMPS and ER = EPR actually say",
+        "2. Entanglement is not, by itself, an open passage",
+        "3. The actual sphere resource, before any teleportation intervention",
+        "4. A specified teleportation intervention",
+        "5. No message without an interface",
+        "6. Connection to the one-reality and zero program"
+      ],
+      "local_links": [
+        "verification/zero_er_epr_access_teleportation_test.py",
+        "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        21,
+        53,
+        75
+      ]
+    },
+    {
       "path": "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
       "sha256": "b85faf08de2cf990601d0678ae4e7ca50c624ed8ec4de4661345b0a12b472f0b",
       "bytes": 13695,
@@ -21394,8 +21423,8 @@
     },
     {
       "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
-      "sha256": "e9a15bfdbca5469e4f03c7a3cda4e7c7042b5c8a7efc36d1c4e0fa08aee0c726",
-      "bytes": 13831,
+      "sha256": "7e19c568f362c6753c4379649a3b0c2c1bbcfbe3a74bedeb5ed27d9e5e549dd8",
+      "bytes": 14018,
       "lines": 127,
       "title": "Internal connections: record algebra, signed balance, and the relational clock",
       "headings": [
@@ -21414,7 +21443,8 @@
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "verification/zero_internal_connection_flag_access_balance_test.py",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
-        "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md"
+        "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
+        "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -23583,9 +23613,9 @@
     },
     {
       "path": "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
-      "sha256": "673a3582232e3a9cc59c8eb1457165a7049992230bc09880a8f12c62bf73f343",
-      "bytes": 13786,
-      "lines": 105,
+      "sha256": "8a5752c85947c760b765a58173e4d98e1fc37f8312747eebb4d25d41f95727eb",
+      "bytes": 13946,
+      "lines": 107,
       "title": "Tensor networks, the actual sphere pair, and an internal projective sphere",
       "headings": [
         "Tensor networks, the actual sphere pair, and an internal projective sphere",
@@ -23598,19 +23628,20 @@
         "6. The actual reference qubit has a projective sphere—but its access is conditional"
       ],
       "local_links": [
+        "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
         "verification/zero_tensor_network_sphere_pair_echo_test.py",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        33,
+        15,
         35,
-        45,
-        71,
-        79,
-        103
+        37,
+        47,
+        73,
+        81,
+        105
       ]
     },
     {

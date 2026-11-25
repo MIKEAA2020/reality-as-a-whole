@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d7b3e2accca3fe12ce10eca73a251de1bfd52463",
-  "file_count": 2194,
+  "base_head": "84b31ab156282e59587c4dd8b8e37acb8bba3912",
+  "file_count": 2196,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 204729,
-      "sha256": "420e9809b00dd622d7650de3f732cba9e70258b70ed6f4503d5ce737a888e6c9"
+      "bytes": 204996,
+      "sha256": "02a87fc2da3ce4e4989054ab639f7a80988c5be964a234d1cf107c04a8c21b82"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3074,6 +3074,11 @@
       "sha256": "5be6187d803ce5b1a7ad427cd8d61ae050ecc7fcd4acd3aa1730ba226d3a40e0"
     },
     {
+      "path": "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
+      "bytes": 12732,
+      "sha256": "58732395406da12e16a93be0827eafb5c2df79bc3ef68199362c4d16b1ccf21d"
+    },
+    {
       "path": "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
       "bytes": 13695,
       "sha256": "b85faf08de2cf990601d0678ae4e7ca50c624ed8ec4de4661345b0a12b472f0b"
@@ -3155,8 +3160,8 @@
     },
     {
       "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
-      "bytes": 13831,
-      "sha256": "e9a15bfdbca5469e4f03c7a3cda4e7c7042b5c8a7efc36d1c4e0fa08aee0c726"
+      "bytes": 14018,
+      "sha256": "7e19c568f362c6753c4379649a3b0c2c1bbcfbe3a74bedeb5ed27d9e5e549dd8"
     },
     {
       "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
@@ -3495,8 +3500,8 @@
     },
     {
       "path": "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
-      "bytes": 13786,
-      "sha256": "673a3582232e3a9cc59c8eb1457165a7049992230bc09880a8f12c62bf73f343"
+      "bytes": 13946,
+      "sha256": "8a5752c85947c760b765a58173e4d98e1fc37f8312747eebb4d25d41f95727eb"
     },
     {
       "path": "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
@@ -8230,8 +8235,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 989137,
-      "sha256": "913c615f9d2869ed1673e8c9788612df299d1b0e2cfd99c3767e9a71ac7a90fd"
+      "bytes": 990686,
+      "sha256": "c6fca5f06aa3d6e086af64f37e60e84212084dc01be6173de73776f23ebc7b9b"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10432,6 +10437,11 @@
       "path": "verification/zero_energy_sphere_work_incidence_test.py",
       "bytes": 12690,
       "sha256": "937c0516b3fb3d111f6da06ea2ba7085146a9cab0410ee9e0926c390c739ef8f"
+    },
+    {
+      "path": "verification/zero_er_epr_access_teleportation_test.py",
+      "bytes": 6626,
+      "sha256": "0fe36ea8510aa4e12f80f271788c30886f6d4fc4e6bb56963567d2db85a44214"
     },
     {
       "path": "verification/zero_experience_steering_no_signalling_test.py",
