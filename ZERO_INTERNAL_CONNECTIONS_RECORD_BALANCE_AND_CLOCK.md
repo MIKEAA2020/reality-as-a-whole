@@ -4,7 +4,7 @@ This report strengthens the links **within the existing sphere construction** ra
 
 ## 1. What is now connected
 
-**Primary-source continuation:** [Page–Wootters (1983), stationary observables, and the sphere echo](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md) uses the original paper to construct stationary pre/post-echo joint observables and checks their actual distribution.
+**Primary-source continuation:** [Page–Wootters (1983), stationary observables, and the sphere echo](ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md) uses the original paper to construct stationary pre/post-echo joint observables and checks their actual distribution. [The photon-clock and de Sitter analysis](ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md) connects those distinctions to the linked optical experiment and the operational meaning of cosmological horizons.
 
 The following four facts fit into one mathematical structure:
 

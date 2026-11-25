@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 741 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 673 verification Python scripts.
+- 742 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 674 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -675,6 +675,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) — Time from a zero whole: a sphere–record relational clock and a cosmological constraint
 - [ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md](ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md) — From the internal sphere to a Lorentz cone: the next step
 - [ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md](ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md) — Q–desics, mean geometry and the confined sphere: a conditional test
+- [ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md](ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md) — Quanta’s time problem: photon clocks, coherence and de Sitter
 - [ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) — Confined succession without an interaction
 - [ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) — Reciprocal subject-candidate exchange within the spherical whole
 - [ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md](ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md) — Recollapse, the sphere and record arrows in one constraint
@@ -1494,6 +1495,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_plenitude_sign_pairing_test.py](verification/zero_plenitude_sign_pairing_test.py)
 - [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
 - [verification/zero_qdesic_sphere_clock_connection_test.py](verification/zero_qdesic_sphere_clock_connection_test.py)
+- [verification/zero_quanta_time_photons_horizon_test.py](verification/zero_quanta_time_photons_horizon_test.py)
 - [verification/zero_realm_physical_zero_incidence_test.py](verification/zero_realm_physical_zero_incidence_test.py)
 - [verification/zero_realm_restriction_without_interaction_test.py](verification/zero_realm_restriction_without_interaction_test.py)
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)

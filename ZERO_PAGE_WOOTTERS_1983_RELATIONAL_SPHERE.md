@@ -4,6 +4,8 @@
 
 ## Bottom line
 
+**Experimental and cosmological continuation:** [Quanta’s time problem: photon clocks, coherence and de Sitter](ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md) examines the linked 2016 article and the primary photon experiment, and distinguishes its record interfaces from de Sitter horizon claims.
+
 This is the original Page–Wootters paper, not a new discovery that time can be relational. Its important contribution to our present work is more specific: **a dynamical correlation can itself be represented by an observable commuting with the whole's evolution**. Applying that idea to the existing 20-step sphere echo gives a pair of stationary joint observables for the pre- and post-echo sphere signs. They commute, yet their exact joint distribution records a genuine change in half the ensemble.
 
 That result makes the connection between our coherent whole, internal change and the actual sphere program mathematically sharper. It does not require an external time or an unrecorded collapse. It also does not make an inaccessible joint observable available to a confined inhabitant, establish felt duration, derive the program from zero, or show that a constructed clock constraint is objective cosmic energy.

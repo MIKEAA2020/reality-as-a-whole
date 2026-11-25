@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 784,
-  "bytes": 10032048,
-  "line_count": 91279,
-  "document_count_with_risk_phrases": 737,
+  "document_count": 785,
+  "bytes": 10046664,
+  "line_count": 91380,
+  "document_count_with_risk_phrases": 738,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bfa4ba4fc47db4c33cfd869e3b0cc00dbb1c8317c92598173f8a6f795cf956e2",
-      "bytes": 204148,
-      "lines": 1554,
+      "sha256": "65446df89ce5e88df8df342f41affc89b4cea20c67ca9e6ee953dca0b6f59065",
+      "bytes": 204428,
+      "lines": 1556,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6473,6 +6473,7 @@
         "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
+        "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
@@ -7278,6 +7279,7 @@
         "verification/zero_plenitude_sign_pairing_test.py",
         "verification/zero_point_blowup_test.py",
         "verification/zero_qdesic_sphere_clock_connection_test.py",
+        "verification/zero_quanta_time_photons_horizon_test.py",
         "verification/zero_realm_physical_zero_incidence_test.py",
         "verification/zero_realm_restriction_without_interaction_test.py",
         "verification/zero_reciprocal_subject_exchange_test.py",
@@ -7352,17 +7354,17 @@
         600,
         660,
         664,
-        682,
-        685,
-        690,
-        692,
-        709,
-        744,
-        781,
-        790,
-        793,
-        796,
-        867
+        683,
+        686,
+        691,
+        693,
+        710,
+        745,
+        782,
+        791,
+        794,
+        797,
+        868
       ]
     },
     {
@@ -21389,8 +21391,8 @@
     },
     {
       "path": "ZERO_INTERNAL_CONNECTIONS_RECORD_BALANCE_AND_CLOCK.md",
-      "sha256": "598d933a55629fc24d078c02d476fbba255a5c0051353e4b5705415fc2976a6a",
-      "bytes": 13626,
+      "sha256": "e9a15bfdbca5469e4f03c7a3cda4e7c7042b5c8a7efc36d1c4e0fa08aee0c726",
+      "bytes": 13831,
       "lines": 127,
       "title": "Internal connections: record algebra, signed balance, and the relational clock",
       "headings": [
@@ -21408,7 +21410,8 @@
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "verification/zero_internal_connection_flag_access_balance_test.py",
-        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+        "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -22239,9 +22242,9 @@
     },
     {
       "path": "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
-      "sha256": "65709c3544a58c50cc70125c3c30a2e99f57d36f105b4a08a6975b6927415302",
-      "bytes": 13390,
-      "lines": 110,
+      "sha256": "16da7f02d059a08a9b054fa4191f1fde621eb7dce35f2a1b8fc1ca69e9086bc5",
+      "bytes": 13692,
+      "lines": 112,
       "title": "Page–Wootters (1983), stationary observables, and the sphere echo",
       "headings": [
         "Page–Wootters (1983), stationary observables, and the sphere echo",
@@ -22256,16 +22259,17 @@
       "local_links": [
         "sources/uploads/page1983.pdf",
         "verification/zero_page_wootters_original_sphere_connection_test.py",
+        "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        17,
-        21,
-        35,
-        39,
-        92
+        9,
+        19,
+        23,
+        37,
+        41,
+        94
       ]
     },
     {
@@ -22533,6 +22537,33 @@
       "risk_phrase_lines": [
         13,
         66
+      ]
+    },
+    {
+      "path": "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
+      "sha256": "8fac72014cac054a7bfa158619841d39a92662c8af7082fe3623bed09af5c787",
+      "bytes": 13829,
+      "lines": 97,
+      "title": "Quanta’s time problem: photon clocks, coherence and de Sitter",
+      "headings": [
+        "Quanta’s time problem: photon clocks, coherence and de Sitter",
+        "Main result",
+        "1. What the 2016 article says—and what its sources support",
+        "2. The photon clock, calculated",
+        "3. The key distinction: correlation, coherent record, and access",
+        "4. The two boundaries in de Sitter are not interchangeable",
+        "5. Holography: a productive connection, not a literal simulation",
+        "6. What this contributes to the integrated program"
+      ],
+      "local_links": [
+        "sources/uploads/page1983.pdf",
+        "verification/zero_quanta_time_photons_horizon_test.py",
+        "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        76
       ]
     },
     {
