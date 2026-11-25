@@ -12,6 +12,8 @@ Verifier: [verification/zero_incidence_refinement_born_test.py](verification/zer
 
 A subsequent [geometry–history–incidence bridge](ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md) identifies a configuration in which a full vector-balance requirement uniquely fixes unequal geometric marginals and transports them through the existing all-sector clock/record history. It also shows that those marginals and a mirror pairing still do not fix the joint incidence coupling or an experiential mapping.
 
+The later [joint constitution and echo test](ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md) studies a direct-sum incidence extension of a fixed pure physical state. Physical Born certainty constrains each type block to be proportional to the same pure state, but does not determine the blocks' relative weight.
+
 ## 1. Apply the test to the actual prior table
 
 For the fixed finite-window state and readout in the integrated test, the ten positive `(k,f,s)` slots have physical probabilities

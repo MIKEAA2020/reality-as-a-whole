@@ -128,6 +128,8 @@ A successful one-reality constitution must therefore do more than name a parity 
 
 No part of this calculation rules out the user's stronger thesis that zero's own constitution necessitates those facts. It establishes that the particular locality-and-balance premises tested here do not yet do so. The echo is useful because it turns the access question into a real coupled intervention with explicit resource assumptions, rather than a verbal claim about confinement.
 
+The subsequent [joint constitution, incidence and echo test](ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md) admits both candidates conditionally in one history, tests their relative measures and follows their disagreements through this echo. It distinguishes full pure-physical-state effect consistency from a weaker commuting-record incidence algebra.
+
 ## Reproduce
 
 ```sh

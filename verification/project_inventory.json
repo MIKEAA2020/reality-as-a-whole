@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 779,
-  "bytes": 9956747,
-  "line_count": 90596,
-  "document_count_with_risk_phrases": 732,
+  "document_count": 780,
+  "bytes": 9974403,
+  "line_count": 90763,
+  "document_count_with_risk_phrases": 733,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7c88af795619b4d019b777b55ee7941b9de3c7e8ffcefbd3df5d9c48f47c7b16",
-      "bytes": 202577,
-      "lines": 1543,
+      "sha256": "508b4286c9927624b39fbf9b233fb787c9ebcff92ec520dc7c31059125ab9f94",
+      "bytes": 202873,
+      "lines": 1545,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6442,6 +6442,7 @@
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -7247,6 +7248,7 @@
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
+        "verification/zero_joint_constitution_incidence_echo_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
@@ -7338,19 +7340,19 @@
         484,
         583,
         600,
-        656,
-        660,
-        677,
-        680,
-        685,
-        687,
-        704,
-        739,
-        776,
-        785,
-        788,
-        791,
-        861
+        657,
+        661,
+        678,
+        681,
+        686,
+        688,
+        705,
+        740,
+        777,
+        786,
+        789,
+        792,
+        862
       ]
     },
     {
@@ -21115,9 +21117,9 @@
     },
     {
       "path": "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
-      "sha256": "2e8e92ea8f33e0ab3102e5ebc53afc1ab752f6f03866822c8a5cb3b0d14c65db",
-      "bytes": 12141,
-      "lines": 125,
+      "sha256": "8fa47834346a617c2b493bf1e2f55726622101d3aeb2478a76fe0d49c9abfdcf",
+      "bytes": 12453,
+      "lines": 127,
       "title": "Can subject counting determine the Born weights?",
       "headings": [
         "Can subject counting determine the Born weights?",
@@ -21135,6 +21137,7 @@
         "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
         "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
         "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
@@ -21142,10 +21145,10 @@
         9,
         11,
         13,
-        44,
-        62,
-        92,
-        114
+        46,
+        64,
+        94,
+        116
       ]
     },
     {
@@ -21566,6 +21569,34 @@
         146,
         148,
         159
+      ]
+    },
+    {
+      "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+      "sha256": "95e6d927012d4ba0e4204683f9d34fd754ba8e4d87d2055a5a29c0d95d163df3",
+      "bytes": 16694,
+      "lines": 161,
+      "title": "One history, two candidate incidences: constitution, measure and echo",
+      "headings": [
+        "One history, two candidate incidences: constitution, measure and echo",
+        "Direct outcome",
+        "1. Physical common ground: both signs in one history",
+        "2. The attempted joint constitution",
+        "3. Pure physical state does not fix the type measure",
+        "4. Equal overall weights still need not settle conditional self-location",
+        "5. Counting incidences is not counting outcome labels",
+        "6. Carry both candidates through the coherent echo"
+      ],
+      "local_links": [
+        "verification/zero_joint_constitution_incidence_echo_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
+      ],
+      "risk_phrase_lines": [
+        12,
+        69,
+        81
       ]
     },
     {
@@ -22976,9 +23007,9 @@
     },
     {
       "path": "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
-      "sha256": "dee1cc751bd249c4f91d585a57782c38b68932059c30c970fbb1907bc62c58f6",
-      "bytes": 14045,
-      "lines": 138,
+      "sha256": "c73a319d35bea30ccfb7f351cdb635b0ae2ca2f86bb3b26cf049eb7fbd8f9824",
+      "bytes": 14399,
+      "lines": 140,
       "title": "Local subject candidates and a coherent echo inside the reservoir clock",
       "headings": [
         "Local subject candidates and a coherent echo inside the reservoir clock",
@@ -22993,6 +23024,7 @@
       "local_links": [
         "verification/zero_sphere_local_constitution_echo_test.py",
         "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
         "verification/zero_dynamic_subject_memory_echo_test.py",
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py"
       ],
@@ -23001,7 +23033,7 @@
         9,
         47,
         110,
-        138
+        140
       ]
     },
     {
