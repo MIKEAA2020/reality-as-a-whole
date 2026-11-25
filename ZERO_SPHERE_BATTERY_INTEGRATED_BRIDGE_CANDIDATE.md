@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Twelfth-pass continuation:** [the gauge-constrained angular pair](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) makes opposite local values a property of the entire physical sector rather than a selected ready-pair state. Its physical signs remain gauge-invariant; the chosen gauge and the experiential identification are not derived from zero by this construction.
+
 **Eleventh-pass continuation:** [the branchwise angular pair](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) adds two distinct local model-charge carriers with opposite values on every supported joint record branch, using reversible globally charge-conserving gates. The ready pair is a stipulated zero-charge resource, and neither carrier is established as a subject.
 
 **Tenth-pass continuation:** [the coherent clock-dressed sign counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) fixes a real relative-phase failure of the bare pointer flip and composes with the full-quality g₂ type-swap. It gives exact physical pairing and a four-way actual-incidence theorem under separately stated symmetry assumptions; it does not derive those assumptions or establish consciousness.

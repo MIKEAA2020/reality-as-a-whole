@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 808,
-  "bytes": 10353402,
-  "line_count": 93777,
-  "document_count_with_risk_phrases": 761,
+  "document_count": 809,
+  "bytes": 10369964,
+  "line_count": 93929,
+  "document_count_with_risk_phrases": 762,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "356d494dff7dcd70e275cfa60a8cbeb67cc67bfa11f433c60cd93e631f741e4d",
-      "bytes": 212267,
-      "lines": 1614,
+      "sha256": "32821367fb5dfe04f5e09719fc2516f9df81eb1ba35e5fe95230dbc3a28af181",
+      "bytes": 212591,
+      "lines": 1617,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6442,6 +6442,7 @@
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
@@ -7276,6 +7277,8 @@
         "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_flag_record_algebra_echo_test.py",
         "verification/zero_full_echo_type_swap_test.py",
+        "verification/zero_gauge_angular_pair.py",
+        "verification/zero_gauge_angular_pair_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_identity_pair_incidence_record_test.py",
@@ -7415,19 +7418,19 @@
         484,
         584,
         603,
-        673,
-        677,
-        699,
-        702,
-        711,
-        714,
-        733,
-        768,
-        805,
-        814,
-        817,
-        820,
-        891
+        674,
+        678,
+        700,
+        703,
+        712,
+        715,
+        734,
+        769,
+        806,
+        815,
+        818,
+        821,
+        892
       ]
     },
     {
@@ -19935,9 +19938,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "63060567b3d53f2f70675014a3ec10c38a8d9bf26710535ff9c9515f62be27bb",
-      "bytes": 13876,
-      "lines": 58,
+      "sha256": "acb7bd5fd712d189d295cefe8cead3a601233d1bd8756a02d28d7c9dae27edbe",
+      "bytes": 14473,
+      "lines": 59,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19962,7 +19965,8 @@
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
-        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md"
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19971,7 +19975,7 @@
         33,
         34,
         36,
-        47
+        48
       ]
     },
     {
@@ -20434,9 +20438,9 @@
     },
     {
       "path": "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
-      "sha256": "2447a040e99d5d3b532b0f2510a5b83aeac8774e18a1ad9a0b76cadf3eabbc83",
-      "bytes": 12792,
-      "lines": 137,
+      "sha256": "579ff25d5c34be09be1424526ee39102f433df538ae53b0fd0e93b6129b83b9c",
+      "bytes": 13203,
+      "lines": 139,
       "title": "A branchwise opposite pair in the coherent angular echo",
       "headings": [
         "A branchwise opposite pair in the coherent angular echo",
@@ -20449,6 +20453,7 @@
         "6. What zero, by itself, still does not select"
       ],
       "local_links": [
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "verification/zero_pairwise_angular_charge.py",
         "verification/zero_pairwise_angular_charge_test.py",
@@ -20456,12 +20461,12 @@
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        7,
-        83,
-        100,
-        121,
-        127,
-        130
+        9,
+        85,
+        102,
+        123,
+        129,
+        132
       ]
     },
     {
@@ -21496,6 +21501,39 @@
       ]
     },
     {
+      "path": "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+      "sha256": "eda0de41cb0dfc7db4f29330e9fad4a639a1eacc650978850f49ccfe816e93d2",
+      "bytes": 14580,
+      "lines": 142,
+      "title": "The opposite pair as a gauge-constrained physical sector",
+      "headings": [
+        "The opposite pair as a gauge-constrained physical sector",
+        "Answer to the symmetry proposal",
+        "1. The governing idea: one zero, internal distinctions",
+        "2. The physical-sector constraints",
+        "3. No independent ready pair: the exact isometry",
+        "4. Exact local opposite values on every physical state",
+        "5. Gauge does not erase the physical signs",
+        "6. A stationary constraint, not a preferred time"
+      ],
+      "local_links": [
+        "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
+        "verification/zero_gauge_angular_pair.py",
+        "verification/zero_gauge_angular_pair_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        15,
+        17,
+        55,
+        59,
+        73,
+        77,
+        93,
+        135
+      ]
+    },
+    {
       "path": "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
       "sha256": "87d4c9fd0747019ba663c4d2939fcbc5fa49cd45080402cdd9ab04af3608c788",
       "bytes": 11821,
@@ -22499,9 +22537,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "7716d464ab0430e346dd42d24b2fe846f0505ca0d0d785659eb597ac3e8d2a00",
-      "bytes": 16740,
-      "lines": 158,
+      "sha256": "06a944ac52cdf1e5251bbbbc2c5f5ade7c61afc19caa3a7e14d37a000bfc704a",
+      "bytes": 17027,
+      "lines": 160,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -22519,6 +22557,7 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md"
@@ -22527,15 +22566,15 @@
         1,
         5,
         9,
-        57,
-        63,
-        81,
-        93,
-        103,
+        59,
+        65,
+        83,
+        95,
         105,
-        121,
-        149,
-        158
+        107,
+        123,
+        151,
+        160
       ]
     },
     {
@@ -23775,9 +23814,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "1da58bacfb43943bbdfe98cb581a2576d11b926a691036bafa5e636f68d5d659",
-      "bytes": 19800,
-      "lines": 138,
+      "sha256": "983a159ba61747f9d61e0251e6113a6d38a09949679c505358fe6cc5ce8015f0",
+      "bytes": 20163,
+      "lines": 140,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23790,6 +23829,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
@@ -23811,20 +23851,20 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        15,
+        11,
         17,
-        27,
-        58,
-        73,
-        104,
+        19,
+        29,
+        60,
+        75,
         106,
-        114,
-        117,
-        118,
+        108,
+        116,
         119,
-        126
+        120,
+        121,
+        128
       ]
     },
     {

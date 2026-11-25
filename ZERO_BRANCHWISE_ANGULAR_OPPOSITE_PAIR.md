@@ -2,6 +2,8 @@
 
 ## Result
 
+**Gauge-constrained continuation:** [the angular pair as a physical gauge sector](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) gives an alternative formulation in which the opposite pair is required throughout the physical sector, without choosing a ready-pair vector. The gauge constraints and their physical–experiential interpretation remain substantive constitutive inputs, not an external preparation story.
+
 The earlier [clock-dressed counterpart](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) paired positive and negative **physical Born weights** across different sign branches. This pass constructs a stronger, different kind of pairing on the same original quantum echo: two distinct physical model carriers have equal-and-opposite nonzero signed values **together in every supported joint record branch**. Their sum vanishes as an operator on the prepared output, not merely after averaging over signs.
 
 The carriers are two newly added value registers, each with its own angular-value register and two-level sign register. Their joint write is a reversible unitary that conserves the sum of their local signed model charges **on the whole finite pair Hilbert space**, not just on the prepared input. It is applied coherently to the actual original echo vectors. The write can be undone, allowing a closed 24-step stationary history.

@@ -10,6 +10,8 @@
 
 ## The proposal
 
+**Gauge-sector continuation:** [the angular pair as a constrained physical sector](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) removes the need to select a ready pair in the finite model; the two local signs remain gauge-invariant. The constraints themselves are not yet derived from zero.
+
 **Branchwise construction:** [two local angular charges](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) now cancel on each supported joint branch of the original coherent echo, rather than only across sign-weighted branches. The opposite pair and its physical–experiential meaning are not derived from zero by this construction.
 
 The user's idea is that, if a contribution is genuinely possible, its sign-reversed counterpart is also genuinely possible; necessary plenitude then makes both actual, so the whole can be zero **through** its internal plenitude. This is stronger and more constructive than merely saying that a zero total permits nonzero parts.
