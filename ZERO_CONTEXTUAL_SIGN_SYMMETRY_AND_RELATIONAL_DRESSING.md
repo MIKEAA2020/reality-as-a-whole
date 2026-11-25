@@ -1,5 +1,7 @@
 # A symmetry between the two signs—and a relational way to report one
 
+Follow-up: [An internal reference from an existing record—and its unavoidable trade-off](ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md) realizes the transforming reference as a logical qubit in the old sphere and record, and identifies exactly what the new sign gate does to the old record.
+
 ## Result
 
 The [previous construction](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) found two conserved signs, \(C\) and \(CB_s\), on the same old 90-dimensional orientation history. Here they are connected by an **explicit unitary that leaves the complete prepared history unchanged**, preserves the stated constraints and old sphere instrument, and exchanges the two sign observables:

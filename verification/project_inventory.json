@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 767,
-  "bytes": 9785305,
-  "line_count": 89140,
-  "document_count_with_risk_phrases": 720,
+  "document_count": 768,
+  "bytes": 9796621,
+  "line_count": 89270,
+  "document_count_with_risk_phrases": 721,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5759,9 +5759,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3f2384ffb2f551245d95891808be99c4b874bc9a6d42f8f24cbf0eeb02114030",
-      "bytes": 198827,
-      "lines": 1518,
+      "sha256": "c3a98fe42a187010eb9f6940c8b9613da9f814c4a9a79f27955d22725f95266c",
+      "bytes": 199147,
+      "lines": 1520,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6395,6 +6395,7 @@
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
         "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
@@ -7187,6 +7188,7 @@
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
+        "verification/zero_internal_contextual_reference_test.py",
         "verification/zero_internal_f_reference_transfer_test.py",
         "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_internal_reference_subject_report_test.py",
@@ -7279,19 +7281,19 @@
         483,
         581,
         597,
-        649,
-        653,
-        668,
-        671,
-        676,
-        678,
-        692,
-        727,
-        764,
-        773,
-        776,
-        779,
-        848
+        650,
+        654,
+        669,
+        672,
+        677,
+        679,
+        693,
+        728,
+        765,
+        774,
+        777,
+        780,
+        849
       ]
     },
     {
@@ -20402,9 +20404,9 @@
     },
     {
       "path": "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
-      "sha256": "439ff9fbcac44cff32f8016dc12bac62f7bf89f2e4b9975d4e52403a8378afa5",
-      "bytes": 11910,
-      "lines": 136,
+      "sha256": "10071cb5058186abc5ab4cf6d554bbeb853e3de11aec207959201ccf8af28189",
+      "bytes": 12216,
+      "lines": 138,
       "title": "A symmetry between the two signs—and a relational way to report one",
       "headings": [
         "A symmetry between the two signs—and a relational way to report one",
@@ -20417,13 +20419,15 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
         "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
         "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py"
       ],
       "risk_phrase_lines": [
-        18,
-        40,
-        127
+        3,
+        20,
+        42,
+        129
       ]
     },
     {
@@ -21124,6 +21128,33 @@
         110,
         125,
         135
+      ]
+    },
+    {
+      "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
+      "sha256": "17c0193bbb1c01b1ba890ebea8d8c7b41533a1820e2f47114bc12975066bd59d",
+      "bytes": 10690,
+      "lines": 126,
+      "title": "An internal reference from an existing record—and its unavoidable trade-off",
+      "headings": [
+        "An internal reference from an existing record—and its unavoidable trade-off",
+        "Result",
+        "1. The old source already contains the reference",
+        "2. A sharp sign using the internal reference",
+        "3. Why this does not automatically settle the gauge choice",
+        "4. The record trade-off is exact",
+        "5. Consequence for the whole-reality program",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
+        "verification/zero_internal_contextual_reference_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        23,
+        35,
+        86
       ]
     },
     {

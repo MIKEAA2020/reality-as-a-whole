@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "2f0c5d33c735401f236497e2b9ef83a9dfdf12cc",
-  "file_count": 2154,
+  "base_head": "763dd5c9ebe6d6f96e7f3cf5a144ab27f6c74c4f",
+  "file_count": 2156,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 198827,
-      "sha256": "3f2384ffb2f551245d95891808be99c4b874bc9a6d42f8f24cbf0eeb02114030"
+      "bytes": 199147,
+      "sha256": "c3a98fe42a187010eb9f6940c8b9613da9f814c4a9a79f27955d22725f95266c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3010,8 +3010,8 @@
     },
     {
       "path": "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
-      "bytes": 11910,
-      "sha256": "439ff9fbcac44cff32f8016dc12bac62f7bf89f2e4b9975d4e52403a8378afa5"
+      "bytes": 12216,
+      "sha256": "10071cb5058186abc5ab4cf6d554bbeb853e3de11aec207959201ccf8af28189"
     },
     {
       "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
@@ -3117,6 +3117,11 @@
       "path": "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
       "bytes": 14044,
       "sha256": "8ddb7e148ee6f8e8e6d8270a023cde7449ad7680796c6fcd1fd7d8cf7f3621fe"
+    },
+    {
+      "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
+      "bytes": 10690,
+      "sha256": "17c0193bbb1c01b1ba890ebea8d8c7b41533a1820e2f47114bc12975066bd59d"
     },
     {
       "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
@@ -8115,8 +8120,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 963623,
-      "sha256": "a2b164eeb95615cb93da6d6c8da7b8dc5af4a0aaf0b4eb171933957196e71293"
+      "bytes": 964840,
+      "sha256": "ef49f768b1854bcd866565df470e881382843e2c5941612c21856b770c2adfad"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10377,6 +10382,11 @@
       "path": "verification/zero_interacting_relational_first_reading_test.py",
       "bytes": 9900,
       "sha256": "459d0e58d761414f67b11bb2defe0504f9c56c306230db703992cc1584598721"
+    },
+    {
+      "path": "verification/zero_internal_contextual_reference_test.py",
+      "bytes": 7546,
+      "sha256": "11a851237c52adf58ba3ffe24c8cd8392f01c80251a0b66fc66aef3afbf98ef9"
     },
     {
       "path": "verification/zero_internal_f_reference_transfer_test.py",
