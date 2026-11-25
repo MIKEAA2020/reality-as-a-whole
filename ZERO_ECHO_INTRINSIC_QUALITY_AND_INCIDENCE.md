@@ -1,5 +1,7 @@
 # One candidate intrinsic quality through the actual sphere echo
 
+**Continuity continuation:** [Action-flow and two continuous stationary sphere histories](ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md) tests whether an added continuous relational flow is uniquely fixed by the same recorded echo and calculates its effect on these candidate signs.
+
 ## Result: a conditional selection, and its exact cost
 
 The proposed next step was to use the **existing** sphere construction to connect a persistent subject boundary, felt quality, and incidence measure, rather than adding another clock or simply restating that the bridges are open. The most constructive result is a uniqueness theorem for one candidate quality on one candidate boundary:

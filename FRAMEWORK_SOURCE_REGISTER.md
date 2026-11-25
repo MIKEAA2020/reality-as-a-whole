@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 747 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 679 verification Python scripts.
+- 748 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 680 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -596,6 +596,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md](YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md) — The uploaded 7T jhāna study: primary-source reading
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
+- [ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md](ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md) — Action-flow, a timeless whole, and two continuous sphere histories
 - [ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md](ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md) — A nontrivial relational history inside the complementary-zero kernel
 - [ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md](ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md) — An exact all-sector record involution: balanced incidences without exchanging unequal sectors
 - [ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md) — The full paired state: clock and work records without discarding a sector
@@ -1427,6 +1428,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/workspace_algebra_bridge.py](verification/workspace_algebra_bridge.py)
 - [verification/workspace_intervention_audit.py](verification/workspace_intervention_audit.py)
 - [verification/yukawa_seesaw_ckm.py](verification/yukawa_seesaw_ckm.py)
+- [verification/zero_action_flow_continuous_stationary_echo_test.py](verification/zero_action_flow_continuous_stationary_echo_test.py)
 - [verification/zero_all_sector_branchwise_balance_test.py](verification/zero_all_sector_branchwise_balance_test.py)
 - [verification/zero_all_sector_noncommuting_sphere_test.py](verification/zero_all_sector_noncommuting_sphere_test.py)
 - [verification/zero_all_sector_record_involution_test.py](verification/zero_all_sector_record_involution_test.py)

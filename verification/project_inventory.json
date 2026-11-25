@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 790,
-  "bytes": 10119575,
-  "line_count": 91917,
-  "document_count_with_risk_phrases": 743,
+  "document_count": 791,
+  "bytes": 10134354,
+  "line_count": 92049,
+  "document_count_with_risk_phrases": 744,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5794,9 +5794,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8b9cbf04fab6bcb01b377df1b1d69b3a764216120387baba80912df7ff9e8628",
-      "bytes": 205899,
-      "lines": 1566,
+      "sha256": "3650ad4ac67d9beb2d9f736acfe0e9c1e5f8caa1e7910b14450cf024d710834a",
+      "bytes": 206208,
+      "lines": 1568,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6394,6 +6394,7 @@
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
         "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
         "YUKAWA_SEESAW_CKM.md",
+        "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
         "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
         "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
@@ -7211,6 +7212,7 @@
         "verification/workspace_algebra_bridge.py",
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
+        "verification/zero_action_flow_continuous_stationary_echo_test.py",
         "verification/zero_all_sector_branchwise_balance_test.py",
         "verification/zero_all_sector_noncommuting_sphere_test.py",
         "verification/zero_all_sector_record_involution_test.py",
@@ -7361,20 +7363,20 @@
         416,
         484,
         583,
-        600,
-        663,
-        667,
-        686,
-        689,
-        694,
-        696,
-        715,
-        750,
-        787,
-        796,
-        799,
-        802,
-        873
+        601,
+        664,
+        668,
+        687,
+        690,
+        695,
+        697,
+        716,
+        751,
+        788,
+        797,
+        800,
+        803,
+        874
       ]
     },
     {
@@ -19969,6 +19971,35 @@
       ]
     },
     {
+      "path": "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
+      "sha256": "eb6f0fedcedbf2fe178fc7df39866650a9dea697cf7127bd5bad77246d0bbac0",
+      "bytes": 13940,
+      "lines": 128,
+      "title": "Action-flow, a timeless whole, and two continuous sphere histories",
+      "headings": [
+        "Action-flow, a timeless whole, and two continuous sphere histories",
+        "Result",
+        "1. What the linked model says—and what it does not",
+        "2. The original sphere history is the common input",
+        "3. Two continuous generators, the same recorded steps",
+        "4. Put the comparison inside a stationary whole",
+        "5. A quantitative distinction at the physical interface",
+        "6. Continuity, subjectivity, and the no-residue aim"
+      ],
+      "local_links": [
+        "verification/zero_action_flow_continuous_stationary_echo_test.py",
+        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        19,
+        73,
+        103,
+        105,
+        111
+      ]
+    },
+    {
       "path": "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
       "sha256": "1abd67433153a962f1d1469a9318d92c016c2914a34ae09b927ffb23f8749eb6",
       "bytes": 10835,
@@ -20638,8 +20669,8 @@
     },
     {
       "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
-      "sha256": "3376a716be49f36913e08278a67d3758702e910e1128a25af0443f70e7d63844",
-      "bytes": 15320,
+      "sha256": "78a9ea4e358cf661ccaa3f6d28894d66d65348d30a345041d4db46a953c254c7",
+      "bytes": 15563,
       "lines": 89,
       "title": "Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits",
       "headings": [
@@ -20653,6 +20684,7 @@
       ],
       "local_links": [
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
+        "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
         "verification/zero_structural_time_data_echo_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
@@ -20776,9 +20808,9 @@
     },
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
-      "sha256": "43459fa9a89727a551ee672868ab2348fbfc1c5c0687fa73c65a8281b31a0ee1",
-      "bytes": 16262,
-      "lines": 139,
+      "sha256": "bacdd5eba252c13008099fe7db21c4890b844041d401ee4d9b4687654bd475ea",
+      "bytes": 16549,
+      "lines": 141,
       "title": "One candidate intrinsic quality through the actual sphere echo",
       "headings": [
         "One candidate intrinsic quality through the actual sphere echo",
@@ -20791,6 +20823,7 @@
         "6. The incidence measure: no hidden choice in a zero sum"
       ],
       "local_links": [
+        "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
@@ -20798,16 +20831,17 @@
       ],
       "risk_phrase_lines": [
         3,
-        7,
+        5,
         9,
-        15,
-        36,
-        60,
-        86,
-        120,
+        11,
+        17,
+        38,
+        62,
+        88,
         122,
-        128,
-        130
+        124,
+        130,
+        132
       ]
     },
     {
