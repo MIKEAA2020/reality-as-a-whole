@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 769,
-  "bytes": 9810123,
-  "line_count": 89344,
-  "document_count_with_risk_phrases": 722,
+  "document_count": 770,
+  "bytes": 9822853,
+  "line_count": 89431,
+  "document_count_with_risk_phrases": 723,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5760,9 +5760,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "483928cc8a1619670570ac1fa690df323c53d85b4a07443dff8ce184d7b1ba61",
-      "bytes": 199458,
-      "lines": 1522,
+      "sha256": "120310163b2a7a86520d241a6b34a14ac63a105d1c02e7d01a6f98a0da0b3b8e",
+      "bytes": 199772,
+      "lines": 1524,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6401,6 +6401,7 @@
         "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
+        "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
@@ -7195,6 +7196,7 @@
         "verification/zero_internal_f_reference_transfer_test.py",
         "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_internal_reference_subject_report_test.py",
+        "verification/zero_internal_reference_subject_valence_candidates_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
@@ -7284,19 +7286,19 @@
         483,
         581,
         598,
-        651,
-        655,
-        670,
-        673,
-        678,
-        680,
-        694,
-        729,
-        766,
-        775,
-        778,
-        781,
-        850
+        652,
+        656,
+        671,
+        674,
+        679,
+        681,
+        695,
+        730,
+        767,
+        776,
+        779,
+        782,
+        851
       ]
     },
     {
@@ -21162,9 +21164,9 @@
     },
     {
       "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
-      "sha256": "17c0193bbb1c01b1ba890ebea8d8c7b41533a1820e2f47114bc12975066bd59d",
-      "bytes": 10690,
-      "lines": 126,
+      "sha256": "97d223031c6aff7e9b5e0a321a9d5ee8bd740ed66f18b4bb6b850d056d6cc7ab",
+      "bytes": 11127,
+      "lines": 130,
       "title": "An internal reference from an existing record—and its unavoidable trade-off",
       "headings": [
         "An internal reference from an existing record—and its unavoidable trade-off",
@@ -21174,11 +21176,12 @@
         "3. Why this does not automatically settle the gauge choice",
         "4. The record trade-off is exact",
         "5. Consequence for the whole-reality program",
-        "Reproduce"
+        "Subsequent common-domain subject comparison"
       ],
       "local_links": [
         "ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md",
-        "verification/zero_internal_contextual_reference_test.py"
+        "verification/zero_internal_contextual_reference_test.py",
+        "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -21287,6 +21290,36 @@
         142,
         148,
         157
+      ]
+    },
+    {
+      "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
+      "sha256": "abf712ee6f72993589509431e209382ab23ca9b19a39e82081d2c09456ef932d",
+      "bytes": 11979,
+      "lines": 81,
+      "title": "One disturbed history, two experiential bridges",
+      "headings": [
+        "One disturbed history, two experiential bridges",
+        "1. Common carrier and the extra premises",
+        "2. Actual post-gate joint distribution",
+        "3. Gauge, counterparts and persistence",
+        "4. Access: an exact conditional limit, not a consciousness test",
+        "5. What zero and necessary plenitude do—and do not—select",
+        "6. Next constructive target"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
+        "verification/zero_internal_reference_subject_valence_candidates_test.py",
+        "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        41,
+        53,
+        71,
+        77,
+        81
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 726 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 658 verification Python scripts.
+- 727 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 659 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -637,6 +637,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md](ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md) — Sourcing F internally—and tracking the orientation it displaces
 - [ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md](ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md) — An internal reference pair from the original paired state
 - [ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md](ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md) — A reference from the paired state, and what a confined subject could report
+- [ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md](ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md) — One disturbed history, two experiential bridges
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
 - [ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) — A conservation-preserving instrument for the internal sphere
 - [ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md](ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md) — From chosen orientations to isotropic zero—and a test of plenitude
@@ -1445,6 +1446,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_internal_f_reference_transfer_test.py](verification/zero_internal_f_reference_transfer_test.py)
 - [verification/zero_internal_pair_sphere_report_test.py](verification/zero_internal_pair_sphere_report_test.py)
 - [verification/zero_internal_reference_subject_report_test.py](verification/zero_internal_reference_subject_report_test.py)
+- [verification/zero_internal_reference_subject_valence_candidates_test.py](verification/zero_internal_reference_subject_valence_candidates_test.py)
 - [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)
 - [verification/zero_isotropic_singlet_history_test.py](verification/zero_isotropic_singlet_history_test.py)

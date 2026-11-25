@@ -116,6 +116,10 @@ This is a concrete way to strengthen the internal connections: an existing corre
 
 Nothing in the construction equates a pointer sign with positive or negative **felt** experience. The selected gauge extension, observer access, causal role of the record, subject incidence, and correspondence to phenomenal quality are not derived. Nor do paired Born probabilities establish necessary plenitude or a globally additive experiential cancellation. A local suffering experience, if present, is not removed by a compensating formal sign. The result is progress on internal self-sufficiency of a finite relational mechanism, not a claim that the proposed zero constitution or objective whole-energy has been derived.
 
+## Subsequent common-domain subject comparison
+
+[One disturbed history, two experiential bridges](ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md) tests two explicit conditional quality assignments on all 16 histories. Both are compatible with the stated dressed gauge and Born-weighted mirror balance, but disagree after this disturbance on one quarter of the weight; their access and subject-incidence assumptions are separate.
+
 ## Reproduce
 
 ```sh

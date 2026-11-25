@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "36a9084b4f21da1186779bcd76aaba4e6b240c01",
-  "file_count": 2158,
+  "base_head": "aec03203866a4404f7756b630cbaa78ca26a9dff",
+  "file_count": 2160,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 199458,
-      "sha256": "483928cc8a1619670570ac1fa690df323c53d85b4a07443dff8ce184d7b1ba61"
+      "bytes": 199772,
+      "sha256": "120310163b2a7a86520d241a6b34a14ac63a105d1c02e7d01a6f98a0da0b3b8e"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3125,8 +3125,8 @@
     },
     {
       "path": "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
-      "bytes": 10690,
-      "sha256": "17c0193bbb1c01b1ba890ebea8d8c7b41533a1820e2f47114bc12975066bd59d"
+      "bytes": 11127,
+      "sha256": "97d223031c6aff7e9b5e0a321a9d5ee8bd740ed66f18b4bb6b850d056d6cc7ab"
     },
     {
       "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
@@ -3142,6 +3142,11 @@
       "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
       "bytes": 14844,
       "sha256": "48c4603761a9320e66b170691387b71757eca0623aa52b49e737128074f7310e"
+    },
+    {
+      "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
+      "bytes": 11979,
+      "sha256": "abf712ee6f72993589509431e209382ab23ca9b19a39e82081d2c09456ef932d"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -8130,8 +8135,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 966057,
-      "sha256": "e1e11dee52b42463b09b679358271546ef4d945f68f0b7505b486d756c0b1b56"
+      "bytes": 968637,
+      "sha256": "81dce779b3800cff91d06ba8f314ae295fbcecb729cca82b81fdad6c2df3b4b9"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10412,6 +10417,11 @@
       "path": "verification/zero_internal_reference_subject_report_test.py",
       "bytes": 10417,
       "sha256": "24935d7edd839192948e36257488cc0881d43f5f4d0189d1c8a1fe76a06f7776"
+    },
+    {
+      "path": "verification/zero_internal_reference_subject_valence_candidates_test.py",
+      "bytes": 8160,
+      "sha256": "bac0b0a5281e9d2cffeea96a84e13dd96ae53d63900fb6a512405561a1b5c81c"
     },
     {
       "path": "verification/zero_invariant_all_history_record_clock_test.py",
