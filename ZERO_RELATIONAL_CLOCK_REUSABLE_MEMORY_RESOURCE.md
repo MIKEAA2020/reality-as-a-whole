@@ -111,6 +111,10 @@ This construction puts an actual disturbed sphere history, a gauge-compatible se
 
 A substantive next extension would replace the three already-existing correlated signs with a longer stream of genuinely new source interactions inside the constraint, and compare a finite tape with a separately modeled reservoir or renewable low-entropy supply. That requires a specified subsystem interface, actual energy/heat accounting and a clock good enough for the relevant interval; it must not smuggle an infinite blank tape or external driver into the proposed closed whole.
 
+## Subsequent finite-reservoir extension
+
+[Finite reservoir and reusable memory inside the sphere history](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) adds three fresh sources, an old-sphere interface, thermal reservoir bits, an explicit finite energy store and a fourteen-tick constraint. It calculates record fidelity, energy and entropy flows and the disturbance of the original sphere-state marginal.
+
 ## Reproduce
 
 ```sh

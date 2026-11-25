@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 774,
-  "bytes": 9878027,
-  "line_count": 89947,
-  "document_count_with_risk_phrases": 727,
+  "document_count": 775,
+  "bytes": 9892529,
+  "line_count": 90094,
+  "document_count_with_risk_phrases": 728,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "031ac77e0620f3a9a391ed3e51704ebfb7c8e38e356e4ab616744e12250e9c1b",
-      "bytes": 200923,
-      "lines": 1532,
+      "sha256": "c2ff4ef4d9a076f4a8f98c31e5729c4790b48f8034657ce2bb26442f4707bf92",
+      "bytes": 201208,
+      "lines": 1534,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6420,6 +6420,7 @@
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
+        "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
@@ -7202,6 +7203,7 @@
         "verification/zero_autonomous_two_window_records_test.py",
         "verification/zero_balanced_reference_preparation_test.py",
         "verification/zero_celestial_geometry_test.py",
+        "verification/zero_clock_finite_reservoir_reuse_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_conserving_sphere_handedness_report_test.py",
@@ -7327,19 +7329,19 @@
         484,
         582,
         599,
-        654,
-        658,
-        675,
-        678,
-        683,
-        685,
-        699,
-        734,
-        771,
-        780,
-        783,
-        786,
-        855
+        655,
+        659,
+        676,
+        679,
+        684,
+        686,
+        700,
+        735,
+        772,
+        781,
+        784,
+        787,
+        856
       ]
     },
     {
@@ -20855,6 +20857,31 @@
       ]
     },
     {
+      "path": "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
+      "sha256": "132cdc65453b7891d7b4d8ffb20885c8a0d8703607071e229364efaff836f2d9",
+      "bytes": 13806,
+      "lines": 141,
+      "title": "A finite reservoir and reusable memory inside the sphere history",
+      "headings": [
+        "A finite reservoir and reusable memory inside the sphere history",
+        "1. Add independent sources—and actually connect them to the sphere",
+        "2. A finite memory, Gibbs reservoir and internal energy store",
+        "3. The whole clock history",
+        "4. Forward record and energy ledger",
+        "5. Energy, entropy and the actual meaning of “heat”",
+        "6. Comparison and what it establishes",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
+        "verification/zero_clock_finite_reservoir_reuse_test.py"
+      ],
+      "risk_phrase_lines": [
+        3,
+        110
+      ]
+    },
+    {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
       "sha256": "db0e0d0ed67b79b0770d4527405eac1a4f65ac0515a5c08a881448dd52cf8bf5",
       "bytes": 17343,
@@ -22390,9 +22417,9 @@
     },
     {
       "path": "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
-      "sha256": "e62614f53f11fcfc240311a21bef594f6d22df611c24a36f1fb3114f5481e0cc",
-      "bytes": 12741,
-      "lines": 121,
+      "sha256": "55d928980aed5af8edd4df9dd9511a7a380fd95d17ee56088eb53b94cb49f110",
+      "bytes": 13152,
+      "lines": 125,
       "title": "A reusable memory inside one constrained clock history",
       "headings": [
         "A reusable memory inside one constrained clock history",
@@ -22402,12 +22429,13 @@
         "4. The arrow and the meaning of reset",
         "5. Mirror symmetry survives the actual memory history",
         "6. Consequence",
-        "Reproduce"
+        "Subsequent finite-reservoir extension"
       ],
       "local_links": [
         "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
         "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
-        "verification/zero_relational_clock_reusable_memory_test.py"
+        "verification/zero_relational_clock_reusable_memory_test.py",
+        "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md"
       ],
       "risk_phrase_lines": [
         3,

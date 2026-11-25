@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 731 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 663 verification Python scripts.
+- 732 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 664 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -623,6 +623,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
+- [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
 - [ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md](ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md) — The geometry-clock question: what can a continuum slice recover?
 - [ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md](ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md) — Full continuum geometry-slice map for the interacting model
@@ -1419,6 +1420,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_autonomous_two_window_records_test.py](verification/zero_autonomous_two_window_records_test.py)
 - [verification/zero_balanced_reference_preparation_test.py](verification/zero_balanced_reference_preparation_test.py)
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
+- [verification/zero_clock_finite_reservoir_reuse_test.py](verification/zero_clock_finite_reservoir_reuse_test.py)
 - [verification/zero_confined_realms_interface_test.py](verification/zero_confined_realms_interface_test.py)
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
 - [verification/zero_conserving_sphere_handedness_report_test.py](verification/zero_conserving_sphere_handedness_report_test.py)
