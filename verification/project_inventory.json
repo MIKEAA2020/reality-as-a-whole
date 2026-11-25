@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 780,
-  "bytes": 9974403,
-  "line_count": 90763,
-  "document_count_with_risk_phrases": 733,
+  "document_count": 781,
+  "bytes": 9990273,
+  "line_count": 90929,
+  "document_count_with_risk_phrases": 734,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "508b4286c9927624b39fbf9b233fb787c9ebcff92ec520dc7c31059125ab9f94",
-      "bytes": 202873,
-      "lines": 1545,
+      "sha256": "34e2d1d509101a784911dddc58790a6ec58a9e618fd895be596b434b46038be4",
+      "bytes": 203163,
+      "lines": 1547,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6427,6 +6427,7 @@
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
@@ -7229,6 +7230,7 @@
         "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
+        "verification/zero_identity_pair_incidence_record_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_incidence_refinement_born_test.py",
@@ -7340,19 +7342,19 @@
         484,
         583,
         600,
-        657,
-        661,
-        678,
-        681,
-        686,
-        688,
-        705,
-        740,
-        777,
-        786,
-        789,
-        792,
-        862
+        658,
+        662,
+        679,
+        682,
+        687,
+        689,
+        706,
+        741,
+        778,
+        787,
+        790,
+        793,
+        863
       ]
     },
     {
@@ -21090,6 +21092,40 @@
       ]
     },
     {
+      "path": "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
+      "sha256": "eb4f574180b4204a08fd1a891f2b8387019bdcbee3137539cc2f8b182d5648c8",
+      "bytes": 14873,
+      "lines": 160,
+      "title": "Can an actual zero-balanced pair determine incidence weights?",
+      "headings": [
+        "Can an actual zero-balanced pair determine incidence weights?",
+        "Result",
+        "1. The identity pairing is already inside the sphere history",
+        "2. A concrete equal-weight proposal—and its extra content",
+        "3. The physical flag gives a strong consistency test",
+        "4. An explicit coherent witness",
+        "5. The actual 20-tick record and coherence ledger",
+        "6. Is the equal flag a symmetry of the *whole* proposal?"
+      ],
+      "local_links": [
+        "verification/zero_identity_pair_incidence_record_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        35,
+        41,
+        56,
+        115,
+        119,
+        131,
+        148
+      ]
+    },
+    {
       "path": "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
       "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d",
       "bytes": 9286,
@@ -21573,9 +21609,9 @@
     },
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
-      "sha256": "95e6d927012d4ba0e4204683f9d34fd754ba8e4d87d2055a5a29c0d95d163df3",
-      "bytes": 16694,
-      "lines": 161,
+      "sha256": "0e181d5e58c09dceb981246cb4d35f11a6d859884512d91d5ee03feed0c14870",
+      "bytes": 17063,
+      "lines": 163,
       "title": "One history, two candidate incidences: constitution, measure and echo",
       "headings": [
         "One history, two candidate incidences: constitution, measure and echo",
@@ -21591,12 +21627,14 @@
         "verification/zero_joint_constitution_incidence_echo_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
-        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
         12,
         69,
-        81
+        81,
+        154
       ]
     },
     {
@@ -21845,9 +21883,9 @@
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
-      "sha256": "6d94136b1cf49bac157c1ed3b697eca1fdbc39e5a6239dc023187623e57d20f2",
-      "bytes": 15752,
-      "lines": 152,
+      "sha256": "5eff18e2e53c1ba1d71929538f80ea9c0666e12c8bfa92d1c161101cca4ae3c1",
+      "bytes": 16090,
+      "lines": 154,
       "title": "Necessary plenitude as sign pairing: an exact construction",
       "headings": [
         "Necessary plenitude as sign pairing: an exact construction",
@@ -21861,6 +21899,7 @@
       ],
       "local_links": [
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
@@ -21869,16 +21908,16 @@
       "risk_phrase_lines": [
         1,
         3,
-        5,
-        51,
-        57,
-        75,
-        87,
-        97,
+        7,
+        53,
+        59,
+        77,
+        89,
         99,
-        115,
-        143,
-        152
+        101,
+        117,
+        145,
+        154
       ]
     },
     {

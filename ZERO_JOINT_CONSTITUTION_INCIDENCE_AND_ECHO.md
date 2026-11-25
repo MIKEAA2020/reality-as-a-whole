@@ -151,6 +151,8 @@ The constructive option of co-actualizing both candidates is coherent under expl
 
 This is not the requested no-residue derivation. The candidate still stipulates physical inputs, eligible and persisting subjects, a bridge to valence, occurrence identity, the incidence algebra and equal-unit weighting. Conversely, the counterexamples are not proofs that multiple complete self-sufficient constitutions are genuinely possible; one might be selected, equivalent to another under a fuller justified relation, or not genuinely possible. The stronger thesis that zero's own constitution settles all of these remains a substantive constructive target. What has been achieved is a specific consistency constraint that any such derivation must satisfy, not a claim of final closure.
 
+**Continuation:** [Identity pairing, a physical flag and incidence](ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md) uses the actual sphere-coupled Bell pair to construct an equal physical flag, and proves the incompatibility between sharp flag-identified types, all-effects additive coarsening to the same pure physical state, and both types having nonzero weight.
+
 ## Reproduce
 
 ```sh
