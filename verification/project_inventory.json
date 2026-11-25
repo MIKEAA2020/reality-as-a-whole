@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 796,
-  "bytes": 10198365,
-  "line_count": 92466,
-  "document_count_with_risk_phrases": 749,
+  "document_count": 800,
+  "bytes": 10237020,
+  "line_count": 92742,
+  "document_count_with_risk_phrases": 753,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -3261,9 +3261,9 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "sha256": "25ace52abdb0a30dc7e2af42930140476df078cec01704374a28fb7b419c95ae",
-      "bytes": 44324,
-      "lines": 271,
+      "sha256": "c3ae96afa8d24cbb4a1ead968820404d1ecf6bb23696d68103f6ca2633e27da3",
+      "bytes": 44803,
+      "lines": 273,
       "title": "Self-Existent Experiential Plenitude",
       "headings": [
         "Self-Existent Experiential Plenitude",
@@ -3276,6 +3276,7 @@
         "6. Emergent time, fields and gravity"
       ],
       "local_links": [
+        "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
         "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
         "DENIS_NOBLE_ORDER_DISORDER_EVOLUTION_AND_EXPERIENCE_AUDIT.md",
         "CONTEXT_GATED_VARIABILITY_CAUSAL_IDENTIFICATION_GATE.md",
@@ -3337,11 +3338,11 @@
         "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md"
       ],
       "risk_phrase_lines": [
-        25,
-        125,
-        223,
-        253,
-        261
+        27,
+        127,
+        225,
+        255,
+        263
       ]
     },
     {
@@ -5798,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bbbf865f1b29e029bb5bcb04e40cfe69abc6cea061dd1aa0b42500490e1e7a51",
-      "bytes": 207674,
-      "lines": 1578,
+      "sha256": "ad292b65f1ac1f8b672ccb79be28f66c3c2f7dcf0fc5a68b5373ebde0db95078",
+      "bytes": 209313,
+      "lines": 1590,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6394,6 +6395,7 @@
         "WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md",
         "WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md",
         "WEYL2_CONFORMAL_ANOMALY_CC.md",
+        "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
         "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
@@ -6497,7 +6499,10 @@
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
+        "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
+        "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
         "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
@@ -6710,6 +6715,7 @@
         "verification/brain_centric_blockworld_gates.py",
         "verification/bryan_medved_relational_time_claims_test.py",
         "verification/build_framework_inventory.py",
+        "verification/build_source_repass_tracker.py",
         "verification/cardiac_feedback_pain_predictions.py",
         "verification/cardiac_pain_xml_crosscheck.py",
         "verification/carreira_gonzalo_age_curvature_constraint_test.py",
@@ -7128,6 +7134,7 @@
         "verification/shlaer_time_comparison.py",
         "verification/smooth_field_clock.py",
         "verification/smooth_switched_locality_gate.py",
+        "verification/source_repass_tracker_test.py",
         "verification/specific_pathway_observability.py",
         "verification/spectral_action_bounce.py",
         "verification/spectral_action_finite_sm.py",
@@ -7338,6 +7345,12 @@
         "verification/zero_spin_reversal_sign_selection_test.py",
         "verification/zero_stationary_battery_bridge.py",
         "verification/zero_stationary_battery_bridge_test.py",
+        "verification/zero_stationary_clock_claim_quality.py",
+        "verification/zero_stationary_clock_claim_quality_test.py",
+        "verification/zero_stationary_refinement_self_location.py",
+        "verification/zero_stationary_refinement_self_location_test.py",
+        "verification/zero_stationary_subject_incidence.py",
+        "verification/zero_stationary_subject_incidence_test.py",
         "verification/zero_stationary_whole_unique_history_test.py",
         "verification/zero_structural_time_data_echo_test.py",
         "verification/zero_structural_time_stationary_two_clock_test.py",
@@ -7377,20 +7390,20 @@
         416,
         484,
         584,
-        602,
-        665,
-        669,
-        690,
-        693,
-        699,
-        702,
-        721,
-        756,
-        793,
-        802,
-        805,
-        808,
-        879
+        603,
+        666,
+        670,
+        691,
+        694,
+        703,
+        706,
+        725,
+        760,
+        797,
+        806,
+        809,
+        812,
+        883
       ]
     },
     {
@@ -19895,6 +19908,35 @@
       ]
     },
     {
+      "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
+      "sha256": "30ec3ff4a1c5279c758b99b809953034cd869d8a41f11ec72fbcc555933d5423",
+      "bytes": 9682,
+      "lines": 51,
+      "title": "Whole-chat multi-pass integration workboard",
+      "headings": [
+        "Whole-chat multi-pass integration workboard",
+        "Aim and scope",
+        "The source-to-framework workflow",
+        "Work actually completed in the present repass",
+        "Research queue: bring the remaining families into the same constitution",
+        "Updating and verification"
+      ],
+      "local_links": [
+        "FRAMEWORK_SOURCE_REGISTER.md",
+        "verification/source_repass_progress.json",
+        "verification/framework_inventory_manifest.json",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+        "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
+        "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        16,
+        40
+      ]
+    },
+    {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
       "sha256": "949272408179cb800b77ac9358a0c1525e6dead13f3b8493b78a07e8dfe114ea",
       "bytes": 11109,
@@ -23228,6 +23270,60 @@
       ]
     },
     {
+      "path": "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
+      "sha256": "109c96ec1fc6f6044cb25f50525362739ecbd94c4d393e140ca96c5aa032ff18",
+      "bytes": 6519,
+      "lines": 55,
+      "title": "Source integration, third pass: Bostrom's self-location structure on the same sphere",
+      "headings": [
+        "Source integration, third pass: Bostrom's self-location structure on the same sphere",
+        "Audit → adapt → implement",
+        "1. One physical event, several descriptions",
+        "2. Conditional self-location once a candidate incidence measure is specified",
+        "3. What the batch contributes—and its limits"
+      ],
+      "local_links": [
+        "sources/uploads/Bostrom's simulation hypothesis.md",
+        "SIMULATION_ZERO_RESIDUE_ATTACHMENT_AUDIT.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+        "verification/zero_stationary_refinement_self_location.py",
+        "verification/zero_stationary_refinement_self_location_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        13,
+        20
+      ]
+    },
+    {
+      "path": "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
+      "sha256": "97cb2e682686d66cfa7075e35e3e06e94d13683e245a5deec7e3ca152e19828f",
+      "bytes": 7488,
+      "lines": 61,
+      "title": "Source integration, fourth pass: clocks, realm access and a joint echo constraint",
+      "headings": [
+        "Source integration, fourth pass: clocks, realm access and a joint echo constraint",
+        "A constructive question across the existing sources",
+        "1. Audit and plan",
+        "2. The joint event yields a sharper constraint",
+        "3. The two internal clocks yield different joint tables",
+        "4. Access and next constitutional job"
+      ],
+      "local_links": [
+        "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
+        "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
+        "verification/zero_stationary_clock_claim_quality.py",
+        "verification/zero_stationary_clock_claim_quality_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        27,
+        39,
+        54
+      ]
+    },
+    {
       "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
       "sha256": "5877ed4545a8ee2049717846ce0d84ed49ad2e636a448a02835c70400835fdd7",
       "bytes": 11042,
@@ -23256,6 +23352,41 @@
         9,
         59,
         72
+      ]
+    },
+    {
+      "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+      "sha256": "4f86e04b6b9a3c94d6b6962157fe85245b1dba2c7fb4c1e76595d86f4363adb4",
+      "bytes": 12363,
+      "lines": 95,
+      "title": "Source integration, second pass: subject incidence on the stationary sphere",
+      "headings": [
+        "Source integration, second pass: subject incidence on the stationary sphere",
+        "The constructive question",
+        "1. Audit and adaptation, before implementation",
+        "2. A concrete physical swap, not just a type-label swap",
+        "3. Apply Bohn/Lewtas/Miller distinctions to incidence types",
+        "4. What is genuinely gained, and what remains to derive",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+        "verification/zero_stationary_subject_incidence.py",
+        "verification/zero_stationary_subject_incidence_test.py",
+        "BOHN_PLURAL_COLLECTIVE_CONSCIOUSNESS_FULL_PAPER_AUDIT.md",
+        "sources/uploads/bohn2018.pdf",
+        "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+        "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md",
+        "sources/uploads/miller2017.pdf",
+        "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md"
+      ],
+      "risk_phrase_lines": [
+        23,
+        74,
+        80
       ]
     },
     {
@@ -23323,8 +23454,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "ce5fdb7d3c2839aa5b98471cfb983926f2704cfa2190cf248a43482a969c6ddb",
-      "bytes": 16818,
+      "sha256": "bfd62cb6d7155ca48b629a5c6c5bbab08dc466a717fe9997be8eda9707a2fd5d",
+      "bytes": 17303,
       "lines": 128,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
@@ -23339,6 +23470,9 @@
       ],
       "local_links": [
         "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+        "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
+        "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
         "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",

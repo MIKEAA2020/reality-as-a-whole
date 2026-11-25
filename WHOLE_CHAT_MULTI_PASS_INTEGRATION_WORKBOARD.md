@@ -1,0 +1,51 @@
+# Whole-chat multi-pass integration workboard
+
+## Aim and scope
+
+The user's instruction is to take the time for **multiple passes across all documents and inputs from the entire chat**: audit source claims; plan what to carry over intact or with corrections; implement the surviving ideas in the common work; check the results; and revisit earlier integrations when new material changes them. This is a continuing research programme, not an instruction to treat an audit as completion or to assume every source must be incorporated without correction.
+
+**Availability limit:** the repository, its history and the current conversation context are available, but they do not provide a verified verbatim copy of every prior chat message or every original external source. The preserved record includes [uploads and research documents](FRAMEWORK_SOURCE_REGISTER.md), PSR-5 records, repository notes and verifiers. The machine-readable [repass tracker](verification/source_repass_progress.json) enumerates every available repository Markdown document and every preserved file under `sources/` and `psr-5 battery/`. The [full repository manifest](verification/framework_inventory_manifest.json) additionally enumerates code and other tracked/non-ignored files. Neither proves that everything ever supplied in chat has survived.
+
+A tracker entry marked **partial** means there is a cited audit, plan, or implemented contribution for the specified part of that source. It never means the whole document is exhausted. **Unassessed in this repass** means precisely that: it does not erase the extensive earlier work or assert that the source was never read. All automatic hashes and categories are mechanical, not semantic checks. Provenance JSON and supplementary data are included as artifacts, not silently counted as independent papers. A previously cited Lewtas PDF is not in the tracked uploads; its historical audit says it was in an ignored private cache. If that original is unavailable, the audit remains useful but is not a substitute for rechecking the primary PDF.
+
+## The source-to-framework workflow
+
+For each substantive source or coherent source family:
+
+1. **Recover and audit:** identify the actual input and original user request when preserved; separate the user's own argument from other assistants' claims. Check relevant mathematics, empirical scope, provenance and corrections. Historical claims can be false; the latest explicit user clarifications govern the project direction.
+2. **Plan and adapt:** state exactly what advances one common point–sphere/zero constitution, what requires modification, how it joins existing components and which assumptions are being added. Distinguish constructively useful but genuinely different ontology from an actual conflict. Do not use the absence of a full derivation to discard a potentially useful idea.
+3. **Implement and check:** add a specific model, proof, physical protocol, calculation or integrated argument in the common candidate, with source trace and tests where appropriate. A research to-do list alone is not implementation. A model check is not automatically an empirical, consciousness or external-battery pass.
+4. **Revisit and integrate:** test interactions with previous components, include counterexamples and controls, preserve intended realm confinement and genuinely plural subjects, and update the governing candidate without silently changing a frozen packet or implying post-hoc registration.
+
+The objective remains the user's **no-unexplained-residue** constitution, including physical and experiential determination together. The tracker does not declare that a disclosed open premise is an acceptable stopping point.
+
+## Work actually completed in the present repass
+
+| Pass | Source inputs audited/adapted | Implemented on the same candidate | What remains |
+|---|---|---|---|
+| 1 | PSR-5 interface design, Page–Wootters stationary observables, TIME/DATA distinctions | [Stationary claim, target, preflight and quality effects](ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md), checked at all old ticks against the pre-existing ledger | Full source-by-source coverage; subject/experience, actual measure, physical and no-residue constitution; no new battery pass claimed |
+| 2 | Bohn on plural properties, Lewtas on choosing/placing/blending, Miller on subject-relative boundaries, user sign pairing | [Stationary physical-and-type incidence symmetry](ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md) on the **same** reduced echo, selecting equal type weights under a specific additional invariance premise | Derive or justify that premise, real subject/quality and the symmetry's validity in the full physical system; Lewtas primary PDF not verified available in current repo |
+| 3 | The user's Bostrom-derived self-location question, prior refinement analysis | [Coarse/fine reference-class calculation](ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md) on the **same** echo and two incidence types, with no literal simulation ontology | Determine actual incidences, their equivalence/refinement rules, and why the candidate measure and conditionalization apply |
+| 4 | TIME/DATA clock map, Page–Wootters joint observables, Kent's location-sensitive record access and the user's realm distinction | [Joint claim/quality and two-clock calculation](ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md) on the same echo; adapts Kent's access constraint but does not implement his cone rule | Derive geometry, actual access and subject/report relations; integrate Kent's specific relativistic prescription only if its background assumptions are justified |
+
+These passes are **partial integrations**, not a claim that all aspects of these inputs are finished. The tracker records conservative source-specific examples, not all historical integrations; it should be expanded with evidence as each is verified.
+
+## Research queue: bring the remaining families into the same constitution
+
+The rows define coherent batches, **not** a claim they have already been reviewed and completed. Individual documents may contribute to several rows; record each precise source and implementation rather than inferring coverage from a name match.
+
+| Batch | Sources and prior work to revisit | Integration job |
+|---|---|---|
+| Intrinsic experience, non-optimality and valence | DeepSeek experience and Russellian exports, `UPDATED_EXPERIENCE_*`, source-specific empirical affect work | Fix a common candidate's genuine plural subject, intrinsic/extrinsic relation and signed experience law; connect to first-person evidence and investigate positive/negative balance without denying suffering. |
+| Whole, zero, possibility and actuality | zero-residue exports, `ZERO_TOTALITY_*`, plenitude and point–sphere works, user universal-principles conversation | Specify and test how zero's own constitution yields differentiation and necessity, how genuine possibilities are identified, and whether paired physical/experiential contributions require balance; do not relitigate the settled infinity comparison. |
+| Physical geometry, clocks, records and realm confinement | sphere/Lorentz cone rounds, quantum locality, Kent, Bryan–Medved, Fukuyama, action-flow, DATA, clock and record work | Integrate compatible emergent spacetime, relational clock, actual information access and record interfaces; keep surface/game inhabitants separate from traveler/player. |
+| Subject individuation, quality and incidence | Chalmers, Basile, Miller, Bohn, Lewtas, subject-boundary and biological/brain empirical inputs | Combine selection, ownership, field unity, persistence and quality on actual common cases; distinguish physical overlap, shared tokens and different subjects. |
+| Physics and observable comparisons | QFT, Kent, quantum information, quantum-geometry uploads, Lighthouse and Observer Patch Holography, experimental analyses | Transfer valid operators, physical reference frames, source/receipt and calibration methods; connect to QM/relativistic physics without equating a toy zero charge with cosmic energy. |
+| Battery and proof closure | PSR-5 entry and R0–R3 adjudications, original external foundation F0–F5, internal B1–B12 and existing verifiers | Freeze a new versioned model only once definitions and dependency closure are ready; implement applicable actual-bearer, locality, physical-reference and positive/negative controls, and keep each battery's conditions separate. |
+| Remainder and cross-check | Every remaining upload, source artifact and authored document in the tracker and full manifest | Trace, review and either integrate, correct, mark not applicable with reasons, or identify missing originals. Resolve conflicting/superseded claims instead of counting documents as progress. |
+
+Some prior requests explicitly asked for critical review; scrutiny is appropriate. The error to avoid is ending at scrutiny when the supplied insights can be repaired and made operational.
+
+## Updating and verification
+
+Run `python verification/build_source_repass_tracker.py` after adding or changing material. Its manually curated stage evidence is in the script, with deliberately conservative source-specific entries and file-existence checks. Regenerate the framework manifest afterwards and rerun the tracker if an indexed generated Markdown file changed. Commit stage changes only with concrete evidence links. The tracker does not itself grade scientific correctness, verify all historical source claims or fetch missing content. Repeated passes should update the **same** candidate and workboard, not produce disconnected demonstrations indefinitely.

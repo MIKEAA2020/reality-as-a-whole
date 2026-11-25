@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "869d93b3620b2cdddb7583ca7048dd8386f982cb",
-  "file_count": 2228,
+  "base_head": "e61d04406002fa9c353482c6ef47477d0dacaed8",
+  "file_count": 2241,
   "files": [
     {
       "path": ".gitattributes",
@@ -510,8 +510,8 @@
     },
     {
       "path": "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
-      "bytes": 44324,
-      "sha256": "25ace52abdb0a30dc7e2af42930140476df078cec01704374a28fb7b419c95ae"
+      "bytes": 44803,
+      "sha256": "c3ae96afa8d24cbb4a1ead968820404d1ecf6bb23696d68103f6ca2633e27da3"
     },
     {
       "path": "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 207674,
-      "sha256": "bbbf865f1b29e029bb5bcb04e40cfe69abc6cea061dd1aa0b42500490e1e7a51"
+      "bytes": 209313,
+      "sha256": "ad292b65f1ac1f8b672ccb79be28f66c3c2f7dcf0fc5a68b5373ebde0db95078"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2919,6 +2919,11 @@
       "sha256": "36667a9286c8c70641c3b9dc1e7f8b09bcefa9f3fe5f847e69798fa17d27b1ef"
     },
     {
+      "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
+      "bytes": 9682,
+      "sha256": "30ec3ff4a1c5279c758b99b809953034cd869d8a41f11ec72fbcc555933d5423"
+    },
+    {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
       "bytes": 11109,
       "sha256": "949272408179cb800b77ac9358a0c1525e6dead13f3b8493b78a07e8dfe114ea"
@@ -3434,9 +3439,24 @@
       "sha256": "8ee939ce02cae4f7e6e6ce8b7049ea44f53b8c3a5c65ccfa648aa9263b63452f"
     },
     {
+      "path": "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
+      "bytes": 6519,
+      "sha256": "109c96ec1fc6f6044cb25f50525362739ecbd94c4d393e140ca96c5aa032ff18"
+    },
+    {
+      "path": "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
+      "bytes": 7488,
+      "sha256": "97cb2e682686d66cfa7075e35e3e06e94d13683e245a5deec7e3ca152e19828f"
+    },
+    {
       "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
       "bytes": 11042,
       "sha256": "5877ed4545a8ee2049717846ce0d84ed49ad2e636a448a02835c70400835fdd7"
+    },
+    {
+      "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+      "bytes": 12363,
+      "sha256": "4f86e04b6b9a3c94d6b6962157fe85245b1dba2c7fb4c1e76595d86f4363adb4"
     },
     {
       "path": "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
@@ -3450,8 +3470,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 16818,
-      "sha256": "ce5fdb7d3c2839aa5b98471cfb983926f2704cfa2190cf248a43482a969c6ddb"
+      "bytes": 17303,
+      "sha256": "bfd62cb6d7155ca48b629a5c6c5bbab08dc466a717fe9997be8eda9707a2fd5d"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -5742,6 +5762,11 @@
       "path": "verification/build_framework_inventory.py",
       "bytes": 5869,
       "sha256": "d055a94510604bcda88c0d61ce5be2cb9068e0f2f8fb2991683b7e5636e17093"
+    },
+    {
+      "path": "verification/build_source_repass_tracker.py",
+      "bytes": 5235,
+      "sha256": "25ffdfea96d4f837147b47a4e2c4cbf0a732bb01cf67f3bc74ad721ffe7488ff"
     },
     {
       "path": "verification/cardiac_feedback_pain_predictions.json",
@@ -8350,8 +8375,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1004657,
-      "sha256": "ed1bce50a98dc071491788c6502bd7c10a231600e8d8fb843155687ab2ddf43f"
+      "bytes": 1012170,
+      "sha256": "a60a78311c97a78a1a12b1065e9cfc9261405fa19556acea295fc636c58d3e86"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9517,6 +9542,16 @@
       "path": "verification/source_recovery/s41467-021-27134-6.snapshot-corrupted.bin",
       "bytes": 642549,
       "sha256": "0df46aeee461bfdad7a9530c01096cc570572acb6c5d5f779676ddf0c46e51af"
+    },
+    {
+      "path": "verification/source_repass_progress.json",
+      "bytes": 500669,
+      "sha256": "00ee7709eb59c0128ef381434135cc6598ad8ce48d6e44367d57eb0c724d219c"
+    },
+    {
+      "path": "verification/source_repass_tracker_test.py",
+      "bytes": 1471,
+      "sha256": "6889944111f02a966e5105503a59d10c047c960eb65b78791d0a34d30156e114"
     },
     {
       "path": "verification/sources/barontini_2026/Fig2Fig3V0.txt",
@@ -11007,6 +11042,36 @@
       "path": "verification/zero_stationary_battery_bridge_test.py",
       "bytes": 4767,
       "sha256": "873bb050e304af7d28da6282996626259de86d98dc6d2405d6620fcee571c12a"
+    },
+    {
+      "path": "verification/zero_stationary_clock_claim_quality.py",
+      "bytes": 1001,
+      "sha256": "528ef8badca4be780c6d143ed67f26979ebf1bc3ec21e58c4e05f7f9e3823511"
+    },
+    {
+      "path": "verification/zero_stationary_clock_claim_quality_test.py",
+      "bytes": 2035,
+      "sha256": "32e839deb80c96b12023b1447e50822c583da20b6b83f61cfeec8794450731b5"
+    },
+    {
+      "path": "verification/zero_stationary_refinement_self_location.py",
+      "bytes": 1363,
+      "sha256": "b479f2a217e20d9f33e34313b4b0a50f706cdc680307be1542af446b8ec75d96"
+    },
+    {
+      "path": "verification/zero_stationary_refinement_self_location_test.py",
+      "bytes": 1804,
+      "sha256": "8e3373fdaf3f58ac78d16c6c12101caa6223e3288d8e6c0f54c350f9072c72b9"
+    },
+    {
+      "path": "verification/zero_stationary_subject_incidence.py",
+      "bytes": 1379,
+      "sha256": "55cc27fa260ee0a5d1fb164385c9f35fcfb789499f73cfad8979014e7cd65179"
+    },
+    {
+      "path": "verification/zero_stationary_subject_incidence_test.py",
+      "bytes": 4584,
+      "sha256": "190960c70139663a16621d3b6df2f5bee4405a80b6813e61053ee91891c6e2c2"
     },
     {
       "path": "verification/zero_stationary_whole_unique_history_test.py",

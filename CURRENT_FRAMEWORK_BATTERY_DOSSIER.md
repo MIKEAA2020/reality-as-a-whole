@@ -1,5 +1,7 @@
 # Self-Existent Experiential Plenitude
 
+**Current integration work:** [the whole-chat multi-pass workboard](WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md) tracks the user's audit → adapt → implement workflow across the preserved record. Its first four partial passes integrate the sphere battery interface, conditional subject-incidence symmetry, self-location refinements and clock-dependent joint predictions in one reduced stationary echo; they do not establish a full battery pass or no-residue constitution.
+
 ## Abstract
 
 This framework proposes that reality is a single self-sufficient, necessarily actual whole whose intrinsic nature is experiential. The whole is fundamentally timeless but internally differentiated into multiple subjects and their experiences. Spacetime, mass, physical laws and local temporal succession are to be understood as features of its internal organization, not as a container or machinery external to it. Genuine possibility and actuality coincide: what is genuinely possible is actual, and what is not actual is not genuinely possible. No agent or temporal process is required to turn possibilities into actuality.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 753 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 685 verification Python scripts.
+- 757 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 693 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -592,6 +592,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md](WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md) — Weak coupling and partial observation: a subject-constitution gate
 - [WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md](WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md) — Weak histories, accessible records and plural perspectives
 - [WEYL2_CONFORMAL_ANOMALY_CC.md](WEYL2_CONFORMAL_ANOMALY_CC.md) — Conformal Anomaly, Weyl² Running, and the Low-Scale Cosmological Constant
+- [WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md](WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md) — Whole-chat multi-pass integration workboard
 - [WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md) — Effective realism, scale and the experiential candidate
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
@@ -695,7 +696,10 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
 - [ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) — Sharp reciprocal currents and the experiential-response condition
 - [ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) — Sign selection by clock and reference symmetry
+- [ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md](ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md) — Source integration, third pass: Bostrom's self-location structure on the same sphere
+- [ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md](ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md) — Source integration, fourth pass: clocks, realm access and a joint echo constraint
 - [ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md](ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md) — Audit → adapt → implement: a stationary sphere-battery interface
+- [ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md](ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md) — Source integration, second pass: subject incidence on the stationary sphere
 - [ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) — A zero-balanced, asymmetrical history from closed dynamics
 - [ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md](ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md) — An autonomous detector inside the sphere–cosmology constraint
 - [ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md](ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md) — Toward passing the battery: one sphere–echo candidate, not another rival audit
@@ -922,6 +926,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)
 - [verification/bryan_medved_relational_time_claims_test.py](verification/bryan_medved_relational_time_claims_test.py)
 - [verification/build_framework_inventory.py](verification/build_framework_inventory.py)
+- [verification/build_source_repass_tracker.py](verification/build_source_repass_tracker.py)
 - [verification/cardiac_feedback_pain_predictions.py](verification/cardiac_feedback_pain_predictions.py)
 - [verification/cardiac_pain_xml_crosscheck.py](verification/cardiac_pain_xml_crosscheck.py)
 - [verification/carreira_gonzalo_age_curvature_constraint_test.py](verification/carreira_gonzalo_age_curvature_constraint_test.py)
@@ -1340,6 +1345,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/shlaer_time_comparison.py](verification/shlaer_time_comparison.py)
 - [verification/smooth_field_clock.py](verification/smooth_field_clock.py)
 - [verification/smooth_switched_locality_gate.py](verification/smooth_switched_locality_gate.py)
+- [verification/source_repass_tracker_test.py](verification/source_repass_tracker_test.py)
 - [verification/specific_pathway_observability.py](verification/specific_pathway_observability.py)
 - [verification/spectral_action_bounce.py](verification/spectral_action_bounce.py)
 - [verification/spectral_action_finite_sm.py](verification/spectral_action_finite_sm.py)
@@ -1550,6 +1556,12 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_spin_reversal_sign_selection_test.py](verification/zero_spin_reversal_sign_selection_test.py)
 - [verification/zero_stationary_battery_bridge.py](verification/zero_stationary_battery_bridge.py)
 - [verification/zero_stationary_battery_bridge_test.py](verification/zero_stationary_battery_bridge_test.py)
+- [verification/zero_stationary_clock_claim_quality.py](verification/zero_stationary_clock_claim_quality.py)
+- [verification/zero_stationary_clock_claim_quality_test.py](verification/zero_stationary_clock_claim_quality_test.py)
+- [verification/zero_stationary_refinement_self_location.py](verification/zero_stationary_refinement_self_location.py)
+- [verification/zero_stationary_refinement_self_location_test.py](verification/zero_stationary_refinement_self_location_test.py)
+- [verification/zero_stationary_subject_incidence.py](verification/zero_stationary_subject_incidence.py)
+- [verification/zero_stationary_subject_incidence_test.py](verification/zero_stationary_subject_incidence_test.py)
 - [verification/zero_stationary_whole_unique_history_test.py](verification/zero_stationary_whole_unique_history_test.py)
 - [verification/zero_structural_time_data_echo_test.py](verification/zero_structural_time_data_echo_test.py)
 - [verification/zero_structural_time_stationary_two_clock_test.py](verification/zero_structural_time_stationary_two_clock_test.py)
