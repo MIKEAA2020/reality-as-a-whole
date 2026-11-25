@@ -99,6 +99,10 @@ Our two clock countermodels and prior memory echo establish concrete working exa
 
 For comparison, Giovannetti, Lloyd and Maccone provide a Page–Wootters treatment of sequential measurements with explicit memories [1](https://arxiv.org/pdf/1504.04215v3). That is a technical development, not a derivation of consciousness or ultimate causation. The paper's separate suggestion that quantum field theories generically lack global symmetries should also not be read as a theorem that all QFT symmetries are anomalous or that Lorentz invariance must fail: the no-global-symmetry argument of Harlow and Ooguri is scoped to bulk quantum gravity with a holographic dual and distinguishes internal from spacetime symmetry [3](https://arxiv.org/pdf/1810.05337).
 
+## Subsequent constructive clock-and-memory test
+
+[The reusable memory in a constrained clock history](ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md) extends the actual internal-reference history with a closed twelve-tick reversible program, computes finite-memory reliability and resource accounting, and transports the counterpart symmetry through the program. It does not yet add a heat reservoir or an experiential subject.
+
 ## Verification
 
 ```sh

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 773,
-  "bytes": 9864566,
-  "line_count": 89820,
-  "document_count_with_risk_phrases": 726,
+  "document_count": 774,
+  "bytes": 9878027,
+  "line_count": 89947,
+  "document_count_with_risk_phrases": 727,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1421,9 +1421,9 @@
     },
     {
       "path": "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
-      "sha256": "9fdde5b234c7eaf41e18835fbe1520838c99929ce66d846a34ef2359cf7ab7ac",
-      "bytes": 14504,
-      "lines": 109,
+      "sha256": "14d2f50dbbbb6ad6f3b9b928906bc1bbea7443d7658924c9aba76da2aa12131a",
+      "bytes": 14937,
+      "lines": 113,
       "title": "Bryan and Medved: time, causality, records and the zero whole",
       "headings": [
         "Bryan and Medved: time, causality, records and the zero whole",
@@ -1433,12 +1433,13 @@
         "4. What thermodynamics really adds",
         "5. Zero, causal order and the one whole",
         "6. What to do with the paper",
-        "Verification"
+        "Subsequent constructive clock-and-memory test"
       ],
       "local_links": [
         "verification/bryan_medved_relational_time_claims_test.py",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
-        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md"
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -1447,7 +1448,8 @@
         57,
         74,
         78,
-        88
+        88,
+        104
       ]
     },
     {
@@ -5791,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "517db1ed5f7b5d0f14cf7f03a1c51356e6c6032307243cc3e0bb3da3e01ba943",
-      "bytes": 200636,
-      "lines": 1530,
+      "sha256": "031ac77e0620f3a9a391ed3e51704ebfb7c8e38e356e4ab616744e12250e9c1b",
+      "bytes": 200923,
+      "lines": 1532,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6466,6 +6468,7 @@
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
+        "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
@@ -7260,6 +7263,7 @@
         "verification/zero_reciprocal_subject_exchange_test.py",
         "verification/zero_recollapse_sphere_memory_test.py",
         "verification/zero_relational_chirality_report_test.py",
+        "verification/zero_relational_clock_reusable_memory_test.py",
         "verification/zero_relational_history_experiential_clock_test.py",
         "verification/zero_relational_orientation_reference_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
@@ -7325,17 +7329,17 @@
         599,
         654,
         658,
-        674,
-        677,
-        682,
-        684,
-        698,
-        733,
-        770,
-        779,
-        782,
-        785,
-        854
+        675,
+        678,
+        683,
+        685,
+        699,
+        734,
+        771,
+        780,
+        783,
+        786,
+        855
       ]
     },
     {
@@ -22382,6 +22386,36 @@
         135,
         139,
         149
+      ]
+    },
+    {
+      "path": "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
+      "sha256": "e62614f53f11fcfc240311a21bef594f6d22df611c24a36f1fb3114f5481e0cc",
+      "bytes": 12741,
+      "lines": 121,
+      "title": "A reusable memory inside one constrained clock history",
+      "headings": [
+        "A reusable memory inside one constrained clock history",
+        "1. Input: the actual signs, not three invented independent events",
+        "2. The closed relational-clock extension",
+        "3. Record reliability and finite resources",
+        "4. The arrow and the meaning of reset",
+        "5. Mirror symmetry survives the actual memory history",
+        "6. Consequence",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
+        "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
+        "verification/zero_relational_clock_reusable_memory_test.py"
+      ],
+      "risk_phrase_lines": [
+        3,
+        7,
+        21,
+        72,
+        88,
+        112
       ]
     },
     {
