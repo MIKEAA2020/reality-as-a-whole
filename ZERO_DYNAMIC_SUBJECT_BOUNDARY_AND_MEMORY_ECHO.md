@@ -118,6 +118,10 @@ The constructive progress is the information-routing identity: the very interact
 
 The co-occurrence graph is an explicit stress test of such criteria, not the missing criterion itself. It neither proves the user's zero constitution nor establishes that the demand for one is impossible.
 
+## Relational-time source audit
+
+[Bryan and Medved on causality and the zero whole](BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md) compares the echo with their proposal that clock interactions and irreversible records explain the arrow of time, and supplies explicit finite-clock and reversible-record countermodels to stronger versions of those claims.
+
 ## Reproduce
 
 ```sh

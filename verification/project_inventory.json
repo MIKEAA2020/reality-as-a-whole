@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 772,
-  "bytes": 9849410,
-  "line_count": 89705,
-  "document_count_with_risk_phrases": 725,
+  "document_count": 773,
+  "bytes": 9864566,
+  "line_count": 89820,
+  "document_count_with_risk_phrases": 726,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1417,6 +1417,37 @@
         71,
         87,
         105
+      ]
+    },
+    {
+      "path": "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
+      "sha256": "9fdde5b234c7eaf41e18835fbe1520838c99929ce66d846a34ef2359cf7ab7ac",
+      "bytes": 14504,
+      "lines": 109,
+      "title": "Bryan and Medved: time, causality, records and the zero whole",
+      "headings": [
+        "Bryan and Medved: time, causality, records and the zero whole",
+        "1. What the authors argue",
+        "2. First countermodel: an isolated clock can correlate with a small part",
+        "3. Second countermodel: interaction does not guarantee an arrow",
+        "4. What thermodynamics really adds",
+        "5. Zero, causal order and the one whole",
+        "6. What to do with the paper",
+        "Verification"
+      ],
+      "local_links": [
+        "verification/bryan_medved_relational_time_claims_test.py",
+        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        31,
+        45,
+        57,
+        74,
+        78,
+        88
       ]
     },
     {
@@ -5760,9 +5791,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "778c2aa804ab17b9e579af50c5cbdf2f76bed0e979b27812394f7766bcace548",
-      "bytes": 200344,
-      "lines": 1528,
+      "sha256": "517db1ed5f7b5d0f14cf7f03a1c51356e6c6032307243cc3e0bb3da3e01ba943",
+      "bytes": 200636,
+      "lines": 1530,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5823,6 +5854,7 @@
         "BOTVINIK_NEZER_PLACEBO_FULL_PAPER_AUDIT.md",
         "BOWLING_PAIRWISE_RELATIONAL_EMPIRICAL_GATE.md",
         "BRAIN_CENTRIC_MANY_BLOCKWORLDS_QUANTUM_AUDIT.md",
+        "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md",
         "CARDIAC_FEEDBACK_PAIN_PREDICTION_PROTOCOL.md",
         "CARDIAC_FEEDBACK_UNPLEASANTNESS_EMPIRICAL_GATE.md",
         "CARREIRA_GONZALO_ZERO_WHOLE_COSMOLOGY_AUDIT.md",
@@ -6644,6 +6676,7 @@
         "verification/boundary_cut_workspace.py",
         "verification/bowling_pairwise_transfer_audit.py",
         "verification/brain_centric_blockworld_gates.py",
+        "verification/bryan_medved_relational_time_claims_test.py",
         "verification/build_framework_inventory.py",
         "verification/cardiac_feedback_pain_predictions.py",
         "verification/cardiac_pain_xml_crosscheck.py",
@@ -7278,31 +7311,31 @@
         16,
         20,
         44,
-        67,
-        76,
-        86,
-        168,
-        230,
-        306,
-        336,
-        384,
-        415,
-        483,
-        581,
-        598,
-        653,
-        657,
-        673,
-        676,
-        681,
-        683,
-        697,
-        732,
-        769,
-        778,
-        781,
-        784,
-        853
+        68,
+        77,
+        87,
+        169,
+        231,
+        307,
+        337,
+        385,
+        416,
+        484,
+        582,
+        599,
+        654,
+        658,
+        674,
+        677,
+        682,
+        684,
+        698,
+        733,
+        770,
+        779,
+        782,
+        785,
+        854
       ]
     },
     {
@@ -20606,9 +20639,9 @@
     },
     {
       "path": "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
-      "sha256": "56b5c18c383fc6768b81f3393a422c90e464f5ab597527c7cbe091015675546f",
-      "bytes": 12362,
-      "lines": 128,
+      "sha256": "d48f5b7b379ac2bd074deb4bd0fa387fcc5397f268ab0b23528c728e087e3b96",
+      "bytes": 12722,
+      "lines": 132,
       "title": "A subject boundary through memory writing, use and attempted erasure",
       "headings": [
         "A subject boundary through memory writing, use and attempted erasure",
@@ -20618,12 +20651,13 @@
         "4. A physical back-action that a classical copy misses",
         "5. Two explicit boundary rules on the same gates",
         "6. Whole-zero, incidence and the constructive next problem",
-        "Reproduce"
+        "Relational-time source audit"
       ],
       "local_links": [
         "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
         "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
-        "verification/zero_dynamic_subject_memory_echo_test.py"
+        "verification/zero_dynamic_subject_memory_echo_test.py",
+        "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -20636,7 +20670,7 @@
         67,
         71,
         119,
-        128
+        132
       ]
     },
     {
