@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 768 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 715 verification Python scripts.
+- 769 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 717 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -626,6 +626,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) — One internal reference: zero, geometry, measurement and experience
 - [ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) — Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
+- [ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) — Dressed rotations through the full clock, reservoir and opposite pair
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
 - [ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md](ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md) — A subject boundary through memory writing, use and attempted erasure
 - [ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) — One candidate intrinsic quality through the actual sphere echo
@@ -1478,6 +1479,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
+- [verification/zero_dressed_history_pair.py](verification/zero_dressed_history_pair.py)
+- [verification/zero_dressed_history_pair_test.py](verification/zero_dressed_history_pair_test.py)
 - [verification/zero_dressed_sphere_rotations.py](verification/zero_dressed_sphere_rotations.py)
 - [verification/zero_dressed_sphere_rotations_test.py](verification/zero_dressed_sphere_rotations_test.py)
 - [verification/zero_dual_pair_sphere_energy_instrument_test.py](verification/zero_dual_pair_sphere_energy_instrument_test.py)

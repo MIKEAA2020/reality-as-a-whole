@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Fifteenth-pass continuation:** [full-clock and opposite-pair dressing](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) carries the correlated rotation through the actual reversible echo and purified apparatus and the gauge-constrained pair. The combined stationary history and zero pair sum are preserved, but nonconstant individual magnitudes are not rotation-invariant; the action and its physical interpretation remain model inputs.
+
 **Fourteenth-pass continuation:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) implement independent rotations on the actual old quantum records and both sign branches, fixing their correlated post-echo spherical states and selecting a uniform scalar within one specified family. The dressing is constructed from the history rather than derived from zero; its extension to the full clock/reservoir history and additional constrained pair is not yet verified.
 
 **Thirteenth-pass continuation:** [symmetry, point–sphere and quantum plenitude](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) lifts the coherent scalar-angle echo to the exact simultaneous-rotation invariant sector of a full two-direction spherical Hilbert space. It geometrically realizes the type-swap reflection and distinguishes uniform-marginal selection from symmetry of the complete recorded state.

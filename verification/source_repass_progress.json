@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "5a267ee9f4089ad03e8c11b7121cb387427f85ae469781a35362ee9c39173278",
+      "sha256": "0fad9206817a0a2c9c2d8a2bf0267b99e3b59cbdbe5d398efb0e232bcb515e09",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11025,7 +11025,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "5d3349eb2134b25bc4987c5fdd7188da03cfc703cd5dc43c38b719927fbf63a0",
+      "sha256": "a4d6eb17f1e760286e802f9b902937acfdae9b7a914e84b8e12f524caebfe339",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11669,6 +11669,25 @@
       }
     },
     {
+      "path": "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+      "kind": "authored root document",
+      "sha256": "5be582d8f3b43d2565f3122d8c28f85a7d5e8d8e4adfd1e4afd3dd8f8f8a2b60",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
       "kind": "authored root document",
       "sha256": "c1373191089433cb6aa586bb691942272f944aacc43d5feae2bb8d6ce625f445",
@@ -11918,7 +11937,7 @@
     {
       "path": "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
       "kind": "authored root document",
-      "sha256": "eda0de41cb0dfc7db4f29330e9fad4a639a1eacc650978850f49ccfe816e93d2",
+      "sha256": "64d5525c3fd9da0e058a9911d4c69dc443c3fca047b551347a9be9f4c8f68299",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13001,7 +13020,7 @@
     {
       "path": "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
       "kind": "authored root document",
-      "sha256": "56e5c99d1a89a5512f49cad5b1657e4aad9f704cb6743e4411ef40f2221d8f10",
+      "sha256": "1c50fc3bdfde04f9bd35d7cd9b6acbccddef8bea1488b1fa27ed09582770997e",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13305,7 +13324,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "3884cf6ee6fe1af25e53a20c447a381eae6c7a7fd3d8d66f907e2d2064ba92a9",
+      "sha256": "f70ca60c61669b0d64d53bb9a75849a26602bf0cd7a0f32a8d1fb19e33eb602a",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -16659,7 +16678,8 @@
             "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
             "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
             "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
-            "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md"
+            "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
+            "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md"
           ]
         },
         "implemented": {
@@ -16672,7 +16692,9 @@
             "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
             "verification/zero_spherical_invariant_echo.py",
             "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
-            "verification/zero_dressed_sphere_rotations.py"
+            "verification/zero_dressed_sphere_rotations.py",
+            "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+            "verification/zero_dressed_history_pair.py"
           ]
         }
       }
@@ -16791,7 +16813,8 @@
             "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
             "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
             "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
-            "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
+            "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+            "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md"
           ]
         },
         "implemented": {
@@ -16804,7 +16827,9 @@
             "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
             "verification/zero_pairwise_angular_charge.py",
             "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
-            "verification/zero_gauge_angular_pair.py"
+            "verification/zero_gauge_angular_pair.py",
+            "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+            "verification/zero_dressed_history_pair.py"
           ]
         }
       }

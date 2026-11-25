@@ -26,6 +26,7 @@ ELEVENTH='ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md'
 TWELFTH='ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md'
 THIRTEENTH='ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md'
 FOURTEENTH='ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md'
+FIFTEENTH='ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -57,11 +58,12 @@ PARTIAL={
   'plan':[NINTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py']},
  'sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt': {
   'audit':['UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md'],
-  'plan':[FIFTH,TENTH,THIRTEENTH,FOURTEENTH],
+  'plan':[FIFTH,TENTH,THIRTEENTH,FOURTEENTH,FIFTEENTH],
   'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',TENTH,
                  'verification/zero_coherent_signed_counterpart.py',THIRTEENTH,
                  'verification/zero_spherical_invariant_echo.py',FOURTEENTH,
-                 'verification/zero_dressed_sphere_rotations.py']},
+                 'verification/zero_dressed_sphere_rotations.py',FIFTEENTH,
+                 'verification/zero_dressed_history_pair.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt': {
   'audit':['UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md'],
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
@@ -70,11 +72,12 @@ PARTIAL={
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt': {
   'audit':['UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md'],
-  'plan':[FIFTH,SEVENTH,ELEVENTH,TWELFTH],
+  'plan':[FIFTH,SEVENTH,ELEVENTH,TWELFTH,FIFTEENTH],
   'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',SEVENTH,
                  'verification/zero_quantum_angular_echo.py',ELEVENTH,
                  'verification/zero_pairwise_angular_charge.py',TWELFTH,
-                 'verification/zero_gauge_angular_pair.py']},
+                 'verification/zero_gauge_angular_pair.py',FIFTEENTH,
+                 'verification/zero_dressed_history_pair.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-4.txt': {
   'audit':['ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md'],
   'plan':[FIFTH,'ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md'],

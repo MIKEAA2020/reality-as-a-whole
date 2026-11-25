@@ -2,6 +2,8 @@
 
 ## Answer to the symmetry proposal
 
+**Continuation:** [full-clock and opposite-pair dressing](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) carries this constrained pair through the record-dressed sphere action and purified clock history, while distinguishing preservation of the zero sum from invariance of individual magnitudes.
+
 The previous [branchwise opposite-pair model](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) used a ready pair and a reversible write. That was a laboratory-style construction, not a claim that the whole needed an external preparation. In response to your suggestion, this pass builds an **alternative gauge-constrained description**: no specific ready-pair state is selected, and every state in the physical sector has matching opposite contributions.
 
 For the finite angular model, the physical sector is exactly isometric to the original old-system/angular Hilbert space. On **every** physical state, not just the previously prepared echo output,

@@ -2,6 +2,8 @@
 
 ## The advance
 
+**Continuation:** [full-clock and opposite-pair dressing](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) extends this record construction to the coherent clock/reservoir and the constrained pair, and shows why the zero sum can be preserved while individual magnitudes are not invariant.
+
 The [previous spherical pass](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) obtained a no-preference result for the **directional marginal**, but explicitly did not establish invariance of the correlated quantum state. Here we construct an independent-rotation action on that actual state, not just on its probability distribution. A rotation changing the relative angle is accompanied by a unitary transformation of the existing echo records. The records remain real and distinguishable; in particular, an `R+`, `B+` record is carried to an `R−`, `B−` record when the angle crosses the relevant boundary.
 
 This realizes a stronger, conditional unity between internal sphere and differentiated quantum record: the same symmetry relates whole configurations, not an isolated geometrical label. It also gives a sharper no-preference selection **within a specified family**. The construction is adapted to the model's record history, however; it does not yet derive that action, its carrier or a physical–experiential identity from zero. The [implementation](verification/zero_dressed_sphere_rotations.py) and [nine tests](verification/zero_dressed_sphere_rotations_test.py) make the dependencies and controls reproducible.
