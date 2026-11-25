@@ -15,6 +15,8 @@ This does not prove that a self-sufficient zero is impossible. It replaces three
 
 Verifier: [verification/zero_isotropic_singlet_history_test.py](verification/zero_isotropic_singlet_history_test.py).
 
+**Constructive continuation:** [a permutation-symmetric whole with a changing relational history](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) adds a covariant internal reference and demonstrates invariant record-transfer correlations, while identifying the remaining relative-condition and dynamics choices.
+
 ## 1. Let balance determine a pair's relational state, not an axis
 
 Use the earlier complementary-zero kernel `K` with logical Pauli operators

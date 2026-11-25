@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 741,
-  "bytes": 9437175,
-  "line_count": 85632,
-  "document_count_with_risk_phrases": 694,
+  "document_count": 742,
+  "bytes": 9449194,
+  "line_count": 85772,
+  "document_count_with_risk_phrases": 695,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d75bdbecd9c8236f816703e37e2bf90e2982ea6300df7149ed567433f2981f8d",
-      "bytes": 191059,
-      "lines": 1465,
+      "sha256": "02aae7e4743caa7f331d56e552b7b3fdb86916de7a1dcbb9b45a33d91a58b816",
+      "bytes": 191645,
+      "lines": 1469,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6345,6 +6345,7 @@
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
         "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
+        "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
         "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -6363,6 +6364,7 @@
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
+        "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -7109,6 +7111,7 @@
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+        "verification/zero_covariant_pairing_reference_history_test.py",
         "verification/zero_domain_restriction_sector_clock_code_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
@@ -7129,6 +7132,7 @@
         "verification/zero_interacting_relational_first_reading_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
+        "verification/zero_isotropic_singlet_history_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
@@ -7202,18 +7206,18 @@
         481,
         579,
         595,
-        631,
-        644,
+        633,
         646,
-        650,
+        648,
         652,
-        666,
-        701,
-        737,
-        746,
-        749,
-        752,
-        821
+        654,
+        668,
+        703,
+        739,
+        748,
+        751,
+        754,
+        823
       ]
     },
     {
@@ -20232,6 +20236,38 @@
       ]
     },
     {
+      "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
+      "sha256": "dd106ad8dbdb3dbbafdcda7e7e5a9a3913185112e7050ceb802fac778d01e079",
+      "bytes": 11121,
+      "lines": 134,
+      "title": "A permutation-symmetric whole with a changing relational history",
+      "headings": [
+        "A permutation-symmetric whole with a changing relational history",
+        "Main result",
+        "1. The zero sector and the reference",
+        "2. A symmetric but genuinely relational Hamiltonian",
+        "3. A stationary whole with a unique zero eigenstate",
+        "4. Why the original freezing result still matters",
+        "5. Significance for the zero program",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
+        "verification/zero_covariant_pairing_reference_history_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        13,
+        92,
+        105,
+        113,
+        121,
+        123,
+        134
+      ]
+    },
+    {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e",
       "bytes": 15430,
@@ -20824,9 +20860,9 @@
     },
     {
       "path": "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
-      "sha256": "726504efc9841a6539cb516c62e5f4b7d1a9f3ca95d9e3438464368b452e22ed",
-      "bytes": 13852,
-      "lines": 157,
+      "sha256": "74121a394c5f7677ea054575de8002dbb4195bd39ce1ec6e7a1aa1f868914ef5",
+      "bytes": 14164,
+      "lines": 159,
       "title": "From chosen orientations to isotropic zero—and a test of plenitude",
       "headings": [
         "From chosen orientations to isotropic zero—and a test of plenitude",
@@ -20839,7 +20875,8 @@
         "6. What has actually been derived, and what has not"
       ],
       "local_links": [
-        "verification/zero_isotropic_singlet_history_test.py"
+        "verification/zero_isotropic_singlet_history_test.py",
+        "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -20847,16 +20884,16 @@
         10,
         12,
         14,
-        34,
-        40,
-        92,
-        116,
-        122,
-        138,
+        36,
+        42,
+        94,
+        118,
+        124,
         140,
-        144,
+        142,
         146,
-        157
+        148,
+        159
       ]
     },
     {
