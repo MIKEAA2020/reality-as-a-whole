@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 777,
-  "bytes": 9923649,
-  "line_count": 90299,
-  "document_count_with_risk_phrases": 730,
+  "document_count": 778,
+  "bytes": 9941544,
+  "line_count": 90450,
+  "document_count_with_risk_phrases": 731,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a6fe3861967e6fb2d989ddfcc41f421da76f8e8488d82dd8b30782d97f9a3640",
-      "bytes": 201979,
-      "lines": 1539,
+      "sha256": "ef77e8d430c6597403d43fe226d007d6ded06454bea959d71f380436bad9f4fd",
+      "bytes": 202271,
+      "lines": 1541,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6486,6 +6486,7 @@
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
+        "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
         "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
@@ -7292,6 +7293,7 @@
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
         "verification/zero_sphere_relativistic_relational_time_test.py",
+        "verification/zero_sphere_reuse_experiential_access_test.py",
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_plenitude_opposite_records_test.py",
@@ -7340,13 +7342,13 @@
         680,
         685,
         687,
-        702,
-        737,
-        774,
-        783,
-        786,
-        789,
-        859
+        703,
+        738,
+        775,
+        784,
+        787,
+        790,
+        860
       ]
     },
     {
@@ -21432,9 +21434,9 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
-      "sha256": "ae3a85ccf4984674f2570435b11dcff5221001e1a1059ae85a387cec6b463cb8",
-      "bytes": 12384,
-      "lines": 85,
+      "sha256": "cdcbea2bd4abc4edacd55a72768a00ef30ed20736c02bf94d25399de8f4af6ba",
+      "bytes": 12821,
+      "lines": 87,
       "title": "One disturbed history, two experiential bridges",
       "headings": [
         "One disturbed history, two experiential bridges",
@@ -21443,7 +21445,7 @@
         "3. Gauge, counterparts and persistence",
         "4. Access: an exact conditional limit, not a consciousness test",
         "5. What zero and necessary plenitude do—and do not—select",
-        "Subsequent persistence test",
+        "Subsequent persistence and access tests",
         "6. Next constructive target"
       ],
       "local_links": [
@@ -21451,7 +21453,8 @@
         "verification/zero_internal_reference_subject_valence_candidates_test.py",
         "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
-        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md"
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+        "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -21459,7 +21462,8 @@
         53,
         71,
         77,
-        85
+        83,
+        87
       ]
     },
     {
@@ -22968,6 +22972,36 @@
       ]
     },
     {
+      "path": "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
+      "sha256": "d00330e6cb2959d8a1604d85ba91b047c8bfad78cec9e7d973a4e86ee608e969",
+      "bytes": 16751,
+      "lines": 145,
+      "title": "Sphere memory, subject access and a discriminating report",
+      "headings": [
+        "Sphere memory, subject access and a discriminating report",
+        "Main result",
+        "1. The two candidate bridges and their actual common domain",
+        "2. A no-reference factorization theorem",
+        "3. What changes when a source reference is accessible",
+        "4. Physical parities versus felt sign",
+        "5. A conditional discriminating experiment",
+        "6. Zero, counterparts and what is actually selected"
+      ],
+      "local_links": [
+        "verification/zero_sphere_reuse_experiential_access_test.py",
+        "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md"
+      ],
+      "risk_phrase_lines": [
+        45,
+        54,
+        87,
+        130,
+        145
+      ]
+    },
+    {
       "path": "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
       "sha256": "145ffc227152a98b96a8559e177789b842b43d422372c1ba6db856112968aa77",
       "bytes": 20608,
@@ -23089,9 +23123,9 @@
     },
     {
       "path": "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
-      "sha256": "aadd8fca2bdefb1428f8b3eb90968c72f391e61ae8804836cc86b930995af66e",
-      "bytes": 14980,
-      "lines": 129,
+      "sha256": "b46548ec04be8c608740df4c779d312bf2e3a5cd577cdc7935dfd9d2f8ffe4bf",
+      "bytes": 15395,
+      "lines": 131,
       "title": "Recovering a reused record inside the zero-charge sphere history",
       "headings": [
         "Recovering a reused record inside the zero-charge sphere history",
@@ -23105,7 +23139,8 @@
       ],
       "local_links": [
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",
-        "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md"
+        "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
+        "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -23116,7 +23151,8 @@
         94,
         98,
         112,
-        129
+        122,
+        131
       ]
     },
     {

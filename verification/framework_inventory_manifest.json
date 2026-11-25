@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ec65df508a4a958e4683a772a29ca45e7f030cd6",
-  "file_count": 2175,
+  "base_head": "24e7e8f412147d6b040f20d9d26c0fac940b6e11",
+  "file_count": 2177,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 201979,
-      "sha256": "a6fe3861967e6fb2d989ddfcc41f421da76f8e8488d82dd8b30782d97f9a3640"
+      "bytes": 202271,
+      "sha256": "ef77e8d430c6597403d43fe226d007d6ded06454bea959d71f380436bad9f4fd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3165,8 +3165,8 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
-      "bytes": 12384,
-      "sha256": "ae3a85ccf4984674f2570435b11dcff5221001e1a1059ae85a387cec6b463cb8"
+      "bytes": 12821,
+      "sha256": "cdcbea2bd4abc4edacd55a72768a00ef30ed20736c02bf94d25399de8f4af6ba"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -3404,6 +3404,11 @@
       "sha256": "44c1cfd6441eb599ef827d08d55d31e049f67ca5c9b080df36870e2cb930aae4"
     },
     {
+      "path": "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
+      "bytes": 16751,
+      "sha256": "d00330e6cb2959d8a1604d85ba91b047c8bfad78cec9e7d973a4e86ee608e969"
+    },
+    {
       "path": "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
       "bytes": 20608,
       "sha256": "145ffc227152a98b96a8559e177789b842b43d422372c1ba6db856112968aa77"
@@ -3425,8 +3430,8 @@
     },
     {
       "path": "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
-      "bytes": 14980,
-      "sha256": "aadd8fca2bdefb1428f8b3eb90968c72f391e61ae8804836cc86b930995af66e"
+      "bytes": 15395,
+      "sha256": "b46548ec04be8c608740df4c779d312bf2e3a5cd577cdc7935dfd9d2f8ffe4bf"
     },
     {
       "path": "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
@@ -8180,8 +8185,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 977479,
-      "sha256": "61876cdc345bb521e77d33462b67af593deb47c4ab66ed0c07b1fd1d6721a865"
+      "bytes": 978905,
+      "sha256": "766cc7d523354dd7e7a48ab3d0132ec76ecfd2f4d1b13decc07beffe97d6ec79"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10732,6 +10737,11 @@
       "path": "verification/zero_sphere_relativistic_relational_time_test.py",
       "bytes": 10946,
       "sha256": "cb4c1e035ffe99be3fee3f9f6bce4e951a0f21b631a94eb4ffccfa86b261bc16"
+    },
+    {
+      "path": "verification/zero_sphere_reuse_experiential_access_test.py",
+      "bytes": 9948,
+      "sha256": "5599ad8a99d2ac59cde9625beba1dd7a14d3c2384916bd3ca54557959ed68f00"
     },
     {
       "path": "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",

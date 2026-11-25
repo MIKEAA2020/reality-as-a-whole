@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 734 root Markdown documents including this register; 43 research Markdown documents.
-- 63 original uploaded files, including provenance metadata; 666 verification Python scripts.
+- 735 root Markdown documents including this register; 43 research Markdown documents.
+- 63 original uploaded files, including provenance metadata; 667 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -689,6 +689,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md](ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md) — One system linking sphere conservation, quantum records and opposite currents
 - [ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md](ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md) — The interacting clock switch: scattering, bound states and a clock obstruction
 - [ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md](ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md) — An intrinsic 2+3 grouping from the sphere and physical conservation
+- [ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md](ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md) — Sphere memory, subject access and a discriminating report
 - [ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md](ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md) — A normalizable quantum-cosmology packet for the sphere clock
 - [ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md](ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md) — Finite clock readings, physical instruments and a change of clock
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
@@ -1509,6 +1510,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_relative_orientation.py](verification/zero_sphere_relative_orientation.py)
 - [verification/zero_sphere_relative_orientation_test.py](verification/zero_sphere_relative_orientation_test.py)
 - [verification/zero_sphere_relativistic_relational_time_test.py](verification/zero_sphere_relativistic_relational_time_test.py)
+- [verification/zero_sphere_reuse_experiential_access_test.py](verification/zero_sphere_reuse_experiential_access_test.py)
 - [verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py](verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py)
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_spherical_plenitude_opposite_records_test.py](verification/zero_spherical_plenitude_opposite_records_test.py)

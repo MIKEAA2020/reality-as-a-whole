@@ -119,6 +119,8 @@ This is useful for the user's zero proposal in a limited but concrete way: *zero
 
 A useful next discriminator would remove the artificially fixed R register: compare alternative zero-charge, same-total-dimension encodings while counting **all** accessible outputs, preparations and stores, then ask whether zero plus a principled symmetry can select one of them. Only such a selection would begin to address why this record structure rather than its equally admissible rivals arises. The current result provides a concrete bound against which those alternatives can be compared; it does not itself select them.
 
+The subsequent [sphere-memory access and experiential-report test](ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md) takes a different, more direct route toward the subject question: it proves a no-reference factorization, quantifies what a specified source-reference interface adds, and gives conditional report-model predictions. It does not settle the unrestricted same-dimension optimization proposed above.
+
 ## Reproduce and scope
 
 ```sh

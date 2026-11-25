@@ -76,9 +76,11 @@ More importantly, whole-zero alone does not imply equal counterpart weights. The
 
 A potentially generative necessity principle would therefore need to establish, rather than stipulate: (a) why the complete subject-incidence space is closed under an appropriately physical counterpart map; (b) why the map reverses the relevant intrinsic experiential contribution; (c) why it pairs distinct actual incidences rather than gauge descriptions; (d) why their incidence measure is invariant and finite/convergent; and (e) why one particular physical relation, rather than both v_record and v_sphere, fixes felt sign. Parts (a)–(d) can yield pairwise cancellation, but this worked example demonstrates that **even all of them, as imposed here, leave (e) open**. Nor does failure of one selected subsystem to cancel establish failure of a whole-zero ontology: other incidences, weights or contributions may exist.
 
-## Subsequent persistence test
+## Subsequent persistence and access tests
 
 [Can subject persistence determine experiential sign?](ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md) constructs conserved carrier-sector projectors on this same gate, derives a restricted stability-based selection theorem and tests an explicit memory-dependent counterexample. It also distinguishes the sequential readout experiment from the unmeasured coherent history.
+
+[Sphere memory, subject access and a discriminating report](ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md) then tests these two original candidates on the sphere-coupled reservoir and auxiliary apparatus. It proves a no-reference factorization, specifies when a source-reference interface improves access to the sphere parity, and separates physical parity readout from an independently postulated report of felt sign.
 
 ## 6. Next constructive target
 
