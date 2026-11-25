@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 714 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 647 verification Python scripts.
+- 715 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 648 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -643,6 +643,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) — Necessary plenitude as sign pairing: an exact construction
 - [ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md](ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md) — Updated chat: necessity, probability and emergent spacetime
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
+- [ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md](ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md) — Keeping the sphere while sourcing its reference internally
 - [ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md](ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md) — A parity exchange from an exact zero-charge condition
 - [ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) — Noncommuting sphere readouts on the actual complement
 - [ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) — One reality, zero, experience and necessary plenitude
@@ -1439,6 +1440,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_minimal_symmetry_reference_record_test.py](verification/zero_minimal_symmetry_reference_record_test.py)
 - [verification/zero_mirror_balanced_plenitude_subject_test.py](verification/zero_mirror_balanced_plenitude_subject_test.py)
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
+- [verification/zero_nested_sphere_internal_reference_test.py](verification/zero_nested_sphere_internal_reference_test.py)
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)
 - [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)

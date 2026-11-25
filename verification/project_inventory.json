@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 757,
-  "bytes": 9655040,
-  "line_count": 87982,
-  "document_count_with_risk_phrases": 710,
+  "document_count": 758,
+  "bytes": 9669387,
+  "line_count": 88123,
+  "document_count_with_risk_phrases": 711,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a112ccca79c02f5eab4cb82178392b451733acc28097ab8d8847e0717ac5797b",
-      "bytes": 195882,
-      "lines": 1499,
+      "sha256": "6c61ba860548707eb822b2a76c4782306d84774688d86c9a4a521e45f46e3cff",
+      "bytes": 196173,
+      "lines": 1501,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6382,6 +6382,7 @@
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
+        "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
         "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
@@ -7164,6 +7165,7 @@
         "verification/zero_minimal_symmetry_reference_record_test.py",
         "verification/zero_mirror_balanced_plenitude_subject_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
+        "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
@@ -7237,18 +7239,18 @@
         579,
         595,
         643,
-        646,
-        660,
-        663,
-        667,
-        669,
-        683,
-        718,
-        754,
-        763,
-        766,
-        769,
-        838
+        647,
+        661,
+        664,
+        668,
+        670,
+        684,
+        719,
+        755,
+        764,
+        767,
+        770,
+        839
       ]
     },
     {
@@ -20996,9 +20998,9 @@
     },
     {
       "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
-      "sha256": "2c842f7bb38fb4b4b455e2e9427d093b7b1eb7cb80c4a1542d7fbb06e02e497d",
-      "bytes": 13040,
-      "lines": 123,
+      "sha256": "ea6395fca0c31e2ce2be6faaab657297449c388d18e7c64822266257969f066d",
+      "bytes": 13528,
+      "lines": 125,
       "title": "An internal reference pair from the original paired state",
       "headings": [
         "An internal reference pair from the original paired state",
@@ -21011,22 +21013,23 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
         "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_all_sector_noncommuting_sphere_test.py",
         "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
-        15,
-        60,
-        70,
-        74,
+        17,
+        62,
+        72,
         76,
-        94,
+        78,
         96,
-        108,
-        112,
-        114
+        98,
+        110,
+        114,
+        116
       ]
     },
     {
@@ -21467,6 +21470,44 @@
         37,
         46,
         76
+      ]
+    },
+    {
+      "path": "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
+      "sha256": "7e8218ba2b380d997eac189e721f85cfdeb7cbf85a284dbd14ff024260166239",
+      "bytes": 13568,
+      "lines": 137,
+      "title": "Keeping the sphere while sourcing its reference internally",
+      "headings": [
+        "Keeping the sphere while sourcing its reference internally",
+        "Main result: the earlier tradeoff was too strong",
+        "1. One basis ordering preserves the old physical instrument",
+        "2. Coherent whole-state accounting",
+        "3. The wider coverage/reference frontier",
+        "4. What can and cannot be inferred from the tables",
+        "5. Significance and limits",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
+        "verification/zero_nested_sphere_internal_reference_test.py",
+        "verification/zero_all_sector_noncommuting_sphere_test.py",
+        "verification/zero_internal_pair_sphere_report_test.py",
+        "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        14,
+        22,
+        47,
+        55,
+        59,
+        86,
+        88,
+        92,
+        106,
+        114
       ]
     },
     {

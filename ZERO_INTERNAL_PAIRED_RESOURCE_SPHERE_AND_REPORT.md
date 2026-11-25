@@ -1,5 +1,7 @@
 # An internal reference pair from the original paired state
 
+**Subsequent improvement:** [Keeping the sphere while sourcing its reference internally](ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md) uses a different multiplicity ordering to preserve the original physical 190-dimensional sphere instrument while retaining the 96-dimensional internal reference, and constructs a separate 229-dimensional coverage option. The reduced sphere coverage described below is a feature of this report's particular implementation, not a general necessity.
+
 ## Result
 
 The previously added D/E singlet need not be an independently prepared pair on **every part of the example on which it is used**. In the original two-lab state, there is an explicit 96-dimensional local support on which the actual paired state already factors into:

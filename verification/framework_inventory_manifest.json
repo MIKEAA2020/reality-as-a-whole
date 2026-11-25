@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "6e7d0f1a8045da9d758cf20f8c7efb44b097d956",
-  "file_count": 2135,
+  "base_head": "4be24f166559c60edbc57fa3f440d37c4c5393b8",
+  "file_count": 2137,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 195882,
-      "sha256": "a112ccca79c02f5eab4cb82178392b451733acc28097ab8d8847e0717ac5797b"
+      "bytes": 196173,
+      "sha256": "6c61ba860548707eb822b2a76c4782306d84774688d86c9a4a521e45f46e3cff"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3100,8 +3100,8 @@
     },
     {
       "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
-      "bytes": 13040,
-      "sha256": "2c842f7bb38fb4b4b455e2e9427d093b7b1eb7cb80c4a1542d7fbb06e02e497d"
+      "bytes": 13528,
+      "sha256": "ea6395fca0c31e2ce2be6faaab657297449c388d18e7c64822266257969f066d"
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
@@ -3172,6 +3172,11 @@
       "path": "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
       "bytes": 9251,
       "sha256": "ae1e7251e428ee9787845ca31e8dd0406cea9fa94265a351868f5c1eac88cc0c"
+    },
+    {
+      "path": "ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md",
+      "bytes": 13568,
+      "sha256": "7e8218ba2b380d997eac189e721f85cfdeb7cbf85a284dbd14ff024260166239"
     },
     {
       "path": "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
@@ -8060,8 +8065,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 952284,
-      "sha256": "bec6b3d287ffef3db6af6a0abb2f641d644726bf7c725e9ba959063498710774"
+      "bytes": 953747,
+      "sha256": "7208aa774eb17d6b69ea7d58b210f459205d4a03ad52436f3f9564d657f9d848"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10382,6 +10387,11 @@
       "path": "verification/zero_necessity_constitutive_gate_test.py",
       "bytes": 2016,
       "sha256": "5e71b88dc46341c05f98b3af801285b160254f284bd655480caf7e1c3fc08140"
+    },
+    {
+      "path": "verification/zero_nested_sphere_internal_reference_test.py",
+      "bytes": 14540,
+      "sha256": "df30711a620478411ded787fa7a1c154246c7ce023536bf1385d021faf744d99"
     },
     {
       "path": "verification/zero_neutral_exchange_from_balance_test.py",
