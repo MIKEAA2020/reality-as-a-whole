@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "aec03203866a4404f7756b630cbaa78ca26a9dff",
-  "file_count": 2160,
+  "base_head": "0518a5b09ae5cffdda66e77a14247554f3c3673f",
+  "file_count": 2162,
   "files": [
     {
       "path": ".gitattributes",
@@ -875,8 +875,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 199772,
-      "sha256": "120310163b2a7a86520d241a6b34a14ac63a105d1c02e7d01a6f98a0da0b3b8e"
+      "bytes": 200055,
+      "sha256": "5f38a3a2e0b02d1ba8bb1281577ab4c3abbc85d20923cb73b0e0f26fcf089240"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3145,8 +3145,8 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
-      "bytes": 11979,
-      "sha256": "abf712ee6f72993589509431e209382ab23ca9b19a39e82081d2c09456ef932d"
+      "bytes": 12384,
+      "sha256": "ae3a85ccf4984674f2570435b11dcff5221001e1a1059ae85a387cec6b463cb8"
     },
     {
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -3242,6 +3242,11 @@
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
       "bytes": 14778,
       "sha256": "be62f80977c5a29f942eda432786dbfd572aff125ca5cf70865bf06986f7b528"
+    },
+    {
+      "path": "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+      "bytes": 12825,
+      "sha256": "06e582ec8ecded0212b8fa4238d6472bcabc3daf3a0189f7f1c76e279c2b7892"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -8135,8 +8140,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 968637,
-      "sha256": "81dce779b3800cff91d06ba8f314ae295fbcecb729cca82b81fdad6c2df3b4b9"
+      "bytes": 969913,
+      "sha256": "9e831f1b2dc1968c1ce84bd729815a1a7ad6fa0c72fe0024be8310d262f03fb2"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10502,6 +10507,11 @@
       "path": "verification/zero_orientation_extension_operational_boundary_test.py",
       "bytes": 13248,
       "sha256": "6ef7be39633111f77b10bcad20e752629436ff78d69a3710a981e8582e575183"
+    },
+    {
+      "path": "verification/zero_persistent_sphere_subject_selection_test.py",
+      "bytes": 9259,
+      "sha256": "08bf3e72fae71dbd5de23c68c95388e2bf840f258ce8c8a31ad91fe0a57c7cea"
     },
     {
       "path": "verification/zero_plenitude_coupling_clock_test.py",

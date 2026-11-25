@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 727 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 659 verification Python scripts.
+- 728 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 660 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -657,6 +657,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) — Noncommuting sphere readouts on the actual complement
 - [ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) — One reality, zero, experience and necessary plenitude
 - [ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) — Extending the balanced orientation and opening a report boundary
+- [ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md](ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md) — Can subject persistence determine experiential sign?
 - [ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md](ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md) — A single zero whole containing frozen and changing couplings
 - [ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) — Plenitude, two kinds of intelligibility, and necessity of the whole
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
@@ -1463,6 +1464,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_nested_sphere_internal_reference_test.py](verification/zero_nested_sphere_internal_reference_test.py)
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)
 - [verification/zero_orientation_extension_operational_boundary_test.py](verification/zero_orientation_extension_operational_boundary_test.py)
+- [verification/zero_persistent_sphere_subject_selection_test.py](verification/zero_persistent_sphere_subject_selection_test.py)
 - [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)
 - [verification/zero_plenitude_sign_pairing_test.py](verification/zero_plenitude_sign_pairing_test.py)

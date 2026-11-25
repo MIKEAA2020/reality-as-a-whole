@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 770,
-  "bytes": 9822853,
-  "line_count": 89431,
-  "document_count_with_risk_phrases": 723,
+  "document_count": 771,
+  "bytes": 9836366,
+  "line_count": 89571,
+  "document_count_with_risk_phrases": 724,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5760,9 +5760,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "120310163b2a7a86520d241a6b34a14ac63a105d1c02e7d01a6f98a0da0b3b8e",
-      "bytes": 199772,
-      "lines": 1524,
+      "sha256": "5f38a3a2e0b02d1ba8bb1281577ab4c3abbc85d20923cb73b0e0f26fcf089240",
+      "bytes": 200055,
+      "lines": 1526,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6421,6 +6421,7 @@
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -7213,6 +7214,7 @@
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_orientation_extension_operational_boundary_test.py",
+        "verification/zero_persistent_sphere_subject_selection_test.py",
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
@@ -7288,17 +7290,17 @@
         598,
         652,
         656,
-        671,
-        674,
-        679,
-        681,
-        695,
-        730,
-        767,
-        776,
-        779,
-        782,
-        851
+        672,
+        675,
+        680,
+        682,
+        696,
+        731,
+        768,
+        777,
+        780,
+        783,
+        852
       ]
     },
     {
@@ -21294,9 +21296,9 @@
     },
     {
       "path": "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
-      "sha256": "abf712ee6f72993589509431e209382ab23ca9b19a39e82081d2c09456ef932d",
-      "bytes": 11979,
-      "lines": 81,
+      "sha256": "ae3a85ccf4984674f2570435b11dcff5221001e1a1059ae85a387cec6b463cb8",
+      "bytes": 12384,
+      "lines": 85,
       "title": "One disturbed history, two experiential bridges",
       "headings": [
         "One disturbed history, two experiential bridges",
@@ -21305,13 +21307,15 @@
         "3. Gauge, counterparts and persistence",
         "4. Access: an exact conditional limit, not a consciousness test",
         "5. What zero and necessary plenitude do—and do not—select",
+        "Subsequent persistence test",
         "6. Next constructive target"
       ],
       "local_links": [
         "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
         "verification/zero_internal_reference_subject_valence_candidates_test.py",
         "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
-        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md"
+        "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
+        "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md"
       ],
       "risk_phrase_lines": [
         3,
@@ -21319,7 +21323,7 @@
         53,
         71,
         77,
-        81
+        85
       ]
     },
     {
@@ -21939,6 +21943,36 @@
         45,
         65,
         125
+      ]
+    },
+    {
+      "path": "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
+      "sha256": "06e582ec8ecded0212b8fa4238d6472bcabc3daf3a0189f7f1c76e279c2b7892",
+      "bytes": 12825,
+      "lines": 134,
+      "title": "Can subject persistence determine experiential sign?",
+      "headings": [
+        "Can subject persistence determine experiential sign?",
+        "1. A compatible persistent carrier rule",
+        "2. An explicit, symmetry-compatible intervention",
+        "3. A conditional selection theorem",
+        "4. Why the restricted theorem is not a full derivation",
+        "5. What mirror balance adds",
+        "6. Consequence for the generative programme",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md",
+        "verification/zero_persistent_sphere_subject_selection_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        22,
+        44,
+        89,
+        106,
+        109
       ]
     },
     {

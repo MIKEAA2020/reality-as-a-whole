@@ -76,6 +76,10 @@ More importantly, whole-zero alone does not imply equal counterpart weights. The
 
 A potentially generative necessity principle would therefore need to establish, rather than stipulate: (a) why the complete subject-incidence space is closed under an appropriately physical counterpart map; (b) why the map reverses the relevant intrinsic experiential contribution; (c) why it pairs distinct actual incidences rather than gauge descriptions; (d) why their incidence measure is invariant and finite/convergent; and (e) why one particular physical relation, rather than both v_record and v_sphere, fixes felt sign. Parts (a)–(d) can yield pairwise cancellation, but this worked example demonstrates that **even all of them, as imposed here, leave (e) open**. Nor does failure of one selected subsystem to cancel establish failure of a whole-zero ontology: other incidences, weights or contributions may exist.
 
+## Subsequent persistence test
+
+[Can subject persistence determine experiential sign?](ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md) constructs conserved carrier-sector projectors on this same gate, derives a restricted stability-based selection theorem and tests an explicit memory-dependent counterexample. It also distinguishes the sequential readout experiment from the unmeasured coherent history.
+
 ## 6. Next constructive target
 
 The sharp remaining problem is not to pick one sign by aesthetic declaration. Construct a compatible subject selector and persistence dynamics on this *same* history, and derive a reference-sensitive intrinsic bridge from their constitution. Then determine whether its allowed physical transformations force one of these two parities, admit both, or require a different quality variable. A successful derivation must distinguish an actual subject from an arbitrary carrier, identify the subject's accessible algebra and report mechanism, and justify its incidence measure without assuming that every mathematical branch is a subject. This preserves the user's zero/plenitude proposal as a substantive generative program while exposing exactly which connection is still being sought.
