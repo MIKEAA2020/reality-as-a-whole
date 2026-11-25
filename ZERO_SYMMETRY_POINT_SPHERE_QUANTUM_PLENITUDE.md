@@ -2,6 +2,8 @@
 
 ## The unified proposal
 
+**Continuation:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) address the complete original correlated record, not only its marginal, by constructing a family-adapted independent-rotation action. Its conditional scope and the separately constrained-pair extension are made explicit there.
+
 Your recent synthesis identifies symmetry as the common direction of the programme: a whole represented by a point, internally differentiated as a sphere; zero net energy; necessary plenitude without an unexplained preference; real polarity; substrate-independent subjects; and experience and matter as intrinsic and extrinsic aspects of one reality, rather than rival substances.
 
 This pass implements a substantive part of that synthesis in the **same** quantum echo and gauge-constrained zero pair. The earlier angular Hilbert space was only a scalar relative angle. It now has an **exact lift into a full pair of directional spheres**, with no selected external axis. The simultaneous-rotation invariant sector of that spherical Hilbert space is precisely the earlier scalar-angle space. The actual coherent echo, its clock-dressed sign counterpart, its full-quality type swap and its gauge-constrained pair can be carried into this representation.

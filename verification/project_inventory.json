@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 810,
-  "bytes": 10387261,
-  "line_count": 94078,
-  "document_count_with_risk_phrases": 763,
+  "document_count": 811,
+  "bytes": 10399884,
+  "line_count": 94166,
+  "document_count_with_risk_phrases": 764,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -19941,9 +19941,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "1e5e783a118e0051a136a987a8e3f6cc24d787ec81f4de54ec6ffc6e5d47f164",
-      "bytes": 15134,
-      "lines": 60,
+      "sha256": "5d3349eb2134b25bc4987c5fdd7188da03cfc703cd5dc43c38b719927fbf63a0",
+      "bytes": 15856,
+      "lines": 61,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19970,7 +19970,8 @@
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
-        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
+        "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19979,7 +19980,8 @@
         33,
         34,
         36,
-        49
+        39,
+        50
       ]
     },
     {
@@ -23350,6 +23352,34 @@
       ]
     },
     {
+      "path": "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
+      "sha256": "56e5c99d1a89a5512f49cad5b1657e4aad9f704cb6743e4411ef40f2221d8f10",
+      "bytes": 11074,
+      "lines": 83,
+      "title": "Independent sphere rotations dressed by real quantum records",
+      "headings": [
+        "Independent sphere rotations dressed by real quantum records",
+        "The advance",
+        "1. What must be transported",
+        "2. The actual dressed group action",
+        "3. What no-preference now selects",
+        "4. Relation to the larger zero and experience programme",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
+        "verification/zero_dressed_sphere_rotations.py",
+        "verification/zero_dressed_sphere_rotations_test.py"
+      ],
+      "risk_phrase_lines": [
+        27,
+        66,
+        68,
+        74,
+        83
+      ]
+    },
+    {
       "path": "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
       "sha256": "55d928980aed5af8edd4df9dd9511a7a380fd95d17ee56088eb53b94cb49f110",
       "bytes": 13152,
@@ -23821,9 +23851,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "c1ee79dce21b52cfe72e1909c38b8d35ece7d538f8f314fc027917dbedb94808",
-      "bytes": 20576,
-      "lines": 142,
+      "sha256": "3884cf6ee6fe1af25e53a20c447a381eae6c7a7fd3d8d66f907e2d2064ba92a9",
+      "bytes": 21074,
+      "lines": 144,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23836,6 +23866,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
@@ -23859,21 +23890,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        11,
+        7,
         13,
-        19,
+        15,
         21,
-        31,
-        62,
-        77,
-        108,
+        23,
+        33,
+        64,
+        79,
         110,
-        118,
-        121,
-        122,
+        112,
+        120,
         123,
-        130
+        124,
+        125,
+        132
       ]
     },
     {
@@ -24472,9 +24503,9 @@
     },
     {
       "path": "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
-      "sha256": "bbf081d97ecd367ccba24b1a7fd0adcd79cbe6479963372ef3301b8e669cb6fd",
-      "bytes": 15058,
-      "lines": 139,
+      "sha256": "4b66e54b4eeeb74c328404954d4ecdbf443687a91dc49b05c2c581bce85519b2",
+      "bytes": 15387,
+      "lines": 141,
       "title": "Symmetry, point–sphere and the coherent zero candidate",
       "headings": [
         "Symmetry, point–sphere and the coherent zero candidate",
@@ -24487,6 +24518,7 @@
         "6. Relate the structural result to energy and experience"
       ],
       "local_links": [
+        "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "verification/zero_spherical_invariant_echo.py",
         "verification/zero_spherical_invariant_echo_test.py",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
@@ -24496,14 +24528,14 @@
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md"
       ],
       "risk_phrase_lines": [
-        7,
-        21,
-        41,
-        73,
-        79,
-        103,
-        126,
-        130
+        9,
+        23,
+        43,
+        75,
+        81,
+        105,
+        128,
+        132
       ]
     },
     {

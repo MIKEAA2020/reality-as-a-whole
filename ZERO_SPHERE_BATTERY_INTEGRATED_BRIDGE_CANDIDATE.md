@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Fourteenth-pass continuation:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) implement independent rotations on the actual old quantum records and both sign branches, fixing their correlated post-echo spherical states and selecting a uniform scalar within one specified family. The dressing is constructed from the history rather than derived from zero; its extension to the full clock/reservoir history and additional constrained pair is not yet verified.
+
 **Thirteenth-pass continuation:** [symmetry, point–sphere and quantum plenitude](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) lifts the coherent scalar-angle echo to the exact simultaneous-rotation invariant sector of a full two-direction spherical Hilbert space. It geometrically realizes the type-swap reflection and distinguishes uniform-marginal selection from symmetry of the complete recorded state.
 
 **Twelfth-pass continuation:** [the gauge-constrained angular pair](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) makes opposite local values a property of the entire physical sector rather than a selected ready-pair state. Its physical signs remain gauge-invariant; the chosen gauge and the experiential identification are not derived from zero by this construction.

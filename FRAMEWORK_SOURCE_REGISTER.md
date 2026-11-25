@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 767 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 713 verification Python scripts.
+- 768 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 715 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -696,6 +696,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) — Confined succession without an interaction
 - [ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md](ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md) — Reciprocal subject-candidate exchange within the spherical whole
 - [ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md](ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md) — Recollapse, the sphere and record arrows in one constraint
+- [ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) — Independent sphere rotations dressed by real quantum records
 - [ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md](ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md) — A reusable memory inside one constrained clock history
 - [ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) — From relational zero to a unique correlated state and conserved record transfer
 - [ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md) — Relative orientation inside the zero-balanced whole
@@ -1477,6 +1478,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
+- [verification/zero_dressed_sphere_rotations.py](verification/zero_dressed_sphere_rotations.py)
+- [verification/zero_dressed_sphere_rotations_test.py](verification/zero_dressed_sphere_rotations_test.py)
 - [verification/zero_dual_pair_sphere_energy_instrument_test.py](verification/zero_dual_pair_sphere_energy_instrument_test.py)
 - [verification/zero_dynamic_subject_memory_echo_test.py](verification/zero_dynamic_subject_memory_echo_test.py)
 - [verification/zero_echo_intrinsic_constitution_selection_test.py](verification/zero_echo_intrinsic_constitution_selection_test.py)
