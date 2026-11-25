@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 746,
-  "bytes": 9492256,
-  "line_count": 86351,
-  "document_count_with_risk_phrases": 699,
+  "document_count": 747,
+  "bytes": 9502869,
+  "line_count": 86505,
+  "document_count_with_risk_phrases": 700,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8147cabab532084df20a0ccfa1162d62b967741e20a94419d76b9e6e3d489cfe",
-      "bytes": 192440,
-      "lines": 1475,
+      "sha256": "641d55e0aaa3d3557cba260fbd346ed1b47ead986e20719e0ad985413fe09d1f",
+      "bytes": 192734,
+      "lines": 1477,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6369,6 +6369,7 @@
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
+        "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
         "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
@@ -7141,6 +7142,7 @@
         "verification/zero_local_record_constitution_test.py",
         "verification/zero_locality_boundary_test.py",
         "verification/zero_localized_modules_boundary_test.py",
+        "verification/zero_measure_independent_relational_record_test.py",
         "verification/zero_minimal_symmetry_reference_record_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
@@ -7212,19 +7214,19 @@
         481,
         579,
         595,
-        634,
-        637,
-        649,
-        651,
-        655,
-        657,
-        671,
-        706,
-        742,
-        751,
-        754,
-        757,
-        826
+        635,
+        638,
+        650,
+        652,
+        656,
+        658,
+        672,
+        707,
+        743,
+        752,
+        755,
+        758,
+        827
       ]
     },
     {
@@ -21033,9 +21035,9 @@
     },
     {
       "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
-      "sha256": "5643303ba49e050d217bdd0d6e3213db31b0dc7607363cae936becc4a938e1c6",
-      "bytes": 9384,
-      "lines": 128,
+      "sha256": "3f3cd0a1a48cf837cb5b00106a6378cb9034fac33e4627777557554284a81ae8",
+      "bytes": 9666,
+      "lines": 130,
       "title": "What zero balance fixes without choosing a coupling measure",
       "headings": [
         "What zero balance fixes without choosing a coupling measure",
@@ -21049,15 +21051,16 @@
       ],
       "local_links": [
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
-        "verification/zero_measure_independent_relational_record_test.py"
+        "verification/zero_measure_independent_relational_record_test.py",
+        "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md"
       ],
       "risk_phrase_lines": [
         7,
-        15,
-        33,
-        57,
-        115,
-        128
+        17,
+        35,
+        59,
+        117,
+        130
       ]
     },
     {
@@ -21089,6 +21092,35 @@
         125,
         131,
         145
+      ]
+    },
+    {
+      "path": "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
+      "sha256": "79f882a51cd17b25fd4627de0bac47385832cf128f0ead20d467770fc8ab292e",
+      "bytes": 10037,
+      "lines": 150,
+      "title": "Opposite signs across an unselected plenitude",
+      "headings": [
+        "Opposite signs across an unselected plenitude",
+        "Result",
+        "1. A counterpart operation in the actual neutral sector",
+        "2. Pair every coupling without choosing its weight",
+        "3. Pairwise balance for arbitrary clock/coupling selections",
+        "4. Why mirror symmetry is doing real work",
+        "5. The precise bridge needed for experiential cancellation",
+        "6. Next dependency"
+      ],
+      "local_links": [
+        "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
+        "verification/zero_mirror_balanced_plenitude_subject_test.py"
+      ],
+      "risk_phrase_lines": [
+        12,
+        20,
+        41,
+        73,
+        83,
+        103
       ]
     },
     {

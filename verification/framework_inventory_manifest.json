@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "05b2f41e041da6fd3d46effec9762cc3efc715e3",
-  "file_count": 2113,
+  "base_head": "e498165dd4b4e841c9dd8a1de11de5b055badb6d",
+  "file_count": 2115,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 192734,
-      "sha256": "641d55e0aaa3d3557cba260fbd346ed1b47ead986e20719e0ad985413fe09d1f"
+      "bytes": 193004,
+      "sha256": "dba6d5a7733eeb77ccf5a023b86ed1914692bcdb83bf0c1427bd02d0576a7fdd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3110,13 +3110,18 @@
     },
     {
       "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
-      "bytes": 9384,
-      "sha256": "5643303ba49e050d217bdd0d6e3213db31b0dc7607363cae936becc4a938e1c6"
+      "bytes": 9666,
+      "sha256": "3f3cd0a1a48cf837cb5b00106a6378cb9034fac33e4627777557554284a81ae8"
     },
     {
       "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
       "bytes": 10923,
       "sha256": "1c3efdb354357250f3671f87b7407505db7e485131573c615f1a5d50638744bb"
+    },
+    {
+      "path": "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
+      "bytes": 10037,
+      "sha256": "79f882a51cd17b25fd4627de0bac47385832cf128f0ead20d467770fc8ab292e"
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -8005,8 +8010,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 936678,
-      "sha256": "0a7a5c38e590138982e0fc49e2419fceb54b0e44d7c27e08aff3680f18b953a4"
+      "bytes": 937855,
+      "sha256": "06d042e3b98014645ff7d3c7871b00a7b145053e7bb95224b28c41ab518e7520"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10282,6 +10287,11 @@
       "path": "verification/zero_minimal_symmetry_reference_record_test.py",
       "bytes": 7358,
       "sha256": "080abf140f32a9bff254540116ff77c54213c9c02e16275875afa58a09854ca9"
+    },
+    {
+      "path": "verification/zero_mirror_balanced_plenitude_subject_test.py",
+      "bytes": 8577,
+      "sha256": "08691e3e37cdd722e6462fcfbaa736059a3638477e5a05fa3c49c514a0ef0178"
     },
     {
       "path": "verification/zero_necessity_constitutive_gate_test.py",

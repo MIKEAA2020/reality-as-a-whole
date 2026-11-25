@@ -12,6 +12,8 @@ Everything here is conditional on the previously specified Hilbert spaces, permu
 
 Verifier: [verification/zero_measure_independent_relational_record_test.py](verification/zero_measure_independent_relational_record_test.py).
 
+**Opposite-pairing continuation:** [mirror balance across the unselected plenitude](ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md) constructs paired histories with measure-independent physical sign balance, and states the additional premises required for experiential cancellation.
+
 ## 1. The two exact operator identities
 
 Use the earlier R–P–Q–V system:
