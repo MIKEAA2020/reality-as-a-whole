@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a20b34471f2c761491c9b0730e2080e69de4a27a",
-  "file_count": 2141,
+  "base_head": "10dbae1e77caaf30189c6deeca08807274e6911f",
+  "file_count": 2143,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 196771,
-      "sha256": "90672f983569434c11a2ee1fbf783c97608f154bc12b097d48b81032130113a4"
+      "bytes": 197094,
+      "sha256": "66d4848be553678efe9c14563de6308eee89ecf5f4e4dc7b9891fc28d72563a6"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1517,6 +1517,11 @@
       "path": "NONADDITIVE_CONSTITUTION_ARGUMENT.md",
       "bytes": 13726,
       "sha256": "12ac4214c4d1f6fe40d36ba06b0a0d7a1f223384d24628c527a7af8472b55fb3"
+    },
+    {
+      "path": "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
+      "bytes": 12180,
+      "sha256": "513e06375131f359f9315db76cf48e2cd84e624e4e545c258a3d8d48d88c07de"
     },
     {
       "path": "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
@@ -3195,8 +3200,8 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "bytes": 27523,
-      "sha256": "6d8e5778cfbcdff02ca80ab97aa9511cf994f42ac7949e07a46926e45e26b21b"
+      "bytes": 27906,
+      "sha256": "7b33cdd48f245b8b4bbc50b2e03fbd583340ba5c8acf2ff56d15366b7ee649e2"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -7494,6 +7499,11 @@
       "sha256": "bf787fe1bb3107b2204921221419c142d4bfa15a646ea646fb26283c00207afc"
     },
     {
+      "path": "verification/nonduality_neural_timescale_identifiability_test.py",
+      "bytes": 3561,
+      "sha256": "291124f5aef6210d2096ca4d3e6b55bdb34ada8ff361079bb355dcdad8617e04"
+    },
+    {
       "path": "verification/nonstatic_spherical_causality.json",
       "bytes": 470,
       "sha256": "90c18d346afd0fddc02d13e3acef1ebfdefe5a3beb00882372cb78fed3f2d93e"
@@ -8075,8 +8085,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 956347,
-      "sha256": "43c9c13860db552a63ca1bec687c1b21039635012f54fdc67d3c270d745d7150"
+      "bytes": 957491,
+      "sha256": "9ecb8c7acc9e285372626d5a215f463cc8f75621bfdefcceb9c4d97db535f3bb"
     },
     {
       "path": "verification/project_inventory.py",

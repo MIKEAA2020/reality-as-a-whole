@@ -1,5 +1,7 @@
 # One reality, zero, experience and necessary plenitude
 
+**Empirical boundary update:** [Non-dual experience, neural timescales and the one-reality program](NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md) examines Saketh et al. (2026), including its evidence, limitations, and a concrete proposal for testing dynamic subject-boundary relations without equating neural timescale differences with phenomenal valence or cosmic zero.
+
 ## 0. The proposal in one paragraph
 
 The strongest integrated reading of the program is this:

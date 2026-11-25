@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 717 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 650 verification Python scripts.
+- 718 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 651 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -312,6 +312,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md](NEY_WAVE_FUNCTION_REALISM_AND_RELATIONAL_EXPERIENCE_AUDIT.md) — Wave-function realism, relational structure and plural experience
 - [NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md](NOBEL_ENTANGLEMENT_BELL_TELEPORTATION_SOURCE_AUDIT.md) — Bell experiments and quantum information: the Nobel research
 - [NONADDITIVE_CONSTITUTION_ARGUMENT.md](NONADDITIVE_CONSTITUTION_ARGUMENT.md) — A substantive constitutive argument: non-additive qualitative realization
+- [NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md](NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md) — Non-dual experience, neural timescales and the one-reality program
 - [NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md](NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md) — Revising the whole-account for a non-optimal world
 - [NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md](NONOPTIMAL_WORLD_WHOLE_IMPLICATIONS.md) — Does a non-optimal universe affect reality as a whole?
 - [NONSTATIC_SPHERICAL_CAUSALITY.md](NONSTATIC_SPHERICAL_CAUSALITY.md) — Non-static spherical causality: before the first signal reaches infinity
@@ -1118,6 +1119,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/ney_relational_correlations_gate.py](verification/ney_relational_correlations_gate.py)
 - [verification/no_signalling_subject_measure_gate.py](verification/no_signalling_subject_measure_gate.py)
 - [verification/noble_symmetry_selection_gate.py](verification/noble_symmetry_selection_gate.py)
+- [verification/nonduality_neural_timescale_identifiability_test.py](verification/nonduality_neural_timescale_identifiability_test.py)
 - [verification/nonstatic_spherical_causality.py](verification/nonstatic_spherical_causality.py)
 - [verification/nonstatic_spherical_midisuperspace.py](verification/nonstatic_spherical_midisuperspace.py)
 - [verification/operational_accumulator.py](verification/operational_accumulator.py)

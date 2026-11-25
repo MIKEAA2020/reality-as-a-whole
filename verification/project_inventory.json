@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 760,
-  "bytes": 9695985,
-  "line_count": 88382,
-  "document_count_with_risk_phrases": 713,
+  "document_count": 761,
+  "bytes": 9708832,
+  "line_count": 88477,
+  "document_count_with_risk_phrases": 714,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6583e7808db7af051c1011fb7ccfed5b3c35f22ad7e152ec15aeb89da9e5fd1d",
-      "bytes": 196487,
-      "lines": 1503,
+      "sha256": "90672f983569434c11a2ee1fbf783c97608f154bc12b097d48b81032130113a4",
+      "bytes": 196771,
+      "lines": 1505,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6457,6 +6457,7 @@
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
+        "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
         "brain-specificity-thesis.md",
         "constitutive-reality-thesis.md",
         "identity-and-whole-thesis.md",
@@ -7222,6 +7223,7 @@
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_full_slice_test.py",
+        "verification/zero_upstream_invariant_internal_history_test.py",
         "verification/framework_inventory_manifest.json"
       ],
       "risk_phrase_lines": [
@@ -7248,11 +7250,11 @@
         671,
         685,
         720,
-        756,
-        765,
-        768,
-        771,
-        840
+        757,
+        766,
+        769,
+        772,
+        841
       ]
     },
     {
@@ -11114,6 +11116,31 @@
       ],
       "risk_phrase_lines": [
         132
+      ]
+    },
+    {
+      "path": "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
+      "sha256": "513e06375131f359f9315db76cf48e2cd84e624e4e545c258a3d8d48d88c07de",
+      "bytes": 12180,
+      "lines": 91,
+      "title": "Non-dual experience, neural timescales and the one-reality program",
+      "headings": [
+        "Non-dual experience, neural timescales and the one-reality program",
+        "The paper and the question",
+        "1. What was actually studied",
+        "2. What the paper found—and the scale of the evidence",
+        "3. Why the connection matters without making it do too much",
+        "4. A precise identifiability check",
+        "5. A stronger test arising from the synthesis",
+        "Sources, limitations and reproduction"
+      ],
+      "local_links": [
+        "verification/nonduality_neural_timescale_identifiability_test.py"
+      ],
+      "risk_phrase_lines": [
+        17,
+        50,
+        65
       ]
     },
     {
@@ -21613,9 +21640,9 @@
     },
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
-      "sha256": "6d8e5778cfbcdff02ca80ab97aa9511cf994f42ac7949e07a46926e45e26b21b",
-      "bytes": 27523,
-      "lines": 168,
+      "sha256": "7b33cdd48f245b8b4bbc50b2e03fbd583340ba5c8acf2ff56d15366b7ee649e2",
+      "bytes": 27906,
+      "lines": 170,
       "title": "One reality, zero, experience and necessary plenitude",
       "headings": [
         "One reality, zero, experience and necessary plenitude",
@@ -21628,6 +21655,7 @@
         "6. Probability without simulators or arbitrary branch counting"
       ],
       "local_links": [
+        "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
         "verification/zero_synthesis_gauge_incidence_test.py",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
@@ -21647,17 +21675,17 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
-        9,
-        23,
-        52,
-        56,
-        100,
+        11,
+        25,
+        54,
+        58,
         102,
-        128,
+        104,
         130,
-        133,
-        154,
-        159
+        132,
+        135,
+        156,
+        161
       ]
     },
     {
