@@ -4,6 +4,8 @@
 
 ## Result: a conditional selection, and its exact cost
 
+**Magnitude continuation:** [Intrinsic quality and angular reconstruction](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) keeps this conditional sign selection but computes the uniquely optimal old-carrier approximations to the two richer angular magnitudes, including exact positive residual errors and physical-access assumptions.
+
 The proposed next step was to use the **existing** sphere construction to connect a persistent subject boundary, felt quality, and incidence measure, rather than adding another clock or simply restating that the bridges are open. The most constructive result is a uniqueness theorem for one candidate quality on one candidate boundary:
 
 > If the relevant boundary is exactly the commuting `M–j–E` record algebra; if, while the echo memory E is blank, its signed quality is `κ s z`; and if the **complete physical T–Q–T echo** preserves that quality, then the only ±κ-valued diagonal rule on that algebra is `κ s j r`. The calibration and preservation premises need only be imposed on the actual positive-weight input branches. Here `j` and `r` are the current signs of the j and E records; `z` is the pre-echo j sign.

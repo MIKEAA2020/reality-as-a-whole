@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 805,
-  "bytes": 10303803,
-  "line_count": 93342,
-  "document_count_with_risk_phrases": 758,
+  "document_count": 806,
+  "bytes": 10319313,
+  "line_count": 93466,
+  "document_count_with_risk_phrases": 759,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "cd0d5a432bb95b5ad9a441853270f0bffe9b33447c2ee9574154d19d55dd399d",
-      "bytes": 211154,
-      "lines": 1605,
+      "sha256": "e639fe34c699e3aee6a4712f5051d51e5696f7ceef1abdc9fcd1fa688741db44",
+      "bytes": 211546,
+      "lines": 1608,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6459,6 +6459,7 @@
         "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
         "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
@@ -7291,6 +7292,8 @@
         "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_internal_reference_subject_report_test.py",
         "verification/zero_internal_reference_subject_valence_candidates_test.py",
+        "verification/zero_intrinsic_angular_estimation.py",
+        "verification/zero_intrinsic_angular_estimation_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
@@ -7406,19 +7409,19 @@
         484,
         584,
         603,
-        670,
-        674,
-        696,
-        699,
-        708,
-        711,
-        730,
-        765,
-        802,
-        811,
-        814,
-        817,
-        888
+        671,
+        675,
+        697,
+        700,
+        709,
+        712,
+        731,
+        766,
+        803,
+        812,
+        815,
+        818,
+        889
       ]
     },
     {
@@ -18556,9 +18559,9 @@
     },
     {
       "path": "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
-      "sha256": "58106e9c71893ff62ffe7965f1a48f81ccd06bcf7792cb053136ff730fec9db8",
-      "bytes": 17237,
-      "lines": 92,
+      "sha256": "13c17ac7f73ebec2a42e46b1c05dac5d793814db268f12aa23219892bfd0b2d6",
+      "bytes": 17589,
+      "lines": 94,
       "title": "Two source conversations: experiential reality, structure and non-optimality",
       "headings": [
         "Two source conversations: experiential reality, structure and non-optimality",
@@ -18570,6 +18573,7 @@
         "5. The practical research path"
       ],
       "local_links": [
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
         "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
         "EXPERIENCE_NONOPTIMALITY_ATTACHMENT_AUDIT.md",
@@ -18586,16 +18590,17 @@
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md"
       ],
       "risk_phrase_lines": [
-        28,
+        5,
         30,
-        38,
+        32,
         40,
-        45,
-        53,
-        79,
-        86,
+        42,
+        47,
+        55,
+        81,
         88,
-        90
+        90,
+        92
       ]
     },
     {
@@ -19924,9 +19929,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "7fd7784e47f1525373366883e076abab4e7305541000d03688862fce788a6e00",
-      "bytes": 12081,
-      "lines": 55,
+      "sha256": "9243a72de829cd8308e2c644be66b63f8e794e7af4a33b8afc3de50862295ef9",
+      "bytes": 12713,
+      "lines": 56,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19948,14 +19953,16 @@
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
-        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md"
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
         7,
         16,
         32,
         33,
-        44
+        34,
+        45
       ]
     },
     {
@@ -21049,9 +21056,9 @@
     },
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
-      "sha256": "cf1c6825d933dfe9eec29081b606cc0258dce126983046352ad72a68ee847919",
-      "bytes": 16758,
-      "lines": 141,
+      "sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d",
+      "bytes": 17095,
+      "lines": 143,
       "title": "One candidate intrinsic quality through the actual sphere echo",
       "headings": [
         "One candidate intrinsic quality through the actual sphere echo",
@@ -21066,6 +21073,7 @@
       "local_links": [
         "ZERO_ACTION_FLOW_CONTINUOUS_STATIONARY_SPHERE.md",
         "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
@@ -21074,16 +21082,17 @@
       "risk_phrase_lines": [
         3,
         5,
-        9,
+        7,
         11,
-        17,
-        38,
-        62,
-        88,
-        122,
+        13,
+        19,
+        40,
+        64,
+        90,
         124,
-        130,
-        132
+        126,
+        132,
+        134
       ]
     },
     {
@@ -22025,6 +22034,45 @@
         104,
         106,
         127
+      ]
+    },
+    {
+      "path": "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+      "sha256": "cc6849f3ece3853783755bfb4621256cc39c2fba34b0596fdf25318aa61ad2c6",
+      "bytes": 13449,
+      "lines": 114,
+      "title": "Intrinsic quality and the best accessible angular reconstruction",
+      "headings": [
+        "Intrinsic quality and the best accessible angular reconstruction",
+        "Result",
+        "1. Audit, adaptation and the intended identity",
+        "2. The candidate sign and what the old carrier actually sees",
+        "3. The uniquely best old-carrier approximation",
+        "4. What the signs and a zero total do—and do not—select",
+        "5. Experiential and structural intelligibility remain connected"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
+        "verification/zero_intrinsic_angular_estimation.py",
+        "verification/zero_intrinsic_angular_estimation_test.py",
+        "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+        "verification/zero_intrinsic_angular_estimation_test.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        13,
+        19,
+        21,
+        49,
+        60,
+        69,
+        76,
+        78,
+        93,
+        95,
+        107
       ]
     },
     {
@@ -23649,9 +23697,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "1fac60a089996ee8e61175c3c7a561d5b4c161e7611e04dc9ba9139de607a93b",
-      "bytes": 18671,
-      "lines": 132,
+      "sha256": "94b95126fd34a5ec7e09e29405f67960117cbb725d2c932016bc61c6d1796795",
+      "bytes": 19019,
+      "lines": 134,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23664,6 +23712,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
@@ -23682,18 +23731,19 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
+        5,
         11,
-        21,
-        52,
-        67,
-        98,
+        13,
+        23,
+        54,
+        69,
         100,
-        108,
-        111,
-        112,
+        102,
+        110,
         113,
-        120
+        114,
+        115,
+        122
       ]
     },
     {

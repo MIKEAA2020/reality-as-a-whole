@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 762 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 703 verification Python scripts.
+- 763 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 705 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -656,6 +656,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md](ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md) — A reference from the paired state, and what a confined subject could report
 - [ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md](ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md) — One disturbed history, two experiential bridges
 - [ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md](ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md) — The internal sphere, binary distinction, and actual incidence
+- [ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) — Intrinsic quality and the best accessible angular reconstruction
 - [ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md](ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md) — A conservation-preserving instrument for the internal sphere
 - [ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md](ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md) — From chosen orientations to isotropic zero—and a test of plenitude
 - [ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md](ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md) — One history, two candidate incidences: constitution, measure and echo
@@ -1502,6 +1503,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_internal_pair_sphere_report_test.py](verification/zero_internal_pair_sphere_report_test.py)
 - [verification/zero_internal_reference_subject_report_test.py](verification/zero_internal_reference_subject_report_test.py)
 - [verification/zero_internal_reference_subject_valence_candidates_test.py](verification/zero_internal_reference_subject_valence_candidates_test.py)
+- [verification/zero_intrinsic_angular_estimation.py](verification/zero_intrinsic_angular_estimation.py)
+- [verification/zero_intrinsic_angular_estimation_test.py](verification/zero_intrinsic_angular_estimation_test.py)
 - [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)
 - [verification/zero_isotropic_singlet_history_test.py](verification/zero_isotropic_singlet_history_test.py)

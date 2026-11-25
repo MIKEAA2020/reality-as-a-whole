@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "3ef4405fa044905cc3bfdb27d739de486e3e3917",
-  "file_count": 2256,
+  "base_head": "c1f43d84afcdb2be22ea0d8edde00bc46883ffe7",
+  "file_count": 2259,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 211154,
-      "sha256": "cd0d5a432bb95b5ad9a441853270f0bffe9b33447c2ee9574154d19d55dd399d"
+      "bytes": 211546,
+      "sha256": "e639fe34c699e3aee6a4712f5051d51e5696f7ceef1abdc9fcd1fa688741db44"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2715,8 +2715,8 @@
     },
     {
       "path": "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
-      "bytes": 17237,
-      "sha256": "58106e9c71893ff62ffe7965f1a48f81ccd06bcf7792cb053136ff730fec9db8"
+      "bytes": 17589,
+      "sha256": "13c17ac7f73ebec2a42e46b1c05dac5d793814db268f12aa23219892bfd0b2d6"
     },
     {
       "path": "TWO_FIELD_COMPLETE_INSTRUMENT_CONTINUUM.md",
@@ -2920,8 +2920,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 12081,
-      "sha256": "7fd7784e47f1525373366883e076abab4e7305541000d03688862fce788a6e00"
+      "bytes": 12713,
+      "sha256": "9243a72de829cd8308e2c644be66b63f8e794e7af4a33b8afc3de50862295ef9"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3090,8 +3090,8 @@
     },
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
-      "bytes": 16758,
-      "sha256": "cf1c6825d933dfe9eec29081b606cc0258dce126983046352ad72a68ee847919"
+      "bytes": 17095,
+      "sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d"
     },
     {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -3237,6 +3237,11 @@
       "path": "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
       "bytes": 12106,
       "sha256": "3274e0b0653a33b790062c61397690b0eab546aaa2edac1397043b9c95c74733"
+    },
+    {
+      "path": "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+      "bytes": 13449,
+      "sha256": "cc6849f3ece3853783755bfb4621256cc39c2fba34b0596fdf25318aa61ad2c6"
     },
     {
       "path": "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
@@ -3495,8 +3500,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 18671,
-      "sha256": "1fac60a089996ee8e61175c3c7a561d5b4c161e7611e04dc9ba9139de607a93b"
+      "bytes": 19019,
+      "sha256": "94b95126fd34a5ec7e09e29405f67960117cbb725d2c932016bc61c6d1796795"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -5790,8 +5795,8 @@
     },
     {
       "path": "verification/build_source_repass_tracker.py",
-      "bytes": 6692,
-      "sha256": "e98faf5160da2b9e79e3267d1bf49520106f6b819cee28888e676700b464dafa"
+      "bytes": 6873,
+      "sha256": "af8853655406519f2b3d0fe6c6a40c1c5935b592104172d059f2b85ba63d5ce2"
     },
     {
       "path": "verification/cardiac_feedback_pain_predictions.json",
@@ -8400,8 +8405,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1020420,
-      "sha256": "a30ef86142e7a711c8b77149b00f51f34f78ca1b3da70d50983d5097de24965c"
+      "bytes": 1022345,
+      "sha256": "b13d7de41efe95ca44ddf4f60cce9e8a352dbb02af9d33c1e7f889799b336964"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9570,8 +9575,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 505093,
-      "sha256": "465cc5fab5fd029db615aa498672fd5ffbf8456d681a6a4f8da6ae52a1f25aba"
+      "bytes": 505992,
+      "sha256": "7c689ec9d07734809341c260c4802983b677cdc867af6fe0d2d117c22d489ed0"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10772,6 +10777,16 @@
       "path": "verification/zero_internal_reference_subject_valence_candidates_test.py",
       "bytes": 8160,
       "sha256": "bac0b0a5281e9d2cffeea96a84e13dd96ae53d63900fb6a512405561a1b5c81c"
+    },
+    {
+      "path": "verification/zero_intrinsic_angular_estimation.py",
+      "bytes": 1991,
+      "sha256": "44f10979490ff1a155e25bbdce48a55029bc382e40b28d4213f189f8565618d0"
+    },
+    {
+      "path": "verification/zero_intrinsic_angular_estimation_test.py",
+      "bytes": 4189,
+      "sha256": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07"
     },
     {
       "path": "verification/zero_invariant_all_history_record_clock_test.py",

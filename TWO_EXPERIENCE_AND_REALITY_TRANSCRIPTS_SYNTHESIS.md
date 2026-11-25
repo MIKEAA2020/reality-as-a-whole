@@ -2,6 +2,8 @@
 
 ## Purpose and scope
 
+**Constructive continuation:** [Intrinsic quality and angular reconstruction](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) uses these source distinctions in the shared coherent sphere–echo candidate, deriving exact optimal old-carrier magnitude estimates and their unavoidable errors without treating the physical estimator as felt experience.
+
 This synthesis evaluates both requested source conversations against the **current** framework. The files are conversations with another assistant, not primary research or automatically reliable derivations. They contain useful arguments and substantial overstatements. Their user questions record earlier stages of the project; the user's later clarifications about a non-perfect whole, no universal agent as the governing target, timelessness and strongest possibility=actuality take precedence.
 
 Both complete UTF-8 text files were read, including all questions and answers:

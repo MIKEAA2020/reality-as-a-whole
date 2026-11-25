@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Ninth-pass continuation:** [intrinsic quality and angular reconstruction](ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md) derives the optimal old-carrier observables for both angular magnitude candidates, with exact irreducible physical reconstruction errors. The result does not equate either observable or its estimate with felt experience.
+
 **Eighth-pass continuation:** [the coherent angular reservoir clock](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) combines the original echo vectors with purified reversible source/reservoir branches and a stationary two-clock protocol. It shows an explicit magnitude-access obstruction for a carrier that lacks the added angular record; access to that record does not establish subjective experience.
 
 **Seventh-pass continuation:** [one coherent angular Hilbert-space extension](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) executes the original T–Q–T echo and inverse with a sector-controlled register and compares candidate magnitudes on the full state. [Observer transport](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) distinguishes invariant descriptions of fixed records from new observer-dependent questions. Both are conditional model constructions; neither supplies an actual local access interface, subjective incidence or zero-derived physical laws.

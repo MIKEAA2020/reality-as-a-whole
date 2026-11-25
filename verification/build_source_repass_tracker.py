@@ -20,6 +20,7 @@ FOURTH='ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md'
 FIFTH='ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md'
 SEVENTH='ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md'
 EIGHTH='ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md'
+NINTH='ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -45,10 +46,10 @@ PARTIAL={
   'plan':[SECOND], 'implemented':[SECOND,'verification/zero_stationary_subject_incidence.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt': {
   'audit':['TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md'],
-  'plan':[], 'implemented':[]},
+  'plan':[NINTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py']},
  'sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt': {
   'audit':['TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md'],
-  'plan':[], 'implemented':[]},
+  'plan':[NINTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py']},
  'sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt': {
   'audit':['UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md'],
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
