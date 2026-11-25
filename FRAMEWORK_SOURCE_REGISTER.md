@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 696 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 629 verification Python scripts.
+- 697 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 630 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -698,6 +698,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) — Zero totality: can symmetry and parsimony fix the internal measure?
 - [ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) — Geometry slices for two autonomous records: a multichannel continuum result
 - [ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) — Full-state geometry data for two autonomous records
+- [ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md](ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md) — A unique zero-eigenstate for an entire relational history
 - [brain-specificity-thesis.md](brain-specificity-thesis.md) — Brain specificity, organizational realization, and whole-reality intelligibility
 - [constitutive-reality-thesis.md](constitutive-reality-thesis.md) — Concrete constitution and reality as a whole
 - [identity-and-whole-thesis.md](identity-and-whole-thesis.md) — Identity, perspective, and reality as a whole
@@ -1441,6 +1442,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_spherical_plenitude_opposite_records_test.py](verification/zero_spherical_plenitude_opposite_records_test.py)
 - [verification/zero_spin_constitution_test.py](verification/zero_spin_constitution_test.py)
+- [verification/zero_stationary_whole_unique_history_test.py](verification/zero_stationary_whole_unique_history_test.py)
 - [verification/zero_subject_boundary_full_constraint_test.py](verification/zero_subject_boundary_full_constraint_test.py)
 - [verification/zero_subject_incidence_frame_test.py](verification/zero_subject_incidence_frame_test.py)
 - [verification/zero_subject_locality_overlap_balance_test.py](verification/zero_subject_locality_overlap_balance_test.py)

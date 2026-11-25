@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9b23f2afb07d2c99d0bd63481aa651322edec4b5",
-  "file_count": 2099,
+  "base_head": "17ef2bc0fa034f4288f25eba8b3b9150746a9d0d",
+  "file_count": 2101,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 190781,
-      "sha256": "1ec68e2e2f3ac0eb13c167b5b333f0d973065a4c85af0812b0b09df3dfc9261d"
+      "bytes": 191059,
+      "sha256": "d75bdbecd9c8236f816703e37e2bf90e2982ea6300df7149ed567433f2981f8d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2915,8 +2915,8 @@
     },
     {
       "path": "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
-      "bytes": 10555,
-      "sha256": "a2886af3d74411662546ca163f060a37cf92c2eade0500d898067db441823edf"
+      "bytes": 10835,
+      "sha256": "1abd67433153a962f1d1469a9318d92c016c2914a34ae09b927ffb23f8749eb6"
     },
     {
       "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
@@ -3447,6 +3447,11 @@
       "path": "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
       "bytes": 12782,
       "sha256": "d1d03294f6a8d76a2f868745298291a1299d5421a150238fdb2726f9d167d663"
+    },
+    {
+      "path": "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
+      "bytes": 11966,
+      "sha256": "3165fb303943bd2d5a3a7a363fb0668215cc1a8afba61fc433ffa60f800fe454"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -7970,8 +7975,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 927958,
-      "sha256": "8a7922643f92407da1689ecd14e6ee6d03e80b6cc94803b60cc4dbcbe4882802"
+      "bytes": 929358,
+      "sha256": "eda464aecd004a162a09f0b150e355cb4da9997a071710d4c9b21853732954f9"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10392,6 +10397,11 @@
       "path": "verification/zero_spin_constitution_test.py",
       "bytes": 7525,
       "sha256": "a05a3af1558b9c0f75ddcb7fc62a677ec46369e9fe55e728518cc70171f94150"
+    },
+    {
+      "path": "verification/zero_stationary_whole_unique_history_test.py",
+      "bytes": 7540,
+      "sha256": "b536c4d549cf8972e79268bb9927c7e6b6761e47ed5a156f87ec96b2d6503633"
     },
     {
       "path": "verification/zero_subject_boundary_full_constraint_test.py",

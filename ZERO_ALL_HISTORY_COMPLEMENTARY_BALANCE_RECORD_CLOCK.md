@@ -13,6 +13,8 @@ This is an exact conditional finite-model solution to the specific all-history c
 
 Verifier: [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py).
 
+**Continuation:** [A unique zero-eigenstate for an entire relational history](ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md) gives a stationary positive constraint with a one-dimensional zero kernel, and identifies the additional selectors and state-dependent embedding required.
+
 ## 1. The invariant zero kernel has an internal logical degree of freedom
 
 The [reference construction](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md) defined the active R–W–T–F system and
