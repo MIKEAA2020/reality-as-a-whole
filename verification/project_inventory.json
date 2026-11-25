@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 751,
-  "bytes": 9557237,
-  "line_count": 87027,
-  "document_count_with_risk_phrases": 704,
+  "document_count": 752,
+  "bytes": 9572501,
+  "line_count": 87184,
+  "document_count_with_risk_phrases": 705,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7f7f8695586330dad0307ed0ded873228f414160dfcefc7a40ee0349ec6dd559",
-      "bytes": 193861,
-      "lines": 1485,
+      "sha256": "90d2daf6b86f02299b0f98f984840ebf880e7811fd94407dd97a2d7c03b85024",
+      "bytes": 194137,
+      "lines": 1487,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6379,6 +6379,7 @@
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
+        "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -7107,6 +7108,7 @@
         "verification/workspace_intervention_audit.py",
         "verification/yukawa_seesaw_ckm.py",
         "verification/zero_all_sector_branchwise_balance_test.py",
+        "verification/zero_all_sector_noncommuting_sphere_test.py",
         "verification/zero_all_sector_record_involution_test.py",
         "verification/zero_all_sector_sphere_clock_work_test.py",
         "verification/zero_article_jet_dual_pair_test.py",
@@ -7224,17 +7226,17 @@
         595,
         639,
         642,
-        654,
-        656,
-        660,
-        662,
-        676,
-        711,
-        747,
-        756,
-        759,
-        762,
-        831
+        655,
+        657,
+        661,
+        663,
+        677,
+        712,
+        748,
+        757,
+        760,
+        763,
+        832
       ]
     },
     {
@@ -20287,6 +20289,39 @@
       ]
     },
     {
+      "path": "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
+      "sha256": "593b03954a2f5315238d1ede3651f7cca3bb1800d137984a5c8cc2e85b38b20a",
+      "bytes": 14700,
+      "lines": 153,
+      "title": "One internal reference: zero, geometry, measurement and experience",
+      "headings": [
+        "One internal reference: zero, geometry, measurement and experience",
+        "The broad proposal",
+        "1. Sphere and cone: one piece of mathematics, two roles",
+        "2. Covariant balance relative to the internal reference",
+        "3. The same reference produces the measurement effects",
+        "4. A candidate physical–experiential connection",
+        "5. A stronger test of the experiential bridge",
+        "6. Necessity, incidence, and a constructive path"
+      ],
+      "local_links": [
+        "verification/zero_covariant_sphere_subject_bridge_test.py",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
+        "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        67,
+        79,
+        95,
+        112,
+        120,
+        144,
+        153
+      ]
+    },
+    {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e",
       "bytes": 15430,
@@ -21357,9 +21392,9 @@
     },
     {
       "path": "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
-      "sha256": "292ca8bc259747b1eab3fdb6cfaace242e02b13151f9970c178768341e966c06",
-      "bytes": 13703,
-      "lines": 130,
+      "sha256": "1825014e490463af40b458636bcfb67d7fcaaa056aea3e5e223c76f2dd130999",
+      "bytes": 13991,
+      "lines": 132,
       "title": "Noncommuting sphere readouts on the actual complement",
       "headings": [
         "Noncommuting sphere readouts on the actual complement",
@@ -21372,20 +21407,21 @@
         "6. What this advances and what it does not"
       ],
       "local_links": [
+        "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
         "verification/zero_all_sector_noncommuting_sphere_test.py",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
         "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        10,
-        46,
-        64,
-        77,
-        92,
-        108,
-        115,
-        119
+        11,
+        12,
+        48,
+        66,
+        79,
+        94,
+        110,
+        117,
+        121
       ]
     },
     {

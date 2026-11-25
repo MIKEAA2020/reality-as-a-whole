@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1e66c6c608ff3f354d87330866e0163abbaf4ec2",
-  "file_count": 2123,
+  "base_head": "d5404d72aeb8668d8788da5f6258882d8803531f",
+  "file_count": 2125,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 194137,
-      "sha256": "90d2daf6b86f02299b0f98f984840ebf880e7811fd94407dd97a2d7c03b85024"
+      "bytes": 194448,
+      "sha256": "3ac2b611a4d3e83c05356e9b8aa46c140e27279ac9e6d5de805fb73181afbdb2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2994,6 +2994,11 @@
       "sha256": "b10c412c7581cb987a45b94f1d7afc0181e1d9386c9f08ae66d6a99383793f13"
     },
     {
+      "path": "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
+      "bytes": 14700,
+      "sha256": "593b03954a2f5315238d1ede3651f7cca3bb1800d137984a5c8cc2e85b38b20a"
+    },
+    {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
       "bytes": 15430,
       "sha256": "88262192cfb7244b7e5bbf253f60a9fe49d6d04443c3c5c13c97363e7885b83e"
@@ -3160,8 +3165,8 @@
     },
     {
       "path": "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
-      "bytes": 13703,
-      "sha256": "292ca8bc259747b1eab3fdb6cfaace242e02b13151f9970c178768341e966c06"
+      "bytes": 13991,
+      "sha256": "1825014e490463af40b458636bcfb67d7fcaaa056aea3e5e223c76f2dd130999"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -8030,8 +8035,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 943356,
-      "sha256": "bb5498d698c7d864b97e88db136c14c4d0a6788a6b02cafca178688c90d02ffb"
+      "bytes": 944757,
+      "sha256": "f5f0272b3ea08ebeffd0c6ba4565008320b42a2464fb787687111bc1d8db5b98"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10172,6 +10177,11 @@
       "path": "verification/zero_covariant_pairing_reference_history_test.py",
       "bytes": 10146,
       "sha256": "800b1c7cc705cd693b6b8c8ed1512575503d27877f3f6faa4fb0c23f54241ea4"
+    },
+    {
+      "path": "verification/zero_covariant_sphere_subject_bridge_test.py",
+      "bytes": 12029,
+      "sha256": "2de583ba7a3f5b8cb5dacac3094ef69600b86de13349ef2df81f85ec7ba6cb68"
     },
     {
       "path": "verification/zero_domain_restriction_sector_clock_code_test.py",

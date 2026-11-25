@@ -1,5 +1,7 @@
 # Noncommuting sphere readouts on the actual complement
 
+> **Broader synthesis:** [One internal reference: zero, geometry, measurement and experience](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) connects these instruments to a reference-relative Lorentz-cone representation and tests competing mirror-odd experiential candidates.
+
 ## Result
 
 The previous all-sector construction implemented a genuine noncommuting sphere instrument only on the original two-dimensional code; its 254-dimensional complement used a commuting fixed-setting surrogate. We can now replace most of that surrogate **without changing the original paired lab input state** and while preserving the finite model's three directional charges and declared local lab energies.
