@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7936500f750f79c6007d799d4b40004d85d2ce4b",
-  "file_count": 2252,
+  "base_head": "3ef4405fa044905cc3bfdb27d739de486e3e3917",
+  "file_count": 2256,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 210653,
-      "sha256": "cf8de7599b7538ac0fea3ae9050b4352c9483e01f8bfbebddba7ec57287c7ad4"
+      "bytes": 211154,
+      "sha256": "cd0d5a432bb95b5ad9a441853270f0bffe9b33447c2ee9574154d19d55dd399d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2920,8 +2920,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 11503,
-      "sha256": "15ce6933c2d9739b5948796ccd7531d1bd078de42b798664ee19ea7aeada0648"
+      "bytes": 12081,
+      "sha256": "7fd7784e47f1525373366883e076abab4e7305541000d03688862fce788a6e00"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -2999,9 +2999,14 @@
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
     },
     {
+      "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+      "bytes": 14488,
+      "sha256": "b7a633951dbcea62de4d38207d5b6d6d0db88dc713bc1caa2cdcd274864ad279"
+    },
+    {
       "path": "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
-      "bytes": 11249,
-      "sha256": "511fccb618bed20e69825ba1712784040356329f706e48ece87fefdd0fcdd61e"
+      "bytes": 11598,
+      "sha256": "170ab5db04edc885e2729f321404dac4f5b2c0512bda403a36b643f226bc242c"
     },
     {
       "path": "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -3465,8 +3470,8 @@
     },
     {
       "path": "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
-      "bytes": 7488,
-      "sha256": "97cb2e682686d66cfa7075e35e3e06e94d13683e245a5deec7e3ca152e19828f"
+      "bytes": 7895,
+      "sha256": "851298c035e4fc9ee17747054bd32eec547592529da5a20e5ae8b3bc47ba5d19"
     },
     {
       "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
@@ -3490,8 +3495,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 18264,
-      "sha256": "cd097834fe772f9f3b8bca052f646e96a797ae499a42317b38c9a1876753a97d"
+      "bytes": 18671,
+      "sha256": "1fac60a089996ee8e61175c3c7a561d5b4c161e7611e04dc9ba9139de607a93b"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -5785,8 +5790,8 @@
     },
     {
       "path": "verification/build_source_repass_tracker.py",
-      "bytes": 6551,
-      "sha256": "e7078615fab88c2655229cc4c061bd5e7e428094ea45571e29fa537145e73b96"
+      "bytes": 6692,
+      "sha256": "e98faf5160da2b9e79e3267d1bf49520106f6b819cee28888e676700b464dafa"
     },
     {
       "path": "verification/cardiac_feedback_pain_predictions.json",
@@ -8395,8 +8400,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1018570,
-      "sha256": "6b88550b18012852c6fda4cbb7f87a70584686be047b04f786133b6323b179f3"
+      "bytes": 1020420,
+      "sha256": "a30ef86142e7a711c8b77149b00f51f34f78ca1b3da70d50983d5097de24965c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9565,8 +9570,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 504360,
-      "sha256": "f694c43fa850d6e3d2236287a53f0e2bd369b9d69c80a0bed08497376546ffd6"
+      "bytes": 505093,
+      "sha256": "465cc5fab5fd029db615aa498672fd5ffbf8456d681a6a4f8da6ae52a1f25aba"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10552,6 +10557,21 @@
       "path": "verification/zero_clock_finite_reservoir_reuse_test.py",
       "bytes": 13004,
       "sha256": "b2081d5c4fa10e7fc8f4dd2f9400badd8992143326994fd3dcbdba581fe97aca"
+    },
+    {
+      "path": "verification/zero_clock_relational_povm_test.py",
+      "bytes": 3216,
+      "sha256": "18682d5f58b29d7c73f27a13d68846fb2fd46f8f1caf71c7251e7a0b2260a11d"
+    },
+    {
+      "path": "verification/zero_coherent_clock_angular_history.py",
+      "bytes": 4624,
+      "sha256": "7c3d4068dafa6a04e9ee294125696f6cb7ed8b129f9825caf6c1602e4563cfd1"
+    },
+    {
+      "path": "verification/zero_coherent_clock_angular_history_test.py",
+      "bytes": 9593,
+      "sha256": "788a07288e5ba63c5d478644eeaa3a6e35b9eb59f710391f49d61c42906533dd"
     },
     {
       "path": "verification/zero_confined_realms_interface_test.py",

@@ -2,6 +2,8 @@
 
 ## Result
 
+**Stationary-clock continuation:** [the coherent angular reservoir history](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) composes these actual echo gates and angular states with the purified 20-step reservoir program, defines stationary clock effects, and exhibits a concrete magnitude-access obstruction when the angular register is withheld.
+
 The preceding [angular point–sphere construction](ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md) reproduced the echo's diagonal ledger but did not construct its continuous angular information on the original quantum vectors. The [full-quantum two-band check](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) connected just the band averages. This pass constructs a **coherent angular-register extension of the same original echo**, recovers the entire T–Q–T echo and its inverse on all 16 original source histories, and puts the two continuous magnitude functions into actual quantum multiplication operators.
 
 The finite angular registers are not claimed to be identical to the complete old quantum state: recording the angular bands entangles a new degree of freedom and changes the old system's reduced coherences. The construction is also not a derivation of the angular sphere, its measure, actual experience, cosmic energy, or a zero-residue constitution. It establishes a common mathematical/physical interface in the specified model rather than a metaphysical conclusion.

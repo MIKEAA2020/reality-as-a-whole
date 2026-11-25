@@ -2,6 +2,8 @@
 
 ## A constructive question across the existing sources
 
+**Coherent continuation:** [one angular–reservoir quantum history](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) composes the original quantum echo and full purified reservoir, checks the same reference-conditioned predictions and coherent clock entries, and supplies a stationary randomized-anchor POVM. Bare reference projectors are not themselves stationary; access remains explicitly conditional.
+
 The user has emphasized that a confined surface/game inhabitant does not automatically access the traveler/player's richer realm, and that time is relational rather than a preferred external clock. Earlier work already joined Page–Wootters to the sphere and constructed two differently correlated internal reference clocks using [TIME/DATA's clock-map question](ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md). [Kent's supplied paper](KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md) supplies a related but different idea: which boundary records are admissible varies by spacetime location. This pass adapts the **need for explicitly scoped access**, not Kent's specific future-boundary prescription or single-history ontology.
 
 The implementation joins the earlier typed B-claim correctness and the `sj`/`sjr` candidate-quality contrast **in the same clock-conditioned physical event**. The exact tests use the existing 20-tick sphere ledger under both clean and thermal auxiliary preparations, and the two previously defined q=1 and q=2 reference-clock relations. The clocks and their preparation are additional model inputs; they are not derived from zero.

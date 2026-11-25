@@ -19,6 +19,7 @@ THIRD='ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md'
 FOURTH='ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md'
 FIFTH='ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md'
 SEVENTH='ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md'
+EIGHTH='ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -30,7 +31,9 @@ PARTIAL={
   'implemented':[THIRD,'verification/zero_stationary_refinement_self_location.py']},
  'sources/uploads/page1983.pdf': {
   'audit':['ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md'],
-  'plan':[FIRST], 'implemented':[FIRST,'verification/zero_stationary_battery_bridge.py']},
+  'plan':[FIRST,EIGHTH],
+  'implemented':[FIRST,'verification/zero_stationary_battery_bridge.py',EIGHTH,
+                 'verification/zero_clock_relational_povm_test.py']},
  'sources/uploads/kent2015.pdf': {
   'audit':['KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md'],
   'plan':[FOURTH], 'implemented':[]},

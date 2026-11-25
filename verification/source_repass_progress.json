@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "cf8de7599b7538ac0fea3ae9050b4352c9483e01f8bfbebddba7ec57287c7ad4",
+      "sha256": "cd0d5a432bb95b5ad9a441853270f0bffe9b33447c2ee9574154d19d55dd399d",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11025,7 +11025,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "15ce6933c2d9739b5948796ccd7531d1bd078de42b798664ee19ea7aeada0648",
+      "sha256": "7fd7784e47f1525373366883e076abab4e7305541000d03688862fce788a6e00",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11327,9 +11327,28 @@
       }
     },
     {
+      "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+      "kind": "authored root document",
+      "sha256": "b7a633951dbcea62de4d38207d5b6d6d0db88dc713bc1caa2cdcd274864ad279",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
       "kind": "authored root document",
-      "sha256": "511fccb618bed20e69825ba1712784040356329f706e48ece87fefdd0fcdd61e",
+      "sha256": "170ab5db04edc885e2729f321404dac4f5b2c0512bda403a36b643f226bc242c",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13096,7 +13115,7 @@
     {
       "path": "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
       "kind": "authored root document",
-      "sha256": "97cb2e682686d66cfa7075e35e3e06e94d13683e245a5deec7e3ca152e19828f",
+      "sha256": "851298c035e4fc9ee17747054bd32eec547592529da5a20e5ae8b3bc47ba5d19",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13191,7 +13210,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "cd097834fe772f9f3b8bca052f646e96a797ae499a42317b38c9a1876753a97d",
+      "sha256": "1fac60a089996ee8e61175c3c7a561d5b4c161e7611e04dc9ba9139de607a93b",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -17308,14 +17327,17 @@
         "plan": {
           "status": "partial",
           "evidence": [
-            "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md"
+            "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+            "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md"
           ]
         },
         "implemented": {
           "status": "partial",
           "evidence": [
             "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
-            "verification/zero_stationary_battery_bridge.py"
+            "verification/zero_stationary_battery_bridge.py",
+            "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+            "verification/zero_clock_relational_povm_test.py"
           ]
         }
       }

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 804,
-  "bytes": 10287073,
-  "line_count": 93206,
-  "document_count_with_risk_phrases": 757,
+  "document_count": 805,
+  "bytes": 10303803,
+  "line_count": 93342,
+  "document_count_with_risk_phrases": 758,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "cf8de7599b7538ac0fea3ae9050b4352c9483e01f8bfbebddba7ec57287c7ad4",
-      "bytes": 210653,
-      "lines": 1601,
+      "sha256": "cd0d5a432bb95b5ad9a441853270f0bffe9b33447c2ee9574154d19d55dd399d",
+      "bytes": 211154,
+      "lines": 1605,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6411,6 +6411,7 @@
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
@@ -7247,6 +7248,9 @@
         "verification/zero_balanced_reference_preparation_test.py",
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_clock_finite_reservoir_reuse_test.py",
+        "verification/zero_clock_relational_povm_test.py",
+        "verification/zero_coherent_clock_angular_history.py",
+        "verification/zero_coherent_clock_angular_history_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_conserving_sphere_handedness_report_test.py",
@@ -7402,19 +7406,19 @@
         484,
         584,
         603,
-        669,
-        673,
-        695,
-        698,
-        707,
-        710,
-        729,
-        764,
-        801,
-        810,
-        813,
-        816,
-        887
+        670,
+        674,
+        696,
+        699,
+        708,
+        711,
+        730,
+        765,
+        802,
+        811,
+        814,
+        817,
+        888
       ]
     },
     {
@@ -19920,9 +19924,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "15ce6933c2d9739b5948796ccd7531d1bd078de42b798664ee19ea7aeada0648",
-      "bytes": 11503,
-      "lines": 54,
+      "sha256": "7fd7784e47f1525373366883e076abab4e7305541000d03688862fce788a6e00",
+      "bytes": 12081,
+      "lines": 55,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19943,13 +19947,15 @@
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
-        "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md"
+        "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md"
       ],
       "risk_phrase_lines": [
         7,
         16,
         32,
-        43
+        33,
+        44
       ]
     },
     {
@@ -20448,10 +20454,45 @@
       ]
     },
     {
-      "path": "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
-      "sha256": "511fccb618bed20e69825ba1712784040356329f706e48ece87fefdd0fcdd61e",
-      "bytes": 11249,
+      "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+      "sha256": "b7a633951dbcea62de4d38207d5b6d6d0db88dc713bc1caa2cdcd274864ad279",
+      "bytes": 14488,
       "lines": 125,
+      "title": "One coherent angular echo, purified reservoir and relational clock",
+      "headings": [
+        "One coherent angular echo, purified reservoir and relational clock",
+        "Result",
+        "1. Source-to-candidate connection",
+        "2. One coherent 20-step carrier",
+        "3. Stationarity without treating a bare clock reading as invariant",
+        "4. The original quantum vectors reproduce the clock comparison",
+        "5. A full-carrier coherence comparison",
+        "6. What a confined carrier cannot infer"
+      ],
+      "local_links": [
+        "verification/zero_coherent_clock_angular_history_test.py",
+        "verification/zero_clock_relational_povm_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+        "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
+        "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
+        "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
+        "verification/zero_clock_relational_povm_test.py"
+      ],
+      "risk_phrase_lines": [
+        15,
+        31,
+        39,
+        69,
+        89,
+        93,
+        110
+      ]
+    },
+    {
+      "path": "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
+      "sha256": "170ab5db04edc885e2729f321404dac4f5b2c0512bda403a36b643f226bc242c",
+      "bytes": 11598,
+      "lines": 127,
       "title": "A coherent angular sphere record in the original quantum echo",
       "headings": [
         "A coherent angular sphere record in the original quantum echo",
@@ -20463,6 +20504,7 @@
         "5. Consequences for the common candidate"
       ],
       "local_links": [
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
         "verification/zero_quantum_angular_echo.py",
@@ -20472,17 +20514,17 @@
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
+        9,
         15,
-        16,
-        47,
-        69,
-        75,
-        98,
-        108,
-        114,
-        125
+        17,
+        18,
+        49,
+        71,
+        77,
+        100,
+        110,
+        116,
+        127
       ]
     },
     {
@@ -23448,9 +23490,9 @@
     },
     {
       "path": "ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md",
-      "sha256": "97cb2e682686d66cfa7075e35e3e06e94d13683e245a5deec7e3ca152e19828f",
-      "bytes": 7488,
-      "lines": 61,
+      "sha256": "851298c035e4fc9ee17747054bd32eec547592529da5a20e5ae8b3bc47ba5d19",
+      "bytes": 7895,
+      "lines": 63,
       "title": "Source integration, fourth pass: clocks, realm access and a joint echo constraint",
       "headings": [
         "Source integration, fourth pass: clocks, realm access and a joint echo constraint",
@@ -23461,16 +23503,17 @@
         "4. Access and next constitutional job"
       ],
       "local_links": [
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "KENT_LORENTZIAN_QUANTUM_REALITY_FULL_PAPER_AUDIT.md",
         "verification/zero_stationary_clock_claim_quality.py",
         "verification/zero_stationary_clock_claim_quality_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        27,
-        39,
-        54
+        9,
+        29,
+        41,
+        56
       ]
     },
     {
@@ -23606,9 +23649,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "cd097834fe772f9f3b8bca052f646e96a797ae499a42317b38c9a1876753a97d",
-      "bytes": 18264,
-      "lines": 130,
+      "sha256": "1fac60a089996ee8e61175c3c7a561d5b4c161e7611e04dc9ba9139de607a93b",
+      "bytes": 18671,
+      "lines": 132,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23621,6 +23664,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md",
         "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
@@ -23638,18 +23682,18 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        19,
-        50,
-        65,
-        96,
+        11,
+        21,
+        52,
+        67,
         98,
-        106,
-        109,
-        110,
+        100,
+        108,
         111,
-        118
+        112,
+        113,
+        120
       ]
     },
     {
