@@ -1,5 +1,7 @@
 # Advanced meditation: self, cessation and the zero framework
 
+Primary-source follow-up: [The uploaded 7T jhāna study](YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md) reviews the full Yang et al. paper, its actual controls, reporting limitations and ReHo measure.
+
 Follow-up: [From reported cessation to a discriminating experiment](ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md) gives an exact access-versus-memory identifiability example, tests the effect of a disruptive report interface, and develops a preregistrable protocol.
 
 ## The article in context

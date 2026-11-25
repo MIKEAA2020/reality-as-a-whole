@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 768,
-  "bytes": 9796621,
-  "line_count": 89270,
-  "document_count_with_risk_phrases": 721,
+  "document_count": 769,
+  "bytes": 9810123,
+  "line_count": 89344,
+  "document_count_with_risk_phrases": 722,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -415,9 +415,9 @@
     },
     {
       "path": "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
-      "sha256": "af033a4d660da3704fa5c54909e114d9dd4dd6e3d40f80581801455780928ee0",
-      "bytes": 9073,
-      "lines": 46,
+      "sha256": "651779d27dfaf665192696badb2e56e944cb526386e52d9918aaa46fc4b8a148",
+      "bytes": 9281,
+      "lines": 48,
       "title": "Advanced meditation: self, cessation and the zero framework",
       "headings": [
         "Advanced meditation: self, cessation and the zero framework",
@@ -428,13 +428,14 @@
         "What this contributes to zero"
       ],
       "local_links": [
+        "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
         "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
         "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md",
         "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md"
       ],
       "risk_phrase_lines": [
-        3,
-        46
+        5,
+        48
       ]
     },
     {
@@ -5759,9 +5760,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c3a98fe42a187010eb9f6940c8b9613da9f814c4a9a79f27955d22725f95266c",
-      "bytes": 199147,
-      "lines": 1520,
+      "sha256": "483928cc8a1619670570ac1fa690df323c53d85b4a07443dff8ce184d7b1ba61",
+      "bytes": 199458,
+      "lines": 1522,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6355,6 +6356,7 @@
         "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
         "WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md",
         "WORKSPACE_TOGETHERNESS_CANDIDATE.md",
+        "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
         "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
@@ -6817,6 +6819,7 @@
         "verification/intrinsic_orientation_selection_test.py",
         "verification/jaworski_organization_turnover.py",
         "verification/jaworski_organization_turnover_test.py",
+        "verification/jhana_reho_sequence_and_sampling_identifiability_test.py",
         "verification/joint_access_common_source_gate.py",
         "verification/k_pairwise_constraint_and_gauge_gate.py",
         "verification/kavuri_qpv_asymmetric_geometry.py",
@@ -7280,20 +7283,20 @@
         415,
         483,
         581,
-        597,
-        650,
-        654,
-        669,
-        672,
-        677,
-        679,
-        693,
-        728,
-        765,
-        774,
-        777,
-        780,
-        849
+        598,
+        651,
+        655,
+        670,
+        673,
+        678,
+        680,
+        694,
+        729,
+        766,
+        775,
+        778,
+        781,
+        850
       ]
     },
     {
@@ -19802,6 +19805,33 @@
         19,
         51,
         59
+      ]
+    },
+    {
+      "path": "YANG_7T_JHANA_PRIMARY_SOURCE_AND_INTERFACE_AUDIT.md",
+      "sha256": "7267aa415573ed14625ea3706d1da42c273033d0d1927912768d937249a38d0c",
+      "bytes": 12983,
+      "lines": 70,
+      "title": "The uploaded 7T jhāna study: primary-source reading",
+      "headings": [
+        "The uploaded 7T jhāna study: primary-source reading",
+        "Why this paper matters here",
+        "1. What the participant did and reported",
+        "2. What the MRI number means",
+        "3. What the paper reports",
+        "4. The fixed sequence and pooled deepest states",
+        "5. What it adds to the one-reality construction",
+        "6. A discriminating successor"
+      ],
+      "local_links": [
+        "ADVANCED_MEDITATION_SELF_CESSATION_AND_ZERO.md",
+        "verification/jhana_reho_sequence_and_sampling_identifiability_test.py",
+        "ZERO_INTERNAL_CONTEXTUAL_REFERENCE_AND_RECORD_TRADEOFF.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        27,
+        70
       ]
     },
     {
