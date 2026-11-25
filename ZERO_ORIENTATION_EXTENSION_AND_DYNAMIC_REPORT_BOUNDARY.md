@@ -1,5 +1,7 @@
 # Extending the balanced orientation and opening a report boundary
 
+Follow-up: [A conserved sphere sign at maximal orientation](ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md) constructs a different neutral-pointer sign report compatible with the 108-dimensional orientation, while identifying its distinct information source and limitations.
+
 ## Result
 
 The previous [upstream construction](ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md) made its new orientation generators vanish outside the 72-dimensional sign-report sector. That was a chosen representation, not a requirement of the original paired state. Here the same original lab state and the same physical 190-dimensional complement sphere instrument support a **nontrivial orientation representation on additional sectors**, with exact whole-state orientation zero and branchwise zero after the sphere readout.

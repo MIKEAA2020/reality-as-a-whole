@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ac2a670bb7123f22c7d662684e1670a1245a76d4",
-  "file_count": 2145,
+  "base_head": "65cc47f5b8f6775a7eae7da3c4e3f1d9c398bd76",
+  "file_count": 2147,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 197427,
-      "sha256": "f2d5b1dc08186c53f7fc18f4e3782cb3397f6bf9c90693abca1b21d2d7872322"
+      "bytes": 197718,
+      "sha256": "ff356461a19e415e912fb5ebc185b4a5edd599f5ba3a1b69c18d6f1fab2d1318"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2984,6 +2984,11 @@
       "sha256": "f6ca24d15861406aed2d9a0d46da9d63f1e1b4bc5982d945536430be17c9a0ee"
     },
     {
+      "path": "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
+      "bytes": 11322,
+      "sha256": "dcf954e6f9bee0a368dead903a06d092d9f91983ed598b97f461ff80b85c160e"
+    },
+    {
       "path": "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
       "bytes": 11334,
       "sha256": "cd25dbe236b561d0caba196c634d0a67ea767c63b51c96846fa89d8ae8d500ef"
@@ -3205,8 +3210,8 @@
     },
     {
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
-      "bytes": 14496,
-      "sha256": "2ab6f1a246a31363e2e34fec2e0fc11cf1a4c660a8969493476edec8cc9809ae"
+      "bytes": 14778,
+      "sha256": "be62f80977c5a29f942eda432786dbfd572aff125ca5cf70865bf06986f7b528"
     },
     {
       "path": "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -10222,6 +10227,11 @@
       "path": "verification/zero_confinement_coherence_experience_test.py",
       "bytes": 6829,
       "sha256": "dac0685fb510fdc94ba66ec0f488c0997d0afb175961eac6d195df26c6e902e7"
+    },
+    {
+      "path": "verification/zero_conserving_sphere_handedness_report_test.py",
+      "bytes": 10500,
+      "sha256": "b9bf280ecfbb1bbae9e57ebabaa813dd370f704f38b1206dd597a3aee2e76052"
     },
     {
       "path": "verification/zero_constitution_hamiltonian_phase_gate_test.py",

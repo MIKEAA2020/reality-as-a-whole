@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 719 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 652 verification Python scripts.
+- 720 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 653 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -605,6 +605,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
 - [ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md](ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md) — A common incidence construction for overlap and the internal sphere
+- [ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md](ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md) — A conserved sphere sign at maximal orientation
 - [ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md](ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md) — A balanced relational sign with a charge-preserving record
 - [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
@@ -1407,6 +1408,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_confined_realms_interface_test.py](verification/zero_confined_realms_interface_test.py)
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
+- [verification/zero_conserving_sphere_handedness_report_test.py](verification/zero_conserving_sphere_handedness_report_test.py)
 - [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py)
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)

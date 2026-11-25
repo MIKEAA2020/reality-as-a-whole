@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 762,
-  "bytes": 9724565,
-  "line_count": 88623,
-  "document_count_with_risk_phrases": 715,
+  "document_count": 763,
+  "bytes": 9736793,
+  "line_count": 88716,
+  "document_count_with_risk_phrases": 716,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "66d4848be553678efe9c14563de6308eee89ecf5f4e4dc7b9891fc28d72563a6",
-      "bytes": 197094,
-      "lines": 1507,
+      "sha256": "ff356461a19e415e912fb5ebc185b4a5edd599f5ba3a1b69c18d6f1fab2d1318",
+      "bytes": 197718,
+      "lines": 1511,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6344,6 +6344,7 @@
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
         "ZERO_CONSERVATION_INCIDENCE_FRAME_CONSTRUCTION.md",
+        "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
         "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
         "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
@@ -6388,6 +6389,7 @@
         "ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md",
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -7131,6 +7133,7 @@
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
+        "verification/zero_conserving_sphere_handedness_report_test.py",
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
         "verification/zero_covariant_pairing_reference_history_test.py",
         "verification/zero_covariant_sphere_subject_bridge_test.py",
@@ -7172,6 +7175,7 @@
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
+        "verification/zero_orientation_extension_operational_boundary_test.py",
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
@@ -7244,19 +7248,19 @@
         482,
         580,
         596,
-        645,
-        649,
-        663,
-        666,
-        670,
+        646,
+        650,
+        665,
+        668,
         672,
-        686,
-        721,
-        758,
-        767,
-        770,
-        773,
-        842
+        674,
+        688,
+        723,
+        760,
+        769,
+        772,
+        775,
+        844
       ]
     },
     {
@@ -20232,6 +20236,40 @@
       ]
     },
     {
+      "path": "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
+      "sha256": "dcf954e6f9bee0a368dead903a06d092d9f91983ed598b97f461ff80b85c160e",
+      "bytes": 11322,
+      "lines": 87,
+      "title": "A conserved sphere sign at maximal orientation",
+      "headings": [
+        "A conserved sphere sign at maximal orientation",
+        "Result: the trade-off can be bypassed, but not by recovering the old sign",
+        "1. Why a neutral pointer cannot split the spin-three-halves singlet alone",
+        "2. The actual readout",
+        "3. Exact source, records, and the origin of the bit",
+        "4. A sharper experiential underdetermination",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+        "verification/zero_conserving_sphere_handedness_report_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        9,
+        21,
+        23,
+        25,
+        27,
+        31,
+        48,
+        59,
+        70,
+        72
+      ]
+    },
+    {
       "path": "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
       "sha256": "cd25dbe236b561d0caba196c634d0a67ea767c63b51c96846fa89d8ae8d500ef",
       "bytes": 11334,
@@ -21693,9 +21731,9 @@
     },
     {
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
-      "sha256": "2ab6f1a246a31363e2e34fec2e0fc11cf1a4c660a8969493476edec8cc9809ae",
-      "bytes": 14496,
-      "lines": 140,
+      "sha256": "be62f80977c5a29f942eda432786dbfd572aff125ca5cf70865bf06986f7b528",
+      "bytes": 14778,
+      "lines": 142,
       "title": "Extending the balanced orientation and opening a report boundary",
       "headings": [
         "Extending the balanced orientation and opening a report boundary",
@@ -21708,18 +21746,19 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md",
         "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
         "verification/zero_orientation_extension_operational_boundary_test.py",
         "NONDUAL_MEDITATION_NEURAL_TIMESCALES_AND_ONE_REALITY.md"
       ],
       "risk_phrase_lines": [
-        5,
-        17,
-        25,
-        34,
-        43,
-        63,
-        123
+        7,
+        19,
+        27,
+        36,
+        45,
+        65,
+        125
       ]
     },
     {
