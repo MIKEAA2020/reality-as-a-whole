@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 749,
-  "bytes": 9530832,
-  "line_count": 86776,
-  "document_count_with_risk_phrases": 702,
+  "document_count": 750,
+  "bytes": 9542931,
+  "line_count": 86893,
+  "document_count_with_risk_phrases": 703,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "374c25bce26447ae7d8294dd806ebef1e77d22f431fd9f2df6c14be8deb3ba0f",
-      "bytes": 193301,
-      "lines": 1481,
+      "sha256": "29d8f8ad13f2d398e09ea61ecae9c659280c39c5bce727636e224436466193f7",
+      "bytes": 193560,
+      "lines": 1483,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6358,6 +6358,7 @@
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
@@ -7129,6 +7130,7 @@
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
+        "verification/zero_incidence_refinement_born_test.py",
         "verification/zero_integrated_experience_necessity_test.py",
         "verification/zero_integrated_sphere_clock_experience_test.py",
         "verification/zero_integrated_targeted_memory_test.py",
@@ -7218,19 +7220,19 @@
         481,
         579,
         595,
-        637,
-        640,
-        652,
-        654,
-        658,
-        660,
-        674,
-        709,
-        745,
-        754,
-        757,
-        760,
-        829
+        638,
+        641,
+        653,
+        655,
+        659,
+        661,
+        675,
+        710,
+        746,
+        755,
+        758,
+        761,
+        830
       ]
     },
     {
@@ -20661,6 +20663,40 @@
       ]
     },
     {
+      "path": "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
+      "sha256": "cc94a372d7cb6401fc63c1a308eda06149de0c4ffec7f0b92a69ca67971da8bf",
+      "bytes": 11426,
+      "lines": 113,
+      "title": "From sphere balance to all-history records and incidence: an explicit join",
+      "headings": [
+        "From sphere balance to all-history records and incidence: an explicit join",
+        "The connection",
+        "1. A geometric zero actually fixes unequal weights—under a specific bridge condition",
+        "2. The same weights survive the existing whole history",
+        "3. An exact pairing survives the Hamiltonian and record interaction",
+        "4. The decisive distinction: zero geometry is not automatically zero experience",
+        "5. What the geometry fixes—and what remains to connect",
+        "Verification"
+      ],
+      "local_links": [
+        "verification/zero_geometry_all_history_incidence_bridge_test.py",
+        "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
+        "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+        "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        24,
+        38,
+        40,
+        50,
+        93,
+        101,
+        113
+      ]
+    },
+    {
       "path": "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
       "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d",
       "bytes": 9286,
@@ -20688,9 +20724,9 @@
     },
     {
       "path": "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
-      "sha256": "ed65fed50b340354dae412fbc3e94b271bb9061131aa863cbd911d960904b35a",
-      "bytes": 11727,
-      "lines": 123,
+      "sha256": "2e8e92ea8f33e0ab3102e5ebc53afc1ab752f6f03866822c8a5cb3b0d14c65db",
+      "bytes": 12141,
+      "lines": 125,
       "title": "Can subject counting determine the Born weights?",
       "headings": [
         "Can subject counting determine the Born weights?",
@@ -20707,16 +20743,18 @@
         "verification/zero_incidence_refinement_born_test.py",
         "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md",
         "SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md",
+        "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
         "OPERATIONAL_PROBABILITY_RECONSTRUCTION.md"
       ],
       "risk_phrase_lines": [
         5,
         9,
         11,
-        42,
-        60,
-        90,
-        112
+        13,
+        44,
+        62,
+        92,
+        114
       ]
     },
     {

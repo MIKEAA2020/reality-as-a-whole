@@ -10,6 +10,8 @@ A standard effect-algebra theorem gives a sharper alternative. If an incidence a
 
 Verifier: [verification/zero_incidence_refinement_born_test.py](verification/zero_incidence_refinement_born_test.py). The general effect reconstruction was already proved in [Operational probability reconstruction](OPERATIONAL_PROBABILITY_RECONSTRUCTION.md); the observation-selection distinction was previously developed in [Subject measure and quantum observation](SUBJECT_MEASURE_AND_QUANTUM_OBSERVATION_GATE.md).
 
+A subsequent [geometry–history–incidence bridge](ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md) identifies a configuration in which a full vector-balance requirement uniquely fixes unequal geometric marginals and transports them through the existing all-sector clock/record history. It also shows that those marginals and a mirror pairing still do not fix the joint incidence coupling or an experiential mapping.
+
 ## 1. Apply the test to the actual prior table
 
 For the fixed finite-window state and readout in the integrated test, the ten positive `(k,f,s)` slots have physical probabilities
