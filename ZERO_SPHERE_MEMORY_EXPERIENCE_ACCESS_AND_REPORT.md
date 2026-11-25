@@ -135,6 +135,8 @@ If the true whole has an additive signed experiential quantity, cancellation mus
 
 A stronger next construction would start from one explicit candidate constitution of the accessible algebra and intrinsic quality, then check it against *both* this no-reference factorization and the established memory-echo intervention, rather than defining a boundary by whichever bridge one wants. It must explain why the relevant interface and subject lineage follow from that constitution and produce a measurable difference from a rival; simply renaming an accessible parity as experience is circular.
 
+The [subsequent local-constitution and reservoir-echo test](ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md) compares two explicitly stipulated boundaries under a local-state sufficiency principle and embeds the echo into a reversible 20-tick reservoir history. It shows exactly what that principle excludes at each boundary, without claiming that the boundary or subject follows from zero.
+
 ## Reproduce
 
 ```sh

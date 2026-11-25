@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 778,
-  "bytes": 9941544,
-  "line_count": 90450,
-  "document_count_with_risk_phrases": 731,
+  "document_count": 779,
+  "bytes": 9956747,
+  "line_count": 90596,
+  "document_count_with_risk_phrases": 732,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5793,9 +5793,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ef77e8d430c6597403d43fe226d007d6ded06454bea959d71f380436bad9f4fd",
-      "bytes": 202271,
-      "lines": 1541,
+      "sha256": "7c88af795619b4d019b777b55ee7941b9de3c7e8ffcefbd3df5d9c48f47c7b16",
+      "bytes": 202577,
+      "lines": 1543,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6486,6 +6486,7 @@
         "ZERO_SPHERE_CONSERVATION_RECORD_CURRENT_SINGLE_SYSTEM.md",
         "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
         "ZERO_SPHERE_INTRINSIC_FIVE_RAY_CONSERVATION.md",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
         "ZERO_SPHERE_NORMALIZABLE_QUANTUM_COSMOLOGY_CLOCK.md",
         "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
@@ -7289,6 +7290,7 @@
         "verification/zero_sphere_flrw_normalizable_clock_test.py",
         "verification/zero_sphere_interacting_clock_spectral_test.py",
         "verification/zero_sphere_intrinsic_orientation_test.py",
+        "verification/zero_sphere_local_constitution_echo_test.py",
         "verification/zero_sphere_mismatch_experience_comparison_test.py",
         "verification/zero_sphere_relative_orientation.py",
         "verification/zero_sphere_relative_orientation_test.py",
@@ -7342,13 +7344,13 @@
         680,
         685,
         687,
-        703,
-        738,
-        775,
-        784,
-        787,
-        790,
-        860
+        704,
+        739,
+        776,
+        785,
+        788,
+        791,
+        861
       ]
     },
     {
@@ -20680,9 +20682,9 @@
     },
     {
       "path": "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
-      "sha256": "d48f5b7b379ac2bd074deb4bd0fa387fcc5397f268ab0b23528c728e087e3b96",
-      "bytes": 12722,
-      "lines": 132,
+      "sha256": "7eff3fbd394233d834b0d104e78e7f9a7d9ef35bcda1b374840a84466b6b609e",
+      "bytes": 13177,
+      "lines": 136,
       "title": "A subject boundary through memory writing, use and attempted erasure",
       "headings": [
         "A subject boundary through memory writing, use and attempted erasure",
@@ -20692,12 +20694,13 @@
         "4. A physical back-action that a classical copy misses",
         "5. Two explicit boundary rules on the same gates",
         "6. Whole-zero, incidence and the constructive next problem",
-        "Relational-time source audit"
+        "Reservoir-clock continuation"
       ],
       "local_links": [
         "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
         "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
         "verification/zero_dynamic_subject_memory_echo_test.py",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
         "BRYAN_MEDVED_PROBLEM_OF_TIME_CAUSALITY_AND_ZERO.md"
       ],
       "risk_phrase_lines": [
@@ -20711,7 +20714,7 @@
         67,
         71,
         119,
-        132
+        136
       ]
     },
     {
@@ -22972,10 +22975,40 @@
       ]
     },
     {
+      "path": "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
+      "sha256": "dee1cc751bd249c4f91d585a57782c38b68932059c30c970fbb1907bc62c58f6",
+      "bytes": 14045,
+      "lines": 138,
+      "title": "Local subject candidates and a coherent echo inside the reservoir clock",
+      "headings": [
+        "Local subject candidates and a coherent echo inside the reservoir clock",
+        "Result",
+        "1. Same physical history, two candidate constitutions",
+        "2. A local-state sufficiency test",
+        "3. A reference-free echo that changes the physical interface",
+        "4. Embed it in the zero-charge reservoir clock",
+        "5. Consequences for the no-residue program",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_sphere_local_constitution_echo_test.py",
+        "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
+        "verification/zero_dynamic_subject_memory_echo_test.py",
+        "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py"
+      ],
+      "risk_phrase_lines": [
+        8,
+        9,
+        47,
+        110,
+        138
+      ]
+    },
+    {
       "path": "ZERO_SPHERE_MEMORY_EXPERIENCE_ACCESS_AND_REPORT.md",
-      "sha256": "d00330e6cb2959d8a1604d85ba91b047c8bfad78cec9e7d973a4e86ee608e969",
-      "bytes": 16751,
-      "lines": 145,
+      "sha256": "0c39ac5a09ede6ff7f74c69f5d8b2d44db147ba4d8dfba3e2cbb8e3a691d64a5",
+      "bytes": 17148,
+      "lines": 147,
       "title": "Sphere memory, subject access and a discriminating report",
       "headings": [
         "Sphere memory, subject access and a discriminating report",
@@ -22991,14 +23024,16 @@
         "verification/zero_sphere_reuse_experiential_access_test.py",
         "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
         "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
-        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md"
+        "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+        "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md"
       ],
       "risk_phrase_lines": [
         45,
         54,
         87,
         130,
-        145
+        138,
+        147
       ]
     },
     {
