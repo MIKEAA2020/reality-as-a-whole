@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 751 root Markdown documents including this register; 43 research Markdown documents.
+- 752 root Markdown documents including this register; 43 research Markdown documents.
 - 64 original uploaded files, including provenance metadata; 683 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -563,6 +563,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md](UNIVERSAL_SUBJECT_QUANTUM_COMPARISON_GATE.md) — A universal subject without a God's-eye ledger: the comparison gate
 - [UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md](UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md) — Updated chat: experience, gravitational cancellation and the problem of time
 - [UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md](UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md) — Updated experience and non-optimal-world chat: zero, closure and intelligibility
+- [USER_INPUTS_AUDIT_VERSUS_CONSTRUCTION_ACCOUNTABILITY.md](USER_INPUTS_AUDIT_VERSUS_CONSTRUCTION_ACCOUNTABILITY.md) — Where I treated your inputs as rivals or audits instead of construction resources
 - [V4_FEF_ORIENTATION_GATE.md](V4_FEF_ORIENTATION_GATE.md) — A specific orientation pathway: V4 to frontal eye field
 - [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP.md) — Reward, prior selection and the persistence of attentional capture
 - [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md) — Retrospective follow-up plan: reward, selection history and persistence
