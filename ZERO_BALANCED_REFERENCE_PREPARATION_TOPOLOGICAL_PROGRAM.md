@@ -15,6 +15,8 @@ This does not contradict the obstruction: the new seed has a *pure, sharply char
 
 Verifier: [verification/zero_balanced_reference_preparation_test.py](verification/zero_balanced_reference_preparation_test.py). Prior context: [relative orientation and internal reference](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md); [Hamiltonian and eigencondition program](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md).
 
+**Autonomous continuation:** [balanced-reference preparation with a relational clock](ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md) implements the gate sequence with a static program Hamiltonian and a stationary finite-reference constraint, and checks both finite-resolution and unselected history.
+
 ## 1. Topological order and feasibility
 
 The order below follows dependencies: a later claim cannot discharge an earlier missing prerequisite.

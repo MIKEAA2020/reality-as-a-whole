@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 737,
-  "bytes": 9386555,
-  "line_count": 85045,
-  "document_count_with_risk_phrases": 690,
+  "document_count": 738,
+  "bytes": 9398972,
+  "line_count": 85183,
+  "document_count_with_risk_phrases": 691,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c4dc89d56857f223725f2a19f855b071b3936d48b36d9c6f64a25c8576118839",
-      "bytes": 189830,
-      "lines": 1457,
+      "sha256": "1a1e6d0998a36f441956a3476d12b8c98d3f6d802182c4800ffab1579bcbb8dd",
+      "bytes": 190152,
+      "lines": 1459,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6335,6 +6335,7 @@
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+        "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
@@ -7099,6 +7100,7 @@
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
         "verification/zero_autonomous_two_window_records_test.py",
+        "verification/zero_balanced_reference_preparation_test.py",
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_confined_realms_interface_test.py",
         "verification/zero_confinement_coherence_experience_test.py",
@@ -7194,17 +7196,17 @@
         481,
         579,
         594,
-        628,
-        641,
-        643,
-        647,
-        649,
-        663,
-        733,
-        742,
-        745,
-        748,
-        817
+        629,
+        642,
+        644,
+        648,
+        650,
+        664,
+        734,
+        743,
+        746,
+        749,
+        818
       ]
     },
     {
@@ -19780,6 +19782,44 @@
       ]
     },
     {
+      "path": "ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md",
+      "sha256": "e74923a002d83b66af3596de316c0475610174b1e78d663e3cb39b209b48e5c1",
+      "bytes": 11785,
+      "lines": 134,
+      "title": "Autonomous balanced-reference preparation with a relational clock",
+      "headings": [
+        "Autonomous balanced-reference preparation with a relational clock",
+        "Result and status",
+        "1. From three gated operations to one Hamiltonian",
+        "2. Charge preservation on the physical work register",
+        "3. A stationary whole and relational time readings",
+        "4. Finite-resolution reading and retained histories",
+        "5. What has and has not been derived from zero",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
+        "verification/zero_autonomous_balanced_reference_clock_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        8,
+        9,
+        18,
+        44,
+        56,
+        58,
+        70,
+        79,
+        91,
+        106,
+        117,
+        121,
+        125,
+        134
+      ]
+    },
+    {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
       "sha256": "1188c30a0017e9d56b8fdf9a4e891d08b57aa52a6708dfe8f27bec627d46d319",
       "bytes": 13763,
@@ -19882,9 +19922,9 @@
     },
     {
       "path": "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
-      "sha256": "60414bc208b9db3cb96ac656a4db5959d952caefebb18c7448a0ddf8a508e000",
-      "bytes": 11098,
-      "lines": 126,
+      "sha256": "2660a083b6455f40408b9914ea44485463e7a3beb217644d38c96388ed8f3146",
+      "bytes": 11408,
+      "lines": 128,
       "title": "A charge-balanced reference prepared upstream: a topological research order",
       "headings": [
         "A charge-balanced reference prepared upstream: a topological research order",
@@ -19900,19 +19940,20 @@
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
         "verification/zero_balanced_reference_preparation_test.py",
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
-        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md"
+        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
+        "ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md"
       ],
       "risk_phrase_lines": [
         5,
         12,
         14,
-        25,
-        48,
+        27,
         50,
-        70,
-        93,
-        105,
-        126
+        52,
+        72,
+        95,
+        107,
+        128
       ]
     },
     {
