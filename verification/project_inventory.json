@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 738,
-  "bytes": 9398972,
-  "line_count": 85183,
-  "document_count_with_risk_phrases": 691,
+  "document_count": 739,
+  "bytes": 9410173,
+  "line_count": 85309,
+  "document_count_with_risk_phrases": 692,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1a1e6d0998a36f441956a3476d12b8c98d3f6d802182c4800ffab1579bcbb8dd",
-      "bytes": 190152,
-      "lines": 1459,
+      "sha256": "a846c8b76ba729253ed4d1a01e5131d2d22a2c53c6183e70a0a5de56cc58e313",
+      "bytes": 190466,
+      "lines": 1461,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6332,6 +6332,7 @@
         "YUKAWA_SEESAW_CKM.md",
         "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
         "ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md",
+        "ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md",
         "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
         "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
         "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
@@ -7097,6 +7098,7 @@
         "verification/zero_all_sector_record_involution_test.py",
         "verification/zero_all_sector_sphere_clock_work_test.py",
         "verification/zero_article_jet_dual_pair_test.py",
+        "verification/zero_autonomous_balanced_reference_clock_test.py",
         "verification/zero_autonomous_clock_record_subject_test.py",
         "verification/zero_autonomous_geometry_pointer_memory_test.py",
         "verification/zero_autonomous_two_window_records_test.py",
@@ -7196,17 +7198,17 @@
         481,
         579,
         594,
-        629,
-        642,
-        644,
-        648,
-        650,
-        664,
-        734,
-        743,
-        746,
-        749,
-        818
+        630,
+        643,
+        645,
+        649,
+        651,
+        665,
+        735,
+        744,
+        747,
+        750,
+        819
       ]
     },
     {
@@ -19718,6 +19720,41 @@
       ]
     },
     {
+      "path": "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md",
+      "sha256": "a2886af3d74411662546ca163f060a37cf92c2eade0500d898067db441823edf",
+      "bytes": 10555,
+      "lines": 122,
+      "title": "A nontrivial relational history inside the complementary-zero kernel",
+      "headings": [
+        "A nontrivial relational history inside the complementary-zero kernel",
+        "Result",
+        "1. The invariant zero kernel has an internal logical degree of freedom",
+        "2. A time-independent memory interaction preserving every zero",
+        "3. One stationary whole, with nontrivial relational readings",
+        "4. Explicit record dynamics and finite-resolution results",
+        "5. The preparation obstruction is still present",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md",
+        "verification/zero_invariant_all_history_record_clock_test.py",
+        "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        12,
+        33,
+        35,
+        60,
+        74,
+        76,
+        88,
+        101,
+        103,
+        122
+      ]
+    },
+    {
       "path": "ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md",
       "sha256": "1d8bc76f19e1ca956cc9bf9beb8310a82df15d6717484e8fa02f7cd6969a85d3",
       "bytes": 13948,
@@ -19783,9 +19820,9 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md",
-      "sha256": "e74923a002d83b66af3596de316c0475610174b1e78d663e3cb39b209b48e5c1",
-      "bytes": 11785,
-      "lines": 134,
+      "sha256": "0ecbb1edfba61f25d254137082d6dd1eb86271f4efbd20338e5253e24d30af27",
+      "bytes": 12117,
+      "lines": 136,
       "title": "Autonomous balanced-reference preparation with a relational clock",
       "headings": [
         "Autonomous balanced-reference preparation with a relational clock",
@@ -19799,24 +19836,25 @@
       ],
       "local_links": [
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
-        "verification/zero_autonomous_balanced_reference_clock_test.py"
+        "verification/zero_autonomous_balanced_reference_clock_test.py",
+        "ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md"
       ],
       "risk_phrase_lines": [
         5,
         8,
         9,
-        18,
-        44,
-        56,
+        20,
+        46,
         58,
-        70,
-        79,
-        91,
-        106,
-        117,
-        121,
-        125,
-        134
+        60,
+        72,
+        81,
+        93,
+        108,
+        119,
+        123,
+        127,
+        136
       ]
     },
     {

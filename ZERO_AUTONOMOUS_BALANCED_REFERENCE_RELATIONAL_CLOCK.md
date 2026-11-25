@@ -13,6 +13,8 @@ This is an explicit autonomous, charge-preserving **finite construction**, not a
 
 Verifier: [verification/zero_autonomous_balanced_reference_clock_test.py](verification/zero_autonomous_balanced_reference_clock_test.py).
 
+**All-history continuation:** [complementary balance, records and an internal clock](ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md) gives a different nontrivial Hamiltonian that preserves every proposed complementary zero at every relational reading, while explicitly retaining the outside-kernel preparation obstruction.
+
 ## 1. From three gated operations to one Hamiltonian
 
 Let `U₁=E`, `U₂=D`, `U₃=T` be the exact unitaries from the prior construction. Introduce a four-level program register with orthogonal position states `|n⟩`, `n=0,1,2,3`. It is an explicit internal resource, not the earlier relative-clock label or an external laboratory time. Define

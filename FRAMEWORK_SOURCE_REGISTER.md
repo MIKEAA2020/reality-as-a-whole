@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 695 root Markdown documents including this register; 43 research Markdown documents.
-- 62 original uploaded files, including provenance metadata; 628 verification Python scripts.
+- 696 root Markdown documents including this register; 43 research Markdown documents.
+- 62 original uploaded files, including provenance metadata; 629 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -591,6 +591,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
 - [WORKSPACE_TOGETHERNESS_CANDIDATE.md](WORKSPACE_TOGETHERNESS_CANDIDATE.md) — First togetherness candidate: common recurrent access, with an empirical target
 - [YUKAWA_SEESAW_CKM.md](YUKAWA_SEESAW_CKM.md) — Yukawa, See-Saw, and Mixing Structure from the Finite Dirac Operator D_F
+- [ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md](ZERO_ALL_HISTORY_COMPLEMENTARY_BALANCE_RECORD_CLOCK.md) — A nontrivial relational history inside the complementary-zero kernel
 - [ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md](ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md) — An exact all-sector record involution: balanced incidences without exchanging unequal sectors
 - [ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md) — The full paired state: clock and work records without discarding a sector
 - [ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md](ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md) — Autonomous balanced-reference preparation with a relational clock
@@ -1400,6 +1401,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_interacting_geometry_clock_cyclicity_test.py](verification/zero_interacting_geometry_clock_cyclicity_test.py)
 - [verification/zero_interacting_geometry_slice_clock_test.py](verification/zero_interacting_geometry_slice_clock_test.py)
 - [verification/zero_interacting_relational_first_reading_test.py](verification/zero_interacting_relational_first_reading_test.py)
+- [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)
 - [verification/zero_joint_subject_energy_candidate_test.py](verification/zero_joint_subject_energy_candidate_test.py)
 - [verification/zero_local_incidence_current_test.py](verification/zero_local_incidence_current_test.py)
