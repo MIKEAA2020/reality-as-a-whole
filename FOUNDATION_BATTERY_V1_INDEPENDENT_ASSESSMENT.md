@@ -1,5 +1,7 @@
 # Assessment of the SEEP foundation battery, v1
 
+**Later source update:** The PSR-5 packet and some subsequent adjudications have since been supplied and are assessed in [the second-wave correction](ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md). They report completion of a restricted-formal PSR-5 battery. That later availability does not supply this SEEP report's missing preregistration, program, output and freeze record, nor replay the historical SEEP battery.
+
 ## Scope and source identity
 
 This note assesses the user-supplied `Self-Existent-Experiential-Plenitude_Foundation-Battery_Report_v1.md`, SHA-256 `bcb7655ee6d1656c363682efed45e7244c88d3a0ddb578ea35906444f0efd789`. The report identifies the assessed dossier by source commit `42927f7debe04cf61c6da1fa6fd30501b5f4a0fb` and SHA-256 `be6443432fee63f7c9a54efb96da8d9f5f8aee36aabf522a35ac9988d3330aa2`.

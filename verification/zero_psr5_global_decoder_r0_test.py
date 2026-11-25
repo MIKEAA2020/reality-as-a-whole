@@ -1,8 +1,9 @@
-"""Frozen PSR-5 R0: test determinacy of the explicitly declared code universe.
+"""PSR-5 fixture clarification: compare two hypothesized record completions.
 
-This is a countermodel to determinacy of the standalone frozen packet, not an
-assertion that either completion is actual, self-sufficient, or zero-residue.
-No R1--R3 battery case is executed.
+Correction: this is not a counterexample to the parse or to isomorphism
+transport for any one fixed candidate, and does not establish R0 non-pass.
+Whether both completions are admissible depends on fixture/default semantics;
+they are not claimed to be two decodes under one fixed PSR-5 model.
 """
 from dataclasses import dataclass
 from hashlib import sha256
@@ -81,9 +82,10 @@ class PSR5GlobalDecoderR0Tests(unittest.TestCase):
         self.assertIn('with one \\(Ag\\)-role and no physical field',text)
         self.assertIn('preserving every }\\tau,\\rho,\\kappa,\\eta,\\alpha,\\nu,\\Phi',text)
 
-    def test_two_nonisomorphic_records_fit_single_role_fixture_description(self):
-        # Even if "one Ag-role" is read as exactly one TOTAL carrier role,
-        # neither finite nu value is specified by the S_with sentence.
+    def test_two_hypothetical_one_role_records_are_nonisomorphic(self):
+        # If no further fixture constraint or unlisted-fields default applies,
+        # the S_with sentence alone does not choose between these records.
+        # This does not establish both are valid interpretations of the packet.
         a=TinyRecord(('Ag',),((('instrumentalized',0),),))
         b=TinyRecord(('Ag',),((('instrumentalized',1),),))
         self.assertTrue(candidate(a) and candidate(b))
@@ -95,7 +97,7 @@ class PSR5GlobalDecoderR0Tests(unittest.TestCase):
         self.assertNotEqual(len(a.roles),5)
         # The different nu values must be preserved by PSR-5 isomorphism.
 
-    def test_same_accepted_alias_has_two_nonisomorphic_decodes(self):
+    def test_one_alias_parse_for_two_hypothetical_fixture_completions(self):
         self.assertEqual(nat(2),'11010')
         self.assertEqual(nat(0),'100')
         code='1110'+nat(2)+nat(0)
@@ -105,8 +107,8 @@ class PSR5GlobalDecoderR0Tests(unittest.TestCase):
         b=TinyRecord(('Ag',),((('instrumentalized',1),),))
         # r=0 is the identity permutation on either one-element carrier.
         self.assertFalse(isomorphic(a,b))
-        # The text therefore does not determine the image of this accepted
-        # code up to the candidate's own declared structural equivalence.
+        # A and B are alternative hypothesized S_with completions, NOT two
+        # permitted outputs of a single fixed decoder. The code has one parse.
 
     def test_carrier_size_is_also_underdetermined_if_other_roles_permitted(self):
         one=TinyRecord(('Ag',),((('instrumentalized',0),),))

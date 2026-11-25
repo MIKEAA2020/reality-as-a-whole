@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e9cbf34860dc58841baccf97577b3a7c3569e7ff",
-  "file_count": 2214,
+  "base_head": "3c05c48a036f78217273966c4657c56445a086ce",
+  "file_count": 2223,
   "files": [
     {
       "path": ".gitattributes",
@@ -845,13 +845,13 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "bytes": 86928,
-      "sha256": "8b9263bc6a614d6dadfc2e8fc41f6675a2ebcb454ce170d1feb3763a05d354e0"
+      "bytes": 87091,
+      "sha256": "ccd8b8c05ee94cd6f05e66d3b928e1c0ca431b679697b0b28972fc32b98719a4"
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
-      "bytes": 6798,
-      "sha256": "f9f624b33c19d52e6e243a28011a35bd5875de838595c71a9a72e56ccd74b3a5"
+      "bytes": 7221,
+      "sha256": "673e4093becc2b10dc43f21dd65141361fa8dc0f63fd16e6bd135471acaf3a5a"
     },
     {
       "path": "FOUNDATION_NECESSITY_ROUTES_COMPARISON.md",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 206751,
-      "sha256": "82f74e58d7d0d5682b18a7548d460b15628e48217f301a99246ba9f5d3f959e0"
+      "bytes": 207073,
+      "sha256": "99d212fde4012bffb5ac09210f189e3e5c6fa75c14c1cec32296d5849f869662"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3350,8 +3350,13 @@
     },
     {
       "path": "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
-      "bytes": 12345,
-      "sha256": "1f7c9d53b682ff27d01c0994a845bc8aa9720c93ca93678b23926a240704d94d"
+      "bytes": 4977,
+      "sha256": "673926c1cfb285428196a061761886185d8439c0667eb000e19653cbfa81e72f"
+    },
+    {
+      "path": "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
+      "bytes": 10078,
+      "sha256": "214c03ee006bdc9b9070b90fea1fc9ce6141a3a39fad22d33bbbfe214c9746b0"
     },
     {
       "path": "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
@@ -3435,8 +3440,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 16334,
-      "sha256": "61f825110630cc8e48b887a8b0ba60153694e98af011c1d03a7d692527cbb75d"
+      "bytes": 16312,
+      "sha256": "5b863a897f40c923c70e2b08b51bb3633bb7d8d124561487c407e57d2975f148"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -3747,6 +3752,41 @@
       "path": "psr-5 battery/1",
       "bytes": 1,
       "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Plural_Structural_Realism_Entry_Packet_v5.md",
+      "bytes": 5257,
+      "sha256": "ac0bead7fee5f90ee0913af253b0e5effe43330af28af342a1cf894249e461da"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R0_Global_Model_and_Locality_Adjudication_v1.md",
+      "bytes": 5272,
+      "sha256": "5528f8b6a924573f1411cc241d3a78bbb6010f239c7e567e9fb624331c80e36c"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R0_Global_Model_and_Locality_Audit_v1.md",
+      "bytes": 5257,
+      "sha256": "ac0bead7fee5f90ee0913af253b0e5effe43330af28af342a1cf894249e461da"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R2_Presentation_Truth_and_Error_Adjudication_v1.md",
+      "bytes": 4000,
+      "sha256": "fc67203e788c1fcbbc2c48b9b4cf13f5528bcc805606a3efae2c6126268ae3ea"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R3a_Phenomenal_Interface_Adjudication_v1.md",
+      "bytes": 4029,
+      "sha256": "59dd14f137f87cbeb93c987625b6655521060713d8742179bbf48aab4c821666"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R3b_Normative_Interface_Adjudication_v1.md",
+      "bytes": 3806,
+      "sha256": "07d0ed636c9bfa05ea955585fa729bb6f70c1700fa99446f90af9e7499e404e2"
+    },
+    {
+      "path": "psr-5 battery/2nd wave/Point-Sphere_PSR-5_R3c_Physical_Interface_Adjudication_v1.md",
+      "bytes": 3922,
+      "sha256": "e0ee906a743b9c52b71d375fe8ee94254de6fa40276b10249a54f1c281cf3d07"
     },
     {
       "path": "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md",
@@ -8295,8 +8335,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 999340,
-      "sha256": "892c11e54afc83d2e8126dbd700806f396e008234b3b63c7c2f41729b7ed770d"
+      "bytes": 1000925,
+      "sha256": "f151b8109eebff3138f2e78b29f668f20b577653498ed7b3f4fd576b77fc48cc"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10744,9 +10784,14 @@
       "sha256": "3f6f9c5af9ac1be27f55027a3e4d58d719fd6b966bc0641d56f81aa334c1e322"
     },
     {
+      "path": "verification/zero_psr5_adjudication_correction_test.py",
+      "bytes": 4732,
+      "sha256": "0e5473404ab3d47ea59fa18f8cbd987ddb15e63379141ae053c012f4f9d1ba1f"
+    },
+    {
       "path": "verification/zero_psr5_global_decoder_r0_test.py",
-      "bytes": 5744,
-      "sha256": "1158998803f6da87e23888795c81eb8d329b6d9ef80638ae2e8950f78bdccb10"
+      "bytes": 5933,
+      "sha256": "200d3f3394636447e880a306e68693682d10428eb3b6c5216fc38e49387d74da"
     },
     {
       "path": "verification/zero_qdesic_sphere_clock_connection_test.py",

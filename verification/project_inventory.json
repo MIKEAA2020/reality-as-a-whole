@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 793,
-  "bytes": 10164489,
-  "line_count": 92278,
-  "document_count_with_risk_phrases": 746,
+  "document_count": 794,
+  "bytes": 10168085,
+  "line_count": 92298,
+  "document_count_with_risk_phrases": 747,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5360,8 +5360,8 @@
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
-      "sha256": "8b9263bc6a614d6dadfc2e8fc41f6675a2ebcb454ce170d1feb3763a05d354e0",
-      "bytes": 86928,
+      "sha256": "ccd8b8c05ee94cd6f05e66d3b928e1c0ca431b679697b0b28972fc32b98719a4",
+      "bytes": 87091,
       "lines": 351,
       "title": "Formal battery: current status and focused research plan",
       "headings": [
@@ -5375,6 +5375,7 @@
       ],
       "local_links": [
         "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
@@ -5622,9 +5623,9 @@
     },
     {
       "path": "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
-      "sha256": "f9f624b33c19d52e6e243a28011a35bd5875de838595c71a9a72e56ccd74b3a5",
-      "bytes": 6798,
-      "lines": 51,
+      "sha256": "673e4093becc2b10dc43f21dd65141361fa8dc0f63fd16e6bd135471acaf3a5a",
+      "bytes": 7221,
+      "lines": 53,
       "title": "Assessment of the SEEP foundation battery, v1",
       "headings": [
         "Assessment of the SEEP foundation battery, v1",
@@ -5635,13 +5636,14 @@
         "Consequence for further development"
       ],
       "local_links": [
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "verification/foundation_battery_report_spotcheck.py",
         "verification/foundation_battery_report_spotcheck.json"
       ],
       "risk_phrase_lines": [
-        7,
         9,
-        49
+        11,
+        51
       ]
     },
     {
@@ -5796,9 +5798,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "82f74e58d7d0d5682b18a7548d460b15628e48217f301a99246ba9f5d3f959e0",
-      "bytes": 206751,
-      "lines": 1572,
+      "sha256": "99d212fde4012bffb5ac09210f189e3e5c6fa75c14c1cec32296d5849f869662",
+      "bytes": 207073,
+      "lines": 1574,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6479,6 +6481,7 @@
         "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
         "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_QDESICS_MEAN_GEOMETRY_RELATIONAL_CLOCK_AUDIT.md",
         "ZERO_QUANTA_TIME_PHOTON_CLOCK_AND_DE_SITTER.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
@@ -7291,6 +7294,7 @@
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
         "verification/zero_point_blowup_test.py",
+        "verification/zero_psr5_adjudication_correction_test.py",
         "verification/zero_psr5_global_decoder_r0_test.py",
         "verification/zero_qdesic_sphere_clock_connection_test.py",
         "verification/zero_quanta_time_photons_horizon_test.py",
@@ -7372,17 +7376,17 @@
         601,
         664,
         668,
-        688,
-        691,
-        696,
-        699,
-        718,
-        753,
-        790,
-        799,
-        802,
-        805,
-        876
+        689,
+        692,
+        697,
+        700,
+        719,
+        754,
+        791,
+        800,
+        803,
+        806,
+        877
       ]
     },
     {
@@ -22671,42 +22675,53 @@
     },
     {
       "path": "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
-      "sha256": "1f7c9d53b682ff27d01c0994a845bc8aa9720c93ca93678b23926a240704d94d",
-      "bytes": 12345,
-      "lines": 97,
-      "title": "PSR-5 battery: a frozen R0 decoder review",
+      "sha256": "673926c1cfb285428196a061761886185d8439c0667eb000e19653cbfa81e72f",
+      "bytes": 4977,
+      "lines": 45,
+      "title": "PSR-5 R0 review — correction after the later adjudications",
       "headings": [
-        "PSR-5 battery: a frozen R0 decoder review",
-        "Disposition",
-        "1. What this battery is for",
-        "2. The frozen code and the missing record",
-        "3. The same accepted alias has two nonisomorphic possible outputs",
-        "4. Precise limits of the result",
-        "5. A constructive fresh-candidate repair—not a PSR-5 amendment",
-        "6. Relation to the ongoing zero and sphere work"
+        "PSR-5 R0 review — correction after the later adjudications",
+        "Correction and disposition",
+        "What my example actually showed",
+        "Reproduce the bounded checks"
       ],
       "local_links": [
-        "psr-5 battery",
-        "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md",
-        "psr-5 battery/Point-Sphere_Plural_Structural_Realism_PSR-5_Entry_Review_v1.md",
-        "verification/zero_psr5_global_decoder_r0_test.py",
-        "psr-5 battery/Point-Sphere_PSR-5_S2_Public_Truth_Error_Bridge_Preregistration_Evaluation_v1.md",
-        "psr-5 battery/Plural_Structural_Realism_Independent_Rival_Family_Preregistration_v1.md",
-        "psr-5 battery/Point-Sphere_Plural_Structural_Realism_Rival_Family_Preregistration_Validation_v1.md",
-        "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md"
+        "psr-5 battery/2nd wave",
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
+        "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
         15,
+        45
+      ]
+    },
+    {
+      "path": "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
+      "sha256": "214c03ee006bdc9b9070b90fea1fc9ce6141a3a39fad22d33bbbfe214c9746b0",
+      "bytes": 10078,
+      "lines": 68,
+      "title": "PSR-5 second wave: correction, completed restricted battery, and what to learn",
+      "headings": [
+        "PSR-5 second wave: correction, completed restricted battery, and what to learn",
+        "The correction",
+        "Source audit and the actual record",
+        "Why the restricted pass is meaningful",
+        "How to apply the insight to our zero candidate",
+        "Verification and limits"
+      ],
+      "local_links": [
+        "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
+        "psr-5 battery/2nd wave",
+        "psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md",
+        "verification/zero_psr5_adjudication_correction_test.py",
+        "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md"
+      ],
+      "risk_phrase_lines": [
         35,
-        52,
-        64,
-        76,
-        80,
-        82,
-        86,
-        97
+        48,
+        58,
+        68
       ]
     },
     {
@@ -23210,8 +23225,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "61f825110630cc8e48b887a8b0ba60153694e98af011c1d03a7d692527cbb75d",
-      "bytes": 16334,
+      "sha256": "5b863a897f40c923c70e2b08b51bb3633bb7d8d124561487c407e57d2975f148",
+      "bytes": 16312,
       "lines": 126,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
@@ -23225,6 +23240,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
@@ -23234,7 +23250,6 @@
       ],
       "risk_phrase_lines": [
         5,
-        9,
         15,
         46,
         61,
@@ -23244,7 +23259,6 @@
         105,
         106,
         107,
-        113,
         114
       ]
     },
