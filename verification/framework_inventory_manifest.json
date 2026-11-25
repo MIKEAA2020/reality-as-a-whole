@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "7eb71124b31202f1344b8c99c453cf022e89164c",
-  "file_count": 2093,
+  "base_head": "c6a29dba99171901dc6823eee3ea1dc7e60d3956",
+  "file_count": 2095,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 189830,
-      "sha256": "c4dc89d56857f223725f2a19f855b071b3936d48b36d9c6f64a25c8576118839"
+      "bytes": 190152,
+      "sha256": "1a1e6d0998a36f441956a3476d12b8c98d3f6d802182c4800ffab1579bcbb8dd"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2939,6 +2939,11 @@
       "sha256": "f08865de57f30d8af2bd886b44b2d617f11f40b6a08ede14a025e97e9eb7f05c"
     },
     {
+      "path": "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
+      "bytes": 11098,
+      "sha256": "60414bc208b9db3cb96ac656a4db5959d952caefebb18c7448a0ddf8a508e000"
+    },
+    {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
       "bytes": 11789,
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
@@ -3155,8 +3160,8 @@
     },
     {
       "path": "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
-      "bytes": 12472,
-      "sha256": "1045cf2b2ba6fb18b088b23256270ce47bc427810f99d6168a9fbb7f8e3eed96"
+      "bytes": 12826,
+      "sha256": "81de43c9d8ba2f3a605d3613eb27c6a15a86206bd14dc7dc6406d9177bc67c17"
     },
     {
       "path": "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7955,8 +7960,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 923813,
-      "sha256": "4a7d46c07b5600cc607654c51c5311e20587da4927cddb7a37316bfd1b27d218"
+      "bytes": 925194,
+      "sha256": "4170c8a157da2d1bce1066d969a1a50abf3f5b4906b5784d339c0233d4175b01"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10057,6 +10062,11 @@
       "path": "verification/zero_autonomous_two_window_records_test.py",
       "bytes": 10800,
       "sha256": "cf395599562fd185949410aa5d147e6d213f64cd95e12ed89f891fc49394a514"
+    },
+    {
+      "path": "verification/zero_balanced_reference_preparation_test.py",
+      "bytes": 10202,
+      "sha256": "beaf4ca40c2646bbfedffa0b8559df9e68c7f8fe882db5bff7a6a2b1f9c0a0ae"
     },
     {
       "path": "verification/zero_celestial_geometry_test.py",

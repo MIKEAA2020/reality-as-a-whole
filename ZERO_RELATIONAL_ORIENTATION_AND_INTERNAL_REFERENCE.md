@@ -19,6 +19,8 @@ The new signed orientation charge is a defined operator in this toy model, not a
 
 Verifier: [verification/zero_relational_orientation_reference_test.py](verification/zero_relational_orientation_reference_test.py).
 
+**Upstream preparation continuation:** [balanced reference preparation in topological order](ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md) constructs the same reference-extended all-sector state from a zero-charge product pair by explicit charge-preserving gates, while retaining the present obstruction for the distinct mixed-work input.
+
 ## 1. Embed the original all-sector circuit without discarding a lab sector
 
 Use the existing active work eigenstates `J_W|j⟩=j|j⟩`, `j=±1`, and introduce a two-state F with `Z_F|±⟩=±|±⟩`. Define the isometry

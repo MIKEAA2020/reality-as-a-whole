@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 736,
-  "bytes": 9374811,
-  "line_count": 84915,
-  "document_count_with_risk_phrases": 689,
+  "document_count": 737,
+  "bytes": 9386555,
+  "line_count": 85045,
+  "document_count_with_risk_phrases": 690,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ce6832e39fa769ee4d7fd7e1fac0bd1ac738a9846d80e9fb4d769e9038b257cd",
-      "bytes": 189538,
-      "lines": 1455,
+      "sha256": "c4dc89d56857f223725f2a19f855b071b3936d48b36d9c6f64a25c8576118839",
+      "bytes": 189830,
+      "lines": 1457,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6378,6 +6378,7 @@
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
+        "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
@@ -7136,6 +7137,7 @@
         "verification/zero_reciprocal_subject_exchange_test.py",
         "verification/zero_recollapse_sphere_memory_test.py",
         "verification/zero_relational_history_experiential_clock_test.py",
+        "verification/zero_relational_orientation_reference_test.py",
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
         "verification/zero_sector_memory_incidence_test.py",
@@ -7194,15 +7196,15 @@
         594,
         628,
         641,
-        642,
-        646,
-        648,
-        662,
-        732,
-        741,
-        744,
-        747,
-        816
+        643,
+        647,
+        649,
+        663,
+        733,
+        742,
+        745,
+        748,
+        817
       ]
     },
     {
@@ -19879,6 +19881,41 @@
       ]
     },
     {
+      "path": "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
+      "sha256": "60414bc208b9db3cb96ac656a4db5959d952caefebb18c7448a0ddf8a508e000",
+      "bytes": 11098,
+      "lines": 126,
+      "title": "A charge-balanced reference prepared upstream: a topological research order",
+      "headings": [
+        "A charge-balanced reference prepared upstream: a topological research order",
+        "Result",
+        "1. Topological order and feasibility",
+        "2. Start before the obstruction applies",
+        "3. Three exact charge-preserving gates",
+        "4. What fixes the pulse, conditionally?",
+        "5. Remaining inputs and why the ordering matters",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
+        "verification/zero_balanced_reference_preparation_test.py",
+        "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
+        "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        12,
+        14,
+        25,
+        48,
+        50,
+        70,
+        93,
+        105,
+        126
+      ]
+    },
+    {
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261",
       "bytes": 11789,
@@ -21256,9 +21293,9 @@
     },
     {
       "path": "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
-      "sha256": "1045cf2b2ba6fb18b088b23256270ce47bc427810f99d6168a9fbb7f8e3eed96",
-      "bytes": 12472,
-      "lines": 148,
+      "sha256": "81de43c9d8ba2f3a605d3613eb27c6a15a86206bd14dc7dc6406d9177bc67c17",
+      "bytes": 12826,
+      "lines": 150,
       "title": "Relative orientation inside the zero-balanced whole",
       "headings": [
         "Relative orientation inside the zero-balanced whole",
@@ -21272,16 +21309,17 @@
       ],
       "local_links": [
         "ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md",
-        "verification/zero_relational_orientation_reference_test.py"
+        "verification/zero_relational_orientation_reference_test.py",
+        "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md"
       ],
       "risk_phrase_lines": [
         13,
         15,
         16,
-        60,
-        116,
-        129,
-        131
+        62,
+        118,
+        131,
+        133
       ]
     },
     {
