@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 795,
-  "bytes": 10186433,
-  "line_count": 92358,
-  "document_count_with_risk_phrases": 748,
+  "document_count": 796,
+  "bytes": 10198365,
+  "line_count": 92466,
+  "document_count_with_risk_phrases": 749,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5798,9 +5798,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ca37adabcc9591c2b52bbe69b43ec6b128f728fd0523520b45aa1a3570709819",
-      "bytes": 207276,
-      "lines": 1575,
+      "sha256": "bbbf865f1b29e029bb5bcb04e40cfe69abc6cea061dd1aa0b42500490e1e7a51",
+      "bytes": 207674,
+      "lines": 1578,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6497,6 +6497,7 @@
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
         "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
         "ZERO_SPHERE_AUTONOMOUS_CONSTRAINED_DETECTOR.md",
         "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
@@ -7335,6 +7336,8 @@
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
         "verification/zero_spin_reversal_sign_selection_test.py",
+        "verification/zero_stationary_battery_bridge.py",
+        "verification/zero_stationary_battery_bridge_test.py",
         "verification/zero_stationary_whole_unique_history_test.py",
         "verification/zero_structural_time_data_echo_test.py",
         "verification/zero_structural_time_stationary_two_clock_test.py",
@@ -7379,15 +7382,15 @@
         669,
         690,
         693,
-        698,
-        701,
-        720,
-        755,
-        792,
-        801,
-        804,
-        807,
-        878
+        699,
+        702,
+        721,
+        756,
+        793,
+        802,
+        805,
+        808,
+        879
       ]
     },
     {
@@ -23225,6 +23228,37 @@
       ]
     },
     {
+      "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+      "sha256": "5877ed4545a8ee2049717846ce0d84ed49ad2e636a448a02835c70400835fdd7",
+      "bytes": 11042,
+      "lines": 103,
+      "title": "Audit → adapt → implement: a stationary sphere-battery interface",
+      "headings": [
+        "Audit → adapt → implement: a stationary sphere-battery interface",
+        "The process and the implemented result",
+        "1. Audit: what survives, and what must be adapted",
+        "2. The same history, not a new physical system",
+        "3. Implementation: readiness, assertion and quality as stationary effects",
+        "4. Results: one stationary history, one shared interface",
+        "5. What this advances and what remains",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
+        "verification/zero_stationary_battery_bridge.py",
+        "verification/zero_stationary_battery_bridge_test.py",
+        "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+        "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
+        "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        59,
+        72
+      ]
+    },
+    {
       "path": "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
       "sha256": "235c7a894daa4c13556212bc9a7da3fc2af8c44fc7eac40c1069ae3cd814a359",
       "bytes": 9519,
@@ -23289,9 +23323,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "ae2d35af940d426345f25c7c4ccf95be05f89359fdec72e1ef7c2715101d80db",
-      "bytes": 16326,
-      "lines": 126,
+      "sha256": "ce5fdb7d3c2839aa5b98471cfb983926f2704cfa2190cf248a43482a969c6ddb",
+      "bytes": 16818,
+      "lines": 128,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23304,6 +23338,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
         "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md",
         "FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md",
@@ -23314,16 +23349,17 @@
       ],
       "risk_phrase_lines": [
         5,
-        15,
-        46,
-        61,
-        92,
+        7,
+        17,
+        48,
+        63,
         94,
-        102,
-        105,
-        106,
+        96,
+        104,
         107,
-        114
+        108,
+        109,
+        116
       ]
     },
     {

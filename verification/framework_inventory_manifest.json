@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c0ed23d00f351c679bd78e68246c759a8247cb0d",
-  "file_count": 2225,
+  "base_head": "869d93b3620b2cdddb7583ca7048dd8386f982cb",
+  "file_count": 2228,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 207276,
-      "sha256": "ca37adabcc9591c2b52bbe69b43ec6b128f728fd0523520b45aa1a3570709819"
+      "bytes": 207674,
+      "sha256": "bbbf865f1b29e029bb5bcb04e40cfe69abc6cea061dd1aa0b42500490e1e7a51"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3434,6 +3434,11 @@
       "sha256": "8ee939ce02cae4f7e6e6ce8b7049ea44f53b8c3a5c65ccfa648aa9263b63452f"
     },
     {
+      "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
+      "bytes": 11042,
+      "sha256": "5877ed4545a8ee2049717846ce0d84ed49ad2e636a448a02835c70400835fdd7"
+    },
+    {
       "path": "ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md",
       "bytes": 9519,
       "sha256": "235c7a894daa4c13556212bc9a7da3fc2af8c44fc7eac40c1069ae3cd814a359"
@@ -3445,8 +3450,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 16326,
-      "sha256": "ae2d35af940d426345f25c7c4ccf95be05f89359fdec72e1ef7c2715101d80db"
+      "bytes": 16818,
+      "sha256": "ce5fdb7d3c2839aa5b98471cfb983926f2704cfa2190cf248a43482a969c6ddb"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -8345,8 +8350,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1001591,
-      "sha256": "59e477de51bb22cbb15f8acec263ff2d7c8c17709d6902c9d751504bb1186670"
+      "bytes": 1004657,
+      "sha256": "ed1bce50a98dc071491788c6502bd7c10a231600e8d8fb843155687ab2ddf43f"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10992,6 +10997,16 @@
       "path": "verification/zero_spin_reversal_sign_selection_test.py",
       "bytes": 15469,
       "sha256": "13a504016f77c361e96d9f4dfbdb95432a0e59c4d784ae502f74c12c3f7a2891"
+    },
+    {
+      "path": "verification/zero_stationary_battery_bridge.py",
+      "bytes": 3459,
+      "sha256": "f8003a2fdca5bdf58418ed91a12ff6748936105dd53800fc45199ebff8ceec6b"
+    },
+    {
+      "path": "verification/zero_stationary_battery_bridge_test.py",
+      "bytes": 4767,
+      "sha256": "873bb050e304af7d28da6282996626259de86d98dc6d2405d6620fcee571c12a"
     },
     {
       "path": "verification/zero_stationary_whole_unique_history_test.py",

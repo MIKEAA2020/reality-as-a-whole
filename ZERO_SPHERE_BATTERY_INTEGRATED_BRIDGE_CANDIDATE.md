@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Implemented source integration:** [the stationary battery interface](ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md) transports this candidate's readiness, claim/error and quality predicates into one cyclic Page–Wootters-style stationary history, then compares their exact weights to the existing sphere/reservoir ledger at every tick. It uses the PSR controls and TIME/DATA distinction/reconfiguration guidance without claiming a formal battery pass or an experiential bridge.
+
 The PSR-5 packet was supplied as a possible source of **methods for getting our framework through the battery**. My preceding review emphasized a claimed R0 defect in PSR-5 instead; that missed the user's purpose. The constructive question is what its explicit types, closed dependencies, bearer checks and adversarial controls can contribute to the point–sphere programme.
 
 This note applies those techniques to **one existing sphere–reservoir–echo history**, rather than substituting another unrelated toy. It supplies a common, executable physical claim/reference interface and connects it to the same proposed subject, candidate qualities and incidence weights. It gives a nontrivial formal result with genuine positive and negative controls. It does **not** claim that the framework passes the formal battery, nor treat a physical sign or an asserted bearer as genuine experience. The deeper objective remains one self-sufficient constitution, not a weaker requirement that openly declared residuals be accepted.
