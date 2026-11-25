@@ -1,5 +1,7 @@
 # Sourcing F internally—and tracking the orientation it displaces
 
+**Subsequent upstream construction:** [An invariant upstream source for the differentiated history](ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md) changes the preparation: H is the logical A from the outset, rather than the recipient of a swap from a separately prepared A. It reproduces the old reference-extended history while retaining a specified all-sector orientation zero; the different encoding and its assumptions are explicit.
+
 ## Result
 
 The original paired lab state can supply not only the sphere pair and the D/E sign reference but also the previously added F reference, on a **72-dimensional sector**. An explicit swap between the old record–work–target orientation qubit and F's original partner produces exactly the earlier F-extended source, including its phases and its correlations with the rest of the old history. The original 190-dimensional complement sphere instrument is unchanged before this new operation.

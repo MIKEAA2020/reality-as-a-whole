@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "5836fcafd3ecd0ff779169c1f7f8eeeccaaea389",
-  "file_count": 2139,
+  "base_head": "a20b34471f2c761491c9b0730e2080e69de4a27a",
+  "file_count": 2141,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 196487,
-      "sha256": "6583e7808db7af051c1011fb7ccfed5b3c35f22ad7e152ec15aeb89da9e5fd1d"
+      "bytes": 196771,
+      "sha256": "90672f983569434c11a2ee1fbf783c97608f154bc12b097d48b81032130113a4"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3100,8 +3100,8 @@
     },
     {
       "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
-      "bytes": 12701,
-      "sha256": "67a23b63357289caa74dba3917b5cf5bdc8f04b4a8d725ae10a19a44345d8117"
+      "bytes": 13136,
+      "sha256": "9e957f031989d2248e348a4bcf890c4c4f93f03e1ce63ce8ed97d0bc3e021795"
     },
     {
       "path": "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
@@ -3547,6 +3547,11 @@
       "path": "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
       "bytes": 12277,
       "sha256": "9f7a6f68bf6687e5fec40783dbc11b0704f5ceb3624b8210dc2a3de5748381b0"
+    },
+    {
+      "path": "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
+      "bytes": 12783,
+      "sha256": "acaa1201d09186623f947c968107b6c093c17895cc15fc19d42866b1cd49ef04"
     },
     {
       "path": "brain-specificity-thesis.md",
@@ -8070,8 +8075,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 955063,
-      "sha256": "9b396c5e63391044e1828cae598163710b3fe3e9639ad44438b6bf8abee858da"
+      "bytes": 956347,
+      "sha256": "43c9c13860db552a63ca1bec687c1b21039635012f54fdc67d3c270d745d7150"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10692,6 +10697,11 @@
       "path": "verification/zero_two_window_full_slice_test.py",
       "bytes": 5689,
       "sha256": "a4a3b7c75c1d79e81e9362282a1c2c8b3099c3c3622a9faa0c324343463e4d30"
+    },
+    {
+      "path": "verification/zero_upstream_invariant_internal_history_test.py",
+      "bytes": 11459,
+      "sha256": "55f75967c35c3765d02975fe70cb0385b01286ed9681f37a2a032c2f7a1586e2"
     },
     {
       "path": "workspace1-verification-update.md",

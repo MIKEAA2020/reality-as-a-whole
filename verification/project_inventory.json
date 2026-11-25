@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 759,
-  "bytes": 9682453,
-  "line_count": 88260,
-  "document_count_with_risk_phrases": 712,
+  "document_count": 760,
+  "bytes": 9695985,
+  "line_count": 88382,
+  "document_count_with_risk_phrases": 713,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5735,9 +5735,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6c61ba860548707eb822b2a76c4782306d84774688d86c9a4a521e45f46e3cff",
-      "bytes": 196173,
-      "lines": 1501,
+      "sha256": "6583e7808db7af051c1011fb7ccfed5b3c35f22ad7e152ec15aeb89da9e5fd1d",
+      "bytes": 196487,
+      "lines": 1503,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6367,6 +6367,7 @@
         "ZERO_INTERACTING_CLOCK_TRANSITIONS_AND_PROBLEM_OF_TIME.md",
         "ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md",
         "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
         "ZERO_INTERNAL_PAIRED_RESOURCE_SPHERE_AND_REPORT.md",
         "ZERO_INTERNAL_REFERENCE_CONFINED_REPORT_NECESSITY.md",
         "ZERO_INTERNAL_SPHERE_BINARY_STRUCTURE_AND_INCIDENCE.md",
@@ -7151,6 +7152,7 @@
         "verification/zero_interacting_geometry_clock_cyclicity_test.py",
         "verification/zero_interacting_geometry_slice_clock_test.py",
         "verification/zero_interacting_relational_first_reading_test.py",
+        "verification/zero_internal_f_reference_transfer_test.py",
         "verification/zero_internal_pair_sphere_report_test.py",
         "verification/zero_internal_reference_subject_report_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
@@ -7238,19 +7240,19 @@
         481,
         579,
         595,
-        643,
-        647,
-        661,
-        664,
-        668,
-        670,
-        684,
-        719,
-        755,
-        764,
-        767,
-        770,
-        839
+        644,
+        648,
+        662,
+        665,
+        669,
+        671,
+        685,
+        720,
+        756,
+        765,
+        768,
+        771,
+        840
       ]
     },
     {
@@ -20998,9 +21000,9 @@
     },
     {
       "path": "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
-      "sha256": "67a23b63357289caa74dba3917b5cf5bdc8f04b4a8d725ae10a19a44345d8117",
-      "bytes": 12701,
-      "lines": 135,
+      "sha256": "9e957f031989d2248e348a4bcf890c4c4f93f03e1ce63ce8ed97d0bc3e021795",
+      "bytes": 13136,
+      "lines": 137,
       "title": "Sourcing F internally—and tracking the orientation it displaces",
       "headings": [
         "Sourcing F internally—and tracking the orientation it displaces",
@@ -21013,6 +21015,7 @@
         "6. Consequence for the larger project"
       ],
       "local_links": [
+        "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
         "verification/zero_internal_f_reference_transfer_test.py",
         "verification/zero_relational_orientation_reference_test.py",
         "verification/zero_relative_gauge_invariant_report_test.py",
@@ -21020,10 +21023,10 @@
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
-        36,
-        89
+        7,
+        11,
+        38,
+        91
       ]
     },
     {
@@ -23906,6 +23909,35 @@
         142,
         146,
         160
+      ]
+    },
+    {
+      "path": "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
+      "sha256": "acaa1201d09186623f947c968107b6c093c17895cc15fc19d42866b1cd49ef04",
+      "bytes": 12783,
+      "lines": 118,
+      "title": "An invariant upstream source for the differentiated history",
+      "headings": [
+        "An invariant upstream source for the differentiated history",
+        "Result",
+        "1. The same lab state supplies both balancing pairs",
+        "2. Exact whole-lab orientation accounting",
+        "3. Build the old history from a neutral degeneracy",
+        "4. The relative-sign circuit is an operation on the encoded spins",
+        "5. Why this does not contradict the previous obstruction",
+        "6. What this advances"
+      ],
+      "local_links": [
+        "ZERO_INTERNAL_F_REFERENCE_TRANSFER_AND_ORIENTATION_LEDGER.md",
+        "verification/zero_upstream_invariant_internal_history_test.py",
+        "verification/zero_internal_f_reference_transfer_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        24,
+        35,
+        107,
+        118
       ]
     },
     {
