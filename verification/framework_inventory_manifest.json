@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "35a8df822493cf929f215ecf01ae9f0634cbb328",
-  "file_count": 2105,
+  "base_head": "7a3bddb42ba4b782f08350204c2acb28e25c7f97",
+  "file_count": 2107,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 191645,
-      "sha256": "02aae7e4743caa7f331d56e552b7b3fdb86916de7a1dcbb9b45a33d91a58b816"
+      "bytes": 191927,
+      "sha256": "a5a613fa414cd35a25c239fe9c5b3e43de1753fc6e6ef8744748b4e8076936bf"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2990,8 +2990,8 @@
     },
     {
       "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
-      "bytes": 11121,
-      "sha256": "dd106ad8dbdb3dbbafdcda7e7e5a9a3913185112e7050ceb802fac778d01e079"
+      "bytes": 11466,
+      "sha256": "b10c412c7581cb987a45b94f1d7afc0181e1d9386c9f08ae66d6a99383793f13"
     },
     {
       "path": "ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md",
@@ -3107,6 +3107,11 @@
       "path": "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
       "bytes": 12840,
       "sha256": "109a37386475677c415f597cda05d842adfce34ce0008b97d1633bf95865880b"
+    },
+    {
+      "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
+      "bytes": 10636,
+      "sha256": "6826713d970e04ce6f604aadda48c7780a57c5acfec703d6f5fc2788cacc4cd6"
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -7985,8 +7990,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 932039,
-      "sha256": "778ee24b00f35251e090247251513673a750a3ad214e2f177e2dcf0c740a55e2"
+      "bytes": 933142,
+      "sha256": "7eb39c0d12ca901653fb1ae3916f5f0cfc4a6c7e5ee7dfe1984b9610fec5fce6"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10252,6 +10257,11 @@
       "path": "verification/zero_localized_modules_boundary_test.py",
       "bytes": 5021,
       "sha256": "2e2b7c48a537086511cadf66428f2f9e589f06725831b378204b6b5e1459d2ad"
+    },
+    {
+      "path": "verification/zero_minimal_symmetry_reference_record_test.py",
+      "bytes": 7358,
+      "sha256": "080abf140f32a9bff254540116ff77c54213c9c02e16275875afa58a09854ca9"
     },
     {
       "path": "verification/zero_necessity_constitutive_gate_test.py",

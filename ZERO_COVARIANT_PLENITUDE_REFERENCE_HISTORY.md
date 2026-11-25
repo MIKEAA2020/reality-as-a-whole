@@ -14,6 +14,8 @@ This is an explicit, nontrivial way to combine whole-level symmetry and internal
 
 Executable checks: [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py).
 
+**Minimal-reference continuation:** [minimal invariant reference and a constrained Hamiltonian](ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md) proves a four-state lower bound for this invariant-sector architecture, constructs a reference attaining it, and derives the interaction up to scale from explicit symmetry, flip and reality conditions.
+
 ## 1. The zero sector and the reference
 
 Let the four abstract spin-half factors be ordered `B,L,M,N`, with L the encoded logical qubit of the previous construction. The two-dimensional spin-zero space is

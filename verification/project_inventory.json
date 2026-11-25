@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 742,
-  "bytes": 9449194,
-  "line_count": 85772,
-  "document_count_with_risk_phrases": 695,
+  "document_count": 743,
+  "bytes": 9460175,
+  "line_count": 85917,
+  "document_count_with_risk_phrases": 696,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -20237,9 +20237,9 @@
     },
     {
       "path": "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
-      "sha256": "dd106ad8dbdb3dbbafdcda7e7e5a9a3913185112e7050ceb802fac778d01e079",
-      "bytes": 11121,
-      "lines": 134,
+      "sha256": "b10c412c7581cb987a45b94f1d7afc0181e1d9386c9f08ae66d6a99383793f13",
+      "bytes": 11466,
+      "lines": 136,
       "title": "A permutation-symmetric whole with a changing relational history",
       "headings": [
         "A permutation-symmetric whole with a changing relational history",
@@ -20253,18 +20253,20 @@
       ],
       "local_links": [
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
-        "verification/zero_covariant_pairing_reference_history_test.py"
+        "verification/zero_covariant_pairing_reference_history_test.py",
+        "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md"
       ],
       "risk_phrase_lines": [
         5,
         11,
         13,
-        92,
-        105,
-        113,
-        121,
+        17,
+        94,
+        107,
+        115,
         123,
-        134
+        125,
+        136
       ]
     },
     {
@@ -21020,6 +21022,35 @@
         66,
         168,
         178
+      ]
+    },
+    {
+      "path": "ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md",
+      "sha256": "6826713d970e04ce6f604aadda48c7780a57c5acfec703d6f5fc2788cacc4cd6",
+      "bytes": 10636,
+      "lines": 143,
+      "title": "Minimal invariant reference and a constrained Hamiltonian",
+      "headings": [
+        "Minimal invariant reference and a constrained Hamiltonian",
+        "Result",
+        "1. Why four reference states are minimal here",
+        "2. A symmetry-constrained interaction",
+        "3. The invariant state and its relational record",
+        "4. One stationary zero-eigenstate, including the unselected clock",
+        "5. What is and is not forced by zero",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md",
+        "verification/zero_minimal_symmetry_reference_record_test.py",
+        "verification/zero_covariant_pairing_reference_history_test.py"
+      ],
+      "risk_phrase_lines": [
+        14,
+        91,
+        123,
+        129,
+        143
       ]
     },
     {
