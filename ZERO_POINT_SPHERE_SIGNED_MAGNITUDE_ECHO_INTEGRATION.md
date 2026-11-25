@@ -2,7 +2,7 @@
 
 ## Direct result
 
-**Coherent quantum continuation:** [the full echo symmetry](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) implements a physical two-band record in the original quantum echo, shows why that record alters the old symmetry and old-system coherence, and checks a repaired joint swap. This is a bin-level connection, not a full continuous-sphere quantum embedding.
+**Coherent quantum continuations:** [the full echo symmetry](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) implements a physical two-band record and repaired joint swap. The later [coherent angular construction](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) builds a common continuous scalar-angle Hilbert-space extension of the actual quantum echo, and [covariant transport](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) distinguishes changes of observer from passive coordinates. Neither is a full S² carrier or a derivation of spacetime.
 
 This pass brings the user's **point–sphere, zero, experiential cancellation, necessity and relational-clock proposals** into the already implemented stationary sphere–echo interface. The aim is not to identify a mathematical sign with experience; it is to give the zero constitution a more specific common physical–experiential construction to explain.
 

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 759 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 696 verification Python scripts.
+- 761 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 700 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -608,6 +608,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) — Two autonomous records in the constrained geometry–sphere model
 - [ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md](ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md) — A charge-balanced reference prepared upstream: a topological research order
 - [ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md) — Branchwise cancellation and conditional selection in the all-sector circuit
+- [ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) — A coherent angular sphere record in the original quantum echo
 - [ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) — Confined realms: held position, richer activity and an optional interface
 - [ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md](ZERO_CONFINED_REALM_RELATIONAL_HISTORY_AND_CLOCK_TEST.md) — A relational history with a fixed confined record
 - [ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md](ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md) — Confined facts, richer relations and a conditional experiential-zero theorem
@@ -617,6 +618,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md](ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md) — A symmetry between the two signs—and a relational way to report one
+- [ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) — Lorentz transport of the coherent angular record
 - [ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) — A permutation-symmetric whole with a changing relational history
 - [ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) — One internal reference: zero, geometry, measurement and experience
 - [ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) — Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits
@@ -1446,6 +1448,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_all_sector_noncommuting_sphere_test.py](verification/zero_all_sector_noncommuting_sphere_test.py)
 - [verification/zero_all_sector_record_involution_test.py](verification/zero_all_sector_record_involution_test.py)
 - [verification/zero_all_sector_sphere_clock_work_test.py](verification/zero_all_sector_sphere_clock_work_test.py)
+- [verification/zero_angular_covariant_access.py](verification/zero_angular_covariant_access.py)
+- [verification/zero_angular_covariant_access_test.py](verification/zero_angular_covariant_access_test.py)
 - [verification/zero_article_jet_dual_pair_test.py](verification/zero_article_jet_dual_pair_test.py)
 - [verification/zero_autonomous_balanced_reference_clock_test.py](verification/zero_autonomous_balanced_reference_clock_test.py)
 - [verification/zero_autonomous_clock_record_subject_test.py](verification/zero_autonomous_clock_record_subject_test.py)
@@ -1521,6 +1525,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_psr5_global_decoder_r0_test.py](verification/zero_psr5_global_decoder_r0_test.py)
 - [verification/zero_qdesic_sphere_clock_connection_test.py](verification/zero_qdesic_sphere_clock_connection_test.py)
 - [verification/zero_quanta_time_photons_horizon_test.py](verification/zero_quanta_time_photons_horizon_test.py)
+- [verification/zero_quantum_angular_echo.py](verification/zero_quantum_angular_echo.py)
+- [verification/zero_quantum_angular_echo_test.py](verification/zero_quantum_angular_echo_test.py)
 - [verification/zero_realm_physical_zero_incidence_test.py](verification/zero_realm_physical_zero_incidence_test.py)
 - [verification/zero_realm_restriction_without_interaction_test.py](verification/zero_realm_restriction_without_interaction_test.py)
 - [verification/zero_reciprocal_subject_exchange_test.py](verification/zero_reciprocal_subject_exchange_test.py)

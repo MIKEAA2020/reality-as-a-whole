@@ -18,6 +18,7 @@ SECOND='ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md'
 THIRD='ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md'
 FOURTH='ZERO_SOURCE_INTEGRATION_CLOCK_REALM_AND_JOINT_INTERFACE.md'
 FIFTH='ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md'
+SEVENTH='ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -56,10 +57,11 @@ PARTIAL={
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt': {
   'audit':['UPDATED_EXPERIENCE_ENERGY_AND_TIME_CHAT_AUDIT.md'],
-  'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
+  'plan':[FIFTH,SEVENTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',SEVENTH,'verification/zero_quantum_angular_echo.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-4.txt': {
   'audit':['ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md'],
-  'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},
+  'plan':[FIFTH,'ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md'],
+  'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py','ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md','verification/zero_angular_covariant_access.py']},
  'psr-5 battery/Plural_Structural_Realism_Entry_Packet_v5.md': {
   'audit':[PSR,'ZERO_PSR5_FROZEN_R0_DECODER_REVIEW.md'],
   'plan':[FIRST], 'implemented':[FIRST,'verification/zero_stationary_battery_bridge.py']},

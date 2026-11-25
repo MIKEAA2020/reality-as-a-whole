@@ -2,6 +2,8 @@
 
 ## Result
 
+**Continuation:** the [coherent angular construction](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) extends the recorded-band quantum example to one continuous scalar-angle Hilbert space and executes the original echo and inverse; its [covariant counterpart analysis](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) keeps physical observers and passive coordinates distinct.
+
 The [earlier source-integration pass](ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md) established an active transformation that swaps the binary candidate signs `sj` and `sjr` in a **reduced** stationary history. It explicitly left open whether this was a symmetry of the original coherent quantum construction. This pass supplies a concrete lift on that earlier physical echo, with a necessary correction: the operation must include the sign pointer M, not just flip j conditional on the echo memory.
 
 For each of the **16 original source/clock labels**, the new [quantum verifier](verification/zero_full_echo_type_swap_test.py) checks that one gauge-compatible controlled operation preserves the complete complex state of the post-echo old-system/M/R construction, while on its actual `B R=+1` support it exchanges the two physical sign observables `M J` and `M J R`. This is stronger than matching a reduced probability table. The result is still a symmetry of a specified prepared model and restricted observable interface, not proof of an actual subject, felt sign, physical implementability at zero cost, a symmetry of every operation, or an incidence measure.
