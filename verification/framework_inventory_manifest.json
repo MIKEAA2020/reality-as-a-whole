@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e498165dd4b4e841c9dd8a1de11de5b055badb6d",
-  "file_count": 2115,
+  "base_head": "aeff7b90bbb05cde9cd354fe2cb067b6669f8db1",
+  "file_count": 2117,
   "files": [
     {
       "path": ".gitattributes",
@@ -870,8 +870,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 193004,
-      "sha256": "dba6d5a7733eeb77ccf5a023b86ed1914692bcdb83bf0c1427bd02d0576a7fdd"
+      "bytes": 193301,
+      "sha256": "374c25bce26447ae7d8294dd806ebef1e77d22f431fd9f2df6c14be8deb3ba0f"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3054,6 +3054,11 @@
       "sha256": "002bcba659d43723843e9552b33acb3fb82a92c0ee30cc2c79b43a8c780a2a7d"
     },
     {
+      "path": "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
+      "bytes": 15007,
+      "sha256": "a942510fb77b01f304f48a77e3a7215495cc96243dd3d399cb425667d1cb1620"
+    },
+    {
       "path": "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
       "bytes": 15921,
       "sha256": "71edd75faa162f899c1a4e551d827b48892f2afe691b4296e910287ab0c4e7fe"
@@ -3120,8 +3125,8 @@
     },
     {
       "path": "ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md",
-      "bytes": 10037,
-      "sha256": "79f882a51cd17b25fd4627de0bac47385832cf128f0ead20d467770fc8ab292e"
+      "bytes": 10375,
+      "sha256": "699e09a6e9bb15b4ab1a607d502d802a5c3ee8e0909f71d3a494d2e17c931428"
     },
     {
       "path": "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
@@ -8010,8 +8015,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 937855,
-      "sha256": "06d042e3b98014645ff7d3c7871b00a7b145053e7bb95224b28c41ab518e7520"
+      "bytes": 939182,
+      "sha256": "1c72c40153bfccc954d10b6f14056388d3c46fd898b13604c533a67f559e7d49"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10202,6 +10207,11 @@
       "path": "verification/zero_incidence_clock_probability_test.py",
       "bytes": 2210,
       "sha256": "7855af14e8f40cc57dbfd71cce0977e588dbd00e53a396c1b9195f3e4ae76697"
+    },
+    {
+      "path": "verification/zero_integrated_experience_necessity_test.py",
+      "bytes": 7368,
+      "sha256": "3ee01e2b2b5ec46b32c9d486d9221ff1ea6637b1d4712ad161be25da8707853a"
     },
     {
       "path": "verification/zero_integrated_sphere_clock_experience_test.py",

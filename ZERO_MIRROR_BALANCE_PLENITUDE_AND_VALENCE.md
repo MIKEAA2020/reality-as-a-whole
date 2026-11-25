@@ -15,6 +15,8 @@ This is stronger than cancellation of an average in one chosen distribution. But
 
 Verifier: [verification/zero_mirror_balanced_plenitude_subject_test.py](verification/zero_mirror_balanced_plenitude_subject_test.py).
 
+**Integrated necessity test:** [does zero's constitution determine experience and incidence?](ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md) holds this physical whole fixed, grants paired actual incidences as a conditional hypothesis, and tests whether zero, mirror and plenitude select a unique valence law or incidence measure.
+
 ## 1. A counterpart operation in the actual neutral sector
 
 Use the previous system and its exact conditions
