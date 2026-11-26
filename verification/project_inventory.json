@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 855,
-  "bytes": 11117128,
-  "line_count": 100487,
-  "document_count_with_risk_phrases": 808,
+  "document_count": 856,
+  "bytes": 11130159,
+  "line_count": 100617,
+  "document_count_with_risk_phrases": 809,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fb725eaf8e9d50f399fa89833c169a8fc2a433b3f6ca31d9c67a48adc188d919",
-      "bytes": 228985,
-      "lines": 1742,
+      "sha256": "806a9ca051541e74ebcd9eefd39d372517efe3b84849ddaef095ccde8ae31a1a",
+      "bytes": 229352,
+      "lines": 1745,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6438,6 +6438,7 @@
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
@@ -7323,6 +7324,8 @@
         "verification/zero_echo_accessible_marginal_root_test.py",
         "verification/zero_echo_causal_subject_criterion.py",
         "verification/zero_echo_causal_subject_criterion_test.py",
+        "verification/zero_echo_constitutive_modes.py",
+        "verification/zero_echo_constitutive_modes_test.py",
         "verification/zero_echo_incidence_balance_root.py",
         "verification/zero_echo_incidence_balance_root_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
@@ -7544,19 +7547,19 @@
         485,
         585,
         605,
-        701,
-        705,
-        731,
-        736,
-        745,
-        748,
-        769,
-        815,
-        852,
-        861,
-        864,
-        867,
-        938
+        702,
+        706,
+        732,
+        737,
+        746,
+        749,
+        770,
+        816,
+        853,
+        862,
+        865,
+        868,
+        939
       ]
     },
     {
@@ -20202,9 +20205,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "f01c815dae344309c19787fb50d5fdc1fe284aa66f4b294f2df89ed0acb7ad26",
-      "bytes": 42612,
-      "lines": 109,
+      "sha256": "a888b5184253ac06a758cf9c890b806153bffcacb42f88a7c4f1b69d403790fd",
+      "bytes": 43200,
+      "lines": 110,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20277,6 +20280,7 @@
         "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
         "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
         "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20308,7 +20312,8 @@
         82,
         84,
         85,
-        98
+        86,
+        99
       ]
     },
     {
@@ -21634,6 +21639,38 @@
         90,
         111,
         143
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+      "sha256": "0c4469fc0580a180cf53ec38bc21b921e8d58765cd242ffc273718dde0b7b65b",
+      "bytes": 11651,
+      "lines": 122,
+      "title": "Constitutive modes, neutral scalar and coherence on the same echo",
+      "headings": [
+        "Constitutive modes, neutral scalar and coherence on the same echo",
+        "Result",
+        "1. Internal decomposition, not an imposed second system",
+        "2. What is uniquely forced—and what is not",
+        "3. One population, not independent modes",
+        "4. The original coherent echo and the cost of learning more",
+        "5. Why-chain and next step",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_echo_constitutive_modes.py",
+        "verification/zero_echo_constitutive_modes_test.py",
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        29,
+        33,
+        35,
+        68,
+        91,
+        122
       ]
     },
     {
@@ -24818,9 +24855,9 @@
     },
     {
       "path": "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
-      "sha256": "58029faf6fad06b13856ad174b5eecd0abddaf4d04f4e708d9640996df04334f",
-      "bytes": 10050,
-      "lines": 95,
+      "sha256": "7a594d2abe97d17fee6e200691bfaaa76b0654b926b62326088a4bfba805eeda",
+      "bytes": 10475,
+      "lines": 99,
       "title": "Relativistic length contraction as a model of constitutive explanation",
       "headings": [
         "Relativistic length contraction as a model of constitutive explanation",
@@ -24830,19 +24867,21 @@
         "3. Apply the method to the existing echo",
         "4. What a full constitutive derivation would need",
         "5. Following “why” without importing an outside",
-        "Reproduce"
+        "Continuation: a constitutive identity on the echo"
       ],
       "local_links": [
         "verification/zero_relativity_constitutive_identity_test.py",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
-        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md"
+        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md"
       ],
       "risk_phrase_lines": [
         9,
         60,
         62,
         68,
-        95
+        90,
+        99
       ]
     },
     {

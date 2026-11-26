@@ -85,6 +85,10 @@ Why is the rod shorter in S? Because the frame's simultaneous slice intersects t
 
 The research goal is not to stop at that boundary or replace it with an external coercer. It is to investigate whether a single self-sufficient constitution can make physical structure, real experience, plurality and incidence mutually necessary aspects of one reality. The relativity example demonstrates a form that such an explanation could take; it is not, by analogy alone, a proof that the whole has already been obtained.
 
+## Continuation: a constitutive identity on the echo
+
+The [next pass](ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md) applies this method directly to the common echo. Its symmetric and antisymmetric sign modes are reversible coordinates of one structure; their exact identities show what remains when the symmetric scalar is zero, while an explicit instrument control separates that result from coherence and subject claims.
+
 ## Reproduce
 
 ```sh
