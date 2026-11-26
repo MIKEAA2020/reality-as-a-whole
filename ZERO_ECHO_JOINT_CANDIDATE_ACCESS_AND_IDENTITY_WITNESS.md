@@ -124,6 +124,10 @@ Repeated or interleaved reports are not automatically iid; a shared error, selec
 4. **Why would a witness settle even these candidates?** Only an appropriately aligned and calibrated relation to the identity question, plus controlled selection and sampling, gives the conditional exclusion above. Direct first-person evidence must be taken seriously, while equating a physical bit to such evidence without a bridge is circular.
 5. **Why choose this content, owner and weight at all?** They are a coherent **candidate** using actual model relations and a supplied clock sampling law. The physical–experiential identity, actual incidence measure, completeness of the subject boundary and choice of carrier/dynamics are not yet derived from the proposed self-sufficient whole. Further work must address that constitution and its actuality, not rename these remaining assumptions as a completed explanation. This boundary is not proved ultimate bedrock, and no external temporal cause of the whole is assumed.
 
+## Continuation: comparing the quality bridges
+
+The [next pass](ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md) compares the pointer and type-symmetric scalar on their actual disagreement sector. It derives conditional witness-rate and finite-shot bounds with noisy physical selection and calibration uncertainty; it does not assume the physical sector bit reports felt quality.
+
 ## 7. Next work
 
 - Develop and compare explicit physical–experiential bridge candidates that make different predictions about accessible identity or quality, while preserving real positive and negative experience and allowing overlapping subjects.

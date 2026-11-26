@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 808 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 783 verification Python scripts.
+- 809 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 785 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -641,6 +641,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md](ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md) — Occurrence, quality and incidence on the same echo
 - [ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) — Can the echo's physical report diagnose subject persistence?
 - [ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md](ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md) — Positive unity witnesses on the echo: what they can and cannot establish
+- [ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md](ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md) — Can the two quality bridges be distinguished on the echo?
 - [ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) — Does the type-swap conflict actually break the echo?
 - [ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) — Subject persistence, records and access on the coherent echo
 - [ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) — Encoded directional balance joined to the finite sphere, clock and work
@@ -1541,6 +1542,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_echo_ownership_witness_diagnostic_test.py](verification/zero_echo_ownership_witness_diagnostic_test.py)
 - [verification/zero_echo_positive_unity_witness.py](verification/zero_echo_positive_unity_witness.py)
 - [verification/zero_echo_positive_unity_witness_test.py](verification/zero_echo_positive_unity_witness_test.py)
+- [verification/zero_echo_quality_bridge_discrimination.py](verification/zero_echo_quality_bridge_discrimination.py)
+- [verification/zero_echo_quality_bridge_discrimination_test.py](verification/zero_echo_quality_bridge_discrimination_test.py)
 - [verification/zero_echo_state_symmetry_dynamics.py](verification/zero_echo_state_symmetry_dynamics.py)
 - [verification/zero_echo_state_symmetry_dynamics_test.py](verification/zero_echo_state_symmetry_dynamics_test.py)
 - [verification/zero_echo_subject_persistence.py](verification/zero_echo_subject_persistence.py)

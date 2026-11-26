@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 851,
-  "bytes": 11062632,
-  "line_count": 99962,
-  "document_count_with_risk_phrases": 804,
+  "document_count": 852,
+  "bytes": 11076538,
+  "line_count": 100112,
+  "document_count_with_risk_phrases": 805,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3aa50b066189f7acdca6daee9112c005744c8af656f4b1919ecf1b0e12ef3ab1",
-      "bytes": 227472,
-      "lines": 1731,
+      "sha256": "89b29d75e60287b4c62c3acf151f791bedab5cdccb46228ea94ccaa8d5588c53",
+      "bytes": 227897,
+      "lines": 1734,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6444,6 +6444,7 @@
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
+        "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -7330,6 +7331,8 @@
         "verification/zero_echo_ownership_witness_diagnostic_test.py",
         "verification/zero_echo_positive_unity_witness.py",
         "verification/zero_echo_positive_unity_witness_test.py",
+        "verification/zero_echo_quality_bridge_discrimination.py",
+        "verification/zero_echo_quality_bridge_discrimination_test.py",
         "verification/zero_echo_state_symmetry_dynamics.py",
         "verification/zero_echo_state_symmetry_dynamics_test.py",
         "verification/zero_echo_subject_persistence.py",
@@ -7533,19 +7536,19 @@
         485,
         585,
         605,
-        698,
-        702,
-        728,
-        732,
-        741,
-        744,
-        765,
-        811,
-        848,
-        857,
-        860,
-        863,
-        934
+        699,
+        703,
+        729,
+        733,
+        742,
+        745,
+        766,
+        812,
+        849,
+        858,
+        861,
+        864,
+        935
       ]
     },
     {
@@ -20191,9 +20194,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "195b909bf076df4d4a03c1eb542a6ce3d92044b0e219d86b7004d3e8eac27e89",
-      "bytes": 40015,
-      "lines": 105,
+      "sha256": "97ce7f09ece5e226e738bb40ed8822b92b3e6df152bd456561ac4f7fb4f98031",
+      "bytes": 40695,
+      "lines": 106,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20262,6 +20265,7 @@
         "ZERO_GAUGE_FAULT_RECORD_RECOVERY_AND_CLOCK_COST.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
+        "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20290,7 +20294,8 @@
         73,
         75,
         79,
-        94
+        82,
+        95
       ]
     },
     {
@@ -21689,9 +21694,9 @@
     },
     {
       "path": "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
-      "sha256": "4093f2c655c370d640f347db9dee15b9d7e82480357c91a042a4e73d67ab833d",
-      "bytes": 14771,
-      "lines": 140,
+      "sha256": "f461a6751eb35f3213a458ad4ba91f5f4d6e251c7deaf3071f82c1a7c5900a38",
+      "bytes": 15161,
+      "lines": 144,
       "title": "What can access the joint candidate—and what can test its ownership?",
       "headings": [
         "What can access the joint candidate—and what can test its ownership?",
@@ -21708,7 +21713,8 @@
         "verification/zero_echo_joint_candidate_access_witness.py",
         "verification/zero_echo_joint_candidate_access_witness_test.py",
         "verification/zero_echo_joint_identity_balance_test.py",
-        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md"
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
+        "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md"
       ],
       "risk_phrase_lines": [
         52,
@@ -21815,6 +21821,34 @@
         106,
         122,
         129
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
+      "sha256": "0e6ef4185609322fe032160429a536aeb859da8169518c79f3cee60d932e9a00",
+      "bytes": 12411,
+      "lines": 142,
+      "title": "Can the two quality bridges be distinguished on the echo?",
+      "headings": [
+        "Can the two quality bridges be distinguished on the echo?",
+        "Result",
+        "1. Compare two bridges on the same physical state",
+        "2. Why sector selection matters",
+        "3. A conditional quality witness",
+        "4. A finite-shot plan, including calibration uncertainty",
+        "5. Follow the why-chain",
+        "6. Next work"
+      ],
+      "local_links": [
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+        "verification/zero_echo_quality_bridge_discrimination.py",
+        "verification/zero_echo_quality_bridge_discrimination_test.py"
+      ],
+      "risk_phrase_lines": [
+        49,
+        109,
+        126,
+        142
       ]
     },
     {
