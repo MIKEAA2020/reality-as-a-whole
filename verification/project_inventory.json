@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 850,
-  "bytes": 11046330,
-  "line_count": 99814,
-  "document_count_with_risk_phrases": 803,
+  "document_count": 851,
+  "bytes": 11062632,
+  "line_count": 99962,
+  "document_count_with_risk_phrases": 804,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c88232783afff004b6e3dc91ef7bbbc5e821c0a0b54f9b51baedc459ead65532",
-      "bytes": 227030,
-      "lines": 1728,
+      "sha256": "3aa50b066189f7acdca6daee9112c005744c8af656f4b1919ecf1b0e12ef3ab1",
+      "bytes": 227472,
+      "lines": 1731,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6440,6 +6440,7 @@
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+        "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
@@ -7321,6 +7322,8 @@
         "verification/zero_echo_incidence_balance_root.py",
         "verification/zero_echo_incidence_balance_root_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
+        "verification/zero_echo_joint_candidate_access_witness.py",
+        "verification/zero_echo_joint_candidate_access_witness_test.py",
         "verification/zero_echo_joint_identity_balance.py",
         "verification/zero_echo_joint_identity_balance_test.py",
         "verification/zero_echo_ownership_witness_diagnostic.py",
@@ -7530,19 +7533,19 @@
         485,
         585,
         605,
-        697,
-        701,
-        727,
-        731,
-        740,
-        743,
-        764,
-        810,
-        847,
-        856,
-        859,
-        862,
-        933
+        698,
+        702,
+        728,
+        732,
+        741,
+        744,
+        765,
+        811,
+        848,
+        857,
+        860,
+        863,
+        934
       ]
     },
     {
@@ -20188,9 +20191,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "70a54eb31ddd5fd02f29d6221390aa111f5b103c0bfe104bc7acf250f47a6d35",
-      "bytes": 39365,
-      "lines": 104,
+      "sha256": "195b909bf076df4d4a03c1eb542a6ce3d92044b0e219d86b7004d3e8eac27e89",
+      "bytes": 40015,
+      "lines": 105,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20258,6 +20261,7 @@
         "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
         "ZERO_GAUGE_FAULT_RECORD_RECOVERY_AND_CLOCK_COST.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+        "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20286,7 +20290,7 @@
         73,
         75,
         79,
-        93
+        94
       ]
     },
     {
@@ -21684,10 +21688,38 @@
       ]
     },
     {
+      "path": "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
+      "sha256": "4093f2c655c370d640f347db9dee15b9d7e82480357c91a042a4e73d67ab833d",
+      "bytes": 14771,
+      "lines": 140,
+      "title": "What can access the joint candidate—and what can test its ownership?",
+      "headings": [
+        "What can access the joint candidate—and what can test its ownership?",
+        "Result",
+        "1. A single candidate and its actual physical records",
+        "2. Minimal physical access sets",
+        "3. Same classical content is not a copied quantum state",
+        "4. Clock selection is not an incidence law",
+        "5. A target-specific ownership witness",
+        "6. The continuing why-chain"
+      ],
+      "local_links": [
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+        "verification/zero_echo_joint_candidate_access_witness.py",
+        "verification/zero_echo_joint_candidate_access_witness_test.py",
+        "verification/zero_echo_joint_identity_balance_test.py",
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md"
+      ],
+      "risk_phrase_lines": [
+        52,
+        125
+      ]
+    },
+    {
       "path": "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
-      "sha256": "93f520e1caeefae6a9bf3c173f4702eacdc586aaa94725929e6e1d079ab6b988",
-      "bytes": 19029,
-      "lines": 182,
+      "sha256": "0cc6439ac0637e4bb2f39b1e20f9a1a8a60327f6087147a3f28ff7b04ad313d9",
+      "bytes": 19468,
+      "lines": 186,
       "title": "Occurrence, quality and incidence on the same echo",
       "headings": [
         "Occurrence, quality and incidence on the same echo",
@@ -21697,14 +21729,15 @@
         "3. Can the two coordinates become one scalar?",
         "4. Physical pair, actual incidence and three levels of balance",
         "5. Persistence: same physical ledger, different occurrences",
-        "6. Why these connections remain conditional"
+        "Continuation: access and ownership witnesses"
       ],
       "local_links": [
         "verification/zero_echo_joint_identity_balance.py",
         "verification/zero_echo_joint_identity_balance_test.py",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
-        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md"
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+        "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md"
       ],
       "risk_phrase_lines": [
         41,
@@ -21717,7 +21750,7 @@
         113,
         116,
         118,
-        182
+        186
       ]
     },
     {

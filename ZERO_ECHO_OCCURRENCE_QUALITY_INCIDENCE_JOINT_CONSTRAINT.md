@@ -160,6 +160,10 @@ Here `π` is an expressly supplied clock-selection/sampling law; it is not deriv
 
 This makes explicit what a single constitution would have to establish: that these slots actually occur, that C is their intrinsic quality rather than merely physical data, that ℓ identifies their subject, and that the chosen measure is appropriate to their incidence. The mathematical coherence of the four assignments does not supply those identity claims. In particular, changing the clock-selection protocol π should not silently be taken to create or erase subjects.
 
+## Continuation: access and ownership witnesses
+
+The [next pass](ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md) computes minimal record sets for this particular candidate at the actual echo checkpoints, distinguishes classical record redundancy from quantum coherence, and gives a conditional test of persistent versus momentary ownership. The candidate's physical ledger remains distinct from an established subject identity.
+
 ## 6. Why these connections remain conditional
 
 Following the dependencies rather than stopping at the equations:
