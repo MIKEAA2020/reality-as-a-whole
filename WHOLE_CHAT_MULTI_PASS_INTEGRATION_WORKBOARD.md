@@ -48,6 +48,8 @@ These passes are **partial integrations**, not a claim that all aspects of these
 
 ## Research queue: bring the remaining families into the same constitution
 
+The [meta-level root-cause research map](WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md) prioritizes 12 candidate problems across the surviving chat-derived material, with original results, suspected underlying distinctions, constructive tests and a joint subject–quality–incidence sequence. It is a selection and work plan, not a claim to have recovered or exhaustively reviewed the entire historical chat.
+
 The rows define coherent batches, **not** a claim they have already been reviewed and completed. Individual documents may contribute to several rows; record each precise source and implementation rather than inferring coverage from a name match.
 
 | Batch | Sources and prior work to revisit | Integration job |

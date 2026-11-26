@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 771 root Markdown documents including this register; 43 research Markdown documents.
+- 772 root Markdown documents including this register; 43 research Markdown documents.
 - 64 original uploaded files, including provenance metadata; 721 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -592,6 +592,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md](WEAK_COUPLING_PARTIAL_OBSERVATION_SUBJECT_GATE.md) — Weak coupling and partial observation: a subject-constitution gate
 - [WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md](WEAK_RECORD_COHERENCE_AND_PERSPECTIVE_GATE.md) — Weak histories, accessible records and plural perspectives
 - [WEYL2_CONFORMAL_ANOMALY_CC.md](WEYL2_CONFORMAL_ANOMALY_CC.md) — Conformal Anomaly, Weyl² Running, and the Low-Scale Cosmological Constant
+- [WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md](WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md) — Root-cause research map for the zero–point–sphere programme
 - [WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md](WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md) — Whole-chat multi-pass integration workboard
 - [WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md](WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md) — Effective realism, scale and the experiential candidate
 - [WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md](WORKSPACE_ALGEBRA_CHANNEL_BRIDGE.md) — A demonstrated bridge: maintained dynamics, observable algebras, and channels
