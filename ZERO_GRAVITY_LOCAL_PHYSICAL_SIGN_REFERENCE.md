@@ -128,6 +128,8 @@ A successful candidate would identify a sufficiently organized occurrence with i
 
 The appropriate next step is a **finite-time localized readout/memory with an internal reference**, explicitly accounting for its degrees of freedom, coupling and gravitational energy, followed by a principled subject-and-quality proposal anchored in actual first-person evidence. The user's full-intelligibility requirement remains the guiding premise; unaccounted-for brute facts or unresolved regress are not being treated as alternative solutions.
 
+The [localized memory-field continuation](ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md) adds an interacting scalar memory to this action, preserves the exact initial constraint construction, and computes a tuned finite-window memory difference. It remains perturbative, drifts after the pulse and is not an error-controlled record or a subject.
+
 ## Verification
 
 ```sh

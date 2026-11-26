@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 874,
-  "bytes": 11420369,
-  "line_count": 103148,
-  "document_count_with_risk_phrases": 826,
+  "document_count": 875,
+  "bytes": 11433304,
+  "line_count": 103278,
+  "document_count_with_risk_phrases": 827,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f23493ef70dfb381ff8ca2260572c388160d82414302f3e102c4560220b2a010",
-      "bytes": 234868,
-      "lines": 1783,
+      "sha256": "31519c96fb4885576360964fa98c9fe76d80a0daeaae6cbe150bfd1380ccdc43",
+      "bytes": 235135,
+      "lines": 1785,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6559,6 +6559,7 @@
         "ZERO_GEOMETRY_CLOCK_MOURRE_AND_BOUND_SPECTRUM.md",
         "ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md",
         "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
+        "ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md",
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
@@ -7474,6 +7475,7 @@
         "verification/zero_gauge_fault_transfer_recovery_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
+        "verification/zero_gravity_local_memory_pulse_test.py",
         "verification/zero_gravity_local_physical_reference_test.py",
         "verification/zero_identity_pair_incidence_record_test.py",
         "verification/zero_incidence_clock_probability.py",
@@ -7664,19 +7666,19 @@
         488,
         589,
         609,
-        714,
-        718,
-        744,
-        749,
-        759,
-        762,
-        788,
-        834,
-        871,
-        880,
-        883,
-        886,
-        958
+        715,
+        719,
+        745,
+        750,
+        760,
+        763,
+        789,
+        835,
+        872,
+        881,
+        884,
+        887,
+        959
       ]
     },
     {
@@ -20389,9 +20391,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "2a667f1bb202cad1be79d5a400c29e91fc323d83c3840e47f4b33a964b32da2e",
-      "bytes": 55103,
-      "lines": 128,
+      "sha256": "70aeabc648f53d67801ef15e9037e3212983e7df6c448c0d93482fb0c5093e80",
+      "bytes": 55682,
+      "lines": 129,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20501,6 +20503,8 @@
         "verification/zero_localized_gravity_finite_response_test.py",
         "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
         "verification/zero_gravity_local_physical_reference_test.py",
+        "ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md",
+        "verification/zero_gravity_local_memory_pulse_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20538,7 +20542,8 @@
         95,
         99,
         102,
-        117
+        105,
+        118
       ]
     },
     {
@@ -23073,9 +23078,9 @@
     },
     {
       "path": "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
-      "sha256": "a44e24f6a5d26e1fa995b141ed9c935677b8d6a0e616caf2a23dc24f8cf14d23",
-      "bytes": 14634,
-      "lines": 139,
+      "sha256": "7dbc4e4b3d51ce1220735242f8a632ebef37a7fc13698581b81ba180b9b1548b",
+      "bytes": 14974,
+      "lines": 141,
       "title": "A physical sign reference in the localized gravity candidate",
       "headings": [
         "A physical sign reference in the localized gravity candidate",
@@ -23093,6 +23098,7 @@
         "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
         "ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md",
         "verification/zero_gravity_local_physical_reference_test.py",
+        "ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md",
         "verification/requirements-gravity-spin-pointer.txt"
       ],
       "risk_phrase_lines": [
@@ -23103,7 +23109,38 @@
         66,
         87,
         101,
-        119
+        119,
+        131
+      ]
+    },
+    {
+      "path": "ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md",
+      "sha256": "2aff1921b76471b3d0edab20938ee37cfece8a4a0e913c5fbfd2e6ff11bb4fa0",
+      "bytes": 11749,
+      "lines": 125,
+      "title": "A localized reference-relative memory field in the gravity candidate",
+      "headings": [
+        "A localized reference-relative memory field in the gravity candidate",
+        "Result",
+        "1. Extend one physical constitution rather than attach a free bit",
+        "2. Initial data and a second interaction window",
+        "3. What is calculated",
+        "4. Finite sampled result and the limitation",
+        "5. What this means for intrinsic identity",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
+        "verification/zero_gravity_local_memory_pulse_test.py",
+        "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
+        "verification/zero_gravity_local_memory_pulse_test.py",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        9,
+        44,
+        58,
+        103
       ]
     },
     {
