@@ -1,5 +1,7 @@
 # Better-conditioned clock readout—with a support flag and a cost
 
+**Continuation:** [imperfect support-flag root](ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md) allows missed and false flags, derives a conditional finite-shot bound, and constructs an outside state missed by an apparatus that passes another outside calibration.
+
 ## Result
 
 The [previous test](ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md) found that the original 32-outcome clock-record instrument is informationally complete on a chosen two-packet span but weakly sensitive to one coherent direction. This is **not a universal obstruction**: a different explicitly defined five-outcome instrument on the same regulated physical space has balanced sensitivity to all three qubit directions and an outcome for being outside that span.

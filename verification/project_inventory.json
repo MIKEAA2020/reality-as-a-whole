@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 838,
-  "bytes": 10860934,
-  "line_count": 97958,
-  "document_count_with_risk_phrases": 791,
+  "document_count": 839,
+  "bytes": 10872283,
+  "line_count": 98073,
+  "document_count_with_risk_phrases": 792,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4261d7d7e9bbc86077be4eaf7503e0932fbc12538e6ef6d594a2c1769cb5c9ea",
-      "bytes": 222670,
-      "lines": 1695,
+      "sha256": "988b1cdc4f1bf54bd336339c92451f095f28a088d0a23ab868805d0efa4dbe0a",
+      "bytes": 222944,
+      "lines": 1697,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6594,6 +6594,7 @@
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
@@ -7468,6 +7469,7 @@
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_finite_record_clock_test.py",
         "verification/zero_two_window_full_slice_test.py",
+        "verification/zero_two_window_imperfect_support_flag_test.py",
         "verification/zero_two_window_operational_clock_calibration_test.py",
         "verification/zero_two_window_recorded_histories_test.py",
         "verification/zero_two_window_support_eraser_test.py",
@@ -7504,12 +7506,12 @@
         733,
         736,
         756,
-        798,
-        835,
-        844,
-        847,
-        850,
-        921
+        799,
+        836,
+        845,
+        848,
+        851,
+        922
       ]
     },
     {
@@ -18368,8 +18370,8 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "020cf3e6d990ea5437bd1db626072377775b5d942cdcd516975719732f327b06",
-      "bytes": 16383,
+      "sha256": "bae0be1ba3cb44c16325874a5c531b7a3686ec42ee3a5fa4fca5a668f278d090",
+      "bytes": 16581,
       "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
@@ -18388,6 +18390,7 @@
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -20152,9 +20155,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "d65ce2e27726da1a1aea3e89366a68ebad3520f539ea52410e2ed6bef934acb0",
-      "bytes": 32019,
-      "lines": 92,
+      "sha256": "3ce9642e8581fd3ac661e35af6e771d259d6fc8570b8d397ee4d50c59d0bc8d3",
+      "bytes": 32519,
+      "lines": 93,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20210,6 +20213,7 @@
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20232,7 +20236,7 @@
         60,
         62,
         63,
-        81
+        82
       ]
     },
     {
@@ -26685,6 +26689,32 @@
       ]
     },
     {
+      "path": "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
+      "sha256": "b77916c7917eba004d3960e1aa93db0c6d9ef7f258e57eae3bf3e3cb1c519a96",
+      "bytes": 10112,
+      "lines": 110,
+      "title": "Imperfect support flags: the calibration root",
+      "headings": [
+        "Imperfect support flags: the calibration root",
+        "Result",
+        "1. A noisy flag model",
+        "2. Finite-shot prediction bound",
+        "3. Noisy-flag simulation and sensitivity",
+        "4. A detector that passes one outside test and misses another",
+        "5. Why this is the remaining issue",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
+        "verification/zero_two_window_imperfect_support_flag_test.py",
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        55
+      ]
+    },
+    {
       "path": "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
       "sha256": "6eb27a47671d0348a08edbbe26b5dea588fa074d5330496cd2a9ebe0d2019b2e",
       "bytes": 12357,
@@ -26718,9 +26748,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
-      "sha256": "82b7bda0ddb0952b8f70ccc8a79155b2061952bfad1dff8813285803709865ce",
-      "bytes": 10885,
-      "lines": 115,
+      "sha256": "fd2c72b2a069856c426419f52c2e204ff7e686e140525566579874b4896c6540",
+      "bytes": 11150,
+      "lines": 117,
       "title": "Better-conditioned clock readout—with a support flag and a cost",
       "headings": [
         "Better-conditioned clock readout—with a support flag and a cost",
@@ -26732,17 +26762,18 @@
         "Scope and reproduction"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "verification/zero_two_window_support_eraser_test.py",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md"
       ],
       "risk_phrase_lines": [
-        7,
-        42,
-        50,
-        69,
-        106,
-        110
+        9,
+        44,
+        52,
+        71,
+        108,
+        112
       ]
     },
     {
