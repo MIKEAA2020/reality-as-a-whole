@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 798 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 764 verification Python scripts.
+- 799 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 765 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -744,6 +744,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md](ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md) — Finite clock readings, physical instruments and a change of clock
 - [ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md](ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md) — Zero, internal relations and the problem of opposites
 - [ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md](ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md) — A relative sign on the internal sphere without absolute handedness
+- [ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md](ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md) — Sphere symmetry, representations, gauge charges and the Langlands interface
 - [ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md](ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md) — Recovering a reused record inside the zero-charge sphere history
 - [ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md](ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md) — Conserved sphere, quantum steering and definite Bell records
 - [ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) — The complete internal sphere and branchwise zero
@@ -1645,6 +1646,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_sphere_relativistic_relational_time_test.py](verification/zero_sphere_relativistic_relational_time_test.py)
 - [verification/zero_sphere_reuse_experiential_access_test.py](verification/zero_sphere_reuse_experiential_access_test.py)
 - [verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py](verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py)
+- [verification/zero_sphere_satake_symmetry_test.py](verification/zero_sphere_satake_symmetry_test.py)
 - [verification/zero_sphere_singlet_fixed_records_test.py](verification/zero_sphere_singlet_fixed_records_test.py)
 - [verification/zero_spherical_invariant_echo.py](verification/zero_spherical_invariant_echo.py)
 - [verification/zero_spherical_invariant_echo_test.py](verification/zero_spherical_invariant_echo_test.py)

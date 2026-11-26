@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "12d10cbbd56d71099890f0a829845055c09a5a13",
-  "file_count": 2353,
+  "base_head": "e754f233f1bd05392e5d8ff08f41e12bf9b25c2d",
+  "file_count": 2355,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 223636,
-      "sha256": "0be2fb4f584e5aedf788677e1f266c2d66748a506c0748b92dd0f5863dd606f2"
+      "bytes": 223918,
+      "sha256": "b61e354c41ac04b3ccc410b8acaae971b324a111a7641743e144746c83e07390"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 33394,
-      "sha256": "76c83e32a68badd26f51e4c1513cf4ac0bd13f62d369dc606bc0d5f5a806ff87"
+      "bytes": 34060,
+      "sha256": "2b50a69275a0db461b466f660a79d260ccda91dd1897b15d580dd823cc33eb31"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3679,6 +3679,11 @@
       "sha256": "e582ed777aa9433c4de7964b4215be8a3f6b15087d656d7525cea5079ab4f7c2"
     },
     {
+      "path": "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
+      "bytes": 15497,
+      "sha256": "8ea688a77bec44fbed958a6fc1a5858e5a1a059cc3c44a132b679058797eb3d6"
+    },
+    {
       "path": "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
       "bytes": 15395,
       "sha256": "b46548ec04be8c608740df4c779d312bf2e3a5cd577cdc7935dfd9d2f8ffe4bf"
@@ -3715,8 +3720,8 @@
     },
     {
       "path": "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
-      "bytes": 15387,
-      "sha256": "4b66e54b4eeeb74c328404954d4ecdbf443687a91dc49b05c2c581bce85519b2"
+      "bytes": 15682,
+      "sha256": "33852a2169d184ad50e562f9e97233dd72235198fb7e9448d77604d8114c18ff"
     },
     {
       "path": "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
@@ -5970,8 +5975,8 @@
     },
     {
       "path": "verification/build_source_repass_tracker.py",
-      "bytes": 8607,
-      "sha256": "7627144d4dd0f96a628733331c052c67ea9d535f809bf51a53c36b4921625aef"
+      "bytes": 8954,
+      "sha256": "40bfdfedabf237e3e1d7ad503d86d0f8ec462b3cfa5f74ea6fa4055603cd9437"
     },
     {
       "path": "verification/cardiac_feedback_pain_predictions.json",
@@ -8580,8 +8585,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1079727,
-      "sha256": "78bc7dcc74d08f6970877d7072085bbd12b9968cf5a08284c839064b60bda140"
+      "bytes": 1081326,
+      "sha256": "76973cd933961ebd8e21a1f3b51bf8e4f686f2b7658eb098e55bc1f88c48c7b4"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9750,8 +9755,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 527332,
-      "sha256": "50f5ef272fb65aca988e48184f72ebb580301607504d4280cb7a43dbfc6ead1a"
+      "bytes": 528144,
+      "sha256": "1c7e1d62eb38de82028a2620121213fb91904a2ed23dbcb7579cc4537126c5f9"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11487,6 +11492,11 @@
       "path": "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",
       "bytes": 8845,
       "sha256": "efe181997c1fc61d01507b28e63400e7c7433624e3357fd79c9df3d18f7e110c"
+    },
+    {
+      "path": "verification/zero_sphere_satake_symmetry_test.py",
+      "bytes": 7137,
+      "sha256": "8a7c44b26cc911ad4d5e0166ae7350a9f505adbfde4f00f94db84e1c2b1d9df7"
     },
     {
       "path": "verification/zero_sphere_singlet_fixed_records_test.py",

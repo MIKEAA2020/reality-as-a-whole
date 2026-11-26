@@ -2,7 +2,7 @@
 
 ## The unified proposal
 
-**Continuation:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) address the complete original correlated record, not only its marginal, by constructing a family-adapted independent-rotation action. Its conditional scope and the separately constrained-pair extension are made explicit there.
+**Continuations:** [record-dressed sphere rotations](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) address the complete original correlated record, not only its marginal, by constructing a family-adapted independent-rotation action. Its conditional scope and the separately constrained-pair extension are made explicit there. [Sphere representations, gauge charges and Langlands](ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md) decomposes the original scalar sector, tests a supplied three-direction extension, and identifies both a rank-one Satake connection and a central-action obstruction to a naive identification.
 
 Your recent synthesis identifies symmetry as the common direction of the programme: a whole represented by a point, internally differentiated as a sphere; zero net energy; necessary plenitude without an unexplained preference; real polarity; substrate-independent subjects; and experience and matter as intrinsic and extrinsic aspects of one reality, rather than rival substances.
 

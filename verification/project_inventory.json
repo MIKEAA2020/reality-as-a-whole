@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 841,
-  "bytes": 10893626,
-  "line_count": 98363,
-  "document_count_with_risk_phrases": 794,
+  "document_count": 842,
+  "bytes": 10910366,
+  "line_count": 98501,
+  "document_count_with_risk_phrases": 795,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0be2fb4f584e5aedf788677e1f266c2d66748a506c0748b92dd0f5863dd606f2",
-      "bytes": 223636,
-      "lines": 1702,
+      "sha256": "b61e354c41ac04b3ccc410b8acaae971b324a111a7641743e144746c83e07390",
+      "bytes": 223918,
+      "lines": 1704,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6547,6 +6547,7 @@
         "ZERO_SPHERE_QUANTUM_COSMOLOGY_FINITE_CLOCK_INSTRUMENTS.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_SPHERE_RELATIVE_SUBJECT_ORIENTATION.md",
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
@@ -7434,6 +7435,7 @@
         "verification/zero_sphere_relativistic_relational_time_test.py",
         "verification/zero_sphere_reuse_experiential_access_test.py",
         "verification/zero_sphere_reuse_noisy_auxiliary_memory_test.py",
+        "verification/zero_sphere_satake_symmetry_test.py",
         "verification/zero_sphere_singlet_fixed_records_test.py",
         "verification/zero_spherical_invariant_echo.py",
         "verification/zero_spherical_invariant_echo_test.py",
@@ -7510,13 +7512,13 @@
         724,
         733,
         736,
-        756,
-        801,
-        838,
-        847,
-        850,
-        853,
-        924
+        757,
+        802,
+        839,
+        848,
+        851,
+        854,
+        925
       ]
     },
     {
@@ -20162,9 +20164,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "76c83e32a68badd26f51e4c1513cf4ac0bd13f62d369dc606bc0d5f5a806ff87",
-      "bytes": 33394,
-      "lines": 95,
+      "sha256": "2b50a69275a0db461b466f660a79d260ccda91dd1897b15d580dd823cc33eb31",
+      "bytes": 34060,
+      "lines": 96,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20223,6 +20225,7 @@
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20247,7 +20250,8 @@
         63,
         70,
         71,
-        84
+        72,
+        85
       ]
     },
     {
@@ -25177,6 +25181,43 @@
       ]
     },
     {
+      "path": "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
+      "sha256": "8ea688a77bec44fbed958a6fc1a5858e5a1a059cc3c44a132b679058797eb3d6",
+      "bytes": 15497,
+      "lines": 135,
+      "title": "Sphere symmetry, representations, gauge charges and the Langlands interface",
+      "headings": [
+        "Sphere symmetry, representations, gauge charges and the Langlands interface",
+        "Result and scope",
+        "1. The original invariant sector in representation language",
+        "2. Three directions: invariant handedness and its observable",
+        "3. An exact obstruction at the sphere–Satake interface",
+        "4. A rank-one gauge and duality label model",
+        "5. What would advance the common candidate",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_sphere_satake_symmetry_test.py",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "sources/uploads/russellian-absolute-discussion.md",
+        "brain-specificity-thesis.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        11,
+        15,
+        27,
+        49,
+        51,
+        76,
+        114,
+        135
+      ]
+    },
+    {
       "path": "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
       "sha256": "b46548ec04be8c608740df4c779d312bf2e3a5cd577cdc7935dfd9d2f8ffe4bf",
       "bytes": 15395,
@@ -25416,8 +25457,8 @@
     },
     {
       "path": "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
-      "sha256": "4b66e54b4eeeb74c328404954d4ecdbf443687a91dc49b05c2c581bce85519b2",
-      "bytes": 15387,
+      "sha256": "33852a2169d184ad50e562f9e97233dd72235198fb7e9448d77604d8114c18ff",
+      "bytes": 15682,
       "lines": 141,
       "title": "Symmetry, point–sphere and the coherent zero candidate",
       "headings": [
@@ -25432,6 +25473,7 @@
       ],
       "local_links": [
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "verification/zero_spherical_invariant_echo.py",
         "verification/zero_spherical_invariant_echo_test.py",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",

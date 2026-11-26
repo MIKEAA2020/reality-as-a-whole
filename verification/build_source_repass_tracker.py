@@ -37,6 +37,11 @@ PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 # source-specific audit/plan/implementation is actually recorded; not on the
 # basis of a title, passing a script, or an automated text match.
 PARTIAL={
+ 'sources/uploads/russellian-absolute-discussion.md': {
+  'audit':['brain-specificity-thesis.md','ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md'],
+  'plan':['ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md'],
+  'implemented':['ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md',
+                 'verification/zero_sphere_satake_symmetry_test.py']},
  "sources/uploads/Bostrom's simulation hypothesis.md": {
   'audit':[THIRD], 'plan':[THIRD],
   'implemented':[THIRD,'verification/zero_stationary_refinement_self_location.py']},
