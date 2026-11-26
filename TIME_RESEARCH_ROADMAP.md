@@ -2,6 +2,8 @@
 
 **Root-cause diagnosis:** [why the problem remains unsolved](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) identifies the missing physically justified, domain-aware relation between the whole and clocked events, while distinguishing the technical quantum-gravity problem from the further constitutive and experiential questions.
 
+**Finite-record continuation:** [two-window instrument and information-loss comparison](ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md) transports the same finite-regulator branches, exhibits the finite-sampling limitation, and corrects the continuum baseline.
+
 **Status:** a proposed research program with an explicit finite-model benchmark, not a solution of the problem of time and not a claim that its specific route is uniquely necessary. The literature search is targeted and incomplete. The user asks for genuine advances, so a new result must be a precisely stated theorem, counterexample, construction or discriminating prediction that survives comparison with close prior art—not just a synthesis or a passing numerical script.
 
 **Framework clarification:** In the intended zero-residue candidate, the absolute is timeless and spacetime is not fundamental. There is no reason to posit a universal external clock for the whole. Internal clocks are physical correlations or devices, defined only where they are applicable; local time and spacetime must be accounted for as emergent structures. Mathematical timelessness is an analogy, not a proof that mathematical truth and concrete actuality have identical ontology. Timelessness alone does not prove that internal clocks cannot happen to be globally comparable within a particular model; nor does it derive an emergent spacetime or the phenomenal experience of succession.

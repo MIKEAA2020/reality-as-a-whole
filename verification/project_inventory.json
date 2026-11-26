@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 833,
-  "bytes": 10797208,
-  "line_count": 97394,
-  "document_count_with_risk_phrases": 786,
+  "document_count": 834,
+  "bytes": 10809226,
+  "line_count": 97466,
+  "document_count_with_risk_phrases": 787,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8e681cad225640669601220c4dd79adec534c750147ce94a39ec8de520ec7504",
-      "bytes": 221211,
-      "lines": 1685,
+      "sha256": "42b212a6724430f6a2708cdaa7f34a668ff102b84b98b6e2947804e970a82881",
+      "bytes": 221501,
+      "lines": 1687,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6590,6 +6590,7 @@
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+        "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
@@ -7460,6 +7461,7 @@
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
+        "verification/zero_two_window_finite_record_clock_test.py",
         "verification/zero_two_window_full_slice_test.py",
         "verification/zero_type_reflection_continuum_root.py",
         "verification/zero_type_reflection_continuum_root_test.py",
@@ -7494,12 +7496,12 @@
         733,
         736,
         756,
-        793,
-        830,
-        839,
-        842,
-        845,
-        916
+        794,
+        831,
+        840,
+        843,
+        846,
+        917
       ]
     },
     {
@@ -13368,8 +13370,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
-      "sha256": "864b910f88ce0859cc41e15adbb93da58e34e6cb3db2c3b78d08970d8398eda0",
-      "bytes": 18314,
+      "sha256": "acc153e9c4232c5a75371d59a61573c521d0e90532721ef0a31bb860fd24a446",
+      "bytes": 19363,
       "lines": 119,
       "title": "Why have we not fully solved the problem of time?",
       "headings": [
@@ -13390,7 +13392,12 @@
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
-        "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
+        "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "PROBLEM_OF_TIME_CLOSED.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
@@ -13406,6 +13413,7 @@
         67,
         93,
         95,
+        101,
         119
       ]
     },
@@ -18351,9 +18359,9 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "b85f2487576b32de0b2024a601ebc91fd61303e818ce051ca70b9a13d9ee52a8",
-      "bytes": 15211,
-      "lines": 82,
+      "sha256": "06626f684477badbbb4866e2161874b20bce0638aba6f0cf9c32e27195e11602",
+      "bytes": 15476,
+      "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
         "A top-down research program for the problem of time",
@@ -18366,6 +18374,7 @@
       ],
       "local_links": [
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
+        "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -18375,21 +18384,21 @@
         "verification/time_recovery_benchmark.py"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        17,
-        27,
-        31,
-        42,
-        54,
+        9,
+        19,
+        29,
+        33,
+        44,
         56,
-        66
+        58,
+        68
       ]
     },
     {
       "path": "TIME_SOLUTION_EVIDENCE_AUDIT.md",
-      "sha256": "f4037459523b760a2be11bc7caf636d951c0ba30a776cb25f75899a88983e2e9",
-      "bytes": 5945,
+      "sha256": "7fcb74a1c79ff5611085cb9787176017ea86074867e577f4940ba50a12f2ac99",
+      "bytes": 6157,
       "lines": 36,
       "title": "Problem of time: evidence and novelty audit",
       "headings": [
@@ -18402,6 +18411,7 @@
       ],
       "local_links": [
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
+        "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md"
       ],
@@ -20128,9 +20138,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "beacf3f7c904233da7c83553ceb424483c6a5a8847f24ac791d0b3c2390ea747",
-      "bytes": 29528,
-      "lines": 87,
+      "sha256": "835f61b2d968c7a24813be5042f724d01db1738857a4d7876e99660077ee5d98",
+      "bytes": 30076,
+      "lines": 88,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20181,6 +20191,7 @@
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
+        "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20203,7 +20214,7 @@
         60,
         62,
         63,
-        76
+        77
       ]
     },
     {
@@ -26538,6 +26549,33 @@
         3,
         7,
         113
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
+      "sha256": "a618a0d6a48fbbe4569f294fd51eff314f32fceb850c880c06ea0307fccfbc66",
+      "bytes": 9654,
+      "lines": 67,
+      "title": "Finite records and clock descriptions in the two-window model",
+      "headings": [
+        "Finite records and clock descriptions in the two-window model",
+        "Result and correction",
+        "One physical intervention, two finite coordinate representations",
+        "Finite samples: a concrete loss of information",
+        "What remains",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+        "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
+        "verification/zero_two_window_finite_record_clock_test.py",
+        "ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md"
+      ],
+      "risk_phrase_lines": [
+        26,
+        37,
+        67
       ]
     },
     {

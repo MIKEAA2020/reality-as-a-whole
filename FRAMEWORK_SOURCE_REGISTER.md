@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 790 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 755 verification Python scripts.
+- 791 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 756 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -787,6 +787,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) — A zero-total relational event and its record
 - [ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) — Zero totality: can symmetry and parsimony fix the internal measure?
 - [ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) — Geometry slices for two autonomous records: a multichannel continuum result
+- [ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md](ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md) — Finite records and clock descriptions in the two-window model
 - [ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) — Full-state geometry data for two autonomous records
 - [ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) — A typed echo process: content, clock, access and subjecthood
 - [ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) — Why the type-symmetric kinetic repair adds a long edge
@@ -1671,6 +1672,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_total_symmetry_measure.py](verification/zero_total_symmetry_measure.py)
 - [verification/zero_total_symmetry_measure_test.py](verification/zero_total_symmetry_measure_test.py)
 - [verification/zero_two_window_continuum_slice_test.py](verification/zero_two_window_continuum_slice_test.py)
+- [verification/zero_two_window_finite_record_clock_test.py](verification/zero_two_window_finite_record_clock_test.py)
 - [verification/zero_two_window_full_slice_test.py](verification/zero_two_window_full_slice_test.py)
 - [verification/zero_type_reflection_continuum_root.py](verification/zero_type_reflection_continuum_root.py)
 - [verification/zero_type_reflection_continuum_root_test.py](verification/zero_type_reflection_continuum_root_test.py)
