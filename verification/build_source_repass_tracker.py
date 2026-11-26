@@ -37,6 +37,11 @@ PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 # source-specific audit/plan/implementation is actually recorded; not on the
 # basis of a title, passing a script, or an automated text match.
 PARTIAL={
+ 'sources/uploads/on_the_equality_of_all_things.pdf': {
+  'audit':['ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md'],
+  'plan':['ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md'],
+  'implemented':['ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md',
+                 'verification/rovelli_equality_coarse_graining_test.py']},
  'sources/uploads/ventura_hard_problem_consciousness.txt': {
   'audit':['VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md'],
   'plan':['VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md'],

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 869,
-  "bytes": 11335713,
-  "line_count": 102413,
-  "document_count_with_risk_phrases": 821,
+  "document_count": 870,
+  "bytes": 11353904,
+  "line_count": 102530,
+  "document_count_with_risk_phrases": 822,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "012710c79b03ac3dbce8115e04588f5340128b6607bcb2a774bf2764bc759a82",
-      "bytes": 233222,
-      "lines": 1772,
+      "sha256": "dc59196bc7369bee889af173aef56dabc8ae0ae2e51e34dc2d44e6418d51b7bc",
+      "bytes": 233634,
+      "lines": 1775,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6318,6 +6318,7 @@
         "ROBUST_EXPERIENTIAL_CONTRAST.md",
         "ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md",
         "ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md",
+        "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
         "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
         "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md",
         "ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md",
@@ -6811,6 +6812,7 @@
         "sources/uploads/mass-and-the-structure-of-the-void-1.pdf",
         "sources/uploads/merker2007.pdf",
         "sources/uploads/miller2017.pdf",
+        "sources/uploads/on_the_equality_of_all_things.pdf",
         "sources/uploads/page1983.pdf",
         "sources/uploads/qftlocarx.txt",
         "sources/uploads/quantum_position_verification_main.txt",
@@ -7217,6 +7219,7 @@
         "verification/robust_disclosure_separation.py",
         "verification/robust_quantum_agreement_bound.py",
         "verification/roof_duality_robust_boundary_gate.py",
+        "verification/rovelli_equality_coarse_graining_test.py",
         "verification/roy_mixed_transition_context.py",
         "verification/roy_mixed_transition_context_test.py",
         "verification/roy_mri_pair_inventory.py",
@@ -7650,22 +7653,22 @@
         387,
         388,
         419,
-        487,
-        588,
-        608,
-        709,
-        713,
-        739,
-        744,
-        754,
-        757,
-        783,
-        829,
-        866,
-        875,
-        878,
-        881,
-        952
+        488,
+        589,
+        609,
+        710,
+        714,
+        740,
+        745,
+        755,
+        758,
+        784,
+        830,
+        867,
+        876,
+        879,
+        882,
+        954
       ]
     },
     {
@@ -15303,6 +15306,40 @@
       ]
     },
     {
+      "path": "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
+      "sha256": "de909eafb670196935ace968bc9ffff873cd6441ecf07cec2a60b66ad499e5b2",
+      "bytes": 17012,
+      "lines": 113,
+      "title": "Rovelli, “equality of all things,” and our zero–experience investigation",
+      "headings": [
+        "Rovelli, “equality of all things,” and our zero–experience investigation",
+        "What was supplied, and what this analysis establishes",
+        "1. Map of the full attachment",
+        "2. Direct source check: where the PDF is fair, and where it compresses",
+        "3. The real philosophical encounter",
+        "4. A quantitative test: when a useful compression loses the relevant distinction",
+        "5. Consequences for zero and experience",
+        "6. Concrete next research move"
+      ],
+      "local_links": [
+        "sources/uploads/on_the_equality_of_all_things.pdf",
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+        "verification/rovelli_equality_coarse_graining_test.py",
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        11,
+        49,
+        53,
+        62,
+        80,
+        82,
+        90
+      ]
+    },
+    {
       "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
       "sha256": "d1810153d7b8032bf4a2d74a50beb4c632658f316a825ab8e4c692a83b83b4c2",
       "bytes": 4802,
@@ -20344,9 +20381,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "c01b994b6408632d35c3f836ed65b33a31b644c26071c631e2cfa0a3f2170741",
-      "bytes": 51590,
-      "lines": 123,
+      "sha256": "ac2c156ef7fec09caf8b55fd7dd704b3a949d0e649ce73772809fb3bd37e9e3e",
+      "bytes": 52357,
+      "lines": 124,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20445,6 +20482,9 @@
         "verification/zero_intrinsic_difference_common_constitution_test.py",
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "verification/zero_constraint_reference_recovery_test.py",
+        "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
+        "sources/uploads/on_the_equality_of_all_things.pdf",
+        "verification/rovelli_equality_coarse_graining_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20481,7 +20521,7 @@
         91,
         95,
         99,
-        112
+        113
       ]
     },
     {

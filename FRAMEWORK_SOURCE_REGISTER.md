@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 826 root Markdown documents including this register; 43 research Markdown documents.
-- 65 original uploaded files, including provenance metadata; 805 verification Python scripts.
+- 827 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 806 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -436,6 +436,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ROBUST_EXPERIENTIAL_CONTRAST.md](ROBUST_EXPERIENTIAL_CONTRAST.md) — When imperfect interventions can still distinguish two local experience hypotheses
 - [ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md](ROBUST_QUANTUM_AGREEMENT_AND_RARE_RECORDS.md) — Robust quantum agreement and rare records
 - [ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md](ROOF_DUALITY_FULL_PAPERS_AND_ROBUST_SELECTOR.md) — Full roof-duality papers and a robust selector check
+- [ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md](ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md) — Rovelli, “equality of all things,” and our zero–experience investigation
 - [ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md](ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md) — Exploratory mixed-report transition and EEG-window diagnostic plan
 - [ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md](ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_RESULTS.md) — Mixed reports, transition controls and EEG-window context
 - [ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md](ROY_REPORT_CENTER_MIXED_STATE_DEVELOPMENT_AND_S02_PROTOCOL.md) — Brief mixed reports: development result and frozen S02 test protocol
@@ -939,6 +940,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/mass-and-the-structure-of-the-void-1.pdf](sources/uploads/mass-and-the-structure-of-the-void-1.pdf)
 - [sources/uploads/merker2007.pdf](sources/uploads/merker2007.pdf)
 - [sources/uploads/miller2017.pdf](sources/uploads/miller2017.pdf)
+- [sources/uploads/on_the_equality_of_all_things.pdf](sources/uploads/on_the_equality_of_all_things.pdf)
 - [sources/uploads/page1983.pdf](sources/uploads/page1983.pdf)
 - [sources/uploads/qftlocarx.txt](sources/uploads/qftlocarx.txt)
 - [sources/uploads/quantum_position_verification_main.txt](sources/uploads/quantum_position_verification_main.txt)
@@ -1349,6 +1351,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/robust_disclosure_separation.py](verification/robust_disclosure_separation.py)
 - [verification/robust_quantum_agreement_bound.py](verification/robust_quantum_agreement_bound.py)
 - [verification/roof_duality_robust_boundary_gate.py](verification/roof_duality_robust_boundary_gate.py)
+- [verification/rovelli_equality_coarse_graining_test.py](verification/rovelli_equality_coarse_graining_test.py)
 - [verification/roy_mixed_transition_context.py](verification/roy_mixed_transition_context.py)
 - [verification/roy_mixed_transition_context_test.py](verification/roy_mixed_transition_context_test.py)
 - [verification/roy_mri_pair_inventory.py](verification/roy_mri_pair_inventory.py)

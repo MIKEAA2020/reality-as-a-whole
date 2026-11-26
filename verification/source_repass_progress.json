@@ -3330,7 +3330,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "012710c79b03ac3dbce8115e04588f5340128b6607bcb2a774bf2764bc759a82",
+      "sha256": "dc59196bc7369bee889af173aef56dabc8ae0ae2e51e34dc2d44e6418d51b7bc",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -8059,6 +8059,25 @@
       }
     },
     {
+      "path": "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
+      "kind": "authored root document",
+      "sha256": "de909eafb670196935ace968bc9ffff873cd6441ecf07cec2a60b66ad499e5b2",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "ROY_MIXED_TRANSITION_CONTEXT_EXPLORATORY_PLAN.md",
       "kind": "authored root document",
       "sha256": "d1810153d7b8032bf4a2d74a50beb4c632658f316a825ab8e4c692a83b83b4c2",
@@ -11120,7 +11139,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "c01b994b6408632d35c3f836ed65b33a31b644c26071c631e2cfa0a3f2170741",
+      "sha256": "ac2c156ef7fec09caf8b55fd7dd704b3a949d0e649ce73772809fb3bd37e9e3e",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -18571,6 +18590,32 @@
             "verification/zero_stationary_subject_incidence.py",
             "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
             "verification/zero_echo_subject_persistence.py"
+          ]
+        }
+      }
+    },
+    {
+      "path": "sources/uploads/on_the_equality_of_all_things.pdf",
+      "kind": "preserved upload",
+      "sha256": "92106c7ef947e4b0dd1bf3f8ef97628da0f3fcb22a833be9ce78d58f07cd9d2d",
+      "stages": {
+        "audit": {
+          "status": "partial",
+          "evidence": [
+            "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md"
+          ]
+        },
+        "plan": {
+          "status": "partial",
+          "evidence": [
+            "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md"
+          ]
+        },
+        "implemented": {
+          "status": "partial",
+          "evidence": [
+            "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
+            "verification/rovelli_equality_coarse_graining_test.py"
           ]
         }
       }
