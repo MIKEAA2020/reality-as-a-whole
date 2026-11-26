@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 819 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 798 verification Python scripts.
+- 820 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 799 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -766,6 +766,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md](ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md) — The complete internal sphere and branchwise zero
 - [ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md](ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md) — Evaluating the relativity analogy for experience–structure identity
 - [ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md](ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md) — Coordinate equivalence and experiential content in the SR-inspired echo
+- [ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md](ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md) — Intrinsic distinguishability and access in the SR-inspired echo
 - [ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md](ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md) — A specific echo constitution in the form of the SR analogy
 - [ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md](ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md) — Structural time and two internal clocks: a stationary sphere comparison
 - [ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md](ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md) — Subject boundaries, higher-body coupling and report causality
@@ -1703,6 +1704,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_spin_reversal_sign_selection_test.py](verification/zero_spin_reversal_sign_selection_test.py)
 - [verification/zero_sr_echo_constitution_test.py](verification/zero_sr_echo_constitution_test.py)
 - [verification/zero_sr_echo_coordinate_equivalence_test.py](verification/zero_sr_echo_coordinate_equivalence_test.py)
+- [verification/zero_sr_echo_intrinsic_access_test.py](verification/zero_sr_echo_intrinsic_access_test.py)
 - [verification/zero_stationary_battery_bridge.py](verification/zero_stationary_battery_bridge.py)
 - [verification/zero_stationary_battery_bridge_test.py](verification/zero_stationary_battery_bridge_test.py)
 - [verification/zero_stationary_clock_claim_quality.py](verification/zero_stationary_clock_claim_quality.py)

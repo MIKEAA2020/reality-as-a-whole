@@ -117,6 +117,8 @@ The lesson is closer to the user's relativity point than a comparison of raw coo
 
 What follows internally is precise: nonzero rescalings preserve the defined quality partition and, under a transported metric, all its pair distances; zero gain loses a distinction. What remains to establish is whether the two-mode structure is experiential, which physical distinctions belong to one subject's quality, what metric or qualitative relations are intrinsically meaningful, and how actual occurrence and incidence follow. A deeper constitution might settle these without an outside coercer, but this calculation does not yet derive it.
 
+The [next pass](ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md) derives a basis-independent operational distance on the selected coherent echo and constructs a clock-invariant unsharp pointer. It separates the resulting physical geometry and access tradeoff from a still-unestablished phenomenal geometry or subject.
+
 ## Reproduce
 
 ```sh
