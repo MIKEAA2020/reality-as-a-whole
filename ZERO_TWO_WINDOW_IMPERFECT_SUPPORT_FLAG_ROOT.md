@@ -1,5 +1,7 @@
 # Imperfect support flags: the calibration root
 
+**Continuation:** [time-independent support dynamics](ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md) specifies a new coupling inside a positive-frequency constraint, proves a conservative uniform error bound, and shows why its reversible flag is not a durable record.
+
 ## Result
 
 The preceding [coherent readout](ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md) replaced an assumed packet-span restriction with an **ideal** outside-span flag. This continuation allows false positives and missed outside events. Given a justified *uniform* bound on the missed-flag probability, it derives a finite-shot bound that also accounts for outside events contaminating the accepted tomography data. In a simulated 100,000-shot-per-batch example, the bound on the original history-distribution error is about **0.226** at 95% confidence.

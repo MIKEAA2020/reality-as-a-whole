@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 839,
-  "bytes": 10872283,
-  "line_count": 98073,
-  "document_count_with_risk_phrases": 792,
+  "document_count": 840,
+  "bytes": 10883341,
+  "line_count": 98201,
+  "document_count_with_risk_phrases": 793,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "988b1cdc4f1bf54bd336339c92451f095f28a088d0a23ab868805d0efa4dbe0a",
-      "bytes": 222944,
-      "lines": 1697,
+      "sha256": "be5ed3800aefe62fe7d59eb8aa9fb43b54197d62320b6e41d3e0de3e4c4c82ab",
+      "bytes": 223236,
+      "lines": 1699,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6589,6 +6589,7 @@
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
@@ -7465,6 +7466,7 @@
         "verification/zero_total_relational_record_test.py",
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
+        "verification/zero_two_window_autonomous_support_dynamics_test.py",
         "verification/zero_two_window_coherence_tomography_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_finite_record_clock_test.py",
@@ -7506,12 +7508,12 @@
         733,
         736,
         756,
-        799,
-        836,
-        845,
-        848,
-        851,
-        922
+        800,
+        837,
+        846,
+        849,
+        852,
+        923
       ]
     },
     {
@@ -18370,8 +18372,8 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "bae0be1ba3cb44c16325874a5c531b7a3686ec42ee3a5fa4fca5a668f278d090",
-      "bytes": 16581,
+      "sha256": "a82a87fcc2a5a2091dafbebbde60a9461743b3814bfbd9c5018d92ecb9373258",
+      "bytes": 16826,
       "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
@@ -18391,6 +18393,7 @@
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -20155,9 +20158,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "3ce9642e8581fd3ac661e35af6e771d259d6fc8570b8d397ee4d50c59d0bc8d3",
-      "bytes": 32519,
-      "lines": 93,
+      "sha256": "4910689855435100502df67c4c1b88a2e3b6a16df4f53987ecf36353f26cb991",
+      "bytes": 32994,
+      "lines": 94,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20214,6 +20217,7 @@
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20236,7 +20240,8 @@
         60,
         62,
         63,
-        82
+        70,
+        83
       ]
     },
     {
@@ -26546,6 +26551,33 @@
       ]
     },
     {
+      "path": "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
+      "sha256": "d8bd1e7b1d1d9bede18901a04740488c9aedb556251f9ae1b2a90ce49c417fcd",
+      "bytes": 9776,
+      "lines": 123,
+      "title": "A time-independent support interaction and its limits",
+      "headings": [
+        "A time-independent support interaction and its limits",
+        "Result",
+        "1. An interaction inside a changed constraint",
+        "2. A uniform bound with the original evolution left on",
+        "3. The actual flag is not the earlier block-diagonal instrument",
+        "4. Regulated dynamics and a sharper target",
+        "5. Why the flag is not yet a history record",
+        "Scope and reproduction"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
+        "verification/zero_two_window_autonomous_support_dynamics_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        66,
+        112,
+        118
+      ]
+    },
+    {
       "path": "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
       "sha256": "c80ffa973e9ea6475ca8d8e5cb1e334ede2e6969ba55ef831891c5fb0297041c",
       "bytes": 11832,
@@ -26690,9 +26722,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
-      "sha256": "b77916c7917eba004d3960e1aa93db0c6d9ef7f258e57eae3bf3e3cb1c519a96",
-      "bytes": 10112,
-      "lines": 110,
+      "sha256": "6539a316f2a723652e991eced460d16d966c891097bb91b598a5d0ff5a6b90c6",
+      "bytes": 10382,
+      "lines": 112,
       "title": "Imperfect support flags: the calibration root",
       "headings": [
         "Imperfect support flags: the calibration root",
@@ -26705,13 +26737,15 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "verification/zero_two_window_imperfect_support_flag_test.py",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md"
       ],
       "risk_phrase_lines": [
-        7,
-        55
+        3,
+        9,
+        57
       ]
     },
     {
