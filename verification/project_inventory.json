@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 844,
-  "bytes": 10944059,
-  "line_count": 98810,
-  "document_count_with_risk_phrases": 797,
+  "document_count": 845,
+  "bytes": 10960522,
+  "line_count": 98980,
+  "document_count_with_risk_phrases": 798,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "499af47ae9eae439a33352d667519e1a56660ee697cd25d1e15d10a0e2c406e6",
-      "bytes": 224569,
-      "lines": 1709,
+      "sha256": "747d5db0f7befb5c89cdf86a37fb8ed74c0714ccf06cb01aee3eb99ef2c440ba",
+      "bytes": 225042,
+      "lines": 1713,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6560,6 +6560,7 @@
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md",
+        "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
         "ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md",
         "ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md",
@@ -7380,6 +7381,7 @@
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
+        "verification/zero_noncyclic_chirality_clock.py",
         "verification/zero_orientation_extension_operational_boundary_test.py",
         "verification/zero_ownership_report_bridge.py",
         "verification/zero_ownership_report_bridge_test.py",
@@ -7465,6 +7467,8 @@
         "verification/zero_synthesis_gauge_incidence_test.py",
         "verification/zero_tensor_network_sphere_pair_echo_test.py",
         "verification/zero_three_balance_encoded_sphere_record_test.py",
+        "verification/zero_three_frame_chirality.py",
+        "verification/zero_three_frame_chirality_test.py",
         "verification/zero_total_flrw_constraint_test.py",
         "verification/zero_total_internal_connection.py",
         "verification/zero_total_internal_connection_test.py",
@@ -7518,12 +7522,12 @@
         735,
         738,
         759,
-        804,
-        841,
-        850,
-        853,
-        856,
-        927
+        805,
+        842,
+        851,
+        854,
+        857,
+        928
       ]
     },
     {
@@ -20169,9 +20173,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "0de040e452839ffa9ed32ad3b471ae624fd050a51b15a0b3fcf6da364344a2b6",
-      "bytes": 35275,
-      "lines": 98,
+      "sha256": "a12500f1414a031e6b9b87d7c6a714384f403b1251ce6d84a9354aeebc74f29c",
+      "bytes": 35889,
+      "lines": 99,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20233,6 +20237,7 @@
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+        "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20259,7 +20264,8 @@
         71,
         72,
         73,
-        87
+        75,
+        88
       ]
     },
     {
@@ -20829,9 +20835,9 @@
     },
     {
       "path": "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
-      "sha256": "427777364b356f4c57c5d02e7cff19b04e0c4a3802ac78c38dcaa4cb19b3c88b",
-      "bytes": 17038,
-      "lines": 150,
+      "sha256": "8102159935f2f1f3af03c090784b71ef54fc523e244bdcb21ca35ba429622fc9",
+      "bytes": 17370,
+      "lines": 152,
       "title": "A clock-localized chirality record across the original echo",
       "headings": [
         "A clock-localized chirality record across the original echo",
@@ -20844,6 +20850,7 @@
         "6. A balanced spinorial lift and the Satake interface"
       ],
       "local_links": [
+        "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "verification/zero_clocked_chirality_history.py",
         "verification/zero_clocked_chirality_history_test.py",
@@ -20852,10 +20859,11 @@
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md"
       ],
       "risk_phrase_lines": [
-        64,
-        76,
-        134,
-        150
+        5,
+        66,
+        78,
+        136,
+        152
       ]
     },
     {
@@ -25636,6 +25644,43 @@
         121,
         125,
         127
+      ]
+    },
+    {
+      "path": "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
+      "sha256": "93dcf584c54da7b20a39faf29134959b8acbdbeffe18531bf427fb0f9126af22",
+      "bytes": 15044,
+      "lines": 163,
+      "title": "Three local frames, chirality and noncyclic record retention",
+      "headings": [
+        "Three local frames, chirality and noncyclic record retention",
+        "Result",
+        "1. Independent frames and the tree gauge action",
+        "2. Exact Hilbert-space lift and the old echo",
+        "3. A third link adds physical holonomy",
+        "4. An observable correlation invisible to the separate marginals",
+        "5. A bilateral clock: retention without cyclic uncomputation",
+        "6. Remaining work"
+      ],
+      "local_links": [
+        "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+        "verification/zero_three_frame_chirality.py",
+        "verification/zero_noncyclic_chirality_clock.py",
+        "verification/zero_three_frame_chirality_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        11,
+        37,
+        41,
+        63,
+        97,
+        118,
+        129,
+        152,
+        153,
+        163
       ]
     },
     {

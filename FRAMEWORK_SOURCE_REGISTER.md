@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 801 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 768 verification Python scripts.
+- 802 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 771 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -757,6 +757,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md](ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md) — Symmetry, point–sphere and the coherent zero candidate
 - [ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) — Tensor networks, the actual sphere pair, and an internal projective sphere
 - [ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md](ZERO_THREE_BALANCE_ENCODED_SPHERE_RECORD.md) — Exact three-balance sphere record in an encoded system
+- [ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md](ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md) — Three local frames, chirality and noncyclic record retention
 - [ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md](ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md) — Can causal relaxation account for zero experiential balance?
 - [ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md](ZERO_TOTALITY_CLOCK_INCIDENCE_PROBABILITY_BRIDGE.md) — A clock–incidence bridge from zero balance to experiential probability
 - [ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md](ZERO_TOTALITY_COVARIANT_CLOCK_HISTORY_BRIDGE.md) — A covariant clock–current history balance
@@ -1591,6 +1592,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_nested_sphere_internal_reference_test.py](verification/zero_nested_sphere_internal_reference_test.py)
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)
+- [verification/zero_noncyclic_chirality_clock.py](verification/zero_noncyclic_chirality_clock.py)
 - [verification/zero_orientation_extension_operational_boundary_test.py](verification/zero_orientation_extension_operational_boundary_test.py)
 - [verification/zero_ownership_report_bridge.py](verification/zero_ownership_report_bridge.py)
 - [verification/zero_ownership_report_bridge_test.py](verification/zero_ownership_report_bridge_test.py)
@@ -1676,6 +1678,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_synthesis_gauge_incidence_test.py](verification/zero_synthesis_gauge_incidence_test.py)
 - [verification/zero_tensor_network_sphere_pair_echo_test.py](verification/zero_tensor_network_sphere_pair_echo_test.py)
 - [verification/zero_three_balance_encoded_sphere_record_test.py](verification/zero_three_balance_encoded_sphere_record_test.py)
+- [verification/zero_three_frame_chirality.py](verification/zero_three_frame_chirality.py)
+- [verification/zero_three_frame_chirality_test.py](verification/zero_three_frame_chirality_test.py)
 - [verification/zero_total_flrw_constraint_test.py](verification/zero_total_flrw_constraint_test.py)
 - [verification/zero_total_internal_connection.py](verification/zero_total_internal_connection.py)
 - [verification/zero_total_internal_connection_test.py](verification/zero_total_internal_connection_test.py)
