@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 846,
-  "bytes": 10975695,
-  "line_count": 99192,
-  "document_count_with_risk_phrases": 799,
+  "document_count": 847,
+  "bytes": 10992036,
+  "line_count": 99318,
+  "document_count_with_risk_phrases": 800,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8b3ec5f7b516f7a73dcefc3215ace30e2da27bcf4c3141992a6fc9e9d3b6c97d",
-      "bytes": 225426,
-      "lines": 1716,
+      "sha256": "a02569b309c774d1bbe53280dfcdf71d8b66e62f1363542d7f1a25d798ee59d5",
+      "bytes": 225807,
+      "lines": 1719,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6455,6 +6455,7 @@
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
+        "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
@@ -7338,6 +7339,8 @@
         "verification/zero_gauge_angular_pair_test.py",
         "verification/zero_gauge_clock_joint_instrument.py",
         "verification/zero_gauge_clock_joint_instrument_test.py",
+        "verification/zero_gauge_clock_meta_root.py",
+        "verification/zero_gauge_clock_meta_root_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_identity_pair_incidence_record_test.py",
@@ -7518,19 +7521,19 @@
         485,
         585,
         605,
-        693,
-        697,
-        723,
-        727,
-        736,
-        739,
-        760,
-        806,
-        843,
-        852,
-        855,
-        858,
-        929
+        694,
+        698,
+        724,
+        728,
+        737,
+        740,
+        761,
+        807,
+        844,
+        853,
+        856,
+        859,
+        930
       ]
     },
     {
@@ -20176,9 +20179,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "4e95392d1c28de36aead185e4d3e17a72e6b501a7050b35c703d576636bc2caa",
-      "bytes": 36508,
-      "lines": 100,
+      "sha256": "352a563314cfaf8f2a8451db20a4d52465edfe06ddd034730e2c1985f5f30de3",
+      "bytes": 37240,
+      "lines": 101,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20242,6 +20245,7 @@
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
+        "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20269,7 +20273,7 @@
         72,
         73,
         75,
-        89
+        90
       ]
     },
     {
@@ -22155,10 +22159,42 @@
       ]
     },
     {
+      "path": "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
+      "sha256": "91185b167f847a54f5e78d278c817576809242106bef8d061fb434f1c465ccff",
+      "bytes": 14825,
+      "lines": 118,
+      "title": "Why the clock bound is weak: a causal chain to the model-selection root",
+      "headings": [
+        "Why the clock bound is weak: a causal chain to the model-selection root",
+        "Result and scope",
+        "1. Why is the generic bound so much larger than the signal?",
+        "2. Why can the correlation be mistaken for a source property?",
+        "3. A conditional calibration improvement and its remaining dependence",
+        "4. Keep asking why: from the instrument to the explanatory premises",
+        "5. Next discriminating work",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
+        "verification/zero_gauge_clock_meta_root.py",
+        "verification/zero_gauge_clock_meta_root_test.py",
+        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md"
+      ],
+      "risk_phrase_lines": [
+        8,
+        48,
+        68,
+        88,
+        99,
+        102,
+        109
+      ]
+    },
+    {
       "path": "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
-      "sha256": "30168629550fd5c15dcd6b1a45bf27a8cd0773e15553e658bcdab9009f7f17c5",
-      "bytes": 13878,
-      "lines": 206,
+      "sha256": "aba37c873bb53141d54d150e78a63339e1725cf26131404ebea9283dfcafd8ff",
+      "bytes": 14281,
+      "lines": 210,
       "title": "A finite clock and chirality–holonomy joint instrument",
       "headings": [
         "A finite clock and chirality–holonomy joint instrument",
@@ -22173,7 +22209,8 @@
       "local_links": [
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "verification/zero_gauge_clock_joint_instrument.py",
-        "verification/zero_gauge_clock_joint_instrument_test.py"
+        "verification/zero_gauge_clock_joint_instrument_test.py",
+        "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md"
       ],
       "risk_phrase_lines": [
         9,
@@ -22182,8 +22219,8 @@
         173,
         186,
         190,
-        195,
-        206
+        199,
+        210
       ]
     },
     {

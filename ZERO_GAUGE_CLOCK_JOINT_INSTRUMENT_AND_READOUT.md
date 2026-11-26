@@ -189,6 +189,10 @@ For the N=40 coherent-sensor state, `d≈0.17282` and `p_late≈0.81763`, so the
 
 The bilateral shift has no nonzero normalizable exact stationary state on the declared `ℓ²(Z)` carrier, as previously proved. The instrument above does not change that fact, and a small δ does not by itself construct a rigged physical inner product, solve the problem of time or justify a normalized infinite-anchor twirl. It is likewise separate from the finite cyclic construction, where an invariant twirled comparison was explicitly specified.
 
+## Continuation: trace the causes
+
+The [subsequent why-chain](ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md) computes the much smaller observable-specific forward shift for this model, constructs a context-dependent readout rival, and follows the inference back through its calibration and constitutive premises. It does not turn the fixed-effect shift into a physical clock-frame equivalence.
+
 ## 7. Next checks
 
 - Derive a physical and possibly local implementation of the loop and clock sensors, including switching, geometry, noise calibration, resources and the effects of discarding environments.
