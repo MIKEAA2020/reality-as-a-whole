@@ -110,6 +110,10 @@ The very same physical report table generated under the B/P labeling can be rela
 4. **Why not infer all incidence or cancellation?** Trial fractions describe the declared sampling procedure, not an independently derived measure of actual experiential occurrences. Neutral valence is not nonexistence; a formally opposite pair does not cancel a subject's real negative experience.
 5. **Why these bridges, selection and laws?** They are consistent candidate relations attached to the same echo, not yet consequences of zero, a subject constitution, actual measure, or the necessity and actuality of the whole. The task remains to derive or independently discriminate those connections and carry the why-chain upstream without assuming an external temporal cause. The present boundary is not shown to be ultimate bedrock.
 
+## Continuation: full joint report constraints
+
+The [next pass](ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md) tests the full joint report distribution under arbitrary within-run dependence. It identifies what a separately justified joint-reference bound can add, gives an exact sharper prevalence example, and distinguishes independent heterogeneous trials from correlated trials.
+
 ## Next work
 
 - Specify an independently defensible experiential/identity reference and an actual joint interface, including response disturbance, subject alignment and reference transport across clock descriptions.

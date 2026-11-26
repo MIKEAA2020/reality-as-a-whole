@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 810 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 787 verification Python scripts.
+- 811 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 789 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -639,6 +639,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) — One candidate intrinsic quality through the actual sphere echo
 - [ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md](ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md) — What can access the joint candidate—and what can test its ownership?
 - [ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md](ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md) — Joint quality and ownership reports on the same echo
+- [ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md](ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md) — Joint-report constraints, correlation and calibrated reference transfer
 - [ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md](ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md) — Occurrence, quality and incidence on the same echo
 - [ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) — Can the echo's physical report diagnose subject persistence?
 - [ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md](ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md) — Positive unity witnesses on the echo: what they can and cannot establish
@@ -1539,6 +1540,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_echo_joint_candidate_access_witness_test.py](verification/zero_echo_joint_candidate_access_witness_test.py)
 - [verification/zero_echo_joint_identity_balance.py](verification/zero_echo_joint_identity_balance.py)
 - [verification/zero_echo_joint_identity_balance_test.py](verification/zero_echo_joint_identity_balance_test.py)
+- [verification/zero_echo_joint_report_polytope.py](verification/zero_echo_joint_report_polytope.py)
+- [verification/zero_echo_joint_report_polytope_test.py](verification/zero_echo_joint_report_polytope_test.py)
 - [verification/zero_echo_ownership_witness_diagnostic.py](verification/zero_echo_ownership_witness_diagnostic.py)
 - [verification/zero_echo_ownership_witness_diagnostic_test.py](verification/zero_echo_ownership_witness_diagnostic_test.py)
 - [verification/zero_echo_positive_unity_witness.py](verification/zero_echo_positive_unity_witness.py)

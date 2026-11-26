@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "63bc524cb90838be9e07dd93683c0fc771136dbb",
-  "file_count": 2388,
+  "base_head": "fd7514f49cfa9d27ddb469f1d7e9a27acdfac2c7",
+  "file_count": 2391,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 228277,
-      "sha256": "27ca3946776da7fdc151b67997d5d00ca004faa759bff3ced34105d50dd96dcf"
+      "bytes": 228672,
+      "sha256": "7350ea9752db3d37ebe1aa5e99728c5e92f9b42b8258c486d7dc34558e4e49d0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 41346,
-      "sha256": "9d3d7a5db9dfa0a44493b6635b468cc1164620297185de9831fc901ed9bc2739"
+      "bytes": 41985,
+      "sha256": "f15be285bd7af852b5a5825f8aa994bd532a0979687f2c34af4439e79e73a6e0"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3150,8 +3150,13 @@
     },
     {
       "path": "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
-      "bytes": 13182,
-      "sha256": "044b2fd627b1c8e9b02a47eed6e47eeea286b6ad02994b041f356c08e29f20d0"
+      "bytes": 13570,
+      "sha256": "53ccaee3d7a62bb628f15848a1e63fb6522038de75faf374f4bc3d39a7c46621"
+    },
+    {
+      "path": "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
+      "bytes": 13143,
+      "sha256": "864f7edf10503147d3d3b630a4ddc0eac75895f7f9294dbe3fe0fc194f9ccebd"
     },
     {
       "path": "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
@@ -8640,8 +8645,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1097770,
-      "sha256": "94192997ef67fe947ea012d2ee9e5b051390585f8a9c301563634b54c3a5ec6d"
+      "bytes": 1099190,
+      "sha256": "d419e5a8c604db8320af5bf9923a535ac874938f76c579ece03e1328ff6e1199"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9810,8 +9815,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 534183,
-      "sha256": "a15899acdf69a6a78e5e36a08f3f44a7074b75069846fa3059b563955d1a509c"
+      "bytes": 534730,
+      "sha256": "011a045bab4035e2f0d727f1c26c6a13eaae2859e877e34abf44921abfdc1f15"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10957,6 +10962,16 @@
       "path": "verification/zero_echo_joint_identity_balance_test.py",
       "bytes": 11010,
       "sha256": "bc1c67605552968e9ed48b9c3357b50b27ae0bca8dc473fb023b585e69fea541"
+    },
+    {
+      "path": "verification/zero_echo_joint_report_polytope.py",
+      "bytes": 6742,
+      "sha256": "f8fa75ff1652bdc56cba81a63c9345b35bb5affdc0ef077aa9614a36a9297419"
+    },
+    {
+      "path": "verification/zero_echo_joint_report_polytope_test.py",
+      "bytes": 8874,
+      "sha256": "eb4467e72a64212a70915f24205604bb9bab16da0cd802fdc75a7dd9a655b6c4"
     },
     {
       "path": "verification/zero_echo_ownership_witness_diagnostic.py",

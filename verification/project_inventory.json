@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 853,
-  "bytes": 11091109,
-  "line_count": 100246,
-  "document_count_with_risk_phrases": 806,
+  "document_count": 854,
+  "bytes": 11105674,
+  "line_count": 100385,
+  "document_count_with_risk_phrases": 807,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "27ca3946776da7fdc151b67997d5d00ca004faa759bff3ced34105d50dd96dcf",
-      "bytes": 228277,
-      "lines": 1737,
+      "sha256": "7350ea9752db3d37ebe1aa5e99728c5e92f9b42b8258c486d7dc34558e4e49d0",
+      "bytes": 228672,
+      "lines": 1740,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6442,6 +6442,7 @@
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
+        "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
@@ -7328,6 +7329,8 @@
         "verification/zero_echo_joint_candidate_access_witness_test.py",
         "verification/zero_echo_joint_identity_balance.py",
         "verification/zero_echo_joint_identity_balance_test.py",
+        "verification/zero_echo_joint_report_polytope.py",
+        "verification/zero_echo_joint_report_polytope_test.py",
         "verification/zero_echo_ownership_witness_diagnostic.py",
         "verification/zero_echo_ownership_witness_diagnostic_test.py",
         "verification/zero_echo_positive_unity_witness.py",
@@ -7539,19 +7542,19 @@
         485,
         585,
         605,
-        700,
-        704,
-        730,
-        734,
-        743,
-        746,
-        767,
-        813,
-        850,
-        859,
-        862,
-        865,
-        936
+        701,
+        705,
+        731,
+        735,
+        744,
+        747,
+        768,
+        814,
+        851,
+        860,
+        863,
+        866,
+        937
       ]
     },
     {
@@ -20197,9 +20200,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "9d3d7a5db9dfa0a44493b6635b468cc1164620297185de9831fc901ed9bc2739",
-      "bytes": 41346,
-      "lines": 107,
+      "sha256": "f15be285bd7af852b5a5825f8aa994bd532a0979687f2c34af4439e79e73a6e0",
+      "bytes": 41985,
+      "lines": 108,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20270,6 +20273,7 @@
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
         "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
+        "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20299,7 +20303,8 @@
         75,
         79,
         82,
-        96
+        84,
+        97
       ]
     },
     {
@@ -21727,9 +21732,9 @@
     },
     {
       "path": "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
-      "sha256": "044b2fd627b1c8e9b02a47eed6e47eeea286b6ad02994b041f356c08e29f20d0",
-      "bytes": 13182,
-      "lines": 126,
+      "sha256": "53ccaee3d7a62bb628f15848a1e63fb6522038de75faf374f4bc3d39a7c46621",
+      "bytes": 13570,
+      "lines": 130,
       "title": "Joint quality and ownership reports on the same echo",
       "headings": [
         "Joint quality and ownership reports on the same echo",
@@ -21745,12 +21750,46 @@
         "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "verification/zero_echo_quality_ownership_joint.py",
-        "verification/zero_echo_quality_ownership_joint_test.py"
+        "verification/zero_echo_quality_ownership_joint_test.py",
+        "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md"
       ],
       "risk_phrase_lines": [
         18,
         88,
-        126
+        115,
+        130
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
+      "sha256": "864f7edf10503147d3d3b630a4ddc0eac75895f7f9294dbe3fe0fc194f9ccebd",
+      "bytes": 13143,
+      "lines": 131,
+      "title": "Joint-report constraints, correlation and calibrated reference transfer",
+      "headings": [
+        "Joint-report constraints, correlation and calibrated reference transfer",
+        "Result",
+        "1. What the joint table adds—and what it does not",
+        "2. An additional joint-reference premise",
+        "3. Exact sharper positive bound in one case",
+        "4. Finite confidence and nonidentical independent trials",
+        "5. Hypothetical comparisons",
+        "6. Continue the why-chain"
+      ],
+      "local_links": [
+        "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
+        "verification/zero_echo_joint_report_polytope.py",
+        "verification/zero_echo_joint_report_polytope_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        54,
+        56,
+        58,
+        60,
+        78,
+        89,
+        109
       ]
     },
     {
