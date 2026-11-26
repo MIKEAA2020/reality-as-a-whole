@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 783 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 743 verification Python scripts.
+- 784 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 745 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -675,6 +675,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
 - [ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) — Local subject incidence and a conserved quantum current
 - [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
+- [ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) — Why would the whole's energy be zero? The Lorentz and Poincaré why-chain
 - [ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md](ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md) — What zero balance fixes without choosing a coupling measure
 - [ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md](ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md) — From reported cessation to a discriminating experiment
 - [ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md](ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md) — Why the local-magnitude anomaly arises—and a deeper relational resolution
@@ -1575,6 +1576,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)
 - [verification/zero_plenitude_sign_pairing_test.py](verification/zero_plenitude_sign_pairing_test.py)
+- [verification/zero_poincare_energy_why.py](verification/zero_poincare_energy_why.py)
+- [verification/zero_poincare_energy_why_test.py](verification/zero_poincare_energy_why_test.py)
 - [verification/zero_point_blowup_test.py](verification/zero_point_blowup_test.py)
 - [verification/zero_psr5_adjudication_correction_test.py](verification/zero_psr5_adjudication_correction_test.py)
 - [verification/zero_psr5_global_decoder_r0_test.py](verification/zero_psr5_global_decoder_r0_test.py)

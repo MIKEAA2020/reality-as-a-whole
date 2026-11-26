@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 826,
-  "bytes": 10694279,
-  "line_count": 96572,
-  "document_count_with_risk_phrases": 779,
+  "document_count": 827,
+  "bytes": 10713662,
+  "line_count": 96719,
+  "document_count_with_risk_phrases": 780,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e5e94107cd7f085ef11b778b2779e375fd5995473859f7d38d05a4c47a1cd452",
-      "bytes": 218770,
-      "lines": 1666,
+      "sha256": "c90e0ec95cb1f4e476302dd4fd31b5d016f7f978a0062162274c01ec970bc367",
+      "bytes": 219113,
+      "lines": 1669,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6478,6 +6478,7 @@
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
         "ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md",
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
@@ -7364,6 +7365,8 @@
         "verification/zero_plenitude_coupling_clock_test.py",
         "verification/zero_plenitude_necessity_test.py",
         "verification/zero_plenitude_sign_pairing_test.py",
+        "verification/zero_poincare_energy_why.py",
+        "verification/zero_poincare_energy_why_test.py",
         "verification/zero_point_blowup_test.py",
         "verification/zero_psr5_adjudication_correction_test.py",
         "verification/zero_psr5_global_decoder_r0_test.py",
@@ -7467,19 +7470,19 @@
         484,
         584,
         604,
-        684,
-        688,
-        714,
-        718,
-        727,
-        730,
-        750,
-        786,
-        823,
-        832,
-        835,
-        838,
-        909
+        685,
+        689,
+        715,
+        719,
+        728,
+        731,
+        751,
+        787,
+        824,
+        833,
+        836,
+        839,
+        910
       ]
     },
     {
@@ -19987,8 +19990,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "c883750041cb103bdb72987be352b39e1fe5f6d125244ae34dad6fdc3a2503b9",
-      "bytes": 30590,
+      "sha256": "8323797ce435d2480691ecf8c75f0ff92f43b861f10b0ee004a7af603dcd2b77",
+      "bytes": 30671,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20006,6 +20009,7 @@
         "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "verification/source_repass_progress.json",
         "USER_INPUTS_AUDIT_VERSUS_CONSTRUCTION_ACCOUNTABILITY.md",
@@ -20054,9 +20058,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "10ab041ff5fdac129f1a97760bd88c43f66fbf5ed7a1cda705ab96d92846ce91",
-      "bytes": 25450,
-      "lines": 80,
+      "sha256": "09f6fd59cbf738a5a9f92e37a1aff62c3151944b99a15492e166849447f4ae10",
+      "bytes": 26070,
+      "lines": 81,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20100,6 +20104,7 @@
         "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20116,7 +20121,8 @@
         51,
         54,
         55,
-        69
+        57,
+        70
       ]
     },
     {
@@ -22803,6 +22809,46 @@
       ]
     },
     {
+      "path": "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
+      "sha256": "1d6a21f2b84faa32db1ec6b6d1f3086de6d9a7fc4cbab8b3724676b46fa9bdbb",
+      "bytes": 16930,
+      "lines": 135,
+      "title": "Why would the whole's energy be zero? The Lorentz and Poincaré why-chain",
+      "headings": [
+        "Why would the whole's energy be zero? The Lorentz and Poincaré why-chain",
+        "Result",
+        "1. Why does extending rotations to boosts matter?",
+        "2. Why could that imply zero for a whole?",
+        "3. How far does the existing point–sphere construction get?",
+        "4. Why can't the existing finite record simply implement the boosts?",
+        "5. Why doesn't Lorentz symmetry alone fix vacuum energy?",
+        "6. Where does the earlier gravity constraint fit?"
+      ],
+      "local_links": [
+        "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
+        "verification/zero_poincare_energy_why.py",
+        "verification/zero_poincare_energy_why_test.py",
+        "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
+        "ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        12,
+        15,
+        36,
+        40,
+        73,
+        81,
+        83,
+        88,
+        101,
+        105,
+        109,
+        119
+      ]
+    },
+    {
       "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
       "sha256": "3f3cd0a1a48cf837cb5b00106a6378cb9034fac33e4627777557554284a81ae8",
       "bytes": 9666,
@@ -23153,9 +23199,9 @@
     },
     {
       "path": "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
-      "sha256": "81d29889d73a19aa3f792111042aa53fbbadd1afe42c47ad4daea7a964c882ca",
-      "bytes": 17216,
-      "lines": 165,
+      "sha256": "5509961de9bcb9b8a6621478d5e9c3239dacc9d8e5630d362a3c514dbeeb9036",
+      "bytes": 17548,
+      "lines": 167,
       "title": "Why this zero level? Noncommuting symmetry, invariant rays and the sphere–echo",
       "headings": [
         "Why this zero level? Noncommuting symmetry, invariant rays and the sphere–echo",
@@ -23168,6 +23214,7 @@
         "6. Ask why again: what did this really explain?"
       ],
       "local_links": [
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md",
         "verification/zero_perfect_symmetry_root.py",
@@ -23177,17 +23224,18 @@
         "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        36,
-        52,
-        66,
-        86,
-        96,
-        124,
-        142,
-        146,
-        154
+        3,
+        11,
+        15,
+        38,
+        54,
+        68,
+        88,
+        98,
+        126,
+        144,
+        148,
+        156
       ]
     },
     {
@@ -23673,9 +23721,9 @@
     },
     {
       "path": "ZERO_POINT_SPHERE_TO_LORENTZ_CONE.md",
-      "sha256": "dc83d639d75f6ffeb7a0d37432243e02198467ce2f22f43d1af61a1574aa110d",
-      "bytes": 9360,
-      "lines": 121,
+      "sha256": "65e134479a0a422fd602484ada8a73547afc9f4c6010105365b3fc0c4934a1d5",
+      "bytes": 9688,
+      "lines": 123,
       "title": "From the internal sphere to a Lorentz cone: the next step",
       "headings": [
         "From the internal sphere to a Lorentz cone: the next step",
@@ -23688,15 +23736,16 @@
         "6. Concrete next research step"
       ],
       "local_links": [
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_SPHERE_RELATIONAL_BALANCE_AND_OPPOSITION.md",
         "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md"
       ],
       "risk_phrase_lines": [
-        3,
-        72,
+        5,
         74,
-        90,
-        92
+        76,
+        92,
+        94
       ]
     },
     {
@@ -24443,9 +24492,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "89fd4a4b13df38b541352e37878097f92a031d476493d585a3b017c536479685",
-      "bytes": 27367,
-      "lines": 172,
+      "sha256": "e82915e6c5a591d4f40efde5b53730b55efe5e898b541edc4566d01a9b924dc2",
+      "bytes": 27822,
+      "lines": 174,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24458,6 +24507,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
@@ -24496,23 +24546,24 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        19,
-        35,
-        41,
+        5,
+        17,
+        21,
+        37,
         43,
-        49,
+        45,
         51,
-        61,
-        92,
-        107,
-        138,
+        53,
+        63,
+        94,
+        109,
         140,
-        148,
-        151,
-        152,
+        142,
+        150,
         153,
-        160
+        154,
+        155,
+        162
       ]
     },
     {
@@ -25532,9 +25583,9 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "sha256": "f356c26250ac3ffccd80cdefde46172471975c57f43bf7b26397fae616825985",
-      "bytes": 13132,
-      "lines": 131,
+      "sha256": "18c66c8a457c9f9e6e5e2a1e85652639c557208395da33099af459f13f3c02dc",
+      "bytes": 13426,
+      "lines": 133,
       "title": "A physical zero-constraint route: what it gives and what it does not",
       "headings": [
         "A physical zero-constraint route: what it gives and what it does not",
@@ -25547,6 +25598,7 @@
         "6. Implication for zero-totality and experience"
       ],
       "local_links": [
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -25556,12 +25608,13 @@
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        17,
-        55,
-        80,
-        92,
-        113,
-        131
+        3,
+        19,
+        57,
+        82,
+        94,
+        115,
+        133
       ]
     },
     {

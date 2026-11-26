@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Lorentz–energy why-chain:** [boosts, translation generators and vacuum stress](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) extends the conditional zero-normalization argument from rotations to strict Poincaré generators, proves the finite-unitary boost obstruction, and distinguishes a zero invariant-ray generator from a symmetry-allowed vacuum stress coefficient. Actual global symmetry, energy, gravity boundaries and experience remain unestablished.
+
 **Non-Abelian zero-level why-chain:** [noncommuting symmetry and the zero level](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) shows how a strict perfect-algebra generator and full pure-ray invariance can give an intrinsically normalized zero rotation charge on the same spherical echo, with mixed-state and time-energy controls. The physical group, actual state, global energy and experiential identity remain unestablished.
 
 **Experiential necessity why-chain:** [experience, necessity and explanatory bedrock](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) analyzes the user's global possibility–actuality thesis, shows how scope affects its content, preserves a positive first-person witness alongside a private-fields countermodel, and distinguishes necessary logical sufficiency from self-explanation. The full zero/experience identity and actual incidence remain unproved.

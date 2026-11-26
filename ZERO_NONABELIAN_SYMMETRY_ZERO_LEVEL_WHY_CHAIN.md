@@ -1,5 +1,7 @@
 # Why this zero level? Noncommuting symmetry, invariant rays and the sphere–echo
 
+**Energy continuation:** [the Lorentz and energy why-chain](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) shows how boosts and translations can conditionally fix a strict energy-generator reference, proves the finite-unitary boost obstruction, and distinguishes that generator from an independently unconstrained invariant vacuum stress.
+
 ## The next why—and a positive answer with a definite scope
 
 The preceding [experience-and-bedrock investigation](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) reached the question of how a single self-sufficient physical–experiential constitution could have an **objective zero**, without merely choosing a convenient reference level. The earlier [relational-gauge analysis](ZERO_TOTALITY_GAUGE_RELATIONAL_PRINCIPLE.md) found that an Abelian frame-shift generator can be shifted by a constant without changing the transformations. So why should its constraint level be zero?
