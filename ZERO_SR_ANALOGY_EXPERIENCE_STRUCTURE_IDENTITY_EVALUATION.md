@@ -95,3 +95,7 @@ A suitable provisional formulation is:
 > Experience and physical organization may be two ways of apprehending one intrinsically differentiated process, rather than separate things causally connected. Relativity shows how an internal structural relation can explain an apparently additional fact without an external force. To establish the proposed psychophysical identity, however, we must specify and support the constitution that connects the particular physical process, the particular lived character, the subject and its incidence.
 
 This keeps the insight's strongest constructive direction without overstating what either SR or the present model has proved.
+
+## Continuation: one specific candidate
+
+The [subsequent echo constitution](ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md) specifies quality, ownership, clock transport and a sampling measure together. It proves that the stated symmetries leave a transverse quality gain undetermined and identifies the extra metric and orientation premises that would select the proposed vector; those premises and the physical–experiential identity remain to be justified.

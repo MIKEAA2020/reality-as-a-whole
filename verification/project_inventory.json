@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 860,
-  "bytes": 11184550,
-  "line_count": 101042,
-  "document_count_with_risk_phrases": 813,
+  "document_count": 861,
+  "bytes": 11200887,
+  "line_count": 101213,
+  "document_count_with_risk_phrases": 814,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "220d76f76742c43a7606b8ea21902c327de7f00f5bfc76aa267b38bb09d2a0f0",
-      "bytes": 230488,
-      "lines": 1753,
+      "sha256": "fd63efc75f0d7c0775db30223fe4270a79a52c67170ded1846612c9972d46143",
+      "bytes": 230763,
+      "lines": 1755,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6568,6 +6568,7 @@
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
+        "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
         "ZERO_SUBJECT_EXPERIENCE_BRIDGE_COMMON_DOMAIN_TEST.md",
@@ -7488,6 +7489,7 @@
         "verification/zero_spherical_plenitude_opposite_records_test.py",
         "verification/zero_spin_constitution_test.py",
         "verification/zero_spin_reversal_sign_selection_test.py",
+        "verification/zero_sr_echo_constitution_test.py",
         "verification/zero_stationary_battery_bridge.py",
         "verification/zero_stationary_battery_bridge_test.py",
         "verification/zero_stationary_clock_claim_quality.py",
@@ -7561,13 +7563,13 @@
         739,
         749,
         752,
-        774,
-        820,
-        857,
-        866,
-        869,
-        872,
-        943
+        775,
+        821,
+        858,
+        867,
+        870,
+        873,
+        944
       ]
     },
     {
@@ -20213,9 +20215,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "3d8366fd580a03955171f00e4129564c5f74a99eef6317ce56136475109c1760",
-      "bytes": 45684,
-      "lines": 114,
+      "sha256": "ef60131a9eadc0a28a5f951b7c9310cc14b8a03f6b11b275947225616851be10",
+      "bytes": 46323,
+      "lines": 115,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20295,6 +20297,8 @@
         "verification/zero_self_revision_necessity_test.py",
         "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
         "verification/zero_version_space_revision_test.py",
+        "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
+        "verification/zero_sr_echo_constitution_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20328,7 +20332,8 @@
         85,
         86,
         90,
-        103
+        91,
+        104
       ]
     },
     {
@@ -25920,9 +25925,9 @@
     },
     {
       "path": "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
-      "sha256": "8d5336b26953d7377e73193a9bb396a27b457f22b24c504328975778bbe09779",
-      "bytes": 12666,
-      "lines": 97,
+      "sha256": "1daa518346ddf889d85530b00130fd50ebc7642badbfdcab1bb2ea04d8aa4b3b",
+      "bytes": 13135,
+      "lines": 101,
       "title": "Evaluating the relativity analogy for experience–structure identity",
       "headings": [
         "Evaluating the relativity analogy for experience–structure identity",
@@ -25936,14 +25941,47 @@
       ],
       "local_links": [
         "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
-        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md"
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+        "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md"
       ],
       "risk_phrase_lines": [
         9,
         29,
         45,
         75,
-        97
+        97,
+        101
+      ]
+    },
+    {
+      "path": "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
+      "sha256": "c94da97e9d8f3c4c54983301b5af1a344fbfec9d70c45190749ac67682388475",
+      "bytes": 14954,
+      "lines": 164,
+      "title": "A specific echo constitution in the form of the SR analogy",
+      "headings": [
+        "A specific echo constitution in the form of the SR analogy",
+        "Result",
+        "1. The physical structure and a concrete identity candidate",
+        "2. What symmetry fixes—and what it leaves free",
+        "3. What an additional metric and orientation would establish",
+        "4. Quality, owner, occurrence and measure in the same proposal",
+        "5. What is transported, and what is not",
+        "6. A conditional discrimination that does not assume the answer"
+      ],
+      "local_links": [
+        "verification/zero_sr_echo_constitution_test.py",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
+        "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        89,
+        105,
+        142,
+        150
       ]
     },
     {
