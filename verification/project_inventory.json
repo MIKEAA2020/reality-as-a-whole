@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 847,
-  "bytes": 10992036,
-  "line_count": 99318,
-  "document_count_with_risk_phrases": 800,
+  "document_count": 848,
+  "bytes": 11009423,
+  "line_count": 99462,
+  "document_count_with_risk_phrases": 801,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a02569b309c774d1bbe53280dfcdf71d8b66e62f1363542d7f1a25d798ee59d5",
-      "bytes": 225807,
-      "lines": 1719,
+      "sha256": "5ee71dd77135e95cf659e35402ad8d930df1ae7967d22239005988f4778be5c0",
+      "bytes": 226241,
+      "lines": 1722,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6455,6 +6455,7 @@
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
+        "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
         "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
@@ -7337,6 +7338,8 @@
         "verification/zero_full_echo_type_swap_test.py",
         "verification/zero_gauge_angular_pair.py",
         "verification/zero_gauge_angular_pair_test.py",
+        "verification/zero_gauge_calibration_causal_controls.py",
+        "verification/zero_gauge_calibration_causal_controls_test.py",
         "verification/zero_gauge_clock_joint_instrument.py",
         "verification/zero_gauge_clock_joint_instrument_test.py",
         "verification/zero_gauge_clock_meta_root.py",
@@ -7521,19 +7524,19 @@
         485,
         585,
         605,
-        694,
-        698,
-        724,
-        728,
-        737,
-        740,
-        761,
-        807,
-        844,
-        853,
-        856,
-        859,
-        930
+        695,
+        699,
+        725,
+        729,
+        738,
+        741,
+        762,
+        808,
+        845,
+        854,
+        857,
+        860,
+        931
       ]
     },
     {
@@ -20179,9 +20182,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "352a563314cfaf8f2a8451db20a4d52465edfe06ddd034730e2c1985f5f30de3",
-      "bytes": 37240,
-      "lines": 101,
+      "sha256": "2c75d8eab8741c30f43ef9f0f8cd745289ec6b1f5593d9e759489c74fc882cfb",
+      "bytes": 37946,
+      "lines": 102,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20246,6 +20249,7 @@
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
+        "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20273,7 +20277,7 @@
         72,
         73,
         75,
-        90
+        91
       ]
     },
     {
@@ -22159,10 +22163,40 @@
       ]
     },
     {
+      "path": "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
+      "sha256": "ea9191d4d7b0c47bce2970be2fa56441cc1be1e657c469d2cda92c3aac47c78a",
+      "bytes": 15835,
+      "lines": 136,
+      "title": "Why trust calibration? Selection, shared causes and a conditional transfer bound",
+      "headings": [
+        "Why trust calibration? Selection, shared causes and a conditional transfer bound",
+        "Result",
+        "1. Why might the contextual error arise?",
+        "2. Why check the clock selection separately?",
+        "3. Four-context robust bound",
+        "4. Where could those bounds come from?",
+        "5. Why even perfect reference tables are not enough",
+        "6. Next work"
+      ],
+      "local_links": [
+        "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
+        "verification/zero_gauge_calibration_causal_controls.py",
+        "verification/zero_gauge_calibration_causal_controls_test.py",
+        "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md"
+      ],
+      "risk_phrase_lines": [
+        18,
+        43,
+        81,
+        113,
+        117
+      ]
+    },
+    {
       "path": "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
-      "sha256": "91185b167f847a54f5e78d278c817576809242106bef8d061fb434f1c465ccff",
-      "bytes": 14825,
-      "lines": 118,
+      "sha256": "81d1edb9a50b8ccb3b5e18d5089fdd1724b57a47d36afd28e3be0272c10ad6e0",
+      "bytes": 15237,
+      "lines": 122,
       "title": "Why the clock bound is weak: a causal chain to the model-selection root",
       "headings": [
         "Why the clock bound is weak: a causal chain to the model-selection root",
@@ -22171,14 +22205,15 @@
         "2. Why can the correlation be mistaken for a source property?",
         "3. A conditional calibration improvement and its remaining dependence",
         "4. Keep asking why: from the instrument to the explanatory premises",
-        "5. Next discriminating work",
-        "Reproduce"
+        "Continuation: calibration and its causal premises",
+        "5. Next discriminating work"
       ],
       "local_links": [
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "verification/zero_gauge_clock_meta_root.py",
         "verification/zero_gauge_clock_meta_root_test.py",
-        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md"
+        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
+        "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md"
       ],
       "risk_phrase_lines": [
         8,
@@ -22187,7 +22222,7 @@
         88,
         99,
         102,
-        109
+        113
       ]
     },
     {

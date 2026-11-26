@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "27f4f1468487b0dd2dd42e4ea2784ddc55f07266",
-  "file_count": 2370,
+  "base_head": "e16d367345b868635081437a84dcf785eb728745",
+  "file_count": 2373,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 225807,
-      "sha256": "a02569b309c774d1bbe53280dfcdf71d8b66e62f1363542d7f1a25d798ee59d5"
+      "bytes": 226241,
+      "sha256": "5ee71dd77135e95cf659e35402ad8d930df1ae7967d22239005988f4778be5c0"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 37240,
-      "sha256": "352a563314cfaf8f2a8451db20a4d52465edfe06ddd034730e2c1985f5f30de3"
+      "bytes": 37946,
+      "sha256": "2c75d8eab8741c30f43ef9f0f8cd745289ec6b1f5593d9e759489c74fc882cfb"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3219,9 +3219,14 @@
       "sha256": "ff231b43a233b92ebd33eddacd3cbbf5d75bf71237dfd3bacb4c154d29cbc09e"
     },
     {
+      "path": "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
+      "bytes": 15835,
+      "sha256": "ea9191d4d7b0c47bce2970be2fa56441cc1be1e657c469d2cda92c3aac47c78a"
+    },
+    {
       "path": "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
-      "bytes": 14825,
-      "sha256": "91185b167f847a54f5e78d278c817576809242106bef8d061fb434f1c465ccff"
+      "bytes": 15237,
+      "sha256": "81d1edb9a50b8ccb3b5e18d5089fdd1724b57a47d36afd28e3be0272c10ad6e0"
     },
     {
       "path": "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
@@ -8610,8 +8615,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1088895,
-      "sha256": "61eae2cea901eac0abdfce2a1c6285f862bd076a3950d65d79acf2d970964ae6"
+      "bytes": 1090380,
+      "sha256": "b196833bc1c1600e709e1992f6aaf7b4ec24aec2f4960ebb893b84bf264c8393"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9780,8 +9785,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 530882,
-      "sha256": "4a72fe1597fab2d505fcdab8701ae05ecfeef978c21309bd4231a4fe4e7c4fc2"
+      "bytes": 531430,
+      "sha256": "8ba5eae2746625bb4f01054efbe4c2c42f6c827076bcf742cf3197ab23bfc6cf"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11002,6 +11007,16 @@
       "path": "verification/zero_gauge_angular_pair_test.py",
       "bytes": 7492,
       "sha256": "34d3fe1fc840c0e9f633ed1540ff48e53740c9d9391baa840fb04fe1320fa119"
+    },
+    {
+      "path": "verification/zero_gauge_calibration_causal_controls.py",
+      "bytes": 3822,
+      "sha256": "721b14ee22cd15f6a615e3aec2a73ef122af6e7d8c35afeef1889457b0233d24"
+    },
+    {
+      "path": "verification/zero_gauge_calibration_causal_controls_test.py",
+      "bytes": 7728,
+      "sha256": "8b1f61b140b1fff190f77040a4cc60dfe57b70c94ae18eaeb9d50fa8186a265b"
     },
     {
       "path": "verification/zero_gauge_clock_joint_instrument.py",

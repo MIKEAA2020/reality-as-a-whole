@@ -101,6 +101,10 @@ Illustration only: keep the earlier simulated `X_bar=.01769`, `M=100000`, and su
 
 The positive result survives: a particular relational and gauge-invariant construction makes an operationally specified correlation possible, and the observable-specific shift can be computed exactly. The stronger claims—physical clock-frame equivalence, actual autonomous and local sensing, and a uniquely necessary self-differentiating whole—do **not** follow from that possibility. Nor does this calculation derive spacetime, Yang–Mills dynamics, Langlands duality, consciousness, or felt value. For the broader method and its prior application, see [the previous meta-level why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md).
 
+## Continuation: calibration and its causal premises
+
+The [next pass](ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md) tests shared-cause and clock-selection alternatives and gives a four-context finite-shot bound with explicit reference, transfer, selection and blank uncertainties. Its guarantees depend on independently justified bounds; calibration alone does not establish source–apparatus transfer.
+
 ## 5. Next discriminating work
 
 1. Build a joint-context calibration with physically prepared, verified references and a justified bound on context dependence outside the calibration sample, including state preparation, angular bins, clock selection and correlated noise. Quantify uncertainty in w, gains and C errors jointly; test alternative channels, not only this one.
