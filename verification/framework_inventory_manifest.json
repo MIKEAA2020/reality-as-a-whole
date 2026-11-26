@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "aa5628cc8abdf8416cd0351f06f697626055df4f",
-  "file_count": 2410,
+  "base_head": "c87443586dccb1370a0141f25422ebf91601933b",
+  "file_count": 2412,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 231357,
-      "sha256": "d0b359f8237c604e30f5d5497d7dca42219238e637a91c40139e012885bd465b"
+      "bytes": 231629,
+      "sha256": "f805866c630ae7e9980590eb643dd93b073ba373a6de4c3b7dee2e2fb3aaf1bf"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 47595,
-      "sha256": "48298ed70cb4aff0145ff05a521a25e7a22c4d647ba05b94d67d885eae3eae4b"
+      "bytes": 48251,
+      "sha256": "e9efe3173991ef345e46d3475b2b17879fd54fde55ffee4a30d44960f2ab5158"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3790,8 +3790,13 @@
     },
     {
       "path": "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
-      "bytes": 12791,
-      "sha256": "2e5a7f8957747835cc9bc69af6115022145cf63937aa49e98ad7e05c94e33ca1"
+      "bytes": 13096,
+      "sha256": "027ebe00bc72fff524828a74eef3ecdc3f43f0836828dd8ab57c0040a105583b"
+    },
+    {
+      "path": "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
+      "bytes": 11862,
+      "sha256": "3a1fa5d41067c21717ddd87ea677dcfb7358315b4e2c82bece7d6fb2172c52ba"
     },
     {
       "path": "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
@@ -8690,8 +8695,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1111886,
-      "sha256": "049abecbc56fa9e8441e36f830b1f3f397b03f520e52cfaec0c2271107465872"
+      "bytes": 1113209,
+      "sha256": "c221090ae0f31bd240e9b0899ebdef4b8d39da9d33c7649950ab699f2dba0e83"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9860,8 +9865,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 539669,
-      "sha256": "4047c3ce2e18eb2033f888ff1f92f42284cbcc38dd298403d818e45c5bf2738b"
+      "bytes": 540215,
+      "sha256": "4eea186809e8c369bda4e841b028a29b8f2631cc3ad5d31325caac7d892cf7b8"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11787,6 +11792,11 @@
       "path": "verification/zero_sr_echo_intrinsic_access_test.py",
       "bytes": 8564,
       "sha256": "c80f25bd4953bd161ab0fe4c30b9822da884571ef8742aaa215d2186b77170fa"
+    },
+    {
+      "path": "verification/zero_sr_echo_quantum_eraser_test.py",
+      "bytes": 9391,
+      "sha256": "4eabf32b35aaf41cfdf46185277005dba67bc960c1e907c5097f8e1651c08a8e"
     },
     {
       "path": "verification/zero_stationary_battery_bridge.py",

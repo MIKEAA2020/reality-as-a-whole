@@ -1,9 +1,9 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 863,
-  "bytes": 11229297,
-  "line_count": 101476,
+  "document_count": 864,
+  "bytes": 11242392,
+  "line_count": 101627,
   "document_count_with_risk_phrases": 816,
   "broken_local_link_count": 0,
   "broken_local_links": [],
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d0b359f8237c604e30f5d5497d7dca42219238e637a91c40139e012885bd465b",
-      "bytes": 231357,
-      "lines": 1759,
+      "sha256": "f805866c630ae7e9980590eb643dd93b073ba373a6de4c3b7dee2e2fb3aaf1bf",
+      "bytes": 231629,
+      "lines": 1761,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6570,6 +6570,7 @@
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
         "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
+        "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
         "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
@@ -7494,6 +7495,7 @@
         "verification/zero_sr_echo_constitution_test.py",
         "verification/zero_sr_echo_coordinate_equivalence_test.py",
         "verification/zero_sr_echo_intrinsic_access_test.py",
+        "verification/zero_sr_echo_quantum_eraser_test.py",
         "verification/zero_stationary_battery_bridge.py",
         "verification/zero_stationary_battery_bridge_test.py",
         "verification/zero_stationary_clock_claim_quality.py",
@@ -7567,13 +7569,13 @@
         739,
         749,
         752,
-        777,
-        823,
-        860,
-        869,
-        872,
-        875,
-        946
+        778,
+        824,
+        861,
+        870,
+        873,
+        876,
+        947
       ]
     },
     {
@@ -20219,9 +20221,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "48298ed70cb4aff0145ff05a521a25e7a22c4d647ba05b94d67d885eae3eae4b",
-      "bytes": 47595,
-      "lines": 117,
+      "sha256": "e9efe3173991ef345e46d3475b2b17879fd54fde55ffee4a30d44960f2ab5158",
+      "bytes": 48251,
+      "lines": 118,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20307,6 +20309,8 @@
         "verification/zero_sr_echo_coordinate_equivalence_test.py",
         "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
         "verification/zero_sr_echo_intrinsic_access_test.py",
+        "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
+        "verification/zero_sr_echo_quantum_eraser_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20341,7 +20345,7 @@
         86,
         90,
         91,
-        106
+        107
       ]
     },
     {
@@ -25992,9 +25996,9 @@
     },
     {
       "path": "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
-      "sha256": "2e5a7f8957747835cc9bc69af6115022145cf63937aa49e98ad7e05c94e33ca1",
-      "bytes": 12791,
-      "lines": 126,
+      "sha256": "027ebe00bc72fff524828a74eef3ecdc3f43f0836828dd8ab57c0040a105583b",
+      "bytes": 13096,
+      "lines": 128,
       "title": "Intrinsic distinguishability and access in the SR-inspired echo",
       "headings": [
         "Intrinsic distinguishability and access in the SR-inspired echo",
@@ -26010,7 +26014,8 @@
         "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "verification/zero_sr_echo_intrinsic_access_test.py",
         "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
-        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md"
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
+        "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -26019,6 +26024,29 @@
         105,
         112
       ]
+    },
+    {
+      "path": "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
+      "sha256": "3a1fa5d41067c21717ddd87ea677dcfb7358315b4e2c82bece7d6fb2172c52ba",
+      "bytes": 11862,
+      "lines": 146,
+      "title": "Record, recovery and subject access in the SR-inspired echo",
+      "headings": [
+        "Record, recovery and subject access in the SR-inspired echo",
+        "Result",
+        "1. Start with the existing coherent echo and pointer",
+        "2. Where did phase distinguishability go?",
+        "3. A clock-compatible eraser and recovery",
+        "4. Reading the branch instead is a different protocol",
+        "5. An explicit environment-copy obstruction",
+        "6. Consequence for the proposed subject–quality constitution"
+      ],
+      "local_links": [
+        "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
+        "verification/zero_sr_echo_quantum_eraser_test.py",
+        "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md"
+      ],
+      "risk_phrase_lines": []
     },
     {
       "path": "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",

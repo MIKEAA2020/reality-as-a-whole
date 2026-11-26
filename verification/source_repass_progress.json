@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "d0b359f8237c604e30f5d5497d7dca42219238e637a91c40139e012885bd465b",
+      "sha256": "f805866c630ae7e9980590eb643dd93b073ba373a6de4c3b7dee2e2fb3aaf1bf",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11063,7 +11063,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "48298ed70cb4aff0145ff05a521a25e7a22c4d647ba05b94d67d885eae3eae4b",
+      "sha256": "e9efe3173991ef345e46d3475b2b17879fd54fde55ffee4a30d44960f2ab5158",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -14331,7 +14331,26 @@
     {
       "path": "ZERO_SR_ECHO_INTRINSIC_DISTINGUISHABILITY_AND_ACCESS.md",
       "kind": "authored root document",
-      "sha256": "2e5a7f8957747835cc9bc69af6115022145cf63937aa49e98ad7e05c94e33ca1",
+      "sha256": "027ebe00bc72fff524828a74eef3ecdc3f43f0836828dd8ab57c0040a105583b",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "path": "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
+      "kind": "authored root document",
+      "sha256": "3a1fa5d41067c21717ddd87ea677dcfb7358315b4e2c82bece7d6fb2172c52ba",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",

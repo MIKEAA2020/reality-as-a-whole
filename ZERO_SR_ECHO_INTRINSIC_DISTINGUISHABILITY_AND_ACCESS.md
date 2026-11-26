@@ -113,6 +113,8 @@ A useful next hypothesis could identify an experience with a suitable *whole sta
 
 The most direct next step is to define an experimentally or independently supported qualitative relation and compare its predictions with both T-only and phase-sensitive physical access, including an actual candidate subject and the cost of its matched interface. A negative or ambiguous result should be allowed to challenge the candidate, rather than being absorbed into an unfalsifiable identification.
 
+The [record-erasure continuation](ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md) works out when the present reduced-clock pointer's apparent coherence loss can be reversed, what information remains in the pointer, and why an additional inaccessible environment record blocks the same local recovery.
+
 ## Reproduce
 
 ```sh
