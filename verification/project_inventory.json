@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 849,
-  "bytes": 11025810,
-  "line_count": 99626,
-  "document_count_with_risk_phrases": 802,
+  "document_count": 850,
+  "bytes": 11046330,
+  "line_count": 99814,
+  "document_count_with_risk_phrases": 803,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "63180fd12977456b526d887fcff3e2d7cffebd84bc6a1c66d00cae84f0a65742",
-      "bytes": 226636,
-      "lines": 1725,
+      "sha256": "c88232783afff004b6e3dc91ef7bbbc5e821c0a0b54f9b51baedc459ead65532",
+      "bytes": 227030,
+      "lines": 1728,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6440,6 +6440,7 @@
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
@@ -7320,6 +7321,8 @@
         "verification/zero_echo_incidence_balance_root.py",
         "verification/zero_echo_incidence_balance_root_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
+        "verification/zero_echo_joint_identity_balance.py",
+        "verification/zero_echo_joint_identity_balance_test.py",
         "verification/zero_echo_ownership_witness_diagnostic.py",
         "verification/zero_echo_ownership_witness_diagnostic_test.py",
         "verification/zero_echo_positive_unity_witness.py",
@@ -7527,19 +7530,19 @@
         485,
         585,
         605,
-        696,
-        700,
-        726,
-        730,
-        739,
-        742,
-        763,
-        809,
-        846,
-        855,
-        858,
-        861,
-        932
+        697,
+        701,
+        727,
+        731,
+        740,
+        743,
+        764,
+        810,
+        847,
+        856,
+        859,
+        862,
+        933
       ]
     },
     {
@@ -20185,9 +20188,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "68fd4c1d8573f5178f66358179fa98dcf18f435d1654d018aaf6b1709246e155",
-      "bytes": 38663,
-      "lines": 103,
+      "sha256": "70a54eb31ddd5fd02f29d6221390aa111f5b103c0bfe104bc7acf250f47a6d35",
+      "bytes": 39365,
+      "lines": 104,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20254,6 +20257,7 @@
         "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
         "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
         "ZERO_GAUGE_FAULT_RECORD_RECOVERY_AND_CLOCK_COST.md",
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20282,7 +20286,7 @@
         73,
         75,
         79,
-        92
+        93
       ]
     },
     {
@@ -21677,6 +21681,43 @@
         126,
         132,
         134
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+      "sha256": "93f520e1caeefae6a9bf3c173f4702eacdc586aaa94725929e6e1d079ab6b988",
+      "bytes": 19029,
+      "lines": 182,
+      "title": "Occurrence, quality and incidence on the same echo",
+      "headings": [
+        "Occurrence, quality and incidence on the same echo",
+        "Result",
+        "1. One carrier, one physical event table",
+        "2. Which physical distinctions can one occurrence preserve?",
+        "3. Can the two coordinates become one scalar?",
+        "4. Physical pair, actual incidence and three levels of balance",
+        "5. Persistence: same physical ledger, different occurrences",
+        "6. Why these connections remain conditional"
+      ],
+      "local_links": [
+        "verification/zero_echo_joint_identity_balance.py",
+        "verification/zero_echo_joint_identity_balance_test.py",
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+        "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md"
+      ],
+      "risk_phrase_lines": [
+        41,
+        48,
+        51,
+        64,
+        76,
+        90,
+        110,
+        113,
+        116,
+        118,
+        182
       ]
     },
     {
@@ -23090,9 +23131,9 @@
     },
     {
       "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
-      "sha256": "38cb0fb5343fe5ca9f7d4c54e8d782b85b0fbb2c7a7d620b821f53750fed3ded",
-      "bytes": 17100,
-      "lines": 159,
+      "sha256": "b9ea2029c36af78494934964ac2b1500c1c95b281bbbb6666a00b33c21fe19cd",
+      "bytes": 17495,
+      "lines": 161,
       "title": "One joint incidence candidate: quality, record and the opposite pair",
       "headings": [
         "One joint incidence candidate: quality, record and the opposite pair",
@@ -23106,6 +23147,7 @@
       ],
       "local_links": [
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
         "verification/zero_joint_quality_incidence_root.py",
         "verification/zero_joint_quality_incidence_root_test.py",
@@ -23118,13 +23160,13 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        12,
         14,
-        29,
-        107,
-        117,
-        140,
-        148
+        16,
+        31,
+        109,
+        119,
+        142,
+        150
       ]
     },
     {

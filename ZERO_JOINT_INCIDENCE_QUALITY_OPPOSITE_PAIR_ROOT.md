@@ -2,6 +2,8 @@
 
 **Next dependency:** [subject persistence, record and access](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) constructs and reverses an explicit before/after memory, tests the actual sign/pair branches and compares clock-covariant ownership candidates. It does not infer a subject from a record.
 
+**Joint-constraint continuation:** [occurrence, quality and incidence on the same echo](ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md) examines content-preserving event quotients, a scalar obstruction and pointer-context alternative, the distinct levels of incidence balance, and the saved physical ledger. The proposed occurrence and ownership interpretations remain conditional.
+
 ## Why this is the first feasible dependency step
 
 The [root-cause map](WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md) calls for investigating zero, subject, quality and incidence **together**. A strict topological order must not pretend that the ultimate zero constitution has already been derived: that is the upstream hypothesis on which the stronger conclusion depends. Nor should subject identity, quality and incidence be ordered as though any one were independently known. They form a mutually constraining block and need to be tested jointly.
