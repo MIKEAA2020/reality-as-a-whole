@@ -2,6 +2,8 @@
 
 ## The issue and result
 
+**Ownership-report follow-up:** [the calibration diagnosis](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) tests the existing B-report against opposite ownership bridges and derives conditional error thresholds for a separate identity witness; the model does not supply that witness or its calibration.
+
 The preceding [incidence-balance investigation](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) found that event-dependent type weights are impossible if positive type blocks must sum to the **same globally pure physical state** for every physical effect. But its diagonal-only counterexample used a weaker physical constraint. The diagnostic question is: does granting a reporter *all* effects on the part it can access restore the strong conclusion?
 
 **Not in general.** In the existing echo with the separately added saved-J memory, that memory's actual reduced state is mixed even though the specified memory-plus-old-carrier state is pure. Two positive type blocks can sum to the **same reduced density matrix**, and therefore agree on every untyped qubit effect on that memory, while assigning different conditional type weights. They cannot also sum to the same globally pure state. A joint coherence-sensitive physical effect can distinguish the different global extensions, if the required joint access is available.

@@ -1,5 +1,7 @@
 # Ownership, a physical report and the symmetry it must carry
 
+**Calibration follow-up:** [the ownership-report root-cause diagnosis](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) gives exact conditional discrimination thresholds and an error-correlation control; physical B accuracy is not itself identity calibration.
+
 **Next dependency:** [causal access and refinement on the echo](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) tests a local support criterion against actual gate timing, logical encoding, record-access sets and overlap accounting; it does not infer subjects from the resulting graph.
 
 ## Main result

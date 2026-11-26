@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 831,
-  "bytes": 10763915,
-  "line_count": 97156,
-  "document_count_with_risk_phrases": 784,
+  "document_count": 832,
+  "bytes": 10776962,
+  "line_count": 97267,
+  "document_count_with_risk_phrases": 785,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c4c575ce00d1f7bf962d6669aab9a9248a9e9cf7a2ef708f715a22adbf04e566",
-      "bytes": 220638,
-      "lines": 1681,
+      "sha256": "a7e328f79425981a41a1e3dc6bc8421d279a429978b8852f9a2996d09158893c",
+      "bytes": 221054,
+      "lines": 1684,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6437,6 +6437,7 @@
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
@@ -7300,6 +7301,8 @@
         "verification/zero_echo_incidence_balance_root.py",
         "verification/zero_echo_incidence_balance_root_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
+        "verification/zero_echo_ownership_witness_diagnostic.py",
+        "verification/zero_echo_ownership_witness_diagnostic_test.py",
         "verification/zero_echo_positive_unity_witness.py",
         "verification/zero_echo_positive_unity_witness_test.py",
         "verification/zero_echo_state_symmetry_dynamics.py",
@@ -7482,19 +7485,19 @@
         484,
         584,
         604,
-        688,
-        692,
-        718,
-        722,
-        731,
-        734,
-        754,
-        791,
-        828,
-        837,
-        840,
-        843,
-        914
+        689,
+        693,
+        719,
+        723,
+        732,
+        735,
+        755,
+        792,
+        829,
+        838,
+        841,
+        844,
+        915
       ]
     },
     {
@@ -20002,8 +20005,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "a49d88dd38b090b7eb0a6c4da3b762d253385fd464f59a65dec0477cf4e99856",
-      "bytes": 31844,
+      "sha256": "2fdf0318e14522a0348046d8ee307e490ae1b5d1c93700a3d1d4969cb9d2ebe1",
+      "bytes": 32113,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20053,6 +20056,7 @@
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
         "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md"
       ],
@@ -20075,9 +20079,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "0bef9ddbba2953eb482dbdada56efd7a5b109675c9ebb1d2f072991ac8aa0bb5",
-      "bytes": 28450,
-      "lines": 85,
+      "sha256": "d2e7a0ec600c69ad576e86996a5f4640f3a2d25ad8d5272d419181dccbd11b63",
+      "bytes": 29006,
+      "lines": 86,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20126,6 +20130,7 @@
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20146,7 +20151,8 @@
         58,
         59,
         60,
-        74
+        62,
+        75
       ]
     },
     {
@@ -21342,9 +21348,9 @@
     },
     {
       "path": "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
-      "sha256": "4ec855791138481095d580dcfbccd7924ed5cc1db5a0b344e7da9122a4248a88",
-      "bytes": 10609,
-      "lines": 116,
+      "sha256": "3c7905338730d13d87a6cdf260bef63d57e051f49d59b68cf9689064e746e13c",
+      "bytes": 10920,
+      "lines": 118,
       "title": "Can a local reporter justify the pure-state incidence rule?",
       "headings": [
         "Can a local reporter justify the pure-state incidence rule?",
@@ -21357,14 +21363,15 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "verification/zero_echo_accessible_marginal_root_test.py"
       ],
       "risk_phrase_lines": [
-        50,
-        91,
-        95
+        52,
+        93,
+        97
       ]
     },
     {
@@ -21470,6 +21477,36 @@
         126,
         132,
         134
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
+      "sha256": "fb1e77baab5c87bacc99e45b089ec98ba688ea86c9d9f1ce4503a7b67f8ac145",
+      "bytes": 10925,
+      "lines": 101,
+      "title": "Can the echo's physical report diagnose subject persistence?",
+      "headings": [
+        "Can the echo's physical report diagnose subject persistence?",
+        "The concrete problem",
+        "1. Same physical echo, opposite proposed ownership",
+        "2. An identity-calibration threshold, not an assumption of infallibility",
+        "3. Compare an independently supported witness without assuming independent errors",
+        "4. Repetition does not automatically fix calibration",
+        "5. Root cause and the next question",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
+        "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
+        "verification/zero_echo_ownership_witness_diagnostic_test.py"
+      ],
+      "risk_phrase_lines": [
+        24,
+        25,
+        38,
+        72,
+        78,
+        86
       ]
     },
     {
@@ -23470,9 +23507,9 @@
     },
     {
       "path": "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
-      "sha256": "e6fc9d5f2d984274d7ecfc307c2df1ed094bc5bfe91e4d5e35bb943205e23b6d",
-      "bytes": 15015,
-      "lines": 149,
+      "sha256": "7a66e122b0765ed0905e45148e1766ea960d296b02349b70ba100508f4144f09",
+      "bytes": 15281,
+      "lines": 151,
       "title": "Ownership, a physical report and the symmetry it must carry",
       "headings": [
         "Ownership, a physical report and the symmetry it must carry",
@@ -23485,6 +23522,7 @@
         "6. What changes when owners are counted?"
       ],
       "local_links": [
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "verification/zero_ownership_report_bridge.py",
@@ -23493,10 +23531,11 @@
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md"
       ],
       "risk_phrase_lines": [
-        11,
-        72,
-        112,
-        124
+        3,
+        13,
+        74,
+        114,
+        126
       ]
     },
     {
@@ -24605,9 +24644,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "0c849073fcca5bb5eb35f4769258b31d8c3cb301036c891306891f2a48930781",
-      "bytes": 29353,
-      "lines": 182,
+      "sha256": "55c0603b036afa917d5cc97ba0155be2dfc89b889e350c6acacd00f26cdcb012",
+      "bytes": 29657,
+      "lines": 184,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24620,6 +24659,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
@@ -24663,25 +24703,25 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        13,
-        25,
-        29,
-        45,
-        51,
+        9,
+        15,
+        27,
+        31,
+        47,
         53,
-        59,
+        55,
         61,
-        71,
-        102,
-        117,
-        148,
+        63,
+        73,
+        104,
+        119,
         150,
-        158,
-        161,
-        162,
+        152,
+        160,
         163,
-        170
+        164,
+        165,
+        172
       ]
     },
     {

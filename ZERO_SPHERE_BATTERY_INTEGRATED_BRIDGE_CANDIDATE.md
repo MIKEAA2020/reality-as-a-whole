@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Ownership-report diagnosis:** [the identity-calibration root cause](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) shows what independently justified identity-error bounds would need to establish to distinguish two opposing ownership rules; the actual B-report alone is not such a calibration.
+
 **Accessible-marginal diagnosis:** [the saved-J memory and incidence blocks](ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md) distinguishes all effects on an actual mixed local record from all effects on its pure global carrier. Local type correlations can preserve the former but not the latter; a physical type-sensitive reporter remains hypothetical.
 
 **Incidence-balance diagnosis:** [equal type weights versus signed balance](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) derives an exact conditional criterion on the existing echo table. It shows equal type weights are unnecessary in the strong pure-state family, while diagonal-only type correlations can break balance even with equal weights and type symmetry; those correlations do not preserve the same pure quantum marginal.
