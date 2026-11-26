@@ -2,7 +2,7 @@
 
 ## Result
 
-**Continuation:** [three-frame gauge chirality and a noncyclic clock](ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md) lifts the record to independent local frames, exhibits an extra loop-holonomy correlation, and contrasts finite cyclic erasure with an ideal noncyclic clock's non-normalizable exact stationary histories.
+**Continuation:** [three-frame gauge chirality and a noncyclic clock](ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md) lifts the record to independent local frames, exhibits an extra loop-holonomy correlation, and contrasts finite cyclic erasure with an ideal noncyclic clock's non-normalizable exact stationary histories. A later [chemistry–clock bridge](ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md) uses these actual histories with idealized molecular population snapshots and an explicitly supplied orientation reference; it does not derive a physical chemical detector.
 
 The [previous pass](ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md) coupled a third-direction chirality to the original spherical echo at one checkpoint, but did not write a record at a localized clock reading. This pass supplies an explicit coherent clock-controlled construction. It introduces a **three-state neutral memory** with distinguishable `blank`, `+` and `−` states, writes the chirality at clock step `9→10`, holds it through the remainder of the old echo and a **complete additional 20-step echo cycle**, and uncomputes it at the end of an enlarged 40-step cycle.
 

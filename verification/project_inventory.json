@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 876,
-  "bytes": 11450541,
-  "line_count": 103437,
-  "document_count_with_risk_phrases": 828,
+  "document_count": 877,
+  "bytes": 11466185,
+  "line_count": 103585,
+  "document_count_with_risk_phrases": 829,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "31519c96fb4885576360964fa98c9fe76d80a0daeaae6cbe150bfd1380ccdc43",
-      "bytes": 235135,
-      "lines": 1785,
+      "sha256": "2754c8860c3007c71c4481583b2c75eec2c438ee638653858b8aa1d4a8184030",
+      "bytes": 235761,
+      "lines": 1789,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6497,6 +6497,7 @@
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+        "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
@@ -6623,6 +6624,7 @@
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_RECOLLAPSE_SPHERE_RECORD_ARROWS.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
+        "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
         "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
@@ -7402,6 +7404,7 @@
         "verification/zero_autonomous_two_window_records_test.py",
         "verification/zero_balanced_reference_preparation_test.py",
         "verification/zero_celestial_geometry_test.py",
+        "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
         "verification/zero_clock_finite_reservoir_reuse_test.py",
         "verification/zero_clock_relational_povm_test.py",
         "verification/zero_clocked_chirality_history.py",
@@ -7522,6 +7525,7 @@
         "verification/zero_mirror_balanced_plenitude_subject_test.py",
         "verification/zero_modal_acquaintance_why.py",
         "verification/zero_modal_acquaintance_why_test.py",
+        "verification/zero_molecular_chirality_amplification_test.py",
         "verification/zero_necessity_constitutive_gate_test.py",
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
@@ -7666,19 +7670,19 @@
         488,
         589,
         609,
-        715,
-        719,
-        745,
-        750,
-        760,
-        763,
-        789,
-        835,
-        872,
-        881,
-        884,
-        887,
-        959
+        716,
+        720,
+        747,
+        752,
+        762,
+        765,
+        791,
+        837,
+        874,
+        883,
+        886,
+        889,
+        961
       ]
     },
     {
@@ -20391,9 +20395,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "7a92d6523a4533cd218426005101aed99e47a85dfd66e99efb63dfec60fa5f37",
-      "bytes": 56367,
-      "lines": 130,
+      "sha256": "f9cc340c9317c99e668e5a0c73eac82f87ccf5f75661a6473bd04061b6eed599",
+      "bytes": 57080,
+      "lines": 131,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20507,6 +20511,8 @@
         "verification/zero_gravity_local_memory_pulse_test.py",
         "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
         "verification/zero_molecular_chirality_amplification_test.py",
+        "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
+        "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20545,7 +20551,7 @@
         99,
         102,
         105,
-        119
+        120
       ]
     },
     {
@@ -21077,6 +21083,42 @@
       ]
     },
     {
+      "path": "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
+      "sha256": "edc678131bdfd1727ff64244554be4fd6a151e724b768413fa016e3ebb2e23e5",
+      "bytes": 13734,
+      "lines": 141,
+      "title": "Connecting molecular chirality, zero balance and the clocked record",
+      "headings": [
+        "Connecting molecular chirality, zero balance and the clocked record",
+        "Result and scope",
+        "1. Geometry → population → common zero-centered contrast",
+        "2. A physical distinction: relative handedness needs a reference",
+        "3. The existing clocked record, populated by the actual chemistry",
+        "4. Quantitative connection for the earlier trajectory",
+        "5. What whole-level zero can and cannot mean here",
+        "6. Real connection still required"
+      ],
+      "local_links": [
+        "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
+        "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+        "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
+        "ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        13,
+        42,
+        56,
+        83,
+        87,
+        91,
+        115,
+        121,
+        123
+      ]
+    },
+    {
       "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
       "sha256": "86489ca0d0bf9b3cd9da1bebf84cbc1fd24d1c71d36a39db8549b77ffc53f752",
       "bytes": 14458,
@@ -21115,8 +21157,8 @@
     },
     {
       "path": "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
-      "sha256": "8102159935f2f1f3af03c090784b71ef54fc523e244bdcb21ca35ba429622fc9",
-      "bytes": 17370,
+      "sha256": "427b22399e1048b4a4a5366ba51c0cb079e804f1268804fe4b8e32f1c076ee39",
+      "bytes": 17630,
       "lines": 152,
       "title": "A clock-localized chirality record across the original echo",
       "headings": [
@@ -21131,6 +21173,7 @@
       ],
       "local_links": [
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
+        "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "verification/zero_clocked_chirality_history.py",
         "verification/zero_clocked_chirality_history_test.py",
@@ -25225,9 +25268,9 @@
     },
     {
       "path": "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
-      "sha256": "2dedf7d9cdd6d348c696439bf6ddae36c275b9a4ea8b8e2604ff79ba3464c542",
-      "bytes": 16249,
-      "lines": 158,
+      "sha256": "964354b9a05f8e7cb1fb8db928f200ecc00c194e29f870bacb8a6d336d9353e9",
+      "bytes": 16560,
+      "lines": 160,
       "title": "Relational chirality and the origin of biochemical handedness",
       "headings": [
         "Relational chirality and the origin of biochemical handedness",
@@ -25240,17 +25283,18 @@
         "6. What the bridge establishes, and what it does not"
       ],
       "local_links": [
+        "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "verification/zero_molecular_chirality_amplification_test.py",
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
         "verification/requirements-gravity-spin-pointer.txt"
       ],
       "risk_phrase_lines": [
-        9,
-        74,
-        85,
-        119,
-        131,
-        141
+        11,
+        76,
+        87,
+        121,
+        133,
+        143
       ]
     },
     {

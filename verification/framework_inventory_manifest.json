@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "170c7b394f80d87242b670caa8d3a4a3b5876184",
-  "file_count": 2438,
+  "base_head": "7532b9b166cd6f4ad37ff54e8a2181fb891266f6",
+  "file_count": 2440,
   "files": [
     {
       "path": ".gitattributes",
@@ -890,8 +890,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 235447,
-      "sha256": "d1c780fb42e345dff05133642e876c606188ea4af578806d725bfcf98b0193b5"
+      "bytes": 235761,
+      "sha256": "2754c8860c3007c71c4481583b2c75eec2c438ee638653858b8aa1d4a8184030"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2950,8 +2950,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 56367,
-      "sha256": "7a92d6523a4533cd218426005101aed99e47a85dfd66e99efb63dfec60fa5f37"
+      "bytes": 57080,
+      "sha256": "f9cc340c9317c99e668e5a0c73eac82f87ccf5f75661a6473bd04061b6eed599"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3034,14 +3034,19 @@
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
     },
     {
+      "path": "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
+      "bytes": 13734,
+      "sha256": "edc678131bdfd1727ff64244554be4fd6a151e724b768413fa016e3ebb2e23e5"
+    },
+    {
       "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
       "bytes": 14458,
       "sha256": "86489ca0d0bf9b3cd9da1bebf84cbc1fd24d1c71d36a39db8549b77ffc53f752"
     },
     {
       "path": "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
-      "bytes": 17370,
-      "sha256": "8102159935f2f1f3af03c090784b71ef54fc523e244bdcb21ca35ba429622fc9"
+      "bytes": 17630,
+      "sha256": "427b22399e1048b4a4a5366ba51c0cb079e804f1268804fe4b8e32f1c076ee39"
     },
     {
       "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
@@ -3665,8 +3670,8 @@
     },
     {
       "path": "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
-      "bytes": 16249,
-      "sha256": "2dedf7d9cdd6d348c696439bf6ddae36c275b9a4ea8b8e2604ff79ba3464c542"
+      "bytes": 16560,
+      "sha256": "964354b9a05f8e7cb1fb8db928f200ecc00c194e29f870bacb8a6d336d9353e9"
     },
     {
       "path": "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
@@ -8775,8 +8780,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1132952,
-      "sha256": "8c061e76755307c28e48173a902fa6388af57253704287eae1219ed86fc26de0"
+      "bytes": 1134877,
+      "sha256": "c43e003606e5624fed8fe6fe07e67d5dcebe9d6d2a10143205c686c5be8162fe"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9950,8 +9955,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 548389,
-      "sha256": "f0766a766a9a83ef9796de45d4aa093fc43cb2d056b95da2f6927cf002494e10"
+      "bytes": 548936,
+      "sha256": "b72b9e0c6811b49301ea086e01b643ee42a2f630a2485c0931f28fa4ae2cac12"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10937,6 +10942,11 @@
       "path": "verification/zero_celestial_geometry_test.py",
       "bytes": 3155,
       "sha256": "01c5872ea4f5c8addf2cc28ee70f58bcec21ab48ec9b3a760d3b5e6ecdf044b7"
+    },
+    {
+      "path": "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
+      "bytes": 7146,
+      "sha256": "f2ed7aca2a1c2c08d39d5d9230af8e6e867bf306822a985062182fce258954da"
     },
     {
       "path": "verification/zero_clock_finite_reservoir_reuse_test.py",

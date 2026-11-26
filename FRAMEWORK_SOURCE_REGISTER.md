@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 833 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 812 verification Python scripts.
+- 834 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 813 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -615,6 +615,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md](ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md) — A charge-balanced reference prepared upstream: a topological research order
 - [ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md](ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md) — A branchwise opposite pair in the coherent angular echo
 - [ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md](ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md) — Branchwise cancellation and conditional selection in the all-sector circuit
+- [ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md](ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md) — Connecting molecular chirality, zero balance and the clocked record
 - [ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md](ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md) — A three-direction chirality record on the original spherical echo
 - [ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md) — A clock-localized chirality record across the original echo
 - [ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) — One coherent angular echo, purified reservoir and relational clock
@@ -1535,6 +1536,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_autonomous_two_window_records_test.py](verification/zero_autonomous_two_window_records_test.py)
 - [verification/zero_balanced_reference_preparation_test.py](verification/zero_balanced_reference_preparation_test.py)
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
+- [verification/zero_chiral_chemistry_clock_internal_bridge_test.py](verification/zero_chiral_chemistry_clock_internal_bridge_test.py)
 - [verification/zero_clock_finite_reservoir_reuse_test.py](verification/zero_clock_finite_reservoir_reuse_test.py)
 - [verification/zero_clock_relational_povm_test.py](verification/zero_clock_relational_povm_test.py)
 - [verification/zero_clocked_chirality_history.py](verification/zero_clocked_chirality_history.py)

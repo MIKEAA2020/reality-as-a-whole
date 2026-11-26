@@ -1,5 +1,7 @@
 # Relational chirality and the origin of biochemical handedness
 
+**Internal continuation:** [the chemistry–clock record bridge](ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md) uses the actual molecular trajectory, centering map and earlier finite-clock history in one explicitly calibrated snapshot instrument, including reference and readout-identifiability controls.
+
 ## Honest result
 
 The user's question is whether the zero–experience framework has what it takes to accommodate the origin of the predominance of particular biochemical enantiomers. This pass provides a **specific bridge and a specific chemical control**:
