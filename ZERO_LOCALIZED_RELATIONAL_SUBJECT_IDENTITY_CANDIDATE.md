@@ -132,6 +132,8 @@ Compared with the homogeneous scalar threshold, this construction has a **locali
 
 The next concrete tasks are to (1) replace the stipulated reference orientation and W with physical preparation and local readout, retaining their gravitational contributions; (2) build a stable finite-time record with controlled errors and show which relational occurrence it records; (3) propose and independently motivate a subject boundary and qualitative identity, then compare actual first-person and physical evidence; and (4) derive the relevant whole-level energy and the action/organization from the self-sufficient nature rather than inferring them from the word zero. Existing [finite-window detector calculations](RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md) offer a separate global-mode perturbative starting point but do not already implement this localized full nonlinear record.
 
+A subsequent [three-dimensional localized finite-window calculation](ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md) evaluates the first-order detector difference on the expanding gravitating reference background after the coupling is switched off. The signal persists at sampled times but is still drifting; it is not a durable record or a full nonlinear evolution.
+
 The report does not require every field or physical subsystem to be a subject, a cosmic observer, an external clock, or a universal experiential sum. Nor does it infer a unique or necessary identity from the existence of a detector. It preserves the user's demand that a completed account leave no independent remainder, while stating exactly which parts of this candidate have and have not been derived.
 
 ## Verification

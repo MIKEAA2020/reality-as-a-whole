@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 872,
-  "bytes": 11388550,
-  "line_count": 102855,
-  "document_count_with_risk_phrases": 824,
+  "document_count": 873,
+  "bytes": 11404497,
+  "line_count": 103004,
+  "document_count_with_risk_phrases": 825,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "95e3c8b0f620a8a74dc46920da7b05e6e9b88bc3c2dda766e9ba12bf953e4fb7",
-      "bytes": 234280,
-      "lines": 1779,
+      "sha256": "c4199ac92635cd1ade9c9e1dfef827c1dcd2a3fa3c25b4ab120c108b35f8ec30",
+      "bytes": 234583,
+      "lines": 1781,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6580,6 +6580,7 @@
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
+        "ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md",
         "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -7509,6 +7510,7 @@
         "verification/zero_local_record_constitution_test.py",
         "verification/zero_local_relational_identity_detector_test.py",
         "verification/zero_locality_boundary_test.py",
+        "verification/zero_localized_gravity_finite_response_test.py",
         "verification/zero_localized_modules_boundary_test.py",
         "verification/zero_measure_independent_relational_record_test.py",
         "verification/zero_meditation_access_memory_identifiability_test.py",
@@ -7660,19 +7662,19 @@
         488,
         589,
         609,
-        712,
-        716,
-        742,
-        747,
-        757,
-        760,
-        786,
-        832,
-        869,
-        878,
-        881,
-        884,
-        956
+        713,
+        717,
+        743,
+        748,
+        758,
+        761,
+        787,
+        833,
+        870,
+        879,
+        882,
+        885,
+        957
       ]
     },
     {
@@ -20385,9 +20387,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "6224c877b80053c9f970dd298fdce700ab2c77d2b51fd0deb8bd1abeb01d5d47",
-      "bytes": 53840,
-      "lines": 126,
+      "sha256": "a4036976f49fa74176afc45f83594f3d0e399108c82ae9cf0b8c1c2fb32099e4",
+      "bytes": 54467,
+      "lines": 127,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20493,6 +20495,8 @@
         "verification/zero_intrinsic_identity_relational_gravity_test.py",
         "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
         "verification/zero_local_relational_identity_detector_test.py",
+        "ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md",
+        "verification/zero_localized_gravity_finite_response_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20530,7 +20534,7 @@
         95,
         99,
         102,
-        115
+        116
       ]
     },
     {
@@ -23792,10 +23796,46 @@
       ]
     },
     {
+      "path": "ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md",
+      "sha256": "d793d94e43fce7dbf32bb29fbdff29a06fcea2a1f7783bc52966e8723d2dfc45",
+      "bytes": 14647,
+      "lines": 144,
+      "title": "A finite-window localized response in the gravity–identity candidate",
+      "headings": [
+        "A finite-window localized response in the gravity–identity candidate",
+        "Result",
+        "1. Why this is the right next physical question",
+        "2. The same underlying action, now with a 3D-local pulse",
+        "3. The perturbative physical prediction",
+        "4. What the calculation actually finds",
+        "5. What is and is not an accessible distinction",
+        "6. Relevance to intrinsic experience"
+      ],
+      "local_links": [
+        "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
+        "verification/zero_localized_gravity_finite_response_test.py",
+        "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
+        "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
+        "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "verification/zero_localized_gravity_finite_response_test.py",
+        "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        61,
+        63,
+        110,
+        111,
+        121
+      ]
+    },
+    {
       "path": "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
-      "sha256": "fb67cce6d63869be638a2f7fab9af6f23654352550ed5711e43534426d8b8855",
-      "bytes": 16019,
-      "lines": 146,
+      "sha256": "5ee65eaea6f7f91cfdc96d5eeeee2c56711bbb4257f570c3109ef035961d97de",
+      "bytes": 16389,
+      "lines": 148,
       "title": "Toward a localized identity candidate in constrained gravity",
       "headings": [
         "Toward a localized identity candidate in constrained gravity",
@@ -23815,6 +23855,7 @@
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
         "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
         "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md",
         "RELATIONAL_MATTER_DETECTOR_GRAVITY.md"
       ],
       "risk_phrase_lines": [
@@ -23827,8 +23868,8 @@
         96,
         109,
         127,
-        135,
-        146
+        137,
+        148
       ]
     },
     {
