@@ -10,6 +10,10 @@ The first chain follows the workboard's highest-priority joint problem: **why do
 
 That is a **reached explanatory boundary of our present argument**, not proof that reality itself has a brute bedrock, that a self-differentiating zero is impossible, or that the full programme is finished. The user's demand remains to go beyond this boundary, not accept it as a satisfactory residue.
 
+## Constitutive clarification: relativity and identity
+
+The user's relativity example is developed in [length contraction and constitutive identity](ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md): a geometric relation can be necessary without an external agent or earlier coercive cause. This sharpens the goal of the why-chain while distinguishing the already established echo identities from the still-undetermined experiential and incidence identity.
+
 ## 1. Why does the paired echo yield zero?
 
 In the existing constrained model, at its specified anchor let the two commuting structural sign observables be

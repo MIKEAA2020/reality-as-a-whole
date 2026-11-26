@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 854,
-  "bytes": 11105674,
-  "line_count": 100385,
-  "document_count_with_risk_phrases": 807,
+  "document_count": 855,
+  "bytes": 11117128,
+  "line_count": 100487,
+  "document_count_with_risk_phrases": 808,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7350ea9752db3d37ebe1aa5e99728c5e92f9b42b8258c486d7dc34558e4e49d0",
-      "bytes": 228672,
-      "lines": 1740,
+      "sha256": "fb725eaf8e9d50f399fa89833c169a8fc2a433b3f6ca31d9c67a48adc188d919",
+      "bytes": 228985,
+      "lines": 1742,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6535,6 +6535,7 @@
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
+        "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
@@ -7445,6 +7446,7 @@
         "verification/zero_relational_sphere_cycle_test.py",
         "verification/zero_relational_stabilizer_constitution_test.py",
         "verification/zero_relative_gauge_invariant_report_test.py",
+        "verification/zero_relativity_constitutive_identity_test.py",
         "verification/zero_sector_memory_incidence_test.py",
         "verification/zero_sector_record_energy_exchange_test.py",
         "verification/zero_sharp_opposition_and_experiential_response_test.py",
@@ -7545,16 +7547,16 @@
         701,
         705,
         731,
-        735,
-        744,
-        747,
-        768,
-        814,
-        851,
-        860,
-        863,
-        866,
-        937
+        736,
+        745,
+        748,
+        769,
+        815,
+        852,
+        861,
+        864,
+        867,
+        938
       ]
     },
     {
@@ -20200,9 +20202,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "f15be285bd7af852b5a5825f8aa994bd532a0979687f2c34af4439e79e73a6e0",
-      "bytes": 41985,
-      "lines": 108,
+      "sha256": "f01c815dae344309c19787fb50d5fdc1fe284aa66f4b294f2df89ed0acb7ad26",
+      "bytes": 42612,
+      "lines": 109,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20274,6 +20276,7 @@
         "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
         "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
         "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
+        "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20304,7 +20307,8 @@
         79,
         82,
         84,
-        97
+        85,
+        98
       ]
     },
     {
@@ -23597,21 +23601,22 @@
     },
     {
       "path": "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
-      "sha256": "f66540bcd3a04fb72da37bdc605042dba1c719212bc40eecbadf6a1d3138c81b",
-      "bytes": 18316,
-      "lines": 165,
+      "sha256": "9b0f11ed6a77cf22c28dc719187162c87b59374ab9a422fabd3f091679264491",
+      "bytes": 18780,
+      "lines": 169,
       "title": "Following “why” to the meta-level: zero, symmetry and experiential constitution",
       "headings": [
         "Following “why” to the meta-level: zero, symmetry and experiential constitution",
         "Correcting the method",
+        "Constitutive clarification: relativity and identity",
         "1. Why does the paired echo yield zero?",
         "2. Why does the same zero leave local magnitude open?",
         "3. A concrete discrimination on the same echo",
         "4. Why not add a stronger symmetry?",
-        "5. Why does symmetry not close the deeper problem?",
-        "6. Why does a physical answer not yet settle experience or incidence?"
+        "5. Why does symmetry not close the deeper problem?"
       ],
       "local_links": [
+        "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
         "verification/zero_why_symmetry_root.py",
@@ -23622,10 +23627,10 @@
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md"
       ],
       "risk_phrase_lines": [
-        31,
-        122,
-        129,
-        143
+        35,
+        126,
+        133,
+        147
       ]
     },
     {
@@ -24809,6 +24814,35 @@
         112,
         175,
         177
+      ]
+    },
+    {
+      "path": "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
+      "sha256": "58029faf6fad06b13856ad174b5eecd0abddaf4d04f4e708d9640996df04334f",
+      "bytes": 10050,
+      "lines": 95,
+      "title": "Relativistic length contraction as a model of constitutive explanation",
+      "headings": [
+        "Relativistic length contraction as a model of constitutive explanation",
+        "The user's insight",
+        "1. Derive the relation rather than add a force",
+        "2. In what sense is this an identity?",
+        "3. Apply the method to the existing echo",
+        "4. What a full constitutive derivation would need",
+        "5. Following “why” without importing an outside",
+        "Reproduce"
+      ],
+      "local_links": [
+        "verification/zero_relativity_constitutive_identity_test.py",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        60,
+        62,
+        68,
+        95
       ]
     },
     {
