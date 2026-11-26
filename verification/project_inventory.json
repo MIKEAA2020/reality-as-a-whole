@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 868,
-  "bytes": 11320471,
-  "line_count": 102261,
-  "document_count_with_risk_phrases": 820,
+  "document_count": 869,
+  "bytes": 11335713,
+  "line_count": 102413,
+  "document_count_with_risk_phrases": 821,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5171cbfb768b799be5fcf4175d8fd3718a45af9c76bb1eb31eb75be1ce795570",
-      "bytes": 232922,
-      "lines": 1770,
+      "sha256": "012710c79b03ac3dbce8115e04588f5340128b6607bcb2a774bf2764bc759a82",
+      "bytes": 233222,
+      "lines": 1772,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6534,6 +6534,7 @@
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -7405,6 +7406,7 @@
         "verification/zero_confinement_coherence_experience_test.py",
         "verification/zero_conserving_sphere_handedness_report_test.py",
         "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+        "verification/zero_constraint_reference_recovery_test.py",
         "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py",
         "verification/zero_covariant_pairing_reference_history_test.py",
         "verification/zero_covariant_sphere_subject_bridge_test.py",
@@ -7651,19 +7653,19 @@
         487,
         588,
         608,
-        708,
-        712,
-        738,
-        743,
-        753,
-        756,
-        782,
-        828,
-        865,
-        874,
-        877,
-        880,
-        951
+        709,
+        713,
+        739,
+        744,
+        754,
+        757,
+        783,
+        829,
+        866,
+        875,
+        878,
+        881,
+        952
       ]
     },
     {
@@ -20342,9 +20344,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "b82f0f8ecf38f3000298d412af0f9fa83d59184619482301a6b0d96f1ef0d2f2",
-      "bytes": 50941,
-      "lines": 122,
+      "sha256": "c01b994b6408632d35c3f836ed65b33a31b644c26071c631e2cfa0a3f2170741",
+      "bytes": 51590,
+      "lines": 123,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20441,6 +20443,8 @@
         "verification/constitutive_subject_access_circuit_test.py",
         "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
         "verification/zero_intrinsic_difference_common_constitution_test.py",
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
+        "verification/zero_constraint_reference_recovery_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20476,7 +20480,8 @@
         90,
         91,
         95,
-        111
+        99,
+        112
       ]
     },
     {
@@ -22259,6 +22264,40 @@
       ]
     },
     {
+      "path": "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
+      "sha256": "340b7836595d9ebac286cbe07e3275499ee068e26ff0bfa09a39f30137a94b95",
+      "bytes": 13916,
+      "lines": 147,
+      "title": "Zero constraint, physical reference and relational change",
+      "headings": [
+        "Zero constraint, physical reference and relational change",
+        "Result",
+        "1. One explicit physical model",
+        "2. A genuine reference redistribution—and an uncompensated change",
+        "3. The lapse freedom preserves the zero without selecting a state",
+        "4. Zero and positive energy in the *same* physical construction",
+        "5. A nonzero quasi-local energy is not a contradiction",
+        "6. Consequence for the user's full-intelligibility argument"
+      ],
+      "local_links": [
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
+        "verification/zero_constraint_reference_recovery_test.py",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "verification/zero_constraint_reference_recovery_test.py",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        77,
+        100,
+        110,
+        132,
+        136,
+        147
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
       "bytes": 15932,
@@ -22587,9 +22626,9 @@
     },
     {
       "path": "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
-      "sha256": "40a9680c346e5d7e74fbdb680cd5dfc360bc169ebba3dd1604d42d79c33a68b0",
-      "bytes": 17463,
-      "lines": 172,
+      "sha256": "248e0b300637866a8975073ab16872ce77fd38d3cfe8bfad6e47043248427739",
+      "bytes": 17840,
+      "lines": 174,
       "title": "Toward one constitution of zero and experience",
       "headings": [
         "Toward one constitution of zero and experience",
@@ -22608,12 +22647,14 @@
         "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md"
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md"
       ],
       "risk_phrase_lines": [
         9,
         62,
-        144
+        144,
+        151
       ]
     },
     {

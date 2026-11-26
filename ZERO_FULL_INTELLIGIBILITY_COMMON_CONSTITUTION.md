@@ -148,6 +148,8 @@ Where a physical total four-momentum `P^μ` is well defined, saying its **energy
 
 The centering theorem and these physical results thus occupy different levels. Bringing them into one proof requires showing why the **actual** gravitational/relational charge is the distinguished zero, how local dynamics and limits are recovered, and why the same underlying constitution has a specified experiential character. No outside cause is demanded, but these connections are not established by reusing the symbol zero.
 
+The [constraint/reference recovery continuation](ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md) tests this connection in an extended compact FLRW model: a compensated vacuum-term redistribution leaves the full action unchanged, an uncompensated shift changes gravity, and two exact zero-constraint solutions have different positive local and quasi-local energies.
+
 ## 7. What would complete the common derivation?
 
 A full-strength answer would show, from one motivated intrinsic principle rather than a catalogue of desired facts:

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 825 root Markdown documents including this register; 43 research Markdown documents.
-- 65 original uploaded files, including provenance metadata; 804 verification Python scripts.
+- 826 root Markdown documents including this register; 43 research Markdown documents.
+- 65 original uploaded files, including provenance metadata; 805 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -652,6 +652,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) — Does the type-swap conflict actually break the echo?
 - [ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) — Subject persistence, records and access on the coherent echo
 - [ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) — Encoded directional balance joined to the finite sphere, clock and work
+- [ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md](ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md) — Zero constraint, physical reference and relational change
 - [ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) — A zero-energy clock for the recollapsing sphere–memory model
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
@@ -1537,6 +1538,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
 - [verification/zero_conserving_sphere_handedness_report_test.py](verification/zero_conserving_sphere_handedness_report_test.py)
 - [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py)
+- [verification/zero_constraint_reference_recovery_test.py](verification/zero_constraint_reference_recovery_test.py)
 - [verification/zero_contextual_sign_symmetry_and_dressed_report_test.py](verification/zero_contextual_sign_symmetry_and_dressed_report_test.py)
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)
