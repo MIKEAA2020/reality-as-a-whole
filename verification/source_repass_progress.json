@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "b90b97013b770a63dc64fb8e9de7c81cb78d4b705e72155846b229139b2db6de",
+      "sha256": "15eae221c7f4f0a626ac23b569e24d38958cd37055a7b8818bb38ca3db6b11bb",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11025,7 +11025,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "17b4d07860c1d292f4f1bcb151e49f05944983bced73500c9f3e1f6598b09872",
+      "sha256": "0b04419b3b0c2fe51c2af76af131055ea2e6b632caa7ea6f8d675fbbe120ccee",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11671,7 +11671,7 @@
     {
       "path": "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
       "kind": "authored root document",
-      "sha256": "379a7070a3482b7b93d40452fe12f1c2db28ca0470332bfcba02a7ff2c685777",
+      "sha256": "b44479c7ba156c5a5f13a3bd6aa34254cafd5bac9d232075ad6c10cff383b2ae",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -12507,7 +12507,7 @@
     {
       "path": "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
       "kind": "authored root document",
-      "sha256": "e91c793904934c5256bc0f27e7d69177d57a3549cc97cca80acf32d1b31802d1",
+      "sha256": "c3bac8682cb269dc9f450da56cb446a2580a0c93461f27b040d1243e20930df0",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13039,7 +13039,7 @@
     {
       "path": "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
       "kind": "authored root document",
-      "sha256": "1c50fc3bdfde04f9bd35d7cd9b6acbccddef8bea1488b1fa27ed09582770997e",
+      "sha256": "8d974f73ee92450e1a67209584142b385ad1f2ee2bd695e6f1bb62936a21bac0",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13078,6 +13078,25 @@
       "path": "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
       "kind": "authored root document",
       "sha256": "ca0fcac39bfa8627e5bf1441f30af9e7391781eb3b2951ff03f115369a7b504c",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "path": "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+      "kind": "authored root document",
+      "sha256": "4d2429ed5eaf069250e4ce15bd360f1a1ebc7efbe07d19ca89c141f3107c9799",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13343,7 +13362,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "9bda108455d0f35d01bc53f75d5743608032b4bc9893b975b5ff494aaf24d9e5",
+      "sha256": "c65661bc62bea33be0b758c67c5d27fad3898b6ba50ce82aa026bf2d2cc158b2",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -16699,7 +16718,8 @@
             "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
             "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
             "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
-            "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md"
+            "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+            "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md"
           ]
         },
         "implemented": {
@@ -16716,7 +16736,9 @@
             "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
             "verification/zero_dressed_history_pair.py",
             "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
-            "verification/zero_relational_link_symmetry.py"
+            "verification/zero_relational_link_symmetry.py",
+            "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+            "verification/zero_relational_laplacian.py"
           ]
         }
       }

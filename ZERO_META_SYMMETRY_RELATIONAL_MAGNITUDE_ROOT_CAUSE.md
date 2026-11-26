@@ -2,6 +2,8 @@
 
 ## Answer
 
+**Continuation and scope correction:** [relational geometry and kinetic measure selection](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) shows that the earlier one-sided active rotation does not generally preserve the newly imposed frame-gauge physical vector sector, even though it is unitary on the larger space and fixes the specified uniform history. It constructs an intrinsic quotient kinetic operator as a conditional alternative.
+
 The deepest identifiable cause **inside the present construction** is that two different notions of symmetry were being combined:
 
 1. A **change of internal reference frames** must leave an actual relation—and therefore its magnitude—unchanged.

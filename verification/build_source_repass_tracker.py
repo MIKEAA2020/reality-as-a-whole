@@ -28,6 +28,7 @@ THIRTEENTH='ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md'
 FOURTEENTH='ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md'
 FIFTEENTH='ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md'
 SIXTEENTH='ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md'
+SEVENTEENTH='ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -59,13 +60,14 @@ PARTIAL={
   'plan':[NINTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py']},
  'sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt': {
   'audit':['UNIVERSAL_PRINCIPLES_POLARITY_RECORDS_AND_ZERO_AUDIT.md'],
-  'plan':[FIFTH,TENTH,THIRTEENTH,FOURTEENTH,FIFTEENTH,SIXTEENTH],
+  'plan':[FIFTH,TENTH,THIRTEENTH,FOURTEENTH,FIFTEENTH,SIXTEENTH,SEVENTEENTH],
   'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py',TENTH,
                  'verification/zero_coherent_signed_counterpart.py',THIRTEENTH,
                  'verification/zero_spherical_invariant_echo.py',FOURTEENTH,
                  'verification/zero_dressed_sphere_rotations.py',FIFTEENTH,
                  'verification/zero_dressed_history_pair.py',SIXTEENTH,
-                 'verification/zero_relational_link_symmetry.py']},
+                 'verification/zero_relational_link_symmetry.py',SEVENTEENTH,
+                 'verification/zero_relational_laplacian.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-0207.txt': {
   'audit':['UPDATED_EXPERIENCE_ZERO_TOTAL_AND_INTELLIGIBILITY_AUDIT.md'],
   'plan':[FIFTH], 'implemented':[FIFTH,'verification/zero_sphere_angular_echo.py']},

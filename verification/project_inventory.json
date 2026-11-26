@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 813,
-  "bytes": 10434512,
-  "line_count": 94425,
-  "document_count_with_risk_phrases": 766,
+  "document_count": 814,
+  "bytes": 10453955,
+  "line_count": 94580,
+  "document_count_with_risk_phrases": 767,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b90b97013b770a63dc64fb8e9de7c81cb78d4b705e72155846b229139b2db6de",
-      "bytes": 214101,
-      "lines": 1629,
+      "sha256": "15eae221c7f4f0a626ac23b569e24d38958cd37055a7b8818bb38ca3db6b11bb",
+      "bytes": 214463,
+      "lines": 1632,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6504,6 +6504,7 @@
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
         "ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md",
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
@@ -7347,6 +7348,8 @@
         "verification/zero_relational_chirality_report_test.py",
         "verification/zero_relational_clock_reusable_memory_test.py",
         "verification/zero_relational_history_experiential_clock_test.py",
+        "verification/zero_relational_laplacian.py",
+        "verification/zero_relational_laplacian_test.py",
         "verification/zero_relational_link_symmetry.py",
         "verification/zero_relational_link_symmetry_test.py",
         "verification/zero_relational_orientation_reference_test.py",
@@ -7433,16 +7436,16 @@
         676,
         680,
         703,
-        706,
-        715,
-        718,
-        738,
-        773,
-        810,
-        819,
-        822,
-        825,
-        896
+        707,
+        716,
+        719,
+        739,
+        774,
+        811,
+        820,
+        823,
+        826,
+        897
       ]
     },
     {
@@ -19950,9 +19953,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "17b4d07860c1d292f4f1bcb151e49f05944983bced73500c9f3e1f6598b09872",
-      "bytes": 17269,
-      "lines": 65,
+      "sha256": "0b04419b3b0c2fe51c2af76af131055ea2e6b632caa7ea6f8d675fbbe120ccee",
+      "bytes": 17928,
+      "lines": 67,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -19982,7 +19985,8 @@
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
-        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md"
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -19993,7 +19997,7 @@
         36,
         39,
         43,
-        54
+        56
       ]
     },
     {
@@ -21078,8 +21082,8 @@
     },
     {
       "path": "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
-      "sha256": "379a7070a3482b7b93d40452fe12f1c2db28ca0470332bfcba02a7ff2c685777",
-      "bytes": 14159,
+      "sha256": "b44479c7ba156c5a5f13a3bd6aa34254cafd5bac9d232075ad6c10cff383b2ae",
+      "bytes": 14554,
       "lines": 111,
       "title": "Dressed rotations through the full clock, reservoir and opposite pair",
       "headings": [
@@ -21094,6 +21098,7 @@
       ],
       "local_links": [
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
         "verification/zero_dressed_history_pair.py",
         "verification/zero_dressed_history_pair_test.py",
@@ -22528,9 +22533,9 @@
     },
     {
       "path": "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
-      "sha256": "e91c793904934c5256bc0f27e7d69177d57a3549cc97cca80acf32d1b31802d1",
-      "bytes": 16411,
-      "lines": 127,
+      "sha256": "c3bac8682cb269dc9f450da56cb446a2580a0c93461f27b040d1243e20930df0",
+      "bytes": 16859,
+      "lines": 129,
       "title": "Why the local-magnitude anomaly arises—and a deeper relational resolution",
       "headings": [
         "Why the local-magnitude anomaly arises—and a deeper relational resolution",
@@ -22543,20 +22548,21 @@
         "6. What this contributes to the user's whole"
       ],
       "local_links": [
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "verification/zero_relational_link_symmetry.py",
         "verification/zero_relational_link_symmetry_test.py",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
       ],
       "risk_phrase_lines": [
-        14,
-        50,
-        58,
-        74,
+        16,
+        52,
+        60,
         76,
         78,
-        90,
-        110,
-        118
+        80,
+        92,
+        112,
+        120
       ]
     },
     {
@@ -23431,8 +23437,8 @@
     },
     {
       "path": "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
-      "sha256": "1c50fc3bdfde04f9bd35d7cd9b6acbccddef8bea1488b1fa27ed09582770997e",
-      "bytes": 11371,
+      "sha256": "8d974f73ee92450e1a67209584142b385ad1f2ee2bd695e6f1bb62936a21bac0",
+      "bytes": 11501,
       "lines": 85,
       "title": "Independent sphere rotations dressed by real quantum records",
       "headings": [
@@ -23446,6 +23452,7 @@
       ],
       "local_links": [
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "verification/zero_dressed_sphere_rotations.py",
         "verification/zero_dressed_sphere_rotations_test.py"
@@ -23525,6 +23532,44 @@
         162,
         168,
         180
+      ]
+    },
+    {
+      "path": "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+      "sha256": "4d2429ed5eaf069250e4ce15bd360f1a1ebc7efbe07d19ca89c141f3107c9799",
+      "bytes": 16990,
+      "lines": 146,
+      "title": "Relational geometry, a zero mode and the measure problem",
+      "headings": [
+        "Relational geometry, a zero mode and the measure problem",
+        "Main result",
+        "1. What actually descends to the quotient?",
+        "2. Geometry supplies a non-arbitrary candidate selector",
+        "3. An exact finite realization",
+        "4. Dress the operator with the existing quantum history",
+        "5. What this does—and does not—select",
+        "6. Relation to the larger objective"
+      ],
+      "local_links": [
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+        "verification/zero_relational_laplacian.py",
+        "verification/zero_relational_laplacian_test.py",
+        "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        29,
+        35,
+        57,
+        61,
+        70,
+        88,
+        105,
+        107,
+        115,
+        117,
+        131,
+        137
       ]
     },
     {
@@ -23930,9 +23975,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "9bda108455d0f35d01bc53f75d5743608032b4bc9893b975b5ff494aaf24d9e5",
-      "bytes": 21972,
-      "lines": 148,
+      "sha256": "c65661bc62bea33be0b758c67c5d27fad3898b6ba50ce82aa026bf2d2cc158b2",
+      "bytes": 22431,
+      "lines": 150,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -23945,6 +23990,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
         "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
@@ -23971,21 +24017,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        11,
-        17,
+        13,
         19,
-        25,
+        21,
         27,
-        37,
-        68,
-        83,
-        114,
+        29,
+        39,
+        70,
+        85,
         116,
-        124,
-        127,
-        128,
+        118,
+        126,
         129,
-        136
+        130,
+        131,
+        138
       ]
     },
     {

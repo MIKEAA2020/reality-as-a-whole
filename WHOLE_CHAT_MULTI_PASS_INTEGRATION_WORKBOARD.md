@@ -42,6 +42,8 @@ The objective remains the user's **no-unexplained-residue** constitution, includ
 
 | 16 | Trace the local-magnitude anomaly to its physical and meta-level symmetry assumptions | [Relational magnitude root cause](ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md) introduces a relative-frame link that preserves the true angle and individual pair magnitudes under independent frame changes, classifies the gauge orbits, extends the actual clock/pair history, and exhibits exact full-support and conjugated-action measure controls | Derive the comparator, admissible physical action, orbit-space measure and physical–experiential constitution from zero; do not conflate frame gauge with active changes or treat formal alternatives as established complete possible worlds. |
 
+| 17 | Investigate whether the enlarged active symmetry survives frame-gauge reduction and construct a relational measure selector | [Quotient geometry and dressed kinetic zero mode](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) identifies gauge-sector leakage, constructs a round-sphere zero mode on actual records and pair, and restores type-swap compatibility with an explicit finite non-neighbor connection; weighted potentials give controls | Derive the geometry and kinetic choice from zero, determine the continuum and physical locality of the symmetry-compatible extension, and establish energy, subject/incidence and experience identity. |
+
 These passes are **partial integrations**, not a claim that all aspects of these inputs are finished. The tracker records conservative source-specific examples, not all historical integrations; it should be expanded with evidence as each is verified.
 
 ## Research queue: bring the remaining families into the same constitution

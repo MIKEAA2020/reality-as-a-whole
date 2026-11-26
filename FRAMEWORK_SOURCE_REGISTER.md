@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 770 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 719 verification Python scripts.
+- 771 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 721 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -701,6 +701,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md](ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md) — Independent sphere rotations dressed by real quantum records
 - [ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md](ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md) — A reusable memory inside one constrained clock history
 - [ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md](ZERO_RELATIONAL_CONSTITUTION_TO_CONSERVED_RECORD_TRANSFER.md) — From relational zero to a unique correlated state and conserved record transfer
+- [ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) — Relational geometry, a zero mode and the measure problem
 - [ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md](ZERO_RELATIONAL_ORIENTATION_AND_INTERNAL_REFERENCE.md) — Relative orientation inside the zero-balanced whole
 - [ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md](ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md) — A relative sign that survives one genuine redundancy
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
@@ -1558,6 +1559,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relational_chirality_report_test.py](verification/zero_relational_chirality_report_test.py)
 - [verification/zero_relational_clock_reusable_memory_test.py](verification/zero_relational_clock_reusable_memory_test.py)
 - [verification/zero_relational_history_experiential_clock_test.py](verification/zero_relational_history_experiential_clock_test.py)
+- [verification/zero_relational_laplacian.py](verification/zero_relational_laplacian.py)
+- [verification/zero_relational_laplacian_test.py](verification/zero_relational_laplacian_test.py)
 - [verification/zero_relational_link_symmetry.py](verification/zero_relational_link_symmetry.py)
 - [verification/zero_relational_link_symmetry_test.py](verification/zero_relational_link_symmetry_test.py)
 - [verification/zero_relational_orientation_reference_test.py](verification/zero_relational_orientation_reference_test.py)
