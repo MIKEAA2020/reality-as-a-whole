@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 827,
-  "bytes": 10713662,
-  "line_count": 96719,
-  "document_count_with_risk_phrases": 780,
+  "document_count": 828,
+  "bytes": 10725263,
+  "line_count": 96800,
+  "document_count_with_risk_phrases": 781,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c90e0ec95cb1f4e476302dd4fd31b5d016f7f978a0062162274c01ec970bc367",
-      "bytes": 219113,
-      "lines": 1669,
+      "sha256": "eff9f426cc5ad5011a32bf790e4b3b6086970e91aa92b55fc2071a2b44e41105",
+      "bytes": 219493,
+      "lines": 1672,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6587,6 +6587,7 @@
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
         "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
         "brain-specificity-thesis.md",
@@ -7447,6 +7448,8 @@
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_full_slice_test.py",
+        "verification/zero_type_reflection_continuum_root.py",
+        "verification/zero_type_reflection_continuum_root_test.py",
         "verification/zero_typed_echo_process.py",
         "verification/zero_typed_echo_process_test.py",
         "verification/zero_upstream_invariant_internal_history_test.py",
@@ -7477,12 +7480,12 @@
         728,
         731,
         751,
-        787,
-        824,
-        833,
-        836,
-        839,
-        910
+        788,
+        825,
+        834,
+        837,
+        840,
+        911
       ]
     },
     {
@@ -19990,8 +19993,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "8323797ce435d2480691ecf8c75f0ff92f43b861f10b0ee004a7af603dcd2b77",
-      "bytes": 30671,
+      "sha256": "d776e6fda832bd4cf5fc4929f026adc0090b46a402c715533e51267ba2dddaa9",
+      "bytes": 31027,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20035,6 +20038,7 @@
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
@@ -20052,15 +20056,16 @@
         80,
         104,
         106,
+        114,
         120,
         141
       ]
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "09f6fd59cbf738a5a9f92e37a1aff62c3151944b99a15492e166849447f4ae10",
-      "bytes": 26070,
-      "lines": 81,
+      "sha256": "9a7022e2e4e019e830f7a5b43bfb135e668ff28531040034a8e13d8b641cb04f",
+      "bytes": 26716,
+      "lines": 82,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20105,6 +20110,7 @@
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20122,7 +20128,8 @@
         54,
         55,
         57,
-        70
+        58,
+        71
       ]
     },
     {
@@ -24053,8 +24060,8 @@
     },
     {
       "path": "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
-      "sha256": "4d2429ed5eaf069250e4ce15bd360f1a1ebc7efbe07d19ca89c141f3107c9799",
-      "bytes": 16990,
+      "sha256": "287abdf3f6207f1bc11ef94dd022c8d1b965fe3abb72abc1ca7fc0f662778b30",
+      "bytes": 17302,
       "lines": 146,
       "title": "Relational geometry, a zero mode and the measure problem",
       "headings": [
@@ -24071,7 +24078,8 @@
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "verification/zero_relational_laplacian.py",
         "verification/zero_relational_laplacian_test.py",
-        "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md"
+        "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -24492,9 +24500,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "e82915e6c5a591d4f40efde5b53730b55efe5e898b541edc4566d01a9b924dc2",
-      "bytes": 27822,
-      "lines": 174,
+      "sha256": "51c561e074d8b851a05edf4eded545e98bf4964f0b4402dff37281f273b1f413",
+      "bytes": 28213,
+      "lines": 176,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24507,6 +24515,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
@@ -24546,24 +24555,24 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        17,
-        21,
-        37,
-        43,
+        7,
+        19,
+        23,
+        39,
         45,
-        51,
+        47,
         53,
-        63,
-        94,
-        109,
-        140,
+        55,
+        65,
+        96,
+        111,
         142,
-        150,
-        153,
-        154,
+        144,
+        152,
         155,
-        162
+        156,
+        157,
+        164
       ]
     },
     {
@@ -26391,6 +26400,34 @@
         66,
         76,
         133
+      ]
+    },
+    {
+      "path": "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
+      "sha256": "e064b1e2d088383b19ef1772a56b57e20c054b7c7624c330a2be4f52f6610db7",
+      "bytes": 9516,
+      "lines": 75,
+      "title": "Why the type-symmetric kinetic repair adds a long edge",
+      "headings": [
+        "Why the type-symmetric kinetic repair adds a long edge",
+        "The issue and result",
+        "1. The failure survives refinement",
+        "2. The continuum obstruction, not just a graph picture",
+        "3. A local graph alternative and its price",
+        "4. Why was the conflict present? Why accept the repair?",
+        "5. Scope and reproduction"
+      ],
+      "local_links": [
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+        "verification/zero_type_reflection_continuum_root_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        19,
+        21,
+        53,
+        55,
+        62
       ]
     },
     {

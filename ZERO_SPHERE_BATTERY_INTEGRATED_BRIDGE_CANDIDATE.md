@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Type-swap locality investigation:** [the concrete quotient-kinetic conflict](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) persists across interval-bin refinements because the swap is discontinuous in the original angle topology. A loop–tail graph makes it a local symmetry only by changing that topology; the physical action, graph admissibility and continuum echo are not established.
+
 **Lorentz–energy why-chain:** [boosts, translation generators and vacuum stress](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) extends the conditional zero-normalization argument from rotations to strict Poincaré generators, proves the finite-unitary boost obstruction, and distinguishes a zero invariant-ray generator from a symmetry-allowed vacuum stress coefficient. Actual global symmetry, energy, gravity boundaries and experience remain unestablished.
 
 **Non-Abelian zero-level why-chain:** [noncommuting symmetry and the zero level](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) shows how a strict perfect-algebra generator and full pure-ray invariance can give an intrinsically normalized zero rotation charge on the same spherical echo, with mixed-state and time-energy controls. The physical group, actual state, global energy and experiential identity remain unestablished.

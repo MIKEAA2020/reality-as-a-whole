@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 784 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 745 verification Python scripts.
+- 785 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 747 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -784,6 +784,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) — Geometry slices for two autonomous records: a multichannel continuum result
 - [ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) — Full-state geometry data for two autonomous records
 - [ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) — A typed echo process: content, clock, access and subjecthood
+- [ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) — Why the type-symmetric kinetic repair adds a long edge
 - [ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md](ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md) — A unique zero-eigenstate for an entire relational history
 - [ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md](ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md) — An invariant upstream source for the differentiated history
 - [brain-specificity-thesis.md](brain-specificity-thesis.md) — Brain specificity, organizational realization, and whole-reality intelligibility
@@ -1658,6 +1659,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_total_symmetry_measure_test.py](verification/zero_total_symmetry_measure_test.py)
 - [verification/zero_two_window_continuum_slice_test.py](verification/zero_two_window_continuum_slice_test.py)
 - [verification/zero_two_window_full_slice_test.py](verification/zero_two_window_full_slice_test.py)
+- [verification/zero_type_reflection_continuum_root.py](verification/zero_type_reflection_continuum_root.py)
+- [verification/zero_type_reflection_continuum_root_test.py](verification/zero_type_reflection_continuum_root_test.py)
 - [verification/zero_typed_echo_process.py](verification/zero_typed_echo_process.py)
 - [verification/zero_typed_echo_process_test.py](verification/zero_typed_echo_process_test.py)
 - [verification/zero_upstream_invariant_internal_history_test.py](verification/zero_upstream_invariant_internal_history_test.py)
