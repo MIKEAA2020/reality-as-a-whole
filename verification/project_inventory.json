@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 843,
-  "bytes": 10925719,
-  "line_count": 98654,
-  "document_count_with_risk_phrases": 796,
+  "document_count": 844,
+  "bytes": 10944059,
+  "line_count": 98810,
+  "document_count_with_risk_phrases": 797,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7ae9751eb212748fd30761298efe3d7f2c7f2a08de0a48f441ce781c89bfa827",
-      "bytes": 224198,
-      "lines": 1706,
+      "sha256": "499af47ae9eae439a33352d667519e1a56660ee697cd25d1e15d10a0e2c406e6",
+      "bytes": 224569,
+      "lines": 1709,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6415,6 +6415,7 @@
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
+        "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -7287,6 +7288,8 @@
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_clock_finite_reservoir_reuse_test.py",
         "verification/zero_clock_relational_povm_test.py",
+        "verification/zero_clocked_chirality_history.py",
+        "verification/zero_clocked_chirality_history_test.py",
         "verification/zero_coherent_clock_angular_history.py",
         "verification/zero_coherent_clock_angular_history_test.py",
         "verification/zero_coherent_signed_counterpart.py",
@@ -7508,19 +7511,19 @@
         485,
         585,
         605,
-        691,
-        695,
-        721,
-        725,
-        734,
-        737,
-        758,
-        803,
-        840,
-        849,
-        852,
-        855,
-        926
+        692,
+        696,
+        722,
+        726,
+        735,
+        738,
+        759,
+        804,
+        841,
+        850,
+        853,
+        856,
+        927
       ]
     },
     {
@@ -20166,9 +20169,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "db2d77cd1eff19ea1923b2219eb9017e26d63074df92edf36a83d431f29cdaa3",
-      "bytes": 34697,
-      "lines": 97,
+      "sha256": "0de040e452839ffa9ed32ad3b471ae624fd050a51b15a0b3fcf6da364344a2b6",
+      "bytes": 35275,
+      "lines": 98,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20229,6 +20232,7 @@
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
+        "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20255,7 +20259,7 @@
         71,
         72,
         73,
-        86
+        87
       ]
     },
     {
@@ -20788,9 +20792,9 @@
     },
     {
       "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
-      "sha256": "e4da46962afcb4977d0b24da69c37ca9450a2c6863c5d1c88fb13efe9e8adb6c",
-      "bytes": 14105,
-      "lines": 148,
+      "sha256": "86489ca0d0bf9b3cd9da1bebf84cbc1fd24d1c71d36a39db8549b77ffc53f752",
+      "bytes": 14458,
+      "lines": 150,
       "title": "A three-direction chirality record on the original spherical echo",
       "headings": [
         "A three-direction chirality record on the original spherical echo",
@@ -20803,6 +20807,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
         "verification/zero_sphere_chirality_echo_test.py",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
@@ -20810,16 +20815,47 @@
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md"
       ],
       "risk_phrase_lines": [
-        11,
-        15,
-        50,
-        58,
-        72,
+        13,
+        17,
+        52,
+        60,
         74,
-        98,
-        114,
-        121,
-        148
+        76,
+        100,
+        116,
+        123,
+        150
+      ]
+    },
+    {
+      "path": "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+      "sha256": "427777364b356f4c57c5d02e7cff19b04e0c4a3802ac78c38dcaa4cb19b3c88b",
+      "bytes": 17038,
+      "lines": 150,
+      "title": "A clock-localized chirality record across the original echo",
+      "headings": [
+        "A clock-localized chirality record across the original echo",
+        "Result",
+        "1. A blank state that is not an outcome",
+        "2. A 40-step coherent history, with one record across an old cycle",
+        "3. Constraints, old records and the actual quantum carrier",
+        "4. Stationary clock comparisons",
+        "5. Compare the actual spin and spherical chirality signs",
+        "6. A balanced spinorial lift and the Satake interface"
+      ],
+      "local_links": [
+        "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
+        "verification/zero_clocked_chirality_history.py",
+        "verification/zero_clocked_chirality_history_test.py",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md"
+      ],
+      "risk_phrase_lines": [
+        64,
+        76,
+        134,
+        150
       ]
     },
     {

@@ -2,6 +2,8 @@
 
 ## Main result
 
+**Continuation:** [a clock-localized chirality record](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md) writes the scalar chirality into a blank/± memory, retains it across a second old echo cycle and quantifies the conditions under which the cyclic model erases it. It also compares the original spin-chirality readout on selected actual echo states.
+
 The [previous symmetry–Langlands pass](ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md) exhibited a three-direction pseudoscalar but did not couple it to the original recorded echo. This pass makes that connection at the post-echo checkpoint. It supplies a third direction, a neutral pointer, and a bounded rotationally invariant interaction. It acts on the **actual old record vectors and constrained opposite-pair representation**, not just a separate classical sample.
 
 For the full-strength readout on the original normalized uniform four-bin spherical state:

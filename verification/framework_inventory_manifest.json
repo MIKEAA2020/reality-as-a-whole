@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "093c8e745dfcd9698664dfbd7f386b8102940add",
-  "file_count": 2357,
+  "base_head": "9496779351edf9b02e3b2f81f235f95a64aca9d9",
+  "file_count": 2360,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 224198,
-      "sha256": "7ae9751eb212748fd30761298efe3d7f2c7f2a08de0a48f441ce781c89bfa827"
+      "bytes": 224569,
+      "sha256": "499af47ae9eae439a33352d667519e1a56660ee697cd25d1e15d10a0e2c406e6"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 34697,
-      "sha256": "db2d77cd1eff19ea1923b2219eb9017e26d63074df92edf36a83d431f29cdaa3"
+      "bytes": 35275,
+      "sha256": "0de040e452839ffa9ed32ad3b471ae624fd050a51b15a0b3fcf6da364344a2b6"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3015,8 +3015,13 @@
     },
     {
       "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
-      "bytes": 14105,
-      "sha256": "e4da46962afcb4977d0b24da69c37ca9450a2c6863c5d1c88fb13efe9e8adb6c"
+      "bytes": 14458,
+      "sha256": "86489ca0d0bf9b3cd9da1bebf84cbc1fd24d1c71d36a39db8549b77ffc53f752"
+    },
+    {
+      "path": "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+      "bytes": 17038,
+      "sha256": "427777364b356f4c57c5d02e7cff19b04e0c4a3802ac78c38dcaa4cb19b3c88b"
     },
     {
       "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
@@ -8590,8 +8595,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1082814,
-      "sha256": "506da55704b2b0f3df04d451c32734a779450f2a1aa375655ff61c6a1ad176b4"
+      "bytes": 1084359,
+      "sha256": "71b82ae49c46f1d0e9b808587df9704fce376b057e4d4b13177c2bd947f1af80"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9760,8 +9765,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 528692,
-      "sha256": "44835b02e4646898b64ea76273f3280282033e8d9b62de014b0a06f3ab68906f"
+      "bytes": 529235,
+      "sha256": "5198327db3d09a78ff318343aac64c9cd87b38772d79e722bcee34af3f8755eb"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10752,6 +10757,16 @@
       "path": "verification/zero_clock_relational_povm_test.py",
       "bytes": 3216,
       "sha256": "18682d5f58b29d7c73f27a13d68846fb2fd46f8f1caf71c7251e7a0b2260a11d"
+    },
+    {
+      "path": "verification/zero_clocked_chirality_history.py",
+      "bytes": 3441,
+      "sha256": "4f93e6dc1bf8780f4a31e8fa94121f057102caa14611deb73a3ae3588bdd4726"
+    },
+    {
+      "path": "verification/zero_clocked_chirality_history_test.py",
+      "bytes": 12058,
+      "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e"
     },
     {
       "path": "verification/zero_coherent_clock_angular_history.py",
