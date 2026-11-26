@@ -2,6 +2,8 @@
 
 ## Bottom line
 
+**Root-cause follow-up:** [why the problem of time remains unsolved](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) traces the concrete gaps from constrained relational change through clock domains and quantum comparison to the deeper constitutive question, without treating the existence of internal order as an impossibility.
+
 The repository contains a **candidate synthesis**, not a definitive solution to the problem of time. The term covers several distinct difficulties in quantum gravity; demonstrating a relational clock in a model does not by itself solve them all in a full theory. The earlier claims of complete structural closure, a proven UV completion, and a demonstrated reduction to Shlaer's model are retracted. This audit supersedes conflicting claims in the time-related closure and comparison documents and their verifier outputs.
 
 ## What has and has not been shown

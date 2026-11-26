@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 832,
-  "bytes": 10776962,
-  "line_count": 97267,
-  "document_count_with_risk_phrases": 785,
+  "document_count": 833,
+  "bytes": 10797208,
+  "line_count": 97394,
+  "document_count_with_risk_phrases": 786,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a7e328f79425981a41a1e3dc6bc8421d279a429978b8852f9a2996d09158893c",
-      "bytes": 221054,
-      "lines": 1684,
+      "sha256": "8e681cad225640669601220c4dd79adec534c750147ce94a39ec8de520ec7504",
+      "bytes": 221211,
+      "lines": 1685,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6186,6 +6186,7 @@
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
         "PROBLEM_OF_TIME_CLOSED.md",
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "PROJECT_COHERENCE_AUDIT.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
         "PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md",
@@ -7481,23 +7482,24 @@
         307,
         337,
         385,
-        416,
-        484,
-        584,
-        604,
-        689,
-        693,
-        719,
-        723,
-        732,
-        735,
-        755,
-        792,
-        829,
-        838,
-        841,
-        844,
-        915
+        386,
+        417,
+        485,
+        585,
+        605,
+        690,
+        694,
+        720,
+        724,
+        733,
+        736,
+        756,
+        793,
+        830,
+        839,
+        842,
+        845,
+        916
       ]
     },
     {
@@ -13334,8 +13336,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_CLOSED.md",
-      "sha256": "a3d9d6cbb1ac2e68396b3cd00bb6b774dc89f4f05bc1dbfd2275a7cbddb9cd91",
-      "bytes": 13169,
+      "sha256": "3a59392591e0a564c500bfeeedf504fa976f8207f92369ecd0dfb94b221f593c",
+      "bytes": 13257,
       "lines": 121,
       "title": "The Problem of Time: Closed",
       "headings": [
@@ -13349,7 +13351,8 @@
         "6. References"
       ],
       "local_links": [
-        "TIME_SOLUTION_EVIDENCE_AUDIT.md"
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md"
       ],
       "risk_phrase_lines": [
         1,
@@ -13361,6 +13364,49 @@
         61,
         86,
         99
+      ]
+    },
+    {
+      "path": "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
+      "sha256": "864b910f88ce0859cc41e15adbb93da58e34e6cb3db2c3b78d08970d8398eda0",
+      "bytes": 18314,
+      "lines": 119,
+      "title": "Why have we not fully solved the problem of time?",
+      "headings": [
+        "Why have we not fully solved the problem of time?",
+        "The diagnosis",
+        "1. Why the apparent freeze occurs—and why it is not the whole problem",
+        "2. Why naming an internal clock does not finish the job",
+        "3. Why multiple clock choices can change physics rather than just notation",
+        "4. Why this remains an issue even if the whole is timeless",
+        "5. Keep asking why: what is the meta-level issue?",
+        "6. Why our earlier work overstated completion"
+      ],
+      "local_links": [
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
+        "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "TURNING_CLOCK_ATLAS.md",
+        "CLOCK_CHOICE_EQUIVALENCE.md",
+        "ZERO_SPHERE_INTERACTING_CLOCK_SPECTRUM_AND_BOUND_STATES.md",
+        "ZERO_INTERACTING_GEOMETRY_SLICE_CLOCK_SWITCH.md",
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "PROBLEM_OF_TIME_CLOSED.md",
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "TIME_RESEARCH_ROADMAP.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        12,
+        51,
+        53,
+        65,
+        67,
+        93,
+        95,
+        119
       ]
     },
     {
@@ -18305,9 +18351,9 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "b6f3f41320bc7804083b0c548805deba1bab5ff53dc7630db1c2fdbe45e5ec89",
-      "bytes": 14877,
-      "lines": 80,
+      "sha256": "b85f2487576b32de0b2024a601ebc91fd61303e818ce051ca70b9a13d9ee52a8",
+      "bytes": 15211,
+      "lines": 82,
       "title": "A top-down research program for the problem of time",
       "headings": [
         "A top-down research program for the problem of time",
@@ -18319,6 +18365,7 @@
         "6. Where we stand"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -18328,22 +18375,22 @@
         "verification/time_recovery_benchmark.py"
       ],
       "risk_phrase_lines": [
-        3,
         5,
-        15,
-        25,
-        29,
-        40,
-        52,
+        7,
+        17,
+        27,
+        31,
+        42,
         54,
-        64
+        56,
+        66
       ]
     },
     {
       "path": "TIME_SOLUTION_EVIDENCE_AUDIT.md",
-      "sha256": "5a0635bae7dbd24d4be431ec024cca310cb668813b898965244a0c2e25bbc79e",
-      "bytes": 5613,
-      "lines": 34,
+      "sha256": "f4037459523b760a2be11bc7caf636d951c0ba30a776cb25f75899a88983e2e9",
+      "bytes": 5945,
+      "lines": 36,
       "title": "Problem of time: evidence and novelty audit",
       "headings": [
         "Problem of time: evidence and novelty audit",
@@ -18354,12 +18401,13 @@
         "Steps toward a stronger claim"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        10,
-        26
+        12,
+        28
       ]
     },
     {
@@ -20005,8 +20053,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "2fdf0318e14522a0348046d8ee307e490ae1b5d1c93700a3d1d4969cb9d2ebe1",
-      "bytes": 32113,
+      "sha256": "07c4b8742f9cc597804dfd8096b4c439d03af676149bf97909556173108ca55d",
+      "bytes": 32313,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20049,6 +20097,7 @@
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "ZERO_NECESSITY_CHANCE_SPACETIME_UPDATED_CHAT_AUDIT.md",
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
@@ -20079,9 +20128,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "d2e7a0ec600c69ad576e86996a5f4640f3a2d25ad8d5272d419181dccbd11b63",
-      "bytes": 29006,
-      "lines": 86,
+      "sha256": "beacf3f7c904233da7c83553ceb424483c6a5a8847f24ac791d0b3c2390ea747",
+      "bytes": 29528,
+      "lines": 87,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20131,6 +20180,7 @@
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20152,7 +20202,8 @@
         59,
         60,
         62,
-        75
+        63,
+        76
       ]
     },
     {
@@ -24644,9 +24695,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "55c0603b036afa917d5cc97ba0155be2dfc89b889e350c6acacd00f26cdcb012",
-      "bytes": 29657,
-      "lines": 184,
+      "sha256": "ac2ebc72ddd4806fbe4b7f0edac8637910e0e81dba1a92807ff6bc6b5fbe34b9",
+      "bytes": 29956,
+      "lines": 186,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24659,6 +24710,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
@@ -24703,25 +24755,25 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
-        27,
-        31,
-        47,
-        53,
+        11,
+        17,
+        29,
+        33,
+        49,
         55,
-        61,
+        57,
         63,
-        73,
-        104,
-        119,
-        150,
+        65,
+        75,
+        106,
+        121,
         152,
-        160,
-        163,
-        164,
+        154,
+        162,
         165,
-        172
+        166,
+        167,
+        174
       ]
     },
     {

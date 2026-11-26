@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Problem-of-time diagnosis:** [why our time account is not yet complete](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) separates physical clock-domain and quantum-gravity obstructions from the deeper challenge of deriving actual internal physical–experiential order from the proposed whole.
+
 **Ownership-report diagnosis:** [the identity-calibration root cause](ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md) shows what independently justified identity-error bounds would need to establish to distinguish two opposing ownership rules; the actual B-report alone is not such a calibration.
 
 **Accessible-marginal diagnosis:** [the saved-J memory and incidence blocks](ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md) distinguishes all effects on an actual mixed local record from all effects on its pure global carrier. Local type correlations can preserve the former but not the latter; a physical type-sensitive reporter remains hypothetical.

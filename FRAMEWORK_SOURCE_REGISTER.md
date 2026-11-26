@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 789 root Markdown documents including this register; 43 research Markdown documents.
+- 790 root Markdown documents including this register; 43 research Markdown documents.
 - 64 original uploaded files, including provenance metadata; 755 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -383,6 +383,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
+- [PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) — Why have we not fully solved the problem of time?
 - [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
 - [PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) — Ptito's attentional-blink study: a partial methods recovery
 - [PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md](PTITO_THESIS_BLINK_SOURCE_FIXED_PLAN.md) — Fixed plan: Ptito thesis and the attentional-blink evidence

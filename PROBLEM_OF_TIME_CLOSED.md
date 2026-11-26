@@ -1,6 +1,6 @@
 # The Problem of Time: Closed
 
-> **Status correction:** This document contains historical claims that overstate the evidence. The problem of time is not established as solved; UV completion, general physical time and reduction to Shlaer are unproved. Passing checks are not proofs of these claims. See [Time-solution evidence audit](TIME_SOLUTION_EVIDENCE_AUDIT.md), which supersedes conflicting statements below.
+> **Status correction:** This document contains historical claims that overstate the evidence. The problem of time is not established as solved; UV completion, general physical time and reduction to Shlaer are unproved. Passing checks are not proofs of these claims. See [Time-solution evidence audit](TIME_SOLUTION_EVIDENCE_AUDIT.md), which supersedes conflicting statements below, and the later [root-cause diagnosis](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md).
 
 
 **Verifier #77** — `verification/problem_of_time_closed.py` (all 7 facets PASS)
