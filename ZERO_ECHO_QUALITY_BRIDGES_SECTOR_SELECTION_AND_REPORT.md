@@ -126,6 +126,10 @@ The 86-answer sample yields `[q_L,q_U]≈[.03365,.13835]`, rejecting B but not A
 4. **Why can a witness be useful?** Direct first-person evidence and carefully aligned reports may bear on a candidate. The bounds show exactly which claims about error, population and selection would allow this particular comparison; they do not manufacture reference experiences, independent trials or subject ownership. Unreported or inaccessible private subjects are not ruled out by one reporter.
 5. **Why these bridges and incidence weights?** Both scalars are functions of an existing finite echo, while the proposed subject and clock-sampling weights remain conditional. Their consistency does not derive the carrier, physical–experiential identity, actual incidence or the selection of one law from a self-sufficient zero. A deeper account must explain which distinctions are intrinsic, how subjects and measures arise together, and why the constitution is actual without invoking an outside temporal cause. The current boundary is not proof of ultimate brute bedrock.
 
+## Continuation: joint quality and ownership
+
+The [next pass](ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md) puts both witnesses on the same selected reporter-runs, allows correlated errors, and derives a conditional positive joint-truth bound and a finite calibration budget. Synthetic reports do not validate experiential or identity reference labels.
+
 ## 6. Next work
 
 - Seek an independently warranted target for the neutral/nonneutral distinction, including the possibility that neither scalar captures the subject's quality; specify its timing, access, reporter correspondence and selection controls.

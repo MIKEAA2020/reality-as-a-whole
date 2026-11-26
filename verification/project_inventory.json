@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 852,
-  "bytes": 11076538,
-  "line_count": 100112,
-  "document_count_with_risk_phrases": 805,
+  "document_count": 853,
+  "bytes": 11091109,
+  "line_count": 100246,
+  "document_count_with_risk_phrases": 806,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "89b29d75e60287b4c62c3acf151f791bedab5cdccb46228ea94ccaa8d5588c53",
-      "bytes": 227897,
-      "lines": 1734,
+      "sha256": "27ca3946776da7fdc151b67997d5d00ca004faa759bff3ced34105d50dd96dcf",
+      "bytes": 228277,
+      "lines": 1737,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6441,6 +6441,7 @@
         "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
+        "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
@@ -7333,6 +7334,8 @@
         "verification/zero_echo_positive_unity_witness_test.py",
         "verification/zero_echo_quality_bridge_discrimination.py",
         "verification/zero_echo_quality_bridge_discrimination_test.py",
+        "verification/zero_echo_quality_ownership_joint.py",
+        "verification/zero_echo_quality_ownership_joint_test.py",
         "verification/zero_echo_state_symmetry_dynamics.py",
         "verification/zero_echo_state_symmetry_dynamics_test.py",
         "verification/zero_echo_subject_persistence.py",
@@ -7536,19 +7539,19 @@
         485,
         585,
         605,
-        699,
-        703,
-        729,
-        733,
-        742,
-        745,
-        766,
-        812,
-        849,
-        858,
-        861,
-        864,
-        935
+        700,
+        704,
+        730,
+        734,
+        743,
+        746,
+        767,
+        813,
+        850,
+        859,
+        862,
+        865,
+        936
       ]
     },
     {
@@ -20194,9 +20197,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "97ce7f09ece5e226e738bb40ed8822b92b3e6df152bd456561ac4f7fb4f98031",
-      "bytes": 40695,
-      "lines": 106,
+      "sha256": "9d3d7a5db9dfa0a44493b6635b468cc1164620297185de9831fc901ed9bc2739",
+      "bytes": 41346,
+      "lines": 107,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20266,6 +20269,7 @@
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
+        "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20295,7 +20299,7 @@
         75,
         79,
         82,
-        95
+        96
       ]
     },
     {
@@ -21722,6 +21726,34 @@
       ]
     },
     {
+      "path": "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
+      "sha256": "044b2fd627b1c8e9b02a47eed6e47eeea286b6ad02994b041f356c08e29f20d0",
+      "bytes": 13182,
+      "lines": 126,
+      "title": "Joint quality and ownership reports on the same echo",
+      "headings": [
+        "Joint quality and ownership reports on the same echo",
+        "Result and scope",
+        "1. Align the questions before joining them",
+        "2. Four candidate combinations and noisy selection",
+        "3. A positive joint report without independent errors",
+        "4. Finite calibration and data budgets",
+        "5. Correlated controls and hypothetical results",
+        "6. Follow the causal and constitutive chain"
+      ],
+      "local_links": [
+        "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
+        "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
+        "verification/zero_echo_quality_ownership_joint.py",
+        "verification/zero_echo_quality_ownership_joint_test.py"
+      ],
+      "risk_phrase_lines": [
+        18,
+        88,
+        126
+      ]
+    },
+    {
       "path": "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
       "sha256": "0cc6439ac0637e4bb2f39b1e20f9a1a8a60327f6087147a3f28ff7b04ad313d9",
       "bytes": 19468,
@@ -21825,9 +21857,9 @@
     },
     {
       "path": "ZERO_ECHO_QUALITY_BRIDGES_SECTOR_SELECTION_AND_REPORT.md",
-      "sha256": "0e6ef4185609322fe032160429a536aeb859da8169518c79f3cee60d932e9a00",
-      "bytes": 12411,
-      "lines": 142,
+      "sha256": "efe2f2bedc1dd046af3535c05e5ac904514ab23738b19788f0e64202258d1861",
+      "bytes": 12769,
+      "lines": 146,
       "title": "Can the two quality bridges be distinguished on the echo?",
       "headings": [
         "Can the two quality bridges be distinguished on the echo?",
@@ -21837,18 +21869,19 @@
         "3. A conditional quality witness",
         "4. A finite-shot plan, including calibration uncertainty",
         "5. Follow the why-chain",
-        "6. Next work"
+        "Continuation: joint quality and ownership"
       ],
       "local_links": [
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "verification/zero_echo_quality_bridge_discrimination.py",
-        "verification/zero_echo_quality_bridge_discrimination_test.py"
+        "verification/zero_echo_quality_bridge_discrimination_test.py",
+        "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md"
       ],
       "risk_phrase_lines": [
         49,
         109,
         126,
-        142
+        146
       ]
     },
     {
