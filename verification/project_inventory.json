@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 817,
-  "bytes": 10520878,
-  "line_count": 95032,
-  "document_count_with_risk_phrases": 770,
+  "document_count": 818,
+  "bytes": 10537283,
+  "line_count": 95187,
+  "document_count_with_risk_phrases": 771,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a3ad60845f960053bd79b0f752515a2aa9672a59897b019898b26661821a79b7",
-      "bytes": 215410,
-      "lines": 1639,
+      "sha256": "a9b22574707877992e07d806f620adc95febb1229558494e70f5dfb8eb8bd3b5",
+      "bytes": 215775,
+      "lines": 1642,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6487,6 +6487,7 @@
         "ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md",
         "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
         "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "ZERO_PERSISTENT_CARRIER_AND_SIGN_SELECTION.md",
         "ZERO_PLENITUDE_COUPLINGS_AND_MEASURE.md",
@@ -7334,6 +7335,8 @@
         "verification/zero_nested_sphere_internal_reference_test.py",
         "verification/zero_neutral_exchange_from_balance_test.py",
         "verification/zero_orientation_extension_operational_boundary_test.py",
+        "verification/zero_ownership_report_bridge.py",
+        "verification/zero_ownership_report_bridge_test.py",
         "verification/zero_page_wootters_original_sphere_connection_test.py",
         "verification/zero_pairwise_angular_charge.py",
         "verification/zero_pairwise_angular_charge_test.py",
@@ -7442,17 +7445,17 @@
         604,
         679,
         683,
-        706,
-        710,
-        719,
-        722,
-        742,
-        777,
-        814,
-        823,
-        826,
-        829,
-        900
+        707,
+        711,
+        720,
+        723,
+        743,
+        778,
+        815,
+        824,
+        827,
+        830,
+        901
       ]
     },
     {
@@ -20023,9 +20026,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "46431030bd38b189f11f3232b6d5e5b9072c78a2bc8f2ec7d48f497c42322fd8",
-      "bytes": 19569,
-      "lines": 69,
+      "sha256": "3633b92d89b90b45b85940c7dc7740a401986ff29910fa0dbfdd9b9fef195e64",
+      "bytes": 20168,
+      "lines": 70,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20059,6 +20062,7 @@
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20071,7 +20075,7 @@
         39,
         41,
         44,
-        58
+        59
       ]
     },
     {
@@ -21308,9 +21312,9 @@
     },
     {
       "path": "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
-      "sha256": "841205f4b2ea9335c7e98e62d7da3c1c2f2e94f4ed7d959e7fd80c03a4acd588",
-      "bytes": 16310,
-      "lines": 139,
+      "sha256": "91e8ffc60e72ef6bfe9aebaac1483fd70f77658f55f360145518c288f6ec419c",
+      "bytes": 16601,
+      "lines": 141,
       "title": "Subject persistence, records and access on the coherent echo",
       "headings": [
         "Subject persistence, records and access on the coherent echo",
@@ -21323,19 +21327,20 @@
         "6. Next dependency and epistemic status"
       ],
       "local_links": [
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "verification/zero_echo_subject_persistence.py",
         "verification/zero_echo_subject_persistence_test.py",
         "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        9,
-        46,
-        65,
-        99,
-        105,
-        123,
-        131
+        11,
+        48,
+        67,
+        101,
+        107,
+        125,
+        133
       ]
     },
     {
@@ -23057,6 +23062,36 @@
       ]
     },
     {
+      "path": "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
+      "sha256": "f79dde1951b5001ec890ccf9aa17a0b88fc6e4edd21908cc790d92e71f4b4150",
+      "bytes": 14725,
+      "lines": 147,
+      "title": "Ownership, a physical report and the symmetry it must carry",
+      "headings": [
+        "Ownership, a physical report and the symmetry it must carry",
+        "Main result",
+        "1. Build a report without pretending it reads a subject",
+        "2. The record breaks the bare type symmetry—and how to repair it",
+        "3. Retaining a report changes the state",
+        "4. Two explicit rival ownership bridges",
+        "5. A stronger active-symmetry test rejects both bridges—conditionally",
+        "6. What changes when owners are counted?"
+      ],
+      "local_links": [
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+        "verification/zero_ownership_report_bridge.py",
+        "verification/zero_ownership_report_bridge_test.py",
+        "ZERO_RECORD_DRESSED_SPHERE_ROTATION_SYMMETRY.md",
+        "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        70,
+        110,
+        122
+      ]
+    },
+    {
       "path": "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
       "sha256": "9f794275e12286728258f0ea45f8b7e6ef42e696436b9a05dd84c54d1f0cd744",
       "bytes": 13914,
@@ -24121,9 +24156,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "435c312b19400e85310fd8eaaa565b1a3085e7e4161f59a0c1a097e0d31e2ee6",
-      "bytes": 23318,
-      "lines": 154,
+      "sha256": "4e527232103c9d638ef446a6b1cffe8baaaa6768ce232ce3307ba14d04644b8f",
+      "bytes": 23743,
+      "lines": 156,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24136,6 +24171,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
@@ -24165,21 +24201,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        17,
-        23,
+        19,
         25,
-        31,
+        27,
         33,
-        43,
-        74,
-        89,
-        120,
+        35,
+        45,
+        76,
+        91,
         122,
-        130,
-        133,
-        134,
+        124,
+        132,
         135,
-        142
+        136,
+        137,
+        144
       ]
     },
     {

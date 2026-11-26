@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Twentieth-pass continuation:** [ownership, report symmetry and incidence](ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md) physically implements the saved/current J comparison, repairs the type operation after adding saved memory, and tests B-dependent ownership candidates against both a restricted report and an active sector-symmetry control. No experiential truth interface or actual subject measure has been derived.
+
 **Nineteenth-pass continuation:** [subject persistence and reversible record access](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) adds an explicitly coupled before/after echo memory, quantifies its coherence disturbance, verifies coherent reset and the clock-dressed counterpart, and compares two clock-covariant but distinct ownership rules. A physical record and a symmetry do not themselves select subjects or actual incidence.
 
 **Eighteenth-pass continuation:** [the joint incidence–quality–pair construction](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) puts both commuting quality candidates on one event interface and derives their componentwise opposite pair from the same constrained sign. One occurrence per event is a hypothesis; the distinct-type α family remains a control, and neither subjecthood nor felt quality follows from the structural joint PVM.

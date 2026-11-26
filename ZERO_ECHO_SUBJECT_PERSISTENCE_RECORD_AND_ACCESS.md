@@ -1,5 +1,7 @@
 # Subject persistence, records and access on the coherent echo
 
+**Next dependency:** [the physical report and ownership-symmetry test](ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md) implements the saved/current comparison, repairs the saved-record type-symmetry break, tests explicit ownership bridges and evaluates their conditional incidence census.
+
 ## Result and scope
 
 This continues the [joint quality–incidence construction](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) at the next dependency: **what would make successive occurrences belong to the same subject, and what can the existing physical carrier actually tell us?**
