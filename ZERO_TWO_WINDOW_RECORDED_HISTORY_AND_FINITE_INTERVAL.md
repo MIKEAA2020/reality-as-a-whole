@@ -1,5 +1,7 @@
 # Recorded histories and the finite-interval clock gap
 
+**Continuation:** [finite-shot clock calibration](ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md) gives an explicit statistical prediction bound on a restricted packet family and an equal-click coherent counterexample outside it.
+
 ## Result
 
 The earlier [first-reading instrument](ZERO_INTERACTING_GEOMETRY_FIRST_READING_CLOCK.md) already treated no clicks and repeated clicks in a **single-window** model. Here that idea is applied to the later, noncommuting **two-memory autonomous constraint**, retaining all three new click records and both original memories. The checkpoint readouts are additional, scheduled operations, not autonomous components of that constraint. Their complete history instrument has a normalized continuum definition; its finite-regulator outcomes and branch states agree in momentum and interacting spectral descriptions.
