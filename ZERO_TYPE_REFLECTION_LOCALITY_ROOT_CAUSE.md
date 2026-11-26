@@ -2,6 +2,8 @@
 
 ## The issue and result
 
+**Follow-up diagnostic:** [state versus dynamical symmetry](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) shows why the specific uniform echo survives both finite kinetic candidates, while an even excitation of the same recorded pair leaks into the odd sector under the free candidate. Physical state symmetry, dynamical symmetry and incidence invariance remain distinct.
+
 The [earlier quotient kinetic construction](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) found an unexpected conflict: its free nearest-neighbor relative-angle kinetic operator does not commute with the proposed type swap, although each preserves the uniform echo. Averaging with the swap fixes the commutator but creates a non-neighbor connection. Is that just an N=4 discretization artifact?
 
 **No, under the stated refinement.** At every N divisible by four, exact type symmetry, strict locality on the original interval-bin path, and connectedness are incompatible. The new connection persists and strengthens under refinement. The deeper cause is that the proposed type swap is not continuous in the original quotient topology: it sends points approaching zero from the negative side to points approaching −1, while leaving points approaching zero from the positive side near zero. The original round-sphere quotient regards −1 and 0 as distinct.

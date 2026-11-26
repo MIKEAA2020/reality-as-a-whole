@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 828,
-  "bytes": 10725263,
-  "line_count": 96800,
-  "document_count_with_risk_phrases": 781,
+  "document_count": 829,
+  "bytes": 10737809,
+  "line_count": 96911,
+  "document_count_with_risk_phrases": 782,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "eff9f426cc5ad5011a32bf790e4b3b6086970e91aa92b55fc2071a2b44e41105",
-      "bytes": 219493,
-      "lines": 1672,
+      "sha256": "c17925f9b387b1c8d70a645b50471209623e46dd498483ad1dfb64893c7eed07",
+      "bytes": 219887,
+      "lines": 1675,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6436,6 +6436,7 @@
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
@@ -7295,6 +7296,8 @@
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "verification/zero_echo_positive_unity_witness.py",
         "verification/zero_echo_positive_unity_witness_test.py",
+        "verification/zero_echo_state_symmetry_dynamics.py",
+        "verification/zero_echo_state_symmetry_dynamics_test.py",
         "verification/zero_echo_subject_persistence.py",
         "verification/zero_echo_subject_persistence_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
@@ -7473,19 +7476,19 @@
         484,
         584,
         604,
-        685,
-        689,
-        715,
-        719,
-        728,
-        731,
-        751,
-        788,
-        825,
-        834,
-        837,
-        840,
-        911
+        686,
+        690,
+        716,
+        720,
+        729,
+        732,
+        752,
+        789,
+        826,
+        835,
+        838,
+        841,
+        912
       ]
     },
     {
@@ -19993,8 +19996,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "d776e6fda832bd4cf5fc4929f026adc0090b46a402c715533e51267ba2dddaa9",
-      "bytes": 31027,
+      "sha256": "b7c909230efd2cbeb4ea81998534dc88c9d4474e198d43d7967b2b5de2405bea",
+      "bytes": 31313,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20039,6 +20042,7 @@
         "ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md",
@@ -20063,9 +20067,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "9a7022e2e4e019e830f7a5b43bfb135e668ff28531040034a8e13d8b641cb04f",
-      "bytes": 26716,
-      "lines": 82,
+      "sha256": "656c31cea7987fc7ad0f1055c62025350459cd00f0bae76c0d29fb55291505cd",
+      "bytes": 27308,
+      "lines": 83,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20111,6 +20115,7 @@
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20129,7 +20134,8 @@
         55,
         57,
         58,
-        71
+        59,
+        72
       ]
     },
     {
@@ -21432,6 +21438,36 @@
         106,
         122,
         129
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
+      "sha256": "bfa7b84faaab40b8c5de5ae5ce21e526a2550a44a5a67ebbcd53643e362cef66",
+      "bytes": 10541,
+      "lines": 103,
+      "title": "Does the type-swap conflict actually break the echo?",
+      "headings": [
+        "Does the type-swap conflict actually break the echo?",
+        "The diagnostic question",
+        "1. Why the original state survives",
+        "2. Exactly which even pure states stay even?",
+        "3. A concrete anomaly and an exact diagnostic",
+        "4. Stationarity and type invariance do not force a pure ground state",
+        "5. Why physical symmetry does not settle incidence",
+        "6. Root-cause chain and next discriminating issue"
+      ],
+      "local_links": [
+        "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
+        "verification/zero_echo_state_symmetry_dynamics_test.py",
+        "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        23,
+        27,
+        39,
+        47,
+        70
       ]
     },
     {
@@ -24500,9 +24536,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "51c561e074d8b851a05edf4eded545e98bf4964f0b4402dff37281f273b1f413",
-      "bytes": 28213,
-      "lines": 176,
+      "sha256": "cc5d6b438633d5f446e62e72df856fa093bbf884cf42e9396dbbbb4093b66e18",
+      "bytes": 28562,
+      "lines": 178,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24515,6 +24551,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md",
@@ -24555,24 +24592,24 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        19,
-        23,
-        39,
-        45,
+        9,
+        21,
+        25,
+        41,
         47,
-        53,
+        49,
         55,
-        65,
-        96,
-        111,
-        142,
+        57,
+        67,
+        98,
+        113,
         144,
-        152,
-        155,
-        156,
+        146,
+        154,
         157,
-        164
+        158,
+        159,
+        166
       ]
     },
     {
@@ -26404,9 +26441,9 @@
     },
     {
       "path": "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
-      "sha256": "e064b1e2d088383b19ef1772a56b57e20c054b7c7624c330a2be4f52f6610db7",
-      "bytes": 9516,
-      "lines": 75,
+      "sha256": "9e7ac9b10b9d5979e002354e52794941fae17e5b78bf37c1d9774b0c00a8cc63",
+      "bytes": 9900,
+      "lines": 77,
       "title": "Why the type-symmetric kinetic repair adds a long edge",
       "headings": [
         "Why the type-symmetric kinetic repair adds a long edge",
@@ -26418,16 +26455,17 @@
         "5. Scope and reproduction"
       ],
       "local_links": [
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "verification/zero_type_reflection_continuum_root_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        19,
+        9,
         21,
-        53,
+        23,
         55,
-        62
+        57,
+        64
       ]
     },
     {

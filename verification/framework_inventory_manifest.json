@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "c04e20a9e4fa4b302968d92ad311c564105d1672",
-  "file_count": 2323,
+  "base_head": "dc8953dacfd1ff760bab753673a75beca8f7d2c9",
+  "file_count": 2326,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 219493,
-      "sha256": "eff9f426cc5ad5011a32bf790e4b3b6086970e91aa92b55fc2071a2b44e41105"
+      "bytes": 219887,
+      "sha256": "c17925f9b387b1c8d70a645b50471209623e46dd498483ad1dfb64893c7eed07"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2920,13 +2920,13 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "bytes": 31027,
-      "sha256": "d776e6fda832bd4cf5fc4929f026adc0090b46a402c715533e51267ba2dddaa9"
+      "bytes": 31313,
+      "sha256": "b7c909230efd2cbeb4ea81998534dc88c9d4474e198d43d7967b2b5de2405bea"
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 26716,
-      "sha256": "9a7022e2e4e019e830f7a5b43bfb135e668ff28531040034a8e13d8b641cb04f"
+      "bytes": 27308,
+      "sha256": "656c31cea7987fc7ad0f1055c62025350459cd00f0bae76c0d29fb55291505cd"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3122,6 +3122,11 @@
       "path": "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
       "bytes": 15152,
       "sha256": "42e3a6b47e41e6dd42188e5a0ea9a5ef5fee864620aa77bf665f3c915ab7de26"
+    },
+    {
+      "path": "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
+      "bytes": 10541,
+      "sha256": "bfa7b84faaab40b8c5de5ae5ce21e526a2550a44a5a67ebbcd53643e362cef66"
     },
     {
       "path": "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
@@ -3595,8 +3600,8 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "bytes": 28213,
-      "sha256": "51c561e074d8b851a05edf4eded545e98bf4964f0b4402dff37281f273b1f413"
+      "bytes": 28562,
+      "sha256": "cc5d6b438633d5f446e62e72df856fa093bbf884cf42e9396dbbbb4093b66e18"
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
@@ -3880,8 +3885,8 @@
     },
     {
       "path": "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
-      "bytes": 9516,
-      "sha256": "e064b1e2d088383b19ef1772a56b57e20c054b7c7624c330a2be4f52f6610db7"
+      "bytes": 9900,
+      "sha256": "9e7ac9b10b9d5979e002354e52794941fae17e5b78bf37c1d9774b0c00a8cc63"
     },
     {
       "path": "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
@@ -8515,8 +8520,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1060290,
-      "sha256": "dfccecaf1f6ad19b5c99832f5f4787f119b39a90f673985a3bc65ed7e70142dd"
+      "bytes": 1061862,
+      "sha256": "bb8c57b24f2e83a28a1c6f3058c8c9a36c4d945756dae863e5f7a38c3732cae1"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9685,8 +9690,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 520235,
-      "sha256": "0f7897a6bf174ff9788cfd8c6a23230b307f5741fea36541a22b043252a68360"
+      "bytes": 520787,
+      "sha256": "9b3b5679fe0d33c76df1daf1b5d588651f9fa4072228256acdee85724ba8a59b"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10792,6 +10797,16 @@
       "path": "verification/zero_echo_positive_unity_witness_test.py",
       "bytes": 7171,
       "sha256": "119d0d85d79e3f4794f116f8c97b4b24214d4593f1d6805deef916ec23287c5f"
+    },
+    {
+      "path": "verification/zero_echo_state_symmetry_dynamics.py",
+      "bytes": 1403,
+      "sha256": "4c98892375d73d72bd0f5310e044062d44889b65a212d0c51523e2c411cb31f7"
+    },
+    {
+      "path": "verification/zero_echo_state_symmetry_dynamics_test.py",
+      "bytes": 6684,
+      "sha256": "a72b5f6d0cfb0ed973dcfc1f1b0922eb94c25272a3a99b291ee492a19aaabbf8"
     },
     {
       "path": "verification/zero_echo_subject_persistence.py",
