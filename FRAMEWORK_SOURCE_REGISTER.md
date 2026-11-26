@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 779 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 735 verification Python scripts.
+- 780 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 737 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -677,6 +677,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md](ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md) — What zero balance fixes without choosing a coupling measure
 - [ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md](ZERO_MEDITATION_ACCESS_MEMORY_IDENTIFIABILITY_AND_PROTOCOL.md) — From reported cessation to a discriminating experiment
 - [ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md](ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md) — Why the local-magnitude anomaly arises—and a deeper relational resolution
+- [ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md) — Following “why” to the meta-level: zero, symmetry and experiential constitution
 - [ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md](ZERO_MINIMAL_INVARIANT_REFERENCE_DYNAMICS.md) — Minimal invariant reference and a constrained Hamiltonian
 - [ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md](ZERO_MIRROR_BALANCE_PLENITUDE_AND_VALENCE.md) — Opposite signs across an unselected plenitude
 - [ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md](ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md) — Necessary plenitude as sign pairing: an exact construction
@@ -1648,6 +1649,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_typed_echo_process.py](verification/zero_typed_echo_process.py)
 - [verification/zero_typed_echo_process_test.py](verification/zero_typed_echo_process_test.py)
 - [verification/zero_upstream_invariant_internal_history_test.py](verification/zero_upstream_invariant_internal_history_test.py)
+- [verification/zero_why_symmetry_root.py](verification/zero_why_symmetry_root.py)
+- [verification/zero_why_symmetry_root_test.py](verification/zero_why_symmetry_root_test.py)
 
 ## Other materials
 
