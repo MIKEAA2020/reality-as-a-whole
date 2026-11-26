@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 842,
-  "bytes": 10910366,
-  "line_count": 98501,
-  "document_count_with_risk_phrases": 795,
+  "document_count": 843,
+  "bytes": 10925719,
+  "line_count": 98654,
+  "document_count_with_risk_phrases": 796,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "b61e354c41ac04b3ccc410b8acaae971b324a111a7641743e144746c83e07390",
-      "bytes": 223918,
-      "lines": 1704,
+      "sha256": "7ae9751eb212748fd30761298efe3d7f2c7f2a08de0a48f441ce781c89bfa827",
+      "bytes": 224198,
+      "lines": 1706,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6414,6 +6414,7 @@
         "ZERO_BALANCED_REFERENCE_PREPARATION_TOPOLOGICAL_PROGRAM.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
+        "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -7421,6 +7422,7 @@
         "verification/zero_sphere_asymmetric_closed_exchange_test.py",
         "verification/zero_sphere_autonomous_detector_constraint_test.py",
         "verification/zero_sphere_battery_bridge_candidate_test.py",
+        "verification/zero_sphere_chirality_echo_test.py",
         "verification/zero_sphere_conservation_born_bridge_test.py",
         "verification/zero_sphere_finite_resolution_clock_instrument_test.py",
         "verification/zero_sphere_five_ray_conservation.py",
@@ -7506,19 +7508,19 @@
         485,
         585,
         605,
-        690,
-        694,
-        720,
-        724,
-        733,
-        736,
-        757,
-        802,
-        839,
-        848,
-        851,
-        854,
-        925
+        691,
+        695,
+        721,
+        725,
+        734,
+        737,
+        758,
+        803,
+        840,
+        849,
+        852,
+        855,
+        926
       ]
     },
     {
@@ -20164,9 +20166,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "2b50a69275a0db461b466f660a79d260ccda91dd1897b15d580dd823cc33eb31",
-      "bytes": 34060,
-      "lines": 96,
+      "sha256": "db2d77cd1eff19ea1923b2219eb9017e26d63074df92edf36a83d431f29cdaa3",
+      "bytes": 34697,
+      "lines": 97,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20226,6 +20228,7 @@
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
+        "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20251,7 +20254,8 @@
         70,
         71,
         72,
-        85
+        73,
+        86
       ]
     },
     {
@@ -20780,6 +20784,42 @@
         140,
         142,
         150
+      ]
+    },
+    {
+      "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
+      "sha256": "e4da46962afcb4977d0b24da69c37ca9450a2c6863c5d1c88fb13efe9e8adb6c",
+      "bytes": 14105,
+      "lines": 148,
+      "title": "A three-direction chirality record on the original spherical echo",
+      "headings": [
+        "A three-direction chirality record on the original spherical echo",
+        "Main result",
+        "1. State, measurement and unitary",
+        "2. What is preserved—and what must be enlarged",
+        "3. Exact old-record preservation and chirality statistics",
+        "4. The original singlet acquires an exact non-singlet component",
+        "5. Relation to the other symmetry programmes",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
+        "verification/zero_sphere_chirality_echo_test.py",
+        "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
+        "ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md",
+        "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md"
+      ],
+      "risk_phrase_lines": [
+        11,
+        15,
+        50,
+        58,
+        72,
+        74,
+        98,
+        114,
+        121,
+        148
       ]
     },
     {
@@ -25182,9 +25222,9 @@
     },
     {
       "path": "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
-      "sha256": "8ea688a77bec44fbed958a6fc1a5858e5a1a059cc3c44a132b679058797eb3d6",
-      "bytes": 15497,
-      "lines": 135,
+      "sha256": "1bbd3f03a7a11071c44bb0561d2a4439ea92c4e240affb51597778f2a51fd28c",
+      "bytes": 15828,
+      "lines": 137,
       "title": "Sphere symmetry, representations, gauge charges and the Langlands interface",
       "headings": [
         "Sphere symmetry, representations, gauge charges and the Langlands interface",
@@ -25197,6 +25237,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "verification/zero_sphere_satake_symmetry_test.py",
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
@@ -25206,15 +25247,15 @@
         "brain-specificity-thesis.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
-        15,
-        27,
-        49,
+        9,
+        13,
+        17,
+        29,
         51,
-        76,
-        114,
-        135
+        53,
+        78,
+        116,
+        137
       ]
     },
     {

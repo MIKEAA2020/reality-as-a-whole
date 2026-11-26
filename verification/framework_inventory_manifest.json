@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "e754f233f1bd05392e5d8ff08f41e12bf9b25c2d",
-  "file_count": 2355,
+  "base_head": "093c8e745dfcd9698664dfbd7f386b8102940add",
+  "file_count": 2357,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 223918,
-      "sha256": "b61e354c41ac04b3ccc410b8acaae971b324a111a7641743e144746c83e07390"
+      "bytes": 224198,
+      "sha256": "7ae9751eb212748fd30761298efe3d7f2c7f2a08de0a48f441ce781c89bfa827"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 34060,
-      "sha256": "2b50a69275a0db461b466f660a79d260ccda91dd1897b15d580dd823cc33eb31"
+      "bytes": 34697,
+      "sha256": "db2d77cd1eff19ea1923b2219eb9017e26d63074df92edf36a83d431f29cdaa3"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3012,6 +3012,11 @@
       "path": "ZERO_BRANCHWISE_BALANCE_AND_CONDITIONAL_SELECTION.md",
       "bytes": 11789,
       "sha256": "8109c6bd3296936cf94500c924770a04f5834871378bc517ecb84a8941438261"
+    },
+    {
+      "path": "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
+      "bytes": 14105,
+      "sha256": "e4da46962afcb4977d0b24da69c37ca9450a2c6863c5d1c88fb13efe9e8adb6c"
     },
     {
       "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
@@ -3680,8 +3685,8 @@
     },
     {
       "path": "ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md",
-      "bytes": 15497,
-      "sha256": "8ea688a77bec44fbed958a6fc1a5858e5a1a059cc3c44a132b679058797eb3d6"
+      "bytes": 15828,
+      "sha256": "1bbd3f03a7a11071c44bb0561d2a4439ea92c4e240affb51597778f2a51fd28c"
     },
     {
       "path": "ZERO_SPHERE_REUSE_AUXILIARY_RECORD_RELIABILITY.md",
@@ -8585,8 +8590,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1081326,
-      "sha256": "76973cd933961ebd8e21a1f3b51bf8e4f686f2b7658eb098e55bc1f88c48c7b4"
+      "bytes": 1082814,
+      "sha256": "506da55704b2b0f3df04d451c32734a779450f2a1aa375655ff61c6a1ad176b4"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9755,8 +9760,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 528144,
-      "sha256": "1c7e1d62eb38de82028a2620121213fb91904a2ed23dbcb7579cc4537126c5f9"
+      "bytes": 528692,
+      "sha256": "44835b02e4646898b64ea76273f3280282033e8d9b62de014b0a06f3ab68906f"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11422,6 +11427,11 @@
       "path": "verification/zero_sphere_battery_bridge_candidate_test.py",
       "bytes": 6032,
       "sha256": "909e04430c474fc7030d3ff87c6eb7a03943d6dc40e294de2fbcb41468627243"
+    },
+    {
+      "path": "verification/zero_sphere_chirality_echo_test.py",
+      "bytes": 9078,
+      "sha256": "4d5c98d65d4554697e8e771218c823ee0811a0db1f1df979f8188f9a3f6a31be"
     },
     {
       "path": "verification/zero_sphere_conservation_born_bridge_test.py",

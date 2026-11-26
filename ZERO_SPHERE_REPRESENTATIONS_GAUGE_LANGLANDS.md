@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Continuation:** [a chirality record on the original spherical echo](ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md) couples a supplied third direction and pointer to the actual old post-echo carrier, preserves its old record statistics and pair constraint, and quantifies the resulting old-subsystem rotational backaction.
+
 This pass follows the user's request to make symmetry, representation theory, gauge theory and the Langlands connection do actual work in the point–sphere programme. It obtains three bounded results:
 
 1. The old two-direction scalar singlets have an exact angular-momentum decomposition. Extending them with a **third supplied direction** exhibits an oriented relational invariant that joint `SO(3)` symmetry does not erase. Two explicitly normalized invariant wavefunctions have opposite, exactly calculated chirality expectations.
