@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 856,
-  "bytes": 11130159,
-  "line_count": 100617,
-  "document_count_with_risk_phrases": 809,
+  "document_count": 857,
+  "bytes": 11143184,
+  "line_count": 100741,
+  "document_count_with_risk_phrases": 810,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "806a9ca051541e74ebcd9eefd39d372517efe3b84849ddaef095ccde8ae31a1a",
-      "bytes": 229352,
-      "lines": 1745,
+      "sha256": "83b631d45c0ad81f855b0b4f879c47cac2f3928ba2e1923539f178bb9b2bb226",
+      "bytes": 229724,
+      "lines": 1748,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6444,6 +6444,7 @@
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_JOINT_QUALITY_AND_OWNERSHIP_REPORTS.md",
         "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
         "ZERO_ECHO_OWNERSHIP_REPORT_CALIBRATION_ROOT_CAUSE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
@@ -7335,6 +7336,8 @@
         "verification/zero_echo_joint_identity_balance_test.py",
         "verification/zero_echo_joint_report_polytope.py",
         "verification/zero_echo_joint_report_polytope_test.py",
+        "verification/zero_echo_mode_clock_transport.py",
+        "verification/zero_echo_mode_clock_transport_test.py",
         "verification/zero_echo_ownership_witness_diagnostic.py",
         "verification/zero_echo_ownership_witness_diagnostic_test.py",
         "verification/zero_echo_positive_unity_witness.py",
@@ -7547,19 +7550,19 @@
         485,
         585,
         605,
-        702,
-        706,
-        732,
-        737,
-        746,
-        749,
-        770,
-        816,
-        853,
-        862,
-        865,
-        868,
-        939
+        703,
+        707,
+        733,
+        738,
+        747,
+        750,
+        771,
+        817,
+        854,
+        863,
+        866,
+        869,
+        940
       ]
     },
     {
@@ -20205,9 +20208,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "a888b5184253ac06a758cf9c890b806153bffcacb42f88a7c4f1b69d403790fd",
-      "bytes": 43200,
-      "lines": 110,
+      "sha256": "62d04bbd17c147d0b64dadb53221a7d1ad6f5cdc8c64e920e5be9decb352bf5f",
+      "bytes": 43801,
+      "lines": 111,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20281,6 +20284,7 @@
         "ZERO_ECHO_JOINT_REPORT_POLYTOPE_AND_CALIBRATION.md",
         "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
         "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20313,7 +20317,7 @@
         84,
         85,
         86,
-        99
+        100
       ]
     },
     {
@@ -21643,9 +21647,9 @@
     },
     {
       "path": "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
-      "sha256": "0c4469fc0580a180cf53ec38bc21b921e8d58765cd242ffc273718dde0b7b65b",
-      "bytes": 11651,
-      "lines": 122,
+      "sha256": "de517e86ae87abfdcdb805a64cb995b07d6ad62da6f7f5e3bc73ad6dfaf741c3",
+      "bytes": 12047,
+      "lines": 126,
       "title": "Constitutive modes, neutral scalar and coherence on the same echo",
       "headings": [
         "Constitutive modes, neutral scalar and coherence on the same echo",
@@ -21655,13 +21659,14 @@
         "3. One population, not independent modes",
         "4. The original coherent echo and the cost of learning more",
         "5. Why-chain and next step",
-        "Reproduce"
+        "Continuation: clocked effects and instruments"
       ],
       "local_links": [
         "verification/zero_echo_constitutive_modes.py",
         "verification/zero_echo_constitutive_modes_test.py",
         "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
-        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md"
+        "ZERO_ECHO_OCCURRENCE_QUALITY_INCIDENCE_JOINT_CONSTRAINT.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md"
       ],
       "risk_phrase_lines": [
         15,
@@ -21670,7 +21675,7 @@
         35,
         68,
         91,
-        122
+        126
       ]
     },
     {
@@ -21831,6 +21836,33 @@
         78,
         89,
         109
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
+      "sha256": "5af07b55225ce651f76f51736033809fb8db5b6ee804a1df1e241f7f1cb16cf8",
+      "bytes": 11656,
+      "lines": 116,
+      "title": "Transporting echo-mode instruments through the clocked history",
+      "headings": [
+        "Transporting echo-mode instruments through the clocked history",
+        "Result",
+        "1. Anchor modes and the difference between transport and replacement",
+        "2. The actual complex vectors and the instruments",
+        "3. A complete reduced 20-step clock instrument",
+        "4. A ready-pointer realization and coherence cost",
+        "5. Why-chain and remaining work",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+        "verification/zero_echo_mode_clock_transport.py",
+        "verification/zero_echo_mode_clock_transport_test.py"
+      ],
+      "risk_phrase_lines": [
+        35,
+        48,
+        116
       ]
     },
     {

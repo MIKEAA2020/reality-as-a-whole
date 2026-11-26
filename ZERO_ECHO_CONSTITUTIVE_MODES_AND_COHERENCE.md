@@ -112,6 +112,10 @@ Thus even the pair `(S,T)`'s outcome distribution does not exhaust the full cohe
 
 Next, transport the full mode **effects and instruments**, not only sign values, across the echo's clock descriptions; investigate when an actual accessible joint interface can preserve or necessarily disturb the relevant coherence, and how any such interface relates to plural subject incidence.
 
+## Continuation: clocked effects and instruments
+
+The [next pass](ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md) transports the anchor mode projectors and their ideal Lüders instruments through the actual echo, checks selected original complex branches, and constructs a stationary global mode-pointer readout on the reduced 20-step clock. The full apparatus and subjective access remain open.
+
 ## Reproduce
 
 ```sh
