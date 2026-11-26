@@ -1,5 +1,7 @@
 # Ownership, a physical report and the symmetry it must carry
 
+**Next dependency:** [causal access and refinement on the echo](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) tests a local support criterion against actual gate timing, logical encoding, record-access sets and overlap accounting; it does not infer subjects from the resulting graph.
+
 ## Main result
 
 The preceding [persistence and record construction](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) left an actionable question: can a real report distinguish two explicit subject-ownership rules on the existing echo, rather than simply assume that it does? This pass builds the comparison into the same quantum history, checks its symmetry and asks what an incidence census would mean.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 818,
-  "bytes": 10537283,
-  "line_count": 95187,
-  "document_count_with_risk_phrases": 771,
+  "document_count": 819,
+  "bytes": 10555123,
+  "line_count": 95351,
+  "document_count_with_risk_phrases": 772,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a9b22574707877992e07d806f620adc95febb1229558494e70f5dfb8eb8bd3b5",
-      "bytes": 215775,
-      "lines": 1642,
+      "sha256": "3c2045e293288c77cad48fca61815377a74ff7910e16428a4d30a3374051ab78",
+      "bytes": 216171,
+      "lines": 1645,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6433,6 +6433,7 @@
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
+        "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
@@ -7280,6 +7281,8 @@
         "verification/zero_dressed_sphere_rotations_test.py",
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_dynamic_subject_memory_echo_test.py",
+        "verification/zero_echo_causal_subject_criterion.py",
+        "verification/zero_echo_causal_subject_criterion_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "verification/zero_echo_subject_persistence.py",
         "verification/zero_echo_subject_persistence_test.py",
@@ -7443,19 +7446,19 @@
         484,
         584,
         604,
-        679,
-        683,
-        707,
-        711,
-        720,
-        723,
-        743,
-        778,
-        815,
-        824,
-        827,
-        830,
-        901
+        680,
+        684,
+        708,
+        712,
+        721,
+        724,
+        744,
+        779,
+        816,
+        825,
+        828,
+        831,
+        902
       ]
     },
     {
@@ -20026,9 +20029,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "3633b92d89b90b45b85940c7dc7740a401986ff29910fa0dbfdd9b9fef195e64",
-      "bytes": 20168,
-      "lines": 70,
+      "sha256": "e47d041f15eedea38a4ce2f965a463ad72e3ac0b4756198b3da3319f0d4c5817",
+      "bytes": 20727,
+      "lines": 71,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20063,6 +20066,7 @@
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
+        "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20075,7 +20079,8 @@
         39,
         41,
         44,
-        59
+        47,
+        60
       ]
     },
     {
@@ -21267,6 +21272,41 @@
         71,
         119,
         136
+      ]
+    },
+    {
+      "path": "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
+      "sha256": "80b85aefcce8989f1331b1ef3bdff3df1bb2d6541b7e49e5a2698f7ad88ea62b",
+      "bytes": 16197,
+      "lines": 156,
+      "title": "Causal organization, access and candidate subjects on the echo",
+      "headings": [
+        "Causal organization, access and candidate subjects on the echo",
+        "Outcome",
+        "1. A concrete interventional structure—not correlation alone",
+        "2. A local graph candidate—and its cost",
+        "3. Logical encoding exposes refinement sensitivity",
+        "4. The actual access sets do not count subjects",
+        "5. Overlap and signed incidence on this very graph",
+        "6. What to do next"
+      ],
+      "local_links": [
+        "verification/zero_echo_causal_subject_criterion.py",
+        "verification/zero_echo_causal_subject_criterion_test.py",
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
+        "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
+        "ZERO_INTERNAL_REFERENCE_SUBJECT_VALENCE_COMPARISON.md",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md"
+      ],
+      "risk_phrase_lines": [
+        37,
+        51,
+        63,
+        73,
+        88,
+        109,
+        141
       ]
     },
     {
@@ -23063,9 +23103,9 @@
     },
     {
       "path": "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
-      "sha256": "f79dde1951b5001ec890ccf9aa17a0b88fc6e4edd21908cc790d92e71f4b4150",
-      "bytes": 14725,
-      "lines": 147,
+      "sha256": "e6fc9d5f2d984274d7ecfc307c2df1ed094bc5bfe91e4d5e35bb943205e23b6d",
+      "bytes": 15015,
+      "lines": 149,
       "title": "Ownership, a physical report and the symmetry it must carry",
       "headings": [
         "Ownership, a physical report and the symmetry it must carry",
@@ -23078,6 +23118,7 @@
         "6. What changes when owners are counted?"
       ],
       "local_links": [
+        "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "verification/zero_ownership_report_bridge.py",
         "verification/zero_ownership_report_bridge_test.py",
@@ -23085,10 +23126,10 @@
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md"
       ],
       "risk_phrase_lines": [
-        9,
-        70,
-        110,
-        122
+        11,
+        72,
+        112,
+        124
       ]
     },
     {
@@ -24156,9 +24197,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "4e527232103c9d638ef446a6b1cffe8baaaa6768ce232ce3307ba14d04644b8f",
-      "bytes": 23743,
-      "lines": 156,
+      "sha256": "97a7baec2adfbe881c26022dc329d035e1f654518993d383a92b6be27f3ad60f",
+      "bytes": 24141,
+      "lines": 158,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24171,6 +24212,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
@@ -24201,21 +24243,22 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        19,
-        25,
+        5,
+        21,
         27,
-        33,
+        29,
         35,
-        45,
-        76,
-        91,
-        122,
+        37,
+        47,
+        78,
+        93,
         124,
-        132,
-        135,
-        136,
+        126,
+        134,
         137,
-        144
+        138,
+        139,
+        146
       ]
     },
     {
