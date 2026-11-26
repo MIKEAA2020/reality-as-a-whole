@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 861,
-  "bytes": 11200887,
-  "line_count": 101213,
-  "document_count_with_risk_phrases": 814,
+  "document_count": 862,
+  "bytes": 11215231,
+  "line_count": 101345,
+  "document_count_with_risk_phrases": 815,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fd63efc75f0d7c0775db30223fe4270a79a52c67170ded1846612c9972d46143",
-      "bytes": 230763,
-      "lines": 1755,
+      "sha256": "b59a89c9ef00f1df73ac1c4e6c141b906e69e09c92dc3d7fa3d0bede5b470e6d",
+      "bytes": 231065,
+      "lines": 1757,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6568,6 +6568,7 @@
         "ZERO_SPHERE_STEERING_BELL_NECESSARY_RECORDS.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
         "ZERO_STRUCTURAL_TIME_TWO_CLOCK_STATIONARY_BRIDGE.md",
         "ZERO_SUBJECT_BOUNDARY_REPORT_CAUSALITY.md",
@@ -7490,6 +7491,7 @@
         "verification/zero_spin_constitution_test.py",
         "verification/zero_spin_reversal_sign_selection_test.py",
         "verification/zero_sr_echo_constitution_test.py",
+        "verification/zero_sr_echo_coordinate_equivalence_test.py",
         "verification/zero_stationary_battery_bridge.py",
         "verification/zero_stationary_battery_bridge_test.py",
         "verification/zero_stationary_clock_claim_quality.py",
@@ -7563,13 +7565,13 @@
         739,
         749,
         752,
-        775,
-        821,
-        858,
-        867,
-        870,
-        873,
-        944
+        776,
+        822,
+        859,
+        868,
+        871,
+        874,
+        945
       ]
     },
     {
@@ -20215,9 +20217,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "ef60131a9eadc0a28a5f951b7c9310cc14b8a03f6b11b275947225616851be10",
-      "bytes": 46323,
-      "lines": 115,
+      "sha256": "f819282141c1bdabedd856ef19b5e82eadb36dab784d4ed458b5fe27db8dc59a",
+      "bytes": 46939,
+      "lines": 116,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20299,6 +20301,8 @@
         "verification/zero_version_space_revision_test.py",
         "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
         "verification/zero_sr_echo_constitution_test.py",
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
+        "verification/zero_sr_echo_coordinate_equivalence_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20333,7 +20337,7 @@
         86,
         90,
         91,
-        104
+        105
       ]
     },
     {
@@ -25954,9 +25958,37 @@
       ]
     },
     {
+      "path": "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
+      "sha256": "ddce68748799f6b893397c309bf190e5dc3e7e225c87c06fcf127e03dc7df5ab",
+      "bytes": 12383,
+      "lines": 129,
+      "title": "Coordinate equivalence and experiential content in the SR-inspired echo",
+      "headings": [
+        "Coordinate equivalence and experiential content in the SR-inspired echo",
+        "Result and correction",
+        "1. Exact passive change of coordinates",
+        "2. The metric must transform too",
+        "3. One report, consistently transported",
+        "4. Zero gain is a genuine loss of the stated content distinction",
+        "5. Physical effects and coherent disturbance",
+        "6. Clock, owner and incidence"
+      ],
+      "local_links": [
+        "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
+        "verification/zero_sr_echo_coordinate_equivalence_test.py",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
+        "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md"
+      ],
+      "risk_phrase_lines": [
+        19,
+        36,
+        77
+      ]
+    },
+    {
       "path": "ZERO_SR_ECHO_SPECIFIC_CONSTITUTION_AND_CALIBRATION.md",
-      "sha256": "c94da97e9d8f3c4c54983301b5af1a344fbfec9d70c45190749ac67682388475",
-      "bytes": 14954,
+      "sha256": "47ae981a2b4ace0c04a4c7bfa2b8cd9682ee0ef9f29f490ba431bb1df57803a9",
+      "bytes": 15997,
       "lines": 164,
       "title": "A specific echo constitution in the form of the SR analogy",
       "headings": [
@@ -25970,9 +26002,11 @@
         "6. A conditional discrimination that does not assume the answer"
       ],
       "local_links": [
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "verification/zero_sr_echo_constitution_test.py",
         "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
         "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
         "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
         "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md"
       ],
