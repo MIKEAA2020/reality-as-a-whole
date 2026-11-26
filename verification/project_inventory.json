@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 820,
-  "bytes": 10574553,
-  "line_count": 95537,
-  "document_count_with_risk_phrases": 773,
+  "document_count": 821,
+  "bytes": 10592653,
+  "line_count": 95705,
+  "document_count_with_risk_phrases": 774,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c00eb00c4b1586519e5079ec9b48569a7e7c13e27b21479209f52f0f1e59c2ce",
-      "bytes": 216525,
-      "lines": 1648,
+      "sha256": "d46bad5ced75c3e7bfb56a07ac6435b7831e43426c73487c7550be7bb9beb641",
+      "bytes": 216866,
+      "lines": 1651,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6472,6 +6472,7 @@
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
+        "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
@@ -7327,6 +7328,8 @@
         "verification/zero_joint_quality_incidence_root.py",
         "verification/zero_joint_quality_incidence_root_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
+        "verification/zero_joint_unity_bridge.py",
+        "verification/zero_joint_unity_bridge_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
         "verification/zero_locality_boundary_test.py",
@@ -7449,19 +7452,19 @@
         484,
         584,
         604,
-        680,
-        684,
-        708,
-        712,
-        721,
-        724,
-        744,
-        780,
-        817,
-        826,
-        829,
-        832,
-        903
+        681,
+        685,
+        709,
+        713,
+        722,
+        725,
+        745,
+        781,
+        818,
+        827,
+        830,
+        833,
+        904
       ]
     },
     {
@@ -20032,9 +20035,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "7bcb5e4f3bb7fdecad80df569606776f4918c09edd89338125033970137df61f",
-      "bytes": 21313,
-      "lines": 72,
+      "sha256": "62fa5488598933aaa387b3e385c3648066e30cf83289c80749d703d52b010771",
+      "bytes": 21883,
+      "lines": 73,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20071,6 +20074,7 @@
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
+        "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20084,7 +20088,8 @@
         41,
         44,
         47,
-        61
+        49,
+        62
       ]
     },
     {
@@ -22577,6 +22582,37 @@
       ]
     },
     {
+      "path": "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
+      "sha256": "75abd093365e2ffc7d65ea17d4ccc9a38fc1b437f86d77beeb2acce642ae92f2",
+      "bytes": 16457,
+      "lines": 160,
+      "title": "Joint quality, unity reports and incidence symmetry",
+      "headings": [
+        "Joint quality, unity reports and incidence symmetry",
+        "Result",
+        "1. Two explicit bridge candidates",
+        "2. A joint-looking report has a shortcut",
+        "3. Product access is weaker than access to both signs",
+        "4. What the symmetries do select—conditionally",
+        "5. A normalized incidence countermodel",
+        "6. A conditional positive unity-witness protocol"
+      ],
+      "local_links": [
+        "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
+        "verification/zero_joint_unity_bridge.py",
+        "verification/zero_joint_unity_bridge_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        43,
+        99,
+        101,
+        123,
+        141,
+        143
+      ]
+    },
+    {
       "path": "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
       "sha256": "7b029cdfa41171f7f354fb2ada97449d09b300ce2f2af0b53350b1f71bef877d",
       "bytes": 11518,
@@ -24202,9 +24238,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "643785fe50ae3bbc6525bc2d96bfce5207dbd5f1a6e7c2aca496b0d079b56985",
-      "bytes": 24565,
-      "lines": 160,
+      "sha256": "c0f446fc821b5bc2073d8e8e0b270ab414e3f467352a7bf01e67c3f9f98ce69c",
+      "bytes": 25008,
+      "lines": 162,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24217,6 +24253,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
@@ -24249,22 +24286,23 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        23,
-        29,
+        5,
+        9,
+        25,
         31,
-        37,
+        33,
         39,
-        49,
-        80,
-        95,
-        126,
+        41,
+        51,
+        82,
+        97,
         128,
-        136,
-        139,
-        140,
+        130,
+        138,
         141,
-        148
+        142,
+        143,
+        150
       ]
     },
     {
@@ -26059,9 +26097,9 @@
     },
     {
       "path": "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
-      "sha256": "2a3efb241b15ba6b76c5ee3995aa40e2ef22c6005425890679fe06522945709b",
-      "bytes": 17741,
-      "lines": 178,
+      "sha256": "a2464c2b0f3ac29856c0ec8ad7977536d6130394b28ab83016113a6ee7ff3d85",
+      "bytes": 18030,
+      "lines": 180,
       "title": "A typed echo process: content, clock, access and subjecthood",
       "headings": [
         "A typed echo process: content, clock, access and subjecthood",
@@ -26074,6 +26112,7 @@
         "6. An actual coherent report and its symmetry"
       ],
       "local_links": [
+        "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "verification/zero_typed_echo_process.py",
         "verification/zero_typed_echo_process.py",
@@ -26083,10 +26122,11 @@
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
-        62,
+        3,
         64,
-        74,
-        131
+        66,
+        76,
+        133
       ]
     },
     {

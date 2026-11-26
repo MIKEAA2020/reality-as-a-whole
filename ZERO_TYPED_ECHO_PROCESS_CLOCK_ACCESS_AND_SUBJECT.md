@@ -1,5 +1,7 @@
 # A typed echo process: content, clock, access and subjecthood
 
+**Next dependency:** [joint unity reports and incidence symmetry](ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md) compares explicit joint and separated bridges, identifies a physical parity shortcut, and gives a conditional first-person witness with an exact correlated-error control.
+
 ## Result
 
 The preceding [causal-access investigation](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) showed that graph-based subject candidates change with time grain and encoding. This pass constructs the promised **operationally typed process candidate** on the same echo:

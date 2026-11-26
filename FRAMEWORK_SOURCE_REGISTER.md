@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 777 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 731 verification Python scripts.
+- 778 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 733 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -669,6 +669,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md](ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md) — One history, two candidate incidences: constitution, measure and echo
 - [ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) — One joint incidence candidate: quality, record and the opposite pair
 - [ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md](ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md) — One joint subject–valence–energy candidate, tested
+- [ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md](ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md) — Joint quality, unity reports and incidence symmetry
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
 - [ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) — Local subject incidence and a conserved quantum current
 - [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
@@ -1538,6 +1539,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_joint_quality_incidence_root.py](verification/zero_joint_quality_incidence_root.py)
 - [verification/zero_joint_quality_incidence_root_test.py](verification/zero_joint_quality_incidence_root_test.py)
 - [verification/zero_joint_subject_energy_candidate_test.py](verification/zero_joint_subject_energy_candidate_test.py)
+- [verification/zero_joint_unity_bridge.py](verification/zero_joint_unity_bridge.py)
+- [verification/zero_joint_unity_bridge_test.py](verification/zero_joint_unity_bridge_test.py)
 - [verification/zero_local_incidence_current_test.py](verification/zero_local_incidence_current_test.py)
 - [verification/zero_local_record_constitution_test.py](verification/zero_local_record_constitution_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)

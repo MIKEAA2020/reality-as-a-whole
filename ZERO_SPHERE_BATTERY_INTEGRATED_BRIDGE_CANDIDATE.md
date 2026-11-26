@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Twenty-third-pass continuation:** [joint unity, reports and incidence symmetry](ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md) demonstrates an exact parity-report shortcut on the coherent code, tests joint versus separated incidence extensions under conditional symmetries, and gives a conditional first-person witness with correlated-error control. Neither physical output nor assumed report accuracy establishes actual subject unity.
+
 **Twenty-second-pass continuation:** [typed echo process, clock and access](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) transports the same logical sign through the actual echo, saved memory, stationary clock and constrained pair; tests coherent code refinements and reports; and distinguishes an independently varying interacting content. Experience, ownership and actual incidence remain additional obligations.
 
 **Twenty-first-pass continuation:** [causal access and subject refinement on the echo](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) tests physical gate timing, overlapping local candidate supports, exact record-access sets, and a coherent J-register encoding. It exposes temporal-grain and physical-factorization sensitivity; logical quotienting is conditional and subjecthood remains open.
