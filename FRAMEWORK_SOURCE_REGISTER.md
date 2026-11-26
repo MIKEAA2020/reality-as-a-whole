@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 797 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 762 verification Python scripts.
+- 798 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 764 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -787,6 +787,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md](ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md) — A zero-total relational event and its record
 - [ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md](ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md) — Zero totality: can symmetry and parsimony fix the internal measure?
 - [ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md](ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md) — A time-independent support interaction and its limits
+- [ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md](ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md) — A certified continuum bound for the support commutator
 - [ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md](ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md) — Can the existing records detect the coherent counterexample?
 - [ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) — Geometry slices for two autonomous records: a multichannel continuum result
 - [ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md](ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md) — Finite records and clock descriptions in the two-window model
@@ -1679,6 +1680,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_total_symmetry_measure_test.py](verification/zero_total_symmetry_measure_test.py)
 - [verification/zero_two_window_autonomous_support_dynamics_test.py](verification/zero_two_window_autonomous_support_dynamics_test.py)
 - [verification/zero_two_window_coherence_tomography_test.py](verification/zero_two_window_coherence_tomography_test.py)
+- [verification/zero_two_window_commutator_certificate.py](verification/zero_two_window_commutator_certificate.py)
+- [verification/zero_two_window_commutator_certificate_test.py](verification/zero_two_window_commutator_certificate_test.py)
 - [verification/zero_two_window_continuum_slice_test.py](verification/zero_two_window_continuum_slice_test.py)
 - [verification/zero_two_window_finite_record_clock_test.py](verification/zero_two_window_finite_record_clock_test.py)
 - [verification/zero_two_window_full_slice_test.py](verification/zero_two_window_full_slice_test.py)

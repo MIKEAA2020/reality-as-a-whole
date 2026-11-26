@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 840,
-  "bytes": 10883341,
-  "line_count": 98201,
-  "document_count_with_risk_phrases": 793,
+  "document_count": 841,
+  "bytes": 10893626,
+  "line_count": 98363,
+  "document_count_with_risk_phrases": 794,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "be5ed3800aefe62fe7d59eb8aa9fb43b54197d62320b6e41d3e0de3e4c4c82ab",
-      "bytes": 223236,
-      "lines": 1699,
+      "sha256": "0be2fb4f584e5aedf788677e1f266c2d66748a506c0748b92dd0f5863dd606f2",
+      "bytes": 223636,
+      "lines": 1702,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6590,6 +6590,7 @@
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
@@ -7468,6 +7469,8 @@
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_autonomous_support_dynamics_test.py",
         "verification/zero_two_window_coherence_tomography_test.py",
+        "verification/zero_two_window_commutator_certificate.py",
+        "verification/zero_two_window_commutator_certificate_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_finite_record_clock_test.py",
         "verification/zero_two_window_full_slice_test.py",
@@ -7508,12 +7511,12 @@
         733,
         736,
         756,
-        800,
-        837,
-        846,
-        849,
-        852,
-        923
+        801,
+        838,
+        847,
+        850,
+        853,
+        924
       ]
     },
     {
@@ -18372,8 +18375,8 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "a82a87fcc2a5a2091dafbebbde60a9461743b3814bfbd9c5018d92ecb9373258",
-      "bytes": 16826,
+      "sha256": "6ee27e7d8c5571dc53a55a836ce634d9bfb3904be39bc4606ec584796c444e54",
+      "bytes": 16991,
       "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
@@ -18394,6 +18397,7 @@
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -20158,9 +20162,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "4910689855435100502df67c4c1b88a2e3b6a16df4f53987ecf36353f26cb991",
-      "bytes": 32994,
-      "lines": 94,
+      "sha256": "76c83e32a68badd26f51e4c1513cf4ac0bd13f62d369dc606bc0d5f5a806ff87",
+      "bytes": 33394,
+      "lines": 95,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20218,6 +20222,7 @@
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20241,7 +20246,8 @@
         62,
         63,
         70,
-        83
+        71,
+        84
       ]
     },
     {
@@ -26552,9 +26558,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
-      "sha256": "d8bd1e7b1d1d9bede18901a04740488c9aedb556251f9ae1b2a90ce49c417fcd",
-      "bytes": 9776,
-      "lines": 123,
+      "sha256": "035af4128ab64ff577528ec2f0f72ec7d98e777847e0d6e002276da49a36a203",
+      "bytes": 10068,
+      "lines": 125,
       "title": "A time-independent support interaction and its limits",
       "headings": [
         "A time-independent support interaction and its limits",
@@ -26567,14 +26573,55 @@
         "Scope and reproduction"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
-        "verification/zero_two_window_autonomous_support_dynamics_test.py"
+        "verification/zero_two_window_autonomous_support_dynamics_test.py",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        7,
+        68,
+        103,
+        114,
+        120
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+      "sha256": "db460257bb2072b79e584555aa5ab39a7967381b435660fe1407003e4f2dbb7e",
+      "bytes": 9028,
+      "lines": 156,
+      "title": "A certified continuum bound for the support commutator",
+      "headings": [
+        "A certified continuum bound for the support commutator",
+        "Result",
+        "1. The operator and the two packets",
+        "2. Reducing the residual to scalar kernel integrals",
+        "3. Uniform series remainders and the certificate",
+        "4. Consequence for the support interaction",
+        "5. What this does and does not resolve",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
+        "verification/zero_two_window_commutator_certificate.py",
+        "verification/zero_two_window_commutator_certificate_test.py"
       ],
       "risk_phrase_lines": [
         5,
-        66,
-        112,
-        118
+        19,
+        21,
+        33,
+        61,
+        70,
+        77,
+        86,
+        99,
+        105,
+        139,
+        145,
+        150
       ]
     },
     {

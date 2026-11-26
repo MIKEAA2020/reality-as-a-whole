@@ -1,5 +1,7 @@
 # A time-independent support interaction and its limits
 
+**Certified continuation:** [continuum support commutator](ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md) proves `||[Θ,Q]||<0.419` for these packets using exact rational arithmetic, tightening the uniform flag-error bound below 0.0275. The weaker 0.678 bound and finite-grid results below remain valid but are no longer the best available bounds.
+
 ## Result
 
 The [imperfect-flag analysis](ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md) required a uniform detector-error bound but did not supply detector dynamics. Here is one explicitly specified, **scalar-clock-independent** support coupling added to the same two-window model. Under its exact operator assumptions it gives a state-uniform continuum bound on missed and false flags, despite noncommutation with the original evolution. The altered positive-frequency constraint has a strictly positive root.
@@ -98,7 +100,7 @@ There is a concrete route to tightening the continuum estimate without diagonali
 ||[√Θ_h,Q]|| ≤ ||[Θ_h,Q]||/(2a_h).
 ```
 
-Since Θ₁=Θ₀−2I, the commutator of Θ with Q is h-independent. The finite meshes give `||[Θ,Q]||≈0.4112`. **If** an independent continuum analysis established `||[Θ,Q]||≤0.42`, then the same calculation would imply `D≤0.165190` and worst-case flag errors below 0.0273 for both h sectors. The mesh values are motivation for that test, not proof of its premise; no continuum discretization-error bound has been supplied here.
+Since Θ₁=Θ₀−2I, the commutator of Θ with Q is h-independent. The finite meshes give `||[Θ,Q]||≈0.4112`. The [later exact-rational continuation](ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md) establishes `||[Θ,Q]||<0.419` in the continuum and a conservative flag-error bound below 0.0275 for both h sectors. The mesh values remain a control, not the proof.
 
 ## 5. Why the flag is not yet a history record
 
@@ -115,7 +117,7 @@ The state of the old clock apparatus after this new interaction is also not gene
 
 ## Scope and reproduction
 
-The construction specifies a possible bounded Hamiltonian in the selected band and a mathematical constraint containing it. It does not show that the mode projector, coupling strength, clock, state or stopping mechanism follows from the proposed whole. It does not establish local quantum gravity, arbitrary refoliation, exact crossing counts, subjects or felt succession. The conditional improvement target above is the next numerical/analytic issue; physically implementing and stabilizing the device is a distinct one.
+The construction specifies a possible bounded Hamiltonian in the selected band and a mathematical constraint containing it. It does not show that the mode projector, coupling strength, clock, state or stopping mechanism follows from the proposed whole. It does not establish local quantum gravity, arbitrary refoliation, exact crossing counts, subjects or felt succession. The subsequent exact-rational analysis resolves the specified commutator target; physically implementing and stabilizing the device is a distinct open issue.
 
 ```sh
 OPENBLAS_NUM_THREADS=1 PYTHONPATH=.arena/python-deps:. python -m unittest \
