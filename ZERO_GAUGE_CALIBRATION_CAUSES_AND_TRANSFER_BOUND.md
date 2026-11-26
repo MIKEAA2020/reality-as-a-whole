@@ -120,6 +120,10 @@ Interleaving randomized calibration settings can make such a mode harder to attr
 
 **Why is transfer the deeper dependence?** A probability observed under one intervention predicts another only through an invariant response law or a bound on its change. The new theorem makes that premise quantitative; it does not create it. **Why should that law hold?** It must follow from actual coupling, preparation and isolation mechanisms, whose material conditions and resources must be independently constrained. **Why those mechanisms and a source at all?** The current three-frame link, history clock and sensors remain chosen constructions; the zero constraint and covariance do not yet derive them or select the `ρ_ε` family. **Why should the underlying constitution be necessary or actual?** The present work has no non-circular derivation of this. That is the boundary reached by the current argument, not a claim that reality is ultimately brute or that a deeper self-sufficient explanation cannot exist. No external temporal cause of the whole is presumed.
 
+## Continuation: an explicit fault interaction
+
+The [next pass](ZERO_GAUGE_FAULT_RECORD_RECOVERY_AND_CLOCK_COST.md) realizes the transfer rival with a finite environment–fault coupling, gives a coherent correction that works on the written sector under explicit ready-state assumptions, and calculates its disturbance to the retained clock-sensor history. The gate, accessible fault record and feedback remain supplied physical inputs.
+
 ## 6. Next work
 
 - Specify physically preparable joint-sign reference states and a common local interaction, model their environment and selection, and derive or independently bound τ, e and σ rather than simply assigning them. Include randomized source/reference interleaving and all retained early/late outcomes.
