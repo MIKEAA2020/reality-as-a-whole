@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 773 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 723 verification Python scripts.
+- 774 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 725 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -631,6 +631,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
 - [ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md](ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md) — A subject boundary through memory writing, use and attempted erasure
 - [ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) — One candidate intrinsic quality through the actual sphere echo
+- [ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) — Subject persistence, records and access on the coherent echo
 - [ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) — Encoded directional balance joined to the finite sphere, clock and work
 - [ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) — A zero-energy clock for the recollapsing sphere–memory model
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
@@ -1490,6 +1491,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_dual_pair_sphere_energy_instrument_test.py](verification/zero_dual_pair_sphere_energy_instrument_test.py)
 - [verification/zero_dynamic_subject_memory_echo_test.py](verification/zero_dynamic_subject_memory_echo_test.py)
 - [verification/zero_echo_intrinsic_constitution_selection_test.py](verification/zero_echo_intrinsic_constitution_selection_test.py)
+- [verification/zero_echo_subject_persistence.py](verification/zero_echo_subject_persistence.py)
+- [verification/zero_echo_subject_persistence_test.py](verification/zero_echo_subject_persistence_test.py)
 - [verification/zero_encoded_sphere_clock_work_bridge_test.py](verification/zero_encoded_sphere_clock_work_bridge_test.py)
 - [verification/zero_energy_recollapse_clock_test.py](verification/zero_energy_recollapse_clock_test.py)
 - [verification/zero_energy_research_test.py](verification/zero_energy_research_test.py)

@@ -1,5 +1,7 @@
 # One joint incidence candidate: quality, record and the opposite pair
 
+**Next dependency:** [subject persistence, record and access](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) constructs and reverses an explicit before/after memory, tests the actual sign/pair branches and compares clock-covariant ownership candidates. It does not infer a subject from a record.
+
 ## Why this is the first feasible dependency step
 
 The [root-cause map](WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md) calls for investigating zero, subject, quality and incidence **together**. A strict topological order must not pretend that the ultimate zero constitution has already been derived: that is the upstream hypothesis on which the stronger conclusion depends. Nor should subject identity, quality and incidence be ordered as though any one were independently known. They form a mutually constraining block and need to be tested jointly.

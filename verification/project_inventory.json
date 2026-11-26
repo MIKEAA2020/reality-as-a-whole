@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 816,
-  "bytes": 10502859,
-  "line_count": 94885,
-  "document_count_with_risk_phrases": 769,
+  "document_count": 817,
+  "bytes": 10520878,
+  "line_count": 95032,
+  "document_count_with_risk_phrases": 770,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "1dc864b0cdbdfe998731431d52122586537320c3bdc0192a55ebc8f1af8cbf32",
-      "bytes": 215034,
-      "lines": 1636,
+      "sha256": "a3ad60845f960053bd79b0f752515a2aa9672a59897b019898b26661821a79b7",
+      "bytes": 215410,
+      "lines": 1639,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6434,6 +6434,7 @@
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
         "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
@@ -7279,6 +7280,8 @@
         "verification/zero_dual_pair_sphere_energy_instrument_test.py",
         "verification/zero_dynamic_subject_memory_echo_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
+        "verification/zero_echo_subject_persistence.py",
+        "verification/zero_echo_subject_persistence_test.py",
         "verification/zero_encoded_sphere_clock_work_bridge_test.py",
         "verification/zero_energy_recollapse_clock_test.py",
         "verification/zero_energy_research_test.py",
@@ -7437,19 +7440,19 @@
         484,
         584,
         604,
-        678,
-        682,
-        705,
-        709,
-        718,
-        721,
-        741,
-        776,
-        813,
-        822,
-        825,
-        828,
-        899
+        679,
+        683,
+        706,
+        710,
+        719,
+        722,
+        742,
+        777,
+        814,
+        823,
+        826,
+        829,
+        900
       ]
     },
     {
@@ -20020,9 +20023,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "15b7d337af92d92234cffbe9ce60d7bf7a037e87cab1319336abc2b8a13a2dcd",
-      "bytes": 18977,
-      "lines": 68,
+      "sha256": "46431030bd38b189f11f3232b6d5e5b9072c78a2bc8f2ec7d48f497c42322fd8",
+      "bytes": 19569,
+      "lines": 69,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20055,6 +20058,7 @@
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20067,7 +20071,7 @@
         39,
         41,
         44,
-        57
+        58
       ]
     },
     {
@@ -21303,6 +21307,38 @@
       ]
     },
     {
+      "path": "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+      "sha256": "841205f4b2ea9335c7e98e62d7da3c1c2f2e94f4ed7d959e7fd80c03a4acd588",
+      "bytes": 16310,
+      "lines": 139,
+      "title": "Subject persistence, records and access on the coherent echo",
+      "headings": [
+        "Subject persistence, records and access on the coherent echo",
+        "Result and scope",
+        "1. Three different identity questions",
+        "2. A concrete before/after instrument",
+        "3. A record has coherent cost and can be undone",
+        "4. Counterpart, clock and pair are not discarded",
+        "5. What a confined readout can and cannot tell",
+        "6. Next dependency and epistemic status"
+      ],
+      "local_links": [
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+        "verification/zero_echo_subject_persistence.py",
+        "verification/zero_echo_subject_persistence_test.py",
+        "MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        46,
+        65,
+        99,
+        105,
+        123,
+        131
+      ]
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e",
       "bytes": 16666,
@@ -22422,9 +22458,9 @@
     },
     {
       "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
-      "sha256": "ae79c8e4269e97972445232685c9f492db96608e2a6fcbb912c9c6fdba53871f",
-      "bytes": 16798,
-      "lines": 157,
+      "sha256": "38cb0fb5343fe5ca9f7d4c54e8d782b85b0fbb2c7a7d620b821f53750fed3ded",
+      "bytes": 17100,
+      "lines": 159,
       "title": "One joint incidence candidate: quality, record and the opposite pair",
       "headings": [
         "One joint incidence candidate: quality, record and the opposite pair",
@@ -22437,6 +22473,7 @@
         "6. Persistence is not a requirement of unchanging quality"
       ],
       "local_links": [
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
         "verification/zero_joint_quality_incidence_root.py",
         "verification/zero_joint_quality_incidence_root_test.py",
@@ -22449,13 +22486,13 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        10,
         12,
-        27,
-        105,
-        115,
-        138,
-        146
+        14,
+        29,
+        107,
+        117,
+        140,
+        148
       ]
     },
     {
@@ -24084,9 +24121,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "8cebb8e030fe9b14dc071b97b06288fcba305ea029e8f6e1a6f715e76e5dd456",
-      "bytes": 22879,
-      "lines": 152,
+      "sha256": "435c312b19400e85310fd8eaaa565b1a3085e7e4161f59a0c1a097e0d31e2ee6",
+      "bytes": 23318,
+      "lines": 154,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24099,6 +24136,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
@@ -24127,21 +24165,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        15,
-        21,
+        17,
         23,
-        29,
+        25,
         31,
-        41,
-        72,
-        87,
-        118,
+        33,
+        43,
+        74,
+        89,
         120,
-        128,
-        131,
-        132,
+        122,
+        130,
         133,
-        140
+        134,
+        135,
+        142
       ]
     },
     {

@@ -30,6 +30,7 @@ FIFTEENTH='ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md'
 SIXTEENTH='ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md'
 SEVENTEENTH='ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md'
 EIGHTEENTH='ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md'
+NINETEENTH='ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md'
 PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 
 # Paths and stage evidence are conservative manual judgments. Add only after a
@@ -52,7 +53,8 @@ PARTIAL={
   'plan':[SECOND], 'implemented':[SECOND,'verification/zero_stationary_subject_incidence.py']},
  'sources/uploads/miller2017.pdf': {
   'audit':['MILLER_SUBJECT_PARTHOOD_AND_DECOMBINATION_AUDIT.md'],
-  'plan':[SECOND], 'implemented':[SECOND,'verification/zero_stationary_subject_incidence.py']},
+  'plan':[SECOND,NINETEENTH], 'implemented':[SECOND,'verification/zero_stationary_subject_incidence.py',
+                                             NINETEENTH,'verification/zero_echo_subject_persistence.py']},
  'sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt': {
   'audit':['TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md'],
   'plan':[NINTH,EIGHTEENTH], 'implemented':[NINTH,'verification/zero_intrinsic_angular_estimation.py',

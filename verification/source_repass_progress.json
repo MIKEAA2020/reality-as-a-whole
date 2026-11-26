@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "1dc864b0cdbdfe998731431d52122586537320c3bdc0192a55ebc8f1af8cbf32",
+      "sha256": "a3ad60845f960053bd79b0f752515a2aa9672a59897b019898b26661821a79b7",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11044,7 +11044,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "15b7d337af92d92234cffbe9ce60d7bf7a037e87cab1319336abc2b8a13a2dcd",
+      "sha256": "46431030bd38b189f11f3232b6d5e5b9072c78a2bc8f2ec7d48f497c42322fd8",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11764,6 +11764,25 @@
       }
     },
     {
+      "path": "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+      "kind": "authored root document",
+      "sha256": "841205f4b2ea9335c7e98e62d7da3c1c2f2e94f4ed7d959e7fd80c03a4acd588",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md",
       "kind": "authored root document",
       "sha256": "898f76f69e11b11338a9c1e9c9e671cc4e5c4ab7614a5863d8ed88957043ba7e",
@@ -12412,7 +12431,7 @@
     {
       "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
       "kind": "authored root document",
-      "sha256": "ae79c8e4269e97972445232685c9f492db96608e2a6fcbb912c9c6fdba53871f",
+      "sha256": "38cb0fb5343fe5ca9f7d4c54e8d782b85b0fbb2c7a7d620b821f53750fed3ded",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13400,7 +13419,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "8cebb8e030fe9b14dc071b97b06288fcba305ea029e8f6e1a6f715e76e5dd456",
+      "sha256": "435c312b19400e85310fd8eaaa565b1a3085e7e4161f59a0c1a097e0d31e2ee6",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -17553,14 +17572,17 @@
         "plan": {
           "status": "partial",
           "evidence": [
-            "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md"
+            "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
+            "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md"
           ]
         },
         "implemented": {
           "status": "partial",
           "evidence": [
             "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
-            "verification/zero_stationary_subject_incidence.py"
+            "verification/zero_stationary_subject_incidence.py",
+            "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+            "verification/zero_echo_subject_persistence.py"
           ]
         }
       }

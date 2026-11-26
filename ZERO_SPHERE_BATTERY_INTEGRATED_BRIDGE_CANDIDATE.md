@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Nineteenth-pass continuation:** [subject persistence and reversible record access](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) adds an explicitly coupled before/after echo memory, quantifies its coherence disturbance, verifies coherent reset and the clock-dressed counterpart, and compares two clock-covariant but distinct ownership rules. A physical record and a symmetry do not themselves select subjects or actual incidence.
+
 **Eighteenth-pass continuation:** [the joint incidence–quality–pair construction](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) puts both commuting quality candidates on one event interface and derives their componentwise opposite pair from the same constrained sign. One occurrence per event is a hypothesis; the distinct-type α family remains a control, and neither subjecthood nor felt quality follows from the structural joint PVM.
 
 **Seventeenth-pass continuation:** [relational geometry and dressed kinetic selection](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) shows the active independent-rotation action does not generally preserve the newly imposed frame-gauge vector sector. It constructs a quotient Laplacian whose uniform zero mode carries the actual records, constrained pair and stationary clock, while showing why zero and gauge alone do not select the free operator.
