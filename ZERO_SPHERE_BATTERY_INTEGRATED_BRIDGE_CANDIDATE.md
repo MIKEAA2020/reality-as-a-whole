@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Twenty-second-pass continuation:** [typed echo process, clock and access](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) transports the same logical sign through the actual echo, saved memory, stationary clock and constrained pair; tests coherent code refinements and reports; and distinguishes an independently varying interacting content. Experience, ownership and actual incidence remain additional obligations.
+
 **Twenty-first-pass continuation:** [causal access and subject refinement on the echo](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) tests physical gate timing, overlapping local candidate supports, exact record-access sets, and a coherent J-register encoding. It exposes temporal-grain and physical-factorization sensitivity; logical quotienting is conditional and subjecthood remains open.
 
 **Twentieth-pass continuation:** [ownership, report symmetry and incidence](ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md) physically implements the saved/current J comparison, repairs the type operation after adding saved memory, and tests B-dependent ownership candidates against both a restricted report and an active sector-symmetry control. No experiential truth interface or actual subject measure has been derived.

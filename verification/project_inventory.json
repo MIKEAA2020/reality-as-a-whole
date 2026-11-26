@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 819,
-  "bytes": 10555123,
-  "line_count": 95351,
-  "document_count_with_risk_phrases": 772,
+  "document_count": 820,
+  "bytes": 10574553,
+  "line_count": 95537,
+  "document_count_with_risk_phrases": 773,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3c2045e293288c77cad48fca61815377a74ff7910e16428a4d30a3374051ab78",
-      "bytes": 216171,
-      "lines": 1645,
+      "sha256": "c00eb00c4b1586519e5079ec9b48569a7e7c13e27b21479209f52f0f1e59c2ce",
+      "bytes": 216525,
+      "lines": 1648,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6579,6 +6579,7 @@
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
         "ZERO_UPSTREAM_INVARIANT_ENCODED_HISTORY.md",
         "brain-specificity-thesis.md",
@@ -7427,6 +7428,8 @@
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_full_slice_test.py",
+        "verification/zero_typed_echo_process.py",
+        "verification/zero_typed_echo_process_test.py",
         "verification/zero_upstream_invariant_internal_history_test.py",
         "verification/framework_inventory_manifest.json"
       ],
@@ -7453,12 +7456,12 @@
         721,
         724,
         744,
-        779,
-        816,
-        825,
-        828,
-        831,
-        902
+        780,
+        817,
+        826,
+        829,
+        832,
+        903
       ]
     },
     {
@@ -20029,9 +20032,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "e47d041f15eedea38a4ce2f965a463ad72e3ac0b4756198b3da3319f0d4c5817",
-      "bytes": 20727,
-      "lines": 71,
+      "sha256": "7bcb5e4f3bb7fdecad80df569606776f4918c09edd89338125033970137df61f",
+      "bytes": 21313,
+      "lines": 72,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20067,6 +20070,7 @@
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
+        "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20080,7 +20084,7 @@
         41,
         44,
         47,
-        60
+        61
       ]
     },
     {
@@ -21276,9 +21280,9 @@
     },
     {
       "path": "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
-      "sha256": "80b85aefcce8989f1331b1ef3bdff3df1bb2d6541b7e49e5a2698f7ad88ea62b",
-      "bytes": 16197,
-      "lines": 156,
+      "sha256": "fda0a39f7d376a64e12c931e865a3494e4e619da05cee42939ef43132d068d6e",
+      "bytes": 16522,
+      "lines": 158,
       "title": "Causal organization, access and candidate subjects on the echo",
       "headings": [
         "Causal organization, access and candidate subjects on the echo",
@@ -21291,6 +21295,7 @@
         "6. What to do next"
       ],
       "local_links": [
+        "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "verification/zero_echo_causal_subject_criterion.py",
         "verification/zero_echo_causal_subject_criterion_test.py",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
@@ -21300,13 +21305,13 @@
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md"
       ],
       "risk_phrase_lines": [
-        37,
-        51,
-        63,
-        73,
-        88,
-        109,
-        141
+        39,
+        53,
+        65,
+        75,
+        90,
+        111,
+        143
       ]
     },
     {
@@ -24197,9 +24202,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "97a7baec2adfbe881c26022dc329d035e1f654518993d383a92b6be27f3ad60f",
-      "bytes": 24141,
-      "lines": 158,
+      "sha256": "643785fe50ae3bbc6525bc2d96bfce5207dbd5f1a6e7c2aca496b0d079b56985",
+      "bytes": 24565,
+      "lines": 160,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24212,6 +24217,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
         "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md",
         "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
@@ -24243,22 +24249,22 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        21,
-        27,
+        7,
+        23,
         29,
-        35,
+        31,
         37,
-        47,
-        78,
-        93,
-        124,
+        39,
+        49,
+        80,
+        95,
         126,
-        134,
-        137,
-        138,
+        128,
+        136,
         139,
-        146
+        140,
+        141,
+        148
       ]
     },
     {
@@ -26049,6 +26055,38 @@
         13,
         15,
         175
+      ]
+    },
+    {
+      "path": "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
+      "sha256": "2a3efb241b15ba6b76c5ee3995aa40e2ef22c6005425890679fe06522945709b",
+      "bytes": 17741,
+      "lines": 178,
+      "title": "A typed echo process: content, clock, access and subjecthood",
+      "headings": [
+        "A typed echo process: content, clock, access and subjecthood",
+        "Result",
+        "1. Type the candidate explicitly",
+        "2. One content, different physical expressions",
+        "3. Accessibility is time- and protocol-specific",
+        "4. Transport through a coherent encoding",
+        "5. The clock supplies a real constraint",
+        "6. An actual coherent report and its symmetry"
+      ],
+      "local_links": [
+        "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
+        "verification/zero_typed_echo_process.py",
+        "verification/zero_typed_echo_process.py",
+        "verification/zero_typed_echo_process_test.py",
+        "QUANTUM_ACCESS_STRUCTURES_AND_SUBJECT_COUNT_GATE.md",
+        "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
+        "ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md"
+      ],
+      "risk_phrase_lines": [
+        62,
+        64,
+        74,
+        131
       ]
     },
     {

@@ -1,5 +1,7 @@
 # Causal organization, access and candidate subjects on the echo
 
+**Next dependency:** [typed echo process, clock and access](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) follows one transported logical sign through the real echo, the constrained pair, clock and code refinement, then compares a genuinely independent interacting content. Subjecthood and incidence remain unproved.
+
 ## Outcome
 
 The next dependency was to try a subject criterion based on physical access and causal organization, rather than introduce another arbitrary ownership partition. On the existing echo **with the explicitly added saved-J memory and comparison report**, that test produces a useful candidate and a failure mode:
