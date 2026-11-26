@@ -2,6 +2,8 @@
 
 ## Direct outcome
 
+**Root-cause continuation:** [one joint incidence candidate](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) compares the distinct-type α family below with a single-occurrence, two-coordinate interface on the same coherent echo and constrained pair. The latter is a conditional alternative, not a proof that two genuinely different subjects cannot exist.
+
 **Continuation:** [Flag-record incidence and a reversible physical readout](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) proves uniqueness under the additional sharp physical-flag support premise, and computes record-conditioned weights.
 
 I attempted the promised combined construction on the **existing** sphere/reservoir/echo history. It is possible to formulate a single candidate rule in which both previously compared physical–experiential relations are admitted as distinct incidence types, to give it a determinate signed balance and carry it through the echo. But the rule's crucial ingredients—including **why either physical port is a subject, why its sign is felt, and how incidences are weighted**—remain assumptions, not consequences derived from zero.

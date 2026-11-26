@@ -3292,7 +3292,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "33ceaf2d5447e76db776a54e9318c2d97495344233da4aa3f25e2d8ddfc22f84",
+      "sha256": "1dc864b0cdbdfe998731431d52122586537320c3bdc0192a55ebc8f1af8cbf32",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -11044,7 +11044,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "dd519b14c1ac247b3e713a9446ff54200f36dcd3924fc076384af0d469bd1d8e",
+      "sha256": "15b7d337af92d92234cffbe9ce60d7bf7a037e87cab1319336abc2b8a13a2dcd",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -12393,7 +12393,26 @@
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
       "kind": "authored root document",
-      "sha256": "0164c16c623cc4622aeea0fe3268d637a534872f94ec4e900cdc8109227f8212",
+      "sha256": "bf00db5e94fdef6e5704723e49a8bf11afff1c61fc22a6b4c07d43dd88431ab4",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+      "kind": "authored root document",
+      "sha256": "ae79c8e4269e97972445232685c9f492db96608e2a6fcbb912c9c6fdba53871f",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -13381,7 +13400,7 @@
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
       "kind": "authored root document",
-      "sha256": "c65661bc62bea33be0b758c67c5d27fad3898b6ba50ce82aa026bf2d2cc158b2",
+      "sha256": "8cebb8e030fe9b14dc071b97b06288fcba305ea029e8f6e1a6f715e76e5dd456",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -16795,14 +16814,17 @@
         "plan": {
           "status": "partial",
           "evidence": [
-            "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md"
+            "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+            "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md"
           ]
         },
         "implemented": {
           "status": "partial",
           "evidence": [
             "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-            "verification/zero_intrinsic_angular_estimation.py"
+            "verification/zero_intrinsic_angular_estimation.py",
+            "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+            "verification/zero_joint_quality_incidence_root.py"
           ]
         }
       }
@@ -16997,14 +17019,17 @@
         "plan": {
           "status": "partial",
           "evidence": [
-            "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md"
+            "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+            "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md"
           ]
         },
         "implemented": {
           "status": "partial",
           "evidence": [
             "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-            "verification/zero_intrinsic_angular_estimation.py"
+            "verification/zero_intrinsic_angular_estimation.py",
+            "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+            "verification/zero_joint_quality_incidence_root.py"
           ]
         }
       }

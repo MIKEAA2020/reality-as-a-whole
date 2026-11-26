@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Eighteenth-pass continuation:** [the joint incidence–quality–pair construction](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) puts both commuting quality candidates on one event interface and derives their componentwise opposite pair from the same constrained sign. One occurrence per event is a hypothesis; the distinct-type α family remains a control, and neither subjecthood nor felt quality follows from the structural joint PVM.
+
 **Seventeenth-pass continuation:** [relational geometry and dressed kinetic selection](ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md) shows the active independent-rotation action does not generally preserve the newly imposed frame-gauge vector sector. It constructs a quotient Laplacian whose uniform zero mode carries the actual records, constrained pair and stationary clock, while showing why zero and gauge alone do not select the free operator.
 
 **Sixteenth-pass continuation:** [the relational magnitude root cause](ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md) distinguishes active changes of relative angle from independent internal frame changes. A relative-frame comparator preserves individual magnitudes as well as the zero sum, while explicit countermodels show that frame symmetry and zero alone do not determine orbit-space weights or the physical–experiential constitution.

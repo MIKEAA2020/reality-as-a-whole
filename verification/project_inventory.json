@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 815,
-  "bytes": 10484218,
-  "line_count": 94722,
-  "document_count_with_risk_phrases": 768,
+  "document_count": 816,
+  "bytes": 10502859,
+  "line_count": 94885,
+  "document_count_with_risk_phrases": 769,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "33ceaf2d5447e76db776a54e9318c2d97495344233da4aa3f25e2d8ddfc22f84",
-      "bytes": 214634,
-      "lines": 1633,
+      "sha256": "1dc864b0cdbdfe998731431d52122586537320c3bdc0192a55ebc8f1af8cbf32",
+      "bytes": 215034,
+      "lines": 1636,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6468,6 +6468,7 @@
         "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
         "ZERO_ISOTROPIC_PLENITUDE_AND_RELATIONAL_DYNAMICS.md",
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
@@ -7315,6 +7316,8 @@
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
         "verification/zero_joint_constitution_incidence_echo_test.py",
+        "verification/zero_joint_quality_incidence_root.py",
+        "verification/zero_joint_quality_incidence_root_test.py",
         "verification/zero_joint_subject_energy_candidate_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
@@ -7434,19 +7437,19 @@
         484,
         584,
         604,
-        677,
-        681,
-        704,
-        708,
-        717,
-        720,
-        740,
-        775,
-        812,
-        821,
-        824,
-        827,
-        898
+        678,
+        682,
+        705,
+        709,
+        718,
+        721,
+        741,
+        776,
+        813,
+        822,
+        825,
+        828,
+        899
       ]
     },
     {
@@ -20017,9 +20020,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "dd519b14c1ac247b3e713a9446ff54200f36dcd3924fc076384af0d469bd1d8e",
-      "bytes": 18343,
-      "lines": 69,
+      "sha256": "15b7d337af92d92234cffbe9ce60d7bf7a037e87cab1319336abc2b8a13a2dcd",
+      "bytes": 18977,
+      "lines": 68,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20051,6 +20054,7 @@
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20061,8 +20065,9 @@
         34,
         36,
         39,
-        43,
-        58
+        41,
+        44,
+        57
       ]
     },
     {
@@ -22384,9 +22389,9 @@
     },
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
-      "sha256": "0164c16c623cc4622aeea0fe3268d637a534872f94ec4e900cdc8109227f8212",
-      "bytes": 17309,
-      "lines": 165,
+      "sha256": "bf00db5e94fdef6e5704723e49a8bf11afff1c61fc22a6b4c07d43dd88431ab4",
+      "bytes": 17670,
+      "lines": 167,
       "title": "One history, two candidate incidences: constitution, measure and echo",
       "headings": [
         "One history, two candidate incidences: constitution, measure and echo",
@@ -22399,6 +22404,7 @@
         "6. Carry both candidates through the coherent echo"
       ],
       "local_links": [
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "verification/zero_joint_constitution_incidence_echo_test.py",
         "ZERO_SPHERE_LOCAL_CONSTITUTION_AND_RESERVOIR_ECHO.md",
@@ -22407,11 +22413,49 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
-        5,
-        14,
-        71,
-        83,
-        156
+        7,
+        16,
+        73,
+        85,
+        158
+      ]
+    },
+    {
+      "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+      "sha256": "ae79c8e4269e97972445232685c9f492db96608e2a6fcbb912c9c6fdba53871f",
+      "bytes": 16798,
+      "lines": 157,
+      "title": "One joint incidence candidate: quality, record and the opposite pair",
+      "headings": [
+        "One joint incidence candidate: quality, record and the opposite pair",
+        "Why this is the first feasible dependency step",
+        "1. Dependency order and current status",
+        "2. Two prior sign rules are jointly defined",
+        "3. The pair already carries the joint structure",
+        "4. A concrete joint table on the original vectors",
+        "5. One incidence, two queries: exactly what follows",
+        "6. Persistence is not a requirement of unchanging quality"
+      ],
+      "local_links": [
+        "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
+        "verification/zero_joint_quality_incidence_root.py",
+        "verification/zero_joint_quality_incidence_root_test.py",
+        "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
+        "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
+        "TWO_EXPERIENCE_AND_REALITY_TRANSCRIPTS_SYNTHESIS.md",
+        "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
+      ],
+      "risk_phrase_lines": [
+        10,
+        12,
+        27,
+        105,
+        115,
+        138,
+        146
       ]
     },
     {
@@ -24040,9 +24084,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "c65661bc62bea33be0b758c67c5d27fad3898b6ba50ce82aa026bf2d2cc158b2",
-      "bytes": 22431,
-      "lines": 150,
+      "sha256": "8cebb8e030fe9b14dc071b97b06288fcba305ea029e8f6e1a6f715e76e5dd456",
+      "bytes": 22879,
+      "lines": 152,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24055,6 +24099,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_RELATIONAL_GEOMETRY_KINETIC_MEASURE_SELECTION.md",
         "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
         "ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md",
@@ -24082,21 +24127,21 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        13,
-        19,
+        15,
         21,
-        27,
+        23,
         29,
-        39,
-        70,
-        85,
-        116,
+        31,
+        41,
+        72,
+        87,
         118,
-        126,
-        129,
-        130,
+        120,
+        128,
         131,
-        138
+        132,
+        133,
+        140
       ]
     },
     {
