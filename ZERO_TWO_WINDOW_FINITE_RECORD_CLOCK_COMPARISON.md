@@ -1,5 +1,7 @@
 # Finite records and clock descriptions in the two-window model
 
+**Continuation:** [recorded histories and finite-interval stability](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) constructs the repeated instrument in this same model, transports its continuum branches conditionally on the existing slice theorem, and proves finite-interval raw-data instability.
+
 ## Result and correction
 
 The central limitation is **not** that an ideal continuum change of description has never been constructed. The existing [full-state two-window result](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) gives full reconstruction from the complete complex scalar-clock signal on almost every 13-tuple of geometry slices, including bound states; [its predecessor](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) gives almost-everywhere single-slice reconstruction for the scattering sector. A later [three-memory extension](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) gives a sufficient 26-slice bound for a changed constraint. These are ideal all-φ signals, with internal labels and phase retained—not a finite set of detector clicks. I incorrectly understated the two-window result in the initial diagnosis; that diagnosis is now corrected.
@@ -54,7 +56,7 @@ There is no conflict with full-state 13-slice reconstruction: that theorem uses 
 
 * A geometrical clock-switch test must compare the same intervention in the established continuum slice-data representation, specify its domain and usable finite data, and bound errors. The DFT calculation alone is not that test.
 * The finite full-space calculation retains all regulator modes but does not isolate continuum bound versus scattering contributions, establish rates of convergence, or decide whether one full complex slice recovers every bound direction. The existing 13-slice theorem covers both sectors in its own ideal-data setting.
-* Neither the snapshot no-click nor finite reversible memory bits identify zero, one or multiple crossings. An explicit history instrument with records, repeated readout backaction and the applicable clock domain remains to be constructed and compared.
+* Neither the snapshot no-click nor finite reversible memory bits identify zero, one or multiple crossings. The [continuation](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) constructs and compares an explicit repeated-click instrument with backaction; it does not claim that click multiplicity is crossing multiplicity, or replace the ideal scalar checkpoints with an autonomous geometry clock.
 * The ideal scalar clock, band projection, detector, memory and initial state are chosen. None is derived from zero, nor do their correlations establish actual subjects, experience, a thermodynamic arrow, general covariance or a solution of quantum gravity.
 
 ## Reproduce
