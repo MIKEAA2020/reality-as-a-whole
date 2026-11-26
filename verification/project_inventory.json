@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 865,
-  "bytes": 11266724,
-  "line_count": 101816,
-  "document_count_with_risk_phrases": 817,
+  "document_count": 866,
+  "bytes": 11285812,
+  "line_count": 101950,
+  "document_count_with_risk_phrases": 818,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2510,9 +2510,9 @@
     },
     {
       "path": "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
-      "sha256": "01b7e1dda71b4d141d8c8e661766bf2402ae36d46e1efeff812d3245a5b0f24d",
-      "bytes": 23028,
-      "lines": 184,
+      "sha256": "1c453ae2b5bf1fdab6b0e195fbb0597d482b6b73ccc8677c675cd806cc096b14",
+      "bytes": 23492,
+      "lines": 186,
       "title": "One constitution, one rival, and a decision that could challenge both",
       "headings": [
         "One constitution, one rival, and a decision that could challenge both",
@@ -2526,6 +2526,7 @@
       ],
       "local_links": [
         "verification/constitution_challenge_decision_test.py",
+        "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
         "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
         "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
         "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
@@ -2542,17 +2543,17 @@
       "risk_phrase_lines": [
         5,
         11,
-        19,
-        46,
-        53,
-        79,
-        90,
-        104,
+        21,
+        48,
+        55,
+        81,
+        92,
         106,
-        116,
-        123,
+        108,
+        118,
         125,
-        153
+        127,
+        155
       ]
     },
     {
@@ -5846,9 +5847,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a9ba6145e0744a502632df20fd7113313ba4cb2d383e52e214a12d7eab6cd0f1",
-      "bytes": 231917,
-      "lines": 1763,
+      "sha256": "3a78fb9fde3892141a3b24e1395108b4545b28719d7228bb4d8f43401d983d12",
+      "bytes": 232357,
+      "lines": 1766,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6421,6 +6422,7 @@
         "VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md",
         "VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md",
         "VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md",
+        "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
         "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
         "VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md",
         "WDW_ANGULAR_COUPLING.md",
@@ -6790,6 +6792,7 @@
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md",
         "sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md",
         "sources/uploads/take bostrom's simulation hypothesis as starting point. what.md",
+        "sources/uploads/ventura_hard_problem_consciousness.txt",
         "sources/uploads/williams2019.pdf",
         "verification/framework_battery.py",
         "verification/abaee_additive_dynamics_audit_test.py",
@@ -7312,6 +7315,7 @@
         "verification/value_capture_followup_test.py",
         "verification/vedral_energy_and_locality_gate.py",
         "verification/vedral_free_spread_gate.py",
+        "verification/ventura_dancing_qualia_report_control_test.py",
         "verification/visual_stimulation_report_benchmark.py",
         "verification/visual_stimulation_report_benchmark_test.py",
         "verification/wdw_angular_coupling.py",
@@ -7610,21 +7614,21 @@
         387,
         418,
         486,
-        586,
-        606,
-        705,
-        709,
-        735,
-        740,
-        750,
-        753,
-        779,
-        825,
-        862,
-        871,
-        874,
-        877,
-        948
+        587,
+        607,
+        706,
+        710,
+        736,
+        741,
+        751,
+        754,
+        780,
+        826,
+        863,
+        872,
+        875,
+        878,
+        949
       ]
     },
     {
@@ -19551,6 +19555,37 @@
       ]
     },
     {
+      "path": "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
+      "sha256": "643390ef81ed42e0bc509f2ee0b32d33402a97d499bef448f636743470ea9d48",
+      "bytes": 17497,
+      "lines": 128,
+      "title": "Ventura on the hard problem: full-text reassessment and an access correction",
+      "headings": [
+        "Ventura on the hard problem: full-text reassessment and an access correction",
+        "Result",
+        "1. Source and scope",
+        "2. What the article actually says",
+        "3. Revising our previous response",
+        "4. Same physical account, two experiential assignments, one report",
+        "5. What dancing qualia contributes—and does not",
+        "6. What the article contributes beyond the current test"
+      ],
+      "local_links": [
+        "sources/uploads/ventura_hard_problem_consciousness.txt",
+        "verification/ventura_dancing_qualia_report_control_test.py",
+        "sources/uploads/ventura_hard_problem_consciousness.txt",
+        "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        15,
+        48,
+        71,
+        77
+      ]
+    },
+    {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
       "sha256": "db3a2ed9f3c093641be4dac4cf9dda3a22ff204b0aaa57feea45815a49e331a6",
       "bytes": 14541,
@@ -20271,9 +20306,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "85a4b26411f848a351e67c989574cbe89791a467bbd0b54ccc1327993b89368d",
-      "bytes": 48964,
-      "lines": 119,
+      "sha256": "6ccb5b94dc871133b9c3b0acdd7827235ceccab4909a63ee8aa115bdb16a88ef",
+      "bytes": 49651,
+      "lines": 120,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20363,6 +20398,9 @@
         "verification/zero_sr_echo_quantum_eraser_test.py",
         "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
         "verification/constitution_challenge_decision_test.py",
+        "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
+        "sources/uploads/ventura_hard_problem_consciousness.txt",
+        "verification/ventura_dancing_qualia_report_control_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20398,7 +20436,7 @@
         90,
         91,
         95,
-        108
+        109
       ]
     },
     {

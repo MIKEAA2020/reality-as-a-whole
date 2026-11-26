@@ -12,6 +12,8 @@ We can state a quantitative challenge. Among trials *classified* as persistent m
 
 **Verdict:** this is an end-to-end *conditional test specification*, not a completed real-world test or a demonstration of experiential identity. The real bottleneck is to identify the physical relation and the subject's episode in an actual system, independently of the quality data used to test it. [Executable checks](verification/constitution_challenge_decision_test.py).
 
+**Access correction:** the [Ventura full-text reassessment](VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md) makes explicit that, when the complete physical description also fixes a common report law, one report cannot reliably match both incompatible quality assignments on their disagreement histories. The earlier same-spin-kernel comparison does not prove that both assignments have reliable access or the same complete subject/report constitution.
+
 ## 1. The one candidate, with all parts visible
 
 This is a deliberately narrow use of the earlier [integrated experiential-misalignment candidate](INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md), not a new complete theory or an alteration of a frozen dossier. It uses the existing **classical four-spin sector**, not the quantum echo from the immediately preceding passes. Both address the same constitutive question and the earlier coordinate/access cautions inform this test, but no physical mapping or derivation between the two models is claimed. The four-spin sector is chosen because its pre-existing, explicit quality assignment and history rival make the decisive disagreement and a possible human-facing challenge more concrete.

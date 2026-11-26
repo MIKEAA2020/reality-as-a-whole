@@ -1506,7 +1506,7 @@
     {
       "path": "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
       "kind": "authored root document",
-      "sha256": "01b7e1dda71b4d141d8c8e661766bf2402ae36d46e1efeff812d3245a5b0f24d",
+      "sha256": "1c453ae2b5bf1fdab6b0e195fbb0597d482b6b73ccc8677c675cd806cc096b14",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -3311,7 +3311,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "a9ba6145e0744a502632df20fd7113313ba4cb2d383e52e214a12d7eab6cd0f1",
+      "sha256": "3a78fb9fde3892141a3b24e1395108b4545b28719d7228bb4d8f43401d983d12",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -10624,6 +10624,25 @@
       }
     },
     {
+      "path": "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
+      "kind": "authored root document",
+      "sha256": "643390ef81ed42e0bc509f2ee0b32d33402a97d499bef448f636743470ea9d48",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
       "kind": "authored root document",
       "sha256": "db3a2ed9f3c093641be4dac4cf9dda3a22ff204b0aaa57feea45815a49e331a6",
@@ -11082,7 +11101,7 @@
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
       "kind": "authored root document",
-      "sha256": "85a4b26411f848a351e67c989574cbe89791a467bbd0b54ccc1327993b89368d",
+      "sha256": "6ccb5b94dc871133b9c3b0acdd7827235ceccab4909a63ee8aa115bdb16a88ef",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -18799,6 +18818,32 @@
         "implemented": {
           "status": "unassessed_in_this_repass",
           "evidence": []
+        }
+      }
+    },
+    {
+      "path": "sources/uploads/ventura_hard_problem_consciousness.txt",
+      "kind": "preserved upload",
+      "sha256": "d4f3bfd1e54be5fbfdda95e659479427d5515412bca2638ac04caea27c0393b7",
+      "stages": {
+        "audit": {
+          "status": "partial",
+          "evidence": [
+            "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md"
+          ]
+        },
+        "plan": {
+          "status": "partial",
+          "evidence": [
+            "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md"
+          ]
+        },
+        "implemented": {
+          "status": "partial",
+          "evidence": [
+            "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
+            "verification/ventura_dancing_qualia_report_control_test.py"
+          ]
         }
       }
     },

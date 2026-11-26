@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 822 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 801 verification Python scripts.
+- 823 root Markdown documents including this register; 43 research Markdown documents.
+- 65 original uploaded files, including provenance metadata; 802 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -571,6 +571,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md](VALUE_CAPTURE_REWARD_SELECTION_PERSISTENCE_FOLLOWUP_PLAN.md) — Retrospective follow-up plan: reward, selection history and persistence
 - [VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md](VEDRAL_QUANTUM_WAVE_INTERPRETATION_AND_EXPERIENCE.md) — Quantum waves, records, and experiential plurality
 - [VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md](VEDRAL_WEB_ARTICLE_SOURCE_AND_CONSERVATION_AUDIT.md) — Vedral's quantum-wave article: sources, conservation and perspective
+- [VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md](VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md) — Ventura on the hard problem: full-text reassessment and an access correction
 - [VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md](VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md) — Vibrational dissonance and discomfort: a precise first test
 - [VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md](VISUAL_STIMULATION_ANNOTATION_AND_SUBJECT_GATE.md) — Visual stimulation: what same-current reports do and do not identify
 - [WDW_ANGULAR_COUPLING.md](WDW_ANGULAR_COUPLING.md) — Angular scalar–tensor coupling: adiabatic decoupling of non-spherical modes
@@ -950,6 +951,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu-2.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu-2.md)
 - [sources/uploads/take bostrom's simulation hypothesis (not just narrative, bu.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20%28not%20just%20narrative%2C%20bu.md)
 - [sources/uploads/take bostrom's simulation hypothesis as starting point. what.md](sources/uploads/take%20bostrom%27s%20simulation%20hypothesis%20as%20starting%20point.%20what.md)
+- [sources/uploads/ventura_hard_problem_consciousness.txt](sources/uploads/ventura_hard_problem_consciousness.txt)
 - [sources/uploads/williams2019.pdf](sources/uploads/williams2019.pdf)
 
 ## Verification scripts
@@ -1476,6 +1478,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/value_capture_followup_test.py](verification/value_capture_followup_test.py)
 - [verification/vedral_energy_and_locality_gate.py](verification/vedral_energy_and_locality_gate.py)
 - [verification/vedral_free_spread_gate.py](verification/vedral_free_spread_gate.py)
+- [verification/ventura_dancing_qualia_report_control_test.py](verification/ventura_dancing_qualia_report_control_test.py)
 - [verification/visual_stimulation_report_benchmark.py](verification/visual_stimulation_report_benchmark.py)
 - [verification/visual_stimulation_report_benchmark_test.py](verification/visual_stimulation_report_benchmark_test.py)
 - [verification/wdw_angular_coupling.py](verification/wdw_angular_coupling.py)

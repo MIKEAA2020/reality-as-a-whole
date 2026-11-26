@@ -37,6 +37,11 @@ PSR='ZERO_PSR5_SECOND_WAVE_ADJUDICATION_AND_LESSONS.md'
 # source-specific audit/plan/implementation is actually recorded; not on the
 # basis of a title, passing a script, or an automated text match.
 PARTIAL={
+ 'sources/uploads/ventura_hard_problem_consciousness.txt': {
+  'audit':['VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md'],
+  'plan':['VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md'],
+  'implemented':['VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md',
+                 'verification/ventura_dancing_qualia_report_control_test.py']},
  'sources/uploads/russellian-absolute-discussion.md': {
   'audit':['brain-specificity-thesis.md','ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md'],
   'plan':['ZERO_SPHERE_REPRESENTATIONS_GAUGE_LANGLANDS.md'],
