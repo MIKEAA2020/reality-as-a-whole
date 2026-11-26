@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 867,
-  "bytes": 11301719,
-  "line_count": 102084,
-  "document_count_with_risk_phrases": 819,
+  "document_count": 868,
+  "bytes": 11320471,
+  "line_count": 102261,
+  "document_count_with_risk_phrases": 820,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "73c8f4a2451ec5db873251925eaf2f100feb0c74ed89fa0c829586e349ebf7ef",
-      "bytes": 232629,
-      "lines": 1768,
+      "sha256": "5171cbfb768b799be5fcf4175d8fd3718a45af9c76bb1eb31eb75be1ce795570",
+      "bytes": 232922,
+      "lines": 1770,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6544,6 +6544,7 @@
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
         "ZERO_GAUGE_CALIBRATION_CAUSES_AND_TRANSFER_BOUND.md",
         "ZERO_GAUGE_CLOCK_CAUSAL_CHAIN_AND_CALIBRATION_ROOT.md",
@@ -7484,6 +7485,7 @@
         "verification/zero_internal_reference_subject_valence_candidates_test.py",
         "verification/zero_intrinsic_angular_estimation.py",
         "verification/zero_intrinsic_angular_estimation_test.py",
+        "verification/zero_intrinsic_difference_common_constitution_test.py",
         "verification/zero_intrinsic_point_jets.py",
         "verification/zero_intrinsic_point_jets_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
@@ -7649,19 +7651,19 @@
         487,
         588,
         608,
-        707,
-        711,
-        737,
-        742,
-        752,
-        755,
-        781,
-        827,
-        864,
-        873,
-        876,
-        879,
-        950
+        708,
+        712,
+        738,
+        743,
+        753,
+        756,
+        782,
+        828,
+        865,
+        874,
+        877,
+        880,
+        951
       ]
     },
     {
@@ -20340,9 +20342,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "5fffd335e3e625623757ba07e74694fa160c995b7316c9281ce4f526220a0adc",
-      "bytes": 50263,
-      "lines": 121,
+      "sha256": "b82f0f8ecf38f3000298d412af0f9fa83d59184619482301a6b0d96f1ef0d2f2",
+      "bytes": 50941,
+      "lines": 122,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20437,6 +20439,8 @@
         "verification/ventura_dancing_qualia_report_control_test.py",
         "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
         "verification/constitutive_subject_access_circuit_test.py",
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
+        "verification/zero_intrinsic_difference_common_constitution_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20472,7 +20476,7 @@
         90,
         91,
         95,
-        110
+        111
       ]
     },
     {
@@ -22579,6 +22583,37 @@
         86,
         123,
         154
+      ]
+    },
+    {
+      "path": "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
+      "sha256": "40a9680c346e5d7e74fbdb680cd5dfc360bc169ebba3dd1604d42d79c33a68b0",
+      "bytes": 17463,
+      "lines": 172,
+      "title": "Toward one constitution of zero and experience",
+      "headings": [
+        "Toward one constitution of zero and experience",
+        "The task at full strength",
+        "1. The argument, without weakening it",
+        "2. An internal balance derived from differences",
+        "3. A pointed whole: relabelling need not erase local difference",
+        "4. The same structure as an experiential candidate",
+        "5. The important control: zero balance does not select every global quantity",
+        "6. Contact with physical energy"
+      ],
+      "local_links": [
+        "verification/zero_intrinsic_difference_common_constitution_test.py",
+        "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
+        "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        62,
+        144
       ]
     },
     {
@@ -26837,9 +26872,9 @@
     },
     {
       "path": "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
-      "sha256": "6bd28b84a000ff8117c5dc6b6c6a425cae5349303608e28aa95815ffb4bb0edd",
-      "bytes": 26506,
-      "lines": 199,
+      "sha256": "4603ec34c8f7e8992c5ee5495ef9435c545452512a8c42ea9c16cd847cfeb6d7",
+      "bytes": 26824,
+      "lines": 201,
       "title": "Can self-sufficient zero be intrinsically differentiated experience?",
       "headings": [
         "Can self-sufficient zero be intrinsically differentiated experience?",
@@ -26852,6 +26887,7 @@
         "5. Can self-sufficiency require differentiation?"
       ],
       "local_links": [
+        "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261123-3.txt",
         "ZERO_TOTALITY_INTRINSIC_RELATIONAL_ACCOUNTING.md",
         "ZERO_TOTALITY_EXPERIENTIAL_ONE_FORM_AND_LOOP_BALANCE.md",
@@ -26862,13 +26898,13 @@
         "ZERO_TOTALITY_MODAL_SYMMETRY_BRIDGE.md"
       ],
       "risk_phrase_lines": [
-        42,
-        78,
-        84,
-        119,
-        158,
+        44,
+        80,
+        86,
+        121,
         160,
-        175
+        162,
+        177
       ]
     },
     {

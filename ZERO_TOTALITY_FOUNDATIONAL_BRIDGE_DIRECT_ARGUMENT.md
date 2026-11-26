@@ -2,6 +2,8 @@
 
 ## Direct answer
 
+The [common-constitution continuation](ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md) takes the user's strengthened dominance premises at full strength, derives canonical internal difference balance and pointed relabelling, and distinguishes a meaningful physical energy zero from a centered bookkeeping identity.
+
 I attempted the promised foundational argument, rather than extending another dynamical model. The strongest route I can defend is an **identification argument**: start from actual experiential differentiation, then show that the only fully self-subsistent constitution capable of that actuality is intrinsically zero. If that identification were established, experience would not be something added to zero, and its occurrence would not require an external producer. Knowledge of experience would help us *identify* zero's constitution; it would not mean experience existed before zero.
 
 The decisive step is not yet established. Neither `Q=0`, nor self-containment, nor actual experience alone tells us that the same zero nature determines the particular experiences and their relations. The direct argument below makes the missing step specific: **uniqueness must extend to experiential organization, not only to an abstract structural description**, and the zero principle must explain that uniqueness rather than merely encode the observed facts. This is a live research target, not a proof that the user's demand is impossible or an invitation to accept a residue.
