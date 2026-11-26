@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Accessible-marginal diagnosis:** [the saved-J memory and incidence blocks](ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md) distinguishes all effects on an actual mixed local record from all effects on its pure global carrier. Local type correlations can preserve the former but not the latter; a physical type-sensitive reporter remains hypothetical.
+
 **Incidence-balance diagnosis:** [equal type weights versus signed balance](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) derives an exact conditional criterion on the existing echo table. It shows equal type weights are unnecessary in the strong pure-state family, while diagonal-only type correlations can break balance even with equal weights and type symmetry; those correlations do not preserve the same pure quantum marginal.
 
 **Echo symmetry diagnosis:** [state versus dynamical symmetry](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) finds the same uniform echo in the common zero sector despite noncommuting free dynamics and type swap, and tests an even recorded-pair excitation that exposes the mismatch. Actual incidence symmetry remains a separate premise.

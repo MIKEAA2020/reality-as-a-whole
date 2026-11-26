@@ -1,5 +1,7 @@
 # Subject persistence, records and access on the coherent echo
 
+**Access follow-up:** [the saved-memory marginal diagnosis](ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md) uses this protocol's 3/4–1/4 record to distinguish full local effect consistency from full global pure-state consistency; type-sensitive reports remain hypothetical.
+
 **Next dependency:** [the physical report and ownership-symmetry test](ZERO_OWNERSHIP_REPORT_SYMMETRY_AND_INCIDENCE.md) implements the saved/current comparison, repairs the saved-record type-symmetry break, tests explicit ownership bridges and evaluates their conditional incidence census.
 
 ## Result and scope

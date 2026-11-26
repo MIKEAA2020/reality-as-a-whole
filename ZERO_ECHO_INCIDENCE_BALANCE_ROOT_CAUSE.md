@@ -2,6 +2,8 @@
 
 ## The problem and diagnostic result
 
+**Access follow-up:** [the saved-memory marginal investigation](ZERO_ECHO_ACCESSIBLE_MARGINAL_INCIDENCE_ROOT_CAUSE.md) checks the actual recorded echo's mixed local state. Equal untyped expectations for every memory effect do not force proportional type blocks, but a nonproportional extension changes the globally pure physical state and can be distinguished by an available-in-principle joint coherence effect.
+
 The previous [state-versus-dynamics investigation](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) distinguished a physical state symmetry from an actual-incidence symmetry. A further practical question is whether the programme's proposed zero balance **requires equal weights for the two quality types**, or whether that condition is stronger than necessary.
 
 For the established four-bin echo table and the stipulated magnitude `g₂(u)=|u(u+1)|`, equal type weights are **not necessary** for a zero signed mean. Under the earlier strong pure-physical-marginal and all-effect-consistency assumptions, *every* constant type weight α gives zero for each type separately. Conversely, if one retains only the diagonal physical event table and allows type weights to depend on the event, even globally equal type weights and a combined type-exchange symmetry can coexist with a nonzero signed mean. The latter is a **coarse-table counterexample**, not a valid alternative decomposition of the same pure physical state under all effects.
