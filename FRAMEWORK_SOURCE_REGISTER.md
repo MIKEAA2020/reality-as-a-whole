@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 782 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 741 verification Python scripts.
+- 783 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 743 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -686,6 +686,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md](ZERO_NECESSITY_PLENITUDE_CONSTITUTIVE_TEST.md) — One necessary whole: the constitutive test
 - [ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md](ZERO_NESTED_SPHERE_REFERENCE_COVERAGE_FRONTIER.md) — Keeping the sphere while sourcing its reference internally
 - [ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md](ZERO_NEUTRAL_EXCHANGE_FROM_BALANCE.md) — A parity exchange from an exact zero-charge condition
+- [ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) — Why this zero level? Noncommuting symmetry, invariant rays and the sphere–echo
 - [ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md](ZERO_NONCOMMUTING_COMPLEMENT_SPHERE_HISTORY.md) — Noncommuting sphere readouts on the actual complement
 - [ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) — One reality, zero, experience and necessary plenitude
 - [ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md](ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md) — Extending the balanced orientation and opening a report boundary
@@ -1568,6 +1569,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_page_wootters_original_sphere_connection_test.py](verification/zero_page_wootters_original_sphere_connection_test.py)
 - [verification/zero_pairwise_angular_charge.py](verification/zero_pairwise_angular_charge.py)
 - [verification/zero_pairwise_angular_charge_test.py](verification/zero_pairwise_angular_charge_test.py)
+- [verification/zero_perfect_symmetry_root.py](verification/zero_perfect_symmetry_root.py)
+- [verification/zero_perfect_symmetry_root_test.py](verification/zero_perfect_symmetry_root_test.py)
 - [verification/zero_persistent_sphere_subject_selection_test.py](verification/zero_persistent_sphere_subject_selection_test.py)
 - [verification/zero_plenitude_coupling_clock_test.py](verification/zero_plenitude_coupling_clock_test.py)
 - [verification/zero_plenitude_necessity_test.py](verification/zero_plenitude_necessity_test.py)

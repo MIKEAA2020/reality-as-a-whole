@@ -1,5 +1,7 @@
 # Does actual experience make the zero constitution necessary and self-explanatory?
 
+**Zero-level continuation:** [non-Abelian symmetry and the zero level](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) gives a conditional non-arbitrary normalization for a rotation charge and shows how a full invariant pure ray enforces its zero, while distinguishing that result from energy, experiential constitution and ultimate self-sufficiency.
+
 ## The question behind the previous question
 
 The [point-and-direction investigation](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) showed how a single mathematical point can carry richer internal structure, but did not explain why that structure belongs to actual zero. The next **why** is deeper:

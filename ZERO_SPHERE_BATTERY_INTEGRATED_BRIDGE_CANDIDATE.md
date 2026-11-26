@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Non-Abelian zero-level why-chain:** [noncommuting symmetry and the zero level](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) shows how a strict perfect-algebra generator and full pure-ray invariance can give an intrinsically normalized zero rotation charge on the same spherical echo, with mixed-state and time-energy controls. The physical group, actual state, global energy and experiential identity remain unestablished.
+
 **Experiential necessity why-chain:** [experience, necessity and explanatory bedrock](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) analyzes the user's global possibility–actuality thesis, shows how scope affects its content, preserves a positive first-person witness alongside a private-fields countermodel, and distinguishes necessary logical sufficiency from self-explanation. The full zero/experience identity and actual incidence remain unproved.
 
 **Point-direction why-chain continuation:** [intrinsic point structure](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) represents one ordinary point with a nontrivial internal tangent and tracks the additional dimension, metric, measure and actuality premises. Full active linear symmetry has no normalized invariant directional probability in dimensions at least two; the point and its algebra are formal, not a derivation of experience or self-sufficiency.

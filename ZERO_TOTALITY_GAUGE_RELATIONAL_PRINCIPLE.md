@@ -1,5 +1,7 @@
 # Can relational symmetry explain a zero total?
 
+**Deeper zero-level continuation:** [the non-Abelian symmetry why-chain](ZERO_NONABELIAN_SYMMETRY_ZERO_LEVEL_WHY_CHAIN.md) shows why the additive shift freedom in this Abelian example need not apply to a strictly equivariant moment map for a perfect noncommuting algebra, and connects an invariant pure ray to a zero rotation charge on the spherical echo. It does not derive the physical group, actual state or an objective whole-energy zero.
+
 ## Result
 
 **Continuation:** [symmetry selection and the zero level](ZERO_TOTALITY_SYMMETRY_SELECTION_AND_ZERO_LEVEL.md) derives zero from sign reversal plus a unique admissible constraint level, and distinguishes that conditional result from symmetry of the laws or a zero quantum expectation alone.
