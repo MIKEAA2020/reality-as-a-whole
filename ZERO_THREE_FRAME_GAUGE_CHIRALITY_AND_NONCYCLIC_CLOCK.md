@@ -2,7 +2,7 @@
 
 ## Result
 
-**Continuation:** [a finite clock and chirality–holonomy joint instrument](ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md) specifies coherent clock and loop sensors, computes conditional finite-shot statistics, and quantifies how clock readout changes the noncyclic constraint residual.
+**Continuation:** [a finite clock and chirality–holonomy joint instrument](ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md) specifies coherent clock and loop sensors, computes conditional finite-shot statistics, and quantifies how clock readout changes the noncyclic constraint residual. A later [biochemical chirality audit](ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md) calibrates this invariant to an idealized labeled alanine stereocenter and tests a modified Frank-type amplification network, without claiming a derivation of real chemistry or Earth's specific handedness.
 
 This pass implements the next two tests proposed after the [clocked chirality record](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md): an explicit three-frame gauge model, and a noncyclic clock alternative. It finds:
 

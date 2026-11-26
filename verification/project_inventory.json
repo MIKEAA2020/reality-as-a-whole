@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 875,
-  "bytes": 11433304,
-  "line_count": 103278,
-  "document_count_with_risk_phrases": 827,
+  "document_count": 876,
+  "bytes": 11450541,
+  "line_count": 103437,
+  "document_count_with_risk_phrases": 828,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -20391,9 +20391,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "70aeabc648f53d67801ef15e9037e3212983e7df6c448c0d93482fb0c5093e80",
-      "bytes": 55682,
-      "lines": 129,
+      "sha256": "7a92d6523a4533cd218426005101aed99e47a85dfd66e99efb63dfec60fa5f37",
+      "bytes": 56367,
+      "lines": 130,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20505,6 +20505,8 @@
         "verification/zero_gravity_local_physical_reference_test.py",
         "ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md",
         "verification/zero_gravity_local_memory_pulse_test.py",
+        "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
+        "verification/zero_molecular_chirality_amplification_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20543,7 +20545,7 @@
         99,
         102,
         105,
-        118
+        119
       ]
     },
     {
@@ -25222,6 +25224,36 @@
       ]
     },
     {
+      "path": "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
+      "sha256": "2dedf7d9cdd6d348c696439bf6ddae36c275b9a4ea8b8e2604ff79ba3464c542",
+      "bytes": 16249,
+      "lines": 158,
+      "title": "Relational chirality and the origin of biochemical handedness",
+      "headings": [
+        "Relational chirality and the origin of biochemical handedness",
+        "Honest result",
+        "1. The actual scientific target",
+        "2. From the framework's relational invariant to an alanine stereocenter",
+        "3. A documented mechanism, made explicit",
+        "4. A worked, finite-supply example",
+        "5. What is balanced—and what is not",
+        "6. What the bridge establishes, and what it does not"
+      ],
+      "local_links": [
+        "verification/zero_molecular_chirality_amplification_test.py",
+        "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
+        "verification/requirements-gravity-spin-pointer.txt"
+      ],
+      "risk_phrase_lines": [
+        9,
+        74,
+        85,
+        119,
+        131,
+        141
+      ]
+    },
+    {
       "path": "ZERO_RELATIONAL_CLOCK_REUSABLE_MEMORY_RESOURCE.md",
       "sha256": "55d928980aed5af8edd4df9dd9511a7a380fd95d17ee56088eb53b94cb49f110",
       "bytes": 13152,
@@ -26764,8 +26796,8 @@
     },
     {
       "path": "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
-      "sha256": "37a502e3a5d60a17a012d8ab35595f3b28b35f682a198d1c6a8d576ebece6d8a",
-      "bytes": 15336,
+      "sha256": "77495e31b8cef993a8138628f1bca03859eb42444ed9081a9390cf78f0d6ccbf",
+      "bytes": 15639,
       "lines": 165,
       "title": "Three local frames, chirality and noncyclic record retention",
       "headings": [
@@ -26780,6 +26812,7 @@
       ],
       "local_links": [
         "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
+        "ZERO_RELATIONAL_CHIRALITY_AND_BIOLOGICAL_HOMOCHIRALITY.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "verification/zero_three_frame_chirality.py",
         "verification/zero_noncyclic_chirality_clock.py",
