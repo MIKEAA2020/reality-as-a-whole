@@ -159,6 +159,8 @@ The immediate advance must replace the homogeneous scalar threshold with a **phy
 
 The project's existing [covariant gauge–clock framework](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) and [subject–quality–access circuit](CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md) provide pieces to examine, **not** an already established embedding of one in the other. The user's project succeeds only when their relevant physical and experiential roles are fixed by the same constitution.
 
+The [localized relational identity continuation](ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md) uses a different, previously constructed coupled gravity–matter model to derive a local clock-relative detector response for two equal-constraint signal preparations. It remains a proposed physical interface, not a derived subject, retained record or established cosmic energy.
+
 ## Reproduce
 
 ```sh

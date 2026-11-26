@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 871,
-  "bytes": 11371112,
-  "line_count": 102704,
-  "document_count_with_risk_phrases": 823,
+  "document_count": 872,
+  "bytes": 11388550,
+  "line_count": 102855,
+  "document_count_with_risk_phrases": 824,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "0bd4b7ae479781507881d3659e0de5d2ebf99af82ad002cbc5407e0f142c3081",
-      "bytes": 233971,
-      "lines": 1777,
+      "sha256": "95e3c8b0f620a8a74dc46920da7b05e6e9b88bc3c2dda766e9ba12bf953e4fb7",
+      "bytes": 234280,
+      "lines": 1779,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6580,6 +6580,7 @@
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_JOINT_SUBJECT_VALENCE_ENERGY_CANDIDATE.md",
         "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
+        "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
         "ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md",
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md",
@@ -7506,6 +7507,7 @@
         "verification/zero_joint_unity_bridge_test.py",
         "verification/zero_local_incidence_current_test.py",
         "verification/zero_local_record_constitution_test.py",
+        "verification/zero_local_relational_identity_detector_test.py",
         "verification/zero_locality_boundary_test.py",
         "verification/zero_localized_modules_boundary_test.py",
         "verification/zero_measure_independent_relational_record_test.py",
@@ -7658,19 +7660,19 @@
         488,
         589,
         609,
-        711,
-        715,
-        741,
-        746,
-        756,
-        759,
-        785,
-        831,
-        868,
-        877,
-        880,
-        883,
-        955
+        712,
+        716,
+        742,
+        747,
+        757,
+        760,
+        786,
+        832,
+        869,
+        878,
+        881,
+        884,
+        956
       ]
     },
     {
@@ -20383,9 +20385,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "70f0586a0db628c458cb95ee145886b5393db574df87bac1fc96efb1f5801b4b",
-      "bytes": 53117,
-      "lines": 125,
+      "sha256": "6224c877b80053c9f970dd298fdce700ab2c77d2b51fd0deb8bd1abeb01d5d47",
+      "bytes": 53840,
+      "lines": 126,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20489,6 +20491,8 @@
         "verification/rovelli_equality_coarse_graining_test.py",
         "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
         "verification/zero_intrinsic_identity_relational_gravity_test.py",
+        "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
+        "verification/zero_local_relational_identity_detector_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20525,7 +20529,8 @@
         91,
         95,
         99,
-        114
+        102,
+        115
       ]
     },
     {
@@ -22515,9 +22520,9 @@
     },
     {
       "path": "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
-      "sha256": "9a55a146e623a94a4dc8374fa1205cc1cdad677e58ebb583c31c26b391c2ca02",
-      "bytes": 15731,
-      "lines": 171,
+      "sha256": "a0d89eb4a50ba92c6286d9ccef309667159820af50ba0029fd6a69450fa00cdb",
+      "bytes": 16118,
+      "lines": 173,
       "title": "One physical constitution: zero, relational distinction and intrinsic experience",
       "headings": [
         "One physical constitution: zero, relational distinction and intrinsic experience",
@@ -22534,7 +22539,8 @@
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "verification/zero_intrinsic_identity_relational_gravity_test.py",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
-        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md"
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+        "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md"
       ],
       "risk_phrase_lines": [
         52,
@@ -23783,6 +23789,46 @@
         123,
         141,
         143
+      ]
+    },
+    {
+      "path": "ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md",
+      "sha256": "fb67cce6d63869be638a2f7fab9af6f23654352550ed5711e43534426d8b8855",
+      "bytes": 16019,
+      "lines": 146,
+      "title": "Toward a localized identity candidate in constrained gravity",
+      "headings": [
+        "Toward a localized identity candidate in constrained gravity",
+        "Result",
+        "1. The user's task, kept intact",
+        "2. A single coupled physical construction",
+        "3. Two preparations with the same initial zero constraint",
+        "4. The same relational event, different local responses",
+        "5. A symmetry and reference control",
+        "6. Candidate subject and experience: what would be the identity?"
+      ],
+      "local_links": [
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+        "verification/zero_local_relational_identity_detector_test.py",
+        "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
+        "verification/zero_local_relational_identity_detector_test.py",
+        "RELATIONAL_MATTER_DETECTOR_GRAVITY.md",
+        "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "RELATIONAL_SIGNAL_GEOMETRY_NO_GO.md",
+        "RELATIONAL_MATTER_DETECTOR_GRAVITY.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        43,
+        55,
+        76,
+        83,
+        96,
+        109,
+        127,
+        135,
+        146
       ]
     },
     {
