@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 827 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 806 verification Python scripts.
+- 828 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 807 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -659,6 +659,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md](ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md) — ER = EPR, the firewall, and actual access in the sphere echo
 - [ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md](ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md) — Evidence-driven concept revision without complete history
+- [ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md](ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md) — One physical constitution: zero, relational distinction and intrinsic experience
 - [ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) — Does actual experience make the zero constitution necessary and self-explanatory?
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
@@ -1623,6 +1624,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_intrinsic_angular_estimation.py](verification/zero_intrinsic_angular_estimation.py)
 - [verification/zero_intrinsic_angular_estimation_test.py](verification/zero_intrinsic_angular_estimation_test.py)
 - [verification/zero_intrinsic_difference_common_constitution_test.py](verification/zero_intrinsic_difference_common_constitution_test.py)
+- [verification/zero_intrinsic_identity_relational_gravity_test.py](verification/zero_intrinsic_identity_relational_gravity_test.py)
 - [verification/zero_intrinsic_point_jets.py](verification/zero_intrinsic_point_jets.py)
 - [verification/zero_intrinsic_point_jets_test.py](verification/zero_intrinsic_point_jets_test.py)
 - [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)

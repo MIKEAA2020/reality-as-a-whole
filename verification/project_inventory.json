@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 870,
-  "bytes": 11353904,
-  "line_count": 102530,
-  "document_count_with_risk_phrases": 822,
+  "document_count": 871,
+  "bytes": 11371112,
+  "line_count": 102704,
+  "document_count_with_risk_phrases": 823,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "dc59196bc7369bee889af173aef56dabc8ae0ae2e51e34dc2d44e6418d51b7bc",
-      "bytes": 233634,
-      "lines": 1775,
+      "sha256": "0bd4b7ae479781507881d3659e0de5d2ebf99af82ad002cbc5407e0f142c3081",
+      "bytes": 233971,
+      "lines": 1777,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6541,6 +6541,7 @@
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
         "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
@@ -7491,6 +7492,7 @@
         "verification/zero_intrinsic_angular_estimation.py",
         "verification/zero_intrinsic_angular_estimation_test.py",
         "verification/zero_intrinsic_difference_common_constitution_test.py",
+        "verification/zero_intrinsic_identity_relational_gravity_test.py",
         "verification/zero_intrinsic_point_jets.py",
         "verification/zero_intrinsic_point_jets_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
@@ -7656,19 +7658,19 @@
         488,
         589,
         609,
-        710,
-        714,
-        740,
-        745,
-        755,
-        758,
-        784,
-        830,
-        867,
-        876,
-        879,
-        882,
-        954
+        711,
+        715,
+        741,
+        746,
+        756,
+        759,
+        785,
+        831,
+        868,
+        877,
+        880,
+        883,
+        955
       ]
     },
     {
@@ -20381,9 +20383,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "ac2c156ef7fec09caf8b55fd7dd704b3a949d0e649ce73772809fb3bd37e9e3e",
-      "bytes": 52357,
-      "lines": 124,
+      "sha256": "70f0586a0db628c458cb95ee145886b5393db574df87bac1fc96efb1f5801b4b",
+      "bytes": 53117,
+      "lines": 125,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20485,6 +20487,8 @@
         "ROVELLI_EQUALITY_DISCUSSION_ZERO_EXPERIENCE_AUDIT.md",
         "sources/uploads/on_the_equality_of_all_things.pdf",
         "verification/rovelli_equality_coarse_graining_test.py",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+        "verification/zero_intrinsic_identity_relational_gravity_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20521,7 +20525,7 @@
         91,
         95,
         99,
-        113
+        114
       ]
     },
     {
@@ -22510,6 +22514,38 @@
       ]
     },
     {
+      "path": "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+      "sha256": "9a55a146e623a94a4dc8374fa1205cc1cdad677e58ebb583c31c26b391c2ca02",
+      "bytes": 15731,
+      "lines": 171,
+      "title": "One physical constitution: zero, relational distinction and intrinsic experience",
+      "headings": [
+        "One physical constitution: zero, relational distinction and intrinsic experience",
+        "Purpose and result",
+        "1. The guiding identity, without an extra mental object",
+        "2. The shared physical state",
+        "3. A real internal distinction, not a coordinate-time artifact",
+        "4. Change, balance and history in one exact example",
+        "5. A proper identity candidate—and the selection problem",
+        "6. How the two forms of intelligibility fit"
+      ],
+      "local_links": [
+        "verification/zero_intrinsic_identity_relational_gravity_test.py",
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
+        "verification/zero_intrinsic_identity_relational_gravity_test.py",
+        "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md"
+      ],
+      "risk_phrase_lines": [
+        52,
+        86,
+        120,
+        122,
+        134,
+        148
+      ]
+    },
+    {
       "path": "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
       "sha256": "c702efd02bad8ecbc7945ee710294959afea1e1705eb172f8db1dd14cfccfa1f",
       "bytes": 19775,
@@ -22666,8 +22702,8 @@
     },
     {
       "path": "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
-      "sha256": "248e0b300637866a8975073ab16872ce77fd38d3cfe8bfad6e47043248427739",
-      "bytes": 17840,
+      "sha256": "61a931dff436e8c10c7954cc28cc597173a2958d5e68b054594a7cc02758273c",
+      "bytes": 18220,
       "lines": 174,
       "title": "Toward one constitution of zero and experience",
       "headings": [
@@ -22688,7 +22724,8 @@
         "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
         "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
-        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md"
+        "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md"
       ],
       "risk_phrase_lines": [
         9,
