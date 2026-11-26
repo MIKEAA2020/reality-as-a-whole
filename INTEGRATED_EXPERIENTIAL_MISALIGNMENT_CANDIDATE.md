@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+The [constitution-and-challenge synthesis](CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md) states this candidate's physical, subject and quality commitments together, compares its level identity with a same-domain onset rival, and supplies a quantitative decision gate and real-world stopping rules.
+
 The [Basile mental-composition audit](BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md) distinguishes shared experience tokens from distinct related occurrences and multiple descriptions of one field. Basile's conditional holism/privacy argument does not automatically apply to E-L, which assumes no fundamental microsubjects, but it sharpens what a nested local/global completion must specify. The q contrast does not by itself fix full qualitative character or subject incidence.
 
 The [layered-unity comparison](LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md) distinguishes a global conjoint aspect from conjunction of detailed local aspects, applying Lopez's alternative to explicitly completed L/C packages on this same sector. It identifies new incidence and content assumptions without establishing a brain-to-spin map, first-person conjunction assay or q-quality law.

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 821 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 800 verification Python scripts.
+- 822 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 801 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -92,6 +92,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [COMPLETE_SELF_KNOWLEDGE.md](COMPLETE_SELF_KNOWLEDGE.md) — Complete self-knowledge without a semantically total self-model
 - [CONJECTURAL_WHOLE_ACCOUNT.md](CONJECTURAL_WHOLE_ACCOUNT.md) — The leading conjecture about reality as a whole
 - [CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md](CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md) — Would consciousness-triggered collapse be experimentally identifiable?
+- [CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md](CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md) — One constitution, one rival, and a decision that could challenge both
 - [CONSTITUTION_RESEARCH_PROGRAMME.md](CONSTITUTION_RESEARCH_PROGRAMME.md) — Pursuing the correct, complete physical–phenomenal constitution
 - [CONSTITUTIVE_CANDIDATE_AUDIT.md](CONSTITUTIVE_CANDIDATE_AUDIT.md) — Constitutive candidates: what can actually distinguish them?
 - [CONSTITUTIVE_PRINCIPLE.md](CONSTITUTIVE_PRINCIPLE.md) — The missing bridge: realization-sensitive qualitative constitution
@@ -1016,6 +1017,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/collective_response_common_cause_gate.py](verification/collective_response_common_cause_gate.py)
 - [verification/competing_subject_constitution_rules.py](verification/competing_subject_constitution_rules.py)
 - [verification/complementary_visibility_entanglement_gate.py](verification/complementary_visibility_entanglement_gate.py)
+- [verification/constitution_challenge_decision_test.py](verification/constitution_challenge_decision_test.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 864,
-  "bytes": 11242392,
-  "line_count": 101627,
-  "document_count_with_risk_phrases": 816,
+  "document_count": 865,
+  "bytes": 11266724,
+  "line_count": 101816,
+  "document_count_with_risk_phrases": 817,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2506,6 +2506,53 @@
         40,
         85,
         89
+      ]
+    },
+    {
+      "path": "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
+      "sha256": "01b7e1dda71b4d141d8c8e661766bf2402ae36d46e1efeff812d3245a5b0f24d",
+      "bytes": 23028,
+      "lines": 184,
+      "title": "One constitution, one rival, and a decision that could challenge both",
+      "headings": [
+        "One constitution, one rival, and a decision that could challenge both",
+        "The answer in brief",
+        "1. The one candidate, with all parts visible",
+        "2. The experience-respecting rival",
+        "3. A test that can reject a package",
+        "4. What an actual outcome would mean",
+        "5. A realistic translation: prerequisites, controls and stopping rules",
+        "6. The deeper why: what is and is not answered"
+      ],
+      "local_links": [
+        "verification/constitution_challenge_decision_test.py",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "ZERO_SR_ECHO_COORDINATE_EQUIVALENCE_AND_CONTENT.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "CURRENT_MISMATCH_VERSUS_HISTORY_EXPERIENTIAL_GATE.md",
+        "HISTORY_MISMATCH_FIRST_PERSON_ASSAY_ERROR_GATE.md",
+        "FOUR_SPIN_PHYSICAL_MISMATCH_MEASUREMENT_GATE.md",
+        "INTEGRATED_SUBJECT_HORIZON_AND_VALENCE_AUDIT.md",
+        "MATCHED_STIMULUS_UNPLEASANTNESS_AND_EXPERIENTIAL_BRIDGE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        19,
+        46,
+        53,
+        79,
+        90,
+        104,
+        106,
+        116,
+        123,
+        125,
+        153
       ]
     },
     {
@@ -5799,9 +5846,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f805866c630ae7e9980590eb643dd93b073ba373a6de4c3b7dee2e2fb3aaf1bf",
-      "bytes": 231629,
-      "lines": 1761,
+      "sha256": "a9ba6145e0744a502632df20fd7113313ba4cb2d383e52e214a12d7eab6cd0f1",
+      "bytes": 231917,
+      "lines": 1763,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5895,6 +5942,7 @@
         "COMPLETE_SELF_KNOWLEDGE.md",
         "CONJECTURAL_WHOLE_ACCOUNT.md",
         "CONSCIOUSNESS_COLLAPSE_IDENTIFIABILITY_GATE.md",
+        "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
         "CONSTITUTION_RESEARCH_PROGRAMME.md",
         "CONSTITUTIVE_CANDIDATE_AUDIT.md",
         "CONSTITUTIVE_PRINCIPLE.md",
@@ -6805,6 +6853,7 @@
         "verification/collective_response_common_cause_gate.py",
         "verification/competing_subject_constitution_rules.py",
         "verification/complementary_visibility_entanglement_gate.py",
+        "verification/constitution_challenge_decision_test.py",
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
         "verification/consumer_coverage_identifiability.py",
@@ -7553,29 +7602,29 @@
         68,
         77,
         87,
-        169,
-        231,
-        307,
-        337,
-        385,
+        170,
+        232,
+        308,
+        338,
         386,
-        417,
-        485,
-        585,
-        605,
-        704,
-        708,
-        734,
-        739,
-        749,
-        752,
-        778,
-        824,
-        861,
-        870,
-        873,
-        876,
-        947
+        387,
+        418,
+        486,
+        586,
+        606,
+        705,
+        709,
+        735,
+        740,
+        750,
+        753,
+        779,
+        825,
+        862,
+        871,
+        874,
+        877,
+        948
       ]
     },
     {
@@ -8958,9 +9007,9 @@
     },
     {
       "path": "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
-      "sha256": "5202b689ef8d89d8475de0f963a2e01f36c775a1a7b516f56f092e90bd069fd3",
-      "bytes": 24808,
-      "lines": 145,
+      "sha256": "d8b218b1f4697d431225665b9de27678513af79c496c5fa576d72257f99196f6",
+      "bytes": 25111,
+      "lines": 147,
       "title": "An integrated experiential candidate: first worked sector and rival",
       "headings": [
         "An integrated experiential candidate: first worked sector and rival",
@@ -8973,6 +9022,7 @@
         "6. Battery consequences and next work"
       ],
       "local_links": [
+        "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
         "BASILE_PANPSYCHISM_HOLISM_AND_SUBJECT_QUALITY_AUDIT.md",
         "LAYERED_UNITY_AND_SUBJECT_QUALITY_COMPARISON.md",
         "KLINGE_EMERGENT_PANPSYCHISM_AND_CAUSAL_CLOSURE_AUDIT.md",
@@ -9005,12 +9055,12 @@
         "verification/integrated_experiential_misalignment_candidate.json"
       ],
       "risk_phrase_lines": [
-        31,
         33,
-        86,
-        90,
-        123,
-        145
+        35,
+        88,
+        92,
+        125,
+        147
       ]
     },
     {
@@ -20221,9 +20271,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "e9efe3173991ef345e46d3475b2b17879fd54fde55ffee4a30d44960f2ab5158",
-      "bytes": 48251,
-      "lines": 118,
+      "sha256": "85a4b26411f848a351e67c989574cbe89791a467bbd0b54ccc1327993b89368d",
+      "bytes": 48964,
+      "lines": 119,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20311,6 +20361,8 @@
         "verification/zero_sr_echo_intrinsic_access_test.py",
         "ZERO_SR_ECHO_RECORD_ERASURE_AND_SUBJECT_ACCESS.md",
         "verification/zero_sr_echo_quantum_eraser_test.py",
+        "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
+        "verification/constitution_challenge_decision_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20345,7 +20397,8 @@
         86,
         90,
         91,
-        107
+        95,
+        108
       ]
     },
     {
