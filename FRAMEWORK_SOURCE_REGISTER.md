@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 823 root Markdown documents including this register; 43 research Markdown documents.
-- 65 original uploaded files, including provenance metadata; 802 verification Python scripts.
+- 824 root Markdown documents including this register; 43 research Markdown documents.
+- 65 original uploaded files, including provenance metadata; 803 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -96,6 +96,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CONSTITUTION_RESEARCH_PROGRAMME.md](CONSTITUTION_RESEARCH_PROGRAMME.md) — Pursuing the correct, complete physical–phenomenal constitution
 - [CONSTITUTIVE_CANDIDATE_AUDIT.md](CONSTITUTIVE_CANDIDATE_AUDIT.md) — Constitutive candidates: what can actually distinguish them?
 - [CONSTITUTIVE_PRINCIPLE.md](CONSTITUTIVE_PRINCIPLE.md) — The missing bridge: realization-sensitive qualitative constitution
+- [CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md](CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md) — One candidate subject, quality and access circuit
 - [CONSTITUTIVE_VALUE_PRINCIPLE.md](CONSTITUTIVE_VALUE_PRINCIPLE.md) — A constitutive-value principle: positive development and explanatory limits
 - [CONSUMER_COVERAGE_IDENTIFIABILITY.md](CONSUMER_COVERAGE_IDENTIFIABILITY.md) — Can partial frontal recordings certify removal of distribution?
 - [CONTEXTUAL_DISCLOSURE_CONSTITUTION.md](CONTEXTUAL_DISCLOSURE_CONSTITUTION.md) — Contextual disclosure: a worked quantum constitution of record scope
@@ -1022,6 +1023,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/constitution_challenge_decision_test.py](verification/constitution_challenge_decision_test.py)
 - [verification/constitution_factorization_check.py](verification/constitution_factorization_check.py)
 - [verification/constitutive_checks.py](verification/constitutive_checks.py)
+- [verification/constitutive_subject_access_circuit_test.py](verification/constitutive_subject_access_circuit_test.py)
 - [verification/consumer_coverage_identifiability.py](verification/consumer_coverage_identifiability.py)
 - [verification/context_gated_variability_gate.py](verification/context_gated_variability_gate.py)
 - [verification/context_horizon_robustness.py](verification/context_horizon_robustness.py)

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 866,
-  "bytes": 11285812,
-  "line_count": 101950,
-  "document_count_with_risk_phrases": 818,
+  "document_count": 867,
+  "bytes": 11301719,
+  "line_count": 102084,
+  "document_count_with_risk_phrases": 819,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -2776,6 +2776,37 @@
         77,
         96,
         108
+      ]
+    },
+    {
+      "path": "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+      "sha256": "9ead1abd55a2d99f422fd8d83c994d226b423f5f7f07b5eb3476a7ef9c03fce2",
+      "bytes": 14656,
+      "lines": 129,
+      "title": "One candidate subject, quality and access circuit",
+      "headings": [
+        "One candidate subject, quality and access circuit",
+        "Result",
+        "1. One explicitly completed proposal",
+        "2. The physical circuit",
+        "3. What the circuit derives internally",
+        "4. What follows from a faithful report—and what does not",
+        "5. History, memory and reversibility",
+        "6. The SR analogy and the remaining why"
+      ],
+      "local_links": [
+        "verification/constitutive_subject_access_circuit_test.py",
+        "INTEGRATED_EXPERIENTIAL_MISALIGNMENT_CANDIDATE.md",
+        "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
+        "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md"
+      ],
+      "risk_phrase_lines": [
+        9,
+        23,
+        27,
+        109,
+        115,
+        129
       ]
     },
     {
@@ -5847,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "3a78fb9fde3892141a3b24e1395108b4545b28719d7228bb4d8f43401d983d12",
-      "bytes": 232357,
-      "lines": 1766,
+      "sha256": "73c8f4a2451ec5db873251925eaf2f100feb0c74ed89fa0c829586e349ebf7ef",
+      "bytes": 232629,
+      "lines": 1768,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5947,6 +5978,7 @@
         "CONSTITUTION_RESEARCH_PROGRAMME.md",
         "CONSTITUTIVE_CANDIDATE_AUDIT.md",
         "CONSTITUTIVE_PRINCIPLE.md",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
         "CONSTITUTIVE_VALUE_PRINCIPLE.md",
         "CONSUMER_COVERAGE_IDENTIFIABILITY.md",
         "CONTEXTUAL_DISCLOSURE_CONSTITUTION.md",
@@ -6859,6 +6891,7 @@
         "verification/constitution_challenge_decision_test.py",
         "verification/constitution_factorization_check.py",
         "verification/constitutive_checks.py",
+        "verification/constitutive_subject_access_circuit_test.py",
         "verification/consumer_coverage_identifiability.py",
         "verification/context_gated_variability_gate.py",
         "verification/context_horizon_robustness.py",
@@ -7606,29 +7639,29 @@
         68,
         77,
         87,
-        170,
-        232,
-        308,
-        338,
-        386,
+        171,
+        233,
+        309,
+        339,
         387,
-        418,
-        486,
-        587,
-        607,
-        706,
-        710,
-        736,
-        741,
-        751,
-        754,
-        780,
-        826,
-        863,
-        872,
-        875,
-        878,
-        949
+        388,
+        419,
+        487,
+        588,
+        608,
+        707,
+        711,
+        737,
+        742,
+        752,
+        755,
+        781,
+        827,
+        864,
+        873,
+        876,
+        879,
+        950
       ]
     },
     {
@@ -19556,9 +19589,9 @@
     },
     {
       "path": "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
-      "sha256": "643390ef81ed42e0bc509f2ee0b32d33402a97d499bef448f636743470ea9d48",
-      "bytes": 17497,
-      "lines": 128,
+      "sha256": "9791379e2d93d6f5b355b46e1594113579e546357b0fd78d75ea23006157e139",
+      "bytes": 17864,
+      "lines": 130,
       "title": "Ventura on the hard problem: full-text reassessment and an access correction",
       "headings": [
         "Ventura on the hard problem: full-text reassessment and an access correction",
@@ -19575,7 +19608,8 @@
         "verification/ventura_dancing_qualia_report_control_test.py",
         "sources/uploads/ventura_hard_problem_consciousness.txt",
         "CONSTITUTION_AND_CHALLENGE_LEVEL_VERSUS_ONSET.md",
-        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md"
+        "ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -20306,9 +20340,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "6ccb5b94dc871133b9c3b0acdd7827235ceccab4909a63ee8aa115bdb16a88ef",
-      "bytes": 49651,
-      "lines": 120,
+      "sha256": "5fffd335e3e625623757ba07e74694fa160c995b7316c9281ce4f526220a0adc",
+      "bytes": 50263,
+      "lines": 121,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20401,6 +20435,8 @@
         "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
         "sources/uploads/ventura_hard_problem_consciousness.txt",
         "verification/ventura_dancing_qualia_report_control_test.py",
+        "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+        "verification/constitutive_subject_access_circuit_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20436,7 +20472,7 @@
         90,
         91,
         95,
-        109
+        110
       ]
     },
     {

@@ -116,6 +116,8 @@ The amended research target is not to choose between “it is an illusion” and
 
 The article is useful because it joins the identity question to access, AI and persistence. It does not supply these missing links. The new bound makes one of them precise and corrects the scope of our prior same-physics comparison; the central experiential constitution and the user's deeper why remain open.
 
+The [subject–quality–access circuit continuation](CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md) implements an explicit reversible record and one selected physical output on the same four-spin model. It identifies the additional subject and faithful-report premises and shows why the existence of two physical channels does not by itself select a felt quality.
+
 ## Reproduce
 
 ```sh

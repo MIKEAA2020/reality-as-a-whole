@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "d8524db644a880f29d05c563c08b81e4b5bee036",
-  "file_count": 2417,
+  "base_head": "d52004a61b9938651dc695fe826967ff6821f666",
+  "file_count": 2419,
   "files": [
     {
       "path": ".gitattributes",
@@ -427,6 +427,11 @@
       "path": "CONSTITUTIVE_PRINCIPLE.md",
       "bytes": 11941,
       "sha256": "1131a540cba82f66ee2d614889b5e91382eeed2904112d272707ac9ae054d398"
+    },
+    {
+      "path": "CONSTITUTIVE_SUBJECT_QUALITY_ACCESS_CIRCUIT.md",
+      "bytes": 14656,
+      "sha256": "9ead1abd55a2d99f422fd8d83c994d226b423f5f7f07b5eb3476a7ef9c03fce2"
     },
     {
       "path": "CONSTITUTIVE_VALUE_PRINCIPLE.md",
@@ -885,8 +890,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 232357,
-      "sha256": "3a78fb9fde3892141a3b24e1395108b4545b28719d7228bb4d8f43401d983d12"
+      "bytes": 232629,
+      "sha256": "73c8f4a2451ec5db873251925eaf2f100feb0c74ed89fa0c829586e349ebf7ef"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2815,8 +2820,8 @@
     },
     {
       "path": "VENTURA_HARD_PROBLEM_FULL_TEXT_AND_ACCESS_REASSESSMENT.md",
-      "bytes": 17497,
-      "sha256": "643390ef81ed42e0bc509f2ee0b32d33402a97d499bef448f636743470ea9d48"
+      "bytes": 17864,
+      "sha256": "9791379e2d93d6f5b355b46e1594113579e546357b0fd78d75ea23006157e139"
     },
     {
       "path": "VIBRATIONAL_DISSONANCE_EXPERIENCE_TEST.md",
@@ -2940,8 +2945,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 49651,
-      "sha256": "6ccb5b94dc871133b9c3b0acdd7827235ceccab4909a63ee8aa115bdb16a88ef"
+      "bytes": 50263,
+      "sha256": "5fffd335e3e625623757ba07e74694fa160c995b7316c9281ce4f526220a0adc"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -6349,6 +6354,11 @@
       "sha256": "aa992e2c9952a75b6700d2412caf347b6e1773c2300f4d7e783c0777a6dedd5e"
     },
     {
+      "path": "verification/constitutive_subject_access_circuit_test.py",
+      "bytes": 7271,
+      "sha256": "0984497b30a050514c468580a76b508699ff4c8774133ec9c280d0dd72bae44c"
+    },
+    {
       "path": "verification/consumer_coverage_identifiability.json",
       "bytes": 992,
       "sha256": "bd39ef0a73a2509e9d8dd95a142d4c0726caa01b47faadea09c42b9729fb8371"
@@ -8715,8 +8725,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1117030,
-      "sha256": "928a3f71331cd276c14f458d71b45d9b6747261fd61dd71e0072b7fc2fc7118c"
+      "bytes": 1118419,
+      "sha256": "695381de2f76a8d18707eb49990940d5eae8c4285fb90b7e105887244b75c3f2"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9885,8 +9895,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 542128,
-      "sha256": "f1bb3517a7a8767d8d58217c1bf956d0366e9aab8155cf44f398273fb2ddd47b"
+      "bytes": 542671,
+      "sha256": "2c2f588b698851191fc9228ea7e449f70e091205ec7cb79ba5adf0addf6d7246"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
