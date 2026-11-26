@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Experiential necessity why-chain:** [experience, necessity and explanatory bedrock](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) analyzes the user's global possibility–actuality thesis, shows how scope affects its content, preserves a positive first-person witness alongside a private-fields countermodel, and distinguishes necessary logical sufficiency from self-explanation. The full zero/experience identity and actual incidence remain unproved.
+
 **Point-direction why-chain continuation:** [intrinsic point structure](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) represents one ordinary point with a nontrivial internal tangent and tracks the additional dimension, metric, measure and actuality premises. Full active linear symmetry has no normalized invariant directional probability in dimensions at least two; the point and its algebra are formal, not a derivation of experience or self-sufficiency.
 
 **Method-corrected continuation:** [the zero/symmetry why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md) follows the explanatory dependencies from pairwise zero through the symmetry-orbit origin of magnitude freedom to the meta-question of why a complete zero constitution is applicable, actual and genuinely explanatory. The clarified instruction is to continue asking why toward bedrock rather than treating successive model interfaces as root-cause completion.

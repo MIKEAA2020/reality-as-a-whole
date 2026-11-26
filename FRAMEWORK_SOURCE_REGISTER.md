@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 781 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 739 verification Python scripts.
+- 782 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 741 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -639,6 +639,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
 - [ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md](ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md) — ER = EPR, the firewall, and actual access in the sphere echo
+- [ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) — Does actual experience make the zero constitution necessary and self-explanatory?
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
 - [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
 - [ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) — Zero, flag-record incidence, and a physically reversible readout
@@ -1556,6 +1557,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_meditation_access_memory_identifiability_test.py](verification/zero_meditation_access_memory_identifiability_test.py)
 - [verification/zero_minimal_symmetry_reference_record_test.py](verification/zero_minimal_symmetry_reference_record_test.py)
 - [verification/zero_mirror_balanced_plenitude_subject_test.py](verification/zero_mirror_balanced_plenitude_subject_test.py)
+- [verification/zero_modal_acquaintance_why.py](verification/zero_modal_acquaintance_why.py)
+- [verification/zero_modal_acquaintance_why_test.py](verification/zero_modal_acquaintance_why_test.py)
 - [verification/zero_necessity_constitutive_gate_test.py](verification/zero_necessity_constitutive_gate_test.py)
 - [verification/zero_nested_sphere_internal_reference_test.py](verification/zero_nested_sphere_internal_reference_test.py)
 - [verification/zero_neutral_exchange_from_balance_test.py](verification/zero_neutral_exchange_from_balance_test.py)

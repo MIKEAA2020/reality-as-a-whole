@@ -2,6 +2,8 @@
 
 ## Direct result
 
+**Upstream continuation:** [actual experience, necessity and explanatory bedrock](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) investigates whether the experiential datum and global possibility–actuality can establish the richer constitution, and distinguishes necessity from constitutive self-explanation.
+
 The next upstream question is not whether a zero-balanced example can be drawn. It is **why the proposed zero or point should have any internal differentiation at all**, and then why its differentiation should have the spherical, physical and experiential character required by the proposal.
 
 There is a precise constructive answer to one part of that question. A mathematical object can have **one ordinary point** and still have a nontrivial intrinsic *first-order structure*. Its directions need not be extra ordinary points or a physical space outside the whole. For a particular three-dimensional first-order structure, the space of oriented directions is topologically a sphere. This is a different representation of the user's point–sphere idea from the existing [directional blow-up](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md), and it exposes exactly where the internal sphere enters.
