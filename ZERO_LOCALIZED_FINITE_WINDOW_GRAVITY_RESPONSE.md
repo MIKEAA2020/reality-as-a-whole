@@ -130,6 +130,8 @@ Nor should the global zero be confused with loss of local actuality. The constra
 
 A genuine next step is an **autonomous, calibrated finite record**: give the sign reference and localized memory their own physical fields, initial data and couplings; show readout separation and bounded error over a declared interval; and include their contribution to the gravitational constraints and reference-field dynamics. The current transient response is useful input, not a record by definition. In parallel, formulate a subject-boundary and experiential-incidence criterion independently motivated by the actual qualitative organization—not by fitting the desired answer to the field signal.
 
+The [physical sign-reference continuation](ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md) adds a dynamical reference field, its coupled gravitational initial data and a reference-relative finite-window composite. Its numerical dynamics remain linearized and drifting; no autonomous record or subject is established.
+
 Ultimately the action, profile, physical global energy and actual experiential constitution must follow from the self-sufficient nature of the whole. Nothing in this numerical exercise supplies that derivation, and no external causal creator is proposed.
 
 ## Reproduce
