@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "72088034d112960563187d68d7e64c5e3a6903c9",
-  "file_count": 2364,
+  "base_head": "a2863a0295acbad2a4d760aac7e17c90e973a1da",
+  "file_count": 2367,
   "files": [
     {
       "path": ".gitattributes",
@@ -880,8 +880,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 225042,
-      "sha256": "747d5db0f7befb5c89cdf86a37fb8ed74c0714ccf06cb01aee3eb99ef2c440ba"
+      "bytes": 225426,
+      "sha256": "8b3ec5f7b516f7a73dcefc3215ace30e2da27bcf4c3141992a6fc9e9d3b6c97d"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -2930,8 +2930,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 35889,
-      "sha256": "a12500f1414a031e6b9b87d7c6a714384f403b1251ce6d84a9354aeebc74f29c"
+      "bytes": 36508,
+      "sha256": "4e95392d1c28de36aead185e4d3e17a72e6b501a7050b35c703d576636bc2caa"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -3217,6 +3217,11 @@
       "path": "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
       "bytes": 11283,
       "sha256": "ff231b43a233b92ebd33eddacd3cbbf5d75bf71237dfd3bacb4c154d29cbc09e"
+    },
+    {
+      "path": "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
+      "bytes": 13878,
+      "sha256": "30168629550fd5c15dcd6b1a45bf27a8cd0773e15553e658bcdab9009f7f17c5"
     },
     {
       "path": "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
@@ -3745,8 +3750,8 @@
     },
     {
       "path": "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
-      "bytes": 15044,
-      "sha256": "93dcf584c54da7b20a39faf29134959b8acbdbeffe18531bf427fb0f9126af22"
+      "bytes": 15336,
+      "sha256": "37a502e3a5d60a17a012d8ab35595f3b28b35f682a198d1c6a8d576ebece6d8a"
     },
     {
       "path": "ZERO_TOTALITY_CAUSAL_RELAXATION_AND_BOUNDARY.md",
@@ -8600,8 +8605,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1085948,
-      "sha256": "69f0a791500e36ef83bc2797fdfc8f88db1eb443475f7119a0a9f2f4f9154f14"
+      "bytes": 1087395,
+      "sha256": "5eb4f90e0b3df7e53ffb5e67dc05d4a5c44090d2ecfc760f016c4040b56a6ae0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9770,8 +9775,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 529787,
-      "sha256": "21b7cba733523213f8945fb14ede8b35bc11317cfdae02d62cbb6f6ace9840c8"
+      "bytes": 530332,
+      "sha256": "759121a0ee937e8a53a89bca347fad3309a2afbaf53347ceaa5bc935ab38630f"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -10992,6 +10997,16 @@
       "path": "verification/zero_gauge_angular_pair_test.py",
       "bytes": 7492,
       "sha256": "34d3fe1fc840c0e9f633ed1540ff48e53740c9d9391baa840fb04fe1320fa119"
+    },
+    {
+      "path": "verification/zero_gauge_clock_joint_instrument.py",
+      "bytes": 3026,
+      "sha256": "cd80a916a6156b467e5229e635bb42752c5865e1ad103b04483e5ddda57fa83b"
+    },
+    {
+      "path": "verification/zero_gauge_clock_joint_instrument_test.py",
+      "bytes": 6609,
+      "sha256": "3a9d9767b097d498d92eeac0851b8522b0173a9b23a8b3b125e0978278d38108"
     },
     {
       "path": "verification/zero_geometry_all_history_incidence_bridge_test.py",

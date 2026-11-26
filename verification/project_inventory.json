@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 845,
-  "bytes": 10960522,
-  "line_count": 98980,
-  "document_count_with_risk_phrases": 798,
+  "document_count": 846,
+  "bytes": 10975695,
+  "line_count": 99192,
+  "document_count_with_risk_phrases": 799,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "747d5db0f7befb5c89cdf86a37fb8ed74c0714ccf06cb01aee3eb99ef2c440ba",
-      "bytes": 225042,
-      "lines": 1713,
+      "sha256": "8b3ec5f7b516f7a73dcefc3215ace30e2da27bcf4c3141992a6fc9e9d3b6c97d",
+      "bytes": 225426,
+      "lines": 1716,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6455,6 +6455,7 @@
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
+        "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md",
         "ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md",
         "ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md",
@@ -7335,6 +7336,8 @@
         "verification/zero_full_echo_type_swap_test.py",
         "verification/zero_gauge_angular_pair.py",
         "verification/zero_gauge_angular_pair_test.py",
+        "verification/zero_gauge_clock_joint_instrument.py",
+        "verification/zero_gauge_clock_joint_instrument_test.py",
         "verification/zero_geometry_all_history_incidence_bridge_test.py",
         "verification/zero_geometry_clock_no_embedded_eigen_test.py",
         "verification/zero_identity_pair_incidence_record_test.py",
@@ -7515,19 +7518,19 @@
         485,
         585,
         605,
-        692,
-        696,
-        722,
-        726,
-        735,
-        738,
-        759,
-        805,
-        842,
-        851,
-        854,
-        857,
-        928
+        693,
+        697,
+        723,
+        727,
+        736,
+        739,
+        760,
+        806,
+        843,
+        852,
+        855,
+        858,
+        929
       ]
     },
     {
@@ -20173,9 +20176,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "a12500f1414a031e6b9b87d7c6a714384f403b1251ce6d84a9354aeebc74f29c",
-      "bytes": 35889,
-      "lines": 99,
+      "sha256": "4e95392d1c28de36aead185e4d3e17a72e6b501a7050b35c703d576636bc2caa",
+      "bytes": 36508,
+      "lines": 100,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20238,6 +20241,7 @@
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
+        "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20265,7 +20269,7 @@
         72,
         73,
         75,
-        88
+        89
       ]
     },
     {
@@ -22148,6 +22152,38 @@
         50,
         76,
         82
+      ]
+    },
+    {
+      "path": "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
+      "sha256": "30168629550fd5c15dcd6b1a45bf27a8cd0773e15553e658bcdab9009f7f17c5",
+      "bytes": 13878,
+      "lines": 206,
+      "title": "A finite clock and chirality–holonomy joint instrument",
+      "headings": [
+        "A finite clock and chirality–holonomy joint instrument",
+        "Result",
+        "1. Carriers and what the instrument is meant to distinguish",
+        "2. A coherent finite-resolution clock sensor",
+        "3. A gauge-invariant loop sensor and the joint record",
+        "4. A finite-shot illustration—not an experiment",
+        "5. Reading the clock changes the constraint residual",
+        "6. What a small residual does—and does not—bound"
+      ],
+      "local_links": [
+        "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
+        "verification/zero_gauge_clock_joint_instrument.py",
+        "verification/zero_gauge_clock_joint_instrument_test.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        146,
+        154,
+        173,
+        186,
+        190,
+        195,
+        206
       ]
     },
     {
@@ -25648,9 +25684,9 @@
     },
     {
       "path": "ZERO_THREE_FRAME_GAUGE_CHIRALITY_AND_NONCYCLIC_CLOCK.md",
-      "sha256": "93dcf584c54da7b20a39faf29134959b8acbdbeffe18531bf427fb0f9126af22",
-      "bytes": 15044,
-      "lines": 163,
+      "sha256": "37a502e3a5d60a17a012d8ab35595f3b28b35f682a198d1c6a8d576ebece6d8a",
+      "bytes": 15336,
+      "lines": 165,
       "title": "Three local frames, chirality and noncyclic record retention",
       "headings": [
         "Three local frames, chirality and noncyclic record retention",
@@ -25663,24 +25699,25 @@
         "6. Remaining work"
       ],
       "local_links": [
+        "ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "verification/zero_three_frame_chirality.py",
         "verification/zero_noncyclic_chirality_clock.py",
         "verification/zero_three_frame_chirality_test.py"
       ],
       "risk_phrase_lines": [
-        7,
         9,
         11,
-        37,
-        41,
-        63,
-        97,
-        118,
-        129,
-        152,
-        153,
-        163
+        13,
+        39,
+        43,
+        65,
+        99,
+        120,
+        131,
+        154,
+        155,
+        165
       ]
     },
     {

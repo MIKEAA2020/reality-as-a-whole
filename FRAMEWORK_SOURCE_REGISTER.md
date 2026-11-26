@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 802 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 771 verification Python scripts.
+- 803 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 773 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -652,6 +652,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) — Zero, flag-record incidence, and a physically reversible readout
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
 - [ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) — From the reduced type swap to the original coherent quantum echo
+- [ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md](ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md) — A finite clock and chirality–holonomy joint instrument
 - [ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md](ZERO_GAUGE_CONSTRAINED_ANGULAR_PAIR.md) — The opposite pair as a gauge-constrained physical sector
 - [ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md](ZERO_GEOMETRY_CLOCK_CONTINUUM_CYCLICITY.md) — The geometry-clock question: what can a continuum slice recover?
 - [ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md](ZERO_GEOMETRY_CLOCK_FULL_CONTINUUM_SLICE.md) — Full continuum geometry-slice map for the interacting model
@@ -1546,6 +1547,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_full_echo_type_swap_test.py](verification/zero_full_echo_type_swap_test.py)
 - [verification/zero_gauge_angular_pair.py](verification/zero_gauge_angular_pair.py)
 - [verification/zero_gauge_angular_pair_test.py](verification/zero_gauge_angular_pair_test.py)
+- [verification/zero_gauge_clock_joint_instrument.py](verification/zero_gauge_clock_joint_instrument.py)
+- [verification/zero_gauge_clock_joint_instrument_test.py](verification/zero_gauge_clock_joint_instrument_test.py)
 - [verification/zero_geometry_all_history_incidence_bridge_test.py](verification/zero_geometry_all_history_incidence_bridge_test.py)
 - [verification/zero_geometry_clock_no_embedded_eigen_test.py](verification/zero_geometry_clock_no_embedded_eigen_test.py)
 - [verification/zero_identity_pair_incidence_record_test.py](verification/zero_identity_pair_incidence_record_test.py)

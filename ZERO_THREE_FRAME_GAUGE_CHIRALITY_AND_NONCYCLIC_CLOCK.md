@@ -2,6 +2,8 @@
 
 ## Result
 
+**Continuation:** [a finite clock and chirality–holonomy joint instrument](ZERO_GAUGE_CLOCK_JOINT_INSTRUMENT_AND_READOUT.md) specifies coherent clock and loop sensors, computes conditional finite-shot statistics, and quantifies how clock readout changes the noncyclic constraint residual.
+
 This pass implements the next two tests proposed after the [clocked chirality record](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md): an explicit three-frame gauge model, and a noncyclic clock alternative. It finds:
 
 1. With **two** supplied comparison links, the three directions can have independent local `SO(3)` frames. The existing relative angle, relational chirality, neutral-memory write, old pair constraints and clocked record have an exact gauge-invariant lift. Gauge fixing both links gives the previous common-frame construction, and normalized product Haar/area measures give an isometric lift of its scalar physical sector.
