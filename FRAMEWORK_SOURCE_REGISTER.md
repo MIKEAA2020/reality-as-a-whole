@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 815 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 794 verification Python scripts.
+- 816 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 795 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -738,6 +738,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
+- [ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md](ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md) — Self-revision, engineering necessity and the experiential identity
 - [ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md](ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md) — Sharp reciprocal currents and the experiential-response condition
 - [ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md](ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md) — Sign selection by clock and reference symmetry
 - [ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md](ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md) — Source integration, third pass: Bostrom's self-location structure on the same sphere
@@ -1667,6 +1668,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relativity_constitutive_identity_test.py](verification/zero_relativity_constitutive_identity_test.py)
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
 - [verification/zero_sector_record_energy_exchange_test.py](verification/zero_sector_record_energy_exchange_test.py)
+- [verification/zero_self_revision_necessity_test.py](verification/zero_self_revision_necessity_test.py)
 - [verification/zero_sharp_opposition_and_experiential_response_test.py](verification/zero_sharp_opposition_and_experiential_response_test.py)
 - [verification/zero_sphere_angular_echo.py](verification/zero_sphere_angular_echo.py)
 - [verification/zero_sphere_angular_echo_test.py](verification/zero_sphere_angular_echo_test.py)

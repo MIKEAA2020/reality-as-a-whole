@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 858,
-  "bytes": 11157022,
-  "line_count": 100844,
-  "document_count_with_risk_phrases": 811,
+  "document_count": 859,
+  "bytes": 11171393,
+  "line_count": 100953,
+  "document_count_with_risk_phrases": 812,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "96d211084be9d32c32fac20153406ce57e2b5c33b6c27f42165267b4d508f37a",
-      "bytes": 229923,
-      "lines": 1749,
+      "sha256": "a47674a9310b142efd8331a663baed8843348a166cca87c6a6452d594e17345a",
+      "bytes": 230212,
+      "lines": 1751,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6541,6 +6541,7 @@
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
+        "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
         "ZERO_SHARP_RECIPROCAL_CURRENTS_AND_EXPERIENTIAL_RESPONSE.md",
         "ZERO_SIGN_SELECTION_BY_CLOCK_AND_REFERENCE_SYMMETRY.md",
         "ZERO_SOURCE_INTEGRATION_BOSTROM_SELF_LOCATION_SPHERE.md",
@@ -7456,6 +7457,7 @@
         "verification/zero_relativity_constitutive_identity_test.py",
         "verification/zero_sector_memory_incidence_test.py",
         "verification/zero_sector_record_energy_exchange_test.py",
+        "verification/zero_self_revision_necessity_test.py",
         "verification/zero_sharp_opposition_and_experiential_response_test.py",
         "verification/zero_sphere_angular_echo.py",
         "verification/zero_sphere_angular_echo_test.py",
@@ -7555,15 +7557,15 @@
         707,
         733,
         738,
-        747,
-        750,
-        772,
-        818,
-        855,
-        864,
-        867,
-        870,
-        941
+        748,
+        751,
+        773,
+        819,
+        856,
+        865,
+        868,
+        871,
+        942
       ]
     },
     {
@@ -20209,9 +20211,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "fdd75e7f6e951f40ad19583d75924ef8d172e31e7a5a5034083eb936c317923f",
-      "bytes": 44426,
-      "lines": 112,
+      "sha256": "85df6684eb1f876b259c9897ebb75390fde1b371508b9a9fd2d98fc50baf4ed3",
+      "bytes": 45062,
+      "lines": 113,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20287,6 +20289,8 @@
         "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md",
         "ZERO_ECHO_MODE_INSTRUMENTS_CLOCK_TRANSPORT.md",
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
+        "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
+        "verification/zero_self_revision_necessity_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20319,7 +20323,7 @@
         84,
         85,
         86,
-        101
+        102
       ]
     },
     {
@@ -25010,6 +25014,37 @@
         12,
         45,
         124
+      ]
+    },
+    {
+      "path": "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
+      "sha256": "3f1aadcf236e46755e8076a5941670ebce284bf44d40b2ba8e9aacc0cf08fd6e",
+      "bytes": 13446,
+      "lines": 106,
+      "title": "Self-revision, engineering necessity and the experiential identity",
+      "headings": [
+        "Self-revision, engineering necessity and the experiential identity",
+        "Result and scope",
+        "1. Locating the paper's actual claims",
+        "2. A narrow learner with exact noninterference",
+        "3. What this control does and does not show",
+        "4. Conditional entailment versus identification",
+        "5. A positive research plan",
+        "6. Connection to the common echo and relativity"
+      ],
+      "local_links": [
+        "verification/zero_self_revision_necessity_test.py",
+        "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        19,
+        23,
+        44,
+        55,
+        93,
+        104
       ]
     },
     {
