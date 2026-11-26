@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 836,
-  "bytes": 10835915,
-  "line_count": 97724,
-  "document_count_with_risk_phrases": 789,
+  "document_count": 837,
+  "bytes": 10848752,
+  "line_count": 97838,
+  "document_count_with_risk_phrases": 790,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a77d541f4d1a34df57a5c6c2e403f2f42b38fea25cfaa4801027a1a4f24397b2",
-      "bytes": 222099,
-      "lines": 1691,
+      "sha256": "bcce787c432940be75cfdda1796591806420fd7181a9125f0b1271ee1e61f6f1",
+      "bytes": 222390,
+      "lines": 1693,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6589,6 +6589,7 @@
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
@@ -7462,6 +7463,7 @@
         "verification/zero_total_relational_record_test.py",
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
+        "verification/zero_two_window_coherence_tomography_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
         "verification/zero_two_window_finite_record_clock_test.py",
         "verification/zero_two_window_full_slice_test.py",
@@ -7500,12 +7502,12 @@
         733,
         736,
         756,
-        796,
-        833,
-        842,
-        845,
-        848,
-        919
+        797,
+        834,
+        843,
+        846,
+        849,
+        920
       ]
     },
     {
@@ -18364,8 +18366,8 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "0740a3ede1794b620366ed69535c90b0f07f49cacb876580c90e4629614ad842",
-      "bytes": 15919,
+      "sha256": "2c8e2ccb83460953d75b7ce0a7055e91f97d0b9e4ba4a0fba3a0a2f115cfdb66",
+      "bytes": 16148,
       "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
@@ -18382,6 +18384,7 @@
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -20146,9 +20149,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "3de66d7cefbe79e12e98ff5fd20650a208522de7bab66e50d94c6468b8a8893b",
-      "bytes": 31022,
-      "lines": 90,
+      "sha256": "5600130d76e18b6575afe438b6b8a15578ab25302e8da3a1981febda9be9ec44",
+      "bytes": 31502,
+      "lines": 91,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20202,6 +20205,7 @@
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20224,7 +20228,7 @@
         60,
         62,
         63,
-        79
+        80
       ]
     },
     {
@@ -26534,6 +26538,33 @@
       ]
     },
     {
+      "path": "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
+      "sha256": "6a189df80bb8efcea81f26a166549ff924cb3a5b62bbb135353f35b20f48b923",
+      "bytes": 11567,
+      "lines": 109,
+      "title": "Can the existing records detect the coherent counterexample?",
+      "headings": [
+        "Can the existing records detect the coherent counterexample?",
+        "Result",
+        "1. What is being measured",
+        "2. Estimating an arbitrary qubit with finite calibration",
+        "3. Numerical shot and backaction example",
+        "4. Testing the mixture assumption—and its limit",
+        "Scope and reproduction"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
+        "verification/zero_two_window_coherence_tomography_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        30,
+        68,
+        86,
+        100
+      ]
+    },
+    {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
       "sha256": "2c98d002903ad5f8e47afd3399ee70d036f4ffd43c1ab15ee8a98bb911977bff",
       "bytes": 13572,
@@ -26593,9 +26624,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
-      "sha256": "3b1e245dac8265f82b01105a124cca05b954f6815a8b988bc62161752af345e5",
-      "bytes": 11563,
-      "lines": 127,
+      "sha256": "6e666197ece86790bd08bdd34809fe3e38bf0a2b0f340684e5b78a856fa8e94c",
+      "bytes": 11833,
+      "lines": 129,
       "title": "Finite-shot calibration for a restricted clock-record family",
       "headings": [
         "Finite-shot calibration for a restricted clock-record family",
@@ -26608,14 +26639,15 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "verification/zero_two_window_operational_clock_calibration_test.py",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md"
       ],
       "risk_phrase_lines": [
-        9,
-        15,
-        94
+        11,
+        17,
+        96
       ]
     },
     {

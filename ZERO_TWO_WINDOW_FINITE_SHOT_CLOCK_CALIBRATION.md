@@ -1,5 +1,7 @@
 # Finite-shot calibration for a restricted clock-record family
 
+**Continuation:** [coherence and calibration test](ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md) shows that the full existing record is informationally complete on the two-packet span in the finite model, and quantifies its weak-direction and support assumptions.
+
 ## What this answers
 
 The [previous analysis](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) showed that ideal finite-interval slice data have an unstable inverse on the unrestricted continuum space. Here we ask a narrower, operational question: **can finite detector counts predict the same model's later recorded histories for a restricted preparation family?**
