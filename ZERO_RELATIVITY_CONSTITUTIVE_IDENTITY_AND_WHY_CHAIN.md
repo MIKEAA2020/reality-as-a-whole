@@ -85,6 +85,10 @@ Why is the rod shorter in S? Because the frame's simultaneous slice intersects t
 
 The research goal is not to stop at that boundary or replace it with an external coercer. It is to investigate whether a single self-sufficient constitution can make physical structure, real experience, plurality and incidence mutually necessary aspects of one reality. The relativity example demonstrates a form that such an explanation could take; it is not, by analogy alone, a proof that the whole has already been obtained.
 
+## Evaluation of the psychophysical analogy
+
+The [subsequent evaluation](ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md) distinguishes the analogy's legitimate noncausal explanatory role from the still-unestablished experience–organization identity, and corrects the suggestion that a genuine theoretical identity must be analytic.
+
 ## Continuation: a constitutive identity on the echo
 
 The [next pass](ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md) applies this method directly to the common echo. Its symmetric and antisymmetric sign modes are reversible coordinates of one structure; their exact identities show what remains when the symmetric scalar is zero, while an explicit instrument control separates that result from coherence and subject claims.
