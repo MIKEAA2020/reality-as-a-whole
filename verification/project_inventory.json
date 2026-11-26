@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 859,
-  "bytes": 11171393,
-  "line_count": 100953,
-  "document_count_with_risk_phrases": 812,
+  "document_count": 860,
+  "bytes": 11184550,
+  "line_count": 101042,
+  "document_count_with_risk_phrases": 813,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "a47674a9310b142efd8331a663baed8843348a166cca87c6a6452d594e17345a",
-      "bytes": 230212,
-      "lines": 1751,
+      "sha256": "220d76f76742c43a7606b8ea21902c327de7f00f5bfc76aa267b38bb09d2a0f0",
+      "bytes": 230488,
+      "lines": 1753,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6456,6 +6456,7 @@
         "ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
         "ZERO_ER_EPR_FIREWALL_AND_SPHERE_ACCESS.md",
+        "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
         "ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md",
         "ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md",
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
@@ -7532,6 +7533,7 @@
         "verification/zero_typed_echo_process.py",
         "verification/zero_typed_echo_process_test.py",
         "verification/zero_upstream_invariant_internal_history_test.py",
+        "verification/zero_version_space_revision_test.py",
         "verification/zero_why_symmetry_root.py",
         "verification/zero_why_symmetry_root_test.py",
         "verification/framework_inventory_manifest.json"
@@ -7553,19 +7555,19 @@
         485,
         585,
         605,
-        703,
-        707,
-        733,
-        738,
-        748,
-        751,
-        773,
-        819,
-        856,
-        865,
-        868,
-        871,
-        942
+        704,
+        708,
+        734,
+        739,
+        749,
+        752,
+        774,
+        820,
+        857,
+        866,
+        869,
+        872,
+        943
       ]
     },
     {
@@ -20211,9 +20213,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "85df6684eb1f876b259c9897ebb75390fde1b371508b9a9fd2d98fc50baf4ed3",
-      "bytes": 45062,
-      "lines": 113,
+      "sha256": "3d8366fd580a03955171f00e4129564c5f74a99eef6317ce56136475109c1760",
+      "bytes": 45684,
+      "lines": 114,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20291,6 +20293,8 @@
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
         "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
         "verification/zero_self_revision_necessity_test.py",
+        "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
+        "verification/zero_version_space_revision_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20323,7 +20327,8 @@
         84,
         85,
         86,
-        102
+        90,
+        103
       ]
     },
     {
@@ -22241,6 +22246,40 @@
         23,
         55,
         77
+      ]
+    },
+    {
+      "path": "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
+      "sha256": "eb17114df90a1afe1793b747c4902e08365e76ff59f5c354710e42734eff5735",
+      "bytes": 12009,
+      "lines": 86,
+      "title": "Evidence-driven concept revision without complete history",
+      "headings": [
+        "Evidence-driven concept revision without complete history",
+        "Result",
+        "1. Explicit system",
+        "2. What follows, and under which assumptions",
+        "3. Internal necessity has a price",
+        "4. The failure controls matter",
+        "5. What this does to the paper's argument",
+        "6. Relation to constitutive identity"
+      ],
+      "local_links": [
+        "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
+        "verification/zero_version_space_revision_test.py",
+        "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
+        "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        38,
+        41,
+        45,
+        57,
+        59,
+        61,
+        76,
+        84
       ]
     },
     {
@@ -25018,8 +25057,8 @@
     },
     {
       "path": "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
-      "sha256": "3f1aadcf236e46755e8076a5941670ebce284bf44d40b2ba8e9aacc0cf08fd6e",
-      "bytes": 13446,
+      "sha256": "456907597a4c7f1647e819680b78ea84998146fe75a7a3ecc8b43be5e40b6239",
+      "bytes": 13696,
       "lines": 106,
       "title": "Self-revision, engineering necessity and the experiential identity",
       "headings": [
@@ -25034,6 +25073,7 @@
       ],
       "local_links": [
         "verification/zero_self_revision_necessity_test.py",
+        "ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md",
         "ZERO_SR_ANALOGY_EXPERIENCE_STRUCTURE_IDENTITY_EVALUATION.md",
         "ZERO_ECHO_CONSTITUTIVE_MODES_AND_COHERENCE.md"
       ],

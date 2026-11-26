@@ -54,7 +54,7 @@ A clock revealing that three updates occurred, even together with the last comma
 
 The same idea yields an exact bounded-information result. For `T ≥ 1`, start from `(0,0,0)`, write any sequence of `T` binary values to slot 0, and fix the last value to 1. There are `2^(T−1)` distinct input histories but only one final table. With the initial state, time, index and last input known, a deterministic exact decoder needs at least `T−1` additional bits to distinguish all those histories. The bound concerns **worst-case exact recovery of this family**, not a lower bound for useful learning, rollback of only recent changes, compressed restricted histories, or a system with externally available records. Exact auditability has a real information requirement; this does not show it is always needed.
 
-Implementation and exhaustive checks: [self-revision necessity tests](verification/zero_self_revision_necessity_test.py).
+Implementation and exhaustive checks: [self-revision necessity tests](verification/zero_self_revision_necessity_test.py). A [subsequent evidence-driven learner](ZERO_EVIDENCE_DRIVEN_CONCEPT_REVISION_AND_HISTORY.md) evaluates candidate rules rather than receiving the revised rule directly, and sharpens both the retention theorem and the limits on history reconstruction.
 
 ## 3. What this control does and does not show
 
