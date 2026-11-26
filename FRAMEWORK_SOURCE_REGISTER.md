@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 786 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 749 verification Python scripts.
+- 787 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 751 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -631,6 +631,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md](ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md) — Dual pairing, sphere probabilities and an energy-conserving relative-clock interface
 - [ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md](ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md) — A subject boundary through memory writing, use and attempted erasure
 - [ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md](ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md) — Causal organization, access and candidate subjects on the echo
+- [ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) — Does balance require equal type weights?
 - [ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md](ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md) — One candidate intrinsic quality through the actual sphere echo
 - [ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md](ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md) — Positive unity witnesses on the echo: what they can and cannot establish
 - [ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) — Does the type-swap conflict actually break the echo?
@@ -1504,6 +1505,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_dynamic_subject_memory_echo_test.py](verification/zero_dynamic_subject_memory_echo_test.py)
 - [verification/zero_echo_causal_subject_criterion.py](verification/zero_echo_causal_subject_criterion.py)
 - [verification/zero_echo_causal_subject_criterion_test.py](verification/zero_echo_causal_subject_criterion_test.py)
+- [verification/zero_echo_incidence_balance_root.py](verification/zero_echo_incidence_balance_root.py)
+- [verification/zero_echo_incidence_balance_root_test.py](verification/zero_echo_incidence_balance_root_test.py)
 - [verification/zero_echo_intrinsic_constitution_selection_test.py](verification/zero_echo_intrinsic_constitution_selection_test.py)
 - [verification/zero_echo_positive_unity_witness.py](verification/zero_echo_positive_unity_witness.py)
 - [verification/zero_echo_positive_unity_witness_test.py](verification/zero_echo_positive_unity_witness_test.py)

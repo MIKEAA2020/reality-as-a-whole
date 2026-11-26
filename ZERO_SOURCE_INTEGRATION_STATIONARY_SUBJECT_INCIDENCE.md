@@ -2,6 +2,8 @@
 
 ## The constructive question
 
+**Balance follow-up:** [the echo incidence-balance diagnosis](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) distinguishes equal type weights from sign-reversing balance and shows why a diagonal-only type assignment is not automatically compatible with the earlier pure all-effect marginal.
+
 **Full-quantum continuation:** [the coherent echo type symmetry](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) constructs a controlled `Q Z_M` operation that exchanges the two binary quality observables on the actual post-echo support and stabilizes all 16 original source states. It does not prove the symmetry of actual experiential incidence, every degree of freedom, or a magnitude-bearing extension. [The point–sphere magnitude integration](ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md) shows why the latter matters.
 
 The user asks for repeated passes over the **whole available chat record**: audit inputs, plan what survives with any needed repair, and implement the resulting ideas in our framework. The [first stationary integration](ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md) brought PSR's target/control discipline and Page–Wootters' stationary observables together on the existing sphere echo. This second pass brings the subject and self-location issues into that **same stationary history**, using Bohn, Lewtas, Miller and the user's pairing proposal.

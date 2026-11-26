@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 829,
-  "bytes": 10737809,
-  "line_count": 96911,
-  "document_count_with_risk_phrases": 782,
+  "document_count": 830,
+  "bytes": 10751047,
+  "line_count": 97030,
+  "document_count_with_risk_phrases": 783,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "c17925f9b387b1c8d70a645b50471209623e46dd498483ad1dfb64893c7eed07",
-      "bytes": 219887,
-      "lines": 1675,
+      "sha256": "bfb2d6aaa6c9888b690dffa8d72d9c8db9cd4982d6393ec3c2865daff130536e",
+      "bytes": 220237,
+      "lines": 1678,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6434,6 +6434,7 @@
         "ZERO_DUAL_PAIR_SPHERE_ENERGY_CONSERVING_INSTRUMENT.md",
         "ZERO_DYNAMIC_SUBJECT_BOUNDARY_AND_MEMORY_ECHO.md",
         "ZERO_ECHO_CAUSAL_ACCESS_AND_SUBJECT_REFINEMENT.md",
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
@@ -7293,6 +7294,8 @@
         "verification/zero_dynamic_subject_memory_echo_test.py",
         "verification/zero_echo_causal_subject_criterion.py",
         "verification/zero_echo_causal_subject_criterion_test.py",
+        "verification/zero_echo_incidence_balance_root.py",
+        "verification/zero_echo_incidence_balance_root_test.py",
         "verification/zero_echo_intrinsic_constitution_selection_test.py",
         "verification/zero_echo_positive_unity_witness.py",
         "verification/zero_echo_positive_unity_witness_test.py",
@@ -7476,19 +7479,19 @@
         484,
         584,
         604,
-        686,
-        690,
-        716,
-        720,
-        729,
-        732,
-        752,
-        789,
-        826,
-        835,
-        838,
-        841,
-        912
+        687,
+        691,
+        717,
+        721,
+        730,
+        733,
+        753,
+        790,
+        827,
+        836,
+        839,
+        842,
+        913
       ]
     },
     {
@@ -19996,8 +19999,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "b7c909230efd2cbeb4ea81998534dc88c9d4474e198d43d7967b2b5de2405bea",
-      "bytes": 31313,
+      "sha256": "874c854d5879baf22d5a8fbe2ab578bf0387cbe2fcff40463584fe35046bf498",
+      "bytes": 31596,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -20026,6 +20029,7 @@
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_BRANCHWISE_ANGULAR_OPPOSITE_PAIR.md",
         "ZERO_NECESSARY_PLENITUDE_SIGN_PAIRING.md",
         "ZERO_SUBJECT_LOCALITY_AND_OVERLAP_WEIGHTED_BALANCE.md",
@@ -20067,9 +20071,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "656c31cea7987fc7ad0f1055c62025350459cd00f0bae76c0d29fb55291505cd",
-      "bytes": 27308,
-      "lines": 83,
+      "sha256": "0e80981880015529d36a70cca6cc937cdd4fe74c46e95fee207d7c6212fbdcc7",
+      "bytes": 27899,
+      "lines": 84,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20116,6 +20120,7 @@
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20135,7 +20140,8 @@
         57,
         58,
         59,
-        72
+        60,
+        73
       ]
     },
     {
@@ -21366,6 +21372,33 @@
       ]
     },
     {
+      "path": "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
+      "sha256": "3ebe7a568cc80e8b11e988a93b91a6a8c4755e1bcf1182d3e5c1ff31a6767b77",
+      "bytes": 10918,
+      "lines": 109,
+      "title": "Does balance require equal type weights?",
+      "headings": [
+        "Does balance require equal type weights?",
+        "The problem and diagnostic result",
+        "1. Use the same recorded echo, but expose the incidence hypothesis",
+        "2. The exact balance condition",
+        "3. Equal type weight is not sufficient under the weaker data condition",
+        "4. Why the stronger pure-state assumption changes the answer",
+        "5. Root-cause chain and implication for the programme",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
+        "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
+        "verification/zero_echo_incidence_balance_root_test.py"
+      ],
+      "risk_phrase_lines": [
+        22,
+        32,
+        109
+      ]
+    },
+    {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
       "sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d",
       "bytes": 17095,
@@ -21442,9 +21475,9 @@
     },
     {
       "path": "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
-      "sha256": "bfa7b84faaab40b8c5de5ae5ce21e526a2550a44a5a67ebbcd53643e362cef66",
-      "bytes": 10541,
-      "lines": 103,
+      "sha256": "d3314cc7a5b6b7faa92e55e8f302e5943b9aefb35c1083cb7ce13f35d5d50be7",
+      "bytes": 10919,
+      "lines": 105,
       "title": "Does the type-swap conflict actually break the echo?",
       "headings": [
         "Does the type-swap conflict actually break the echo?",
@@ -21457,17 +21490,18 @@
         "6. Root-cause chain and next discriminating issue"
       ],
       "local_links": [
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "verification/zero_echo_state_symmetry_dynamics_test.py",
         "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        23,
-        27,
-        39,
-        47,
-        70
+        9,
+        25,
+        29,
+        41,
+        49,
+        72
       ]
     },
     {
@@ -24436,9 +24470,9 @@
     },
     {
       "path": "ZERO_SOURCE_INTEGRATION_STATIONARY_SUBJECT_INCIDENCE.md",
-      "sha256": "26ec8073df70c1869a37b1b349e723e285ca55a11ae9df7e84ace7e2326a3974",
-      "bytes": 12893,
-      "lines": 97,
+      "sha256": "3702e38223ee337450b4f8e84ddd00b3b43f753582ab08e45ce2ff9ecfe9eb01",
+      "bytes": 13181,
+      "lines": 99,
       "title": "Source integration, second pass: subject incidence on the stationary sphere",
       "headings": [
         "Source integration, second pass: subject incidence on the stationary sphere",
@@ -24450,6 +24484,7 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
         "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md",
@@ -24466,9 +24501,9 @@
         "ZERO_SOURCE_INTEGRATION_STATIONARY_BATTERY_INTERFACE.md"
       ],
       "risk_phrase_lines": [
-        25,
-        76,
-        82
+        27,
+        78,
+        84
       ]
     },
     {
@@ -24536,9 +24571,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "cc5d6b438633d5f446e62e72df856fa093bbf884cf42e9396dbbbb4093b66e18",
-      "bytes": 28562,
-      "lines": 178,
+      "sha256": "e31ae05c84cb0a7eb3b89cbcbf57a7ba306a1b50c5005061e3369823be74bfa7",
+      "bytes": 28992,
+      "lines": 180,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24551,6 +24586,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md",
         "ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
@@ -24592,24 +24628,25 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        21,
-        25,
-        41,
-        47,
+        5,
+        11,
+        23,
+        27,
+        43,
         49,
-        55,
+        51,
         57,
-        67,
-        98,
-        113,
-        144,
+        59,
+        69,
+        100,
+        115,
         146,
-        154,
-        157,
-        158,
+        148,
+        156,
         159,
-        166
+        160,
+        161,
+        168
       ]
     },
     {

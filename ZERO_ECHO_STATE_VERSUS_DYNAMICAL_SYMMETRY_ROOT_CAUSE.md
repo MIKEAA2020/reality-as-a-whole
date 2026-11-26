@@ -2,6 +2,8 @@
 
 ## The diagnostic question
 
+**Incidence follow-up:** [the balance root-cause diagnosis](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) shows that equal type weights are not necessary for a zero signed mean in the strong pure-marginal family; a weaker diagonal-only incidence model can remain type-symmetric and equally weighted while sign-biased, but cannot be substituted for the same pure quantum marginal.
+
 The [previous investigation](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) showed that the free relative-angle kinetic operator and the proposed type swap do not commute. But the very same model had a swap-invariant, uniform coherent echo. Does this incompatibility invalidate that echo, or was a symmetry of one state being mistaken for a symmetry of all dynamics?
 
 **Result:** in the four-bin scalar model, the existing uniform angular state is fixed by the swap and annihilated by both the free and symmetrized kinetic operators. The operator conflict does **not** by itself destroy that particular state. However, among swap-even pure angular vectors, it is the only one whose entire free-kinetic orbit stays swap-even. A specific swap-even excitation develops an exactly calculable odd component, despite returning to the even sector later. Thus one-state agreement cannot establish symmetry of the operator, its excitations, or an incidence measure.

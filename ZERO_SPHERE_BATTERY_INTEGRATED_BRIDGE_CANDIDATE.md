@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Incidence-balance diagnosis:** [equal type weights versus signed balance](ZERO_ECHO_INCIDENCE_BALANCE_ROOT_CAUSE.md) derives an exact conditional criterion on the existing echo table. It shows equal type weights are unnecessary in the strong pure-state family, while diagonal-only type correlations can break balance even with equal weights and type symmetry; those correlations do not preserve the same pure quantum marginal.
+
 **Echo symmetry diagnosis:** [state versus dynamical symmetry](ZERO_ECHO_STATE_VERSUS_DYNAMICAL_SYMMETRY_ROOT_CAUSE.md) finds the same uniform echo in the common zero sector despite noncommuting free dynamics and type swap, and tests an even recorded-pair excitation that exposes the mismatch. Actual incidence symmetry remains a separate premise.
 
 **Type-swap locality investigation:** [the concrete quotient-kinetic conflict](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) persists across interval-bin refinements because the swap is discontinuous in the original angle topology. A loop–tail graph makes it a local symmetry only by changing that topology; the physical action, graph admissibility and continuum echo are not established.
