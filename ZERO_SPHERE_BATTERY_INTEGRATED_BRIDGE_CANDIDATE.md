@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Point-direction why-chain continuation:** [intrinsic point structure](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) represents one ordinary point with a nontrivial internal tangent and tracks the additional dimension, metric, measure and actuality premises. Full active linear symmetry has no normalized invariant directional probability in dimensions at least two; the point and its algebra are formal, not a derivation of experience or self-sufficiency.
+
 **Method-corrected continuation:** [the zero/symmetry why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md) follows the explanatory dependencies from pairwise zero through the symmetry-orbit origin of magnitude freedom to the meta-question of why a complete zero constitution is applicable, actual and genuinely explanatory. The clarified instruction is to continue asking why toward bedrock rather than treating successive model interfaces as root-cause completion.
 
 **Twenty-fourth-pass continuation:** [positive unity witness and plurality](ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md) applies the earlier sharp one-sided witness bound to the same physical joint-sign cells, quantifies possible stratification and conditional latent-symmetry improvements, and contrasts identical reporter evidence with additional private-subject hypotheses. Physical weights are not automatically reporter sampling weights; experience, error calibration, coverage and subject census remain unresolved.

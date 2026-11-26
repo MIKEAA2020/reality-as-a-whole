@@ -2,7 +2,7 @@
 
 ## Purpose and scope
 
-**Method correction:** the user clarified that “root cause to meta level” means repeatedly asking why and tracing each causal or constitutive dependency deeper until justified bedrock or a genuine meta-level issue is reached. Naming a meta-question, building an adjacent model or identifying one missing assumption is not by itself completion. The first corrected application is [the zero, symmetry and self-sufficiency why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md). Continue upstream from unsupported premises rather than declaring them ultimate.
+**Method correction:** the user clarified that “root cause to meta level” means repeatedly asking why and tracing each causal or constitutive dependency deeper until justified bedrock or a genuine meta-level issue is reached. Naming a meta-question, building an adjacent model or identifying one missing assumption is not by itself completion. The first corrected application is [the zero, symmetry and self-sufficiency why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md); the next follows it upstream into [point, internal directions and measure](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md). Continue upstream from unsupported premises rather than declaring them ultimate.
 
 The user asks which *other* analyses and results would benefit from the kind of root-cause and meta-level investigation applied to the local-magnitude anomaly. The priority is not to multiply objections or repeat “not yet”: it is to find where the apparent obstacle may result from a hidden distinction, an overly strong demand, a missing invariant, or an assumed separation between components that should be constituted together—and then construct and test the strongest available resolution.
 

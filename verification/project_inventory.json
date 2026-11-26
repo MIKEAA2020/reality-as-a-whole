@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 823,
-  "bytes": 10630241,
-  "line_count": 96034,
-  "document_count_with_risk_phrases": 776,
+  "document_count": 824,
+  "bytes": 10653451,
+  "line_count": 96234,
+  "document_count_with_risk_phrases": 777,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "19c72e65b225d986afd856dda97c03b5c3b702c65721d8715e9f94db7b9d947a",
-      "bytes": 217639,
-      "lines": 1657,
+      "sha256": "f0da21a55c066f6b8326d38bc8d2903710d650e30acea328265a0626882a5050",
+      "bytes": 217997,
+      "lines": 1660,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6498,6 +6498,7 @@
         "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
         "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
         "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md",
         "ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md",
         "ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md",
@@ -7325,6 +7326,8 @@
         "verification/zero_internal_reference_subject_valence_candidates_test.py",
         "verification/zero_intrinsic_angular_estimation.py",
         "verification/zero_intrinsic_angular_estimation_test.py",
+        "verification/zero_intrinsic_point_jets.py",
+        "verification/zero_intrinsic_point_jets_test.py",
         "verification/zero_invariant_all_history_record_clock_test.py",
         "verification/zero_invariant_sphere_instrument_test.py",
         "verification/zero_isotropic_singlet_history_test.py",
@@ -7460,17 +7463,17 @@
         604,
         683,
         687,
-        711,
-        715,
-        724,
-        727,
-        747,
-        783,
-        820,
-        829,
-        832,
-        835,
-        906
+        712,
+        716,
+        725,
+        728,
+        748,
+        784,
+        821,
+        830,
+        833,
+        836,
+        907
       ]
     },
     {
@@ -19978,8 +19981,8 @@
     },
     {
       "path": "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md",
-      "sha256": "7050b2cee999cc2d9ae5b21f838a628a049c0334fb184c55385d7d1b05b4d10c",
-      "bytes": 30249,
+      "sha256": "bf02c2c55a7c311acdb8ad0a60cd549bedf91a120735fcdef687e4c74c930683",
+      "bytes": 30370,
       "lines": 141,
       "title": "Root-cause research map for the zero–point–sphere programme",
       "headings": [
@@ -19994,6 +19997,7 @@
       ],
       "local_links": [
         "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
+        "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "FRAMEWORK_SOURCE_REGISTER.md",
         "verification/source_repass_progress.json",
         "USER_INPUTS_AUDIT_VERSUS_CONSTRUCTION_ACCOUNTABILITY.md",
@@ -20042,9 +20046,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "39a6ed4394ece85e987757ef9d0f1af65b97d0007c0c5fcf0a387a3f1bf75665",
-      "bytes": 23651,
-      "lines": 77,
+      "sha256": "24ca07603cbd4a59cab0d5598966ab7627dad1aa8998baed293967e0ff21de03",
+      "bytes": 24263,
+      "lines": 78,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20085,6 +20089,7 @@
         "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
         "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
+        "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20099,7 +20104,8 @@
         46,
         49,
         51,
-        66
+        54,
+        67
       ]
     },
     {
@@ -23403,9 +23409,9 @@
     },
     {
       "path": "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
-      "sha256": "3d35c0740e56416f975e8c26bcbf9c28777dd9d310a47f1ada364874c0857811",
-      "bytes": 12396,
-      "lines": 123,
+      "sha256": "bedfb89adbeebe0907c1aa243f9c7bd9e68541dc8714743b4f6fefded7419020",
+      "bytes": 12783,
+      "lines": 125,
       "title": "Zero as a point with an internally differentiated sphere",
       "headings": [
         "Zero as a point with an internally differentiated sphere",
@@ -23418,6 +23424,7 @@
         "6. What your idea advances"
       ],
       "local_links": [
+        "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md",
@@ -23427,12 +23434,48 @@
         "ZERO_SYMMETRY_POINT_SPHERE_QUANTUM_PLENITUDE.md"
       ],
       "risk_phrase_lines": [
-        3,
-        19,
-        77,
-        105,
+        5,
+        21,
+        79,
         107,
-        117
+        109,
+        119
+      ]
+    },
+    {
+      "path": "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
+      "sha256": "61abb1d29c25a6bb6f1c26cd2d7e5279c971189918e7f90296a43fed8c0cfac2",
+      "bytes": 21274,
+      "lines": 192,
+      "title": "Why would a zero-point have an inner sphere? A deeper constitutive chain",
+      "headings": [
+        "Why would a zero-point have an inner sphere? A deeper constitutive chain",
+        "Direct result",
+        "1. Why look beneath the point–sphere picture?",
+        "2. A point with an internal differential structure",
+        "3. Ask why again: what makes the directions belong to zero?",
+        "4. Why specifically a sphere of three dimensions?",
+        "5. Why does no preferred direction not already give a round sphere and equal weights?",
+        "6. Even an internal sphere does not fix the whole's constitution"
+      ],
+      "local_links": [
+        "ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md",
+        "verification/zero_intrinsic_point_jets.py",
+        "verification/zero_intrinsic_point_jets_test.py",
+        "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
+        "ZERO_META_SYMMETRY_RELATIONAL_MAGNITUDE_ROOT_CAUSE.md",
+        "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        38,
+        60,
+        75,
+        96,
+        127,
+        137,
+        152,
+        192
       ]
     },
     {
@@ -24315,9 +24358,9 @@
     },
     {
       "path": "ZERO_SPHERE_BATTERY_INTEGRATED_BRIDGE_CANDIDATE.md",
-      "sha256": "378cb6f4efe38b557b6b20e9687ec000251f302d93ad48501e97c1d93fa7c0b2",
-      "bytes": 26015,
-      "lines": 166,
+      "sha256": "8d133068766d9746fdad50ee15404f225560e8e63d84765443537a4fc5da66c2",
+      "bytes": 26473,
+      "lines": 168,
       "title": "Toward passing the battery: one sphere–echo candidate, not another rival audit",
       "headings": [
         "Toward passing the battery: one sphere–echo candidate, not another rival audit",
@@ -24330,6 +24373,7 @@
         "6. What to obtain and do next"
       ],
       "local_links": [
+        "ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md",
         "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
         "ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md",
         "ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md",
@@ -24365,23 +24409,23 @@
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        29,
-        35,
+        11,
+        15,
+        31,
         37,
-        43,
+        39,
         45,
-        55,
-        86,
-        101,
-        132,
+        47,
+        57,
+        88,
+        103,
         134,
-        142,
-        145,
-        146,
+        136,
+        144,
         147,
-        154
+        148,
+        149,
+        156
       ]
     },
     {

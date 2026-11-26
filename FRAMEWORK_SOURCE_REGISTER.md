@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 780 root Markdown documents including this register; 43 research Markdown documents.
-- 64 original uploaded files, including provenance metadata; 737 verification Python scripts.
+- 781 root Markdown documents including this register; 43 research Markdown documents.
+- 64 original uploaded files, including provenance metadata; 739 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -695,6 +695,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md](ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md) — Plenitude, two kinds of intelligibility, and necessity of the whole
 - [ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md](ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md) — A point–sphere structure compatible with relativity
 - [ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md](ZERO_POINT_INTERNAL_SPHERE_CONSTITUTION.md) — Zero as a point with an internally differentiated sphere
+- [ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) — Why would a zero-point have an inner sphere? A deeper constitutive chain
 - [ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md](ZERO_POINT_SPHERE_INTRINSIC_SIGN_AND_CONSTITUTION.md) — Zero's internal sphere: a direct test of physical and experiential constitution
 - [ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md](ZERO_POINT_SPHERE_RELATIONAL_QUANTUM_GRAVITY_TIME.md) — Time from a zero whole: a sphere–record relational clock and a cosmological constraint
 - [ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md](ZERO_POINT_SPHERE_SIGNED_MAGNITUDE_ECHO_INTEGRATION.md) — Point–sphere, signed experiential candidates and the common echo
@@ -1536,6 +1537,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_internal_reference_subject_valence_candidates_test.py](verification/zero_internal_reference_subject_valence_candidates_test.py)
 - [verification/zero_intrinsic_angular_estimation.py](verification/zero_intrinsic_angular_estimation.py)
 - [verification/zero_intrinsic_angular_estimation_test.py](verification/zero_intrinsic_angular_estimation_test.py)
+- [verification/zero_intrinsic_point_jets.py](verification/zero_intrinsic_point_jets.py)
+- [verification/zero_intrinsic_point_jets_test.py](verification/zero_intrinsic_point_jets_test.py)
 - [verification/zero_invariant_all_history_record_clock_test.py](verification/zero_invariant_all_history_record_clock_test.py)
 - [verification/zero_invariant_sphere_instrument_test.py](verification/zero_invariant_sphere_instrument_test.py)
 - [verification/zero_isotropic_singlet_history_test.py](verification/zero_isotropic_singlet_history_test.py)

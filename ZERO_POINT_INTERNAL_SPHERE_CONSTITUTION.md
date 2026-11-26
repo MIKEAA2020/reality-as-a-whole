@@ -1,5 +1,7 @@
 # Zero as a point with an internally differentiated sphere
 
+**Upstream why-chain:** [one ordinary point with intrinsic direction structure](ZERO_POINT_INTRINSIC_DIRECTION_WHY_CHAIN.md) constructs a pointed algebra whose tangent need not vanish, then asks why its dimension, metric, directional measure and experiential meaning should belong to the actual zero nature. This is a formal candidate, not a derivation of the sphere from a bare point.
+
 **Calculus and directional-balance continuation:** [the Kamlapure zero article audit](KAMLAPURE_ZERO_ORIGIN_LIMIT_SPHERE_AUDIT.md) connects a finite jet representation to three paired constraints that uniquely select an identity state, and tests their compatibility with the earlier five-ray readout.
 
 **Confined-domain continuation:** [confined succession without an interaction](ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md) formalizes realm-specific order and held position without assuming a physical holding mechanism or external clock; it also derives a conditional symmetry split and a nonuniqueness control. The earlier [held-position and interface model](ZERO_CONFINED_REALMS_HELD_POSITION_AND_INTERFACE.md) gives optional physical circuits, not necessary conditions for confinement. The richer structure and its experiential significance are not derived from the bare point.
