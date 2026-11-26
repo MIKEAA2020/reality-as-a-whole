@@ -1,5 +1,7 @@
 # Can the existing records detect the coherent counterexample?
 
+**Continuation:** [support and coherent readout](ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md) constructs a better-conditioned alternative with an ideal outside-span flag, quantifies finite-shot inference, and measures its disturbance of the original protocol.
+
 ## Result
 
 Yes, **within a specified two-dimensional packet span and the finite regulator**, the full 32-outcome instrument already used in the [finite-shot calculation](ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md) is informationally complete: its outcome probabilities determine every qubit density matrix on that span, including coherent superpositions. The earlier pair with identical first-click rates has different final-memory statistics. No extra detector interaction is required beyond that earlier *three-attempt plus final-memory* protocol; compared with observing only the first click, however, the additional attempts and memory readout are physical interventions and can cause backaction.

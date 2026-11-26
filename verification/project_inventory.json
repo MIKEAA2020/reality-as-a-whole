@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 837,
-  "bytes": 10848752,
-  "line_count": 97838,
-  "document_count_with_risk_phrases": 790,
+  "document_count": 838,
+  "bytes": 10860934,
+  "line_count": 97958,
+  "document_count_with_risk_phrases": 791,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5799,9 +5799,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bcce787c432940be75cfdda1796591806420fd7181a9125f0b1271ee1e61f6f1",
-      "bytes": 222390,
-      "lines": 1693,
+      "sha256": "4261d7d7e9bbc86077be4eaf7503e0932fbc12538e6ef6d594a2c1769cb5c9ea",
+      "bytes": 222670,
+      "lines": 1695,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6595,6 +6595,7 @@
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
         "ZERO_UNIQUE_STATIONARY_RELATIONAL_HISTORY.md",
@@ -7469,6 +7470,7 @@
         "verification/zero_two_window_full_slice_test.py",
         "verification/zero_two_window_operational_clock_calibration_test.py",
         "verification/zero_two_window_recorded_histories_test.py",
+        "verification/zero_two_window_support_eraser_test.py",
         "verification/zero_type_reflection_continuum_root.py",
         "verification/zero_type_reflection_continuum_root_test.py",
         "verification/zero_typed_echo_process.py",
@@ -7502,12 +7504,12 @@
         733,
         736,
         756,
-        797,
-        834,
-        843,
-        846,
-        849,
-        920
+        798,
+        835,
+        844,
+        847,
+        850,
+        921
       ]
     },
     {
@@ -18366,8 +18368,8 @@
     },
     {
       "path": "TIME_RESEARCH_ROADMAP.md",
-      "sha256": "2c8e2ccb83460953d75b7ce0a7055e91f97d0b9e4ba4a0fba3a0a2f115cfdb66",
-      "bytes": 16148,
+      "sha256": "020cf3e6d990ea5437bd1db626072377775b5d942cdcd516975719732f327b06",
+      "bytes": 16383,
       "lines": 84,
       "title": "A top-down research program for the problem of time",
       "headings": [
@@ -18385,6 +18387,7 @@
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "TURNING_CLOCK_ATLAS.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "ABSOLUTE_PERSPECTIVES_SYNTHESIS.md",
@@ -20149,9 +20152,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "5600130d76e18b6575afe438b6b8a15578ab25302e8da3a1981febda9be9ec44",
-      "bytes": 31502,
-      "lines": 91,
+      "sha256": "d65ce2e27726da1a1aea3e89366a68ebad3520f539ea52410e2ed6bef934acb0",
+      "bytes": 32019,
+      "lines": 92,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20206,6 +20209,7 @@
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20228,7 +20232,7 @@
         60,
         62,
         63,
-        80
+        81
       ]
     },
     {
@@ -26539,9 +26543,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
-      "sha256": "6a189df80bb8efcea81f26a166549ff924cb3a5b62bbb135353f35b20f48b923",
-      "bytes": 11567,
-      "lines": 109,
+      "sha256": "c80ffa973e9ea6475ca8d8e5cb1e334ede2e6969ba55ef831891c5fb0297041c",
+      "bytes": 11832,
+      "lines": 111,
       "title": "Can the existing records detect the coherent counterexample?",
       "headings": [
         "Can the existing records detect the coherent counterexample?",
@@ -26553,15 +26557,16 @@
         "Scope and reproduction"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "verification/zero_two_window_coherence_tomography_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        30,
-        68,
-        86,
-        100
+        9,
+        32,
+        70,
+        88,
+        102
       ]
     },
     {
@@ -26709,6 +26714,35 @@
         88,
         99,
         115
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
+      "sha256": "82b7bda0ddb0952b8f70ccc8a79155b2061952bfad1dff8813285803709865ce",
+      "bytes": 10885,
+      "lines": 115,
+      "title": "Better-conditioned clock readout—with a support flag and a cost",
+      "headings": [
+        "Better-conditioned clock readout—with a support flag and a cost",
+        "Result",
+        "1. An explicit alternative instrument",
+        "2. Calibrating and bounding outside support",
+        "3. Simulated finite-shot comparison",
+        "4. The additional measurement really changes the experiment",
+        "Scope and reproduction"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
+        "verification/zero_two_window_support_eraser_test.py",
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        42,
+        50,
+        69,
+        106,
+        110
       ]
     },
     {
