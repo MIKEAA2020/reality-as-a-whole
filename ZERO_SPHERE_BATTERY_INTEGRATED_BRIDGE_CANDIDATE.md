@@ -2,6 +2,8 @@
 
 ## Purpose and status
 
+**Twenty-fourth-pass continuation:** [positive unity witness and plurality](ZERO_ECHO_POSITIVE_UNITY_WITNESS_AND_PLURALITY.md) applies the earlier sharp one-sided witness bound to the same physical joint-sign cells, quantifies possible stratification and conditional latent-symmetry improvements, and contrasts identical reporter evidence with additional private-subject hypotheses. Physical weights are not automatically reporter sampling weights; experience, error calibration, coverage and subject census remain unresolved.
+
 **Twenty-third-pass continuation:** [joint unity, reports and incidence symmetry](ZERO_JOINT_UNITY_REPORT_AND_INCIDENCE_SYMMETRY.md) demonstrates an exact parity-report shortcut on the coherent code, tests joint versus separated incidence extensions under conditional symmetries, and gives a conditional first-person witness with correlated-error control. Neither physical output nor assumed report accuracy establishes actual subject unity.
 
 **Twenty-second-pass continuation:** [typed echo process, clock and access](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) transports the same logical sign through the actual echo, saved memory, stationary clock and constrained pair; tests coherent code refinements and reports; and distinguishes an independently varying interacting content. Experience, ownership and actual incidence remain additional obligations.
