@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 881,
-  "bytes": 11533974,
-  "line_count": 104308,
-  "document_count_with_risk_phrases": 833,
+  "document_count": 882,
+  "bytes": 11548368,
+  "line_count": 104486,
+  "document_count_with_risk_phrases": 834,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ac3902bb679006270f78f6f08e1cd36c0f15c2f390cb8164b23fde5045ab88ae",
-      "bytes": 236624,
-      "lines": 1795,
+      "sha256": "3c24b7605e49ac56ea0ff48092e025b0de6b693c59baa200d5c06e4c08478acd",
+      "bytes": 236921,
+      "lines": 1797,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6711,6 +6711,7 @@
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
         "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
         "ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
@@ -7642,6 +7643,7 @@
         "verification/zero_two_window_commutator_certificate.py",
         "verification/zero_two_window_commutator_certificate_test.py",
         "verification/zero_two_window_continuum_slice_test.py",
+        "verification/zero_two_window_cursor_instrument_test.py",
         "verification/zero_two_window_finite_record_clock_test.py",
         "verification/zero_two_window_full_slice_test.py",
         "verification/zero_two_window_imperfect_support_flag_test.py",
@@ -7683,12 +7685,12 @@
         764,
         767,
         793,
-        841,
-        878,
-        887,
-        890,
-        893,
-        965
+        842,
+        879,
+        888,
+        891,
+        894,
+        966
       ]
     },
     {
@@ -13558,8 +13560,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "d0f8d546d5fd2a7f0034b5f9378e5ebb46644feadc66f28ebff45708721726f2",
-      "bytes": 13861,
+      "sha256": "7fe0b84af160591a780bc037959d5ec76ea45240824d49b08bd167bdf16e6762",
+      "bytes": 14069,
       "lines": 128,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13576,12 +13578,14 @@
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_redundant_flag_hold_test.py",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "AUTONOMOUS_STOP_CLOCK.md"
       ],
       "risk_phrase_lines": [
@@ -20484,9 +20488,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "796ae70913d47cd3028b7004da917dd0ff0ad4f301b350729f572f60e0ba05c2",
-      "bytes": 59005,
-      "lines": 134,
+      "sha256": "dbb62df7e009a562c0296b4139c06268a78e3026c95dc6f00d55063b66f6d0e1",
+      "bytes": 59591,
+      "lines": 135,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20608,6 +20612,8 @@
         "verification/zero_two_window_redundant_flag_hold_test.py",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "verification/zero_two_window_autonomous_cursor_reader_test.py",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
+        "verification/zero_two_window_cursor_instrument_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20648,7 +20654,7 @@
         105,
         108,
         109,
-        123
+        124
       ]
     },
     {
@@ -28014,9 +28020,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
-      "sha256": "cff41c906fcba29c686dc2b2f151512d44ccc4f3e8d1db810bbb69341be201e8",
-      "bytes": 13697,
-      "lines": 199,
+      "sha256": "ed918656d4bff582aac637c6980dbb578ce307e5f0fdc7bc346df290d24ae99d",
+      "bytes": 14054,
+      "lines": 201,
       "title": "An autonomous cursor reads the transient support flag",
       "headings": [
         "An autonomous cursor reads the transient support flag",
@@ -28029,6 +28035,7 @@
         "6. What is solved, and the next gate"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_autonomous_cursor_reader_test.py",
@@ -28036,13 +28043,13 @@
         "verification/zero_two_window_autonomous_cursor_reader_test.py"
       ],
       "risk_phrase_lines": [
-        27,
-        90,
-        127,
-        172,
-        182,
+        29,
+        92,
+        129,
+        174,
         184,
-        186
+        186,
+        188
       ]
     },
     {
@@ -28167,6 +28174,37 @@
         3,
         7,
         113
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
+      "sha256": "9b95d124f9f5aa7f3b1579e95b836125a952f74991ad3ba64c90329de1b05786",
+      "bytes": 12946,
+      "lines": 173,
+      "title": "A complete instrument for the autonomous cursor—and its backaction",
+      "headings": [
+        "A complete instrument for the autonomous cursor—and its backaction",
+        "Result",
+        "1. Specify the experiment and its two operations",
+        "2. The ideal instrument being compared",
+        "3. A uniform postmeasurement error bound",
+        "4. Quantified backaction",
+        "5. Finite-regulator checks",
+        "6. The next frontier: an actual second clock"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "verification/zero_two_window_cursor_instrument_test.py",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "verification/zero_two_window_cursor_instrument_test.py"
+      ],
+      "risk_phrase_lines": [
+        22,
+        29,
+        35,
+        83,
+        92,
+        132
       ]
     },
     {
