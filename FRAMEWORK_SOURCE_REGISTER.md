@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 860 root Markdown documents including this register; 43 research Markdown documents.
+- 861 root Markdown documents including this register; 43 research Markdown documents.
 - 68 original uploaded files, including provenance metadata; 834 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -74,6 +74,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md](CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md) — Ciupa on zero, potential and observation: the paired whole
 - [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
 - [CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md](CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md) — Claude-time original: 71-exchange coverage index
+- [CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md](CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md) — Claude-time research: all-surviving-leads workboard
 - [CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md](CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md) — Claude-time chat: initial article-provenance audit
 - [CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md](CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md) — Claude-time critique: analytical targets, coverage and repairs
 - [CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md) — Claude-time chat: audit of modular state selection and a constructive correction

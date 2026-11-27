@@ -128,6 +128,8 @@ The objective remains the user's **no-unexplained-residue** constitution, includ
 
 These passes are **partial integrations**, not a claim that all aspects of these inputs are finished. The tracker records conservative source-specific examples, not all historical integrations; it should be expanded with evidence as each is verified.
 
+For the Claude-time original, the [all-surviving-leads workboard](CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md) explicitly tracks every A1–A8/G1–G5/P1–P3 target plus further identified physical, analytical and experiential leads, with current evidence and an implementation or stop test for each. This is a living partial inventory: as the rest of the source and its inputs are audited, add and pursue further surviving leads. Do not stop after a single example, treat a toy as closing a physical target, or silently discard an underdefined target.
+
 ## Research queue: bring the remaining families into the same constitution
 
 The [meta-level root-cause research map](WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md) prioritizes 12 candidate problems across the surviving chat-derived material, with original results, suspected underlying distinctions, constructive tests and a joint subject–quality–incidence sequence. It is a selection and work plan, not a claim to have recovered or exhaustively reviewed the entire historical chat.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 903,
-  "bytes": 11858353,
-  "line_count": 107234,
-  "document_count_with_risk_phrases": 855,
+  "document_count": 904,
+  "bytes": 11875244,
+  "line_count": 107302,
+  "document_count_with_risk_phrases": 856,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1868,6 +1868,42 @@
       ]
     },
     {
+      "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
+      "sha256": "06f007bfba59b21473122e0f99ec439977d3b683c8aa55e5567e03f9756d87a9",
+      "bytes": 15942,
+      "lines": 65,
+      "title": "Claude-time research: all-surviving-leads workboard",
+      "headings": [
+        "Claude-time research: all-surviving-leads workboard",
+        "Commitment and limits",
+        "1. Every target in the source's final A/G/P list",
+        "2. Further distinct leads and direct user targets",
+        "3. Queue for not-yet-audited inputs",
+        "4. Update rule and completion standard"
+      ],
+      "local_links": [
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+        "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
+        "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        25,
+        50,
+        53,
+        61,
+        65
+      ]
+    },
+    {
       "path": "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
       "sha256": "0aba0b3beaf629ddfddd3be54dc402a963c8f3ba8ff197668c925e7addcc040d",
       "bytes": 8724,
@@ -1900,8 +1936,8 @@
     },
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "sha256": "4c8df0d100abc2be74f70af10b253a4db0bf559f18209d163ffca905dcd9e123",
-      "bytes": 16659,
+      "sha256": "aa4c28c891d36389a5adc230e3adf478eb69ef9b405d8796ec52a9768ec2979a",
+      "bytes": 16901,
       "lines": 121,
       "title": "Claude-time critique: analytical targets, coverage and repairs",
       "headings": [
@@ -1918,6 +1954,7 @@
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "verification/claude_time_analytical_target_crosswalk_test.py"
       ],
       "risk_phrase_lines": [
@@ -6061,9 +6098,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "bc49241340b3009ff9ba7d60f7e7a55b5b4ca277a72daf8bdfd37c83f63a3209",
-      "bytes": 242728,
-      "lines": 1838,
+      "sha256": "1a358e18d4e6c891f474ca60473a9ff738db3ae19a535f4e09008f71e4cf757c",
+      "bytes": 242879,
+      "lines": 1839,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6139,6 +6176,7 @@
         "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
         "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
@@ -7890,33 +7928,33 @@
         20,
         44,
         68,
-        83,
-        93,
-        177,
-        239,
-        288,
-        322,
-        352,
-        400,
-        404,
-        435,
-        504,
-        605,
-        625,
-        638,
-        736,
-        740,
-        767,
-        772,
-        784,
-        787,
-        813,
-        863,
-        900,
-        909,
-        912,
-        915,
-        989
+        84,
+        94,
+        178,
+        240,
+        289,
+        323,
+        353,
+        401,
+        405,
+        436,
+        505,
+        606,
+        626,
+        639,
+        737,
+        741,
+        768,
+        773,
+        785,
+        788,
+        814,
+        864,
+        901,
+        910,
+        913,
+        916,
+        990
       ]
     },
     {
@@ -21005,9 +21043,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "83ea2b90e8a7f018d19df4f741c53fefdca1e00e39e4c6155c66e81142f843ca",
-      "bytes": 68931,
-      "lines": 151,
+      "sha256": "a4ea1da7ed95fe611608859bbd001ed93075e966a6b03ce1b9fefcbd10ed0efd",
+      "bytes": 69487,
+      "lines": 153,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -21154,6 +21192,7 @@
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -21201,7 +21240,7 @@
         125,
         126,
         127,
-        140
+        142
       ]
     },
     {

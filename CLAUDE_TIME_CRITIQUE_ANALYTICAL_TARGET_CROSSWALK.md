@@ -97,7 +97,7 @@ These are **separate research programmes**, not automatic consequences of M1–M
 * **Spectral-triple bridge:** exhibit an actual spectral triple and algebra/state map, prove the relevant reconstruction and effective action under explicit regularity assumptions; standard-model/constant recovery and uniqueness are additional unproved tasks.
 * **Collapse–renormalization and qualia:** do not claim a proof target is well-posed until both sides have a defined common formal language and discriminating predictions. These are placeholders, not negative conclusions about the user's broader aim.
 
-The source's final A1–A8, G1–G5 and P1–P3 are therefore preserved as *leads*, not accepted as a valid dependency chain. In particular, locality does not automatically produce an area law; Born probabilities do not determine poststates; a cocycle relation does not itself show physical gauge equivalence; and neither a modular identity nor a metaphysical assumption selects a unique state.
+The source's final A1–A8, G1–G5 and P1–P3 are therefore preserved as *leads*, not accepted as a valid dependency chain. The [all-surviving-leads workboard](CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md) tracks each of them and further direct targets individually through audit, implementation or documented obstruction, and expands as the source audit continues. In particular, locality does not automatically produce an area law; Born probabilities do not determine poststates; a cocycle relation does not itself show physical gauge equivalence; and neither a modular identity nor a metaphysical assumption selects a unique state.
 
 ## 3. Concrete checks: state selection and measurement are independent
 
