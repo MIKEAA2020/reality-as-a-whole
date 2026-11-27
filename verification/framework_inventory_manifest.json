@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "1ae9e5bb8e89d28104f6ef04f8b9f1f8a4833aae",
-  "file_count": 2475,
+  "base_head": "9b21f0cf2b5eb492e9ae7aa23aeca560b1e261fc",
+  "file_count": 2478,
   "files": [
     {
       "path": ".gitattributes",
@@ -292,6 +292,11 @@
       "path": "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
       "bytes": 2039,
       "sha256": "b86ba58b85247febcf78f1a1338aba682b2c98a215e31ebcfa0ac53fd3f81dad"
+    },
+    {
+      "path": "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+      "bytes": 13640,
+      "sha256": "d19c6eddbb3b45486e0934772be21cc03a70513a5449491a450b609c1266dfe9"
     },
     {
       "path": "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
@@ -890,8 +895,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 240778,
-      "sha256": "57b74256b743fdb04c8c748b11bcb27ac8106e897a345b48afff0bff4a944e49"
+      "bytes": 241181,
+      "sha256": "386c2ac215f5e384cc4cfad3505e901053bd5496da71c2af84d940b50776b778"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1340,8 +1345,8 @@
     },
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
-      "bytes": 5503,
-      "sha256": "ff5fdaa20ddac6ab0e6550f5d1911061411fbf48a7731693b9a570b97e703bb7"
+      "bytes": 5655,
+      "sha256": "0866fe248f51c8feb89aa0a03ce665fe6db8e0face4efdee6a8e9206cb07d42e"
     },
     {
       "path": "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
@@ -1365,8 +1370,8 @@
     },
     {
       "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
-      "bytes": 11045,
-      "sha256": "e00ae20129578e633a2d7456b959d57da59351bcbece3dae83f99bfee2655b39"
+      "bytes": 11235,
+      "sha256": "8b0b1a4086229172fe0e0219cd2c87f3793080d7fada71a00bb8e688cbe04a8b"
     },
     {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
@@ -1920,8 +1925,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "bytes": 19931,
-      "sha256": "be0fa86d7357b77ec95a998e3ad5389c70154e1d552b8d4084e520fc3a2123db"
+      "bytes": 20538,
+      "sha256": "be4629f8a74d95ee0e24baddea73dfb0cb514b01a6e2b2db893a701374977d0a"
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
@@ -2995,8 +3000,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 67422,
-      "sha256": "4271e9a3ff743b5065ade274e81129582770debf2eb63c815b428e6f866e8234"
+      "bytes": 67925,
+      "sha256": "d698d7746dd49a5b2c30238517921ee0226b99debe7799046b7c20947c63e632"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -5679,6 +5684,11 @@
       "sha256": "eb055f473194edf4fccca377b30a009266e9154ab16e927fde3ad3baadbef525"
     },
     {
+      "path": "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
+      "bytes": 109630,
+      "sha256": "0285f4e727e81b2eec143da8e4a9832edd6e66974ba4ebd5739f479e9be13bba"
+    },
+    {
       "path": "sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt",
       "bytes": 45078,
       "sha256": "dab6dc853974f9cded032a930b864558f65fc401fb876d29e4b59f6c807d9e40"
@@ -6342,6 +6352,11 @@
       "path": "verification/chemotaxis_integral_feedback_example_test.py",
       "bytes": 1819,
       "sha256": "188fad3d16393d0e935d7f53c00a0faf73d835d24dc50c4c3065d74a638ba241"
+    },
+    {
+      "path": "verification/chess_time_audit_implementation_test.py",
+      "bytes": 3567,
+      "sha256": "33892de4b542a1d37a9da4a68ae8c804912ef40a4d9afce074738bc6d388cb82"
     },
     {
       "path": "verification/cie_metamer_experiential_gate.json",
@@ -8905,8 +8920,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1162942,
-      "sha256": "de111a5c1f27f59f9ca6c1020687385c85f3b623777392c94a131ba6765fc4fd"
+      "bytes": 1164486,
+      "sha256": "368b3cedbc10248a0fc1506bf1f2b9b5d527ffa4d2803024a730ae806c8a08a0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10080,8 +10095,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 559778,
-      "sha256": "7b15dae92c23d3148f79d930f03a11998102bdbacd753cdd4a9873b6535655a3"
+      "bytes": 560878,
+      "sha256": "2a3abf55cee2c1cf73808b4bc66f04084164912da550f49b4f5ddcc8c3b2e574"
     },
     {
       "path": "verification/source_repass_tracker_test.py",

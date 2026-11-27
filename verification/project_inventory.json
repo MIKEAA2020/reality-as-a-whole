@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 896,
-  "bytes": 11750609,
-  "line_count": 106586,
-  "document_count_with_risk_phrases": 848,
+  "document_count": 897,
+  "bytes": 11766104,
+  "line_count": 106655,
+  "document_count_with_risk_phrases": 849,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1708,6 +1708,33 @@
       "risk_phrase_lines": [
         5,
         7
+      ]
+    },
+    {
+      "path": "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+      "sha256": "d19c6eddbb3b45486e0934772be21cc03a70513a5449491a450b609c1266dfe9",
+      "bytes": 13640,
+      "lines": 63,
+      "title": "Chess time: audit, steelman, plan, implementation",
+      "headings": [
+        "Chess time: audit, steelman, plan, implementation",
+        "Scope and method",
+        "1. Steelman first: the usable insight",
+        "2. Audit: what survives and what does not",
+        "3. Plan after audit",
+        "4. Implementation",
+        "5. What follows"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
+        "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
+        "verification/chess_time_audit_implementation_test.py"
+      ],
+      "risk_phrase_lines": [
+        24,
+        25,
+        42
       ]
     },
     {
@@ -5878,9 +5905,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "57b74256b743fdb04c8c748b11bcb27ac8106e897a345b48afff0bff4a944e49",
-      "bytes": 240778,
-      "lines": 1824,
+      "sha256": "386c2ac215f5e384cc4cfad3505e901053bd5496da71c2af84d940b50776b778",
+      "bytes": 241181,
+      "lines": 1827,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5951,6 +5978,7 @@
         "CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md",
         "CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md",
         "CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md",
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
@@ -6800,6 +6828,7 @@
         "sources/uploads/Data_Spike_Trains.txt",
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
         "sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt",
+        "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
         "sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt",
         "sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt",
         "sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt",
@@ -6904,6 +6933,7 @@
         "verification/chalmers_structural_alternatives_test.py",
         "verification/chemotaxis_integral_feedback_example.py",
         "verification/chemotaxis_integral_feedback_example_test.py",
+        "verification/chess_time_audit_implementation_test.py",
         "verification/cie_metamer_experiential_gate.py",
         "verification/ciupa_zero_observer_paired_coherence_test.py",
         "verification/clock_choice.py",
@@ -7693,33 +7723,33 @@
         20,
         44,
         68,
-        77,
-        87,
-        171,
-        233,
-        282,
-        316,
-        346,
-        394,
-        397,
-        428,
-        497,
-        598,
-        618,
-        631,
-        729,
-        733,
-        760,
-        765,
-        777,
-        780,
-        806,
-        856,
-        893,
-        902,
-        905,
-        908,
-        981
+        78,
+        88,
+        172,
+        234,
+        283,
+        317,
+        347,
+        395,
+        398,
+        429,
+        498,
+        599,
+        619,
+        632,
+        730,
+        734,
+        761,
+        766,
+        778,
+        781,
+        807,
+        857,
+        894,
+        903,
+        906,
+        909,
+        983
       ]
     },
     {
@@ -10397,8 +10427,8 @@
     },
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
-      "sha256": "ff5fdaa20ddac6ab0e6550f5d1911061411fbf48a7731693b9a570b97e703bb7",
-      "bytes": 5503,
+      "sha256": "0866fe248f51c8feb89aa0a03ce665fe6db8e0face4efdee6a8e9206cb07d42e",
+      "bytes": 5655,
       "lines": 23,
       "title": "Source correction: the DeepSeek Claude-time critique",
       "headings": [
@@ -10409,6 +10439,8 @@
       ],
       "local_links": [
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
+        "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md"
@@ -10544,8 +10576,8 @@
     },
     {
       "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
-      "sha256": "e00ae20129578e633a2d7456b959d57da59351bcbece3dae83f99bfee2655b39",
-      "bytes": 11045,
+      "sha256": "8b0b1a4086229172fe0e0219cd2c87f3793080d7fada71a00bb8e688cbe04a8b",
+      "bytes": 11235,
       "lines": 65,
       "title": "Modular flow to Schrödinger dynamics: an analytical gate",
       "headings": [
@@ -10563,7 +10595,9 @@
         "MODULAR_CLOCK_SELECTION.md",
         "verification/lighthouse_modular_schrodinger_gate_test.py",
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
-        "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md"
+        "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
+        "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -13807,9 +13841,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "be0fa86d7357b77ec95a998e3ad5389c70154e1d552b8d4084e520fc3a2123db",
-      "bytes": 19931,
-      "lines": 140,
+      "sha256": "be4629f8a74d95ee0e24baddea73dfb0cb514b01a6e2b2db893a701374977d0a",
+      "bytes": 20538,
+      "lines": 142,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
         "Problem of time: divide-and-conquer work plan",
@@ -13822,6 +13856,7 @@
         "4. Prove the same-event comparison and quantify finite information"
       ],
       "local_links": [
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
@@ -13852,15 +13887,15 @@
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        9,
+        7,
         11,
-        15,
-        52,
-        58,
-        80,
-        94,
-        96
+        13,
+        17,
+        54,
+        60,
+        82,
+        96,
+        98
       ]
     },
     {
@@ -20755,9 +20790,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "4271e9a3ff743b5065ade274e81129582770debf2eb63c815b428e6f866e8234",
-      "bytes": 67422,
-      "lines": 148,
+      "sha256": "d698d7746dd49a5b2c30238517921ee0226b99debe7799046b7c20947c63e632",
+      "bytes": 67925,
+      "lines": 149,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20901,6 +20936,7 @@
         "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
+        "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20945,7 +20981,8 @@
         117,
         118,
         121,
-        137
+        125,
+        138
       ]
     },
     {

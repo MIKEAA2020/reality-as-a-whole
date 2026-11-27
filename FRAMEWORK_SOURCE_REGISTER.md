@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 853 root Markdown documents including this register; 43 research Markdown documents.
-- 67 original uploaded files, including provenance metadata; 828 verification Python scripts.
+- 854 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 829 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -69,6 +69,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md](CHALMERS_COMBINATION_FULL_PAPER_AND_STRUCTURE_AUDIT.md) — The combination problem: full supplied paper and the relational candidate
 - [CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md](CHALMERS_STRUCTURAL_ALTERNATIVES_FIXED_PLAN.md) — Fixed calculation plan: physical structures and the combination argument
 - [CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md](CHEMOTAXIS_ADAPTATION_MECHANISM_AUDIT_PLAN.md) — Plan: empirical bacterial chemotaxis and organization
+- [CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md](CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md) — Chess time: audit, steelman, plan, implementation
 - [CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md](CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md) — Cicurel's *Brain-centric*: an audit for the experiential and quantum program
 - [CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md](CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md) — Ciupa on zero, potential and observation: the paired whole
 - [CLASSICAL_TICK_READOUT.md](CLASSICAL_TICK_READOUT.md) — From clock dynamics to readable classical ticks
@@ -928,6 +929,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/Data_Spike_Trains.txt](sources/uploads/Data_Spike_Trains.txt)
 - [sources/uploads/DeepSeek-Claude time reconciliation critique.txt](sources/uploads/DeepSeek-Claude%20time%20reconciliation%20critique.txt)
 - [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
+- [sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt](sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt)
 - [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
 - [sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt](sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt)
 - [sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt](sources/uploads/DeepSeek_Existence-and-traces_20261031-1724.txt)
@@ -1036,6 +1038,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/chalmers_structural_alternatives_test.py](verification/chalmers_structural_alternatives_test.py)
 - [verification/chemotaxis_integral_feedback_example.py](verification/chemotaxis_integral_feedback_example.py)
 - [verification/chemotaxis_integral_feedback_example_test.py](verification/chemotaxis_integral_feedback_example_test.py)
+- [verification/chess_time_audit_implementation_test.py](verification/chess_time_audit_implementation_test.py)
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)
 - [verification/ciupa_zero_observer_paired_coherence_test.py](verification/ciupa_zero_observer_paired_coherence_test.py)
 - [verification/clock_choice.py](verification/clock_choice.py)
