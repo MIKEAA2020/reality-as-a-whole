@@ -124,7 +124,7 @@ H_int = X,        J_A = i[H_int,E_A] = 2Y,
 P_A=|10⟩⟨10|,     P_B=|01⟩⟨01|.
 ```
 
-Here `P_A` and `P_B` are orthogonal excitation-presence projectors and `J_A` is the genuine energy-transfer-rate operator in this stipulated model. They do not commute: `[P_A,J_A]≠0`.
+Here `P_A` and `P_B` are orthogonal excitation-presence projectors and `J_A` is the genuine energy-transfer-rate operator in this stipulated model. They do not commute: `[P_A,J_A]≠0`. A later [rigor recheck](ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md) proves the exact best operator-norm error for this sharp split and a general finite-dimensional criterion for overlapping supports; it also exhibits an exactly allocated noncommuting current, so the register-commutation hypothesis is sufficient, not necessary for every signed decomposition.
 
 Suppose one requires two Hermitian signed operators `V_A,V_B` to be strictly supported on these two mutually exclusive subspaces:
 

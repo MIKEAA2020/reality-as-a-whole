@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 912,
-  "bytes": 11966008,
-  "line_count": 107853,
-  "document_count_with_risk_phrases": 864,
+  "document_count": 913,
+  "bytes": 11973986,
+  "line_count": 107922,
+  "document_count_with_risk_phrases": 865,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,16 +5831,17 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "8b3d156a9fc66c524638198b4d6c52801f2e57b65c691ea19b8069dc789babf9",
-      "bytes": 8918,
-      "lines": 41,
+      "sha256": "f52da5fb8e6b62802f68a71762d2c14f329120a8f303933e619ef7338167316c",
+      "bytes": 10682,
+      "lines": 49,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
         "User instruction and operating rule",
         "Coverage accounting",
         "Batch 1: completed selected checks and improvements",
-        "Regression checks: first bounded batch",
+        "Batch 2: incidence support and noncommutation",
+        "Regression checks: bounded batches",
         "Continuing queue"
       ],
       "local_links": [
@@ -5856,15 +5857,22 @@
         "verification/zero_incidence_locality_balance_rigor_test.py",
         "verification/build_formalization_review_tracker.py",
         "verification/formalization_review_tracker_test.py",
+        "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md",
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
+        "verification/zero_local_incidence_noncommuting_review_test.py",
+        "verification/zero_two_window_commutator_certificate_test.py",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
+        "verification/formalization_regression_batch_03.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
         11,
         19,
-        21
+        21,
+        26,
+        28
       ]
     },
     {
@@ -25163,9 +25171,37 @@
       ]
     },
     {
+      "path": "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md",
+      "sha256": "7c657f7e839329b4503f60d06fd6f73d3120a9a660a82967fbf923a79031474e",
+      "bytes": 5853,
+      "lines": 61,
+      "title": "Recheck: noncommuting incidence and current allocation",
+      "headings": [
+        "Recheck: noncommuting incidence and current allocation",
+        "Scope and result",
+        "1. Exact obstruction and optimal approximation for exclusive supports",
+        "2. General finite-dimensional criterion for overlapping supports",
+        "3. A noncommuting overlap that succeeds",
+        "4. Verification and limits"
+      ],
+      "local_links": [
+        "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
+        "verification/zero_local_incidence_noncommuting_review_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        9,
+        21,
+        23,
+        42,
+        51,
+        61
+      ]
+    },
+    {
       "path": "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
-      "sha256": "a93138b3b63b40b47c373608f6524e7ad3ae65065a00a739c9104fb75c633b1c",
-      "bytes": 12847,
+      "sha256": "8f59a3937878c3b22048fed77b250670ffd722768b8cf68e99a372f248ab060b",
+      "bytes": 13208,
       "lines": 175,
       "title": "Local subject incidence and a conserved quantum current",
       "headings": [
@@ -25180,6 +25216,7 @@
       ],
       "local_links": [
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
@@ -25193,6 +25230,7 @@
         78,
         92,
         100,
+        127,
         141,
         154,
         163,

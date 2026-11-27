@@ -1,7 +1,7 @@
 {
   "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md": {
     "reviewed_sha256": "83ac443615875b5072f4466ad331d08ba6cda9fba40f36dcbff93a0d6c4a4413",
-    "scope": "Selected: classical constraint, \u03c7 relational observable, \u03b1 and scale-factor brackets; extended to clock overlap and duration.",
+    "scope": "Selected: classical constraint, χ relational observable, α and scale-factor brackets; extended to clock overlap and duration.",
     "evidence": [
       "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md",
       "verification/zero_gravity_two_clock_rigor_test.py"
@@ -75,6 +75,28 @@
     ],
     "evidence_sha256": {
       "verification/zero_incidence_locality_balance_rigor_test.py": "fa47de16e9de0fe00b793a416d6ac6090daaff891768a8f29086526e5e2a8aff"
+    }
+  },
+  "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md": {
+    "reviewed_sha256": "8f59a3937878c3b22048fed77b250670ffd722768b8cf68e99a372f248ab060b",
+    "scope": "Selected: exclusive sharp-support obstruction and symmetrized assignment; strengthened to norm-optimal bound and finite overlapping-support solvability. The full four-site construction and remaining claims not independently reviewed here.",
+    "evidence": [
+      "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md",
+      "verification/zero_local_incidence_noncommuting_review_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md": "7c657f7e839329b4503f60d06fd6f73d3120a9a660a82967fbf923a79031474e",
+      "verification/zero_local_incidence_noncommuting_review_test.py": "7930f4f4645ccba86c519f3f918f9b46b963b32587dd63fe69910cc26b83d6e7"
+    }
+  },
+  "ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md": {
+    "reviewed_sha256": "7c657f7e839329b4503f60d06fd6f73d3120a9a660a82967fbf923a79031474e",
+    "scope": "Selected: exclusive-support norm bound, finite-dimensional overlap criterion and explicit qubit conserved exchange-rate example.",
+    "evidence": [
+      "verification/zero_local_incidence_noncommuting_review_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_local_incidence_noncommuting_review_test.py": "7930f4f4645ccba86c519f3f918f9b46b963b32587dd63fe69910cc26b83d6e7"
     }
   }
 }
