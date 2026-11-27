@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 906,
-  "bytes": 11908821,
-  "line_count": 107455,
-  "document_count_with_risk_phrases": 858,
+  "document_count": 907,
+  "bytes": 11920061,
+  "line_count": 107484,
+  "document_count_with_risk_phrases": 859,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -121,8 +121,8 @@
     },
     {
       "path": "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
-      "sha256": "d462251f2944f25efc5953d2554ad6efafa19e4c6bd2d5154c16e57a19e793a8",
-      "bytes": 56693,
+      "sha256": "5bd3cc6edd264b24e42abebd0aa1bfeb6f1547aadc9804181b845e68db21f32c",
+      "bytes": 56964,
       "lines": 362,
       "title": "The complete absolute: consolidated framework and implementation plan",
       "headings": [
@@ -136,6 +136,8 @@
         "7. Goodness, privation, and local standing"
       ],
       "local_links": [
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CURRENT_FRAMEWORK_BATTERY_DOSSIER.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
         "SYNTHESIS.md",
@@ -1874,8 +1876,8 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "879ef4945dda24da2d3b9122139a799ecd0cc313b29ee08dbf7ebd2e553720c7",
-      "bytes": 20658,
+      "sha256": "489054b7167e87ae0a9bd5b5e8844765d976663891deaa90e7b0830a36b2ccd8",
+      "bytes": 21577,
       "lines": 75,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
@@ -1890,6 +1892,7 @@
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
@@ -1905,6 +1908,7 @@
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
@@ -2035,8 +2039,8 @@
     },
     {
       "path": "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
-      "sha256": "7da4cf5f86e80a501facb2301ffff04747f808aa491bdbd12c5826e61cf809f3",
-      "bytes": 13898,
+      "sha256": "a46ad49298ba137a85dc8f0a857227610ce9d87aa750ba779310a3a64bbda19c",
+      "bytes": 14074,
       "lines": 75,
       "title": "Claude-time chat: audit of modular state selection and a constructive correction",
       "headings": [
@@ -2051,10 +2055,12 @@
       "local_links": [
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
         "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-        "verification/claude_time_modular_selection_audit_test.py"
+        "verification/claude_time_modular_selection_audit_test.py",
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -2127,6 +2133,37 @@
         53,
         62,
         68
+      ]
+    },
+    {
+      "path": "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
+      "sha256": "513a9d7f23a9fa1c0599fdd5173b0e49e64daec121493d87cbb5993097854f26",
+      "bytes": 8785,
+      "lines": 28,
+      "title": "Recheck: older premises versus the current zero-energy programme",
+      "headings": [
+        "Recheck: older premises versus the current zero-energy programme",
+        "Purpose and scope",
+        "Specific findings",
+        "What was not found or not established",
+        "Next integration test"
+      ],
+      "local_links": [
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CONTEXTUAL_UNIVERSAL_SUBJECT_CONSTRUCTION.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
+        "ZERO_CONFINED_REALM_SPHERE_RECORD_INCIDENCE_THEOREM.md",
+        "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
+        "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        16,
+        20
       ]
     },
     {
@@ -6191,9 +6228,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "f1950ee586742cb9b59393bb3c25393aee7e775c1cf7defc18e9d4716164bf28",
-      "bytes": 243436,
-      "lines": 1843,
+      "sha256": "8a19f3b43b1ebc5d863082eecb7772d9f472710ce9713fef095cde9c255c382a",
+      "bytes": 243594,
+      "lines": 1844,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6276,6 +6313,7 @@
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "CLOSURE_SYNTHESIS.md",
@@ -8025,33 +8063,33 @@
         20,
         44,
         68,
-        86,
-        96,
-        180,
-        242,
-        291,
-        325,
-        355,
-        403,
-        407,
-        438,
-        507,
-        608,
-        628,
-        641,
-        739,
-        743,
-        770,
-        775,
-        787,
-        790,
-        816,
-        866,
-        903,
-        912,
-        915,
-        918,
-        992
+        87,
+        97,
+        181,
+        243,
+        292,
+        326,
+        356,
+        404,
+        408,
+        439,
+        508,
+        609,
+        629,
+        642,
+        740,
+        744,
+        771,
+        776,
+        788,
+        791,
+        817,
+        867,
+        904,
+        913,
+        916,
+        919,
+        993
       ]
     },
     {
@@ -12175,8 +12213,8 @@
     },
     {
       "path": "NONOPTIMAL_WORLD_REVISED_FRAMEWORK.md",
-      "sha256": "b02bdb3708a3320147cacbc21870c630ed6178b9deb3bb8fa408695d7318f7c5",
-      "bytes": 11099,
+      "sha256": "9c0a9cecd0fe48788dd08d8a68ddf708ff63e349e204221e930d66fb401c42e9",
+      "bytes": 11323,
       "lines": 64,
       "title": "Revising the whole-account for a non-optimal world",
       "headings": [
@@ -12189,6 +12227,8 @@
         "5. Concrete next steps"
       ],
       "local_links": [
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
         "ABSOLUTE_CONSTITUTION_FRAMEWORK.md",
@@ -14258,8 +14298,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
-      "sha256": "bc7fb5c3b52a8ae560adf084294df5e235fa3ef364a83e4f2291d4b20916dc5d",
-      "bytes": 22623,
+      "sha256": "bfaeb22095bea717d9879b97a07ae213d38e97476a83e2145eba143907729145",
+      "bytes": 23131,
       "lines": 172,
       "title": "Problem of time: rigorous frontier problems and a constructive foothold",
       "headings": [
@@ -14277,6 +14317,7 @@
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "FRW_MODULAR_CLOCK.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "FRW_MODULAR_CLOCK.md",
         "verification/problem_of_time_rigorous_frontier_test.py"
       ],
@@ -21141,8 +21182,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "e62d99ae4125ebf5c10af1e48b4585b0edb9f12f5b45174831482e0b2ebef300",
-      "bytes": 70608,
+      "sha256": "688394aae3b8af58a046a73cffc11a0b1e23387bc3598d11755246744bcf77ad",
+      "bytes": 70807,
       "lines": 157,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
@@ -21157,6 +21198,7 @@
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
+        "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md",
         "FRAMEWORK_SOURCE_REGISTER.md",

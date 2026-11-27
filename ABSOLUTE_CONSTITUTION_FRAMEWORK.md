@@ -1,6 +1,6 @@
 # The complete absolute: consolidated framework and implementation plan
 
-> **Historical framework:** Later corrections supersede its perfection requirement and relax the universal-subject target in favor of the current plural-subject candidate. Self-sufficiency and complete intelligibility remain goals, not results. See the [current consolidated dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) for governing assumptions, retractions and open gates.
+> **Historical framework:** Later corrections supersede its perfection requirement and universal-subject target. The current [zero-energy and intrinsic-experience programme](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) permits genuinely plural finite subjects and does not assume a universal subject; see also the [premise recheck](CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md). Self-sufficiency and complete intelligibility remain goals, not results. The [older consolidated dossier](CURRENT_FRAMEWORK_BATTERY_DOSSIER.md) records previous retractions and gates, but its title does not itself establish that every premise in it remains current.
 
 ## 1. Governing thesis
 

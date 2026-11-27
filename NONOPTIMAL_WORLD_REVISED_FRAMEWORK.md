@@ -1,6 +1,6 @@
 # Revising the whole-account for a non-optimal world
 
-> **Historical revision, not the current complete framework.** Later user clarifications provisionally replace the universal-subject target with plural subjects and explicitly adopt the bridge from a perfect whole to a best universe, making the whole non-perfect under the user's premises. They also reject literal simulations as the point of the Bostrom adaptation. See the [current self-existent-plenitude candidate](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) and its [foundational gap analysis](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md). Neither is a completed zero-residue account.
+> **Historical revision, not the current complete framework.** Later user clarifications supersede the universal-subject target and adopt a zero-energy framework with intrinsic experience and genuinely plural finite subjects; see the [current synthesis](ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md) and [premise recheck](CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md). They also adopt a bridge from a perfect whole to a best universe, making the whole non-perfect under the user's stated premises, and reject literal simulations as the point of the Bostrom adaptation. The older [self-existent-plenitude candidate](SELF_EXISTENT_PLENITUDE_PLURALITY_CORRECTION.md) and its [foundational gap analysis](PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md) contain useful intermediate work, not a completed zero-residue account.
 
 ## Governing change
 

@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 863 root Markdown documents including this register; 43 research Markdown documents.
+- 864 root Markdown documents including this register; 43 research Markdown documents.
 - 68 original uploaded files, including provenance metadata; 836 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -81,6 +81,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md) — Claude-time chat: audit of modular state selection and a constructive correction
 - [CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md](CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md) — QFT, circularity and experience: source audit and operational controls
 - [CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md](CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md) — Claude-time audit: relational time, analogy and modular foundations
+- [CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md](CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md) — Recheck: older premises versus the current zero-energy programme
 - [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
 - [CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) — Same modular flow, different clock records
 - [CLOSURE_SYNTHESIS.md](CLOSURE_SYNTHESIS.md) — Closure synthesis: the complete zero-residue account
