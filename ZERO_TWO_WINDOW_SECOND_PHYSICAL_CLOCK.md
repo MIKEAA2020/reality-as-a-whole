@@ -1,5 +1,7 @@
 # A second quantum clock for the same autonomous record
 
+**Continuation:** [the retained-clock instrument analysis](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) constructs an explicit normalized clock-neutral instrument on the enlarged physical space and demonstrates that the same clock-neutral effects can have different retained poststates. It does not identify a unique physical realization or complete the clock switch.
+
 ## Result
 
 The preceding [cursor instrument](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) was formulated relative to a scalar clock φ. Here we add a **distinct physical quantum clock R** to that same instrument, extend the constraint explicitly, and compare the same memory outcome against its R reading. The R clock has a semibounded Hamiltonian and a finite-resolution covariant POVM; it is not a second name for φ.

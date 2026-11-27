@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 883,
-  "bytes": 11564601,
-  "line_count": 104661,
-  "document_count_with_risk_phrases": 835,
+  "document_count": 884,
+  "bytes": 11577668,
+  "line_count": 104837,
+  "document_count_with_risk_phrases": 836,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "df5fedb080ea6a81b36bcb8df6352cf613c6d5034cfd7c0a012167abf074d950",
-      "bytes": 237171,
-      "lines": 1799,
+      "sha256": "78f7eb81daa839baa51d200d473fccb17deb4e35a86863d9875380a665784b35",
+      "bytes": 237470,
+      "lines": 1801,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6634,6 +6634,7 @@
         "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
         "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
         "ZERO_RESIDUE_CLAIM_CORRECTION.md",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
         "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
         "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
         "ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md",
@@ -7651,6 +7652,7 @@
         "verification/zero_two_window_operational_clock_calibration_test.py",
         "verification/zero_two_window_recorded_histories_test.py",
         "verification/zero_two_window_redundant_flag_hold_test.py",
+        "verification/zero_two_window_retained_clock_instrument_test.py",
         "verification/zero_two_window_second_clock_test.py",
         "verification/zero_two_window_support_eraser_test.py",
         "verification/zero_type_reflection_continuum_root.py",
@@ -7684,15 +7686,15 @@
         722,
         749,
         754,
-        764,
-        767,
-        793,
-        843,
-        880,
-        889,
-        892,
-        895,
-        967
+        765,
+        768,
+        794,
+        844,
+        881,
+        890,
+        893,
+        896,
+        968
       ]
     },
     {
@@ -13562,8 +13564,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "640beb2274d044ae845f87e4c1d5c49bce89456bb5d8bca91fb2ee9582fd785e",
-      "bytes": 15000,
+      "sha256": "663b1b74e18bac8cfb08ed37f756549ce6e98364e496754356286f85e3abd878",
+      "bytes": 15242,
       "lines": 132,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13582,6 +13584,7 @@
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
@@ -20493,9 +20496,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "8686bcadb9f646bde771dedcbb4a0be87c9628e7da527adbc9e306c3b7332c57",
-      "bytes": 60131,
-      "lines": 136,
+      "sha256": "18f0982254a71ef8a9b2e0d1357d778ed33c48f43b772aff0a8cfe5cfe3f4608",
+      "bytes": 60795,
+      "lines": 137,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20621,6 +20624,8 @@
         "verification/zero_two_window_cursor_instrument_test.py",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "verification/zero_two_window_second_clock_test.py",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "verification/zero_two_window_retained_clock_instrument_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20662,7 +20667,7 @@
         108,
         109,
         112,
-        125
+        126
       ]
     },
     {
@@ -25639,6 +25644,32 @@
       ]
     },
     {
+      "path": "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+      "sha256": "f7a83546816cc541dd485521e7e3bfa88437a026d19ac35e4e51e2ab00a4958a",
+      "bytes": 11493,
+      "lines": 171,
+      "title": "Retaining the clock: a complete relational instrument and an ambiguity",
+      "headings": [
+        "Retaining the clock: a complete relational instrument and an ambiguity",
+        "Result",
+        "1. The same physical input and event effect",
+        "2. A fully specified retained-output instrument",
+        "3. Two more instruments with the same event probabilities",
+        "4. Explicit finite cyclic counterexample: hidden time versus coherence",
+        "5. What must be done next",
+        "Reproduce"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "verification/zero_two_window_retained_clock_instrument_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        70,
+        156
+      ]
+    },
+    {
       "path": "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
       "sha256": "3a6960ea569b0a59319e728a95694629a6532fd82e63a3fe49f2cce673a87513",
       "bytes": 13250,
@@ -28398,9 +28429,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "0e9a432be207ae4a2fddcbbe0aaf071b95b426b29ba40290a76c0cac36259bdc",
-      "bytes": 14153,
-      "lines": 166,
+      "sha256": "ff400385dea95b9272e484cea65653e7f760f08022372792023f45d11c55c9e7",
+      "bytes": 14522,
+      "lines": 168,
       "title": "A second quantum clock for the same autonomous record",
       "headings": [
         "A second quantum clock for the same autonomous record",
@@ -28413,20 +28444,22 @@
         "6. Status and next work"
       ],
       "local_links": [
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "verification/zero_two_window_second_clock_test.py",
         "verification/zero_two_window_second_clock_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        23,
-        33,
-        58,
-        70,
+        3,
+        9,
+        25,
+        35,
+        60,
         72,
-        91,
-        152
+        74,
+        93,
+        154
       ]
     },
     {
