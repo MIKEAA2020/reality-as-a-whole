@@ -31,7 +31,7 @@ def trace_distance(a,b):
     return float(np.sum(abs(np.linalg.eigvalsh(z)))/2)
 
 
-def regulated_instrument(h=0,offset=0.,strength=1.):
+def regulated_instrument(h=0,offset=0.,strength=1.,output_time=RET):
     """Construct two input columns, returning output vectors and controls.
 
     Single-position chiral comparison, grid 4, actual two-window operators.
@@ -48,7 +48,8 @@ def regulated_instrument(h=0,offset=0.,strength=1.):
     basis=np.column_stack((B[:,0],outside))
     ready=np.zeros(N+1);ready[0]=1
     flag=np.ones(N+1);flag[0]=0
-    center=T0-offset/V; tbegin=center-WIDTH/V; after=RET-(center+WIDTH/V)
+    center=T0-offset/V; tbegin=center-WIDTH/V; after=output_time-(center+WIDTH/V)
+    if after<0: raise ValueError('output time must be after the pulse')
 
     def evolve(psi):
         z=np.kron(psi,ready)
@@ -64,7 +65,7 @@ def regulated_instrument(h=0,offset=0.,strength=1.):
         post=r.y[:,-1].reshape(dim*(N+1),2)
         return (W@(np.exp(1j*vals*after)[:,None]*(W.conj().T@post))).reshape(dim,N+1,2)
     vectors=np.stack([evolve(basis[:,j]) for j in range(2)])
-    UO=(ow*np.exp(1j*oval*RET))@ow.conj().T
+    UO=(ow*np.exp(1j*oval*output_time))@ow.conj().T
     return vectors,basis,UO
 
 

@@ -1,5 +1,7 @@
 # A complete instrument for the autonomous cursor—and its backaction
 
+**Continuation:** [a second physical clock](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) adds a semibounded quantum reference and constructs a normalized clock-neutral effect for this same memory, plus a finite-resolution reduced-instrument comparison. It does not yet establish the transformation of all retained postmeasurement clock and cursor correlations.
+
 ## Result
 
 The [previous construction](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) gave an autonomous cursor that records whether the initial state lies in the selected P or Q sector. This pass promotes that readout to a **complete two-outcome quantum instrument**, including the conditional postmeasurement states of the original interacting system. It derives a uniform continuum comparison with a specified ideal P/Q projective instrument and checks the comparison on the existing finite-regulator system.

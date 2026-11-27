@@ -8,7 +8,9 @@ Work in small passes, but keep one dependency graph. Each pass must produce a th
 
 **First construction completed:** [an autonomous finite-window support record](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md). It uses the earlier two-window operator and certified commutator, and proves a controlled continuum readout window for a changed constraint. It also proves why an exactly permanent latch cannot arise from the relevant class of bounded autonomous generators.
 
-**Gate 2 partial advance:** [the autonomous cursor reader](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) puts a positive massive cursor and memory in a further changed constraint and derives a finite-window support-record error bound. Its [complete instrument and backaction](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) supplies both outcome maps and a conditional full-state channel bound. The cursor triggers the interaction without an external time-dependent switch; scalar-clock preparation, an extreme cursor resource, global Q and a chosen final readout are still inputs. Physical locality, permanent retention and a clock switch remain open.
+**Gate 2 partial advance:** [the autonomous cursor reader](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) puts a positive massive cursor and memory in a further changed constraint and derives a finite-window support-record error bound. Its [complete instrument and backaction](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) supplies both outcome maps and a conditional full-state channel bound. The cursor triggers the interaction without an external time-dependent switch; scalar-clock preparation, an extreme cursor resource, global Q and a chosen final readout are still inputs. Physical locality and permanent retention remain open.
+
+**Gate 3 partial advance:** [a second physical clock](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) adds a prepared semibounded R clock and a finite-resolution covariant POVM, constructs a clock-neutral effect for the same memory outcome and proves its exact scalar-smeared probability identity. A specified reduced instrument has a quantitative error bound; the full retained-output clock switch and interacting/turning clock remain open.
 
 ## Dependency graph
 
@@ -77,7 +79,9 @@ The arrows are dependencies between proofs, not stages in an external time in wh
 
 **Question.** Can a geometry variable or another physical degree of freedom act as a distinct clock for the very same event instrument—not merely serve as a basis in which scalar-scheduled operations are rewritten?
 
-**Deliverable.** Define admissible clock effects, record and reader, orientation/turning-point labels, no-reading or multiple-reading outcomes, and their domains for the same interacting constraint. Identify the state preparation and all cross-sector coherences. If the second clock works only on an overlap, describe that overlap rather than pretending it is global.
+**Partial result.** The [additional R clock](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) is a separate positive-frequency physical subsystem with a covariant finite-bin POVM. The clock-neutral effect gives the same memory outcome as the correctly smeared scalar description, and a specified reduced-output convention has a finite channel bound. The clock is a decoupled prepared spectator, not a geometry clock; a full physical clock-switch map on retained outputs has not been established.
+
+**Deliverable.** Extend this to admissible interacting clock effects, record and reader, orientation/turning-point labels, no-reading or multiple-reading outcomes, and their domains for the same interacting constraint. Identify the state preparation and all cross-sector coherences. If the second clock works only on an overlap, describe that overlap rather than pretending it is global.
 
 **Pass criterion.** The proposed comparison is operationally meaningful: what counts as one event and the instrument implementing it is fixed before comparing representations. If no meaningful overlap exists, produce an explicit counterexample and state which assumptions must change.
 

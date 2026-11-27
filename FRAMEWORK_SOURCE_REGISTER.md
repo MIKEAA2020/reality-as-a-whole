@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 839 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 816 verification Python scripts.
+- 840 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 817 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -836,6 +836,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md](ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md) — Imperfect support flags: the calibration root
 - [ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) — Recorded histories and the finite-interval clock gap
 - [ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md) — A controlled autonomous flag window in the existing time model
+- [ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) — A second quantum clock for the same autonomous record
 - [ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md](ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md) — Better-conditioned clock readout—with a support flag and a cost
 - [ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) — A typed echo process: content, clock, access and subjecthood
 - [ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) — Why the type-symmetric kinetic repair adds a long edge
@@ -1782,6 +1783,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_two_window_operational_clock_calibration_test.py](verification/zero_two_window_operational_clock_calibration_test.py)
 - [verification/zero_two_window_recorded_histories_test.py](verification/zero_two_window_recorded_histories_test.py)
 - [verification/zero_two_window_redundant_flag_hold_test.py](verification/zero_two_window_redundant_flag_hold_test.py)
+- [verification/zero_two_window_second_clock_test.py](verification/zero_two_window_second_clock_test.py)
 - [verification/zero_two_window_support_eraser_test.py](verification/zero_two_window_support_eraser_test.py)
 - [verification/zero_type_reflection_continuum_root.py](verification/zero_type_reflection_continuum_root.py)
 - [verification/zero_type_reflection_continuum_root_test.py](verification/zero_type_reflection_continuum_root_test.py)

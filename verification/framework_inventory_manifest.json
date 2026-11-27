@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "49cdf8dbd49d624d5cf4e2607564b36cc4ddba93",
-  "file_count": 2448,
+  "base_head": "51976d5643a66327a4082e98cabc418fa0754ba6",
+  "file_count": 2450,
   "files": [
     {
       "path": ".gitattributes",
@@ -890,8 +890,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 236921,
-      "sha256": "3c24b7605e49ac56ea0ff48092e025b0de6b693c59baa200d5c06e4c08478acd"
+      "bytes": 237171,
+      "sha256": "df5fedb080ea6a81b36bcb8df6352cf613c6d5034cfd7c0a012167abf074d950"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1885,8 +1885,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "bytes": 14069,
-      "sha256": "7fe0b84af160591a780bc037959d5ec76ea45240824d49b08bd167bdf16e6762"
+      "bytes": 15000,
+      "sha256": "640beb2274d044ae845f87e4c1d5c49bce89456bb5d8bca91fb2ee9582fd785e"
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
@@ -2960,8 +2960,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 59591,
-      "sha256": "dbb62df7e009a562c0296b4139c06268a78e3026c95dc6f00d55063b66f6d0e1"
+      "bytes": 60131,
+      "sha256": "8686bcadb9f646bde771dedcbb4a0be87c9628e7da527adbc9e306c3b7332c57"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -4105,8 +4105,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
-      "bytes": 12946,
-      "sha256": "9b95d124f9f5aa7f3b1579e95b836125a952f74991ad3ba64c90329de1b05786"
+      "bytes": 13305,
+      "sha256": "55fa366c06012d7f12f70cd91845fd7aad3099802f76f90859c14ea2fa34b0f2"
     },
     {
       "path": "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
@@ -4137,6 +4137,11 @@
       "path": "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
       "bytes": 13029,
       "sha256": "65c16e53ed64efc13645ca9fb5969f8a493763d84ca68b2b62b2937641cab962"
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+      "bytes": 14153,
+      "sha256": "0e9a432be207ae4a2fddcbbe0aaf071b95b426b29ba40290a76c0cac36259bdc"
     },
     {
       "path": "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
@@ -8805,8 +8810,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1142639,
-      "sha256": "1ce076b723ed0fc10b3b03df5c6d9c160facf8078f713de116f2d58af0afc307"
+      "bytes": 1144204,
+      "sha256": "b5e52f1719c84cee6205ffec00ce4ff00412a335fef0d41c4108d54334c74620"
     },
     {
       "path": "verification/project_inventory.py",
@@ -9980,8 +9985,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 551648,
-      "sha256": "f9e98490fd211bdfab0ee0aff581de4f6aa7220c5b090e4f4ccfd829104d18fc"
+      "bytes": 552185,
+      "sha256": "b8d3b6b9e115ddd7e9e306895be56c7de60faeb56dcbc6266c6512a91d105265"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -12160,8 +12165,8 @@
     },
     {
       "path": "verification/zero_two_window_cursor_instrument_test.py",
-      "bytes": 5748,
-      "sha256": "f5443b11ba113158d3446eac4a9ef8627761330acda6ec957f0132acf22f4194"
+      "bytes": 5852,
+      "sha256": "cf77f8e68d89a8fa04b06a87ea9f5e8828a986accc52651ece577592e5a46d1e"
     },
     {
       "path": "verification/zero_two_window_finite_record_clock_test.py",
@@ -12192,6 +12197,11 @@
       "path": "verification/zero_two_window_redundant_flag_hold_test.py",
       "bytes": 4626,
       "sha256": "08af4dc10bd87659358914f9f46c9dd754eb3b8ce4761090e7969073408793dc"
+    },
+    {
+      "path": "verification/zero_two_window_second_clock_test.py",
+      "bytes": 5720,
+      "sha256": "0132879903007e79e828ff0346f94ec5de17ab5b67b61b77ddf5c52a33696416"
     },
     {
       "path": "verification/zero_two_window_support_eraser_test.py",
