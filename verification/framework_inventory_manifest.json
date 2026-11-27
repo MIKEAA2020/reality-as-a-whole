@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "ec03e18d1d49214f8bd0dc217d4780ee5eb6ac30",
-  "file_count": 2539,
+  "base_head": "f705e217aa21b71ce0ce13b2576da9b9bd8f5dfe",
+  "file_count": 2542,
   "files": [
     {
       "path": ".gitattributes",
@@ -910,8 +910,8 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "bytes": 18747,
-      "sha256": "0d23996f8100f4b81a501c98e55c896d343bbc4c2dc1d2240ebd26a8d2c3822a"
+      "bytes": 20057,
+      "sha256": "19b5f9a0b98f4a7c8ca1f6a39adac7761c5eaedb79fcf75cfd26d00f5a8fed3a"
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
@@ -950,8 +950,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 247748,
-      "sha256": "6de6fbd5250782e4fb8c48984961a92fb63ab57bc943c6821460bd74b318f669"
+      "bytes": 248070,
+      "sha256": "5d422b0b08442ba349c5fc31748a138467bc2e72c95b77e4c2d7e37b076036e2"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3179,6 +3179,11 @@
       "sha256": "17332dd845a2934fb8c55ce6d5a44a399071a210087e81f0f062ab9061f66fb4"
     },
     {
+      "path": "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+      "bytes": 11278,
+      "sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58"
+    },
+    {
       "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
       "bytes": 14488,
       "sha256": "b7a633951dbcea62de4d38207d5b6d6d0db88dc713bc1caa2cdcd274864ad279"
@@ -3955,8 +3960,8 @@
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
-      "bytes": 12818,
-      "sha256": "355d75c9ec047d233ecaaabf1da16840b58be495189d80fa3d75f3f753f38049"
+      "bytes": 13122,
+      "sha256": "c580a9588d376e992014d054faf34197421409bb9d22012f4836159056a2a1ee"
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
@@ -7414,14 +7419,19 @@
       "sha256": "c506030ace9d785314bebda77c7a013136479900dc012d1d4741981555be870c"
     },
     {
+      "path": "verification/formalization_regression_timeout_followup_04.json",
+      "bytes": 2958,
+      "sha256": "f24f4fc1e2439d47f9519ee715b2ae09dff8eb705bb6f8c0234fb76935c8ef1b"
+    },
+    {
       "path": "verification/formalization_review_progress.json",
-      "bytes": 480602,
-      "sha256": "2c3ef25c3efadab79e55441a47f146a1600361337eacfb125527424f07188023"
+      "bytes": 484198,
+      "sha256": "a4b9b60571f5d07c7cd0d08cd5e26a588240888aa389b476aa3f2b50801d65e8"
     },
     {
       "path": "verification/formalization_review_receipts.json",
-      "bytes": 24734,
-      "sha256": "46d272d70b5b216fceb538e0bea7e7aa37f2225a38e1b7d41b516af1fa401d1d"
+      "bytes": 27874,
+      "sha256": "912d4d8f33f18686212dff91d41e3a61033f5344e224f31e56fc1ef89b513316"
     },
     {
       "path": "verification/formalization_review_tracker_test.py",
@@ -9155,8 +9165,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1198978,
-      "sha256": "9347046f27a9e3abeb4fc7bd6a0993a8323255ade50fa93ba52bee57ea2f4aef"
+      "bytes": 1201607,
+      "sha256": "408329edba59e49ad26506e5cec03474df327c06615b5600735571bc01ba536c"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10335,8 +10345,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 573910,
-      "sha256": "67efea68475234b25be67f154bdab3c15d2f58a5ad6fd3562fe728edecb53d33"
+      "bytes": 574462,
+      "sha256": "6ab9ecde7971372f881e1dd0e91a9f8fad87152ce5b280b63fc424b9ad949940"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11362,6 +11372,11 @@
       "path": "verification/zero_clocked_chirality_history_test.py",
       "bytes": 12058,
       "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e"
+    },
+    {
+      "path": "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+      "bytes": 5642,
+      "sha256": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e"
     },
     {
       "path": "verification/zero_coherent_clock_angular_history.py",

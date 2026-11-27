@@ -362,5 +362,47 @@
       "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
       "verification/energy_flow_locked_incidence_test.py": "a8a9ae38694bdce766de3af5cf6aa20ea5705cf968aa8f2d567c7c39df30bfc4"
     }
+  },
+  "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md": {
+    "reviewed_sha256": "c580a9588d376e992014d054faf34197421409bb9d22012f4836159056a2a1ee",
+    "scope": "Selected: autonomous nonrelativistic homogeneous two-fluid equations, field and matter energies, and the exact flow/energy-weighted cycle integrals; the subjective, probability and other general claims remain open.",
+    "evidence": [
+      "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+      "verification/sphere_closed_plasma_incidence_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+      "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+    }
+  },
+  "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md": {
+    "reviewed_sha256": "d8ff02b56241c6e132a0e3eab63b50a57e3751dbf390727ca4c54d9433d7b3c3",
+    "scope": "Selected: homogeneous equal/opposite charged-fluid reduction and its nonrelativistic small-amplitude connection to the relativistic closed oscillator; general inhomogeneous numerical or experiential claims not fully reviewed.",
+    "evidence": [
+      "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+      "verification/sphere_closed_plasma_incidence_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+      "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+    }
+  },
+  "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md": {
+    "reviewed_sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+    "scope": "Selected: homogeneous Maxwell/two-stream balance, energy-frame alignment, observer-deformation terms and analytic sign of the unequal-weight cycle integral; chosen observers/weights are not established subjects.",
+    "evidence": [
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+      "verification/zero_energy_frame_deformation_review_test.py",
+      "verification/sphere_closed_plasma_incidence_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+      "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+      "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+    }
   }
 }

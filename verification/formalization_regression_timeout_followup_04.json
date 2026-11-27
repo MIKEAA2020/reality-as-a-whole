@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; test execution is not a proof audit. A repeated timeout is not a failed assertion.",
+  "followups": [
+    {
+      "pattern": "zero_dressed_history_pair_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_dressed_history_pair_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_dressed_history_pair_test.py",
+          "sha256": "c635bb32b5a016f981a53ae90a5f2d4053212b7a8894653a235fe8c55067f241",
+          "status": "timeout",
+          "tests_run": null,
+          "exit_code": null,
+          "seconds": 45.058,
+          "output_tail": "\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    },
+    {
+      "pattern": "zero_dressed_sphere_rotations_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_dressed_sphere_rotations_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_dressed_sphere_rotations_test.py",
+          "sha256": "585ae0700ec6c3de8599ec362c68a01ba1cdc3494c3ba2fdfd43ed777ad4766e",
+          "status": "passed",
+          "tests_run": 9,
+          "exit_code": 0,
+          "seconds": 21.856,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 9 tests in 21.582s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    },
+    {
+      "pattern": "zero_dynamic_subject_memory_echo_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_dynamic_subject_memory_echo_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_dynamic_subject_memory_echo_test.py",
+          "sha256": "88e0211eb9b1e0dcffc0fb8a197dc3c0678732cdd6ca454aa6d6c6ef7cab7b95",
+          "status": "passed",
+          "tests_run": 8,
+          "exit_code": 0,
+          "seconds": 26.511,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 26.301s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    }
+  ]
+}

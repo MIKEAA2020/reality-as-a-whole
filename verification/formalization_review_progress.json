@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1950,
-    "selected_claims_reviewed": 28
+    "not_rechecked_in_this_sweep": 1949,
+    "selected_claims_reviewed": 31
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "0d23996f8100f4b81a501c98e55c896d343bbc4c2dc1d2240ebd26a8d2c3822a",
+      "sha256": "19b5f9a0b98f4a7c8ca1f6a39adac7761c5eaedb79fcf75cfd26d00f5a8fed3a",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1141,7 +1141,7 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "d45e7f6f3492198dff761ab5787252ae883c3d79c02e3499efc2a61810344013",
+      "sha256": "6de6fbd5250782e4fb8c48984961a92fb63ab57bc943c6821460bd74b318f669",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -3851,6 +3851,25 @@
       "receipt": null
     },
     {
+      "path": "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+      "sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: homogeneous Maxwell/two-stream balance, energy-frame alignment, observer-deformation terms and analytic sign of the unequal-weight cycle integral; chosen observers/weights are not established subjects.",
+        "evidence": [
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+          "verification/zero_energy_frame_deformation_review_test.py",
+          "verification/sphere_closed_plasma_incidence_test.py"
+        ],
+        "reviewed_sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+        "evidence_sha256": {
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+          "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+          "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+        }
+      }
+    },
+    {
       "path": "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
       "sha256": "b7a633951dbcea62de4d38207d5b6d6d0db88dc713bc1caa2cdcd274864ad279",
       "status": "not_rechecked_in_this_sweep",
@@ -4936,9 +4955,22 @@
     },
     {
       "path": "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
-      "sha256": "355d75c9ec047d233ecaaabf1da16840b58be495189d80fa3d75f3f753f38049",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "c580a9588d376e992014d054faf34197421409bb9d22012f4836159056a2a1ee",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: autonomous nonrelativistic homogeneous two-fluid equations, field and matter energies, and the exact flow/energy-weighted cycle integrals; the subjective, probability and other general claims remain open.",
+        "evidence": [
+          "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+          "verification/sphere_closed_plasma_incidence_test.py"
+        ],
+        "reviewed_sha256": "c580a9588d376e992014d054faf34197421409bb9d22012f4836159056a2a1ee",
+        "evidence_sha256": {
+          "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+          "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+        }
+      }
     },
     {
       "path": "ZERO_SPHERE_CONSERVATION_QUANTUM_PROBABILITY_BRIDGE.md",
@@ -5291,8 +5323,21 @@
     {
       "path": "ZERO_TOTALITY_TWO_FLUID_INCIDENCE_DYNAMICS.md",
       "sha256": "d8ff02b56241c6e132a0e3eab63b50a57e3751dbf390727ca4c54d9433d7b3c3",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: homogeneous equal/opposite charged-fluid reduction and its nonrelativistic small-amplitude connection to the relativistic closed oscillator; general inhomogeneous numerical or experiential claims not fully reviewed.",
+        "evidence": [
+          "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+          "verification/sphere_closed_plasma_incidence_test.py"
+        ],
+        "reviewed_sha256": "d8ff02b56241c6e132a0e3eab63b50a57e3751dbf390727ca4c54d9433d7b3c3",
+        "evidence_sha256": {
+          "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
+          "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+        }
+      }
     },
     {
       "path": "ZERO_TOTAL_INTERNAL_CONNECTION_AND_MEASURE.md",
@@ -10605,6 +10650,12 @@
     {
       "path": "verification/zero_clocked_chirality_history_test.py",
       "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_closed_relativistic_plasma_frame_review_test.py",
+      "sha256": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

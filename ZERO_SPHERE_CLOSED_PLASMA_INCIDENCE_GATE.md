@@ -2,6 +2,9 @@
 
 **Continuation:** [a zero-balanced asymmetrical history](ZERO_SPHERE_ASYMMETRIC_CLOSED_EXCHANGE.md) constructs an autonomous two-mode system with positive internal energy components, zero net exchange and unequal positive/negative durations. Its subject, valence and incidence interpretations remain hypotheses; choosing the complementary component reverses the sign.
 
+**Relativistic continuation:** [closed two-stream field–matter frame review](ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md) checks both sector stresses, moving energy frames and unequal weights in an autonomous covariant effective model. It does not establish subjects or whole-level zero.
+
+
 ## Result
 
 The preceding work connected the proposed internal sphere to a two-component state space and a relativistic null cone. The next question was whether **physical dynamics can determine a weighted signed balance**, rather than putting it in by hand.
