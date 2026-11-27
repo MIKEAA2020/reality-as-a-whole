@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "8dc6882cf1baa6a7e34383c76564dec9347867b9",
-  "file_count": 2480,
+  "base_head": "49be1c800f671cc7d882e0706c887970a7684b8f",
+  "file_count": 2482,
   "files": [
     {
       "path": ".gitattributes",
@@ -312,6 +312,11 @@
       "path": "CLASSICAL_TICK_READOUT.md",
       "bytes": 20727,
       "sha256": "a1c566950030836da9aaa658200b361e6a46dd01c30fc603ee3076474d853ba4"
+    },
+    {
+      "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+      "bytes": 15849,
+      "sha256": "dfbe5cd63df5ec75b3dee5f73d2c1cac54014a88a955cc6b713e35e1529fef75"
     },
     {
       "path": "CLOCK_CHOICE_EQUIVALENCE.md",
@@ -895,8 +900,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 241469,
-      "sha256": "7dca3776a1f7451eab17fbb12bffd98874515a05da9920cf25dd9760ae45d86a"
+      "bytes": 241772,
+      "sha256": "6c57d98517a9d7c5a3030b68cac1725459f2ff173e9641067a83f0fa096f7b03"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1345,8 +1350,8 @@
     },
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
-      "bytes": 5655,
-      "sha256": "0866fe248f51c8feb89aa0a03ce665fe6db8e0face4efdee6a8e9206cb07d42e"
+      "bytes": 6148,
+      "sha256": "92ab0d900abf08fcc02b5f32b589c090553cfbcae261d17f3ed0a2d43d868c4c"
     },
     {
       "path": "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
@@ -1935,8 +1940,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
-      "bytes": 22089,
-      "sha256": "f1b737466883a04516c962fb93f1065049a9e64e26aafd641a502bb1615fa839"
+      "bytes": 22623,
+      "sha256": "bc7fb5c3b52a8ae560adf084294df5e235fa3ef364a83e4f2291d4b20916dc5d"
     },
     {
       "path": "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
@@ -3005,8 +3010,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 68400,
-      "sha256": "159b8f67d61a21a11d3fae51cc15a25d8f1984fbe03fd54306f2ec4015e8a973"
+      "bytes": 68931,
+      "sha256": "83ea2b90e8a7f018d19df4f741c53fefdca1e00e39e4c6155c66e81142f843ca"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -6379,6 +6384,11 @@
       "sha256": "3e1cd7ecf42f35a964110d26f82562069877e70e57bb447afc09fa2944444205"
     },
     {
+      "path": "verification/claude_time_analytical_target_crosswalk_test.py",
+      "bytes": 3102,
+      "sha256": "c87b04dc53e1d6d3593ef27aa93c003ec8c90f630001508f10ffa57077e12649"
+    },
+    {
       "path": "verification/clock_choice.json",
       "bytes": 1130,
       "sha256": "17516036393b0ce3b544cbd47819c9348cbf982669a2c8c2371eed56a4d8f1d1"
@@ -8930,8 +8940,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1166167,
-      "sha256": "15aef8ae64e7c69abc283b83ad3715ed51c6fa2dc272a908c1dd2bbbcdd8ce08"
+      "bytes": 1167605,
+      "sha256": "9a4aa1422c72042fb776655b3738a5422637b2b0e9af1bd57731cce2315cd882"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10105,8 +10115,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 561420,
-      "sha256": "a0be1c80f346b247922dfca04b3ab2448906837743fa94b3fc44a56257b68c33"
+      "bytes": 561968,
+      "sha256": "727dd2b9feb2502bfe099c96d9d1f64ef845af66cda8c08bc0926bda223fda41"
     },
     {
       "path": "verification/source_repass_tracker_test.py",

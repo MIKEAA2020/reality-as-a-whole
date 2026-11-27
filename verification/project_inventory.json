@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 898,
-  "bytes": 11790152,
-  "line_count": 106834,
-  "document_count_with_risk_phrases": 850,
+  "document_count": 899,
+  "bytes": 11807862,
+  "line_count": 106958,
+  "document_count_with_risk_phrases": 851,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1841,6 +1841,35 @@
         228,
         230,
         234
+      ]
+    },
+    {
+      "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+      "sha256": "dfbe5cd63df5ec75b3dee5f73d2c1cac54014a88a955cc6b713e35e1529fef75",
+      "bytes": 15849,
+      "lines": 117,
+      "title": "Claude-time critique: analytical targets, coverage and repairs",
+      "headings": [
+        "Claude-time critique: analytical targets, coverage and repairs",
+        "Direct answer and scope",
+        "1. Direct crosswalk for the user's four questions",
+        "2. More precise problems, audit, and measurable stop conditions",
+        "3. Concrete checks: state selection and measurement are independent"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "verification/claude_time_analytical_target_crosswalk_test.py"
+      ],
+      "risk_phrase_lines": [
+        13,
+        14,
+        51,
+        53,
+        71,
+        96
       ]
     },
     {
@@ -5905,9 +5934,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "7dca3776a1f7451eab17fbb12bffd98874515a05da9920cf25dd9760ae45d86a",
-      "bytes": 241469,
-      "lines": 1829,
+      "sha256": "6c57d98517a9d7c5a3030b68cac1725459f2ff173e9641067a83f0fa096f7b03",
+      "bytes": 241772,
+      "lines": 1831,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -5982,6 +6011,7 @@
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "CLOSURE_SYNTHESIS.md",
@@ -6937,6 +6967,7 @@
         "verification/chess_time_audit_implementation_test.py",
         "verification/cie_metamer_experiential_gate.py",
         "verification/ciupa_zero_observer_paired_coherence_test.py",
+        "verification/claude_time_analytical_target_crosswalk_test.py",
         "verification/clock_choice.py",
         "verification/clock_smearing_modular_comparison.py",
         "verification/clock_smearing_modular_comparison_test.py",
@@ -7725,33 +7756,33 @@
         20,
         44,
         68,
-        78,
-        88,
-        172,
-        234,
-        283,
-        317,
-        347,
-        395,
-        399,
-        430,
-        499,
-        600,
-        620,
-        633,
-        731,
-        735,
-        762,
-        767,
-        779,
-        782,
-        808,
-        858,
-        895,
-        904,
-        907,
-        910,
-        984
+        79,
+        89,
+        173,
+        235,
+        284,
+        318,
+        348,
+        396,
+        400,
+        431,
+        500,
+        601,
+        621,
+        634,
+        732,
+        736,
+        763,
+        768,
+        780,
+        783,
+        809,
+        859,
+        896,
+        905,
+        908,
+        911,
+        985
       ]
     },
     {
@@ -10429,9 +10460,9 @@
     },
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
-      "sha256": "0866fe248f51c8feb89aa0a03ce665fe6db8e0face4efdee6a8e9206cb07d42e",
-      "bytes": 5655,
-      "lines": 23,
+      "sha256": "92ab0d900abf08fcc02b5f32b589c090553cfbcae261d17f3ed0a2d43d868c4c",
+      "bytes": 6148,
+      "lines": 25,
       "title": "Source correction: the DeepSeek Claude-time critique",
       "headings": [
         "Source correction: the DeepSeek Claude-time critique",
@@ -10443,6 +10474,7 @@
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
         "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md"
@@ -13952,9 +13984,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
-      "sha256": "f1b737466883a04516c962fb93f1065049a9e64e26aafd641a502bb1615fa839",
-      "bytes": 22089,
-      "lines": 170,
+      "sha256": "bc7fb5c3b52a8ae560adf084294df5e235fa3ef364a83e4f2291d4b20916dc5d",
+      "bytes": 22623,
+      "lines": 172,
       "title": "Problem of time: rigorous frontier problems and a constructive foothold",
       "headings": [
         "Problem of time: rigorous frontier problems and a constructive foothold",
@@ -13970,21 +14002,22 @@
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "FRW_MODULAR_CLOCK.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "FRW_MODULAR_CLOCK.md",
         "verification/problem_of_time_rigorous_frontier_test.py"
       ],
       "risk_phrase_lines": [
         7,
-        52,
-        56,
-        83,
-        91,
-        115,
-        127,
-        164,
+        54,
+        58,
+        85,
+        93,
+        117,
+        129,
         166,
         168,
-        170
+        170,
+        172
       ]
     },
     {
@@ -20834,9 +20867,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "159b8f67d61a21a11d3fae51cc15a25d8f1984fbe03fd54306f2ec4015e8a973",
-      "bytes": 68400,
-      "lines": 150,
+      "sha256": "83ea2b90e8a7f018d19df4f741c53fefdca1e00e39e4c6155c66e81142f843ca",
+      "bytes": 68931,
+      "lines": 151,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20982,6 +21015,7 @@
         "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -21028,7 +21062,8 @@
         121,
         125,
         126,
-        139
+        127,
+        140
       ]
     },
     {
