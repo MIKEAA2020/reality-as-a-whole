@@ -1,6 +1,8 @@
 # A constructive energy-locked incidence model
 
 > **Foundational correction:** [the direct frame and constraint audit](ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md) shows that laboratory-energy alignment does not in general remain alignment for energy defined in the proposed subject's own frame. The model below is valid as a fixed-frame conditional calculation, not a derived frame-independent physical–experiential identity.
+> **Further frame check:** [energy-frame deformation review](ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md) constructs a periodic Maxwell/source example with energy-frame alignment and zero weighted boundary flux but nonzero integrated self-frame exchange. The observer-deformation term is essential; the fixed inertial-frame theorem below remains conditional and valid.
+
 
 ## Result
 

@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1951,
-    "selected_claims_reviewed": 25
+    "not_rechecked_in_this_sweep": 1950,
+    "selected_claims_reviewed": 28
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "f82201b64622fb6f7aa70bf0f1732bbb2a97d7f7fa18b30b2470fe09ef91f20a",
+      "sha256": "0d23996f8100f4b81a501c98e55c896d343bbc4c2dc1d2240ebd26a8d2c3822a",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -4135,6 +4135,23 @@
       }
     },
     {
+      "path": "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+      "sha256": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: periodic Maxwell/source family, frame/current identities, small-amplitude integral and remainder bound, material-Jacobian numerical control.",
+        "evidence": [
+          "verification/zero_energy_frame_deformation_review_test.py",
+          "verification/energy_flow_locked_incidence_test.py"
+        ],
+        "reviewed_sha256": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+        "evidence_sha256": {
+          "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+          "verification/energy_flow_locked_incidence_test.py": "a8a9ae38694bdce766de3af5cf6aa20ea5705cf968aa8f2d567c7c39df30bfc4"
+        }
+      }
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
       "status": "not_rechecked_in_this_sweep",
@@ -5112,8 +5129,19 @@
     {
       "path": "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
       "sha256": "06314754f337bf404f55c3de79c0d038646b92536197ee7297f52d293cc9c6e8",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: electromagnetic self-frame energy-current eigenvector, deformation term sign and periodic counterexample; other foundational claims not fully reviewed.",
+        "evidence": [
+          "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+          "verification/zero_energy_frame_deformation_review_test.py"
+        ],
+        "reviewed_sha256": "06314754f337bf404f55c3de79c0d038646b92536197ee7297f52d293cc9c6e8",
+        "evidence_sha256": {
+          "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+          "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659"
+        }
+      }
     },
     {
       "path": "ZERO_TOTALITY_ENERGY_EXCHANGE_INCIDENCE_BRIDGE.md",
@@ -5123,9 +5151,22 @@
     },
     {
       "path": "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
-      "sha256": "abcc9aafe89e338f5ee6e19354cee6c9fa94c5f5984c45d2462b687500adf707",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "1dc3620c4d16d3eb3157406039a5e3489f72663f795c7f20a813a0b4b152f36c",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: fixed-frame Maxwell equations and boundary argument, contrasting lab flow with rest-frame alignment; the global subject, physical energy and experiential claims remain open.",
+        "evidence": [
+          "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+          "verification/zero_energy_frame_deformation_review_test.py",
+          "verification/energy_flow_locked_incidence_test.py"
+        ],
+        "reviewed_sha256": "1dc3620c4d16d3eb3157406039a5e3489f72663f795c7f20a813a0b4b152f36c",
+        "evidence_sha256": {
+          "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+          "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+          "verification/energy_flow_locked_incidence_test.py": "a8a9ae38694bdce766de3af5cf6aa20ea5705cf968aa8f2d567c7c39df30bfc4"
+        }
+      }
     },
     {
       "path": "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
@@ -10876,6 +10917,12 @@
     {
       "path": "verification/zero_encoded_sphere_clock_work_bridge_test.py",
       "sha256": "d667a55c7614d016e1178a465a01a909415ecddee9b8ad1b9e84f007deaed29f",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_energy_frame_deformation_review_test.py",
+      "sha256": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

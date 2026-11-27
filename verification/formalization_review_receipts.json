@@ -324,5 +324,43 @@
       "verification/zero_autonomous_clock_record_subject_test.py": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689",
       "verification/zero_sector_record_energy_exchange_test.py": "4f0e27c793fdd61820dd02734b8a481e342a6fc378f4a6b19aa1dae1fb17cdd7"
     }
+  },
+  "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md": {
+    "reviewed_sha256": "1dc3620c4d16d3eb3157406039a5e3489f72663f795c7f20a813a0b4b152f36c",
+    "scope": "Selected: fixed-frame Maxwell equations and boundary argument, contrasting lab flow with rest-frame alignment; the global subject, physical energy and experiential claims remain open.",
+    "evidence": [
+      "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+      "verification/zero_energy_frame_deformation_review_test.py",
+      "verification/energy_flow_locked_incidence_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+      "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+      "verification/energy_flow_locked_incidence_test.py": "a8a9ae38694bdce766de3af5cf6aa20ea5705cf968aa8f2d567c7c39df30bfc4"
+    }
+  },
+  "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md": {
+    "reviewed_sha256": "06314754f337bf404f55c3de79c0d038646b92536197ee7297f52d293cc9c6e8",
+    "scope": "Selected: electromagnetic self-frame energy-current eigenvector, deformation term sign and periodic counterexample; other foundational claims not fully reviewed.",
+    "evidence": [
+      "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+      "verification/zero_energy_frame_deformation_review_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+      "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659"
+    }
+  },
+  "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md": {
+    "reviewed_sha256": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+    "scope": "Selected: periodic Maxwell/source family, frame/current identities, small-amplitude integral and remainder bound, material-Jacobian numerical control.",
+    "evidence": [
+      "verification/zero_energy_frame_deformation_review_test.py",
+      "verification/energy_flow_locked_incidence_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
+      "verification/energy_flow_locked_incidence_test.py": "a8a9ae38694bdce766de3af5cf6aa20ea5705cf968aa8f2d567c7c39df30bfc4"
+    }
   }
 }

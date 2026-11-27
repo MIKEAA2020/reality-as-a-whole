@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 919,
-  "bytes": 12041004,
-  "line_count": 108659,
-  "document_count_with_risk_phrases": 871,
+  "document_count": 920,
+  "bytes": 12049964,
+  "line_count": 108750,
+  "document_count_with_risk_phrases": 872,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "f82201b64622fb6f7aa70bf0f1732bbb2a97d7f7fa18b30b2470fe09ef91f20a",
-      "bytes": 17530,
-      "lines": 75,
+      "sha256": "0d23996f8100f4b81a501c98e55c896d343bbc4c2dc1d2240ebd26a8d2c3822a",
+      "bytes": 18747,
+      "lines": 79,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5868,6 +5868,7 @@
         "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
         "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
         "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+        "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5879,6 +5880,7 @@
         "verification/formalization_regression_batch_08.json",
         "verification/formalization_regression_timeout_followup_01.json",
         "verification/formalization_regression_timeout_followup_02.json",
+        "verification/formalization_regression_timeout_followup_03.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -23581,6 +23583,32 @@
       ]
     },
     {
+      "path": "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
+      "sha256": "4ac8f8635ab4f82e46f1655c56bf9f077000dd464cde5d1fd0ad73bffc960090",
+      "bytes": 7371,
+      "lines": 85,
+      "title": "Energy-frame alignment does not remove observer deformation",
+      "headings": [
+        "Energy-frame alignment does not remove observer deformation",
+        "Finding and scope",
+        "1. Which velocity is the energy frame?",
+        "2. Original field: a nontrivial partial-interval check",
+        "3. A periodic whole-cycle counterexample",
+        "4. Implications and remaining obligations"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
+        "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
+        "verification/zero_energy_frame_deformation_review_test.py"
+      ],
+      "risk_phrase_lines": [
+        24,
+        44,
+        58,
+        83
+      ]
+    },
+    {
       "path": "ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md",
       "sha256": "8941faacd409b28be9f5c8d39865dfccd9300a8a8581cfae80a4fb52735be1ca",
       "bytes": 15932,
@@ -28458,9 +28486,9 @@
     },
     {
       "path": "ZERO_TOTALITY_ENERGY_LOCKED_INCIDENCE_CONSTRUCTION.md",
-      "sha256": "abcc9aafe89e338f5ee6e19354cee6c9fa94c5f5984c45d2462b687500adf707",
-      "bytes": 11115,
-      "lines": 140,
+      "sha256": "1dc3620c4d16d3eb3157406039a5e3489f72663f795c7f20a813a0b4b152f36c",
+      "bytes": 11487,
+      "lines": 142,
       "title": "A constructive energy-locked incidence model",
       "headings": [
         "A constructive energy-locked incidence model",
@@ -28474,14 +28502,15 @@
       ],
       "local_links": [
         "ZERO_TOTALITY_DIRECT_FOUNDATIONAL_AND_FRAME_AUDIT.md",
+        "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
         "ZERO_TOTALITY_ORGANIZATION_ENERGY_BALANCE_GATE.md",
         "verification/energy_flow_locked_incidence_receipt.json"
       ],
       "risk_phrase_lines": [
-        90,
-        94,
-        125,
-        129
+        92,
+        96,
+        127,
+        131
       ]
     },
     {

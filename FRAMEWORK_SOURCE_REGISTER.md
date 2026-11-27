@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 869 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 843 verification Python scripts.
+- 877 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 853 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -642,6 +642,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md](ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md) — A three-direction chirality record on the original spherical echo
 - [ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md) — A clock-localized chirality record across the original echo
 - [ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) — Transporting the retained clock instrument: what is exact and what is lost
+- [ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md](ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md) — Clock-preparation and correlation robustness
 - [ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md](ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md) — Clock poststates: a concrete obstruction to identifying two instruments
 - [ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) — One coherent angular echo, purified reservoir and relational clock
 - [ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) — A coherent angular sphere record in the original quantum echo
@@ -659,6 +660,8 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) — Lorentz transport of the coherent angular record
 - [ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md](ZERO_COVARIANT_PLENITUDE_REFERENCE_HISTORY.md) — A permutation-symmetric whole with a changing relational history
 - [ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md](ZERO_COVARIANT_REFERENCE_PHYSICS_EXPERIENCE_SYNTHESIS.md) — One internal reference: zero, geometry, measurement and experience
+- [ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md](ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md) — Cursor domain and instrument recheck
+- [ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md](ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md) — Autonomous cycle: normalized incidence, current and balance
 - [ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md](ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md) — Structural time, DATA, and the sphere echo: an explicit clock bridge and its limits
 - [ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md](ZERO_DOMAIN_SECTOR_CLOCK_RECOVERABILITY.md) — Domains, sectors and clocks: an explicit recoverability construction
 - [ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md](ZERO_DRESSED_ROTATIONS_FULL_CLOCK_AND_OPPOSITE_PAIR.md) — Dressed rotations through the full clock, reservoir and opposite pair
@@ -681,6 +684,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md](ZERO_ECHO_SUBJECT_PERSISTENCE_RECORD_AND_ACCESS.md) — Subject persistence, records and access on the coherent echo
 - [ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md](ZERO_ENCODED_SPHERE_CLOCK_WORK_DIRECTIONAL_BRIDGE.md) — Encoded directional balance joined to the finite sphere, clock and work
 - [ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md](ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md) — Zero constraint, physical reference and relational change
+- [ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md](ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md) — Energy-frame alignment does not remove observer deformation
 - [ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md](ZERO_ENERGY_RECOLLAPSE_SPHERE_CLOCK.md) — A zero-energy clock for the recollapsing sphere–memory model
 - [ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md](ZERO_ENERGY_SPHERE_WORK_SUBJECT_INCIDENCE.md) — Energy-balanced sphere, work relation and candidate incidence
 - [ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md](ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md) — Zero-energy universe: a deep research review
@@ -733,6 +737,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md](ZERO_LOCALIZED_FINITE_WINDOW_GRAVITY_RESPONSE.md) — A finite-window localized response in the gravity–identity candidate
 - [ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md](ZERO_LOCALIZED_RELATIONAL_SUBJECT_IDENTITY_CANDIDATE.md) — Toward a localized identity candidate in constrained gravity
 - [ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md](ZERO_LOCALIZED_SUBJECT_MODULES_AND_INTERFACE_ENERGY.md) — Intrinsic locality, candidate subjects and the energy at their interface
+- [ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md](ZERO_LOCAL_INCIDENCE_NONCOMMUTING_REVIEW.md) — Recheck: noncommuting incidence and current allocation
 - [ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) — Local subject incidence and a conserved quantum current
 - [ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md](ZERO_LOCAL_RECORD_EXPERIENCE_CONSTITUTION.md) — Local recording, zero balance and the experience–physics identity
 - [ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) — Why would the whole's energy be zero? The Lorentz and Poincaré why-chain
@@ -781,6 +786,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) — Retaining the clock: a complete relational instrument and an ambiguity
 - [ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md](ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md) — The same four-outcome probe in an R-time representation
+- [ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md](ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md) — Second-clock POVM, tails and centered smearing: rigor recheck
 - [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
 - [ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md](ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md) — Self-revision, engineering necessity and the experiential identity
@@ -857,12 +863,14 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md](ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md) — A time-independent support interaction and its limits
 - [ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md](ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md) — A certified continuum bound for the support commutator
 - [ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md](ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md) — Can the existing records detect the coherent counterexample?
+- [ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md](ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md) — Two-window continuum certificate: analytic recheck and tighter bound
 - [ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md](ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md) — Geometry slices for two autonomous records: a multichannel continuum result
 - [ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) — A complete instrument for the autonomous cursor—and its backaction
 - [ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md](ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md) — Finite records and clock descriptions in the two-window model
 - [ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md](ZERO_TWO_WINDOW_FINITE_SHOT_CLOCK_CALIBRATION.md) — Finite-shot calibration for a restricted clock-record family
 - [ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) — Full-state geometry data for two autonomous records
 - [ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md](ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md) — Imperfect support flags: the calibration root
+- [ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md](ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md) — Independent continuum certificate and conditional cursor improvement
 - [ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) — Recorded histories and the finite-interval clock gap
 - [ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md) — A controlled autonomous flag window in the existing time model
 - [ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) — A second quantum clock for the same autonomous record
@@ -1593,6 +1601,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_celestial_geometry_test.py](verification/zero_celestial_geometry_test.py)
 - [verification/zero_chiral_chemistry_clock_internal_bridge_test.py](verification/zero_chiral_chemistry_clock_internal_bridge_test.py)
 - [verification/zero_clock_finite_reservoir_reuse_test.py](verification/zero_clock_finite_reservoir_reuse_test.py)
+- [verification/zero_clock_preparation_robustness_test.py](verification/zero_clock_preparation_robustness_test.py)
 - [verification/zero_clock_probe_poststate_obstruction_test.py](verification/zero_clock_probe_poststate_obstruction_test.py)
 - [verification/zero_clock_relational_povm_test.py](verification/zero_clock_relational_povm_test.py)
 - [verification/zero_clocked_chirality_history.py](verification/zero_clocked_chirality_history.py)
@@ -1610,6 +1619,8 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_contextual_sign_symmetry_and_dressed_report_test.py](verification/zero_contextual_sign_symmetry_and_dressed_report_test.py)
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
 - [verification/zero_covariant_sphere_subject_bridge_test.py](verification/zero_covariant_sphere_subject_bridge_test.py)
+- [verification/zero_cursor_domain_instrument_review_test.py](verification/zero_cursor_domain_instrument_review_test.py)
+- [verification/zero_cycle_incidence_partition_review_test.py](verification/zero_cycle_incidence_partition_review_test.py)
 - [verification/zero_domain_restriction_sector_clock_code_test.py](verification/zero_domain_restriction_sector_clock_code_test.py)
 - [verification/zero_dressed_history_pair.py](verification/zero_dressed_history_pair.py)
 - [verification/zero_dressed_history_pair_test.py](verification/zero_dressed_history_pair_test.py)
@@ -1647,6 +1658,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_echo_subject_persistence.py](verification/zero_echo_subject_persistence.py)
 - [verification/zero_echo_subject_persistence_test.py](verification/zero_echo_subject_persistence_test.py)
 - [verification/zero_encoded_sphere_clock_work_bridge_test.py](verification/zero_encoded_sphere_clock_work_bridge_test.py)
+- [verification/zero_energy_frame_deformation_review_test.py](verification/zero_energy_frame_deformation_review_test.py)
 - [verification/zero_energy_recollapse_clock_test.py](verification/zero_energy_recollapse_clock_test.py)
 - [verification/zero_energy_research_test.py](verification/zero_energy_research_test.py)
 - [verification/zero_energy_sphere_work_incidence_test.py](verification/zero_energy_sphere_work_incidence_test.py)
@@ -1706,6 +1718,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_joint_unity_bridge.py](verification/zero_joint_unity_bridge.py)
 - [verification/zero_joint_unity_bridge_test.py](verification/zero_joint_unity_bridge_test.py)
 - [verification/zero_local_incidence_current_test.py](verification/zero_local_incidence_current_test.py)
+- [verification/zero_local_incidence_noncommuting_review_test.py](verification/zero_local_incidence_noncommuting_review_test.py)
 - [verification/zero_local_record_constitution_test.py](verification/zero_local_record_constitution_test.py)
 - [verification/zero_local_relational_identity_detector_test.py](verification/zero_local_relational_identity_detector_test.py)
 - [verification/zero_locality_boundary_test.py](verification/zero_locality_boundary_test.py)
@@ -1760,6 +1773,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relative_gauge_invariant_report_test.py](verification/zero_relative_gauge_invariant_report_test.py)
 - [verification/zero_relativity_constitutive_identity_test.py](verification/zero_relativity_constitutive_identity_test.py)
 - [verification/zero_same_probe_clock_representation_test.py](verification/zero_same_probe_clock_representation_test.py)
+- [verification/zero_second_clock_povm_rigor_test.py](verification/zero_second_clock_povm_rigor_test.py)
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
 - [verification/zero_sector_record_energy_exchange_test.py](verification/zero_sector_record_energy_exchange_test.py)
 - [verification/zero_self_revision_necessity_test.py](verification/zero_self_revision_necessity_test.py)
@@ -1831,11 +1845,15 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_two_window_coherence_tomography_test.py](verification/zero_two_window_coherence_tomography_test.py)
 - [verification/zero_two_window_commutator_certificate.py](verification/zero_two_window_commutator_certificate.py)
 - [verification/zero_two_window_commutator_certificate_test.py](verification/zero_two_window_commutator_certificate_test.py)
+- [verification/zero_two_window_commutator_refined_certificate.py](verification/zero_two_window_commutator_refined_certificate.py)
+- [verification/zero_two_window_commutator_refined_certificate_test.py](verification/zero_two_window_commutator_refined_certificate_test.py)
 - [verification/zero_two_window_continuum_slice_test.py](verification/zero_two_window_continuum_slice_test.py)
 - [verification/zero_two_window_cursor_instrument_test.py](verification/zero_two_window_cursor_instrument_test.py)
 - [verification/zero_two_window_finite_record_clock_test.py](verification/zero_two_window_finite_record_clock_test.py)
 - [verification/zero_two_window_full_slice_test.py](verification/zero_two_window_full_slice_test.py)
 - [verification/zero_two_window_imperfect_support_flag_test.py](verification/zero_two_window_imperfect_support_flag_test.py)
+- [verification/zero_two_window_independent_gram.py](verification/zero_two_window_independent_gram.py)
+- [verification/zero_two_window_independent_gram_test.py](verification/zero_two_window_independent_gram_test.py)
 - [verification/zero_two_window_operational_clock_calibration_test.py](verification/zero_two_window_operational_clock_calibration_test.py)
 - [verification/zero_two_window_recorded_histories_test.py](verification/zero_two_window_recorded_histories_test.py)
 - [verification/zero_two_window_redundant_flag_hold_test.py](verification/zero_two_window_redundant_flag_hold_test.py)

@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; test execution is not a proof audit.",
+  "followups": [
+    {
+      "pattern": "zero_clocked_chirality_history_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_clocked_chirality_history_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_clocked_chirality_history_test.py",
+          "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e",
+          "status": "passed",
+          "tests_run": 11,
+          "exit_code": 0,
+          "seconds": 19.445,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 11 tests in 18.953s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 1
+    },
+    {
+      "pattern": "zero_coherent_signed_counterpart_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_coherent_signed_counterpart_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_coherent_signed_counterpart_test.py",
+          "sha256": "a7f8dad5a7f55e7d17af52fe333af0527b6f11a4ff87f84765028dc878cc0ba3",
+          "status": "passed",
+          "tests_run": 6,
+          "exit_code": 0,
+          "seconds": 14.792,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 6 tests in 14.541s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 1
+    },
+    {
+      "pattern": "zero_contextual_sign_symmetry_and_dressed_report_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py",
+          "sha256": "93bde4b94dbe53c492db4d895d3b2de6b8c8f617c36bb8afe5e6043a6c5bf248",
+          "status": "passed",
+          "tests_run": 6,
+          "exit_code": 0,
+          "seconds": 17.088,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 6 tests in 16.890s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 1
+    }
+  ]
+}
