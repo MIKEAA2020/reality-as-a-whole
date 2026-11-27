@@ -1,5 +1,7 @@
 # A certified continuum bound for the support commutator
 
+**Later recheck and improvement:** [continuum certificate rigor review](ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md) checks the selected analytic chain, retains the nonzero packet overlap, and tightens the commutator bound to `<0.412` and both conditional flag-error bounds to `<0.0266`. It reuses the original verifier's exact residual-Gram arithmetic rather than independently reimplementing it; physical implementation and durable records remain open.
+
 ## Result
 
 For the **specified** two-window continuum model and the incident/receding packet span P used in the [time-independent support interaction](ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md), let Q=I−P. An exact-rational calculation, with explicit analytic remainder bounds, establishes

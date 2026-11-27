@@ -3,7 +3,7 @@
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
     "not_rechecked_in_this_sweep": 1953,
-    "selected_claims_reviewed": 9
+    "selected_claims_reviewed": 12
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "f52da5fb8e6b62802f68a71762d2c14f329120a8f303933e619ef7338167316c",
+      "sha256": "56ac1ff46a70ad3f0a3480287668cbbd535288c6f25b20c4a3897d1f90ff1e1c",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -5163,15 +5163,45 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
-      "sha256": "db460257bb2072b79e584555aa5ab39a7967381b435660fe1407003e4f2dbb7e",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "31f882a6434ae302aba8130716f55aaaed16a090be50842a24e931aa0611b2f0",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: band operator, residual-Gram and overlap bounds, remainder assumptions and flag consequence; tightened overlap and norm bounds. The long rational Gram calculation was not independently reimplemented.",
+        "evidence": [
+          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+          "verification/zero_two_window_commutator_refined_certificate.py",
+          "verification/zero_two_window_commutator_refined_certificate_test.py"
+        ],
+        "reviewed_sha256": "31f882a6434ae302aba8130716f55aaaed16a090be50842a24e931aa0611b2f0",
+        "evidence_sha256": {
+          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+          "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
+          "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
       "sha256": "c80ffa973e9ea6475ca8d8e5cb1e334ede2e6969ba55ef831891c5fb0297041c",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+      "sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: packet-overlap formula, rational refinements, residual norm and conditional flag-error implications; independent numerical controls are not a continuum proof.",
+        "evidence": [
+          "verification/zero_two_window_commutator_refined_certificate.py",
+          "verification/zero_two_window_commutator_refined_certificate_test.py"
+        ],
+        "reviewed_sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+        "evidence_sha256": {
+          "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
+          "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_GEOMETRY_SLICE.md",
@@ -11740,12 +11770,37 @@
     {
       "path": "verification/zero_two_window_commutator_certificate.py",
       "sha256": "742a05b21e922d17ae412ea57ab92891582c1554d13eda2603c0c748f5016ccb",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: polynomial coefficient/moment representation and stated Taylor-remainder, norm and rational threshold chain; long exact rational sums reused, not independently reimplemented.",
+        "evidence": [
+          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+          "verification/zero_two_window_commutator_refined_certificate.py",
+          "verification/zero_two_window_commutator_refined_certificate_test.py"
+        ],
+        "reviewed_sha256": "742a05b21e922d17ae412ea57ab92891582c1554d13eda2603c0c748f5016ccb",
+        "evidence_sha256": {
+          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+          "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
+          "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
+        }
+      }
     },
     {
       "path": "verification/zero_two_window_commutator_certificate_test.py",
       "sha256": "f8b764310a9ec49fa58feef3f88f40fe9efb17950fa8829be6bd42564efc9430",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_two_window_commutator_refined_certificate.py",
+      "sha256": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_two_window_commutator_refined_certificate_test.py",
+      "sha256": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 913,
-  "bytes": 11973986,
-  "line_count": 107922,
-  "document_count_with_risk_phrases": 865,
+  "document_count": 914,
+  "bytes": 11983590,
+  "line_count": 108026,
+  "document_count_with_risk_phrases": 866,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "f52da5fb8e6b62802f68a71762d2c14f329120a8f303933e619ef7338167316c",
-      "bytes": 10682,
-      "lines": 49,
+      "sha256": "56ac1ff46a70ad3f0a3480287668cbbd535288c6f25b20c4a3897d1f90ff1e1c",
+      "bytes": 11740,
+      "lines": 53,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5841,6 +5841,7 @@
         "Coverage accounting",
         "Batch 1: completed selected checks and improvements",
         "Batch 2: incidence support and noncommutation",
+        "Batch 3: continuum commutator certificate",
         "Regression checks: bounded batches",
         "Continuing queue"
       ],
@@ -5861,10 +5862,14 @@
         "ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md",
         "verification/zero_local_incidence_noncommuting_review_test.py",
         "verification/zero_two_window_commutator_certificate_test.py",
+        "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+        "verification/zero_two_window_commutator_refined_certificate.py",
+        "verification/zero_two_window_commutator_refined_certificate_test.py",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
         "verification/formalization_regression_batch_03.json",
+        "verification/formalization_regression_batch_04.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5872,7 +5877,8 @@
         19,
         21,
         26,
-        28
+        28,
+        32
       ]
     },
     {
@@ -29225,9 +29231,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
-      "sha256": "db460257bb2072b79e584555aa5ab39a7967381b435660fe1407003e4f2dbb7e",
-      "bytes": 9028,
-      "lines": 156,
+      "sha256": "31f882a6434ae302aba8130716f55aaaed16a090be50842a24e931aa0611b2f0",
+      "bytes": 9494,
+      "lines": 158,
       "title": "A certified continuum bound for the support commutator",
       "headings": [
         "A certified continuum bound for the support commutator",
@@ -29240,24 +29246,26 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "verification/zero_two_window_commutator_certificate.py",
         "verification/zero_two_window_commutator_certificate_test.py"
       ],
       "risk_phrase_lines": [
-        5,
-        19,
+        3,
+        7,
         21,
-        33,
-        61,
-        70,
-        77,
-        86,
-        99,
-        105,
-        139,
-        145,
-        150
+        23,
+        35,
+        63,
+        72,
+        79,
+        88,
+        101,
+        107,
+        141,
+        147,
+        152
       ]
     },
     {
@@ -29286,6 +29294,36 @@
         70,
         88,
         102
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+      "sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+      "bytes": 8080,
+      "lines": 98,
+      "title": "Two-window continuum certificate: analytic recheck and tighter bound",
+      "headings": [
+        "Two-window continuum certificate: analytic recheck and tighter bound",
+        "Result and scope",
+        "1. Explicit packet overlap",
+        "2. Residual-Gram audit and sharpened estimate",
+        "3. Flag and coherent-state consequences",
+        "4. Tests and remaining work"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "verification/zero_two_window_commutator_refined_certificate.py",
+        "verification/zero_two_window_commutator_refined_certificate_test.py",
+        "verification/zero_two_window_commutator_certificate_test.py"
+      ],
+      "risk_phrase_lines": [
+        12,
+        14,
+        27,
+        45,
+        59,
+        65,
+        96
       ]
     },
     {
