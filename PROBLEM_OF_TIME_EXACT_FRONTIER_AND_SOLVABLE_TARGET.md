@@ -1,5 +1,7 @@
 # The problem of time: what remains, formulated precisely
 
+**Action plan and first advance:** [divide-and-conquer plan](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md) sets the dependency gates; [finite-window support record](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md) implements the first bounded construction without claiming a durable autonomous reader or a clock switch.
+
 ## Direct answer
 
 We have not solved the problem of time. We have established—in several **different, explicitly specified models**—that a vanishing constraint can coexist with real internal relational change, that certain clock choices can be compared, and that some physical-style records can be calculated. We have not shown that the same self-sufficient constitution yields the right **physical clocks, events, records, quantum probabilities, spacetime and experienced succession**, and that its clock-relative descriptions consistently refer to the same events.

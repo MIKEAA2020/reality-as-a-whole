@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 878,
-  "bytes": 11491056,
-  "line_count": 103786,
-  "document_count_with_risk_phrases": 830,
+  "document_count": 880,
+  "bytes": 11518150,
+  "line_count": 104100,
+  "document_count_with_risk_phrases": 832,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ed980c10939a937e72f4849a5fca46494463ff82f274acbde5da6b3948a73068",
-      "bytes": 235934,
-      "lines": 1790,
+      "sha256": "4b620544fe3cc68908ab3f03595574a418a12bd608fdb8600a3b4f3c407ac8e0",
+      "bytes": 236344,
+      "lines": 1793,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6267,6 +6267,7 @@
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
         "PROBLEM_OF_TIME_CLOSED.md",
+        "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "PROJECT_COHERENCE_AUDIT.md",
@@ -6714,6 +6715,7 @@
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
         "ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md",
         "ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md",
@@ -7643,6 +7645,7 @@
         "verification/zero_two_window_imperfect_support_flag_test.py",
         "verification/zero_two_window_operational_clock_calibration_test.py",
         "verification/zero_two_window_recorded_histories_test.py",
+        "verification/zero_two_window_redundant_flag_hold_test.py",
         "verification/zero_two_window_support_eraser_test.py",
         "verification/zero_type_reflection_continuum_root.py",
         "verification/zero_type_reflection_continuum_root_test.py",
@@ -7666,24 +7669,24 @@
         309,
         339,
         387,
-        389,
-        420,
-        489,
-        590,
-        610,
-        717,
-        721,
-        748,
-        753,
-        763,
-        766,
-        792,
-        838,
-        875,
-        884,
-        887,
-        890,
-        962
+        390,
+        421,
+        490,
+        591,
+        611,
+        718,
+        722,
+        749,
+        754,
+        764,
+        767,
+        793,
+        840,
+        877,
+        886,
+        889,
+        892,
+        964
       ]
     },
     {
@@ -13552,10 +13555,44 @@
       ]
     },
     {
+      "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
+      "sha256": "d0f2d3c27a943888738051c266d220bb81795c565697c019ae3554e313e279ff",
+      "bytes": 12981,
+      "lines": 124,
+      "title": "Problem of time: divide-and-conquer work plan",
+      "headings": [
+        "Problem of time: divide-and-conquer work plan",
+        "Mission and current position",
+        "Dependency graph",
+        "0. Freeze the common experiment and its baseline",
+        "1. Build a finite-window record inside a changed constraint",
+        "2. Make readout or transfer autonomous",
+        "3. Construct the second clock on the same theory",
+        "4. Prove the same-event comparison and quantify finite information"
+      ],
+      "local_links": [
+        "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+        "verification/zero_two_window_redundant_flag_hold_test.py",
+        "AUTONOMOUS_STOP_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        44,
+        50,
+        70
+      ]
+    },
+    {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
-      "sha256": "4c67492b4c141161cabbb11adde0ffe76ab2b82f83501aa71724e8bf04d669dd",
-      "bytes": 23801,
-      "lines": 197,
+      "sha256": "138220bf4c511a065eb02063ce18e3078c9107991f08ee1cb46f3a8f112746cc",
+      "bytes": 24111,
+      "lines": 199,
       "title": "The problem of time: what remains, formulated precisely",
       "headings": [
         "The problem of time: what remains, formulated precisely",
@@ -13568,6 +13605,8 @@
         "6. What would change the verdict?"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
@@ -13580,18 +13619,18 @@
         "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md"
       ],
       "risk_phrase_lines": [
-        5,
-        11,
-        15,
-        57,
-        84,
-        94,
-        147,
-        156,
-        169,
-        173,
-        177,
-        197
+        7,
+        13,
+        17,
+        59,
+        86,
+        96,
+        149,
+        158,
+        171,
+        175,
+        179,
+        199
       ]
     },
     {
@@ -20441,9 +20480,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "ae085859b12d8e1f55614f7a0a1697467ade30a389e14071997a1a8a90d0da2e",
-      "bytes": 57674,
-      "lines": 132,
+      "sha256": "a20c4a0c59cee8560d11d6308e74eb86e18b6454d44eea658bd7874c4e104207",
+      "bytes": 58331,
+      "lines": 133,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20560,6 +20599,9 @@
         "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
+        "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+        "verification/zero_two_window_redundant_flag_hold_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20599,7 +20641,8 @@
         102,
         105,
         108,
-        121
+        109,
+        122
       ]
     },
     {
@@ -28232,6 +28275,38 @@
         88,
         99,
         115
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+      "sha256": "19842ad8a84e4781ea9ab2830c3fad0ef11c6f57ebc5ad0f018c7dc518f3a9a4",
+      "bytes": 12736,
+      "lines": 184,
+      "title": "A controlled autonomous flag window in the existing time model",
+      "headings": [
+        "A controlled autonomous flag window in the existing time model",
+        "Result",
+        "1. Reuse the actual prior model, and identify the change",
+        "2. The ideal comparator and its finite window",
+        "3. A coherent support inference",
+        "4. Why this still does not make a durable record",
+        "5. Independent finite-regulator controls",
+        "6. Next gate"
+      ],
+      "local_links": [
+        "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "verification/zero_two_window_redundant_flag_hold_test.py",
+        "AUTONOMOUS_STOP_CLOCK.md"
+      ],
+      "risk_phrase_lines": [
+        15,
+        17,
+        138,
+        146,
+        148,
+        171,
+        184
       ]
     },
     {

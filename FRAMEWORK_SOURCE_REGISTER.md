@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 835 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 813 verification Python scripts.
+- 837 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 814 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -385,6 +385,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PRIVATION_AND_AXIARCHIC_GOOD.md](PRIVATION_AND_AXIARCHIC_GOOD.md) — Privation and the conjecture that Good actualizes reality
 - [PRIVATION_STRESS_TEST.md](PRIVATION_STRESS_TEST.md) — A targeted stress test of the privation conjecture
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
+- [PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md) — Problem of time: divide-and-conquer work plan
 - [PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md](PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md) — The problem of time: what remains, formulated precisely
 - [PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) — Why have we not fully solved the problem of time?
 - [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
@@ -832,6 +833,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md](ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md) — Full-state geometry data for two autonomous records
 - [ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md](ZERO_TWO_WINDOW_IMPERFECT_SUPPORT_FLAG_ROOT.md) — Imperfect support flags: the calibration root
 - [ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md](ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md) — Recorded histories and the finite-interval clock gap
+- [ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md) — A controlled autonomous flag window in the existing time model
 - [ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md](ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md) — Better-conditioned clock readout—with a support flag and a cost
 - [ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md](ZERO_TYPED_ECHO_PROCESS_CLOCK_ACCESS_AND_SUBJECT.md) — A typed echo process: content, clock, access and subjecthood
 - [ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md](ZERO_TYPE_REFLECTION_LOCALITY_ROOT_CAUSE.md) — Why the type-symmetric kinetic repair adds a long edge
@@ -1775,6 +1777,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_two_window_imperfect_support_flag_test.py](verification/zero_two_window_imperfect_support_flag_test.py)
 - [verification/zero_two_window_operational_clock_calibration_test.py](verification/zero_two_window_operational_clock_calibration_test.py)
 - [verification/zero_two_window_recorded_histories_test.py](verification/zero_two_window_recorded_histories_test.py)
+- [verification/zero_two_window_redundant_flag_hold_test.py](verification/zero_two_window_redundant_flag_hold_test.py)
 - [verification/zero_two_window_support_eraser_test.py](verification/zero_two_window_support_eraser_test.py)
 - [verification/zero_type_reflection_continuum_root.py](verification/zero_type_reflection_continuum_root.py)
 - [verification/zero_type_reflection_continuum_root_test.py](verification/zero_type_reflection_continuum_root_test.py)
