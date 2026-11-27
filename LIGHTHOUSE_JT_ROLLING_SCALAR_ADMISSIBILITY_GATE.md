@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Follow-up:** [the scalar KMS and matched-reading analysis](LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md) distinguishes a KMS reference for the remainder from the nonstationary scalar packet, extends the group average under an assumed self-adjoint remainder generator, and compares two scalar POVMs on the same packet. It does not establish the source's full CFT representation or a two-frame gravitational comparison.
+
 A source-level check finds a **sign discrepancy in the cited JT preprint**: its Eqs. 2.19–2.21 give `H_grav = -i cosh(S) ∂_S`, whereas Eqs. 2.22–2.23 write the opposite sign. The related rolling-matter note uses the latter sign while claiming the increasing position motion that follows from the former. This is an explicit convention/equation conflict, not a verdict on the preprint's broader gravitational results. It can be handled by consistently choosing an orientation and corresponding relational observables; no comparison should silently mix the two.
 
 An independently derived homogeneous scalar term gives `p²/(2B)` in the rescaled constraint, with qualifications on the action and scalar zero mode. Under the sign following from the source's earlier canonical definitions, a positive-momentum scalar position increases with `S`. But its positive-momentum **position POVM is not a covariant time POVM for the quadratic Hamiltonian**. An energy-covariant POVM exists with a nontrivial Jacobian; it measures a different quantity. Neither comes with a physical measurement apparatus here.

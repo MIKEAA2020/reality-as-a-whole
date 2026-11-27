@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "a873c84f57826eaeb738a0b7b02f107e8840bbd4",
-  "file_count": 2465,
+  "base_head": "1d8affa678658ced7eaad47f332c3d48bc42db56",
+  "file_count": 2467,
   "files": [
     {
       "path": ".gitattributes",
@@ -890,8 +890,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 239283,
-      "sha256": "e71b8b91423f9305647abe77b2b49714fe8760d693e1202387d15326cb43b272"
+      "bytes": 239591,
+      "sha256": "4517130ae80bb62ae9a0fbbd51042efa7625f59bbcc238be1692e24c08269615"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1340,8 +1340,13 @@
     },
     {
       "path": "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
-      "bytes": 15294,
-      "sha256": "9e904a2f18ef9878f428f21796a60c900a7e5e5cdb97a5e50c0dd20edf2d6b83"
+      "bytes": 15725,
+      "sha256": "50755b9fe97b0c4cf12ed08ffc8a5eb2eac74cdb31fc9b9c04710e2eb1fc46a7"
+    },
+    {
+      "path": "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
+      "bytes": 14617,
+      "sha256": "8df465b2f4bf6601e7bd303544dc44367329b5ed3d93a16fb2a8be852d56591b"
     },
     {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
@@ -1895,8 +1900,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "bytes": 18463,
-      "sha256": "f4046265968a382b9bdf87b31535e2ba9d4b29c8811d63dc9ef355790010eb6b"
+      "bytes": 18778,
+      "sha256": "5b135c96940d833d174a34eef8fb0d32abb0c4c9ca893ffcea9bc3b7e9455479"
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
@@ -2970,8 +2975,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 64800,
-      "sha256": "232675cb3af3a79450a821f2ac36759d4e12d3c1e71ffe12c9ca645a1efb0343"
+      "bytes": 65356,
+      "sha256": "3ae10ecaecba0dca08787c82362a815e3789e17a13f94e88c2a74c701ecad757"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -7979,6 +7984,11 @@
       "sha256": "d11db9dd8d7887e200276b47f09b7c59dbba9cd1ebb6511c6ade7ff97932972a"
     },
     {
+      "path": "verification/lighthouse_jt_clock_state_comparison_test.py",
+      "bytes": 7865,
+      "sha256": "5c0de89e36df53d52ad35bc2a720e80ce879f1432dcd771e91e22b4e548085ae"
+    },
+    {
       "path": "verification/lighthouse_jt_rolling_clock_gate_test.py",
       "bytes": 6214,
       "sha256": "ad55f1c0a845798fe8710a6ebe9c8306a210d4c156f5fe8d509d169af63bcfdb"
@@ -8855,8 +8865,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1156246,
-      "sha256": "35ad5f2919ba54aa518bc15392a4a53b16a1b1f2b4db944ad7eb23a43a2a7fd2"
+      "bytes": 1157605,
+      "sha256": "1a7590c1be5cbe173bc3f60f1c5916467380bd6b62134d80b59f2da6e1594f53"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10030,8 +10040,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 556496,
-      "sha256": "cec041823f626b1a96644f506b96e7ec7066d6f4e093f045c334ce9a06547516"
+      "bytes": 557047,
+      "sha256": "4c4d75f535c038f22a0cb253fe151ede3b0bbd58872fb813a9961fc9decc3840"
     },
     {
       "path": "verification/source_repass_tracker_test.py",

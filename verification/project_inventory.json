@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 891,
-  "bytes": 11685173,
-  "line_count": 105978,
-  "document_count_with_risk_phrases": 843,
+  "document_count": 892,
+  "bytes": 11701400,
+  "line_count": 106146,
+  "document_count_with_risk_phrases": 844,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "e71b8b91423f9305647abe77b2b49714fe8760d693e1202387d15326cb43b272",
-      "bytes": 239283,
-      "lines": 1814,
+      "sha256": "4517130ae80bb62ae9a0fbbd51042efa7625f59bbcc238be1692e24c08269615",
+      "bytes": 239591,
+      "lines": 1816,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6159,6 +6159,7 @@
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
+        "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -7094,6 +7095,7 @@
         "verification/lewtas_conservation_subject_gate_test.py",
         "verification/lewtas_fusion_nested_observation_gate.py",
         "verification/lewtas_fusion_nested_observation_gate_test.py",
+        "verification/lighthouse_jt_clock_state_comparison_test.py",
         "verification/lighthouse_jt_rolling_clock_gate_test.py",
         "verification/lighthouse_trace_time_check.py",
         "verification/lighthouse_trace_time_check_test.py",
@@ -7688,28 +7690,28 @@
         171,
         233,
         279,
-        311,
-        341,
-        389,
-        392,
-        423,
-        492,
-        593,
-        613,
-        626,
-        724,
-        728,
-        755,
-        760,
-        772,
-        775,
-        801,
-        851,
-        888,
-        897,
-        900,
-        903,
-        975
+        312,
+        342,
+        390,
+        393,
+        424,
+        493,
+        594,
+        614,
+        627,
+        725,
+        729,
+        756,
+        761,
+        773,
+        776,
+        802,
+        852,
+        889,
+        898,
+        901,
+        904,
+        976
       ]
     },
     {
@@ -10387,9 +10389,9 @@
     },
     {
       "path": "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
-      "sha256": "9e904a2f18ef9878f428f21796a60c900a7e5e5cdb97a5e50c0dd20edf2d6b83",
-      "bytes": 15294,
-      "lines": 160,
+      "sha256": "50755b9fe97b0c4cf12ed08ffc8a5eb2eac74cdb31fc9b9c04710e2eb1fc46a7",
+      "bytes": 15725,
+      "lines": 162,
       "title": "Lighthouse WP0: a closed-Milne scalar-clock admissibility gate",
       "headings": [
         "Lighthouse WP0: a closed-Milne scalar-clock admissibility gate",
@@ -10402,17 +10404,47 @@
         "6. Decision and next gate"
       ],
       "local_links": [
+        "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "verification/lighthouse_jt_rolling_clock_gate_test.py",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md"
       ],
       "risk_phrase_lines": [
         1,
-        9,
-        13,
+        11,
         15,
-        42,
-        48,
-        95
+        17,
+        44,
+        50,
+        97
+      ]
+    },
+    {
+      "path": "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
+      "sha256": "8df465b2f4bf6601e7bd303544dc44367329b5ed3d93a16fb2a8be852d56591b",
+      "bytes": 14617,
+      "lines": 163,
+      "title": "Lighthouse WP0: scalar-clock state, KMS and matched finite readings",
+      "headings": [
+        "Lighthouse WP0: scalar-clock state, KMS and matched finite readings",
+        "Result and scope",
+        "1. Zero-mode KMS gate: reference state versus clock packet",
+        "2. Positive group average with a general remainder",
+        "3. Two readings of one common physical packet",
+        "4. Analytic all-state bound and packet-specific lower bound",
+        "5. Decision and next target",
+        "Reproduction"
+      ],
+      "local_links": [
+        "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
+        "verification/lighthouse_jt_clock_state_comparison_test.py"
+      ],
+      "risk_phrase_lines": [
+        8,
+        31,
+        61,
+        86,
+        98,
+        112
       ]
     },
     {
@@ -13646,8 +13678,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "f4046265968a382b9bdf87b31535e2ba9d4b29c8811d63dc9ef355790010eb6b",
-      "bytes": 18463,
+      "sha256": "5b135c96940d833d174a34eef8fb0d32abb0c4c9ca893ffcea9bc3b7e9455479",
+      "bytes": 18778,
       "lines": 138,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13663,6 +13695,7 @@
       "local_links": [
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
+        "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
@@ -20590,9 +20623,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "232675cb3af3a79450a821f2ac36759d4e12d3c1e71ffe12c9ca645a1efb0343",
-      "bytes": 64800,
-      "lines": 143,
+      "sha256": "3ae10ecaecba0dca08787c82362a815e3789e17a13f94e88c2a74c701ecad757",
+      "bytes": 65356,
+      "lines": 144,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20731,6 +20764,7 @@
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md",
         "verification/zero_same_probe_clock_representation_test.py",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
+        "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20774,7 +20808,7 @@
         112,
         117,
         118,
-        132
+        133
       ]
     },
     {
