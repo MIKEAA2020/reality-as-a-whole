@@ -4,7 +4,7 @@
 
 **Cursor-sign correction:** the underlying [cursor preparation](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) now uses `exp(−imvx)` for the stated evolution sign. The dependent error bound here applies to that corrected preparation, not the originally written opposite-moving packet. See [the sign control](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
 
-**Conditional refinement:** [the cursor-domain and instrument recheck](ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md) propagates the improved commutator into the same specified smeared-clock comparison, tightening its half-diamond bound to `<0.0388`. It inherits this report's clock-tail and output-identification estimates; it does not establish equivalence of all retained clock poststates.
+**Conditional refinements:** [the cursor-domain and instrument recheck](ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md) propagates the improved commutator into the specified smeared-clock comparison, giving `<0.0388`. A later [POVM, tail and centered-smearing review](ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md) checks the weak normalization, tightens the tail and exploits the symmetric kernel to improve the same comparison to `<0.03777`. Both remain conditional on the stated model and output convention; neither establishes equivalence of all retained clock poststates.
 
 ## Result
 

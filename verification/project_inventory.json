@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 916,
-  "bytes": 12007289,
-  "line_count": 108261,
-  "document_count_with_risk_phrases": 868,
+  "document_count": 917,
+  "bytes": 12018778,
+  "line_count": 108398,
+  "document_count_with_risk_phrases": 869,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "94078459207e86877bef8954f7346d5c7c9974ccda42a39b4fd5acfbb30ff4cd",
-      "bytes": 13757,
-      "lines": 61,
+      "sha256": "dc2d508b4e56886697712d24b4c75dc3156a08a652287628a78c662b5b27e583",
+      "bytes": 14684,
+      "lines": 65,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5865,6 +5865,7 @@
         "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
         "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+        "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5872,6 +5873,7 @@
         "verification/formalization_regression_batch_04.json",
         "verification/formalization_regression_batch_05.json",
         "verification/formalization_regression_batch_06.json",
+        "verification/formalization_regression_batch_07.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5882,7 +5884,8 @@
         28,
         32,
         36,
-        40
+        40,
+        44
       ]
     },
     {
@@ -26749,8 +26752,8 @@
     },
     {
       "path": "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
-      "sha256": "c92c7747d20f99ae3a41f0b319af8b5676cbbc999e66fea1d5295051c970a2f2",
-      "bytes": 12615,
+      "sha256": "fdd40599e4babea9e5ffb21bd082299d973ce72a36e966c13ee5445b6833d3ff",
+      "bytes": 12830,
       "lines": 173,
       "title": "Retaining the clock: a complete relational instrument and an ambiguity",
       "headings": [
@@ -26767,6 +26770,7 @@
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
         "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
+        "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "verification/zero_two_window_retained_clock_instrument_test.py",
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md"
@@ -26812,6 +26816,39 @@
         137,
         149,
         177
+      ]
+    },
+    {
+      "path": "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+      "sha256": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+      "bytes": 10153,
+      "lines": 133,
+      "title": "Second-clock POVM, tails and centered smearing: rigor recheck",
+      "headings": [
+        "Second-clock POVM, tails and centered smearing: rigor recheck",
+        "Results and limits",
+        "1. Positive-frequency POVM and weak normalization",
+        "2. Tail estimate using the oscillation",
+        "3. Centered clock error is quadratic, not merely linear",
+        "4. Exact dephasing control and retained-output ambiguity",
+        "5. Verification and next work"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+        "verification/zero_second_clock_povm_rigor_test.py",
+        "verification/zero_second_clock_povm_rigor_test.py",
+        "verification/zero_second_clock_povm_rigor_test.py"
+      ],
+      "risk_phrase_lines": [
+        11,
+        53,
+        57,
+        105,
+        115,
+        127,
+        131
       ]
     },
     {
@@ -29649,8 +29686,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
-      "bytes": 15477,
+      "sha256": "3e4b10c42584c02d548187d6a262926fab32b4be730bd07f445e972a2d7ab7c3",
+      "bytes": 15671,
       "lines": 172,
       "title": "A second quantum clock for the same autonomous record",
       "headings": [
@@ -29669,6 +29706,7 @@
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
         "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+        "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "verification/zero_two_window_second_clock_test.py",

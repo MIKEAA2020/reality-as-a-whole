@@ -3,7 +3,7 @@
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
     "not_rechecked_in_this_sweep": 1952,
-    "selected_claims_reviewed": 18
+    "selected_claims_reviewed": 20
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "94078459207e86877bef8954f7346d5c7c9974ccda42a39b4fd5acfbb30ff4cd",
+      "sha256": "dc2d508b4e56886697712d24b4c75dc3156a08a652287628a78c662b5b27e583",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -4724,15 +4724,47 @@
     },
     {
       "path": "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
-      "sha256": "c92c7747d20f99ae3a41f0b319af8b5676cbbc999e66fea1d5295051c970a2f2",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "fdd40599e4babea9e5ffb21bd082299d973ce72a36e966c13ee5445b6833d3ff",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: orbit-effect normalization and chosen Stinespring/isometry completeness; difference between effects and physical state-update choice. Full fiber transport and physical implementation not reviewed in this pass.",
+        "evidence": [
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+          "verification/zero_second_clock_povm_rigor_test.py",
+          "verification/zero_two_window_retained_clock_instrument_test.py"
+        ],
+        "reviewed_sha256": "fdd40599e4babea9e5ffb21bd082299d973ce72a36e966c13ee5445b6833d3ff",
+        "evidence_sha256": {
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+          "verification/zero_second_clock_povm_rigor_test.py": "e8925d660446514329c18496900d2aa324acb3e968a75b4c6e7a3a0f1637ec25",
+          "verification/zero_two_window_retained_clock_instrument_test.py": "a5790a3ba91e50430ae5269b6e33c3a597a621cefa6a1f985946e57b7a0f87d5"
+        }
+      }
     },
     {
       "path": "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md",
       "sha256": "86dfc5bc0c7d0137e44c29e6100c9dd5faa49b9020de59d8e5fb02f88b85d730",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
+    },
+    {
+      "path": "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+      "sha256": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: weak POVM/twirl normalization and nonprojection, exact tail estimate, symmetric second-order smearing and conditional numerical propagation. Cursor and output-identification assumptions inherited.",
+        "evidence": [
+          "verification/zero_second_clock_povm_rigor_test.py",
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+          "verification/zero_cursor_domain_instrument_review_test.py"
+        ],
+        "reviewed_sha256": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+        "evidence_sha256": {
+          "verification/zero_second_clock_povm_rigor_test.py": "e8925d660446514329c18496900d2aa324acb3e968a75b4c6e7a3a0f1637ec25",
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+          "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b"
+        }
+      }
     },
     {
       "path": "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
@@ -5319,16 +5351,20 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
+      "sha256": "3e4b10c42584c02d548187d6a262926fab32b4be730bd07f445e972a2d7ab7c3",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: arithmetic propagation of improved cursor bound through stated finite-resolution clock mixture. Clock tail, effect normalization and retained-poststate transport are inherited, not independently audited.",
+        "scope": "Selected: semibounded-clock POVM, weak normalization and covariance, product-preparation relational probability, cosine-packet tail and centered-smearing error bound; no general clock switch or physical realization.",
         "evidence": [
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+          "verification/zero_second_clock_povm_rigor_test.py",
           "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
           "verification/zero_cursor_domain_instrument_review_test.py"
         ],
-        "reviewed_sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
+        "reviewed_sha256": "3e4b10c42584c02d548187d6a262926fab32b4be730bd07f445e972a2d7ab7c3",
         "evidence_sha256": {
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+          "verification/zero_second_clock_povm_rigor_test.py": "e8925d660446514329c18496900d2aa324acb3e968a75b4c6e7a3a0f1637ec25",
           "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
           "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b"
         }
@@ -11433,6 +11469,12 @@
     {
       "path": "verification/zero_same_probe_clock_representation_test.py",
       "sha256": "345e6db425e523b750739470007384b60930bf2530e3bebca2fbd111580610be",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_second_clock_povm_rigor_test.py",
+      "sha256": "e8925d660446514329c18496900d2aa324acb3e968a75b4c6e7a3a0f1637ec25",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
