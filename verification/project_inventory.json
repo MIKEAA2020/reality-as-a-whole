@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 907,
-  "bytes": 11922449,
-  "line_count": 107488,
-  "document_count_with_risk_phrases": 859,
+  "document_count": 908,
+  "bytes": 11935526,
+  "line_count": 107596,
+  "document_count_with_risk_phrases": 860,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1876,8 +1876,8 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "46b7e92e0a7c0b9258f08e9478fef38ea0d9db3d01eed41af46cd21969aba2eb",
-      "bytes": 21945,
+      "sha256": "21ca369778277545ae1ed0753822dd027811d9e0527eab4464f8bdc95cdfa10e",
+      "bytes": 22116,
       "lines": 75,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
@@ -1897,7 +1897,7 @@
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-        "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
@@ -1907,6 +1907,7 @@
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "ZERO_REALM_RESTRICTION_WITHOUT_INTERACTION.md",
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
@@ -1923,6 +1924,7 @@
       "risk_phrase_lines": [
         5,
         27,
+        50,
         52,
         55,
         58,
@@ -2003,8 +2005,8 @@
     },
     {
       "path": "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
-      "sha256": "6b4f6477a757b8d57cda377a8838c218b07f3a7dda80d3ddf79689da0003d053",
-      "bytes": 13468,
+      "sha256": "3ed22e21d149a42ded92bed2d2dbb5eb628060fe39fd2de1c8104acd848fa4ba",
+      "bytes": 13866,
       "lines": 73,
       "title": "Claude-time cross-field audit and three concrete controls",
       "headings": [
@@ -2022,6 +2024,7 @@
         "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "verification/claude_time_crossfield_controls_test.py",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md"
       ],
@@ -2035,6 +2038,36 @@
         31,
         60,
         73
+      ]
+    },
+    {
+      "path": "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+      "sha256": "1db775c3fc15442e0536b50e0a0552fcaf6c42835dcdeead3f801aa440088f4d",
+      "bytes": 11375,
+      "lines": 106,
+      "title": "Formalization recheck: errors, exact criteria and a constrained history",
+      "headings": [
+        "Formalization recheck: errors, exact criteria and a constrained history",
+        "Scope and method",
+        "1. Concrete corrections and limits",
+        "2. No-signalling and records: precise statement",
+        "3. Exact qubit criterion for dephasing–modular intertwining",
+        "4. One constrained finite history for record and erasure",
+        "5. Reproducibility and next step"
+      ],
+      "local_links": [
+        "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+        "verification/zero_intrinsic_identity_relational_gravity_test.py",
+        "verification/claude_time_formalization_rigor_test.py"
+      ],
+      "risk_phrase_lines": [
+        1,
+        12,
+        34,
+        56,
+        106
       ]
     },
     {
@@ -2075,8 +2108,8 @@
     },
     {
       "path": "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
-      "sha256": "c0f2b5244911bd0df1326055c9d748bd81ce3c0494d4288ff072874748565981",
-      "bytes": 11794,
+      "sha256": "25e1df3577b240d5e3ecdcbdc00ee5b40a1c6c8f9a7ab0b7484302ecd646d7f6",
+      "bytes": 12392,
       "lines": 56,
       "title": "QFT, circularity and experience: source audit and operational controls",
       "headings": [
@@ -2093,10 +2126,14 @@
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
-        "verification/claude_time_qft_experience_controls_test.py"
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "verification/claude_time_qft_experience_controls_test.py",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md"
       ],
       "risk_phrase_lines": [
         9,
+        42,
         56
       ]
     },
@@ -6229,9 +6266,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "8a19f3b43b1ebc5d863082eecb7772d9f472710ce9713fef095cde9c255c382a",
-      "bytes": 243594,
-      "lines": 1844,
+      "sha256": "cfd006e0a4992079c11cb873c9646e98c13dd37b41bdfdcc1ef4afd93c1ced18",
+      "bytes": 243872,
+      "lines": 1846,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6311,6 +6348,7 @@
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
@@ -7273,6 +7311,7 @@
         "verification/ciupa_zero_observer_paired_coherence_test.py",
         "verification/claude_time_analytical_target_crosswalk_test.py",
         "verification/claude_time_crossfield_controls_test.py",
+        "verification/claude_time_formalization_rigor_test.py",
         "verification/claude_time_foundations_audit_test.py",
         "verification/claude_time_modular_selection_audit_test.py",
         "verification/claude_time_qft_experience_controls_test.py",
@@ -8064,33 +8103,34 @@
         20,
         44,
         68,
-        87,
-        97,
-        181,
-        243,
-        292,
-        326,
-        356,
-        404,
-        408,
-        439,
-        508,
-        609,
-        629,
-        642,
-        740,
-        744,
-        771,
-        776,
-        788,
-        791,
-        817,
-        867,
-        904,
-        913,
-        916,
-        919,
-        993
+        81,
+        88,
+        98,
+        182,
+        244,
+        293,
+        327,
+        357,
+        405,
+        409,
+        440,
+        509,
+        610,
+        630,
+        643,
+        741,
+        745,
+        772,
+        777,
+        789,
+        792,
+        818,
+        868,
+        905,
+        914,
+        917,
+        920,
+        994
       ]
     },
     {
@@ -21184,8 +21224,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "69a4761da20775ccec1794777ca7745e4f46f3400c0c3e03ae10bda734bee123",
-      "bytes": 71033,
+      "sha256": "fd21a07b1752cc1c8b601f0f924706f1be44d5f41d5bd66565e1df8b9c9c37ac",
+      "bytes": 71290,
       "lines": 157,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
@@ -21199,6 +21239,7 @@
       "local_links": [
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
@@ -21342,6 +21383,7 @@
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
+        4,
         13,
         22,
         38,
