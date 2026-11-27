@@ -2,6 +2,8 @@
 
 **Continuation:** [the retained-clock instrument analysis](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) constructs an explicit normalized clock-neutral instrument on the enlarged physical space and demonstrates that the same clock-neutral effects can have different retained poststates. [Fiber transport](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) now derives the reduced-output convention below from that selected instrument after a fiber-dependent scalar-slice identification. Neither step identifies a unique physical realization or completes the R-relative clock switch.
 
+**Cursor-sign correction:** the underlying [cursor preparation](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) now uses `exp(−imvx)` for the stated evolution sign. The dependent error bound here applies to that corrected preparation, not the originally written opposite-moving packet. See [the sign control](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
+
 ## Result
 
 The preceding [cursor instrument](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) was formulated relative to a scalar clock φ. Here we add a **distinct physical quantum clock R** to that same instrument, extend the constraint explicitly, and compare the same memory outcome against its R reading. The R clock has a semibounded Hamiltonian and a finite-resolution covariant POVM; it is not a second name for φ.

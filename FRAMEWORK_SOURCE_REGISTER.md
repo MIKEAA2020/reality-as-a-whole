@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 842 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 819 verification Python scripts.
+- 843 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 820 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -611,6 +611,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md](ZERO_ALL_SECTOR_EXACT_RECORD_INVOLUTION.md) — An exact all-sector record involution: balanced incidences without exchanging unequal sectors
 - [ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md](ZERO_ALL_SECTOR_SPHERE_CLOCK_WORK_RECORD.md) — The full paired state: clock and work records without discarding a sector
 - [ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md](ZERO_AUTONOMOUS_BALANCED_REFERENCE_RELATIONAL_CLOCK.md) — Autonomous balanced-reference preparation with a relational clock
+- [ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md) — An autonomous readout of the clock-neutral event—and a cursor-sign correction
 - [ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md](ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md) — An autonomous zero-spin record cycle and its subject boundary
 - [ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md](ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md) — Autonomous geometry–pointer–memory dynamics in the constrained sphere model
 - [ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md](ZERO_AUTONOMOUS_TWO_GEOMETRY_WINDOW_RECORDS.md) — Two autonomous records in the constrained geometry–sphere model
@@ -1539,6 +1540,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_angular_covariant_access_test.py](verification/zero_angular_covariant_access_test.py)
 - [verification/zero_article_jet_dual_pair_test.py](verification/zero_article_jet_dual_pair_test.py)
 - [verification/zero_autonomous_balanced_reference_clock_test.py](verification/zero_autonomous_balanced_reference_clock_test.py)
+- [verification/zero_autonomous_clock_event_readout_test.py](verification/zero_autonomous_clock_event_readout_test.py)
 - [verification/zero_autonomous_clock_record_subject_test.py](verification/zero_autonomous_clock_record_subject_test.py)
 - [verification/zero_autonomous_geometry_pointer_memory_test.py](verification/zero_autonomous_geometry_pointer_memory_test.py)
 - [verification/zero_autonomous_two_window_records_test.py](verification/zero_autonomous_two_window_records_test.py)

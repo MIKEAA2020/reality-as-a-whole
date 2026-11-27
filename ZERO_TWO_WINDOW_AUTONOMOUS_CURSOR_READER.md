@@ -1,5 +1,7 @@
 # An autonomous cursor reads the transient support flag
 
+**Correction (pass 87):** the original carrier sign was inconsistent with the `exp(iHφ)` evolution and `p=−i∂x`: `exp(+imvx)` centered at `−vt₀` moves left, away from the reader. For the originally written preparation, the memory-click probability at T_ret is in fact bounded above by `7.773×10⁻¹¹`, even for Q inputs. The corrected preparation below uses `exp(−imvx)` and the comparator `−vp`, so the packet moves right. The finite-grid chiral calculations already assumed that direction; their numerical outputs are unchanged. The near-certain Q-record bound applies to this **corrected preparation**, not to the originally written one. See [the derivation and sign control](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
+
 **Continuation:** [the complete cursor instrument and backaction](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) constructs both outcome operations, bounds their full postmeasurement channel against a specified ideal P/Q measurement and quantifies its disturbance of coherent inputs. It does not establish a second-clock switch or physical locality.
 
 ## Result
@@ -63,7 +65,7 @@ The static profile f_b singles out a specified **relative cursor coordinate and 
 At `φ=0`, supply the factorized cursor state
 
 ```text
-ψ(x) = exp(imvx) ψ_a(x+v t₀),
+ψ(x) = exp(−imvx) ψ_a(x+v t₀),
 t₀=π/(2g),        a=10^−6,
 ψ_a(z) = √[315/(256a)] (1−(z/a)²)² for |z|≤a, else 0.
 ```
@@ -84,10 +86,10 @@ Each point in its initial support crosses the center at `t_c=t₀−z/v`, which 
 Conjugate by the prepared plane-wave phase. Apart from a common constant, the cursor kinetic operator becomes
 
 ```text
-v p + p²/(2m).
+−v p + p²/(2m).
 ```
 
-Compare it to the *mathematical* chiral cursor with operator `vp`, retaining **the same** Ω_h, gQS_y and position-dependent reader interaction. The chiral comparison has an unbounded-below generator; it is not the physical model or a positive constraint. It is used to bound the actual nonnegative quadratic kinetic-energy evolution.
+Compare it to the *mathematical* chiral cursor with operator `−vp`, retaining **the same** Ω_h, gQS_y and position-dependent reader interaction. The chiral comparison has an unbounded-below generator; it is not the physical model or a positive constraint. It is used to bound the actual nonnegative quadratic kinetic-energy evolution.
 
 For a fixed initial cursor coordinate z the chiral cursor translates exactly and sees `f_b(z−vt₀+vφ)`. Its internal evolution `U_z(φ)` includes the full Ω_h and both interactions. Dependence on z enters only through the smooth pulse, so Duhamel differentiation gives the uniform bounds
 

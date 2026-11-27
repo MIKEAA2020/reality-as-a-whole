@@ -1,6 +1,6 @@
 # Retaining the clock: a complete relational instrument and an ambiguity
 
-**Continuation:** [fiber transport and the lost record](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) now derives an exact connection between this particular enlarged instrument's retained dilation and the earlier scalar-smeared reduced map. The derivation requires a fiber-dependent identification before tracing the orbit environment and does not yet supply a physical R-relative frame switch.
+**Continuation:** [fiber transport and the lost record](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) now derives an exact connection between this particular enlarged instrument's retained dilation and the earlier scalar-smeared reduced map. The derivation requires a fiber-dependent identification before tracing the orbit environment and does not yet supply a physical R-relative frame switch. A later [autonomous readout model](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md) approximates the distinct L instrument defined below using a highly nonlocal event coupling, and corrects the original cursor carrier sign.
 
 ## Result
 

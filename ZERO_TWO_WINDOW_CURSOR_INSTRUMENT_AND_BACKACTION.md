@@ -2,6 +2,8 @@
 
 **Continuation:** [a second physical clock](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) adds a semibounded quantum reference and constructs a normalized clock-neutral effect for this same memory, plus a finite-resolution reduced-instrument comparison. It does not yet establish the transformation of all retained postmeasurement clock and cursor correlations.
 
+**Cursor-sign correction:** the carrier in the underlying [cursor construction](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) must be `exp(−imvx)` with its stated `exp(iHφ)` evolution; the old written sign sent the packet away from the reader. The bounds here apply to that corrected preparation. See [the sign check](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
+
 ## Result
 
 The [previous construction](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) gave an autonomous cursor that records whether the initial state lies in the selected P or Q sector. This pass promotes that readout to a **complete two-outcome quantum instrument**, including the conditional postmeasurement states of the original interacting system. It derives a uniform continuum comparison with a specified ideal P/Q projective instrument and checks the comparison on the existing finite-regulator system.
