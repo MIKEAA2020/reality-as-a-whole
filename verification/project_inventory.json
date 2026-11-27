@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 899,
-  "bytes": 11807862,
-  "line_count": 106958,
-  "document_count_with_risk_phrases": 851,
+  "document_count": 902,
+  "bytes": 11840790,
+  "line_count": 107144,
+  "document_count_with_risk_phrases": 854,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1844,10 +1844,58 @@
       ]
     },
     {
+      "path": "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+      "sha256": "632cc9ad006798f75806658d27252421c7e572d1fee52e45682b40adee7dee9f",
+      "bytes": 11814,
+      "lines": 79,
+      "title": "Claude-time original: 71-exchange coverage index",
+      "headings": [
+        "Claude-time original: 71-exchange coverage index"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
+        "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md"
+      ],
+      "risk_phrase_lines": [
+        14,
+        39,
+        72,
+        73
+      ]
+    },
+    {
+      "path": "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
+      "sha256": "ac1312e122e1fa2364ba058e2e91d8700c52b9aa5d3a995b2eccf0e9e1bdfa77",
+      "bytes": 6051,
+      "lines": 25,
+      "title": "Claude-time chat: initial article-provenance audit",
+      "headings": [
+        "Claude-time chat: initial article-provenance audit",
+        "A no-adjoint theorem is not automatically a no-clock theorem",
+        "Two papers were conflated, followed by a correction",
+        "A misleading URL is not provenance",
+        "Next provenance work"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md"
+      ],
+      "risk_phrase_lines": [
+        3,
+        7,
+        9,
+        11
+      ]
+    },
+    {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "sha256": "dfbe5cd63df5ec75b3dee5f73d2c1cac54014a88a955cc6b713e35e1529fef75",
-      "bytes": 15849,
-      "lines": 117,
+      "sha256": "ae78d1fa6f9fd28cda8e43150957cd90233bd623ddc067365ee68c9cd5df7159",
+      "bytes": 16251,
+      "lines": 119,
       "title": "Claude-time critique: analytical targets, coverage and repairs",
       "headings": [
         "Claude-time critique: analytical targets, coverage and repairs",
@@ -1861,6 +1909,7 @@
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "verification/claude_time_analytical_target_crosswalk_test.py"
       ],
       "risk_phrase_lines": [
@@ -1869,7 +1918,42 @@
         51,
         53,
         71,
-        96
+        73,
+        98
+      ]
+    },
+    {
+      "path": "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+      "sha256": "7da4cf5f86e80a501facb2301ffff04747f808aa491bdbd12c5826e61cf809f3",
+      "bytes": 13898,
+      "lines": 75,
+      "title": "Claude-time chat: audit of modular state selection and a constructive correction",
+      "headings": [
+        "Claude-time chat: audit of modular state selection and a constructive correction",
+        "Scope and source tracking",
+        "1. Steelman: what the user was asking for",
+        "2. Audit of the source's load-bearing claims",
+        "3. Implementation: the three selection conditions do not automatically select a state",
+        "4. Two exact mathematical corrections",
+        "5. Remaining coverage"
+      ],
+      "local_links": [
+        "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "verification/claude_time_modular_selection_audit_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        16,
+        20,
+        22,
+        23,
+        25,
+        29,
+        51
       ]
     },
     {
@@ -5934,9 +6018,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6c57d98517a9d7c5a3030b68cac1725459f2ff173e9641067a83f0fa096f7b03",
-      "bytes": 241772,
-      "lines": 1831,
+      "sha256": "f204a3b1af6694690b1320f8d996f6d5a80ff7df6d2b9f4b718f7bfd285cf9cd",
+      "bytes": 242432,
+      "lines": 1836,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6011,7 +6095,10 @@
         "CICUREL_BRAIN_CENTRIC_BOOK_AUDIT.md",
         "CIUPA_ZERO_POTENTIAL_OBSERVER_ALL_SECTOR_AUDIT.md",
         "CLASSICAL_TICK_READOUT.md",
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLOCK_CHOICE_EQUIVALENCE.md",
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "CLOSURE_SYNTHESIS.md",
@@ -6952,6 +7039,7 @@
         "verification/bowling_pairwise_transfer_audit.py",
         "verification/brain_centric_blockworld_gates.py",
         "verification/bryan_medved_relational_time_claims_test.py",
+        "verification/build_claude_time_audit_index.py",
         "verification/build_framework_inventory.py",
         "verification/build_source_repass_tracker.py",
         "verification/cardiac_feedback_pain_predictions.py",
@@ -6968,6 +7056,7 @@
         "verification/cie_metamer_experiential_gate.py",
         "verification/ciupa_zero_observer_paired_coherence_test.py",
         "verification/claude_time_analytical_target_crosswalk_test.py",
+        "verification/claude_time_modular_selection_audit_test.py",
         "verification/clock_choice.py",
         "verification/clock_smearing_modular_comparison.py",
         "verification/clock_smearing_modular_comparison_test.py",
@@ -7756,33 +7845,33 @@
         20,
         44,
         68,
-        79,
-        89,
-        173,
-        235,
-        284,
-        318,
-        348,
-        396,
-        400,
-        431,
-        500,
-        601,
-        621,
-        634,
-        732,
-        736,
-        763,
-        768,
-        780,
+        82,
+        92,
+        176,
+        238,
+        287,
+        321,
+        351,
+        399,
+        403,
+        434,
+        503,
+        604,
+        624,
+        637,
+        735,
+        739,
+        766,
+        771,
         783,
-        809,
-        859,
-        896,
-        905,
+        786,
+        812,
+        862,
+        899,
         908,
         911,
-        985
+        914,
+        988
       ]
     },
     {
@@ -10460,8 +10549,8 @@
     },
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
-      "sha256": "92ab0d900abf08fcc02b5f32b589c090553cfbcae261d17f3ed0a2d43d868c4c",
-      "bytes": 6148,
+      "sha256": "23c5ee849c01cc266f2da6038c0511647dfce4318d6e40da0c075c53a8274513",
+      "bytes": 6251,
       "lines": 25,
       "title": "Source correction: the DeepSeek Claude-time critique",
       "headings": [
@@ -10475,6 +10564,9 @@
         "sources/uploads/DeepSeek_Chess-move-number-time_20261127-0610.txt",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
+        "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
+        "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md"

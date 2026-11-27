@@ -18,7 +18,7 @@ Line numbers refer to the preserved original; user and assistant claims are not 
 
 ## Consequence for current research
 
-The focused [analytical target crosswalk](CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md) now maps the original's four named problems and A1–A8 / G1–G5 / P1–P3 leads against the actual F1–F9 frontier. It explicitly repairs previously under-formulated Einstein-from-entanglement and modular-state-selection targets and distinguishes the source's unsupported implications from usable research questions. This remains a focused audit, not a complete reading of the 1 MB transcript.
+The focused [analytical target crosswalk](CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md) maps the original's four named problems and A1–A8 / G1–G5 / P1–P3 leads against the actual F1–F9 frontier. The subsequent [71-exchange index](CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md), [modular-selection audit and finite construction](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md), and [article-provenance audit](CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md) extend coverage and identify additional errors. These remain selected-claim audits, **not** a complete line-by-line audit of the 1 MB transcript.
 
 The finite analytical result in [the modular-to-Schrödinger gate](LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md) is directly relevant to that request: an explicit Gibbs reference and a noncommuting perturbation give a cocycle generator and controlled finite-time estimate. It still imports the Hamiltonian, calibration and state; no physical semiclassical limit is derived. The existing [relational](RELATIONAL_MODULAR_CLOCK.md) and [regulated FRW](FRW_MODULAR_CLOCK.md) examples add clock conditioning and a gravity-derived starting point, but do not remove that gap.
 

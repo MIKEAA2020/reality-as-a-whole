@@ -68,6 +68,8 @@ Determine the quotient
 
     {ω∈S : P_geom ∧ P_boundary ∧ P_decoh} / G_phys.
 
+A subsequent [focused selection audit](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md) explicitly constructs a finite family where analogues of all three criteria hold but the quotient contains distinct orbits, and proves the source's `−log Δ ≥ 0` criterion cannot hold nontrivially for a faithful type III state. This is a scoped control, not a general no-go for a stronger gravitational selection law.
+
 Prove it is empty (inconsistent proposal), a single physical orbit (conditional selection), or contains distinct orbits, in which case exhibit an observable and state pair distinguishing them or specify a justified nonunique selection law. Demonstrate stability under regulator/semiclassical changes. The three predicates may be jointly satisfiable; neither that fact nor a unique state is automatic. A state can be physically equivalent under a correctly transported transformation without having identical coordinate descriptions; the comparison must include the observables and records.
 
 ### M5 — Locality and the area law as separate tasks
