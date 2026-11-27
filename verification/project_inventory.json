@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 890,
-  "bytes": 11668261,
-  "line_count": 105813,
-  "document_count_with_risk_phrases": 842,
+  "document_count": 891,
+  "bytes": 11685173,
+  "line_count": 105978,
+  "document_count_with_risk_phrases": 843,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "db126d298e07e03d57c83b951b2cb5cc9e7024d32e1b9124cea9ae2f361115cf",
-      "bytes": 238996,
-      "lines": 1812,
+      "sha256": "e71b8b91423f9305647abe77b2b49714fe8760d693e1202387d15326cb43b272",
+      "bytes": 239283,
+      "lines": 1814,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6158,6 +6158,7 @@
         "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+        "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -7093,6 +7094,7 @@
         "verification/lewtas_conservation_subject_gate_test.py",
         "verification/lewtas_fusion_nested_observation_gate.py",
         "verification/lewtas_fusion_nested_observation_gate_test.py",
+        "verification/lighthouse_jt_rolling_clock_gate_test.py",
         "verification/lighthouse_trace_time_check.py",
         "verification/lighthouse_trace_time_check_test.py",
         "verification/lighthouse_zero_energy_internal_clock_test.py",
@@ -7685,28 +7687,29 @@
         87,
         171,
         233,
-        310,
-        340,
-        388,
-        391,
-        422,
-        491,
-        592,
-        612,
-        625,
-        723,
-        727,
-        754,
-        759,
-        771,
-        774,
-        800,
-        850,
-        887,
-        896,
-        899,
-        902,
-        974
+        279,
+        311,
+        341,
+        389,
+        392,
+        423,
+        492,
+        593,
+        613,
+        626,
+        724,
+        728,
+        755,
+        760,
+        772,
+        775,
+        801,
+        851,
+        888,
+        897,
+        900,
+        903,
+        975
       ]
     },
     {
@@ -10383,10 +10386,40 @@
       ]
     },
     {
+      "path": "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
+      "sha256": "9e904a2f18ef9878f428f21796a60c900a7e5e5cdb97a5e50c0dd20edf2d6b83",
+      "bytes": 15294,
+      "lines": 160,
+      "title": "Lighthouse WP0: a closed-Milne scalar-clock admissibility gate",
+      "headings": [
+        "Lighthouse WP0: a closed-Milne scalar-clock admissibility gate",
+        "Result and scope",
+        "1. Primary source and the exact sign conflict",
+        "2. Homogeneous matter and the corrected constraint",
+        "3. A clock reading is not automatically a covariant time",
+        "4. Explicit group averaging in a truncated model",
+        "5. The zero mode and thermal-state gate",
+        "6. Decision and next gate"
+      ],
+      "local_links": [
+        "verification/lighthouse_jt_rolling_clock_gate_test.py",
+        "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md"
+      ],
+      "risk_phrase_lines": [
+        1,
+        9,
+        13,
+        15,
+        42,
+        48,
+        95
+      ]
+    },
+    {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
-      "sha256": "affa03419f564a1d4621c36de526c6f0097e7d03be27fbdd400ed1a64ab3156d",
-      "bytes": 9471,
-      "lines": 37,
+      "sha256": "f0bf0ad42c8c8195d20faefec206a922e3ea7e280b651c75bc1a3a2bfcb6b1b0",
+      "bytes": 9965,
+      "lines": 39,
       "title": "Lighthouse v2.2: research-plan follow-through",
       "headings": [
         "Lighthouse v2.2: research-plan follow-through",
@@ -10405,7 +10438,8 @@
         "CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md",
         "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md",
-        "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md"
+        "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+        "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md"
       ],
       "risk_phrase_lines": [
         5,
@@ -10413,9 +10447,9 @@
         14,
         24,
         26,
-        32,
         34,
-        37
+        36,
+        39
       ]
     },
     {
@@ -13612,8 +13646,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "ac0635e10c186fce00be4aaf285d2338915472e93318e250d592c9b226ddfe6d",
-      "bytes": 18191,
+      "sha256": "f4046265968a382b9bdf87b31535e2ba9d4b29c8811d63dc9ef355790010eb6b",
+      "bytes": 18463,
       "lines": 138,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13628,6 +13662,7 @@
       ],
       "local_links": [
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
+        "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
@@ -20555,9 +20590,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "26c7910ff8927f4fe615980b0c591a5cffa47eac84cc63fe6f4e69051257ac61",
-      "bytes": 64235,
-      "lines": 142,
+      "sha256": "232675cb3af3a79450a821f2ac36759d4e12d3c1e71ffe12c9ca645a1efb0343",
+      "bytes": 64800,
+      "lines": 143,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20695,6 +20730,7 @@
         "verification/zero_clock_probe_poststate_obstruction_test.py",
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md",
         "verification/zero_same_probe_clock_representation_test.py",
+        "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20738,7 +20774,7 @@
         112,
         117,
         118,
-        131
+        132
       ]
     },
     {
