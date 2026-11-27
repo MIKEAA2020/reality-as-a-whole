@@ -27,6 +27,8 @@ The [fixed-subregion CFT clock gate](https://github.com/MIKEAA2020/zero-residue-
 
 ## Course correction and next calculation
 
+**Analytical WP5 runs in parallel:** [the modular-to-Schrödinger analytical gate](LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md) records the existing exact relational and regulated FRW correspondences, proves a finite noncommuting cocycle/perturbation bound, and identifies the invariant-subalgebra and crossed-product domain gates. This controlled finite perturbation is not a semiclassical gravitational limit. Detector constructions are not a prerequisite for pursuing WP5; they answer additional operational questions unless the analytical theorem itself covers them.
+
 **First follow-through:** [the JT rolling-scalar admissibility gate](LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md) finds a sign conflict in the primary source's displayed canonical equations and a position-versus-time-POVM distinction in the related rolling-clock note. It supplies a positive group-averaged packet for a deliberately truncated model, but leaves the source's CFT/KMS, full constraints and dressed-algebra gates open. Follow its corrected conventions and stop conditions.
 
 The recent operational sequence was useful but has concentrated on WP1-like instruments while leaving WP0—the plan's explicit first priority—unpaid. The next research pass should **not** automatically add another variation of the cursor toy. Instead:

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 894,
-  "bytes": 11731461,
-  "line_count": 106488,
-  "document_count_with_risk_phrases": 846,
+  "document_count": 895,
+  "bytes": 11743364,
+  "line_count": 106558,
+  "document_count_with_risk_phrases": 847,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "ce15162557f6e2de30e178ec29006cbaf30466e1e3b495cf273f890cb80216ad",
-      "bytes": 240195,
-      "lines": 1820,
+      "sha256": "3d7d92a99a9007c0088770e95b6374648d628118171032bc9956005ddb25a72a",
+      "bytes": 240477,
+      "lines": 1822,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6162,6 +6162,7 @@
         "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
         "LINEARIZED_LOCAL_GRAVITY_RECORDS.md",
@@ -7101,6 +7102,7 @@
         "verification/lighthouse_jt_clock_state_comparison_test.py",
         "verification/lighthouse_jt_common_event_frame_switch_test.py",
         "verification/lighthouse_jt_rolling_clock_gate_test.py",
+        "verification/lighthouse_modular_schrodinger_gate_test.py",
         "verification/lighthouse_trace_time_check.py",
         "verification/lighthouse_trace_time_check_test.py",
         "verification/lighthouse_zero_energy_internal_clock_test.py",
@@ -7694,28 +7696,28 @@
         171,
         233,
         281,
-        314,
-        344,
-        392,
-        395,
-        426,
-        495,
-        596,
-        616,
-        629,
-        727,
-        731,
-        758,
-        763,
-        775,
-        778,
-        804,
-        854,
-        891,
-        900,
-        903,
-        906,
-        978
+        315,
+        345,
+        393,
+        396,
+        427,
+        496,
+        597,
+        617,
+        630,
+        728,
+        732,
+        759,
+        764,
+        776,
+        779,
+        805,
+        855,
+        892,
+        901,
+        904,
+        907,
+        979
       ]
     },
     {
@@ -10515,10 +10517,40 @@
       ]
     },
     {
+      "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
+      "sha256": "ce0c94e561ddb8ded39bf5e45e4ce8573a00d200015f683d5b4c9cfd1d85e78f",
+      "bytes": 10015,
+      "lines": 63,
+      "title": "Modular flow to Schrödinger dynamics: an analytical gate",
+      "headings": [
+        "Modular flow to Schrödinger dynamics: an analytical gate",
+        "Why this is a priority",
+        "1. Exact correspondence, with conventions and physical inputs visible",
+        "2. Controlled noncommuting perturbation and cocycle",
+        "3. A restriction is not automatically a subsystem flow",
+        "4. What a genuine semiclassical WP5 result would require",
+        "5. Coverage, chess and the requested conversations"
+      ],
+      "local_links": [
+        "RELATIONAL_MODULAR_CLOCK.md",
+        "FRW_MODULAR_CLOCK.md",
+        "MODULAR_CLOCK_SELECTION.md",
+        "verification/lighthouse_modular_schrodinger_gate_test.py"
+      ],
+      "risk_phrase_lines": [
+        7,
+        9,
+        19,
+        33,
+        45,
+        59
+      ]
+    },
+    {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
-      "sha256": "f0bf0ad42c8c8195d20faefec206a922e3ea7e280b651c75bc1a3a2bfcb6b1b0",
-      "bytes": 9965,
-      "lines": 39,
+      "sha256": "79ea411e9bd8f97f1163af62866bf2ffbc6174a881f811ae8a05b7f8e0dc1cee",
+      "bytes": 10541,
+      "lines": 41,
       "title": "Lighthouse v2.2: research-plan follow-through",
       "headings": [
         "Lighthouse v2.2: research-plan follow-through",
@@ -10538,6 +10570,7 @@
         "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md",
         "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md"
       ],
       "risk_phrase_lines": [
@@ -10546,9 +10579,10 @@
         14,
         24,
         26,
-        34,
+        30,
         36,
-        39
+        38,
+        41
       ]
     },
     {
@@ -13745,9 +13779,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "e4c560e7c898fcf03883eaaea58886e1106bef2695d190bbdd6d5d83db0c404d",
-      "bytes": 19481,
-      "lines": 138,
+      "sha256": "be0fa86d7357b77ec95a998e3ad5389c70154e1d552b8d4084e520fc3a2123db",
+      "bytes": 19931,
+      "lines": 140,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
         "Problem of time: divide-and-conquer work plan",
@@ -13771,6 +13805,7 @@
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
@@ -13793,11 +13828,11 @@
         9,
         11,
         15,
-        50,
-        56,
-        78,
-        92,
-        94
+        52,
+        58,
+        80,
+        94,
+        96
       ]
     },
     {
@@ -20692,9 +20727,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "2ca1682e9d73b4988fe4ac6be210d3c259e4fd94cd05d85785fb1b32d1019d5a",
-      "bytes": 66431,
-      "lines": 146,
+      "sha256": "31960e2de0f86ea57c89da8c855c82c48bd8211c38d4669d321f19141de9217c",
+      "bytes": 67011,
+      "lines": 147,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20836,6 +20871,7 @@
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
         "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20880,7 +20916,7 @@
         117,
         118,
         121,
-        135
+        136
       ]
     },
     {

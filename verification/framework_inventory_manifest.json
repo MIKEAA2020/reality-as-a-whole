@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "da63f6a78ffc23973354f7057a4eda72577ed6c6",
-  "file_count": 2471,
+  "base_head": "6d00765871b3949f19b7a363f874f2cbe29fe77e",
+  "file_count": 2473,
   "files": [
     {
       "path": ".gitattributes",
@@ -890,8 +890,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 240195,
-      "sha256": "ce15162557f6e2de30e178ec29006cbaf30466e1e3b495cf273f890cb80216ad"
+      "bytes": 240477,
+      "sha256": "3d7d92a99a9007c0088770e95b6374648d628118171032bc9956005ddb25a72a"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1359,9 +1359,14 @@
       "sha256": "71305871dfd79d74509179121543dd0d84721cb50a87aa969a1478b70650841d"
     },
     {
+      "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
+      "bytes": 10015,
+      "sha256": "ce0c94e561ddb8ded39bf5e45e4ce8573a00d200015f683d5b4c9cfd1d85e78f"
+    },
+    {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
-      "bytes": 9965,
-      "sha256": "f0bf0ad42c8c8195d20faefec206a922e3ea7e280b651c75bc1a3a2bfcb6b1b0"
+      "bytes": 10541,
+      "sha256": "79ea411e9bd8f97f1163af62866bf2ffbc6174a881f811ae8a05b7f8e0dc1cee"
     },
     {
       "path": "LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md",
@@ -1910,8 +1915,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "bytes": 19481,
-      "sha256": "e4c560e7c898fcf03883eaaea58886e1106bef2695d190bbdd6d5d83db0c404d"
+      "bytes": 19931,
+      "sha256": "be0fa86d7357b77ec95a998e3ad5389c70154e1d552b8d4084e520fc3a2123db"
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
@@ -2985,8 +2990,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 66431,
-      "sha256": "2ca1682e9d73b4988fe4ac6be210d3c259e4fd94cd05d85785fb1b32d1019d5a"
+      "bytes": 67011,
+      "sha256": "31960e2de0f86ea57c89da8c855c82c48bd8211c38d4669d321f19141de9217c"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -8014,6 +8019,11 @@
       "sha256": "ad55f1c0a845798fe8710a6ebe9c8306a210d4c156f5fe8d509d169af63bcfdb"
     },
     {
+      "path": "verification/lighthouse_modular_schrodinger_gate_test.py",
+      "bytes": 3366,
+      "sha256": "1b2aa3a8c7bd6eab861a73d114a3209107ca9d5d8325cd958b5a0d54a94d9dc6"
+    },
+    {
       "path": "verification/lighthouse_trace_time_check.json",
       "bytes": 718,
       "sha256": "f57d5db4d6d2f1989d6b6078b57cfad0867780b0b2af879a377d0831dda5479e"
@@ -8885,8 +8895,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1160439,
-      "sha256": "981740e4a50facacd38547b3f83429ab35da8b2a4df19a153d316928a72be46a"
+      "bytes": 1161820,
+      "sha256": "cb55f0a91a39c6847f0f58666a2e9c847e6a22645ca40d9874a4248924a3aae0"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10060,8 +10070,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 558134,
-      "sha256": "a1b8b68df5d758627af87e342bc368c6410196914f7f31ae25a4edefe470a9c4"
+      "bytes": 558678,
+      "sha256": "f8c7675a5cc76e0df7791c449288d7ed1489bfed2cbffae8768785b43891484c"
     },
     {
       "path": "verification/source_repass_tracker_test.py",

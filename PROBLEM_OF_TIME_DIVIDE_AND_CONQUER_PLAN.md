@@ -16,6 +16,8 @@ Work in small passes, but keep one dependency graph. Each pass must produce a th
 
 ## Dependency graph
 
+This graph describes the operational-clock branch, **not** mandatory prerequisites for every analytical time derivation. Pursue WP5 independently and in parallel: [modular-to-Schrödinger analytical gate](LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md). Its finite cocycle estimate is a control, while a calibrated semiclassical crossed-product result remains open. Later integrate whichever operational tests the physical claims actually require.
+
 ```text
 0: freeze one physical question and baseline
           │
