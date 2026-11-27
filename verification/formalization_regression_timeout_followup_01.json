@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules, individually rerun at 45 seconds; execution only, not semantic audit. Original and follow-up file SHA-256 hashes matched.",
+  "followups": [
+    {
+      "pattern": "zero_typed_echo_process_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_typed_echo_process_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_typed_echo_process_test.py",
+          "sha256": "46da012bc0a80b7c3d5d41d85cd77500a02042fba9ab564551334c83756f483e",
+          "status": "passed",
+          "tests_run": 12,
+          "exit_code": 0,
+          "seconds": 35.315,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 12 tests in 35.083s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 8
+    },
+    {
+      "pattern": "zero_relational_laplacian_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_relational_laplacian_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_relational_laplacian_test.py",
+          "sha256": "c7e42f0de71d504d465acb2179f1c4929422106adf73410ca4aad78e95fdd1fb",
+          "status": "timeout",
+          "tests_run": null,
+          "exit_code": null,
+          "seconds": 45.06,
+          "output_tail": "\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 5
+    },
+    {
+      "pattern": "zero_sphere_local_constitution_echo_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_sphere_local_constitution_echo_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_sphere_local_constitution_echo_test.py",
+          "sha256": "2169f22657b00f9aec507b481be48e4546317735c0b948bb4a65f841d7283301",
+          "status": "passed",
+          "tests_run": 7,
+          "exit_code": 0,
+          "seconds": 20.188,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 19.966s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 6
+    }
+  ]
+}

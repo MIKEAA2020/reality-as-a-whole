@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 917,
-  "bytes": 12018778,
-  "line_count": 108398,
-  "document_count_with_risk_phrases": 869,
+  "document_count": 918,
+  "bytes": 12030360,
+  "line_count": 108541,
+  "document_count_with_risk_phrases": 870,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "dc2d508b4e56886697712d24b4c75dc3156a08a652287628a78c662b5b27e583",
-      "bytes": 14684,
-      "lines": 65,
+      "sha256": "e430403a51f3ffa521ad25cd5e8b22bba9d612914b5b2937390dfeb0df063808",
+      "bytes": 16431,
+      "lines": 71,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5866,6 +5866,7 @@
         "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
         "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+        "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5874,6 +5875,8 @@
         "verification/formalization_regression_batch_05.json",
         "verification/formalization_regression_batch_06.json",
         "verification/formalization_regression_batch_07.json",
+        "verification/formalization_regression_batch_08.json",
+        "verification/formalization_regression_timeout_followup_01.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -22171,9 +22174,9 @@
     },
     {
       "path": "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
-      "sha256": "b95aae8c789f4841f760ec3836a21c0d3b2ae6dd70beef704863436d1d2d1fe4",
-      "bytes": 12473,
-      "lines": 133,
+      "sha256": "1870bc364198c30fd30ef398757c185d29fae1441e66c716903a23f8a1342a2c",
+      "bytes": 12945,
+      "lines": 135,
       "title": "Transporting the retained clock instrument: what is exact and what is lost",
       "headings": [
         "Transporting the retained clock instrument: what is exact and what is lost",
@@ -22186,6 +22189,7 @@
         "6. Verification and scope"
       ],
       "local_links": [
+        "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
         "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
@@ -22193,18 +22197,48 @@
       ],
       "risk_phrase_lines": [
         1,
-        5,
         7,
         9,
-        13,
-        31,
-        45,
-        51,
-        80,
-        86,
-        100,
-        117,
-        119
+        11,
+        15,
+        33,
+        47,
+        53,
+        82,
+        88,
+        102,
+        119,
+        121
+      ]
+    },
+    {
+      "path": "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
+      "sha256": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+      "bytes": 9363,
+      "lines": 135,
+      "title": "Clock-preparation and correlation robustness",
+      "headings": [
+        "Clock-preparation and correlation robustness",
+        "Result and scope",
+        "1. Rechecking the fiber and correlated-input identity",
+        "2. Independent imperfect clock: a channel-level bound",
+        "3. Correlated inputs: joint-distance and pure-marginal bounds",
+        "4. Explicit covariant finite-clock counterexamples",
+        "5. Verification and remaining work"
+      ],
+      "local_links": [
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
+        "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+        "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+        "verification/zero_clock_preparation_robustness_test.py",
+        "verification/zero_clock_preparation_robustness_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        32,
+        39,
+        110,
+        129
       ]
     },
     {

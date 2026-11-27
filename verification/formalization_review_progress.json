@@ -3,7 +3,7 @@
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
     "not_rechecked_in_this_sweep": 1952,
-    "selected_claims_reviewed": 20
+    "selected_claims_reviewed": 22
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "dc2d508b4e56886697712d24b4c75dc3156a08a652287628a78c662b5b27e583",
+      "sha256": "e430403a51f3ffa521ad25cd5e8b22bba9d612914b5b2937390dfeb0df063808",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -3793,9 +3793,43 @@
     },
     {
       "path": "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
-      "sha256": "b95aae8c789f4841f760ec3836a21c0d3b2ae6dd70beef704863436d1d2d1fe4",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "1870bc364198c30fd30ef398757c185d29fae1441e66c716903a23f8a1342a2c",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: direct-integral unitary intertwining, correlated-input operator formula and independent-clock reduction. Physical implementability, retained-clock frame switch and full lost-coherence argument not independently established here.",
+        "evidence": [
+          "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
+          "verification/zero_clock_preparation_robustness_test.py",
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+          "verification/zero_two_window_clock_fiber_transport_test.py"
+        ],
+        "reviewed_sha256": "1870bc364198c30fd30ef398757c185d29fae1441e66c716903a23f8a1342a2c",
+        "evidence_sha256": {
+          "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+          "verification/zero_clock_preparation_robustness_test.py": "4322b73a139d9f3fcf328e074d2dd3b261277cc3a705edacad3a56ab724dfc86",
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+          "verification/zero_two_window_clock_fiber_transport_test.py": "d2211d8af88b17eb73c91f91a905ab7e224c6fb67ece140e9b2c2323152891a0"
+        }
+      }
+    },
+    {
+      "path": "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
+      "sha256": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: orbit-instrument/fiber identities, trace-distance stability for independent and correlated clocks, pure-marginal correlation bounds, and finite covariant square-root counterexample.",
+        "evidence": [
+          "verification/zero_clock_preparation_robustness_test.py",
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+          "verification/zero_two_window_clock_fiber_transport_test.py"
+        ],
+        "reviewed_sha256": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+        "evidence_sha256": {
+          "verification/zero_clock_preparation_robustness_test.py": "4322b73a139d9f3fcf328e074d2dd3b261277cc3a705edacad3a56ab724dfc86",
+          "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+          "verification/zero_two_window_clock_fiber_transport_test.py": "d2211d8af88b17eb73c91f91a905ab7e224c6fb67ece140e9b2c2323152891a0"
+        }
+      }
     },
     {
       "path": "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
@@ -10455,6 +10489,12 @@
     {
       "path": "verification/zero_clock_finite_reservoir_reuse_test.py",
       "sha256": "b2081d5c4fa10e7fc8f4dd2f9400badd8992143326994fd3dcbdba581fe97aca",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_clock_preparation_robustness_test.py",
+      "sha256": "4322b73a139d9f3fcf328e074d2dd3b261277cc3a705edacad3a56ab724dfc86",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

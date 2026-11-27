@@ -252,5 +252,35 @@
       "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
       "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b"
     }
+  },
+  "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md": {
+    "reviewed_sha256": "1870bc364198c30fd30ef398757c185d29fae1441e66c716903a23f8a1342a2c",
+    "scope": "Selected: direct-integral unitary intertwining, correlated-input operator formula and independent-clock reduction. Physical implementability, retained-clock frame switch and full lost-coherence argument not independently established here.",
+    "evidence": [
+      "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
+      "verification/zero_clock_preparation_robustness_test.py",
+      "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+      "verification/zero_two_window_clock_fiber_transport_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+      "verification/zero_clock_preparation_robustness_test.py": "4322b73a139d9f3fcf328e074d2dd3b261277cc3a705edacad3a56ab724dfc86",
+      "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+      "verification/zero_two_window_clock_fiber_transport_test.py": "d2211d8af88b17eb73c91f91a905ab7e224c6fb67ece140e9b2c2323152891a0"
+    }
+  },
+  "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md": {
+    "reviewed_sha256": "de1b4da1f771d7b58948d010b658703fc051154409eec539075d6cb8d510309a",
+    "scope": "Selected: orbit-instrument/fiber identities, trace-distance stability for independent and correlated clocks, pure-marginal correlation bounds, and finite covariant square-root counterexample.",
+    "evidence": [
+      "verification/zero_clock_preparation_robustness_test.py",
+      "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
+      "verification/zero_two_window_clock_fiber_transport_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_clock_preparation_robustness_test.py": "4322b73a139d9f3fcf328e074d2dd3b261277cc3a705edacad3a56ab724dfc86",
+      "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
+      "verification/zero_two_window_clock_fiber_transport_test.py": "d2211d8af88b17eb73c91f91a905ab7e224c6fb67ece140e9b2c2323152891a0"
+    }
   }
 }

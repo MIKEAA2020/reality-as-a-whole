@@ -1,5 +1,7 @@
 # Transporting the retained clock instrument: what is exact and what is lost
 
+**Later robustness recheck:** [clock preparation and correlation](ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md) checks the selected direct-integral transport and correlated-input formula, gives trace-distance perturbation bounds for the stated reduction, and exhibits a covariant finite-clock counterexample to a linear bound based only on clock marginal closeness. It does not promote the orbit label to an operational clock or prove a physical frame switch.
+
 ## Result
 
 The [previous pass](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) defined a particular clock-neutral instrument for the **same** two-window cursor-memory model, but did not identify its connection to the earlier scalar-time reduced instrument. We now derive that connection exactly.
