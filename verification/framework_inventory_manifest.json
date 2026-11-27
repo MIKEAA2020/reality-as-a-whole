@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "92230ed629e19754d8e87b75d8331b0703d3067d",
-  "file_count": 2491,
+  "base_head": "bfc6dbbb4c60d4bc1b42b665d8a3ea1182c82d65",
+  "file_count": 2495,
   "files": [
     {
       "path": ".gitattributes",
@@ -315,13 +315,13 @@
     },
     {
       "path": "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
-      "bytes": 11967,
-      "sha256": "9aa66e6be1078a489855531b1a29f50679a268e82abc310f8146e3415d4df9fd"
+      "bytes": 12213,
+      "sha256": "cfbbc1d134bc34f6b49064fcdf230e872fd465890a29c42f713c68acb040c087"
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "bytes": 15942,
-      "sha256": "06f007bfba59b21473122e0f99ec439977d3b683c8aa55e5567e03f9756d87a9"
+      "bytes": 19242,
+      "sha256": "e7cda3807758751cac64c766e0810df70127319096b3f956d9b5e25654dcb51f"
     },
     {
       "path": "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
@@ -330,13 +330,23 @@
     },
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "bytes": 16901,
-      "sha256": "aa4c28c891d36389a5adc230e3adf478eb69ef9b405d8796ec52a9768ec2979a"
+      "bytes": 17359,
+      "sha256": "755b31c2942d08b994837e7715e778c5a47a5e69e2032d289e5d7f97ada7cff9"
+    },
+    {
+      "path": "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
+      "bytes": 12868,
+      "sha256": "f5227cbe07c9c10b48db48fd88ec8e7b4609280d295b65ee53477167b4e94da7"
     },
     {
       "path": "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
       "bytes": 13898,
       "sha256": "7da4cf5f86e80a501facb2301ffff04747f808aa491bdbd12c5826e61cf809f3"
+    },
+    {
+      "path": "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+      "bytes": 11027,
+      "sha256": "8e49aaae1392c565bff43f3af33b4bae50b4086155c55fce879ef24d27e66ba4"
     },
     {
       "path": "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
@@ -925,8 +935,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 242879,
-      "sha256": "1a358e18d4e6c891f474ca60473a9ff738db3ae19a535f4e09008f71e4cf757c"
+      "bytes": 243436,
+      "sha256": "f1950ee586742cb9b59393bb3c25393aee7e775c1cf7defc18e9d4716164bf28"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3035,8 +3045,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 69487,
-      "sha256": "a4ea1da7ed95fe611608859bbd001ed93075e966a6b03ce1b9fefcbd10ed0efd"
+      "bytes": 69945,
+      "sha256": "8397d65234b33c0f1797126060662b16920ff9da32cf47e6796f65aed5dc58d6"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -6305,8 +6315,8 @@
     },
     {
       "path": "verification/build_claude_time_audit_index.py",
-      "bytes": 3160,
-      "sha256": "999148a7a3eb6ff42899dd797fc2fcdc0507432ea54297aefee904143fb4fe5f"
+      "bytes": 3326,
+      "sha256": "fd47706b27a45dfc1939105770b801cd6cbcbe85f1a8bf25834f627c54f0338b"
     },
     {
       "path": "verification/build_framework_inventory.py",
@@ -6424,6 +6434,11 @@
       "sha256": "c87b04dc53e1d6d3593ef27aa93c003ec8c90f630001508f10ffa57077e12649"
     },
     {
+      "path": "verification/claude_time_crossfield_controls_test.py",
+      "bytes": 2593,
+      "sha256": "5c2eeb63acbc220a79324f777dcc8a9b31246fdd878644052523f99f6dd848bd"
+    },
+    {
       "path": "verification/claude_time_foundations_audit_test.py",
       "bytes": 4709,
       "sha256": "acb13c0431619431c9a654677924835079904a474bd84977c8c49096353ea5c4"
@@ -6432,6 +6447,11 @@
       "path": "verification/claude_time_modular_selection_audit_test.py",
       "bytes": 3933,
       "sha256": "15cbe2b0fbe84103cacf59a8a706a1c918b60db7adda27b67557a46c8a9d1379"
+    },
+    {
+      "path": "verification/claude_time_qft_experience_controls_test.py",
+      "bytes": 3839,
+      "sha256": "2ef3ae4e94836577e498538c331e68ad1f19826422a5621f074b22bcfb6dd724"
     },
     {
       "path": "verification/clock_choice.json",
@@ -8985,8 +9005,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1174423,
-      "sha256": "1651c1609c066f92cfe92503603a02a8fbcdd144824b59c01037a92ee752a24f"
+      "bytes": 1178067,
+      "sha256": "a12a9cc8a7af06da1d2686bcbbe6eb45b383f75d6ab7cd90276d2750f6eaab84"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10160,8 +10180,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 565211,
-      "sha256": "30a034d4c78541223a26ea0d5831817f24e538e2007dd4f9f4684e072e54aef7"
+      "bytes": 566293,
+      "sha256": "e56e8ac61c7e318339264fcb16472e53dabed3334977838133af8ea3e757f3b7"
     },
     {
       "path": "verification/source_repass_tracker_test.py",

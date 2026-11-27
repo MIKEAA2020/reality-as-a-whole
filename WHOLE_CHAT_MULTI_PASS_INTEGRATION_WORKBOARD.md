@@ -1,5 +1,7 @@
 # Whole-chat multi-pass integration workboard
 
+
+**Claude-time follow-through:** [cross-field audit and arithmetic/fractal controls](CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md) and [QFT/experience audit and finite controls](CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md) correct further source claims and add constructive calculations; all 71 exchanges now have selected-claim review, not full audits. The [all-surviving-leads workboard](CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md) remains provisional.
 ## Aim and scope
 
 **Root-cause method correction:** begin from a concrete issue or explicitly stated aim of deeper understanding, not an unanchored foundational question. The user clarifies that “meta-level” means repeatedly asking **why**, following the causal or constitutive dependencies progressively deeper until a justified bedrock or a genuine meta-level issue is reached. Do not substitute a sequence of adjacent models, controls or conditional interfaces for that inquiry; an unresolved premise is a research target, not automatically bedrock. The first corrected [why-chain](ZERO_META_WHY_CHAIN_SYMMETRY_AND_SELF_SUFFICIENCY.md) traces the zero/symmetry issue to the applicability and explanatory force of a complete self-sufficient physical–experiential constitution.

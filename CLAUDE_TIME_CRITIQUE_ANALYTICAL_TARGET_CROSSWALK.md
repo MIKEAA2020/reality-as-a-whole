@@ -1,5 +1,7 @@
 # Claude-time critique: analytical targets, coverage and repairs
 
+
+**Claude-time follow-through:** [cross-field audit and arithmetic/fractal controls](CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md) and [QFT/experience audit and finite controls](CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md) correct further source claims and add constructive calculations; all 71 exchanges now have selected-claim review, not full audits. The [all-surviving-leads workboard](CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md) remains provisional.
 ## Direct answer and scope
 
 The preceding F1–F9 formulation included **some**, not all, of the requested analytical work explicitly. In particular: modular-to-Schrödinger was explicit; Einstein-from-entanglement and modular-state selection were only covered indirectly by broad gravity/foundations criteria; the source's locality, Born/Bell/conditioning and other cross-field targets were not individually formulated. This document supplies those missing formulations and an explicit audit. It does not claim all targets are mandatory for every possible solution to the problem of time.
