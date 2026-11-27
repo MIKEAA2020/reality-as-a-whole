@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1952,
-    "selected_claims_reviewed": 22
+    "not_rechecked_in_this_sweep": 1951,
+    "selected_claims_reviewed": 25
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "e430403a51f3ffa521ad25cd5e8b22bba9d612914b5b2937390dfeb0df063808",
+      "sha256": "f82201b64622fb6f7aa70bf0f1732bbb2a97d7f7fa18b30b2470fe09ef91f20a",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -3739,9 +3739,22 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
-      "sha256": "1188c30a0017e9d56b8fdf9a4e891d08b57aa52a6708dfe8f27bec627d46d319",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "b9ad0160cdf26da449a514252898a7c38b11f65ea38035104a101d0c8f2bc5e4",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: four-state history compression, current balance and nonuniform incidence example, strengthened to globally complementary commuting effects on the same encoded model. Subject criterion and other claims not fully reviewed.",
+        "evidence": [
+          "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+          "verification/zero_cycle_incidence_partition_review_test.py",
+          "verification/zero_autonomous_clock_record_subject_test.py"
+        ],
+        "reviewed_sha256": "b9ad0160cdf26da449a514252898a7c38b11f65ea38035104a101d0c8f2bc5e4",
+        "evidence_sha256": {
+          "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+          "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+          "verification/zero_autonomous_clock_record_subject_test.py": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689"
+        }
+      }
     },
     {
       "path": "ZERO_AUTONOMOUS_SPHERE_GEOMETRY_POINTER_MEMORY.md",
@@ -3956,6 +3969,25 @@
         "evidence_sha256": {
           "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b",
           "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4"
+        }
+      }
+    },
+    {
+      "path": "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+      "sha256": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: finite quantum weighted product rule, full encoded current factorization, commuting normalized incidence counterexample and noncommuting anticommuting alternative.",
+        "evidence": [
+          "verification/zero_cycle_incidence_partition_review_test.py",
+          "verification/zero_autonomous_clock_record_subject_test.py",
+          "verification/zero_sector_record_energy_exchange_test.py"
+        ],
+        "reviewed_sha256": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+        "evidence_sha256": {
+          "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+          "verification/zero_autonomous_clock_record_subject_test.py": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689",
+          "verification/zero_sector_record_energy_exchange_test.py": "4f0e27c793fdd61820dd02734b8a481e342a6fc378f4a6b19aa1dae1fb17cdd7"
         }
       }
     },
@@ -4803,8 +4835,21 @@
     {
       "path": "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
       "sha256": "3a6960ea569b0a59319e728a95694629a6532fd82e63a3fe49f2cce673a87513",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: pair energy conservation, writer endpoint changes and the writer/current relationship used in the autonomous cycle. Other experiential, geometric and physical claims not fully reviewed.",
+        "evidence": [
+          "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+          "verification/zero_cycle_incidence_partition_review_test.py",
+          "verification/zero_sector_record_energy_exchange_test.py"
+        ],
+        "reviewed_sha256": "3a6960ea569b0a59319e728a95694629a6532fd82e63a3fe49f2cce673a87513",
+        "evidence_sha256": {
+          "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+          "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+          "verification/zero_sector_record_energy_exchange_test.py": "4f0e27c793fdd61820dd02734b8a481e342a6fc378f4a6b19aa1dae1fb17cdd7"
+        }
+      }
     },
     {
       "path": "ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md",
@@ -10603,6 +10648,12 @@
     {
       "path": "verification/zero_cursor_domain_instrument_review_test.py",
       "sha256": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_cycle_incidence_partition_review_test.py",
+      "sha256": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

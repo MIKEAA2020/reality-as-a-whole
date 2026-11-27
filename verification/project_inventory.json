@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 918,
-  "bytes": 12030360,
-  "line_count": 108541,
-  "document_count_with_risk_phrases": 870,
+  "document_count": 919,
+  "bytes": 12041004,
+  "line_count": 108659,
+  "document_count_with_risk_phrases": 871,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "e430403a51f3ffa521ad25cd5e8b22bba9d612914b5b2937390dfeb0df063808",
-      "bytes": 16431,
-      "lines": 71,
+      "sha256": "f82201b64622fb6f7aa70bf0f1732bbb2a97d7f7fa18b30b2470fe09ef91f20a",
+      "bytes": 17530,
+      "lines": 75,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5867,6 +5867,7 @@
         "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md",
         "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
+        "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5877,6 +5878,7 @@
         "verification/formalization_regression_batch_07.json",
         "verification/formalization_regression_batch_08.json",
         "verification/formalization_regression_timeout_followup_01.json",
+        "verification/formalization_regression_timeout_followup_02.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5888,7 +5890,8 @@
         32,
         36,
         40,
-        44
+        44,
+        52
       ]
     },
     {
@@ -21860,8 +21863,8 @@
     },
     {
       "path": "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
-      "sha256": "1188c30a0017e9d56b8fdf9a4e891d08b57aa52a6708dfe8f27bec627d46d319",
-      "bytes": 13763,
+      "sha256": "b9ad0160cdf26da449a514252898a7c38b11f65ea38035104a101d0c8f2bc5e4",
+      "bytes": 13983,
       "lines": 154,
       "title": "An autonomous zero-spin record cycle and its subject boundary",
       "headings": [
@@ -21877,7 +21880,8 @@
       "local_links": [
         "ZERO_RECIPROCAL_SUBJECT_EXCHANGE_AND_INCIDENCE.md",
         "ZERO_SPHERICAL_PLENITUDE_AND_BRANCHWISE_RECORD_BALANCE.md",
-        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md"
+        "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md",
+        "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md"
       ],
       "risk_phrase_lines": [
         9,
@@ -22820,6 +22824,36 @@
         85,
         107,
         133
+      ]
+    },
+    {
+      "path": "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+      "sha256": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+      "bytes": 9325,
+      "lines": 114,
+      "title": "Autonomous cycle: normalized incidence, current and balance",
+      "headings": [
+        "Autonomous cycle: normalized incidence, current and balance",
+        "Result",
+        "1. The original history and a general product rule",
+        "2. A normalized, compatible nonzero example on the full encoded space",
+        "3. Where the cycle's missing term goes",
+        "4. Unequal weights that do cancel, and measurement compatibility",
+        "5. What follows and what remains"
+      ],
+      "local_links": [
+        "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md",
+        "verification/zero_cycle_incidence_partition_review_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        13,
+        45,
+        73,
+        87,
+        106,
+        112
       ]
     },
     {

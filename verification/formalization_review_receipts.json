@@ -282,5 +282,47 @@
       "ZERO_SECOND_CLOCK_POVM_TAIL_AND_SMEARING_RIGOR_REVIEW.md": "9a236b4ad5cbe469a75d566723ae3bf05de24779be70fca6354373bf27015696",
       "verification/zero_two_window_clock_fiber_transport_test.py": "d2211d8af88b17eb73c91f91a905ab7e224c6fb67ece140e9b2c2323152891a0"
     }
+  },
+  "ZERO_AUTONOMOUS_RECORD_CYCLE_SUBJECT_INCIDENCE.md": {
+    "reviewed_sha256": "b9ad0160cdf26da449a514252898a7c38b11f65ea38035104a101d0c8f2bc5e4",
+    "scope": "Selected: four-state history compression, current balance and nonuniform incidence example, strengthened to globally complementary commuting effects on the same encoded model. Subject criterion and other claims not fully reviewed.",
+    "evidence": [
+      "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+      "verification/zero_cycle_incidence_partition_review_test.py",
+      "verification/zero_autonomous_clock_record_subject_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+      "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+      "verification/zero_autonomous_clock_record_subject_test.py": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689"
+    }
+  },
+  "ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md": {
+    "reviewed_sha256": "3a6960ea569b0a59319e728a95694629a6532fd82e63a3fe49f2cce673a87513",
+    "scope": "Selected: pair energy conservation, writer endpoint changes and the writer/current relationship used in the autonomous cycle. Other experiential, geometric and physical claims not fully reviewed.",
+    "evidence": [
+      "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
+      "verification/zero_cycle_incidence_partition_review_test.py",
+      "verification/zero_sector_record_energy_exchange_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+      "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+      "verification/zero_sector_record_energy_exchange_test.py": "4f0e27c793fdd61820dd02734b8a481e342a6fc378f4a6b19aa1dae1fb17cdd7"
+    }
+  },
+  "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md": {
+    "reviewed_sha256": "25d1e386fd1ab3516750fa7dd6f701b37d08e8cc9eed94744c30b045db1e4e98",
+    "scope": "Selected: finite quantum weighted product rule, full encoded current factorization, commuting normalized incidence counterexample and noncommuting anticommuting alternative.",
+    "evidence": [
+      "verification/zero_cycle_incidence_partition_review_test.py",
+      "verification/zero_autonomous_clock_record_subject_test.py",
+      "verification/zero_sector_record_energy_exchange_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_cycle_incidence_partition_review_test.py": "87880835fd4fc2a4d8d75948cb30e33525d76b0467e5b90cd7911882a3489ceb",
+      "verification/zero_autonomous_clock_record_subject_test.py": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689",
+      "verification/zero_sector_record_energy_exchange_test.py": "4f0e27c793fdd61820dd02734b8a481e342a6fc378f4a6b19aa1dae1fb17cdd7"
+    }
   }
 }
