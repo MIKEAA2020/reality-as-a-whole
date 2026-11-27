@@ -6,7 +6,9 @@ The goal is not merely to construct another clock. It is to show how one self-su
 
 Work in small passes, but keep one dependency graph. Each pass must produce a theorem, construction, counterexample, operational error bound or actual empirical comparison; state its assumptions; run the relevant checks; and record what it changes downstream. A successful conditional step is not a declaration that the whole problem is solved. No number of turns can guarantee the final derivation, but the work should continue along the critical path rather than stopping at a list of obstacles.
 
-**First construction completed:** [an autonomous finite-window support record](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md). It uses the earlier two-window operator and certified commutator, and proves a controlled continuum readout window for a changed constraint. It also proves why an exactly permanent latch cannot arise from the relevant class of bounded autonomous generators. It does **not** yet produce an autonomous readout time, physical locality, a durable record or a clock switch.
+**First construction completed:** [an autonomous finite-window support record](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md). It uses the earlier two-window operator and certified commutator, and proves a controlled continuum readout window for a changed constraint. It also proves why an exactly permanent latch cannot arise from the relevant class of bounded autonomous generators.
+
+**Gate 2 partial advance:** [the autonomous cursor reader](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) puts a positive massive cursor and memory in a further changed constraint and derives a finite-window support-record error bound. The cursor triggers the interaction without an external time-dependent switch; scalar-clock preparation, an extreme cursor resource, global Q and a chosen final readout are still inputs. A complete post-measurement instrument, physical locality, permanent retention and a clock switch remain open.
 
 ## Dependency graph
 
@@ -63,7 +65,9 @@ The arrows are dependencies between proofs, not stages in an external time in wh
 
 **Question.** Can a specified physical timer, moving wavepacket, transfer chain or environment read or preserve that same flag while the flag is reliably high, without an externally scheduled operation?
 
-**Precise deliverable.** Write a single self-adjoint coupled generator/constraint, initial states and clock/reader effects. Prove positivity where used; provide all click, no-click and ambiguous outcomes; and bound the complete post-interaction state and record probabilities uniformly on a declared domain. Include timing jitter and backreaction. Quantify retention after the coupling ends, not just a sampled flag.
+**Partial result.** The [massive cursor construction](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) supplies a single positive autonomous generator and an explicit finite-time continuum memory-probability bound, including coherent P/Q preparations. It does not yet construct the complete post-measurement instrument or prove arbitrary-time retention, and its global coupling and extreme resource assumptions remain unresolved.
+
+**Precise remaining deliverable.** Extend the single self-adjoint coupled generator/constraint to fully specified initial states and clock/reader effects. Prove positivity where used; provide all click, no-click and ambiguous outcomes; and bound the complete post-interaction state and record probabilities uniformly on a declared domain. Include timing jitter and backreaction. Quantify retention after the coupling ends, not just a sampled flag.
 
 **Alternatives to examine.** The existing [autonomous stopped-clock scattering instrument](AUTONOMOUS_STOP_CLOCK.md) supplies a positive Hamiltonian and an asymptotic retained event; its output is a sojourn/scattering record, not the same finite support flag. Investigate a real coupling or controlled limit between the two, rather than assuming that compatible-looking observables are identical. A local wavepacket-controlled or dissipative transfer may also work, but must explicitly include its carrier, environment, domain and energy accounting.
 

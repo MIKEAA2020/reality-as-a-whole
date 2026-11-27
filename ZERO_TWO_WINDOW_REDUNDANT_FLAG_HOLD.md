@@ -1,5 +1,7 @@
 # A controlled autonomous flag window in the existing time model
 
+**Continuation:** [an autonomous massive-cursor reader](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) transfers this flag into a memory within a further explicitly changed constraint, with a finite-horizon continuum error bound. It does not prove permanent retention or solve clock switching.
+
 ## Result
 
 The [work plan](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md) starts by addressing a concrete failure: the prior support flag can almost completely unflip after its optimal reading. Here we keep the existing two-window continuum system, its packet support projector and its certified commutator, and **change the constraint explicitly** by adding eight coupled flag qubits. Under the specified assumptions the flags collectively provide a wider, guaranteed finite readout window:

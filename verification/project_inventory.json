@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 880,
-  "bytes": 11518150,
-  "line_count": 104100,
-  "document_count_with_risk_phrases": 832,
+  "document_count": 881,
+  "bytes": 11533974,
+  "line_count": 104308,
+  "document_count_with_risk_phrases": 833,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4b620544fe3cc68908ab3f03595574a418a12bd608fdb8600a3b4f3c407ac8e0",
-      "bytes": 236344,
-      "lines": 1793,
+      "sha256": "ac3902bb679006270f78f6f08e1cd36c0f15c2f390cb8164b23fde5045ab88ae",
+      "bytes": 236624,
+      "lines": 1795,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6706,6 +6706,7 @@
         "ZERO_TOTAL_LOOP_CONSISTENCY_AND_MEASURE.md",
         "ZERO_TOTAL_RELATIONAL_EVENT_AND_RECORD.md",
         "ZERO_TOTAL_SYMMETRY_MEASURE_AND_RELATIONAL_IDENTIFICATION.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
@@ -7635,6 +7636,7 @@
         "verification/zero_total_relational_record_test.py",
         "verification/zero_total_symmetry_measure.py",
         "verification/zero_total_symmetry_measure_test.py",
+        "verification/zero_two_window_autonomous_cursor_reader_test.py",
         "verification/zero_two_window_autonomous_support_dynamics_test.py",
         "verification/zero_two_window_coherence_tomography_test.py",
         "verification/zero_two_window_commutator_certificate.py",
@@ -7681,12 +7683,12 @@
         764,
         767,
         793,
-        840,
-        877,
-        886,
-        889,
-        892,
-        964
+        841,
+        878,
+        887,
+        890,
+        893,
+        965
       ]
     },
     {
@@ -13556,9 +13558,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "d0f2d3c27a943888738051c266d220bb81795c565697c019ae3554e313e279ff",
-      "bytes": 12981,
-      "lines": 124,
+      "sha256": "d0f8d546d5fd2a7f0034b5f9378e5ebb46644feadc66f28ebff45708721726f2",
+      "bytes": 13861,
+      "lines": 128,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
         "Problem of time: divide-and-conquer work plan",
@@ -13573,19 +13575,21 @@
       "local_links": [
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
         "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_redundant_flag_hold_test.py",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "AUTONOMOUS_STOP_CLOCK.md"
       ],
       "risk_phrase_lines": [
         7,
         9,
-        44,
-        50,
-        70
+        46,
+        52,
+        74
       ]
     },
     {
@@ -20480,9 +20484,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "a20c4a0c59cee8560d11d6308e74eb86e18b6454d44eea658bd7874c4e104207",
-      "bytes": 58331,
-      "lines": 133,
+      "sha256": "796ae70913d47cd3028b7004da917dd0ff0ad4f301b350729f572f60e0ba05c2",
+      "bytes": 59005,
+      "lines": 134,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20602,6 +20606,8 @@
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_redundant_flag_hold_test.py",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "verification/zero_two_window_autonomous_cursor_reader_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20642,7 +20648,7 @@
         105,
         108,
         109,
-        122
+        123
       ]
     },
     {
@@ -28007,6 +28013,39 @@
       ]
     },
     {
+      "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+      "sha256": "cff41c906fcba29c686dc2b2f151512d44ccc4f3e8d1db810bbb69341be201e8",
+      "bytes": 13697,
+      "lines": 199,
+      "title": "An autonomous cursor reads the transient support flag",
+      "headings": [
+        "An autonomous cursor reads the transient support flag",
+        "Result",
+        "1. The shared model and the new physical degrees of freedom",
+        "2. Prepared cursor and conditional timing",
+        "3. Comparison A: massive cursor versus translated cursor",
+        "4. Comparison B: noncommuting flag dynamics and the finite pulse",
+        "5. What the finite check does and does not show",
+        "6. What is solved, and the next gate"
+      ],
+      "local_links": [
+        "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
+        "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
+        "verification/zero_two_window_autonomous_cursor_reader_test.py",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "verification/zero_two_window_autonomous_cursor_reader_test.py"
+      ],
+      "risk_phrase_lines": [
+        27,
+        90,
+        127,
+        172,
+        182,
+        184,
+        186
+      ]
+    },
+    {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
       "sha256": "035af4128ab64ff577528ec2f0f72ec7d98e777847e0d6e002276da49a36a203",
       "bytes": 10068,
@@ -28279,9 +28318,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
-      "sha256": "19842ad8a84e4781ea9ab2830c3fad0ef11c6f57ebc5ad0f018c7dc518f3a9a4",
-      "bytes": 12736,
-      "lines": 184,
+      "sha256": "65c16e53ed64efc13645ca9fb5969f8a493763d84ca68b2b62b2937641cab962",
+      "bytes": 13029,
+      "lines": 186,
       "title": "A controlled autonomous flag window in the existing time model",
       "headings": [
         "A controlled autonomous flag window in the existing time model",
@@ -28294,19 +28333,20 @@
         "6. Next gate"
       ],
       "local_links": [
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "verification/zero_two_window_redundant_flag_hold_test.py",
         "AUTONOMOUS_STOP_CLOCK.md"
       ],
       "risk_phrase_lines": [
-        15,
         17,
-        138,
-        146,
+        19,
+        140,
         148,
-        171,
-        184
+        150,
+        173,
+        186
       ]
     },
     {
