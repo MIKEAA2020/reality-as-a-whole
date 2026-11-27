@@ -4,6 +4,8 @@
 
 **Cursor-sign correction:** the underlying [cursor preparation](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) now uses `exp(−imvx)` for the stated evolution sign. The dependent error bound here applies to that corrected preparation, not the originally written opposite-moving packet. See [the sign control](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
 
+**Conditional refinement:** [the cursor-domain and instrument recheck](ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md) propagates the improved commutator into the same specified smeared-clock comparison, tightening its half-diamond bound to `<0.0388`. It inherits this report's clock-tail and output-identification estimates; it does not establish equivalence of all retained clock poststates.
+
 ## Result
 
 The preceding [cursor instrument](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) was formulated relative to a scalar clock φ. Here we add a **distinct physical quantum clock R** to that same instrument, extend the constraint explicitly, and compare the same memory outcome against its R reading. The R clock has a semibounded Hamiltonian and a finite-resolution covariant POVM; it is not a second name for φ.

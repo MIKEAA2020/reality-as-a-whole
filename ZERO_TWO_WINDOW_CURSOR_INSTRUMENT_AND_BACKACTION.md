@@ -2,6 +2,8 @@
 
 **Continuation:** [a second physical clock](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) adds a semibounded quantum reference and constructs a normalized clock-neutral effect for this same memory, plus a finite-resolution reduced-instrument comparison. It does not yet establish the transformation of all retained postmeasurement clock and cursor correlations.
 
+**Later rigor review:** [cursor domains and recorded instruments](ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md) gives a common-state-domain justification of the massive/chiral comparison, tightens this full-instrument half-diamond bound to `<0.06513`, and improves the conditional-state estimate from `2δ/κ` to the sharp `δ/κ`. Its bounds retain this model's fixed cursor/ancilla preparation and other assumptions.
+
 **Cursor-sign correction:** the carrier in the underlying [cursor construction](ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md) must be `exp(−imvx)` with its stated `exp(iHφ)` evolution; the old written sign sent the packet away from the reader. The bounds here apply to that corrected preparation. See [the sign check](ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md).
 
 ## Result

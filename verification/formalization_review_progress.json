@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1953,
-    "selected_claims_reviewed": 15
+    "not_rechecked_in_this_sweep": 1952,
+    "selected_claims_reviewed": 18
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "9a85406ec425fb9728c701649f3026828e9451a561a155ba7ce3a56f14b7e09a",
+      "sha256": "94078459207e86877bef8954f7346d5c7c9974ccda42a39b4fd5acfbb30ff4cd",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -3909,6 +3909,23 @@
       "receipt": null
     },
     {
+      "path": "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+      "sha256": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: bounded-old-system fixed-packet Sobolev/common-domain argument, exact norm constants, instrument δ/q inequality and conditional second-clock numerical bound.",
+        "evidence": [
+          "verification/zero_cursor_domain_instrument_review_test.py",
+          "verification/zero_two_window_independent_gram.py"
+        ],
+        "reviewed_sha256": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+        "evidence_sha256": {
+          "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4"
+        }
+      }
+    },
+    {
       "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
       "sha256": "78a9ea4e358cf661ccaa3f6d28894d66d65348d30a345041d4db46a953c254c7",
       "status": "not_rechecked_in_this_sweep",
@@ -5151,20 +5168,20 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
-      "sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
+      "sha256": "c2231234cf82e5c56ea26af97a956723842dad7870ecc9b00a0abd6da0492bb7",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: numerical substitution of improved commutator into stated finite-horizon P/Q memory error budget only. The unbounded-operator domain, pulse and dispersion estimates are inherited, not independently proved.",
+        "scope": "Selected: corrected cursor carrier, H² common-domain Duhamel estimate, compact envelope weak derivatives, and numerical propagation of improved commutator into stated finite-horizon memory bound. Other physical claims and full generalization not reviewed.",
         "evidence": [
-          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
-          "verification/zero_two_window_independent_gram.py",
-          "verification/zero_two_window_independent_gram_test.py"
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+          "verification/zero_cursor_domain_instrument_review_test.py",
+          "verification/zero_two_window_independent_gram.py"
         ],
-        "reviewed_sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
+        "reviewed_sha256": "c2231234cf82e5c56ea26af97a956723842dad7870ecc9b00a0abd6da0492bb7",
         "evidence_sha256": {
-          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
-          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
-          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07"
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+          "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4"
         }
       }
     },
@@ -5232,9 +5249,20 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
-      "sha256": "f5e17a1546d089cf90b2bccddfefb99f75b9061bb459b28fb91ea5f0badccc06",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "48b7f8392e793db6f612dc25600dd0ff15a19aba2385dd92d3ac04150a5f0171",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: fixed-preparation full-state error budget, probability-vs-channel distinction, trace-distance/backaction and normalized-branch estimates; improved conditional bound to δ/q. Full clock switch and implementation not reviewed.",
+        "evidence": [
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+          "verification/zero_cursor_domain_instrument_review_test.py"
+        ],
+        "reviewed_sha256": "48b7f8392e793db6f612dc25600dd0ff15a19aba2385dd92d3ac04150a5f0171",
+        "evidence_sha256": {
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+          "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_FINITE_RECORD_CLOCK_COMPARISON.md",
@@ -5291,9 +5319,20 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "17362b7df5398bc5476bf0d76956abbfee4a0567da48ba7f9597ee564e594c78",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: arithmetic propagation of improved cursor bound through stated finite-resolution clock mixture. Clock tail, effect normalization and retained-poststate transport are inherited, not independently audited.",
+        "evidence": [
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+          "verification/zero_cursor_domain_instrument_review_test.py"
+        ],
+        "reviewed_sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
+        "evidence_sha256": {
+          "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+          "verification/zero_cursor_domain_instrument_review_test.py": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_SUPPORT_AND_COHERENT_READOUT.md",
@@ -10482,6 +10521,12 @@
     {
       "path": "verification/zero_covariant_sphere_subject_bridge_test.py",
       "sha256": "2de583ba7a3f5b8cb5dacac3094ef69600b86de13349ef2df81f85ec7ba6cb68",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_cursor_domain_instrument_review_test.py",
+      "sha256": "d0b8c2356b895c8926da189b6b1d04bcf8dfb7c083db103f2a2c1f5f5db71b5b",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

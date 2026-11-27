@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 915,
-  "bytes": 11993719,
-  "line_count": 108120,
-  "document_count_with_risk_phrases": 867,
+  "document_count": 916,
+  "bytes": 12007289,
+  "line_count": 108261,
+  "document_count_with_risk_phrases": 868,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "9a85406ec425fb9728c701649f3026828e9451a561a155ba7ce3a56f14b7e09a",
-      "bytes": 12662,
-      "lines": 57,
+      "sha256": "94078459207e86877bef8954f7346d5c7c9974ccda42a39b4fd5acfbb30ff4cd",
+      "bytes": 13757,
+      "lines": 61,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5843,7 +5843,7 @@
         "Batch 2: incidence support and noncommutation",
         "Batch 3: continuum commutator certificate",
         "Batch 4: independent continuum arithmetic and existing cursor transfer",
-        "Regression checks: bounded batches"
+        "Batch 5: cursor domains and conditional instrument outputs"
       ],
       "local_links": [
         "verification/formalization_review_progress.json",
@@ -5864,12 +5864,14 @@
         "verification/zero_two_window_commutator_certificate_test.py",
         "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+        "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
         "verification/formalization_regression_batch_03.json",
         "verification/formalization_regression_batch_04.json",
         "verification/formalization_regression_batch_05.json",
+        "verification/formalization_regression_batch_06.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5879,7 +5881,8 @@
         26,
         28,
         32,
-        36
+        36,
+        40
       ]
     },
     {
@@ -22748,6 +22751,41 @@
       ]
     },
     {
+      "path": "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
+      "sha256": "5af5c58f554302d4f65580f103a1da2f8becd353d486150e09c60c843f4a06d8",
+      "bytes": 11521,
+      "lines": 133,
+      "title": "Cursor domain and instrument recheck",
+      "headings": [
+        "Cursor domain and instrument recheck",
+        "Result and scope",
+        "1. The correct domain for the massive/chiral comparison",
+        "2. A sharper complete-instrument comparison",
+        "3. Sharper normalized branch guarantee",
+        "4. Existing second clock: a conditional propagation",
+        "5. Verification and remaining work"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+        "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
+        "verification/zero_cursor_domain_instrument_review_test.py",
+        "verification/zero_cursor_domain_instrument_review_test.py",
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md"
+      ],
+      "risk_phrase_lines": [
+        36,
+        77,
+        85,
+        107,
+        133
+      ]
+    },
+    {
       "path": "ZERO_DATA_STRUCTURAL_TIME_AND_SPHERE_ECHO.md",
       "sha256": "78a9ea4e358cf661ccaa3f6d28894d66d65348d30a345041d4db46a953c254c7",
       "bytes": 15563,
@@ -29166,8 +29204,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
-      "sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
-      "bytes": 15304,
+      "sha256": "c2231234cf82e5c56ea26af97a956723842dad7870ecc9b00a0abd6da0492bb7",
+      "bytes": 15443,
       "lines": 205,
       "title": "An autonomous cursor reads the transient support flag",
       "headings": [
@@ -29184,6 +29222,7 @@
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+        "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_autonomous_cursor_reader_test.py",
@@ -29362,9 +29401,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
-      "sha256": "f5e17a1546d089cf90b2bccddfefb99f75b9061bb459b28fb91ea5f0badccc06",
-      "bytes": 13667,
-      "lines": 177,
+      "sha256": "48b7f8392e793db6f612dc25600dd0ff15a19aba2385dd92d3ac04150a5f0171",
+      "bytes": 14088,
+      "lines": 179,
       "title": "A complete instrument for the autonomous cursor—and its backaction",
       "headings": [
         "A complete instrument for the autonomous cursor—and its backaction",
@@ -29378,6 +29417,7 @@
       ],
       "local_links": [
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
@@ -29386,12 +29426,12 @@
         "verification/zero_two_window_cursor_instrument_test.py"
       ],
       "risk_phrase_lines": [
-        26,
-        33,
-        39,
-        87,
-        96,
-        136
+        28,
+        35,
+        41,
+        89,
+        98,
+        138
       ]
     },
     {
@@ -29609,9 +29649,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "17362b7df5398bc5476bf0d76956abbfee4a0567da48ba7f9597ee564e594c78",
-      "bytes": 15083,
-      "lines": 170,
+      "sha256": "f16ca9940b9a8767163c8e90c3e4757ffd65354a7136cb416ae7795ebb245e5f",
+      "bytes": 15477,
+      "lines": 172,
       "title": "A second quantum clock for the same autonomous record",
       "headings": [
         "A second quantum clock for the same autonomous record",
@@ -29628,6 +29668,7 @@
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
+        "ZERO_CURSOR_DOMAIN_INSTRUMENT_RIGOR_REVIEW.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "verification/zero_two_window_second_clock_test.py",
@@ -29635,14 +29676,14 @@
       ],
       "risk_phrase_lines": [
         3,
-        11,
-        27,
-        37,
-        62,
-        74,
+        13,
+        29,
+        39,
+        64,
         76,
-        95,
-        156
+        78,
+        97,
+        158
       ]
     },
     {
