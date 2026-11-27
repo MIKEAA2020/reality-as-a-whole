@@ -25,6 +25,10 @@ For each substantive source or coherent source family:
 
 The objective remains the user's **no-unexplained-residue** constitution, including physical and experiential determination together. The tracker does not declare that a disclosed open premise is an acceptable stopping point.
 
+## Formalization rigor review
+
+The user's broader request to evaluate, verify, strengthen and complete the formalizations is tracked separately in the [formalization rigor workboard](FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md). Its hash-sensitive file queue distinguishes selected-claim reviews from unrechecked files and from earlier audits; neither that queue nor the broader regression tests certify the overall theory. The first new batch checks clock changes, physical instruments and incidence/locality, with explicit limitations.
+
 ## Work actually completed in the present repass
 
 | Pass | Source inputs audited/adapted | Implemented on the same candidate | What remains |

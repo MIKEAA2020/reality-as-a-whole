@@ -1,0 +1,281 @@
+{
+  "pattern": "zero_*test.py",
+  "start": 0,
+  "count_requested": 30,
+  "available_at_start": 217,
+  "timeout_seconds_per_module": 12.0,
+  "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+  "results": [
+    {
+      "file": "verification/zero_action_flow_continuous_stationary_echo_test.py",
+      "sha256": "ef11c48b0ffcd6006ac9a7dab5a983e1727b713ecfe79f47205f69a54087ff32",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 1.508,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 1.282s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_all_sector_branchwise_balance_test.py",
+      "sha256": "9bfcb5f775033774785e5e6df1942b429e5e752ea667e68fe1068cc608a9dec3",
+      "status": "passed",
+      "tests_run": 7,
+      "exit_code": 0,
+      "seconds": 0.788,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 0.626s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_all_sector_noncommuting_sphere_test.py",
+      "sha256": "ec1f318f8493d2bf5ce224a2d5b8f9466e84034a58dc64198412760f50a51e0d",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.015,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_all_sector_record_involution_test.py",
+      "sha256": "40b5284fb50b6dd762f0f0ef5f9f841c8a12807c59efb037866bd8f4e5a680a7",
+      "status": "passed",
+      "tests_run": 8,
+      "exit_code": 0,
+      "seconds": 1.731,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 1.568s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_all_sector_sphere_clock_work_test.py",
+      "sha256": "0044fd498f21a23c5cd53085420476edb976551992d0930b86ef9c8ef4484041",
+      "status": "passed",
+      "tests_run": 8,
+      "exit_code": 0,
+      "seconds": 1.018,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 0.858s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_angular_covariant_access_test.py",
+      "sha256": "374e8eff7280db6d9fc2b256fe70b64f7368668025bc10b8cf046fa2bcd8e1ab",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 1.036,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 0.816s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_article_jet_dual_pair_test.py",
+      "sha256": "2b8c0c55ff50a4e3a75cc58e450849b4f7f9fe8bd365d1366778204822699f03",
+      "status": "passed",
+      "tests_run": 8,
+      "exit_code": 0,
+      "seconds": 0.15,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 0.030s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_autonomous_balanced_reference_clock_test.py",
+      "sha256": "0f549c1b7c1a2aca72467cadc6125f3bd4a99a6ea53fefe1825c1f3aa073078c",
+      "status": "passed",
+      "tests_run": 9,
+      "exit_code": 0,
+      "seconds": 0.933,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 9 tests in 0.765s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_autonomous_clock_event_readout_test.py",
+      "sha256": "3bbfbc98bf593631d63d1cfa6ed8141adc77bc799e6593dcb82fa45650c16f70",
+      "status": "passed",
+      "tests_run": 7,
+      "exit_code": 0,
+      "seconds": 1.905,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 1.638s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_autonomous_clock_record_subject_test.py",
+      "sha256": "28fdad49553d535824a4ae25258ae940192e31f15bed4962fcb925210c352689",
+      "status": "passed",
+      "tests_run": 12,
+      "exit_code": 0,
+      "seconds": 0.568,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 12 tests in 0.410s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_autonomous_geometry_pointer_memory_test.py",
+      "sha256": "e8e873555b77185447b618e232c6893c9af9280649cc0abf41f1ae5c2af779c5",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.014,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_autonomous_two_window_records_test.py",
+      "sha256": "cf395599562fd185949410aa5d147e6d213f64cd95e12ed89f891fc49394a514",
+      "status": "passed",
+      "tests_run": 14,
+      "exit_code": 0,
+      "seconds": 2.328,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 14 tests in 2.194s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_balanced_reference_preparation_test.py",
+      "sha256": "beaf4ca40c2646bbfedffa0b8559df9e68c7f8fe882db5bff7a6a2b1f9c0a0ae",
+      "status": "passed",
+      "tests_run": 9,
+      "exit_code": 0,
+      "seconds": 0.7,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 9 tests in 0.533s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_celestial_geometry_test.py",
+      "sha256": "01c5872ea4f5c8addf2cc28ee70f58bcec21ab48ec9b3a760d3b5e6ecdf044b7",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 0.047,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 0.002s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
+      "sha256": "f2ed7aca2a1c2c08d39d5d9230af8e6e867bf306822a985062182fce258954da",
+      "status": "passed",
+      "tests_run": 7,
+      "exit_code": 0,
+      "seconds": 9.032,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 8.478s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_clock_finite_reservoir_reuse_test.py",
+      "sha256": "b2081d5c4fa10e7fc8f4dd2f9400badd8992143326994fd3dcbdba581fe97aca",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.013,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_clock_probe_poststate_obstruction_test.py",
+      "sha256": "9d6ed9ecef28e9297ec3217759cf76181b0ed66db01ff55069290818d1ed43b0",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 0.259,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 0.011s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_clock_relational_povm_test.py",
+      "sha256": "18682d5f58b29d7c73f27a13d68846fb2fd46f8f1caf71c7251e7a0b2260a11d",
+      "status": "passed",
+      "tests_run": 1,
+      "exit_code": 0,
+      "seconds": 0.352,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 1 test in 0.134s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_clocked_chirality_history_test.py",
+      "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.023,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_coherent_clock_angular_history_test.py",
+      "sha256": "788a07288e5ba63c5d478644eeaa3a6e35b9eb59f710391f49d61c42906533dd",
+      "status": "passed",
+      "tests_run": 8,
+      "exit_code": 0,
+      "seconds": 9.93,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 9.706s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_coherent_signed_counterpart_test.py",
+      "sha256": "a7f8dad5a7f55e7d17af52fe333af0527b6f11a4ff87f84765028dc878cc0ba3",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.019,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_confined_realms_interface_test.py",
+      "sha256": "c49555a9b99406c471d9c877988cab58f0bc8a40db28e4470cf00ff982905fc3",
+      "status": "passed",
+      "tests_run": 10,
+      "exit_code": 0,
+      "seconds": 0.305,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 10 tests in 0.242s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_confinement_coherence_experience_test.py",
+      "sha256": "dac0685fb510fdc94ba66ec0f488c0997d0afb175961eac6d195df26c6e902e7",
+      "status": "passed",
+      "tests_run": 10,
+      "exit_code": 0,
+      "seconds": 0.481,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 10 tests in 0.409s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_conserving_sphere_handedness_report_test.py",
+      "sha256": "b9bf280ecfbb1bbae9e57ebabaa813dd370f704f38b1206dd597a3aee2e76052",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 11.352,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 11.111s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_constitution_hamiltonian_phase_gate_test.py",
+      "sha256": "8194b6f2f598b6a090bb3821b740c3682c45bda7472bb6af1bd69eeae56f8ce8",
+      "status": "passed",
+      "tests_run": 12,
+      "exit_code": 0,
+      "seconds": 2.239,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 12 tests in 2.034s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_constrained_history_instrument_recheck_test.py",
+      "sha256": "8e5d2b43fba1b167b22bfafe598770c5e6fdae95ccb5120278710bfc1e379a3d",
+      "status": "passed",
+      "tests_run": 4,
+      "exit_code": 0,
+      "seconds": 0.135,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 4 tests in 0.031s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_constraint_reference_recovery_test.py",
+      "sha256": "8f50764211efefd8c11da28ddde957088df4eb7e0b49f6a046220a22d0836842",
+      "status": "passed",
+      "tests_run": 5,
+      "exit_code": 0,
+      "seconds": 0.071,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 0.027s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_contextual_sign_symmetry_and_dressed_report_test.py",
+      "sha256": "93bde4b94dbe53c492db4d895d3b2de6b8c8f617c36bb8afe5e6043a6c5bf248",
+      "status": "timeout",
+      "tests_run": null,
+      "exit_code": null,
+      "seconds": 12.017,
+      "output_tail": "\n"
+    },
+    {
+      "file": "verification/zero_covariant_pairing_reference_history_test.py",
+      "sha256": "800b1c7cc705cd693b6b8c8ed1512575503d27877f3f6faa4fb0c23f54241ea4",
+      "status": "passed",
+      "tests_run": 9,
+      "exit_code": 0,
+      "seconds": 0.353,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 9 tests in 0.174s\n\nOK\n"
+    },
+    {
+      "file": "verification/zero_covariant_sphere_subject_bridge_test.py",
+      "sha256": "2de583ba7a3f5b8cb5dacac3094ef69600b86de13349ef2df81f85ec7ba6cb68",
+      "status": "passed",
+      "tests_run": 7,
+      "exit_code": 0,
+      "seconds": 4.999,
+      "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 4.832s\n\nOK\n"
+    }
+  ],
+  "scope": "Unittest executions for selected files only; no semantic proof audit."
+}

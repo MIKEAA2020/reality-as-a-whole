@@ -119,7 +119,7 @@ Both have the same zero constraint, positive density, the same present level bit
 
 The example makes three things compatible in one model: an exact zero constraint, nonzero local physical energy and nontrivial internal change. The threshold bit does not change or add energy to the state. It is not assumed to have a value in joules, nor does its 0/1 value represent signed physical energy or a sum of pleasures and pains.
 
-For the scale factor one may define `α=−κ a pₐ/(6pφ)`. Direct calculation gives `{α,C}=−κC/(2pφ)`, so α is constant **on shell**, not generally off shell. Consequently `a[τ]=a exp[α(τ−φ)]` is invariant on the constraint surface. This supports the relational scale-factor formula; it is not an exact off-shell conservation claim. The [tests](verification/zero_intrinsic_identity_relational_gravity_test.py) check both the on-shell and off-shell statements.
+For the scale factor one may define `α=−κ a pₐ/(6pφ)`. Direct calculation gives `{α,C}=−κC/(2pφ)`, so α is constant **on shell**, not generally off shell. Consequently `a[τ]=a exp[α(τ−φ)]` is invariant on the constraint surface. This supports the relational scale-factor formula; it is not an exact off-shell conservation claim. The [tests](verification/zero_intrinsic_identity_relational_gravity_test.py) check both the on-shell and off-shell statements. The later [two-clock rigor review](ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md) derives the scale factor's explicit off-shell bracket, a nonzero bracket between two clock-relative field readings, and same-solution proper-duration agreement between φ and χ clocks on their shared domain.
 
 ## 5. A proper identity candidate—and the selection problem
 

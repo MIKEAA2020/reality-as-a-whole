@@ -1,6 +1,6 @@
 # When normalized incidence is not a local experience
 
-**Constructive continuation:** [local incidence and quantum current](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) gives a site-local overlap rule that preserves a conserved quantum-current operator under explicit compatibility and coverage assumptions, tests it in a positive-energy hopping model, and shows why a sharp physical-excitation incidence can fail those assumptions.
+**Constructive continuation:** [local incidence and quantum current](ZERO_LOCAL_INCIDENCE_QUANTUM_CURRENT_CONSTRUCTION.md) gives a site-local overlap rule that preserves a conserved quantum-current operator under explicit compatibility and coverage assumptions, tests it in a positive-energy hopping model, and shows why a sharp physical-excitation incidence can fail those assumptions. The [locality/balance rigor review](ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md) now derives the sharp `1/4` operator-norm distance to local effects and distinguishes universal full-space balance from correlated physical-sector balance.
 
 ## Result and correction
 

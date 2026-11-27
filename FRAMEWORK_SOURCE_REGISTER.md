@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 865 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 837 verification Python scripts.
+- 869 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 843 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -192,6 +192,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md](FIRST_PERSON_POSITIVE_WITNESS_AND_SUBJECT_CENSUS_LIMIT.md) — First-person positive evidence: a less demanding test, and its limit
 - [FIXED_GAP_SOURCE_CLOCK.md](FIXED_GAP_SOURCE_CLOCK.md) — Fixed-gap relational readout with a finite energy reservoir
 - [FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md](FLOATINGPRAGMA_FRAMEWORK_GAP_ASSESSMENT.md) — Can FloatingPragma reduce the framework's remaining gaps?
+- [FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md](FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md) — Formalization review: scope, receipts and remaining work
 - [FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md](FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md) — Formal battery: current status and focused research plan
 - [FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md](FOUNDATION_BATTERY_V1_INDEPENDENT_ASSESSMENT.md) — Assessment of the SEEP foundation battery, v1
 - [FOUNDATION_NECESSITY_ROUTES_COMPARISON.md](FOUNDATION_NECESSITY_ROUTES_COMPARISON.md) — Foundation: comparing the two existing necessity routes
@@ -652,6 +653,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md](ZERO_CONSERVED_SPHERE_SIGN_AT_MAXIMAL_ORIENTATION.md) — A conserved sphere sign at maximal orientation
 - [ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md](ZERO_CONSERVING_RELATIONAL_CHIRALITY_REPORT.md) — A balanced relational sign with a charge-preserving record
 - [ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md](ZERO_CONSTITUTION_HAMILTONIAN_EIGENCONDITION_PROGRAM.md) — Deriving the eigencondition and Hamiltonian from zero: a constructive program
+- [ZERO_CONSTRAINED_HISTORY_INSTRUMENT_RECHECK.md](ZERO_CONSTRAINED_HISTORY_INSTRUMENT_RECHECK.md) — Rechecking the constrained eraser history: effects versus instruments
 - [ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md](ZERO_CONSTRAINT_TO_UNIQUE_ENTANGLED_CONSTITUTION.md) — When a zero constraint determines a nontrivial quantum constitution
 - [ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md](ZERO_CONTEXTUAL_SIGN_SYMMETRY_AND_RELATIONAL_DRESSING.md) — A symmetry between the two signs—and a relational way to report one
 - [ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md](ZERO_COVARIANT_ANGULAR_RECORD_AND_COUNTERPART.md) — Lorentz transport of the coherent angular record
@@ -704,7 +706,9 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md](ZERO_GEOMETRY_HISTORY_INCIDENCE_BRIDGE.md) — From sphere balance to all-history records and incidence: an explicit join
 - [ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md](ZERO_GRAVITY_LOCAL_PHYSICAL_SIGN_REFERENCE.md) — A physical sign reference in the localized gravity candidate
 - [ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md](ZERO_GRAVITY_LOCAL_REFERENCE_MEMORY.md) — A localized reference-relative memory field in the gravity candidate
+- [ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md](ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md) — Rigorous recheck: zero-constraint gravity, two clocks and duration
 - [ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md](ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md) — Can an actual zero-balanced pair determine incidence weights?
+- [ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md](ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md) — Recheck: normalized incidence, locality and zero balance
 - [ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) — When normalized incidence is not a local experience
 - [ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md](ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md) — Can subject counting determine the Born weights?
 - [ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md](ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md) — Does zero's constitution determine experience and incidence?
@@ -1038,6 +1042,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/brain_centric_blockworld_gates.py](verification/brain_centric_blockworld_gates.py)
 - [verification/bryan_medved_relational_time_claims_test.py](verification/bryan_medved_relational_time_claims_test.py)
 - [verification/build_claude_time_audit_index.py](verification/build_claude_time_audit_index.py)
+- [verification/build_formalization_review_tracker.py](verification/build_formalization_review_tracker.py)
 - [verification/build_framework_inventory.py](verification/build_framework_inventory.py)
 - [verification/build_source_repass_tracker.py](verification/build_source_repass_tracker.py)
 - [verification/cardiac_feedback_pain_predictions.py](verification/cardiac_feedback_pain_predictions.py)
@@ -1156,6 +1161,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/finite_turning_counter.py](verification/finite_turning_counter.py)
 - [verification/finite_winding_noise.py](verification/finite_winding_noise.py)
 - [verification/fixed_gap_source_clock.py](verification/fixed_gap_source_clock.py)
+- [verification/formalization_review_tracker_test.py](verification/formalization_review_tracker_test.py)
 - [verification/foundation_battery_report_spotcheck.py](verification/foundation_battery_report_spotcheck.py)
 - [verification/foundation_route_comparison.py](verification/foundation_route_comparison.py)
 - [verification/foundational_zero_bridge_test.py](verification/foundational_zero_bridge_test.py)
@@ -1454,6 +1460,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/roy_s09_two_scan_offset_comparison_test.py](verification/roy_s09_two_scan_offset_comparison_test.py)
 - [verification/roy_structural_pair_inventory.py](verification/roy_structural_pair_inventory.py)
 - [verification/roy_structural_pair_inventory_test.py](verification/roy_structural_pair_inventory_test.py)
+- [verification/run_formalization_regression_batch.py](verification/run_formalization_regression_batch.py)
 - [verification/selective_phase_channel_certificate.py](verification/selective_phase_channel_certificate.py)
 - [verification/self_cancelling_performance_control.py](verification/self_cancelling_performance_control.py)
 - [verification/self_cancelling_performance_control_test.py](verification/self_cancelling_performance_control_test.py)
@@ -1598,6 +1605,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_confinement_coherence_experience_test.py](verification/zero_confinement_coherence_experience_test.py)
 - [verification/zero_conserving_sphere_handedness_report_test.py](verification/zero_conserving_sphere_handedness_report_test.py)
 - [verification/zero_constitution_hamiltonian_phase_gate_test.py](verification/zero_constitution_hamiltonian_phase_gate_test.py)
+- [verification/zero_constrained_history_instrument_recheck_test.py](verification/zero_constrained_history_instrument_recheck_test.py)
 - [verification/zero_constraint_reference_recovery_test.py](verification/zero_constraint_reference_recovery_test.py)
 - [verification/zero_contextual_sign_symmetry_and_dressed_report_test.py](verification/zero_contextual_sign_symmetry_and_dressed_report_test.py)
 - [verification/zero_covariant_pairing_reference_history_test.py](verification/zero_covariant_pairing_reference_history_test.py)
@@ -1662,9 +1670,11 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_geometry_clock_no_embedded_eigen_test.py](verification/zero_geometry_clock_no_embedded_eigen_test.py)
 - [verification/zero_gravity_local_memory_pulse_test.py](verification/zero_gravity_local_memory_pulse_test.py)
 - [verification/zero_gravity_local_physical_reference_test.py](verification/zero_gravity_local_physical_reference_test.py)
+- [verification/zero_gravity_two_clock_rigor_test.py](verification/zero_gravity_two_clock_rigor_test.py)
 - [verification/zero_identity_pair_incidence_record_test.py](verification/zero_identity_pair_incidence_record_test.py)
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
+- [verification/zero_incidence_locality_balance_rigor_test.py](verification/zero_incidence_locality_balance_rigor_test.py)
 - [verification/zero_incidence_refinement_born_test.py](verification/zero_incidence_refinement_born_test.py)
 - [verification/zero_integrated_experience_necessity_test.py](verification/zero_integrated_experience_necessity_test.py)
 - [verification/zero_integrated_sphere_clock_experience_test.py](verification/zero_integrated_sphere_clock_experience_test.py)

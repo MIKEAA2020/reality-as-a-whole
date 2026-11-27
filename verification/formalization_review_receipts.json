@@ -1,0 +1,80 @@
+{
+  "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md": {
+    "reviewed_sha256": "83ac443615875b5072f4466ad331d08ba6cda9fba40f36dcbff93a0d6c4a4413",
+    "scope": "Selected: classical constraint, \u03c7 relational observable, \u03b1 and scale-factor brackets; extended to clock overlap and duration.",
+    "evidence": [
+      "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md",
+      "verification/zero_gravity_two_clock_rigor_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md": "0a67321b5548739d2fd3366ac808d6dcc31bda43da2c49080dab316e6bb6d33f",
+      "verification/zero_gravity_two_clock_rigor_test.py": "effbd71b85d62fc28ec5c1439f89373ad776a307c0f26bcdeb19d70c83993a55"
+    }
+  },
+  "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md": {
+    "reviewed_sha256": "340b7836595d9ebac286cbe07e3275499ee068e26ff0bfa09a39f30137a94b95",
+    "scope": "Selected: lapse rescaling and two-scalar zero-constraint comparison; not the full general-energy analysis.",
+    "evidence": [
+      "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md",
+      "verification/zero_gravity_two_clock_rigor_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md": "0a67321b5548739d2fd3366ac808d6dcc31bda43da2c49080dab316e6bb6d33f",
+      "verification/zero_gravity_two_clock_rigor_test.py": "effbd71b85d62fc28ec5c1439f89373ad776a307c0f26bcdeb19d70c83993a55"
+    }
+  },
+  "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md": {
+    "reviewed_sha256": "32f6b6642cd3ee839c4dfca30a254d4195d57c0909cdffa1aef0825a6c4c41a1",
+    "scope": "Selected: cyclic history, physical effects and previously unspecified postmeasurement instrument.",
+    "evidence": [
+      "ZERO_CONSTRAINED_HISTORY_INSTRUMENT_RECHECK.md",
+      "verification/zero_constrained_history_instrument_recheck_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_CONSTRAINED_HISTORY_INSTRUMENT_RECHECK.md": "5a7fd9a5057ddac3b3fd0c729a7106acd96be9f47408df543eb2a3949f856e08",
+      "verification/zero_constrained_history_instrument_recheck_test.py": "8e5d2b43fba1b167b22bfafe598770c5e6fdae95ccb5120278710bfc1e379a3d"
+    }
+  },
+  "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md": {
+    "reviewed_sha256": "0a67321b5548739d2fd3366ac808d6dcc31bda43da2c49080dab316e6bb6d33f",
+    "scope": "Selected: stated symbolic brackets, clock overlap and effective proper duration.",
+    "evidence": [
+      "verification/zero_gravity_two_clock_rigor_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_gravity_two_clock_rigor_test.py": "effbd71b85d62fc28ec5c1439f89373ad776a307c0f26bcdeb19d70c83993a55"
+    }
+  },
+  "ZERO_CONSTRAINED_HISTORY_INSTRUMENT_RECHECK.md": {
+    "reviewed_sha256": "5a7fd9a5057ddac3b3fd0c729a7106acd96be9f47408df543eb2a3949f856e08",
+    "scope": "Selected: finite kernel isometry, POVM, chosen instrument and distinct-poststate control.",
+    "evidence": [
+      "verification/zero_constrained_history_instrument_recheck_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_constrained_history_instrument_recheck_test.py": "8e5d2b43fba1b167b22bfafe598770c5e6fdae95ccb5120278710bfc1e379a3d"
+    }
+  },
+  "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md": {
+    "reviewed_sha256": "9f04ac5f02609ab44de1d807b23e227aae32e82548ce688cddf3068b8ddf7bf1",
+    "scope": "Selected: normalized two-projector incidence, operational locality and the full-space versus constrained-balance distinction.",
+    "evidence": [
+      "ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md",
+      "verification/zero_incidence_locality_balance_rigor_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md": "704c91115fa3ba023e9a0b5b450a788e0164f87d2d83134d8125f254715459a1",
+      "verification/zero_incidence_locality_balance_rigor_test.py": "fa47de16e9de0fe00b793a416d6ac6090daaff891768a8f29086526e5e2a8aff"
+    }
+  },
+  "ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md": {
+    "reviewed_sha256": "704c91115fa3ba023e9a0b5b450a788e0164f87d2d83134d8125f254715459a1",
+    "scope": "Selected: exact norm bound, sector-balance proof and illustrative admissible operations.",
+    "evidence": [
+      "verification/zero_incidence_locality_balance_rigor_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_incidence_locality_balance_rigor_test.py": "fa47de16e9de0fe00b793a416d6ac6090daaff891768a8f29086526e5e2a8aff"
+    }
+  }
+}
