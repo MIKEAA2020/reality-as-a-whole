@@ -69,6 +69,8 @@ Here `α^can` is independently obtained from F3 or the canonical limit; `||·||_
 
 ## F5. Recover relativistic duration and causal geometry
 
+**Framework requirement:** space and time are non-fundamental constructs in the user's current programme, not merely an absent external container. The target geometry below is a **recovered effective regime**, not a commitment that its spacetime or its GR notion of whole-energy is fundamental. The derivation from the common zero/experience constitution remains open; models that assume a metric provide benchmarks or conditional subproblems, not that derivation. See the [corrected premise recheck](CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md).
+
 **Input:** a family of physical states from F1/F2 plus a declared set of clock/worldline observables and relational events. A target classical regime must be specified: e.g. states concentrated near a smooth Lorentzian metric `g` on a region, not a generic promise that geometry emerges.
 
 **Problem:** construct operational elapsed-time random variables `T^λ_γ(a,b)` associated with declared clock trajectories γ, and prove for all γ in a specified finite family that
