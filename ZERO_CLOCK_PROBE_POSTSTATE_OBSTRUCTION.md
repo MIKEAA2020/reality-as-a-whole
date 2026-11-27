@@ -1,5 +1,7 @@
 # Clock poststates: a concrete obstruction to identifying two instruments
 
+**Continuation:** [the same probe in an R-time representation](ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md) now transports the actual four-outcome probe, retained cursor and clock by an explicit isometry. It also shows a robust two-state information-loss obstruction after a later R reading is made classical. The encoding is a same-theory representation, not a full gravitational clock-switch proof.
+
 ## Result
 
 The [factorwise clock–memory probe](ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md) and the earlier [orbit-averaged instrument](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) can give closely matching memory probabilities. They do **not** produce the same retained clock state. For the actual semibounded continuum R clock and the previously specified cosine-band preparation, we now prove a quantitative witness:

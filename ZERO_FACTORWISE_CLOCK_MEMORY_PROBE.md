@@ -1,6 +1,6 @@
 # A factorwise clock–memory probe with a no-bin outcome
 
-**Continuation:** [the retained-clock obstruction](ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md) proves that this probe's conditioned clock poststate cannot equal the earlier orbit-averaged instrument's clock poststate: the latter has strictly positive out-of-band probability while this probe preserves the initial band exactly. Their close memory probabilities remain compatible with that difference; the operations are distinct.
+**Continuation:** [the retained-clock obstruction](ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md) proves that this probe's conditioned clock poststate cannot equal the earlier orbit-averaged instrument's clock poststate: the latter has strictly positive out-of-band probability while this probe preserves the initial band exactly. [The same probe in an R-time representation](ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md) transports the actual four outcomes and retained cursor isometrically, and establishes a restricted loss of recoverability after an additional classical R reading. The encoding is not an independently quantized gravitational clock switch.
 
 ## Result
 

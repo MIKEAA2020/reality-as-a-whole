@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 845 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 822 verification Python scripts.
+- 846 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 823 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -757,6 +757,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md](ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md) — Relativistic length contraction as a model of constitutive explanation
 - [ZERO_RESIDUE_CLAIM_CORRECTION.md](ZERO_RESIDUE_CLAIM_CORRECTION.md) — Retraction: zero-residue closure was not established
 - [ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) — Retaining the clock: a complete relational instrument and an ambiguity
+- [ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md](ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md) — The same four-outcome probe in an R-time representation
 - [ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md](ZERO_SECTOR_CONSERVED_ENERGY_RECORD_DYNAMICS.md) — Conserved energy exchange writes zero-sector records
 - [ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md](ZERO_SECTOR_MEMORY_CAUSAL_INCIDENCE_CONSTRUCTION.md) — Zero-sector memory, causal roles and experiential incidence
 - [ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md](ZERO_SELF_REVISION_CONSCIOUSNESS_NECESSITY_CONTROL.md) — Self-revision, engineering necessity and the experiential identity
@@ -1713,6 +1714,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_relational_stabilizer_constitution_test.py](verification/zero_relational_stabilizer_constitution_test.py)
 - [verification/zero_relative_gauge_invariant_report_test.py](verification/zero_relative_gauge_invariant_report_test.py)
 - [verification/zero_relativity_constitutive_identity_test.py](verification/zero_relativity_constitutive_identity_test.py)
+- [verification/zero_same_probe_clock_representation_test.py](verification/zero_same_probe_clock_representation_test.py)
 - [verification/zero_sector_memory_incidence_test.py](verification/zero_sector_memory_incidence_test.py)
 - [verification/zero_sector_record_energy_exchange_test.py](verification/zero_sector_record_energy_exchange_test.py)
 - [verification/zero_self_revision_necessity_test.py](verification/zero_self_revision_necessity_test.py)
