@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 893,
-  "bytes": 11716583,
-  "line_count": 106310,
-  "document_count_with_risk_phrases": 845,
+  "document_count": 894,
+  "bytes": 11731461,
+  "line_count": 106488,
+  "document_count_with_risk_phrases": 846,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fbc4d4dbc62efb3195a449399b99460d9b634e0b6ed349a99cdac2fc724099d5",
-      "bytes": 239890,
-      "lines": 1818,
+      "sha256": "ce15162557f6e2de30e178ec29006cbaf30466e1e3b495cf273f890cb80216ad",
+      "bytes": 240195,
+      "lines": 1820,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6158,6 +6158,7 @@
         "LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md",
         "LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md",
         "LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md",
+        "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
         "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
@@ -7096,6 +7097,7 @@
         "verification/lewtas_conservation_subject_gate_test.py",
         "verification/lewtas_fusion_nested_observation_gate.py",
         "verification/lewtas_fusion_nested_observation_gate_test.py",
+        "verification/lighthouse_jt_autonomous_event_readout_test.py",
         "verification/lighthouse_jt_clock_state_comparison_test.py",
         "verification/lighthouse_jt_common_event_frame_switch_test.py",
         "verification/lighthouse_jt_rolling_clock_gate_test.py",
@@ -7691,29 +7693,29 @@
         87,
         171,
         233,
-        280,
-        313,
-        343,
-        391,
-        394,
-        425,
-        494,
-        595,
-        615,
-        628,
-        726,
-        730,
-        757,
-        762,
-        774,
-        777,
-        803,
-        853,
-        890,
-        899,
-        902,
-        905,
-        977
+        281,
+        314,
+        344,
+        392,
+        395,
+        426,
+        495,
+        596,
+        616,
+        629,
+        727,
+        731,
+        758,
+        763,
+        775,
+        778,
+        804,
+        854,
+        891,
+        900,
+        903,
+        906,
+        978
       ]
     },
     {
@@ -10390,10 +10392,39 @@
       ]
     },
     {
+      "path": "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
+      "sha256": "b67c7cd5e2eead78c1e7cd0e80328c015d6504578d891227afda6f68431ecbc2",
+      "bytes": 13277,
+      "lines": 173,
+      "title": "Lighthouse WP0: an autonomous model probe for the same eight-outcome event",
+      "headings": [
+        "Lighthouse WP0: an autonomous model probe for the same eight-outcome event",
+        "Result and scope",
+        "1. Preserve the previous instrument exactly",
+        "2. A bounded gate for noncommuting clock effects",
+        "3. An autonomous enlarged constraint",
+        "4. Explicit cursor and full-instrument error",
+        "5. Operational consequences and scope of the switch",
+        "6. Checks and next work"
+      ],
+      "local_links": [
+        "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
+        "verification/lighthouse_jt_autonomous_event_readout_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        17,
+        55,
+        123,
+        158,
+        160
+      ]
+    },
+    {
       "path": "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
-      "sha256": "71e1476638c8ecc073d46dfa571e1f5c13e61981ccdbd61cbf37c15801878b58",
-      "bytes": 13659,
-      "lines": 159,
+      "sha256": "71f02f4235f6c9979e52e4ac41f9d783db07ab22fb101605b408ea34ee9a7065",
+      "bytes": 14049,
+      "lines": 161,
       "title": "Lighthouse WP0: a common event in York and scalar clock descriptions",
       "headings": [
         "Lighthouse WP0: a common event in York and scalar clock descriptions",
@@ -10406,19 +10437,20 @@
         "6. What is and is not achieved"
       ],
       "local_links": [
+        "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
         "verification/lighthouse_jt_common_event_frame_switch_test.py",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md"
       ],
       "risk_phrase_lines": [
-        5,
         7,
-        42,
-        65,
-        91,
-        146,
-        150
+        9,
+        44,
+        67,
+        93,
+        148,
+        152
       ]
     },
     {
@@ -13713,8 +13745,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "9a05e9db9797a4834b45c1b35efa06fe11755b13692f1d8ee28821dcccc760f3",
-      "bytes": 19123,
+      "sha256": "e4c560e7c898fcf03883eaaea58886e1106bef2695d190bbdd6d5d83db0c404d",
+      "bytes": 19481,
       "lines": 138,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13732,6 +13764,7 @@
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
+        "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
@@ -20659,9 +20692,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "75ece32dfa214adc3ddb920d74a41cc48e5f8af2a7fe1bb7a96217094d60540a",
-      "bytes": 65883,
-      "lines": 145,
+      "sha256": "2ca1682e9d73b4988fe4ac6be210d3c259e4fd94cd05d85785fb1b32d1019d5a",
+      "bytes": 66431,
+      "lines": 146,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20802,6 +20835,7 @@
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
         "LIGHTHOUSE_JT_SCALAR_CLOCK_KMS_AND_MATCHED_READINGS.md",
         "LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md",
+        "LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20846,7 +20880,7 @@
         117,
         118,
         121,
-        134
+        135
       ]
     },
     {
