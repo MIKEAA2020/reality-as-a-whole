@@ -2,6 +2,8 @@
 
 ## Result and scope
 
+**Follow-up:** [a common event and York/scalar frame switch](LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md) adds one qubit, a complete eight-outcome instrument and an explicit same-theory reduction map with retained York-energy shifts and a subsequent York/qubit POVM. It remains an engineered truncated model, not a CFT/gravitational-entropy result.
+
 The previous [rolling-scalar gate](LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md) left the zero-mode state and actual clock readings open. This pass obtains three controlled results:
 
 1. A normalizable finite-resolution scalar clock packet cannot simultaneously be a stationary KMS state of its full noncompact zero-mode algebra. A KMS state for the **remaining** matter, however, is compatible with a separately prepared nonstationary scalar packet at the level of a stated product/scaffold. That changes the total matter state; it is not the original full thermal state.
