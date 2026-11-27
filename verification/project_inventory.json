@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 921,
-  "bytes": 12065407,
-  "line_count": 108916,
-  "document_count_with_risk_phrases": 873,
+  "document_count": 922,
+  "bytes": 12078005,
+  "line_count": 109052,
+  "document_count_with_risk_phrases": 874,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "19b5f9a0b98f4a7c8ca1f6a39adac7761c5eaedb79fcf75cfd26d00f5a8fed3a",
-      "bytes": 20057,
-      "lines": 83,
+      "sha256": "0f8225513c1ac634f1a18556e8f99b0036c2712e8af4694e94b639d271789c60",
+      "bytes": 21277,
+      "lines": 87,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5870,6 +5870,7 @@
         "ZERO_CYCLE_INCIDENCE_PARTITION_RIGOR_REVIEW.md",
         "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
         "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+        "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5883,6 +5884,7 @@
         "verification/formalization_regression_timeout_followup_02.json",
         "verification/formalization_regression_timeout_followup_03.json",
         "verification/formalization_regression_timeout_followup_04.json",
+        "verification/formalization_regression_timeout_followup_05.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5897,7 +5899,9 @@
         44,
         52,
         58,
-        60
+        60,
+        62,
+        64
       ]
     },
     {
@@ -6340,9 +6344,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6de6fbd5250782e4fb8c48984961a92fb63ab57bc943c6821460bd74b318f669",
-      "bytes": 247748,
-      "lines": 1874,
+      "sha256": "5d422b0b08442ba349c5fc31748a138467bc2e72c95b77e4c2d7e37b076036e2",
+      "bytes": 248070,
+      "lines": 1876,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6988,6 +6992,7 @@
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
         "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
+        "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -7936,6 +7941,7 @@
         "verification/zero_clock_relational_povm_test.py",
         "verification/zero_clocked_chirality_history.py",
         "verification/zero_clocked_chirality_history_test.py",
+        "verification/zero_closed_relativistic_plasma_frame_review_test.py",
         "verification/zero_coherent_clock_angular_history.py",
         "verification/zero_coherent_clock_angular_history_test.py",
         "verification/zero_coherent_signed_counterpart.py",
@@ -8220,19 +8226,20 @@
         611,
         631,
         644,
-        750,
-        754,
-        781,
-        786,
-        799,
-        802,
-        828,
-        880,
-        917,
-        926,
-        929,
-        932,
-        1006
+        647,
+        751,
+        755,
+        782,
+        787,
+        800,
+        803,
+        829,
+        881,
+        918,
+        927,
+        930,
+        933,
+        1007
       ]
     },
     {
@@ -22300,6 +22307,40 @@
         170,
         176,
         185
+      ]
+    },
+    {
+      "path": "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
+      "sha256": "32b5100cd850fae63cf0c8df85c1f9099daef7b384d53661e876f15c848760a5",
+      "bytes": 11056,
+      "lines": 130,
+      "title": "Closed plasma: a time-reversal-even response can still weight a cycle unevenly",
+      "headings": [
+        "Closed plasma: a time-reversal-even response can still weight a cycle unevenly",
+        "Finding",
+        "1. One autonomous physical model",
+        "2. A bounded, symmetry-even candidate response",
+        "3. Analytical nonzero result and reversal control",
+        "4. What changes in the incidence ledger?",
+        "5. What is genuinely left to derive",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
+        "ZERO_SPHERE_CLOSED_PLASMA_INCIDENCE_GATE.md",
+        "verification/zero_closed_plasma_scalar_response.py",
+        "verification/zero_closed_plasma_scalar_response_test.py"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        7,
+        32,
+        63,
+        80,
+        99,
+        111,
+        118
       ]
     },
     {

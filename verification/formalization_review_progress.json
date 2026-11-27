@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1949,
-    "selected_claims_reviewed": 31
+    "not_rechecked_in_this_sweep": 1950,
+    "selected_claims_reviewed": 33
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "19b5f9a0b98f4a7c8ca1f6a39adac7761c5eaedb79fcf75cfd26d00f5a8fed3a",
+      "sha256": "0f8225513c1ac634f1a18556e8f99b0036c2712e8af4694e94b639d271789c60",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1141,7 +1141,7 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "6de6fbd5250782e4fb8c48984961a92fb63ab57bc943c6821460bd74b318f669",
+      "sha256": "4bc54a652a2aa73377fd399915a4ed4e35c92b96b62019a26cba2f69dd3b10f1",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -3851,21 +3851,44 @@
       "receipt": null
     },
     {
+      "path": "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
+      "sha256": "32b5100cd850fae63cf0c8df85c1f9099daef7b384d53661e876f15c848760a5",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: relativistic plasma–scalar evolution, discrete symmetries, common rest frame, analytic small-amplitude sign, phase controls and nonconservation of separately weighted candidate currents; the chosen response is not established experience.",
+        "evidence": [
+          "verification/zero_closed_plasma_scalar_response.py",
+          "verification/zero_closed_plasma_scalar_response_test.py",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py"
+        ],
+        "reviewed_sha256": "32b5100cd850fae63cf0c8df85c1f9099daef7b384d53661e876f15c848760a5",
+        "evidence_sha256": {
+          "verification/zero_closed_plasma_scalar_response.py": "9067748a440098c96b9784463e8d8a928db9297c625609b71f3d98d331ff226d",
+          "verification/zero_closed_plasma_scalar_response_test.py": "d0c79e5305c929d283498862d9752482e2ac41691feaac868a6fbfc285b4531a",
+          "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e"
+        }
+      }
+    },
+    {
       "path": "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
       "sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: homogeneous Maxwell/two-stream balance, energy-frame alignment, observer-deformation terms and analytic sign of the unequal-weight cycle integral; chosen observers/weights are not established subjects.",
+        "scope": "Selected: homogeneous Maxwell/two-stream balance, energy-frame alignment, observer-deformation terms and analytic sign of the unequal-weight cycle integral; chosen observers/weights are not established subjects. Follow-up tests the separate equal-frame but time-varying response case; this does not change the earlier moving-frame conclusion.",
         "evidence": [
           "verification/zero_closed_relativistic_plasma_frame_review_test.py",
           "verification/zero_energy_frame_deformation_review_test.py",
-          "verification/sphere_closed_plasma_incidence_test.py"
+          "verification/sphere_closed_plasma_incidence_test.py",
+          "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
+          "verification/zero_closed_plasma_scalar_response_test.py"
         ],
         "reviewed_sha256": "79bc537f6ac22ac7fc2ecba6a47b32aad231945f64ee813b894d55affb191d58",
         "evidence_sha256": {
           "verification/zero_closed_relativistic_plasma_frame_review_test.py": "45cbd36c6e38f14a3b450754100125fba41ea2bc1f456eb23a498e5ea0d1611e",
           "verification/zero_energy_frame_deformation_review_test.py": "bb8a2048ac6d15bc49d5d99223fac373b2e8b057d081f6a8513cc9be92511659",
-          "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611"
+          "verification/sphere_closed_plasma_incidence_test.py": "39184e0fac8746cd534e6acea81e92b75d815eac532d26aae675a28090110611",
+          "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md": "32b5100cd850fae63cf0c8df85c1f9099daef7b384d53661e876f15c848760a5",
+          "verification/zero_closed_plasma_scalar_response_test.py": "d0c79e5305c929d283498862d9752482e2ac41691feaac868a6fbfc285b4531a"
         }
       }
     },
@@ -10650,6 +10673,29 @@
     {
       "path": "verification/zero_clocked_chirality_history_test.py",
       "sha256": "6809ac896c6f2969f6cce4620f17c3467315ff85a63ef28138014fe15bce4d5e",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_closed_plasma_scalar_response.py",
+      "sha256": "9067748a440098c96b9784463e8d8a928db9297c625609b71f3d98d331ff226d",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: autonomous relativistic plasma plus neutral harmonic scalar ODE, period tuning and stipulated bounded response, checked against independent exchange quadrature.",
+        "evidence": [
+          "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
+          "verification/zero_closed_plasma_scalar_response_test.py"
+        ],
+        "reviewed_sha256": "9067748a440098c96b9784463e8d8a928db9297c625609b71f3d98d331ff226d",
+        "evidence_sha256": {
+          "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md": "32b5100cd850fae63cf0c8df85c1f9099daef7b384d53661e876f15c848760a5",
+          "verification/zero_closed_plasma_scalar_response_test.py": "d0c79e5305c929d283498862d9752482e2ac41691feaac868a6fbfc285b4531a"
+        }
+      }
+    },
+    {
+      "path": "verification/zero_closed_plasma_scalar_response_test.py",
+      "sha256": "d0c79e5305c929d283498862d9752482e2ac41691feaac868a6fbfc285b4531a",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

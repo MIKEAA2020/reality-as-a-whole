@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; test execution is not a proof audit.",
+  "followups": [
+    {
+      "pattern": "zero_echo_causal_subject_criterion_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_echo_causal_subject_criterion_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_echo_causal_subject_criterion_test.py",
+          "sha256": "8ef45109e9606be42d5dee39af279960eb5849fe1a23915a23576b0fefb24043",
+          "status": "passed",
+          "tests_run": 12,
+          "exit_code": 0,
+          "seconds": 40.676,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 12 tests in 40.244s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    },
+    {
+      "pattern": "zero_echo_subject_persistence_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_echo_subject_persistence_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_echo_subject_persistence_test.py",
+          "sha256": "6f76e5eea78fe5e32a07f68c7f3703f4e54f5750eec16dc084ed664b2731ec79",
+          "status": "passed",
+          "tests_run": 10,
+          "exit_code": 0,
+          "seconds": 31.848,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 10 tests in 31.576s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    },
+    {
+      "pattern": "zero_full_echo_type_swap_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_full_echo_type_swap_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_full_echo_type_swap_test.py",
+          "sha256": "3d6ce58fcc113c052db1c0b43c1c3f0da7d4d81ef151b0937cb0841a038bcd02",
+          "status": "passed",
+          "tests_run": 4,
+          "exit_code": 0,
+          "seconds": 23.438,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 4 tests in 23.205s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 2
+    }
+  ]
+}
