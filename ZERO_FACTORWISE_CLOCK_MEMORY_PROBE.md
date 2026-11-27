@@ -1,5 +1,7 @@
 # A factorwise clock–memory probe with a no-bin outcome
 
+**Continuation:** [the retained-clock obstruction](ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md) proves that this probe's conditioned clock poststate cannot equal the earlier orbit-averaged instrument's clock poststate: the latter has strictly positive out-of-band probability while this probe preserves the initial band exactly. Their close memory probabilities remain compatible with that difference; the operations are distinct.
+
 ## Result
 
 We replace the previous readout's assumed coupling to the **whole relational effect** `F₁` by two separately specified couplings: one to the existing record memory, the other to the added quantum clock R. A further massive cursor triggers both couplings through a static position profile. The changed positive Hamiltonian gives a complete four-outcome probe instrument: clock-bin hit/no-bin hit and memory record/no-record. It retains the original apparatus, R, and both probe outcomes, and includes measurement backaction.

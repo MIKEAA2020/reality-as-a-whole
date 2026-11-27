@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 887,
-  "bytes": 11626864,
-  "line_count": 105379,
-  "document_count_with_risk_phrases": 839,
+  "document_count": 888,
+  "bytes": 11640814,
+  "line_count": 105578,
+  "document_count_with_risk_phrases": 840,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "79a44b0d7c7c43ede4413e9fffba696719d928d72502e20408e2fadbce605d3d",
-      "bytes": 238299,
-      "lines": 1807,
+      "sha256": "4a7be495145b55e9e9077ca6cf55ebf328932e39d4144504d2fc93bce353b48a",
+      "bytes": 238589,
+      "lines": 1809,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6504,6 +6504,7 @@
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
+        "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -7417,6 +7418,7 @@
         "verification/zero_celestial_geometry_test.py",
         "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
         "verification/zero_clock_finite_reservoir_reuse_test.py",
+        "verification/zero_clock_probe_poststate_obstruction_test.py",
         "verification/zero_clock_relational_povm_test.py",
         "verification/zero_clocked_chirality_history.py",
         "verification/zero_clocked_chirality_history_test.py",
@@ -7689,19 +7691,19 @@
         591,
         611,
         624,
-        721,
-        725,
-        752,
-        757,
-        768,
-        771,
-        797,
-        847,
-        884,
-        893,
-        896,
-        899,
-        971
+        722,
+        726,
+        753,
+        758,
+        769,
+        772,
+        798,
+        848,
+        885,
+        894,
+        897,
+        900,
+        972
       ]
     },
     {
@@ -13571,8 +13573,8 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "c3b91e35ec9f815c5b0ca2df2458407512707a0cd845aa658fe678f174eb2e78",
-      "bytes": 16589,
+      "sha256": "679d8d2f8f19101e797c3d45e14eff56bf4c86f3671a4b1ea941a63b3b5174b9",
+      "bytes": 16914,
       "lines": 134,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
@@ -13604,7 +13606,9 @@
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
-        "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md"
+        "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
+        "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
+        "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -13612,7 +13616,8 @@
         13,
         48,
         54,
-        76
+        76,
+        90
       ]
     },
     {
@@ -20507,9 +20512,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "9d36cb78d98defa27476fa7da2bb827a927bf81d8e830f4ca168ed435006ecd2",
-      "bytes": 62864,
-      "lines": 140,
+      "sha256": "901a0164f38d569033ce6a7b421f529d55c46579bb664caa75147d1fd4243a26",
+      "bytes": 63576,
+      "lines": 141,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20643,6 +20648,8 @@
         "verification/zero_autonomous_clock_event_readout_test.py",
         "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
         "verification/zero_factorized_clock_probe_test.py",
+        "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
+        "verification/zero_clock_probe_poststate_obstruction_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20684,7 +20691,8 @@
         108,
         109,
         112,
-        129
+        117,
+        130
       ]
     },
     {
@@ -21387,6 +21395,38 @@
         100,
         117,
         119
+      ]
+    },
+    {
+      "path": "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
+      "sha256": "06f20459d530e4cfd938556e68b729582f25960b77d14935a82121a84270d6e5",
+      "bytes": 12014,
+      "lines": 194,
+      "title": "Clock poststates: a concrete obstruction to identifying two instruments",
+      "headings": [
+        "Clock poststates: a concrete obstruction to identifying two instruments",
+        "Result",
+        "1. Two operations, one retained observable",
+        "2. The old operation necessarily populates the outside band",
+        "3. An explicit continuum lower bound",
+        "4. What the witness does and does not establish",
+        "5. Finite cyclic control with equal memory probabilities",
+        "6. Next step"
+      ],
+      "local_links": [
+        "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "verification/zero_clock_probe_poststate_obstruction_test.py",
+        "verification/zero_clock_probe_poststate_obstruction_test.py"
+      ],
+      "risk_phrase_lines": [
+        12,
+        44,
+        52,
+        139,
+        168,
+        174,
+        183
       ]
     },
     {
@@ -22874,9 +22914,9 @@
     },
     {
       "path": "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
-      "sha256": "4ad55f35cb2efc1ece125c6f6dde8e4761e0dc7b00ce40e9861ca08682dffe62",
-      "bytes": 15256,
-      "lines": 212,
+      "sha256": "fc3a384d002dd0b965036b4b94a35ddf3ae9a24ed4ba3cf2c6af9ac303dc4e35",
+      "bytes": 15686,
+      "lines": 214,
       "title": "A factorwise clock–memory probe with a no-bin outcome",
       "headings": [
         "A factorwise clock–memory probe with a no-bin outcome",
@@ -22889,15 +22929,17 @@
         "6. Controls, what is new and what is not"
       ],
       "local_links": [
+        "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "verification/zero_factorized_clock_probe_test.py",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "verification/zero_factorized_clock_probe_test.py"
       ],
       "risk_phrase_lines": [
-        7,
-        86,
-        196
+        3,
+        9,
+        88,
+        198
       ]
     },
     {
@@ -25757,8 +25799,8 @@
     },
     {
       "path": "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
-      "sha256": "0af561212fe15f3d8f245075b27270db669d7f63fcda99d90c2aa1b4750af320",
-      "bytes": 12436,
+      "sha256": "c92c7747d20f99ae3a41f0b319af8b5676cbbc999e66fea1d5295051c970a2f2",
+      "bytes": 12615,
       "lines": 173,
       "title": "Retaining the clock: a complete relational instrument and an ambiguity",
       "headings": [
@@ -25774,6 +25816,7 @@
       "local_links": [
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
+        "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
         "verification/zero_two_window_retained_clock_instrument_test.py",
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md"
