@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 884,
-  "bytes": 11577668,
-  "line_count": 104837,
-  "document_count_with_risk_phrases": 836,
+  "document_count": 885,
+  "bytes": 11592590,
+  "line_count": 104977,
+  "document_count_with_risk_phrases": 837,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "78f7eb81daa839baa51d200d473fccb17deb4e35a86863d9875380a665784b35",
-      "bytes": 237470,
-      "lines": 1801,
+      "sha256": "f59a0bb49f9f7402a6a9ed3a21ae0a722a0cb1187ce00d823d55db84718828df",
+      "bytes": 237769,
+      "lines": 1803,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6502,6 +6502,7 @@
         "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md",
         "ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
         "ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md",
@@ -7641,6 +7642,7 @@
         "verification/zero_total_symmetry_measure_test.py",
         "verification/zero_two_window_autonomous_cursor_reader_test.py",
         "verification/zero_two_window_autonomous_support_dynamics_test.py",
+        "verification/zero_two_window_clock_fiber_transport_test.py",
         "verification/zero_two_window_coherence_tomography_test.py",
         "verification/zero_two_window_commutator_certificate.py",
         "verification/zero_two_window_commutator_certificate_test.py",
@@ -7682,19 +7684,20 @@
         490,
         591,
         611,
-        718,
-        722,
-        749,
-        754,
-        765,
-        768,
-        794,
-        844,
-        881,
-        890,
-        893,
-        896,
-        968
+        623,
+        719,
+        723,
+        750,
+        755,
+        766,
+        769,
+        795,
+        845,
+        882,
+        891,
+        894,
+        897,
+        969
       ]
     },
     {
@@ -13564,9 +13567,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "663b1b74e18bac8cfb08ed37f756549ce6e98364e496754356286f85e3abd878",
-      "bytes": 15242,
-      "lines": 132,
+      "sha256": "f26c2f4d608b04f32127028f2553dd515233c91ac7b40ffd0f0f228cce148b20",
+      "bytes": 15790,
+      "lines": 134,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
         "Problem of time: divide-and-conquer work plan",
@@ -13593,7 +13596,8 @@
         "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "AUTONOMOUS_STOP_CLOCK.md",
-        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md"
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md"
       ],
       "risk_phrase_lines": [
         7,
@@ -20496,9 +20500,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "18f0982254a71ef8a9b2e0d1357d778ed33c48f43b772aff0a8cfe5cfe3f4608",
-      "bytes": 60795,
-      "lines": 137,
+      "sha256": "247b605add56397e09bcc0afd86756dd60a6912095330df8e5399e70c61c552e",
+      "bytes": 61458,
+      "lines": 138,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20626,6 +20630,8 @@
         "verification/zero_two_window_second_clock_test.py",
         "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
         "verification/zero_two_window_retained_clock_instrument_test.py",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
+        "verification/zero_two_window_clock_fiber_transport_test.py",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20667,7 +20673,7 @@
         108,
         109,
         112,
-        126
+        127
       ]
     },
     {
@@ -21303,6 +21309,44 @@
         78,
         136,
         152
+      ]
+    },
+    {
+      "path": "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
+      "sha256": "b95aae8c789f4841f760ec3836a21c0d3b2ae6dd70beef704863436d1d2d1fe4",
+      "bytes": 12473,
+      "lines": 133,
+      "title": "Transporting the retained clock instrument: what is exact and what is lost",
+      "headings": [
+        "Transporting the retained clock instrument: what is exact and what is lost",
+        "Result",
+        "1. Fixed model, fixed operation",
+        "2. Exact transport on the entire dilation",
+        "3. Exact derivation of the scalar-smeared reduced instrument",
+        "4. Correlations change the formula, but not the dilation identity",
+        "5. What discarding the label really loses",
+        "6. Verification and scope"
+      ],
+      "local_links": [
+        "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
+        "verification/zero_two_window_clock_fiber_transport_test.py"
+      ],
+      "risk_phrase_lines": [
+        1,
+        5,
+        7,
+        9,
+        13,
+        31,
+        45,
+        51,
+        80,
+        86,
+        100,
+        117,
+        119
       ]
     },
     {
@@ -25645,9 +25689,9 @@
     },
     {
       "path": "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
-      "sha256": "f7a83546816cc541dd485521e7e3bfa88437a026d19ac35e4e51e2ab00a4958a",
-      "bytes": 11493,
-      "lines": 171,
+      "sha256": "6872b608c17d5ef319ace89a9d97b7a38b995ab9d8b736d1dbc760d15950f5bd",
+      "bytes": 12221,
+      "lines": 173,
       "title": "Retaining the clock: a complete relational instrument and an ambiguity",
       "headings": [
         "Retaining the clock: a complete relational instrument and an ambiguity",
@@ -25660,13 +25704,16 @@
         "Reproduce"
       ],
       "local_links": [
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-        "verification/zero_two_window_retained_clock_instrument_test.py"
+        "verification/zero_two_window_retained_clock_instrument_test.py",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md"
       ],
       "risk_phrase_lines": [
-        7,
-        70,
-        156
+        3,
+        9,
+        72,
+        158
       ]
     },
     {
@@ -28429,8 +28476,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md",
-      "sha256": "ff400385dea95b9272e484cea65653e7f760f08022372792023f45d11c55c9e7",
-      "bytes": 14522,
+      "sha256": "e0176800c906b1f56f920589d827db7e12dc8d668e6d20a18552826a35f0ca6c",
+      "bytes": 14733,
       "lines": 168,
       "title": "A second quantum clock for the same autonomous record",
       "headings": [
@@ -28445,6 +28492,7 @@
       ],
       "local_links": [
         "ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md",
+        "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "verification/zero_two_window_second_clock_test.py",

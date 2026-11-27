@@ -1,5 +1,7 @@
 # Retaining the clock: a complete relational instrument and an ambiguity
 
+**Continuation:** [fiber transport and the lost record](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) now derives an exact connection between this particular enlarged instrument's retained dilation and the earlier scalar-smeared reduced map. The derivation requires a fiber-dependent identification before tracing the orbit environment and does not yet supply a physical R-relative frame switch.
+
 ## Result
 
 The [previous two-clock construction](ZERO_TWO_WINDOW_SECOND_PHYSICAL_CLOCK.md) established a normalized, constraint-invariant **effect** for the same cursor-memory outcome relative to a second quantum clock R. It also defined one reduced-output convention after discarding clock information. This pass keeps the clock and original apparatus in the output and constructs an explicit complete instrument on that enlarged physical initial-data space.
@@ -67,7 +69,7 @@ T_m(U(s)ρU(s)†) = U(s)T_m(ρ)U(s)†.
 
 The individual K_m(t) need not commute with H_tot. Covariance of the whole operation is not a demonstration that a physical observer can autonomously implement it or that each unobserved t-label is a gauge-invariant event. `U(t)†` transports the selected operation back to one common anchor in this mathematical representation; it is not a claim that a real device physically reverses the universe.
 
-This gives a complete retained-output instrument, but it **chooses** a Lüders square root for the finite-bin clock effect and discards the t-label. Other dilations and output conventions are possible. In particular, the earlier scalar-slice reduced map was a specified mixture after discarding reference information; its output state has not been proved equal to `Tr_R,cursor,flags T_m(ρ)` under a fully constructed clock-switch map. Equality of their outcome probabilities does not prove equality of those operations.
+This gives a complete retained-output instrument, but it **chooses** a Lüders square root for the finite-bin clock effect and discards the t-label. Other dilations and output conventions are possible. In particular, the earlier scalar-slice reduced map was a specified mixture after discarding reference information; its output state has not been proved equal to `Tr_R,cursor,flags T_m(ρ)` under a fully constructed clock-switch map. Equality of their outcome probabilities does not prove equality of those operations. The [subsequent derivation](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) shows exactly how the earlier map follows from the retained dilation **after** a fiber-dependent scalar-slice identification and the specified partial traces; it does not identify it with the raw anchor marginal or establish a physical R-relative switch.
 
 ## 3. Two more instruments with the same event probabilities
 

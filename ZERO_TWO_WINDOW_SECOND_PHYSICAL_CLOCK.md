@@ -1,6 +1,6 @@
 # A second quantum clock for the same autonomous record
 
-**Continuation:** [the retained-clock instrument analysis](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) constructs an explicit normalized clock-neutral instrument on the enlarged physical space and demonstrates that the same clock-neutral effects can have different retained poststates. It does not identify a unique physical realization or complete the clock switch.
+**Continuation:** [the retained-clock instrument analysis](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) constructs an explicit normalized clock-neutral instrument on the enlarged physical space and demonstrates that the same clock-neutral effects can have different retained poststates. [Fiber transport](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) now derives the reduced-output convention below from that selected instrument after a fiber-dependent scalar-slice identification. Neither step identifies a unique physical realization or completes the R-relative clock switch.
 
 ## Result
 

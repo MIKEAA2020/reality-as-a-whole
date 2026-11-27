@@ -87,7 +87,9 @@ The arrows are dependencies between proofs, not stages in an external time in wh
 
 ## 4. Prove the same-event comparison and quantify finite information
 
-**Deliverable.** Map preparations, clocks, instruments, reference records and conditioning events between the two descriptions. Establish equality of the full joint distribution or a uniform `TV≤ε_switch` on the common domain. Preserve failure and no-click outcomes. Then quantify conditioning: if a conditioning event can be arbitrarily rare, do not claim a uniform conditional error without a positive lower probability bound.
+**Partial result.** [Fiber transport and the lost record](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) establishes a full retained-dilation unitary identity for the particular enlarged instrument, and derives the earlier scalar-smeared reduced map for independent clock preparation, including arbitrary input references. This uses an auxiliary orbit label and a scalar-slice identification, not an operational R-relative switch. A cyclic control shows that discarding the label can lose recoverable coherence.
+
+**Deliverable.** Map preparations, clocks, instruments, reference records and conditioning events between operational scalar-relative and R-relative descriptions. Establish equality of the full joint distribution or a uniform `TV≤ε_switch` on the common domain. Preserve failure and no-click outcomes. Then quantify conditioning: if a conditioning event can be arbitrarily rare, do not claim a uniform conditional error without a positive lower probability bound.
 
 **Data control.** If using a finite-dimensional packet family, prove its support or include leakage; calibrate the actual apparatus and reference states; specify statistical confidence and systematic/model errors. Avoid importing the old 32-outcome calibration into the changed constraint without a derived transfer. The previous 13-slice injectivity uses ideal complex signals and does not imply a stable finite-record inverse.
 

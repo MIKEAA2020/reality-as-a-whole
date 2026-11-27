@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 841 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 818 verification Python scripts.
+- 842 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 819 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -620,6 +620,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md](ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md) — Connecting molecular chirality, zero balance and the clocked record
 - [ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md](ZERO_CHIRALITY_ECHO_RECORD_ROTATIONAL_BACKACTION.md) — A three-direction chirality record on the original spherical echo
 - [ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md](ZERO_CLOCKED_CHIRALITY_RECORD_AND_RETENTION.md) — A clock-localized chirality record across the original echo
+- [ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md](ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md) — Transporting the retained clock instrument: what is exact and what is lost
 - [ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md](ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md) — One coherent angular echo, purified reservoir and relational clock
 - [ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md](ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md) — A coherent angular sphere record in the original quantum echo
 - [ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md](ZERO_COHERENT_COUNTERPART_PAIRED_HISTORY.md) — A sign-reversing counterpart of the coherent angular history
@@ -1773,6 +1774,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_total_symmetry_measure_test.py](verification/zero_total_symmetry_measure_test.py)
 - [verification/zero_two_window_autonomous_cursor_reader_test.py](verification/zero_two_window_autonomous_cursor_reader_test.py)
 - [verification/zero_two_window_autonomous_support_dynamics_test.py](verification/zero_two_window_autonomous_support_dynamics_test.py)
+- [verification/zero_two_window_clock_fiber_transport_test.py](verification/zero_two_window_clock_fiber_transport_test.py)
 - [verification/zero_two_window_coherence_tomography_test.py](verification/zero_two_window_coherence_tomography_test.py)
 - [verification/zero_two_window_commutator_certificate.py](verification/zero_two_window_commutator_certificate.py)
 - [verification/zero_two_window_commutator_certificate_test.py](verification/zero_two_window_commutator_certificate_test.py)
