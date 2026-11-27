@@ -4,7 +4,7 @@
 
 ## Scope
 
-- 846 root Markdown documents including this register; 43 research Markdown documents.
+- 847 root Markdown documents including this register; 43 research Markdown documents.
 - 66 original uploaded files, including provenance metadata; 823 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
@@ -276,6 +276,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md](LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md) — Lewtas on mental chemistry: what it adds and what remains open
 - [LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md](LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md) — When fusion and persistent private subjects make the same reports
 - [LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md](LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md) — What Lighthouse can contribute to a zero-total-energy whole
+- [LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md](LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md) — Lighthouse v2.2: research-plan follow-through
 - [LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md](LIGHTHOUSE_V22_COMPARATIVE_ASSESSMENT.md) — Lighthouse v2.2: comparison with the framework, battery and time programme
 - [LINEARIZED_LOCAL_GRAVITY_RECORDS.md](LINEARIZED_LOCAL_GRAVITY_RECORDS.md) — Local constraints and recorded curvature in linearized lattice gravity
 - [LINEARIZED_SPHERICAL_RECORD.md](LINEARIZED_SPHERICAL_RECORD.md) — Linearized spherical relational records beyond the frozen-geodesic approximation

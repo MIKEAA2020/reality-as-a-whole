@@ -2,6 +2,8 @@
 
 ## Mission and current position
 
+**Priority correction:** [Lighthouse research-plan follow-through](LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md) maps the original WP0–WP7 against this work. The recent same-instrument sequence advances WP1-like operational questions but does not implement WP0's gravitational dressed-algebra/entropy comparison. The next pass should independently audit the related closed-Milne rolling-matter admissibility calculation and, only if that survives, work on its physical inner product, common tasks and dressed algebras; a no-comparator outcome is not clock equivalence or inequivalence. The sequence below remains useful as an operational branch, not the sole or automatic priority.
+
 The goal is not merely to construct another clock. It is to show how one self-sufficient physical–experiential whole can contain ordered, accessible change without an external timekeeper, and to determine whether different internal clocks consistently describe the **same events**. The [frontier specification](PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md) states the broader mathematical and physical obligations.
 
 Work in small passes, but keep one dependency graph. Each pass must produce a theorem, construction, counterexample, operational error bound or actual empirical comparison; state its assumptions; run the relevant checks; and record what it changes downstream. A successful conditional step is not a declaration that the whole problem is solved. No number of turns can guarantee the final derivation, but the work should continue along the critical path rather than stopping at a list of obstacles.
