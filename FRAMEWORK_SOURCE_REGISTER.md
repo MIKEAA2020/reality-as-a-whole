@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 852 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 828 verification Python scripts.
+- 853 root Markdown documents including this register; 43 research Markdown documents.
+- 67 original uploaded files, including provenance metadata; 828 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -276,6 +276,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md](LEWTAS_2016_MENTAL_CHEMISTRY_AND_FRAMEWORK_AUDIT.md) — Lewtas on mental chemistry: what it adds and what remains open
 - [LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md](LEWTAS_FUSION_PRIVATE_COPY_IDENTIFICATION_GATE.md) — When fusion and persistent private subjects make the same reports
 - [LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md](LIGHTHOUSE_ADAPTED_TO_ZERO_TOTAL_ENERGY.md) — What Lighthouse can contribute to a zero-total-energy whole
+- [LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md](LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md) — Source correction: the DeepSeek Claude-time critique
 - [LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md](LIGHTHOUSE_JT_AUTONOMOUS_EIGHT_OUTCOME_PROBE.md) — Lighthouse WP0: an autonomous model probe for the same eight-outcome event
 - [LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md](LIGHTHOUSE_JT_COMMON_EVENT_AND_CLOCK_SWITCH.md) — Lighthouse WP0: a common event in York and scalar clock descriptions
 - [LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md](LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md) — Lighthouse WP0: a closed-Milne scalar-clock admissibility gate
@@ -925,6 +926,7 @@ The user approved inclusion of the original uploads in this public repository. T
 - [sources/uploads/B_MACH.0000033116.57574.95.pdf](sources/uploads/B_MACH.0000033116.57574.95.pdf)
 - [sources/uploads/Bostrom's simulation hypothesis.md](sources/uploads/Bostrom%27s%20simulation%20hypothesis.md)
 - [sources/uploads/Data_Spike_Trains.txt](sources/uploads/Data_Spike_Trains.txt)
+- [sources/uploads/DeepSeek-Claude time reconciliation critique.txt](sources/uploads/DeepSeek-Claude%20time%20reconciliation%20critique.txt)
 - [sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt](sources/uploads/DeepSeek_Brain-specificity-confidence_20261101-1859.txt)
 - [sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt](sources/uploads/DeepSeek_Decombination-vs-combination_20261104-1711.txt)
 - [sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt](sources/uploads/DeepSeek_Evaluate-universal-principles_20261125-0858.txt)
