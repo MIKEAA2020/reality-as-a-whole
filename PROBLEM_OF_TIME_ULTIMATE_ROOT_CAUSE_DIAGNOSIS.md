@@ -1,5 +1,7 @@
 # Why have we not fully solved the problem of time?
 
+**Frontier and exact benchmark:** [what remains to solve](PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md) separates the technical, physical and constitutive targets, formulates a same-instrument clock-switch criterion and identifies a quantitative limitation of the current support certificate.
+
 ## The diagnosis
 
 **Concrete problem:** the repository can construct internal change in stationary constrained models and can compare some clocks, yet it cannot demonstrate that its account supplies one physically consistent description of the same clocked events across the relevant quantum-gravitational regimes. An earlier document declared the problem closed, but its own [evidence audit](TIME_SOLUTION_EVIDENCE_AUDIT.md) retracts that conclusion.

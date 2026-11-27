@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 877,
-  "bytes": 11466185,
-  "line_count": 103585,
-  "document_count_with_risk_phrases": 829,
+  "document_count": 878,
+  "bytes": 11491056,
+  "line_count": 103786,
+  "document_count_with_risk_phrases": 830,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5878,9 +5878,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "2754c8860c3007c71c4481583b2c75eec2c438ee638653858b8aa1d4a8184030",
-      "bytes": 235761,
-      "lines": 1789,
+      "sha256": "ed980c10939a937e72f4849a5fca46494463ff82f274acbde5da6b3948a73068",
+      "bytes": 235934,
+      "lines": 1790,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6267,6 +6267,7 @@
         "PRIVATION_AND_AXIARCHIC_GOOD.md",
         "PRIVATION_STRESS_TEST.md",
         "PROBLEM_OF_TIME_CLOSED.md",
+        "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "PROJECT_COHERENCE_AUDIT.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
@@ -7665,24 +7666,24 @@
         309,
         339,
         387,
-        388,
-        419,
-        488,
-        589,
-        609,
-        716,
-        720,
-        747,
-        752,
-        762,
-        765,
-        791,
-        837,
-        874,
-        883,
-        886,
-        889,
-        961
+        389,
+        420,
+        489,
+        590,
+        610,
+        717,
+        721,
+        748,
+        753,
+        763,
+        766,
+        792,
+        838,
+        875,
+        884,
+        887,
+        890,
+        962
       ]
     },
     {
@@ -13551,10 +13552,53 @@
       ]
     },
     {
+      "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
+      "sha256": "4c67492b4c141161cabbb11adde0ffe76ab2b82f83501aa71724e8bf04d669dd",
+      "bytes": 23801,
+      "lines": 197,
+      "title": "The problem of time: what remains, formulated precisely",
+      "headings": [
+        "The problem of time: what remains, formulated precisely",
+        "Direct answer",
+        "1. What the problem actually is",
+        "2. What we already have, in decreasing order of direct relevance",
+        "3. A rigorous target for the physical facet",
+        "4. The strongest specific near-term problem",
+        "5. The deepest remaining question for this framework",
+        "6. What would change the verdict?"
+      ],
+      "local_links": [
+        "TIME_SOLUTION_EVIDENCE_AUDIT.md",
+        "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
+        "ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md",
+        "TURNING_CLOCK_ATLAS.md",
+        "ZERO_TWO_WINDOW_FULL_SLICE_CLOCK.md",
+        "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
+        "ZERO_TWO_WINDOW_COHERENCE_AND_CALIBRATION_TEST.md",
+        "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
+        "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
+        "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md"
+      ],
+      "risk_phrase_lines": [
+        5,
+        11,
+        15,
+        57,
+        84,
+        94,
+        147,
+        156,
+        169,
+        173,
+        177,
+        197
+      ]
+    },
+    {
       "path": "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
-      "sha256": "2e981a0c628530c47d5178f179cb011c469eea7180f1c2ca7af19457f36019fa",
-      "bytes": 19682,
-      "lines": 119,
+      "sha256": "2f937093bfd83e9d5c55f72137d1f32cd7e0b2a341a9b97adbad2ef6d1ed14cc",
+      "bytes": 19985,
+      "lines": 121,
       "title": "Why have we not fully solved the problem of time?",
       "headings": [
         "Why have we not fully solved the problem of time?",
@@ -13567,6 +13611,7 @@
         "6. Why our earlier work overstated completion"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
         "ZERO_PAGE_WOOTTERS_1983_RELATIONAL_SPHERE.md",
         "INTRINSIC_TIME_CLOCK_REMOVAL_AND_CORRELATION_GATE.md",
@@ -13588,16 +13633,17 @@
       ],
       "risk_phrase_lines": [
         1,
-        5,
-        12,
-        51,
+        3,
+        7,
+        14,
         53,
-        65,
+        55,
         67,
-        93,
+        69,
         95,
-        101,
-        119
+        97,
+        103,
+        121
       ]
     },
     {
@@ -20395,9 +20441,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "f9cc340c9317c99e668e5a0c73eac82f87ccf5f75661a6473bd04061b6eed599",
-      "bytes": 57080,
-      "lines": 131,
+      "sha256": "ae085859b12d8e1f55614f7a0a1697467ade30a389e14071997a1a8a90d0da2e",
+      "bytes": 57674,
+      "lines": 132,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20513,6 +20559,7 @@
         "verification/zero_molecular_chirality_amplification_test.py",
         "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md",
         "verification/zero_chiral_chemistry_clock_internal_bridge_test.py",
+        "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20551,7 +20598,8 @@
         99,
         102,
         105,
-        120
+        108,
+        121
       ]
     },
     {
