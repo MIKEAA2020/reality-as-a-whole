@@ -1,5 +1,7 @@
 # An autonomous readout of the clock-neutral event—and a cursor-sign correction
 
+**Continuation:** [a factorwise clock–memory probe](ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md) replaces this report's assumed coupling to the joint F₁ effect by separate R-clock and old-memory couplings, with four outcomes and a conditional probability comparison. It still assumes an engineered clock spectral operator and scalar synchronization; its full poststate operation is not this report's Lüders instrument.
+
 ## Result and correction
 
 We construct a time-independent, positive-Hamiltonian **model readout** of the [previous clock-neutral effect](ZERO_RETAINED_CLOCK_INSTRUMENT_AMBIGUITY.md) F₁. A new moving cursor triggers a pointer coupling. For a specified cursor preparation and finite duration, the pointer instrument approximates the **relational Lüders instrument** `ρ↦√F_m ρ√F_m`, including the full old apparatus and R clock in the output, with half-diamond error below **0.000318** on arbitrary old-system inputs and untouched references. Both m=0 and m=1 are retained. This is a conditional mathematical construction, not an engineered or local detector.

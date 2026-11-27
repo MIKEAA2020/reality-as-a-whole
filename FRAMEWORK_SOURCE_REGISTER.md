@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 843 root Markdown documents including this register; 43 research Markdown documents.
-- 66 original uploaded files, including provenance metadata; 820 verification Python scripts.
+- 844 root Markdown documents including this register; 43 research Markdown documents.
+- 66 original uploaded files, including provenance metadata; 821 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -667,6 +667,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md](ZERO_EXPERIENCE_INTRINSIC_IDENTITY_RELATIONAL_GRAVITY.md) — One physical constitution: zero, relational distinction and intrinsic experience
 - [ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md](ZERO_EXPERIENCE_NECESSITY_AND_EXPLANATORY_BEDROCK.md) — Does actual experience make the zero constitution necessary and self-explanatory?
 - [ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md](ZERO_EXPERIENCE_STEERING_NO_SIGNALLING_CONSTITUTION.md) — A constraint on identifying experience with the steered sphere
+- [ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md](ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md) — A factorwise clock–memory probe with a no-bin outcome
 - [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
 - [ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) — Zero, flag-record incidence, and a physically reversible readout
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
@@ -1605,6 +1606,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_energy_sphere_work_incidence_test.py](verification/zero_energy_sphere_work_incidence_test.py)
 - [verification/zero_er_epr_access_teleportation_test.py](verification/zero_er_epr_access_teleportation_test.py)
 - [verification/zero_experience_steering_no_signalling_test.py](verification/zero_experience_steering_no_signalling_test.py)
+- [verification/zero_factorized_clock_probe_test.py](verification/zero_factorized_clock_probe_test.py)
 - [verification/zero_five_ray_record_current_unification_test.py](verification/zero_five_ray_record_current_unification_test.py)
 - [verification/zero_flag_record_algebra_echo_test.py](verification/zero_flag_record_algebra_echo_test.py)
 - [verification/zero_full_echo_type_swap_test.py](verification/zero_full_echo_type_swap_test.py)
