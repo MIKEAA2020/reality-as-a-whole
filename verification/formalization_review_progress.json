@@ -3,7 +3,7 @@
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
     "not_rechecked_in_this_sweep": 1953,
-    "selected_claims_reviewed": 12
+    "selected_claims_reviewed": 15
   },
   "records": [
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "56ac1ff46a70ad3f0a3480287668cbbd535288c6f25b20c4a3897d1f90ff1e1c",
+      "sha256": "9a85406ec425fb9728c701649f3026828e9451a561a155ba7ce3a56f14b7e09a",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -5151,9 +5151,22 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
-      "sha256": "e83e1415864e61219fff58db3c7ebc49336730c25addfd21d489d6a9dc1a7b93",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: numerical substitution of improved commutator into stated finite-horizon P/Q memory error budget only. The unbounded-operator domain, pulse and dispersion estimates are inherited, not independently proved.",
+        "evidence": [
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+          "verification/zero_two_window_independent_gram.py",
+          "verification/zero_two_window_independent_gram_test.py"
+        ],
+        "reviewed_sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
+        "evidence_sha256": {
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_SUPPORT_DYNAMICS.md",
@@ -5166,17 +5179,19 @@
       "sha256": "31f882a6434ae302aba8130716f55aaaed16a090be50842a24e931aa0611b2f0",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: band operator, residual-Gram and overlap bounds, remainder assumptions and flag consequence; tightened overlap and norm bounds. The long rational Gram calculation was not independently reimplemented.",
+        "scope": "Selected: continuum operator, residual-Gram, overlap, remainder and flag bound chain; exact polynomial Gram arithmetic independently recomputed. Same underlying model assumptions; no formal proof assistant.",
         "evidence": [
           "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
-          "verification/zero_two_window_commutator_refined_certificate.py",
-          "verification/zero_two_window_commutator_refined_certificate_test.py"
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+          "verification/zero_two_window_independent_gram.py",
+          "verification/zero_two_window_independent_gram_test.py"
         ],
         "reviewed_sha256": "31f882a6434ae302aba8130716f55aaaed16a090be50842a24e931aa0611b2f0",
         "evidence_sha256": {
-          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
-          "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
-          "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
+          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md": "f1371435ed68a14f07a2c279690a86667ae209752eef24f7f9cc94ce47a97099",
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07"
         }
       }
     },
@@ -5188,16 +5203,22 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
-      "sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+      "sha256": "f1371435ed68a14f07a2c279690a86667ae209752eef24f7f9cc94ce47a97099",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: packet-overlap formula, rational refinements, residual norm and conditional flag-error implications; independent numerical controls are not a continuum proof.",
+        "scope": "Selected: packet overlap, rational refinement, residual norm and flag-error implications; updated for independent Gram implementation and earlier overlooked cursor continuation.",
         "evidence": [
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+          "verification/zero_two_window_independent_gram.py",
+          "verification/zero_two_window_independent_gram_test.py",
           "verification/zero_two_window_commutator_refined_certificate.py",
           "verification/zero_two_window_commutator_refined_certificate_test.py"
         ],
-        "reviewed_sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
+        "reviewed_sha256": "f1371435ed68a14f07a2c279690a86667ae209752eef24f7f9cc94ce47a97099",
         "evidence_sha256": {
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07",
           "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
           "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
         }
@@ -5238,6 +5259,23 @@
       "sha256": "6539a316f2a723652e991eced460d16d966c891097bb91b598a5d0ff5a6b90c6",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+      "sha256": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: exact Gram comparison, alternate overlap and kernel remainder bounds and conditional cursor error arithmetic; same analytic and model assumptions, not a physical verification.",
+        "evidence": [
+          "verification/zero_two_window_independent_gram.py",
+          "verification/zero_two_window_independent_gram_test.py"
+        ],
+        "reviewed_sha256": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+        "evidence_sha256": {
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07"
+        }
+      }
     },
     {
       "path": "ZERO_TWO_WINDOW_RECORDED_HISTORY_AND_FINITE_INTERVAL.md",
@@ -11772,17 +11810,17 @@
       "sha256": "742a05b21e922d17ae412ea57ab92891582c1554d13eda2603c0c748f5016ccb",
       "status": "selected_claims_reviewed",
       "receipt": {
-        "scope": "Selected: polynomial coefficient/moment representation and stated Taylor-remainder, norm and rational threshold chain; long exact rational sums reused, not independently reimplemented.",
+        "scope": "Selected: polynomial/moment representation, rational Gram entries and stated Taylor-remainder and norm thresholds; independent complex-rational implementation matches every Gram entry and bounds remainders separately.",
         "evidence": [
-          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
-          "verification/zero_two_window_commutator_refined_certificate.py",
-          "verification/zero_two_window_commutator_refined_certificate_test.py"
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+          "verification/zero_two_window_independent_gram.py",
+          "verification/zero_two_window_independent_gram_test.py"
         ],
         "reviewed_sha256": "742a05b21e922d17ae412ea57ab92891582c1554d13eda2603c0c748f5016ccb",
         "evidence_sha256": {
-          "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
-          "verification/zero_two_window_commutator_refined_certificate.py": "a90817fca1e211011e1420d64417fcfb5aa096165217e3b1ba0f353debf798d3",
-          "verification/zero_two_window_commutator_refined_certificate_test.py": "b95be8102d74b323a8d5bd422ac91f3728240f2c812046d16b5d45af95b220af"
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+          "verification/zero_two_window_independent_gram.py": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07"
         }
       }
     },
@@ -11831,6 +11869,29 @@
     {
       "path": "verification/zero_two_window_imperfect_support_flag_test.py",
       "sha256": "3088c18968e623cd18b58994d4fc5a5f00300a661d87a76cc519f3c96a450f2a",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_two_window_independent_gram.py",
+      "sha256": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: complex rational polynomial implementation, overlap/remainder inequalities and conditional cursor arithmetic, including exact comparison with original verifier.",
+        "evidence": [
+          "verification/zero_two_window_independent_gram_test.py",
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md"
+        ],
+        "reviewed_sha256": "cbbbb810c42ca4ededddb65fd71ceefb6882f496b5875112814a4a93f858b5b4",
+        "evidence_sha256": {
+          "verification/zero_two_window_independent_gram_test.py": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07",
+          "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72"
+        }
+      }
+    },
+    {
+      "path": "verification/zero_two_window_independent_gram_test.py",
+      "sha256": "b768d1af756f640becfc652e45edb993ecd3c2dac629cc091c1a5cf2991e9d07",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 914,
-  "bytes": 11983590,
-  "line_count": 108026,
-  "document_count_with_risk_phrases": 866,
+  "document_count": 915,
+  "bytes": 11993719,
+  "line_count": 108120,
+  "document_count_with_risk_phrases": 867,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5831,9 +5831,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "56ac1ff46a70ad3f0a3480287668cbbd535288c6f25b20c4a3897d1f90ff1e1c",
-      "bytes": 11740,
-      "lines": 53,
+      "sha256": "9a85406ec425fb9728c701649f3026828e9451a561a155ba7ce3a56f14b7e09a",
+      "bytes": 12662,
+      "lines": 57,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5842,8 +5842,8 @@
         "Batch 1: completed selected checks and improvements",
         "Batch 2: incidence support and noncommutation",
         "Batch 3: continuum commutator certificate",
-        "Regression checks: bounded batches",
-        "Continuing queue"
+        "Batch 4: independent continuum arithmetic and existing cursor transfer",
+        "Regression checks: bounded batches"
       ],
       "local_links": [
         "verification/formalization_review_progress.json",
@@ -5863,13 +5863,13 @@
         "verification/zero_local_incidence_noncommuting_review_test.py",
         "verification/zero_two_window_commutator_certificate_test.py",
         "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
-        "verification/zero_two_window_commutator_refined_certificate.py",
-        "verification/zero_two_window_commutator_refined_certificate_test.py",
+        "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
         "verification/formalization_regression_batch_03.json",
         "verification/formalization_regression_batch_04.json",
+        "verification/formalization_regression_batch_05.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5878,7 +5878,8 @@
         21,
         26,
         28,
-        32
+        32,
+        36
       ]
     },
     {
@@ -29165,9 +29166,9 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
-      "sha256": "e83e1415864e61219fff58db3c7ebc49336730c25addfd21d489d6a9dc1a7b93",
-      "bytes": 14800,
-      "lines": 203,
+      "sha256": "79f9e5464279e309d22d911b97fb2c1afa222b698004199b9ef048a08cb63b71",
+      "bytes": 15304,
+      "lines": 205,
       "title": "An autonomous cursor reads the transient support flag",
       "headings": [
         "An autonomous cursor reads the transient support flag",
@@ -29182,6 +29183,7 @@
       "local_links": [
         "ZERO_AUTONOMOUS_CLOCK_EVENT_READOUT.md",
         "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
+        "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "verification/zero_two_window_autonomous_cursor_reader_test.py",
@@ -29189,13 +29191,13 @@
         "verification/zero_two_window_autonomous_cursor_reader_test.py"
       ],
       "risk_phrase_lines": [
-        31,
-        94,
-        131,
-        176,
-        186,
+        33,
+        96,
+        133,
+        178,
         188,
-        190
+        190,
+        192
       ]
     },
     {
@@ -29298,8 +29300,8 @@
     },
     {
       "path": "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
-      "sha256": "87c26cee39e37be4370672b9095da1eae92b9cbee5cc8fe997b614f4762ec933",
-      "bytes": 8080,
+      "sha256": "f1371435ed68a14f07a2c279690a86667ae209752eef24f7f9cc94ce47a97099",
+      "bytes": 8743,
       "lines": 98,
       "title": "Two-window continuum certificate: analytic recheck and tighter bound",
       "headings": [
@@ -29313,8 +29315,12 @@
       "local_links": [
         "ZERO_TWO_WINDOW_CERTIFIED_SUPPORT_COMMUTATOR.md",
         "verification/zero_two_window_commutator_refined_certificate.py",
+        "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
         "verification/zero_two_window_commutator_refined_certificate_test.py",
-        "verification/zero_two_window_commutator_certificate_test.py"
+        "verification/zero_two_window_commutator_certificate_test.py",
+        "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md"
       ],
       "risk_phrase_lines": [
         12,
@@ -29501,6 +29507,39 @@
         3,
         9,
         57
+      ]
+    },
+    {
+      "path": "ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md",
+      "sha256": "58d3d9153b7ddc705afe4bb135ab429a6f518ae7a43f40bfd289b0fb8b01ab72",
+      "bytes": 8040,
+      "lines": 88,
+      "title": "Independent continuum certificate and conditional cursor improvement",
+      "headings": [
+        "Independent continuum certificate and conditional cursor improvement",
+        "Result",
+        "1. Exact independent polynomial calculation",
+        "2. Independent bounds, common hypotheses",
+        "3. Conditional transfer to the existing cursor reader",
+        "4. Next gates"
+      ],
+      "local_links": [
+        "ZERO_TWO_WINDOW_CONTINUUM_CERTIFICATE_RIGOR_REVIEW.md",
+        "verification/zero_two_window_independent_gram.py",
+        "ZERO_TWO_WINDOW_AUTONOMOUS_CURSOR_READER.md",
+        "ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md",
+        "verification/zero_two_window_independent_gram_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        23,
+        34,
+        36,
+        43,
+        54,
+        66,
+        70,
+        72
       ]
     },
     {

@@ -4,6 +4,8 @@
 
 **Continuation:** [the complete cursor instrument and backaction](ZERO_TWO_WINDOW_CURSOR_INSTRUMENT_AND_BACKACTION.md) constructs both outcome operations, bounds their full postmeasurement channel against a specified ideal P/Q measurement and quantifies its disturbance of coherent inputs. It does not establish a second-clock switch or physical locality.
 
+**Conditional numerical improvement:** [an independent continuum certificate and cursor bound](ZERO_TWO_WINDOW_INDEPENDENT_CERTIFICATE_AND_CURSOR_BOUND.md) substitutes a sharper commutator bound into the *same* finite-horizon cursor error budget, yielding `<0.000332` for both false and missed memory records, conditional on this report's pulse, domain and dispersion estimates. That continuation does not independently establish those cursor estimates or replace the separate full-channel error bound.
+
 ## Result
 
 This pass advances gate 2 of the [problem-of-time plan](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md). A **time-independent, bounded-below Hamiltonian** adds a massive moving cursor and a memory qubit to the [eight-flag support model](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md). A fixed position-dependent interaction lets the cursor read the flag as it passes; no external time-dependent on/off switch appears in that Hamiltonian.
