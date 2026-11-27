@@ -23,6 +23,8 @@ The user also asks whether **self-consistency, Past Hypothesis and decoherence**
 
 Use F4 of [the rigorous frontier](PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md): choose a gravity/crossed-product algebra `M_λ`, faithful reference `ω_λ`, a subsystem `N_λ`, clock calibration and, where needed, cocycle `u_λ(s)`. Demonstrate invariance of the subsystem or formulate its reduced channel; prove an effective self-adjoint generator or a controlled flow-level estimate against independently derived canonical evolution, uniformly on a stated state/observable family and finite time interval. A formal expression `i u′(0)` is not enough unless the derivative exists on a specified domain. Either an error tending to zero or a concrete nonvanishing mismatch/domain obstruction resolves the stated instance. This target corresponds directly to T4/A3/A8, not a detector prerequisite.
 
+The [foundations audit](CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md) supplies an exact finite-dimensional necessary-and-sufficient Gibbs-matching criterion and a scalar-modulo generator mismatch bound, including the noncommuting case. It uses a prescribed reference state, Hamiltonian and calibration; extending it to gravitational/type III algebras requires different domain and topology work.
+
 ### M2 — Geometric modular action, entanglement and Einstein dynamics
 
 **Steelman:** a selected state may have modular flow that approaches the boost appropriate to sufficiently small causal regions, and a properly renormalized geometric entropy variation may supply the gravitational term in a local entanglement/thermodynamic identity. This can make the Einstein equation a consequence of quantified local assumptions rather than an arbitrary additional postulate.

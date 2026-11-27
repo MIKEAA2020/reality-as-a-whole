@@ -1145,7 +1145,7 @@
     {
       "path": "CLAUDE_TIME_71_EXCHANGE_AUDIT_INDEX.md",
       "kind": "authored root document",
-      "sha256": "632cc9ad006798f75806658d27252421c7e572d1fee52e45682b40adee7dee9f",
+      "sha256": "9aa66e6be1078a489855531b1a29f50679a268e82abc310f8146e3415d4df9fd",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -1164,7 +1164,7 @@
     {
       "path": "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
       "kind": "authored root document",
-      "sha256": "ac1312e122e1fa2364ba058e2e91d8700c52b9aa5d3a995b2eccf0e9e1bdfa77",
+      "sha256": "0aba0b3beaf629ddfddd3be54dc402a963c8f3ba8ff197668c925e7addcc040d",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -1183,7 +1183,7 @@
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
       "kind": "authored root document",
-      "sha256": "ae78d1fa6f9fd28cda8e43150957cd90233bd623ddc067365ee68c9cd5df7159",
+      "sha256": "4c8df0d100abc2be74f70af10b253a4db0bf559f18209d163ffca905dcd9e123",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -1203,6 +1203,25 @@
       "path": "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
       "kind": "authored root document",
       "sha256": "7da4cf5f86e80a501facb2301ffff04747f808aa491bdbd12c5826e61cf809f3",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "path": "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
+      "kind": "authored root document",
+      "sha256": "03314ea9013a490d585728e81f2e037f45fd005ac2b1ea8e9480a1ba37f9c07a",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -3425,7 +3444,7 @@
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
       "kind": "authored root document",
-      "sha256": "6c57d98517a9d7c5a3030b68cac1725459f2ff173e9641067a83f0fa096f7b03",
+      "sha256": "f204a3b1af6694690b1320f8d996f6d5a80ff7df6d2b9f4b718f7bfd285cf9cd",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -5116,7 +5135,7 @@
     {
       "path": "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
       "kind": "authored root document",
-      "sha256": "23c5ee849c01cc266f2da6038c0511647dfce4318d6e40da0c075c53a8274513",
+      "sha256": "b411be1f4706be649d74537a81fbd3a010137ab11426d4ea5abd30b1bf47cdf8",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",
@@ -18159,6 +18178,25 @@
       "path": "sources/external/rivalry_okn/tree.json",
       "kind": "external source artifact",
       "sha256": "a30135a6cc49d0bac1167a6241037870aab6a0f7884cc10f3c4a409c28540c28",
+      "stages": {
+        "audit": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "plan": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        },
+        "implemented": {
+          "status": "unassessed_in_this_repass",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "path": "sources/references/opfibration_rev2.8_pinned.md",
+      "kind": "authored root document",
+      "sha256": "c8382bf71bf8cbb0884ae1bf6a5e8e19247058320ce1406e21e086973ea70dff",
       "stages": {
         "audit": {
           "status": "unassessed_in_this_repass",

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 859 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 833 verification Python scripts.
+- 860 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 834 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -77,6 +77,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md](CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md) — Claude-time chat: initial article-provenance audit
 - [CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md](CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md) — Claude-time critique: analytical targets, coverage and repairs
 - [CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md) — Claude-time chat: audit of modular state selection and a constructive correction
+- [CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md](CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md) — Claude-time audit: relational time, analogy and modular foundations
 - [CLOCK_CHOICE_EQUIVALENCE.md](CLOCK_CHOICE_EQUIVALENCE.md) — Clock-choice equivalence in one fixed constrained system
 - [CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md](CLOCK_READOUT_SMEARING_AND_MODULAR_TIME.md) — Same modular flow, different clock records
 - [CLOSURE_SYNTHESIS.md](CLOSURE_SYNTHESIS.md) — Closure synthesis: the complete zero-residue account
@@ -1048,6 +1049,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/cie_metamer_experiential_gate.py](verification/cie_metamer_experiential_gate.py)
 - [verification/ciupa_zero_observer_paired_coherence_test.py](verification/ciupa_zero_observer_paired_coherence_test.py)
 - [verification/claude_time_analytical_target_crosswalk_test.py](verification/claude_time_analytical_target_crosswalk_test.py)
+- [verification/claude_time_foundations_audit_test.py](verification/claude_time_foundations_audit_test.py)
 - [verification/claude_time_modular_selection_audit_test.py](verification/claude_time_modular_selection_audit_test.py)
 - [verification/clock_choice.py](verification/clock_choice.py)
 - [verification/clock_smearing_modular_comparison.py](verification/clock_smearing_modular_comparison.py)
