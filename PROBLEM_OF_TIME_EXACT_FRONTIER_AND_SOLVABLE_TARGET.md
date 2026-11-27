@@ -1,5 +1,7 @@
 # The problem of time: what remains, formulated precisely
 
+**New technical frontier:** [rigorous frontier problems](PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md) gives explicit F1–F9 inputs, candidate equations, domains, success/failure conditions and a new unregulated oscillator modular–relational partial construction. The operational benchmark in this older document is one independent branch, **not** a prerequisite for every analytical or gravitational result.
+
 **Action plan and first advance:** [divide-and-conquer plan](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md) sets the dependency gates; [finite-window support record](ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md) implements the first bounded construction without claiming a durable autonomous reader or a clock switch.
 
 ## Direct answer

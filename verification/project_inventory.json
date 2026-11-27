@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 897,
-  "bytes": 11766104,
-  "line_count": 106655,
-  "document_count_with_risk_phrases": 849,
+  "document_count": 898,
+  "bytes": 11790152,
+  "line_count": 106834,
+  "document_count_with_risk_phrases": 850,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -5905,9 +5905,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "386c2ac215f5e384cc4cfad3505e901053bd5496da71c2af84d940b50776b778",
-      "bytes": 241181,
-      "lines": 1827,
+      "sha256": "7dca3776a1f7451eab17fbb12bffd98874515a05da9920cf25dd9760ae45d86a",
+      "bytes": 241469,
+      "lines": 1829,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6304,6 +6304,7 @@
         "PROBLEM_OF_TIME_CLOSED.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
         "PROJECT_COHERENCE_AUDIT.md",
         "PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md",
@@ -7237,6 +7238,7 @@
         "verification/positive_experience_witness_gate.py",
         "verification/positive_experience_witness_gate_test.py",
         "verification/problem_of_time_closed.py",
+        "verification/problem_of_time_rigorous_frontier_test.py",
         "verification/project_inventory.py",
         "verification/projective_sphere_lorentz_test.py",
         "verification/q1_agreement_stability_gate.py",
@@ -7731,25 +7733,25 @@
         317,
         347,
         395,
-        398,
-        429,
-        498,
-        599,
-        619,
-        632,
-        730,
-        734,
-        761,
-        766,
-        778,
-        781,
-        807,
-        857,
-        894,
-        903,
-        906,
-        909,
-        983
+        399,
+        430,
+        499,
+        600,
+        620,
+        633,
+        731,
+        735,
+        762,
+        767,
+        779,
+        782,
+        808,
+        858,
+        895,
+        904,
+        907,
+        910,
+        984
       ]
     },
     {
@@ -10576,9 +10578,9 @@
     },
     {
       "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
-      "sha256": "8b0b1a4086229172fe0e0219cd2c87f3793080d7fada71a00bb8e688cbe04a8b",
-      "bytes": 11235,
-      "lines": 65,
+      "sha256": "259e0978cae8b36107f76b7d29649d3e9623bad170e36da633469e473ab0e04f",
+      "bytes": 11666,
+      "lines": 67,
       "title": "Modular flow to Schrödinger dynamics: an analytical gate",
       "headings": [
         "Modular flow to Schrödinger dynamics: an analytical gate",
@@ -10590,6 +10592,7 @@
         "5. Coverage, chess and the requested conversations"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "RELATIONAL_MODULAR_CLOCK.md",
         "FRW_MODULAR_CLOCK.md",
         "MODULAR_CLOCK_SELECTION.md",
@@ -10600,12 +10603,13 @@
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md"
       ],
       "risk_phrase_lines": [
-        7,
+        5,
         9,
-        19,
-        33,
-        45,
-        59
+        11,
+        21,
+        35,
+        47,
+        61
       ]
     },
     {
@@ -13841,9 +13845,9 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "sha256": "be4629f8a74d95ee0e24baddea73dfb0cb514b01a6e2b2db893a701374977d0a",
-      "bytes": 20538,
-      "lines": 142,
+      "sha256": "6dfeb2fe3391b941e406ea5cd6d1d823937b6ac2363a3671db511052d15fed4d",
+      "bytes": 20889,
+      "lines": 144,
       "title": "Problem of time: divide-and-conquer work plan",
       "headings": [
         "Problem of time: divide-and-conquer work plan",
@@ -13856,6 +13860,7 @@
         "4. Prove the same-event comparison and quantify finite information"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
         "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
         "LIGHTHOUSE_JT_ROLLING_SCALAR_ADMISSIBILITY_GATE.md",
@@ -13887,22 +13892,23 @@
         "ZERO_SAME_PROBE_CLOCK_REPRESENTATION.md"
       ],
       "risk_phrase_lines": [
-        7,
-        11,
+        5,
+        9,
         13,
-        17,
-        54,
-        60,
-        82,
-        96,
-        98
+        15,
+        19,
+        56,
+        62,
+        84,
+        98,
+        100
       ]
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
-      "sha256": "138220bf4c511a065eb02063ce18e3078c9107991f08ee1cb46f3a8f112746cc",
-      "bytes": 24111,
-      "lines": 199,
+      "sha256": "439828e80023fa177ff92038f72a416400e31665d7ff99cafa985289423ccc8c",
+      "bytes": 24525,
+      "lines": 201,
       "title": "The problem of time: what remains, formulated precisely",
       "headings": [
         "The problem of time: what remains, formulated precisely",
@@ -13915,6 +13921,7 @@
         "6. What would change the verdict?"
       ],
       "local_links": [
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
         "ZERO_TWO_WINDOW_REDUNDANT_FLAG_HOLD.md",
         "TIME_SOLUTION_EVIDENCE_AUDIT.md",
@@ -13929,18 +13936,55 @@
         "ZERO_CHEMISTRY_CLOCK_RECORD_INTERNAL_CONNECTION.md"
       ],
       "risk_phrase_lines": [
+        9,
+        15,
+        19,
+        61,
+        88,
+        98,
+        151,
+        160,
+        173,
+        177,
+        181,
+        201
+      ]
+    },
+    {
+      "path": "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+      "sha256": "f1b737466883a04516c962fb93f1065049a9e64e26aafd641a502bb1615fa839",
+      "bytes": 22089,
+      "lines": 170,
+      "title": "Problem of time: rigorous frontier problems and a constructive foothold",
+      "headings": [
+        "Problem of time: rigorous frontier problems and a constructive foothold",
+        "0. Answer and scope",
+        "F1. Construct a nontrivial physical theory and probability rule",
+        "F2. Gauge covariance and local gravitational dynamics",
+        "F3. Relational evolution and the ordinary Schrödinger limit",
+        "F4. Modular-to-Schrödinger bridge (WP5, conditional route)",
+        "F5. Recover relativistic duration and causal geometry",
+        "F6. Clock changes and records on overlaps"
+      ],
+      "local_links": [
+        "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
+        "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
+        "FRW_MODULAR_CLOCK.md",
+        "FRW_MODULAR_CLOCK.md",
+        "verification/problem_of_time_rigorous_frontier_test.py"
+      ],
+      "risk_phrase_lines": [
         7,
-        13,
-        17,
-        59,
-        86,
-        96,
-        149,
-        158,
-        171,
-        175,
-        179,
-        199
+        52,
+        56,
+        83,
+        91,
+        115,
+        127,
+        164,
+        166,
+        168,
+        170
       ]
     },
     {
@@ -20790,9 +20834,9 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "sha256": "d698d7746dd49a5b2c30238517921ee0226b99debe7799046b7c20947c63e632",
-      "bytes": 67925,
-      "lines": 149,
+      "sha256": "159b8f67d61a21a11d3fae51cc15a25d8f1984fbe03fd54306f2ec4015e8a973",
+      "bytes": 68400,
+      "lines": 150,
       "title": "Whole-chat multi-pass integration workboard",
       "headings": [
         "Whole-chat multi-pass integration workboard",
@@ -20937,6 +20981,7 @@
         "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
         "LIGHTHOUSE_CLAUDE_TIME_CHAT_SOURCE_CORRECTION.md",
         "CHESS_TIME_AUDIT_STEELMAN_AND_IMPLEMENTATION.md",
+        "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "WHOLE_CHAT_META_LEVEL_ROOT_CAUSE_RESEARCH_MAP.md"
       ],
       "risk_phrase_lines": [
@@ -20982,7 +21027,8 @@
         118,
         121,
         125,
-        138
+        126,
+        139
       ]
     },
     {

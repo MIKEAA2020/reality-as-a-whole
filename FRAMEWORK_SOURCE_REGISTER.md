@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 854 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 829 verification Python scripts.
+- 855 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 830 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -395,6 +395,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [PROBLEM_OF_TIME_CLOSED.md](PROBLEM_OF_TIME_CLOSED.md) — The Problem of Time: Closed
 - [PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md](PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md) — Problem of time: divide-and-conquer work plan
 - [PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md](PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md) — The problem of time: what remains, formulated precisely
+- [PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md](PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md) — Problem of time: rigorous frontier problems and a constructive foothold
 - [PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md](PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md) — Why have we not fully solved the problem of time?
 - [PROJECT_COHERENCE_AUDIT.md](PROJECT_COHERENCE_AUDIT.md) — Project-wide coherence audit and constructive integration
 - [PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md](PTITO_THESIS_ATTENTIONAL_BLINK_METHODS_FOLLOWUP.md) — Ptito's attentional-blink study: a partial methods recovery
@@ -1342,6 +1343,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/positive_experience_witness_gate.py](verification/positive_experience_witness_gate.py)
 - [verification/positive_experience_witness_gate_test.py](verification/positive_experience_witness_gate_test.py)
 - [verification/problem_of_time_closed.py](verification/problem_of_time_closed.py)
+- [verification/problem_of_time_rigorous_frontier_test.py](verification/problem_of_time_rigorous_frontier_test.py)
 - [verification/project_inventory.py](verification/project_inventory.py)
 - [verification/projective_sphere_lorentz_test.py](verification/projective_sphere_lorentz_test.py)
 - [verification/q1_agreement_stability_gate.py](verification/q1_agreement_stability_gate.py)

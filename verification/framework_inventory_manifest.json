@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "9b21f0cf2b5eb492e9ae7aa23aeca560b1e261fc",
-  "file_count": 2478,
+  "base_head": "8dc6882cf1baa6a7e34383c76564dec9347867b9",
+  "file_count": 2480,
   "files": [
     {
       "path": ".gitattributes",
@@ -895,8 +895,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 241181,
-      "sha256": "386c2ac215f5e384cc4cfad3505e901053bd5496da71c2af84d940b50776b778"
+      "bytes": 241469,
+      "sha256": "7dca3776a1f7451eab17fbb12bffd98874515a05da9920cf25dd9760ae45d86a"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -1370,8 +1370,8 @@
     },
     {
       "path": "LIGHTHOUSE_MODULAR_SCHRODINGER_ANALYTIC_GATE.md",
-      "bytes": 11235,
-      "sha256": "8b0b1a4086229172fe0e0219cd2c87f3793080d7fada71a00bb8e688cbe04a8b"
+      "bytes": 11666,
+      "sha256": "259e0978cae8b36107f76b7d29649d3e9623bad170e36da633469e473ab0e04f"
     },
     {
       "path": "LIGHTHOUSE_RESEARCH_PLAN_FOLLOW_THROUGH.md",
@@ -1925,13 +1925,18 @@
     },
     {
       "path": "PROBLEM_OF_TIME_DIVIDE_AND_CONQUER_PLAN.md",
-      "bytes": 20538,
-      "sha256": "be4629f8a74d95ee0e24baddea73dfb0cb514b01a6e2b2db893a701374977d0a"
+      "bytes": 20889,
+      "sha256": "6dfeb2fe3391b941e406ea5cd6d1d823937b6ac2363a3671db511052d15fed4d"
     },
     {
       "path": "PROBLEM_OF_TIME_EXACT_FRONTIER_AND_SOLVABLE_TARGET.md",
-      "bytes": 24111,
-      "sha256": "138220bf4c511a065eb02063ce18e3078c9107991f08ee1cb46f3a8f112746cc"
+      "bytes": 24525,
+      "sha256": "439828e80023fa177ff92038f72a416400e31665d7ff99cafa985289423ccc8c"
+    },
+    {
+      "path": "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
+      "bytes": 22089,
+      "sha256": "f1b737466883a04516c962fb93f1065049a9e64e26aafd641a502bb1615fa839"
     },
     {
       "path": "PROBLEM_OF_TIME_ULTIMATE_ROOT_CAUSE_DIAGNOSIS.md",
@@ -3000,8 +3005,8 @@
     },
     {
       "path": "WHOLE_CHAT_MULTI_PASS_INTEGRATION_WORKBOARD.md",
-      "bytes": 67925,
-      "sha256": "d698d7746dd49a5b2c30238517921ee0226b99debe7799046b7c20947c63e632"
+      "bytes": 68400,
+      "sha256": "159b8f67d61a21a11d3fae51cc15a25d8f1984fbe03fd54306f2ec4015e8a973"
     },
     {
       "path": "WILLIAMS_EFFECTIVE_REALISM_AND_SUBJECT_TRANSPORT_AUDIT.md",
@@ -8919,9 +8924,14 @@
       "sha256": "843542abcc9e74f677d5628ec874a2cac0de7aa0f127d073748d15458d1ac983"
     },
     {
+      "path": "verification/problem_of_time_rigorous_frontier_test.py",
+      "bytes": 3901,
+      "sha256": "c7e0a153a17114ad99366a66f75e5aac99764af9f7c7974cd75bfb0cea5d976c"
+    },
+    {
       "path": "verification/project_inventory.json",
-      "bytes": 1164486,
-      "sha256": "368b3cedbc10248a0fc1506bf1f2b9b5d527ffa4d2803024a730ae806c8a08a0"
+      "bytes": 1166167,
+      "sha256": "15aef8ae64e7c69abc283b83ad3715ed51c6fa2dc272a908c1dd2bbbcdd8ce08"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10095,8 +10105,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 560878,
-      "sha256": "2a3abf55cee2c1cf73808b4bc66f04084164912da550f49b4f5ddcc8c3b2e574"
+      "bytes": 561420,
+      "sha256": "a0be1c80f346b247922dfca04b3ab2448906837743fa94b3fc44a56257b68c33"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
