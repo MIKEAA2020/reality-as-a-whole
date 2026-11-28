@@ -1,7 +1,7 @@
 {
   "scope": "Tracked plus non-ignored untracked files present at generation, excluding this manifest itself; no claim of semantic audit.",
-  "base_head": "60cac8c450017e99b6b8501e03804fdebabbc2e5",
-  "file_count": 2546,
+  "base_head": "b06ddfec216a07037909f3e0462897b793f6ba9f",
+  "file_count": 2549,
   "files": [
     {
       "path": ".gitattributes",
@@ -320,8 +320,8 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "bytes": 22624,
-      "sha256": "dba204b7cf355ed7c81998245d2a40e4badcfe7f4c94c304aa2aa06218098b54"
+      "bytes": 23595,
+      "sha256": "dcd9b0c1bb7418e14033e070ec72cbbefdc083bbcf2c9ca9b5131d535811658c"
     },
     {
       "path": "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
@@ -910,8 +910,8 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "bytes": 21277,
-      "sha256": "0f8225513c1ac634f1a18556e8f99b0036c2712e8af4694e94b639d271789c60"
+      "bytes": 22722,
+      "sha256": "130db5ac5fdb051ae3c84229a301d82b18e891bffe40d9e53ca20b7215437e5f"
     },
     {
       "path": "FORMAL_BATTERY_STATUS_AND_FOCUSED_RESEARCH_PLAN.md",
@@ -950,8 +950,8 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "bytes": 248488,
-      "sha256": "4bc54a652a2aa73377fd399915a4ed4e35c92b96b62019a26cba2f69dd3b10f1"
+      "bytes": 248806,
+      "sha256": "08b24646100bdd496f459a6c3384ee18b368d06f883d09980d35de7dd210b51c"
     },
     {
       "path": "FRAMEWORK_SUPPORTING_AUDIT_AND_BATTERY.md",
@@ -3449,6 +3449,11 @@
       "sha256": "38dd350070806ae82fe6928c9df6c037c5f0dcbc34934a8c6beeefc4020dbc76"
     },
     {
+      "path": "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+      "bytes": 15312,
+      "sha256": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683"
+    },
+    {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
       "bytes": 17343,
       "sha256": "db0e0d0ed67b79b0770d4527405eac1a4f65ac0515a5c08a881448dd52cf8bf5"
@@ -4155,8 +4160,8 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "bytes": 13426,
-      "sha256": "18c66c8a457c9f9e6e5e2a1e85652639c557208395da33099af459f13f3c02dc"
+      "bytes": 13862,
+      "sha256": "6cba5467520ef314d68c9e726ead91707d691730f8e4c316b86a319aa821cf86"
     },
     {
       "path": "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
@@ -4215,8 +4220,8 @@
     },
     {
       "path": "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
-      "bytes": 15466,
-      "sha256": "f56343209aca31df7ae7c9ecd80adcc88d94a2d7d1116999f91b93a1c2e1992a"
+      "bytes": 15900,
+      "sha256": "d3bba74d9e8228d900d6861e9318085cccceb40d1a3bc4208d9d04f69b893105"
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
@@ -7434,14 +7439,19 @@
       "sha256": "fe50526c6e9049acf2bef0bae0ecf369ac4fd7a8edda67778daae711dc4699a0"
     },
     {
+      "path": "verification/formalization_regression_timeout_followup_06.json",
+      "bytes": 3118,
+      "sha256": "e1e38d50e0fc21be3dd5772a04b07413d13afebcf942683eef443dc49b970239"
+    },
+    {
       "path": "verification/formalization_review_progress.json",
-      "bytes": 487273,
-      "sha256": "85385526d287e351257bb9e40568f2f7acb54813c4358abd3c2e2c1a968511e1"
+      "bytes": 494342,
+      "sha256": "8303f35a601a2f03a4e98a76a04cb358b669e05390d5d24c9cab2cbb3ab45044"
     },
     {
       "path": "verification/formalization_review_receipts.json",
-      "bytes": 30260,
-      "sha256": "b537b4229ddb9d17bc4b84cebf94f4b5bf8e78a7583f3383a5c6dd3f1875cfee"
+      "bytes": 36874,
+      "sha256": "94bd93b78fe2b2c4996a86d60210f351d652c2ae79e680d6a648db67a739c402"
     },
     {
       "path": "verification/formalization_review_tracker_test.py",
@@ -9175,8 +9185,8 @@
     },
     {
       "path": "verification/project_inventory.json",
-      "bytes": 1203080,
-      "sha256": "ea08f6a14ef4229e29c4ebaae574e4590e7ca937c48886a85e13fa37871beb24"
+      "bytes": 1205232,
+      "sha256": "c1dd6c854d9610cc55e2a598ea5687d65f6643ae0dc19963fb9cff1886eeb0c9"
     },
     {
       "path": "verification/project_inventory.py",
@@ -10355,8 +10365,8 @@
     },
     {
       "path": "verification/source_repass_progress.json",
-      "bytes": 575011,
-      "sha256": "68d231f85601a8f1ef178694fcd5d340650927d245c6e082e517d1b43ac929a0"
+      "bytes": 575572,
+      "sha256": "4d4247d56dfedf6e0c7d1b38b6cd65d38419dc479db94295be9effeb48b5dbb3"
     },
     {
       "path": "verification/source_repass_tracker_test.py",
@@ -11702,6 +11712,11 @@
       "path": "verification/zero_flag_record_algebra_echo_test.py",
       "bytes": 10474,
       "sha256": "ce02f65c66dbd07037d456ad6d7ceaafc58802b9ef03d11af070645c83a63300"
+    },
+    {
+      "path": "verification/zero_foundation_cross_model_rigor_test.py",
+      "bytes": 6519,
+      "sha256": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9"
     },
     {
       "path": "verification/zero_full_echo_type_swap_test.py",

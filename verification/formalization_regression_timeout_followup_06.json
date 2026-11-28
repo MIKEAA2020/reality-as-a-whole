@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; test execution is not a proof audit.",
+  "followups": [
+    {
+      "pattern": "zero_interacting_clock_bound_transition_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_interacting_clock_bound_transition_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_interacting_clock_bound_transition_test.py",
+          "sha256": "6f0cc48aa091ac2911484c9151812da61ecdb7499c82482bd18117bd5ab2430e",
+          "status": "passed",
+          "tests_run": 8,
+          "exit_code": 0,
+          "seconds": 12.231,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 8 tests in 12.091s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 3
+    },
+    {
+      "pattern": "zero_internal_f_reference_transfer_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_internal_f_reference_transfer_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_internal_f_reference_transfer_test.py",
+          "sha256": "7ad0fc45d82665f4a5efa9c76cb6810a39b5090e7fbb9261821be1866881bfe0",
+          "status": "passed",
+          "tests_run": 5,
+          "exit_code": 0,
+          "seconds": 15.323,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 15.027s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 3
+    },
+    {
+      "pattern": "zero_internal_reference_subject_valence_candidates_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_internal_reference_subject_valence_candidates_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_internal_reference_subject_valence_candidates_test.py",
+          "sha256": "bac0b0a5281e9d2cffeea96a84e13dd96ae53d63900fb6a512405561a1b5c81c",
+          "status": "passed",
+          "tests_run": 6,
+          "exit_code": 0,
+          "seconds": 23.515,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 6 tests in 23.297s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 3
+    }
+  ]
+}

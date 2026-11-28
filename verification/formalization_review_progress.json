@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1950,
-    "selected_claims_reviewed": 33
+    "not_rechecked_in_this_sweep": 1946,
+    "selected_claims_reviewed": 39
   },
   "records": [
     {
@@ -374,7 +374,7 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "dba204b7cf355ed7c81998245d2a40e4badcfe7f4c94c304aa2aa06218098b54",
+      "sha256": "dcd9b0c1bb7418e14033e070ec72cbbefdc083bbcf2c9ca9b5131d535811658c",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "0f8225513c1ac634f1a18556e8f99b0036c2712e8af4694e94b639d271789c60",
+      "sha256": "130db5ac5fdb051ae3c84229a301d82b18e891bffe40d9e53ca20b7215437e5f",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -4271,6 +4271,29 @@
       "receipt": null
     },
     {
+      "path": "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+      "sha256": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: mixed canonical constraint and branchwise clock, on-shell rescaling, global boost obstruction, vacuum/Λ shift, modal language scope, internal incidence measure and self-inverse group control.",
+        "evidence": [
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_total_flrw_constraint_test.py",
+          "verification/zero_gravity_two_clock_rigor_test.py",
+          "verification/zero_poincare_energy_why_test.py",
+          "verification/zero_plenitude_necessity_test.py"
+        ],
+        "reviewed_sha256": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+        "evidence_sha256": {
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_total_flrw_constraint_test.py": "27a071cf1c51c3aad94b4d4e8634443a8f06c974bdaf28e04e01951bc8c4199a",
+          "verification/zero_gravity_two_clock_rigor_test.py": "effbd71b85d62fc28ec5c1439f89373ad776a307c0f26bcdeb19d70c83993a55",
+          "verification/zero_poincare_energy_why_test.py": "3736aa178b9ee3dfd9bbd33b247c7af35e8736f0e4d200d86a7f4db8836a0eb9",
+          "verification/zero_plenitude_necessity_test.py": "64897250f349861e099833ffae21574ec35a3f8e955298204c38d16b11ce3512"
+        }
+      }
+    },
+    {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
       "sha256": "db0e0d0ed67b79b0770d4527405eac1a4f65ac0515a5c08a881448dd52cf8bf5",
       "status": "not_rechecked_in_this_sweep",
@@ -4586,8 +4609,21 @@
     {
       "path": "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
       "sha256": "1d6a21f2b84faa32db1ec6b6d1f3086de6d9a7fc4cbab8b3724676b46fa9bdbb",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: conditional strict Poincaré generator normalization, invariant vacuum tensor, cosmological-term accounting, and non-transfer of generic global boost to a compact spatial torus. The whole-energy identification remains open.",
+        "evidence": [
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_poincare_energy_why_test.py"
+        ],
+        "reviewed_sha256": "1d6a21f2b84faa32db1ec6b6d1f3086de6d9a7fc4cbab8b3724676b46fa9bdbb",
+        "evidence_sha256": {
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_poincare_energy_why_test.py": "3736aa178b9ee3dfd9bbd33b247c7af35e8736f0e4d200d86a7f4db8836a0eb9"
+        }
+      }
     },
     {
       "path": "ZERO_MEASURE_INDEPENDENT_RELATIONAL_RECORD.md",
@@ -4670,8 +4706,21 @@
     {
       "path": "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
       "sha256": "f2c2fd3bcdeea7e1886212f0abf8c861e9d1589e883fa3d6b7f4fe4374982299",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: distinction between whole-energy, constraint and local stress; global modal scope, internal incidence and measure. The other synthesis claims are not fully reviewed.",
+        "evidence": [
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_synthesis_gauge_incidence_test.py"
+        ],
+        "reviewed_sha256": "f2c2fd3bcdeea7e1886212f0abf8c861e9d1589e883fa3d6b7f4fe4374982299",
+        "evidence_sha256": {
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_synthesis_gauge_incidence_test.py": "70994fc0f61d3139f1a3a5f0c984979a3ded8e3f8ec1b89f8d157e2fbb0efb1f"
+        }
+      }
     },
     {
       "path": "ZERO_ORIENTATION_EXTENSION_AND_DYNAMIC_REPORT_BOUNDARY.md",
@@ -4706,8 +4755,21 @@
     {
       "path": "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
       "sha256": "d6602a478dd44e50fe2fe61cbdfecab379110d8b9dccbde97b0e0cc3ed7fcc5a",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: classical global possibility–actuality implication, restricted proposition language and internal occurrence versus measure; the full metaphysical argument is not certified.",
+        "evidence": [
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_plenitude_necessity_test.py"
+        ],
+        "reviewed_sha256": "d6602a478dd44e50fe2fe61cbdfecab379110d8b9dccbde97b0e0cc3ed7fcc5a",
+        "evidence_sha256": {
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_plenitude_necessity_test.py": "64897250f349861e099833ffae21574ec35a3f8e955298204c38d16b11ce3512"
+        }
+      }
     },
     {
       "path": "ZERO_POINT_CELESTIAL_RELATIONAL_STRUCTURE.md",
@@ -5243,9 +5305,24 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "sha256": "18c66c8a457c9f9e6e5e2a1e85652639c557208395da33099af459f13f3c02dc",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "6cba5467520ef314d68c9e726ead91707d691730f8e4c316b86a319aa821cf86",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: Einstein–scalar constraint and scalar density, canonical mixed-variable transformation, clock branches, and local on-shell rescaling invariance; the global energy and experiential claims remain open.",
+        "evidence": [
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_total_flrw_constraint_test.py",
+          "verification/zero_gravity_two_clock_rigor_test.py"
+        ],
+        "reviewed_sha256": "6cba5467520ef314d68c9e726ead91707d691730f8e4c316b86a319aa821cf86",
+        "evidence_sha256": {
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_total_flrw_constraint_test.py": "27a071cf1c51c3aad94b4d4e8634443a8f06c974bdaf28e04e01951bc8c4199a",
+          "verification/zero_gravity_two_clock_rigor_test.py": "effbd71b85d62fc28ec5c1439f89373ad776a307c0f26bcdeb19d70c83993a55"
+        }
+      }
     },
     {
       "path": "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
@@ -5315,9 +5392,22 @@
     },
     {
       "path": "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
-      "sha256": "f56343209aca31df7ae7c9ecd80adcc88d94a2d7d1116999f91b93a1c2e1992a",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "d3bba74d9e8228d900d6861e9318085cccceb40d1a3bc4208d9d04f69b893105",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: uniqueness of group inverse, possible self-inverse elements, limits of real-valued additive maps and conditional global necessity. The self-subsistence and experiential bridges are not fully reviewed.",
+        "evidence": [
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+          "verification/zero_foundation_cross_model_rigor_test.py",
+          "verification/zero_plenitude_necessity_test.py"
+        ],
+        "reviewed_sha256": "d3bba74d9e8228d900d6861e9318085cccceb40d1a3bc4208d9d04f69b893105",
+        "evidence_sha256": {
+          "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+          "verification/zero_foundation_cross_model_rigor_test.py": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
+          "verification/zero_plenitude_necessity_test.py": "64897250f349861e099833ffae21574ec35a3f8e955298204c38d16b11ce3512"
+        }
+      }
     },
     {
       "path": "ZERO_TOTALITY_SUBJECT_INCIDENCE_AND_EXPERIENTIAL_ACCOUNTING.md",
@@ -11068,6 +11158,12 @@
     {
       "path": "verification/zero_flag_record_algebra_echo_test.py",
       "sha256": "ce02f65c66dbd07037d456ad6d7ceaafc58802b9ef03d11af070645c83a63300",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_foundation_cross_model_rigor_test.py",
+      "sha256": "dfba75151aab686c0037fee1cf0bf27045aa0752366e0e6170dee895be9a9de9",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

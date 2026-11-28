@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 879 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 856 verification Python scripts.
+- 880 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 857 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -698,6 +698,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md](ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md) — A factorwise clock–memory probe with a no-bin outcome
 - [ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md](ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md) — A finite reservoir and reusable memory inside the sphere history
 - [ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) — Zero, flag-record incidence, and a physically reversible readout
+- [ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md](ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md) — Zero, internal clocks and plenitude: a cross-model rigor review
 - [ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md](ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md) — Four connections: confinement, unchanged realm-time, coherence and experience
 - [ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md](ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md) — Toward one constitution of zero and experience
 - [ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md](ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md) — From the reduced type swap to the original coherent quantum echo
@@ -1672,6 +1673,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_factorized_clock_probe_test.py](verification/zero_factorized_clock_probe_test.py)
 - [verification/zero_five_ray_record_current_unification_test.py](verification/zero_five_ray_record_current_unification_test.py)
 - [verification/zero_flag_record_algebra_echo_test.py](verification/zero_flag_record_algebra_echo_test.py)
+- [verification/zero_foundation_cross_model_rigor_test.py](verification/zero_foundation_cross_model_rigor_test.py)
 - [verification/zero_full_echo_type_swap_test.py](verification/zero_full_echo_type_swap_test.py)
 - [verification/zero_gauge_angular_pair.py](verification/zero_gauge_angular_pair.py)
 - [verification/zero_gauge_angular_pair_test.py](verification/zero_gauge_angular_pair_test.py)

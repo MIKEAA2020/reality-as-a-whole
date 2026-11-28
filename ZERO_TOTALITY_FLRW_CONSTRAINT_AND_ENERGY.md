@@ -2,6 +2,8 @@
 
 **Relativistic-energy continuation:** [the Lorentz and energy zero why-chain](ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md) compares the closed FLRW constraint with a conditional global Poincaré-generator route, and separates both from an invariant vacuum stress with an unfixed scalar coefficient.
 
+**Canonical-clock continuation:** [cross-model rigor review](ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md) rewrites this same constraint in mixed variables, preserving the scalar's positive physical density while showing that the new candidate clock fails on one branch and agrees with the original clock on the other. The coordinate-dependent expression does not by itself identify a unique physical whole-energy.
+
 ## Why this is relevant
 
 **Constructive continuation:** [the covariant gauge–clock framework](ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md) goes beyond the homogeneous model by supplying nontrivial classical Einstein–gauge–matter–clock initial data that satisfy all constraint classes; its [nonlinear evolution](ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md) has since been numerically investigated in planar symmetry. The experiential bridge, observed phenomenology and fundamental derivation remain open.

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 922,
-  "bytes": 12078005,
-  "line_count": 109052,
-  "document_count_with_risk_phrases": 874,
+  "document_count": 923,
+  "bytes": 12097021,
+  "line_count": 109216,
+  "document_count_with_risk_phrases": 875,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1876,15 +1876,16 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "dba204b7cf355ed7c81998245d2a40e4badcfe7f4c94c304aa2aa06218098b54",
-      "bytes": 22624,
-      "lines": 75,
+      "sha256": "dcd9b0c1bb7418e14033e070ec72cbbefdc083bbcf2c9ca9b5131d535811658c",
+      "bytes": 23595,
+      "lines": 79,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
         "Claude-time research: all-surviving-leads workboard",
         "Commitment and limits",
         "1. Every target in the source's final A/G/P list",
         "2. Further distinct leads and direct user targets",
+        "Cross-model continuation: constraint, clock and plenitude",
         "3. Queue for not-yet-audited inputs",
         "4. Update rule and completion standard"
       ],
@@ -1920,6 +1921,7 @@
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md"
       ],
@@ -1934,7 +1936,8 @@
         63,
         66,
         71,
-        75
+        75,
+        79
       ]
     },
     {
@@ -5831,9 +5834,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "0f8225513c1ac634f1a18556e8f99b0036c2712e8af4694e94b639d271789c60",
-      "bytes": 21277,
-      "lines": 87,
+      "sha256": "130db5ac5fdb051ae3c84229a301d82b18e891bffe40d9e53ca20b7215437e5f",
+      "bytes": 22722,
+      "lines": 91,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5871,6 +5874,8 @@
         "ZERO_ENERGY_FRAME_DEFORMATION_RIGOR_REVIEW.md",
         "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
         "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
+        "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+        "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5885,6 +5890,7 @@
         "verification/formalization_regression_timeout_followup_03.json",
         "verification/formalization_regression_timeout_followup_04.json",
         "verification/formalization_regression_timeout_followup_05.json",
+        "verification/formalization_regression_timeout_followup_06.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -6344,9 +6350,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "5d422b0b08442ba349c5fc31748a138467bc2e72c95b77e4c2d7e37b076036e2",
-      "bytes": 248070,
-      "lines": 1876,
+      "sha256": "4bc54a652a2aa73377fd399915a4ed4e35c92b96b62019a26cba2f69dd3b10f1",
+      "bytes": 248488,
+      "lines": 1879,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6992,6 +6998,7 @@
         "ZERO_CLOCK_FIBER_TRANSPORT_AND_LOST_RECORD.md",
         "ZERO_CLOCK_PREPARATION_CORRELATION_ROBUSTNESS_REVIEW.md",
         "ZERO_CLOCK_PROBE_POSTSTATE_OBSTRUCTION.md",
+        "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
         "ZERO_CLOSED_RELATIVISTIC_PLASMA_FRAME_BALANCE_REVIEW.md",
         "ZERO_COHERENT_ANGULAR_RESERVOIR_CLOCK_ACCESS.md",
         "ZERO_COHERENT_ANGULAR_SPHERE_ECHO_CONSTRUCTION.md",
@@ -7941,6 +7948,8 @@
         "verification/zero_clock_relational_povm_test.py",
         "verification/zero_clocked_chirality_history.py",
         "verification/zero_clocked_chirality_history_test.py",
+        "verification/zero_closed_plasma_scalar_response.py",
+        "verification/zero_closed_plasma_scalar_response_test.py",
         "verification/zero_closed_relativistic_plasma_frame_review_test.py",
         "verification/zero_coherent_clock_angular_history.py",
         "verification/zero_coherent_clock_angular_history_test.py",
@@ -8227,19 +8236,20 @@
         631,
         644,
         647,
-        751,
-        755,
-        782,
-        787,
-        800,
-        803,
-        829,
-        881,
-        918,
-        927,
-        930,
-        933,
-        1007
+        648,
+        752,
+        756,
+        783,
+        788,
+        801,
+        804,
+        830,
+        882,
+        919,
+        928,
+        931,
+        934,
+        1008
       ]
     },
     {
@@ -24064,6 +24074,43 @@
       ]
     },
     {
+      "path": "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+      "sha256": "53a22f106e34b2843f913315189238075011a5dbe859d76a768fec5264ed6683",
+      "bytes": 15312,
+      "lines": 149,
+      "title": "Zero, internal clocks and plenitude: a cross-model rigor review",
+      "headings": [
+        "Zero, internal clocks and plenitude: a cross-model rigor review",
+        "Scope and result",
+        "1. The same FLRW constraint in mixed variables",
+        "2. An exact branchwise clock obstruction and matching domain",
+        "3. Why the Poincaré and compact-cosmology routes are not yet one proof",
+        "4. Necessity, plural internal occurrences and measure",
+        "5. A sharper limit on the canonical opposite",
+        "6. One constitution: the remaining common recovery task"
+      ],
+      "local_links": [
+        "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
+        "ZERO_ONE_REALITY_NECESSARY_PLENITUDE_SYNTHESIS.md",
+        "ZERO_PLENITUDE_NECESSITY_AND_TWO_SENSES.md",
+        "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
+        "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
+        "verification/zero_plenitude_necessity_test.py",
+        "verification/zero_foundation_cross_model_rigor_test.py"
+      ],
+      "risk_phrase_lines": [
+        9,
+        44,
+        50,
+        52,
+        91,
+        117,
+        119,
+        123,
+        127
+      ]
+    },
+    {
       "path": "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
       "sha256": "db0e0d0ed67b79b0770d4527405eac1a4f65ac0515a5c08a881448dd52cf8bf5",
       "bytes": 17343,
@@ -28715,9 +28762,9 @@
     },
     {
       "path": "ZERO_TOTALITY_FLRW_CONSTRAINT_AND_ENERGY.md",
-      "sha256": "18c66c8a457c9f9e6e5e2a1e85652639c557208395da33099af459f13f3c02dc",
-      "bytes": 13426,
-      "lines": 133,
+      "sha256": "6cba5467520ef314d68c9e726ead91707d691730f8e4c316b86a319aa821cf86",
+      "bytes": 13862,
+      "lines": 135,
       "title": "A physical zero-constraint route: what it gives and what it does not",
       "headings": [
         "A physical zero-constraint route: what it gives and what it does not",
@@ -28731,6 +28778,7 @@
       ],
       "local_links": [
         "ZERO_LORENTZ_ENERGY_ZERO_WHY_CHAIN.md",
+        "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "ZERO_TOTALITY_COVARIANT_GAUGE_CLOCK_FRAMEWORK.md",
         "ZERO_TOTALITY_NONLINEAR_GRAVITY_CLOCK_EVOLUTION.md",
         "ZERO_ENERGY_UNIVERSE_DEEP_RESEARCH.md",
@@ -28741,12 +28789,13 @@
       ],
       "risk_phrase_lines": [
         3,
-        19,
-        57,
-        82,
-        94,
-        115,
-        133
+        5,
+        21,
+        59,
+        84,
+        96,
+        117,
+        135
       ]
     },
     {
@@ -29122,9 +29171,9 @@
     },
     {
       "path": "ZERO_TOTALITY_SELF_SUBSISTENCE_ARGUMENT.md",
-      "sha256": "f56343209aca31df7ae7c9ecd80adcc88d94a2d7d1116999f91b93a1c2e1992a",
-      "bytes": 15466,
-      "lines": 116,
+      "sha256": "d3bba74d9e8228d900d6861e9318085cccceb40d1a3bc4208d9d04f69b893105",
+      "bytes": 15900,
+      "lines": 118,
       "title": "Can zero-totality be self-subsistent and internally differentiated?",
       "headings": [
         "Can zero-totality be self-subsistent and internally differentiated?",
@@ -29137,6 +29186,7 @@
         "6. A research verdict, without a substitute answer"
       ],
       "local_links": [
+        "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md",
         "ZERO_TOTALITY_EXPERIENCE_TO_CONSTITUTION.md",
         "PLENITUDE_FOUNDATION_GAPS_AND_SYMMETRY.md",
@@ -29145,11 +29195,12 @@
         "SELF_EXPLANATORY_ACTUALITY_AUDIT.md"
       ],
       "risk_phrase_lines": [
-        13,
-        35,
-        51,
-        61,
-        110
+        3,
+        15,
+        37,
+        53,
+        63,
+        112
       ]
     },
     {

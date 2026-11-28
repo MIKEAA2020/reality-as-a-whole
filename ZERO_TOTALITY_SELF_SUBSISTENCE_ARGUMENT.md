@@ -1,5 +1,7 @@
 # Can zero-totality be self-subsistent and internally differentiated?
 
+**Rigor continuation:** [zero, clock and plenitude cross-model review](ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md) sharpens the inverse argument: a unique additive inverse can be self-inverse, and a nontrivial finite group has no nonzero additive real-valued homomorphism. Neither fact denies distinct indexed occurrences or intrinsic experience; a justified signed qualitative map remains an extra obligation.
+
 ## The task and the answer so far
 
 **Direct foundational reassessment:** [the foundational bridge argument](ZERO_TOTALITY_FOUNDATIONAL_BRIDGE_DIRECT_ARGUMENT.md) examines whether full self-sufficiency implies an intrinsically zero constitution and whether that constitution determines actual experience, without treating mathematical controls as foundational derivations.
