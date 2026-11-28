@@ -92,6 +92,8 @@ A separate operational target is to construct normalized, constraint-compatible 
 
 ### M7 — Further source targets: spin-2, renormalization, spectral and experience bridges
 
+**Continuation:** [Ising decimation and modular review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) supplies an exact scale map and independent correlation/transfer-matrix check, two finite modular mismatches, and competing instruments with one nonselective RG channel. It partially realizes a common operational language; it is not the requested continuum-QFT, self-energy, or experiential bridge.
+
 These are **separate research programmes**, not automatic consequences of M1–M6, and some go beyond solving the time problem narrowly:
 
 * **Linearized gravity:** choose a candidate semiclassical background and gauge-invariant fluctuation observables. Derive the transverse-traceless two-point/response sector with the massless spin-2 pole and correct tensor structure/coupling in a stated low-energy limit, or give a counterexample. A modular generator is not itself a spin-2 field.

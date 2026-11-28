@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 924,
-  "bytes": 12114177,
-  "line_count": 109404,
-  "document_count_with_risk_phrases": 876,
+  "document_count": 925,
+  "bytes": 12128447,
+  "line_count": 109565,
+  "document_count_with_risk_phrases": 877,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1876,9 +1876,9 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "e216dfc335b0e0bdd69a83bbd5409f6427c2a22b62552c49797a442c90d6bf8c",
-      "bytes": 24334,
-      "lines": 83,
+      "sha256": "6853cdbe2bfa4756a5b4c4c1c0cdd7c00e5a75dd670308432fe6c4bae76405aa",
+      "bytes": 25239,
+      "lines": 87,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
         "Claude-time research: all-surviving-leads workboard",
@@ -1887,8 +1887,8 @@
         "2. Further distinct leads and direct user targets",
         "Cross-model continuation: constraint, clock and plenitude",
         "Cross-model continuation: subject incidence and physical records",
-        "3. Queue for not-yet-audited inputs",
-        "4. Update rule and completion standard"
+        "Cross-model continuation: modular flow, RG and instrument",
+        "3. Queue for not-yet-audited inputs"
       ],
       "local_links": [
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
@@ -1899,13 +1899,14 @@
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-        "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "ZERO_GRAVITY_TWO_CLOCK_RIGOR_REVIEW.md",
@@ -1924,12 +1925,15 @@
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md"
       ],
       "risk_phrase_lines": [
         5,
+        21,
         27,
+        29,
         48,
         52,
         55,
@@ -1940,7 +1944,8 @@
         71,
         75,
         79,
-        83
+        83,
+        87
       ]
     },
     {
@@ -1976,9 +1981,9 @@
     },
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "sha256": "755b31c2942d08b994837e7715e778c5a47a5e69e2032d289e5d7f97ada7cff9",
-      "bytes": 17359,
-      "lines": 123,
+      "sha256": "199a983ce4ff114234f8ac18a8600ada4b8debb6eb39332ac0c8bbd6ee8e513a",
+      "bytes": 17766,
+      "lines": 125,
       "title": "Claude-time critique: analytical targets, coverage and repairs",
       "headings": [
         "Claude-time critique: analytical targets, coverage and repairs",
@@ -1997,6 +2002,7 @@
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "verification/claude_time_analytical_target_crosswalk_test.py"
       ],
@@ -2008,7 +2014,8 @@
         57,
         75,
         77,
-        102
+        95,
+        104
       ]
     },
     {
@@ -2080,6 +2087,39 @@
       ]
     },
     {
+      "path": "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+      "sha256": "76c911f6efbd71078b04e233dfe90a72f01b3cd2e5941ca14d3848c949028386",
+      "bytes": 10373,
+      "lines": 141,
+      "title": "Modular flow, real-space RG and instruments in one Ising model",
+      "headings": [
+        "Modular flow, real-space RG and instruments in one Ising model",
+        "Why this addresses the source leads",
+        "1. Exact decimation and an independently checked scale law",
+        "2. The natural embedding fails to intertwine modular flows",
+        "3. Even a state-preserving CP coarse map has a controlled mismatch",
+        "4. Decimation is not a unique selective update",
+        "5. What remains for the actual research programme",
+        "Verification"
+      ],
+      "local_links": [
+        "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "verification/claude_time_ising_modular_rg_review_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        9,
+        11,
+        29,
+        44,
+        75,
+        99,
+        114,
+        141
+      ]
+    },
+    {
       "path": "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
       "sha256": "519965de2598789bbbc67f2306fa4e89ec413fb7583ea77e0924a1adb9584cba",
       "bytes": 14161,
@@ -2117,9 +2157,9 @@
     },
     {
       "path": "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
-      "sha256": "25e1df3577b240d5e3ecdcbdc00ee5b40a1c6c8f9a7ab0b7484302ecd646d7f6",
-      "bytes": 12392,
-      "lines": 56,
+      "sha256": "9e0e9a1cb67bd8db93db3de52d2ae72e3e78877cbdbdf73a0c52ea9b57a4e718",
+      "bytes": 12744,
+      "lines": 58,
       "title": "QFT, circularity and experience: source audit and operational controls",
       "headings": [
         "QFT, circularity and experience: source audit and operational controls",
@@ -2136,28 +2176,31 @@
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "verification/claude_time_qft_experience_controls_test.py",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md"
       ],
       "risk_phrase_lines": [
         9,
-        42,
-        56
+        32,
+        44,
+        58
       ]
     },
     {
       "path": "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
-      "sha256": "b2c8f9a6f41c4d4bcbeac4d7ab4fdb83b7d75c0d3cb609366a1c8e39f887b1e3",
-      "bytes": 14372,
-      "lines": 74,
+      "sha256": "72db37cef8e989da4efc8ef9b20d24fbc9575acf725eb141c4092d1ea9551368",
+      "bytes": 14812,
+      "lines": 78,
       "title": "Claude-time audit: relational time, analogy and modular foundations",
       "headings": [
         "Claude-time audit: relational time, analogy and modular foundations",
         "1. Claims in context",
         "2. A rigorous repair of modular foundations",
         "3. Constructive implementation: exact no-clock modular calibration criterion",
-        "4. Next steps"
+        "4. Next steps",
+        "Later continuation: a genuine lattice scale map"
       ],
       "local_links": [
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
@@ -2168,7 +2211,8 @@
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_ARTICLE_PROVENANCE_AUDIT.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-        "verification/claude_time_foundations_audit_test.py"
+        "verification/claude_time_foundations_audit_test.py",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md"
       ],
       "risk_phrase_lines": [
         11,
@@ -2178,7 +2222,8 @@
         38,
         53,
         62,
-        68
+        68,
+        78
       ]
     },
     {
@@ -5837,9 +5882,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "adbcac22e9cb55e8a3cb0daf13dbbd06cfe1d5d2b2e5cfc7dbae6fd3489eec91",
-      "bytes": 24061,
-      "lines": 95,
+      "sha256": "c5792379d34dabbd05477bc9111c0420bb2bc8cb4a8d8980da68026f584d223d",
+      "bytes": 25263,
+      "lines": 99,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5881,6 +5926,7 @@
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5897,6 +5943,7 @@
         "verification/formalization_regression_timeout_followup_05.json",
         "verification/formalization_regression_timeout_followup_06.json",
         "verification/formalization_regression_timeout_followup_07.json",
+        "verification/formalization_regression_timeout_followup_08.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5914,7 +5961,8 @@
         60,
         62,
         64,
-        72
+        72,
+        76
       ]
     },
     {
@@ -6357,9 +6405,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "08b24646100bdd496f459a6c3384ee18b368d06f883d09980d35de7dd210b51c",
-      "bytes": 248806,
-      "lines": 1881,
+      "sha256": "fe3513bfc90fbe4c268562ab5334d281390c7b3dd2538b89f602e52011ffd5d9",
+      "bytes": 249397,
+      "lines": 1885,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6440,6 +6488,7 @@
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
@@ -7078,6 +7127,7 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
         "ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md",
         "ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md",
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
         "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
         "ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md",
@@ -7420,6 +7470,7 @@
         "verification/claude_time_crossfield_controls_test.py",
         "verification/claude_time_formalization_rigor_test.py",
         "verification/claude_time_foundations_audit_test.py",
+        "verification/claude_time_ising_modular_rg_review_test.py",
         "verification/claude_time_modular_selection_audit_test.py",
         "verification/claude_time_qft_experience_controls_test.py",
         "verification/clock_choice.py",
@@ -8041,6 +8092,7 @@
         "verification/zero_incidence_clock_probability.py",
         "verification/zero_incidence_clock_probability_test.py",
         "verification/zero_incidence_locality_balance_rigor_test.py",
+        "verification/zero_incidence_purity_robustness_test.py",
         "verification/zero_incidence_refinement_born_test.py",
         "verification/zero_integrated_experience_necessity_test.py",
         "verification/zero_integrated_sphere_clock_experience_test.py",
@@ -8230,35 +8282,35 @@
         44,
         68,
         81,
-        88,
-        98,
-        182,
-        245,
-        294,
-        328,
-        358,
-        406,
-        410,
-        441,
-        510,
-        611,
-        631,
-        644,
-        647,
+        89,
+        99,
+        183,
+        246,
+        295,
+        329,
+        359,
+        407,
+        411,
+        442,
+        511,
+        612,
+        632,
+        645,
         648,
-        753,
-        757,
-        784,
-        789,
-        802,
-        805,
-        831,
-        883,
-        920,
-        929,
-        932,
-        935,
-        1009
+        649,
+        755,
+        759,
+        786,
+        791,
+        804,
+        807,
+        833,
+        885,
+        922,
+        931,
+        934,
+        937,
+        1011
       ]
     },
     {

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 881 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 858 verification Python scripts.
+- 882 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 859 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -79,6 +79,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md](CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md) — Claude-time critique: analytical targets, coverage and repairs
 - [CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md](CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md) — Claude-time cross-field audit and three concrete controls
 - [CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md](CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md) — Formalization recheck: errors, exact criteria and a constrained history
+- [CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) — Modular flow, real-space RG and instruments in one Ising model
 - [CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md](CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md) — Claude-time chat: audit of modular state selection and a constructive correction
 - [CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md](CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md) — QFT, circularity and experience: source audit and operational controls
 - [CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md](CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md) — Claude-time audit: relational time, analogy and modular foundations
@@ -1074,6 +1075,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/claude_time_crossfield_controls_test.py](verification/claude_time_crossfield_controls_test.py)
 - [verification/claude_time_formalization_rigor_test.py](verification/claude_time_formalization_rigor_test.py)
 - [verification/claude_time_foundations_audit_test.py](verification/claude_time_foundations_audit_test.py)
+- [verification/claude_time_ising_modular_rg_review_test.py](verification/claude_time_ising_modular_rg_review_test.py)
 - [verification/claude_time_modular_selection_audit_test.py](verification/claude_time_modular_selection_audit_test.py)
 - [verification/claude_time_qft_experience_controls_test.py](verification/claude_time_qft_experience_controls_test.py)
 - [verification/clock_choice.py](verification/clock_choice.py)

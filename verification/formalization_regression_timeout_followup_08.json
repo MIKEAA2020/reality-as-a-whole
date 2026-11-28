@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; execution is not proof audit. A repeated timeout is not a failed assertion.",
+  "followups": [
+    {
+      "pattern": "zero_ownership_report_bridge_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_ownership_report_bridge_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_ownership_report_bridge_test.py",
+          "sha256": "9a3c8c3f379d2ee1ef4b998ed0462d542c80b622046d2328ecb14a3aedd95058",
+          "status": "timeout",
+          "tests_run": null,
+          "exit_code": null,
+          "seconds": 45.057,
+          "output_tail": "\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 4
+    },
+    {
+      "pattern": "zero_pairwise_angular_charge_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_pairwise_angular_charge_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_pairwise_angular_charge_test.py",
+          "sha256": "417b366df5ceb11adc9b3258d408364ecfa3ee1bc5d6b4bc398781b81003e295",
+          "status": "passed",
+          "tests_run": 7,
+          "exit_code": 0,
+          "seconds": 10.907,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 10.704s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 4
+    },
+    {
+      "pattern": "zero_persistent_sphere_subject_selection_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_persistent_sphere_subject_selection_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_persistent_sphere_subject_selection_test.py",
+          "sha256": "08bf3e72fae71dbd5de23c68c95388e2bf840f258ce8c8a31ad91fe0a57c7cea",
+          "status": "passed",
+          "tests_run": 7,
+          "exit_code": 0,
+          "seconds": 24.39,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 24.178s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 5
+    }
+  ]
+}

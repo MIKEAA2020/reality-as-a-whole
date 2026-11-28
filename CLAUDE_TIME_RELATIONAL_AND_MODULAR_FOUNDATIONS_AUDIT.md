@@ -72,3 +72,7 @@ The [finite verification suite](verification/claude_time_foundations_audit_test.
 1. Extend the audit to the later consciousness/QFT excerpts (especially 65–70), the article/manuscript inputs and all index-only exchanges, separating the user's claims from assistant inferences and recording later reversals.
 2. For WP5, seek an independently justified gravitational state and effective Hamiltonian, a common algebra/domain and a topology in which the scalar-modulo modular-generator mismatch is controlled; unbounded/type III settings need domain and locality analysis, not the finite matrix norm transplanted blindly.
 3. Derive calibrated gravitational observables and an arrow/record theorem independently. Even success there would still leave the constitutive link to experience as a distinct target.
+
+## Later continuation: a genuine lattice scale map
+
+The [Ising modular/RG/instrument review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) tests natural embedding and a state-preserving coarse map against exact modular flows in a physical, though effective and finite, interacting spin model. Its exact blocking rule and transfer-matrix check go beyond qubit dephasing, while the continuum-QFT and time-calibration tasks remain open.
