@@ -1,5 +1,7 @@
 # Intrinsic quality and the best accessible angular reconstruction
 
+**Coarse-access refinement:** [the incidence/flag rigor review](ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md) independently evaluates K-plus-R estimation: R alone gives the full three-band improvement for `g₂`, but none for `g₁`, under the stipulated distribution and readout access. It remains a physical information calculation, not a subject or felt-quality identification.
+
 ## Result
 
 This pass brings the preserved [Russellian intrinsic-experience conversation](sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt) and [experience/non-optimality conversation](sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt) into the same coherent sphere–echo candidate. It does not replace experience with a probability or treat an old physical sign as a feeling. The constructive question is narrower:

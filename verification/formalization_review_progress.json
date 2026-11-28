@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1946,
-    "selected_claims_reviewed": 39
+    "not_rechecked_in_this_sweep": 1941,
+    "selected_claims_reviewed": 46
   },
   "records": [
     {
@@ -374,7 +374,7 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "dcd9b0c1bb7418e14033e070ec72cbbefdc083bbcf2c9ca9b5131d535811658c",
+      "sha256": "e216dfc335b0e0bdd69a83bbd5409f6427c2a22b62552c49797a442c90d6bf8c",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1093,7 +1093,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "130db5ac5fdb051ae3c84229a301d82b18e891bffe40d9e53ca20b7215437e5f",
+      "sha256": "adbcac22e9cb55e8a3cb0daf13dbbd06cfe1d5d2b2e5cfc7dbae6fd3489eec91",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1141,7 +1141,7 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4bc54a652a2aa73377fd399915a4ed4e35c92b96b62019a26cba2f69dd3b10f1",
+      "sha256": "08b24646100bdd496f459a6c3384ee18b368d06f883d09980d35de7dd210b51c",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -4090,8 +4090,19 @@
     {
       "path": "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md",
       "sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: ready-calibrated diagonal-rule uniqueness under composite echo neutrality and actual support; only conditional quality rules, not felt experience or an actual subject.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_echo_intrinsic_constitution_selection_test.py"
+        ],
+        "reviewed_sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_echo_intrinsic_constitution_selection_test.py": "a66b55b9faa1189df5fa46898bbe0cf1ea516ac63c56f82882d6400e3b76259f"
+        }
+      }
     },
     {
       "path": "ZERO_ECHO_JOINT_CANDIDATE_ACCESS_AND_IDENTITY_WITNESS.md",
@@ -4394,9 +4405,22 @@
     },
     {
       "path": "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
-      "sha256": "31d23f33eb9c6a68f762723dce243449d9d082ab9ca5de8eeb50190c7821fb59",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "786f48f202b981936a0ad53ba6942345321f9947e56914272b9fba5d8dc5cc27",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: conditional Bell pair, flag/pure-marginal incompatibility and coherence witness, with new sharp approximate mismatch tradeoff and explicit pair-relation qualification.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_identity_pair_incidence_record_test.py"
+        ],
+        "reviewed_sha256": "786f48f202b981936a0ad53ba6942345321f9947e56914272b9fba5d8dc5cc27",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_identity_pair_incidence_record_test.py": "d530de516956d18a19c999dcd4a36a4c34c1de48bec99d218d5911c8336cf50d"
+        }
+      }
     },
     {
       "path": "ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md",
@@ -4431,10 +4455,44 @@
       }
     },
     {
+      "path": "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "sha256": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: finite-dimensional near-purity bound, original-echo square-root witness, sharp flag/coherence tradeoff, pair-relation limitation, and independent angular risk integrals.",
+        "evidence": [
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_identity_pair_incidence_record_test.py",
+          "verification/zero_joint_constitution_incidence_echo_test.py",
+          "verification/zero_intrinsic_angular_estimation_test.py"
+        ],
+        "reviewed_sha256": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+        "evidence_sha256": {
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_identity_pair_incidence_record_test.py": "d530de516956d18a19c999dcd4a36a4c34c1de48bec99d218d5911c8336cf50d",
+          "verification/zero_joint_constitution_incidence_echo_test.py": "13fbebf49af009a542e17b718bc6b0e58c6a2640c08e36ae0b3064e9fc635f9b",
+          "verification/zero_intrinsic_angular_estimation_test.py": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07"
+        }
+      }
+    },
+    {
       "path": "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md",
       "sha256": "8fa47834346a617c2b493bf1e2f55726622101d3aeb2478a76fe0d49c9abfdcf",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: finite effect refinements and pure-state all-effects type-marginal limitation; not a derivation of incidence ontology or a full proof of general probability reconstruction.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_incidence_refinement_born_test.py"
+        ],
+        "reviewed_sha256": "8fa47834346a617c2b493bf1e2f55726622101d3aeb2478a76fe0d49c9abfdcf",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_incidence_refinement_born_test.py": "baec7cf3604ff7a71a2b95fa6a7a69590c8c8b59932a682387a11948e82ba891"
+        }
+      }
     },
     {
       "path": "ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md",
@@ -4510,9 +4568,22 @@
     },
     {
       "path": "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-      "sha256": "cc6849f3ece3853783755bfb4621256cc39c2fba34b0596fdf25318aa61ad2c6",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "533a2199d10fdd80fa567956c386478ce31d2b9335d102882279262012873d9b",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: conditional old-carrier bands, exact magnitude means and mean-square risks, including the K-plus-R access refinement; angular access and phenomenal identification remain assumptions.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_intrinsic_angular_estimation_test.py"
+        ],
+        "reviewed_sha256": "533a2199d10fdd80fa567956c386478ce31d2b9335d102882279262012873d9b",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_intrinsic_angular_estimation_test.py": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07"
+        }
+      }
     },
     {
       "path": "ZERO_INVARIANT_SPHERE_STEERING_INSTRUMENT.md",
@@ -4528,9 +4599,22 @@
     },
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
-      "sha256": "bf00db5e94fdef6e5704723e49a8bf11afff1c61fc22a6b4c07d43dd88431ab4",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "sha256": "ad6a12518aaa8a8089da9f459711f2e1c2207cc9f84385e5866da688b0f63bd6",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: positive type blocks with exact pure physical marginal, same marginal/different incidence weights, actual echo sign controls, and new approximate-purity extension. Subjecthood and other claims remain open.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_joint_constitution_incidence_echo_test.py"
+        ],
+        "reviewed_sha256": "ad6a12518aaa8a8089da9f459711f2e1c2207cc9f84385e5866da688b0f63bd6",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_joint_constitution_incidence_echo_test.py": "13fbebf49af009a542e17b718bc6b0e58c6a2640c08e36ae0b3064e9fc635f9b"
+        }
+      }
     },
     {
       "path": "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
@@ -4894,8 +4978,21 @@
     {
       "path": "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md",
       "sha256": "115d3482af196e40fb53d9aea7056e539e41c4b77868af671e82ddcd8731af26",
-      "status": "not_rechecked_in_this_sweep",
-      "receipt": null
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: specified diagonal gauge versus counterpart and valid-sector relative-sign operator used on the actual source vector; broader gauge, subject and energy claims remain open.",
+        "evidence": [
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+          "verification/zero_incidence_purity_robustness_test.py",
+          "verification/zero_relative_gauge_invariant_report_test.py"
+        ],
+        "reviewed_sha256": "115d3482af196e40fb53d9aea7056e539e41c4b77868af671e82ddcd8731af26",
+        "evidence_sha256": {
+          "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+          "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+          "verification/zero_relative_gauge_invariant_report_test.py": "d4b0fea810bbbae0ee7ce290fd858b1e822410392f572b141c881e4be4051597"
+        }
+      }
     },
     {
       "path": "ZERO_RELATIVITY_CONSTITUTIVE_IDENTITY_AND_WHY_CHAIN.md",
@@ -11284,6 +11381,12 @@
     {
       "path": "verification/zero_incidence_locality_balance_rigor_test.py",
       "sha256": "fa47de16e9de0fe00b793a416d6ac6090daaff891768a8f29086526e5e2a8aff",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/zero_incidence_purity_robustness_test.py",
+      "sha256": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },

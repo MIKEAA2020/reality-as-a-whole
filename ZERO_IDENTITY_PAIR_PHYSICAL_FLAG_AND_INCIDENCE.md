@@ -1,5 +1,7 @@
 # Can an actual zero-balanced pair determine incidence weights?
 
+**Approximate flag continuation:** [the incidence/flag rigor review](ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md) derives a sharp trace-distance versus type–flag mismatch tradeoff for this Bell pair. Its saturating family relaxes the exact second pair relation; it does not establish flag-defined subjects or a physical collapse.
+
 ## Result
 
 **Continuation:** [Flag-record incidence and a reversible physical readout](ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md) proves the conditional uniqueness rule on compatible effects and tests actual echo-record access. [Tensor networks, sphere steering, and the echo](ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md) calculates the actual pair's conditional and unconditional entanglement and its connection to the reference qubit's projective sphere.

@@ -1,5 +1,7 @@
 # One history, two candidate incidences: constitution, measure and echo
 
+**Purity robustness:** [the incidence/flag rigor review](ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md) bounds type–physical-event correlation when the full physical marginal is only approximately pure, including an original-echo square-root witness and rare-event qualification. The incidence algebra and subject interpretation remain hypotheses.
+
 ## Direct outcome
 
 **Root-cause continuation:** [one joint incidence candidate](ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md) compares the distinct-type α family below with a single-occurrence, two-coordinate interface on the same coherent echo and constrained pair. The latter is a conditional alternative, not a proof that two genuinely different subjects cannot exist.

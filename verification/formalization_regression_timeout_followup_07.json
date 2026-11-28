@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; test execution is not a proof audit.",
+  "followups": [
+    {
+      "pattern": "zero_intrinsic_angular_estimation_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_intrinsic_angular_estimation_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_intrinsic_angular_estimation_test.py",
+          "sha256": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07",
+          "status": "passed",
+          "tests_run": 3,
+          "exit_code": 0,
+          "seconds": 12.841,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 3 tests in 12.487s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 3
+    },
+    {
+      "pattern": "zero_joint_quality_incidence_root_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_joint_quality_incidence_root_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_joint_quality_incidence_root_test.py",
+          "sha256": "7f9e1ba564b971cd7fe39f10befc1dc902fde1aec032396e650ac008fce37d42",
+          "status": "passed",
+          "tests_run": 9,
+          "exit_code": 0,
+          "seconds": 12.701,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 9 tests in 12.462s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 4
+    },
+    {
+      "pattern": "zero_joint_unity_bridge_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_joint_unity_bridge_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_joint_unity_bridge_test.py",
+          "sha256": "97f519d5400162933e86c898f47d9ef095555f0babade393d0f2ce681f010e97",
+          "status": "passed",
+          "tests_run": 6,
+          "exit_code": 0,
+          "seconds": 13.078,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 6 tests in 12.855s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 4
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 923,
-  "bytes": 12097021,
-  "line_count": 109216,
-  "document_count_with_risk_phrases": 875,
+  "document_count": 924,
+  "bytes": 12114177,
+  "line_count": 109404,
+  "document_count_with_risk_phrases": 876,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1876,9 +1876,9 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "dcd9b0c1bb7418e14033e070ec72cbbefdc083bbcf2c9ca9b5131d535811658c",
-      "bytes": 23595,
-      "lines": 79,
+      "sha256": "e216dfc335b0e0bdd69a83bbd5409f6427c2a22b62552c49797a442c90d6bf8c",
+      "bytes": 24334,
+      "lines": 83,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
         "Claude-time research: all-surviving-leads workboard",
@@ -1886,6 +1886,7 @@
         "1. Every target in the source's final A/G/P list",
         "2. Further distinct leads and direct user targets",
         "Cross-model continuation: constraint, clock and plenitude",
+        "Cross-model continuation: subject incidence and physical records",
         "3. Queue for not-yet-audited inputs",
         "4. Update rule and completion standard"
       ],
@@ -1922,6 +1923,7 @@
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md"
       ],
@@ -1937,7 +1939,8 @@
         66,
         71,
         75,
-        79
+        79,
+        83
       ]
     },
     {
@@ -5834,9 +5837,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "130db5ac5fdb051ae3c84229a301d82b18e891bffe40d9e53ca20b7215437e5f",
-      "bytes": 22722,
-      "lines": 91,
+      "sha256": "adbcac22e9cb55e8a3cb0daf13dbbd06cfe1d5d2b2e5cfc7dbae6fd3489eec91",
+      "bytes": 24061,
+      "lines": 95,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5876,6 +5879,8 @@
         "ZERO_CLOSED_PLASMA_TIME_SYMMETRIC_RESPONSE_REVIEW.md",
         "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+        "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
         "verification/formalization_regression_batch_02.json",
@@ -5891,6 +5896,7 @@
         "verification/formalization_regression_timeout_followup_04.json",
         "verification/formalization_regression_timeout_followup_05.json",
         "verification/formalization_regression_timeout_followup_06.json",
+        "verification/formalization_regression_timeout_followup_07.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5907,7 +5913,8 @@
         58,
         60,
         62,
-        64
+        64,
+        72
       ]
     },
     {
@@ -6350,9 +6357,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "4bc54a652a2aa73377fd399915a4ed4e35c92b96b62019a26cba2f69dd3b10f1",
-      "bytes": 248488,
-      "lines": 1879,
+      "sha256": "08b24646100bdd496f459a6c3384ee18b368d06f883d09980d35de7dd210b51c",
+      "bytes": 248806,
+      "lines": 1881,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -7052,6 +7059,7 @@
         "ZERO_FACTORWISE_CLOCK_MEMORY_PROBE.md",
         "ZERO_FINITE_RESERVOIR_RELATIONAL_CLOCK_ARROW.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
+        "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "ZERO_FOUR_CONNECTIONS_CONFINEMENT_COHERENCE_EXPERIENCE.md",
         "ZERO_FULL_INTELLIGIBILITY_COMMON_CONSTITUTION.md",
         "ZERO_FULL_QUANTUM_ECHO_TYPE_SYMMETRY.md",
@@ -8012,6 +8020,7 @@
         "verification/zero_factorized_clock_probe_test.py",
         "verification/zero_five_ray_record_current_unification_test.py",
         "verification/zero_flag_record_algebra_echo_test.py",
+        "verification/zero_foundation_cross_model_rigor_test.py",
         "verification/zero_full_echo_type_swap_test.py",
         "verification/zero_gauge_angular_pair.py",
         "verification/zero_gauge_angular_pair_test.py",
@@ -8237,19 +8246,19 @@
         644,
         647,
         648,
-        752,
-        756,
-        783,
-        788,
-        801,
-        804,
-        830,
-        882,
-        919,
-        928,
-        931,
-        934,
-        1008
+        753,
+        757,
+        784,
+        789,
+        802,
+        805,
+        831,
+        883,
+        920,
+        929,
+        932,
+        935,
+        1009
       ]
     },
     {
@@ -24598,9 +24607,9 @@
     },
     {
       "path": "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
-      "sha256": "31d23f33eb9c6a68f762723dce243449d9d082ab9ca5de8eeb50190c7821fb59",
-      "bytes": 15333,
-      "lines": 162,
+      "sha256": "786f48f202b981936a0ad53ba6942345321f9947e56914272b9fba5d8dc5cc27",
+      "bytes": 15680,
+      "lines": 164,
       "title": "Can an actual zero-balanced pair determine incidence weights?",
       "headings": [
         "Can an actual zero-balanced pair determine incidence weights?",
@@ -24613,6 +24622,7 @@
         "6. Is the equal flag a symmetry of the *whole* proposal?"
       ],
       "local_links": [
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "ZERO_TENSOR_NETWORK_SPHERE_STEERING_AND_ECHO.md",
         "verification/zero_identity_pair_incidence_record_test.py",
@@ -24621,16 +24631,17 @@
         "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md"
       ],
       "risk_phrase_lines": [
-        5,
+        3,
         7,
-        11,
-        37,
-        43,
-        58,
-        117,
-        121,
-        133,
-        150
+        9,
+        13,
+        39,
+        45,
+        60,
+        119,
+        123,
+        135,
+        152
       ]
     },
     {
@@ -24682,6 +24693,41 @@
         11,
         69,
         89
+      ]
+    },
+    {
+      "path": "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "sha256": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "bytes": 13655,
+      "lines": 172,
+      "title": "Incidence, purity and physical flags: quantitative robustness",
+      "headings": [
+        "Incidence, purity and physical flags: quantitative robustness",
+        "Result and scope",
+        "1. The pure-marginal theorem and a useful approximate version",
+        "2. Sharp square-root witness on the existing echo carrier",
+        "3. A sharp physical-flag/coherence tradeoff",
+        "4. Rechecking angular quality at different access levels",
+        "5. Relation to quality, gauge and the wider audit",
+        "Verification"
+      ],
+      "local_links": [
+        "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
+        "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md",
+        "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
+        "verification/zero_incidence_purity_robustness_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        7,
+        12,
+        37,
+        61,
+        92,
+        144,
+        146,
+        168,
+        172
       ]
     },
     {
@@ -25107,9 +25153,9 @@
     },
     {
       "path": "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
-      "sha256": "cc6849f3ece3853783755bfb4621256cc39c2fba34b0596fdf25318aa61ad2c6",
-      "bytes": 13449,
-      "lines": 114,
+      "sha256": "533a2199d10fdd80fa567956c386478ce31d2b9335d102882279262012873d9b",
+      "bytes": 13844,
+      "lines": 116,
       "title": "Intrinsic quality and the best accessible angular reconstruction",
       "headings": [
         "Intrinsic quality and the best accessible angular reconstruction",
@@ -25121,6 +25167,7 @@
         "5. Experiential and structural intelligibility remain connected"
       ],
       "local_links": [
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "sources/uploads/DeepSeek_Russellian-experience-intrinsic-matter_20261104-2323.txt",
         "sources/uploads/DeepSeek_Experience-and-non-optimal-world_20261106-2010.txt",
         "verification/zero_intrinsic_angular_estimation.py",
@@ -25130,18 +25177,18 @@
         "verification/zero_intrinsic_angular_estimation_test.py"
       ],
       "risk_phrase_lines": [
-        9,
-        13,
-        19,
+        11,
+        15,
         21,
-        49,
-        60,
-        69,
-        76,
+        23,
+        51,
+        62,
+        71,
         78,
-        93,
+        80,
         95,
-        107
+        97,
+        109
       ]
     },
     {
@@ -25216,9 +25263,9 @@
     },
     {
       "path": "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md",
-      "sha256": "bf00db5e94fdef6e5704723e49a8bf11afff1c61fc22a6b4c07d43dd88431ab4",
-      "bytes": 17670,
-      "lines": 167,
+      "sha256": "ad6a12518aaa8a8089da9f459711f2e1c2207cc9f84385e5866da688b0f63bd6",
+      "bytes": 18033,
+      "lines": 169,
       "title": "One history, two candidate incidences: constitution, measure and echo",
       "headings": [
         "One history, two candidate incidences: constitution, measure and echo",
@@ -25231,6 +25278,7 @@
         "6. Carry both candidates through the coherent echo"
       ],
       "local_links": [
+        "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "ZERO_JOINT_INCIDENCE_QUALITY_OPPOSITE_PAIR_ROOT.md",
         "ZERO_FLAG_RECORD_INCIDENCE_AND_PHYSICAL_READOUT.md",
         "verification/zero_joint_constitution_incidence_echo_test.py",
@@ -25240,11 +25288,11 @@
         "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md"
       ],
       "risk_phrase_lines": [
-        7,
-        16,
-        73,
-        85,
-        158
+        9,
+        18,
+        75,
+        87,
+        160
       ]
     },
     {

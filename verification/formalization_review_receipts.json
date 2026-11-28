@@ -524,5 +524,103 @@
       "verification/zero_poincare_energy_why_test.py": "3736aa178b9ee3dfd9bbd33b247c7af35e8736f0e4d200d86a7f4db8836a0eb9",
       "verification/zero_plenitude_necessity_test.py": "64897250f349861e099833ffae21574ec35a3f8e955298204c38d16b11ce3512"
     }
+  },
+  "ZERO_JOINT_CONSTITUTION_INCIDENCE_AND_ECHO.md": {
+    "reviewed_sha256": "ad6a12518aaa8a8089da9f459711f2e1c2207cc9f84385e5866da688b0f63bd6",
+    "scope": "Selected: positive type blocks with exact pure physical marginal, same marginal/different incidence weights, actual echo sign controls, and new approximate-purity extension. Subjecthood and other claims remain open.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_joint_constitution_incidence_echo_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_joint_constitution_incidence_echo_test.py": "13fbebf49af009a542e17b718bc6b0e58c6a2640c08e36ae0b3064e9fc635f9b"
+    }
+  },
+  "ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md": {
+    "reviewed_sha256": "786f48f202b981936a0ad53ba6942345321f9947e56914272b9fba5d8dc5cc27",
+    "scope": "Selected: conditional Bell pair, flag/pure-marginal incompatibility and coherence witness, with new sharp approximate mismatch tradeoff and explicit pair-relation qualification.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_identity_pair_incidence_record_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_identity_pair_incidence_record_test.py": "d530de516956d18a19c999dcd4a36a4c34c1de48bec99d218d5911c8336cf50d"
+    }
+  },
+  "ZERO_ECHO_INTRINSIC_QUALITY_AND_INCIDENCE.md": {
+    "reviewed_sha256": "12e61c5f5bebc2a373c11be66014aae83cfd9526177cd2d9d304a4aae012556d",
+    "scope": "Selected: ready-calibrated diagonal-rule uniqueness under composite echo neutrality and actual support; only conditional quality rules, not felt experience or an actual subject.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_echo_intrinsic_constitution_selection_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_echo_intrinsic_constitution_selection_test.py": "a66b55b9faa1189df5fa46898bbe0cf1ea516ac63c56f82882d6400e3b76259f"
+    }
+  },
+  "ZERO_RELATIVE_SIGN_GAUGE_COUNTERPART_CONSTRUCTION.md": {
+    "reviewed_sha256": "115d3482af196e40fb53d9aea7056e539e41c4b77868af671e82ddcd8731af26",
+    "scope": "Selected: specified diagonal gauge versus counterpart and valid-sector relative-sign operator used on the actual source vector; broader gauge, subject and energy claims remain open.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_relative_gauge_invariant_report_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_relative_gauge_invariant_report_test.py": "d4b0fea810bbbae0ee7ce290fd858b1e822410392f572b141c881e4be4051597"
+    }
+  },
+  "ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md": {
+    "reviewed_sha256": "8fa47834346a617c2b493bf1e2f55726622101d3aeb2478a76fe0d49c9abfdcf",
+    "scope": "Selected: finite effect refinements and pure-state all-effects type-marginal limitation; not a derivation of incidence ontology or a full proof of general probability reconstruction.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_incidence_refinement_born_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_incidence_refinement_born_test.py": "baec7cf3604ff7a71a2b95fa6a7a69590c8c8b59932a682387a11948e82ba891"
+    }
+  },
+  "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md": {
+    "reviewed_sha256": "533a2199d10fdd80fa567956c386478ce31d2b9335d102882279262012873d9b",
+    "scope": "Selected: conditional old-carrier bands, exact magnitude means and mean-square risks, including the K-plus-R access refinement; angular access and phenomenal identification remain assumptions.",
+    "evidence": [
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_intrinsic_angular_estimation_test.py"
+    ],
+    "evidence_sha256": {
+      "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_intrinsic_angular_estimation_test.py": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07"
+    }
+  },
+  "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md": {
+    "reviewed_sha256": "d07d79ad03acfb000f416ebbb04a5ded1c8e23866a4b86faed9093af5f593710",
+    "scope": "Selected: finite-dimensional near-purity bound, original-echo square-root witness, sharp flag/coherence tradeoff, pair-relation limitation, and independent angular risk integrals.",
+    "evidence": [
+      "verification/zero_incidence_purity_robustness_test.py",
+      "verification/zero_identity_pair_incidence_record_test.py",
+      "verification/zero_joint_constitution_incidence_echo_test.py",
+      "verification/zero_intrinsic_angular_estimation_test.py"
+    ],
+    "evidence_sha256": {
+      "verification/zero_incidence_purity_robustness_test.py": "b8f7c7179526ef053e02915d6599a210464a50d1f7db9f733c6c14d64a817be7",
+      "verification/zero_identity_pair_incidence_record_test.py": "d530de516956d18a19c999dcd4a36a4c34c1de48bec99d218d5911c8336cf50d",
+      "verification/zero_joint_constitution_incidence_echo_test.py": "13fbebf49af009a542e17b718bc6b0e58c6a2640c08e36ae0b3064e9fc635f9b",
+      "verification/zero_intrinsic_angular_estimation_test.py": "a780ee14f002fd91c6e71bcdb7157328062810800a2f4a5f4f2ce12e1f511e07"
+    }
   }
 }

@@ -4,8 +4,8 @@
 
 ## Scope
 
-- 880 root Markdown documents including this register; 43 research Markdown documents.
-- 68 original uploaded files, including provenance metadata; 857 verification Python scripts.
+- 881 root Markdown documents including this register; 43 research Markdown documents.
+- 68 original uploaded files, including provenance metadata; 858 verification Python scripts.
 - The [complete machine-readable file manifest](verification/framework_inventory_manifest.json) covers tracked and non-ignored untracked files at generation time, with hashes, except the manifest itself. Runtime environments, ignored caches and untracked temporary external material are outside its scope.
 - [Markdown inventory and broken literal links](verification/project_inventory.json) is a separate mechanical check. Neither inventory is a semantic proof audit.
 
@@ -717,6 +717,7 @@ Alphabetical order is not an endorsement or a precedence rule. Titles may themse
 - [ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md](ZERO_IDENTITY_PAIR_PHYSICAL_FLAG_AND_INCIDENCE.md) — Can an actual zero-balanced pair determine incidence weights?
 - [ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md](ZERO_INCIDENCE_LOCALITY_AND_BALANCE_RIGOR_REVIEW.md) — Recheck: normalized incidence, locality and zero balance
 - [ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md](ZERO_INCIDENCE_NORMALIZATION_LOCALITY_CORRECTION.md) — When normalized incidence is not a local experience
+- [ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md](ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md) — Incidence, purity and physical flags: quantitative robustness
 - [ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md](ZERO_INCIDENCE_REFINEMENT_AND_BORN_MEASURE.md) — Can subject counting determine the Born weights?
 - [ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md](ZERO_INTEGRATED_CONSTITUTION_EXPERIENCE_NECESSITY.md) — Does zero's constitution determine experience and incidence?
 - [ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md](ZERO_INTEGRATED_SPHERE_AUTONOMOUS_INCIDENCE.md) — A sphere, autonomous memories and competing experiential relations in one constraint
@@ -1694,6 +1695,7 @@ Passing a script checks its encoded model or assertions only; historical closure
 - [verification/zero_incidence_clock_probability.py](verification/zero_incidence_clock_probability.py)
 - [verification/zero_incidence_clock_probability_test.py](verification/zero_incidence_clock_probability_test.py)
 - [verification/zero_incidence_locality_balance_rigor_test.py](verification/zero_incidence_locality_balance_rigor_test.py)
+- [verification/zero_incidence_purity_robustness_test.py](verification/zero_incidence_purity_robustness_test.py)
 - [verification/zero_incidence_refinement_born_test.py](verification/zero_incidence_refinement_born_test.py)
 - [verification/zero_integrated_experience_necessity_test.py](verification/zero_integrated_experience_necessity_test.py)
 - [verification/zero_integrated_sphere_clock_experience_test.py](verification/zero_integrated_sphere_clock_experience_test.py)
