@@ -2,7 +2,7 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1943,
+    "not_rechecked_in_this_sweep": 1944,
     "selected_claims_reviewed": 48
   },
   "records": [
@@ -436,14 +436,14 @@
     },
     {
       "path": "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
-      "sha256": "bffc5952ab39958d2a8397a791fb9ad759f2b59c9d21728c2d419c8650730055",
+      "sha256": "8d5aa866d3da7bbbd9f90de5645e3a358722da49ed14d8cc4532be23a846b57e",
       "status": "selected_claims_reviewed",
       "receipt": {
         "scope": "Selected: one-loop phi4 shell coefficient, exact two-mode variance, encoding modular obstruction, finite canonical scalar test and exact spatial-trace boundary kernel. Not common four-momentum channel, continuum, clock or experience.",
         "evidence": [
           "verification/claude_time_phi4_modular_rg_review_test.py"
         ],
-        "reviewed_sha256": "bffc5952ab39958d2a8397a791fb9ad759f2b59c9d21728c2d419c8650730055",
+        "reviewed_sha256": "8d5aa866d3da7bbbd9f90de5645e3a358722da49ed14d8cc4532be23a846b57e",
         "evidence_sha256": {
           "verification/claude_time_phi4_modular_rg_review_test.py": "f28a8998c302819650569fca9cc7eba5e282ca8545cc3e427265af9faa79210d"
         }
@@ -464,6 +464,12 @@
     {
       "path": "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
       "sha256": "4ac75a428ed400bafe06a0b3b4fb2614eda77a9173317f004ef242ddbcfedd45",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "CLAUDE_TIME_TIMEOUT_AND_SOURCE_ACCESS_STATUS.md",
+      "sha256": "21a7dfbae74544893574b73362b102c8d88afbcf7a707d4063c7323eb7beed2b",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1123,7 +1129,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "1f72ff78e2127970b3c4b7fb1e959f48be8878077e8a1eec859af59276a79be3",
+      "sha256": "5172ce52253bf097979969e11b102ae18d4a9fab7205327b8b69b4c0646e5519",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
