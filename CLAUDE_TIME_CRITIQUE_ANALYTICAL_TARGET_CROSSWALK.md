@@ -92,7 +92,7 @@ A separate operational target is to construct normalized, constraint-compatible 
 
 ### M7 — Further source targets: spin-2, renormalization, spectral and experience bridges
 
-**Continuation:** [Ising decimation and modular review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) supplies an exact scale map and independent correlation/transfer-matrix check, two finite modular mismatches, and competing instruments with one nonselective RG channel. It partially realizes a common operational language; it is not the requested continuum-QFT, self-energy, or experiential bridge.
+**Continuation:** [Ising decimation and modular review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) supplies an exact scale map and independent correlation/transfer-matrix check, two finite modular mismatches, and competing instruments with one nonselective RG channel. It partially realizes a common operational language; it is not the requested continuum-QFT, self-energy, or experiential bridge. The later [φ⁴ review](CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md) adds a standard field-theoretic one-loop beta and a separate physical canonical scalar-mode calculation; the common channel/continuum comparison remains open.
 
 These are **separate research programmes**, not automatic consequences of M1–M6, and some go beyond solving the time problem narrowly:
 

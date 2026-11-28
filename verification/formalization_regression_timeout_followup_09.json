@@ -1,0 +1,77 @@
+{
+  "scope": "Three previously timed-out modules individually rerun at 45 seconds. Original and follow-up file SHA-256 hashes matched; execution is not proof audit. A repeated timeout is not a failed assertion.",
+  "followups": [
+    {
+      "pattern": "zero_quantum_angular_echo_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_quantum_angular_echo_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_quantum_angular_echo_test.py",
+          "sha256": "7aab2c648c4d33896f11b438d4696452a02b25ed87b456e3205923448d5b8c1e",
+          "status": "timeout",
+          "tests_run": null,
+          "exit_code": null,
+          "seconds": 45.05,
+          "output_tail": "\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 5
+    },
+    {
+      "pattern": "zero_relational_chirality_report_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_relational_chirality_report_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_relational_chirality_report_test.py",
+          "sha256": "1af0b3eaad3b7df3a2ad3b97ed9b21b8c713303b49b5f411ea4dffe95b7d5b3d",
+          "status": "passed",
+          "tests_run": 5,
+          "exit_code": 0,
+          "seconds": 23.637,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 5 tests in 23.452s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 5
+    },
+    {
+      "pattern": "zero_relational_clock_reusable_memory_test.py",
+      "start": 0,
+      "count_requested": 1,
+      "available_at_start": 1,
+      "available_files_at_start": [
+        "verification/zero_relational_clock_reusable_memory_test.py"
+      ],
+      "timeout_seconds_per_module": 45.0,
+      "python": "3.11.2 (main, Apr  8 2026, 01:58:00) [GCC 12.2.0]",
+      "results": [
+        {
+          "file": "verification/zero_relational_clock_reusable_memory_test.py",
+          "sha256": "fe558abf03b2fc66222254b9d94968f83d05dfff22651ddd8ab22bf06d162249",
+          "status": "passed",
+          "tests_run": 7,
+          "exit_code": 0,
+          "seconds": 21.245,
+          "output_tail": "\n----------------------------------------------------------------------\nRan 7 tests in 21.046s\n\nOK\n"
+        }
+      ],
+      "scope": "Unittest executions for selected files only; no semantic proof audit.",
+      "original_timeout_batch": 5
+    }
+  ]
+}

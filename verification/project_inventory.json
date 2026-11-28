@@ -1,10 +1,10 @@
 {
   "scope": "root and research Markdown; supplied transcripts and verification assets excluded",
   "note": "Risk phrases flag text for review, not falsity. Literal link scan does not validate anchors.",
-  "document_count": 925,
-  "bytes": 12128447,
-  "line_count": 109565,
-  "document_count_with_risk_phrases": 877,
+  "document_count": 926,
+  "bytes": 12145819,
+  "line_count": 109726,
+  "document_count_with_risk_phrases": 878,
   "broken_local_link_count": 0,
   "broken_local_links": [],
   "documents": [
@@ -1876,9 +1876,9 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "6853cdbe2bfa4756a5b4c4c1c0cdd7c00e5a75dd670308432fe6c4bae76405aa",
-      "bytes": 25239,
-      "lines": 87,
+      "sha256": "2054a75190b694a899d6828db2ea93bdc719b5ceebee5f5461883ad91296c5ee",
+      "bytes": 26273,
+      "lines": 91,
       "title": "Claude-time research: all-surviving-leads workboard",
       "headings": [
         "Claude-time research: all-surviving-leads workboard",
@@ -1887,8 +1887,8 @@
         "2. Further distinct leads and direct user targets",
         "Cross-model continuation: constraint, clock and plenitude",
         "Cross-model continuation: subject incidence and physical records",
-        "Cross-model continuation: modular flow, RG and instrument",
-        "3. Queue for not-yet-audited inputs"
+        "Field-theory continuation: regulated scalar φ⁴",
+        "Cross-model continuation: modular flow, RG and instrument"
       ],
       "local_links": [
         "ZERO_ENERGY_CONSTRAINT_REFERENCE_AND_PHYSICAL_RECOVERY.md",
@@ -1899,11 +1899,11 @@
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "PROBLEM_OF_TIME_RIGOROUS_FRONTIER_PROBLEMS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
-        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "ZERO_INTRINSIC_QUALITY_ANGULAR_RECONSTRUCTION.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
@@ -1925,6 +1925,7 @@
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "ZERO_FOUNDATION_ZERO_CLOCK_PLENITUDE_CROSS_MODEL_RIGOR_REVIEW.md",
         "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_CROSSFIELD_RESEARCH_AUDIT_AND_CONTROLS.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md"
@@ -1933,7 +1934,6 @@
         5,
         21,
         27,
-        29,
         48,
         52,
         55,
@@ -1945,7 +1945,8 @@
         75,
         79,
         83,
-        87
+        87,
+        91
       ]
     },
     {
@@ -1981,8 +1982,8 @@
     },
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "sha256": "199a983ce4ff114234f8ac18a8600ada4b8debb6eb39332ac0c8bbd6ee8e513a",
-      "bytes": 17766,
+      "sha256": "9182027961e7f152bed11fc4bb0115e834b3132f483b6016d4157007620ae22d",
+      "bytes": 17995,
       "lines": 125,
       "title": "Claude-time critique: analytical targets, coverage and repairs",
       "headings": [
@@ -2003,6 +2004,7 @@
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "verification/claude_time_analytical_target_crosswalk_test.py"
       ],
@@ -2156,9 +2158,51 @@
       ]
     },
     {
+      "path": "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
+      "sha256": "bffc5952ab39958d2a8397a791fb9ad759f2b59c9d21728c2d419c8650730055",
+      "bytes": 14517,
+      "lines": 151,
+      "title": "Regulated φ⁴ shell flow and modular comparison",
+      "headings": [
+        "Regulated φ⁴ shell flow and modular comparison",
+        "Claim and scope",
+        "1. A familiar field-theory beta function, obtained from a shell",
+        "2. Exact regulated shell analogue in the same interaction",
+        "3. Exact modular obstruction for a configuration encoding",
+        "4. A separate physical canonical scalar-algebra test",
+        "5. Exact common boundary channel at finite cutoff",
+        "6. Consequences and next discriminating step"
+      ],
+      "local_links": [
+        "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+        "verification/claude_time_phi4_modular_rg_review_test.py"
+      ],
+      "risk_phrase_lines": [
+        5,
+        17,
+        23,
+        31,
+        47,
+        49,
+        60,
+        66,
+        72,
+        80,
+        96,
+        103,
+        125,
+        127,
+        129,
+        131,
+        139,
+        147,
+        151
+      ]
+    },
+    {
       "path": "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
-      "sha256": "9e0e9a1cb67bd8db93db3de52d2ae72e3e78877cbdbdf73a0c52ea9b57a4e718",
-      "bytes": 12744,
+      "sha256": "ebf2c20cdc7c8ad2a8343d07f4edf29cf24cf2d1f65cc21ea0032c24a5d6e626",
+      "bytes": 13004,
       "lines": 58,
       "title": "QFT, circularity and experience: source audit and operational controls",
       "headings": [
@@ -2177,6 +2221,7 @@
         "sources/uploads/DeepSeek-Claude time reconciliation critique.txt",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "verification/claude_time_qft_experience_controls_test.py",
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md"
@@ -5882,9 +5927,9 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "c5792379d34dabbd05477bc9111c0420bb2bc8cb4a8d8980da68026f584d223d",
-      "bytes": 25263,
-      "lines": 99,
+      "sha256": "1f72ff78e2127970b3c4b7fb1e959f48be8878077e8a1eec859af59276a79be3",
+      "bytes": 26331,
+      "lines": 103,
       "title": "Formalization review: scope, receipts and remaining work",
       "headings": [
         "Formalization review: scope, receipts and remaining work",
@@ -5926,6 +5971,7 @@
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
         "ZERO_INCIDENCE_PURITY_AND_FLAG_ROBUSTNESS_RIGOR_REVIEW.md",
         "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "verification/run_formalization_regression_batch.py",
         "verification/formalization_regression_batch_01.json",
@@ -5944,6 +5990,7 @@
         "verification/formalization_regression_timeout_followup_06.json",
         "verification/formalization_regression_timeout_followup_07.json",
         "verification/formalization_regression_timeout_followup_08.json",
+        "verification/formalization_regression_timeout_followup_09.json",
         "verification/formalization_review_progress.json"
       ],
       "risk_phrase_lines": [
@@ -5962,7 +6009,8 @@
         62,
         64,
         72,
-        76
+        76,
+        80
       ]
     },
     {
@@ -6405,9 +6453,9 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fe3513bfc90fbe4c268562ab5334d281390c7b3dd2538b89f602e52011ffd5d9",
-      "bytes": 249397,
-      "lines": 1885,
+      "sha256": "1baf0c8ee5c815dc7e18c56127d0a317103faf7e984a458ac29b4f0f50d11cd9",
+      "bytes": 249661,
+      "lines": 1887,
       "title": "Framework source register and coverage",
       "headings": [
         "Framework source register and coverage",
@@ -6490,6 +6538,7 @@
         "CLAUDE_TIME_FORMALIZATION_RIGOR_RECHECK.md",
         "CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md",
         "CLAUDE_TIME_MODULAR_SELECTION_AUDIT.md",
+        "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
         "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
         "CLAUDE_TIME_RELATIONAL_AND_MODULAR_FOUNDATIONS_AUDIT.md",
         "CLAUDE_TIME_SUPERSEDED_PREMISE_RECHECK.md",
@@ -7472,6 +7521,7 @@
         "verification/claude_time_foundations_audit_test.py",
         "verification/claude_time_ising_modular_rg_review_test.py",
         "verification/claude_time_modular_selection_audit_test.py",
+        "verification/claude_time_phi4_modular_rg_review_test.py",
         "verification/claude_time_qft_experience_controls_test.py",
         "verification/clock_choice.py",
         "verification/clock_smearing_modular_comparison.py",
@@ -8282,35 +8332,35 @@
         44,
         68,
         81,
-        89,
-        99,
-        183,
-        246,
-        295,
-        329,
-        359,
-        407,
-        411,
-        442,
-        511,
-        612,
-        632,
-        645,
-        648,
+        90,
+        100,
+        184,
+        247,
+        296,
+        330,
+        360,
+        408,
+        412,
+        443,
+        512,
+        613,
+        633,
+        646,
         649,
-        755,
-        759,
-        786,
-        791,
-        804,
-        807,
-        833,
-        885,
-        922,
-        931,
-        934,
-        937,
-        1011
+        650,
+        756,
+        760,
+        787,
+        792,
+        805,
+        808,
+        834,
+        886,
+        923,
+        932,
+        935,
+        938,
+        1012
       ]
     },
     {

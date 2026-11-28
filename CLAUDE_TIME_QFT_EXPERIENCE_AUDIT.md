@@ -29,7 +29,7 @@ The marker's new outcome is uncorrelated with a later path Z measurement: it is 
 
 ## 2. A5/G5 and P3: one typed noncommutation control
 
-**Continuation:** the later [Ising modular/RG/instrument review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) upgrades this dephasing control to an actual exact interacting lattice decimation and compares its selective instruments in the same system. The regulated interacting continuum-QFT target and physical collapse unification remain open.
+**Continuation:** the later [Ising modular/RG/instrument review](CLAUDE_TIME_ISING_MODULAR_RG_INSTRUMENT_REVIEW.md) upgrades this dephasing control to an actual exact interacting lattice decimation and compares its selective instruments in the same system. The regulated interacting continuum-QFT target and physical collapse unification remain open. A further [φ⁴ continuation](CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md) derives a known one-loop field-theory beta and separately compares physical canonical scalar-mode modular flows, but does not yet match the two channels in one continuum construction.
 
 For a faithful qubit state `ρ=(I+rX)/2`, `0<r<1`, write `a=atanh(r)`. For any `A`, modular flow is `σ_s^ρ(A)=ρ^(is) A ρ^(−is)`. Its restriction to Z is
 

@@ -2,8 +2,8 @@
   "scope": "Tracked and non-ignored files with .md, .py, .m, .txt or .pdf suffixes; an overinclusive file-level queue, not an enumeration of distinct theorems. Other files, ignored caches and absent originals are not reviewed by this tracker.",
   "semantics": "not_rechecked_in_this_sweep does not erase prior audits. selected_claims_reviewed means only the listed scope, not a complete file audit. A reviewed-file or evidence hash change marks the receipt stale; tests are not independent proof.",
   "counts": {
-    "not_rechecked_in_this_sweep": 1942,
-    "selected_claims_reviewed": 47
+    "not_rechecked_in_this_sweep": 1943,
+    "selected_claims_reviewed": 48
   },
   "records": [
     {
@@ -374,7 +374,7 @@
     },
     {
       "path": "CLAUDE_TIME_ALL_SURVIVING_LEADS_WORKBOARD.md",
-      "sha256": "6853cdbe2bfa4756a5b4c4c1c0cdd7c00e5a75dd670308432fe6c4bae76405aa",
+      "sha256": "2054a75190b694a899d6828db2ea93bdc719b5ceebee5f5461883ad91296c5ee",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -386,7 +386,7 @@
     },
     {
       "path": "CLAUDE_TIME_CRITIQUE_ANALYTICAL_TARGET_CROSSWALK.md",
-      "sha256": "199a983ce4ff114234f8ac18a8600ada4b8debb6eb39332ac0c8bbd6ee8e513a",
+      "sha256": "9182027961e7f152bed11fc4bb0115e834b3132f483b6016d4157007620ae22d",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -435,8 +435,23 @@
       "receipt": null
     },
     {
+      "path": "CLAUDE_TIME_PHI4_SHELL_MODULAR_RG_REVIEW.md",
+      "sha256": "bffc5952ab39958d2a8397a791fb9ad759f2b59c9d21728c2d419c8650730055",
+      "status": "selected_claims_reviewed",
+      "receipt": {
+        "scope": "Selected: one-loop phi4 shell coefficient, exact two-mode variance, encoding modular obstruction, finite canonical scalar test and exact spatial-trace boundary kernel. Not common four-momentum channel, continuum, clock or experience.",
+        "evidence": [
+          "verification/claude_time_phi4_modular_rg_review_test.py"
+        ],
+        "reviewed_sha256": "bffc5952ab39958d2a8397a791fb9ad759f2b59c9d21728c2d419c8650730055",
+        "evidence_sha256": {
+          "verification/claude_time_phi4_modular_rg_review_test.py": "f28a8998c302819650569fca9cc7eba5e282ca8545cc3e427265af9faa79210d"
+        }
+      }
+    },
+    {
       "path": "CLAUDE_TIME_QFT_EXPERIENCE_AUDIT.md",
-      "sha256": "9e0e9a1cb67bd8db93db3de52d2ae72e3e78877cbdbdf73a0c52ea9b57a4e718",
+      "sha256": "ebf2c20cdc7c8ad2a8343d07f4edf29cf24cf2d1f65cc21ea0032c24a5d6e626",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1108,7 +1123,7 @@
     },
     {
       "path": "FORMALIZATION_RIGOR_REVIEW_WORKBOARD.md",
-      "sha256": "c5792379d34dabbd05477bc9111c0420bb2bc8cb4a8d8980da68026f584d223d",
+      "sha256": "1f72ff78e2127970b3c4b7fb1e959f48be8878077e8a1eec859af59276a79be3",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -1156,7 +1171,7 @@
     },
     {
       "path": "FRAMEWORK_SOURCE_REGISTER.md",
-      "sha256": "fe3513bfc90fbe4c268562ab5334d281390c7b3dd2538b89f602e52011ffd5d9",
+      "sha256": "1baf0c8ee5c815dc7e18c56127d0a317103faf7e984a458ac29b4f0f50d11cd9",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
@@ -7587,6 +7602,12 @@
     {
       "path": "verification/claude_time_modular_selection_audit_test.py",
       "sha256": "15cbe2b0fbe84103cacf59a8a706a1c918b60db7adda27b67557a46c8a9d1379",
+      "status": "not_rechecked_in_this_sweep",
+      "receipt": null
+    },
+    {
+      "path": "verification/claude_time_phi4_modular_rg_review_test.py",
+      "sha256": "f28a8998c302819650569fca9cc7eba5e282ca8545cc3e427265af9faa79210d",
       "status": "not_rechecked_in_this_sweep",
       "receipt": null
     },
